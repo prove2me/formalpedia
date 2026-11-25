@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Tonelli_enorm_sq
 -- name    : PositivityTheory.Rg.BcB.E2.P.Tonelli.enorm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:52:12.960613+00:00
 -- url     : https://prove2.me/theorems/7e077ec1-3f2e-4e2a-baf3-e4b3712d0c64

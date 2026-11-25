@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_n_unimodular_local
 -- name    : n_unimodular_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:39:01.806239+00:00
 -- url     : https://prove2.me/theorems/af075423-c734-4078-80af-058229de8876

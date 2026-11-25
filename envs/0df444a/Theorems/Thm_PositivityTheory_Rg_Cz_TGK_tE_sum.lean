@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TGK_tE_sum
 -- name    : PositivityTheory.Rg.Cz.TGK.tE_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:59:00.006286+00:00
 -- url     : https://prove2.me/theorems/6bfc0336-4f28-433f-b53e-a1d32e436fc5

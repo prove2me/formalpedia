@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_kAlt_eq_zero
 -- name    : PositivityTheory.Rg.Cz.kAlt_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:53:31.534355+00:00
 -- url     : https://prove2.me/theorems/4aa0ebb0-b9b9-5861-b981-c6b103f906a9

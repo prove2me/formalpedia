@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_differentiable_gammaFactor_inv
 -- name    : PI.ZW.differentiable_gammaFactor_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:46:35.212034+00:00
 -- url     : https://prove2.me/theorems/d5764d10-28c0-4bca-94e1-4d3bb2185911

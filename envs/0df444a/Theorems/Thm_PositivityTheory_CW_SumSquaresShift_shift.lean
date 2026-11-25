@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_SumSquaresShift_shift
 -- name    : PositivityTheory.CW.SumSquaresShift.shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:51:22.808963+00:00
 -- url     : https://prove2.me/theorems/ce3f3119-5e1c-419c-9b7d-296cb1011200

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_EigenvectorBasisSetup_casK_apply
 -- name    : PositivityTheory.CW.EigenvectorBasisSetup.casK_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:50:18.309685+00:00
 -- url     : https://prove2.me/theorems/aac30a3b-c1f9-4ea4-95d0-561aa6dfb615

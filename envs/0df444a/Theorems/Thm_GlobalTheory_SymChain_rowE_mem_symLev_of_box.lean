@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_rowE_mem_symLev_of_box
 -- name    : GlobalTheory.SymChain.rowE_mem_symLev_of_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:08:46.594056+00:00
 -- url     : https://prove2.me/theorems/8b5e3c8a-d61d-4f66-8235-0734b5e8e2f9

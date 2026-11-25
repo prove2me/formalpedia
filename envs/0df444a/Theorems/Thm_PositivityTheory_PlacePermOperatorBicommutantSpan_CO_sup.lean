@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PlacePermOperatorBicommutantSpan_CO_sup
 -- name    : PositivityTheory.PlacePermOperatorBicommutantSpan.CO.sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:51:26.747263+00:00
 -- url     : https://prove2.me/theorems/5e17677b-2cf8-5df6-82ff-63e90aedfb33

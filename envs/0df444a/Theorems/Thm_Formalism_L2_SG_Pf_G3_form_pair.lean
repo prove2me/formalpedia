@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G3_form_pair
 -- name    : Formalism.L2.SG.Pf.G3.form_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:22:55.271804+00:00
 -- url     : https://prove2.me/theorems/5a869b2c-3845-4179-af73-23b5f594a81d

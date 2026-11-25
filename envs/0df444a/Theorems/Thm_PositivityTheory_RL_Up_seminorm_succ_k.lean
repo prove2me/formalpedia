@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Up_seminorm_succ_k
 -- name    : PositivityTheory.RL.Up.seminorm_succ_k
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:52:52.129464+00:00
 -- url     : https://prove2.me/theorems/4c36ed78-7583-4ae2-a07b-78aa0bc7c890

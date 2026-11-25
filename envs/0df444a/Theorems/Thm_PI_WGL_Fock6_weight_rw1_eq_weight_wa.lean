@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Fock6_weight_rw1_eq_weight_wa
 -- name    : PI.WGL.Fock6.weight_rw1_eq_weight_wa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:12.489948+00:00
 -- url     : https://prove2.me/theorems/134c88e3-19fd-479d-803f-23550d25ffe8

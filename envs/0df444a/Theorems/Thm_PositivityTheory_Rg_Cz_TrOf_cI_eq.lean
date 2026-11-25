@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TrOf_cI_eq
 -- name    : PositivityTheory.Rg.Cz.TrOf.cI_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:58:26.436048+00:00
 -- url     : https://prove2.me/theorems/a8957f82-7475-4e53-be5c-a2cb7acf56e8

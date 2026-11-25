@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoodViews_mutualInfo_chain_rule
 -- name    : GoodViews.mutualInfo_chain_rule
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T05:39:25.519493+00:00
 -- url     : https://prove2.me/theorems/9bc56c00-4eff-4c19-9012-b41ddd825c4d

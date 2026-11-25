@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_kg_one_eq
 -- name    : PI.WAU.kg_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:52:23.209017+00:00
 -- url     : https://prove2.me/theorems/39340c66-6e51-5882-833e-61ba3f34ffd4

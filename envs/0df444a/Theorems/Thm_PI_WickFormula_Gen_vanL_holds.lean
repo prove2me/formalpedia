@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Gen_vanL_holds
 -- name    : PI.WickFormula.Gen.vanL_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:41.994009+00:00
 -- url     : https://prove2.me/theorems/0fb6619e-2f20-4513-83b4-24427550302a

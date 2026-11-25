@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LErr_error_bound
+-- name    : Formalism.LFunctionChainParameters.LErr.error_bound
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-25T11:49:39.238878+00:00
+-- url     : https://prove2.me/theorems/4f39c820-d19d-427d-be57-dd2151f2c400
+-- title:
+--   LErr: error bound
+-- statement:
+--   The LErr construction uses the error bound property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SizeWindowBrackets/ChainSlopeWindows/SubThreeMulLogTwoLe.lean#L551-L578
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SizeWindowBrackets/ChainSlopeWindows/SubThreeMulLogTwoLe.lean#L551-L578
+
+import Definitions.Def_Formalism_SizeWindowBrackets_ErrorFormsWeakWindowsFalse
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_SubThreeMulLogTwoLe
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Real
+open Formalism Formalism.LFunctionChainParameters Formalism.LFunctionChainParameters.LErr
+open Formalism.RankGapBounds.WeightedMeanData Formalism.LFunctionChainParameters.WeightedSlopeBounds
+set_option linter.unusedVariables false
+
+theorem Formalism.LFunctionChainParameters.LErr.error_bound : ErrorFormsEventualUnderSizeParameters := by sorry

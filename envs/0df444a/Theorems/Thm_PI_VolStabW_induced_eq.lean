@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_induced_eq
 -- name    : PI.VolStabW.induced_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:44:50.223124+00:00
 -- url     : https://prove2.me/theorems/03c4f6d6-bbd1-44f8-b3bd-9f786c616e63

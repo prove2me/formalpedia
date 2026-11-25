@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_herm_liftVec
 -- name    : PIQnLT.herm_liftVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:53:36.347716+00:00
 -- url     : https://prove2.me/theorems/e323a4be-ac37-4a9f-8457-48ae77d4ecfd

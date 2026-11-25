@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lit1_PTN_shaHalf_of_perfectPair
 -- name    : PositivityTheory.Lit1.PTN.shaHalf_of_perfectPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:51:37.444495+00:00
 -- url     : https://prove2.me/theorems/d6c0449b-98ec-54b0-9fd4-8a5d8f538747

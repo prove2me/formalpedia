@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Locint_enorm_le_one_add_sq
 -- name    : PositivityTheory.Rg.BcB.E2.P.Locint.enorm_le_one_add_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:16.110779+00:00
 -- url     : https://prove2.me/theorems/d59ca835-a45d-43c2-bdf6-1804bb21357c

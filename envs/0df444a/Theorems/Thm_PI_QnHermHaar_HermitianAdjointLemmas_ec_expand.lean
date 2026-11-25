@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_HermitianAdjointLemmas_ec_expand
 -- name    : PI.QnHermHaar.HermitianAdjointLemmas.ec_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:57.406399+00:00
 -- url     : https://prove2.me/theorems/f22cac77-1d05-5dba-996b-f9674492e2c3

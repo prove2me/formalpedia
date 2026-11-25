@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_determinant_index_formula
 -- name    : PI.UnitaryGroupMassFormula.LCG.determinant_index_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:40:44.778204+00:00
 -- url     : https://prove2.me/theorems/dde8bdf8-744d-4885-87f5-71b1e54986bf

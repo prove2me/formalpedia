@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1408_1879_two_way_reduces_to_one_way
 -- name    : Arxiv1408_1879.two_way_reduces_to_one_way
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:36:15.597656+00:00
 -- url     : https://prove2.me/theorems/36c8fb7b-e8ca-4af7-960a-d67d65e4b1cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCompose_mem_steps
 -- name    : PI.UnitaryGroupMassFormula.UsCompose.mem_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:03:46.451892+00:00
 -- url     : https://prove2.me/theorems/ab128def-8e90-4b2c-8133-fb5cc55561d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_disjoint_cellUnion
 -- name    : GroundTheory.Automorphic.Parabolic.disjoint_cellUnion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:23:23.799427+00:00
 -- url     : https://prove2.me/theorems/f9ba91f9-6d22-4452-a574-2a6b3d2c5773

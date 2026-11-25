@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_schurOp
 -- name    : PositivityTheory.Rg.BcB.E1.schurOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:35.192983+00:00
 -- url     : https://prove2.me/theorems/34f64777-baee-578c-9055-a644b7e1d4ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Core_box_finiteDimensional
 -- name    : PositivityTheory.Rg.Sw.LC.Core.box_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:56:17.783381+00:00
 -- url     : https://prove2.me/theorems/d4a6fac8-472c-5ce5-9985-60025fdb7b1f

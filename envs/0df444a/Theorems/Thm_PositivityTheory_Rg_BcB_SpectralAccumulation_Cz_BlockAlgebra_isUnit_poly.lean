@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_BlockAlgebra_isUnit_poly
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.BlockAlgebra.isUnit_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:52:53.550289+00:00
 -- url     : https://prove2.me/theorems/8392611e-e809-491b-a415-ad1e728f414f

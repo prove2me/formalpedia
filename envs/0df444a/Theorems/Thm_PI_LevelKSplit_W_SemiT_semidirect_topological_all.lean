@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiT_semidirect_topological_all
 -- name    : PI.LevelKSplit.W.SemiT.semidirect_topological_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:09:58.688538+00:00
 -- url     : https://prove2.me/theorems/c5877e80-e195-4533-910e-cb724b7bdf78

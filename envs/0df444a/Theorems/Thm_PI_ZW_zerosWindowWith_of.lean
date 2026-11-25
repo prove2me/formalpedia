@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_zerosWindowWith_of
 -- name    : PI.ZW.zerosWindowWith_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:46:33.050885+00:00
 -- url     : https://prove2.me/theorems/fda2a67a-1e05-48c9-8694-2eb2b805d772

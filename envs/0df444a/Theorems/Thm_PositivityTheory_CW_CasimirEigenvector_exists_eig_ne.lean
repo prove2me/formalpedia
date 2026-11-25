@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_CasimirEigenvector_exists_eig_ne
 -- name    : PositivityTheory.CW.CasimirEigenvector.exists_eig_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:47:55.179348+00:00
 -- url     : https://prove2.me/theorems/03954b53-29d9-41de-9886-61cfb70adcb5

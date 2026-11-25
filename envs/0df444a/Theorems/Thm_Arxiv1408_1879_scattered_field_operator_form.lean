@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1408_1879_scattered_field_operator_form
 -- name    : Arxiv1408_1879.scattered_field_operator_form
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:29:43.92072+00:00
 -- url     : https://prove2.me/theorems/eaae8411-bb05-46fe-88c0-2c54f338b661

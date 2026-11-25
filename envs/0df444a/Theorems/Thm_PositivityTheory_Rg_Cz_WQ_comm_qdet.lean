@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_WQ_comm_qdet
 -- name    : PositivityTheory.Rg.Cz.WQ.comm_qdet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:49:03.689851+00:00
 -- url     : https://prove2.me/theorems/18fe7480-d2e4-4f94-a430-b1569844aacc

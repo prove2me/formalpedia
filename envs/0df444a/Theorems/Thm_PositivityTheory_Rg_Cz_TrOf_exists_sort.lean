@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TrOf_exists_sort
 -- name    : PositivityTheory.Rg.Cz.TrOf.exists_sort
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:49:22.545637+00:00
 -- url     : https://prove2.me/theorems/0c88d731-bf7d-40d9-b36b-fb32fb7e8438

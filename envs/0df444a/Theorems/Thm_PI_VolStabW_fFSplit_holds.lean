@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_fFSplit_holds
 -- name    : PI.VolStabW.fFSplit_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:39:21.351832+00:00
 -- url     : https://prove2.me/theorems/f0681bc6-5307-5ba3-9dfa-dbe09387a612

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_fourierJacobi_bounded
 -- name    : PIW.FdPA.fourierJacobi_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:33.806326+00:00
 -- url     : https://prove2.me/theorems/23982728-d3a9-5fd1-8959-ee97c607c2bc

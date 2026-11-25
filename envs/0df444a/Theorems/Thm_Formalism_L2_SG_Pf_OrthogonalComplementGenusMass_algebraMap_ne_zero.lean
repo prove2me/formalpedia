@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_OrthogonalComplementGenusMass_algebraMap_ne_zero
 -- name    : Formalism.L2.SG.Pf.OrthogonalComplementGenusMass.algebraMap_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:24:58.756805+00:00
 -- url     : https://prove2.me/theorems/fd8519ee-2822-4567-a519-893b60054bd5

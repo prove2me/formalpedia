@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_WallAlgP_sgn_sq
 -- name    : PositivityTheory.Rg.Cz.WallAlgP.sgn_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:50:05.925516+00:00
 -- url     : https://prove2.me/theorems/47cdc2a6-c59d-4fcc-80f1-99238168763c

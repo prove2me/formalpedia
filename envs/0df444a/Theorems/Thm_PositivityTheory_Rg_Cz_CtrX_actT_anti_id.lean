@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CtrX_actT_anti_id
 -- name    : PositivityTheory.Rg.Cz.CtrX.actT_anti_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:57:29.942898+00:00
 -- url     : https://prove2.me/theorems/5c4d7ef2-ee6d-4afa-abd7-5d0a7d22bc14

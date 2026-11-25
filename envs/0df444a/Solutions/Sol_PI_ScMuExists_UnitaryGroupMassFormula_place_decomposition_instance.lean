@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for PI.ScMuExists.UnitaryGroupMassFormula.place_decomposition_instance
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-25T11:39:15.239951+00:00
+-- url     : https://prove2.me/submissions/f8a3c2e5-2453-42d7-8311-b1b55288bb85
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_InstTop
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_InstPlace
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_InstExp
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_AdaptedBasisInstance
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_FrameGramInstance
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_InstAll
+import Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_adapted_basis_instance
+import Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_exponent_fixed_instance
+import Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_frame_gram_instance
+import Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_instDecomp_of
+import Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_placeDecomp_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open PI PI.ScMuExists PI.ScMuExists.UnitaryGroupMassFormula
+namespace PI.ScMuExists.UnitaryGroupMassFormula
+theorem _root_.solution : InstDecomp :=
+  instDecomp_of (placeDecomp_of exponent_fixed_instance adapted_basis_instance) frame_gram_instance
+end PI.ScMuExists.UnitaryGroupMassFormula

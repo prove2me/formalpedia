@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_strip_conn
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.strip_conn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:51.188083+00:00
 -- url     : https://prove2.me/theorems/797a6941-989d-4550-9ee9-2ed7b56d6d57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreBb_op_mul_rename_inl
 -- name    : PositivityTheory.Rg.Sw.LC.CoreBb.op_mul_rename_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:59:53.946373+00:00
 -- url     : https://prove2.me/theorems/d4326545-7ca3-4e53-be90-be822d63441b

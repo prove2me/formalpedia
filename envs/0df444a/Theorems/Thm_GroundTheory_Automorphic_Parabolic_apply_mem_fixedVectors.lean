@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_apply_mem_fixedVectors
 -- name    : GroundTheory.Automorphic.Parabolic.apply_mem_fixedVectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:20:34.856346+00:00
 -- url     : https://prove2.me/theorems/b6c502ae-9731-5439-91aa-54212619c162

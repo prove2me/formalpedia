@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_CMDiscSq_finrank_two_of
 -- name    : PIW.CMDiscSq.finrank_two_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:05.064061+00:00
 -- url     : https://prove2.me/theorems/ecc7e5e2-3a58-4d14-87dd-2c359e3ccda0

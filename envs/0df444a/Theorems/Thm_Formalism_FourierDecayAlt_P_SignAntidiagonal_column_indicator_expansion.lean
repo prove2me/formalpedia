@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_column_indicator_expansion
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.column_indicator_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:43:50.506307+00:00
 -- url     : https://prove2.me/theorems/b8e8a98f-6ebb-4ddc-9d9f-7e14f9d37b9d

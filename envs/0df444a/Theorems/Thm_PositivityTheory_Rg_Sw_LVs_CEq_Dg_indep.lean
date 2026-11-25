@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CEq_Dg_indep
 -- name    : PositivityTheory.Rg.Sw.LVs.CEq.Dg_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:09.583191+00:00
 -- url     : https://prove2.me/theorems/6a997694-5371-4947-bc2b-6b9e1697031b

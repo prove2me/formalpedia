@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_GK_exists_comb_of_sep
 -- name    : PositivityTheory.Rg.Cz.GK.exists_comb_of_sep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:47:57.09158+00:00
 -- url     : https://prove2.me/theorems/31f40cc4-d2ad-5333-b87b-239eaeabbdec

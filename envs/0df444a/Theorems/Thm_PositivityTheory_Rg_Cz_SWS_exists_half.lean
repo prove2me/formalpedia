@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SWS_exists_half
 -- name    : PositivityTheory.Rg.Cz.SWS.exists_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:52.611117+00:00
 -- url     : https://prove2.me/theorems/9963c2e2-aaf4-4a54-a529-962770851c74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_mem_wtSub1
 -- name    : PI.WFJM.mem_wtSub1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:43:57.609797+00:00
 -- url     : https://prove2.me/theorems/2d917ad5-37b9-4fc2-b757-1405d03f6f9e

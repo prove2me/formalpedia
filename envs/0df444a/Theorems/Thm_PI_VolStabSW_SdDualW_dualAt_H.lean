@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_SdDualW_dualAt_H
 -- name    : PI.VolStabSW.SdDualW.dualAt_H
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:40:16.169815+00:00
 -- url     : https://prove2.me/theorems/64541f35-ee8f-4ef9-8528-912e8146b596

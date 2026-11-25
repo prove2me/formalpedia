@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictInter_tau_mul_right
 -- name    : PIW.AdelClassFin.DictInter.tau_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:48:56.880215+00:00
 -- url     : https://prove2.me/theorems/0be30797-3ab1-4c23-9459-dc3b3c0dbc2c

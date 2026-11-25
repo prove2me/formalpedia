@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Basic_DegLT_sum
 -- name    : PositivityTheory.Rg.Sw.LC.Basic.DegLT.sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:56:57.804934+00:00
 -- url     : https://prove2.me/theorems/2dde3fe2-b742-5b48-9b09-e69824f6655f

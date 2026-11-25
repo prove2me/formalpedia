@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_MI_contDiff_adjugate
 -- name    : PositivityTheory.Rg.Sw.HSt.MI.contDiff_adjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:55:20.057273+00:00
 -- url     : https://prove2.me/theorems/71cefd85-3d48-4124-b63b-7af64423c151

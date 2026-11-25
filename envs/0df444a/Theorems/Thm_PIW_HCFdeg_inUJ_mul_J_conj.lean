@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_inUJ_mul_J_conj
 -- name    : PIW.HCFdeg.inUJ_mul_J_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:50:16.669453+00:00
 -- url     : https://prove2.me/theorems/f6cc2aa2-2204-45e8-b801-d998c32b46d0

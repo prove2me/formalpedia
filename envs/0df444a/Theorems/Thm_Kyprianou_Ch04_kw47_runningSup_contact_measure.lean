@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_runningSup_contact_measure
 -- name    : Kyprianou.Ch04.kw47_runningSup_contact_measure
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T08:41:18.695428+00:00
 -- url     : https://prove2.me/theorems/fd4e7cdc-13ed-4a9c-a364-90f4492370fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_elimCol_mul_apply
 -- name    : GroundTheory.Automorphic.Parabolic.elimCol_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:20:40.965745+00:00
 -- url     : https://prove2.me/theorems/fa53f714-48a2-4e76-ac67-9e4332ba7b04

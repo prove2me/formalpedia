@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SWS_int_exists
 -- name    : PositivityTheory.Rg.Cz.SWS.int_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:55.67893+00:00
 -- url     : https://prove2.me/theorems/f6ce3e0b-421f-491e-b721-367b77f85fb1

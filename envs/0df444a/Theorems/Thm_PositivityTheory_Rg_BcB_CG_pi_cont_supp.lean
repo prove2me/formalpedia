@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_CG_pi_cont_supp
 -- name    : PositivityTheory.Rg.BcB.CG.pi_cont_supp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:01.158909+00:00
 -- url     : https://prove2.me/theorems/c6b20a59-b8b3-4a0b-9643-cb973520afa7

@@ -3533,9 +3533,9 @@
 {"parent": "Development_AutomorphicArithmetic_DedekindLFunctions_LandauTheorems_GchiGrowth", "child": "Development_AutomorphicArithmetic_DedekindLFunctions_LandauZeroFreeCriterion", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3x8.block23_map", "child": "Formalism_HermitianCurvature_MemParahoricTimesPrincipalCongruenceIff", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3x8.block23_map", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CentreBlockStructure", "via": ["solution", "statement"]}
-{"parent": "split_integral_local", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SplitPrimeIntegers_ExistsUnitDiff", "via": ["statement"]}
-{"parent": "split_integral_local", "child": "Formalism_PeriodIntegrals_SplitIntLoc", "via": ["statement"]}
-{"parent": "split_integral_local", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_SplitIntLoc", "via": ["statement"]}
+{"parent": "split_integral_local", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SplitPrimeIntegers_ExistsUnitDiff", "via": ["solution", "statement"]}
+{"parent": "split_integral_local", "child": "Formalism_PeriodIntegrals_SplitIntLoc", "via": ["solution", "statement"]}
+{"parent": "split_integral_local", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_SplitIntLoc", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3x7.inverse_corner", "child": "Formalism_HermitianCurvature_MemParahoricTimesPrincipalCongruenceIff", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3x7.inverse_corner", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LduDecompositionExists", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_EvenPowerSeries_WqEven", "child": "Formalism_PeriodIntegrals_PhEven", "via": ["statement"]}
@@ -8453,13 +8453,13 @@
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ThetaSeriesUniqueness_SigmaStarUniqOf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ThetaSeriesUniqueness_SiegelSetShiftInvariance", "via": ["statement"]}
 {"parent": "PI.OkpW.natCard_quot", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_InertPrimeTeichmuller_NormLeOneOfIntegralInt", "via": ["solution", "statement"]}
 {"parent": "PI.OkpW.natCard_quot", "child": "Formalism_PeriodIntegrals_OkpInert", "via": ["solution", "statement"]}
-{"parent": "PI.WfEndProof.wfEnd_of", "child": "Formalism_PeriodIntegrals_WfSubst", "via": ["statement"]}
-{"parent": "PI.WfEndProof.wfEnd_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExponentialIntegrality_RootsOfUnityRingLeWittIntegers", "via": ["statement"]}
-{"parent": "PI.WfEndProof.wfEnd_of", "child": "Formalism_PeriodIntegrals_WfRing", "via": ["statement"]}
-{"parent": "PI.WfEndProof.wfEnd_of", "child": "Formalism_PeriodIntegrals_W2pair", "via": ["statement"]}
-{"parent": "PI.WfEndProof.wfEnd_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExponentialIntegrality_StepIII", "via": ["statement"]}
-{"parent": "PI.WfEndProof.wfEnd_of", "child": "Formalism_PeriodIntegrals_InvSerSub", "via": ["statement"]}
-{"parent": "PI.WfEndProof.wfEnd_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WittEndomorphism_FlogConstantCoeff", "via": ["statement"]}
+{"parent": "PI.WfEndProof.wfEnd_of", "child": "Formalism_PeriodIntegrals_WfSubst", "via": ["solution", "statement"]}
+{"parent": "PI.WfEndProof.wfEnd_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExponentialIntegrality_RootsOfUnityRingLeWittIntegers", "via": ["solution", "statement"]}
+{"parent": "PI.WfEndProof.wfEnd_of", "child": "Formalism_PeriodIntegrals_WfRing", "via": ["solution", "statement"]}
+{"parent": "PI.WfEndProof.wfEnd_of", "child": "Formalism_PeriodIntegrals_W2pair", "via": ["solution", "statement"]}
+{"parent": "PI.WfEndProof.wfEnd_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExponentialIntegrality_StepIII", "via": ["solution", "statement"]}
+{"parent": "PI.WfEndProof.wfEnd_of", "child": "Formalism_PeriodIntegrals_InvSerSub", "via": ["solution", "statement"]}
+{"parent": "PI.WfEndProof.wfEnd_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WittEndomorphism_FlogConstantCoeff", "via": ["solution", "statement"]}
 {"parent": "PI.AddIntG.Wk.mvsubst_mem_SerS", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdditiveIntegralGroups_SubstMem", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IsometryDerivative_ApplyAt0EqSum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IsometryDerivative_ExistsOePerm", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IsometryDerivative_ApplyAt0EqSum", "child": "Formalism_PeriodIntegrals_IsoDerivB", "via": ["statement"]}
@@ -10563,9 +10563,9 @@
 {"parent": "Formalism.HF.P.not_isSquare_prod", "child": "Formalism_DirichletDensity_Statement", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.minBoundSecondZero", "child": "Formalism_FlagUnipotentLattices_CardSubmodulesAndLinearEquivBounds", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.minBoundSecondZero", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_LatticeSumBounds", "via": ["solution", "statement"]}
-{"parent": "PI.WHw.bC_fd", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightIrreducible_ConstructionB", "via": ["statement"]}
-{"parent": "PI.WHw.bC_fd", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightIrreducible_BCRowGenMonomial", "via": ["statement"]}
-{"parent": "PI.WHw.bC_fd", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightIrreducible_ClosedEqNablaC", "via": ["statement"]}
+{"parent": "PI.WHw.bC_fd", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightIrreducible_ConstructionB", "via": ["solution", "statement"]}
+{"parent": "PI.WHw.bC_fd", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightIrreducible_BCRowGenMonomial", "via": ["solution", "statement"]}
+{"parent": "PI.WHw.bC_fd", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightIrreducible_ClosedEqNablaC", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.duality_ne_bot", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_Duality", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.duality_ne_bot", "child": "Formalism_HarderNarasimhan_DegSupermodZ", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.duality_ne_bot", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["solution", "statement"]}
@@ -10832,10 +10832,10 @@
 {"parent": "PI.FglTriFactor.Wk.subst_lg", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FormalGroupTriangles_PairSubstXZero", "via": ["solution", "statement"]}
 {"parent": "PI.FglTriFactor.Wk.subst_lg", "child": "PI.AddIntG.Wk.mvsubst_mem_SerS", "via": ["solution", "statement"]}
 {"parent": "PI.FglTriFactor.Wk.subst_lg", "child": "Formalism_PeriodIntegrals_FglTriFactor", "via": ["solution", "statement"]}
-{"parent": "PI.WwInjectiveWork.wwInjective_of", "child": "Formalism_PeriodIntegrals_WwCauchyBinet", "via": ["statement"]}
-{"parent": "PI.WwInjectiveWork.wwInjective_of", "child": "Formalism_PeriodIntegrals_WwInjective", "via": ["statement"]}
-{"parent": "PI.WwInjectiveWork.wwInjective_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GramInjectivity_GramVanish", "via": ["statement"]}
-{"parent": "PI.WwInjectiveWork.wwInjective_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GramInjectivity_InstFintypeColChoice", "via": ["statement"]}
+{"parent": "PI.WwInjectiveWork.wwInjective_of", "child": "Formalism_PeriodIntegrals_WwCauchyBinet", "via": ["solution", "statement"]}
+{"parent": "PI.WwInjectiveWork.wwInjective_of", "child": "Formalism_PeriodIntegrals_WwInjective", "via": ["solution", "statement"]}
+{"parent": "PI.WwInjectiveWork.wwInjective_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GramInjectivity_GramVanish", "via": ["solution", "statement"]}
+{"parent": "PI.WwInjectiveWork.wwInjective_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GramInjectivity_InstFintypeColChoice", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.eich_good", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_ExistsHasLeadingCoeffOfMemSpanBelow", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.eich_good", "child": "Formalism_FlagUnipotentLattices_MemOfOrthogonalAnisotropic", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.totient_bound_alt", "child": "Lemmata_GeneralBFactSecondMore_Imports", "via": ["solution", "statement"]}
@@ -11430,9 +11430,9 @@
 {"parent": "PI.WGL.BrInt.brFockF_map", "child": "Formalism_GradedWeylDivisibility_FinalD", "via": ["solution", "statement"]}
 {"parent": "PI.WGL.BrInt.brFockF_map", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_ConstructionBrInt", "via": ["solution", "statement"]}
 {"parent": "PI.WGL.BrInt.brFockF_map", "child": "Formalism.GradedWeylDivisibility.CoeffHom.algebraMap", "via": ["solution", "statement"]}
-{"parent": "PI.WGL.LTA.rowGen_gmin", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_LiftTupleA", "via": ["statement"]}
-{"parent": "PI.WGL.LTA.rowGen_gmin", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LRowdivLemmas", "via": ["statement"]}
-{"parent": "PI.WGL.LTA.rowGen_gmin", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_LiftDefs", "via": ["statement"]}
+{"parent": "PI.WGL.LTA.rowGen_gmin", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_LiftTupleA", "via": ["solution", "statement"]}
+{"parent": "PI.WGL.LTA.rowGen_gmin", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LRowdivLemmas", "via": ["solution", "statement"]}
+{"parent": "PI.WGL.LTA.rowGen_gmin", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_LiftDefs", "via": ["solution", "statement"]}
 {"parent": "Formalism.GM.leadingTermLemmas.decomp", "child": "Formalism_MahlerMeasure_HasOrder", "via": ["solution", "statement"]}
 {"parent": "Formalism.GM.leadingTermLemmas.decomp", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_GamLead", "via": ["solution", "statement"]}
 {"parent": "Formalism.GM.leadingTermLemmas.decomp", "child": "Formalism_MahlerMeasure_FinalM", "via": ["solution", "statement"]}
@@ -65208,8 +65208,8 @@
 {"parent": "PI.QuotMeasUniqW.measurable_hAvg_out", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_QuotientMeasureUniqueness_QLiftIsMulLeftInvariant", "via": ["solution", "statement"]}
 {"parent": "PI.OpWords.Ed_val", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialDifferentialWords_KappaCoeff", "via": ["solution", "statement"]}
 {"parent": "PI.OpWords.Ed_val", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialDifferentialWords_KappaRight", "via": ["solution", "statement"]}
-{"parent": "PI.TwistedEisensteinNonvanishing.W.qt_aff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TwistedEisensteinCoset_WeightedSumToGaussSum", "via": ["statement"]}
-{"parent": "PI.TwistedEisensteinNonvanishing.W.qt_aff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TwistedEisensteinCoset_ChangeVariablesDeterminantOne", "via": ["statement"]}
+{"parent": "PI.TwistedEisensteinNonvanishing.W.qt_aff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TwistedEisensteinCoset_WeightedSumToGaussSum", "via": ["solution", "statement"]}
+{"parent": "PI.TwistedEisensteinNonvanishing.W.qt_aff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TwistedEisensteinCoset_ChangeVariablesDeterminantOne", "via": ["solution", "statement"]}
 {"parent": "PI.UnitaryGroupMassFormula.QmBorderFull.Four.cons_comp_finRotate", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_BorderMinorRotation_SkipTwoSuccAboveComp", "via": ["solution", "statement"]}
 {"parent": "PI.UnitaryGroupMassFormula.QmBorderFull.Four.cons_comp_finRotate", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_BorderMinorRotation_Development", "via": ["solution", "statement"]}
 {"parent": "PI.LocFramePrimWork.DiffLoc_frac_closed", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LocalPrimitiveFrame_StepsTop", "via": ["solution", "statement"]}
@@ -66141,8 +66141,8 @@
 {"parent": "RH1E6S15.part_013_0", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
 {"parent": "RH1E6S15.part_013_0", "child": "ArdaRH65K_RS_Strip", "via": ["statement"]}
 {"parent": "RH1E6S15.part_013_0", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
-{"parent": "PI.VolStabS.DensGen.densGen", "child": "Formalism_PeriodIntegrals_VolFromSW", "via": ["statement"]}
-{"parent": "PI.VolStabS.DensGen.densGen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerVolume_DensGen", "via": ["statement"]}
+{"parent": "PI.VolStabS.DensGen.densGen", "child": "Formalism_PeriodIntegrals_VolFromSW", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabS.DensGen.densGen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerVolume_DensGen", "via": ["solution", "statement"]}
 {"parent": "PI.JetsPhW.Ch.pderiv_subst_X_self", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_JetIntegrality_CoeffPowEqZeroOfDegreeLt", "via": ["solution", "statement"]}
 {"parent": "PI.JetsPhW.Ch.pderiv_subst_X_self", "child": "Formalism_PeriodIntegrals_JetsPhW", "via": ["solution", "statement"]}
 {"parent": "PI.JetsPhW.W.L0", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_IntegralMv", "via": ["solution", "statement"]}
@@ -66331,8 +66331,8 @@
 {"parent": "GlobalTheory.RealWeil.proj_apply", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ContinuousFourierGau", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.SemiG.Dat.h_pX_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_SemiGen", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.SemiG.Dat.h_pX_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_HermitianIsotropicProjComplement", "via": ["solution", "statement"]}
-{"parent": "PI.VolNzeroOne.W.det_gram_tupH_ne_zero", "child": "Formalism_PeriodIntegrals_VolNzeroOne", "via": ["statement"]}
-{"parent": "PI.VolNzeroOne.W.det_gram_tupH_ne_zero", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_NilpotentVolumeOne_LinearIndependentFrameWithNormal", "via": ["statement"]}
+{"parent": "PI.VolNzeroOne.W.det_gram_tupH_ne_zero", "child": "Formalism_PeriodIntegrals_VolNzeroOne", "via": ["solution", "statement"]}
+{"parent": "PI.VolNzeroOne.W.det_gram_tupH_ne_zero", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_NilpotentVolumeOne_LinearIndependentFrameWithNormal", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.NCH.xp_sub_pXv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SemidirectVolume_ReflectionFixesNormal", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.NCH.xp_sub_pXv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_UnipotentRadicalActionFormula", "via": ["solution", "statement"]}
 {"parent": "PI.PhNormUnits.UnitaryGroupMassFormula.PAdicPowerSeriesCoefficients.expMv_zero", "child": "Formalism_PeriodIntegrals_PhNormUnits", "via": ["statement"]}
@@ -68035,8 +68035,8 @@
 {"parent": "PI.VolStabW.isCOBasis_latSub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensVNA", "via": ["statement"]}
 {"parent": "PI.VolStabW.isCOBasis_latSub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_PosNear", "via": ["statement"]}
 {"parent": "ReciprocityTheory.Aut.adic_algebraMap_R", "child": "ReciprocityTheory_Automorphisms_PlaceA", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabW.DeterminantAdmissible.boxes_seq", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DetAdmB", "via": ["statement"]}
-{"parent": "PI.VolStabW.DeterminantAdmissible.boxes_seq", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DetAdmA", "via": ["statement"]}
+{"parent": "PI.VolStabW.DeterminantAdmissible.boxes_seq", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DetAdmB", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.DeterminantAdmissible.boxes_seq", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DetAdmA", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.sum_perm_succ", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_BasicCycleRangeLastCastSucc", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.sum_perm_succ", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_CapelliCentralStatement", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.GelfandGA.psM_contDiffOn", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_IsClosedKset", "via": ["statement"]}
@@ -68062,8 +68062,8 @@
 {"parent": "Formalism.LT.CongrP.bwd", "child": "Formalism_TorsionNormIteration_InvIntegralOfClass", "via": ["solution", "statement"]}
 {"parent": "Formalism.LT.CongrP.bwd", "child": "Formalism_TorsionNormIteration_InverseIntegralClasses_SigmaNormLeOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.LT.CongrP.bwd", "child": "Formalism_TorsionNormIteration_InverseIntegralClasses_CoeffSubstAddCMulXPow", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabW.IdxHW.cr_sig", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensIdxA", "via": ["statement"]}
-{"parent": "PI.VolStabW.IdxHW.cr_sig", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensIdxC", "via": ["statement"]}
+{"parent": "PI.VolStabW.IdxHW.cr_sig", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensIdxA", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.IdxHW.cr_sig", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensIdxC", "via": ["solution", "statement"]}
 {"parent": "PI.WGB.emb_ll_A", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwlineLemmas", "via": ["solution", "statement"]}
 {"parent": "PI.WGB.emb_ll_A", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinBranching_ExtremalFacts", "via": ["solution", "statement"]}
 {"parent": "PI.WGB.emb_ll_A", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinBranching_ExtremalFactsProofA", "via": ["solution", "statement"]}
@@ -68116,9 +68116,9 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.LemK.PsW.hasFDerivAt_slice", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_KTypeLemma_TransferStatement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.LemK.PsW.hasFDerivAt_slice", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_KTypeLemma_PsWord", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.LemK.PsW.hasFDerivAt_slice", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_ContinuousOnFderivPhiP", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabSW.um_sigmaCompact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_Unimod", "via": ["statement"]}
-{"parent": "PI.VolStabSW.um_sigmaCompact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_T2SpaceTensorProductFiniteExtension", "via": ["statement"]}
-{"parent": "PI.VolStabSW.um_sigmaCompact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibInfEx", "via": ["statement"]}
+{"parent": "PI.VolStabSW.um_sigmaCompact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_Unimod", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.um_sigmaCompact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_T2SpaceTensorProductFiniteExtension", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.um_sigmaCompact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibInfEx", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.CasPsA.conj_single_eq", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_IsClosedKset", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.CasPsA.conj_single_eq", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_CasPsA", "via": ["solution", "statement"]}
 {"parent": "PI.WGL.LTB.natW_last", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_LiftTupleM", "via": ["solution", "statement"]}
@@ -68308,8 +68308,8 @@
 {"parent": "RH1E6S15.part_022_2", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
 {"parent": "PI.VolStabSW.continuous_gramB", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensInfTop", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.continuous_gramB", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensInfCo", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabW.DeterminantAdmissible.isCompact_boxS", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DetAdmB", "via": ["statement"]}
-{"parent": "PI.VolStabW.DeterminantAdmissible.isCompact_boxS", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DetAdmA", "via": ["statement"]}
+{"parent": "PI.VolStabW.DeterminantAdmissible.isCompact_boxS", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DetAdmB", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.DeterminantAdmissible.isCompact_boxS", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DetAdmA", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.lowPt_lt", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_InterlacingWalks_InterlacesULt", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.lowPt_lt", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_InterlacingWalks_AdjGap", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.lowPt_lt", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_InterlacingWalks_Imports", "via": ["solution", "statement"]}
@@ -68443,8 +68443,8 @@
 {"parent": "PI.WGB.fockF_smul_right", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Wlocal", "via": ["solution", "statement"]}
 {"parent": "RH1E6S15_D021_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_IntegralComplexGaussianPosDefHermitianPart", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ContinuousFourierGau", "via": ["statement"]}
-{"parent": "PI.WGB.elimA_inv", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwlineLemmas", "via": ["statement"]}
-{"parent": "PI.WGB.elimA_inv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinBranching_StepACleared", "via": ["statement"]}
+{"parent": "PI.WGB.elimA_inv", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwlineLemmas", "via": ["solution", "statement"]}
+{"parent": "PI.WGB.elimA_inv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinBranching_StepACleared", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.expand_sign_cycleRange_symm", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_Expand", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.expand_sign_cycleRange_symm", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_RowCol", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.HExp.exp_cont", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_FormalDegree_HaarVolumes_HaarExpA", "via": ["solution", "statement"]}
@@ -68503,8 +68503,8 @@
 {"parent": "PI.WGL.pol_mem_dualWeyl", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_CapelliOps", "via": ["statement"]}
 {"parent": "PI.WGL.pol_mem_dualWeyl", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_SatisfiesGlRelationsBilinearLeft", "via": ["statement"]}
 {"parent": "PI.WGL.pol_mem_dualWeyl", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_ZScalarVanish", "via": ["statement"]}
-{"parent": "PI.VolStabW.DensGen.densGen", "child": "Formalism_PeriodIntegrals_VolFromSW", "via": ["statement"]}
-{"parent": "PI.VolStabW.DensGen.densGen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensGen", "via": ["statement"]}
+{"parent": "PI.VolStabW.DensGen.densGen", "child": "Formalism_PeriodIntegrals_VolFromSW", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.DensGen.densGen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensGen", "via": ["solution", "statement"]}
 {"parent": "RH1E6S15.part_018_0", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S15.part_018_0", "child": "ArdaRS_Band", "via": ["statement"]}
 {"parent": "RH1E6S15.part_018_0", "child": "ArdaRH65K_RS_B2", "via": ["statement"]}
@@ -68702,8 +68702,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.IdA.contDiffOn_phiM_two", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_PhiCasA", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.cminor_comm", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_ProdOfFnUpdateEq", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.cminor_comm", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_CapelliCentralStatement", "via": ["statement"]}
-{"parent": "PI.VolStabSW.densLC_of_cosB", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensVCos", "via": ["statement"]}
-{"parent": "PI.VolStabSW.densLC_of_cosB", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensVGen", "via": ["statement"]}
+{"parent": "PI.VolStabSW.densLC_of_cosB", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensVCos", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.densLC_of_cosB", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensVGen", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.VolAAW.eq_one_of_pow", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensVolA", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.VolAAW.eq_one_of_pow", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensVolT", "via": ["solution", "statement"]}
 {"parent": "PI.WGB.fixed_line_exists", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinBranching_ExtremalFacts", "via": ["statement"]}
@@ -68762,10 +68762,10 @@
 {"parent": "PI.VolStabW.FFHS.IsSq.smul_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensFFHS", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.FiniteThetaCoordinates.crd_map", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_VolStabFromSWW", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.FiniteThetaCoordinates.crd_map", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_FinTheta", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabSW.unifV_spec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensAAOf", "via": ["statement"]}
-{"parent": "PI.VolStabSW.unifV_spec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_UnifVSpec", "via": ["statement"]}
-{"parent": "PI.VolStabSW.unifV_spec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensHC", "via": ["statement"]}
-{"parent": "PI.VolStabSW.unifV_spec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_ExistsUnifFv", "via": ["statement"]}
+{"parent": "PI.VolStabSW.unifV_spec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensAAOf", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.unifV_spec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_UnifVSpec", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.unifV_spec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensHC", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.unifV_spec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_ExistsUnifFv", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.SdUniqW.BR_add", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_AdeleLC", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.SdUniqW.BR_add", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdUniq", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.SdUniqW.BR_add", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensTop", "via": ["solution", "statement"]}
@@ -68797,10 +68797,10 @@
 {"parent": "RH1E6S15.part_018_3", "child": "ArdaRS_Arithmetic", "via": ["statement"]}
 {"parent": "RH1E6S15.part_018_3", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S15.part_018_3", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "PI.VolStabW.TopoFibInv.gramR_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_PullLocSt", "via": ["statement"]}
-{"parent": "PI.VolStabW.TopoFibInv.gramR_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoGram", "via": ["statement"]}
-{"parent": "PI.VolStabW.TopoFibInv.gramR_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_RestrProd", "via": ["statement"]}
-{"parent": "PI.VolStabW.TopoFibInv.gramR_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoFibInv", "via": ["statement"]}
+{"parent": "PI.VolStabW.TopoFibInv.gramR_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_PullLocSt", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.TopoFibInv.gramR_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoGram", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.TopoFibInv.gramR_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_RestrProd", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.TopoFibInv.gramR_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoFibInv", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f11_original_interior_physical_stopped_ito_meyer_martingale", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f11_original_interior_physical_stopped_ito_meyer_martingale", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f11_original_interior_physical_stopped_ito_meyer_martingale", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -69062,8 +69062,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.whB_l_entry", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_RowCol", "via": ["solution", "statement"]}
 {"parent": "folded_query_in_domain", "child": "SimpleRbrFri_Core", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RealWeil.norm_gau", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ContinuousFourierGau", "via": ["solution", "statement"]}
-{"parent": "PI.WMI.lowerInv_adj", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialModelIsometry_IsPolyMon", "via": ["statement"]}
-{"parent": "PI.WMI.lowerInv_adj", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialModelIsometry_LowerInv", "via": ["statement"]}
+{"parent": "PI.WMI.lowerInv_adj", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialModelIsometry_IsPolyMon", "via": ["solution", "statement"]}
+{"parent": "PI.WMI.lowerInv_adj", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialModelIsometry_LowerInv", "via": ["solution", "statement"]}
 {"parent": "degree_interpolate_lt_m", "child": "SimpleRbrFri_Core", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.oneAncestorDiagonalPositiveFromNearZero", "child": "Kyprianou_Ch01_BranchingClocks", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.oneAncestorDiagonalPositiveFromNearZero", "child": "Kyprianou_Ch01_BranchingGenerator", "via": ["solution", "statement"]}
@@ -69179,8 +69179,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.dm_sum_castLE", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_IsClosedKset", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.dm_sum_castLE", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_CBinet", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.dm_sum_castLE", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_DecMomentsA", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabSW.densV_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensVSt", "via": ["statement"]}
-{"parent": "PI.VolStabSW.densV_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensVCos", "via": ["statement"]}
+{"parent": "PI.VolStabSW.densV_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensVSt", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.densV_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensVCos", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.st_exp", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_LaplaceFoundations_OneParameterSubgroups_ExpChart", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.ev_int", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensCntRes", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.ev_int", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_UnifVSpec", "via": ["solution", "statement"]}
@@ -69207,8 +69207,8 @@
 {"parent": "PI.VolStabSW.linIndep_of_isUnit_det", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_T2SpaceTensorProductFiniteExtension", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.LatFactsW.isCompact_hermO", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensHL", "via": ["statement"]}
 {"parent": "PI.VolStabW.LatFactsW.isCompact_hermO", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_UnifVSpec", "via": ["statement"]}
-{"parent": "PI.VolStabW.orbEmb_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_ExStabTop", "via": ["statement"]}
-{"parent": "PI.VolStabW.orbEmb_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_ExStabSt", "via": ["statement"]}
+{"parent": "PI.VolStabW.orbEmb_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_ExStabTop", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.orbEmb_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_ExStabSt", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.SdDualW.sum_eT", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_PosNear", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.SdDualW.sum_eT", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_SdUniq", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.SdDualW.sum_eT", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_SdDual", "via": ["solution", "statement"]}
@@ -69217,8 +69217,8 @@
 {"parent": "PI.VolStabW.RestrictedProductGluing.evalV_mkAf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoPolish", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.RestrictedProductGluing.evalV_mkAf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_RestrProdSt", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.RestrictedProductGluing.evalV_mkAf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_RPGlue", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabW.TopoMuInv.selfDual_map", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoFibInv", "via": ["statement"]}
-{"parent": "PI.VolStabW.TopoMuInv.selfDual_map", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoMuInv", "via": ["statement"]}
+{"parent": "PI.VolStabW.TopoMuInv.selfDual_map", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoFibInv", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.TopoMuInv.selfDual_map", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoMuInv", "via": ["solution", "statement"]}
 {"parent": "FRI_prod_tail_split", "child": "SimpleRbrFri_Core", "via": ["solution", "statement"]}
 {"parent": "Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.bad_rank_union_bound", "child": "Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeToPartSpec", "via": ["solution", "statement"]}
 {"parent": "Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.bad_rank_union_bound", "child": "Formalism_PadicSubsetSums_StableGradedCounts_LocalEstimateIVOfTypeSetWeight", "via": ["solution", "statement"]}
@@ -69288,9 +69288,9 @@
 {"parent": "PI.VolStabW.unimod_holds", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_VolStabFromSWW", "via": ["statement"]}
 {"parent": "PI.VolStabW.unimod_holds", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_Unimod", "via": ["statement"]}
 {"parent": "PI.VolStabW.unimod_holds", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_T2SpaceTensorProductFiniteExtension", "via": ["statement"]}
-{"parent": "PI.minima_of_key", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeTransference_Minima", "via": ["statement"]}
-{"parent": "PI.minima_of_key", "child": "Formalism_PeriodIntegrals_Transference", "via": ["statement"]}
-{"parent": "PI.minima_of_key", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeTransference_TransferenceKey", "via": ["statement"]}
+{"parent": "PI.minima_of_key", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeTransference_Minima", "via": ["solution", "statement"]}
+{"parent": "PI.minima_of_key", "child": "Formalism_PeriodIntegrals_Transference", "via": ["solution", "statement"]}
+{"parent": "PI.minima_of_key", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeTransference_TransferenceKey", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.mem_O_iO", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensCntRes", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.mem_O_iO", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_UnifVSpec", "via": ["solution", "statement"]}
 {"parent": "FRI_prod_tail_zero", "child": "SimpleRbrFri_Core", "via": ["solution", "statement"]}
@@ -69346,14 +69346,14 @@
 {"parent": "PI.WGB.fixed_rowDeg_A", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinBranching_ExtremalFactsProofA", "via": ["statement"]}
 {"parent": "PI.WGB.fixed_rowDeg_A", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinBranching_CoeffRowActDiagA", "via": ["statement"]}
 {"parent": "PI.WGB.fixed_rowDeg_A", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_DetEmbUnitriA", "via": ["statement"]}
-{"parent": "PI.VolStabW.LatFactsW.isOpen_hermO", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensHL", "via": ["statement"]}
-{"parent": "PI.VolStabW.LatFactsW.isOpen_hermO", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_UnifVSpec", "via": ["statement"]}
+{"parent": "PI.VolStabW.LatFactsW.isOpen_hermO", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensHL", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.LatFactsW.isOpen_hermO", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_UnifVSpec", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RealWeil.Osc.pr_one", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ContinuousFourierGau", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RealWeil.Osc.pr_one", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsOscillatorActionOfGaussianPairings", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RealWeil.Osc.pr_one", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_PowMulNormGauLe", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RealWeil.Osc.pr_one", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_IntegralGauTwistedConv", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabW.DiscreteGroups.open_case", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_FibGlue", "via": ["statement"]}
-{"parent": "PI.VolStabW.DiscreteGroups.open_case", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_FibDis", "via": ["statement"]}
+{"parent": "PI.VolStabW.DiscreteGroups.open_case", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_FibGlue", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.DiscreteGroups.open_case", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_FibDis", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.shiftedEntry_op", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_ColAnti", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.shiftedEntry_op", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_RowAnti", "via": ["solution", "statement"]}
 {"parent": "QH.tailK", "child": "Development_AutomorphicArithmetic_MeanSquareBounds_PrimeSetTwoBounds", "via": ["solution", "statement"]}
@@ -69599,8 +69599,8 @@
 {"parent": "GlobalTheory.RealWeil.Osc.proj_proj", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsOscillatorActionOfGaussianPairings", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RealWeil.Osc.proj_proj", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_PowMulNormGauLe", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RealWeil.Osc.proj_proj", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_IntegralGauTwistedConv", "via": ["solution", "statement"]}
-{"parent": "PI.ZW.jensenCount", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZeroWindow_Jensen", "via": ["statement"]}
-{"parent": "PI.ZW.jensenCount", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZeroWindow_RightHalfWith", "via": ["statement"]}
+{"parent": "PI.ZW.jensenCount", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZeroWindow_Jensen", "via": ["solution", "statement"]}
+{"parent": "PI.ZW.jensenCount", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZeroWindow_RightHalfWith", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Xi.OSAux.de_ins_succ", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TailIntegrals_Imports", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Xi.OSAux.de_ins_succ", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TailIntegrals_RhoSqInsSucc", "via": ["statement"]}
 {"parent": "PI.VolStabW.us_invInv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_Unimod", "via": ["solution", "statement"]}
@@ -69653,8 +69653,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.HW.twist_hasDerivAt_det_exp", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_HighestWeights_ModelTwist", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.HW.twist_hasDerivAt_det_exp", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_PsiExistsStatement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.HW.twist_hasDerivAt_det_exp", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_InhabA", "via": ["solution", "statement"]}
-{"parent": "PIW.AdelicOrbitU.quad_exists_theta", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicUnitaryOrbits_QuadFiniteDimensional", "via": ["statement"]}
-{"parent": "PIW.AdelicOrbitU.quad_exists_theta", "child": "Formalism_PeriodIntegrals_AdelicOrbitU", "via": ["statement"]}
+{"parent": "PIW.AdelicOrbitU.quad_exists_theta", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicUnitaryOrbits_QuadFiniteDimensional", "via": ["solution", "statement"]}
+{"parent": "PIW.AdelicOrbitU.quad_exists_theta", "child": "Formalism_PeriodIntegrals_AdelicOrbitU", "via": ["solution", "statement"]}
 {"parent": "PI.WAU.isOpen_Ohat", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicUnimodularity_CartierFrobeniusFormLocal", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.coefC_exp_entry_summable", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TensorRepresentations_CoefCExpEntrySummable", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.LemK.ta_ecV_local", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_KTypeLemma_TransferStatement", "via": ["statement"]}
@@ -69662,8 +69662,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.LemK.ta_ecV_local", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_DerivGA", "via": ["statement"]}
 {"parent": "PI.VolStabW.VolAAW.ev_int", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensVolA", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.VolAAW.ev_int", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_SdUniq", "via": ["solution", "statement"]}
-{"parent": "PIW.HCFdeg.toL2Map_apply_ae_eq", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FormalDegreeSquareIntegrable_FormalDegreeFromOrthogonality", "via": ["statement"]}
-{"parent": "PIW.HCFdeg.toL2Map_apply_ae_eq", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FormalDegreeSquareIntegrable_ContinuousToL2Map", "via": ["statement"]}
+{"parent": "PIW.HCFdeg.toL2Map_apply_ae_eq", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FormalDegreeSquareIntegrable_FormalDegreeFromOrthogonality", "via": ["solution", "statement"]}
+{"parent": "PIW.HCFdeg.toL2Map_apply_ae_eq", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FormalDegreeSquareIntegrable_ContinuousToL2Map", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SplitWeil.exists_hasConductor_one", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_MatrixMeasurableSpace", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SplitWeil.exists_hasConductor_one", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_PadicIsNonarchimedeanLocalField", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RealWeil.Osc.proj_twist_proj", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ContinuousFourierGau", "via": ["solution", "statement"]}
@@ -69677,12 +69677,12 @@
 {"parent": "Formalism.CyclotomicNorms.CycleTypeFiniteOrder.t1", "child": "Lemmata_GeneralBFactSecondBis_Imports", "via": ["solution", "statement"]}
 {"parent": "Formalism.CyclotomicNorms.CycleTypeFiniteOrder.t1", "child": "Formalism_GaloisIrreducibility_NoSolvableTransitive", "via": ["solution", "statement"]}
 {"parent": "PI.WGL.XiU.sum_comp_eq", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_MultisetProdNormLeOne", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabW.lip_ainf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_FibOfTens", "via": ["statement"]}
-{"parent": "PI.VolStabW.lip_ainf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensFibV", "via": ["statement"]}
-{"parent": "PI.VolStabW.lip_ainf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_AdeleLC", "via": ["statement"]}
-{"parent": "PI.VolStabW.lip_ainf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TensTop", "via": ["statement"]}
-{"parent": "PI.VolStabW.lip_ainf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_PosNear", "via": ["statement"]}
-{"parent": "PI.VolStabW.lip_ainf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TensAll", "via": ["statement"]}
+{"parent": "PI.VolStabW.lip_ainf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_FibOfTens", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.lip_ainf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensFibV", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.lip_ainf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_AdeleLC", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.lip_ainf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TensTop", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.lip_ainf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_PosNear", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.lip_ainf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TensAll", "via": ["solution", "statement"]}
 {"parent": "units_smul_set_eq_mul_image", "child": "SimpleRbrFri_Core", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.SdUniqW.testEx_of_lattice", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_AdeleLC", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.SdUniqW.testEx_of_lattice", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdUniq", "via": ["solution", "statement"]}
@@ -69701,10 +69701,10 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Xi.J2.tail_eq", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TailIntegrals_CriticalExponentSucc", "via": ["statement"]}
 {"parent": "PIW.HCFdeg.toM_inv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FormalDegreeSquareIntegrable_FormalDegreeFromOrthogonality", "via": ["solution", "statement"]}
 {"parent": "PIW.HCFdeg.toM_inv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FormalDegreeSquareIntegrable_Unimod", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabW.TopoFibInv.linIndep_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_PullLocSt", "via": ["statement"]}
-{"parent": "PI.VolStabW.TopoFibInv.linIndep_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoGram", "via": ["statement"]}
-{"parent": "PI.VolStabW.TopoFibInv.linIndep_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_RestrProd", "via": ["statement"]}
-{"parent": "PI.VolStabW.TopoFibInv.linIndep_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoFibInv", "via": ["statement"]}
+{"parent": "PI.VolStabW.TopoFibInv.linIndep_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_PullLocSt", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.TopoFibInv.linIndep_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoGram", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.TopoFibInv.linIndep_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_RestrProd", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.TopoFibInv.linIndep_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoFibInv", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.hR_add_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensInfTop", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.hR_add_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensInfCo", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.price_of_index", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LocalisationScaledIdealMemIff", "via": ["solution", "statement"]}
@@ -69876,8 +69876,8 @@
 {"parent": "RH1E6S15_D020_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "GlobalTheory.SplitWeil.fourier_inversion", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_MatrixMeasurableSpace", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SplitWeil.fourier_inversion", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_PadicIsNonarchimedeanLocalField", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabW.TopoGram.hform_mulVec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_NuInvLoc", "via": ["statement"]}
-{"parent": "PI.VolStabW.TopoGram.hform_mulVec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoGram", "via": ["statement"]}
+{"parent": "PI.VolStabW.TopoGram.hform_mulVec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_NuInvLoc", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.TopoGram.hform_mulVec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TopoGram", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.TopoGram.hform_mulVec", "child": "Formalism.UG.P.hform_mulVec", "via": ["statement"]}
 {"parent": "GlobalInexactNewton.Backtracking.Supplement.theorem_8_3", "child": "GlobalInexactNewton_Backtracking_Supplement_EqualityCurves", "via": ["statement"]}
 {"parent": "GlobalInexactNewton.Backtracking.Supplement.theorem_8_3", "child": "GlobalInexactNewton_Backtracking_Supplement_ResidualCurve", "via": ["statement"]}
@@ -69935,9 +69935,9 @@
 {"parent": "PI.WAU.ctsA_emb", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicUnimodularity_CoordTmulOneMul", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.VolAAW.ev_int_all", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensVolA", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.VolAAW.ev_int_all", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_SdUniq", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensVolA", "via": ["statement"]}
-{"parent": "PI.VolStabW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensVolB", "via": ["statement"]}
-{"parent": "PI.VolStabW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_SdDual", "via": ["statement"]}
+{"parent": "PI.VolStabW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensVolA", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensVolB", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_SdDual", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_RelIndexOneUnitsMulEqCardQuotient", "child": "Development_AbelianVarietyTheory_Definitions_AdelicHermitianForms_MemPowSub", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.UnitA.pr_rt", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TensorRepresentations_UnitarizeA", "via": ["solution", "statement"]}
 {"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.sum_uidx", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LocalJacobianType_Development", "via": ["solution", "statement"]}
@@ -70133,8 +70133,8 @@
 {"parent": "RH1E6S15.part_022_3", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S15.part_022_3", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_ContinuousSymmFinite", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_IsOpenNsmulAdelicCompletionOfVectorSet", "via": ["statement"]}
-{"parent": "PI.VolStabW.RPA.tl_split", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_ESSymmApply", "via": ["statement"]}
-{"parent": "PI.VolStabW.RPA.tl_split", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_RestrProdSt", "via": ["statement"]}
+{"parent": "PI.VolStabW.RPA.tl_split", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_ESSymmApply", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.RPA.tl_split", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_RestrProdSt", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_MeasurePreservingOfNormSqEqSumComplexCoords", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_IntegrableMonomialMulConjComplexGaussian", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_MeasurePreservingOfNormSqEqSumComplexCoords", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ContinuousFourierGau", "via": ["statement"]}
 {"parent": "RH1E6S15.part_021_2", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
@@ -70437,9 +70437,9 @@
 {"parent": "RH1E6S15.part_018_1", "child": "ArdaRS_Arithmetic", "via": ["statement"]}
 {"parent": "RH1E6S15.part_018_1", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S15.part_018_1", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "PI.VolStabW.VolAAW.BR_eq_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensVolA", "via": ["statement"]}
-{"parent": "PI.VolStabW.VolAAW.BR_eq_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensVolB", "via": ["statement"]}
-{"parent": "PI.VolStabW.VolAAW.BR_eq_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_SdDual", "via": ["statement"]}
+{"parent": "PI.VolStabW.VolAAW.BR_eq_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensVolA", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.VolAAW.BR_eq_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensVolB", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.VolAAW.BR_eq_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_SdDual", "via": ["solution", "statement"]}
 {"parent": "SimpleRbrFri_FoldingSoundness", "child": "SimpleRbrFri_State", "via": ["statement"]}
 {"parent": "PIW.CMDiscSq.exists_of_star_eq", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CMDiscriminantSquare_AdjoinEqTopOfStarNe", "via": ["solution", "statement"]}
 {"parent": "PIW.CMDiscSq.exists_of_star_eq", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CMDiscriminantSquare_RelDiffTop", "via": ["solution", "statement"]}
@@ -70523,18 +70523,18 @@
 {"parent": "RH1E6S15.part_023_1", "child": "ArdaRS_Arithmetic", "via": ["statement"]}
 {"parent": "RH1E6S15.part_023_1", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S15.part_023_1", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "PI.VolStabW.dxOpen_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensVDx", "via": ["statement"]}
-{"parent": "PI.VolStabW.dxOpen_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensVSecSt", "via": ["statement"]}
-{"parent": "PI.VolStabW.dxOpen_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensInfSS", "via": ["statement"]}
-{"parent": "PI.VolStabW.dxOpen_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensVDxSt", "via": ["statement"]}
+{"parent": "PI.VolStabW.dxOpen_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensVDx", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.dxOpen_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensVSecSt", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.dxOpen_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensInfSS", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.dxOpen_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensVDxSt", "via": ["solution", "statement"]}
 {"parent": "PI.WAU.ctsA_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicUnimodularity_CoordTmulOneMul", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.PolarDecomposition.polar_gJgH", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_DefsRep", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.PolarDecomposition.polar_gJgH", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_AnalyticVectors_PolarJmConjTranspose", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.USum.casimir_diagSub", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_RigidityTheorems_SopNegComm", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.USum.casimir_diagSub", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_RigidityTheorems_InKRealSmul", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.USum.casimir_diagSub", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_RigidityTheorems_DiagSubIsKIrrHW", "via": ["statement"]}
-{"parent": "PI.VolStabW.freeSurj_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensInfCo", "via": ["statement"]}
-{"parent": "PI.VolStabW.freeSurj_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensInfFS", "via": ["statement"]}
+{"parent": "PI.VolStabW.freeSurj_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensInfCo", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.freeSurj_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensInfFS", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.CA.isIntegral_quotient_of_isMaximal_of_comap_eq", "child": "ReciprocityTheory_CommutativeAlgebra_ChainConnInDim", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.CA.isIntegral_quotient_of_isMaximal_of_comap_eq", "child": "ReciprocityTheory_CommutativeAlgebra_PolynomialHeights_PolyMax", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.Ps1.continuousOn_fderiv_phiP", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_IsClosedKset", "via": ["solution", "statement"]}
@@ -70604,9 +70604,9 @@
 {"parent": "GlobalTheory.FinWeil.adjacent_selfDual_simple", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_PerfectPairingQuotients", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FinWeil.adjacent_selfDual_simple", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_SumOpTransversal", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FinWeil.adjacent_selfDual_simple", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_AdjacentSelfDualLatticesIndexSimple", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabW.um_sigmaCompact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_VolStabFromSWW", "via": ["statement"]}
-{"parent": "PI.VolStabW.um_sigmaCompact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_Unimod", "via": ["statement"]}
-{"parent": "PI.VolStabW.um_sigmaCompact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_T2SpaceTensorProductFiniteExtension", "via": ["statement"]}
+{"parent": "PI.VolStabW.um_sigmaCompact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_VolStabFromSWW", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.um_sigmaCompact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_Unimod", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabW.um_sigmaCompact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_T2SpaceTensorProductFiniteExtension", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.IdxHW.crdS_eq", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensIdxA", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.IdxHW.crdS_eq", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensIdxC", "via": ["solution", "statement"]}
 {"parent": "PIW.AdelicOrbitU.isUnit_det_JR", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicUnitaryOrbits_UnitChoice", "via": ["solution", "statement"]}
@@ -73508,9 +73508,9 @@
 {"parent": "FRI_claim_queryphase_if_domain_large_induction", "child": "SimpleRbrFri_FoldingSoundness", "via": ["solution", "statement"]}
 {"parent": "FRI_claim_queryphase_if_domain_large_induction", "child": "SimpleRbrFri_QuerySoundness", "via": ["solution", "statement"]}
 {"parent": "Bl.general_b_fact_left_more.goal1", "child": "Lemmata_GeneralBFactLeftMore_Imports", "via": ["solution", "statement"]}
-{"parent": "cauchy_binet_minors", "child": "Formalism_PeriodIntegrals_WwCauchyBinet", "via": ["statement"]}
-{"parent": "cauchy_binet_minors", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_WwCauchyBinet", "via": ["statement"]}
-{"parent": "cauchy_binet_minors", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CauchyBinet_WwCauchyBinetMain", "via": ["statement"]}
+{"parent": "cauchy_binet_minors", "child": "Formalism_PeriodIntegrals_WwCauchyBinet", "via": ["solution", "statement"]}
+{"parent": "cauchy_binet_minors", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_WwCauchyBinet", "via": ["solution", "statement"]}
+{"parent": "cauchy_binet_minors", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CauchyBinet_WwCauchyBinetMain", "via": ["solution", "statement"]}
 {"parent": "Bl.ScalarIdentities.goal1", "child": "Lemmata_ScalarExtension_Scal", "via": ["solution", "statement"]}
 {"parent": "CompanionTheory.D.Upq.expChartUnits_mem_maximalAtlas", "child": "CompanionTheory_HarishChandraModules_BesselParameterIntegrals_ContDiffOnExpPartialHomeomorphSymm", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Chart.univChartLoc", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_UniversalCharts_UnivChartLoc", "via": ["statement"]}

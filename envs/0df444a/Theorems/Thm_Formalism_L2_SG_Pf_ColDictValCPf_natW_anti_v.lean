@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_natW_anti_v
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.natW_anti_v
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:28:01.100728+00:00
 -- url     : https://prove2.me/theorems/72191cde-3ea2-4a30-a3f3-7ffb249c4a19

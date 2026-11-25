@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreC_bal_iff
 -- name    : PositivityTheory.Rg.Sw.LC.CoreC.bal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:56:10.467047+00:00
 -- url     : https://prove2.me/theorems/740d13ff-c231-4e55-9b5e-6371d1a1e6b1

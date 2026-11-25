@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiB_embGL_diag
 -- name    : PI.WGL.XiB.embGL_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:59:00.323157+00:00
 -- url     : https://prove2.me/theorems/8da3ba30-090d-5443-b2e2-c3edcba2dd05

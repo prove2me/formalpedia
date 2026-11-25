@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_cellUnion_succ
 -- name    : GroundTheory.Automorphic.Parabolic.cellUnion_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:24:38.410911+00:00
 -- url     : https://prove2.me/theorems/3ba20df0-bdeb-4568-8450-8ade96f36fe6

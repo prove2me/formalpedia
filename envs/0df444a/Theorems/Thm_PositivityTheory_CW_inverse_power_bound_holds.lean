@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_inverse_power_bound_holds
 -- name    : PositivityTheory.CW.inverse_power_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:54.380799+00:00
 -- url     : https://prove2.me/theorems/44bc1dbe-4af5-4004-9799-5920c0b95489

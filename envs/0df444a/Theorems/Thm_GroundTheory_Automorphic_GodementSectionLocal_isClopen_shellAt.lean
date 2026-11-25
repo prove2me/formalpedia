@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_isClopen_shellAt
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.isClopen_shellAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:40:19.12883+00:00
 -- url     : https://prove2.me/theorems/ce26b46b-6278-4895-b573-031f121f0ea3

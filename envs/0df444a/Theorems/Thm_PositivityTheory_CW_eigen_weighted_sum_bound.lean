@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_eigen_weighted_sum_bound
 -- name    : PositivityTheory.CW.eigen_weighted_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:55.715794+00:00
 -- url     : https://prove2.me/theorems/8b9aa73e-3cba-4e4c-891f-d0b213cbf074

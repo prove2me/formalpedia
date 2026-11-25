@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_WallAlgP_eigen
 -- name    : PositivityTheory.Rg.Cz.WallAlgP.eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:58.908799+00:00
 -- url     : https://prove2.me/theorems/ea756775-8852-463e-8970-577815abe978

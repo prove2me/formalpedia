@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_isOpen_isUnit_det
 -- name    : PI.VolStabS.isOpen_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:39:19.629311+00:00
 -- url     : https://prove2.me/theorems/ebe7bc19-0e5f-4275-9448-aa0ab7b9fd85

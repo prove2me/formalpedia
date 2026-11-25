@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LocalizedFibreSets_phi_mod_p_holds
 -- name    : Formalism.L2.SG.Pf.LocalizedFibreSets.phi_mod_p_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:48:24.861742+00:00
 -- url     : https://prove2.me/theorems/be0a2241-6f5e-42b3-a9cb-7de4da6de0bd

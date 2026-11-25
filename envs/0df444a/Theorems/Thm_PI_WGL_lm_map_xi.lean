@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_lm_map_xi
 -- name    : PI.WGL.lm_map_xi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:46:27.960738+00:00
 -- url     : https://prove2.me/theorems/cb5d8f58-aab3-4e44-940e-62b63ad13c61

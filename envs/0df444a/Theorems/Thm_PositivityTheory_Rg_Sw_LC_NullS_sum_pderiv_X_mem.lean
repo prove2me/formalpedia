@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_NullS_sum_pderiv_X_mem
 -- name    : PositivityTheory.Rg.Sw.LC.NullS.sum_pderiv_X_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:49:47.38651+00:00
 -- url     : https://prove2.me/theorems/4a20dd7b-dbc3-4ab0-a642-f152a49a28c0

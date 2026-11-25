@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJM_shape_from_facts
 -- name    : PI.FJM.shape_from_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:44.739531+00:00
 -- url     : https://prove2.me/theorems/53f8ac30-1fb3-4059-9d9a-59de73de27c1

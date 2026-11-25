@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TA_merge_upd_right
 -- name    : PositivityTheory.Rg.Cz.TA.merge_upd_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:54:35.862499+00:00
 -- url     : https://prove2.me/theorems/c071dc7c-7a99-5125-9a1d-a64afe406a11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WfEndProof_wfEnd_of
 -- name    : PI.WfEndProof.wfEnd_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:33:37.698263+00:00
 -- url     : https://prove2.me/theorems/dd28b97b-ee88-4db8-9755-55a1c536fab3

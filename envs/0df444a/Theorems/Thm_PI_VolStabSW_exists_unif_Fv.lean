@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_exists_unif_Fv
 -- name    : PI.VolStabSW.exists_unif_Fv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:23:55.160823+00:00
 -- url     : https://prove2.me/theorems/3ccf4cf2-c1ec-499f-b651-d2b9af893992

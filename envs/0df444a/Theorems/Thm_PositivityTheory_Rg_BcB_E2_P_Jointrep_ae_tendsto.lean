@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Jointrep_ae_tendsto
 -- name    : PositivityTheory.Rg.BcB.E2.P.Jointrep.ae_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:31.067336+00:00
 -- url     : https://prove2.me/theorems/bd5ef8c1-faa0-4c22-b89f-071a751bc2d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_lowerInv_not_cdom
 -- name    : PI.WMI.lowerInv_not_cdom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:59:29.975365+00:00
 -- url     : https://prove2.me/theorems/26a38a7a-34b5-5a10-8d79-88e9b8a5ccf9

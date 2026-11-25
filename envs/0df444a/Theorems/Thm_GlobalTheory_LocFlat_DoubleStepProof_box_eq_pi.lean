@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_DoubleStepProof_box_eq_pi
 -- name    : GlobalTheory.LocFlat.DoubleStepProof.box_eq_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:28:02.982632+00:00
 -- url     : https://prove2.me/theorems/5ea63f19-4f84-4450-96bd-558c4bf89ba8

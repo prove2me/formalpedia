@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiA_tele_sum
 -- name    : PI.WGL.XiA.tele_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:46:59.205932+00:00
 -- url     : https://prove2.me/theorems/25c10222-97de-45a3-975e-d29e916accb6

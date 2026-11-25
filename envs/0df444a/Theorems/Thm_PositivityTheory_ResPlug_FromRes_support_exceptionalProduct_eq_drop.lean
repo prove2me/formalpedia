@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ResPlug_FromRes_support_exceptionalProduct_eq_drop
 -- name    : PositivityTheory.ResPlug.FromRes.support_exceptionalProduct_eq_drop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:45.835318+00:00
 -- url     : https://prove2.me/theorems/2f18785f-e649-57a2-8f62-416ff0f32e90

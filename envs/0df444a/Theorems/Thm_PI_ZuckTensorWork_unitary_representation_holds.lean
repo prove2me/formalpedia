@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_unitary_representation_holds
 -- name    : PI.ZuckTensorWork.unitary_representation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:32.664737+00:00
 -- url     : https://prove2.me/theorems/f50b91ca-3463-410c-af61-b8b7af252428

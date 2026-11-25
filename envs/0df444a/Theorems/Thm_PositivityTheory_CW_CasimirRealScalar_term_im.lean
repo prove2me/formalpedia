@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_CasimirRealScalar_term_im
 -- name    : PositivityTheory.CW.CasimirRealScalar.term_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:49:24.369428+00:00
 -- url     : https://prove2.me/theorems/7a304cfe-12e5-4ee5-bdd7-1d3059a2bbe8

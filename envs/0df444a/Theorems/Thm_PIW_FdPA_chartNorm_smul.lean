@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_chartNorm_smul
 -- name    : PIW.FdPA.chartNorm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:18.011513+00:00
 -- url     : https://prove2.me/theorems/837f17d5-576c-4737-bf9b-d8f1bcf87454

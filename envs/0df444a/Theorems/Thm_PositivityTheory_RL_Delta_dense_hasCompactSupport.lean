@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Delta_dense_hasCompactSupport
 -- name    : PositivityTheory.RL.Delta.dense_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:52:00.623386+00:00
 -- url     : https://prove2.me/theorems/8b2be944-ef94-4afe-b4a5-0b45c1a800f3

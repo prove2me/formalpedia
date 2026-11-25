@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_lt_of_elimKey_lt
 -- name    : GroundTheory.Automorphic.Parabolic.lt_of_elimKey_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:19:44.215032+00:00
 -- url     : https://prove2.me/theorems/7c60ee25-9091-4fe6-8abf-e3739d1096c7

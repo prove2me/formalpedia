@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_boxvol_sum_range_succ_mul_sub_pred
 -- name    : PositivityTheory.Rg.Rs.boxvol.sum_range_succ_mul_sub_pred
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:54:33.979751+00:00
 -- url     : https://prove2.me/theorems/00d9dfab-2868-5bec-a2a3-08920ca7fcd6

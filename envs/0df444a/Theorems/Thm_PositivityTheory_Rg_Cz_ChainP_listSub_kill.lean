@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ChainP_listSub_kill
 -- name    : PositivityTheory.Rg.Cz.ChainP.listSub_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:08.708098+00:00
 -- url     : https://prove2.me/theorems/29913e97-afd8-4419-bbe2-72fdd7de55e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_NoncommutativeSwapSum_nc_swap
 -- name    : PositivityTheory.CW.NoncommutativeSwapSum.nc_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:51:12.592615+00:00
 -- url     : https://prove2.me/theorems/8d726727-4429-41b8-b7c4-5ec97f8a94c6

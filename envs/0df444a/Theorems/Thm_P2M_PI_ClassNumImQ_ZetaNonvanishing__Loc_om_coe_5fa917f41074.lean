@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ClassNumImQ_ZetaNonvanishing__Loc_om_coe_5fa917f41074
 -- name    : P2M_PI_ClassNumImQ_ZetaNonvanishing__Loc_om_coe_5fa917f41074
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:23:50.886341+00:00
 -- url     : https://prove2.me/theorems/78028202-110b-5483-bf20-bc27afc8fc70

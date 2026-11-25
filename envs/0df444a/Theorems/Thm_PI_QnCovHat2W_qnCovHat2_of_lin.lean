@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHat2W_qnCovHat2_of_lin
 -- name    : PI.QnCovHat2W.qnCovHat2_of_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:38:13.409445+00:00
 -- url     : https://prove2.me/theorems/e7602320-b5e7-4ba7-8009-6f613e77bd44

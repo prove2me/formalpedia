@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_QF_sum_fin_cast
 -- name    : PositivityTheory.Rg.Cz.QF.sum_fin_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:17.260698+00:00
 -- url     : https://prove2.me/theorems/72e90cb5-643e-4a5f-a20a-65d3131f849a

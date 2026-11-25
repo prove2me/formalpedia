@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_minimal_irreducible_exists
 -- name    : PI.WeylForKWork.minimal_irreducible_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:45:18.292011+00:00
 -- url     : https://prove2.me/theorems/8c456f88-799a-4032-b9aa-e41436a84d8b

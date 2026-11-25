@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_pb_var
 -- name    : PI.UnitaryCorollaryDerivatives.pb_var
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:44:38.939664+00:00
 -- url     : https://prove2.me/theorems/30e2aee4-4ece-5767-9881-f9b1cdbd5ec3

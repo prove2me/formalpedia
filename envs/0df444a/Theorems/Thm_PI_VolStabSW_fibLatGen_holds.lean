@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_fibLatGen_holds
 -- name    : PI.VolStabSW.fibLatGen_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:40.547945+00:00
 -- url     : https://prove2.me/theorems/a6444284-04da-4934-b74a-d205841afbed

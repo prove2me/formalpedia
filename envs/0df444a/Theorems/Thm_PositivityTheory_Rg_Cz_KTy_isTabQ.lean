@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_KTy_isTabQ
 -- name    : PositivityTheory.Rg.Cz.KTy.isTabQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:50.343264+00:00
 -- url     : https://prove2.me/theorems/2993a326-adb5-4002-9024-2bf73278e215

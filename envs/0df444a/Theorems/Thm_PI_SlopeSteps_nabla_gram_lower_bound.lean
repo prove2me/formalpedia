@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_nabla_gram_lower_bound
 -- name    : PI.SlopeSteps.nabla_gram_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:04.041358+00:00
 -- url     : https://prove2.me/theorems/bf9b8ddb-a777-4e0d-a360-ec6585de6a7f

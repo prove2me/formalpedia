@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_casimir_eigen_exists
 -- name    : PositivityTheory.CW.casimir_eigen_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:51.657191+00:00
 -- url     : https://prove2.me/theorems/c8913247-cb71-4745-a77c-3e3ec186241c

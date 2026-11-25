@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_deriv_prod_range_sub_mul_prod_ne_zero
 -- name    : PositivityTheory.Rg.Sw.HSt.deriv_prod_range_sub_mul_prod_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:55:24.382358+00:00
 -- url     : https://prove2.me/theorems/e9285fde-40a1-5444-af74-c1040e1246b8

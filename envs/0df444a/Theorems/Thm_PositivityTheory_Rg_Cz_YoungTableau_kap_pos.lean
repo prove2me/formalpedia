@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_YoungTableau_kap_pos
 -- name    : PositivityTheory.Rg.Cz.YoungTableau.kap_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:48:40.066139+00:00
 -- url     : https://prove2.me/theorems/d7488ac1-77d1-4372-afb3-5a2018be66c7

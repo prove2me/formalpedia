@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_SliceClasses_C_restrict_pow
 -- name    : PositivityTheory.Rg.Rs.SliceClasses.C_restrict_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:54:37.482964+00:00
 -- url     : https://prove2.me/theorems/34356668-6c86-4a9e-9897-94de5e83bca7

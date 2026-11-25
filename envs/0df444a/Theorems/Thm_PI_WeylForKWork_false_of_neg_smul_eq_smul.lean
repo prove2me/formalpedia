@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_false_of_neg_smul_eq_smul
 -- name    : PI.WeylForKWork.false_of_neg_smul_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:44:38.901924+00:00
 -- url     : https://prove2.me/theorems/2e80008e-b74e-49d2-9bf0-40b64a4f4100

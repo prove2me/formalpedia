@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Basic_Sm_succ
 -- name    : PositivityTheory.Rg.Sw.LC.Basic.Sm_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:56:49.658562+00:00
 -- url     : https://prove2.me/theorems/e9bd7940-7d7c-40de-8fc1-66ecc3c60bfa

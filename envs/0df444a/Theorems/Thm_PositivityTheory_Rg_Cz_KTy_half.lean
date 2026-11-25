@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_KTy_half
 -- name    : PositivityTheory.Rg.Cz.KTy.half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:52:44.925533+00:00
 -- url     : https://prove2.me/theorems/813228f9-c176-5c28-bc4d-e318c6d07746

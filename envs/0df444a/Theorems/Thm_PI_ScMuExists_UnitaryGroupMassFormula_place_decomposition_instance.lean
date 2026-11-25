@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_place_decomposition_instance
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.place_decomposition_instance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:36.499823+00:00
 -- url     : https://prove2.me/theorems/273c231e-532c-5f6d-9071-700a860bd6a1

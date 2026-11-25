@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_gram_eq
 -- name    : PIW.AdelClassFin.gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:47:54.705892+00:00
 -- url     : https://prove2.me/theorems/21831e23-1c3f-476c-8050-89871a0ce4b4

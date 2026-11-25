@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_CG_splitM_mp
 -- name    : PositivityTheory.Rg.BcB.CG.splitM_mp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:52:11.735827+00:00
 -- url     : https://prove2.me/theorems/84532646-f628-499f-a2ca-a55a69b83a2e

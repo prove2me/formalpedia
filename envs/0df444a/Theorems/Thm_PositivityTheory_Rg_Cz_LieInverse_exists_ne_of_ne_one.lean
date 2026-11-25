@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_LieInverse_exists_ne_of_ne_one
 -- name    : PositivityTheory.Rg.Cz.LieInverse.exists_ne_of_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:52:59.115683+00:00
 -- url     : https://prove2.me/theorems/7e450e83-7747-573a-a6cc-22416735a68e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_ExponentialIntegralMeasures_nil_pow_sub
 -- name    : PositivityTheory.Rg.BcB.F.ExponentialIntegralMeasures.nil_pow_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:52:26.679231+00:00
 -- url     : https://prove2.me/theorems/f92dd961-a891-501b-9a18-ca628518bb4c

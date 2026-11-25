@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirrorSection__mirrorDecomp_of_9f447199b0f9
 -- name    : P2M_PI_MirrorSection__mirrorDecomp_of_9f447199b0f9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:57:34.62127+00:00
 -- url     : https://prove2.me/theorems/393e1d32-c835-47c3-b120-b84374a6f569

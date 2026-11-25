@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_WallAlgP_coset
 -- name    : PositivityTheory.Rg.Cz.WallAlgP.coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:49:45.059198+00:00
 -- url     : https://prove2.me/theorems/5b795df5-f4a2-419a-a272-69398ab5f148

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mix_bf_smul_r
 -- name    : PositivityTheory.Mix.bf_smul_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:52:25.212152+00:00
 -- url     : https://prove2.me/theorems/97a7468f-c5a5-4707-85e7-438f1970274f

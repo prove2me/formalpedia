@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B1_pderiv_pow_monomial
 -- name    : PositivityTheory.Rg.Sw.LC.B1.pderiv_pow_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:56:34.785324+00:00
 -- url     : https://prove2.me/theorems/f87ea0d7-c0a4-53c9-9d95-3d8895729591

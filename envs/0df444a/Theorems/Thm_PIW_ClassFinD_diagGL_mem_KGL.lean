@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ClassFinD_diagGL_mem_KGL
 -- name    : PIW.ClassFinD.diagGL_mem_KGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:48:07.895809+00:00
 -- url     : https://prove2.me/theorems/4c06a8c3-9476-4dce-8b7a-a31e82b063b7

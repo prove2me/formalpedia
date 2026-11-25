@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_Coch_cEv_perm
 -- name    : PositivityTheory.Rg.Cz.Coch.cEv_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:10.865566+00:00
 -- url     : https://prove2.me/theorems/642d84ec-629b-437f-a86e-ee8904dd678e

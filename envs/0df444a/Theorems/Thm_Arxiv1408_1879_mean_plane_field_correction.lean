@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1408_1879_mean_plane_field_correction
 -- name    : Arxiv1408_1879.mean_plane_field_correction
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T12:01:49.177088+00:00
 -- url     : https://prove2.me/theorems/4aa7a6e4-da2c-4a66-8d4c-41884a4ec5f2

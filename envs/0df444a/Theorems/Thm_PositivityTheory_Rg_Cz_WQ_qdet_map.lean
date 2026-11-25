@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_WQ_qdet_map
 -- name    : PositivityTheory.Rg.Cz.WQ.qdet_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:50:45.054955+00:00
 -- url     : https://prove2.me/theorems/321778b9-3f6f-4e06-bd42-d97484ca33f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_io_dw_ext
 -- name    : PI.WGL.io_dw_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:46:14.48206+00:00
 -- url     : https://prove2.me/theorems/ba9ae845-152a-48b6-91a0-fa74c7d949bb

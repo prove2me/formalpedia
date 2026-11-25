@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_CG_SmoothIntegrals_hasFDerivAt_step
 -- name    : PositivityTheory.Rg.BcB.CG.SmoothIntegrals.hasFDerivAt_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:04.781526+00:00
 -- url     : https://prove2.me/theorems/32346c77-1147-4621-a671-b0dd943fbe06

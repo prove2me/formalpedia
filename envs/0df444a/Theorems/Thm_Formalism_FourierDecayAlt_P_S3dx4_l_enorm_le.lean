@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_l_enorm_le
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.l_enorm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:01:05.438326+00:00
 -- url     : https://prove2.me/theorems/eea99e8f-0b90-4e5c-b795-21d08b272126

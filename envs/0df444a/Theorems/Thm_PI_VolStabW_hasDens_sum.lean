@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_hasDens_sum
 -- name    : PI.VolStabW.hasDens_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:44:46.791182+00:00
 -- url     : https://prove2.me/theorems/8ce666f7-6eb2-40ab-af86-4a0dfd109258

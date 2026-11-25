@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_formT_self_nonneg
 -- name    : PositivityTheory.KReal.formT_self_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:51:05.463051+00:00
 -- url     : https://prove2.me/theorems/967621ff-90b5-5e12-99c1-70255fb86bae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpenCategoryPAC_mixture_cdf_decomposition
 -- name    : OpenCategoryPAC.mixture_cdf_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T04:20:18.170031+00:00
 -- url     : https://prove2.me/theorems/a437101b-5f70-4c4e-85cf-061010d718b2

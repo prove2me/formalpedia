@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_F5_evalGL_shift
 -- name    : PositivityTheory.Rg.BcB.F.F5.evalGL_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:52:28.167665+00:00
 -- url     : https://prove2.me/theorems/1fd0d35c-cab4-538a-a376-d5a2ba168826

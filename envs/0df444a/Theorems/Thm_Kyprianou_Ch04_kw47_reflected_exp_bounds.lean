@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_reflected_exp_bounds
 -- name    : Kyprianou.Ch04.kw47_reflected_exp_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T10:22:42.828385+00:00
 -- url     : https://prove2.me/theorems/3489f61e-05d6-428f-9fed-1ebb162ea01e

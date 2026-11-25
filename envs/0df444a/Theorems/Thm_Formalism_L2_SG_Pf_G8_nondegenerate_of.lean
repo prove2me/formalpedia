@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G8_nondegenerate_of
 -- name    : Formalism.L2.SG.Pf.G8.nondegenerate_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:12:47.093318+00:00
 -- url     : https://prove2.me/theorems/d93f7589-fb84-5eab-b99f-551644a9a6aa

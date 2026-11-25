@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_SuppColProof_om_colE
 -- name    : GlobalTheory.LocFlat.SuppColProof.om_colE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:20:32.771862+00:00
 -- url     : https://prove2.me/theorems/85da65a2-57b5-44d3-ad31-be097e5175e6

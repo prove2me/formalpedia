@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_foldr_ofFn
 -- name    : PIQnLT.foldr_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:58.965548+00:00
 -- url     : https://prove2.me/theorems/784f48e6-778b-4432-9a78-9f6bb1cb4715

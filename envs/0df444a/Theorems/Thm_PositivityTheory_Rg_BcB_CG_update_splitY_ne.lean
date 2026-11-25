@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_CG_update_splitY_ne
 -- name    : PositivityTheory.Rg.BcB.CG.update_splitY_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:52:22.55705+00:00
 -- url     : https://prove2.me/theorems/d24e1c46-b1e0-45cf-93ea-83f7ab201378

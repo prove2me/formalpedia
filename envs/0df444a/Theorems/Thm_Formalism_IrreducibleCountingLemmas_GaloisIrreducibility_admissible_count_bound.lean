@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_admissible_count_bound
+-- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.admissible_count_bound
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-25T11:42:55.473272+00:00
+-- url     : https://prove2.me/theorems/0bef0805-647f-5090-bdea-d6c7dce9022f
+-- title:
+--   Galois Irreducibility: admissible count bound
+-- statement:
+--   The Galois Irreducibility construction uses the admissible count bound property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PadicSubsetSums/StableGradedCounts/LocalEstimateIVOfTypeSetWeight.lean#L110-L147
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PadicSubsetSums/StableGradedCounts/LocalEstimateIVOfTypeSetWeight.lean#L110-L147
+
+import Definitions.Def_Formalism_PadicSubsetSums_CentralIdempotents_EigenbasisOfDistinctRoots
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_PropositionOneCentralCount
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRDivisorDegreeSubSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCycleProbSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeRecipSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRLemmaLWeight
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeToPartEqIff
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeToPartSpec
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRLemmaP
+import Definitions.Def_Formalism_GaloisIrreducibility_NoSolvableTransitive
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCentralIdemSelfAdjoint
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRIrredCountUpper
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRSquarefreeCount
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRTypeCountExact
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCycleTypeProb
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_LocalEstimateIVOfTypeSetWeight
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.IrreducibleCountingLemmas Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+
+theorem Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.admissible_count_bound : AdmissibleCount := by sorry

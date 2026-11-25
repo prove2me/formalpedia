@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CurryingSwaps_swap_mixed
 -- name    : PositivityTheory.Rg.Cz.CurryingSwaps.swap_mixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:53:27.373387+00:00
 -- url     : https://prove2.me/theorems/0ddbad2d-711a-46f6-9c7c-f40c0079608c

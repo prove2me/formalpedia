@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_BlockAlgebra_spoly_natDegree
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.BlockAlgebra.spoly_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:49.134802+00:00
 -- url     : https://prove2.me/theorems/4ee15294-243d-5296-bb50-71b2091bea46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_orthonormal_domain
 -- name    : PIW.FdPA.orthonormal_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:48:35.039507+00:00
 -- url     : https://prove2.me/theorems/ea22eb52-b9b0-4913-a406-3231eacd2d55

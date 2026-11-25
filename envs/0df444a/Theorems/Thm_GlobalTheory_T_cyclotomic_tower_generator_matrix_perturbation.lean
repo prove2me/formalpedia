@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cyclotomic_tower_generator_matrix_perturbation
 -- name    : GlobalTheory.T.cyclotomic_tower_generator_matrix_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:48:31.825463+00:00
 -- url     : https://prove2.me/theorems/cb03bda5-5f92-4af2-b5ec-526899c5514b

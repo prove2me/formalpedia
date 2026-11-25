@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_rhsWInv_of_orb
 -- name    : PI.RhsWLim.W.RI.rhsWInv_of_orb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:20:19.808187+00:00
 -- url     : https://prove2.me/theorems/4d2b5d38-580f-513d-9b25-a42021d35009

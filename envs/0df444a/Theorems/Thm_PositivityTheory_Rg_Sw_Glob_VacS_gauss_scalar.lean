@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_Glob_VacS_gauss_scalar
 -- name    : PositivityTheory.Rg.Sw.Glob.VacS.gauss_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:48:31.887869+00:00
 -- url     : https://prove2.me/theorems/4f162030-5308-5e60-a8bd-b1bdf73e0604

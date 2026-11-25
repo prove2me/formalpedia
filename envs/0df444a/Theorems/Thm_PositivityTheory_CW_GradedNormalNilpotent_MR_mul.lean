@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_GradedNormalNilpotent_MR_mul
 -- name    : PositivityTheory.CW.GradedNormalNilpotent.MR_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:49:05.24316+00:00
 -- url     : https://prove2.me/theorems/c26d528f-ec66-45be-8e95-e3663f2cf7d8

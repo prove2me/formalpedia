@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RestrictedProductGluing_measurableSet_good
 -- name    : PI.VolStabW.RestrictedProductGluing.measurableSet_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:42:43.59484+00:00
 -- url     : https://prove2.me/theorems/d7669735-2070-5932-afed-0366382b1595

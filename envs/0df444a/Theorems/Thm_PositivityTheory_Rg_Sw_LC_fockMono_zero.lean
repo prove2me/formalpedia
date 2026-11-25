@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_fockMono_zero
 -- name    : PositivityTheory.Rg.Sw.LC.fockMono_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:57:39.64545+00:00
 -- url     : https://prove2.me/theorems/36e14b7b-c960-46a0-aa95-e6f0f95c1460

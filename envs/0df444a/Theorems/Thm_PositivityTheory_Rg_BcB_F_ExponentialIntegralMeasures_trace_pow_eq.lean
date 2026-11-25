@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_ExponentialIntegralMeasures_trace_pow_eq
 -- name    : PositivityTheory.Rg.BcB.F.ExponentialIntegralMeasures.trace_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:52:50.250341+00:00
 -- url     : https://prove2.me/theorems/d6c301f1-67f9-40bf-978c-93a82f785b5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_GrowthPolynomialOperator_coef2
 -- name    : PositivityTheory.CW.GrowthPolynomialOperator.coef2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:50:57.41117+00:00
 -- url     : https://prove2.me/theorems/35ee54e8-f253-48bc-a1bc-bcc2c2d4045c

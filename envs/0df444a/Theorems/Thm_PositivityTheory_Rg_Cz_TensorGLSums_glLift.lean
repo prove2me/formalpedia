@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TensorGLSums_glLift
 -- name    : PositivityTheory.Rg.Cz.TensorGLSums.glLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:58:43.819283+00:00
 -- url     : https://prove2.me/theorems/6ba68bf9-39a8-49e1-ac02-6202a018adf7

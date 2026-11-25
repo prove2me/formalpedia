@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PlacePermOperatorBicommutantSpan_blk_eta
 -- name    : PositivityTheory.PlacePermOperatorBicommutantSpan.blk_eta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:51:46.576244+00:00
 -- url     : https://prove2.me/theorems/615e1336-211d-5e9f-a843-e53defdbc16d

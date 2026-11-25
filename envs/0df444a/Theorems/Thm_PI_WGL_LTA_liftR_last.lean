@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTA_liftR_last
 -- name    : PI.WGL.LTA.liftR_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:22.196842+00:00
 -- url     : https://prove2.me/theorems/9a7c987b-a0a0-4988-bfca-d6f13a32f744

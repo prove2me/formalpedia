@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_NoLogarithmTerms_hasDerivAt_pev
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.NoLogarithmTerms.hasDerivAt_pev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:52:36.194969+00:00
 -- url     : https://prove2.me/theorems/cc1c5b0d-ada4-57f1-a708-e616f3490ead

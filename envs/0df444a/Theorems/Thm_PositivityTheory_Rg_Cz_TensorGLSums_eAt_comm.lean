@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TensorGLSums_eAt_comm
 -- name    : PositivityTheory.Rg.Cz.TensorGLSums.eAt_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:53:32.645016+00:00
 -- url     : https://prove2.me/theorems/f1a71bdc-65cf-45df-8bf5-ac46557f5cd6

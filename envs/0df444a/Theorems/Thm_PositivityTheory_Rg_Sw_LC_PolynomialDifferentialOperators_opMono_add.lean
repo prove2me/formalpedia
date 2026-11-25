@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialDifferentialOperators_opMono_add
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.opMono_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:00:43.900851+00:00
 -- url     : https://prove2.me/theorems/aaa01564-4123-50f0-8928-b89c206ad6e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G8_isJordanIn_perm
 -- name    : Formalism.L2.SG.Pf.G8.isJordanIn_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:25:49.954934+00:00
 -- url     : https://prove2.me/theorems/68503a66-9c9e-5fb9-973d-a41fbc0195f4

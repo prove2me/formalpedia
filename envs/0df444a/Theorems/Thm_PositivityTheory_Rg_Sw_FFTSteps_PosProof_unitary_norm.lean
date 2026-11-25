@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_PosProof_unitary_norm
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.PosProof.unitary_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:59:52.070797+00:00
 -- url     : https://prove2.me/theorems/2e645b89-6029-473c-aa7a-5959af582fce

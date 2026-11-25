@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_FixW_fixed_point_subgroup
 -- name    : PI.StabSplit.FixW.fixed_point_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:17:04.248869+00:00
 -- url     : https://prove2.me/theorems/b71e4c74-c5fd-43a8-9829-2b00dbcbc3c9

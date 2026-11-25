@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SpecA_Kl_lift
 -- name    : PositivityTheory.Rg.Cz.SpecA.Kl_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:53:41.049082+00:00
 -- url     : https://prove2.me/theorems/45068d66-45ad-5213-93c4-9115c8c7b50b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictInter_tau_incl
 -- name    : PIW.AdelClassFin.DictInter.tau_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:48:21.762804+00:00
 -- url     : https://prove2.me/theorems/b7bcd862-d7be-45fd-8996-0e977084f575

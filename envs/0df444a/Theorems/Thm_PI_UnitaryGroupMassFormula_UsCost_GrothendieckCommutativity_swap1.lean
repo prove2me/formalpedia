@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_GrothendieckCommutativity_swap1
 -- name    : PI.UnitaryGroupMassFormula.UsCost.GrothendieckCommutativity.swap1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:43:00.673158+00:00
 -- url     : https://prove2.me/theorems/9f47f0ce-91be-4b0f-a2bf-3cdb12b6a3e4

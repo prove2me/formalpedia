@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_second_derivatives_of_growth
 -- name    : PositivityTheory.CW.second_derivatives_of_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:51:19.597099+00:00
 -- url     : https://prove2.me/theorems/0cb5b51a-1e2a-5ae7-99f4-be8f5455dab3

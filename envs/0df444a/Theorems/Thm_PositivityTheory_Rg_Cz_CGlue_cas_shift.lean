@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CGlue_cas_shift
 -- name    : PositivityTheory.Rg.Cz.CGlue.cas_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:00.788855+00:00
 -- url     : https://prove2.me/theorems/78f90632-7fac-4c8c-97e8-2177ce105fd4

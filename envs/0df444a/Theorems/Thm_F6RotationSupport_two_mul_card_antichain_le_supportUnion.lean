@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_two_mul_card_antichain_le_supportUnion
 -- name    : F6RotationSupport.two_mul_card_antichain_le_supportUnion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:24:01.481806+00:00
 -- url     : https://prove2.me/theorems/993a7ebf-a00b-41d4-bfba-db828085ecff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_cellUnion_of_cover
 -- name    : GroundTheory.Automorphic.Parabolic.cellUnion_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:23:30.01087+00:00
 -- url     : https://prove2.me/theorems/cc522139-4125-4f86-8aa0-7f3d02f7e1c8

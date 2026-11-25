@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_MatrixActionSingle_adjSign_symm
 -- name    : PositivityTheory.CW.MatrixActionSingle.adjSign_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:02.447472+00:00
 -- url     : https://prove2.me/theorems/fe66e897-cfac-4967-9696-a7789aff76d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_MaximumPrincipleOneFunction_hilbert_schmidt_nonneg_alt
 -- name    : PositivityTheory.CW.MaximumPrincipleOneFunction.hilbert_schmidt_nonneg_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:37.091831+00:00
 -- url     : https://prove2.me/theorems/55d525bf-1c12-4675-bffc-34cab6368531

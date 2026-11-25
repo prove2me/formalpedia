@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_SepFac_commute_aeval
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SepFac.commute_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:00.121894+00:00
 -- url     : https://prove2.me/theorems/9d6dbace-1676-48fc-a96c-b4c08b3232f4

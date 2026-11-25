@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_AvgPf_map_star_mul
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.AvgPf.map_star_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:59:51.769+00:00
 -- url     : https://prove2.me/theorems/1c1e0c3f-a805-5f99-b98d-86d340a6f514

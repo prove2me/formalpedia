@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Unit_level_smul_smul
 -- name    : PositivityTheory.PfBern.Unit.level_smul_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:52:54.52581+00:00
 -- url     : https://prove2.me/theorems/de5bebb7-9b4a-4a62-a039-fa53f887c472

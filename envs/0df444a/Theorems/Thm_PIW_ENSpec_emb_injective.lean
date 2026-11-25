@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ENSpec_emb_injective
 -- name    : PIW.ENSpec.emb_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:48:00.764806+00:00
 -- url     : https://prove2.me/theorems/f5111edd-0e2f-4673-adcf-b63ebe2df662

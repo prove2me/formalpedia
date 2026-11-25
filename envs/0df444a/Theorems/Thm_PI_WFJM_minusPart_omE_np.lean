@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_minusPart_omE_np
 -- name    : PI.WFJM.minusPart_omE_np
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:26:50.852042+00:00
 -- url     : https://prove2.me/theorems/27cc1f49-93ff-4dc2-a5ac-a1b1463b02d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_Cj_continuous_mk
 -- name    : PI.ZuckTensorWork.Cj.continuous_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:46:13.991808+00:00
 -- url     : https://prove2.me/theorems/0ee0e896-5ccf-5469-9953-726eecf04381

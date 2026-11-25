@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_rep_zT_sat
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.rep_zT_sat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:22:14.091881+00:00
 -- url     : https://prove2.me/theorems/71f04bcd-bd59-495e-904d-b72f1104ee7c

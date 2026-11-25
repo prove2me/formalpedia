@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_PStepFormula_ext_of_alt
 -- name    : PositivityTheory.Rg.Cz.PStepFormula.ext_of_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:04.996802+00:00
 -- url     : https://prove2.me/theorems/3dac49f8-1f86-405c-8a1a-726846d5afab

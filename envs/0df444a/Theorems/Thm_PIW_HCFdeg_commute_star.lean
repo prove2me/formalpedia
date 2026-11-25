@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_commute_star
 -- name    : PIW.HCFdeg.commute_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:48:28.913213+00:00
 -- url     : https://prove2.me/theorems/dd6f20f3-ac31-5e10-9721-8428ffc4cdef

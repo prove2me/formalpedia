@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_lprod_bump
 -- name    : PI.WickFormula.lprod_bump
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:03.209966+00:00
 -- url     : https://prove2.me/theorems/3106c87f-5cf9-4c7e-b182-1e0a472887f5

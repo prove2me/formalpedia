@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTE_ite_pow_memZ
 -- name    : PI.WGL.LTE.ite_pow_memZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:46:12.965178+00:00
 -- url     : https://prove2.me/theorems/c3f9aa17-c430-42ab-a793-34dd1fbe56f8

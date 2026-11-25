@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_FFHS_card_diag
 -- name    : PI.VolStabSW.FFHS.card_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:42:07.603543+00:00
 -- url     : https://prove2.me/theorems/ebdb27d9-ebc8-47f3-a404-a9253888f3ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_HtPt_Siua_expand
 -- name    : PositivityTheory.HtPt.Siua.expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:48.700851+00:00
 -- url     : https://prove2.me/theorems/cc3bd859-a125-4ce4-9792-a09b5a979f59

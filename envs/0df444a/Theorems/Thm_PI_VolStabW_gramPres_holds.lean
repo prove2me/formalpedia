@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_gramPres_holds
 -- name    : PI.VolStabW.gramPres_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:42:47.289895+00:00
 -- url     : https://prove2.me/theorems/07e802c8-8e33-5b63-9a52-59dcf1130bb0

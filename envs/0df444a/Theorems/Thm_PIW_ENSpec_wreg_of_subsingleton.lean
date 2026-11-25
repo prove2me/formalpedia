@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ENSpec_wreg_of_subsingleton
 -- name    : PIW.ENSpec.wreg_of_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:07.857814+00:00
 -- url     : https://prove2.me/theorems/ee308a1f-d2c1-5c9d-aa8f-69a88116c0e2

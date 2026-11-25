@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_EigenSumRepresentation_inner_fc
 -- name    : PositivityTheory.CW.EigenSumRepresentation.inner_fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:50:03.458216+00:00
 -- url     : https://prove2.me/theorems/db3728e4-7511-4986-87f3-59b0fc9467f3

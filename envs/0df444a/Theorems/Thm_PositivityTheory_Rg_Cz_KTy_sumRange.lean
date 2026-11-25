@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_KTy_sumRange
 -- name    : PositivityTheory.Rg.Cz.KTy.sumRange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:53:20.728314+00:00
 -- url     : https://prove2.me/theorems/c7b12a8c-c334-4059-bcfe-176dba78e01b

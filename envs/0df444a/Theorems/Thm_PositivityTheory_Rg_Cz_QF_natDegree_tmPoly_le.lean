@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_QF_natDegree_tmPoly_le
 -- name    : PositivityTheory.Rg.Cz.QF.natDegree_tmPoly_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:10.036584+00:00
 -- url     : https://prove2.me/theorems/d2c3af1c-cd40-4a5b-9451-f50b1a0636c4

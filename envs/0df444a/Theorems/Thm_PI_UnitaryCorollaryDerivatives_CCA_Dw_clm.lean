@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_CCA_Dw_clm
 -- name    : PI.UnitaryCorollaryDerivatives.CCA.Dw_clm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:34:14.128998+00:00
 -- url     : https://prove2.me/theorems/10d2662b-fe52-4144-a928-09497115ad6b

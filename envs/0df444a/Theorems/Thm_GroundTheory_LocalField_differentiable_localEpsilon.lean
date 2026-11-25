@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_differentiable_localEpsilon
 -- name    : GroundTheory.LocalField.differentiable_localEpsilon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:25:23.071177+00:00
 -- url     : https://prove2.me/theorems/c7af8ef6-13c5-5486-bcc1-25de60d89c7a

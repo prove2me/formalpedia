@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_TopoFibInv_gramR_smul
 -- name    : PI.VolStabW.TopoFibInv.gramR_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:53:41.713561+00:00
 -- url     : https://prove2.me/theorems/4c647e25-1259-4a3a-8162-5f44d900348a

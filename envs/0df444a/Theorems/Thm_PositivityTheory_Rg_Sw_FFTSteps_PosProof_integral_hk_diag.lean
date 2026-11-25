@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_PosProof_integral_hk_diag
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.PosProof.integral_hk_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:00:31.477318+00:00
 -- url     : https://prove2.me/theorems/048f0f28-e636-5bb6-b371-507aae8a0529

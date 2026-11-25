@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_SecondMomentAlgebra_zsum
 -- name    : PositivityTheory.CW.SecondMomentAlgebra.zsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:52:23.976847+00:00
 -- url     : https://prove2.me/theorems/71837af7-2007-5173-9b5d-06882e044894

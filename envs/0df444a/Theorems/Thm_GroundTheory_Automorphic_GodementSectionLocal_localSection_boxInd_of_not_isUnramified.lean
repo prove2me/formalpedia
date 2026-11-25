@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_localSection_boxInd_of_not_isUnramified
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.localSection_boxInd_of_not_isUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:39:06.501644+00:00
 -- url     : https://prove2.me/theorems/4ade6bec-e086-423d-b6e3-0086ccfa0445

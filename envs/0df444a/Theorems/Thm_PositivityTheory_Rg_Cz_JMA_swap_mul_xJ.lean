@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_JMA_swap_mul_xJ
 -- name    : PositivityTheory.Rg.Cz.JMA.swap_mul_xJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:24.282796+00:00
 -- url     : https://prove2.me/theorems/2d75bd9f-085b-42b4-b080-ec95e4fe2b28

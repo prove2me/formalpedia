@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_minima_of_key
 -- name    : PI.minima_of_key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:59:01.976055+00:00
 -- url     : https://prove2.me/theorems/a5532b06-0c7d-4894-84c2-908d242ef545

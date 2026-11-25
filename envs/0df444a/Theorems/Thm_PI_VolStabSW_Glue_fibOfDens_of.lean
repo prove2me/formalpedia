@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_Glue_fibOfDens_of
 -- name    : PI.VolStabSW.Glue.fibOfDens_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:43:55.670449+00:00
 -- url     : https://prove2.me/theorems/0320cee7-2fe3-4dd0-8a7a-71c111670ed9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CtrX_anti_span
 -- name    : PositivityTheory.Rg.Cz.CtrX.anti_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:53:20.102801+00:00
 -- url     : https://prove2.me/theorems/cfc258f4-1a1f-5fd7-a79f-0cfef2efad59

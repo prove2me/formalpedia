@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_dot_pm_swap
 -- name    : PositivityTheory.Rg.Cz.dot_pm_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:56:16.701654+00:00
 -- url     : https://prove2.me/theorems/68ba2f10-b4aa-5979-81c0-1e1e503bcb9d

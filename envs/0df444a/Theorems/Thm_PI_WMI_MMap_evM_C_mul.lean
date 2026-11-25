@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_MMap_evM_C_mul
 -- name    : PI.WMI.MMap.evM_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:58.971028+00:00
 -- url     : https://prove2.me/theorems/66cb865d-ea3e-46fe-b6f9-a483d1489787

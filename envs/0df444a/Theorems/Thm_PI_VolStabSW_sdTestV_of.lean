@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_sdTestV_of
 -- name    : PI.VolStabSW.sdTestV_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:43:04.775495+00:00
 -- url     : https://prove2.me/theorems/3c34c734-0a58-440c-bb88-4564e12c89e7

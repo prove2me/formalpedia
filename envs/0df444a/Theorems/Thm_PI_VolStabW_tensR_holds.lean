@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_tensR_holds
 -- name    : PI.VolStabW.tensR_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:37:21.772442+00:00
 -- url     : https://prove2.me/theorems/95144c4a-b54d-4d55-83df-d342e75e7092

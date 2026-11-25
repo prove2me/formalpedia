@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_one_add_smul_single_mul
 -- name    : PositivityTheory.Rg.Sw.LVs.II.one_add_smul_single_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:09:29.708236+00:00
 -- url     : https://prove2.me/theorems/da69f2d1-2091-57d7-b4a9-5d3cbf312e7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_sq_le_sum_sum
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.sq_le_sum_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:48:43.017643+00:00
 -- url     : https://prove2.me/theorems/22b1a54d-823d-49b0-89c8-19fef303ade3

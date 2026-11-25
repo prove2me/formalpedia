@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PlacePermOperatorBicommutantSpan_meas_perp
 -- name    : PositivityTheory.PlacePermOperatorBicommutantSpan.meas_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:51:32.025233+00:00
 -- url     : https://prove2.me/theorems/2adae7cd-292e-56bd-8e86-e6f2acb27e7a

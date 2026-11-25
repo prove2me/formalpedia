@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Gen_gdelta_mem_lowDeg_inl
 -- name    : PI.WickFormula.Gen.gdelta_mem_lowDeg_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:08.355056+00:00
 -- url     : https://prove2.me/theorems/9ced14be-98b8-585a-8740-9234c88b6e4c

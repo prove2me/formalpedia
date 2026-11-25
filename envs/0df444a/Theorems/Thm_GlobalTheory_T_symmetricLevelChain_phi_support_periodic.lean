@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symmetricLevelChain_phi_support_periodic
 -- name    : GlobalTheory.T.symmetricLevelChain_phi_support_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:28:37.335567+00:00
 -- url     : https://prove2.me/theorems/1f402abb-d4d9-51b6-8bb9-930f73de4853

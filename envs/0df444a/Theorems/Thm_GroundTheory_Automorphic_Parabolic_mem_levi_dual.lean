@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_mem_levi_dual
 -- name    : GroundTheory.Automorphic.Parabolic.mem_levi_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:20:43.05059+00:00
 -- url     : https://prove2.me/theorems/adc084fd-c765-4826-8efa-9d9a147410fc

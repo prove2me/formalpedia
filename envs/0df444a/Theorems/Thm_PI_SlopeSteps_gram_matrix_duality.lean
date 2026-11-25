@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_gram_matrix_duality
 -- name    : PI.SlopeSteps.gram_matrix_duality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:27.653582+00:00
 -- url     : https://prove2.me/theorems/480be693-7055-4f90-b392-d422e1da0850

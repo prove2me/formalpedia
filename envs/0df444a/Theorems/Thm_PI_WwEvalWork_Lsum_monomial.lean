@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwEvalWork_Lsum_monomial
 -- name    : PI.WwEvalWork.Lsum_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:25.779006+00:00
 -- url     : https://prove2.me/theorems/ad165dcc-d6a6-5ccf-a16d-fbe39d5bc5f0

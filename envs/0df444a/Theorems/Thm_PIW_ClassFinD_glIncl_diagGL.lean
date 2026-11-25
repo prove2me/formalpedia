@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ClassFinD_glIncl_diagGL
 -- name    : PIW.ClassFinD.glIncl_diagGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:44.433004+00:00
 -- url     : https://prove2.me/theorems/ef7a6316-3940-4ab1-b1ac-cc35169b3932

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CEq_mul_single_eq
 -- name    : PositivityTheory.Rg.Sw.LVs.CEq.mul_single_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:49:52.071295+00:00
 -- url     : https://prove2.me/theorems/94d49a4d-9ba0-47b5-8d7c-74a4256a790b

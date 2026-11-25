@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Witt_witt_of
 -- name    : PI.Witt.witt_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:33.994153+00:00
 -- url     : https://prove2.me/theorems/1029f6d9-fe26-4c31-854f-8108d3a43fd7

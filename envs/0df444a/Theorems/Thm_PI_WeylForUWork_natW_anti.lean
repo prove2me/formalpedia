@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForUWork_natW_anti
 -- name    : PI.WeylForUWork.natW_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:48:08.367706+00:00
 -- url     : https://prove2.me/theorems/8b58dad2-8859-589d-9608-9f688d2a4c22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_PMaxPr_evalAt_apply
 -- name    : PositivityTheory.CW.PMaxPr.evalAt_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:51:19.610711+00:00
 -- url     : https://prove2.me/theorems/7cfba8da-2407-4446-9c59-e1158e4398db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwCauchyBinetWork_wwCauchyBinet_main
 -- name    : PI.WwCauchyBinetWork.wwCauchyBinet_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:57.681585+00:00
 -- url     : https://prove2.me/theorems/4cefabbe-9173-4ca7-bb6a-fe5e9599ca53

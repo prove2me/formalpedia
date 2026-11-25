@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_IdxHW_val_mul_lt
 -- name    : PI.VolStabW.IdxHW.val_mul_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:46:31.06075+00:00
 -- url     : https://prove2.me/theorems/f1c17e6c-d2f0-5455-82b9-3b43eff492ae

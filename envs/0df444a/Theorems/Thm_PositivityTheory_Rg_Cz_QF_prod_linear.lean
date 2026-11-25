@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_QF_prod_linear
 -- name    : PositivityTheory.Rg.Cz.QF.prod_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:50.257582+00:00
 -- url     : https://prove2.me/theorems/d9739aff-5883-4496-960d-0adada84f3fb

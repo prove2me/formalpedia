@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_det_incMat_eq_zero_of_not_isTree
 -- name    : MatrixTree.det_incMat_eq_zero_of_not_isTree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:06:07.457892+00:00
 -- url     : https://prove2.me/theorems/5deaf1de-197c-50b4-8ff3-9ec5fc7687a5

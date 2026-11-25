@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_weight_unique_holds
 -- name    : PI.WeylForKWork.weight_unique_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:44:52.649286+00:00
 -- url     : https://prove2.me/theorems/c2e8b584-193e-4907-bff3-9732450667ca

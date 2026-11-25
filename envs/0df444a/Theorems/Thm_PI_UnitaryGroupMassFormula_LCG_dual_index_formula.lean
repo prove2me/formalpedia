@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_dual_index_formula
 -- name    : PI.UnitaryGroupMassFormula.LCG.dual_index_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:40:01.652651+00:00
 -- url     : https://prove2.me/theorems/96082d10-a057-4f48-b3ef-c8f7d91fe757

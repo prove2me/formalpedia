@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_fundamentalDomain_of_parts
 -- name    : PIW.FdPA.fundamentalDomain_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:42.826426+00:00
 -- url     : https://prove2.me/theorems/e3045675-bfea-4faf-bdad-8d1095c22244

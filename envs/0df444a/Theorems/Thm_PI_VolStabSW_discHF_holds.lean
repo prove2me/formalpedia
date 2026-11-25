@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_discHF_holds
 -- name    : PI.VolStabSW.discHF_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:45:47.019425+00:00
 -- url     : https://prove2.me/theorems/df7dd837-3e18-4ce2-89ec-5aaeeba3efb4

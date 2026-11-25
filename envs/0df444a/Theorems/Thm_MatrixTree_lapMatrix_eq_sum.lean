@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_lapMatrix_eq_sum
 -- name    : MatrixTree.lapMatrix_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:06:36.957161+00:00
 -- url     : https://prove2.me/theorems/b887df8d-bc63-40b2-871c-d6bb1a674904

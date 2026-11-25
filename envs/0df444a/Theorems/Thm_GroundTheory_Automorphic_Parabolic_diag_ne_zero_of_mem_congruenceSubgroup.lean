@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_diag_ne_zero_of_mem_congruenceSubgroup
 -- name    : GroundTheory.Automorphic.Parabolic.diag_ne_zero_of_mem_congruenceSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:20:06.34853+00:00
 -- url     : https://prove2.me/theorems/f075181f-fa65-4361-9bb1-f4d0eaf4ccd9

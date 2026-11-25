@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_SepFac_factor_deg
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SepFac.factor_deg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:08.450727+00:00
 -- url     : https://prove2.me/theorems/06a3b89e-b453-4d83-8bf9-3314eb7c7977

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Mom1_integrable_rpow_gauss
 -- name    : PositivityTheory.Rg.Sw.LC.Mom1.integrable_rpow_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:50.574794+00:00
 -- url     : https://prove2.me/theorems/fd4313fb-bf33-4ba4-b57e-9b21d0bbe64b

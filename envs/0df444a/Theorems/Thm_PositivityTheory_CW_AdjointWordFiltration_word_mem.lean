@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_AdjointWordFiltration_word_mem
 -- name    : PositivityTheory.CW.AdjointWordFiltration.word_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:08.633932+00:00
 -- url     : https://prove2.me/theorems/5d7b4083-2efc-4d7d-aca3-3055d042daf0

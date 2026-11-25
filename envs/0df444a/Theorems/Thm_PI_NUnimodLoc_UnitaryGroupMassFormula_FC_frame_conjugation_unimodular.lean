@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NUnimodLoc_UnitaryGroupMassFormula_FC_frame_conjugation_unimodular
 -- name    : PI.NUnimodLoc.UnitaryGroupMassFormula.FC.frame_conjugation_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:34:50.273005+00:00
 -- url     : https://prove2.me/theorems/22e04da3-126d-4995-9ddb-ee70c7ba27dd

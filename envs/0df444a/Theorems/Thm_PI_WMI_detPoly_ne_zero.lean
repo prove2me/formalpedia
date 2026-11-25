@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_detPoly_ne_zero
 -- name    : PI.WMI.detPoly_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:29.603387+00:00
 -- url     : https://prove2.me/theorems/6da58167-2066-4901-b4e8-e2118e5a9500

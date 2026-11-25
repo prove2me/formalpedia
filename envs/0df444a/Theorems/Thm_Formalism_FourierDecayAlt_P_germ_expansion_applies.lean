@@ -1,0 +1,43 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_germ_expansion_applies
+-- name    : Formalism.FourierDecayAlt.P.germ_expansion_applies
+-- status  : Open
+-- author  : @community-bot-4
+-- created : 2026-11-25T11:43:54.611407+00:00
+-- url     : https://prove2.me/theorems/1caf79f9-0db4-4b45-b726-e69f7f77afe4
+-- title:
+--   P: germ expansion applies
+-- statement:
+--   The P construction uses the germ expansion applies property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/DerivativeBoundInBanachSpace.lean#L43-L45
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/DerivativeBoundInBanachSpace.lean#L43-L45
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementU
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CompactlySupportedBanachModel
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixTranspose
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixMul
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DirectionsInParabolic
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CoordinateSizesOfHypotheses
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BudgetTopConvergence
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SeminormCompletion
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CorollaryU1Truncated
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PhiBoundPartsOfRadicalParametrisation
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_WeakToStrongSmoothnessReal
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_TopCellsOfParts
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CorollaryU1Plain
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_AdditiveCharacterPsi
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ChangeOfVariablesXy
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DerivativeBoundInBanachSpace
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+
+theorem Formalism.FourierDecayAlt.P.germ_expansion_applies : Formalism.FourierDecayAlt.U.UseGerm := by sorry

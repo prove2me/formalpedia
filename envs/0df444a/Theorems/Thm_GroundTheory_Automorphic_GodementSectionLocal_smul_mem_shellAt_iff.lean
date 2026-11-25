@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_smul_mem_shellAt_iff
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.smul_mem_shellAt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:35:23.886498+00:00
 -- url     : https://prove2.me/theorems/380540c9-b55f-55cd-a72c-60f4f75cdfcb

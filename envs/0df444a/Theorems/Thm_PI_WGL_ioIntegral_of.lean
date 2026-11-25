@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_ioIntegral_of
 -- name    : PI.WGL.ioIntegral_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:46:10.629629+00:00
 -- url     : https://prove2.me/theorems/ee3419e9-a49c-48bd-9aac-80a61ec67b8f

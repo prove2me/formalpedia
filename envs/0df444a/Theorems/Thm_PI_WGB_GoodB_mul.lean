@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_GoodB_mul
 -- name    : PI.WGB.GoodB_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:35.182357+00:00
 -- url     : https://prove2.me/theorems/ce2cc659-98a4-4883-9b4c-0199c40e45ce

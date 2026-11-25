@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_CompactGroupFacts_mul_mem
 -- name    : PositivityTheory.CW.CompactGroupFacts.mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:50:33.488846+00:00
 -- url     : https://prove2.me/theorems/14f4e8a6-997d-4869-8c2b-693d43c6ce5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Delta_hadamard_lemma
 -- name    : PositivityTheory.RL.Delta.hadamard_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:51:33.435353+00:00
 -- url     : https://prove2.me/theorems/90e85f3e-11c7-5f80-8e54-65e3f5e9e38a

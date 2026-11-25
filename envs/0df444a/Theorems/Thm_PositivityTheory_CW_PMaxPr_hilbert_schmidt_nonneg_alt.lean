@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_PMaxPr_hilbert_schmidt_nonneg_alt
 -- name    : PositivityTheory.CW.PMaxPr.hilbert_schmidt_nonneg_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:46.346628+00:00
 -- url     : https://prove2.me/theorems/50242d43-87e3-5169-b91c-1dbfe3baabdb

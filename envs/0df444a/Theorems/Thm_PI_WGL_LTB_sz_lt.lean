@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTB_sz_lt
 -- name    : PI.WGL.LTB.sz_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:44:27.142786+00:00
 -- url     : https://prove2.me/theorems/bf81257d-02cb-52f7-8610-eac1cf52db7e

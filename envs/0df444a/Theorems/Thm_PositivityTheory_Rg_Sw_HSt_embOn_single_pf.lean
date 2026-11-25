@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_embOn_single_pf
 -- name    : PositivityTheory.Rg.Sw.HSt.embOn_single_pf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:55:56.695215+00:00
 -- url     : https://prove2.me/theorems/730b4ba4-5169-5088-aabd-7f5548be2c99

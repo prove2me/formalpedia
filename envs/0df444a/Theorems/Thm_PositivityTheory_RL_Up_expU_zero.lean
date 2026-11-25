@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Up_expU_zero
 -- name    : PositivityTheory.RL.Up.expU_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:04:25.893221+00:00
 -- url     : https://prove2.me/theorems/edaa846d-a023-442d-8471-0532418af853

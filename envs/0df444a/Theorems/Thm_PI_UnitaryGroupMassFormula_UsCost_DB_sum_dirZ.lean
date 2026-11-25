@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_DB_sum_dirZ
 -- name    : PI.UnitaryGroupMassFormula.UsCost.DB.sum_dirZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:04:32.459449+00:00
 -- url     : https://prove2.me/theorems/c314d2a4-b83a-4a09-abfa-bf221ffc0e62

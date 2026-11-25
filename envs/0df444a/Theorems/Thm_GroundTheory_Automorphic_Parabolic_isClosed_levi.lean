@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isClosed_levi
 -- name    : GroundTheory.Automorphic.Parabolic.isClosed_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:22:30.500382+00:00
 -- url     : https://prove2.me/theorems/b02d1919-8405-418a-b256-eb988130e434

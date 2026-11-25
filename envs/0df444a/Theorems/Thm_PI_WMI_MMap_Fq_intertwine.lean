@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_MMap_Fq_intertwine
 -- name    : PI.WMI.MMap.Fq_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:39.698695+00:00
 -- url     : https://prove2.me/theorems/5743fa91-116f-42f2-9a5e-a452f5c10402

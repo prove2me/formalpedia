@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_lowIndex_zcoeff_mul
 -- name    : GroundTheory.PAdicHodge.TeichLift.lowIndex_zcoeff_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:28:38.188642+00:00
 -- url     : https://prove2.me/theorems/64fcf79d-a67d-4000-a4f3-13c248998d8f

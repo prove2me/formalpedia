@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelicOrbitU_uc_prod
 -- name    : PIW.AdelicOrbitU.uc_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:46:56.576483+00:00
 -- url     : https://prove2.me/theorems/419e1b04-357f-47d9-a376-d92ce1bc4fe2

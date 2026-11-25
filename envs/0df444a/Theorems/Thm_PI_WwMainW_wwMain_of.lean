@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwMainW_wwMain_of
 -- name    : PI.WwMainW.wwMain_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:46:22.466907+00:00
 -- url     : https://prove2.me/theorems/6c0c92ad-5879-4db7-85f7-807653f77d13

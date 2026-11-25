@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_sqAct_mem_B
 -- name    : PI.WGB.sqAct_mem_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:46:02.373011+00:00
 -- url     : https://prove2.me/theorems/cb57ca68-3c1b-4de6-80c3-bd681e80fa38

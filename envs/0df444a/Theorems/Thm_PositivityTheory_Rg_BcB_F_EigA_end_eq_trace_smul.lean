@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_EigA_end_eq_trace_smul
 -- name    : PositivityTheory.Rg.BcB.F.EigA.end_eq_trace_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:52:59.806805+00:00
 -- url     : https://prove2.me/theorems/d4ce34d9-d3a5-44c9-a603-9ffcc411c3b2

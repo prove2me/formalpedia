@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_F5_evalGL_sub
 -- name    : PositivityTheory.Rg.BcB.F.F5.evalGL_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:52:35.10654+00:00
 -- url     : https://prove2.me/theorems/01d505ab-0e31-595e-8b91-4a561f729aa2

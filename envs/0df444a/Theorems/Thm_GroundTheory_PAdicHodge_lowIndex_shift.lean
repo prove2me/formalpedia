@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_lowIndex_shift
 -- name    : GroundTheory.PAdicHodge.lowIndex_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:29:50.82228+00:00
 -- url     : https://prove2.me/theorems/73192a18-9f6c-4a2b-823a-fbdf890b3c1a

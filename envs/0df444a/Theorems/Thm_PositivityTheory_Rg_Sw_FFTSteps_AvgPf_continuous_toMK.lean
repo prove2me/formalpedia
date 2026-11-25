@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_AvgPf_continuous_toMK
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.AvgPf.continuous_toMK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:59:01.84563+00:00
 -- url     : https://prove2.me/theorems/6b83b467-3eb7-4ff3-ab96-8d5502b0924e

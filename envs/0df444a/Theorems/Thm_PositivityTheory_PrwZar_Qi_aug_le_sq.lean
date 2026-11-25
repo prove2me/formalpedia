@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PrwZar_Qi_aug_le_sq
 -- name    : PositivityTheory.PrwZar.Qi.aug_le_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:52:04.715383+00:00
 -- url     : https://prove2.me/theorems/05b4d806-1772-4762-b369-2aa39a8026f4

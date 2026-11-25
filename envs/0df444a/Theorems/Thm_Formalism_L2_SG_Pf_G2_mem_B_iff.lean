@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G2_mem_B_iff
 -- name    : Formalism.L2.SG.Pf.G2.mem_B_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:32:03.141552+00:00
 -- url     : https://prove2.me/theorems/b194ff3c-a174-55db-89d2-2cc558363547

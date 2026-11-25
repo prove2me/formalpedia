@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TrOf_qdet_map
 -- name    : PositivityTheory.Rg.Cz.TrOf.qdet_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:39.914467+00:00
 -- url     : https://prove2.me/theorems/391e610c-1bcd-4705-bb53-3a23154e2dcc

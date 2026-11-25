@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_WeightedEigenSum_wsum_le
 -- name    : PositivityTheory.CW.WeightedEigenSum.wsum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:51:00.02222+00:00
 -- url     : https://prove2.me/theorems/4af682dd-99dc-47bf-8310-990d9fb38678

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreA_PosH_sum_left
 -- name    : PositivityTheory.Rg.Sw.LC.CoreA.PosH.sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:55:56.387257+00:00
 -- url     : https://prove2.me/theorems/a576f3f7-f399-4a15-a35e-bff16a96e6f8

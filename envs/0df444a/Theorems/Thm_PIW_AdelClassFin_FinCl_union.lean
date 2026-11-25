@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_FinCl_union
 -- name    : PIW.AdelClassFin.FinCl.union
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:47:34.154302+00:00
 -- url     : https://prove2.me/theorems/03e9bde2-248e-4fec-a1d8-ef22bf046bb9

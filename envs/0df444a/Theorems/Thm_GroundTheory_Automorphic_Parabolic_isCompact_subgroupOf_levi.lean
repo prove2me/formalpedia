@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isCompact_subgroupOf_levi
 -- name    : GroundTheory.Automorphic.Parabolic.isCompact_subgroupOf_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:22:45.293002+00:00
 -- url     : https://prove2.me/theorems/95bd99d5-a645-4d11-b12f-43702ab32156

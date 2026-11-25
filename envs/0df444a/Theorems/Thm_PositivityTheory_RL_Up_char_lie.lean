@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Up_char_lie
 -- name    : PositivityTheory.RL.Up.char_lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:55:59.398575+00:00
 -- url     : https://prove2.me/theorems/22156401-0a44-5e56-bfcc-650499c7590b

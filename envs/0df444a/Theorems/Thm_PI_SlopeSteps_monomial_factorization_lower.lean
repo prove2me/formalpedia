@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_monomial_factorization_lower
 -- name    : PI.SlopeSteps.monomial_factorization_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:23.178806+00:00
 -- url     : https://prove2.me/theorems/3d1c8b2e-aed1-5870-a29b-e0a79126ce9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_count_up
 -- name    : PositivityTheory.Rg.Cz.count_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:49:02.376466+00:00
 -- url     : https://prove2.me/theorems/d1aa41cc-b622-4528-a956-669625a7bcbd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_curry_holds
 -- name    : PositivityTheory.Rg.Cz.curry_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:48:53.478921+00:00
 -- url     : https://prove2.me/theorems/e0aea59b-16b9-580e-b554-257339343244

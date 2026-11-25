@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_KTy_card_filter_sum
 -- name    : PositivityTheory.Rg.Cz.KTy.card_filter_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:53:17.04307+00:00
 -- url     : https://prove2.me/theorems/6626d08f-2bd8-45a7-9e31-0497078e6637

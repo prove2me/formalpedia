@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_uni_haar
 -- name    : PI.VolSemiDirect.W.Cj.uni_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:36:38.338851+00:00
 -- url     : https://prove2.me/theorems/963bc0e4-f2bd-4c20-bcce-53b35ec793a5

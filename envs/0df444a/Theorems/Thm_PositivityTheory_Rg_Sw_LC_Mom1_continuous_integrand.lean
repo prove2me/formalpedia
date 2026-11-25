@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Mom1_continuous_integrand
 -- name    : PositivityTheory.Rg.Sw.LC.Mom1.continuous_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:54.219638+00:00
 -- url     : https://prove2.me/theorems/4b0e0695-ace0-40bb-a756-1749a98d6586

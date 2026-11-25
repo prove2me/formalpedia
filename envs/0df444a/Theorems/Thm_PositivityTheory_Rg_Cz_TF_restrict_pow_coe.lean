@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TF_restrict_pow_coe
 -- name    : PositivityTheory.Rg.Cz.TF.restrict_pow_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:56:15.52237+00:00
 -- url     : https://prove2.me/theorems/4f18fed4-c24e-5fd2-8ea1-c24ba8060d66

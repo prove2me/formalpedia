@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WfLogWork_Gv_memS
 -- name    : PI.WfLogWork.Gv_memS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:04:57.475183+00:00
 -- url     : https://prove2.me/theorems/b35058f5-ad77-549d-ad1d-3829d7d16e1c

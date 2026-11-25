@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ChainP_xJ_comm
 -- name    : PositivityTheory.Rg.Cz.ChainP.xJ_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:15.705218+00:00
 -- url     : https://prove2.me/theorems/df276bb3-a266-4a8a-a30a-f92ed730a402

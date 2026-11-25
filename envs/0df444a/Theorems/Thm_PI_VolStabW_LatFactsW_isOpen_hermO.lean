@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_LatFactsW_isOpen_hermO
 -- name    : PI.VolStabW.LatFactsW.isOpen_hermO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:52:41.717896+00:00
 -- url     : https://prove2.me/theorems/66d39c02-7052-4c89-a1ed-5fad12e91c44

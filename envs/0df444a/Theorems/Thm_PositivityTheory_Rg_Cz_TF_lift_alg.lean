@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TF_lift_alg
 -- name    : PositivityTheory.Rg.Cz.TF.lift_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:54:08.720549+00:00
 -- url     : https://prove2.me/theorems/eed1f7ee-3e7f-487c-8f36-96e41c7ec517

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_FamInh_isOpen_connInf
 -- name    : PositivityTheory.FamInh.isOpen_connInf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:56:29.610043+00:00
 -- url     : https://prove2.me/theorems/d7c53138-1875-538c-9802-0ba307da0e44

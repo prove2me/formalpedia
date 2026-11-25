@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_Coch_cEv_zero
 -- name    : PositivityTheory.Rg.Cz.Coch.cEv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:15.715379+00:00
 -- url     : https://prove2.me/theorems/c3b4a66a-60dc-4abb-83dd-6f85f0bb58bc

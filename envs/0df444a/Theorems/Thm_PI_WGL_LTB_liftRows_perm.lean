@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTB_liftRows_perm
 -- name    : PI.WGL.LTB.liftRows_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:44:45.165133+00:00
 -- url     : https://prove2.me/theorems/6592d9c2-1700-5be5-ae7e-ad511ac6049d

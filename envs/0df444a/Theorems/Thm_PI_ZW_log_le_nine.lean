@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_log_le_nine
 -- name    : PI.ZW.log_le_nine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:46:55.077302+00:00
 -- url     : https://prove2.me/theorems/2b5e1d9f-40b8-4938-8642-c6a131c72e96

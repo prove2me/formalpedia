@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ChainP_listSub_comp
 -- name    : PositivityTheory.Rg.Cz.ChainP.listSub_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:13.688837+00:00
 -- url     : https://prove2.me/theorems/b0a90d7b-a87c-4676-aa2a-6ab87f333735

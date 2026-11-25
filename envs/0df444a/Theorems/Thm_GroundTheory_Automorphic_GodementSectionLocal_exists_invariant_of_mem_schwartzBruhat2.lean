@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_exists_invariant_of_mem_schwartzBruhat2
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.exists_invariant_of_mem_schwartzBruhat2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:37:44.882598+00:00
 -- url     : https://prove2.me/theorems/6a6cfa27-1bab-4240-b043-9597cad702d3

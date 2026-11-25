@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_ExponentialIntegralMeasures_finite_cover
 -- name    : PositivityTheory.Rg.BcB.F.ExponentialIntegralMeasures.finite_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:52:33.873731+00:00
 -- url     : https://prove2.me/theorems/b6ba09fb-33fa-5e05-8517-c9c2debd08e8

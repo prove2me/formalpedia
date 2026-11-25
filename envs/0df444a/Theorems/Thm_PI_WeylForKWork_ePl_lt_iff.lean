@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_ePl_lt_iff
 -- name    : PI.WeylForKWork.ePl_lt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:49:17.288253+00:00
 -- url     : https://prove2.me/theorems/28dd3064-9765-4edd-86ab-3949f2544310

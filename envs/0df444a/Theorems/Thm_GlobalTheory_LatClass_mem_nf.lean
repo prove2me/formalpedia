@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_mem_nf
 -- name    : GlobalTheory.LatClass.mem_nf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:46:27.749109+00:00
 -- url     : https://prove2.me/theorems/3634d4c6-2019-4a80-8180-2a0683b91baa

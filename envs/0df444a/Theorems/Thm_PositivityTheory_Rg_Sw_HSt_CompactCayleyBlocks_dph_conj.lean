@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_CompactCayleyBlocks_dph_conj
 -- name    : PositivityTheory.Rg.Sw.HSt.CompactCayleyBlocks.dph_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:54:01.879817+00:00
 -- url     : https://prove2.me/theorems/024253e3-c8ef-46e4-9c3f-d7880f9ed97d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_pointwise_envelope
 -- name    : Kyprianou.Ch04.kw47_pointwise_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T10:12:21.118439+00:00
 -- url     : https://prove2.me/theorems/6a545886-6894-504e-b437-cea61c023dc3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PClassAlg_blockDiag_mem_KO
 -- name    : GlobalTheory.PClassAlg.blockDiag_mem_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:09:39.414688+00:00
 -- url     : https://prove2.me/theorems/8f51d4bc-968c-46e2-9e66-bc32b0cb316f

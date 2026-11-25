@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_hasDerivAt_polyDb
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.hasDerivAt_polyDb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:33:38.647719+00:00
 -- url     : https://prove2.me/theorems/0b4c1679-4090-4d8b-98c9-ccd3fd6bcecb

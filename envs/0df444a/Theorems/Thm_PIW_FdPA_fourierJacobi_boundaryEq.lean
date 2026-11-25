@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_fourierJacobi_boundaryEq
 -- name    : PIW.FdPA.fourierJacobi_boundaryEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:42.929787+00:00
 -- url     : https://prove2.me/theorems/9e833d1e-c943-4cbe-a8d2-bf33605e1d94

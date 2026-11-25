@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Up_norm_le_of_avg
 -- name    : PositivityTheory.RL.Up.norm_le_of_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:52:32.486534+00:00
 -- url     : https://prove2.me/theorems/34bd9857-81c6-454c-8dec-552a581fa0c3

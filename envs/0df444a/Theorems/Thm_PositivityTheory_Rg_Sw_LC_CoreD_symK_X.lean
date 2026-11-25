@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreD_symK_X
 -- name    : PositivityTheory.Rg.Sw.LC.CoreD.symK_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:57:57.855804+00:00
 -- url     : https://prove2.me/theorems/c8e04953-d09a-4233-8fbb-969b13ceac8a

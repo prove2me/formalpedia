@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_isUnit_det_incMat_of_isTree
 -- name    : MatrixTree.isUnit_det_incMat_of_isTree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:07:00.987839+00:00
 -- url     : https://prove2.me/theorems/815bbd2f-857c-4bf7-9278-072de5d23e65

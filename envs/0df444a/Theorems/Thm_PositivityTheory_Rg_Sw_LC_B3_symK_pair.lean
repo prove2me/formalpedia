@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B3_symK_pair
 -- name    : PositivityTheory.Rg.Sw.LC.B3.symK_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:54:44.796273+00:00
 -- url     : https://prove2.me/theorems/d50f6633-3072-4c97-b21c-1e089814306f

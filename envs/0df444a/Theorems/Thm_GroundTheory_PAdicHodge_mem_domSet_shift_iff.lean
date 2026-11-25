@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_mem_domSet_shift_iff
 -- name    : GroundTheory.PAdicHodge.mem_domSet_shift_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:28:53.465849+00:00
 -- url     : https://prove2.me/theorems/a560b4de-c012-4bf0-9ce1-8b103e9adbaf

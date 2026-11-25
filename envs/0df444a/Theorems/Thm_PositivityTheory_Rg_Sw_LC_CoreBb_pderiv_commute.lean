@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreBb_pderiv_commute
 -- name    : PositivityTheory.Rg.Sw.LC.CoreBb.pderiv_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:55:47.739696+00:00
 -- url     : https://prove2.me/theorems/a01a8dc6-96da-46c9-a19c-459636a910f0

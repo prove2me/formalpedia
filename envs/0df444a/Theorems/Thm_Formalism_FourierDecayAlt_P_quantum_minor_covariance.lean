@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_quantum_minor_covariance
 -- name    : Formalism.FourierDecayAlt.P.quantum_minor_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:13:25.22366+00:00
 -- url     : https://prove2.me/theorems/cae3c067-abf9-4e9c-86c7-263de05873f4

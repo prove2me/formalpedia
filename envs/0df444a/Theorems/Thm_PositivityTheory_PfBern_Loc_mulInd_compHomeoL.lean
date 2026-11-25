@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Loc_mulInd_compHomeoL
 -- name    : PositivityTheory.PfBern.Loc.mulInd_compHomeoL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:51:34.712798+00:00
 -- url     : https://prove2.me/theorems/aa6b0c7c-318e-553f-9148-76c9f9b8be46

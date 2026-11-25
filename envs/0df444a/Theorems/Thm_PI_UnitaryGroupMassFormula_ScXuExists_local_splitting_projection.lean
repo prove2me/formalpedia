@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_local_splitting_projection
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.local_splitting_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:42:30.651487+00:00
 -- url     : https://prove2.me/theorems/cd5c68df-59f1-4429-bbb9-81aa0ca53cc6

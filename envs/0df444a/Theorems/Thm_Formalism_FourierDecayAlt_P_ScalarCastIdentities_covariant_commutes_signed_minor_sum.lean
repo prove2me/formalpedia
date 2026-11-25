@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ScalarCastIdentities_covariant_commutes_signed_minor_sum
 -- name    : Formalism.FourierDecayAlt.P.ScalarCastIdentities.covariant_commutes_signed_minor_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:12:17.45875+00:00
 -- url     : https://prove2.me/theorems/88ee05ce-564c-40de-b43c-479102c89ba1

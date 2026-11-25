@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TAdicInt_card_residueField_and_irreducible
 -- name    : GlobalTheory.TAdicInt.card_residueField_and_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:28:38.917296+00:00
 -- url     : https://prove2.me/theorems/363c3a8e-4832-4d48-87a5-ef5c33cbe37d

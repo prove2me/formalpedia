@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Frob_span_transfer
 -- name    : PositivityTheory.PfBern.Frob.span_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:52:13.538863+00:00
 -- url     : https://prove2.me/theorems/0980e1c1-7107-533b-9f11-2d26b10e787d

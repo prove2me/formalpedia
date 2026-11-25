@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WhitFunctDualWork_whit_mem
 -- name    : PI.WhitFunctDualWork.whit_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:44:10.93523+00:00
 -- url     : https://prove2.me/theorems/ee209f6f-9295-5634-9e63-a4886987a5c1

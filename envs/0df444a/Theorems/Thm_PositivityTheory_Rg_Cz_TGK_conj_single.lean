@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TGK_conj_single
 -- name    : PositivityTheory.Rg.Cz.TGK.conj_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:54:58.172836+00:00
 -- url     : https://prove2.me/theorems/bb653f0d-af54-50ac-8708-81f216e484b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_second_moment_of_columns
 -- name    : PositivityTheory.CW.second_moment_of_columns
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:51:30.613144+00:00
 -- url     : https://prove2.me/theorems/be07b770-b612-5dfc-881f-bf4ce5381814

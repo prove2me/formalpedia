@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ColumnAntisymmetry_deg_mono
 -- name    : PositivityTheory.Rg.Cz.ColumnAntisymmetry.deg_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:32.041398+00:00
 -- url     : https://prove2.me/theorems/0e92b83f-8dd7-4987-8b84-0464eba731ff

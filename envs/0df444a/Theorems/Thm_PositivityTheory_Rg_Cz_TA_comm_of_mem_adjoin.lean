@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TA_comm_of_mem_adjoin
 -- name    : PositivityTheory.Rg.Cz.TA.comm_of_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:54:20.838007+00:00
 -- url     : https://prove2.me/theorems/c94561b1-05f5-5372-bb02-a95898bc074d

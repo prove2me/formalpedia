@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_zeta_cost_of_smooth_deriv
 -- name    : PI.UnitaryGroupMassFormula.UsCost.zeta_cost_of_smooth_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:36:12.581815+00:00
 -- url     : https://prove2.me/theorems/1bc55359-0bb9-5f4e-ad5a-c5a2cafcf99f

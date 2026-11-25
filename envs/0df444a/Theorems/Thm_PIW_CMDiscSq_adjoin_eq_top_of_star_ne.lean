@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_CMDiscSq_adjoin_eq_top_of_star_ne
 -- name    : PIW.CMDiscSq.adjoin_eq_top_of_star_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:22.218224+00:00
 -- url     : https://prove2.me/theorems/b20ccfa5-3fb6-40cb-8532-bbb86889fcb1

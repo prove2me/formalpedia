@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_rightHalf_of
 -- name    : PI.ZW.rightHalf_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:47:04.582203+00:00
 -- url     : https://prove2.me/theorems/bbb37093-31f7-4827-85cf-97df41baee07

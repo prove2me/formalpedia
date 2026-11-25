@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_dictTop_sig
 -- name    : PIW.AdelClassFin.dictTop_sig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:47:56.409229+00:00
 -- url     : https://prove2.me/theorems/832a4b51-850f-49d5-b13f-2268b389f13e

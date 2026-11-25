@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialWeightAction_rename_vec
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.rename_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:49:15.227348+00:00
 -- url     : https://prove2.me/theorems/69d2276f-c813-45b7-95a8-c4f8d92679c8

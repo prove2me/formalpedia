@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KCo_common_gen
 -- name    : PositivityTheory.KCo.common_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:51:47.734598+00:00
 -- url     : https://prove2.me/theorems/d833c6e9-40e2-572b-9ba2-ccbe1bca0f39

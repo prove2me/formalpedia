@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_integrable_gauss1
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.integrable_gauss1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:00:24.973609+00:00
 -- url     : https://prove2.me/theorems/66b77c23-acb8-5074-8c7a-043e23f0b87e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_SecondMomentAlgebra_reEig
 -- name    : PositivityTheory.CW.SecondMomentAlgebra.reEig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:59.369769+00:00
 -- url     : https://prove2.me/theorems/89992713-2942-47d8-b18e-f7b0b889eec0

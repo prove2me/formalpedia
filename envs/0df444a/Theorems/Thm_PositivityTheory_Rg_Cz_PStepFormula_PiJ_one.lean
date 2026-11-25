@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_PStepFormula_PiJ_one
 -- name    : PositivityTheory.Rg.Cz.PStepFormula.PiJ_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:29.608836+00:00
 -- url     : https://prove2.me/theorems/e125e8cb-aca6-497f-ae3a-609d0328b10b

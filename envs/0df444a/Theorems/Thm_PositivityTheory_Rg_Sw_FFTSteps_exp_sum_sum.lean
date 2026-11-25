@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_exp_sum_sum
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.exp_sum_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:55:50.022893+00:00
 -- url     : https://prove2.me/theorems/0ca9ea77-a0fa-5520-a7a7-300047503846

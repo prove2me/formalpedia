@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_CasimirPowerCommute_comm_pow
 -- name    : PositivityTheory.CW.CasimirPowerCommute.comm_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:49:56.162415+00:00
 -- url     : https://prove2.me/theorems/377d74e0-60a0-42ee-a586-ca522de4b356

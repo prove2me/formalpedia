@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_EigenspaceDecomposition_fd
 -- name    : PositivityTheory.CW.EigenspaceDecomposition.fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:49:52.894431+00:00
 -- url     : https://prove2.me/theorems/c69e0c79-a0fa-5037-a198-d2a31e33e829

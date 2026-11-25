@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_BlockAlgebra_poly_eq
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.BlockAlgebra.poly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:41.732252+00:00
 -- url     : https://prove2.me/theorems/32bb3f1d-7d79-5c26-b911-2fba64f7a77b

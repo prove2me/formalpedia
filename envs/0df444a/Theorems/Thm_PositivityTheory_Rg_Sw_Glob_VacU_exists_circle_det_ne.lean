@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_Glob_VacU_exists_circle_det_ne
 -- name    : PositivityTheory.Rg.Sw.Glob.VacU.exists_circle_det_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:48:31.936275+00:00
 -- url     : https://prove2.me/theorems/c861a6a5-4be6-4043-926f-da133f174a8e

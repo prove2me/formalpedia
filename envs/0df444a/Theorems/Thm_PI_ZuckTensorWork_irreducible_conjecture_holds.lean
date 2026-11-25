@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_irreducible_conjecture_holds
 -- name    : PI.ZuckTensorWork.irreducible_conjecture_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:47:18.224567+00:00
 -- url     : https://prove2.me/theorems/0a293554-d03c-4d70-972d-f252c81cf97a

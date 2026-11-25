@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TGK_cprod_erase
 -- name    : PositivityTheory.Rg.Cz.TGK.cprod_erase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:56:28.151248+00:00
 -- url     : https://prove2.me/theorems/f1496eae-cd34-5d4f-8826-a336ade5e34a

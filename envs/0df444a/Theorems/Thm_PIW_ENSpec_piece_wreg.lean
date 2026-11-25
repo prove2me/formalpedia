@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ENSpec_piece_wreg
 -- name    : PIW.ENSpec.piece_wreg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:15.380007+00:00
 -- url     : https://prove2.me/theorems/b9122576-92f4-4228-b0ad-2eb8a157a79b

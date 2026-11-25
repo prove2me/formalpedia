@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BallQuotLen_length_ball_quotient_eq_sum_mul_fdeg
 -- name    : PI.UnitaryGroupMassFormula.BallQuotLen.length_ball_quotient_eq_sum_mul_fdeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:38:57.825545+00:00
 -- url     : https://prove2.me/theorems/f7eb95c1-0505-43de-8df6-a891d25b905d

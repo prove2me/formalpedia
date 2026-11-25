@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_tateTwist_local_to_global_strictlyHenselian
 -- name    : PositivityTheory.CWB.tateTwist_local_to_global_strictlyHenselian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:49:15.391354+00:00
 -- url     : https://prove2.me/theorems/28aa6ae4-8d5a-4b86-905d-1e6e8b9965f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Basic_DegLT_pderiv
 -- name    : PositivityTheory.Rg.Sw.LC.Basic.DegLT.pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:56:51.565668+00:00
 -- url     : https://prove2.me/theorems/e41263b8-30e6-466f-abed-1519e01270ad

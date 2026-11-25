@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6SmallBlockTokenCapacity_TokenRun_TWO_SITE_CAPACITY
 -- name    : F6SmallBlockTokenCapacity.TokenRun.TWO_SITE_CAPACITY
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:28:55.419173+00:00
 -- url     : https://prove2.me/theorems/663aad25-9281-4d78-8cf6-e293bc02a979

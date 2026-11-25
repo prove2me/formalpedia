@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_JMA_eAt_eq_sub
 -- name    : PositivityTheory.Rg.Cz.JMA.eAt_eq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:10.378225+00:00
 -- url     : https://prove2.me/theorems/302a80ef-1b85-478f-a781-a90b99040d6f

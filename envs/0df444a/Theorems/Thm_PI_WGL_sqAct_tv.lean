@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_sqAct_tv
 -- name    : PI.WGL.sqAct_tv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:01:28.345224+00:00
 -- url     : https://prove2.me/theorems/7245766d-e82f-56d9-bb35-119b1d2e200e

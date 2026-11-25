@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_SpO_cat_add
 -- name    : PIW.AdelClassFin.SpO.cat_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:49:29.338522+00:00
 -- url     : https://prove2.me/theorems/8e56c66f-94bc-44cb-a943-8f948914c6fe

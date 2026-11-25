@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_div_le_exp_of_abs_log_sub_le
 -- name    : PIW.FdPA.div_le_exp_of_abs_log_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:43.340119+00:00
 -- url     : https://prove2.me/theorems/5f8989b6-3bd5-49cf-93ee-e5566b7e47d2

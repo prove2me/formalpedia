@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6SmallBlockTokenCapacity_TokenRun_pair_swap
 -- name    : F6SmallBlockTokenCapacity.TokenRun.pair_swap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:29:50.95413+00:00
 -- url     : https://prove2.me/theorems/89f3f057-2262-454a-a282-decd7535f05c

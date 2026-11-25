@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_CMDiscSq_minpoly_eq_of_star_ne
 -- name    : PIW.CMDiscSq.minpoly_eq_of_star_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:46.282929+00:00
 -- url     : https://prove2.me/theorems/1d5b2f78-b98b-4f02-ad42-e55b60b73344

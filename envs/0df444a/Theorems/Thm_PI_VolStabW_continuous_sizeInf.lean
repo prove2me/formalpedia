@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_continuous_sizeInf
 -- name    : PI.VolStabW.continuous_sizeInf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:51:39.297978+00:00
 -- url     : https://prove2.me/theorems/e5715afd-617d-55d9-ac6d-8b80c11d356c

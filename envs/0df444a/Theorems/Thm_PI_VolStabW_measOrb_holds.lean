@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_measOrb_holds
 -- name    : PI.VolStabW.measOrb_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:45:24.920484+00:00
 -- url     : https://prove2.me/theorems/ef8d448a-0701-4db5-9799-2f4a7cd9531b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_irr_repOf
 -- name    : PIW.HCFdeg.irr_repOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:50:31.509323+00:00
 -- url     : https://prove2.me/theorems/7f416470-37e3-4587-a004-b44a06116348

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_lip_ainf
 -- name    : PI.VolStabW.lip_ainf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:55:36.886793+00:00
 -- url     : https://prove2.me/theorems/bcded1a4-9dce-49a0-b7f3-b2c2f870d486

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_LG_locGlob_gen
 -- name    : PI.ScRefExists.LG.locGlob_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:00:10.085818+00:00
 -- url     : https://prove2.me/theorems/9e7fb45f-4a68-4f8a-b2b2-45b65e4da0ce

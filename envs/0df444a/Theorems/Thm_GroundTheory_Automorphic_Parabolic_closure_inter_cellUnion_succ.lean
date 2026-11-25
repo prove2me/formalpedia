@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_closure_inter_cellUnion_succ
 -- name    : GroundTheory.Automorphic.Parabolic.closure_inter_cellUnion_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:21:53.897254+00:00
 -- url     : https://prove2.me/theorems/9c7b63cf-9551-5451-9031-11a724f89b21

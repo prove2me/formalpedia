@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_ordX_holds
 -- name    : PI.WickFormula.ordX_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:17.138128+00:00
 -- url     : https://prove2.me/theorems/2fac3c9c-ab4b-585c-998b-af797225695b

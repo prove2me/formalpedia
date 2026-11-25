@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_CasimirRealScalar_casimir_eq_trace
 -- name    : PositivityTheory.CW.CasimirRealScalar.casimir_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:49:08.922849+00:00
 -- url     : https://prove2.me/theorems/91fae6d0-2be1-5fa1-974a-e1af0478a541

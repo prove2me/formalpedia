@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_borel_flag_translate
 -- name    : PIW.FdPA.borel_flag_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:31.471196+00:00
 -- url     : https://prove2.me/theorems/d65ba2fb-f335-472c-aa96-7bbdc30ff039

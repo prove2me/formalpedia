@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreBb_pderiv_KopL
 -- name    : PositivityTheory.Rg.Sw.LC.CoreBb.pderiv_KopL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:56:41.744022+00:00
 -- url     : https://prove2.me/theorems/ce852bad-f63f-53f7-bb28-bf22259ff7cd

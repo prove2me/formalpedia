@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_CRH_leibB
 -- name    : PI.UnitaryCorollaryDerivatives.CRH.leibB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:46:26.117704+00:00
 -- url     : https://prove2.me/theorems/148cf5aa-0bf8-475f-9605-580c24fd9e01

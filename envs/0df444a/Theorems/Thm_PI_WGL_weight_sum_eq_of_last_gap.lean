@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_weight_sum_eq_of_last_gap
 -- name    : PI.WGL.weight_sum_eq_of_last_gap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:27.230543+00:00
 -- url     : https://prove2.me/theorems/73fc00ef-77c0-4913-b83a-2569abeafe5d

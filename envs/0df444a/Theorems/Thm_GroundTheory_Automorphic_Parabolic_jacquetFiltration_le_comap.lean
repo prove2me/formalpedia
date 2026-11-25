@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_jacquetFiltration_le_comap
 -- name    : GroundTheory.Automorphic.Parabolic.jacquetFiltration_le_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:24:13.196242+00:00
 -- url     : https://prove2.me/theorems/5e1af4f4-7242-4ea3-ab34-6ca2fd262058

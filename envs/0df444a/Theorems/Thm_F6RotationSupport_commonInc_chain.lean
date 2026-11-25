@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_commonInc_chain
 -- name    : F6RotationSupport.commonInc_chain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:27:04.735578+00:00
 -- url     : https://prove2.me/theorems/a025ce88-5c84-458c-9721-ac03347f8d06

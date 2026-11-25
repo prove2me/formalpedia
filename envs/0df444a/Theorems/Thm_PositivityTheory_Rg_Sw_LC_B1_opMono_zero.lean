@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B1_opMono_zero
 -- name    : PositivityTheory.Rg.Sw.LC.B1.opMono_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:54:21.285299+00:00
 -- url     : https://prove2.me/theorems/bb69c3a5-1d1f-4209-b5ed-0cccdbbeb579

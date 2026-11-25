@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_one_tmul_mem_intAf
 -- name    : PI.WAU.one_tmul_mem_intAf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:57.54511+00:00
 -- url     : https://prove2.me/theorems/f89c3c2c-2412-4e03-a529-e5fc63651680

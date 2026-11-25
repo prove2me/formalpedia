@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_GradedNormalNilpotent_psiL_iff
 -- name    : PositivityTheory.CW.GradedNormalNilpotent.psiL_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:50:50.436995+00:00
 -- url     : https://prove2.me/theorems/9f01c317-fdcc-4c94-a11b-a960dea5f3aa

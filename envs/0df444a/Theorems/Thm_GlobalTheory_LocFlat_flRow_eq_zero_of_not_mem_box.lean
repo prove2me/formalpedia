@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_flRow_eq_zero_of_not_mem_box
 -- name    : GlobalTheory.LocFlat.flRow_eq_zero_of_not_mem_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:10:52.745888+00:00
 -- url     : https://prove2.me/theorems/5cd5ac23-e9cc-589d-a7eb-c212730df3a4

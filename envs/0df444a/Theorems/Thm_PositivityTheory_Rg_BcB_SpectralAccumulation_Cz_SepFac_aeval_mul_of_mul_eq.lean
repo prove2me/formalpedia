@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_SepFac_aeval_mul_of_mul_eq
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SepFac.aeval_mul_of_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:53.800168+00:00
 -- url     : https://prove2.me/theorems/fb2a0443-4fe9-4872-9f1e-c92b67beb1ad

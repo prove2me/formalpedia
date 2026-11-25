@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_YoungTableau_sg_zero
 -- name    : PositivityTheory.Rg.Cz.YoungTableau.sg_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:49:13.650694+00:00
 -- url     : https://prove2.me/theorems/12ead1e4-4a73-4dda-9f49-bb8147aaf578

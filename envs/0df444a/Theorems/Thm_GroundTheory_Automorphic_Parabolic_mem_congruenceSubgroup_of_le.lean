@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_mem_congruenceSubgroup_of_le
 -- name    : GroundTheory.Automorphic.Parabolic.mem_congruenceSubgroup_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:19:38.508019+00:00
 -- url     : https://prove2.me/theorems/45d3edfa-685e-495c-842c-5025a8df2179

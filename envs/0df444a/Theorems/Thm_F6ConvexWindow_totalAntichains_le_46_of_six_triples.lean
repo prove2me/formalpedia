@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_totalAntichains_le_46_of_six_triples
 -- name    : F6ConvexWindow.totalAntichains_le_46_of_six_triples
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:23:21.880231+00:00
 -- url     : https://prove2.me/theorems/21a258c7-dc29-4978-bfab-f5df324b3670

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WhitFunctDualWork_isIrr_dual
 -- name    : PI.WhitFunctDualWork.isIrr_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:21.922824+00:00
 -- url     : https://prove2.me/theorems/65a145b9-d2b0-52de-81b7-cd6b24949422

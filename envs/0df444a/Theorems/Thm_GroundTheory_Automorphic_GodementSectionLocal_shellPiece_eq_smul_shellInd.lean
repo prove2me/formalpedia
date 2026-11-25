@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_shellPiece_eq_smul_shellInd
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.shellPiece_eq_smul_shellInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:39:22.506547+00:00
 -- url     : https://prove2.me/theorems/01a95bb2-9001-46dd-8909-932c9b5a875f

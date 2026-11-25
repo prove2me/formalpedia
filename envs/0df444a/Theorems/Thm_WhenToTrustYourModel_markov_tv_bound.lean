@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhenToTrustYourModel_markov_tv_bound
 -- name    : WhenToTrustYourModel.markov_tv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:17:29.935589+00:00
 -- url     : https://prove2.me/theorems/eac5022c-c254-4d21-a7f3-b5e5237ffdcf

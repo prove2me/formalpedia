@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_BlockAlgebra_apply_eig
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.BlockAlgebra.apply_eig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:52:24.694522+00:00
 -- url     : https://prove2.me/theorems/f372c099-524e-5d78-b335-0a35829cb0ce

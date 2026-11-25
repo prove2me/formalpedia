@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_invSmall
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.invSmall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:43:09.617497+00:00
 -- url     : https://prove2.me/theorems/7622a45f-61d8-4af0-9670-19b32767d999

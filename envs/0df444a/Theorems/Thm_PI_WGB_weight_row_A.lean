@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_weight_row_A
 -- name    : PI.WGB.weight_row_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:46:44.263665+00:00
 -- url     : https://prove2.me/theorems/b9e58403-5288-4e51-98b3-d1a1aec81d4e

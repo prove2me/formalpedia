@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreC_symW_step
 -- name    : PositivityTheory.Rg.Sw.LC.CoreC.symW_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:57:09.044226+00:00
 -- url     : https://prove2.me/theorems/faa6205a-00f4-4e0f-a006-40683c4d409f

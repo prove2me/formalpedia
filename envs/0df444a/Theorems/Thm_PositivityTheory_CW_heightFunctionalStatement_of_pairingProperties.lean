@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_heightFunctionalStatement_of_pairingProperties
 -- name    : PositivityTheory.CW.heightFunctionalStatement_of_pairingProperties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:00.54551+00:00
 -- url     : https://prove2.me/theorems/23e82497-dc42-4b83-8f62-5b41f586cb62

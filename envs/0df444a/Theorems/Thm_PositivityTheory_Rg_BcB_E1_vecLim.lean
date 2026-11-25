@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_vecLim
 -- name    : PositivityTheory.Rg.BcB.E1.vecLim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:57:22.303546+00:00
 -- url     : https://prove2.me/theorems/98bf427e-cee4-59f9-9f06-fe07b76be952

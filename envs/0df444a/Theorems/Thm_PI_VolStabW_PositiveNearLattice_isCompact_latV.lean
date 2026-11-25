@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_PositiveNearLattice_isCompact_latV
 -- name    : PI.VolStabW.PositiveNearLattice.isCompact_latV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:11:22.212525+00:00
 -- url     : https://prove2.me/theorems/61eb9557-57c4-4475-a348-f9e234dfa72a

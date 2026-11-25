@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Asm_psi_base
 -- name    : PI.WickFormula.Asm.psi_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:13.97181+00:00
 -- url     : https://prove2.me/theorems/78c7ccf6-fc2d-5c98-b3bd-e7696a9472f3

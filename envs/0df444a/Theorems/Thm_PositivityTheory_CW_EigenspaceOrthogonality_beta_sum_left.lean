@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_EigenspaceOrthogonality_beta_sum_left
 -- name    : PositivityTheory.CW.EigenspaceOrthogonality.beta_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:10.830013+00:00
 -- url     : https://prove2.me/theorems/1d783e8a-b1b8-4340-b7f1-591f289f5c14

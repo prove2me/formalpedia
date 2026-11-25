@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_elimA_inv
 -- name    : PI.WGB.elimA_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:56:29.916573+00:00
 -- url     : https://prove2.me/theorems/171ea987-3aca-42ca-99ae-8d7e92a61700

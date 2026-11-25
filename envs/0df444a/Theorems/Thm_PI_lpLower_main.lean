@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_lpLower_main
 -- name    : PI.lpLower_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:47:07.859882+00:00
 -- url     : https://prove2.me/theorems/b955c038-c376-4a6a-a192-306dfe42142b

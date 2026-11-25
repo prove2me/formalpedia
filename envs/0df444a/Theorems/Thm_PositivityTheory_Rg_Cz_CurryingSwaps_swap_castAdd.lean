@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CurryingSwaps_swap_castAdd
 -- name    : PositivityTheory.Rg.Cz.CurryingSwaps.swap_castAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:54:29.603461+00:00
 -- url     : https://prove2.me/theorems/3e342c7c-32b4-559e-b719-d24a859fa2d5

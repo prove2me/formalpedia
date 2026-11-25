@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_cz_torus_zero
 -- name    : PI.WSF.cz_torus_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:46:23.098151+00:00
 -- url     : https://prove2.me/theorems/35a7cc3d-2e4e-5157-8353-fdd21453837a

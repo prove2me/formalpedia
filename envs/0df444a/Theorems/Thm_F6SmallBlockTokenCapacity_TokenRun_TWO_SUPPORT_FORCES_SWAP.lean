@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6SmallBlockTokenCapacity_TokenRun_TWO_SUPPORT_FORCES_SWAP
 -- name    : F6SmallBlockTokenCapacity.TokenRun.TWO_SUPPORT_FORCES_SWAP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:28:18.199744+00:00
 -- url     : https://prove2.me/theorems/33abfe18-349f-4cc8-b84f-b4784b195b2e

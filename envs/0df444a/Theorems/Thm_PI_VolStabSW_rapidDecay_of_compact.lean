@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_rapidDecay_of_compact
 -- name    : PI.VolStabSW.rapidDecay_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:25:53.506907+00:00
 -- url     : https://prove2.me/theorems/105f121d-278e-4a1b-8be3-70ee9884101b

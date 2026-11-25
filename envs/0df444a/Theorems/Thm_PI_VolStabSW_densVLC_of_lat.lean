@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_densVLC_of_lat
 -- name    : PI.VolStabSW.densVLC_of_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:43:14.088799+00:00
 -- url     : https://prove2.me/theorems/769ef1d6-a3d6-4580-97d5-de02218103b7

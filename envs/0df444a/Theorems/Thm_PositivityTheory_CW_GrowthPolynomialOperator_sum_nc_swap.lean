@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_GrowthPolynomialOperator_sum_nc_swap
 -- name    : PositivityTheory.CW.GrowthPolynomialOperator.sum_nc_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:08.911308+00:00
 -- url     : https://prove2.me/theorems/1134c8dd-a227-544e-ba59-efd1563606e4

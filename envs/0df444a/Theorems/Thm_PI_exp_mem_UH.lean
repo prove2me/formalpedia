@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_exp_mem_UH
 -- name    : PI.exp_mem_UH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:47:09.663418+00:00
 -- url     : https://prove2.me/theorems/55555676-776b-4442-a782-1781dec14ba9

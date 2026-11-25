@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lord_factor_differentiable
 -- name    : PositivityTheory.Lord.factor_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:51:39.84505+00:00
 -- url     : https://prove2.me/theorems/8bf4cb29-0dac-4161-93c3-30772be5cf11

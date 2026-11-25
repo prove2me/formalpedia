@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_deg_lt
 -- name    : PositivityTheory.Rg.Sw.LC.deg_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:59:14.043277+00:00
 -- url     : https://prove2.me/theorems/a6870526-6912-5233-8db9-b7fcc582ff37

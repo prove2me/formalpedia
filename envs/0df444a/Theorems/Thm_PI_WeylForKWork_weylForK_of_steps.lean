@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_weylForK_of_steps
 -- name    : PI.WeylForKWork.weylForK_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:47:16.923532+00:00
 -- url     : https://prove2.me/theorems/67d9ae8f-1cd2-50b0-bedb-4ff0ba82f365

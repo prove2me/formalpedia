@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylProdWork_weylProd
 -- name    : PI.WeylProdWork.weylProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:44:26.834293+00:00
 -- url     : https://prove2.me/theorems/9a9bec5b-be0a-40d4-9056-e4fe9206e419

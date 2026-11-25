@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_submDens_holds
 -- name    : PI.VolStabSW.submDens_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:55.902249+00:00
 -- url     : https://prove2.me/theorems/57da33fb-1e07-4306-a14e-70b4a49a9577

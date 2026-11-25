@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Core_box_le_first_family
 -- name    : PositivityTheory.Rg.Sw.LC.Core.box_le_first_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:01:38.796966+00:00
 -- url     : https://prove2.me/theorems/a956c8dd-c37f-59e3-9e41-652cbf232ab3

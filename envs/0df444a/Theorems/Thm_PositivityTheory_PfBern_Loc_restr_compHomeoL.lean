@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Loc_restr_compHomeoL
 -- name    : PositivityTheory.PfBern.Loc.restr_compHomeoL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:56:08.706727+00:00
 -- url     : https://prove2.me/theorems/909a46ce-7653-5b36-9713-7fda33066698

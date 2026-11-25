@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_IdentityFiltrationBound_U_bound
 -- name    : PositivityTheory.CW.IdentityFiltrationBound.U_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:27.389275+00:00
 -- url     : https://prove2.me/theorems/319c3fc8-95fb-5e4f-b537-c04e9389ea21

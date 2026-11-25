@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Core_pderiv_eq_zero_of_supported
 -- name    : PositivityTheory.Rg.Sw.LC.Core.pderiv_eq_zero_of_supported
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:55:35.220198+00:00
 -- url     : https://prove2.me/theorems/c566bcee-814d-4d64-94ec-b6474a8de8eb

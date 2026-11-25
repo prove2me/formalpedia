@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_WF_mem_LA_of_nsmul
 -- name    : PI.ScRefExists.WF.mem_LA_of_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:38:08.156649+00:00
 -- url     : https://prove2.me/theorems/eac088a2-719f-45e1-8163-1ebd3ecfc578

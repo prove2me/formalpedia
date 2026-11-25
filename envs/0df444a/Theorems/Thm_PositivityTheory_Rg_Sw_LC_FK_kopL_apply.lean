@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_FK_kopL_apply
 -- name    : PositivityTheory.Rg.Sw.LC.FK.kopL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:57:59.599579+00:00
 -- url     : https://prove2.me/theorems/fa54f240-2b06-4148-9ec0-7f5c4316e1ea

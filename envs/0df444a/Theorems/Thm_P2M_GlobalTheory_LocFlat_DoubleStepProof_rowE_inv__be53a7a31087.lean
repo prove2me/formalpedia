@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LocFlat_DoubleStepProof_rowE_inv__be53a7a31087
 -- name    : P2M_GlobalTheory_LocFlat_DoubleStepProof_rowE_inv__be53a7a31087
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:28:02.780841+00:00
 -- url     : https://prove2.me/theorems/f3f011e6-724b-5fa2-86a8-cef8d3c711ce

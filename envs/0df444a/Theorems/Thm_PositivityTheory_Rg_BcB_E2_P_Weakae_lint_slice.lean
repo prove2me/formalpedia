@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Weakae_lint_slice
 -- name    : PositivityTheory.Rg.BcB.E2.P.Weakae.lint_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:52:26.366383+00:00
 -- url     : https://prove2.me/theorems/f20127ba-f5f9-518b-b4ab-d2558ad7f723

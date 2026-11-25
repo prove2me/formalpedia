@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_TopoMuInv_selfDual_map
 -- name    : PI.VolStabW.TopoMuInv.selfDual_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:53:53.084638+00:00
 -- url     : https://prove2.me/theorems/646ec391-0bc3-405e-95e6-4ddc187d3723

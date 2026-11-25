@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialDifferentialOperators_mem_support_pderiv
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.mem_support_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:59:25.206033+00:00
 -- url     : https://prove2.me/theorems/b78f4043-9edb-594c-862b-0e84e4506b71

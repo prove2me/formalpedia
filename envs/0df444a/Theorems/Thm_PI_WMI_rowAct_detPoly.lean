@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_rowAct_detPoly
 -- name    : PI.WMI.rowAct_detPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:47.145799+00:00
 -- url     : https://prove2.me/theorems/28f65d92-de45-4edb-8064-54e292613fce

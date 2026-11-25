@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ColumnAntisymmetry_split
 -- name    : PositivityTheory.Rg.Cz.ColumnAntisymmetry.split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:53:37.839141+00:00
 -- url     : https://prove2.me/theorems/78330ed1-10af-5f98-8707-a148309b740c

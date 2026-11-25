@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_Coch_cEv_sum
 -- name    : PositivityTheory.Rg.Cz.Coch.cEv_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:12.849592+00:00
 -- url     : https://prove2.me/theorems/7b25fb78-8ed7-4be9-8aaf-bbd74f61bce0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_filtX_fd
 -- name    : PositivityTheory.KReal.filtX_fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:50:58.478588+00:00
 -- url     : https://prove2.me/theorems/5916a42f-4794-583f-bb26-377fe0290623

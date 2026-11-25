@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_SecondMomentAlgebra_alg
 -- name    : PositivityTheory.CW.SecondMomentAlgebra.alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:52.064386+00:00
 -- url     : https://prove2.me/theorems/74b463c1-d5ce-43f2-9f35-c24fe2305264

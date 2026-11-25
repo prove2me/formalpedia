@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_gl_generated_transvections_diag
 -- name    : PI.VolSemiDirect.W.Cj.gl_generated_transvections_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:35:49.916343+00:00
 -- url     : https://prove2.me/theorems/9aea8f4a-1f46-4660-9c1a-006ca5780cea

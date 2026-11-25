@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CoreW_proj_bound
 -- name    : PI.PolynomialProperness.CoreW.proj_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:17:26.353114+00:00
 -- url     : https://prove2.me/theorems/ead0573e-7b5c-4bf4-b9f1-bebfa2a84e32

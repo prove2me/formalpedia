@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdTestInfW_bichar_eq
 -- name    : PI.VolStabW.SdTestInfW.bichar_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:39:12.626978+00:00
 -- url     : https://prove2.me/theorems/cc360251-1b92-44d2-9454-4da5ce6e26aa

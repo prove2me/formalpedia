@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_actZ_mul
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.actZ_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:55:34.23071+00:00
 -- url     : https://prove2.me/theorems/f7e261bc-5c3d-4e51-a230-1593a1831d09

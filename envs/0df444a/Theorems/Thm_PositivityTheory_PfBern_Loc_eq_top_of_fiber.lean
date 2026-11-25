@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Loc_eq_top_of_fiber
 -- name    : PositivityTheory.PfBern.Loc.eq_top_of_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:59:04.236184+00:00
 -- url     : https://prove2.me/theorems/e1095583-ee93-44f3-adb3-531351e2b01e

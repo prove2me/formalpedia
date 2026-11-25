@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BallQuotLen_ballQuotLen_main
 -- name    : PI.UnitaryGroupMassFormula.BallQuotLen.ballQuotLen_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:38:45.407219+00:00
 -- url     : https://prove2.me/theorems/fd0ebb4b-aa7f-4ad4-92cd-daec1ca81672

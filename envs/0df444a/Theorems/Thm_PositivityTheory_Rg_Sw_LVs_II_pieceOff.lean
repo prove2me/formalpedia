@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_pieceOff
 -- name    : PositivityTheory.Rg.Sw.LVs.II.pieceOff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:49:19.240783+00:00
 -- url     : https://prove2.me/theorems/75589604-5e34-4995-a205-25385ae95fe9

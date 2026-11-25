@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_square_integrable_conj
 -- name    : PI.ZuckTensorWork.square_integrable_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:55.75529+00:00
 -- url     : https://prove2.me/theorems/56506ad0-26f3-4681-b700-7208ec0e97d0

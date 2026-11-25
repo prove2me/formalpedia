@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Unfold_unfolded
 -- name    : PositivityTheory.Rg.BcB.E2.P.Unfold.unfolded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:52:20.394162+00:00
 -- url     : https://prove2.me/theorems/2de8e0f6-5f99-4b38-b2e0-5aa0efa0e0ea

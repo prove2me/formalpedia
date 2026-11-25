@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_EigA_reps_spec
 -- name    : PositivityTheory.Rg.BcB.F.EigA.reps_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:52:36.500981+00:00
 -- url     : https://prove2.me/theorems/3ed57745-70f3-54c5-9aa0-af0f0c1f3707

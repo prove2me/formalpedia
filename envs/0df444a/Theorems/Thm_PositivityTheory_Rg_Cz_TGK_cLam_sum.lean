@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TGK_cLam_sum
 -- name    : PositivityTheory.Rg.Cz.TGK.cLam_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:54:14.643139+00:00
 -- url     : https://prove2.me/theorems/0f8b22aa-51f8-433f-bb1e-6f42ccb942de

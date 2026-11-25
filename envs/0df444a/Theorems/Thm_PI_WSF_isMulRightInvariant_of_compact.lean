@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_isMulRightInvariant_of_compact
 -- name    : PI.WSF.isMulRightInvariant_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:45:57.977484+00:00
 -- url     : https://prove2.me/theorems/f6fc8e7e-60b8-4a66-bda9-fcbfe8eb265c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_CMDiscSq_exists_star_ne
 -- name    : PIW.CMDiscSq.exists_star_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:53.927782+00:00
 -- url     : https://prove2.me/theorems/7cd8cae5-22d0-424c-924c-1f38f6ba3d45

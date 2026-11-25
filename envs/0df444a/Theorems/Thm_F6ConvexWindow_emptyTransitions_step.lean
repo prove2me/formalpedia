@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_emptyTransitions_step
 -- name    : F6ConvexWindow.emptyTransitions_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:12:02.964802+00:00
 -- url     : https://prove2.me/theorems/6357e1cc-17f5-405b-a606-1d2ea4a6c17b

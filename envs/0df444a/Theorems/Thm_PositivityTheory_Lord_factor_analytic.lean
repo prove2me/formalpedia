@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lord_factor_analytic
 -- name    : PositivityTheory.Lord.factor_analytic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:58:58.094752+00:00
 -- url     : https://prove2.me/theorems/89fbfec6-bed3-4cad-b94b-6447d2e2a0c7

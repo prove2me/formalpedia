@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_BrInt_map_bidet_int
 -- name    : PI.WGL.BrInt.map_bidet_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:46:35.632769+00:00
 -- url     : https://prove2.me/theorems/8d981c63-e661-4de8-9081-4243b271b790

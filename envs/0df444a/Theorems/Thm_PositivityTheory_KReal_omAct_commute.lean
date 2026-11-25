@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_omAct_commute
 -- name    : PositivityTheory.KReal.omAct_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:50:59.416323+00:00
 -- url     : https://prove2.me/theorems/24ddd75e-fa8b-519f-8389-6b98fa3ee211

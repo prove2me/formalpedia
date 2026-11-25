@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantGroupCounts_card_ann
 -- name    : Formalism.L2.SG.Pf.discriminantGroupCounts.card_ann
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:44:43.266794+00:00
 -- url     : https://prove2.me/theorems/988e9c36-80ef-52b1-af75-0452f452deae

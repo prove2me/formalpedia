@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SWS_entry_mem
 -- name    : PositivityTheory.Rg.Cz.SWS.entry_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:34.955457+00:00
 -- url     : https://prove2.me/theorems/4769c3a9-4bc1-45fe-a7bb-efaa834a9453

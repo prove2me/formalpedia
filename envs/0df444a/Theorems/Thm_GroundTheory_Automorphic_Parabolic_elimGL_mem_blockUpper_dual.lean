@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_elimGL_mem_blockUpper_dual
 -- name    : GroundTheory.Automorphic.Parabolic.elimGL_mem_blockUpper_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:19:32.872147+00:00
 -- url     : https://prove2.me/theorems/b1520696-6d11-4ccb-9478-77500b8ecf39

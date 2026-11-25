@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTA_rowGen_Xz
 -- name    : PI.WGL.LTA.rowGen_Xz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:47:26.190554+00:00
 -- url     : https://prove2.me/theorems/c5e3524e-8cf4-402d-8691-f582734406aa

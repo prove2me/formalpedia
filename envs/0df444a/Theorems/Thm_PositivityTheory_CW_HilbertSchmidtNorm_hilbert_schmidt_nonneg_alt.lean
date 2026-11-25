@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_HilbertSchmidtNorm_hilbert_schmidt_nonneg_alt
 -- name    : PositivityTheory.CW.HilbertSchmidtNorm.hilbert_schmidt_nonneg_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:50:33.956919+00:00
 -- url     : https://prove2.me/theorems/83acac0d-b51c-5960-b150-6ab253446db6

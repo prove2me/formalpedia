@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_mkPtA_D
 -- name    : PI.WGB.mkPtA_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:48:06.549022+00:00
 -- url     : https://prove2.me/theorems/bf94af14-774b-40f4-a639-85a781e62a59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_oneIndexAt_of_classAt_supportAt
 -- name    : GlobalTheory.SymChain.oneIndexAt_of_classAt_supportAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:16:57.520808+00:00
 -- url     : https://prove2.me/theorems/7f31b58a-de2e-5b93-84c3-5ef6afc81bbc

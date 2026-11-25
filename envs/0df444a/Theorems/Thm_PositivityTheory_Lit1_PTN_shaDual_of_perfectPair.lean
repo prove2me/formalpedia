@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lit1_PTN_shaDual_of_perfectPair
 -- name    : PositivityTheory.Lit1.PTN.shaDual_of_perfectPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:52:26.649111+00:00
 -- url     : https://prove2.me/theorems/f17f35c9-33ca-4c6d-bc36-641105f35988

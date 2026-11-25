@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_EigenGainPolynomial_main
 -- name    : PositivityTheory.CW.EigenGainPolynomial.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:49:49.834207+00:00
 -- url     : https://prove2.me/theorems/c668daab-a9cc-472b-a334-5bcbd7897896

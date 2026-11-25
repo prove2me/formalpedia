@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B3_etaLt_mul_left
 -- name    : PositivityTheory.Rg.Sw.LC.B3.etaLt_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:56:48.383441+00:00
 -- url     : https://prove2.me/theorems/d4cd1ba7-c938-4278-854c-b822511bd690

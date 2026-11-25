@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwMainW_evalH
 -- name    : PI.WwMainW.evalH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:46:10.625652+00:00
 -- url     : https://prove2.me/theorems/bbc144dc-8a01-48c7-b303-bce5ecc987ae

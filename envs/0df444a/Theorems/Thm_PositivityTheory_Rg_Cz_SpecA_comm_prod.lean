@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SpecA_comm_prod
 -- name    : PositivityTheory.Rg.Cz.SpecA.comm_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:53:20.671574+00:00
 -- url     : https://prove2.me/theorems/9450fd1d-622f-425e-b888-37fb57fdd0a9

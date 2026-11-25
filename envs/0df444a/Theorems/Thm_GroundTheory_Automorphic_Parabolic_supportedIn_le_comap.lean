@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_supportedIn_le_comap
 -- name    : GroundTheory.Automorphic.Parabolic.supportedIn_le_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:23:29.491074+00:00
 -- url     : https://prove2.me/theorems/744a11d7-14df-486c-a104-3d1c9c6858cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_NullS_Bf_comm
 -- name    : PositivityTheory.Rg.Sw.LC.NullS.Bf_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:45.944929+00:00
 -- url     : https://prove2.me/theorems/0b1260f5-7ba4-452a-bb1a-769b49b9826c

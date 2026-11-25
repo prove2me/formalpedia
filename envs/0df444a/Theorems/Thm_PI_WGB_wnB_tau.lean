@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_wnB_tau
 -- name    : PI.WGB.wnB_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:47:30.694797+00:00
 -- url     : https://prove2.me/theorems/eb377b30-40c9-4e44-a2a6-1821ea19b748

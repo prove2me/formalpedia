@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplecticReduction_full_d854ccd98b08
 -- name    : P2M_GroundTheory_Heights__Heights_SymplecticReduction_full_d854ccd98b08
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:40:18.938099+00:00
 -- url     : https://prove2.me/theorems/49a57c4e-4778-47d4-9cf7-19c2bf73b279

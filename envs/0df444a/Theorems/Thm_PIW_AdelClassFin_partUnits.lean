@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_partUnits
 -- name    : PIW.AdelClassFin.partUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:52:15.794283+00:00
 -- url     : https://prove2.me/theorems/82b135b0-f043-5459-9e29-fc6fb63335c9

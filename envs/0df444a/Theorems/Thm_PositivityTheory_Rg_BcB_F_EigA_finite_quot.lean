@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_EigA_finite_quot
 -- name    : PositivityTheory.Rg.BcB.F.EigA.finite_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:52:52.154933+00:00
 -- url     : https://prove2.me/theorems/f53369df-ee9c-53fc-bf00-4edc67c8a163

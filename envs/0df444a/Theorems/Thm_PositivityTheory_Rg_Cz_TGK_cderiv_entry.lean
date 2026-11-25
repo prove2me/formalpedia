@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TGK_cderiv_entry
 -- name    : PositivityTheory.Rg.Cz.TGK.cderiv_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:59:20.03454+00:00
 -- url     : https://prove2.me/theorems/bb7653a3-9d43-42ad-9c3b-e38f398ec2c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_QF_evU_tmPoly
 -- name    : PositivityTheory.Rg.Cz.QF.evU_tmPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:33.967626+00:00
 -- url     : https://prove2.me/theorems/2026d1fa-5e1f-4593-9e11-1ea84fa4511b

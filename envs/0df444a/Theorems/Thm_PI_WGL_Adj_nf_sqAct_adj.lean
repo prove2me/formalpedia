@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Adj_nf_sqAct_adj
 -- name    : PI.WGL.Adj.nf_sqAct_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:06.389342+00:00
 -- url     : https://prove2.me/theorems/93e196d3-3427-456c-814d-2b7d55fbf1b3

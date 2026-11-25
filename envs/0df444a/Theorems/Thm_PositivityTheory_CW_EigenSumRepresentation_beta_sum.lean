@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_EigenSumRepresentation_beta_sum
 -- name    : PositivityTheory.CW.EigenSumRepresentation.beta_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:50:19.966944+00:00
 -- url     : https://prove2.me/theorems/b49b0de7-034f-42c6-a3da-f6cc9e900c10

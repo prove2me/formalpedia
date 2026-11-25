@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycEigen_twAct_fixed_eq_zero
 -- name    : GlobalTheory.CycEigen.twAct_fixed_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:25:33.750547+00:00
 -- url     : https://prove2.me/theorems/c6b2ee5f-45a2-416f-97e6-0142e2189693

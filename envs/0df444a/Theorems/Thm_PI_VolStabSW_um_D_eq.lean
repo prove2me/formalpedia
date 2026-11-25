@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_um_D_eq
 -- name    : PI.VolStabSW.um_D_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:39:24.459726+00:00
 -- url     : https://prove2.me/theorems/3650380b-0ec9-5a15-b74d-50aa15dbe43d

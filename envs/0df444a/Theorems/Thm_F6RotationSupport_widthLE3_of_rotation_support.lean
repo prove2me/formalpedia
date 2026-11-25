@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_widthLE3_of_rotation_support
 -- name    : F6RotationSupport.widthLE3_of_rotation_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:24:00.777481+00:00
 -- url     : https://prove2.me/theorems/660154b1-a1e6-4b09-b377-9c4e42b0fd26

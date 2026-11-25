@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_SqPair_LCP_pair_split__894e7521d033
 -- name    : P2M_PI_SqPair_LCP_pair_split__894e7521d033
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:57:43.330804+00:00
 -- url     : https://prove2.me/theorems/e28839fb-d240-5bac-b103-d583db309063

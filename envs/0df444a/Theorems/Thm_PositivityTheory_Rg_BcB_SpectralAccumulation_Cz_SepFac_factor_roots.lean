@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_SepFac_factor_roots
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SepFac.factor_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:02.571482+00:00
 -- url     : https://prove2.me/theorems/7269705a-27cc-4821-b4a6-0debaee306e2

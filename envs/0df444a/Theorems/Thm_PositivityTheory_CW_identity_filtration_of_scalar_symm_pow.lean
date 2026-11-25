@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_identity_filtration_of_scalar_symm_pow
 -- name    : PositivityTheory.CW.identity_filtration_of_scalar.symm_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:30.983856+00:00
 -- url     : https://prove2.me/theorems/3c2358b8-2875-4f5c-a2ec-7bd85486ed8a

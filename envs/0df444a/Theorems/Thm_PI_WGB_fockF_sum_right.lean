@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_fockF_sum_right
 -- name    : PI.WGB.fockF_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:57:05.110403+00:00
 -- url     : https://prove2.me/theorems/8ba0448e-f8fc-56ea-9c4f-6d900699f420

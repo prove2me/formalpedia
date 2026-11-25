@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Fdata_mul_le_weighted_squares
 -- name    : PositivityTheory.Rg.BcB.E2.P.Fdata.mul_le_weighted_squares
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:04.323331+00:00
 -- url     : https://prove2.me/theorems/3557614e-fdf4-4c6b-9e95-901849d36df5

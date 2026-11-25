@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymSupportP_exists_factor
 -- name    : GlobalTheory.SymSupportP.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:29:50.050317+00:00
 -- url     : https://prove2.me/theorems/77b16a43-7d5a-54b9-b868-597be6950b12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SemiInvariantDeterminant_det_mul_star
 -- name    : PositivityTheory.Rg.Cz.SemiInvariantDeterminant.det_mul_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:53:23.23225+00:00
 -- url     : https://prove2.me/theorems/a81612f1-78fa-410d-b505-124ed73cf5d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_goodV_aa
 -- name    : PI.VolStabW.goodV_aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:44:50.595897+00:00
 -- url     : https://prove2.me/theorems/ce16663b-d1c6-5f05-80ea-b489a9e1532a

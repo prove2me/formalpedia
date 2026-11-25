@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_second_order_norm_bound
 -- name    : PI.PolynomialProperness.second_order_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:38:25.125458+00:00
 -- url     : https://prove2.me/theorems/d6142b16-434b-43f5-b888-906692c22b71

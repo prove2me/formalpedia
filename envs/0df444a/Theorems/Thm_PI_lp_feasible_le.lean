@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_lp_feasible_le
 -- name    : PI.lp_feasible_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:47:05.549417+00:00
 -- url     : https://prove2.me/theorems/db94ab4b-2c38-452c-8697-da000af3e4fc

@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_share_first_constant
+-- name    : Formalism.HermitianLatticeCounting.Final.S4.share_first_constant
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-25T11:38:43.354076+00:00
+-- url     : https://prove2.me/theorems/658a0f04-9a3f-4fc1-86e2-c2caa1f6b6cc
+-- title:
+--   S4: share first constant
+-- statement:
+--   The S4 construction uses the share first constant property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/FlagUnipotentLattices/ValuationProductBound.lean#L25-L25
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/FlagUnipotentLattices/ValuationProductBound.lean#L25-L25
+
+import Definitions.Def_Formalism_FlagUnipotentLattices_PairingOrthogonalComplement
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_SuperdiagonalAdditionInvariance
+import Definitions.Def_Formalism_FlagUnipotentLattices_ValuationProductBound
+import Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_Part2_share_first_constant
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLatticeCounting Formalism.HermitianLatticeCounting.Final Formalism.HermitianLatticeCounting.Final.S4
+
+theorem Formalism.HermitianLatticeCounting.Final.S4.share_first_constant : Formalism.HermitianLatticeCounting.S4.LocalDensityShareBound := by sorry

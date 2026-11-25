@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_quantum_minor_move
 -- name    : quantum_minor_move
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:11:27.686018+00:00
 -- url     : https://prove2.me/theorems/63047254-9931-43c7-ae11-4597bd0a1d84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwEvalWork_Lsum_finset_sum
 -- name    : PI.WwEvalWork.Lsum_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:31.67774+00:00
 -- url     : https://prove2.me/theorems/d3293522-8496-4b97-95dd-4832255be2af

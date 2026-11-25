@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exact_jacquetMap
 -- name    : GroundTheory.Automorphic.Parabolic.exact_jacquetMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:10:51.216152+00:00
 -- url     : https://prove2.me/theorems/9f41fca3-cdf6-5252-84dd-95095c006d59

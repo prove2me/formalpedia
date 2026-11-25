@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_qt_matrix
 -- name    : PI.TwistedEisensteinNonvanishing.W.qt_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:30:20.500404+00:00
 -- url     : https://prove2.me/theorems/e014f787-1e04-41ee-95c5-9d4dc59dfd11

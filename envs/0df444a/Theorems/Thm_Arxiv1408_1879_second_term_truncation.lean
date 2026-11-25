@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1408_1879_second_term_truncation
 -- name    : Arxiv1408_1879.second_term_truncation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:51:40.186479+00:00
 -- url     : https://prove2.me/theorems/4fecb9d6-1081-4528-a3e9-966399222b1f

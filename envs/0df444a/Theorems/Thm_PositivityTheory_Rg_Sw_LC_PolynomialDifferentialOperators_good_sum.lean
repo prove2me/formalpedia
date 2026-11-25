@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialDifferentialOperators_good_sum
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.good_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:08:49.757104+00:00
 -- url     : https://prove2.me/theorems/51face77-8258-5b59-82dd-e3cb35e70d45

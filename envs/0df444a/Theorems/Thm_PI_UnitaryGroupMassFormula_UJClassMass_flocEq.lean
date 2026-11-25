@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_flocEq
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.flocEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:42:43.927088+00:00
 -- url     : https://prove2.me/theorems/8b1ca917-ab4e-4c34-9b1e-769dc489f8d5

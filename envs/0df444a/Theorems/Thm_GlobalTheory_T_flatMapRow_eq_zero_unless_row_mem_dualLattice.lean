@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flatMapRow_eq_zero_unless_row_mem_dualLattice
 -- name    : GlobalTheory.T.flatMapRow_eq_zero_unless_row_mem_dualLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:18:23.163962+00:00
 -- url     : https://prove2.me/theorems/5f294010-bfd2-4c11-a8a9-d629bcbf768b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_sum_upd
 -- name    : PositivityTheory.KReal.sum_upd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:06.570552+00:00
 -- url     : https://prove2.me/theorems/062ae3e7-539a-43aa-9f11-488c3b575569

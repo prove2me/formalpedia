@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_CycF_sum_blk_other
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.CycF.sum_blk_other
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:00:36.729937+00:00
 -- url     : https://prove2.me/theorems/7c84d88f-6cf7-4065-b466-c030561e959d

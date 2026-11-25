@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_EigenspaceOrthogonality_beta_smul_right
 -- name    : PositivityTheory.CW.EigenspaceOrthogonality.beta_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:49:55.705734+00:00
 -- url     : https://prove2.me/theorems/d3f9b0ed-faad-4382-b5c1-e2857de963bf

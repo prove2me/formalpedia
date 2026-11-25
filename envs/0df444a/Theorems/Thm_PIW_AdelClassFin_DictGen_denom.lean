@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictGen_denom
 -- name    : PIW.AdelClassFin.DictGen.denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:53:41.301795+00:00
 -- url     : https://prove2.me/theorems/26950cfc-9a83-4787-9807-a7fbbb05c005

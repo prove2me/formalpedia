@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_BlockAlgebra_common_ker
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.BlockAlgebra.common_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:52:37.981823+00:00
 -- url     : https://prove2.me/theorems/b6ea1a42-355b-4c60-b8cf-f4eab8211cd1

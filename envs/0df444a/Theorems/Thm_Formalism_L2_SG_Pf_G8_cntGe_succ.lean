@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G8_cntGe_succ
 -- name    : Formalism.L2.SG.Pf.G8.cntGe_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:11:44.162587+00:00
 -- url     : https://prove2.me/theorems/f9a23e73-27a7-551d-9d4d-769c103200f7

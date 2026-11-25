@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WHw_fixed_vectors_killed
 -- name    : PI.WHw.fixed_vectors_killed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:12.248053+00:00
 -- url     : https://prove2.me/theorems/276290ec-dd0f-4ffd-9e13-6a93208a4819

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_EigA_hop_eq_reps
 -- name    : PositivityTheory.Rg.BcB.F.EigA.hop_eq_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:52:28.937641+00:00
 -- url     : https://prove2.me/theorems/0f19562a-745c-5389-818c-2c0999393e06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_lowest_k_type_holds
 -- name    : PI.ZuckTensorWork.lowest_k_type_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:47:12.938854+00:00
 -- url     : https://prove2.me/theorems/49817fc9-4a3a-402e-a6b9-f4757fed15bd

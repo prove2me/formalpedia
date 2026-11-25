@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_modChar_eq_one_of_compact
 -- name    : PIW.HCFdeg.modChar_eq_one_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:47:06.78679+00:00
 -- url     : https://prove2.me/theorems/1ad6b8dc-192f-5121-b863-497643fd73a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_PCD_contDiffOn_nat
 -- name    : PositivityTheory.Rg.Sw.HSt.PCD.contDiffOn_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:55:09.220429+00:00
 -- url     : https://prove2.me/theorems/07769401-d939-478d-bf30-6e70e0cf8d15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_PStepFormula_alt_swap
 -- name    : PositivityTheory.Rg.Cz.PStepFormula.alt_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:01.203077+00:00
 -- url     : https://prove2.me/theorems/ac487b77-4ba2-5e81-aec3-95f37338c9e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B3_etaLe_of_eq
 -- name    : PositivityTheory.Rg.Sw.LC.B3.etaLe_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:56:02.305187+00:00
 -- url     : https://prove2.me/theorems/e00e8e28-d57f-5a5a-ad11-280132676898

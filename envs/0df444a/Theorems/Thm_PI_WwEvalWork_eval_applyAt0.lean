@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwEvalWork_eval_applyAt0
 -- name    : PI.WwEvalWork.eval_applyAt0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:32.671976+00:00
 -- url     : https://prove2.me/theorems/efabe2fb-61fa-4d57-adb3-440355110fe2

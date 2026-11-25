@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiU_sub_contract
 -- name    : PI.WGL.XiU.sub_contract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:51.677749+00:00
 -- url     : https://prove2.me/theorems/3e821a2d-ce76-414d-ba90-09feb8ac842f

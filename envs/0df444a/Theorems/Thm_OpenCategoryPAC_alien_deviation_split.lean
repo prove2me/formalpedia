@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpenCategoryPAC_alien_deviation_split
 -- name    : OpenCategoryPAC.alien_deviation_split
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T04:21:10.014904+00:00
 -- url     : https://prove2.me/theorems/39b7d0f5-4bdf-4282-82d2-06ab0e2385bf

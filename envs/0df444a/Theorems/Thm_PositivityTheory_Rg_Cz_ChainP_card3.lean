@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ChainP_card3
 -- name    : PositivityTheory.Rg.Cz.ChainP.card3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:23.35869+00:00
 -- url     : https://prove2.me/theorems/440e541c-cefd-412a-849a-07a474a1571a

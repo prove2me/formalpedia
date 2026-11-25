@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_QF_coeff_eq_zero_of_evU
 -- name    : PositivityTheory.Rg.Cz.QF.coeff_eq_zero_of_evU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:40.792208+00:00
 -- url     : https://prove2.me/theorems/467eb363-b7fe-4f41-8ea5-5bf3caf813e8

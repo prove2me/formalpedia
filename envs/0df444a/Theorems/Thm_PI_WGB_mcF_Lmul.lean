@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_mcF_Lmul
 -- name    : PI.WGB.mcF_Lmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:45:22.047512+00:00
 -- url     : https://prove2.me/theorems/0048cd6c-4aa9-4cfc-8177-f1386c333e4c

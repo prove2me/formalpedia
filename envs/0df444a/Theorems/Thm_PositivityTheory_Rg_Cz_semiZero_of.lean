@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_semiZero_of
 -- name    : PositivityTheory.Rg.Cz.semiZero_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:56:10.121549+00:00
 -- url     : https://prove2.me/theorems/f6770180-77f4-5e8c-8879-82cd974a8ee7

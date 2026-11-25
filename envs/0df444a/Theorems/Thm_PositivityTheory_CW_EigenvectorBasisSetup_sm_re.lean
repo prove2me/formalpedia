@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_EigenvectorBasisSetup_sm_re
 -- name    : PositivityTheory.CW.EigenvectorBasisSetup.sm_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:50:57.337913+00:00
 -- url     : https://prove2.me/theorems/16a88d5b-2beb-53c5-a164-9c2ccf842af7

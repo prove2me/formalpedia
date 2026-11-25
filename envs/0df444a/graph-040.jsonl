@@ -192,7 +192,7 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsCommonDenominatorOfValuationLeCofiniteStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsCommonDenominatorOfValuationLeCofinite", "via": ["statement"]}
 {"parent": "GlobalTheory.UnitPairNorm.h_add_right", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_ExistsUnitNorm", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UnitPairNorm.h_add_right", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_UnitLemmaGroup", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SepFac.IsSS.exists_decomp", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_InfinitesimalCharacterLimits_LieSumDecompositions_PSepFac", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SepFac.IsSS.exists_decomp", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_InfinitesimalCharacterLimits_LieSumDecompositions_PSepFac", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.StandardCharacterExists.map_mul_mu", "child": "Formalism_HermitianCurvature_StatementG", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.StandardCharacterExists.map_mul_mu", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_StandardCharacterExists", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S6x2.smul_mem_FI", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FirstEmbeddingOne", "via": ["solution", "statement"]}
@@ -695,7 +695,7 @@
 {"parent": "GlobalTheory.CuspRep.exists_bound", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_IsOpenNsmulAdelicCompletionOfVectorSet", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.QuotVan.map_conj", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerVolume_TopoPolish", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.QuotVan.map_conj", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_MapWithDensityEqOfScale", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SepFac.isSS_of_decomp", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_InfinitesimalCharacterLimits_LieSumDecompositions_PSepFac", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SepFac.isSS_of_decomp", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_InfinitesimalCharacterLimits_LieSumDecompositions_PSepFac", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17.part_030_3", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S17.part_030_3", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S17.part_030_3", "child": "ArdaRH65K_RS_B2", "via": ["statement"]}
@@ -11860,8 +11860,8 @@
 {"parent": "FairSelling.ZeroPrice.GoodSt_empty", "child": "RequestProject_TPSApprox", "via": ["solution", "statement"]}
 {"parent": "FairSelling.ZeroPrice.GoodSt_empty", "child": "RequestProject_Selling", "via": ["solution", "statement"]}
 {"parent": "FairSelling.ZeroPrice.GoodSt_empty", "child": "RequestProject_TPSCompute", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.CW.FunctionalCalculusInner.inner_eq_sum", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_FunctionalCalculusLaws", "via": ["statement"]}
-{"parent": "PositivityTheory.CW.FunctionalCalculusInner.inner_eq_sum", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_FunctionalCalculusOfBasic", "via": ["statement"]}
+{"parent": "PositivityTheory.CW.FunctionalCalculusInner.inner_eq_sum", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_FunctionalCalculusLaws", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CW.FunctionalCalculusInner.inner_eq_sum", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_FunctionalCalculusOfBasic", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_VerticalDivisors_PNormLength", "child": "GroundTheory_HeightsAndTheta_Heights_VerticalDivisors_Statements", "via": ["statement"]}
 {"parent": "Development_ResolutionOfSingularities_EmbeddedResolution_MaximalContactHypersurfaces_TunedIdealPowers", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_MaximalContactHypersurfaces_TunedIdeal", "via": ["statement"]}
 {"parent": "Development_ResolutionOfSingularities_EmbeddedResolution_MaximalContactHypersurfaces_TunedIdealPowers", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdeal", "via": ["statement"]}
@@ -32356,8 +32356,8 @@
 {"parent": "ULHC.Ends.ne", "child": "ULHC_Flip", "via": ["solution", "statement"]}
 {"parent": "ULHC.Ends.ne", "child": "ULHC_AFlip", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ChowForms_PProjNullstellensatz", "child": "GroundTheory_HeightsAndTheta_Heights_ChowForms_Statements", "via": ["statement"]}
-{"parent": "PositivityTheory.CW.MatrixActionSingle.adj", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_FunctionalCalculusLaws", "via": ["statement"]}
-{"parent": "PositivityTheory.CW.MatrixActionSingle.adj", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_ColumnMomentsOfSymmetric", "via": ["statement"]}
+{"parent": "PositivityTheory.CW.MatrixActionSingle.adj", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_FunctionalCalculusLaws", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CW.MatrixActionSingle.adj", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_ColumnMomentsOfSymmetric", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TyFin.Mirrors.lab_cast", "child": "Development_WeilBound_CoreStatements_FiniteTypeHarishChandra_SupportExistsAll", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TyFin.Mirrors.lab_cast", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_MirrorPartitions", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TyFin.Mirrors.lab_cast", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_InnerProductCuspidalIso", "via": ["solution", "statement"]}
@@ -36411,8 +36411,8 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_eL_apply_0119d81ffd10", "child": "GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_ArithModel", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_eL_apply_0119d81ffd10", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ArithmeticHilbertSamuelLowerBound", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_eL_apply_0119d81ffd10", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_Statements", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.CW.GradedNormalNilpotent.MR_mul", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CommutatorAdjointHolds", "via": ["statement"]}
-{"parent": "PositivityTheory.CW.GradedNormalNilpotent.MR_mul", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_FunctionalCalculusLaws", "via": ["statement"]}
+{"parent": "PositivityTheory.CW.GradedNormalNilpotent.MR_mul", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CommutatorAdjointHolds", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CW.GradedNormalNilpotent.MR_mul", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_FunctionalCalculusLaws", "via": ["solution", "statement"]}
 {"parent": "ULHC_StripCount", "child": "ULHC.APair.flip", "via": ["statement"]}
 {"parent": "ULHC_StripCount", "child": "ULHC.ACell.e2_ne_e1", "via": ["statement"]}
 {"parent": "ULHC_StripCount", "child": "ULHC.ends_lat2", "via": ["statement"]}
@@ -73659,7 +73659,7 @@
 {"parent": "Development_WeilBound_CoreStatements_CompactAveragingSplitting_EigenvectorLifting_VaceigenAlg", "child": "Development_AutomorphicSpectrum_Definitions_MembershipCriteria_LaEqSqrtSmulLam", "via": ["statement"]}
 {"parent": "ReciprocityTheory_Chebotarev_SplitEA", "child": "ReciprocityTheory_Chebotarev_SplitA", "via": ["statement"]}
 {"parent": "ReciprocityTheory_Chebotarev_SplitEA", "child": "ReciprocityTheory_Chebotarev_SplitD", "via": ["statement"]}
-{"parent": "OpenCategoryPAC.alien_deviation_split", "child": "OpenCategoryPAC_Basic", "via": ["statement"]}
+{"parent": "OpenCategoryPAC.alien_deviation_split", "child": "OpenCategoryPAC_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TorsorUnit.exists_homogeneous", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ExistsLocalUnitOfWeight", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TorsorUnit.exists_homogeneous", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_FamMod", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TorsorUnit.exists_homogeneous", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ExistsSplitTorusPointsMulEquiv", "via": ["solution", "statement"]}
@@ -73939,7 +73939,7 @@
 {"parent": "FockRL.fi_zero_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockRaisingLowering_SameSign", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DecoratedLatticeProofs_MapRestrictIsHaarOfOpenProductCompactStatement", "child": "Development_AbelianVarietyTheory_Proofs_DecoratedLatticeProofs_MapRestrictIsHaarOfOpenProductCompact", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_OneDegOfHalves", "child": "Formalism_PeriodIntegrals_FockDegreeTwoParts", "via": ["statement"]}
-{"parent": "OpenCategoryPAC.upper_bound_alien_cdf", "child": "OpenCategoryPAC_Basic", "via": ["statement"]}
+{"parent": "OpenCategoryPAC.upper_bound_alien_cdf", "child": "OpenCategoryPAC_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Pj.isChart_iff", "child": "Formalism_LocalToGlobal_ProjectiveLattices_IsChartIff", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Pj.isChart_iff", "child": "Formalism_LocalToGlobal_ProjectiveLattices_ThGerm", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FullRankIffNonzeroMinorStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_OmAOneApply", "via": ["statement"]}
@@ -74457,7 +74457,7 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PPluckerCover", "child": "GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_XiPluckerCover", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PPluckerCover", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_PPFFibreSum", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PPluckerCover", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_PRFormula", "via": ["statement"]}
-{"parent": "OpenCategoryPAC.mixture_cdf_decomposition", "child": "OpenCategoryPAC_Basic", "via": ["statement"]}
+{"parent": "OpenCategoryPAC.mixture_cdf_decomposition", "child": "OpenCategoryPAC_Basic", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E38.blk7", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E38.blk7", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E38.blk7", "child": "RHX_RunChain", "via": ["statement"]}
@@ -83136,7 +83136,7 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PDivisorRegularGeneric", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_RingKrullDimQuotientMinimalPrimeAddOne", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.SP.CommPf.dl_C", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MinorFormulas_CayDivOf", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.SP.CommPf.dl_C", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MinorFormulas_DerivationConstantVanishes", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.KReal.sum_upd", "child": "Development_WeilBound_CoreStatements_GaussianSeminormBounds_RealSeminormFiltration_CoreCasC", "via": ["statement"]}
+{"parent": "PositivityTheory.KReal.sum_upd", "child": "Development_WeilBound_CoreStatements_GaussianSeminormBounds_RealSeminormFiltration_CoreCasC", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Cz.CharacterRelations.lift_alg", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_LiftCommEAt", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Cz.CharacterRelations.lift_alg", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_PStepChar", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.HSt.MI.contDiff_entry", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_IILeft", "via": ["solution", "statement"]}
@@ -83267,8 +83267,8 @@
 {"parent": "RHX1000000.Run.E42.blk2", "child": "RHX_RunChain", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E42.blk2", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "PI.WADVR.sm_exists", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeakApproximationDVR_SmOneOfNotIsUnit", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Cz.KTy.isTabQ", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_LiftCommEAt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Cz.KTy.isTabQ", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_PKTypeA", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Cz.KTy.isTabQ", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_LiftCommEAt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Cz.KTy.isTabQ", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_PKTypeA", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_fiberPoly_monic_f4ae4bc91a77", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StPolynomialRootPredicateFactor", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_fiberPoly_monic_f4ae4bc91a77", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PRiemannExtensionAnalytic", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_fiberPoly_monic_f4ae4bc91a77", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PManifoldZerosComplementConnected", "via": ["solution", "statement"]}
@@ -83450,8 +83450,8 @@
 {"parent": "GlobalTheory.HolHom.fst_constVec", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DifferentiableOnOfTendstoLocallyUniformlyOn", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HolHom.fst_constVec", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HasArcDataIff", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HolHom.fst_constVec", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_ExistsUniquePointOfRingHom", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Cz.ChainP.qdet_comp", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_LiftCommEAt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Cz.ChainP.qdet_comp", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_PChainA", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Cz.ChainP.qdet_comp", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_LiftCommEAt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Cz.ChainP.qdet_comp", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_PChainA", "via": ["solution", "statement"]}
 {"parent": "OrdinalStepUp.ErdosRado.noHomog_stepUp", "child": "OrdinalStepUp_Solution", "via": ["solution", "statement"]}
 {"parent": "PI.WFJM.rightOffDiagonalActionFormula", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_LoweringPartRightActionInlInr", "via": ["solution", "statement"]}
 {"parent": "PI.WFJM.rightOffDiagonalActionFormula", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_JointMultOfSteps", "via": ["solution", "statement"]}
@@ -83941,10 +83941,10 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_PKHFreeDecomp", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_KHFreeDecompSt", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.SP.smul_mem_AT", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MinorFormulas_CayDivA", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.SP.smul_mem_AT", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MinorFormulas_CayDivOf", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Cz.QF.natDegree_prod_le", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_PQdetFacts", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Cz.QF.natDegree_prod_le", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_RowCol", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Cz.QF.natDegree_prod_le", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_Central", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Cz.QF.natDegree_prod_le", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_QdetFacts", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Cz.QF.natDegree_prod_le", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_PQdetFacts", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Cz.QF.natDegree_prod_le", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_RowCol", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Cz.QF.natDegree_prod_le", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_Central", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Cz.QF.natDegree_prod_le", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_QdetFacts", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_algebraMap_not_mem_map_of_colon_le_c246e15434f6", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_Imports", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_algebraMap_not_mem_map_of_colon_le_c246e15434f6", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_ExistsMulEqZeroOfMemAssociatedPrime", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_algebraMap_not_mem_map_of_colon_le_c246e15434f6", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PFlatNormalFibres", "via": ["solution", "statement"]}
@@ -84014,8 +84014,8 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_polyVal_rename_1c775c5899c9", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PVerticalDivisorsCommute", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_ArcConst_arc__C_injective_0a8b9ebdf4ed", "child": "Development_AbelianVarietyTheory_Proofs_ThetaShiftProofs_IsIntegralElemOfIsAlgebraicInt", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_ArcConst_arc__C_injective_0a8b9ebdf4ed", "child": "Formalism_LocalToGlobal_ProjectiveLattices_SectionOfLineBundleOne", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Lord.factor_analytic", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_SiegelWeilFormula_ZetaEulerProducts_MeromorphicAtProd", "via": ["statement"]}
-{"parent": "PositivityTheory.Lord.factor_analytic", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_SiegelWeilFormula_ZetaEulerProducts_FactorDifferentiable", "via": ["statement"]}
+{"parent": "PositivityTheory.Lord.factor_analytic", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_SiegelWeilFormula_ZetaEulerProducts_MeromorphicAtProd", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Lord.factor_analytic", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_SiegelWeilFormula_ZetaEulerProducts_FactorDifferentiable", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Cz.CharacterRelations.rel_uniq", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_LiftCommEAt", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Cz.CharacterRelations.rel_uniq", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_PStepChar", "via": ["solution", "statement"]}
 {"parent": "ReedGGN_Regulator_Supplement_QueueModel", "child": "ReedGGN_Regulator_Supplement_FCFS", "via": ["statement"]}
@@ -84074,7 +84074,7 @@
 {"parent": "OverflowBinPacking.IID.Supplement.theorem_6_2", "child": "OverflowBinPacking_IID_Supplement_Discretization", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_EffectiveHilbertSamuel_ImportsTer", "child": "GroundTheory_HeightsAndTheta_Heights_EffectiveHilbertSamuel_SymbolExtensionProperty", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_EffectiveHilbertSamuel_ImportsTer", "child": "GroundTheory_HeightsAndTheta_Heights_EffectiveHilbertSamuel_Statements", "via": ["statement"]}
-{"parent": "PI.WADVR.sm_natCast", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeakApproximationDVR_SmOneOfNotIsUnit", "via": ["statement"]}
+{"parent": "PI.WADVR.sm_natCast", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeakApproximationDVR_SmOneOfNotIsUnit", "via": ["solution", "statement"]}
 {"parent": "P2M_UpperTheory_Reformulated_B_Qf26_tmA_sm_sum__1a2d79d19c55", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_TmASmSum", "via": ["solution", "statement"]}
 {"parent": "PI.FockOneDegW.posOp_apply", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockRaisingLowering_BlockDiagonalPreservesDegree", "via": ["solution", "statement"]}
 {"parent": "PI.FockOneDegW.posOp_apply", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_FockOperatorsKernel", "via": ["solution", "statement"]}
@@ -84104,8 +84104,8 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_polyVal_fun_sub_fde591e95c3b", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PPairCocycle", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_polyVal_fun_sub_fde591e95c3b", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_IsMultiHomogIdealSpanSingleton", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_polyVal_fun_sub_fde591e95c3b", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PVerticalDivisorsCommute", "via": ["solution", "statement"]}
-{"parent": "PI.FJM.leftDiagonalActionFormula", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_LoweringPartRightActionInlInr", "via": ["statement"]}
-{"parent": "PI.FJM.leftDiagonalActionFormula", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_JointMultOfSteps", "via": ["statement"]}
+{"parent": "PI.FJM.leftDiagonalActionFormula", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_LoweringPartRightActionInlInr", "via": ["solution", "statement"]}
+{"parent": "PI.FJM.leftDiagonalActionFormula", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_JointMultOfSteps", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PBranchInverseHolomorphic", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StNormalLocallyIrreducible", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PBranchInverseHolomorphic", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StBranchInverseHolomorphic", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PBranchInverseHolomorphic", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StNormalRiemannExtension", "via": ["statement"]}
@@ -84302,8 +84302,8 @@
 {"parent": "RHX1000000.Run.E44.blk8", "child": "RHX1E6_RunE44", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E44.blk8", "child": "RHX_RunChain", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E44.blk8", "child": "RHX_RunSplit", "via": ["statement"]}
-{"parent": "PI.FJM.rightDiagonalActionFormula", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_LoweringPartRightActionInlInr", "via": ["statement"]}
-{"parent": "PI.FJM.rightDiagonalActionFormula", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_JointMultOfSteps", "via": ["statement"]}
+{"parent": "PI.FJM.rightDiagonalActionFormula", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_LoweringPartRightActionInlInr", "via": ["solution", "statement"]}
+{"parent": "PI.FJM.rightDiagonalActionFormula", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_JointMultOfSteps", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.RestrictedTensor.evalForm_tprod", "child": "GroundTheory_AutomorphicForms_SmoothRep", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.RestrictedTensor.evalForm_tprod", "child": "GroundTheory_AutomorphicForms_TensorProductTheorem_Restricted", "via": ["solution", "statement"]}
 {"parent": "Formalism_LocalToGlobal_IndefiniteReal_FinitePlaces_FourUniq", "child": "Formalism_LocalToGlobal_IndefiniteReal_FinitePlaces_SmulFinsum", "via": ["statement"]}
@@ -84761,8 +84761,8 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PProperOpenProjectionBranchLocus", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StProperOpenProjectionBranchLocus", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PProperOpenProjectionBranchLocus", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StFibreDiscriminantHolomorphic", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PProperOpenProjectionBranchLocus", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StMaximalCountUnbranched", "via": ["statement"]}
-{"parent": "PI.WGB.GoodB_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinBranching_DetPowUnitriB", "via": ["statement"]}
-{"parent": "PI.WGB.GoodB_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinBranching_RowActDiagMonomial", "via": ["statement"]}
+{"parent": "PI.WGB.GoodB_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinBranching_DetPowUnitriB", "via": ["solution", "statement"]}
+{"parent": "PI.WGB.GoodB_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinBranching_RowActDiagMonomial", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PBranchLift", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StNormalModelProper", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PBranchLift", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StBranchLift", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PBranchLift", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StBranchOffHypersurface", "via": ["statement"]}
@@ -87329,8 +87329,8 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PPrimitiveFormFullBranchConstant", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StPrimitiveFormFullBranchConstant", "via": ["statement"]}
 {"parent": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_BalOf", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_FormalGroupLinearSecond", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_LatticeLemmas_StatementsExamples", "child": "GroundTheory_HeightsAndTheta_Heights_LatticeLemmas_StatementsLocal", "via": ["statement"]}
-{"parent": "PI.WFJM.minusPart_omE_np", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_LoweringPartRightActionInlInr", "via": ["statement"]}
-{"parent": "PI.WFJM.minusPart_omE_np", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_JointMultOfSteps", "via": ["statement"]}
+{"parent": "PI.WFJM.minusPart_omE_np", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_LoweringPartRightActionInlInr", "via": ["solution", "statement"]}
+{"parent": "PI.WFJM.minusPart_omE_np", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_JointMultOfSteps", "via": ["solution", "statement"]}
 {"parent": "RegMT_Classif_Supplement_RKHS", "child": "FoundationsML_Stability_IsRKHSOf", "via": ["statement"]}
 {"parent": "RegMT_Classif_Supplement_RKHS", "child": "RegMT_Classif_Supplement_Transport", "via": ["statement"]}
 {"parent": "Formalism_WachLatticeTwists_RamifiedBlockRings_RamifiedBlockProofs_RankDiagIte", "child": "Formalism_CharacterColumnKernels_IdempotentNormalForms_SpacedProductLowerBound", "via": ["statement"]}
@@ -88657,8 +88657,8 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_ClosedPointUnitSection_exists_valuationSubring_4a93cd2d9134", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_StatementsClosedPointUnitSection", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_PairOperatorStatement", "child": "Development_AbelianVarietyTheory_BlockTheory_TwistedDiscreteSeries_AdjointOperatorIdentities", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_PairOperatorStatement", "child": "Development_AbelianVarietyTheory_Definitions_TwistedInnerProducts_ExistsFFNeZeroThree", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Cz.HeightVanishing.letter_zero", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_LiftCommEAt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Cz.HeightVanishing.letter_zero", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_PHeight", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Cz.HeightVanishing.letter_zero", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_LiftCommEAt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Cz.HeightVanishing.letter_zero", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_PHeight", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.fixedVectors_antitone", "child": "GroundTheory_AutomorphicForms_LocallyProfinite", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.fixedVectors_antitone", "child": "GroundTheory_AutomorphicForms_SmoothRep", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.fixedVectors_antitone", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_StabilizerOf", "via": ["solution", "statement"]}
@@ -90311,36 +90311,36 @@
 {"parent": "P2M_GlobalTheory_LastSteps_phiOne_last__fde6c3287ccb", "child": "Development_AbelianVarietyTheory_BlockTheory_TwistedDiscreteSeries_DualLiftInvariance", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_LastSteps_phiOne_last__fde6c3287ccb", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IsClopenIsCompactQLat", "via": ["solution", "statement"]}
 {"parent": "WeightedEdgeColor.lemma_grouping", "child": "WeightedEdgeColor_WGraph", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_FunctionalCalculusOfBasic", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GelfandCentralHolds", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CompactGroupFacts", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_MaximumPrincipleOfFacts", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_U0Commute", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_BasisFormSumOfGain", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CasimirRealScalar", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_WordFiltrationCommute", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EnvelopingAlgebraGrowthBound", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CommutatorAdjointHolds", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EigenWeightedSumBound", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GroupFactsHolds", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EigenspacesOrthogonalOfCalculus", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_IdentityFiltrationBound", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_SymmetricPowerHolds", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GrowthPolynomialOperator", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GrowthOfBasic", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_SecondDerivativeHolds", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EigenbasisOfBasic", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_BasisSumOfOrthogonality", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_OrthonormalEigenbasisOfBasic", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_InversePowerBoundHolds", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CasimirRealOfCentral", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_MatrixActionSingle", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_PMaxPr", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_KFiniteInclusion", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EtaleCohomologyNegativeVanishingDegreeZero", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CasimirPowerCommute", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_ColumnMomentsOfSymmetric", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_NilpotentOfPowerTraces", "via": ["statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_FunctionalCalculusOfBasic", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GelfandCentralHolds", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CompactGroupFacts", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_MaximumPrincipleOfFacts", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_U0Commute", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_BasisFormSumOfGain", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CasimirRealScalar", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_WordFiltrationCommute", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EnvelopingAlgebraGrowthBound", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CommutatorAdjointHolds", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EigenWeightedSumBound", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GroupFactsHolds", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EigenspacesOrthogonalOfCalculus", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_IdentityFiltrationBound", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_SymmetricPowerHolds", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GrowthPolynomialOperator", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GrowthOfBasic", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_SecondDerivativeHolds", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EigenbasisOfBasic", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_BasisSumOfOrthogonality", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_OrthonormalEigenbasisOfBasic", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_InversePowerBoundHolds", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CasimirRealOfCentral", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_MatrixActionSingle", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_PMaxPr", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_KFiniteInclusion", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EtaleCohomologyNegativeVanishingDegreeZero", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CasimirPowerCommute", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_ColumnMomentsOfSymmetric", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.gelfand_invariants_central", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_NilpotentOfPowerTraces", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_RestTerms_Top_hasDD_smul_1cdeb56450cd", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_Statements", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_RestTerms_Top_hasDD_smul_1cdeb56450cd", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_Expand", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_StrongApprox_hf_f0f0_a1dde18274c7", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_StrongApproximation_SAOpenStatement", "via": ["solution", "statement"]}
@@ -91511,7 +91511,7 @@
 {"parent": "RHX1000000.Run.E50.blk5", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E50.blk5", "child": "RHX_RunChain", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E50.blk5", "child": "RHX_RunSplit", "via": ["statement"]}
-{"parent": "GoodViews.mutualInfo_chain_rule", "child": "GoodViews_Basic", "via": ["statement"]}
+{"parent": "GoodViews.mutualInfo_chain_rule", "child": "GoodViews_Basic", "via": ["solution", "statement"]}
 {"parent": "GoodViews.optimal_views_minimal_representation", "child": "GoodViews_Basic", "via": ["statement"]}
 {"parent": "PositivityTheory.ThKH.Evl.schr_schr", "child": "Development_AutomorphicSpectrum_Proofs_MembershipProofs_ExistsInvariantForm", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.ThKH.Evl.schr_schr", "child": "Development_WeilBound_CoreStatements_LocalThetaKernels_EvlLoc", "via": ["solution", "statement"]}
@@ -91554,36 +91554,36 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_StandardModelDualRank_T_ne_zero_f2d1927e4435", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PDualArithVar", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_StRatPosPartLocal", "child": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_RatChartObjects", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_StRatPosPartLocal", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StPosPartIndependent", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_FunctionalCalculusOfBasic", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GelfandCentralHolds", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CompactGroupFacts", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_MaximumPrincipleOfFacts", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_U0Commute", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_BasisFormSumOfGain", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CasimirRealScalar", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_WordFiltrationCommute", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EnvelopingAlgebraGrowthBound", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CommutatorAdjointHolds", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EigenWeightedSumBound", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GroupFactsHolds", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EigenspacesOrthogonalOfCalculus", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_IdentityFiltrationBound", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_SymmetricPowerHolds", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GrowthPolynomialOperator", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GrowthOfBasic", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_SecondDerivativeHolds", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EigenbasisOfBasic", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_BasisSumOfOrthogonality", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_OrthonormalEigenbasisOfBasic", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_InversePowerBoundHolds", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CasimirRealOfCentral", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_MatrixActionSingle", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_PMaxPr", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_KFiniteInclusion", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EtaleCohomologyNegativeVanishingDegreeZero", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CasimirPowerCommute", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_ColumnMomentsOfSymmetric", "via": ["statement"]}
-{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_NilpotentOfPowerTraces", "via": ["statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_FunctionalCalculusOfBasic", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GelfandCentralHolds", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CompactGroupFacts", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_MaximumPrincipleOfFacts", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_U0Commute", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_BasisFormSumOfGain", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CasimirRealScalar", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_WordFiltrationCommute", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EnvelopingAlgebraGrowthBound", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CommutatorAdjointHolds", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EigenWeightedSumBound", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GroupFactsHolds", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EigenspacesOrthogonalOfCalculus", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_IdentityFiltrationBound", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_SymmetricPowerHolds", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GrowthPolynomialOperator", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_GrowthOfBasic", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_SecondDerivativeHolds", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EigenbasisOfBasic", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_BasisSumOfOrthogonality", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_OrthonormalEigenbasisOfBasic", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_InversePowerBoundHolds", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CasimirRealOfCentral", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_MatrixActionSingle", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_PMaxPr", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_KFiniteInclusion", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_EtaleCohomologyNegativeVanishingDegreeZero", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_CasimirPowerCommute", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_ColumnMomentsOfSymmetric", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.CWB.casimir_eigenvector_exists", "child": "Development_WeilBound_CoreStatements_PublishedTheorems_CasselmanWallach_NilpotentOfPowerTraces", "via": ["solution", "statement"]}
 {"parent": "PI.FockOneDegW.HwC.coeff_Ecc", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_FockOperatorsKernel", "via": ["solution", "statement"]}
 {"parent": "PI.FockOneDegW.HwC.coeff_Ecc", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_CoeffXMulPderivSelf", "via": ["solution", "statement"]}
 {"parent": "PI.FockOneDegW.HwC.coeff_Ecc", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_RedDefs", "via": ["solution", "statement"]}
@@ -91597,8 +91597,8 @@
 {"parent": "PositivityTheory.Rg.Sw.LVs.holZero", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_HasFDerivAtInt", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.holZero", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ScalarDir", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.holZero", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_FderivEqZeroOfVanish", "via": ["statement"]}
-{"parent": "PI.FJMS.segs_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_PosIffLtNP", "via": ["statement"]}
-{"parent": "PI.FJMS.segs_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_IsBlockHighestWeight", "via": ["statement"]}
+{"parent": "PI.FJMS.segs_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_PosIffLtNP", "via": ["solution", "statement"]}
+{"parent": "PI.FJMS.segs_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_IsBlockHighestWeight", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PairOp.cross_dia", "child": "Development_AbelianVarietyTheory_BlockTheory_TwistedDiscreteSeries_AdjointOperatorIdentities", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PairOp.cross_dia", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_PairOperatorStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PairOp.cross_dia", "child": "Development_AbelianVarietyTheory_Definitions_TwistedInnerProducts_ExistsFFNeZeroThree", "via": ["solution", "statement"]}
@@ -91663,11 +91663,11 @@
 {"parent": "Erdos1219.Ctx.part_homog", "child": "Erdos1219_Defs", "via": ["solution", "statement"]}
 {"parent": "Erdos1219.Ctx.part_homog", "child": "Erdos1219_Canonization", "via": ["solution", "statement"]}
 {"parent": "Erdos1219.Ctx.part_homog", "child": "Erdos1219_Ramsey", "via": ["solution", "statement"]}
-{"parent": "PI.FJMS.pure_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_MemLeftHighestWeightOfIsMinimalJointVector", "via": ["statement"]}
-{"parent": "PI.FJMS.pure_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_GlobalTheory", "via": ["statement"]}
-{"parent": "PI.FJMS.pure_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_PosIffLtNP", "via": ["statement"]}
-{"parent": "PI.FJMS.pure_of", "child": "Lemmata_B1959r_Imports", "via": ["statement"]}
-{"parent": "PI.FJMS.pure_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_LoweringPartRightActionInlInr", "via": ["statement"]}
+{"parent": "PI.FJMS.pure_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_MemLeftHighestWeightOfIsMinimalJointVector", "via": ["solution", "statement"]}
+{"parent": "PI.FJMS.pure_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_GlobalTheory", "via": ["solution", "statement"]}
+{"parent": "PI.FJMS.pure_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_PosIffLtNP", "via": ["solution", "statement"]}
+{"parent": "PI.FJMS.pure_of", "child": "Lemmata_B1959r_Imports", "via": ["solution", "statement"]}
+{"parent": "PI.FJMS.pure_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_LoweringPartRightActionInlInr", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E50.blk2", "child": "RHX1E6_RunE50", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E50.blk2", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E50.blk2", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
@@ -98018,8 +98018,8 @@
 {"parent": "GlobalTheory.ThetaFamily.exists_quotient_closure", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DifferentiableOnOfTendstoLocallyUniformlyOn", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ThetaFamily.exists_quotient_closure", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_DifferentiableOnQuotientOfDifferentiableOnSlice", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ThetaFamily.exists_quotient_closure", "child": "ReciprocityTheory_SemistableReduction_ShareDetA", "via": ["solution", "statement"]}
-{"parent": "P2M_PI_WFJM_minusPart_omE_np__e671a62cbaae", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_JointMultOfSteps", "via": ["statement"]}
-{"parent": "P2M_PI_WFJM_minusPart_omE_np__e671a62cbaae", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_LoweringPartRightActionInlInr", "via": ["statement"]}
+{"parent": "P2M_PI_WFJM_minusPart_omE_np__e671a62cbaae", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_JointMultOfSteps", "via": ["solution", "statement"]}
+{"parent": "P2M_PI_WFJM_minusPart_omE_np__e671a62cbaae", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_LoweringPartRightActionInlInr", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.KS.VertFamily.ptDer_fderiv", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_TopLePreimageOfValAtNeZero", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.KS.VertFamily.ptDer_fderiv", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.KS.VertFamily.ptDer_fderiv", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ExistsUniqueUniformisingVectorVerticalTangent", "via": ["solution", "statement"]}

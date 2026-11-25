@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_lm_map_ext
 -- name    : PI.WGL.lm_map_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:50:02.204169+00:00
 -- url     : https://prove2.me/theorems/28a640b9-0ba4-5043-a505-8d46846ae6e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DiscreteGroups_meas_fib
 -- name    : PI.VolStabW.DiscreteGroups.meas_fib
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:43:00.321235+00:00
 -- url     : https://prove2.me/theorems/8754e293-0915-4ea9-ae54-55156a88b7b6

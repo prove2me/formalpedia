@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelicOrbitU_quad_exists_theta
 -- name    : PIW.AdelicOrbitU.quad_exists_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:59:30.554461+00:00
 -- url     : https://prove2.me/theorems/bc1c5b1f-2311-4afd-afd2-c87d31c4638c

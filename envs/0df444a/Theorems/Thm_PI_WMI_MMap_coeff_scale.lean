@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_MMap_coeff_scale
 -- name    : PI.WMI.MMap.coeff_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:19.538805+00:00
 -- url     : https://prove2.me/theorems/f8f5a53c-6015-4af4-b184-945b6034ec05

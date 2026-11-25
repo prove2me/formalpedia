@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_jensenCount
 -- name    : PI.ZW.jensenCount
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:58:49.924799+00:00
 -- url     : https://prove2.me/theorems/6b5a8f37-0fe7-4862-bbf8-e263fd95dec7

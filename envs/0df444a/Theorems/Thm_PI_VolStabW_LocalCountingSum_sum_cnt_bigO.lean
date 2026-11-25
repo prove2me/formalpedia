@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_LocalCountingSum_sum_cnt_bigO
 -- name    : PI.VolStabW.LocalCountingSum.sum_cnt_bigO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:45:16.970801+00:00
 -- url     : https://prove2.me/theorems/77df85f7-cb34-449d-a919-7f99ca6ed6b2

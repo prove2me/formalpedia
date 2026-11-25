@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WADVR_big_of_not_mem
 -- name    : PI.WADVR.big_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:43:55.294467+00:00
 -- url     : https://prove2.me/theorems/c0063455-33f7-402e-90df-03b5509e4e3c

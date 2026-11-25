@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DiscreteGroups_open_case
 -- name    : PI.VolStabW.DiscreteGroups.open_case
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:52:13.154732+00:00
 -- url     : https://prove2.me/theorems/b74b004b-8903-43e7-92d3-e38847a22582

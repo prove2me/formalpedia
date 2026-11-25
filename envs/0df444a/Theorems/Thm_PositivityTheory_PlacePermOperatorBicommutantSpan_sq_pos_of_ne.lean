@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PlacePermOperatorBicommutantSpan_sq_pos_of_ne
 -- name    : PositivityTheory.PlacePermOperatorBicommutantSpan.sq_pos_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:52:03.333678+00:00
 -- url     : https://prove2.me/theorems/cf58f0e4-7097-4d43-9fa5-a1176921ca7a

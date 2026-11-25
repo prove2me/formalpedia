@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TGK_eAt_comm
 -- name    : PositivityTheory.Rg.Cz.TGK.eAt_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:54:06.419093+00:00
 -- url     : https://prove2.me/theorems/4093c2f0-f600-567b-95d6-ee402e917576

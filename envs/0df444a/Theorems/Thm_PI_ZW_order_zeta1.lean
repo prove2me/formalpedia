@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_order_zeta1
 -- name    : PI.ZW.order_zeta1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:46:50.776118+00:00
 -- url     : https://prove2.me/theorems/4808f978-6714-4a96-abb4-61749ab1ecd7

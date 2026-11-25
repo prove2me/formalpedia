@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_LieInverse_Sop_add
 -- name    : PositivityTheory.Rg.Cz.LieInverse.Sop_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:53:39.431681+00:00
 -- url     : https://prove2.me/theorems/5114d8b6-c68b-4d76-815e-bb833ef9add7

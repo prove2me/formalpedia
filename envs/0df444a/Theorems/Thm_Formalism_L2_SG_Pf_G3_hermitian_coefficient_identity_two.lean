@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G3_hermitian_coefficient_identity_two
 -- name    : Formalism.L2.SG.Pf.G3.hermitian_coefficient_identity_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:06:12.919743+00:00
 -- url     : https://prove2.me/theorems/0d4addd8-2f7b-5946-963d-adf7dcc58905

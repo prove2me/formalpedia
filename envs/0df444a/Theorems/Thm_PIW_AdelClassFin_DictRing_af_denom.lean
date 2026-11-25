@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictRing_af_denom
 -- name    : PIW.AdelClassFin.DictRing.af_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:29:07.86544+00:00
 -- url     : https://prove2.me/theorems/24cd44ec-b225-4a67-9382-788160a6f815

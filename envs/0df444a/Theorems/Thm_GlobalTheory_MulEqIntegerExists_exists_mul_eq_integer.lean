@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulEqIntegerExists_exists_mul_eq_integer
 -- name    : GlobalTheory.MulEqIntegerExists.exists_mul_eq_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:17:18.886268+00:00
 -- url     : https://prove2.me/theorems/ed3f73bd-ea4f-4165-9ac7-91ddeb58cac9

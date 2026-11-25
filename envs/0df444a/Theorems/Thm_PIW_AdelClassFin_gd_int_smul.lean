@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_gd_int_smul
 -- name    : PIW.AdelClassFin.gd_int_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:48:18.692618+00:00
 -- url     : https://prove2.me/theorems/de0b8138-49c1-46cc-8ddb-a15e289b9228

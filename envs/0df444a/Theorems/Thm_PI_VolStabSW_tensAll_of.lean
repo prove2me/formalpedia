@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_tensAll_of
 -- name    : PI.VolStabSW.tensAll_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:41:50.080806+00:00
 -- url     : https://prove2.me/theorems/4fb6f6ef-bbd8-4c41-9506-a264b3c38377

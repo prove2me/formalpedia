@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S6_MatrixSubDegree_log_gramDet_d03f3f69f313
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S6_MatrixSubDegree_log_gramDet_d03f3f69f313
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:19:00.021956+00:00
 -- url     : https://prove2.me/theorems/ce4184e6-5992-42fe-b73c-9aca327db722

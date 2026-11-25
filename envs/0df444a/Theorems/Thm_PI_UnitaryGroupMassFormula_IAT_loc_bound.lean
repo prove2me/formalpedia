@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_IAT_loc_bound
 -- name    : PI.UnitaryGroupMassFormula.IAT.loc_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:43.983336+00:00
 -- url     : https://prove2.me/theorems/caceedb3-3e3e-46b4-b0fd-dfa666d8587b

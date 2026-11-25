@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_polar
 -- name    : PIW.HCFdeg.polar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:47:55.94002+00:00
 -- url     : https://prove2.me/theorems/30845366-2d6f-4611-b0b5-1fa1817f3180

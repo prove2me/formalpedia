@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_revM_mem_Kset_iff
 -- name    : PI.ZuckTensorWork.revM_mem_Kset_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:15:44.872452+00:00
 -- url     : https://prove2.me/theorems/9506809d-58bd-47d2-aa74-8e42ad7b75dc

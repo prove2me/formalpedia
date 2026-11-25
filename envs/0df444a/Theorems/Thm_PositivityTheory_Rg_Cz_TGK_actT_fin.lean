@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TGK_actT_fin
 -- name    : PositivityTheory.Rg.Cz.TGK.actT_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:54:39.262827+00:00
 -- url     : https://prove2.me/theorems/c73af41a-81ea-584f-af00-56b9309f988e

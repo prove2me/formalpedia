@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MassTest_isOpen_unit
 -- name    : GlobalTheory.CompanionTheory.SW.MassTest.isOpen_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:53.562099+00:00
 -- url     : https://prove2.me/theorems/f980a8d2-5b4f-4691-90dd-abb7d6e68347

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TrOf_zero_case
 -- name    : PositivityTheory.Rg.Cz.TrOf.zero_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:48.642862+00:00
 -- url     : https://prove2.me/theorems/59936c05-af59-41a3-8867-2e3b74c86cd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iteratedDepthOneLevel_char_of_one_row_first_block
 -- name    : GlobalTheory.T.iteratedDepthOneLevel_char_of_one_row_first_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:21:47.4151+00:00
 -- url     : https://prove2.me/theorems/d91d64eb-e8f9-483f-81b6-7fea9b0ae942

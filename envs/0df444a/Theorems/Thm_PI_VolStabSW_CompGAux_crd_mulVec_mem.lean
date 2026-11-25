@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_CompGAux_crd_mulVec_mem
 -- name    : PI.VolStabSW.CompGAux.crd_mulVec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:38:22.963526+00:00
 -- url     : https://prove2.me/theorems/96de1d7f-99d0-4074-8baf-02f76b9adcee

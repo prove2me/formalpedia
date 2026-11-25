@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_FunctionalCalculusInner_inner_basis_left
 -- name    : PositivityTheory.CW.FunctionalCalculusInner.inner_basis_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:50:20.588261+00:00
 -- url     : https://prove2.me/theorems/7d8a4430-1fc7-4d9a-a539-08aac227b875

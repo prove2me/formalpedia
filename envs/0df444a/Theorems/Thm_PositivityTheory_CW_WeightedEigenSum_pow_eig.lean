@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_WeightedEigenSum_pow_eig
 -- name    : PositivityTheory.CW.WeightedEigenSum.pow_eig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:51:17.263051+00:00
 -- url     : https://prove2.me/theorems/6c68c7d0-5ea2-4843-b004-6103cebce2ff

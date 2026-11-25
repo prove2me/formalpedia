@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ResPlug_FromRes_inSNCPosition_drop
 -- name    : PositivityTheory.ResPlug.FromRes.inSNCPosition_drop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:53:44.750271+00:00
 -- url     : https://prove2.me/theorems/64e9bf38-21ee-46fb-bb6a-5aa6ab6e4975

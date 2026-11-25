@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreBb_prod_map_pow_single
 -- name    : PositivityTheory.Rg.Sw.LC.CoreBb.prod_map_pow_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:56:24.166463+00:00
 -- url     : https://prove2.me/theorems/684dd114-0ae5-4446-a108-6e7cbb65eb1e

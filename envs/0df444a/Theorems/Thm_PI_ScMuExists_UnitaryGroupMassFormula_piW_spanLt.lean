@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_piW_spanLt
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.piW_spanLt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:41:28.424946+00:00
 -- url     : https://prove2.me/theorems/32a877dd-51de-517f-88f0-5223890cf563

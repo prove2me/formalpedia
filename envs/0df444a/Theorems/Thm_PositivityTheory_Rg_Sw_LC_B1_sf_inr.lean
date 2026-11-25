@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B1_sf_inr
 -- name    : PositivityTheory.Rg.Sw.LC.B1.sf_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:56:24.522654+00:00
 -- url     : https://prove2.me/theorems/cedd7cc8-5a28-51af-8c06-89548945afdc

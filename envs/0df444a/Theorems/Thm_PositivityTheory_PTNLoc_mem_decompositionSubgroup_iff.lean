@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PTNLoc_mem_decompositionSubgroup_iff
 -- name    : PositivityTheory.PTNLoc.mem_decompositionSubgroup_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:52:35.591887+00:00
 -- url     : https://prove2.me/theorems/650715c1-127f-5234-bf21-10d604b2c7e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CharacterRelations_rel_intCast
 -- name    : PositivityTheory.Rg.Cz.CharacterRelations.rel_intCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:21.431615+00:00
 -- url     : https://prove2.me/theorems/c5f60282-d860-4dfa-8810-e102b69b531d

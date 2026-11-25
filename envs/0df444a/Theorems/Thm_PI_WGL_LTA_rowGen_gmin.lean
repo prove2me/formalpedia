@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTA_rowGen_gmin
 -- name    : PI.WGL.LTA.rowGen_gmin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:02:28.179822+00:00
 -- url     : https://prove2.me/theorems/84a782f0-f739-4b59-a141-46d21072aa94

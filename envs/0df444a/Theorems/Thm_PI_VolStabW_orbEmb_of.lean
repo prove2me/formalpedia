@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_orbEmb_of
 -- name    : PI.VolStabW.orbEmb_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:55:48.822963+00:00
 -- url     : https://prove2.me/theorems/945cf22a-e4e3-4128-994e-18cae62ab4e4

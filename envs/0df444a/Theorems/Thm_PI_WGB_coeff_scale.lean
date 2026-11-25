@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_coeff_scale
 -- name    : PI.WGB.coeff_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:50:11.898486+00:00
 -- url     : https://prove2.me/theorems/066de988-542a-59fc-b5c4-50fa2a26c35e

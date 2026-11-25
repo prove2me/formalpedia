@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_YoungTableau_isTab_comp
 -- name    : PositivityTheory.Rg.Cz.YoungTableau.isTab_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:48:22.615809+00:00
 -- url     : https://prove2.me/theorems/62886d4c-f49d-4e80-af6d-6a062bed33d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isSmooth_jacquetRep
 -- name    : GroundTheory.Automorphic.Parabolic.isSmooth_jacquetRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:10:53.099924+00:00
 -- url     : https://prove2.me/theorems/9f5d2cb6-9424-531f-b602-bfc68e706713

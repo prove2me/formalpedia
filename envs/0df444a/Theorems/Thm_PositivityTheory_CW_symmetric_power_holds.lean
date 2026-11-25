@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_symmetric_power_holds
 -- name    : PositivityTheory.CW.symmetric_power_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:56:00.571297+00:00
 -- url     : https://prove2.me/theorems/93f95a9f-6928-4c36-877c-9ebf06d5897d

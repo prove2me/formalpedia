@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TA_card_R
 -- name    : PositivityTheory.Rg.Cz.TA.card_R
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:54:15.088973+00:00
 -- url     : https://prove2.me/theorems/d2001d8a-3240-5c90-8c35-738036c3ce7c

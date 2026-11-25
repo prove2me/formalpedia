@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_nontrivial_B
 -- name    : GroundTheory.PAdicHodge.TeichLift.nontrivial_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:28:06.347975+00:00
 -- url     : https://prove2.me/theorems/f1dffc63-dc72-57a2-8c32-2aa7f4209b8e

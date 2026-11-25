@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_CG_continuous_splitY_right
 -- name    : PositivityTheory.Rg.BcB.CG.continuous_splitY_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:03.866277+00:00
 -- url     : https://prove2.me/theorems/a144421e-e86f-4b5e-9434-b42e593bd48b

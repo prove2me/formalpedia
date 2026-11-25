@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_isCompact_Kset
 -- name    : PIW.HCFdeg.isCompact_Kset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:49:48.868806+00:00
 -- url     : https://prove2.me/theorems/408db870-3f2b-4d48-88e0-00233cdcda2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TA_cA_split
 -- name    : PositivityTheory.Rg.Cz.TA.cA_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:53:33.825743+00:00
 -- url     : https://prove2.me/theorems/79390bbd-d05e-5ca8-be67-d5d34cbd9473

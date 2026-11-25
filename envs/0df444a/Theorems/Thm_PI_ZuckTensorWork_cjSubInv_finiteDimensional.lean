@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_cjSubInv_finiteDimensional
 -- name    : PI.ZuckTensorWork.cjSubInv_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:46:59.672881+00:00
 -- url     : https://prove2.me/theorems/41965846-a8ea-511a-9d2b-9164567be39d

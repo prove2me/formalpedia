@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiA_initMinor_mem
 -- name    : PI.WGL.XiA.initMinor_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:58:40.40192+00:00
 -- url     : https://prove2.me/theorems/bc11f7a9-1a89-5510-be73-f887849af99d

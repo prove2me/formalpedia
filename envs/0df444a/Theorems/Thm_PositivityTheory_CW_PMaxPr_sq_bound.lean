@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_PMaxPr_sq_bound
 -- name    : PositivityTheory.CW.PMaxPr.sq_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:53.29135+00:00
 -- url     : https://prove2.me/theorems/ee4549d9-8bd8-5745-a5b4-3727b4afda6c

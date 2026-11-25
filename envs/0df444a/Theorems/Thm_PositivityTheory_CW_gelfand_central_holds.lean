@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_gelfand_central_holds
 -- name    : PositivityTheory.CW.gelfand_central_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:55.443539+00:00
 -- url     : https://prove2.me/theorems/38681361-e810-49b9-b671-ad25c3f62dbd

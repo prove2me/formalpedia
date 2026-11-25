@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G8_resF_apply
 -- name    : Formalism.L2.SG.Pf.G8.resF_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:13:20.01063+00:00
 -- url     : https://prove2.me/theorems/1d5083ff-0c23-5399-9a2b-609ef11dad3c

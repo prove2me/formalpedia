@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lit1_PTN_nineTermExact_of_nineCmp
 -- name    : PositivityTheory.Lit1.PTN.nineTermExact_of_nineCmp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:05.247613+00:00
 -- url     : https://prove2.me/theorems/48738fc2-dd56-4f17-b4f6-402cd3cdf05c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_SepFac_eq_zero_of_eval_algebraMap
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SepFac.eq_zero_of_eval_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:57.532908+00:00
 -- url     : https://prove2.me/theorems/22d18b34-43d3-4190-bd59-85b0fc89d4ab

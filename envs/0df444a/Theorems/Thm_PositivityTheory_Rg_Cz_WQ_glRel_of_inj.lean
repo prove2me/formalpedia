@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_WQ_glRel_of_inj
 -- name    : PositivityTheory.Rg.Cz.WQ.glRel_of_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:03.338112+00:00
 -- url     : https://prove2.me/theorems/53f31495-d69d-4cbb-bfa2-0725e0b5b584

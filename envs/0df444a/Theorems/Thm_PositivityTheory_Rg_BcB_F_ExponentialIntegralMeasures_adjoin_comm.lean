@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_ExponentialIntegralMeasures_adjoin_comm
 -- name    : PositivityTheory.Rg.BcB.F.ExponentialIntegralMeasures.adjoin_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:52:26.037198+00:00
 -- url     : https://prove2.me/theorems/c0e8d5e6-af21-5353-b85d-bee1d16c7eae

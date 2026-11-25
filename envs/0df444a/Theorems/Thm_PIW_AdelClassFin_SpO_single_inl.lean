@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_SpO_single_inl
 -- name    : PIW.AdelClassFin.SpO.single_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:49:20.823636+00:00
 -- url     : https://prove2.me/theorems/9560ba61-b789-4948-a51f-763fef8de2d3

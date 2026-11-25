@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_toL2Map_apply_ae_eq
 -- name    : PIW.HCFdeg.toL2Map_apply_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:59:25.027581+00:00
 -- url     : https://prove2.me/theorems/ac130437-95d0-4025-82bc-50eae442ff28

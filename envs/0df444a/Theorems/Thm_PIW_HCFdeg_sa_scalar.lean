@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_sa_scalar
 -- name    : PIW.HCFdeg.sa_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:47:23.588044+00:00
 -- url     : https://prove2.me/theorems/4d001a40-915d-44b7-8c11-99c0e7c066a5

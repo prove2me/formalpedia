@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_densLC_of_cosB
 -- name    : PI.VolStabSW.densLC_of_cosB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:50:32.222062+00:00
 -- url     : https://prove2.me/theorems/4b1ee1df-d3b4-4f74-8ef4-1bc7605cf9a2

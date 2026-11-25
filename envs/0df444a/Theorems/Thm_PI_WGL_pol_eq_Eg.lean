@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_pol_eq_Eg
 -- name    : PI.WGL.pol_eq_Eg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:22.554186+00:00
 -- url     : https://prove2.me/theorems/1e1fcca9-a50a-40c6-9be1-b7a6d1cf6d3f

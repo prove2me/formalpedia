@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_VolAAW_BR_eq_sum
 -- name    : PI.VolStabW.VolAAW.BR_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:53:24.648679+00:00
 -- url     : https://prove2.me/theorems/cbd4d846-33ba-4c86-9df6-3b66071a17b9

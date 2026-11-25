@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_unitVecRam
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.unitVecRam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:48:32.142381+00:00
 -- url     : https://prove2.me/theorems/3ebc1b2a-7243-495d-a7c6-bbd7c345fd38

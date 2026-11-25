@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_EigenGainPolynomial_fc_poly
 -- name    : PositivityTheory.CW.EigenGainPolynomial.fc_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:50:23.752212+00:00
 -- url     : https://prove2.me/theorems/d9624299-ed0c-48b8-bb3f-351e5c44f150

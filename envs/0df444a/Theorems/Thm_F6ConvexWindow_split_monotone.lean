@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_split_monotone
 -- name    : F6ConvexWindow.split_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:02:17.565771+00:00
 -- url     : https://prove2.me/theorems/20327cef-3898-4687-a2f5-9322aab281ad

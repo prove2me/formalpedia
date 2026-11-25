@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_KTy_sort_data
 -- name    : PositivityTheory.Rg.Cz.KTy.sort_data
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:53:27.117517+00:00
 -- url     : https://prove2.me/theorems/b0084dfd-0d92-477e-8ac0-ddec0a7aedcc

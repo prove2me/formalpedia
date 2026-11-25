@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_gaussNorm_single_zero_one_le
 -- name    : GroundTheory.PAdicHodge.TeichLift.gaussNorm_single_zero_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:27:09.939219+00:00
 -- url     : https://prove2.me/theorems/95cfaf13-539a-45aa-b5ee-fe727fd4b66c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_FamInh_mem_Ine_of_integral
 -- name    : PositivityTheory.FamInh.mem_Ine_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:09.886845+00:00
 -- url     : https://prove2.me/theorems/0d2dc5da-d39b-4365-895d-634b3a918283

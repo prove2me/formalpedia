@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_um_rightInv
 -- name    : PI.VolStabW.um_rightInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:59.88161+00:00
 -- url     : https://prove2.me/theorems/16f44724-6560-4625-9563-e88620f9130e

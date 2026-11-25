@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpenCategoryPAC_upper_bound_alien_cdf
 -- name    : OpenCategoryPAC.upper_bound_alien_cdf
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T04:24:28.812854+00:00
 -- url     : https://prove2.me/theorems/2f251439-be0f-4bee-99da-34d0b6b7422a

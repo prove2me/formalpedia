@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_rhsWInv_of_hyp
 -- name    : PI.RhsWLim.W.RI.rhsWInv_of_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:36:22.940528+00:00
 -- url     : https://prove2.me/theorems/f894cd0c-0380-42c5-8a22-69665fee92c1

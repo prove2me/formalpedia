@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_QF_capelliC_negT
 -- name    : PositivityTheory.Rg.Cz.QF.capelliC_negT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:10.146803+00:00
 -- url     : https://prove2.me/theorems/1f4d54f6-9f8b-41ac-8dd8-3fb5b252eed8

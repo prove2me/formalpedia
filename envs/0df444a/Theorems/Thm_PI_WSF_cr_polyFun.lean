@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_cr_polyFun
 -- name    : PI.WSF.cr_polyFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:45:41.234905+00:00
 -- url     : https://prove2.me/theorems/0b4420a0-6604-4a99-bbac-c18c2287a1d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_exists_minimalNormVector
 -- name    : PI.exists_minimalNormVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:53.085957+00:00
 -- url     : https://prove2.me/theorems/6e040fb7-c814-4c48-9fba-280f6c49c99b

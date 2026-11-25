@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_cellUnion_mono
 -- name    : GroundTheory.Automorphic.Parabolic.cellUnion_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:23:20.045739+00:00
 -- url     : https://prove2.me/theorems/5000a8de-cdf6-403c-91dc-f5f3102a798d

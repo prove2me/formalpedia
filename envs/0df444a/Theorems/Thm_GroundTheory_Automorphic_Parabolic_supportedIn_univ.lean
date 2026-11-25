@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_supportedIn_univ
 -- name    : GroundTheory.Automorphic.Parabolic.supportedIn_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:24:07.50841+00:00
 -- url     : https://prove2.me/theorems/6a5cfe21-30ae-45d1-9fef-c6a8b27eb4d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_ci_Alin_apply
 -- name    : PI.WSF.ci_Alin_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:48:29.643294+00:00
 -- url     : https://prove2.me/theorems/07711d6d-002a-57aa-98b4-60b25dfd92dc

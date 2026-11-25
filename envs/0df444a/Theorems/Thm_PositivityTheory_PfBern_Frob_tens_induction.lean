@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Frob_tens_induction
 -- name    : PositivityTheory.PfBern.Frob.tens_induction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:54:44.942121+00:00
 -- url     : https://prove2.me/theorems/e7b334da-8d4e-489f-a87a-5aebc08da4c0

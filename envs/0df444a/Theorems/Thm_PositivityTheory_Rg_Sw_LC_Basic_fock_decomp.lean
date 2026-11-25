@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Basic_fock_decomp
 -- name    : PositivityTheory.Rg.Sw.LC.Basic.fock_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:55:21.739918+00:00
 -- url     : https://prove2.me/theorems/eefc531a-d298-46db-87a8-e2ffb1ff0aa9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B3_etaEq_add
 -- name    : PositivityTheory.Rg.Sw.LC.B3.etaEq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:55:04.066619+00:00
 -- url     : https://prove2.me/theorems/3bd34dc6-bbb3-4a7a-8ac0-82d2884f920c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SemiInvariantDeterminant_det_bar
 -- name    : PositivityTheory.Rg.Cz.SemiInvariantDeterminant.det_bar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:53:29.021522+00:00
 -- url     : https://prove2.me/theorems/9bfe7abe-c6fe-4d6b-bb78-3f9d331cc0f1

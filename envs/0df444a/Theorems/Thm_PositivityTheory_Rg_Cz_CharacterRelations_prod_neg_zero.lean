@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CharacterRelations_prod_neg_zero
 -- name    : PositivityTheory.Rg.Cz.CharacterRelations.prod_neg_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:36.879482+00:00
 -- url     : https://prove2.me/theorems/4cc6b88f-5e62-45c0-912b-c713eb5d5dfb

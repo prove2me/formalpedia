@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_QF_tmPoly_diag
 -- name    : PositivityTheory.Rg.Cz.QF.tmPoly_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:27.000198+00:00
 -- url     : https://prove2.me/theorems/39e3b4e1-d348-4f3a-aa45-759ad445413c

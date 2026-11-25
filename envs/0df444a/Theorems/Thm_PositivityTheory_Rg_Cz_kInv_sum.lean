@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_kInv_sum
 -- name    : PositivityTheory.Rg.Cz.kInv_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:53:26.02345+00:00
 -- url     : https://prove2.me/theorems/de8f0f3f-968b-574f-b3a3-3c99351c58ba

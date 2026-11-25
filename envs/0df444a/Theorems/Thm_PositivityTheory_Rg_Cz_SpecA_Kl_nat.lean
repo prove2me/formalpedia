@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SpecA_Kl_nat
 -- name    : PositivityTheory.Rg.Cz.SpecA.Kl_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:53:16.847748+00:00
 -- url     : https://prove2.me/theorems/eb43765e-6b2a-59ab-b39b-3f437a1f3580

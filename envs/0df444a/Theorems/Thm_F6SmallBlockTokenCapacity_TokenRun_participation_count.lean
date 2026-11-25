@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6SmallBlockTokenCapacity_TokenRun_participation_count
 -- name    : F6SmallBlockTokenCapacity.TokenRun.participation_count
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:32:30.629946+00:00
 -- url     : https://prove2.me/theorems/86d3b724-c555-4b09-9259-ae9c3cc14780

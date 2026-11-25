@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_valCIrr_of
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.valCIrr_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:26:34.251352+00:00
 -- url     : https://prove2.me/theorems/f06a7a8a-fef6-5d85-82c6-12a8b2bfc836

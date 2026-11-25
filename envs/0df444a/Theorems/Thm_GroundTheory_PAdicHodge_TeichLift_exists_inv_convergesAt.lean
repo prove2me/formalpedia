@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_exists_inv_convergesAt
 -- name    : GroundTheory.PAdicHodge.TeichLift.exists_inv_convergesAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:27:20.037701+00:00
 -- url     : https://prove2.me/theorems/ed0bf901-e7f0-420a-b0bb-65097652410a

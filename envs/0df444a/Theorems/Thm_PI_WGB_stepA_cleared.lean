@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_stepA_cleared
 -- name    : PI.WGB.stepA_cleared
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:44:55.151059+00:00
 -- url     : https://prove2.me/theorems/e0ecfdc3-d8b8-41be-b276-3d2c2d74eaa2

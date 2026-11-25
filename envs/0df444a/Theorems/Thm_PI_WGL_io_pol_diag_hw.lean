@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_io_pol_diag_hw
 -- name    : PI.WGL.io_pol_diag_hw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:54:24.164808+00:00
 -- url     : https://prove2.me/theorems/3caf80c4-209f-5e1b-9cbf-3862f7e4f327

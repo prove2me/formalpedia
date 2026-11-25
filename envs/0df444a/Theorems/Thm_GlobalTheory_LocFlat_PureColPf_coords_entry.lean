@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_PureColPf_coords_entry
 -- name    : GlobalTheory.LocFlat.PureColPf.coords_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:10:49.94357+00:00
 -- url     : https://prove2.me/theorems/eb7810ac-4b20-4eb3-be5b-e8264fe203b5

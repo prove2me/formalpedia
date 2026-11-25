@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_KAKA_gram_diag_unitary
 -- name    : PositivityTheory.Rg.Sw.KAKA.gram_diag_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:54:52.984659+00:00
 -- url     : https://prove2.me/theorems/ad387f01-df32-59ab-8722-ffc0ff15a87f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_hasDerivAt_cvs
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.hasDerivAt_cvs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:55:04.485233+00:00
 -- url     : https://prove2.me/theorems/4c4d4d56-e0dc-4dd6-9dc7-6106c39159d3

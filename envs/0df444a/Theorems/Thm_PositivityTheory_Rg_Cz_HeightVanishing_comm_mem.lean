@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_HeightVanishing_comm_mem
 -- name    : PositivityTheory.Rg.Cz.HeightVanishing.comm_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:17.138314+00:00
 -- url     : https://prove2.me/theorems/34dbadb2-a5d8-48cf-9b42-302f4a37a9c0

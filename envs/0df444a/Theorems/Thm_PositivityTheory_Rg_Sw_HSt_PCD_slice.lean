@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_PCD_slice
 -- name    : PositivityTheory.Rg.Sw.HSt.PCD.slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:54:53.51235+00:00
 -- url     : https://prove2.me/theorems/40d6940c-3c14-5402-bccc-7fb8ec8b425a

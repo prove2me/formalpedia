@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_PAdicHodge_TeichLift_zcoeff___pow_mul_teich_aad3699ab738
 -- name    : P2M_GroundTheory_PAdicHodge_TeichLift_zcoeff___pow_mul_teich_aad3699ab738
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:26:21.555374+00:00
 -- url     : https://prove2.me/theorems/298922dd-7b37-59c8-bd4f-55528fd3b542

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mix_bf_single
 -- name    : PositivityTheory.Mix.bf_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:51:54.200083+00:00
 -- url     : https://prove2.me/theorems/490cd717-f54d-52d7-992f-5657c2ebaa30

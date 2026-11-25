@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_commutator_adjoint_holds
 -- name    : PositivityTheory.CW.commutator_adjoint_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:56.757752+00:00
 -- url     : https://prove2.me/theorems/f2b43e48-0ea2-4828-839d-2cb5c3296cdc

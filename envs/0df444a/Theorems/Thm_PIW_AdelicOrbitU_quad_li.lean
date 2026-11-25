@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelicOrbitU_quad_li
 -- name    : PIW.AdelicOrbitU.quad_li
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:47:55.340523+00:00
 -- url     : https://prove2.me/theorems/309db86c-8cc6-44a1-af8a-1da62ee89d16

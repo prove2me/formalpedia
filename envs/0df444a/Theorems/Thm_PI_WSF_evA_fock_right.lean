@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_evA_fock_right
 -- name    : PI.WSF.evA_fock_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:45:34.356805+00:00
 -- url     : https://prove2.me/theorems/90ece186-cee1-50ce-8b02-b856cf56fa6f

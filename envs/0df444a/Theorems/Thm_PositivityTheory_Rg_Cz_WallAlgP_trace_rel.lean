@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_WallAlgP_trace_rel
 -- name    : PositivityTheory.Rg.Cz.WallAlgP.trace_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:48:23.45975+00:00
 -- url     : https://prove2.me/theorems/165e7c7e-d47c-46ff-b908-719f08aec0c8

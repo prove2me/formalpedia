@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_CycF_coeff_sum_monomial
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.CycF.coeff_sum_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:00:12.680001+00:00
 -- url     : https://prove2.me/theorems/8127457a-debe-5d94-8d99-a2d6060808d1

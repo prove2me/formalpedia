@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwInjectiveWork_sum_smul_eq_zero
 -- name    : PI.WwInjectiveWork.sum_smul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:46:18.982546+00:00
 -- url     : https://prove2.me/theorems/d3ae9f58-fd11-49e4-af23-ec27b165576f

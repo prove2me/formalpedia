@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_exists_den_mul
 -- name    : PI.WAU.exists_den_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:43:38.158981+00:00
 -- url     : https://prove2.me/theorems/0517db26-640b-4870-a150-334cb62f1779

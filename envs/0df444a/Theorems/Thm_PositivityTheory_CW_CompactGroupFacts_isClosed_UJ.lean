@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_CompactGroupFacts_isClosed_UJ
 -- name    : PositivityTheory.CW.CompactGroupFacts.isClosed_UJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:50:40.529664+00:00
 -- url     : https://prove2.me/theorems/6eb4375e-82a3-4061-bf46-93d1d8d46e86

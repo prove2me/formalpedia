@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G3_mem_spanS_self
 -- name    : Formalism.L2.SG.Pf.G3.mem_spanS_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:21:28.046984+00:00
 -- url     : https://prove2.me/theorems/257d9a1f-b518-5aaa-b9c2-92f76ea6ad14

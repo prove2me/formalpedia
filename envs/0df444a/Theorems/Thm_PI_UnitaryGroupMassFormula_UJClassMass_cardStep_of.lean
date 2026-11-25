@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_cardStep_of
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.cardStep_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:42:53.604595+00:00
 -- url     : https://prove2.me/theorems/0efb08d3-d6ae-5c06-8569-68d24431bbec

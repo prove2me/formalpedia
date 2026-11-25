@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_CharpolyPowerTraces_coeff_succ
 -- name    : PositivityTheory.CW.CharpolyPowerTraces.coeff_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:49:23.31682+00:00
 -- url     : https://prove2.me/theorems/fd53b23e-f222-4e0c-bafb-ae5b71297b9a

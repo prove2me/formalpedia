@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_count_eqb
 -- name    : PositivityTheory.Rg.Cz.count_eqb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:49:13.075278+00:00
 -- url     : https://prove2.me/theorems/fdc78d3b-d2b1-41eb-84c7-3ccebb7eecfc

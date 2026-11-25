@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_PowSpanB_natCast_smul_add_mem_W
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.PowSpanB.natCast_smul_add_mem_W
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:55:00.621194+00:00
 -- url     : https://prove2.me/theorems/dafa208e-26c2-4ae3-97de-a44ea3a0317b

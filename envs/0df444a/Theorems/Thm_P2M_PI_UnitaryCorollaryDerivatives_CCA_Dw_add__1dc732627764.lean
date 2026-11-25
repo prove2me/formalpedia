@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryCorollaryDerivatives_CCA_Dw_add__1dc732627764
 -- name    : P2M_PI_UnitaryCorollaryDerivatives_CCA_Dw_add__1dc732627764
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:18:18.789813+00:00
 -- url     : https://prove2.me/theorems/aa187f24-2f50-40cf-b106-e02421447f5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Witt_one_vector_holds
 -- name    : PI.Witt.one_vector_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:16.974605+00:00
 -- url     : https://prove2.me/theorems/baf239fe-b6c7-5c5e-b8ea-758e8160f2c3

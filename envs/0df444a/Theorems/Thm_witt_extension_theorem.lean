@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_witt_extension_theorem
 -- name    : witt_extension_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:34:42.369413+00:00
 -- url     : https://prove2.me/theorems/f943ee19-2004-4331-ae45-3d67d9d09470

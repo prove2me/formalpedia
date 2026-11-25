@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_gelfand_invariants_central
 -- name    : PositivityTheory.CWB.gelfand_invariants_central
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:37.546534+00:00
 -- url     : https://prove2.me/theorems/416dcc15-3051-4330-9a24-8f8c05576a12

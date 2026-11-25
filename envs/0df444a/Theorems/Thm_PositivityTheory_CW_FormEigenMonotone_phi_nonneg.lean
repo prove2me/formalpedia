@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_FormEigenMonotone_phi_nonneg
 -- name    : PositivityTheory.CW.FormEigenMonotone.phi_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:50:57.085746+00:00
 -- url     : https://prove2.me/theorems/62cd1dfc-27e2-5697-8284-3dc675dce482

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PClassAlg_shape_aX
 -- name    : GlobalTheory.PClassAlg.shape_aX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:09:50.496855+00:00
 -- url     : https://prove2.me/theorems/3e216a21-2bc2-42e5-bda9-72d1bc212586

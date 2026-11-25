@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ChainP_liftAdj
 -- name    : PositivityTheory.Rg.Cz.ChainP.liftAdj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:21.760083+00:00
 -- url     : https://prove2.me/theorems/d8684262-7b0e-4ced-8480-6a74bbdd6d14

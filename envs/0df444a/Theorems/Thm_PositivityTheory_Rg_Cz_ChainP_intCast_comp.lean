@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ChainP_intCast_comp
 -- name    : PositivityTheory.Rg.Cz.ChainP.intCast_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:10.948623+00:00
 -- url     : https://prove2.me/theorems/4ba1291c-711b-4836-a8de-c3ff0d5b572f

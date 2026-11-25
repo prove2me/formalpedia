@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_StrStepA_sd_norm_cpow
 -- name    : PositivityTheory.Rg.Rs.StrStepA.sd_norm_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:54:27.990526+00:00
 -- url     : https://prove2.me/theorems/b90bd423-8f50-5913-9cae-e408b55a0e70

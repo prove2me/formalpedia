@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_DM_decomp_direction
 -- name    : PositivityTheory.DM.decomp_direction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:01.135839+00:00
 -- url     : https://prove2.me/theorems/8f3080a1-ceba-4ca3-bfe0-7967f9ca7186

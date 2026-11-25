@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Asm_tH_succ_X
 -- name    : PI.WickFormula.Asm.tH_succ_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:43:59.890799+00:00
 -- url     : https://prove2.me/theorems/ac43b9c4-0862-505b-857e-d445501f7840

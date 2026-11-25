@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_CMDiscSq_discSq_of
 -- name    : PIW.CMDiscSq.discSq_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:29.97215+00:00
 -- url     : https://prove2.me/theorems/26312a43-584d-4b41-81b8-55881ed16a37

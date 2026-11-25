@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_kerLin
 -- name    : PositivityTheory.Rg.BcB.E1.kerLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:52:21.077527+00:00
 -- url     : https://prove2.me/theorems/d0e86ea8-b2b2-50c6-b88d-e50bf30f5a98

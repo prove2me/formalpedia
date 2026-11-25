@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictGen_nLam_sub
 -- name    : PIW.AdelClassFin.DictGen.nLam_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:47:10.471796+00:00
 -- url     : https://prove2.me/theorems/8d791663-e66a-42e5-a410-209bc7e23460

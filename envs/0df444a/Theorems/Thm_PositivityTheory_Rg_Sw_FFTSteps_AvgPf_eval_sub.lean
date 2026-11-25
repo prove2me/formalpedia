@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_AvgPf_eval_sub
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.AvgPf.eval_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:03:56.025217+00:00
 -- url     : https://prove2.me/theorems/f2964942-1a25-5b7c-bbd6-6179d7c45923

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_modChar_herm
 -- name    : PIW.HCFdeg.modChar_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:47:19.508249+00:00
 -- url     : https://prove2.me/theorems/7353bd7d-5a74-4531-a5f1-42ab4ff2ffbc

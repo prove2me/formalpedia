@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_card_commonInc_supportUnion_le_three
 -- name    : F6RotationSupport.card_commonInc_supportUnion_le_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:41:32.698067+00:00
 -- url     : https://prove2.me/theorems/7cff7f55-15da-4902-8a54-6ade9d41c6d9

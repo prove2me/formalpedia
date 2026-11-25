@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_TopoGram_hform_mulVec
 -- name    : PI.VolStabW.TopoGram.hform_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:53:49.233241+00:00
 -- url     : https://prove2.me/theorems/e08e841d-32e8-417b-add4-e3c3bfdf05ca

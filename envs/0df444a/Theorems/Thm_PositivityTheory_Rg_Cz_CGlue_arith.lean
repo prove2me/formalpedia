@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CGlue_arith
 -- name    : PositivityTheory.Rg.Cz.CGlue.arith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:59.406945+00:00
 -- url     : https://prove2.me/theorems/b461a481-fb7c-47f8-8399-35764bddd005

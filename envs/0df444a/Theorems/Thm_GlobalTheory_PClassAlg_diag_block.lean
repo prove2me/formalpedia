@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PClassAlg_diag_block
 -- name    : GlobalTheory.PClassAlg.diag_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:09:50.714641+00:00
 -- url     : https://prove2.me/theorems/24bb9a6b-a730-4c9e-a3ec-88fb8527b789

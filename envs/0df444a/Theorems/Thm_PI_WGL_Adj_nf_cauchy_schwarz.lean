@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Adj_nf_cauchy_schwarz
 -- name    : PI.WGL.Adj.nf_cauchy_schwarz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:46:21.682403+00:00
 -- url     : https://prove2.me/theorems/b5f005f9-d560-4ea3-82a4-c23cf49f790a

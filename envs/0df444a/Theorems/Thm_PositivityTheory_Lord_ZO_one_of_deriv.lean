@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lord_ZO_one_of_deriv
 -- name    : PositivityTheory.Lord.ZO.one_of_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:51:15.836687+00:00
 -- url     : https://prove2.me/theorems/c4767142-4aa4-525f-accd-4362644f85b4

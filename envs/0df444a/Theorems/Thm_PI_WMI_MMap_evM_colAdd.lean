@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_MMap_evM_colAdd
 -- name    : PI.WMI.MMap.evM_colAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:06:41.935936+00:00
 -- url     : https://prove2.me/theorems/0c0b5ff3-2d02-49f4-8cae-3c64b9264e97

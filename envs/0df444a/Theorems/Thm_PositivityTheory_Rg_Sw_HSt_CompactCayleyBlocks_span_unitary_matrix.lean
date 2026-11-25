@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_CompactCayleyBlocks_span_unitary_matrix
 -- name    : PositivityTheory.Rg.Sw.HSt.CompactCayleyBlocks.span_unitary_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:54:46.508962+00:00
 -- url     : https://prove2.me/theorems/217441bf-ffe9-5085-939c-27dbb41e2c7b

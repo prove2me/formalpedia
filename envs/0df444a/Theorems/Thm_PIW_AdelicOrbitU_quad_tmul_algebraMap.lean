@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelicOrbitU_quad_tmul_algebraMap
 -- name    : PIW.AdelicOrbitU.quad_tmul_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:48:15.948691+00:00
 -- url     : https://prove2.me/theorems/a930ce30-f078-4bd6-bc0b-d6b266e22a93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_UnifChange_val_pow_sub_one
 -- name    : GlobalTheory.SymChain.UnifChange.val_pow_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:27:58.401138+00:00
 -- url     : https://prove2.me/theorems/006bf13b-b0ba-4f92-aef7-df197affbce8

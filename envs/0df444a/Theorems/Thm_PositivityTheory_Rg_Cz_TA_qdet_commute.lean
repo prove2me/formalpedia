@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TA_qdet_commute
 -- name    : PositivityTheory.Rg.Cz.TA.qdet_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:53:18.810959+00:00
 -- url     : https://prove2.me/theorems/16cde8cd-ba78-4cd1-876f-38837ea0d632

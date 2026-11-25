@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Loc_isEquivariant_iff
 -- name    : PositivityTheory.PfBern.Loc.isEquivariant_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:52:30.429274+00:00
 -- url     : https://prove2.me/theorems/2ebb4b4f-1cf4-5810-9dc0-d02cae8821c6

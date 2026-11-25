@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_InversePowerBound_sq_le_inv_pow
 -- name    : PositivityTheory.CW.InversePowerBound.sq_le_inv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:08.208099+00:00
 -- url     : https://prove2.me/theorems/d2b09744-7cf1-4c29-aff6-b75c21393854

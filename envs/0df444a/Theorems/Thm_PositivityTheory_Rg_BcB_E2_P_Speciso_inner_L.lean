@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Speciso_inner_L
 -- name    : PositivityTheory.Rg.BcB.E2.P.Speciso.inner_L
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:13.093441+00:00
 -- url     : https://prove2.me/theorems/fa33122d-3e10-579a-9465-d7807244c1fd

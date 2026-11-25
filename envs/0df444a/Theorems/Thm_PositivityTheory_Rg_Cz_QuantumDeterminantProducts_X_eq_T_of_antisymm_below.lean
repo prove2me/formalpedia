@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_QuantumDeterminantProducts_X_eq_T_of_antisymm_below
 -- name    : PositivityTheory.Rg.Cz.QuantumDeterminantProducts.X_eq_T_of_antisymm_below
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:57.509068+00:00
 -- url     : https://prove2.me/theorems/577ac152-79d5-58d6-904e-4392f19d544d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WA_big_existence_holds
 -- name    : PI.WA.big_existence_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:43:49.384302+00:00
 -- url     : https://prove2.me/theorems/4216407e-07cf-48b9-b1a0-28a75d6692bf

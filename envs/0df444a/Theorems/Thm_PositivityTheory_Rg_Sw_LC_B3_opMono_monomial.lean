@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B3_opMono_monomial
 -- name    : PositivityTheory.Rg.Sw.LC.B3.opMono_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:54:55.214632+00:00
 -- url     : https://prove2.me/theorems/9758ece7-3400-4125-8e6c-65db90db4311

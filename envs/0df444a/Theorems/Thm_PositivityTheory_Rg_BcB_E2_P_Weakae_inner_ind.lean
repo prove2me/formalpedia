@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Weakae_inner_ind
 -- name    : PositivityTheory.Rg.BcB.E2.P.Weakae.inner_ind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:52:17.596271+00:00
 -- url     : https://prove2.me/theorems/acd27ce8-356b-4f02-8d9b-31bb046afd28

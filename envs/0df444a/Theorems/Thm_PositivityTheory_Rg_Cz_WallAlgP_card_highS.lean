@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_WallAlgP_card_highS
 -- name    : PositivityTheory.Rg.Cz.WallAlgP.card_highS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:49:51.88403+00:00
 -- url     : https://prove2.me/theorems/39b96395-64d9-4822-9173-7005328f566d

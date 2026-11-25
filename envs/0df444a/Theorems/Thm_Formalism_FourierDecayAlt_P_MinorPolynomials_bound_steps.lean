@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_bound_steps
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.bound_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:45:00.238501+00:00
 -- url     : https://prove2.me/theorems/f3a5eba9-8867-4623-ab9a-98b131e37cfe

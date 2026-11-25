@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_svR_hdot
 -- name    : PIW.AdelClassFin.svR_hdot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:48:34.680876+00:00
 -- url     : https://prove2.me/theorems/de13b79e-4586-472a-b5d6-2f60e98c0f45

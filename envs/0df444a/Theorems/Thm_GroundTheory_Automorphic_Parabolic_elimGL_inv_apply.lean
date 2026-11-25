@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_elimGL_inv_apply
 -- name    : GroundTheory.Automorphic.Parabolic.elimGL_inv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:18:37.577035+00:00
 -- url     : https://prove2.me/theorems/710ac7e5-027c-5062-bfd0-e6e91a1a2d28

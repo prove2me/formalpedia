@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Jointrep_geom
 -- name    : PositivityTheory.Rg.BcB.E2.P.Jointrep.geom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:03.310526+00:00
 -- url     : https://prove2.me/theorems/a5e10676-aef0-40a8-aacc-e2296250c879

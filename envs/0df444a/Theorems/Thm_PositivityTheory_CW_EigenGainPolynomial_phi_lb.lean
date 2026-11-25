@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_EigenGainPolynomial_phi_lb
 -- name    : PositivityTheory.CW.EigenGainPolynomial.phi_lb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:50:11.920971+00:00
 -- url     : https://prove2.me/theorems/2edac446-16a4-4d38-aa6f-df9a1952a8fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_lm_rowDiv_smul
 -- name    : PI.WGL.lm_rowDiv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:01:11.733188+00:00
 -- url     : https://prove2.me/theorems/6a9ff07a-2dfe-5b39-bc78-2bfb8004594c

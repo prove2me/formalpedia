@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TrOf_cA_rl
 -- name    : PositivityTheory.Rg.Cz.TrOf.cA_rl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:54:55.60565+00:00
 -- url     : https://prove2.me/theorems/83068f52-6dad-54e9-a419-ed23730c21b9

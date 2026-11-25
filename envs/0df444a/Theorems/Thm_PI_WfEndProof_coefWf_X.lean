@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WfEndProof_coefWf_X
 -- name    : PI.WfEndProof.coefWf_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:24.184154+00:00
 -- url     : https://prove2.me/theorems/77d7bb9e-de7a-5b2a-a407-a6eb569875a1

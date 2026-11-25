@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LocFlat_PureColPf_typeFrame_inv_val__6c94e0f85deb
 -- name    : P2M_GlobalTheory_LocFlat_PureColPf_typeFrame_inv_val__6c94e0f85deb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:11:10.143706+00:00
 -- url     : https://prove2.me/theorems/9cb91350-397f-4797-a6ba-ba240bf93e56

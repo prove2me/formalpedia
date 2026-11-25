@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_AdjointWordFiltration_adjSign_mul_self
 -- name    : PositivityTheory.CW.AdjointWordFiltration.adjSign_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:47:39.717797+00:00
 -- url     : https://prove2.me/theorems/1768525d-5327-49be-9f57-001de9164dc3

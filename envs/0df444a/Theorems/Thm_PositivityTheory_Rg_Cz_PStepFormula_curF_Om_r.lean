@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_PStepFormula_curF_Om_r
 -- name    : PositivityTheory.Rg.Cz.PStepFormula.curF_Om_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:16.038737+00:00
 -- url     : https://prove2.me/theorems/852b77d0-880c-5721-b86c-49f48ee1bf61

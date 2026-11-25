@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_maximum_principle_of_facts
 -- name    : PositivityTheory.CW.maximum_principle_of_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:49:06.096651+00:00
 -- url     : https://prove2.me/theorems/f471ca32-fff7-4f46-b173-db40af0186fd

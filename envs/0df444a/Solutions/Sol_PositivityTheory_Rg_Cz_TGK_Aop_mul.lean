@@ -1,0 +1,44 @@
+-- Prove2me | solution 1 for PositivityTheory.Rg.Cz.TGK.Aop_mul
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T11:38:33.007539+00:00
+-- url     : https://prove2.me/submissions/7b131bb4-b6ac-4649-b9bc-a8f4cdaa18e2
+
+import Definitions.Def_Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_LiftCommEAt
+import Definitions.Def_Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_PTensorGKA
+import Theorems.Thm_PositivityTheory_Rg_Cz_TGK_Aop_apply
+import Theorems.Thm_PositivityTheory_Rg_Cz_lift_apply
+import Theorems.Thm_PositivityTheory_Rg_Cz_pm_apply
+import Theorems.Thm_PositivityTheory_Rg_Cz_pm_one
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] PositivityTheory.Rg.Cz.lift_apply
+attribute [local simp] PositivityTheory.Rg.Cz.pm_apply
+attribute [local simp] PositivityTheory.Rg.Cz.pm_one
+
+
+
+set_option autoImplicit false
+noncomputable section
+open Formalism.REAL Matrix
+open PositivityTheory PositivityTheory.Rg PositivityTheory.Rg.Cz PositivityTheory.Rg.Cz.TGK
+variable {n : ℕ} {M : Type} [AddCommGroup M] [Module ℂ M] {P : Type} [Fintype P] [DecidableEq P]
+namespace PositivityTheory.Rg.Cz.TGK
+theorem _root_.solution (K L : P → Matrix (Fin n) (Fin n) ℂ) :
+    (Aop (fun q => K q * L q) : Module.End ℂ (TV n M P)) = Aop K * Aop L := by
+  refine LinearMap.ext fun f => funext fun I => ?_
+  rw [Module.End.mul_apply, Aop_apply, Aop_apply]
+  simp_rw [Aop_apply, Finset.smul_sum, smul_smul]
+  rw [Finset.sum_comm]
+  refine Finset.sum_congr rfl fun J' _ => ?_
+  rw [← Finset.sum_smul]
+  congr 1
+  simp_rw [Matrix.mul_apply]
+  rw [Fintype.prod_sum]
+  simp only [Finset.prod_mul_distrib]
+end PositivityTheory.Rg.Cz.TGK

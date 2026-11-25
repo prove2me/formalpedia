@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lit1_PTN_exact_of_transfer
 -- name    : PositivityTheory.Lit1.PTN.exact_of_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:51:30.737553+00:00
 -- url     : https://prove2.me/theorems/87ef9a43-1224-54f9-a1d7-8e27d72c997e

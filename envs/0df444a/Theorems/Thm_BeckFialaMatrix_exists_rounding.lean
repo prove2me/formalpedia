@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeckFialaMatrix_exists_rounding
 -- name    : BeckFialaMatrix.exists_rounding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:55:37.146909+00:00
 -- url     : https://prove2.me/theorems/35b23264-53ad-435e-8c4c-87978d83dec3

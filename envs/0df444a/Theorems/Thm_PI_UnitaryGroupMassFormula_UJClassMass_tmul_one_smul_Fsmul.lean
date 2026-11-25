@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_tmul_one_smul_Fsmul
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.tmul_one_smul_Fsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:43:15.997633+00:00
 -- url     : https://prove2.me/theorems/74c588be-a06e-474b-8619-0712ab635b1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TA_base
 -- name    : PositivityTheory.Rg.Cz.TA.base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:54:20.225327+00:00
 -- url     : https://prove2.me/theorems/bf41e359-8d54-436d-86d1-e63041b78af1

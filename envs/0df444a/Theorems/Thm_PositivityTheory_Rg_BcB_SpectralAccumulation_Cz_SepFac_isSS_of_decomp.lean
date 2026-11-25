@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_SepFac_isSS_of_decomp
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SepFac.isSS_of_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:12:15.677314+00:00
 -- url     : https://prove2.me/theorems/d1d7f807-4258-46e9-a404-0cd8bc95abfa

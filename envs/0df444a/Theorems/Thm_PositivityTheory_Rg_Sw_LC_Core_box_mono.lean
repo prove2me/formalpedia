@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Core_box_mono
 -- name    : PositivityTheory.Rg.Sw.LC.Core.box_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:04:11.527842+00:00
 -- url     : https://prove2.me/theorems/bf4a754c-e391-5574-a0f9-302b78e56844

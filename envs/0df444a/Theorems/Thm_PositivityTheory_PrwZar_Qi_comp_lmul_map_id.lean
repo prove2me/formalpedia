@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PrwZar_Qi_comp_lmul_map_id
 -- name    : PositivityTheory.PrwZar.Qi.comp_lmul_map_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:51:55.1551+00:00
 -- url     : https://prove2.me/theorems/cd048f47-bd96-4523-b538-a46f1dbf554f

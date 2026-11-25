@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_EigA_fixed_simple
 -- name    : PositivityTheory.Rg.BcB.F.EigA.fixed_simple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:52:15.761193+00:00
 -- url     : https://prove2.me/theorems/5347763c-9bd6-5c7b-b4d6-ea6153f513a2

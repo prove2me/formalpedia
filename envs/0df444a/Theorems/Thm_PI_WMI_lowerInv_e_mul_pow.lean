@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_lowerInv_e_mul_pow
 -- name    : PI.WMI.lowerInv_e_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:37.919379+00:00
 -- url     : https://prove2.me/theorems/c52d8081-8817-4453-a3b5-f0dc98472254

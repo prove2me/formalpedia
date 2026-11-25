@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_nf211
 -- name    : F6ConvexWindow.nf211
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:39:42.358802+00:00
 -- url     : https://prove2.me/theorems/1b1ac711-e73e-57d6-ac5b-3af507b6cc5f

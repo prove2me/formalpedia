@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_sqLC_apply
 -- name    : PI.WGB.sqLC_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:59.932783+00:00
 -- url     : https://prove2.me/theorems/32bca116-7578-498e-b27e-6cab19595532

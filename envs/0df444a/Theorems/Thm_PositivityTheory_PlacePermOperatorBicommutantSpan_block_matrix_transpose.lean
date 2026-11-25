@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PlacePermOperatorBicommutantSpan_block_matrix_transpose
 -- name    : PositivityTheory.PlacePermOperatorBicommutantSpan.block_matrix_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:51:46.161988+00:00
 -- url     : https://prove2.me/theorems/9fe47069-56a0-4dff-86ad-d2226ceff553

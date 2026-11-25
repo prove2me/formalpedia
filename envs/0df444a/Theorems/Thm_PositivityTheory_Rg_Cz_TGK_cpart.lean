@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TGK_cpart
 -- name    : PositivityTheory.Rg.Cz.TGK.cpart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:54:51.447275+00:00
 -- url     : https://prove2.me/theorems/df00ff04-7a4f-5dec-a8f6-5a0fc801407f

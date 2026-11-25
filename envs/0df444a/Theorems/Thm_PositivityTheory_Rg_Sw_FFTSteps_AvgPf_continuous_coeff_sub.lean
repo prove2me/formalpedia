@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_AvgPf_continuous_coeff_sub
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.AvgPf.continuous_coeff_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:58:55.68289+00:00
 -- url     : https://prove2.me/theorems/69cc02b0-89e9-4f4a-9e66-6657be67e5e7

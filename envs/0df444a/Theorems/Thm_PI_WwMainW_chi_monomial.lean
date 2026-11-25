@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwMainW_chi_monomial
 -- name    : PI.WwMainW.chi_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:46:14.112105+00:00
 -- url     : https://prove2.me/theorems/7bf06a08-351b-4b4b-a4d4-92245f6aa8e5

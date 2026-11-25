@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_mul_eA_apply
 -- name    : PositivityTheory.Rg.Sw.LVs.II.mul_eA_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:00:26.226952+00:00
 -- url     : https://prove2.me/theorems/bca37b76-be16-569e-818a-cabb56577930

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_analyticAt_riemannZeta_of_ne
 -- name    : PI.ZW.analyticAt_riemannZeta_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:46:44.463563+00:00
 -- url     : https://prove2.me/theorems/ba7e2fed-a02d-4936-a967-89a87f840731

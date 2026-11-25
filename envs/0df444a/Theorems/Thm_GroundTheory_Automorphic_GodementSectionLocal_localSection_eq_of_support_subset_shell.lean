@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_localSection_eq_of_support_subset_shell
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.localSection_eq_of_support_subset_shell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:37:47.844436+00:00
 -- url     : https://prove2.me/theorems/a3aff0e0-a0c1-4281-9e22-0ee9bfa0964d

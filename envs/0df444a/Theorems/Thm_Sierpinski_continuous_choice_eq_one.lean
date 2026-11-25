@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sierpinski_continuous_choice_eq_one
 -- name    : Sierpinski.continuous_choice_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:53:56.530751+00:00
 -- url     : https://prove2.me/theorems/cae43531-114f-574c-bc44-1a0876e53e08

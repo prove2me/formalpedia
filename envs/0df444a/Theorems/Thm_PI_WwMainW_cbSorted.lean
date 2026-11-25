@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwMainW_cbSorted
 -- name    : PI.WwMainW.cbSorted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:46:13.361247+00:00
 -- url     : https://prove2.me/theorems/d51efd9d-4a0b-548e-917b-613c544b1ed8

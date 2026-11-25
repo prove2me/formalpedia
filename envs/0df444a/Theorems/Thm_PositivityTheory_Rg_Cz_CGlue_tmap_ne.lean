@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CGlue_tmap_ne
 -- name    : PositivityTheory.Rg.Cz.CGlue.tmap_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:57.106955+00:00
 -- url     : https://prove2.me/theorems/e10705ff-a4eb-448f-b5c4-44abf7745705

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSeries_perturbation
 -- name    : GlobalTheory.CycSeries.perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:20:17.69415+00:00
 -- url     : https://prove2.me/theorems/a0cbb3e7-1430-57b8-a3d7-7db298703527

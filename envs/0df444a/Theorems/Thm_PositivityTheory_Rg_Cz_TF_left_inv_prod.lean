@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TF_left_inv_prod
 -- name    : PositivityTheory.Rg.Cz.TF.left_inv_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:56:21.881927+00:00
 -- url     : https://prove2.me/theorems/7c96eb30-df75-56ee-9275-7e690603a92c

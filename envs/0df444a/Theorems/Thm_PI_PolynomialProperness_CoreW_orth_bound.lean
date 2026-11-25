@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CoreW_orth_bound
 -- name    : PI.PolynomialProperness.CoreW.orth_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:38:42.424798+00:00
 -- url     : https://prove2.me/theorems/584bd588-2524-4e35-a577-758caa1db27a

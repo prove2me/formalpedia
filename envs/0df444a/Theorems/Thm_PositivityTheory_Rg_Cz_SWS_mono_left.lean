@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SWS_mono_left
 -- name    : PositivityTheory.Rg.Cz.SWS.mono_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:54:02.130595+00:00
 -- url     : https://prove2.me/theorems/4b07f53b-15c3-4982-86e4-82582400b6fa

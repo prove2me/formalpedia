@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_lowerInv_coeff_scale
 -- name    : PI.WMI.lowerInv_coeff_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:48:07.702871+00:00
 -- url     : https://prove2.me/theorems/e35723c0-282f-40ac-84aa-f0062d724a0f

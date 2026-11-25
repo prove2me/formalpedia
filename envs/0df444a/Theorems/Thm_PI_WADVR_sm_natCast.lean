@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WADVR_sm_natCast
 -- name    : PI.WADVR.sm_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:58:56.237971+00:00
 -- url     : https://prove2.me/theorems/aa0cb3bc-0dac-485a-938c-f99ee935394a

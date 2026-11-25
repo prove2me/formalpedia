@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_bound_aux
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.bound_aux
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:37.767373+00:00
 -- url     : https://prove2.me/theorems/e3671b5f-81c7-5f50-a4e1-ec78a05a2c37

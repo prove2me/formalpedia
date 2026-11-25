@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_quadT_commute
 -- name    : PositivityTheory.KReal.quadT_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:55:54.943266+00:00
 -- url     : https://prove2.me/theorems/7c3b7f41-608a-52e8-9bc0-027e0f4be4a6

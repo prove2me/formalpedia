@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_gTLower_of_steps
 -- name    : PI.WGL.gTLower_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:45:10.3588+00:00
 -- url     : https://prove2.me/theorems/d3cfbb9e-aee3-4ed5-96e6-d133248fc2c8

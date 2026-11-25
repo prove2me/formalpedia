@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_growth_of_basic
 -- name    : PositivityTheory.CW.growth_of_basic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:51.355625+00:00
 -- url     : https://prove2.me/theorems/e2c1b138-544b-4be0-b7c4-c11cce0ca6b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_MaximumPrincipleOneFunction_step
 -- name    : PositivityTheory.CW.MaximumPrincipleOneFunction.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:40.540622+00:00
 -- url     : https://prove2.me/theorems/87151127-658f-539a-afc9-83f3d92b53df

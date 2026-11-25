@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_akCount_eq_skSet
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.akCount_eq_skSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:14:09.809841+00:00
 -- url     : https://prove2.me/theorems/a5bf4980-7582-5ff6-90da-cfa0d1de2fb8

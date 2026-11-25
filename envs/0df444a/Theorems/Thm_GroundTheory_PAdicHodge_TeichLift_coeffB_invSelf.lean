@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_coeffB_invSelf
 -- name    : GroundTheory.PAdicHodge.TeichLift.coeffB_invSelf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:26:23.577966+00:00
 -- url     : https://prove2.me/theorems/e98a2642-720c-563d-acc0-93bef778102d

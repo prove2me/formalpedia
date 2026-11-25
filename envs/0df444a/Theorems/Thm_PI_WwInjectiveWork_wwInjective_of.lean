@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwInjectiveWork_wwInjective_of
 -- name    : PI.WwInjectiveWork.wwInjective_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:51:02.721912+00:00
 -- url     : https://prove2.me/theorems/5dfc6ae9-5b8f-4104-8768-85ab607db1db

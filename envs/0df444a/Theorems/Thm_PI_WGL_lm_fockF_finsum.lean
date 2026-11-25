@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_lm_fockF_finsum
 -- name    : PI.WGL.lm_fockF_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:49:55.876918+00:00
 -- url     : https://prove2.me/theorems/4337c55f-9d45-526a-894d-eb6322b75599

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_split_integral_local
 -- name    : split_integral_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:15:30.49079+00:00
 -- url     : https://prove2.me/theorems/fae8bb37-05cc-4ccc-9de5-11c3cf1362ea

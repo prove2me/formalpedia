@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_continuous_minusBlock
 -- name    : PI.WeylForKWork.continuous_minusBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:50:14.744344+00:00
 -- url     : https://prove2.me/theorems/af895220-070e-5848-80ce-7edc8372ad9a

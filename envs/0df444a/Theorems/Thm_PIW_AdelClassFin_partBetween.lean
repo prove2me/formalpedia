@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_partBetween
 -- name    : PIW.AdelClassFin.partBetween
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:38.038391+00:00
 -- url     : https://prove2.me/theorems/9e22ee1a-a3d6-43d7-b88a-8eec316d5311

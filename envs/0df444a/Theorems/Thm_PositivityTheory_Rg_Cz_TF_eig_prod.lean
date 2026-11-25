@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TF_eig_prod
 -- name    : PositivityTheory.Rg.Cz.TF.eig_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:54:35.698249+00:00
 -- url     : https://prove2.me/theorems/2bd952e2-7bd8-5647-a2cd-98981bd1addd

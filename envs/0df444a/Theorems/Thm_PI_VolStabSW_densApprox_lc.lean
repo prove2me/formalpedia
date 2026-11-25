@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_densApprox_lc
 -- name    : PI.VolStabSW.densApprox_lc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:41:39.958095+00:00
 -- url     : https://prove2.me/theorems/aa4cc934-84a7-4ae0-b5cf-6d650ff1a3ed

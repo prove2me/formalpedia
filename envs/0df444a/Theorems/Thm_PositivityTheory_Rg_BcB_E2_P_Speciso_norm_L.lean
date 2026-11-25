@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Speciso_norm_L
 -- name    : PositivityTheory.Rg.BcB.E2.P.Speciso.norm_L
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:52:06.596415+00:00
 -- url     : https://prove2.me/theorems/aee2b23d-b3cc-5fe1-b8d6-270eab4be5d2

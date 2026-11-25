@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_updInv
 -- name    : PositivityTheory.KReal.updInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:51:15.383091+00:00
 -- url     : https://prove2.me/theorems/74714768-4e33-4e9d-a2fd-df1490e299a9

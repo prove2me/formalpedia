@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiFrameW_frame_core
 -- name    : PI.ScPiFrameW.frame_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:23:32.940892+00:00
 -- url     : https://prove2.me/theorems/225957b8-d7df-5a0f-a6cd-564644b02d8a

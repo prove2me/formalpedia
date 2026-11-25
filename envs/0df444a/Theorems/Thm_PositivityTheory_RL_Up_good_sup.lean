@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Up_good_sup
 -- name    : PositivityTheory.RL.Up.good_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:52:10.09182+00:00
 -- url     : https://prove2.me/theorems/b06580f2-1531-4bd5-9150-c24932b9a8d3

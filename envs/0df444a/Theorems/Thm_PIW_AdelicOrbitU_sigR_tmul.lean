@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelicOrbitU_sigR_tmul
 -- name    : PIW.AdelicOrbitU.sigR_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:47:55.231167+00:00
 -- url     : https://prove2.me/theorems/d5e5a7fa-b227-4587-81c0-81a59cfe105e

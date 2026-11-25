@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_exp_entry
 -- name    : PI.exp_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:47:04.071221+00:00
 -- url     : https://prove2.me/theorems/04a8ffa2-cd20-4f46-9158-38c9c2a8913b

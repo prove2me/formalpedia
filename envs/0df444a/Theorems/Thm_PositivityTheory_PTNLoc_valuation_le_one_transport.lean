@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PTNLoc_valuation_le_one_transport
 -- name    : PositivityTheory.PTNLoc.valuation_le_one_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:52:22.581172+00:00
 -- url     : https://prove2.me/theorems/21677b14-b3f3-51e9-be1d-2a1a74d8e169

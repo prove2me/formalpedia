@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_HtPt_Siua_form_smul
 -- name    : PositivityTheory.HtPt.Siua.form_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:51:31.895532+00:00
 -- url     : https://prove2.me/theorems/b1335309-6931-44ea-bb4f-be6107c2fff1

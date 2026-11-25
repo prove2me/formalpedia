@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Weakae_integrable_k
 -- name    : PositivityTheory.Rg.BcB.E2.P.Weakae.integrable_k
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:52:34.087966+00:00
 -- url     : https://prove2.me/theorems/a6dd6d35-69d7-46ae-a4ae-0b4332c2939e

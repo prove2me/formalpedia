@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Gud_Pf_list_symmetric_pair_decomposition
 -- name    : PositivityTheory.Gud.Pf.list_symmetric_pair_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:03.868456+00:00
 -- url     : https://prove2.me/theorems/9bdeb65b-78ca-41e5-8e4a-3d313698c5aa

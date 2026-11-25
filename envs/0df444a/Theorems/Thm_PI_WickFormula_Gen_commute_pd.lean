@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Gen_commute_pd
 -- name    : PI.WickFormula.Gen.commute_pd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:45:09.702199+00:00
 -- url     : https://prove2.me/theorems/1602f6e6-a1c8-45e4-9e93-5ca281f8d276

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_pe_evM_detPoly
 -- name    : PI.WMI.pe_evM_detPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:07.343954+00:00
 -- url     : https://prove2.me/theorems/63188864-a78b-4e2d-b8c3-3abf5d3b877a

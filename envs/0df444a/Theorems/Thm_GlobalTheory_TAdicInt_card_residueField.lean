@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TAdicInt_card_residueField
 -- name    : GlobalTheory.TAdicInt.card_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:28:41.945487+00:00
 -- url     : https://prove2.me/theorems/ec03e09d-98f6-432f-a04e-2cf2224d5a66

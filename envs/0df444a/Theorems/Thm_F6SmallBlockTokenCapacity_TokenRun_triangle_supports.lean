@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6SmallBlockTokenCapacity_TokenRun_triangle_supports
 -- name    : F6SmallBlockTokenCapacity.TokenRun.triangle_supports
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:30:43.609797+00:00
 -- url     : https://prove2.me/theorems/916d3588-9d38-59c4-8816-5c5d24fc1c7c

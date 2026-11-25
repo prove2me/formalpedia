@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TAdicInt_irreducible_natCast
 -- name    : GlobalTheory.TAdicInt.irreducible_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:28:51.138881+00:00
 -- url     : https://prove2.me/theorems/68d767bc-ab2a-46de-9a6e-98707d6c0f69

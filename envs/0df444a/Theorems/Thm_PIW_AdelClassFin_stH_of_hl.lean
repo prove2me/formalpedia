@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_stH_of_hl
 -- name    : PIW.AdelClassFin.stH_of_hl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:48:53.404704+00:00
 -- url     : https://prove2.me/theorems/14fb72dd-79a2-4887-9131-57ff638778ab

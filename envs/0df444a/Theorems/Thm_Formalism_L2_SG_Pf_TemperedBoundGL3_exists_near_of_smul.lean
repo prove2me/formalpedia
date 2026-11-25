@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_TemperedBoundGL3_exists_near_of_smul
 -- name    : Formalism.L2.SG.Pf.TemperedBoundGL3.exists_near_of_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:55:39.651552+00:00
 -- url     : https://prove2.me/theorems/cb0436ca-c6c6-5122-9519-3e64d13b8c87

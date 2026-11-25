@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_HtPt_KtwS_exists_restrict_twistMul_pow
 -- name    : PositivityTheory.HtPt.KtwS.exists_restrict_twistMul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:54:19.24585+00:00
 -- url     : https://prove2.me/theorems/9dee6747-fc10-5503-a11b-db20dd2d5475

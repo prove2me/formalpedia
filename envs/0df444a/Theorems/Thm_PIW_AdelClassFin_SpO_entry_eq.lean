@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_SpO_entry_eq
 -- name    : PIW.AdelClassFin.SpO.entry_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:48:54.265956+00:00
 -- url     : https://prove2.me/theorems/cad05826-93be-468c-a13a-0ee390d1f08c

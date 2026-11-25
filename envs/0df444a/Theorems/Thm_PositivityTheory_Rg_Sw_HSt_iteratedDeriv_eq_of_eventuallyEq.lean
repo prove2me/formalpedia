@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_iteratedDeriv_eq_of_eventuallyEq
 -- name    : PositivityTheory.Rg.Sw.HSt.iteratedDeriv_eq_of_eventuallyEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:55:03.761067+00:00
 -- url     : https://prove2.me/theorems/413ee6c3-ac98-42dc-a271-143486690c85

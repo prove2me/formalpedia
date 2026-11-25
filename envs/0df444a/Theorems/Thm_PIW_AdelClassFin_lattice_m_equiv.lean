@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_lattice_m_equiv
 -- name    : PIW.AdelClassFin.lattice_m_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:49.174037+00:00
 -- url     : https://prove2.me/theorems/4315aa29-845d-4a40-a15c-9a32e28e94ba

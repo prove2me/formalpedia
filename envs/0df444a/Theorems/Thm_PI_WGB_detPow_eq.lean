@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_detPow_eq
 -- name    : PI.WGB.detPow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:50:49.543795+00:00
 -- url     : https://prove2.me/theorems/6cb70498-152f-46f4-9170-916759409b6e

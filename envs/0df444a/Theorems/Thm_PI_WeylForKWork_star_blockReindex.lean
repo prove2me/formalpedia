@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_star_blockReindex
 -- name    : PI.WeylForKWork.star_blockReindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:44:37.241916+00:00
 -- url     : https://prove2.me/theorems/190ce208-3ab5-4039-93a1-b4a54091e396

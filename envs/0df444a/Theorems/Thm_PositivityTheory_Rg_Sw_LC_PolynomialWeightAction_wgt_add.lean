@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialWeightAction_wgt_add
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.wgt_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:49:38.626091+00:00
 -- url     : https://prove2.me/theorems/8c1c33ab-f5f8-4a28-9987-a5b60652140f

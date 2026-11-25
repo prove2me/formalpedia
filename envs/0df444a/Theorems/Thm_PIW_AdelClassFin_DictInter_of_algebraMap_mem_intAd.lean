@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictInter_of_algebraMap_mem_intAd
 -- name    : PIW.AdelClassFin.DictInter.of_algebraMap_mem_intAd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:49:37.130193+00:00
 -- url     : https://prove2.me/theorems/b2a5f442-acff-442f-907c-550dccf405fa

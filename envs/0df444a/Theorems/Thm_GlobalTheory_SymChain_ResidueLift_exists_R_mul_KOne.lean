@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_ResidueLift_exists_R_mul_KOne
 -- name    : GlobalTheory.SymChain.ResidueLift.exists_R_mul_KOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:10:21.474232+00:00
 -- url     : https://prove2.me/theorems/8ec62a9c-060c-5271-b5d5-122a56dc12fb

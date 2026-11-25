@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_mem_unitaryCentralizer_allPos_iff
 -- name    : PI.WeylForKWork.mem_unitaryCentralizer_allPos_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:17:51.581021+00:00
 -- url     : https://prove2.me/theorems/e52becfa-e882-4aab-8d17-2e1c6be9a74e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_adjoint_stable_filtration
 -- name    : PositivityTheory.CW.adjoint_stable_filtration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:51:19.277903+00:00
 -- url     : https://prove2.me/theorems/6ec5a4c4-3a6a-4947-8f4e-a96758bf1f0c

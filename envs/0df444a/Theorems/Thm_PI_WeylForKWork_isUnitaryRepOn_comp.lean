@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_isUnitaryRepOn_comp
 -- name    : PI.WeylForKWork.isUnitaryRepOn_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:45:09.510801+00:00
 -- url     : https://prove2.me/theorems/57dc72a8-ceaa-5f50-a9a5-e9d7c964166d

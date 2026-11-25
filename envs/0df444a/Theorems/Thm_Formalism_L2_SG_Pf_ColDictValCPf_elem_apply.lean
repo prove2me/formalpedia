@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_elem_apply
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.elem_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:27:44.979927+00:00
 -- url     : https://prove2.me/theorems/2d0a795f-14f0-4d2d-8dfd-1eef5ab4f53b

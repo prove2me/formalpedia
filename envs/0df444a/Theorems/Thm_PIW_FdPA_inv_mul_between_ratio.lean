@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_inv_mul_between_ratio
 -- name    : PIW.FdPA.inv_mul_between_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:41.650771+00:00
 -- url     : https://prove2.me/theorems/0a78af94-6418-461d-ad80-f0d3b86804aa

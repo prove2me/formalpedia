@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_EigenspaceOrthogonality_nc_sum
 -- name    : PositivityTheory.CW.EigenspaceOrthogonality.nc_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:49:59.248889+00:00
 -- url     : https://prove2.me/theorems/e1f5a0a4-20bc-4e7a-a628-51090994e587

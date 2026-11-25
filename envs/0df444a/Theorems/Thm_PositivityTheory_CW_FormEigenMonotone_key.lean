@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_FormEigenMonotone_key
 -- name    : PositivityTheory.CW.FormEigenMonotone.key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:50:25.919436+00:00
 -- url     : https://prove2.me/theorems/151dbb22-ba78-4ad9-9f48-356f2bc01ff4

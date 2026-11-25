@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_CG_SmoothIntegrals_contDiffOn_integral_nat
 -- name    : PositivityTheory.Rg.BcB.CG.SmoothIntegrals.contDiffOn_integral_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:51:45.707486+00:00
 -- url     : https://prove2.me/theorems/f95a1d3e-ae95-57fe-b4fc-29c3bbd320dc

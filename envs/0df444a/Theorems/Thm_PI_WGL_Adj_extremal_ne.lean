@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Adj_extremal_ne
 -- name    : PI.WGL.Adj.extremal_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:46:54.059299+00:00
 -- url     : https://prove2.me/theorems/2d4b7681-8821-418e-a9da-d944e9eb8724

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiU_det_sub_norm_le_one
 -- name    : PI.WGL.XiU.det_sub_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:24.347844+00:00
 -- url     : https://prove2.me/theorems/8457e051-6b0d-5a4b-82ff-dff8cc03d080

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_FunctionalCalculusInner_inner_eq_sum
 -- name    : PositivityTheory.CW.FunctionalCalculusInner.inner_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:49:07.133959+00:00
 -- url     : https://prove2.me/theorems/3166216a-0dfc-4497-b86b-2ba12931a7c9

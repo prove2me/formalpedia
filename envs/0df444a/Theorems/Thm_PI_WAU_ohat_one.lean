@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_ohat_one
 -- name    : PI.WAU.ohat_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:51:15.853437+00:00
 -- url     : https://prove2.me/theorems/9235cc49-e194-5fd6-8c32-490b5383148a

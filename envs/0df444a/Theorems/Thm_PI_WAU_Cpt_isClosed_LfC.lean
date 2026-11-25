@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_Cpt_isClosed_LfC
 -- name    : PI.WAU.Cpt.isClosed_LfC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:12.2188+00:00
 -- url     : https://prove2.me/theorems/7cf0ff7a-f186-4c60-aab7-36b27facc6cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_choice_of_generators
 -- name    : PI.UnitaryGroupMassFormula.LCG.choice_of_generators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:40:14.603799+00:00
 -- url     : https://prove2.me/theorems/a9438810-30c7-4fff-aa99-b3dc8a45cd44

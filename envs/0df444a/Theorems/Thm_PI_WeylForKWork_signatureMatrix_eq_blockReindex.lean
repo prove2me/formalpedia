@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_signatureMatrix_eq_blockReindex
 -- name    : PI.WeylForKWork.signatureMatrix_eq_blockReindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:47:07.295159+00:00
 -- url     : https://prove2.me/theorems/56a36bd5-56d5-5167-872f-c76b1725584f

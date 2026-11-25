@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosEntries_opE_translate_free
 -- name    : GlobalTheory.PosEntries.opE_translate_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:11:28.061508+00:00
 -- url     : https://prove2.me/theorems/155489af-34d2-42c3-b8b2-25dbb516c40f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_IdentityFiltrationBound_quad
 -- name    : PositivityTheory.CW.IdentityFiltrationBound.quad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:42.217262+00:00
 -- url     : https://prove2.me/theorems/9c593bef-36f7-557d-ae70-3af8ef26cca8

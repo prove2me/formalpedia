@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TF_qdet_mem
 -- name    : PositivityTheory.Rg.Cz.TF.qdet_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:55:52.983099+00:00
 -- url     : https://prove2.me/theorems/c2bddb1f-489c-501b-ac61-f318ee267ce0

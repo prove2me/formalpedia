@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_latHat_split
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.latHat_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:03:18.583781+00:00
 -- url     : https://prove2.me/theorems/171ea5ba-773e-45d2-934b-be690f3c4b22

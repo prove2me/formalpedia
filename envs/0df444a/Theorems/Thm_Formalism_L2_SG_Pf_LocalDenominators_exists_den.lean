@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LocalDenominators_exists_den
 -- name    : Formalism.L2.SG.Pf.LocalDenominators.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:37:45.072098+00:00
 -- url     : https://prove2.me/theorems/0f73ea87-f31b-5ba3-8883-fefc5545d1e7

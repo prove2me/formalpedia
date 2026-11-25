@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_DM_smooth_density
 -- name    : PositivityTheory.DM.smooth_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:04.596865+00:00
 -- url     : https://prove2.me/theorems/51644d22-6fcb-4298-8847-529018f76f00

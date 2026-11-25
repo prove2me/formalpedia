@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_exp_entry_hasSum
 -- name    : PI.exp_entry_hasSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:54:01.902536+00:00
 -- url     : https://prove2.me/theorems/132f5f28-1d64-5bed-8cd8-b3af94cfabb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_isAntichain_subset
 -- name    : DilworthTheorem.isAntichain_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:33:10.695137+00:00
 -- url     : https://prove2.me/theorems/62b66d0a-58a2-5fc7-82cb-9cecd8ed289c

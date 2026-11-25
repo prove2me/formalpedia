@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_EigenspaceOrthogonality_s1
 -- name    : PositivityTheory.CW.EigenspaceOrthogonality.s1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:04.699932+00:00
 -- url     : https://prove2.me/theorems/fa7d14fb-2b1c-5c57-a886-366ef277e6a2

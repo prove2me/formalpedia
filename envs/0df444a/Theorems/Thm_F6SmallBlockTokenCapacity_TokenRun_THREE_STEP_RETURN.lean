@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6SmallBlockTokenCapacity_TokenRun_THREE_STEP_RETURN
 -- name    : F6SmallBlockTokenCapacity.TokenRun.THREE_STEP_RETURN
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:31:58.153088+00:00
 -- url     : https://prove2.me/theorems/f57b616f-71b8-4a16-b94a-c4938e56a891

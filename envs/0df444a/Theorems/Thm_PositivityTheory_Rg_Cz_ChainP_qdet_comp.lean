@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ChainP_qdet_comp
 -- name    : PositivityTheory.Rg.Cz.ChainP.qdet_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:12.051612+00:00
 -- url     : https://prove2.me/theorems/2d567ce3-67a3-46cb-9acc-8b06a7f3b1b4

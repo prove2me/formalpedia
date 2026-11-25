@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_pos_of_eig
 -- name    : PositivityTheory.KReal.pos_of_eig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:51:12.858609+00:00
 -- url     : https://prove2.me/theorems/7b682261-c4b5-4ab8-82f3-09da7d0ff467

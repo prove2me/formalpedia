@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_second_derivative_holds
 -- name    : PositivityTheory.CW.second_derivative_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:50:52.076729+00:00
 -- url     : https://prove2.me/theorems/4269ef4a-f565-41b7-b480-55ddccdffa8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Basic_DegLT_X_mul
 -- name    : PositivityTheory.Rg.Sw.LC.Basic.DegLT.X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:54:35.336104+00:00
 -- url     : https://prove2.me/theorems/1264cf0d-886f-57a4-9a3e-49e4fcbadc17

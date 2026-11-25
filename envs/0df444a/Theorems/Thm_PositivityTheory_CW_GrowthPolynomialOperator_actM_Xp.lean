@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_GrowthPolynomialOperator_actM_Xp
 -- name    : PositivityTheory.CW.GrowthPolynomialOperator.actM_Xp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:50:46.751218+00:00
 -- url     : https://prove2.me/theorems/27e387c0-0239-5de0-951b-9292d08efef0

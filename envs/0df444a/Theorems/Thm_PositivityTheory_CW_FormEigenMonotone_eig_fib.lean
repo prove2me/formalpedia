@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_FormEigenMonotone_eig_fib
 -- name    : PositivityTheory.CW.FormEigenMonotone.eig_fib
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:50:50.571694+00:00
 -- url     : https://prove2.me/theorems/fabf661d-12df-5147-8024-1185fec4a067

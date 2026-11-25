@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ZuckTensorWork_revM_mem_Kset__b96cad11e318
 -- name    : P2M_PI_ZuckTensorWork_revM_mem_Kset__b96cad11e318
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:01:31.507969+00:00
 -- url     : https://prove2.me/theorems/d4359e21-f00f-53ca-a94f-627cec142c37

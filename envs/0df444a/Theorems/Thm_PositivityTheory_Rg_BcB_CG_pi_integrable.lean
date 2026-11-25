@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_CG_pi_integrable
 -- name    : PositivityTheory.Rg.BcB.CG.pi_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:51.136007+00:00
 -- url     : https://prove2.me/theorems/ed5ac25d-34ba-5e75-952c-e65bb338bb5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G8_nondegOn_orth
 -- name    : Formalism.L2.SG.Pf.G8.nondegOn_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:18:41.529727+00:00
 -- url     : https://prove2.me/theorems/00ec20e9-3bc6-4567-8cb1-d5b516118fea

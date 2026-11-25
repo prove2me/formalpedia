@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ColumnAntisymmetry_eq_of_le
 -- name    : PositivityTheory.Rg.Cz.ColumnAntisymmetry.eq_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:54.046831+00:00
 -- url     : https://prove2.me/theorems/a712fed0-4c14-44f7-a7ee-aa85aa028781

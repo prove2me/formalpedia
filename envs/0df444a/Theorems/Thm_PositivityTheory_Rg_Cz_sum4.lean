@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_sum4
 -- name    : PositivityTheory.Rg.Cz.sum4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:49:55.58324+00:00
 -- url     : https://prove2.me/theorems/bbb3ca82-b870-4176-a4bc-194c47885d9f

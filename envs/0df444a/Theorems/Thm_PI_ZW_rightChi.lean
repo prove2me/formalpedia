@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_rightChi
 -- name    : PI.ZW.rightChi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:46:53.343662+00:00
 -- url     : https://prove2.me/theorems/ef90745a-f734-4a62-84c1-829e950e359d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_EqvWt_prod_rowDeg
 -- name    : PI.WGL.EqvWt.prod_rowDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:52.935422+00:00
 -- url     : https://prove2.me/theorems/96dce42c-90cf-4eaa-8b0a-cce0ed41bb26

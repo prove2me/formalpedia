@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_ExchangeCol_phi_add_col
 -- name    : GlobalTheory.SymChain.ExchangeCol.phi_add_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:10:56.715959+00:00
 -- url     : https://prove2.me/theorems/10047213-64af-4c17-b577-5bce0ee3993e

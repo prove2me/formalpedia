@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_TopoFibInv_linIndep_smul
 -- name    : PI.VolStabW.TopoFibInv.linIndep_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:54:11.261651+00:00
 -- url     : https://prove2.me/theorems/bd090049-3587-49d9-be09-47e3e4759058

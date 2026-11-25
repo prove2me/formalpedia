@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42GridCoefficientBoundV1
 -- name    : Kyprianou.Ch04.exercise42GridCoefficientBoundV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T10:11:55.437276+00:00
 -- url     : https://prove2.me/theorems/cf1fb665-5a04-56be-937f-3d7f1a3beb4c

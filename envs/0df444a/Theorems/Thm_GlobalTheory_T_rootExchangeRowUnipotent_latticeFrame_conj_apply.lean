@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rootExchangeRowUnipotent_latticeFrame_conj_apply
 -- name    : GlobalTheory.T.rootExchangeRowUnipotent_latticeFrame_conj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:16:49.051841+00:00
 -- url     : https://prove2.me/theorems/2c2bb6f2-e1d9-48b5-8df4-f14e3c2085c6

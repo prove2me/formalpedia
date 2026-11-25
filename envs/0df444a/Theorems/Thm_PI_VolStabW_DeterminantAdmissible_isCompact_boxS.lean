@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_isCompact_boxS
 -- name    : PI.VolStabW.DeterminantAdmissible.isCompact_boxS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:52:32.418598+00:00
 -- url     : https://prove2.me/theorems/450466a0-17c1-4e8c-85bd-9919e86da528

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_lambda_integrality
 -- name    : PI.WMI.lambda_integrality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:30.071552+00:00
 -- url     : https://prove2.me/theorems/46cb63cf-f37e-4e44-b9d1-26d9ec141c42

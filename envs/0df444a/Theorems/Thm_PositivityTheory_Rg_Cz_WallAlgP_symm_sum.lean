@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_WallAlgP_symm_sum
 -- name    : PositivityTheory.Rg.Cz.WallAlgP.symm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:48:48.040339+00:00
 -- url     : https://prove2.me/theorems/81c24bd0-ccae-4d97-882d-a6a33a4af935

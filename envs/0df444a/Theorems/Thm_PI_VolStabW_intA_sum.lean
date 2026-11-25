@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_intA_sum
 -- name    : PI.VolStabW.intA_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:43:35.060562+00:00
 -- url     : https://prove2.me/theorems/0d37a428-1b7e-4d95-a515-41c7a96ead9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Basic_coe_phi_monomial
 -- name    : PositivityTheory.Rg.Sw.LC.Basic.coe_phi_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:57:04.161368+00:00
 -- url     : https://prove2.me/theorems/cfc89f5c-0fd5-56e6-b17c-2db6b6382be3

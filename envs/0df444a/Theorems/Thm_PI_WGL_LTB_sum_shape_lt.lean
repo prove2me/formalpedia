@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTB_sum_shape_lt
 -- name    : PI.WGL.LTB.sum_shape_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:44:21.113992+00:00
 -- url     : https://prove2.me/theorems/6793e61c-0eac-501c-b925-5ea669006721

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_typePl_of
 -- name    : PI.WeylForKWork.typePl_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:55.66383+00:00
 -- url     : https://prove2.me/theorems/2e91256a-ab39-40a8-8805-8e79dd9503ff

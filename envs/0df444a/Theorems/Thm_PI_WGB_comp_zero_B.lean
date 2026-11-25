@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_comp_zero_B
 -- name    : PI.WGB.comp_zero_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:51:09.311046+00:00
 -- url     : https://prove2.me/theorems/c5dd657a-4d9e-58b4-bf41-711ffbc06d12

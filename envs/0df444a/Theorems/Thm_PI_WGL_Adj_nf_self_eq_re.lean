@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Adj_nf_self_eq_re
 -- name    : PI.WGL.Adj.nf_self_eq_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:10.792829+00:00
 -- url     : https://prove2.me/theorems/f135a6c9-171b-40f6-b8ff-d38568596c48

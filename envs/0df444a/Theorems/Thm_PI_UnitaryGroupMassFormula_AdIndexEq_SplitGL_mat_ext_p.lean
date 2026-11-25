@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_SplitGL_mat_ext_p
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.SplitGL.mat_ext_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:51:17.210249+00:00
 -- url     : https://prove2.me/theorems/67bd1ce1-f005-48c6-8d94-ec297a5061e1

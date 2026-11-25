@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_cellEnumeration
 -- name    : GroundTheory.Automorphic.Parabolic.exists_cellEnumeration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:22:24.620978+00:00
 -- url     : https://prove2.me/theorems/5460b63d-d6ee-400d-9958-d9f39185c1e7

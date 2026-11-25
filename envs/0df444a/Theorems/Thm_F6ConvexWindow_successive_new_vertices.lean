@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_successive_new_vertices
 -- name    : F6ConvexWindow.successive_new_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:06:45.681513+00:00
 -- url     : https://prove2.me/theorems/85d51c08-a480-4ee9-91ad-8113c06f3df4

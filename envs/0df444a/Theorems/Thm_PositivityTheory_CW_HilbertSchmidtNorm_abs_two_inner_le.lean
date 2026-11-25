@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_HilbertSchmidtNorm_abs_two_inner_le
 -- name    : PositivityTheory.CW.HilbertSchmidtNorm.abs_two_inner_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:50:39.896044+00:00
 -- url     : https://prove2.me/theorems/665336b9-47ee-4926-b004-8b051083537c

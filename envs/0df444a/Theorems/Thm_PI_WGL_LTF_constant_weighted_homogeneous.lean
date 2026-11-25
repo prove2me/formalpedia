@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTF_constant_weighted_homogeneous
 -- name    : PI.WGL.LTF.constant_weighted_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:49:32.448157+00:00
 -- url     : https://prove2.me/theorems/14986878-a299-4862-8e3e-3e23ca89a215

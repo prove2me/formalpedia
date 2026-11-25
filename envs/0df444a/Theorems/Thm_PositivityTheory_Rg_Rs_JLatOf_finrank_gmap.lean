@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_JLatOf_finrank_gmap
 -- name    : PositivityTheory.Rg.Rs.JLatOf.finrank_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:50:13.054116+00:00
 -- url     : https://prove2.me/theorems/7b2f9add-42d2-4181-bcf0-a514d4b7ad43

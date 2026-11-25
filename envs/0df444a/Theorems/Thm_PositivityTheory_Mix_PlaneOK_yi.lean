@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mix_PlaneOK_yi
 -- name    : PositivityTheory.Mix.PlaneOK.yi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:51:07.967842+00:00
 -- url     : https://prove2.me/theorems/c897f650-0a28-50ff-b5c8-65d5d1ca2a35

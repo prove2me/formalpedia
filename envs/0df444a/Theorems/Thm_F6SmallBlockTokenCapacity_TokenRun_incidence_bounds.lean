@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6SmallBlockTokenCapacity_TokenRun_incidence_bounds
 -- name    : F6SmallBlockTokenCapacity.TokenRun.incidence_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:45:07.86159+00:00
 -- url     : https://prove2.me/theorems/e34ff9d2-f474-4c24-89e1-a5e2986d78fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_chartNorm_nonneg
 -- name    : PIW.FdPA.chartNorm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:27.652877+00:00
 -- url     : https://prove2.me/theorems/e9f897f0-3d25-4a03-abe3-7a5ef70343de

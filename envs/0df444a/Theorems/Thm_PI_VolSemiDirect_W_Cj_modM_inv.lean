@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_modM_inv
 -- name    : PI.VolSemiDirect.W.Cj.modM_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:36:28.719693+00:00
 -- url     : https://prove2.me/theorems/d03a640e-efe2-453e-a723-67365103e3cf

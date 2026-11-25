@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_freeSurj_of
 -- name    : PI.VolStabW.freeSurj_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:54:39.76082+00:00
 -- url     : https://prove2.me/theorems/cd91239c-cfcb-4e4b-851f-4834664959bd

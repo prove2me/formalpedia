@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_scalar_vanishing_criterion
 -- name    : PI.WGL.scalar_vanishing_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:32.234801+00:00
 -- url     : https://prove2.me/theorems/78a1ae85-1dda-4017-b746-d17e51f65aae

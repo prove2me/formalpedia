@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_fibLat_holds
 -- name    : PI.VolStabW.fibLat_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:44:29.758399+00:00
 -- url     : https://prove2.me/theorems/acb40b66-01ca-5a3a-9514-f5ce11e8c85b

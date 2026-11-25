@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_orthonormal_eigenbasis_of_basic
 -- name    : PositivityTheory.CW.orthonormal_eigenbasis_of_basic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:54.91329+00:00
 -- url     : https://prove2.me/theorems/f9419971-018e-4b0c-a7e9-6bf6da5a301c

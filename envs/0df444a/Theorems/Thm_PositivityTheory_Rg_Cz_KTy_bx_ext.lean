@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_KTy_bx_ext
 -- name    : PositivityTheory.Rg.Cz.KTy.bx_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:53:04.601811+00:00
 -- url     : https://prove2.me/theorems/97f0da02-24a8-4a21-a703-f840e4ed9d51

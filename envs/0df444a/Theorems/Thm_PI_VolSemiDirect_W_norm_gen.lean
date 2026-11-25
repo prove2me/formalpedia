@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_norm_gen
 -- name    : PI.VolSemiDirect.W.norm_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:36:45.565614+00:00
 -- url     : https://prove2.me/theorems/e8ab3d00-3a35-430d-9879-9842b383f432

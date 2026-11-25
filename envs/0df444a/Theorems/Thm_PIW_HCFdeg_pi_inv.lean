@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_pi_inv
 -- name    : PIW.HCFdeg.pi_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:47:10.552111+00:00
 -- url     : https://prove2.me/theorems/59d37214-41e8-4392-afac-bba42bd05f2b

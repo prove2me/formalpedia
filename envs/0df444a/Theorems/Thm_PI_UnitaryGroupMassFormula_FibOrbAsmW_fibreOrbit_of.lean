@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FibOrbAsmW_fibreOrbit_of
 -- name    : PI.UnitaryGroupMassFormula.FibOrbAsmW.fibreOrbit_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:33:45.637978+00:00
 -- url     : https://prove2.me/theorems/1f980932-f8d3-5aee-8f6e-fbe59537ec80

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TF_inv_aux
 -- name    : PositivityTheory.Rg.Cz.TF.inv_aux
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:56:28.594523+00:00
 -- url     : https://prove2.me/theorems/8fc79a5a-2fd0-565b-ac79-4465893a8719

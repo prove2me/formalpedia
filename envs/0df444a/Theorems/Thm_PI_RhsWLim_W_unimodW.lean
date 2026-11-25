@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_unimodW
 -- name    : PI.RhsWLim.W.unimodW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:42:01.071785+00:00
 -- url     : https://prove2.me/theorems/46dd9d5e-8c47-4a5b-a9bf-89a78f26098c

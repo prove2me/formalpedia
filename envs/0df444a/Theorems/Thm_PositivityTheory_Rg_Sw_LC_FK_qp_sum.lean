@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_FK_qp_sum
 -- name    : PositivityTheory.Rg.Sw.LC.FK.qp_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:59:40.138015+00:00
 -- url     : https://prove2.me/theorems/33b083e5-54d1-504e-a82f-ab47d1cf58bf

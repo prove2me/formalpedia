@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CGlue_sum_fin_val
 -- name    : PositivityTheory.Rg.Cz.CGlue.sum_fin_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:04.54485+00:00
 -- url     : https://prove2.me/theorems/ccf96416-d8c4-4061-a309-997369f9a564

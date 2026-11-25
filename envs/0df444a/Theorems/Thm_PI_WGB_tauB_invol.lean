@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_tauB_invol
 -- name    : PI.WGB.tauB_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:52.993944+00:00
 -- url     : https://prove2.me/theorems/c834606a-1b65-4db0-98af-5c2643d5a02a

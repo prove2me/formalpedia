@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CtrX_pm_alt_firstG
 -- name    : PositivityTheory.Rg.Cz.CtrX.pm_alt_firstG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:53:49.055803+00:00
 -- url     : https://prove2.me/theorems/82a186a8-241f-4921-9b1b-4ec17ce37130

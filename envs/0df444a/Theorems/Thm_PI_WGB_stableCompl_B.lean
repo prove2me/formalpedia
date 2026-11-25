@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_stableCompl_B
 -- name    : PI.WGB.stableCompl_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:49.759945+00:00
 -- url     : https://prove2.me/theorems/0742191e-5f17-4385-86e2-4715916a249c

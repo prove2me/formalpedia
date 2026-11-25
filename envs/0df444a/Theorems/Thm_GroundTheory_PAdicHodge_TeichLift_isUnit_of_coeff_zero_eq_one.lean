@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_isUnit_of_coeff_zero_eq_one
 -- name    : GroundTheory.PAdicHodge.TeichLift.isUnit_of_coeff_zero_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:26:26.768925+00:00
 -- url     : https://prove2.me/theorems/40a8d0aa-caa5-524e-97ba-8248fda1f387

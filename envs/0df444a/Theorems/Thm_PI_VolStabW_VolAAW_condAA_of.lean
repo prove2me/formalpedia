@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_VolAAW_condAA_of
 -- name    : PI.VolStabW.VolAAW.condAA_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:40:05.189045+00:00
 -- url     : https://prove2.me/theorems/e4004c12-21a6-43fc-91ef-9622c20cb68e

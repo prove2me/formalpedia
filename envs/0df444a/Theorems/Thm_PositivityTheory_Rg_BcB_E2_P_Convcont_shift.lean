@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Convcont_shift
 -- name    : PositivityTheory.Rg.BcB.E2.P.Convcont.shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:32.183552+00:00
 -- url     : https://prove2.me/theorems/4ddd348a-9c7a-4f41-8ed2-c7830e95b7e4

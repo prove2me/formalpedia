@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_semiApprox_of
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.semiApprox_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:05:09.378802+00:00
 -- url     : https://prove2.me/theorems/85d8b1bb-ff09-43df-be88-bee15259796e

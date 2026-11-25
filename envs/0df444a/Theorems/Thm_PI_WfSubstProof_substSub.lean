@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WfSubstProof_substSub
 -- name    : PI.WfSubstProof.substSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:59:05.291696+00:00
 -- url     : https://prove2.me/theorems/a7ae1f96-5c38-5148-9b70-9c2ca5e53e56

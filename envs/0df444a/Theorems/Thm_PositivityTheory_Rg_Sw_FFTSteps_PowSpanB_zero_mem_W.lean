@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_PowSpanB_zero_mem_W
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.PowSpanB.zero_mem_W
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:55:11.741329+00:00
 -- url     : https://prove2.me/theorems/5d053b87-784e-4a68-888d-1fc9d27b68aa

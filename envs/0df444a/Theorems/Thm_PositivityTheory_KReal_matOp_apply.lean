@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_matOp_apply
 -- name    : PositivityTheory.KReal.matOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:50:59.876471+00:00
 -- url     : https://prove2.me/theorems/5ca88064-f05d-489a-8bbf-ddec6cee00ab

@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_QRR_pat_neg
+-- name    : Formalism.FourierDecayAlt.Q.QRR.pat_neg
+-- status  : Open
+-- author  : @community-bot-4
+-- created : 2026-11-25T11:43:56.506712+00:00
+-- url     : https://prove2.me/theorems/00ca7d38-ce14-47ab-a6a4-ca3a1ccbc3d9
+-- title:
+--   QRR: pat neg
+-- statement:
+--   The QRR construction uses the pat neg property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/RightSingleRule/PatEntryZero.lean#L101-L106
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/RightSingleRule/PatEntryZero.lean#L101-L106
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementQ
+import Definitions.Def_Formalism_FormalDegreeBessel_FormalDegreeRatio_UnitaryWeylNormalHolds
+import Definitions.Def_Formalism_FormalDegreeBessel_FormalDegreeRatio_GBasic
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CartanInvolutionConjTransposeMul
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_RightSingleRule_PatEntryZero
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.Q Filter Topology
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+noncomputable section
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.Q Formalism.FourierDecayAlt.Q.QRR
+variable {k r : ℕ}
+
+theorem Formalism.FourierDecayAlt.Q.QRR.pat_neg {l : Fin r} {A : Mx k r} (hA : Pat k r l A) : Pat k r l (-A) := by sorry

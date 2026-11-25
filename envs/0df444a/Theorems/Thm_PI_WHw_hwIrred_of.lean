@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WHw_hwIrred_of
 -- name    : PI.WHw.hwIrred_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:46:50.750249+00:00
 -- url     : https://prove2.me/theorems/d35819db-5f6f-4588-95a5-8de29f2b3472

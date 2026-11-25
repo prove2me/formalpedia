@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_FunctionalCalculusInner_re_inner_fc
 -- name    : PositivityTheory.CW.FunctionalCalculusInner.re_inner_fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:50:23.029188+00:00
 -- url     : https://prove2.me/theorems/1a67d97b-65dc-5e49-a8d9-94daa3713784

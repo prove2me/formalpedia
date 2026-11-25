@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_CG_psa_symm_apply_self
 -- name    : PositivityTheory.Rg.BcB.CG.psa_symm_apply_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:52:05.758836+00:00
 -- url     : https://prove2.me/theorems/5ec64515-e1ac-47b5-a0dd-d577f0d4fbb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_PStepFormula_rot_last
 -- name    : PositivityTheory.Rg.Cz.PStepFormula.rot_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:07.498973+00:00
 -- url     : https://prove2.me/theorems/7fe07292-88d4-48f3-92c0-0cf8d4858eb5

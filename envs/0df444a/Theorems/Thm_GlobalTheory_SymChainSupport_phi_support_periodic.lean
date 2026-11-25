@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChainSupport_phi_support_periodic
 -- name    : GlobalTheory.SymChainSupport.phi_support_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:17:15.746782+00:00
 -- url     : https://prove2.me/theorems/50c995aa-03d5-4f59-a479-29931d9c1815

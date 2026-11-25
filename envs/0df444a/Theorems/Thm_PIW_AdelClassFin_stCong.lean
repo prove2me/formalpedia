@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_stCong
 -- name    : PIW.AdelClassFin.stCong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:48:18.465332+00:00
 -- url     : https://prove2.me/theorems/86bdf136-b3e0-4e0f-81fb-ec3d2e898ae8

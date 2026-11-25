@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_embGL_ll
 -- name    : PI.WGL.embGL_ll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:50:19.967526+00:00
 -- url     : https://prove2.me/theorems/51529acf-f3fd-4938-b507-b6460f571cc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CurryingSwaps_swap_natAdd
 -- name    : PositivityTheory.Rg.Cz.CurryingSwaps.swap_natAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:53:24.255989+00:00
 -- url     : https://prove2.me/theorems/fef83ee0-91b9-46af-88b1-90875df963d8

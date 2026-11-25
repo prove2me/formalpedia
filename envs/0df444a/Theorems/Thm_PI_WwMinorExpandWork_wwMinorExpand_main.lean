@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwMinorExpandWork_wwMinorExpand_main
 -- name    : PI.WwMinorExpandWork.wwMinorExpand_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:46:27.382158+00:00
 -- url     : https://prove2.me/theorems/07a78e51-38e6-4a4c-bb7e-d42968f12061

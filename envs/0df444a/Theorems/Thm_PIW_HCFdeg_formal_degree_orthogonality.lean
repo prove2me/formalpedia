@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_formal_degree_orthogonality
 -- name    : PIW.HCFdeg.formal_degree_orthogonality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:49:42.102592+00:00
 -- url     : https://prove2.me/theorems/ebc500be-9792-491a-b2dd-d069beec9bf5

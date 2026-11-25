@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_three_le_card_interval_supportUnion
 -- name    : F6RotationSupport.three_le_card_interval_supportUnion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:26:50.984028+00:00
 -- url     : https://prove2.me/theorems/c39ddaef-28c9-44fe-a923-d47012597bc7

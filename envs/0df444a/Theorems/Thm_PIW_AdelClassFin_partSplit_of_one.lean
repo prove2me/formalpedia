@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_partSplit_of_one
 -- name    : PIW.AdelClassFin.partSplit_of_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:58:37.815083+00:00
 -- url     : https://prove2.me/theorems/59937d85-64c2-5776-8363-02c722278777

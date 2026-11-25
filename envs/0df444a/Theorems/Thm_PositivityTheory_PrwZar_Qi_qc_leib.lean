@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PrwZar_Qi_qc_leib
 -- name    : PositivityTheory.PrwZar.Qi.qc_leib
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:51:55.933074+00:00
 -- url     : https://prove2.me/theorems/6f835143-11b3-4389-b26f-d03540a6a9ef

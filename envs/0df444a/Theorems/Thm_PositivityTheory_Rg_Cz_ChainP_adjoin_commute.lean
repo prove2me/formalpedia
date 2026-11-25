@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ChainP_adjoin_commute
 -- name    : PositivityTheory.Rg.Cz.ChainP.adjoin_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:38.569987+00:00
 -- url     : https://prove2.me/theorems/51bac5f6-4ff0-4244-b379-68f2f510c638

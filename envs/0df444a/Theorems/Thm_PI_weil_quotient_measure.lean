@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_weil_quotient_measure
 -- name    : PI.weil_quotient_measure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:07:19.57981+00:00
 -- url     : https://prove2.me/theorems/1c63f723-36e7-46c1-a681-576e8650f6df

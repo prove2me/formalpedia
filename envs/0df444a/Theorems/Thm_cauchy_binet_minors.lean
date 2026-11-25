@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_cauchy_binet_minors
 -- name    : cauchy_binet_minors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:23:42.535405+00:00
 -- url     : https://prove2.me/theorems/e2cdc5ee-f40a-44b6-9631-bcae5e54be7f

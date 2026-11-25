@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_QuantumDeterminantProducts_T_comm
 -- name    : PositivityTheory.Rg.Cz.QuantumDeterminantProducts.T_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:15.967605+00:00
 -- url     : https://prove2.me/theorems/968c35da-0832-4ac2-8997-40babc98b005

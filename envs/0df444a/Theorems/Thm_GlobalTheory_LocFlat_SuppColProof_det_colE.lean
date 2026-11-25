@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_SuppColProof_det_colE
 -- name    : GlobalTheory.LocFlat.SuppColProof.det_colE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:20:00.282691+00:00
 -- url     : https://prove2.me/theorems/8c39a709-e3aa-5805-ba3c-9682e304cda2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_finMat_patch_inv
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.finMat_patch_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:52:20.110863+00:00
 -- url     : https://prove2.me/theorems/a6b598e0-3528-5877-83f8-72d0a5e63e46

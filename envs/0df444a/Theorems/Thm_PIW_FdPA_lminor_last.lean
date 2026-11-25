@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_lminor_last
 -- name    : PIW.FdPA.lminor_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:45.257793+00:00
 -- url     : https://prove2.me/theorems/4e5242a5-d985-4de7-9d61-cb339150a02e

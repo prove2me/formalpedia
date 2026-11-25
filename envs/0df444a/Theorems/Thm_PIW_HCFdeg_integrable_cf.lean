@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_integrable_cf
 -- name    : PIW.HCFdeg.integrable_cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:49:44.897011+00:00
 -- url     : https://prove2.me/theorems/4cad6740-203a-5291-8707-7c745b7c68de

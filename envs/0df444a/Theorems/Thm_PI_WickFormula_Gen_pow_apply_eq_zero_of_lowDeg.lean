@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Gen_pow_apply_eq_zero_of_lowDeg
 -- name    : PI.WickFormula.Gen.pow_apply_eq_zero_of_lowDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:37.581785+00:00
 -- url     : https://prove2.me/theorems/e038c6d3-dc2d-43b4-a4a5-000cfed38b4a

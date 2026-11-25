@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B1_sf_zero
 -- name    : PositivityTheory.Rg.Sw.LC.B1.sf_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:56:21.838815+00:00
 -- url     : https://prove2.me/theorems/df68551a-46f1-47e6-b338-757cf9482892

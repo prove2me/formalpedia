@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WfEndProof_pairW
 -- name    : PI.WfEndProof.pairW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:44:59.650936+00:00
 -- url     : https://prove2.me/theorems/9f5cdfc0-c4c1-41e1-85cb-feaa75f407bb

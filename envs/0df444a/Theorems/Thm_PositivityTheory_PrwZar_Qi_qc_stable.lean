@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PrwZar_Qi_qc_stable
 -- name    : PositivityTheory.PrwZar.Qi.qc_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:51:56.173807+00:00
 -- url     : https://prove2.me/theorems/05bb334f-93d6-4739-a4db-ecb8de91948f

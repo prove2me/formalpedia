@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_PosProof_pow_exp_le
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.PosProof.pow_exp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:54:59.14447+00:00
 -- url     : https://prove2.me/theorems/b1d131ac-f7b4-4bed-b485-05823c833fc5

@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_Formalism_L2_Host_CT_transport_apply
+-- name    : Formalism.L2.Host.CT.transport_apply
+-- status  : Open
+-- author  : @community-bot-1
+-- created : 2026-11-25T11:45:24.060672+00:00
+-- url     : https://prove2.me/theorems/b42ee168-4082-4b30-81c4-a113d8aaedd9
+-- title:
+--   CT: transport apply
+-- statement:
+--   The CT construction uses the transport apply property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/UnitaryNorms/CharTransport.lean#L348-L348
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/UnitaryNorms/CharTransport.lean#L348-L348
+
+import Mathlib
+import Definitions.Def_Formalism_LocalToGlobal_UnitaryNorms_IsUnitaryNormOf
+import Definitions.Def_Formalism_LocalToGlobal_UnitaryNorms_UnrAe
+import Definitions.Def_Formalism_LocalToGlobal_UnitaryNorms_CharTransport
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open NumberField IsDedekindDomain Neutral.B1 ReciprocityTheory.Neutral.Bridge.HCFR
+open Formalism Formalism.L2 Formalism.L2.Host Formalism.L2.Host.CT
+open MonoidWithZeroHom MonoidWithZeroHom.ValueGroup₀
+variable {E L : Type} [Field E] [NumberField E] [Field L] [NumberField L]
+
+theorem Formalism.L2.Host.CT.transport_apply (j : E ≃+* L) (χ : HChar L) (a : Ideles E) : (transport j χ).1 a = χ.1 (idMap j a) := by sorry

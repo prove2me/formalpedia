@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_CycF_blk_unitary
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.CycF.blk_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:59:00.048404+00:00
 -- url     : https://prove2.me/theorems/c67881f0-d360-4bff-a25f-7976a89aa1c2

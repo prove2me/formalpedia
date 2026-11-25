@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_rowAct_swap_B
 -- name    : PI.WGB.rowAct_swap_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:38.213897+00:00
 -- url     : https://prove2.me/theorems/4c14cf46-c27e-471f-9182-f3aa66e63046

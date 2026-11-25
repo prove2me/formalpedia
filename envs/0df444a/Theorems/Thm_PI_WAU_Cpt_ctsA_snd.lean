@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_Cpt_ctsA_snd
 -- name    : PI.WAU.Cpt.ctsA_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:19.20245+00:00
 -- url     : https://prove2.me/theorems/b78b4b52-4085-4478-a0af-e02b9e64988f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B3_etaLe_pred
 -- name    : PositivityTheory.Rg.Sw.LC.B3.etaLe_pred
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:56:23.077522+00:00
 -- url     : https://prove2.me/theorems/7e91b1a1-4f94-4a74-91df-1912da4e703c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreC_X_pderiv_mono
 -- name    : PositivityTheory.Rg.Sw.LC.CoreC.X_pderiv_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:57:18.593086+00:00
 -- url     : https://prove2.me/theorems/6c9dbdb8-bea3-45e9-80a0-8e93841a22f1

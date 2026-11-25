@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_gs_half
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.gs_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:03:30.705185+00:00
 -- url     : https://prove2.me/theorems/5cef61b9-fde6-59f1-a8d5-d02885c60774

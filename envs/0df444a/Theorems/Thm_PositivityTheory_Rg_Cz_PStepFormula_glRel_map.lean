@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_PStepFormula_glRel_map
 -- name    : PositivityTheory.Rg.Cz.PStepFormula.glRel_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:27.809535+00:00
 -- url     : https://prove2.me/theorems/64c688bc-1cc9-4b05-a4d9-de1926c2d7d6

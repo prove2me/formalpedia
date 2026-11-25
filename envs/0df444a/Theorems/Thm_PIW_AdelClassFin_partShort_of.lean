@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_partShort_of
 -- name    : PIW.AdelClassFin.partShort_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:48:31.911803+00:00
 -- url     : https://prove2.me/theorems/e4b9b7c0-7ae6-5534-8673-91ec5f0eb608

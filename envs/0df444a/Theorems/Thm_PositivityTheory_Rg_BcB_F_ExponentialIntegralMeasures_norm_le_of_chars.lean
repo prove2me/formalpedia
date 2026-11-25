@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_ExponentialIntegralMeasures_norm_le_of_chars
 -- name    : PositivityTheory.Rg.BcB.F.ExponentialIntegralMeasures.norm_le_of_chars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:52:14.572356+00:00
 -- url     : https://prove2.me/theorems/74a29563-1105-568d-8b12-c0400c654fb6

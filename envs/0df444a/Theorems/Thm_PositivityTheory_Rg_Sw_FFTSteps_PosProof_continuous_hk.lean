@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_PosProof_continuous_hk
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.PosProof.continuous_hk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:59:36.121031+00:00
 -- url     : https://prove2.me/theorems/a9cd2adc-c2ff-5c29-9578-c6f76c67e526

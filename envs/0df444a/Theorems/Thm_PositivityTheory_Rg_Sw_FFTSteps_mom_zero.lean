@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_mom_zero
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.mom_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:49:17.599957+00:00
 -- url     : https://prove2.me/theorems/c0e0b011-40f9-44fb-bb2c-24fea83bc86b

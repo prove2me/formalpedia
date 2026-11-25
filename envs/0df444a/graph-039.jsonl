@@ -74943,8 +74943,8 @@
 {"parent": "Formalism.L2.Th1.A.Fgl1.wThird_cc", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_FormalGroupEqWSeries", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.A.Fgl1.wThird_cc", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_StatementG", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.A.Fgl1.wThird_cc", "child": "Formalism_EllipticTorsion_FormalGroupPointsNoTorsion", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabSW.rapidDecay_of_compact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibInfEx", "via": ["statement"]}
-{"parent": "PI.VolStabSW.rapidDecay_of_compact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SWeqOm", "via": ["statement"]}
+{"parent": "PI.VolStabSW.rapidDecay_of_compact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibInfEx", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.rapidDecay_of_compact", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SWeqOm", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.B1.op_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.B1.op_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PderivPowMonomial", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.A.WpSh.uPow_neg_two", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_StatementI", "via": ["solution", "statement"]}
@@ -80090,11 +80090,11 @@
 {"parent": "PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.fftSym", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_TransvectionInv", "via": ["statement"]}
 {"parent": "GlobalTheory.WeilM.ug_rel", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_HilbertNinetyQuotientHomEqIff", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WeilM.ug_rel", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_IsSplittingSplitOm", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabSW.tensAll_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensTop", "via": ["statement"]}
-{"parent": "PI.VolStabSW.tensAll_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_ExOmTOfSteps", "via": ["statement"]}
-{"parent": "PI.VolStabSW.tensAll_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibDis", "via": ["statement"]}
-{"parent": "PI.VolStabSW.tensAll_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibTop", "via": ["statement"]}
-{"parent": "PI.VolStabSW.tensAll_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensFibV", "via": ["statement"]}
+{"parent": "PI.VolStabSW.tensAll_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensTop", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.tensAll_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_ExOmTOfSteps", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.tensAll_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibDis", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.tensAll_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibTop", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.tensAll_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensFibV", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.MeasurablePartition.index_eq_iff", "child": "GroundTheory_AutomorphicForms_FinePartition", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.DiscreteGroups.cover", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibDis", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.DiscreteGroups.cover", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibGlue", "via": ["solution", "statement"]}
@@ -80354,10 +80354,10 @@
 {"parent": "GlobalTheory.CompanionTheory.SW.QuadricCount.count_mul_card", "child": "Formalism_UnipotentAdelicQuotients_SWXSDefs", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.QuadricCount.count_mul_card", "child": "Formalism_SharpRestriction_GlobalSchurBounds_GeneralLinearActions_GenusMassVolumes", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.QuadricCount.count_mul_card", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_FiniteFieldQuadraticFormPointCount", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabSW.SdDualW.dualAt_H", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdDual", "via": ["statement"]}
-{"parent": "PI.VolStabSW.SdDualW.dualAt_H", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_PosNear", "via": ["statement"]}
-{"parent": "PI.VolStabSW.SdDualW.dualAt_H", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensAll", "via": ["statement"]}
-{"parent": "PI.VolStabSW.SdDualW.dualAt_H", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdUniq", "via": ["statement"]}
+{"parent": "PI.VolStabSW.SdDualW.dualAt_H", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdDual", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.SdDualW.dualAt_H", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_PosNear", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.SdDualW.dualAt_H", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensAll", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.SdDualW.dualAt_H", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdUniq", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.fin_append_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ContinuousOnIteratedFDerivTranslate", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.fin_append_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_IteratedFDerivMulConstOf", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.theta_map_word_sum_apply", "child": "Formalism_RealPlaceAnalysis_StatementU", "via": ["solution", "statement"]}
@@ -80407,8 +80407,8 @@
 {"parent": "Kyprianou.Ch02.compensatedSmallJumpUniformLimitExistsV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.pm_one", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_HypJ", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.pm_one", "child": "Development_WeilBound_CoreStatements_ThetaDilations_ParAlg", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.co_cpt", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["statement"]}
-{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.co_cpt", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_CountData", "via": ["statement"]}
+{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.co_cpt", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.co_cpt", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_CountData", "via": ["solution", "statement"]}
 {"parent": "RobustSAA.Discrete.Supplement.theorem_12", "child": "RobustSAA_Univariate_Setting", "via": ["statement"]}
 {"parent": "RobustSAA.Discrete.Supplement.theorem_12", "child": "RobustSAA_Discrete_Supplement_UnivDual", "via": ["statement"]}
 {"parent": "RobustSAA.Discrete.Supplement.theorem_12", "child": "RobustSAA_Discrete_Supplement_UnivStat", "via": ["statement"]}
@@ -80760,8 +80760,8 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsPresentationSquareAtPointOfLocalFactorStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsPresentationSquareAtPointOfLocalFactor", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreBb.collapse", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ProdMapPowSingle", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreBb.collapse", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabSW.densApprox_lc", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensVGen", "via": ["statement"]}
-{"parent": "PI.VolStabSW.densApprox_lc", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibFour", "via": ["statement"]}
+{"parent": "PI.VolStabSW.densApprox_lc", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensVGen", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.densApprox_lc", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibFour", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.perp_perp", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.perp_perp", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_CountData", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_AinfIsDomainMuNeZero", "child": "Development_AbelianVarietyTheory_BlockTheory_DivisorBase_SandwichMaps", "via": ["statement"]}
@@ -81043,10 +81043,10 @@
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreC.G.gf_adj", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreC.G.gf_adj", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_BfSmulRight", "via": ["statement"]}
 {"parent": "RobustAgentsCausal.causal_model_identifies_policies", "child": "RobustAgentsCausal_Basic", "via": ["statement"]}
-{"parent": "PI.VolStabSW.dualLatV_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdDual", "via": ["statement"]}
-{"parent": "PI.VolStabSW.dualLatV_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_PosNear", "via": ["statement"]}
-{"parent": "PI.VolStabSW.dualLatV_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensAll", "via": ["statement"]}
-{"parent": "PI.VolStabSW.dualLatV_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdUniq", "via": ["statement"]}
+{"parent": "PI.VolStabSW.dualLatV_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdDual", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.dualLatV_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_PosNear", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.dualLatV_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensAll", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.dualLatV_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdUniq", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.TC.iterAffine", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_TCCalc", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.TC.iterAffine", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_TopCompS", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Ker.CreOp.contDiff_holD", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_FoldrHolDEqIteratedFDeriv", "via": ["solution", "statement"]}
@@ -81485,9 +81485,9 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsInvariantDerivationsQuotientBialgebra", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsInvariantDerivationOfCounitalComul", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.hsNormSq_comp_left_le", "child": "GroundTheory_AutomorphicForms_HilbertSchmidt", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Anisotropic.coords_baseMap", "child": "GroundTheory_AutomorphicForms_AnisotropicRestrict", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabS.isOpen_isUnit_det", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_T2SpaceTensorProductFiniteExtension", "via": ["statement"]}
-{"parent": "PI.VolStabS.isOpen_isUnit_det", "child": "Formalism_PeriodIntegrals_VolFromSW", "via": ["statement"]}
-{"parent": "PI.VolStabS.isOpen_isUnit_det", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerVolume_TensTop", "via": ["statement"]}
+{"parent": "PI.VolStabS.isOpen_isUnit_det", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_T2SpaceTensorProductFiniteExtension", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabS.isOpen_isUnit_det", "child": "Formalism_PeriodIntegrals_VolFromSW", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabS.isOpen_isUnit_det", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerVolume_TensTop", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.impl_fou_chiB", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["statement"]}
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.impl_fou_chiB", "child": "Development_WeilBound_CoreStatements_ThetaDilations_SqPosOfNe", "via": ["statement"]}
 {"parent": "PI.VolStabSW.TensAllW.isOpen_linIndep", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibOfTens", "via": ["statement"]}
@@ -81616,10 +81616,10 @@
 {"parent": "PositivityTheory.Rg.Sw.LVs.rit_contDiffOn", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ScalarSectionCompactBlockInvariant", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.rit_contDiffOn", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_IteratedFderivRightTranslation", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.rit_contDiffOn", "child": "ReciprocityTheory_L2DbarEstimates_PlurisubharmonicCharts_ZeroDimA", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabSW.SdDualW.dualAt_alt", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdDual", "via": ["statement"]}
-{"parent": "PI.VolStabSW.SdDualW.dualAt_alt", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_PosNear", "via": ["statement"]}
-{"parent": "PI.VolStabSW.SdDualW.dualAt_alt", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensAll", "via": ["statement"]}
-{"parent": "PI.VolStabSW.SdDualW.dualAt_alt", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdUniq", "via": ["statement"]}
+{"parent": "PI.VolStabSW.SdDualW.dualAt_alt", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdDual", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.SdDualW.dualAt_alt", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_PosNear", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.SdDualW.dualAt_alt", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensAll", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.SdDualW.dualAt_alt", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdUniq", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.HarishChandra.span_canon_eq_top", "child": "GroundTheory_AutomorphicForms_HarishChandraCentre_MemOfMemSupportToFinsupp", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.HarishChandra.span_canon_eq_top", "child": "GroundTheory_AutomorphicForms_HarishChandraCentre_MemCenterOfCommuteE", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.sb_homeo", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["solution", "statement"]}
@@ -83625,9 +83625,9 @@
 {"parent": "RH1E6S17.group_006", "child": "ArdaRS_DyadicOps", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.foldr_supp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBTwist", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.foldr_supp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_Lagr", "via": ["statement"]}
-{"parent": "PI.VolStabSW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensVolA", "via": ["statement"]}
-{"parent": "PI.VolStabSW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdDual", "via": ["statement"]}
-{"parent": "PI.VolStabSW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensVolB", "via": ["statement"]}
+{"parent": "PI.VolStabSW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensVolA", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdDual", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensVolB", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.G8.quad_form_takagi", "child": "Formalism_HermitianCurvature_StatementG", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.G8.quad_form_takagi", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_UnitaryInvariantGaussian", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.K.GB.eqOn_cpart", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBLink", "via": ["solution", "statement"]}

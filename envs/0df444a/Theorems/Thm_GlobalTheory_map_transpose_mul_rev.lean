@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_transpose_mul_rev
 -- name    : GlobalTheory.map_transpose_mul_rev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:28:36.98665+00:00
 -- url     : https://prove2.me/theorems/170a9682-b25f-4715-a8ac-24e200c63e86

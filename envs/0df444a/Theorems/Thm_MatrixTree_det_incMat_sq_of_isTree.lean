@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_det_incMat_sq_of_isTree
 -- name    : MatrixTree.det_incMat_sq_of_isTree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:06:52.851794+00:00
 -- url     : https://prove2.me/theorems/c61d21db-b3f2-4e7d-aed6-f85f060a89a7

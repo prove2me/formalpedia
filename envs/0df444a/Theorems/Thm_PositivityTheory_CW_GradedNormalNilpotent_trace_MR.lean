@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_GradedNormalNilpotent_trace_MR
 -- name    : PositivityTheory.CW.GradedNormalNilpotent.trace_MR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:50:22.292339+00:00
 -- url     : https://prove2.me/theorems/a0c4e964-0f3d-5067-92d3-34f62e9fe420

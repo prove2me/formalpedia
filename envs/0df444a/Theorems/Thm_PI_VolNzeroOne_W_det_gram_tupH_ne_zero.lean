@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolNzeroOne_W_det_gram_tupH_ne_zero
 -- name    : PI.VolNzeroOne.W.det_gram_tupH_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:26.667677+00:00
 -- url     : https://prove2.me/theorems/8767b5b6-72ab-44d4-b354-5b56365b99f4

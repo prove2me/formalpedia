@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_coeff_fockAct1_diag
 -- name    : PI.WFJM.coeff_fockAct1_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:11.559507+00:00
 -- url     : https://prove2.me/theorems/9ea95cb6-e58d-4f00-8158-9b5de7b6ad06

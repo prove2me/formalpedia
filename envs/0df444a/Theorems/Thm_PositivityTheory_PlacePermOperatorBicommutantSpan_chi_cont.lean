@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PlacePermOperatorBicommutantSpan_chi_cont
 -- name    : PositivityTheory.PlacePermOperatorBicommutantSpan.chi_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:51:46.114687+00:00
 -- url     : https://prove2.me/theorems/8c761250-032d-425d-bd13-6b6c2d69883e

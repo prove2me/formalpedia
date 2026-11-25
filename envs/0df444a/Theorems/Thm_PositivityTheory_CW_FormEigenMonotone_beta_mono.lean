@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_FormEigenMonotone_beta_mono
 -- name    : PositivityTheory.CW.FormEigenMonotone.beta_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:50:17.966768+00:00
 -- url     : https://prove2.me/theorems/3e44a2de-d440-4a76-bc98-126267db9aaa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_CompactGroupFacts_entry_le
 -- name    : PositivityTheory.CW.CompactGroupFacts.entry_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:50:23.059952+00:00
 -- url     : https://prove2.me/theorems/fbd597db-fe46-42b4-9011-3399280c0445

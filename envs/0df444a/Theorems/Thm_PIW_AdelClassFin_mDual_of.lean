@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_mDual_of
 -- name    : PIW.AdelClassFin.mDual_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:47:36.346802+00:00
 -- url     : https://prove2.me/theorems/60008a97-e802-493e-a57c-880076a30227

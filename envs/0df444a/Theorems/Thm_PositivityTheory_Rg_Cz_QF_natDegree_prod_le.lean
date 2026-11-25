@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_QF_natDegree_prod_le
 -- name    : PositivityTheory.Rg.Cz.QF.natDegree_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:20.861717+00:00
 -- url     : https://prove2.me/theorems/6907fe8a-ff94-4403-a834-2f3000266beb

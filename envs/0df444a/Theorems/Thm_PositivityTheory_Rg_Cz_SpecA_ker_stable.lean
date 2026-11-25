@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SpecA_ker_stable
 -- name    : PositivityTheory.Rg.Cz.SpecA.ker_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:53:47.250905+00:00
 -- url     : https://prove2.me/theorems/14d3b244-a1a7-4078-8c1d-d9b87c0b9501

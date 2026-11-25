@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_PLsAbs2_exists_ne_zero_of_iSup
 -- name    : PositivityTheory.Rg.Rs.PLsAbs2.exists_ne_zero_of_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:54:28.364724+00:00
 -- url     : https://prove2.me/theorems/d1cac057-1880-5217-ac57-76cac2d18491

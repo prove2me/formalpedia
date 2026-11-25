@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ClassFinD_Icf_approx
 -- name    : PIW.ClassFinD.Icf.approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:50.773046+00:00
 -- url     : https://prove2.me/theorems/2d5e7578-b63d-4cb3-9385-af55a18642b5

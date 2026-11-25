@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_count_same
 -- name    : PositivityTheory.Rg.Cz.count_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:48:42.082365+00:00
 -- url     : https://prove2.me/theorems/0f3c7302-dca1-4f83-83bf-68b542152138

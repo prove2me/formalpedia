@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VacEntire_UnitaryGroupMassFormula_iopEntire
 -- name    : PI.VacEntire.UnitaryGroupMassFormula.iopEntire
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:41:30.704771+00:00
 -- url     : https://prove2.me/theorems/400f4bb8-5193-4710-b30d-accfca15cf1b

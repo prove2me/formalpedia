@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B3_eq_zero_of_le_gt
 -- name    : PositivityTheory.Rg.Sw.LC.B3.eq_zero_of_le_gt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:54:19.227647+00:00
 -- url     : https://prove2.me/theorems/5d1ae759-1f5a-461f-b6e7-a1dddfdb5d61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_bumpEx
 -- name    : PositivityTheory.Rg.BcB.E1.bumpEx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:58:58.252237+00:00
 -- url     : https://prove2.me/theorems/32ee9f12-b3c4-40b3-8973-7146b8f41b59

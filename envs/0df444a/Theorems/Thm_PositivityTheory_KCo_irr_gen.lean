@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KCo_irr_gen
 -- name    : PositivityTheory.KCo.irr_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:51:59.100905+00:00
 -- url     : https://prove2.me/theorems/6779cabd-0b1c-5184-aa8b-e6277d78f4c4

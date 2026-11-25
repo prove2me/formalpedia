@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_basis_sum_of_orthogonality
 -- name    : PositivityTheory.CW.basis_sum_of_orthogonality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:51:01.601887+00:00
 -- url     : https://prove2.me/theorems/2b869d92-0c8e-4b49-8113-cda07fc106fa

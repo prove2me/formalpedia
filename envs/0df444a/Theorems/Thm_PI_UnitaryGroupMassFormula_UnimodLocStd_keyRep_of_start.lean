@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_keyRep_of_start
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.keyRep_of_start
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:34:30.626515+00:00
 -- url     : https://prove2.me/theorems/3f708129-cfb4-47e4-8eaf-32ace096a720

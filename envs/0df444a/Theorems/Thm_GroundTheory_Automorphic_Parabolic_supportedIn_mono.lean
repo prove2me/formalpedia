@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_supportedIn_mono
 -- name    : GroundTheory.Automorphic.Parabolic.supportedIn_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:24:10.547635+00:00
 -- url     : https://prove2.me/theorems/fb5dd3f1-c567-4bf6-8808-4ed1188468ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PClassAlg_eq_fromBlocks
 -- name    : GlobalTheory.PClassAlg.eq_fromBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:09:29.257518+00:00
 -- url     : https://prove2.me/theorems/2dd96e63-6885-5937-a4fa-30b3dc231f07

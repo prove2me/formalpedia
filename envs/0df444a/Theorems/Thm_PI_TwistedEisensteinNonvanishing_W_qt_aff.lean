@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_qt_aff
 -- name    : PI.TwistedEisensteinNonvanishing.W.qt_aff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:42:08.93962+00:00
 -- url     : https://prove2.me/theorems/250953be-8199-4556-9066-b54e1482d620

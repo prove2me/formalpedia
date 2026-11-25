@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_elementary_generator_adjoint
 -- name    : PI.QnHermHaar.elementary_generator_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:40:04.950859+00:00
 -- url     : https://prove2.me/theorems/5c7b70f8-6b7c-4717-81b8-d40cdcea17f8

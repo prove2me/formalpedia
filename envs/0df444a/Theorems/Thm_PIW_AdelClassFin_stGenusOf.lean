@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_stGenusOf
 -- name    : PIW.AdelClassFin.stGenusOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:48:35.01577+00:00
 -- url     : https://prove2.me/theorems/9da9da20-649c-41e3-9fc5-edd35a6c00cb

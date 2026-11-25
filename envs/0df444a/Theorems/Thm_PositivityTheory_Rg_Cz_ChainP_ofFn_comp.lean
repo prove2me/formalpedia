@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ChainP_ofFn_comp
 -- name    : PositivityTheory.Rg.Cz.ChainP.ofFn_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:23.87473+00:00
 -- url     : https://prove2.me/theorems/1d0c8599-1d8b-4b2e-8b97-9a4297b6b6f2

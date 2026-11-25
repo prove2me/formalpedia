@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_uC_lev
 -- name    : PIQnLT.uC_lev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:00:21.90907+00:00
 -- url     : https://prove2.me/theorems/aa8058bb-1589-480e-848b-d08e404c53e4

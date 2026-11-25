@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TGK_prod_one_apply
 -- name    : PositivityTheory.Rg.Cz.TGK.prod_one_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:54:01.428749+00:00
 -- url     : https://prove2.me/theorems/293cec3d-4421-41bc-96a5-4d1aabc8a164

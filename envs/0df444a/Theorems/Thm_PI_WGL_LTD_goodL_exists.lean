@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTD_goodL_exists
 -- name    : PI.WGL.LTD.goodL_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:46:04.104189+00:00
 -- url     : https://prove2.me/theorems/191feabd-2975-584b-96dd-841bf1cfddf8

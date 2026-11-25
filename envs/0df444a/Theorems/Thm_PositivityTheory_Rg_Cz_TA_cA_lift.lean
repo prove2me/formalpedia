@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TA_cA_lift
 -- name    : PositivityTheory.Rg.Cz.TA.cA_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:53:22.906439+00:00
 -- url     : https://prove2.me/theorems/f287e90a-96d5-55cb-8f97-d4c7f2f445ea

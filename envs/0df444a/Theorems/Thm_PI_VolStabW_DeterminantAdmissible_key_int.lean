@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_key_int
 -- name    : PI.VolStabW.DeterminantAdmissible.key_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:44:18.815299+00:00
 -- url     : https://prove2.me/theorems/76495516-1eb1-4f7e-b46f-57013303d05e

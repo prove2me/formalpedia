@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_detSplit_prodMem
 -- name    : PI.WMI.detSplit_prodMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:48.231385+00:00
 -- url     : https://prove2.me/theorems/459da6df-52e7-47bf-8f65-aade5bafa5cd

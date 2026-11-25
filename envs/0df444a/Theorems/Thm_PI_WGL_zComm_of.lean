@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_zComm_of
 -- name    : PI.WGL.zComm_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:46:46.448357+00:00
 -- url     : https://prove2.me/theorems/8dfda4cc-d07e-47d7-aa9b-869cff57e6b4

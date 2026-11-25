@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_lowerInv_inner_pres
 -- name    : PI.WMI.lowerInv_inner_pres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:00.267585+00:00
 -- url     : https://prove2.me/theorems/db13349a-42b9-43ac-aab5-1068a5db6c7f

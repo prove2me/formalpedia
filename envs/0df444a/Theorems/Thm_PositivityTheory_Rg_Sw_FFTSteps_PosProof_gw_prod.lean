@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_PosProof_gw_prod
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.PosProof.gw_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:54:55.344698+00:00
 -- url     : https://prove2.me/theorems/1981f871-501b-447c-8bb3-f4bb68083177

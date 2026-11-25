@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Specmeas_ofR_eq_re
 -- name    : PositivityTheory.Rg.BcB.E2.P.Specmeas.ofR_eq_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:51:53.970805+00:00
 -- url     : https://prove2.me/theorems/f769e46d-6dc1-50d8-8fe0-3bc685162a84

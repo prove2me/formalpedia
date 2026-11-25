@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_sphAll_of
 -- name    : PositivityTheory.Rg.Cz.sphAll_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:57:06.558655+00:00
 -- url     : https://prove2.me/theorems/f817a7e0-d550-5545-9ba6-9ba780a7da69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_HtPt_KtwS_exists_restrict_pow
 -- name    : PositivityTheory.HtPt.KtwS.exists_restrict_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:51:56.769403+00:00
 -- url     : https://prove2.me/theorems/e9c7d7a7-a8c3-4066-a032-371b9c8e8cf2

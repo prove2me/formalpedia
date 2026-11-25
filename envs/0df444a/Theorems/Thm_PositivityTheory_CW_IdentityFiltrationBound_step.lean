@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_IdentityFiltrationBound_step
 -- name    : PositivityTheory.CW.IdentityFiltrationBound.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:32.184199+00:00
 -- url     : https://prove2.me/theorems/71693cea-35a1-5d48-992d-d7c5e7ed8320

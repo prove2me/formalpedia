@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_VolAAW_ev_triv
 -- name    : PI.VolStabW.VolAAW.ev_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:46:28.988802+00:00
 -- url     : https://prove2.me/theorems/6258fc3d-fdc7-43b8-9408-b4a4fc540884

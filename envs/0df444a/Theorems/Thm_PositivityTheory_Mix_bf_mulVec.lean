@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mix_bf_mulVec
 -- name    : PositivityTheory.Mix.bf_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:52:05.658654+00:00
 -- url     : https://prove2.me/theorems/448361d2-8265-44c8-9cba-5e093c8f42fb

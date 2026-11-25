@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_permuteGL_apply
 -- name    : GroundTheory.Automorphic.Parabolic.permuteGL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:22:21.193892+00:00
 -- url     : https://prove2.me/theorems/ab2c62ff-177f-4df8-aa1b-552b0001ff42

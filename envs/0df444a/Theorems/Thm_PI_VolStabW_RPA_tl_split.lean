@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RPA_tl_split
 -- name    : PI.VolStabW.RPA.tl_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:52:56.903594+00:00
 -- url     : https://prove2.me/theorems/e43cf144-eb11-41b9-8211-25b7b04556ea

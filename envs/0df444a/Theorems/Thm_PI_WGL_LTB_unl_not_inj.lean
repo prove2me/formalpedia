@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTB_unl_not_inj
 -- name    : PI.WGL.LTB.unl_not_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:43:17.460829+00:00
 -- url     : https://prove2.me/theorems/2b26f64a-c640-56b5-8f03-b2cb92d16291

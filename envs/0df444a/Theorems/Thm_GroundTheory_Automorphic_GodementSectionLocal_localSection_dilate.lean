@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_localSection_dilate
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.localSection_dilate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:39:28.673431+00:00
 -- url     : https://prove2.me/theorems/95821c07-8baa-5c10-940b-f6194efbac77

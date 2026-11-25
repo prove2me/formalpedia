@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Loc_LocFrame_orth_zero
 -- name    : PI.ScPiBuildW.Loc.LocFrame.orth_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:37:36.220212+00:00
 -- url     : https://prove2.me/theorems/0fbf580b-a6f5-4509-ab2f-4aa85a80faae

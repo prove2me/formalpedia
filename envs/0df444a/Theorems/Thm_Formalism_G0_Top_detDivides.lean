@@ -1,0 +1,50 @@
+-- Prove2me | Theorems.Thm_Formalism_G0_Top_detDivides
+-- name    : Formalism.G0.Top.detDivides
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-25T11:40:27.008909+00:00
+-- url     : https://prove2.me/theorems/05064f08-6834-417b-8608-f94745b7790a
+-- title:
+--   Top: det Divides
+-- statement:
+--   The Top construction uses the det Divides property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SubspaceCounting/ChoiceOfTopsRefined.lean#L58-L58
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SubspaceCounting/ChoiceOfTopsRefined.lean#L58-L58
+
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_AllButLESmith
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_ChoiceOfTops
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_LengthLayers
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_ManyOrbits
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_QVandermonde
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TopsChoicePartA
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TopsChoicePartB
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TopsChoicePartC
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TopsChoiceCount
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_SaturatedMember
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_SubspaceCount
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TailConcavity
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TailSums
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TypeIIDown
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TypeIIUp
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_WalkSharp
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_ManyOrbitsRefined
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_ChoiceOfTopsRefined
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_MarkedRun
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_DetDivides
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_DetVal
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_DetQuotVal
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_CramerCofactor
+import Definitions.Def_Formalism_SubspaceCounting_ChoiceOfTopsRefined
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.G0 Formalism.G0.Top
+
+theorem Formalism.G0.Top.detDivides : Formalism.G0.DetDivides := by sorry

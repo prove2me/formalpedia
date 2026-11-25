@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_filtX_succ_le
 -- name    : PositivityTheory.KReal.filtX_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:51:05.178023+00:00
 -- url     : https://prove2.me/theorems/e07e46f6-bdef-57de-bb2d-1ff85b2e3833

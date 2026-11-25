@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_eq_zero_of_mul_pow
 -- name    : GroundTheory.PAdicHodge.TeichLift.eq_zero_of_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:26:16.384155+00:00
 -- url     : https://prove2.me/theorems/a099f0c5-2994-5850-84a4-e22707e8b84b

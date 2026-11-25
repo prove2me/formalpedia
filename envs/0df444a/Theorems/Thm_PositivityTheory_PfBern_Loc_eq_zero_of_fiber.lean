@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Loc_eq_zero_of_fiber
 -- name    : PositivityTheory.PfBern.Loc.eq_zero_of_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:52:20.115795+00:00
 -- url     : https://prove2.me/theorems/658a9d52-e4c1-58bb-ac56-f4e61d0b252c

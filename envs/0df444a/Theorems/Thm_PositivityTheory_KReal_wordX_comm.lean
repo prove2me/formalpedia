@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_wordX_comm
 -- name    : PositivityTheory.KReal.wordX_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:51:22.907537+00:00
 -- url     : https://prove2.me/theorems/f9b70e40-d0f0-46a1-a9af-704cc49a4a1f

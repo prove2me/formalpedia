@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_evX_ell
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.evX_ell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:54:50.707533+00:00
 -- url     : https://prove2.me/theorems/89a1051c-d29d-4860-96b0-9818862f94a7

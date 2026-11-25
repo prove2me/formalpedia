@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Spec_ae_zero
 -- name    : PositivityTheory.Rg.BcB.E2.P.Spec.ae_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:51:58.85249+00:00
 -- url     : https://prove2.me/theorems/700e5140-6706-5465-b21a-6898be8450ed

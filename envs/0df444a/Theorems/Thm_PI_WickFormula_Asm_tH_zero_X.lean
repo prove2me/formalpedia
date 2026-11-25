@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Asm_tH_zero_X
 -- name    : PI.WickFormula.Asm.tH_zero_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:44:31.942832+00:00
 -- url     : https://prove2.me/theorems/8b625479-c3df-4697-9aaa-a010d680c68a

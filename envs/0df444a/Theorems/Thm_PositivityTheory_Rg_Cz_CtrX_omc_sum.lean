@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CtrX_omc_sum
 -- name    : PositivityTheory.Rg.Cz.CtrX.omc_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:53:51.852238+00:00
 -- url     : https://prove2.me/theorems/9e936511-b3ab-57b3-bd20-8aea148ce6e0

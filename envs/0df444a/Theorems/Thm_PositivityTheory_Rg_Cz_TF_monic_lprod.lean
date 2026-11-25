@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TF_monic_lprod
 -- name    : PositivityTheory.Rg.Cz.TF.monic_lprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:59:02.731784+00:00
 -- url     : https://prove2.me/theorems/5cdcf655-0421-4984-8ec6-97ba3b5f37b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelicOrbitU_glue_mul
 -- name    : PIW.AdelicOrbitU.glue_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:44.500799+00:00
 -- url     : https://prove2.me/theorems/7dce7ee7-8f3e-40d1-a6ba-ca1b73faef5d

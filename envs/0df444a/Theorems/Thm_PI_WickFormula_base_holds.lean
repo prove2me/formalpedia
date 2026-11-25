@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_base_holds
 -- name    : PI.WickFormula.base_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:06.298969+00:00
 -- url     : https://prove2.me/theorems/b3f82402-4193-4d06-8132-9bd6899cf7f8

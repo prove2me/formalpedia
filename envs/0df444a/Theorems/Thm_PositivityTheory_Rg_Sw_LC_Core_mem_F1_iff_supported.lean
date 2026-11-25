@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Core_mem_F1_iff_supported
 -- name    : PositivityTheory.Rg.Sw.LC.Core.mem_F1_iff_supported
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:54:56.867863+00:00
 -- url     : https://prove2.me/theorems/33b93fd0-88d8-5c9c-91fb-e3451f064add

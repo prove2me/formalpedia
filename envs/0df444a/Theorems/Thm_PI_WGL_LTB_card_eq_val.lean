@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTB_card_eq_val
 -- name    : PI.WGL.LTB.card_eq_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:47:41.581351+00:00
 -- url     : https://prove2.me/theorems/ba1661c4-7e08-4e80-842d-ac54bbeb6276

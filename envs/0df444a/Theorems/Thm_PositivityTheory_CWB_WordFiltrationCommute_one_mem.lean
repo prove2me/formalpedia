@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_WordFiltrationCommute_one_mem
 -- name    : PositivityTheory.CWB.WordFiltrationCommute.one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:51:25.618294+00:00
 -- url     : https://prove2.me/theorems/388b075f-8ba3-4ee3-a6bf-2ae7a49d43c8

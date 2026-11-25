@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_Coch_sum_sum_prod
 -- name    : PositivityTheory.Rg.Cz.Coch.sum_sum_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:28.267942+00:00
 -- url     : https://prove2.me/theorems/c649058d-298e-41eb-a3cc-8ce951778b46

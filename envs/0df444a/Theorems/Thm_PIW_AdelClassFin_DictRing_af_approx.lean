@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictRing_af_approx
 -- name    : PIW.AdelClassFin.DictRing.af_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:29:45.677519+00:00
 -- url     : https://prove2.me/theorems/f31ab326-e98a-43ec-9d92-7bb7e4eebd58

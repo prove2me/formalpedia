@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TGK_Aop_mul_mAt
 -- name    : PositivityTheory.Rg.Cz.TGK.Aop_mul_mAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:58:21.47523+00:00
 -- url     : https://prove2.me/theorems/243b27b4-f55a-53e6-b1b2-201691bd9ede

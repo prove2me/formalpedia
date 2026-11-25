@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_WQ_glRel_map
 -- name    : PositivityTheory.Rg.Cz.WQ.glRel_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:57.495722+00:00
 -- url     : https://prove2.me/theorems/94133cd3-b7c2-4b0d-b888-ebbb979c23e3

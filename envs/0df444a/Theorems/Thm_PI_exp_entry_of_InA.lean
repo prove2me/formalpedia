@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_exp_entry_of_InA
 -- name    : PI.exp_entry_of_InA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:25.535947+00:00
 -- url     : https://prove2.me/theorems/95524014-2bc3-58bc-b3d1-350b6b9359b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_CG_update_psa_ne
 -- name    : PositivityTheory.Rg.BcB.CG.update_psa_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:52:00.917975+00:00
 -- url     : https://prove2.me/theorems/6529ff79-387b-55f7-8e6b-eed7207ddc1e

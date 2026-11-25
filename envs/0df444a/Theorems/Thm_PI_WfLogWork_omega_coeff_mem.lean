@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WfLogWork_omega_coeff_mem
 -- name    : PI.WfLogWork.omega_coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:05:05.624014+00:00
 -- url     : https://prove2.me/theorems/dccf5f43-d1a3-5072-9301-fc1633b7d086

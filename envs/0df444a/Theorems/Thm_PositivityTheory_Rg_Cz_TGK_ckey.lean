@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TGK_ckey
 -- name    : PositivityTheory.Rg.Cz.TGK.ckey
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:54:44.641797+00:00
 -- url     : https://prove2.me/theorems/a632f20b-cecf-557e-8269-3913c2d09301

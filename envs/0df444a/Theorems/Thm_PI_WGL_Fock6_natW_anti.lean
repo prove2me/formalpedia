@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Fock6_natW_anti
 -- name    : PI.WGL.Fock6.natW_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:41.172795+00:00
 -- url     : https://prove2.me/theorems/e4573b17-f1ab-4c48-85c8-af2e72abf5f1

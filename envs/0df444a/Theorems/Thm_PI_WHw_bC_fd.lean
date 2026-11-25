@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WHw_bC_fd
 -- name    : PI.WHw.bC_fd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:19.077802+00:00
 -- url     : https://prove2.me/theorems/39ea15fc-3e97-4c30-b48a-a987f4876c35

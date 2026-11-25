@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_sphere_facts
 -- name    : PI.ZW.sphere_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:46:48.89901+00:00
 -- url     : https://prove2.me/theorems/b837d50d-e2ef-4e35-b6a7-b77c84892e58

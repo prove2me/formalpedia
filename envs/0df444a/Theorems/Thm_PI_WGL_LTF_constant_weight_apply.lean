@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTF_constant_weight_apply
 -- name    : PI.WGL.LTF.constant_weight_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:49:52.343463+00:00
 -- url     : https://prove2.me/theorems/1b4d9735-6ec8-46eb-92e5-85f737633726

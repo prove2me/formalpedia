@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_secondCountable_Fv
 -- name    : PI.VolStabW.secondCountable_Fv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:11:06.873592+00:00
 -- url     : https://prove2.me/theorems/124b995c-551e-4239-acac-24652b45f294

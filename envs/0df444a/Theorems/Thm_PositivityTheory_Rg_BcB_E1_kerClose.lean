@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_kerClose
 -- name    : PositivityTheory.Rg.BcB.E1.kerClose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:03:50.866911+00:00
 -- url     : https://prove2.me/theorems/a16cd0ec-6f20-47a5-8d6a-30698875b8c0
