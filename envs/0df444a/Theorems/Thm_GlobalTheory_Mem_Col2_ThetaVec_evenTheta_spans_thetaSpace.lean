@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Col2_ThetaVec_evenTheta_spans_thetaSpace
 -- name    : GlobalTheory.Mem.Col2.ThetaVec.evenTheta_spans_thetaSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:32:37.564855+00:00
 -- url     : https://prove2.me/theorems/9fb204ab-aaad-4417-9329-bfea6332f0c3

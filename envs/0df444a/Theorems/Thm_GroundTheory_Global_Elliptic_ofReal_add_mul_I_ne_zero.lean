@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_ofReal_add_mul_I_ne_zero
 -- name    : GroundTheory.Global.Elliptic.ofReal_add_mul_I_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:38:37.058268+00:00
 -- url     : https://prove2.me/theorems/675c71b2-8505-4e6c-b920-86715766090a

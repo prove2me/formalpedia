@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_mem_laurentSubalgebra_iff
 -- name    : GroundTheory.Automorphic.GodementJacquet.mem_laurentSubalgebra_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:10:43.692503+00:00
 -- url     : https://prove2.me/theorems/2c80f421-3d34-461e-9712-d78cd6031a5b

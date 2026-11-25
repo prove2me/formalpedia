@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_exists_ellQ_mul_ne_zero
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.exists_ellQ_mul_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:13.810925+00:00
 -- url     : https://prove2.me/theorems/abc3abc7-e013-4139-871d-13cac6bf72db

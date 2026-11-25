@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_CrossedProduct_finrank_left
 -- name    : GroundTheory.Brauer.CrossedProduct.finrank_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:37:15.615061+00:00
 -- url     : https://prove2.me/theorems/8126707a-3e82-4132-9778-0a33750e6de8

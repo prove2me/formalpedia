@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_rowOp_comm_self
 -- name    : GroundTheory.Automorphic.HarishChandra.rowOp_comm_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:32:14.579116+00:00
 -- url     : https://prove2.me/theorems/c64ab3f5-2c0f-444d-b913-5db759e746b0

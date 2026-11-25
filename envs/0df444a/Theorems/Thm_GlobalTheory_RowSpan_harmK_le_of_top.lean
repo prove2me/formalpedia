@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_harmK_le_of_top
 -- name    : GlobalTheory.RowSpan.harmK_le_of_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:32:16.087478+00:00
 -- url     : https://prove2.me/theorems/6efd1daf-188b-4f4a-b24b-ba1d3d41547e

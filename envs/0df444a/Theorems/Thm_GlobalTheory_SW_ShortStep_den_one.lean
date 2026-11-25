@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ShortStep_den_one
 -- name    : GlobalTheory.SW.ShortStep.den_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:54:49.250564+00:00
 -- url     : https://prove2.me/theorems/4646853d-9f49-46b3-acc1-603fd69f71f8

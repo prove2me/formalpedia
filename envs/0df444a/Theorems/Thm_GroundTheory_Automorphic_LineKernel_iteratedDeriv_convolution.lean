@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_iteratedDeriv_convolution
 -- name    : GroundTheory.Automorphic.LineKernel.iteratedDeriv_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:32:03.588613+00:00
 -- url     : https://prove2.me/theorems/5582b7a1-c47d-48cc-8ec3-71d60920c76e

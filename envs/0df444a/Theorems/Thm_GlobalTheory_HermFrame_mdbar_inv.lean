@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_mdbar_inv
 -- name    : GlobalTheory.HermFrame.mdbar_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:38:05.918444+00:00
 -- url     : https://prove2.me/theorems/720a4d40-42df-408a-85c6-6d9c2f58bc88

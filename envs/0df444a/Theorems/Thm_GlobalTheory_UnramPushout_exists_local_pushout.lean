@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramPushout_exists_local_pushout
 -- name    : GlobalTheory.UnramPushout.exists_local_pushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:47:06.631817+00:00
 -- url     : https://prove2.me/theorems/78869264-6a0a-4108-b840-81c084f0fc87

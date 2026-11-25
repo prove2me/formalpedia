@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_degree_rowOp_term
 -- name    : GroundTheory.Automorphic.HarishChandra.degree_rowOp_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:58.002152+00:00
 -- url     : https://prove2.me/theorems/b3f6f2ed-d8b5-455c-b4ba-544bd9d565ac

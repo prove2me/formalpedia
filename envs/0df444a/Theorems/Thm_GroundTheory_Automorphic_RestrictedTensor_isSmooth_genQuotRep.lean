@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_isSmooth_genQuotRep
 -- name    : GroundTheory.Automorphic.RestrictedTensor.isSmooth_genQuotRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:33:39.215447+00:00
 -- url     : https://prove2.me/theorems/f5463942-6332-48bd-8a6a-39dd85d78937

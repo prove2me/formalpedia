@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_toSesq_quasiReflection
 -- name    : GroundTheory.Automorphic.HermitianForm.toSesq_quasiReflection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:31:47.065522+00:00
 -- url     : https://prove2.me/theorems/e63ae78d-c5f1-4145-a2de-645eb26078e4

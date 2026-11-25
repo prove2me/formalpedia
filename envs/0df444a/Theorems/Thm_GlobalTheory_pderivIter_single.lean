@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pderivIter_single
 -- name    : GlobalTheory.pderivIter_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:14:41.639783+00:00
 -- url     : https://prove2.me/theorems/07563aec-af16-4ad6-95a6-296e598e2b2f

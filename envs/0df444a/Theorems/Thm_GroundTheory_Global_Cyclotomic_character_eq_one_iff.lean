@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_character_eq_one_iff
 -- name    : GroundTheory.Global.Cyclotomic.character_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:36:23.609793+00:00
 -- url     : https://prove2.me/theorems/18b6c92f-3fbc-4083-b2e3-614b95078ee2

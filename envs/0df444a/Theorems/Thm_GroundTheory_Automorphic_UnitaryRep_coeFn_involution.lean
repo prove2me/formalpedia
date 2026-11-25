@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_coeFn_involution
 -- name    : GroundTheory.Automorphic.UnitaryRep.coeFn_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:34:10.147928+00:00
 -- url     : https://prove2.me/theorems/3b7791b1-2e06-442d-817e-d7dca6290793

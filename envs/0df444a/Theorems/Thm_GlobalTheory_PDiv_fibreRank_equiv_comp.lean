@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_fibreRank_equiv_comp
 -- name    : GlobalTheory.PDiv.fibreRank_equiv_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:49:07.983479+00:00
 -- url     : https://prove2.me/theorems/c120b1c1-151d-4e26-9e6b-6cb6fe08be3b

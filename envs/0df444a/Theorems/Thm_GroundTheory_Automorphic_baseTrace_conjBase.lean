@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_baseTrace_conjBase
 -- name    : GroundTheory.Automorphic.baseTrace_conjBase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:35:33.66967+00:00
 -- url     : https://prove2.me/theorems/e5ca6dc2-84fa-4412-9328-5cceb65d4595

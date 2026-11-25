@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_pow_le_factorial_div_mul_integral_ball
 -- name    : GlobalTheory.norm_pow_le_factorial_div_mul_integral_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:13:07.393797+00:00
 -- url     : https://prove2.me/theorems/a4199c47-6ea3-45e7-93e7-5ab20e024554

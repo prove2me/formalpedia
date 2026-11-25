@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_bd_cone_add_cone_bd
 -- name    : GroundTheory.Arith.SchemeCoh.bd_cone_add_cone_bd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:37:13.185467+00:00
 -- url     : https://prove2.me/theorems/949bffe0-479b-4f07-96df-86a813366e75

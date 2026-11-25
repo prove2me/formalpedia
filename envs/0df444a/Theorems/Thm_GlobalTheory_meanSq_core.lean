@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_meanSq_core
 -- name    : GlobalTheory.meanSq_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:11:54.044381+00:00
 -- url     : https://prove2.me/theorems/4d7d5991-54af-4d9b-9fd9-1e355f40d666

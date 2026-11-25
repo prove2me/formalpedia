@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Etale_isBaseChangeSection_specMap
 -- name    : GroundTheory.Arith.Etale.isBaseChangeSection_specMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:27:04.538827+00:00
 -- url     : https://prove2.me/theorems/1cad5248-f2ae-4b93-a55b-0ae965daa38f

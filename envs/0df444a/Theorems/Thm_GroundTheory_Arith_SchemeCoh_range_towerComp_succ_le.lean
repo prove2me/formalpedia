@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_range_towerComp_succ_le
 -- name    : GroundTheory.Arith.SchemeCoh.range_towerComp_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:28:59.838795+00:00
 -- url     : https://prove2.me/theorems/e14d619d-f3a2-43d1-a16a-939c011a748b

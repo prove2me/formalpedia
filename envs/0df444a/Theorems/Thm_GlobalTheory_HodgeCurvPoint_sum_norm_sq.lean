@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeCurvPoint_sum_norm_sq
 -- name    : GlobalTheory.HodgeCurvPoint.sum_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:49:00.2676+00:00
 -- url     : https://prove2.me/theorems/4017d54d-587a-444d-976a-033abef4d63a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_del_det
 -- name    : GlobalTheory.HermFrame.del_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:45:21.092015+00:00
 -- url     : https://prove2.me/theorems/50addd55-23f2-419b-a8dd-d7edc0692150

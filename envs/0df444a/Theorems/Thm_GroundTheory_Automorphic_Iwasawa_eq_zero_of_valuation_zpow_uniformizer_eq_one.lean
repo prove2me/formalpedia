@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Iwasawa_eq_zero_of_valuation_zpow_uniformizer_eq_one
 -- name    : GroundTheory.Automorphic.Iwasawa.eq_zero_of_valuation_zpow_uniformizer_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:32:02.804954+00:00
 -- url     : https://prove2.me/theorems/4464bd81-942a-4852-960c-90370ab30c26

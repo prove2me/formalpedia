@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cube_section_faces_and_doubling
 -- name    : GlobalTheory.cube_section_faces_and_doubling
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:14:42.30253+00:00
 -- url     : https://prove2.me/theorems/7265e281-1f75-48c5-af18-e5170a199dcb

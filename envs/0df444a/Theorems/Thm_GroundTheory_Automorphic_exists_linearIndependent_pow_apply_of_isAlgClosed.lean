@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_linearIndependent_pow_apply_of_isAlgClosed
 -- name    : GroundTheory.Automorphic.exists_linearIndependent_pow_apply_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:34:48.443593+00:00
 -- url     : https://prove2.me/theorems/7ac884bd-13fc-4d5e-b611-d3468d861671

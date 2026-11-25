@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_tendsto_pow_mul_exp_neg_mul
 -- name    : GroundTheory.Automorphic.LineKernel.tendsto_pow_mul_exp_neg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:32:00.786445+00:00
 -- url     : https://prove2.me/theorems/12cce88d-f8a4-4dca-a73e-18d7334b7bcc

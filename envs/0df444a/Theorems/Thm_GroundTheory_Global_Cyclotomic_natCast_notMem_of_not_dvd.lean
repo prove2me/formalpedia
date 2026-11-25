@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_natCast_notMem_of_not_dvd
 -- name    : GroundTheory.Global.Cyclotomic.natCast_notMem_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:37:32.203471+00:00
 -- url     : https://prove2.me/theorems/d94fb46f-e42d-440a-bd23-850ac7f301b5

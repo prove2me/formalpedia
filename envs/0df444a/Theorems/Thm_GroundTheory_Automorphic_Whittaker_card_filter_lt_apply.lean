@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_card_filter_lt_apply
 -- name    : GroundTheory.Automorphic.Whittaker.card_filter_lt_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:34:55.873802+00:00
 -- url     : https://prove2.me/theorems/d417820f-c0ff-4de6-bdb8-8e02f894de99

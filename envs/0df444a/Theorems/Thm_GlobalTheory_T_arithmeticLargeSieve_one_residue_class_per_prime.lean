@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_arithmeticLargeSieve_one_residue_class_per_prime
 -- name    : GlobalTheory.T.arithmeticLargeSieve_one_residue_class_per_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:27:37.466197+00:00
 -- url     : https://prove2.me/theorems/f95525f2-136e-403d-b7ea-62211a0fd6fd

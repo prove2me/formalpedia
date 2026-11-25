@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GL2Classical_integral_periodic_eq_of_im
 -- name    : GroundTheory.Automorphic.GL2Classical.integral_periodic_eq_of_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:29:48.506988+00:00
 -- url     : https://prove2.me/theorems/36f404f1-89ca-486e-aa94-a09cbe88dccf

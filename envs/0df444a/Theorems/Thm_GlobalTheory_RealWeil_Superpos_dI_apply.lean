@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Superpos_dI_apply
 -- name    : GlobalTheory.RealWeil.Superpos.dI_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:49:08.717592+00:00
 -- url     : https://prove2.me/theorems/629ac2f3-048c-411f-b96d-8f7bc990605d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_cellRank_eq_of_le_of_cellHeight_le
 -- name    : GroundTheory.Automorphic.Parabolic.cellRank_eq_of_le_of_cellHeight_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:55.635303+00:00
 -- url     : https://prove2.me/theorems/7ba2e5ce-3f17-41bc-93ab-05aa29f4db1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_orbitMap_apply
 -- name    : GroundTheory.Automorphic.RestrictedTensor.orbitMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:33:52.22594+00:00
 -- url     : https://prove2.me/theorems/a305dd62-b1bf-40f3-8bf0-4b02ab5aa7ff

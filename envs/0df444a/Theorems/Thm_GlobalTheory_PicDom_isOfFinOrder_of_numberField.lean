@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PicDom_isOfFinOrder_of_numberField
 -- name    : GlobalTheory.PicDom.isOfFinOrder_of_numberField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:48:35.394954+00:00
 -- url     : https://prove2.me/theorems/37ec7240-b9cf-4afa-933c-1e1db25702e1

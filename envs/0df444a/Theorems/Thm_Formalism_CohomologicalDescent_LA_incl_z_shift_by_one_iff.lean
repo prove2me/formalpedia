@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_incl_z_shift_by_one_iff
 -- name    : Formalism.CohomologicalDescent.LA.incl_z_shift_by_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:58:03.178043+00:00
 -- url     : https://prove2.me/theorems/8c2f63bb-6437-462b-a74b-714d53e4e1a6

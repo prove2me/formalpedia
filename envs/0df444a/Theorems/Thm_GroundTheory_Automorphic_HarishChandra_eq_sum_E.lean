@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_eq_sum_E
 -- name    : GroundTheory.Automorphic.HarishChandra.eq_sum_E
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:59.786923+00:00
 -- url     : https://prove2.me/theorems/a7ff4b68-5250-4b23-8c4b-e049c2362853

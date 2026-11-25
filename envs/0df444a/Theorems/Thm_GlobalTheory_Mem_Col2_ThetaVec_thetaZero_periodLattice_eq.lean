@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Col2_ThetaVec_thetaZero_periodLattice_eq
 -- name    : GlobalTheory.Mem.Col2.ThetaVec.thetaZero_periodLattice_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:33:21.784794+00:00
 -- url     : https://prove2.me/theorems/a32eaff4-a3a1-471e-82f7-122f6c876c27

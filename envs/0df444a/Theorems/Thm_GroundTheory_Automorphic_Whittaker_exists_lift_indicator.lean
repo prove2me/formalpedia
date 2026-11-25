@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_lift_indicator
 -- name    : GroundTheory.Automorphic.Whittaker.exists_lift_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:34:43.500883+00:00
 -- url     : https://prove2.me/theorems/fb1fd4dc-145b-4a98-bbb2-5dedef524aeb

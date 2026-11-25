@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_rowWt_eq_of_eigen
 -- name    : GroundTheory.Automorphic.HarishChandra.rowWt_eq_of_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:57:05.602081+00:00
 -- url     : https://prove2.me/theorems/7650d480-9396-45b5-b5fb-08bc0e6927d1

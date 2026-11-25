@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algebraMap_eq_of_forall_discreteValuationSubring
 -- name    : GlobalTheory.exists_algebraMap_eq_of_forall_discreteValuationSubring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:39.007413+00:00
 -- url     : https://prove2.me/theorems/06d03518-ecc4-4a55-ad05-23fd3092a330

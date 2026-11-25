@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_wittVector_dvd_of_saturated_ideal
 -- name    : GlobalTheory.wittVector_dvd_of_saturated_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:25:06.012022+00:00
 -- url     : https://prove2.me/theorems/347d0b82-e18c-4de0-ace2-46b05f05e4bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_freeYonedaHomAddEquiv_apply
 -- name    : GroundTheory.Arith.SchemeCoh.freeYonedaHomAddEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:28:45.119442+00:00
 -- url     : https://prove2.me/theorems/ecfb07d5-0f53-4d87-a908-b9637ddd7e0a

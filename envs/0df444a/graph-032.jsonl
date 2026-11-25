@@ -49312,7 +49312,7 @@
 {"parent": "MoneyBurningTrade.IndependentSurplus.Supplement.lemma_5_8", "child": "MoneyBurningTrade_IndependentSurplus_Supplement_GeometricLaw", "via": ["statement"]}
 {"parent": "MoneyBurningTrade.IndependentSurplus.Supplement.lemma_5_8", "child": "MoneyBurningTrade_IndependentSurplus_IsIR", "via": ["statement"]}
 {"parent": "MoneyBurningTrade.IndependentSurplus.Supplement.lemma_5_8", "child": "MoneyBurningTrade_IndependentSurplus_IsWBB", "via": ["statement"]}
-{"parent": "DistributionTheoryMission.limit_with_uniform_bounds", "child": "liuyao_ca_fd889115_k1_Distributions_ConvergenceTargets", "via": ["statement"]}
+{"parent": "DistributionTheoryMission.limit_with_uniform_bounds", "child": "liuyao_ca_fd889115_k1_Distributions_ConvergenceTargets", "via": ["solution", "statement"]}
 {"parent": "SpreadMatchCircuit_Matching_Supplement_Cliques", "child": "SpreadMatchCircuit_Matching_Graphs", "via": ["statement"]}
 {"parent": "SpreadMatchCircuit_Matching_Supplement_Cliques", "child": "SpreadMatchCircuit_Matching_MonotoneCircuit", "via": ["statement"]}
 {"parent": "SpreadMatchCircuit_Matching_Supplement_Cliques", "child": "SpreadMatchCircuit_Matching_Promise", "via": ["statement"]}

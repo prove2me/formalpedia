@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_IsFunctionField_of_finiteDimensional
 -- name    : GroundTheory.FunctionField.IsFunctionField.of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:37:14.385586+00:00
 -- url     : https://prove2.me/theorems/823f523d-7562-4953-a177-372e214fa0b0

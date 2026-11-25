@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hermPair_mulVec
 -- name    : GroundTheory.Automorphic.hermPair_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:35:49.275845+00:00
 -- url     : https://prove2.me/theorems/ec2d2bd9-1423-46e3-82ce-60d897571dcd

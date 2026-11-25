@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_affineWeylGL_mem_integralGL_iff
 -- name    : GroundTheory.Automorphic.GLnLocal.affineWeylGL_mem_integralGL_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:30:08.849355+00:00
 -- url     : https://prove2.me/theorems/01dffcec-b308-4df3-8536-d940426c024e

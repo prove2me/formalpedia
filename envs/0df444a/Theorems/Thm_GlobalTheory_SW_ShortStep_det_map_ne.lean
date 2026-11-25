@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ShortStep_det_map_ne
 -- name    : GlobalTheory.SW.ShortStep.det_map_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:56:19.69934+00:00
 -- url     : https://prove2.me/theorems/cf7514b4-9514-45a6-9fc8-cdf94f896b8d

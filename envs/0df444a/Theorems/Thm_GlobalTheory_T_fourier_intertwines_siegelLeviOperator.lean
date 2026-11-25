@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_intertwines_siegelLeviOperator
 -- name    : GlobalTheory.T.fourier_intertwines_siegelLeviOperator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:35:41.610611+00:00
 -- url     : https://prove2.me/theorems/b363ba68-69df-4aaa-9cf1-c3ee24f507c9

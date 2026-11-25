@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_two_div_sqrt_pow_le_volume_unitBall
 -- name    : GlobalTheory.two_div_sqrt_pow_le_volume_unitBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:24:11.814108+00:00
 -- url     : https://prove2.me/theorems/f278b803-4e2a-4e7b-84e3-b3c0770e4849

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_PeterssonComplement_inner_aeval_map_left
 -- name    : GroundTheory.Automorphic.PeterssonComplement.inner_aeval_map_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:33:03.005618+00:00
 -- url     : https://prove2.me/theorems/4d6a6f5c-b5f2-44e4-b80f-57e1072e7845

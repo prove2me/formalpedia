@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_fischer_smul_right
 -- name    : GroundTheory.Automorphic.HarishChandra.fischer_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:29:44.925661+00:00
 -- url     : https://prove2.me/theorems/9a336783-2c65-4287-adc6-d621918e5f48

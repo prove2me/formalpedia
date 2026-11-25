@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_rayCountTheta
 -- name    : GlobalTheory.Hk.rayCountTheta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:36:23.927381+00:00
 -- url     : https://prove2.me/theorems/30ccc7e2-c75c-4342-bac1-6bc68c8e3960

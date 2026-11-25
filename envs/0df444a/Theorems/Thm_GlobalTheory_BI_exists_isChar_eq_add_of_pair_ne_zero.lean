@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_exists_isChar_eq_add_of_pair_ne_zero
 -- name    : GlobalTheory.BI.exists_isChar_eq_add_of_pair_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:11.092891+00:00
 -- url     : https://prove2.me/theorems/0296b12f-5d7e-4a6c-bbd1-bc0f8fe5668d

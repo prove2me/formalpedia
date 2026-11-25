@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_continuous_rootElt
 -- name    : GroundTheory.Automorphic.Whittaker.continuous_rootElt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:35:07.007043+00:00
 -- url     : https://prove2.me/theorems/0ff0e74d-e7aa-415e-93e5-ed66cd3fd093

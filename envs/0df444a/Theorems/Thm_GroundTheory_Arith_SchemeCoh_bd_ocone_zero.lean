@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_bd_ocone_zero
 -- name    : GroundTheory.Arith.SchemeCoh.bd_ocone_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:30:53.10147+00:00
 -- url     : https://prove2.me/theorems/a8425eb9-dd7f-450e-b561-55d3dfe36e8a

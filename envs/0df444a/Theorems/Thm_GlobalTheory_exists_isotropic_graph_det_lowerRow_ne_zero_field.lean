@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isotropic_graph_det_lowerRow_ne_zero_field
 -- name    : GlobalTheory.exists_isotropic_graph_det_lowerRow_ne_zero_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:33:37.020686+00:00
 -- url     : https://prove2.me/theorems/b317da16-ee88-439e-af7c-63eb2887883a

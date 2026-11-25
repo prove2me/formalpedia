@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_repr_self_one
 -- name    : GroundTheory.Automorphic.repr_self_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:37:05.443944+00:00
 -- url     : https://prove2.me/theorems/bf1fc068-8ec5-4bdb-9eb9-c002a2e98fa7

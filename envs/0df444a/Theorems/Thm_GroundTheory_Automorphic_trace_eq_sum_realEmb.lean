@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_trace_eq_sum_realEmb
 -- name    : GroundTheory.Automorphic.trace_eq_sum_realEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:36:46.587128+00:00
 -- url     : https://prove2.me/theorems/1ed3d1cf-6861-4dd1-947d-e2fcddade9c3

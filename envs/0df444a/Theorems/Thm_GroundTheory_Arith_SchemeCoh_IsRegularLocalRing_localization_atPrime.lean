@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_IsRegularLocalRing_localization_atPrime
 -- name    : GroundTheory.Arith.SchemeCoh.IsRegularLocalRing.localization_atPrime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:18:55.167623+00:00
 -- url     : https://prove2.me/theorems/d40d0ee9-ac01-4ddf-8aa3-d31b862c4d19

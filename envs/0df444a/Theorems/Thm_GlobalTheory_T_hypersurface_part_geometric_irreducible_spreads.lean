@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hypersurface_part_geometric_irreducible_spreads
 -- name    : GlobalTheory.T.hypersurface_part_geometric_irreducible_spreads
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:47:27.221568+00:00
 -- url     : https://prove2.me/theorems/af5cfe41-28a6-48c0-9059-7f541003facf

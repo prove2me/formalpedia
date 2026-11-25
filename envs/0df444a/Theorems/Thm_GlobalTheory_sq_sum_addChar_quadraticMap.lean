@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sq_sum_addChar_quadraticMap
 -- name    : GlobalTheory.sq_sum_addChar_quadraticMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:21:36.234804+00:00
 -- url     : https://prove2.me/theorems/41d3a5e5-12f2-4680-9b31-9571cbaa4b90

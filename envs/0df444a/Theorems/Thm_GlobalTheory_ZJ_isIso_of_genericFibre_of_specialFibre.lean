@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_isIso_of_genericFibre_of_specialFibre
 -- name    : GlobalTheory.ZJ.isIso_of_genericFibre_of_specialFibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:02:07.484576+00:00
 -- url     : https://prove2.me/theorems/6fc5372c-10ce-4031-a1e1-fb7316373145

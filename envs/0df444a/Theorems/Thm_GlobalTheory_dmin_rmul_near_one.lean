@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dmin_rmul_near_one
 -- name    : GlobalTheory.dmin_rmul_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:17:26.216578+00:00
 -- url     : https://prove2.me/theorems/a3c89fd8-b49b-443d-b6af-8063e5364a2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_ideal_in_class_of_norm_le_sqrt_discr
 -- name    : GlobalTheory.exists_ideal_in_class_of_norm_le_sqrt_discr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:32:30.848494+00:00
 -- url     : https://prove2.me/theorems/31154105-65af-4d6e-9bc1-bacd7bd4659f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torsion_invariant_descends
 -- name    : GlobalTheory.torsion_invariant_descends
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:54:40.525738+00:00
 -- url     : https://prove2.me/theorems/d0f533f5-7cf8-4412-9911-c2553d39fb48

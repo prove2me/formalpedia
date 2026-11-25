@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_towerComp_eq_zero_of_le
 -- name    : GroundTheory.Arith.SchemeCoh.towerComp_eq_zero_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:29:20.35388+00:00
 -- url     : https://prove2.me/theorems/7b587cb9-1141-403a-9d60-e2063b3d795c

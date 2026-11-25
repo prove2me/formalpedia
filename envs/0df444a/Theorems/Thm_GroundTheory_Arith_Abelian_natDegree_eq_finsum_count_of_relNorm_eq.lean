@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_natDegree_eq_finsum_count_of_relNorm_eq
 -- name    : GroundTheory.Arith.Abelian.natDegree_eq_finsum_count_of_relNorm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:25:46.478933+00:00
 -- url     : https://prove2.me/theorems/f712ffc4-ada9-4efa-ae64-a38ebdfd7b97

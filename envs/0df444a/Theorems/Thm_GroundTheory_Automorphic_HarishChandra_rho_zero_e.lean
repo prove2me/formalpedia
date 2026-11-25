@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_rho_zero_e
 -- name    : GroundTheory.Automorphic.HarishChandra.rho_zero_e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:45:52.299797+00:00
 -- url     : https://prove2.me/theorems/3ef5246b-ea74-44f1-8fd2-da787788ef5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_one_le_mult
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.one_le_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:28:51.825334+00:00
 -- url     : https://prove2.me/theorems/de24b3a6-0666-4fce-9872-957f1b800dc1

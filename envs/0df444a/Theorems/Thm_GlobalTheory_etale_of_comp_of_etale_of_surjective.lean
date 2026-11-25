@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_etale_of_comp_of_etale_of_surjective
 -- name    : GlobalTheory.etale_of_comp_of_etale_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:20:21.288091+00:00
 -- url     : https://prove2.me/theorems/936ddc04-f2e3-4c04-8c51-280db9e6632a

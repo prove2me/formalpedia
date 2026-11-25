@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_vecMul_blockOne_castSucc
 -- name    : GroundTheory.Automorphic.Reduction.vecMul_blockOne_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:33:00.080329+00:00
 -- url     : https://prove2.me/theorems/bec0e80f-227b-433c-b762-43e62b9c125f

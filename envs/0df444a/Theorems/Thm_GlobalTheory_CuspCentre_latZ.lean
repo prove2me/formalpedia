@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCentre_latZ
 -- name    : GlobalTheory.CuspCentre.latZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:31:04.348806+00:00
 -- url     : https://prove2.me/theorems/1b097bb3-a768-438c-93cd-bf9b176e47e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianTheta_summable_and_determines_testFn
 -- name    : GlobalTheory.T.hermitianTheta_summable_and_determines_testFn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:51.476803+00:00
 -- url     : https://prove2.me/theorems/cc2e1d7b-0839-41f2-acc6-d8def034ef0f

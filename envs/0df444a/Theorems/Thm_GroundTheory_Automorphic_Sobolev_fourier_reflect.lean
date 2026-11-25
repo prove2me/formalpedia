@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_fourier_reflect
 -- name    : GroundTheory.Automorphic.Sobolev.fourier_reflect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:35:06.587009+00:00
 -- url     : https://prove2.me/theorems/5aa73e59-acd6-464a-9eed-d6009bde3b19

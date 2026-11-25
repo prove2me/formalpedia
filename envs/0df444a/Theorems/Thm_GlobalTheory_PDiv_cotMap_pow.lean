@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_cotMap_pow
 -- name    : GlobalTheory.PDiv.cotMap_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:36:51.837941+00:00
 -- url     : https://prove2.me/theorems/21cd8724-538b-402e-87fd-903471a41581

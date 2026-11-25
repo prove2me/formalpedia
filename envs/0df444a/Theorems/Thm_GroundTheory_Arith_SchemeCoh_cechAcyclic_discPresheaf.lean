@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_cechAcyclic_discPresheaf
 -- name    : GroundTheory.Arith.SchemeCoh.cechAcyclic_discPresheaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:28:16.25005+00:00
 -- url     : https://prove2.me/theorems/34d40fbc-bf18-4530-9c11-a6ebcf3909a5

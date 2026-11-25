@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_rhoDeriv_one_shift
 -- name    : GroundTheory.Automorphic.HarishChandra.rhoDeriv_one_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:30:20.05627+00:00
 -- url     : https://prove2.me/theorems/e64214cc-1a55-425e-a79c-5d42d5cae9a9

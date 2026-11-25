@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCut_mul_choose_le_finrank
 -- name    : GlobalTheory.ProjCut.mul_choose_le_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:52:15.941558+00:00
 -- url     : https://prove2.me/theorems/78f2ec01-7456-4a92-871d-3f0543f40ad2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_sum_nsmul_mult
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.sum_nsmul_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:28:16.258278+00:00
 -- url     : https://prove2.me/theorems/8955234d-32ae-4382-b50c-8106bcbe67fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_truncatedWhittaker_jHyp_eq_orbitalIntegral
 -- name    : GlobalTheory.T.truncatedWhittaker_jHyp_eq_orbitalIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:00:06.03785+00:00
 -- url     : https://prove2.me/theorems/e6941340-5502-4a39-a136-78f15b81d8e5

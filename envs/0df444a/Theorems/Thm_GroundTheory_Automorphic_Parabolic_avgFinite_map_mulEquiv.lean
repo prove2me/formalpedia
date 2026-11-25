@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_avgFinite_map_mulEquiv
 -- name    : GroundTheory.Automorphic.Parabolic.avgFinite_map_mulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:33:07.689229+00:00
 -- url     : https://prove2.me/theorems/54d98d91-74c2-4c39-a2be-b05bf11bc58b

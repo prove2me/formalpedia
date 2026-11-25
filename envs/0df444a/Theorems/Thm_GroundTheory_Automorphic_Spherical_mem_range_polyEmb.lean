@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_mem_range_polyEmb
 -- name    : GroundTheory.Automorphic.Spherical.mem_range_polyEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:33:42.683652+00:00
 -- url     : https://prove2.me/theorems/2da26ee1-5a05-4ee7-a038-d4045150e5d7

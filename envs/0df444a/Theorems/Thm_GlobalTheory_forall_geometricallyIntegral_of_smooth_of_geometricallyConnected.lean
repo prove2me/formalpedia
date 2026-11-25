@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_forall_geometricallyIntegral_of_smooth_of_geometricallyConnected
 -- name    : GlobalTheory.forall_geometricallyIntegral_of_smooth_of_geometricallyConnected
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:44:10.168954+00:00
 -- url     : https://prove2.me/theorems/fa9e071b-91b8-4462-9009-751ead5f97c3

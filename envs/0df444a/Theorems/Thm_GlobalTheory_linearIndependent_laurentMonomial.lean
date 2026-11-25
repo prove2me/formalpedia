@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linearIndependent_laurentMonomial
 -- name    : GlobalTheory.linearIndependent_laurentMonomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:49:52.716308+00:00
 -- url     : https://prove2.me/theorems/fe374b17-da0b-492d-ac2a-c340429236b5

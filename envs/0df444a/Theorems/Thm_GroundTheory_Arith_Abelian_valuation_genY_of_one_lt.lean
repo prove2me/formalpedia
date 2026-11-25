@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_valuation_genY_of_one_lt
 -- name    : GroundTheory.Arith.Abelian.valuation_genY_of_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:27:17.805271+00:00
 -- url     : https://prove2.me/theorems/c8e3f8a1-8009-4e37-bb4d-89a77e64e54b

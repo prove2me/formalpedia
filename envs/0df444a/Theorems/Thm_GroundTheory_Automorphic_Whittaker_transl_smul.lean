@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_transl_smul
 -- name    : GroundTheory.Automorphic.Whittaker.transl_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:34:22.790155+00:00
 -- url     : https://prove2.me/theorems/6cf456b5-c604-4809-96cb-c953d79f54b0

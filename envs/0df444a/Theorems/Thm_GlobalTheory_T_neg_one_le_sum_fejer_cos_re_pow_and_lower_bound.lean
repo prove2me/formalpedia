@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_neg_one_le_sum_fejer_cos_re_pow_and_lower_bound
 -- name    : GlobalTheory.T.neg_one_le_sum_fejer_cos_re_pow_and_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:54:00.292063+00:00
 -- url     : https://prove2.me/theorems/ad75ef38-3ed3-4b16-a804-d594473482b2

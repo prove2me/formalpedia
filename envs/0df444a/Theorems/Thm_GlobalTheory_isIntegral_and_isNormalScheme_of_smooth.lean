@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_and_isNormalScheme_of_smooth
 -- name    : GlobalTheory.isIntegral_and_isNormalScheme_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:27:58.788381+00:00
 -- url     : https://prove2.me/theorems/a2b1429a-639c-4f6d-b578-16b5bf4c5866

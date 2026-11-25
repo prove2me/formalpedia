@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpansionTotal_globalFns
 -- name    : GlobalTheory.ExpansionTotal.globalFns
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:59:40.248974+00:00
 -- url     : https://prove2.me/theorems/508f40e4-a3ce-465f-abe1-4e8b0dbf095c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_lemmaUSplit
 -- name    : Formalism.DoubleCosetMeasures.P.lemmaUSplit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:55:31.230861+00:00
 -- url     : https://prove2.me/theorems/5924961c-0817-48b4-bfd7-c8df5b831770

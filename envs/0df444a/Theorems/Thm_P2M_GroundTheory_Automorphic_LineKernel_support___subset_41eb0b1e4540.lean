@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_LineKernel_support___subset_41eb0b1e4540
 -- name    : P2M_GroundTheory_Automorphic_LineKernel_support___subset_41eb0b1e4540
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:19:42.415837+00:00
 -- url     : https://prove2.me/theorems/ada05ad1-dbab-4e05-be26-94da601a4a3f

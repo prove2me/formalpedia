@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_L2Kernel_kernelOp_toLp_apply_ae
 -- name    : GroundTheory.Automorphic.L2Kernel.kernelOp_toLp_apply_ae
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:46:02.500809+00:00
 -- url     : https://prove2.me/theorems/445c7dce-fcb4-472c-b395-e4f553d9e4b0

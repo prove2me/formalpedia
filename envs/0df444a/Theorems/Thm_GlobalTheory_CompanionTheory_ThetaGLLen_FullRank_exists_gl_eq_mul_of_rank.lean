@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ThetaGLLen_FullRank_exists_gl_eq_mul_of_rank
 -- name    : GlobalTheory.CompanionTheory.ThetaGLLen.FullRank.exists_gl_eq_mul_of_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:40:46.761798+00:00
 -- url     : https://prove2.me/theorems/9b3b79b6-25d4-46c1-8fdc-52eb88f4e64c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smooth_genericFibre_closure_partition
 -- name    : GlobalTheory.smooth_genericFibre_closure_partition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:21:26.170655+00:00
 -- url     : https://prove2.me/theorems/6a916b43-c1e0-47be-9a5d-de61d68b741d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_aeval_C_mul_X_pow_apply
 -- name    : GroundTheory.Automorphic.aeval_C_mul_X_pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:34:40.557274+00:00
 -- url     : https://prove2.me/theorems/b9ec6409-8fc8-4dd6-a15d-57364176423c

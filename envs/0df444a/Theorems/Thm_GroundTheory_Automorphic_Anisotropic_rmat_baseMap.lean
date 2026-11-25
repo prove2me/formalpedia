@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_rmat_baseMap
 -- name    : GroundTheory.Automorphic.Anisotropic.rmat_baseMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:24.800807+00:00
 -- url     : https://prove2.me/theorems/4447624a-9d8e-4b0a-b386-61541d1d68b7

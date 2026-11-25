@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_mem_chart_source_self
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.mem_chart_source_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:32:32.178858+00:00
 -- url     : https://prove2.me/theorems/5e5efab5-e152-4f32-8256-6abdf99e8627

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_single_one_mem_stdLattice
 -- name    : GroundTheory.Automorphic.single_one_mem_stdLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:37:06.594524+00:00
 -- url     : https://prove2.me/theorems/949dbca4-7f48-4745-8106-3e5e869857cf

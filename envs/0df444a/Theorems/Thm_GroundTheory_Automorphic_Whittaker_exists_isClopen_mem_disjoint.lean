@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_isClopen_mem_disjoint
 -- name    : GroundTheory.Automorphic.Whittaker.exists_isClopen_mem_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:35:05.202768+00:00
 -- url     : https://prove2.me/theorems/42f080a7-9eff-48ff-9119-c72d736c9f90

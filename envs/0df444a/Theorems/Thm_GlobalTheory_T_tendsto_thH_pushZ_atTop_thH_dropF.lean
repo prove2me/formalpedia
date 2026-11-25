@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tendsto_thH_pushZ_atTop_thH_dropF
 -- name    : GlobalTheory.T.tendsto_thH_pushZ_atTop_thH_dropF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:17:00.316936+00:00
 -- url     : https://prove2.me/theorems/10cb1c91-f571-4e2a-9c18-c490bc4fa295

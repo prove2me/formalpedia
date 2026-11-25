@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_isIntegral_of_forall
 -- name    : GroundTheory.Automorphic.Spherical.isIntegral_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:33:57.673722+00:00
 -- url     : https://prove2.me/theorems/fd42ad96-8b9a-4cd8-ab61-eaa60831c2c9

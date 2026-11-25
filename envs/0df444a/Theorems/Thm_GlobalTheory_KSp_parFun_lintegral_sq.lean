@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_parFun_lintegral_sq
 -- name    : GlobalTheory.KSp.parFun_lintegral_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:26:47.795909+00:00
 -- url     : https://prove2.me/theorems/5149b3ca-fd21-47af-9c00-cf7a4523de29

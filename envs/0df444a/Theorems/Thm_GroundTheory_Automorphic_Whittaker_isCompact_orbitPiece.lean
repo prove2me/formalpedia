@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_isCompact_orbitPiece
 -- name    : GroundTheory.Automorphic.Whittaker.isCompact_orbitPiece
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:34:44.116021+00:00
 -- url     : https://prove2.me/theorems/32dcf30a-9310-4cce-a38e-ccbe63cc3029

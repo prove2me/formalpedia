@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_det_rowMatrix
 -- name    : GroundTheory.Automorphic.Reduction.det_rowMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:32:59.933255+00:00
 -- url     : https://prove2.me/theorems/34e09221-9129-4595-a20e-3f164789e22c

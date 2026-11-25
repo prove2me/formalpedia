@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smul_eq_iff_heightOneOrd_vw_le
 -- name    : GlobalTheory.exists_smul_eq_iff_heightOneOrd_vw_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:42:18.000859+00:00
 -- url     : https://prove2.me/theorems/384a05d7-9fa8-4dd5-889e-1259d03ef888

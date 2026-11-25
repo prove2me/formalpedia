@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ThetaGLLen_FullRank_exists_clopen_cut
 -- name    : GlobalTheory.CompanionTheory.ThetaGLLen.FullRank.exists_clopen_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:40:57.371164+00:00
 -- url     : https://prove2.me/theorems/e5192baf-6787-46bc-af9f-509e501037a8

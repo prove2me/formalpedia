@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_ellQ_C_smul
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.ellQ_C_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:36.65892+00:00
 -- url     : https://prove2.me/theorems/8f1394f6-cbc4-430b-8297-2519c2e58c52

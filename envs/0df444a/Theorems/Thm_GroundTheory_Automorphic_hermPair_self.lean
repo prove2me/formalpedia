@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hermPair_self
 -- name    : GroundTheory.Automorphic.hermPair_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:37:12.559938+00:00
 -- url     : https://prove2.me/theorems/eed8cff6-dfd4-4626-8e1b-d087df596e04

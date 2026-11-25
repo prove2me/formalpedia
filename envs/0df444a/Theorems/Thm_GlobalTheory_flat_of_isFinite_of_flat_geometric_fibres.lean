@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_isFinite_of_flat_geometric_fibres
 -- name    : GlobalTheory.flat_of_isFinite_of_flat_geometric_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:52:36.250009+00:00
 -- url     : https://prove2.me/theorems/07c26d01-a9e8-4345-86e8-ba72bcee5499

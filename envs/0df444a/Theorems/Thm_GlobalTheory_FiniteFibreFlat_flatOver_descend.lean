@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteFibreFlat_flatOver_descend
 -- name    : GlobalTheory.FiniteFibreFlat.flatOver_descend
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:17:40.958913+00:00
 -- url     : https://prove2.me/theorems/03078183-ea3a-4048-9fe8-b5478b29dc1f

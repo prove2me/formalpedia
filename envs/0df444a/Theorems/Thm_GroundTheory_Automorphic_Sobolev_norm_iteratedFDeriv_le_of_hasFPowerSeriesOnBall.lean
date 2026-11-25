@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_norm_iteratedFDeriv_le_of_hasFPowerSeriesOnBall
 -- name    : GroundTheory.Automorphic.Sobolev.norm_iteratedFDeriv_le_of_hasFPowerSeriesOnBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:33:38.07762+00:00
 -- url     : https://prove2.me/theorems/d97cb007-3277-4cbb-a7fa-6fb3809c2c83

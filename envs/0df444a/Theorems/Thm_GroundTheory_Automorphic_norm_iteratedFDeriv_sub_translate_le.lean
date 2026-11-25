@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_norm_iteratedFDeriv_sub_translate_le
 -- name    : GroundTheory.Automorphic.norm_iteratedFDeriv_sub_translate_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:35:22.040549+00:00
 -- url     : https://prove2.me/theorems/e2989401-b8a5-4503-9a3e-a2baae5cd2f5

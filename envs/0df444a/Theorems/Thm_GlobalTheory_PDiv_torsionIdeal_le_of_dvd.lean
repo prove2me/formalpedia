@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_torsionIdeal_le_of_dvd
 -- name    : GlobalTheory.PDiv.torsionIdeal_le_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:38:48.565845+00:00
 -- url     : https://prove2.me/theorems/3c50f2c5-bc26-4750-abc2-0bab5b474d0c

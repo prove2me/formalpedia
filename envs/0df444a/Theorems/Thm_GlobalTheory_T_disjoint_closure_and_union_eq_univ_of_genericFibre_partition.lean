@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_disjoint_closure_and_union_eq_univ_of_genericFibre_partition
 -- name    : GlobalTheory.T.disjoint_closure_and_union_eq_univ_of_genericFibre_partition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:33:25.763316+00:00
 -- url     : https://prove2.me/theorems/1fa3e52e-213c-48f3-8644-5f0a5123dd02

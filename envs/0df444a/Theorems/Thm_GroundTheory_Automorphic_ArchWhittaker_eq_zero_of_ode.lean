@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ArchWhittaker_eq_zero_of_ode
 -- name    : GroundTheory.Automorphic.ArchWhittaker.eq_zero_of_ode
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:31.631051+00:00
 -- url     : https://prove2.me/theorems/ae0ff65d-23a3-43dd-92d5-4749a4d267f3

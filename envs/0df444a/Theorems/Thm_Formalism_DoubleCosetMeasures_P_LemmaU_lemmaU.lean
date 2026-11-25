@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_LemmaU_lemmaU
 -- name    : Formalism.DoubleCosetMeasures.P.LemmaU.lemmaU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:51:05.479405+00:00
 -- url     : https://prove2.me/theorems/6601eed5-8b7d-49ca-9f38-94ab4b442215

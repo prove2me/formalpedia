@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_sumForm_of_left
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.sumForm_of_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:28:57.866179+00:00
 -- url     : https://prove2.me/theorems/39fb2295-85ae-4bc8-a71f-602458a04076

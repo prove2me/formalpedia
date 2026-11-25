@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_distribHaarChar_eq_one_of_mapsTo_box
 -- name    : GroundTheory.Automorphic.Measures.distribHaarChar_eq_one_of_mapsTo_box
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:54.671377+00:00
 -- url     : https://prove2.me/theorems/1399d01c-0bbc-4e48-b898-72dbf32a7311

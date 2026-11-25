@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_integrable_smul_orbit
 -- name    : GroundTheory.Automorphic.UnitaryRep.integrable_smul_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:33:39.941933+00:00
 -- url     : https://prove2.me/theorems/07233277-05fd-4456-ad64-0d8cb868108f

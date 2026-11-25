@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ArchWhittaker_antitoneOn_Ici_of_hasDerivAt
 -- name    : GroundTheory.Automorphic.ArchWhittaker.antitoneOn_Ici_of_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:12.89626+00:00
 -- url     : https://prove2.me/theorems/d666a6f6-a967-440f-b724-580fa2d7f881

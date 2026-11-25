@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_associated_prime_localization_dvr
 -- name    : GlobalTheory.T.associated_prime_localization_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:26:54.190067+00:00
 -- url     : https://prove2.me/theorems/599b3b35-9133-42d5-ba6e-6a0911a3c3b9

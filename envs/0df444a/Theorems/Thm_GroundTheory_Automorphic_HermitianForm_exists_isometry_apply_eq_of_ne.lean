@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_exists_isometry_apply_eq_of_ne
 -- name    : GroundTheory.Automorphic.HermitianForm.exists_isometry_apply_eq_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:31:01.47719+00:00
 -- url     : https://prove2.me/theorems/45beb464-3402-4b35-9c09-1a209dabcd4d

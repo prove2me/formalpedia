@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_relVol_eq_relIndex_mul
 -- name    : GroundTheory.Automorphic.Parabolic.relVol_eq_relIndex_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:32:43.588211+00:00
 -- url     : https://prove2.me/theorems/b5579291-a40e-403a-b60d-dca3e2b99f0a

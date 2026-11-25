@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_intertwines_weyl_heisenberg_schrodinger
 -- name    : GlobalTheory.T.fourier_intertwines_weyl_heisenberg_schrodinger
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:17:58.562824+00:00
 -- url     : https://prove2.me/theorems/5e3b1fa5-4c62-4163-8a53-69f05b5093b9

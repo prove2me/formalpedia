@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GL2Classical_denom_kGL
 -- name    : GroundTheory.Automorphic.GL2Classical.denom_kGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:30:39.13134+00:00
 -- url     : https://prove2.me/theorems/82284ca8-a709-40ec-8ec4-41b3e6fc0065

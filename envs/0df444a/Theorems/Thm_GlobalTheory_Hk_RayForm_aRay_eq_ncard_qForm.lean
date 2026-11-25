@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayForm_aRay_eq_ncard_qForm
 -- name    : GlobalTheory.Hk.RayForm.aRay_eq_ncard_qForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:34:45.342295+00:00
 -- url     : https://prove2.me/theorems/ecb38d3d-0eba-439a-904e-cd0dc31dd787

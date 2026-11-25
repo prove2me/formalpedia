@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_global_lift_of_chartLocal_lifts_squareZero
 -- name    : GlobalTheory.T.exists_global_lift_of_chartLocal_lifts_squareZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:37:35.161171+00:00
 -- url     : https://prove2.me/theorems/318ac259-a46c-405f-b75b-5171057195c0

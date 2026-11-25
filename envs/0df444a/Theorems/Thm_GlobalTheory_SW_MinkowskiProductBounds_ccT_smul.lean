@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_MinkowskiProductBounds_ccT_smul
 -- name    : GlobalTheory.SW.MinkowskiProductBounds.ccT_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:43:37.296266+00:00
 -- url     : https://prove2.me/theorems/52b30276-d6bb-476e-a2a9-35c4a7ebff09

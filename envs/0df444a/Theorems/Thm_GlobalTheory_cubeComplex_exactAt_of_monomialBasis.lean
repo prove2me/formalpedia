@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeComplex_exactAt_of_monomialBasis
 -- name    : GlobalTheory.cubeComplex_exactAt_of_monomialBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:47:55.350198+00:00
 -- url     : https://prove2.me/theorems/75b9ca96-edd4-4a48-94d5-444b0014a35f

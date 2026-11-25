@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smoothedSum_main_term_representatives
 -- name    : GlobalTheory.smoothedSum_main_term_representatives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:20:42.746296+00:00
 -- url     : https://prove2.me/theorems/170ed5f3-e756-4665-9e04-6870d1b8b23a

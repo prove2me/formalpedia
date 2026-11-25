@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IsTranscendenceBasis_extendScalars_of_isAlgebraic
 -- name    : GroundTheory.Global.IsTranscendenceBasis.extendScalars_of_isAlgebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:39:30.823807+00:00
 -- url     : https://prove2.me/theorems/5d9441a2-0b45-40b0-84ec-ef21aee49206

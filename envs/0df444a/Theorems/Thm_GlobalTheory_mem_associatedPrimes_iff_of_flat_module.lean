@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_associatedPrimes_iff_of_flat_module
 -- name    : GlobalTheory.mem_associatedPrimes_iff_of_flat_module
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:11:35.067386+00:00
 -- url     : https://prove2.me/theorems/d22d971e-f861-45b4-9a0d-a8b305b7c2db

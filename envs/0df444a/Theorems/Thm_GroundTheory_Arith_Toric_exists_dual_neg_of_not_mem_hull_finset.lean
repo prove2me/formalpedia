@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_exists_dual_neg_of_not_mem_hull_finset
 -- name    : GroundTheory.Arith.Toric.exists_dual_neg_of_not_mem_hull_finset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:35:42.904096+00:00
 -- url     : https://prove2.me/theorems/a5d0bad6-f3bb-49ed-912a-3d8968996bf9

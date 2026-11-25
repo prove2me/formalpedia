@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_contDiff_of_class_tendstoLocallyUniformly
 -- name    : GlobalTheory.contDiff_of_class_tendstoLocallyUniformly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:14:54.713079+00:00
 -- url     : https://prove2.me/theorems/0f39b719-2480-4bc7-a1b7-81a63e55078d

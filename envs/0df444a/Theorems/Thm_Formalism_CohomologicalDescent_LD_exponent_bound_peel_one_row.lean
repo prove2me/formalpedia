@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_exponent_bound_peel_one_row
 -- name    : Formalism.CohomologicalDescent.LD.exponent_bound_peel_one_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:52:01.037991+00:00
 -- url     : https://prove2.me/theorems/b6b196bf-5942-47e1-932c-0fb59ca1cead

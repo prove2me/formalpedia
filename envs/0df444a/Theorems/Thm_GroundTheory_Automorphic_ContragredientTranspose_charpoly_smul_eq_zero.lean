@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_charpoly_smul_eq_zero
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.charpoly_smul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:29:01.594591+00:00
 -- url     : https://prove2.me/theorems/e15afa17-3243-450a-b463-4518d5d59aa9

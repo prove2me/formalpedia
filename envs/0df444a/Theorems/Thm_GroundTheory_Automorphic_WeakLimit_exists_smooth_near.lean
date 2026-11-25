@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_WeakLimit_exists_smooth_near
 -- name    : GroundTheory.Automorphic.WeakLimit.exists_smooth_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:33:46.672546+00:00
 -- url     : https://prove2.me/theorems/c05c7f7d-bfb0-4c71-9271-f38d09229409

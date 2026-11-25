@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Uniq_ks_unique
 -- name    : GlobalTheory.KS.Uniq.ks_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:47:21.363893+00:00
 -- url     : https://prove2.me/theorems/7b1f7a25-93a7-416d-8299-0d87a3272091

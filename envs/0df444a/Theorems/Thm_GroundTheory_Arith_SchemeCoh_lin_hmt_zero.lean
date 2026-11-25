@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_lin_hmt_zero
 -- name    : GroundTheory.Arith.SchemeCoh.lin_hmt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:28:17.845474+00:00
 -- url     : https://prove2.me/theorems/61682352-2dd2-4a39-b2cb-e099d920cf6a

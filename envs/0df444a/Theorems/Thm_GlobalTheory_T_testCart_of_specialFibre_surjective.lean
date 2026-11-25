@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_testCart_of_specialFibre_surjective
 -- name    : GlobalTheory.T.testCart_of_specialFibre_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:01:11.393807+00:00
 -- url     : https://prove2.me/theorems/4e5071f7-77d7-451e-ad4f-0641ee03036c

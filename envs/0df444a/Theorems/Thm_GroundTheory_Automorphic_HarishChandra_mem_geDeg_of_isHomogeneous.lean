@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_mem_geDeg_of_isHomogeneous
 -- name    : GroundTheory.Automorphic.HarishChandra.mem_geDeg_of_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:29:53.883843+00:00
 -- url     : https://prove2.me/theorems/05fb6fa8-7d4e-4728-b741-2ab3a0a79a4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_wittVector_eq_teichmuller_of_frobenius_eq_pow
 -- name    : GlobalTheory.wittVector_eq_teichmuller_of_frobenius_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:24:56.868053+00:00
 -- url     : https://prove2.me/theorems/14cf1297-303d-40a3-8851-8e4c7ca78ee2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HermFrame_isUnit_det_blockDiagonal__96e6d9fa8b0a
 -- name    : P2M_GlobalTheory_HermFrame_isUnit_det_blockDiagonal__96e6d9fa8b0a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:46:01.92988+00:00
 -- url     : https://prove2.me/theorems/da4f5b3e-eb8b-4971-b071-b1c4b14cb97b

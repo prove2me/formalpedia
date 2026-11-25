@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_second_valuation_up_to_holds
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.second_valuation_up_to_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:00:40.3408+00:00
 -- url     : https://prove2.me/theorems/bed9e197-65d2-4594-9171-f446eed3b649

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_mulBy_groupLike
 -- name    : GlobalTheory.PDiv.mulBy_groupLike
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:39:00.26881+00:00
 -- url     : https://prove2.me/theorems/0dedfcdf-d547-4eb1-9f5a-1f6358fffe68

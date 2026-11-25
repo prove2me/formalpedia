@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_le_of_top_rat
 -- name    : GlobalTheory.RowSpan.le_of_top_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:32:42.552774+00:00
 -- url     : https://prove2.me/theorems/1552bf02-c836-4242-8760-ac61e8cbc9a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_exists_eq_smul_of_commute
 -- name    : GroundTheory.Automorphic.RestrictedTensor.exists_eq_smul_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:33:22.448951+00:00
 -- url     : https://prove2.me/theorems/1ccb8cbe-4e52-4f0e-a4d5-b6110928813e

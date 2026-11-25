@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_cechAcyclic_of_injective
 -- name    : GroundTheory.Arith.SchemeCoh.cechAcyclic_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:37:28.312432+00:00
 -- url     : https://prove2.me/theorems/485fba8c-3756-4f86-845a-c93b3ac354b6

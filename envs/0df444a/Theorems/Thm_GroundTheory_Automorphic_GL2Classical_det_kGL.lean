@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GL2Classical_det_kGL
 -- name    : GroundTheory.Automorphic.GL2Classical.det_kGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:31:00.252329+00:00
 -- url     : https://prove2.me/theorems/e4ea65f8-bd0c-437e-9279-e2fbe3369e83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_of_isAbelianScheme_field
 -- name    : GlobalTheory.isIntegral_of_isAbelianScheme_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:17.635577+00:00
 -- url     : https://prove2.me/theorems/aab83b60-b4e1-47b3-ac5e-a41d92f7c027

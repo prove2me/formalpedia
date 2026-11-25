@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_TopClose_pow
 -- name    : GroundTheory.Automorphic.HarishChandra.TopClose.pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:30:12.449488+00:00
 -- url     : https://prove2.me/theorems/ba4d8d6c-4e08-4a71-905e-52976c83c712

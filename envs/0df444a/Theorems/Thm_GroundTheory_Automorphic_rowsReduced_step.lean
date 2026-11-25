@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_rowsReduced_step
 -- name    : GroundTheory.Automorphic.rowsReduced_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:35:25.437459+00:00
 -- url     : https://prove2.me/theorems/781366b9-c2b4-455c-ab70-d9a239f55850

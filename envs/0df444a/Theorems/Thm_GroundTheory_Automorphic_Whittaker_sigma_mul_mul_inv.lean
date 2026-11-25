@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_sigma_mul_mul_inv
 -- name    : GroundTheory.Automorphic.Whittaker.sigma_mul_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:34:49.213704+00:00
 -- url     : https://prove2.me/theorems/7e6e2e9e-b10a-4ed0-bab6-3e844f011efa

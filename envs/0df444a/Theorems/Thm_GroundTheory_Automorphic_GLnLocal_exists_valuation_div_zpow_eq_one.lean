@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_exists_valuation_div_zpow_eq_one
 -- name    : GroundTheory.Automorphic.GLnLocal.exists_valuation_div_zpow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:31:03.335732+00:00
 -- url     : https://prove2.me/theorems/d131bf70-d59b-4ff0-9895-d431c19e7b78

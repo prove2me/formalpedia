@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isRegular_map_X
 -- name    : GlobalTheory.isRegular_map_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:05:47.112415+00:00
 -- url     : https://prove2.me/theorems/a4d9d76d-a661-4df1-817c-be1305d01240

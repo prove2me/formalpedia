@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_whittaker_jHyp_eq_orbK
 -- name    : GlobalTheory.whittaker_jHyp_eq_orbK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:25:00.023361+00:00
 -- url     : https://prove2.me/theorems/2aeff6b9-9b35-4d6d-9c3a-2e901afc68e1

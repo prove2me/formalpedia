@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_Abelian_isCoprime____Sq_a9e3a7b07819
 -- name    : P2M_GroundTheory_Arith_Abelian_isCoprime____Sq_a9e3a7b07819
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:19:27.448803+00:00
 -- url     : https://prove2.me/theorems/6cfe7490-88ee-4954-aaba-77a600b0af31

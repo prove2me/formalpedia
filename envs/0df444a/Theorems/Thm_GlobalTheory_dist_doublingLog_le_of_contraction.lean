@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dist_doublingLog_le_of_contraction
 -- name    : GlobalTheory.dist_doublingLog_le_of_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:01:41.77902+00:00
 -- url     : https://prove2.me/theorems/3adba9ce-a8c7-430b-8ea3-3ede93f7275a

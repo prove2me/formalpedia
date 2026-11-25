@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_selfDual_hermitianLattice_exists_norm_one_mod
 -- name    : GlobalTheory.T.selfDual_hermitianLattice_exists_norm_one_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:57:46.070808+00:00
 -- url     : https://prove2.me/theorems/5500d6a7-5221-44ac-8e37-3e261ae88a4a

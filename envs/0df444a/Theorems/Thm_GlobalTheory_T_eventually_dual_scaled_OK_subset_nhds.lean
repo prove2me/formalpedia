@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eventually_dual_scaled_OK_subset_nhds
 -- name    : GlobalTheory.T.eventually_dual_scaled_OK_subset_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:33:38.460727+00:00
 -- url     : https://prove2.me/theorems/38bab333-5b90-44a7-8eab-bcd9e9a3fbbd

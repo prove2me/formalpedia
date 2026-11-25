@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilSmooth_jx_mem_induced
 -- name    : GlobalTheory.WeilSmooth.jx_mem_induced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:54:48.620728+00:00
 -- url     : https://prove2.me/theorems/e03388ee-42eb-4892-9343-7fd0245eb46d

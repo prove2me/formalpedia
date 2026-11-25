@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trdeg_eq_of_basis_kaehler
 -- name    : GlobalTheory.trdeg_eq_of_basis_kaehler
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:23:51.442678+00:00
 -- url     : https://prove2.me/theorems/e39919d9-10e5-4925-92fe-b0ccf3d816c2

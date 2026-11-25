@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_predictableCompensationFromRectangleCounts
 -- name    : Kyprianou.Ch04.predictableCompensationFromRectangleCounts
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:14:49.922805+00:00
 -- url     : https://prove2.me/theorems/116e50ef-bfb1-4ca7-b70f-c6d8b3d57954

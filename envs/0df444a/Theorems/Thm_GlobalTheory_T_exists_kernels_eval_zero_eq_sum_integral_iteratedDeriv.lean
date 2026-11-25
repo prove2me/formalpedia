@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_kernels_eval_zero_eq_sum_integral_iteratedDeriv
 -- name    : GlobalTheory.T.exists_kernels_eval_zero_eq_sum_integral_iteratedDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:36:55.713138+00:00
 -- url     : https://prove2.me/theorems/9a07defd-390b-438a-a87b-5d77126b664c

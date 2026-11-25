@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_integral_fourierInv_smul_eq_of_integrable
 -- name    : GroundTheory.Automorphic.Sobolev.integral_fourierInv_smul_eq_of_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:34:30.654214+00:00
 -- url     : https://prove2.me/theorems/8e11eeb5-ff7f-4eb5-b6fc-2b94dcd35c2c

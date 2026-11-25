@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_capelli_eq_sum_word
 -- name    : GroundTheory.Automorphic.HarishChandra.capelli_eq_sum_word
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:45.339565+00:00
 -- url     : https://prove2.me/theorems/f070cb87-f487-4148-bb5d-664dcfe52b63

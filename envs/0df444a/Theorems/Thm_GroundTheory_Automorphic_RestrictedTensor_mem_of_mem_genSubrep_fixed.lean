@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_mem_of_mem_genSubrep_fixed
 -- name    : GroundTheory.Automorphic.RestrictedTensor.mem_of_mem_genSubrep_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:33:15.135827+00:00
 -- url     : https://prove2.me/theorems/ac594411-e762-4120-a88d-8e62f13d7084

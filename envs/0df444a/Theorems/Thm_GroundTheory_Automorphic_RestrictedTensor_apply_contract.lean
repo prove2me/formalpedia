@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_apply_contract
 -- name    : GroundTheory.Automorphic.RestrictedTensor.apply_contract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:33:00.035801+00:00
 -- url     : https://prove2.me/theorems/9f7064b0-a999-496e-9a4c-a1902d3e4b00

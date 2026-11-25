@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CoinvExact_coinvMap_exact
 -- name    : GlobalTheory.CompanionTheory.CoinvExact.coinvMap_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:42:36.180366+00:00
 -- url     : https://prove2.me/theorems/d11d7360-9860-46f4-974b-5845e557169c

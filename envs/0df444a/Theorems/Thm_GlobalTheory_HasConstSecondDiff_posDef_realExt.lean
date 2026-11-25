@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasConstSecondDiff_posDef_realExt
 -- name    : GlobalTheory.HasConstSecondDiff.posDef_realExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:01:53.32157+00:00
 -- url     : https://prove2.me/theorems/10e7ff3f-51fe-47a1-bbff-7f375b703abe

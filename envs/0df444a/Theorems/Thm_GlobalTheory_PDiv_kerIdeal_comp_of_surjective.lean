@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_kerIdeal_comp_of_surjective
 -- name    : GlobalTheory.PDiv.kerIdeal_comp_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:36:52.163165+00:00
 -- url     : https://prove2.me/theorems/f4422f40-ce77-4c56-ac2c-bde6dd70d8cb

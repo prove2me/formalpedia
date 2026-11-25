@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Etale_isBaseChangeSection_of_isIso
 -- name    : GroundTheory.Arith.Etale.isBaseChangeSection_of_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:27:09.188734+00:00
 -- url     : https://prove2.me/theorems/b7036455-77b6-480a-87f9-b1b53a566e06

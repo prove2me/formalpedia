@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_capelliMatrix_pow_succ_apply
 -- name    : GroundTheory.Automorphic.HarishChandra.capelliMatrix_pow_succ_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:30:11.531387+00:00
 -- url     : https://prove2.me/theorems/f530e6d5-b1c7-4589-a6d7-5822912c4c09

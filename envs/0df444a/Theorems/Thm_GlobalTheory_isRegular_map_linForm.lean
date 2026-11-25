@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isRegular_map_linForm
 -- name    : GlobalTheory.isRegular_map_linForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:01:31.458005+00:00
 -- url     : https://prove2.me/theorems/0264f23b-7b41-4d68-b4bd-2e96736a2ea7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smul_away_bijective
 -- name    : GlobalTheory.smul_away_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:43:02.427343+00:00
 -- url     : https://prove2.me/theorems/a348c798-0fa5-471a-8e05-a13529b13c41

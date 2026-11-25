@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_mem_iwahori_iff
 -- name    : GroundTheory.Automorphic.GLnLocal.mem_iwahori_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:40:39.460568+00:00
 -- url     : https://prove2.me/theorems/f3c501c1-1ef8-4681-b741-fa7209837f8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Etale_existsUnique_hom_app_top
 -- name    : GroundTheory.Arith.Etale.existsUnique_hom_app_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:26:43.341212+00:00
 -- url     : https://prove2.me/theorems/60efddb9-1872-4fa8-aca1-96114e29f067

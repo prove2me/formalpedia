@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_complete_discreteValuationRing_ker_eq
 -- name    : GlobalTheory.exists_complete_discreteValuationRing_ker_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:02:03.239007+00:00
 -- url     : https://prove2.me/theorems/b93c1c93-67a6-4121-a16a-980b470497dc

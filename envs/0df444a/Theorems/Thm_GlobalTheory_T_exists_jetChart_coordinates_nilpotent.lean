@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_jetChart_coordinates_nilpotent
 -- name    : GlobalTheory.T.exists_jetChart_coordinates_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:35:03.273863+00:00
 -- url     : https://prove2.me/theorems/57b79db2-9504-48ff-a7f2-25cd7cbe0449

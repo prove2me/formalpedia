@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_and_isNormalScheme_of_smooth_dvr
 -- name    : GlobalTheory.isIntegral_and_isNormalScheme_of_smooth_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:57:06.597895+00:00
 -- url     : https://prove2.me/theorems/6bc42002-4173-4a58-a3c9-3d86cd3ed218

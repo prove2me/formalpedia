@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePair_hasSum_pair
 -- name    : GlobalTheory.LatticePair.hasSum_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:00:32.736724+00:00
 -- url     : https://prove2.me/theorems/311904b1-63d7-4fbc-9494-984a652ad7d9

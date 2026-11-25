@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_discreteValuationSubring_dominating_of_essFiniteType
 -- name    : GlobalTheory.exists_discreteValuationSubring_dominating_of_essFiniteType
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:34.158984+00:00
 -- url     : https://prove2.me/theorems/ec793ef6-4223-4c94-b2e2-cc17621e3e3a

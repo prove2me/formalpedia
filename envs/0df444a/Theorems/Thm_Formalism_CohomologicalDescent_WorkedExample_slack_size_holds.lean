@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_slack_size_holds
 -- name    : Formalism.CohomologicalDescent.WorkedExample.slack_size_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:01:21.0001+00:00
 -- url     : https://prove2.me/theorems/ac97a027-6de6-45de-aae4-6a59f953d995

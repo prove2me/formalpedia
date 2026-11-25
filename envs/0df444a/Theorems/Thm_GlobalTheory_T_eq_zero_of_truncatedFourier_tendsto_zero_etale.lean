@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_zero_of_truncatedFourier_tendsto_zero_etale
 -- name    : GlobalTheory.T.eq_zero_of_truncatedFourier_tendsto_zero_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:45.132282+00:00
 -- url     : https://prove2.me/theorems/58ec3850-a41e-4f41-862c-a9517cd15aea

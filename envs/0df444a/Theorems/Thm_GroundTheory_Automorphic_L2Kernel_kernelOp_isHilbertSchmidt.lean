@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_L2Kernel_kernelOp_isHilbertSchmidt
 -- name    : GroundTheory.Automorphic.L2Kernel.kernelOp_isHilbertSchmidt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:32:12.015805+00:00
 -- url     : https://prove2.me/theorems/26d0f898-face-49a8-a024-620a079aae98

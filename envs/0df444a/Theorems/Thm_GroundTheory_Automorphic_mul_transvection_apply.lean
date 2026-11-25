@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mul_transvection_apply
 -- name    : GroundTheory.Automorphic.mul_transvection_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:35:20.937976+00:00
 -- url     : https://prove2.me/theorems/73aa98f3-98d2-49b6-834a-34b474334a01

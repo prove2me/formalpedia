@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_topFormOrd_vw_nonneg_iff
 -- name    : GlobalTheory.topFormOrd_vw_nonneg_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:12.703511+00:00
 -- url     : https://prove2.me/theorems/d4b0d14b-b38f-40ea-9dda-0f21d434214a

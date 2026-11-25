@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_lmat_eq_rmat
 -- name    : GroundTheory.Automorphic.Anisotropic.lmat_eq_rmat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:32.060177+00:00
 -- url     : https://prove2.me/theorems/9902e186-bde9-4bf2-b818-89eba6c107fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Etale_existsUnique_pullbackSection
 -- name    : GroundTheory.Arith.Etale.existsUnique_pullbackSection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:27:37.07905+00:00
 -- url     : https://prove2.me/theorems/dbff0b6b-72b4-477b-b075-3ca9a256cd44

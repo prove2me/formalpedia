@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactSelfAdjoint_countable_eigenvalues
 -- name    : GroundTheory.Automorphic.CompactSelfAdjoint.countable_eigenvalues
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:29:04.38498+00:00
 -- url     : https://prove2.me/theorems/475941cd-ebe1-44f7-a70a-b0bb6a247e23

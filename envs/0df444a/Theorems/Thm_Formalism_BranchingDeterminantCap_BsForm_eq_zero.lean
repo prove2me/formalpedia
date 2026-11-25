@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_BsForm_eq_zero
 -- name    : Formalism.BranchingDeterminantCap.BsForm.eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:41:29.045114+00:00
 -- url     : https://prove2.me/theorems/dad79a39-3dc6-4ca0-a9c9-17b5dc30f35b

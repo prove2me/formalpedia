@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLiftGL_compactOpen_basis
 -- name    : GlobalTheory.ThetaLiftGL.compactOpen_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:44:23.408553+00:00
 -- url     : https://prove2.me/theorems/b4e67d6c-868a-442c-b13e-ce1d9718d8d9

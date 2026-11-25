@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nabValN_lower_bound_baseChange
 -- name    : GlobalTheory.nabValN_lower_bound_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:24:11.70121+00:00
 -- url     : https://prove2.me/theorems/83cb7b55-273b-44b9-801e-0424e8467a73

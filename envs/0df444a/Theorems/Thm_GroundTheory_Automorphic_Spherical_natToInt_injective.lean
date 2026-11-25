@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_natToInt_injective
 -- name    : GroundTheory.Automorphic.Spherical.natToInt_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:34:00.421154+00:00
 -- url     : https://prove2.me/theorems/a809a365-5b0f-4f9f-a497-8cd3253d5c26

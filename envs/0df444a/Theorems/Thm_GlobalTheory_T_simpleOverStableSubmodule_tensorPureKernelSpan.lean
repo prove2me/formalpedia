@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_simpleOverStableSubmodule_tensorPureKernelSpan
 -- name    : GlobalTheory.T.simpleOverStableSubmodule_tensorPureKernelSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:22:28.386884+00:00
 -- url     : https://prove2.me/theorems/423dfc3c-1b61-47e3-a7f2-b9a214694579

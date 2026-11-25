@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_det_glEquiv
 -- name    : GroundTheory.Automorphic.Measures.det_glEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:32:40.732022+00:00
 -- url     : https://prove2.me/theorems/7bc0ebfc-8567-4209-a700-3f688dd91104

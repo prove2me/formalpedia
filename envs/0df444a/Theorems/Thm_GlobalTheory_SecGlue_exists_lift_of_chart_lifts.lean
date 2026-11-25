@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_exists_lift_of_chart_lifts
 -- name    : GlobalTheory.SecGlue.exists_lift_of_chart_lifts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:51:35.345386+00:00
 -- url     : https://prove2.me/theorems/1a38ef40-e78a-4664-86c9-a23b7cc4d446

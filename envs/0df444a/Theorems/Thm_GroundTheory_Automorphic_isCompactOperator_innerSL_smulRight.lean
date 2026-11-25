@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isCompactOperator_innerSL_smulRight
 -- name    : GroundTheory.Automorphic.isCompactOperator_innerSL_smulRight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:36:05.27521+00:00
 -- url     : https://prove2.me/theorems/5eed3092-e2fc-4904-9c5a-73c6a013b4be

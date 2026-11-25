@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ks_cancel
 -- name    : GlobalTheory.ks_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:02:44.526435+00:00
 -- url     : https://prove2.me/theorems/e7d630e8-f1b3-459f-9e34-f191bdab373a

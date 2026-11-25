@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_norm_iteratedDeriv_rem_le
 -- name    : GroundTheory.Automorphic.LineKernel.norm_iteratedDeriv_rem_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:38:28.290345+00:00
 -- url     : https://prove2.me/theorems/a4cd429c-76a9-4259-bb74-ecfe3fe0a990

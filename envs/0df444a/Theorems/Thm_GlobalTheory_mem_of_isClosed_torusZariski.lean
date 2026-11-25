@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_of_isClosed_torusZariski
 -- name    : GlobalTheory.mem_of_isClosed_torusZariski
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:11:17.914212+00:00
 -- url     : https://prove2.me/theorems/792a0e85-9f2c-4c06-be30-23e2b50462fc

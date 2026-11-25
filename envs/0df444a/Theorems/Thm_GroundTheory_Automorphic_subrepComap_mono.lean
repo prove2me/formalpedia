@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_subrepComap_mono
 -- name    : GroundTheory.Automorphic.subrepComap_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:35:41.8776+00:00
 -- url     : https://prove2.me/theorems/01c03dbe-90de-4543-95fe-380fe79478ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_exists_irrChar_add
 -- name    : GlobalTheory.BI.exists_irrChar_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:12.686838+00:00
 -- url     : https://prove2.me/theorems/c2e5475f-80ed-42dd-a795-1f1d10ae34f8

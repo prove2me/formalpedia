@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormChar_exists_prime_norm_char_ne_one
 -- name    : GlobalTheory.NormChar.exists_prime_norm_char_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:36:30.435771+00:00
 -- url     : https://prove2.me/theorems/b1daf921-5216-44ae-8cb6-9fa4004f14a8

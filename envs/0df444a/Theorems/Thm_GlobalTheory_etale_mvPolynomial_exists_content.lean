@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_etale_mvPolynomial_exists_content
 -- name    : GlobalTheory.etale_mvPolynomial_exists_content
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:18:34.127526+00:00
 -- url     : https://prove2.me/theorems/b679a89e-83f4-4ca8-9670-9241c493656c

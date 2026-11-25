@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_sub_avgOver_mem_span
 -- name    : GroundTheory.Automorphic.Parabolic.sub_avgOver_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:33:00.644186+00:00
 -- url     : https://prove2.me/theorems/a89da0a4-a1d6-4b46-990f-f5abdade8fe6

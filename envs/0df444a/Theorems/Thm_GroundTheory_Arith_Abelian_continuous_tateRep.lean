@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_continuous_tateRep
 -- name    : GroundTheory.Arith.Abelian.continuous_tateRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:26:11.778794+00:00
 -- url     : https://prove2.me/theorems/840ef62b-7a3b-46f2-a360-1d70c29571cf

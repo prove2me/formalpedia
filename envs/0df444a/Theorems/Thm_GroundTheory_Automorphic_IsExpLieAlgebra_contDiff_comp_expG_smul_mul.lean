@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_contDiff_comp_expG_smul_mul
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.contDiff_comp_expG_smul_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:48.004954+00:00
 -- url     : https://prove2.me/theorems/cce0ac18-21e8-43e4-be6b-df5dff4b8866

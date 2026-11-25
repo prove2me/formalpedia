@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_associated_monicAssoc
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.associated_monicAssoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:28:58.81874+00:00
 -- url     : https://prove2.me/theorems/5cce511e-b6cd-4b37-9245-43c82b093620

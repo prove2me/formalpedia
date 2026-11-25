@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_measurableSet_Jset
 -- name    : GlobalTheory.SingleBlock.measurableSet_Jset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:49:33.658468+00:00
 -- url     : https://prove2.me/theorems/02899359-a2d1-4f5e-8067-5a0632d275c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_fischer_monomial
 -- name    : GroundTheory.Automorphic.HarishChandra.fischer_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:30:06.990814+00:00
 -- url     : https://prove2.me/theorems/ffe3afb6-8277-435c-a196-04317aac5c95

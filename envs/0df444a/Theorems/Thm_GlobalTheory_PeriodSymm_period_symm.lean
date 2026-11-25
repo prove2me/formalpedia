@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodSymm_period_symm
 -- name    : GlobalTheory.PeriodSymm.period_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:46:17.826548+00:00
 -- url     : https://prove2.me/theorems/fa06ae74-1c8a-4fe0-b4a6-39d96851c154

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_liftsToSymplectic_of_mem
 -- name    : GlobalTheory.liftsToSymplectic_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:15:43.147156+00:00
 -- url     : https://prove2.me/theorems/c87c55a2-bd9b-4771-ae42-9c08498ff8fe

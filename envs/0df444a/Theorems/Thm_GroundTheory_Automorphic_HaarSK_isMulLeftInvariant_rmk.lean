@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HaarSK_isMulLeftInvariant_rmk
 -- name    : GroundTheory.Automorphic.HaarSK.isMulLeftInvariant_rmk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:14:53.094778+00:00
 -- url     : https://prove2.me/theorems/e007788f-5aae-417c-b118-3b3675a063c3

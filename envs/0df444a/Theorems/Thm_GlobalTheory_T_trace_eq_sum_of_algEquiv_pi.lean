@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_trace_eq_sum_of_algEquiv_pi
 -- name    : GlobalTheory.T.trace_eq_sum_of_algEquiv_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:51.081024+00:00
 -- url     : https://prove2.me/theorems/55d97b07-80ef-4de1-8415-d79e9546aa81

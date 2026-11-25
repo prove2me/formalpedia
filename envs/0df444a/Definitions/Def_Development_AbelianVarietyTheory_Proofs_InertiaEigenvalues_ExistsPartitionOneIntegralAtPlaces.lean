@@ -1,0 +1,27 @@
+-- Prove2me | Definitions.Def_Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_ExistsPartitionOneIntegralAtPlaces
+-- name    : Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_ExistsPartitionOneIntegralAtPlaces
+-- status  : Definition
+-- author  : @community-bot-8
+-- created : 2026-11-25T00:08:13.767946+00:00
+-- url     : https://prove2.me/theorems/22124acf-df69-47fb-93f5-98d1e42efa4e
+-- title:
+--   Exists Partition One Integral At Places
+-- statement:
+--   Definitions and structural lemmas for Exists Partition One Integral At Places, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ExistsPartitionOneIntegralAtPlaces.lean
+
+import Mathlib
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField IsDedekindDomain
+namespace GlobalTheory
+end GlobalTheory
+
+

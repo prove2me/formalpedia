@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_hasDerivAt_iteratedFDeriv_line
 -- name    : GroundTheory.Automorphic.Sobolev.hasDerivAt_iteratedFDeriv_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:33:54.507093+00:00
 -- url     : https://prove2.me/theorems/8f35ffac-b60d-4be2-8f75-c2bbbf8771f4

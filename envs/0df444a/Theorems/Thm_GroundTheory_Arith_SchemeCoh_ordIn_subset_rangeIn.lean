@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ordIn_subset_rangeIn
 -- name    : GroundTheory.Arith.SchemeCoh.ordIn_subset_rangeIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:28:31.776895+00:00
 -- url     : https://prove2.me/theorems/7ddd8073-2d85-4412-b931-cc144c1aedee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CovariantDbarLeibniz_isPosFrame_tautPairGram
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CovariantDbarLeibniz.isPosFrame_tautPairGram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:44:16.476009+00:00
 -- url     : https://prove2.me/theorems/249cf787-2712-43ec-8d01-31e9c87ed670

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_end_eq_zero_of_quad_const_on_cosets_zmod
 -- name    : GlobalTheory.end_eq_zero_of_quad_const_on_cosets_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:46.244904+00:00
 -- url     : https://prove2.me/theorems/9d963388-1e5f-49d8-8177-282bc57faef9

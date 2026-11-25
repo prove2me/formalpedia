@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_analyticAt_eval
 -- name    : GroundTheory.Global.Elliptic.analyticAt_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:37:50.665893+00:00
 -- url     : https://prove2.me/theorems/278caa82-63f2-4cae-baa8-5b26ecc6ec09

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QcSub_subMap_finite
 -- name    : GlobalTheory.QcSub.subMap_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:03:41.452901+00:00
 -- url     : https://prove2.me/theorems/b3ed049f-645c-432a-a9d9-c3ca249f5789

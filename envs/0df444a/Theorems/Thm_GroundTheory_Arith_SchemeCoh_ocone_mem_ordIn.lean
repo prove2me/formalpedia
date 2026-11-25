@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ocone_mem_ordIn
 -- name    : GroundTheory.Arith.SchemeCoh.ocone_mem_ordIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:28:19.908043+00:00
 -- url     : https://prove2.me/theorems/222b4432-9d24-48b3-b5a2-7fb3b0bb96e4

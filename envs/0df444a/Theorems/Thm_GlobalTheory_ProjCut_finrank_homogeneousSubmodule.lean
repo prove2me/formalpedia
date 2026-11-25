@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCut_finrank_homogeneousSubmodule
 -- name    : GlobalTheory.ProjCut.finrank_homogeneousSubmodule
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:07.144664+00:00
 -- url     : https://prove2.me/theorems/b3842eb4-f3bc-46fd-88ae-29e6677f62fa

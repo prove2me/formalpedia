@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_antitone_cutoff
 -- name    : GroundTheory.Automorphic.LineKernel.antitone_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:32:12.761318+00:00
 -- url     : https://prove2.me/theorems/5b12fbee-24a6-4d60-8c1f-d27aaabd426d

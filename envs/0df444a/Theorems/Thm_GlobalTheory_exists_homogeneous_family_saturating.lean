@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_homogeneous_family_saturating
 -- name    : GlobalTheory.exists_homogeneous_family_saturating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:47:40.617106+00:00
 -- url     : https://prove2.me/theorems/4b333787-463c-472a-8230-86706849912c

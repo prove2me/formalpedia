@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_card_large_primes_class_le
 -- name    : GlobalTheory.Lin.card_large_primes_class_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:08:21.241289+00:00
 -- url     : https://prove2.me/theorems/6c7f5d6f-3b69-45f2-aed1-538f633233da

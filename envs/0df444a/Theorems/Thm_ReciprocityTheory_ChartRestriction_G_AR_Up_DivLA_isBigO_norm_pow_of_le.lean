@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_DivLA_isBigO_norm_pow_of_le
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.DivLA.isBigO_norm_pow_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:50:02.268588+00:00
 -- url     : https://prove2.me/theorems/db8de36b-1143-4bde-aaf8-3eb8aea54d92

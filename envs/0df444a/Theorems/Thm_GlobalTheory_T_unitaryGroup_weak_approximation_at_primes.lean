@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryGroup_weak_approximation_at_primes
 -- name    : GlobalTheory.T.unitaryGroup_weak_approximation_at_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:01:23.373981+00:00
 -- url     : https://prove2.me/theorems/83c4c27e-f184-4662-b78c-759f01083268

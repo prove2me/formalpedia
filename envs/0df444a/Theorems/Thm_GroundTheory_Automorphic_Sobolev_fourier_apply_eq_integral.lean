@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_fourier_apply_eq_integral
 -- name    : GroundTheory.Automorphic.Sobolev.fourier_apply_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:20.342169+00:00
 -- url     : https://prove2.me/theorems/99c4531b-eb67-4df1-bb99-d1e1656ac3d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_mem_vanishingOn
 -- name    : GroundTheory.Automorphic.Whittaker.mem_vanishingOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:34:22.463629+00:00
 -- url     : https://prove2.me/theorems/47b70683-bd56-4c2b-b9f2-4fa0cd73b171

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Superpos_exists_bound
 -- name    : GlobalTheory.RealWeil.Superpos.exists_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:48:54.38795+00:00
 -- url     : https://prove2.me/theorems/bad2912f-cc67-4811-aaec-6c8b3a96d3eb

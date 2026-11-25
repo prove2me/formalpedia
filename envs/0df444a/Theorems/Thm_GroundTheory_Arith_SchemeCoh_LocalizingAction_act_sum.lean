@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_LocalizingAction_act_sum
 -- name    : GroundTheory.Arith.SchemeCoh.LocalizingAction.act_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:27:49.604616+00:00
 -- url     : https://prove2.me/theorems/2d3b1091-d7c9-429c-ae2a-7a8562036c0c

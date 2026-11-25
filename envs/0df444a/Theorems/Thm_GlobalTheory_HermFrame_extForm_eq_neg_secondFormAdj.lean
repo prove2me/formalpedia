@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_extForm_eq_neg_secondFormAdj
 -- name    : GlobalTheory.HermFrame.extForm_eq_neg_secondFormAdj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:37:50.926331+00:00
 -- url     : https://prove2.me/theorems/8de78b34-44ed-4989-8fda-2c0706622dc3

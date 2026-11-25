@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GL2Classical_card_orbit_pos
 -- name    : GroundTheory.Automorphic.GL2Classical.card_orbit_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:30:25.566597+00:00
 -- url     : https://prove2.me/theorems/7f110f0b-2fe7-4fdc-8a4e-6c2aec803a53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_weil_heis_intertwine
 -- name    : GlobalTheory.KSp.weil_heis_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:28:10.168127+00:00
 -- url     : https://prove2.me/theorems/1f675e2d-f97d-41c1-9402-f2e9125788e5

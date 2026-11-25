@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_coordsVec_baseMap
 -- name    : GroundTheory.Automorphic.Anisotropic.coordsVec_baseMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:29:21.727146+00:00
 -- url     : https://prove2.me/theorems/ee00f0ae-648f-402b-8672-4dbe984e1f81

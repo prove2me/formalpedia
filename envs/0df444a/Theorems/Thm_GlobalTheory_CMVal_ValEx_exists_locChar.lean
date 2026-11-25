@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_exists_locChar
 -- name    : GlobalTheory.CMVal.ValEx.exists_locChar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:45.437239+00:00
 -- url     : https://prove2.me/theorems/8fbe7664-fd5f-4dc3-bb6e-4384e44f1333

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_le_trace_of_isIntegral
 -- name    : GlobalTheory.finrank_le_trace_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:50:41.953558+00:00
 -- url     : https://prove2.me/theorems/83e6cf44-5f19-4c98-9235-adc397abd5a4

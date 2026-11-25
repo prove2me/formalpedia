@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isReduced_tensorObj_complex
 -- name    : GlobalTheory.isReduced_tensorObj_complex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:30.404815+00:00
 -- url     : https://prove2.me/theorems/a8edc1f7-3b1b-4796-afae-f4c6f77b0a13

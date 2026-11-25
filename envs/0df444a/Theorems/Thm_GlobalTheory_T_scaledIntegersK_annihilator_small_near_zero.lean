@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_scaledIntegersK_annihilator_small_near_zero
 -- name    : GlobalTheory.T.scaledIntegersK_annihilator_small_near_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:56:15.704644+00:00
 -- url     : https://prove2.me/theorems/544051c4-6c04-47fb-9a40-cd374f79f2cc

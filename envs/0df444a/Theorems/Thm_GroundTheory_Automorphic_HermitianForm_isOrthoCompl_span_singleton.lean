@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_isOrthoCompl_span_singleton
 -- name    : GroundTheory.Automorphic.HermitianForm.isOrthoCompl_span_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:31:47.435809+00:00
 -- url     : https://prove2.me/theorems/67951da2-b030-487f-bbfc-0c137ff85238

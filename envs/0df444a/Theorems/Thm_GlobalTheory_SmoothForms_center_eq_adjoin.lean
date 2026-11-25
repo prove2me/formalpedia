@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_center_eq_adjoin
 -- name    : GlobalTheory.SmoothForms.center_eq_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:13:38.467182+00:00
 -- url     : https://prove2.me/theorems/d23658f0-3673-4256-80ff-d79ae16ae07c

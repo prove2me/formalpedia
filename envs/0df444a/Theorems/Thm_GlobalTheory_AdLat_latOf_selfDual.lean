@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_latOf_selfDual
 -- name    : GlobalTheory.AdLat.latOf_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:34:43.92281+00:00
 -- url     : https://prove2.me/theorems/c13679cb-ae8a-4c82-8f8f-58be1f3a77bd

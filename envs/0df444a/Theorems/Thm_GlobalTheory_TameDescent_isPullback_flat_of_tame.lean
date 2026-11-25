@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameDescent_isPullback_flat_of_tame
 -- name    : GlobalTheory.TameDescent.isPullback_flat_of_tame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:03:40.478356+00:00
 -- url     : https://prove2.me/theorems/0815615a-86c7-4606-bad9-fc6317ff6074

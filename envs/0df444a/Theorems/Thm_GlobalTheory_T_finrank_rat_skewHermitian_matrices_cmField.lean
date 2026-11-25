@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finrank_rat_skewHermitian_matrices_cmField
 -- name    : GlobalTheory.T.finrank_rat_skewHermitian_matrices_cmField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:39:50.423603+00:00
 -- url     : https://prove2.me/theorems/ffdc570f-b291-41e1-a824-82d41a60ba59

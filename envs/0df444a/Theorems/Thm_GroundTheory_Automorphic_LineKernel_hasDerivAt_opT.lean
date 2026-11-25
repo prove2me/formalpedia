@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_hasDerivAt_opT
 -- name    : GroundTheory.Automorphic.LineKernel.hasDerivAt_opT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:32:10.320825+00:00
 -- url     : https://prove2.me/theorems/610c38f2-2035-4790-b70f-76b0d07443f4

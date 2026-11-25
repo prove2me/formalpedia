@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_limPunctured_eventuallyEq_of_analyticAt
 -- name    : GroundTheory.Global.Elliptic.limPunctured_eventuallyEq_of_analyticAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:38:27.132829+00:00
 -- url     : https://prove2.me/theorems/6d01cb4c-323f-4105-8512-9d9866541fad

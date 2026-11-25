@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_siegelParabolic_preserves_schwartzBruhat
 -- name    : GlobalTheory.T.siegelParabolic_preserves_schwartzBruhat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:17:14.146109+00:00
 -- url     : https://prove2.me/theorems/b3cef446-5e8c-4006-b2d0-3cfcfe9ff7da

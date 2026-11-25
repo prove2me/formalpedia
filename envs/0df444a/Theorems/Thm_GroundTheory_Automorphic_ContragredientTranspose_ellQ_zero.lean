@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_ellQ_zero
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.ellQ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:12.591802+00:00
 -- url     : https://prove2.me/theorems/792e7c33-a3d9-41cc-b899-1a961085f467

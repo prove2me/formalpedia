@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ArchWhittaker_wronskian_eq_zero
 -- name    : GroundTheory.Automorphic.ArchWhittaker.wronskian_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:28:43.905105+00:00
 -- url     : https://prove2.me/theorems/036b14d1-b9b1-44ea-a3e3-7aa75d36a34e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flatFactorReduction_kernel_all_nonFreeUnread_entries
 -- name    : GlobalTheory.T.flatFactorReduction_kernel_all_nonFreeUnread_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:22:31.697189+00:00
 -- url     : https://prove2.me/theorems/c5a72259-d092-4251-a691-4c95a4724ccb

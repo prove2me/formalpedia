@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sq_norm_le_mul_of_iterated_one_parameter_integral_le
 -- name    : GlobalTheory.T.sq_norm_le_mul_of_iterated_one_parameter_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:59:05.929498+00:00
 -- url     : https://prove2.me/theorems/73ab40a0-9bc3-4a7f-abec-bae5e5038168

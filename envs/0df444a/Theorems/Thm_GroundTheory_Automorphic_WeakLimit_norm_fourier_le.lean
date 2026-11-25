@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_WeakLimit_norm_fourier_le
 -- name    : GroundTheory.Automorphic.WeakLimit.norm_fourier_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:33:59.887596+00:00
 -- url     : https://prove2.me/theorems/260274b9-f0a1-498c-af22-e23ea96e7cd7

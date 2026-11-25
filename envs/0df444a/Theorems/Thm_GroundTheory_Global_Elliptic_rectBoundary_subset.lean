@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_rectBoundary_subset
 -- name    : GroundTheory.Global.Elliptic.rectBoundary_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:39:03.799482+00:00
 -- url     : https://prove2.me/theorems/6bb40d08-c028-4a68-bdc9-c4f46fe9676d

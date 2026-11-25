@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_skewHermitian_log_of_unitary
 -- name    : GlobalTheory.T.exists_skewHermitian_log_of_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:38:09.885802+00:00
 -- url     : https://prove2.me/theorems/07b98424-8700-4350-a703-b723a9ccbdd5

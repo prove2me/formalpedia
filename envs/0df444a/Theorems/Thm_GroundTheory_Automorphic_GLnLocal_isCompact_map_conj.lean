@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_isCompact_map_conj
 -- name    : GroundTheory.Automorphic.GLnLocal.isCompact_map_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:30:00.306281+00:00
 -- url     : https://prove2.me/theorems/6930961a-bdbb-448d-a83d-95c04ad8d9f1

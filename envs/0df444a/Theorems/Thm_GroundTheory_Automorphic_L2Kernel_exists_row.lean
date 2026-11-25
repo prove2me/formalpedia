@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_L2Kernel_exists_row
 -- name    : GroundTheory.Automorphic.L2Kernel.exists_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:32:30.477342+00:00
 -- url     : https://prove2.me/theorems/be6c6e1e-eab1-4cae-8486-001927109795

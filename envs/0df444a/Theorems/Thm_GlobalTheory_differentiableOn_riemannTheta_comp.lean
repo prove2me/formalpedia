@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableOn_riemannTheta_comp
 -- name    : GlobalTheory.differentiableOn_riemannTheta_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:15:48.272723+00:00
 -- url     : https://prove2.me/theorems/f10be609-4c43-4674-9cfd-a5ab69ad06f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_transvection_mem_integer
 -- name    : GroundTheory.Automorphic.Measures.transvection_mem_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:32:54.513163+00:00
 -- url     : https://prove2.me/theorems/ffcc9164-0faf-410a-b30e-672902401974

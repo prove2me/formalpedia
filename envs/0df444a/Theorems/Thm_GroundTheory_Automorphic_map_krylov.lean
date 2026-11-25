@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_map_krylov
 -- name    : GroundTheory.Automorphic.map_krylov
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:36:03.721806+00:00
 -- url     : https://prove2.me/theorems/061abfb4-25e9-402e-b4bc-eacb1398fe89

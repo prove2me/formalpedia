@@ -1,6 +1,6 @@
 {
   "generated_by": "scripts/export/dump_formalpedia.py",
-  "generated_at": "2026-11-24T23:50:06.705780+00:00",
+  "generated_at": "2026-11-25T00:10:06.692018+00:00",
   "licensing": {
     "terms_version": "public-content-v3",
     "effective_at": "2026-09-24T15:55:00Z",
@@ -18,10 +18,10 @@
       "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
       "toolchain": "leanprover/lean4:v4.33.1",
       "is_default": true,
-      "theorems": 481997,
-      "definitions": 151072,
-      "solutions": 430130,
-      "edges": 4378058
+      "theorems": 483660,
+      "definitions": 151247,
+      "solutions": 431840,
+      "edges": 4388611
     },
     {
       "dir": "c5ea003",

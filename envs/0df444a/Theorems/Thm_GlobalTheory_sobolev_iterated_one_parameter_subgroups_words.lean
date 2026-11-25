@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sobolev_iterated_one_parameter_subgroups_words
 -- name    : GlobalTheory.sobolev_iterated_one_parameter_subgroups_words
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:33:57.717613+00:00
 -- url     : https://prove2.me/theorems/3f331997-9452-4e31-ab56-cad1565d7d17

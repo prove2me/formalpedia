@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_poisson_gaussian_lattice_cos
 -- name    : GlobalTheory.poisson_gaussian_lattice_cos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:38:54.816498+00:00
 -- url     : https://prove2.me/theorems/3e77d80e-69d6-474c-88d0-f6b6d9bd7e96

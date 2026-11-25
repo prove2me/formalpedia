@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_exists_rowsReducedOn_univ
 -- name    : GroundTheory.Automorphic.GLnLocal.exists_rowsReducedOn_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:30:00.484663+00:00
 -- url     : https://prove2.me/theorems/cf957563-6fc6-4fc7-bfa1-e490bac7979e

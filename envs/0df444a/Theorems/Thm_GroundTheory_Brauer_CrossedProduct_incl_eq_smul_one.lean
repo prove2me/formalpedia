@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_CrossedProduct_incl_eq_smul_one
 -- name    : GroundTheory.Brauer.CrossedProduct.incl_eq_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:36:45.529475+00:00
 -- url     : https://prove2.me/theorems/624f730a-e311-4d61-91a0-51472b133c6a

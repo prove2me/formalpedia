@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_krylov_col
 -- name    : GroundTheory.Automorphic.krylov_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:35:33.498094+00:00
 -- url     : https://prove2.me/theorems/cdd04d2b-5fbc-4cc6-9afd-83be50822272

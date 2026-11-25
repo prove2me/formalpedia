@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ShortStep_quot_maj
 -- name    : GlobalTheory.SW.ShortStep.quot_maj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:44:29.244831+00:00
 -- url     : https://prove2.me/theorems/8cd06cc4-df58-47b2-9bff-9ea4eb3495ba

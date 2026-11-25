@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_taylorDir_eq_zero_iff
 -- name    : GlobalTheory.taylorDir_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:43:50.927434+00:00
 -- url     : https://prove2.me/theorems/278b09c9-418e-4c18-bfb9-c58e7f98969c

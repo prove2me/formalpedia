@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_isCoverSystem_isBasicCover
 -- name    : GroundTheory.Arith.SchemeCoh.isCoverSystem_isBasicCover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:00:48.029301+00:00
 -- url     : https://prove2.me/theorems/115d9eb9-9003-4668-a49b-83981a243107

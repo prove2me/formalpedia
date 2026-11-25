@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_sub_hsTruncation_apply_basis
 -- name    : GroundTheory.Automorphic.sub_hsTruncation_apply_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:35:50.849937+00:00
 -- url     : https://prove2.me/theorems/504ab37e-336f-4868-b133-7dbbba0faea9

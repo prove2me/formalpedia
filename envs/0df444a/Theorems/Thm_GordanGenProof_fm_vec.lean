@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GordanGenProof_fm_vec
 -- name    : GordanGenProof.fm_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:25:41.115044+00:00
 -- url     : https://prove2.me/theorems/35995a98-7251-47ce-8cd2-675ac4a7ecea

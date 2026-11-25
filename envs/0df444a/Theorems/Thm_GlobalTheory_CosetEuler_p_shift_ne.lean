@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_p_shift_ne
 -- name    : GlobalTheory.CosetEuler.p_shift_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:29.810433+00:00
 -- url     : https://prove2.me/theorems/9c0c62f3-23ff-4508-b1dc-611e1883af2d

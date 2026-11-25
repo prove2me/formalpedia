@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_mul_mem_of_isClosed
 -- name    : GroundTheory.Global.Cyclotomic.mul_mem_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:38:14.619055+00:00
 -- url     : https://prove2.me/theorems/bdbda631-0845-42fb-81b3-c7c964d75550

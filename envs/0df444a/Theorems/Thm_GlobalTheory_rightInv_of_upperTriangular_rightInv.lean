@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rightInv_of_upperTriangular_rightInv
 -- name    : GlobalTheory.rightInv_of_upperTriangular_rightInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:17:18.947825+00:00
 -- url     : https://prove2.me/theorems/f82a01f8-52b7-47f3-8ede-41884ac46099

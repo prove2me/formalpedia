@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramPushout_isReduced_nontrivial_tensor
 -- name    : GlobalTheory.UnramPushout.isReduced_nontrivial_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:46:53.034731+00:00
 -- url     : https://prove2.me/theorems/f9ea0b63-3b0f-49c8-902d-b7d2ed8aada4

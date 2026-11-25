@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticHom_isMonHom_of_additive
 -- name    : GlobalTheory.AnalyticHom.isMonHom_of_additive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:56:50.200238+00:00
 -- url     : https://prove2.me/theorems/4cd0700e-6269-40fd-ac2d-33c83d97d8ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_relIndex_ne_zero_of_le_right
 -- name    : GroundTheory.Automorphic.Parabolic.relIndex_ne_zero_of_le_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:33:04.276123+00:00
 -- url     : https://prove2.me/theorems/b2733c82-5b13-42d5-9a5c-d3e3089b575a

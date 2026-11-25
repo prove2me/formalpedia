@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_powerSum_weighted_ineq
 -- name    : GlobalTheory.powerSum_weighted_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:14:45.974644+00:00
 -- url     : https://prove2.me/theorems/f86930f0-1235-40d4-abb0-8faeb3815b2e

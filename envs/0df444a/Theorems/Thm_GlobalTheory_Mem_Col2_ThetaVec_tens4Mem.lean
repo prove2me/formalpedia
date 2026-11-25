@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Col2_ThetaVec_tens4Mem
 -- name    : GlobalTheory.Mem.Col2.ThetaVec.tens4Mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:32:17.478809+00:00
 -- url     : https://prove2.me/theorems/99736d17-4456-4e27-8537-dcaf13234493

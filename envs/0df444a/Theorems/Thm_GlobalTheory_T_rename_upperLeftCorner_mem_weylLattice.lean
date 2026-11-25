@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rename_upperLeftCorner_mem_weylLattice
 -- name    : GlobalTheory.T.rename_upperLeftCorner_mem_weylLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:33.950082+00:00
 -- url     : https://prove2.me/theorems/ff99d5be-1340-488c-aad8-c5dfdc6cf2d0

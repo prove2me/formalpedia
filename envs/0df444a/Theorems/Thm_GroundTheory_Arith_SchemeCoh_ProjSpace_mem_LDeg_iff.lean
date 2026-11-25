@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_mem_LDeg_iff
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.mem_LDeg_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:28:08.679808+00:00
 -- url     : https://prove2.me/theorems/b9757379-ee54-4732-93ea-7b347cfd8fca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PiSimple_simpleOver_sum
 -- name    : GlobalTheory.PiSimple.simpleOver_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:48:53.629697+00:00
 -- url     : https://prove2.me/theorems/cf35a1a2-08d1-484a-affc-a0bb8eda3a43

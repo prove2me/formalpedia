@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PicDom_isOfFinOrder_of_charZero
 -- name    : GlobalTheory.PicDom.isOfFinOrder_of_charZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:48:00.847975+00:00
 -- url     : https://prove2.me/theorems/f97598ce-2ce5-4269-854c-39e52c9d0c8d

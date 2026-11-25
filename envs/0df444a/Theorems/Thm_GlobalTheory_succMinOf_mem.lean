@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_succMinOf_mem
 -- name    : GlobalTheory.succMinOf_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:54:20.089682+00:00
 -- url     : https://prove2.me/theorems/283492ae-b661-4056-951d-3f3cfab6e7e0

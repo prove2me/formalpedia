@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algHom_sub_aeval_truncTotal_mem
 -- name    : GlobalTheory.algHom_sub_aeval_truncTotal_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:06:30.88273+00:00
 -- url     : https://prove2.me/theorems/8bcf6e29-c37a-4e58-8347-cbfa33bd5024

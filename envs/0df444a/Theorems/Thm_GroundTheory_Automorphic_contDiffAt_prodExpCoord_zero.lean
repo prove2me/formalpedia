@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_contDiffAt_prodExpCoord_zero
 -- name    : GroundTheory.Automorphic.contDiffAt_prodExpCoord_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:34:39.566883+00:00
 -- url     : https://prove2.me/theorems/2c87f274-c3cd-4146-ba03-a3a10fd5a2f8

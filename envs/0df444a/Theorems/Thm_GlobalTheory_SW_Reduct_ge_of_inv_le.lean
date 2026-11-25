@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Reduct_ge_of_inv_le
 -- name    : GlobalTheory.SW.Reduct.ge_of_inv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:45:04.771524+00:00
 -- url     : https://prove2.me/theorems/8dc48808-6248-441c-919a-178eb55f5268

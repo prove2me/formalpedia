@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_isCompact_boxSubgroup
 -- name    : GroundTheory.Automorphic.RestrictedTensor.isCompact_boxSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:32:42.784417+00:00
 -- url     : https://prove2.me/theorems/79c410e8-f51d-42e2-af8a-07a9f127932e

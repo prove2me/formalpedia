@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_d_actC
 -- name    : GroundTheory.Arith.SchemeCoh.d_actC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:37:45.802229+00:00
 -- url     : https://prove2.me/theorems/a6dee7c8-13c2-4c95-ba30-0dc14915f9d5

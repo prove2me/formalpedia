@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_setIntegral_integral_psiK_swap
 -- name    : GlobalTheory.T.setIntegral_integral_psiK_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:57:23.98186+00:00
 -- url     : https://prove2.me/theorems/bd9bdcfe-4cd0-4602-9c41-855c5d80ad15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_shortExact_mul_prime_zmod_tensor_complex
 -- name    : GlobalTheory.T.shortExact_mul_prime_zmod_tensor_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:57:20.814842+00:00
 -- url     : https://prove2.me/theorems/e0f91e75-351d-4265-8cf8-5a7ef930b019

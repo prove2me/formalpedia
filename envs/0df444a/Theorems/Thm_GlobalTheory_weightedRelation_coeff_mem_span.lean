@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weightedRelation_coeff_mem_span
 -- name    : GlobalTheory.weightedRelation_coeff_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:24:35.057772+00:00
 -- url     : https://prove2.me/theorems/98f9b545-3e81-45f8-8baa-fd7ba01f298d

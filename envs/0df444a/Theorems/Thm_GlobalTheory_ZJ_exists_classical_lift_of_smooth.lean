@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_exists_classical_lift_of_smooth
 -- name    : GlobalTheory.ZJ.exists_classical_lift_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:13:08.529534+00:00
 -- url     : https://prove2.me/theorems/83c7d4a9-37e7-49a7-884f-74d0286e59ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyConnected_genericFibre_of_dense
 -- name    : GlobalTheory.geometricallyConnected_genericFibre_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:54:49.076442+00:00
 -- url     : https://prove2.me/theorems/eabdfd30-1245-4c03-a2fb-2c14aeb4745a

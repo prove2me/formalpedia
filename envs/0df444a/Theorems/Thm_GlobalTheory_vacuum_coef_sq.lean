@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_vacuum_coef_sq
 -- name    : GlobalTheory.vacuum_coef_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:24:58.353449+00:00
 -- url     : https://prove2.me/theorems/e6b00b89-143a-4723-a703-f484629005c2

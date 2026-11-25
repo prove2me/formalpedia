@@ -1,0 +1,52 @@
+-- Prove2me | solution 1 for GlobalTheory.SS.Translates.exists_section_open
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T00:00:17.89312+00:00
+-- url     : https://prove2.me/submissions/4796eb07-d275-43d3-b170-9d98d70d3422
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_UniformisationConclusion
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_AbelianSchemeLaws_FirstCohomologyVanishesSpecOfIsLocalRing
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Degenerations_OfDerivationFnOn
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Degenerations_PlOrdSomeOfAssociated
+import Definitions.Def_Development_AbelianVarietyTheory_Statements_SemistableTorsion_SemistableFin
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FoundationProofs_ExistsCompletionPointClosedPointMemOfSmooth
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_ThetaFamilyOrigin_IsIntegralOfIsAbelianSchemeField
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DegenerationProofs_TranslationBySection
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DegenerationProofs_IsOpenImmersionOfSections
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DegenerationProofs_StrictModelTranslatesTwistCompatible
+import Theorems.Thm_GlobalTheory_SS_Translates_exists_section_fibre
+import Theorems.Thm_GlobalTheory_range_fst_residue
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj AlgebraicGeometry
+open scoped CategoryTheory.Obj
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor
+open GlobalTheory.SS
+noncomputable section
+open GlobalTheory GlobalTheory.SS GlobalTheory.SS.Translates
+variable {R : Type} [CommRing R] {K : Type} [Field K] [Algebra R K] {A A' A'' : Over (Sp K)}
+namespace GlobalTheory.SS.Translates
+theorem _root_.solution [IsDomain R] [IsLocalRing R] (hR : SH R K) (M : Model R A) {U : Set M.Y.left}
+    (hU : IsOpen U) (hz : (M.sp ∩ U).Nonempty) :
+    ∃ s : 𝟙_ (Over (Sp R)) ⟶ M.Y, s.left (IsLocalRing.closedPoint R) ∈ U := by
+  have := M.smooth
+  obtain ⟨z, hz, hzU⟩ := hz
+  obtain ⟨y, rfl⟩ : z ∈ Set.range (pullback.fst M.Y.hom (spMap (IsLocalRing.residue R))) := by
+    rw [range_fst_residue]; exact hz
+  have : JacobsonSpace ↥(pullback M.Y.hom (spMap (IsLocalRing.residue R))) :=
+    LocallyOfFiniteType.jacobsonSpace (pullback.snd M.Y.hom (spMap (IsLocalRing.residue R)))
+  obtain ⟨c, hc, hc'⟩ := nonempty_inter_closedPoints
+    (Z := pullback.fst M.Y.hom (spMap (IsLocalRing.residue R)) ⁻¹' U) ⟨y, hzU⟩
+    (hU.preimage (pullback.fst M.Y.hom (spMap (IsLocalRing.residue R))).continuous).isLocallyClosed
+  obtain ⟨s, hs⟩ := exists_section_fibre hR M c hc'
+  exact ⟨s, hs ▸ hc⟩
+end GlobalTheory.SS.Translates

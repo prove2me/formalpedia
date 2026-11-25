@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_associated_of_associated_mul_pow
 -- name    : GlobalTheory.associated_of_associated_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:06:53.92471+00:00
 -- url     : https://prove2.me/theorems/32cbabf1-f539-4b56-b30d-8d4703bea580

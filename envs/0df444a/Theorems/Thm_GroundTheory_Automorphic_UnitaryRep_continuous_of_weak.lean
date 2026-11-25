@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_continuous_of_weak
 -- name    : GroundTheory.Automorphic.UnitaryRep.continuous_of_weak
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:33:26.85883+00:00
 -- url     : https://prove2.me/theorems/67c389ea-4767-4809-9cb8-7511906d4e87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_map_torsionIdeal
 -- name    : GlobalTheory.PDiv.map_torsionIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:37:06.847232+00:00
 -- url     : https://prove2.me/theorems/a14949aa-8989-484d-bab9-1b423da132d1

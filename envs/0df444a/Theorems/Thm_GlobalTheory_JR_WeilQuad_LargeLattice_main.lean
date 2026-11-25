@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_LargeLattice_main
 -- name    : GlobalTheory.JR.WeilQuad.LargeLattice.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:40:16.046855+00:00
 -- url     : https://prove2.me/theorems/ec26e78e-0620-4d95-b6ab-afa07e4998c8

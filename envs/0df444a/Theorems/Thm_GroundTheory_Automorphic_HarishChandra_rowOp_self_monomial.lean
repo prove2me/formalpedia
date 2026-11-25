@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_rowOp_self_monomial
 -- name    : GroundTheory.Automorphic.HarishChandra.rowOp_self_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:31:13.872728+00:00
 -- url     : https://prove2.me/theorems/830869b6-5bf8-4196-9527-0206938c07f1

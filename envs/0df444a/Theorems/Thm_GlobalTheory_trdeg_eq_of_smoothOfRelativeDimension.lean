@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trdeg_eq_of_smoothOfRelativeDimension
 -- name    : GlobalTheory.trdeg_eq_of_smoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:04:23.971255+00:00
 -- url     : https://prove2.me/theorems/6541a93b-5218-49e8-877d-f18da6875c6e

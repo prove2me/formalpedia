@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_mul_mul_eq_one_of_rank
 -- name    : GroundTheory.Automorphic.Parabolic.exists_mul_mul_eq_one_of_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:33:24.253801+00:00
 -- url     : https://prove2.me/theorems/7325e61d-2f37-4bbd-9ec9-97eb78202504

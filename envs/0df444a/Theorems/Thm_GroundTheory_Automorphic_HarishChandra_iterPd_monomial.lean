@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_iterPd_monomial
 -- name    : GroundTheory.Automorphic.HarishChandra.iterPd_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:30:14.734367+00:00
 -- url     : https://prove2.me/theorems/3674b107-4114-4e8c-8e24-57c09186abc5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_pow_digit_one
 -- name    : GlobalTheory.PDiv.pow_digit_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:39:12.202802+00:00
 -- url     : https://prove2.me/theorems/bb7f62ad-5cdf-462e-9f44-1d5a5bdcbadd

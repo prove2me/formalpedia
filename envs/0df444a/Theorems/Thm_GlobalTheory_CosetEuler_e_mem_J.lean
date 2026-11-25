@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_e_mem_J
 -- name    : GlobalTheory.CosetEuler.e_mem_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:48:52.069806+00:00
 -- url     : https://prove2.me/theorems/1511ca61-98b0-42f5-9516-a1c339c201d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_shape_w_real_holds
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.shape_w_real_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:30:33.041451+00:00
 -- url     : https://prove2.me/theorems/9e20da90-fd08-4a24-b6f6-3662d16df058

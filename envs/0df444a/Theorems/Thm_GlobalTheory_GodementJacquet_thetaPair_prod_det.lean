@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_thetaPair_prod_det
 -- name    : GlobalTheory.GodementJacquet.thetaPair_prod_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:30:26.405051+00:00
 -- url     : https://prove2.me/theorems/14443788-49d3-4834-a0ba-b467631d31d0

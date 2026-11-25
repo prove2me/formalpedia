@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setIntegral_le_of_expanding
 -- name    : GlobalTheory.setIntegral_le_of_expanding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:20:15.104848+00:00
 -- url     : https://prove2.me/theorems/fe2463a1-511a-43f5-9005-f36da78af168

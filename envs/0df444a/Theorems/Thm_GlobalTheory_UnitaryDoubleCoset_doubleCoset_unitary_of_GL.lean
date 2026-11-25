@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryDoubleCoset_doubleCoset_unitary_of_GL
 -- name    : GlobalTheory.UnitaryDoubleCoset.doubleCoset_unitary_of_GL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:41:18.806876+00:00
 -- url     : https://prove2.me/theorems/bf52273e-abcf-432e-aea2-f8c35d4e9e05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_mul_isIntegralElem_of_forall_discreteValuationSubring
 -- name    : GlobalTheory.exists_mul_isIntegralElem_of_forall_discreteValuationSubring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:35:33.064643+00:00
 -- url     : https://prove2.me/theorems/520450e8-84b5-4214-86db-73737ed20e9f

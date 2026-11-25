@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_fock_word
 -- name    : Formalism.L2.DIV.we_fock_word
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:51.14267+00:00
 -- url     : https://prove2.me/theorems/cba52e79-7f6c-4bf1-8317-c50ca055414c

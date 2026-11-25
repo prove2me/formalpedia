@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tsum_ring_eq_sum_ideal_cosets_tsum
 -- name    : GlobalTheory.T.tsum_ring_eq_sum_ideal_cosets_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:59:54.756649+00:00
 -- url     : https://prove2.me/theorems/a87540ac-c61b-463e-873f-2ce9fca2aa62

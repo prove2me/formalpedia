@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_H1_H2_of_localTateDuality
 -- name    : GlobalTheory.finite_H1_H2_of_localTateDuality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:48:06.643664+00:00
 -- url     : https://prove2.me/theorems/308f3cc1-e1b3-4db9-87a2-b38000123235

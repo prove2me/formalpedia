@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialFourier_etaleKProd_locallyConstantCompactSupport
 -- name    : GlobalTheory.T.partialFourier_etaleKProd_locallyConstantCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:55:00.675778+00:00
 -- url     : https://prove2.me/theorems/b7074f29-9e0d-4fe1-8f05-77bc22e97479

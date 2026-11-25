@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_opens_isOpenImmersion_extending_section
 -- name    : GlobalTheory.exists_opens_isOpenImmersion_extending_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:41:53.928479+00:00
 -- url     : https://prove2.me/theorems/3325e31c-2159-444b-a0e9-8d1431a387b1

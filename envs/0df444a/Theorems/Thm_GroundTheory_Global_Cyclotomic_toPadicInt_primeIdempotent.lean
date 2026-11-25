@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_toPadicInt_primeIdempotent
 -- name    : GroundTheory.Global.Cyclotomic.toPadicInt_primeIdempotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:37:48.032858+00:00
 -- url     : https://prove2.me/theorems/2958c158-a5ce-4b78-bfb4-6513f61459b4

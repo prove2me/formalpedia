@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_blockDiagPart_of_forall
 -- name    : GroundTheory.Automorphic.Parabolic.blockDiagPart_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:32:49.817817+00:00
 -- url     : https://prove2.me/theorems/1f5e0990-807c-4fc5-a318-eae9cd08316a

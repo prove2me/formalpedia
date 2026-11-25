@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KNorm_two_torsion_kernel_unique_holds
 -- name    : Formalism.L2.Th1.B.KNorm.two_torsion_kernel_unique_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:28:03.055804+00:00
 -- url     : https://prove2.me/theorems/04a87e1d-573f-4196-be99-baf19b9b65cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistributionTheoryMission_limit_with_uniform_bounds
 -- name    : DistributionTheoryMission.limit_with_uniform_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @liuyao
 -- created : 2026-11-16T01:54:50.099335+00:00
 -- url     : https://prove2.me/theorems/4bc6dc8c-49e2-4de6-92e7-00d4f83a11eb

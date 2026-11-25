@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_transS_unique
 -- name    : GlobalTheory.Phase.transS_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:28:19.862913+00:00
 -- url     : https://prove2.me/theorems/91a9a7e5-f343-4e8e-92d0-beae8651cf91

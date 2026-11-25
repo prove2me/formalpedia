@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_bijective_of_injective_sesq
 -- name    : GroundTheory.Automorphic.bijective_of_injective_sesq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:34:23.121997+00:00
 -- url     : https://prove2.me/theorems/414bef37-cb78-48b7-acea-22d213b45ed6

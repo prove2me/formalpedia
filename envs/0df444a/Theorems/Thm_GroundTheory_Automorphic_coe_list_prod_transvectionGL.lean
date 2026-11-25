@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_coe_list_prod_transvectionGL
 -- name    : GroundTheory.Automorphic.coe_list_prod_transvectionGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:34:34.699749+00:00
 -- url     : https://prove2.me/theorems/68226c5f-ddc3-46fa-95f4-c4a96bb11cf2

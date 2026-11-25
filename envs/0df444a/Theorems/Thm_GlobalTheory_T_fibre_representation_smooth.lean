@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fibre_representation_smooth
 -- name    : GlobalTheory.T.fibre_representation_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:37.44313+00:00
 -- url     : https://prove2.me/theorems/aca80dde-9459-41b0-8218-e071f3a03699

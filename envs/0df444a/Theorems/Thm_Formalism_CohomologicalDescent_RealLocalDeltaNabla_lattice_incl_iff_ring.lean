@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_lattice_incl_iff_ring
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.lattice_incl_iff_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:08:09.994799+00:00
 -- url     : https://prove2.me/theorems/7191bce4-1547-438e-aab2-689f08e27f86

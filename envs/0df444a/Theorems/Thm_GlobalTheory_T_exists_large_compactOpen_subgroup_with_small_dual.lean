@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_large_compactOpen_subgroup_with_small_dual
 -- name    : GlobalTheory.T.exists_large_compactOpen_subgroup_with_small_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:37:05.931806+00:00
 -- url     : https://prove2.me/theorems/26aa9070-fa84-4082-9886-d0ea035a2727

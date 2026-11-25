@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KNorm_torsion_norm_bound_holds
 -- name    : Formalism.L2.Th1.B.KNorm.torsion_norm_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:27:18.370652+00:00
 -- url     : https://prove2.me/theorems/873e2ab2-047a-49b2-b3ca-de83ef73c9ac

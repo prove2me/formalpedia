@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nab_smul_section
 -- name    : GlobalTheory.nab_smul_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:12:42.97625+00:00
 -- url     : https://prove2.me/theorems/9b456a5f-1a9e-441c-b132-c5a3b006562c

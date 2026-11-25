@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_differentiableAt_limit_of_directional_derivs_converge
 -- name    : GlobalTheory.T.differentiableAt_limit_of_directional_derivs_converge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:31:40.002702+00:00
 -- url     : https://prove2.me/theorems/9221fd03-6dc2-4b8c-b097-7ce72b51733f

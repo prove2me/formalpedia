@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_range_coe_unitaryPoints
 -- name    : GroundTheory.Automorphic.range_coe_unitaryPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:35:52.017491+00:00
 -- url     : https://prove2.me/theorems/3345e6cf-9775-42d9-92a5-f03e07795237

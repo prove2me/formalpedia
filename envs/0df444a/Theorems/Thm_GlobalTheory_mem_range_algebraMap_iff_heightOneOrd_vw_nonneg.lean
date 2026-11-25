@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_range_algebraMap_iff_heightOneOrd_vw_nonneg
 -- name    : GlobalTheory.mem_range_algebraMap_iff_heightOneOrd_vw_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:11:08.602414+00:00
 -- url     : https://prove2.me/theorems/12778c00-5bc6-43af-8369-273401696873

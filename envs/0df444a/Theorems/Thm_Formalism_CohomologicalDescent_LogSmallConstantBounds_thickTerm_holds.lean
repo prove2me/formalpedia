@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_thickTerm_holds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.thickTerm_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:45:08.016575+00:00
 -- url     : https://prove2.me/theorems/efe7ce5f-a854-4edf-a850-e73923ca83ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_continuous_charpoly_coeff
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.continuous_charpoly_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:28:56.026264+00:00
 -- url     : https://prove2.me/theorems/5a8ae009-cd6f-4691-ae4f-7c25042f1c2a

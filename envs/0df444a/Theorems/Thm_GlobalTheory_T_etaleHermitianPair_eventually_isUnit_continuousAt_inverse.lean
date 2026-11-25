@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_etaleHermitianPair_eventually_isUnit_continuousAt_inverse
 -- name    : GlobalTheory.T.etaleHermitianPair_eventually_isUnit_continuousAt_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:33:04.701234+00:00
 -- url     : https://prove2.me/theorems/0e35a807-5149-428b-b34f-702cf820b660

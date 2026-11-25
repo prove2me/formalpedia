@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isUnit_det_submatrix_of_mem_blockUpper
 -- name    : GroundTheory.Automorphic.Parabolic.isUnit_det_submatrix_of_mem_blockUpper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:34:28.269102+00:00
 -- url     : https://prove2.me/theorems/b7211564-e52e-40a6-8293-1e0852d8b12d

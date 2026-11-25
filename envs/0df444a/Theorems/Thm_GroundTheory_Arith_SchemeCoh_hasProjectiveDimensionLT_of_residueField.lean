@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_hasProjectiveDimensionLT_of_residueField
 -- name    : GroundTheory.Arith.SchemeCoh.hasProjectiveDimensionLT_of_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:27:45.287774+00:00
 -- url     : https://prove2.me/theorems/8161f2dc-f917-4441-895e-cd88556d4308

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unramified_embedding_of_involution_algebra
 -- name    : GlobalTheory.T.exists_unramified_embedding_of_involution_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:39:12.868855+00:00
 -- url     : https://prove2.me/theorems/e04112b7-3c74-4ef6-8c30-0ac16d049109

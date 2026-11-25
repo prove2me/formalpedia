@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_character_quotient_of_injective_intertwining
 -- name    : GlobalTheory.T.exists_character_quotient_of_injective_intertwining
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:05.348315+00:00
 -- url     : https://prove2.me/theorems/8024d5c6-7bbc-47ba-895f-08e391c05443

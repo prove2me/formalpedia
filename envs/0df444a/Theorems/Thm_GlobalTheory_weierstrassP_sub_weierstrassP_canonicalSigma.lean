@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weierstrassP_sub_weierstrassP_canonicalSigma
 -- name    : GlobalTheory.weierstrassP_sub_weierstrassP_canonicalSigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:24:44.990439+00:00
 -- url     : https://prove2.me/theorems/47fe7b42-66f9-471f-a5cb-70d8e3b4bc86

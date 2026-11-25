@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_section_of_locally_given_values
 -- name    : GlobalTheory.T.existsUnique_section_of_locally_given_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:15:07.867723+00:00
 -- url     : https://prove2.me/theorems/536d9095-3987-4759-ad1e-9744ba74db1e

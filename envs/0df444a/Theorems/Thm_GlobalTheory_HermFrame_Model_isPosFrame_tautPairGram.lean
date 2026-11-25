@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_Model_isPosFrame_tautPairGram
 -- name    : GlobalTheory.HermFrame.Model.isPosFrame_tautPairGram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:44:15.559654+00:00
 -- url     : https://prove2.me/theorems/682dceff-3a7c-40e9-808d-52bce6096620

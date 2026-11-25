@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Superpos_continuous_itg
 -- name    : GlobalTheory.RealWeil.Superpos.continuous_itg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:49:09.426719+00:00
 -- url     : https://prove2.me/theorems/72a23fe9-8cc0-478b-b664-30186bf0ad47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_avgOver_eq_avgSub
 -- name    : GroundTheory.Automorphic.Parabolic.avgOver_eq_avgSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:16:37.18903+00:00
 -- url     : https://prove2.me/theorems/253b5d80-8240-4d16-8341-92e40930ef9a

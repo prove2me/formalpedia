@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lemmaB_holds
 -- name    : GlobalTheory.lemmaB_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:06:52.158221+00:00
 -- url     : https://prove2.me/theorems/1bc2472e-41b3-44b0-86ee-1bbe4a12d105

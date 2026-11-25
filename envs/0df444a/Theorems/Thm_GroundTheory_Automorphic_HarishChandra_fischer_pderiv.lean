@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_fischer_pderiv
 -- name    : GroundTheory.Automorphic.HarishChandra.fischer_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:57.683328+00:00
 -- url     : https://prove2.me/theorems/74a75237-6280-4c65-9467-74e4127fbf3f

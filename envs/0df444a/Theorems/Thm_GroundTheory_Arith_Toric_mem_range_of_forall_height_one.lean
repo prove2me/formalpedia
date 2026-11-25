@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_mem_range_of_forall_height_one
 -- name    : GroundTheory.Arith.Toric.mem_range_of_forall_height_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:29:15.309454+00:00
 -- url     : https://prove2.me/theorems/8a8500d8-df06-420c-86b9-5a82e398dbb5

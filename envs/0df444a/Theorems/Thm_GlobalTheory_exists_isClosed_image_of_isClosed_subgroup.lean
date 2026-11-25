@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isClosed_image_of_isClosed_subgroup
 -- name    : GlobalTheory.exists_isClosed_image_of_isClosed_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:21:51.468648+00:00
 -- url     : https://prove2.me/theorems/141a766a-c088-4c2f-86d7-d92699d1718d

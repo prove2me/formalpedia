@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_predictableRectangleCountFactorisation
 -- name    : Kyprianou.Ch04.predictableRectangleCountFactorisation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:14:45.953508+00:00
 -- url     : https://prove2.me/theorems/d6ab6a79-9c72-4d09-a014-0c7279b32085

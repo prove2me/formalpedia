@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_exists_lastRow_eq
 -- name    : GroundTheory.Automorphic.Reduction.exists_lastRow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:32:33.541424+00:00
 -- url     : https://prove2.me/theorems/545d3e1e-e70a-4190-9284-04c8813185ad

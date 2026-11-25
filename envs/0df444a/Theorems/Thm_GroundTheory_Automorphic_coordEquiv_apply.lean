@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_coordEquiv_apply
 -- name    : GroundTheory.Automorphic.coordEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:37:19.647536+00:00
 -- url     : https://prove2.me/theorems/a1a04248-7e46-42a0-9141-cbd85fb715da

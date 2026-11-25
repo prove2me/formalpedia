@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_perm_of_sum_min_eq_positive_family
 -- name    : GlobalTheory.T.exists_perm_of_sum_min_eq_positive_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:36:44.135126+00:00
 -- url     : https://prove2.me/theorems/d4fa4b44-58f9-46a6-b4c4-d2f6aed00125

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_orbitSpan_eq_top
 -- name    : GroundTheory.Automorphic.RestrictedTensor.orbitSpan_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:33:36.273798+00:00
 -- url     : https://prove2.me/theorems/db07c7c4-3b2a-4d66-a830-8195185258f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Reduct_exists_imag
 -- name    : GlobalTheory.SW.Reduct.exists_imag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:44:27.604257+00:00
 -- url     : https://prove2.me/theorems/782730aa-ec77-4f19-8803-39833b4e920b

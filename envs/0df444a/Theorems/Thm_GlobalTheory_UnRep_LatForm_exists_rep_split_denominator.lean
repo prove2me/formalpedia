@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_LatForm_exists_rep_split_denominator
 -- name    : GlobalTheory.UnRep.LatForm.exists_rep_split_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:54:36.713097+00:00
 -- url     : https://prove2.me/theorems/0667f876-e303-49cd-a73e-629abcf82ae0

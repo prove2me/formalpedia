@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finset_nabValN_eq_sum_coeff_mul_monomial
 -- name    : GlobalTheory.T.exists_finset_nabValN_eq_sum_coeff_mul_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:37:02.63322+00:00
 -- url     : https://prove2.me/theorems/f34189ac-09c3-49b7-86a6-8e37e5f6edc3

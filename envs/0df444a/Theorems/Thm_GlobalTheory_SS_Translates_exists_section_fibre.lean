@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_exists_section_fibre
 -- name    : GlobalTheory.SS.Translates.exists_section_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:19:01.90385+00:00
 -- url     : https://prove2.me/theorems/fe7a4c49-9606-4167-95d6-523405463cb0

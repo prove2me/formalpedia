@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_number_field_to_mod_p_squared
 -- name    : GlobalTheory.T.number_field_to_mod_p_squared
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:53:59.334039+00:00
 -- url     : https://prove2.me/theorems/60e740f0-1322-4c0a-9fcc-25d0ea0df2a0

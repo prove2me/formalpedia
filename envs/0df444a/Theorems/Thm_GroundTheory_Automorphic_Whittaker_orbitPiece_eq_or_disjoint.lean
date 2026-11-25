@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_orbitPiece_eq_or_disjoint
 -- name    : GroundTheory.Automorphic.Whittaker.orbitPiece_eq_or_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:34:49.653711+00:00
 -- url     : https://prove2.me/theorems/1eddebcf-64b7-45c0-9ab3-583d0f67df18

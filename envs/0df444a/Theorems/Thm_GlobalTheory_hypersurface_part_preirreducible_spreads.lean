@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hypersurface_part_preirreducible_spreads
 -- name    : GlobalTheory.hypersurface_part_preirreducible_spreads
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:55:49.416067+00:00
 -- url     : https://prove2.me/theorems/112cd2ae-5fc4-4be2-8839-4ea4796f6504

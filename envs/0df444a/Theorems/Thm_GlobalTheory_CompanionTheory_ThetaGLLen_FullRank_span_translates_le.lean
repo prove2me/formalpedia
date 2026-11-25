@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ThetaGLLen_FullRank_span_translates_le
 -- name    : GlobalTheory.CompanionTheory.ThetaGLLen.FullRank.span_translates_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:41:23.018736+00:00
 -- url     : https://prove2.me/theorems/3fe68219-e239-49e8-b188-038281207aee

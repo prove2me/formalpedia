@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_isSimpleModule_columnIdeal
 -- name    : GroundTheory.Brauer.isSimpleModule_columnIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:37:10.13733+00:00
 -- url     : https://prove2.me/theorems/789f5383-dc3e-4a83-b23c-68835fe65635

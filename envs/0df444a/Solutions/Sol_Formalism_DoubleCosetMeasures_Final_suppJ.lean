@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for Formalism.DoubleCosetMeasures.Final.suppJ
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-24T23:51:38.987107+00:00
+-- url     : https://prove2.me/submissions/33cc16e7-9196-49ce-bf3f-daf90e1248e1
+
+import Definitions.Def_Formalism_DoubleCosetMeasures_Statement
+import Definitions.Def_Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_DoubleCosetEqPreimage
+import Definitions.Def_Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_TwoSided
+import Definitions.Def_Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_IsIntOfLatOfLe
+import Definitions.Def_Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_LowUniMulVecELast
+import Definitions.Def_Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_IsOpenIsIntSet
+import Definitions.Def_Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_MulInvBlockDiagApplySameBlock
+import Definitions.Def_Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_ExistsContinuousLowerUpperEntry
+import Definitions.Def_Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_IsClosedLowUni
+import Definitions.Def_Formalism_DoubleCosetMeasures_StatementZ
+import Definitions.Def_Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_LemmaU
+import Definitions.Def_Formalism_DoubleCosetMeasures_StatementV
+import Definitions.Def_Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_RelIndexMulMeasure
+import Definitions.Def_Formalism_DoubleCosetMeasures_LowerUnipotentOrbits_MeasureUniformizerMatrixSetMulCard
+import Definitions.Def_Formalism_DoubleCosetMeasures_LatticeCoset
+import Theorems.Thm_Formalism_DoubleCosetMeasures_P_suppJ
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.DoubleCosetMeasures Formalism.DoubleCosetMeasures.Final
+open Formalism.DoubleCosetMeasures
+namespace Formalism.DoubleCosetMeasures.Final
+theorem _root_.solution : Formalism.DoubleCosetMeasures.SuppJ := Formalism.DoubleCosetMeasures.P.suppJ
+end Formalism.DoubleCosetMeasures.Final

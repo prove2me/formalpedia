@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_PeterssonComplement_exists_apply_eq_zero_inner_eq
 -- name    : GroundTheory.Automorphic.PeterssonComplement.exists_apply_eq_zero_inner_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:32:56.488947+00:00
 -- url     : https://prove2.me/theorems/b978f568-6008-4e90-851c-257b653bf446

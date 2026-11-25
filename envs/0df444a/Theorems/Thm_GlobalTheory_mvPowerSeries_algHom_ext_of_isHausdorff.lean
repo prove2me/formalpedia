@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mvPowerSeries_algHom_ext_of_isHausdorff
 -- name    : GlobalTheory.mvPowerSeries_algHom_ext_of_isHausdorff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:19:30.820901+00:00
 -- url     : https://prove2.me/theorems/e78f82ef-ef80-49c7-a6ea-81ca5c78e939

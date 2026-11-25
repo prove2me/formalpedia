@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_topFormOrd_vw_dlogWedge_nonneg
 -- name    : GlobalTheory.topFormOrd_vw_dlogWedge_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:23:44.057445+00:00
 -- url     : https://prove2.me/theorems/10daf373-708d-44c7-a903-00b62839205c

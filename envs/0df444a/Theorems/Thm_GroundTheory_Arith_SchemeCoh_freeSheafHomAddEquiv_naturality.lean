@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_freeSheafHomAddEquiv_naturality
 -- name    : GroundTheory.Arith.SchemeCoh.freeSheafHomAddEquiv_naturality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:58:42.1558+00:00
 -- url     : https://prove2.me/theorems/9a236c8a-3788-4286-bef0-2bf5c671959c

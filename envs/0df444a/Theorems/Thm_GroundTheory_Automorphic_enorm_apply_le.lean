@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_enorm_apply_le
 -- name    : GroundTheory.Automorphic.enorm_apply_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:34:15.969358+00:00
 -- url     : https://prove2.me/theorems/c20a4f6c-a46c-47c5-9f92-c2bd048b4ca4

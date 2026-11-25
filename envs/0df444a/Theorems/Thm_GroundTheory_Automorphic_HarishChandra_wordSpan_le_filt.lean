@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_wordSpan_le_filt
 -- name    : GroundTheory.Automorphic.HarishChandra.wordSpan_le_filt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:30:47.823483+00:00
 -- url     : https://prove2.me/theorems/7f380e56-502e-4018-826e-a32dceb6724e

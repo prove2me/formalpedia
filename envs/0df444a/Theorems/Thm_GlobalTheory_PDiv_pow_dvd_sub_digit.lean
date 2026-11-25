@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_pow_dvd_sub_digit
 -- name    : GlobalTheory.PDiv.pow_dvd_sub_digit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:38:11.954496+00:00
 -- url     : https://prove2.me/theorems/f2e3d87a-b54a-4fcc-bc95-f25722e28e85

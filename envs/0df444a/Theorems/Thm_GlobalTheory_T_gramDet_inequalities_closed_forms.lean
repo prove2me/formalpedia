@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gramDet_inequalities_closed_forms
 -- name    : GlobalTheory.T.gramDet_inequalities_closed_forms
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:20.457217+00:00
 -- url     : https://prove2.me/theorems/d7618341-91c3-42fe-ae21-b60cfa301b06

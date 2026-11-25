@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trdeg_complex_baseChange_eq
 -- name    : GlobalTheory.trdeg_complex_baseChange_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:23:47.378554+00:00
 -- url     : https://prove2.me/theorems/c5d3805a-5478-4506-ac9e-91634e5a49fd

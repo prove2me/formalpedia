@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_rowsReducedOn_step
 -- name    : GroundTheory.Automorphic.GLnLocal.rowsReducedOn_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:30:35.450646+00:00
 -- url     : https://prove2.me/theorems/e4bc553d-e6a8-4449-984d-0ca12aeb2161

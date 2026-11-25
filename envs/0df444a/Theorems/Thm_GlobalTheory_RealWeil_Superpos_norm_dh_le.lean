@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Superpos_norm_dh_le
 -- name    : GlobalTheory.RealWeil.Superpos.norm_dh_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:49:10.438548+00:00
 -- url     : https://prove2.me/theorems/c5ae430d-a96d-452d-a8ec-21dd9bbe8611

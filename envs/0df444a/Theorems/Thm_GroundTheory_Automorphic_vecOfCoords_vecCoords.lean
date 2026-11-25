@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_vecOfCoords_vecCoords
 -- name    : GroundTheory.Automorphic.vecOfCoords_vecCoords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:38:02.419662+00:00
 -- url     : https://prove2.me/theorems/2ac56f64-149e-4fa9-9617-54e4ea4a584c

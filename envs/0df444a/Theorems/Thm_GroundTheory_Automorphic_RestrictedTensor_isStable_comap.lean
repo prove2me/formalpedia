@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_isStable_comap
 -- name    : GroundTheory.Automorphic.RestrictedTensor.isStable_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:33:33.079604+00:00
 -- url     : https://prove2.me/theorems/0de552c8-3806-4d53-8bdb-5b52f7d8cfc5

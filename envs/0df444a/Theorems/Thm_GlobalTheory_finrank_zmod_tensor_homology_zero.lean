@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_zmod_tensor_homology_zero
 -- name    : GlobalTheory.finrank_zmod_tensor_homology_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:50:58.419809+00:00
 -- url     : https://prove2.me/theorems/32c3e61b-ba43-44c3-805c-a34bd335f5bf

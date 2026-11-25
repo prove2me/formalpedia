@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaTranslSpan_mem_span_translates
 -- name    : GlobalTheory.ThetaTranslSpan.mem_span_translates
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:13:44.347916+00:00
 -- url     : https://prove2.me/theorems/572ba592-6197-455b-8bf0-21a754621350

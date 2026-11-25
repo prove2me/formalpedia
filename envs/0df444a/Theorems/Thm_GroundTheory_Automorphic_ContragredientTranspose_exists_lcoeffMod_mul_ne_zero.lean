@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_exists_lcoeffMod_mul_ne_zero
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.exists_lcoeffMod_mul_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:18.183803+00:00
 -- url     : https://prove2.me/theorems/5b0bcf1b-53a6-4d42-a657-65697684184f

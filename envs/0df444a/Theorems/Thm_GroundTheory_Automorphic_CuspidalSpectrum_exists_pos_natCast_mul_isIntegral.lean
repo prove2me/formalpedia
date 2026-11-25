@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CuspidalSpectrum_exists_pos_natCast_mul_isIntegral
 -- name    : GroundTheory.Automorphic.CuspidalSpectrum.exists_pos_natCast_mul_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:29:39.165802+00:00
 -- url     : https://prove2.me/theorems/c2b4bf6c-1296-4dc4-b53e-018681b546c6

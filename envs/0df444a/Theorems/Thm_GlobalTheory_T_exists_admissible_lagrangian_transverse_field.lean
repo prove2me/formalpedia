@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_admissible_lagrangian_transverse_field
 -- name    : GlobalTheory.T.exists_admissible_lagrangian_transverse_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:33:01.256314+00:00
 -- url     : https://prove2.me/theorems/5e22beba-80e3-4283-a351-4231e8106d08

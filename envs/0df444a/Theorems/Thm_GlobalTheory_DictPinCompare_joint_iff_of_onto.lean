@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_joint_iff_of_onto
 -- name    : GlobalTheory.DictPinCompare.joint_iff_of_onto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:18:32.26084+00:00
 -- url     : https://prove2.me/theorems/8214003a-db69-42f6-98b2-6492576cafe0

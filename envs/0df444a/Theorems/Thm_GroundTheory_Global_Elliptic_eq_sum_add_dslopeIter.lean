@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_eq_sum_add_dslopeIter
 -- name    : GroundTheory.Global.Elliptic.eq_sum_add_dslopeIter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:38:44.832119+00:00
 -- url     : https://prove2.me/theorems/852307bb-379e-4de6-a47e-50cf7b934e7a

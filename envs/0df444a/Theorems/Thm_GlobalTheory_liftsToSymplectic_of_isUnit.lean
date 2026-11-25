@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_liftsToSymplectic_of_isUnit
 -- name    : GlobalTheory.liftsToSymplectic_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:07:09.902559+00:00
 -- url     : https://prove2.me/theorems/a6e7eef7-06f8-4c85-b086-af0bff5da9ab

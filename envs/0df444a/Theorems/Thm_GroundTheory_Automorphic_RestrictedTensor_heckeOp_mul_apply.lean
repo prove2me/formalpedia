@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_heckeOp_mul_apply
 -- name    : GroundTheory.Automorphic.RestrictedTensor.heckeOp_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:33:29.327453+00:00
 -- url     : https://prove2.me/theorems/d89ef77e-4161-4bfa-93a0-5fc5c75e23f5

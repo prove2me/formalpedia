@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unramified_involution_field_embedding
 -- name    : GlobalTheory.T.exists_unramified_involution_field_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:39:13.534033+00:00
 -- url     : https://prove2.me/theorems/1663db38-b1ec-449b-a728-9075b450f33f

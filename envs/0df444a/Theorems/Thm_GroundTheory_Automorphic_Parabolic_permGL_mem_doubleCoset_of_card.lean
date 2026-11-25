@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_permGL_mem_doubleCoset_of_card
 -- name    : GroundTheory.Automorphic.Parabolic.permGL_mem_doubleCoset_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:32:56.327595+00:00
 -- url     : https://prove2.me/theorems/5c3a9da1-055a-4467-861f-c876c625113b

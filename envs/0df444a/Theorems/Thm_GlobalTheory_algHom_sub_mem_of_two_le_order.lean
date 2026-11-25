@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algHom_sub_mem_of_two_le_order
 -- name    : GlobalTheory.algHom_sub_mem_of_two_le_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:05:56.052523+00:00
 -- url     : https://prove2.me/theorems/6c575471-f1c5-4f0a-9e55-007463d6b6fc

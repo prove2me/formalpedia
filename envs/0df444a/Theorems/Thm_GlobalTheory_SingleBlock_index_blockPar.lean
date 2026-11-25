@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_index_blockPar
 -- name    : GlobalTheory.SingleBlock.index_blockPar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:49:13.499869+00:00
 -- url     : https://prove2.me/theorems/777e3b73-43a9-4339-85b7-6f69fdce34e4

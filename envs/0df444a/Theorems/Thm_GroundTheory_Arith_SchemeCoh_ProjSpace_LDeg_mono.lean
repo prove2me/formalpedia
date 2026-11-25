@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_LDeg_mono
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.LDeg_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:39:57.426313+00:00
 -- url     : https://prove2.me/theorems/a5cbe9a4-38e7-4f03-b9cb-67c75a3227da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_coker_lsmul_eq_length_ker_add_sum
 -- name    : GlobalTheory.length_coker_lsmul_eq_length_ker_add_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:06:21.633922+00:00
 -- url     : https://prove2.me/theorems/edcff386-f154-4da1-b4af-2d772fe4c9c9

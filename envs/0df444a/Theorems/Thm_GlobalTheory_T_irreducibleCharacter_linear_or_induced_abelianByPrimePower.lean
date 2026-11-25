@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_irreducibleCharacter_linear_or_induced_abelianByPrimePower
 -- name    : GlobalTheory.T.irreducibleCharacter_linear_or_induced_abelianByPrimePower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:47:43.97261+00:00
 -- url     : https://prove2.me/theorems/5c40b80a-67c8-4295-8af6-b7c604aab54a

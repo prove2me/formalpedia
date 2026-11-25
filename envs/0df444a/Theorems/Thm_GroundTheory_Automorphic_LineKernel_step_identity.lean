@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_step_identity
 -- name    : GroundTheory.Automorphic.LineKernel.step_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:17:54.319645+00:00
 -- url     : https://prove2.me/theorems/e12e3411-01b8-4879-ac70-0ba58ba45659

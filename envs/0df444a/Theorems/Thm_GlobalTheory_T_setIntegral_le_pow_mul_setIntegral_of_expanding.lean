@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_setIntegral_le_pow_mul_setIntegral_of_expanding
 -- name    : GlobalTheory.T.setIntegral_le_pow_mul_setIntegral_of_expanding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:07:28.924021+00:00
 -- url     : https://prove2.me/theorems/77f414b8-1f7f-4697-bfe7-bdd31d51ba3f

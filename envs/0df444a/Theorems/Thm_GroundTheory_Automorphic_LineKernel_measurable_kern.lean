@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_measurable_kern
 -- name    : GroundTheory.Automorphic.LineKernel.measurable_kern
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:32:08.068182+00:00
 -- url     : https://prove2.me/theorems/88c3fdbe-14d3-4397-9cf3-0600591b743f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_coe_apply
 -- name    : GroundTheory.Automorphic.UnitaryRep.coe_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:33:23.519173+00:00
 -- url     : https://prove2.me/theorems/6a13cc3c-03d0-4638-bca9-bb05c4122d47

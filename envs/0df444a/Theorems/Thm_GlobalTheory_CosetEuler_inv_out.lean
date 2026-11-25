@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_inv_out
 -- name    : GlobalTheory.CosetEuler.inv_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:49:18.520718+00:00
 -- url     : https://prove2.me/theorems/6db0815a-66ca-440d-8a76-6a322d7a3a84

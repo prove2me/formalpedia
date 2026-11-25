@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Iwasawa_iwasawa_unique
 -- name    : GroundTheory.Automorphic.Iwasawa.iwasawa_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:31:11.004771+00:00
 -- url     : https://prove2.me/theorems/cbc98719-2401-4ffb-8bca-73637f564b66

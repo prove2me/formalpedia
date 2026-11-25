@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_psiAt_somos
 -- name    : GroundTheory.Arith.Abelian.psiAt_somos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:36:16.927549+00:00
 -- url     : https://prove2.me/theorems/36ccd418-3a8d-4e33-b3f2-3be69c520a4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalChart_exists_factor
 -- name    : GlobalTheory.FormalChart.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:35:15.980087+00:00
 -- url     : https://prove2.me/theorems/866a9c76-79a4-4884-a96b-9295e3b22e85

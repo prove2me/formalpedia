@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_exists_sumForm_ne_zero
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.exists_sumForm_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:28.012039+00:00
 -- url     : https://prove2.me/theorems/9f5b6143-3ef6-4d27-820e-6e8dc020d6c9

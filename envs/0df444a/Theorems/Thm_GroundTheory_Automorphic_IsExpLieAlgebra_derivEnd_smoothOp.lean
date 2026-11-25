@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_derivEnd_smoothOp
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.derivEnd_smoothOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:31:34.775549+00:00
 -- url     : https://prove2.me/theorems/0c8e8b56-6cc3-45af-8545-a6761676de55

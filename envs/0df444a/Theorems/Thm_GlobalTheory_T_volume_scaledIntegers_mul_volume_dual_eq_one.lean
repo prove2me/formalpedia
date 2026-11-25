@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_volume_scaledIntegers_mul_volume_dual_eq_one
 -- name    : GlobalTheory.T.volume_scaledIntegers_mul_volume_dual_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:01:36.625788+00:00
 -- url     : https://prove2.me/theorems/a51446db-1f3e-46f4-bb78-370f1f5a4561

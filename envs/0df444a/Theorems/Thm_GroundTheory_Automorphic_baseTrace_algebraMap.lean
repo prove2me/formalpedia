@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_baseTrace_algebraMap
 -- name    : GroundTheory.Automorphic.baseTrace_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:34:25.132781+00:00
 -- url     : https://prove2.me/theorems/e1f5cbd7-dc5a-440c-bfb7-af36fd4d0545

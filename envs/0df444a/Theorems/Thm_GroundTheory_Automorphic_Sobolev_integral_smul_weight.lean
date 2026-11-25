@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_integral_smul_weight
 -- name    : GroundTheory.Automorphic.Sobolev.integral_smul_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:34:21.29399+00:00
 -- url     : https://prove2.me/theorems/36f7daf9-9f49-4493-a198-abe3cb2e467c

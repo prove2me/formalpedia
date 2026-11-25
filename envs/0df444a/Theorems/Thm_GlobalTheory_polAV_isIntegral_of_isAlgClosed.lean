@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polAV_isIntegral_of_isAlgClosed
 -- name    : GlobalTheory.polAV_isIntegral_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:43:54.276263+00:00
 -- url     : https://prove2.me/theorems/9d28dea9-e292-47e0-ade2-395c66908fe6

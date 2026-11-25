@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_surjective_cotangent
 -- name    : GlobalTheory.flat_of_surjective_cotangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:52:19.429795+00:00
 -- url     : https://prove2.me/theorems/3675c4be-4f6f-4050-a21a-286d74ac33ea

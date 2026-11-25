@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeIdealValue_inv_mem
 -- name    : GlobalTheory.HeckeIdealValue.inv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:49:12.467689+00:00
 -- url     : https://prove2.me/theorems/e1ac7b66-dd97-407c-94c3-f26063253c53

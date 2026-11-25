@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_LiesOver_isScalarTower
 -- name    : GroundTheory.FunctionField.Place.LiesOver.isScalarTower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:37:04.550575+00:00
 -- url     : https://prove2.me/theorems/ff5a342b-8c4d-4f8d-bd39-67075eea98a6

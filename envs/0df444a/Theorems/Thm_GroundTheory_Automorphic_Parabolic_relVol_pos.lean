@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_relVol_pos
 -- name    : GroundTheory.Automorphic.Parabolic.relVol_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:32:49.876509+00:00
 -- url     : https://prove2.me/theorems/5710e47d-524c-4bfe-a3ad-cf0fab14fe90

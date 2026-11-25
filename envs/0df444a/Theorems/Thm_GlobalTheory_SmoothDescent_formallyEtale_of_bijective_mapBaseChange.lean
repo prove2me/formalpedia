@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothDescent_formallyEtale_of_bijective_mapBaseChange
 -- name    : GlobalTheory.SmoothDescent.formallyEtale_of_bijective_mapBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:15:21.753334+00:00
 -- url     : https://prove2.me/theorems/bd44ed86-0ac3-4c1d-90e0-7305bb8b3c3a

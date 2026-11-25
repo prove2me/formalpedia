@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalCoord_span_of_derivation
 -- name    : GlobalTheory.LocalCoord.span_of_derivation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:14:16.034354+00:00
 -- url     : https://prove2.me/theorems/e5fd0400-37b9-4faa-bb72-10ee36d0af2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_curv_changeFrame
 -- name    : GlobalTheory.HermFrame.curv_changeFrame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:38:47.147743+00:00
 -- url     : https://prove2.me/theorems/f6422e4d-6087-4718-b43d-543c3434319a

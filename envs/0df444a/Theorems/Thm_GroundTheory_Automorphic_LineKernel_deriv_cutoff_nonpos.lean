@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_deriv_cutoff_nonpos
 -- name    : GroundTheory.Automorphic.LineKernel.deriv_cutoff_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:38:03.339298+00:00
 -- url     : https://prove2.me/theorems/14e4ada7-3bcc-4cef-9684-17cef5d860a7

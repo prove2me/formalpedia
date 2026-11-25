@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_measure_eq_coords
 -- name    : GlobalTheory.JR.Hyp.measure_eq_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:34:16.215218+00:00
 -- url     : https://prove2.me/theorems/b3ac5f8b-daca-4daa-92c9-6b25d3831411

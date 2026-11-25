@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_memLp_two_weight_mul_norm_fourierFun
 -- name    : GroundTheory.Automorphic.Sobolev.memLp_two_weight_mul_norm_fourierFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:33:58.849984+00:00
 -- url     : https://prove2.me/theorems/d94d761a-3a9f-4071-817c-b1ab702d5df6

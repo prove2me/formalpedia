@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_continuous_expChartProd
 -- name    : GroundTheory.Automorphic.continuous_expChartProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:36:13.721165+00:00
 -- url     : https://prove2.me/theorems/31108559-55ee-475e-b81c-4973fef1e124

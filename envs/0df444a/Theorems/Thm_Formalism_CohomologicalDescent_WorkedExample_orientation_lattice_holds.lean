@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_orientation_lattice_holds
 -- name    : Formalism.CohomologicalDescent.WorkedExample.orientation_lattice_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:01:56.671338+00:00
 -- url     : https://prove2.me/theorems/2f7e6c8f-399b-4d77-b191-e954171ca614

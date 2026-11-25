@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_square_presentation_counital_comul_of_finrank
 -- name    : GlobalTheory.square_presentation_counital_comul_of_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:22:11.35252+00:00
 -- url     : https://prove2.me/theorems/221bd032-d20a-4156-b3f0-b2a5381f24a2

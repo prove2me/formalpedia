@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_contDiff_integral_comp_of_hasCompactSupport
 -- name    : GroundTheory.Automorphic.contDiff_integral_comp_of_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:34:39.859438+00:00
 -- url     : https://prove2.me/theorems/aad7c2d1-3ebc-4b0c-aacb-edea9a49e850

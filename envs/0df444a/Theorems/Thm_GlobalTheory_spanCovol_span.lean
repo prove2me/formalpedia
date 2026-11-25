@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_spanCovol_span
 -- name    : GlobalTheory.spanCovol_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:51:56.620631+00:00
 -- url     : https://prove2.me/theorems/f5819546-5100-4317-b129-89a8a38ff63a

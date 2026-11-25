@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_coeFn_leftTranslate
 -- name    : GroundTheory.Automorphic.UnitaryRep.coeFn_leftTranslate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:34:08.917728+00:00
 -- url     : https://prove2.me/theorems/66864def-bd94-4563-9e51-8850074dcf79

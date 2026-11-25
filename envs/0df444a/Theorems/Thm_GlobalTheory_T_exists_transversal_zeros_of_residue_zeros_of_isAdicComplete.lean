@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_transversal_zeros_of_residue_zeros_of_isAdicComplete
 -- name    : GlobalTheory.T.exists_transversal_zeros_of_residue_zeros_of_isAdicComplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:18:35.828004+00:00
 -- url     : https://prove2.me/theorems/d1f038ec-4c67-4b80-8c05-2350a5f9c27c

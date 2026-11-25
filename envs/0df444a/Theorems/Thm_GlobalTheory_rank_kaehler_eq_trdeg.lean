@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rank_kaehler_eq_trdeg
 -- name    : GlobalTheory.rank_kaehler_eq_trdeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:16:41.371549+00:00
 -- url     : https://prove2.me/theorems/a8fe9c42-8d17-492a-8b48-b5f99c2cb847

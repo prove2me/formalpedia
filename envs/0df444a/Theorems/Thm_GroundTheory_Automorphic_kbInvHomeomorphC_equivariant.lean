@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_kbInvHomeomorphC_equivariant
 -- name    : GroundTheory.Automorphic.kbInvHomeomorphC_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:38:40.597545+00:00
 -- url     : https://prove2.me/theorems/276a094b-cce6-43a7-b8fb-106c886eb57d

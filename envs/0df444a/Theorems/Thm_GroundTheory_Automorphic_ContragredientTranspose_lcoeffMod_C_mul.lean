@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_lcoeffMod_C_mul
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.lcoeffMod_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:28:43.761445+00:00
 -- url     : https://prove2.me/theorems/66f92059-b587-4687-b4c8-a88f44082450

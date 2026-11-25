@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tsum_poisson_pi_int
 -- name    : GlobalTheory.tsum_poisson_pi_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:23:51.108918+00:00
 -- url     : https://prove2.me/theorems/7dda704a-9308-4787-bb65-8739b27181ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_isIrreducible_of_forall
 -- name    : GroundTheory.Automorphic.RestrictedTensor.isIrreducible_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:34:04.173583+00:00
 -- url     : https://prove2.me/theorems/3b32028b-ba5b-43f1-b2f4-4486ea8170e0

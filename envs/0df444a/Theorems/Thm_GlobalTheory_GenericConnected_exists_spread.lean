@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericConnected_exists_spread
 -- name    : GlobalTheory.GenericConnected.exists_spread
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:53:57.57158+00:00
 -- url     : https://prove2.me/theorems/a7fec4a2-5cad-4f46-bdf0-587c8a48b49a

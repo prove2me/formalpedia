@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_jetCoord_unique
 -- name    : GlobalTheory.jetCoord_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:28:55.188633+00:00
 -- url     : https://prove2.me/theorems/cd1ca017-bc96-48a6-a8f3-fc7d3400a828

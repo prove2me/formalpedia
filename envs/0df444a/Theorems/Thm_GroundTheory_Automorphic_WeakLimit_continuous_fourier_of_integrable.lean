@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_WeakLimit_continuous_fourier_of_integrable
 -- name    : GroundTheory.Automorphic.WeakLimit.continuous_fourier_of_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:33:56.495798+00:00
 -- url     : https://prove2.me/theorems/d2a84b59-b8d2-4ab5-b04f-de084df7a8ad

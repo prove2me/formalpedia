@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LFunction_one_eq_classNumber
 -- name    : GlobalTheory.LFunction_one_eq_classNumber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:56:25.473372+00:00
 -- url     : https://prove2.me/theorems/a4dcc230-dd78-4e59-b720-2db6dffedb8c

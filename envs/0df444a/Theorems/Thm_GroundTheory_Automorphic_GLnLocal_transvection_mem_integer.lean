@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_transvection_mem_integer
 -- name    : GroundTheory.Automorphic.GLnLocal.transvection_mem_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:29:58.209903+00:00
 -- url     : https://prove2.me/theorems/24b60880-6f25-46d1-832a-954961f2e8f4

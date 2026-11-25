@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_norm_map_le
 -- name    : GroundTheory.Automorphic.UnitaryRep.norm_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:33:41.262799+00:00
 -- url     : https://prove2.me/theorems/bf78d470-fa4b-43e3-a09c-d44334399d18

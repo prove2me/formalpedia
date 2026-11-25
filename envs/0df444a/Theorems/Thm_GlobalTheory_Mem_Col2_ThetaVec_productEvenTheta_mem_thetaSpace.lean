@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Col2_ThetaVec_productEvenTheta_mem_thetaSpace
 -- name    : GlobalTheory.Mem.Col2.ThetaVec.productEvenTheta_mem_thetaSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:32:37.725553+00:00
 -- url     : https://prove2.me/theorems/1f7544b9-67f7-478a-8b74-879d52a83089

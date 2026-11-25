@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_adj_curv
 -- name    : GlobalTheory.HermFrame.adj_curv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:38:03.400295+00:00
 -- url     : https://prove2.me/theorems/5ae58ad1-f8ab-4b8c-8ef2-3f05642016b5

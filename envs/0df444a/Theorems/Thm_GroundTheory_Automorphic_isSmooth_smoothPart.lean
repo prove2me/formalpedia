@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isSmooth_smoothPart
 -- name    : GroundTheory.Automorphic.isSmooth_smoothPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:35:57.382397+00:00
 -- url     : https://prove2.me/theorems/1c3b67f1-6cf2-4a11-b490-81c1eb91f4be

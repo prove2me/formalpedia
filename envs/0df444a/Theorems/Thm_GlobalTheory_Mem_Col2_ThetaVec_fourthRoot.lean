@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Col2_ThetaVec_fourthRoot
 -- name    : GlobalTheory.Mem.Col2.ThetaVec.fourthRoot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:32:37.337899+00:00
 -- url     : https://prove2.me/theorems/9ba33ec1-ab76-4484-a8b0-2ccf189f4fdf

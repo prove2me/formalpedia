@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_twoForm_sep_of_basis
 -- name    : GlobalTheory.CechDR.twoForm_sep_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:14:51.408622+00:00
 -- url     : https://prove2.me/theorems/cbb9dfdf-d2d0-48da-b004-bee2f28d4b87

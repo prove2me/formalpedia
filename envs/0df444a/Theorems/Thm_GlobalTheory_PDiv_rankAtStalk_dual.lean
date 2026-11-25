@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_rankAtStalk_dual
 -- name    : GlobalTheory.PDiv.rankAtStalk_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:46:30.432516+00:00
 -- url     : https://prove2.me/theorems/fce2a01c-545d-4e6e-bea1-4ac973bc6ead

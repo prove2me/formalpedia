@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_fixedContragredientEquiv_apply
 -- name    : GroundTheory.Automorphic.fixedContragredientEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:35:35.973632+00:00
 -- url     : https://prove2.me/theorems/a8dcfdff-a7a9-43c3-9326-e87749e38439

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GL2Classical_re_smul_I
 -- name    : GroundTheory.Automorphic.GL2Classical.re_smul_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:29:57.268908+00:00
 -- url     : https://prove2.me/theorems/493d2a3e-dfa7-43cf-a1bc-8d2c937a5529

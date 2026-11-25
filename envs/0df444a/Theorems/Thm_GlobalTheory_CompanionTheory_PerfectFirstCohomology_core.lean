@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfectFirstCohomology_core
 -- name    : GlobalTheory.CompanionTheory.PerfectFirstCohomology.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:02:29.319127+00:00
 -- url     : https://prove2.me/theorems/efabb106-d8d1-48a9-8c1f-efd55802b992

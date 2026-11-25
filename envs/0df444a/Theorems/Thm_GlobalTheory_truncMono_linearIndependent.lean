@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_truncMono_linearIndependent
 -- name    : GlobalTheory.truncMono_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:24:08.532335+00:00
 -- url     : https://prove2.me/theorems/e1820883-be24-484c-baab-88e546c5f1ae

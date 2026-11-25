@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormChar_eq_top_of_frob
 -- name    : GlobalTheory.NormChar.eq_top_of_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:35:16.342443+00:00
 -- url     : https://prove2.me/theorems/27f44563-937f-4b01-8848-9919bc287648

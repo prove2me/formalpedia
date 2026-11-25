@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaScale_jac_scale
 -- name    : GlobalTheory.KaScale.jac_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:45:59.744801+00:00
 -- url     : https://prove2.me/theorems/6e7676c8-9b17-4449-9860-644ae21a878d

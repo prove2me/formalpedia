@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_LowStage_kerRed_evAll
 -- name    : GlobalTheory.FlatFactor.LowStage.kerRed_evAll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:15:58.466292+00:00
 -- url     : https://prove2.me/theorems/2a8ec0bf-d7f6-4140-9f1a-52c702475d57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_T3_typePrimesN
 -- name    : UpperTheory.T3.typePrimesN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:19:44.415676+00:00
 -- url     : https://prove2.me/theorems/2d290c6a-d41f-485d-af33-20c51839d3fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finsum_ord_mul_inertiaDeg_eq_finrank_mul_ord
 -- name    : GlobalTheory.finsum_ord_mul_inertiaDeg_eq_finrank_mul_ord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:50:27.815612+00:00
 -- url     : https://prove2.me/theorems/4988f422-4e58-4178-8a3d-7c88cece32fb

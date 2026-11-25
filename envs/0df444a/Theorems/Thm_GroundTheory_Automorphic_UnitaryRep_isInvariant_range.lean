@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_isInvariant_range
 -- name    : GroundTheory.Automorphic.UnitaryRep.isInvariant_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:33:41.966545+00:00
 -- url     : https://prove2.me/theorems/c75bff79-daa3-4656-b869-0eeab338f3f7

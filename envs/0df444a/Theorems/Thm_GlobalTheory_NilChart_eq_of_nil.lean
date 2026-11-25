@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilChart_eq_of_nil
 -- name    : GlobalTheory.NilChart.eq_of_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:26:08.259033+00:00
 -- url     : https://prove2.me/theorems/d8c3ea4d-68c3-4904-a5cf-c3ae7449e976

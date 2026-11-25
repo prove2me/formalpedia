@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LFunction_one_and_mean_log_eta
 -- name    : GlobalTheory.LFunction_one_and_mean_log_eta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:10.723082+00:00
 -- url     : https://prove2.me/theorems/331159f1-69c3-4fb1-b78c-90e1d962dcce

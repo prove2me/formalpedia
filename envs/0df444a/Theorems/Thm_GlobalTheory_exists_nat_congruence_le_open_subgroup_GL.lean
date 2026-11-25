@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_nat_congruence_le_open_subgroup_GL
 -- name    : GlobalTheory.exists_nat_congruence_le_open_subgroup_GL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:35:32.762379+00:00
 -- url     : https://prove2.me/theorems/68648e8f-ca4e-477c-8684-30132e5c7381

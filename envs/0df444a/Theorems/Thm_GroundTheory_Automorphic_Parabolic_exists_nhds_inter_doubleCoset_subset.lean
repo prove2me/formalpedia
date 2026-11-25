@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_nhds_inter_doubleCoset_subset
 -- name    : GroundTheory.Automorphic.Parabolic.exists_nhds_inter_doubleCoset_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:45:16.40684+00:00
 -- url     : https://prove2.me/theorems/9d63190a-1a22-491d-8243-67d762d2c407

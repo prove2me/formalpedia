@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_exact_z_rank_two_one_column
 -- name    : Formalism.CohomologicalDescent.LA.exact_z_rank_two_one_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:50:10.097981+00:00
 -- url     : https://prove2.me/theorems/7fcd82a4-a835-49c0-ba86-a602d3a1135a

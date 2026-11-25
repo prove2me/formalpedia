@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_contDiff_smul_of_tsupport
 -- name    : GroundTheory.Automorphic.contDiff_smul_of_tsupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:34:38.995199+00:00
 -- url     : https://prove2.me/theorems/88d01cfd-c314-44df-a1a9-6bc0cc0dee53

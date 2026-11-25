@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlancherelZero_eq_zero_of_tendsto_fourier
 -- name    : GlobalTheory.PlancherelZero.eq_zero_of_tendsto_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:45:28.971569+00:00
 -- url     : https://prove2.me/theorems/74d3beff-d6c3-46a6-8507-6f842bce22a7

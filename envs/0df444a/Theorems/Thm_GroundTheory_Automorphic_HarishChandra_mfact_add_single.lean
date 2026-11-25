@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_mfact_add_single
 -- name    : GroundTheory.Automorphic.HarishChandra.mfact_add_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:30:15.021083+00:00
 -- url     : https://prove2.me/theorems/c8de8291-a91f-421f-b137-9617a6b607a7

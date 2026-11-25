@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HermFrame_posSemidef_blockDiagonal__a5251a6bbb88
 -- name    : P2M_GlobalTheory_HermFrame_posSemidef_blockDiagonal__a5251a6bbb88
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:44:00.354874+00:00
 -- url     : https://prove2.me/theorems/c9398a53-2fc1-43ad-a0c8-c286306e2342

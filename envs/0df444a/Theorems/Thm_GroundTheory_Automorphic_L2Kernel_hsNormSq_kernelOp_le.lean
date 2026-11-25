@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_L2Kernel_hsNormSq_kernelOp_le
 -- name    : GroundTheory.Automorphic.L2Kernel.hsNormSq_kernelOp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:32:15.481607+00:00
 -- url     : https://prove2.me/theorems/8eb84360-2e5a-45a4-8ecc-978daf4f7625

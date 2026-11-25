@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_cechAcyclic_of_localizingAction
 -- name    : GroundTheory.Arith.SchemeCoh.cechAcyclic_of_localizingAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:28:19.519512+00:00
 -- url     : https://prove2.me/theorems/63ce01aa-5d37-45c2-adeb-141084690aef

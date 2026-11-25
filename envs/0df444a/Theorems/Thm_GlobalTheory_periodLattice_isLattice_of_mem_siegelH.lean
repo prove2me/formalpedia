@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_periodLattice_isLattice_of_mem_siegelH
 -- name    : GlobalTheory.periodLattice_isLattice_of_mem_siegelH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:55.880795+00:00
 -- url     : https://prove2.me/theorems/1584a351-2f08-4bf9-a364-62c3c7e1145f

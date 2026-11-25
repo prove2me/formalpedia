@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_nnnorm_changeOrigin_le_of_bound
 -- name    : GroundTheory.Automorphic.Sobolev.nnnorm_changeOrigin_le_of_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:33:36.485277+00:00
 -- url     : https://prove2.me/theorems/5ea0e653-58ca-462b-8a41-3bdf64f058fa

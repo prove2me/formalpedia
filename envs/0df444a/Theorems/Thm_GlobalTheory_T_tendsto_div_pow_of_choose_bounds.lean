@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tendsto_div_pow_of_choose_bounds
 -- name    : GlobalTheory.T.tendsto_div_pow_of_choose_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:59:38.432808+00:00
 -- url     : https://prove2.me/theorems/4a9ff5a4-be20-4763-ab36-f0b8243517c3

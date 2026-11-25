@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finiteDimensional_eigenspace_sum_sq_invariantFields
 -- name    : GlobalTheory.finiteDimensional_eigenspace_sum_sq_invariantFields
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:47:38.18684+00:00
 -- url     : https://prove2.me/theorems/94f9ae5a-8c46-4842-948f-6d70e007a80c

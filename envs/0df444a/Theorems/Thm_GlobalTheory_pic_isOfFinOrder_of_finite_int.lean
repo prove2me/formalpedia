@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pic_isOfFinOrder_of_finite_int
 -- name    : GlobalTheory.pic_isOfFinOrder_of_finite_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:13:37.091957+00:00
 -- url     : https://prove2.me/theorems/92bfa94e-f30e-4417-82ae-7b638abedb3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_val_add_card_right
 -- name    : GroundTheory.Automorphic.Whittaker.val_add_card_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:42:41.799572+00:00
 -- url     : https://prove2.me/theorems/7034eb2b-e1e4-41cd-bc0c-ee4a44b6ed52

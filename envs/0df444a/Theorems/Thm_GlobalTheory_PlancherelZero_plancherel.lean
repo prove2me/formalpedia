@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlancherelZero_plancherel
 -- name    : GlobalTheory.PlancherelZero.plancherel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:48:56.505801+00:00
 -- url     : https://prove2.me/theorems/7169aef8-5738-4cab-a9bb-36560cdbf795

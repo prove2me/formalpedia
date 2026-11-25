@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilChart_eq_of_sub_mem
 -- name    : GlobalTheory.NilChart.eq_of_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:26:22.928953+00:00
 -- url     : https://prove2.me/theorems/4d2e2c18-9210-4a8a-a91f-1ade95328d5a

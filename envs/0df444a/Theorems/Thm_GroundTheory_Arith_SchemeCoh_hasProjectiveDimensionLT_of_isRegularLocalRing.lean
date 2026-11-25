@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_hasProjectiveDimensionLT_of_isRegularLocalRing
 -- name    : GroundTheory.Arith.SchemeCoh.hasProjectiveDimensionLT_of_isRegularLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:57.377582+00:00
 -- url     : https://prove2.me/theorems/2ef3b127-fff2-40bb-bd66-173c8bd43a7f

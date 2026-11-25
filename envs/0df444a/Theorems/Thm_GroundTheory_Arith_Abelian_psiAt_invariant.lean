@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_psiAt_invariant
 -- name    : GroundTheory.Arith.Abelian.psiAt_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:34:36.237125+00:00
 -- url     : https://prove2.me/theorems/68562eda-932a-4f80-85b7-dbfe57d1d4bf

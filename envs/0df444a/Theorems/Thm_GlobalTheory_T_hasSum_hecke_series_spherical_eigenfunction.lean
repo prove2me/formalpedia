@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_hecke_series_spherical_eigenfunction
 -- name    : GlobalTheory.T.hasSum_hecke_series_spherical_eigenfunction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:43:59.095807+00:00
 -- url     : https://prove2.me/theorems/b2c87b8d-5e6c-4bf6-848c-9301c36c5639

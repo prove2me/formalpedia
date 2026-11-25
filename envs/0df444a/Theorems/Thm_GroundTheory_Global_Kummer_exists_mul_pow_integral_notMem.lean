@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Kummer_exists_mul_pow_integral_notMem
 -- name    : GroundTheory.Global.Kummer.exists_mul_pow_integral_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:39:47.558167+00:00
 -- url     : https://prove2.me/theorems/a754b951-73e6-4c0b-8f14-a6b0f16e75f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isHermitianFor_gram
 -- name    : GroundTheory.Automorphic.isHermitianFor_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:36:14.824053+00:00
 -- url     : https://prove2.me/theorems/27d514a8-fcee-4de1-a9ac-4c4955278b34

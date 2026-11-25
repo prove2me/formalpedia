@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_ofReal_convolution
 -- name    : GroundTheory.Automorphic.LineKernel.ofReal_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:31:59.128914+00:00
 -- url     : https://prove2.me/theorems/503a03f3-f4cd-475d-a331-e81f632a0dfc

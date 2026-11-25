@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_classNumber_le_sqrt_discr_mul_pow_pred
 -- name    : GlobalTheory.classNumber_le_sqrt_discr_mul_pow_pred
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:50:53.952835+00:00
 -- url     : https://prove2.me/theorems/a4be554d-4e98-432d-9075-91e3b42b8b73

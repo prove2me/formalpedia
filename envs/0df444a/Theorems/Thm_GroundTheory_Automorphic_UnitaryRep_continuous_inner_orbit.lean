@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_continuous_inner_orbit
 -- name    : GroundTheory.Automorphic.UnitaryRep.continuous_inner_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:33:24.168146+00:00
 -- url     : https://prove2.me/theorems/42902780-1dd2-4273-91c8-e1d04172a83e

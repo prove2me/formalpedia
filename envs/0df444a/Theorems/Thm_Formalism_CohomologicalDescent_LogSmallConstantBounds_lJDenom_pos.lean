@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_lJDenom_pos
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.lJDenom_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:44:51.012429+00:00
 -- url     : https://prove2.me/theorems/ef1398c7-cd19-4863-8aa3-dbbd18fd6c7c

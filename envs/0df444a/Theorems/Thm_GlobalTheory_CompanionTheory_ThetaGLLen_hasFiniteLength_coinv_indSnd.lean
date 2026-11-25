@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ThetaGLLen_hasFiniteLength_coinv_indSnd
 -- name    : GlobalTheory.CompanionTheory.ThetaGLLen.hasFiniteLength_coinv_indSnd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:44:02.244063+00:00
 -- url     : https://prove2.me/theorems/d5d864d6-70fe-46af-accd-6319d9b9606f

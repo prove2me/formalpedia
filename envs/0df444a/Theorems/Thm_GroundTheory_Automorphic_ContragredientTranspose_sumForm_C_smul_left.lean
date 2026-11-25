@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_sumForm_C_smul_left
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.sumForm_C_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:29:02.639113+00:00
 -- url     : https://prove2.me/theorems/90a57f9c-7e93-45e1-9cab-056ff919a419

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_fou_parFun_levi
 -- name    : GlobalTheory.KSp.fou_parFun_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:27:03.654967+00:00
 -- url     : https://prove2.me/theorems/2ae50fd5-7bd2-4a15-a813-e264845a5ddf

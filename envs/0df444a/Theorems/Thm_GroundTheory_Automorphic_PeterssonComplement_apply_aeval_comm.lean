@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_PeterssonComplement_apply_aeval_comm
 -- name    : GroundTheory.Automorphic.PeterssonComplement.apply_aeval_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:33:04.831589+00:00
 -- url     : https://prove2.me/theorems/3d591281-c676-49a9-b30d-1b9a234dc90e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_val_expG_mul_expG
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.val_expG_mul_expG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:31:26.746408+00:00
 -- url     : https://prove2.me/theorems/85afdc7c-6427-48be-a00c-4da706086e9a

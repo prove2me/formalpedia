@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_diag_mul_permGL_mul_single
 -- name    : GroundTheory.Automorphic.Whittaker.diag_mul_permGL_mul_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:35:18.759866+00:00
 -- url     : https://prove2.me/theorems/15acffe8-1635-41fb-be12-af9c555ae09c

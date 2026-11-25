@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_isClosed_support_of_isLocallyConstant
 -- name    : GroundTheory.Automorphic.Whittaker.isClosed_support_of_isLocallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:34:41.953489+00:00
 -- url     : https://prove2.me/theorems/a63ae428-a82d-49b6-a7b8-b7c3294b0481

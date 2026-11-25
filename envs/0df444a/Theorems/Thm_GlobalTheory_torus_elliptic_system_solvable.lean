@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torus_elliptic_system_solvable
 -- name    : GlobalTheory.torus_elliptic_system_solvable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:23:20.646946+00:00
 -- url     : https://prove2.me/theorems/79027dfd-e799-48b0-9a7e-dabba2997d07

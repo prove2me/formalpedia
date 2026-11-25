@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_simpleOver_tensKer
 -- name    : GlobalTheory.TensHead.simpleOver_tensKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:02:29.086459+00:00
 -- url     : https://prove2.me/theorems/564d92d2-255b-42b9-af3d-48555ae75a81

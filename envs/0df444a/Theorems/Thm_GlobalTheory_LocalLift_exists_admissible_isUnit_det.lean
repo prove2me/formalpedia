@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalLift_exists_admissible_isUnit_det
 -- name    : GlobalTheory.LocalLift.exists_admissible_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:14:07.015463+00:00
 -- url     : https://prove2.me/theorems/2101bc03-5838-4f46-bb81-e2665d5eb757

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_extend_restrict
 -- name    : GroundTheory.Automorphic.RestrictedTensor.extend_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:32:49.297427+00:00
 -- url     : https://prove2.me/theorems/57880d05-5c31-4eb6-be57-d55974302611

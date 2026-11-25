@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyReduced_of_smooth
 -- name    : GlobalTheory.geometricallyReduced_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:28:20.419336+00:00
 -- url     : https://prove2.me/theorems/ce3f4620-6782-491c-83ef-dc137195d8b1

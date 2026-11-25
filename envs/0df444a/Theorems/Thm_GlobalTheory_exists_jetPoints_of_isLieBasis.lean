@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_jetPoints_of_isLieBasis
 -- name    : GlobalTheory.exists_jetPoints_of_isLieBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:48.049727+00:00
 -- url     : https://prove2.me/theorems/088f6718-4fa7-4571-8188-5b800125d0ed

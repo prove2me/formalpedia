@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckePoisson_poisson_coset
 -- name    : GlobalTheory.HeckePoisson.poisson_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:04:59.92421+00:00
 -- url     : https://prove2.me/theorems/28ad7276-c9fe-4ff1-8647-c064e9fc70c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_topFormOrd_vw_smul_topFormGen
 -- name    : GlobalTheory.topFormOrd_vw_smul_topFormGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:23:47.048581+00:00
 -- url     : https://prove2.me/theorems/459841c7-37cc-4bca-8336-a27af53c970c

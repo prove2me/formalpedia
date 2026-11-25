@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_surjective_towerComp
 -- name    : GroundTheory.Arith.SchemeCoh.surjective_towerComp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:29:17.781909+00:00
 -- url     : https://prove2.me/theorems/4be56cd7-73b2-4609-820d-416a571c2e19

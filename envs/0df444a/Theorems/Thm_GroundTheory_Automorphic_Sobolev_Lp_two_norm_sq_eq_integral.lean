@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_Lp_two_norm_sq_eq_integral
 -- name    : GroundTheory.Automorphic.Sobolev.Lp_two_norm_sq_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:33:52.515422+00:00
 -- url     : https://prove2.me/theorems/64e766a3-f9fe-45ff-b8f2-16c5fe2df3c7

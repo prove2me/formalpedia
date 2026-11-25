@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAct_thH_add
 -- name    : GlobalTheory.SW.WeilAct.thH_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:45:45.154218+00:00
 -- url     : https://prove2.me/theorems/7c7b677b-c9a1-4e2b-bfa6-eeb3562c3ddb

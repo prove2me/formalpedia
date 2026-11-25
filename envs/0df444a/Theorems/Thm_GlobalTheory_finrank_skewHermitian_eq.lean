@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_skewHermitian_eq
 -- name    : GlobalTheory.finrank_skewHermitian_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:52:11.284505+00:00
 -- url     : https://prove2.me/theorems/4453d170-384c-4420-ab23-5ee0cc705cf6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_hull_inf_halfspace
 -- name    : GroundTheory.Arith.Toric.hull_inf_halfspace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:37:33.117748+00:00
 -- url     : https://prove2.me/theorems/57811fd1-d966-4921-a39d-10d405a520f6

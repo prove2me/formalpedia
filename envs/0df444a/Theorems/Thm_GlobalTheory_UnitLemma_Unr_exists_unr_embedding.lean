@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_exists_unr_embedding
 -- name    : GlobalTheory.UnitLemma.Unr.exists_unr_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:37:42.476057+00:00
 -- url     : https://prove2.me/theorems/eecf7ec5-fbbe-442c-b6d7-67a0d10a78a3

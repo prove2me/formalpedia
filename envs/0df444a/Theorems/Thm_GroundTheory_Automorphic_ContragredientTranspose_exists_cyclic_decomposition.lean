@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_exists_cyclic_decomposition
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.exists_cyclic_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:42:16.475672+00:00
 -- url     : https://prove2.me/theorems/903b956f-656f-43a8-9561-b4f365ec0cb7

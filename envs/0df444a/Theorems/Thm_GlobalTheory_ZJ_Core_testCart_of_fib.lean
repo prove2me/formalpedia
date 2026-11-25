@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_Core_testCart_of_fib
 -- name    : GlobalTheory.ZJ.Core.testCart_of_fib
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:02:49.445403+00:00
 -- url     : https://prove2.me/theorems/0972fd2c-f27c-4125-bd2a-4fa91938bec8

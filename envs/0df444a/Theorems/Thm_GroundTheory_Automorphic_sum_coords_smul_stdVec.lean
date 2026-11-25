@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_sum_coords_smul_stdVec
 -- name    : GroundTheory.Automorphic.sum_coords_smul_stdVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:36:52.789643+00:00
 -- url     : https://prove2.me/theorems/30dde0ee-99e5-4743-9af1-0d443ee7a9a9

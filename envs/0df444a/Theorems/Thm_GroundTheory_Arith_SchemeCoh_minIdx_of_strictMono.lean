@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_minIdx_of_strictMono
 -- name    : GroundTheory.Arith.SchemeCoh.minIdx_of_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:28:01.636453+00:00
 -- url     : https://prove2.me/theorems/2a9275ed-90da-46d4-8b34-4bfd4ad9146f

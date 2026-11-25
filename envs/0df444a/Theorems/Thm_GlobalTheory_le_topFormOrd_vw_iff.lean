@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_le_topFormOrd_vw_iff
 -- name    : GlobalTheory.le_topFormOrd_vw_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:55.065798+00:00
 -- url     : https://prove2.me/theorems/021545c6-adfb-4fde-98d3-275616cb8d47

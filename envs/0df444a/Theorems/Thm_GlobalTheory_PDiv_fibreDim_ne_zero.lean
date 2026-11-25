@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_fibreDim_ne_zero
 -- name    : GlobalTheory.PDiv.fibreDim_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:48:24.264035+00:00
 -- url     : https://prove2.me/theorems/bc3cb2d0-2c73-4eb9-8a5f-be9fd8d21f16

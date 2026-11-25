@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_degree_weierstrassP
 -- name    : GroundTheory.Global.Elliptic.degree_weierstrassP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:39:37.471905+00:00
 -- url     : https://prove2.me/theorems/ef36297a-684d-4751-bcb6-f74ef8d23036

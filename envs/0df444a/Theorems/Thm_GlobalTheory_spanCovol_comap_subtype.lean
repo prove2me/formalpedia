@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_spanCovol_comap_subtype
 -- name    : GlobalTheory.spanCovol_comap_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:21:45.326593+00:00
 -- url     : https://prove2.me/theorems/6b7d0397-8513-4b78-9d2c-8b337aa63b1a

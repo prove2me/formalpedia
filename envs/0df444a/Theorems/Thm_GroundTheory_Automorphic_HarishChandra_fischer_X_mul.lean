@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_fischer_X_mul
 -- name    : GroundTheory.Automorphic.HarishChandra.fischer_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:46:38.704143+00:00
 -- url     : https://prove2.me/theorems/4dd533dd-3973-43e6-a40c-e0a944cd7f50

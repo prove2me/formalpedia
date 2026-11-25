@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_spanFinrank_maximalIdeal_le_quotient_add_one
 -- name    : GroundTheory.Arith.SchemeCoh.spanFinrank_maximalIdeal_le_quotient_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:28:56.972796+00:00
 -- url     : https://prove2.me/theorems/ab0f724c-71f6-4123-94a8-6c09ad62934c

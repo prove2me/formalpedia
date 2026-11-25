@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_whittaker_bound_big_cell
 -- name    : GlobalTheory.T.whittaker_bound_big_cell
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:53:34.058919+00:00
 -- url     : https://prove2.me/theorems/6ddd5b9b-d9e5-49ca-9dc5-a105007c56e3

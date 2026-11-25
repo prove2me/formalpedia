@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_aeval_apply_eq_sum_modByMonic
 -- name    : GroundTheory.Automorphic.aeval_apply_eq_sum_modByMonic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:34:37.04111+00:00
 -- url     : https://prove2.me/theorems/2511f69b-f5dc-4912-bf83-7ce4ec39d96b

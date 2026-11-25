@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exterior_square_vector_bundle_rank
 -- name    : GlobalTheory.T.exterior_square_vector_bundle_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:11.626819+00:00
 -- url     : https://prove2.me/theorems/61f9e452-d161-4133-a9fa-6981c5895aeb

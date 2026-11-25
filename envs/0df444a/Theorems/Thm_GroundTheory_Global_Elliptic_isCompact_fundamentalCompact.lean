@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_isCompact_fundamentalCompact
 -- name    : GroundTheory.Global.Elliptic.isCompact_fundamentalCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:38:31.083552+00:00
 -- url     : https://prove2.me/theorems/6d04a72c-47a6-4b93-a51d-7db509258ccc

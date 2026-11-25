@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_exists_isChar_eq_add_of_injective
 -- name    : GlobalTheory.BI.exists_isChar_eq_add_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:58:08.661056+00:00
 -- url     : https://prove2.me/theorems/7c968097-9fe8-467a-9196-b827f6fc2674

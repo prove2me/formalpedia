@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_phiU_of_mem
 -- name    : GlobalTheory.SingleBlock.phiU_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:30.863832+00:00
 -- url     : https://prove2.me/theorems/63e85a8f-cabe-419b-8840-30009e816dd5

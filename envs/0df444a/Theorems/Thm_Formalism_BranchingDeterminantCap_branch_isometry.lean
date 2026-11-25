@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_branch_isometry
 -- name    : Formalism.BranchingDeterminantCap.branch_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:34.830204+00:00
 -- url     : https://prove2.me/theorems/9a3e9442-0364-4b14-8488-f70c8c935ff3

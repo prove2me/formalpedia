@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_sum_integral_cons_kernel
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.sum_integral_cons_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:50.020786+00:00
 -- url     : https://prove2.me/theorems/4386008e-3548-4463-85eb-813d7f6a1dd9

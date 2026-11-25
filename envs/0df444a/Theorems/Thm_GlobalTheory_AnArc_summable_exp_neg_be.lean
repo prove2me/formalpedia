@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_summable_exp_neg_be
 -- name    : GlobalTheory.AnArc.summable_exp_neg_be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:56:26.254787+00:00
 -- url     : https://prove2.me/theorems/7321f911-9a43-4576-9851-a9157c3ed5f9

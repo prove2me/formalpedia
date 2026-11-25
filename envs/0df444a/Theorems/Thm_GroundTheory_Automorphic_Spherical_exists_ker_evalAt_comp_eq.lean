@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_exists_ker_evalAt_comp_eq
 -- name    : GroundTheory.Automorphic.Spherical.exists_ker_evalAt_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:33:40.023838+00:00
 -- url     : https://prove2.me/theorems/b14c523d-4b9c-491b-8de6-dffaf7ce6d76

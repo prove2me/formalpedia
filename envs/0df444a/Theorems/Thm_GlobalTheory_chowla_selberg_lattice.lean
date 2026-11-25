@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_chowla_selberg_lattice
 -- name    : GlobalTheory.chowla_selberg_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:08.142356+00:00
 -- url     : https://prove2.me/theorems/99966b36-cbb3-4b3f-a57b-348088076ba6

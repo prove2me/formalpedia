@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unimodular_and_tangent_of_isAH
 -- name    : GlobalTheory.unimodular_and_tangent_of_isAH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:24:58.928382+00:00
 -- url     : https://prove2.me/theorems/ec7b42eb-8366-410a-9514-b596390650d9

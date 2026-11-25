@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_CechOrdered_altProj_apply_of_not_injective
 -- name    : GroundTheory.Arith.SchemeCoh.CechOrdered.altProj_apply_of_not_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:28:00.591955+00:00
 -- url     : https://prove2.me/theorems/10cca03c-f958-4072-a90c-9315827902d2

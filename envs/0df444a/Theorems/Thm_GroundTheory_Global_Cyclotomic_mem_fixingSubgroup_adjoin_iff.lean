@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_mem_fixingSubgroup_adjoin_iff
 -- name    : GroundTheory.Global.Cyclotomic.mem_fixingSubgroup_adjoin_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:38:08.03174+00:00
 -- url     : https://prove2.me/theorems/43b89e7f-b547-41fb-9d14-0428f752255d

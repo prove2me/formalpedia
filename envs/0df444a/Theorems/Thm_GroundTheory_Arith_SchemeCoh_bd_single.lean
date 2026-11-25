@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_bd_single
 -- name    : GroundTheory.Arith.SchemeCoh.bd_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:33:21.227859+00:00
 -- url     : https://prove2.me/theorems/d74478d3-8c77-4cc7-b696-c8a530e2515e

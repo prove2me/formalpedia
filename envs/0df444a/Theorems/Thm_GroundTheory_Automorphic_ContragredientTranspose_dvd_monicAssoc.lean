@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_dvd_monicAssoc
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.dvd_monicAssoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:04.20835+00:00
 -- url     : https://prove2.me/theorems/604b7af2-515b-42c0-a354-a5dbd117e2b7

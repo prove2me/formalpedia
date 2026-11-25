@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_gaussInt_one_mul_neg_one
 -- name    : GlobalTheory.JR.WeilQuad.gaussInt_one_mul_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:41:11.495812+00:00
 -- url     : https://prove2.me/theorems/44fc4cc2-cc27-473f-8f16-c02b83a49746

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_cechAcyclic_of_transport
 -- name    : GroundTheory.Arith.SchemeCoh.cechAcyclic_of_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:28:55.921804+00:00
 -- url     : https://prove2.me/theorems/8c5112d0-4489-4913-8cdc-36e574689ed8

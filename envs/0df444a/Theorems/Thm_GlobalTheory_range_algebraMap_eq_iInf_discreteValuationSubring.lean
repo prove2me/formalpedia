@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_range_algebraMap_eq_iInf_discreteValuationSubring
 -- name    : GlobalTheory.range_algebraMap_eq_iInf_discreteValuationSubring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:16:39.307174+00:00
 -- url     : https://prove2.me/theorems/85513ff2-90d9-40a3-828e-f57d6a1826cb

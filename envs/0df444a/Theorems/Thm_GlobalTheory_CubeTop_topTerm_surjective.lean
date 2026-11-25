@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeTop_topTerm_surjective
 -- name    : GlobalTheory.CubeTop.topTerm_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:48:15.88799+00:00
 -- url     : https://prove2.me/theorems/76b49ff4-b4c4-46c0-a4f1-bc2ab28a1444

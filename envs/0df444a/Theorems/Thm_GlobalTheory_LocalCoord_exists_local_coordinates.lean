@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalCoord_exists_local_coordinates
 -- name    : GlobalTheory.LocalCoord.exists_local_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:14:01.588679+00:00
 -- url     : https://prove2.me/theorems/b3372805-9e7c-4303-86ca-d3fd00a001b0

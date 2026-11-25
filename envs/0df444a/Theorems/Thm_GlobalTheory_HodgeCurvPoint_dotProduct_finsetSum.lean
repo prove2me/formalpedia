@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeCurvPoint_dotProduct_finsetSum
 -- name    : GlobalTheory.HodgeCurvPoint.dotProduct_finsetSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:49:19.78184+00:00
 -- url     : https://prove2.me/theorems/fc860771-3418-41f1-97c6-957742b47b7e

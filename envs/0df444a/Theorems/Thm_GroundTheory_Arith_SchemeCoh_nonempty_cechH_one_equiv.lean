@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_nonempty_cechH_one_equiv
 -- name    : GroundTheory.Arith.SchemeCoh.nonempty_cechH_one_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:28:13.558302+00:00
 -- url     : https://prove2.me/theorems/ca64ae3b-f721-44e4-9a6e-bfa717385fa3

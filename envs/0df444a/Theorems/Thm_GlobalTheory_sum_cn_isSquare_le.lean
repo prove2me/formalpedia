@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_cn_isSquare_le
 -- name    : GlobalTheory.sum_cn_isSquare_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:22:54.080158+00:00
 -- url     : https://prove2.me/theorems/5991c8dc-0fb8-4aa0-acf8-f71c6e71b6b5

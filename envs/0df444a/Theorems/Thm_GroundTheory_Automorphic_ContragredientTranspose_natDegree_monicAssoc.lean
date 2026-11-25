@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_natDegree_monicAssoc
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.natDegree_monicAssoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:28:46.320803+00:00
 -- url     : https://prove2.me/theorems/d70d0a7b-2940-4f96-9687-49beafb2440f

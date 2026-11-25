@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilSmooth_inv_cont
 -- name    : GlobalTheory.WeilSmooth.inv_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:55:30.012058+00:00
 -- url     : https://prove2.me/theorems/dbf4ae00-f6a8-425e-b588-0d6dde2e6b13

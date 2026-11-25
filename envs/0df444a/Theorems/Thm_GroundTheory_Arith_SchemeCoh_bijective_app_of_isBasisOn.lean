@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_bijective_app_of_isBasisOn
 -- name    : GroundTheory.Arith.SchemeCoh.bijective_app_of_isBasisOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:28:10.086263+00:00
 -- url     : https://prove2.me/theorems/234d8312-1d6e-4938-a80a-7fdab2770a2b

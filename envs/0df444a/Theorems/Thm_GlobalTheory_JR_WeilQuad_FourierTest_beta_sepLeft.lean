@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_FourierTest_beta_sepLeft
 -- name    : GlobalTheory.JR.WeilQuad.FourierTest.beta_sepLeft
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:53:45.436595+00:00
 -- url     : https://prove2.me/theorems/b2692408-6a29-4d7a-ba7a-5be27a9d0ee8

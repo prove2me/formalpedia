@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_window_around_last_max_null_sequence
 -- name    : GlobalTheory.T.window_around_last_max_null_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:00:58.825806+00:00
 -- url     : https://prove2.me/theorems/ac808459-4278-4db8-9bf3-bd0a791346aa

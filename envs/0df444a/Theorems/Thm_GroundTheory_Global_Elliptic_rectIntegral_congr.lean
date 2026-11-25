@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_rectIntegral_congr
 -- name    : GroundTheory.Global.Elliptic.rectIntegral_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:38:55.941844+00:00
 -- url     : https://prove2.me/theorems/743a99e1-a782-4aa4-9d72-36c6a3c94130

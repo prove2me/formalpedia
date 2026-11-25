@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_pderiv_monomial_mem_geDeg
 -- name    : GroundTheory.Automorphic.HarishChandra.pderiv_monomial_mem_geDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:30:19.386976+00:00
 -- url     : https://prove2.me/theorems/171760d5-b0a2-4f35-b7ae-a7a11e30c41f

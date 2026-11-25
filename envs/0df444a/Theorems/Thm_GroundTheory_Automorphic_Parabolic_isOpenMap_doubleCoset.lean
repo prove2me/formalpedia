@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isOpenMap_doubleCoset
 -- name    : GroundTheory.Automorphic.Parabolic.isOpenMap_doubleCoset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:33:10.694838+00:00
 -- url     : https://prove2.me/theorems/bbb7cff2-6f52-46ae-a535-37024a0461f7

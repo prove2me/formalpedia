@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_irreducibleSpace_of_smooth_field_of_connectedSpace
 -- name    : GlobalTheory.irreducibleSpace_of_smooth_field_of_connectedSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:42:11.883113+00:00
 -- url     : https://prove2.me/theorems/b337a7a4-15a3-4b7e-880b-84153de93c95

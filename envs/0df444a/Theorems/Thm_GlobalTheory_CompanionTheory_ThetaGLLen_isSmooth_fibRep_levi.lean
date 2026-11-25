@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ThetaGLLen_isSmooth_fibRep_levi
 -- name    : GlobalTheory.CompanionTheory.ThetaGLLen.isSmooth_fibRep_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:42:44.99858+00:00
 -- url     : https://prove2.me/theorems/89323157-f47b-48e5-a1e0-27db6e6ad6d0

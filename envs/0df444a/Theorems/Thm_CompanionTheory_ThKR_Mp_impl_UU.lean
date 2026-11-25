@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_impl_UU
 -- name    : CompanionTheory.ThKR.Mp.impl_UU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:18:46.650794+00:00
 -- url     : https://prove2.me/theorems/a42cc8c2-6c84-4c0a-8f2a-0be1838b22d5

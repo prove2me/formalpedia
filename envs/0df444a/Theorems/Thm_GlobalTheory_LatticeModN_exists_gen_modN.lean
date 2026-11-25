@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeModN_exists_gen_modN
 -- name    : GlobalTheory.LatticeModN.exists_gen_modN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:00:44.385764+00:00
 -- url     : https://prove2.me/theorems/e4ea4ce3-a5d9-4f89-ab16-b8476c982aab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_stepMap_injective
 -- name    : GlobalTheory.CosetEuler.stepMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:49:24.508043+00:00
 -- url     : https://prove2.me/theorems/61a52c41-5c6c-437c-a272-df781bc4e9a0

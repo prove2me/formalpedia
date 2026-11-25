@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_residueReduction_apply
 -- name    : GroundTheory.Automorphic.GLnLocal.residueReduction_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:31:10.744751+00:00
 -- url     : https://prove2.me/theorems/6cf17c5d-b65a-4815-8b6a-8e0a944ab5c0

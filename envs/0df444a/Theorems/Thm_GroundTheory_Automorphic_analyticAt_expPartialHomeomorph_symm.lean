@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_analyticAt_expPartialHomeomorph_symm
 -- name    : GroundTheory.Automorphic.analyticAt_expPartialHomeomorph_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:34:52.606301+00:00
 -- url     : https://prove2.me/theorems/cbbb020f-9f80-46bd-8525-9ef596241682

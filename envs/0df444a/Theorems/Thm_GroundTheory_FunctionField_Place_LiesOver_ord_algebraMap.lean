@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_LiesOver_ord_algebraMap
 -- name    : GroundTheory.FunctionField.Place.LiesOver.ord_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:37:10.798884+00:00
 -- url     : https://prove2.me/theorems/831f38df-56aa-43b8-9dbd-2b7aa51dea2e

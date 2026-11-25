@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_FourierTest_beta_nondeg
 -- name    : GlobalTheory.JR.WeilQuad.FourierTest.beta_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:53:10.58096+00:00
 -- url     : https://prove2.me/theorems/9902826d-0082-4c50-8742-0fdd7c103064

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_exponent_eq_exact_holds
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.exponent_eq_exact_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:09:19.16931+00:00
 -- url     : https://prove2.me/theorems/2e862df3-93f3-4bc9-88e0-e37bf92c44e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isWeaklyRegular_C_cons_map_linForm
 -- name    : GlobalTheory.isWeaklyRegular_C_cons_map_linForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:05:18.927613+00:00
 -- url     : https://prove2.me/theorems/8db88ab0-da0e-42b3-a6f3-a3cce9132311

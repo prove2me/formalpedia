@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_exists_of_coeff_orbitSum_ne_zero
 -- name    : GroundTheory.Automorphic.Spherical.exists_of_coeff_orbitSum_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:34:03.367475+00:00
 -- url     : https://prove2.me/theorems/4882c06d-18a9-4e08-9254-c1e8eb75608b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_shortExact_mul_p_modP
 -- name    : GlobalTheory.shortExact_mul_p_modP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:20:45.307628+00:00
 -- url     : https://prove2.me/theorems/c741d498-a8fe-4304-857a-15cbeb9557be

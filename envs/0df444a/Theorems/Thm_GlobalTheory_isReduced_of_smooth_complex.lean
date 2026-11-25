@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isReduced_of_smooth_complex
 -- name    : GlobalTheory.isReduced_of_smooth_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:41:31.552866+00:00
 -- url     : https://prove2.me/theorems/9eb1771f-39ec-45ca-9bc5-b4190186ba9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_prodExp_eq_expG_prodExpCoord
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.prodExp_eq_expG_prodExpCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:32:59.651383+00:00
 -- url     : https://prove2.me/theorems/246b1e89-7e15-4b0e-add6-735b5a6c0609

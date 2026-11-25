@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_IW_zero_mem_OmF
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.IW.zero_mem_OmF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:21:24.266077+00:00
 -- url     : https://prove2.me/theorems/6f6f1651-1407-45b0-9d42-4f12e9589584

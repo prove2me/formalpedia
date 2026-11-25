@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_cellRank_eq_zero_of_lt
 -- name    : GroundTheory.Automorphic.Parabolic.cellRank_eq_zero_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:33:07.116688+00:00
 -- url     : https://prove2.me/theorems/0f593b96-c0fa-4561-9aac-8bb75b4031ed

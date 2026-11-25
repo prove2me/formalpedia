@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_pairing_nsmul_left
 -- name    : GroundTheory.Arith.Abelian.pairing_nsmul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:27:14.304933+00:00
 -- url     : https://prove2.me/theorems/35d9bff2-1784-44c7-9832-8224553d46d0

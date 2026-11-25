@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_SobolevSpace_inner_def
 -- name    : GroundTheory.Automorphic.Sobolev.SobolevSpace.inner_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:33:45.904323+00:00
 -- url     : https://prove2.me/theorems/7d9f691f-473a-4c38-885d-634142862655

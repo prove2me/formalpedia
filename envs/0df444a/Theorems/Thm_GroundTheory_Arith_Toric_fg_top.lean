@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_fg_top
 -- name    : GroundTheory.Arith.Toric.fg_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:29:06.021092+00:00
 -- url     : https://prove2.me/theorems/5a5db593-74d8-44c5-ab75-a682004e08ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_congruenceSubgroup_zero
 -- name    : GroundTheory.Automorphic.GLnLocal.congruenceSubgroup_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:30:19.83678+00:00
 -- url     : https://prove2.me/theorems/5be3a519-7b0e-4330-99d3-effe2b2a7627

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_fock_space_highest_weight
 -- name    : Formalism.GradedWeylDivisibility.fock_space_highest_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:05.84711+00:00
 -- url     : https://prove2.me/theorems/3d4a8782-7cd8-4009-94da-8c2d67d96e9e

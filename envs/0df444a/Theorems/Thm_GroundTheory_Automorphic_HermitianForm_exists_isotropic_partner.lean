@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_exists_isotropic_partner
 -- name    : GroundTheory.Automorphic.HermitianForm.exists_isotropic_partner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:30:56.808581+00:00
 -- url     : https://prove2.me/theorems/e8310ea4-4226-404c-8857-54b8df901028

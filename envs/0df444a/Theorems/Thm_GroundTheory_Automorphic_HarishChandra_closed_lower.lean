@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_closed_lower
 -- name    : GroundTheory.Automorphic.HarishChandra.closed_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:30:10.293817+00:00
 -- url     : https://prove2.me/theorems/04a69ecf-62a0-455a-9d5b-717bec232d5e

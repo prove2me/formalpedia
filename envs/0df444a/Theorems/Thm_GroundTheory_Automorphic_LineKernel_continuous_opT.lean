@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_continuous_opT
 -- name    : GroundTheory.Automorphic.LineKernel.continuous_opT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:31:44.832974+00:00
 -- url     : https://prove2.me/theorems/4e5e0cd6-f4db-479e-96a8-d673b448c128

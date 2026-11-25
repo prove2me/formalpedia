@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_conj_mem_integralGL_of_conj_inv_mem
 -- name    : GroundTheory.Automorphic.GLnLocal.conj_mem_integralGL_of_conj_inv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:29:52.067279+00:00
 -- url     : https://prove2.me/theorems/8dcceecb-9f4d-493f-ba27-a57081c9b4e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourierTransformKProd_locallyConstantCompactSupport
 -- name    : GlobalTheory.T.fourierTransformKProd_locallyConstantCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:40:50.612812+00:00
 -- url     : https://prove2.me/theorems/285a5f11-99c8-4446-8187-bdadaa354ab7

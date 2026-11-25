@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_succMin_pos
 -- name    : GlobalTheory.succMin_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:22:34.7408+00:00
 -- url     : https://prove2.me/theorems/d60ecd28-70e4-4fd1-8d9a-1c3949d9d607

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_mem_adjoin_psum_of_isSymmetric
 -- name    : GroundTheory.Automorphic.HarishChandra.mem_adjoin_psum_of_isSymmetric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:29:51.913246+00:00
 -- url     : https://prove2.me/theorems/dd1286f1-f3a3-4e3e-84b3-57a3f60eb676

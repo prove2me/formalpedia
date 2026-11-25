@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_fibreDim_congr
 -- name    : GlobalTheory.PDiv.fibreDim_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:46:25.234715+00:00
 -- url     : https://prove2.me/theorems/8279f6a8-3290-418d-8c64-ab2222bac449

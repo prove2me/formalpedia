@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_lemmaD_rank2
 -- name    : Formalism.CohomologicalDescent.LD.lemmaD_rank2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:42:40.317188+00:00
 -- url     : https://prove2.me/theorems/85d24a38-86e4-4ab2-8c50-7a978844a5f2

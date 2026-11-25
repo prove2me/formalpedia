@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Iwasawa_iwasawaExponent_eq
 -- name    : GroundTheory.Automorphic.Iwasawa.iwasawaExponent_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:04:26.474342+00:00
 -- url     : https://prove2.me/theorems/58a1ba43-889c-4a71-827b-94f44d0902c7

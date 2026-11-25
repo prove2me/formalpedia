@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeTop_span_topClass
 -- name    : GlobalTheory.CubeTop.span_topClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:48:23.025829+00:00
 -- url     : https://prove2.me/theorems/9a6ec434-6cfb-44f6-b491-184ebae07990

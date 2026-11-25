@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_star_mem_intertwiners
 -- name    : GroundTheory.Automorphic.UnitaryRep.star_mem_intertwiners
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:33:45.242225+00:00
 -- url     : https://prove2.me/theorems/c1b17048-6ee9-4e79-ac80-3d89d103fae8

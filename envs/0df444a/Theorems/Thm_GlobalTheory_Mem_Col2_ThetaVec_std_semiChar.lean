@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Col2_ThetaVec_std_semiChar
 -- name    : GlobalTheory.Mem.Col2.ThetaVec.std_semiChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:32:12.165519+00:00
 -- url     : https://prove2.me/theorems/14bfd4ed-cc32-40fb-a925-109ba795d322

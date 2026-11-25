@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_basis_kaehler_uniformiser
 -- name    : GlobalTheory.exists_basis_kaehler_uniformiser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:30:17.702897+00:00
 -- url     : https://prove2.me/theorems/2ff4ba7d-fd5e-4fbb-bb85-8bf003df844e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeCurvPoint_posSemidef_map
 -- name    : GlobalTheory.HodgeCurvPoint.posSemidef_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:49:24.866793+00:00
 -- url     : https://prove2.me/theorems/a2905bbb-158c-4b68-b375-ff4f249b6f0d

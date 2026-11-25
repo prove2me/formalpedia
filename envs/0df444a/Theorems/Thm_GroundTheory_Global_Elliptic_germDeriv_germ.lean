@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_germDeriv_germ
 -- name    : GroundTheory.Global.Elliptic.germDeriv_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:39:08.765055+00:00
 -- url     : https://prove2.me/theorems/ab38c847-900a-49b1-8c73-16bd97fc05a4

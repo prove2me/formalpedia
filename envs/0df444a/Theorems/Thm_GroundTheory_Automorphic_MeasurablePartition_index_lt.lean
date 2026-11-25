@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_MeasurablePartition_index_lt
 -- name    : GroundTheory.Automorphic.MeasurablePartition.index_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:32:40.791916+00:00
 -- url     : https://prove2.me/theorems/aa90537b-e571-44e8-b1ce-b7d98960e539

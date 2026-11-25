@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_jetCoord_eq_of_sub_mem
 -- name    : GlobalTheory.jetCoord_eq_of_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:28:38.674895+00:00
 -- url     : https://prove2.me/theorems/d8ad2be3-227a-4fc4-bfc2-ce459fa75313

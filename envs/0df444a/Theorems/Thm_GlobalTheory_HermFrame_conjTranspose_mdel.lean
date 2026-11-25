@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_conjTranspose_mdel
 -- name    : GlobalTheory.HermFrame.conjTranspose_mdel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:40:24.377086+00:00
 -- url     : https://prove2.me/theorems/fefd7091-40b1-4dd2-becc-974fff518ff7

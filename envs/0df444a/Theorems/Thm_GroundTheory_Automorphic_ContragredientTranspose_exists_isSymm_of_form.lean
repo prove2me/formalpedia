@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_exists_isSymm_of_form
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.exists_isSymm_of_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:02.241669+00:00
 -- url     : https://prove2.me/theorems/6d783419-9370-460b-bbbe-c0e255cd452d

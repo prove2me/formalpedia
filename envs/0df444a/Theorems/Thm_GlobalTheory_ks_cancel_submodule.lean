@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ks_cancel_submodule
 -- name    : GlobalTheory.ks_cancel_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:02:11.918802+00:00
 -- url     : https://prove2.me/theorems/ce0c9d64-55b0-4027-a8eb-bfe475752c49

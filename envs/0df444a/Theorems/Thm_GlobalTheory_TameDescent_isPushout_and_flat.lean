@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameDescent_isPushout_and_flat
 -- name    : GlobalTheory.TameDescent.isPushout_and_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:03:41.845806+00:00
 -- url     : https://prove2.me/theorems/8342a9d2-5357-426e-b885-9e18bf783476

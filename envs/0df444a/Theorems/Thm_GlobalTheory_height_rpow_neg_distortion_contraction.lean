@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_height_rpow_neg_distortion_contraction
 -- name    : GlobalTheory.height_rpow_neg_distortion_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:53:34.055899+00:00
 -- url     : https://prove2.me/theorems/b67b66cc-25b5-4d69-a3ef-5a2dcde49d7b

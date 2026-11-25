@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_dual_map_surjective
 -- name    : GlobalTheory.PDiv.dual_map_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:46:38.237488+00:00
 -- url     : https://prove2.me/theorems/0d8396ab-dce8-49fd-8561-bb73713c9b80

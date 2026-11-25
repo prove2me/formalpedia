@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_polyDeriv_pairing_eq_zero_of_isHeat
 -- name    : GlobalTheory.SW.polyDeriv_pairing_eq_zero_of_isHeat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:49:14.707505+00:00
 -- url     : https://prove2.me/theorems/15190bd5-9fc6-468f-a316-49fdc638a77d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_isOpen_boxSubgroup
 -- name    : GroundTheory.Automorphic.RestrictedTensor.isOpen_boxSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:10.919806+00:00
 -- url     : https://prove2.me/theorems/8017e5f7-f66f-4b04-af5d-76d43ec06aff

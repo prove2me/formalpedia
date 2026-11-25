@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Col2_ThetaVec_sgStar_eq
 -- name    : GlobalTheory.Mem.Col2.ThetaVec.sgStar_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:32:41.832863+00:00
 -- url     : https://prove2.me/theorems/22a0fd0a-5ac1-42d8-aa5f-c03177f437ee

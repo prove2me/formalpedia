@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryCharacterAbsScalar_eventually_eq_one
 -- name    : GlobalTheory.T.unitaryCharacterAbsScalar_eventually_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:17:07.643266+00:00
 -- url     : https://prove2.me/theorems/a3dda0ac-0fc7-4b86-a76a-f3af02a4b42f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_HarishChandra___eq_sum_e_072213ad0100
 -- name    : P2M_GroundTheory_Automorphic_HarishChandra___eq_sum_e_072213ad0100
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:03:55.469803+00:00
 -- url     : https://prove2.me/theorems/6d1fc71d-4763-4519-8a79-0ca8b19c44f8

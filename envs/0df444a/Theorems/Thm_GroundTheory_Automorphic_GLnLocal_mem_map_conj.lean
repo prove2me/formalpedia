@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_mem_map_conj
 -- name    : GroundTheory.Automorphic.GLnLocal.mem_map_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:29:42.720272+00:00
 -- url     : https://prove2.me/theorems/d2bd4beb-92c6-4246-97e9-ceda99cc3680

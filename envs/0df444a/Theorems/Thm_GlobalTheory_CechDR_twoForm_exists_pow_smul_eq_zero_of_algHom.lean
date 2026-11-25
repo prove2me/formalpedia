@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_twoForm_exists_pow_smul_eq_zero_of_algHom
 -- name    : GlobalTheory.CechDR.twoForm_exists_pow_smul_eq_zero_of_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:59:16.292802+00:00
 -- url     : https://prove2.me/theorems/2e184c2d-9774-4484-ac58-40731b667940

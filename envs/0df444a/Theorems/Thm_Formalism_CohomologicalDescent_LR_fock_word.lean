@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_fock_word
 -- name    : Formalism.CohomologicalDescent.LR.fock_word
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:36:03.774579+00:00
 -- url     : https://prove2.me/theorems/053e721d-74b1-4946-89ce-37c43143bd3c

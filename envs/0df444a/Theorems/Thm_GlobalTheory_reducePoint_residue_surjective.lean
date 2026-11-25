@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_reducePoint_residue_surjective
 -- name    : GlobalTheory.reducePoint_residue_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:03:34.800286+00:00
 -- url     : https://prove2.me/theorems/d93c09f7-3368-46a5-be6a-0b3764a00571

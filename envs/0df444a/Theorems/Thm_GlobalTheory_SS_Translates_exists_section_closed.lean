@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_exists_section_closed
 -- name    : GlobalTheory.SS.Translates.exists_section_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:17:42.012072+00:00
 -- url     : https://prove2.me/theorems/f8d9e67d-5fe1-4d82-9b45-dab616b6a977

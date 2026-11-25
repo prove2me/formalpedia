@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Decay_exists_fourier
 -- name    : GlobalTheory.SW.Decay.exists_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:38:48.477584+00:00
 -- url     : https://prove2.me/theorems/a1d1e5cf-aac1-4f5c-ab91-7236f3653cd3

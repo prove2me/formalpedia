@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_discreteValuationSubring_dominating
 -- name    : GlobalTheory.exists_discreteValuationSubring_dominating
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:15:24.408988+00:00
 -- url     : https://prove2.me/theorems/57641e48-172a-4bda-9d59-f0b7aeaeecec

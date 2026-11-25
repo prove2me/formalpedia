@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_SobolevSpace_norm_multiplier_le
 -- name    : GroundTheory.Automorphic.Sobolev.SobolevSpace.norm_multiplier_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:34:08.412903+00:00
 -- url     : https://prove2.me/theorems/97cb2caf-ff6a-4c8d-a31b-05fc843b39cf

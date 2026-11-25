@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramifiedEndFlat_flat_stalkMap_of_fixed
 -- name    : GlobalTheory.UnramifiedEndFlat.flat_stalkMap_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:49:09.912458+00:00
 -- url     : https://prove2.me/theorems/41703741-7afc-4137-8296-c72ec0aa608b

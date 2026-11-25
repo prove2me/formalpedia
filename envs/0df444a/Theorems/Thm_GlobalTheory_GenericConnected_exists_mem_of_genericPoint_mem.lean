@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericConnected_exists_mem_of_genericPoint_mem
 -- name    : GlobalTheory.GenericConnected.exists_mem_of_genericPoint_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:54:16.840808+00:00
 -- url     : https://prove2.me/theorems/71304aa5-6851-4f1c-bc13-e4b3ab7c988e

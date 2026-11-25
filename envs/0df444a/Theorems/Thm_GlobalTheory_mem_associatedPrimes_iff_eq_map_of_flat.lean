@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_associatedPrimes_iff_eq_map_of_flat
 -- name    : GlobalTheory.mem_associatedPrimes_iff_eq_map_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:11:31.90731+00:00
 -- url     : https://prove2.me/theorems/c5a598bd-0d36-4e52-82d4-b38b3aeebca2

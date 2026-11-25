@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_sum_quotient_out_of_le
 -- name    : GroundTheory.Automorphic.Parabolic.sum_quotient_out_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:32:52.794799+00:00
 -- url     : https://prove2.me/theorems/cc90b19d-3c6f-4326-8a6a-a7bd6c790239

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_one_le_topFormOrd_vw_dWedge
 -- name    : GlobalTheory.one_le_topFormOrd_vw_dWedge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:13:17.78636+00:00
 -- url     : https://prove2.me/theorems/b85f4739-09d4-4e91-9213-23a506342408

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConnPointwise_entry_le_of_mulVec
 -- name    : GlobalTheory.ConnPointwise.entry_le_of_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:49:44.517204+00:00
 -- url     : https://prove2.me/theorems/07067863-3b29-4fa8-b6e8-b063b07cb74c

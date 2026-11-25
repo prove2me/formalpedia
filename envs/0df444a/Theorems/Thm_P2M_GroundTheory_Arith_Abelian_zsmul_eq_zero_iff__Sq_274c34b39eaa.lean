@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_Abelian_zsmul_eq_zero_iff__Sq_274c34b39eaa
 -- name    : P2M_GroundTheory_Arith_Abelian_zsmul_eq_zero_iff__Sq_274c34b39eaa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:39:49.420689+00:00
 -- url     : https://prove2.me/theorems/b3d8dbb9-85a1-47c5-a875-1c615c3d7e74

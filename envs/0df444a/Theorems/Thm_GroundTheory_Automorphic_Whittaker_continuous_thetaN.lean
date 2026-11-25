@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_continuous_thetaN
 -- name    : GroundTheory.Automorphic.Whittaker.continuous_thetaN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:35:12.61719+00:00
 -- url     : https://prove2.me/theorems/2e5d7c54-190a-4fa1-864d-06072fa5cb70

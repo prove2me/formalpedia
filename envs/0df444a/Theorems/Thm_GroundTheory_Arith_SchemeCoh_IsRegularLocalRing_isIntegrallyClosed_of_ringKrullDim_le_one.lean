@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_IsRegularLocalRing_isIntegrallyClosed_of_ringKrullDim_le_one
 -- name    : GroundTheory.Arith.SchemeCoh.IsRegularLocalRing.isIntegrallyClosed_of_ringKrullDim_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:28:04.700222+00:00
 -- url     : https://prove2.me/theorems/a7b1dd91-7ff3-4fb2-a35a-80127755a64d

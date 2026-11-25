@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_rmat_injective
 -- name    : GroundTheory.Automorphic.Anisotropic.rmat_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:25.653113+00:00
 -- url     : https://prove2.me/theorems/27fcebdc-7709-4b62-953e-4efc01feff0c

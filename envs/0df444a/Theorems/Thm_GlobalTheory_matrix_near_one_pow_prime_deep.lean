@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_near_one_pow_prime_deep
 -- name    : GlobalTheory.matrix_near_one_pow_prime_deep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:10:01.980235+00:00
 -- url     : https://prove2.me/theorems/0da15d78-2320-4678-bafa-d90bd1a7b47b

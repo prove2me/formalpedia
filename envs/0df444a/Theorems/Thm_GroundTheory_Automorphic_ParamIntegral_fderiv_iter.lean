@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ParamIntegral_fderiv_iter
 -- name    : GroundTheory.Automorphic.ParamIntegral.fderiv_iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:32:56.612138+00:00
 -- url     : https://prove2.me/theorems/9a26f22a-cd86-471f-bc8d-3c2ed11f2dd0

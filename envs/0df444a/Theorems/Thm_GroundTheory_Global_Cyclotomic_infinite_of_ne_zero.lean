@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_infinite_of_ne_zero
 -- name    : GroundTheory.Global.Cyclotomic.infinite_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:36:59.94819+00:00
 -- url     : https://prove2.me/theorems/7901961a-891c-4b22-b0c2-cbf34ed20aa2

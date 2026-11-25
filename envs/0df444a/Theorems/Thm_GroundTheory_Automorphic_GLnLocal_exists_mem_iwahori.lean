@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_exists_mem_iwahori
 -- name    : GroundTheory.Automorphic.GLnLocal.exists_mem_iwahori
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:35:10.060149+00:00
 -- url     : https://prove2.me/theorems/400ec9d2-361e-42fe-aed5-04a26fb72530

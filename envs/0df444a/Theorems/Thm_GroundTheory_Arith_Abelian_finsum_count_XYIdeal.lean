@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_finsum_count_XYIdeal
 -- name    : GroundTheory.Arith.Abelian.finsum_count_XYIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:25:54.646839+00:00
 -- url     : https://prove2.me/theorems/2f96f273-eef3-4c72-b899-9430e5905ac1

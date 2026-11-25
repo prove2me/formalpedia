@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_appTop_of_smooth_of_isProper_of_geometricallyConnected
 -- name    : GlobalTheory.bijective_appTop_of_smooth_of_isProper_of_geometricallyConnected
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:06:51.40303+00:00
 -- url     : https://prove2.me/theorems/dbddf30f-bb46-4f62-b479-b45ba0f5ef99

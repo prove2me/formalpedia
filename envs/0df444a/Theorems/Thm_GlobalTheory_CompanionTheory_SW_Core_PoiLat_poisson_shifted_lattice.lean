@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_PoiLat_poisson_shifted_lattice
 -- name    : GlobalTheory.CompanionTheory.SW.Core.PoiLat.poisson_shifted_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:04:14.595823+00:00
 -- url     : https://prove2.me/theorems/c14140be-b4ee-4b90-bfb8-d1ca69383abd

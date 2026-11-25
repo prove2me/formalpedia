@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsGradedMap_shortExact_ker
 -- name    : GlobalTheory.IsGradedMap.shortExact_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:44:31.835799+00:00
 -- url     : https://prove2.me/theorems/9e884c4b-cff4-4f2c-840f-84f146a3da8d

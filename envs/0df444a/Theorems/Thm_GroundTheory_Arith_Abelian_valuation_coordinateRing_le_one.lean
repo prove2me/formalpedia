@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_valuation_coordinateRing_le_one
 -- name    : GroundTheory.Arith.Abelian.valuation_coordinateRing_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:26:51.225802+00:00
 -- url     : https://prove2.me/theorems/e45ca9fa-2900-4e27-aa45-20e80938e261

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_toSesq_prodEquivOfIsCompl
 -- name    : GroundTheory.Automorphic.HermitianForm.toSesq_prodEquivOfIsCompl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:31:45.840781+00:00
 -- url     : https://prove2.me/theorems/c6d7c35e-b936-4303-95c3-c357517ddaef

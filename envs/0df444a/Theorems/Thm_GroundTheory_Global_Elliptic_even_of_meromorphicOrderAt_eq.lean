@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_even_of_meromorphicOrderAt_eq
 -- name    : GroundTheory.Global.Elliptic.even_of_meromorphicOrderAt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:38:37.907491+00:00
 -- url     : https://prove2.me/theorems/cae52e47-b51c-49e9-9998-1070c84b3e66

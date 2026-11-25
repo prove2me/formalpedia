@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffVanish_exists_polynomial
 -- name    : GlobalTheory.DiffVanish.exists_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:49:16.441035+00:00
 -- url     : https://prove2.me/theorems/3dbd9dc1-dd40-4e13-9132-6bf276ab89db

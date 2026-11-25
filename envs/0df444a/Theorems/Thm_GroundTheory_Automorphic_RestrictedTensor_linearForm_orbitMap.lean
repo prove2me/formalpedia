@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_linearForm_orbitMap
 -- name    : GroundTheory.Automorphic.RestrictedTensor.linearForm_orbitMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:33:03.207123+00:00
 -- url     : https://prove2.me/theorems/a4ead240-c67c-4428-bd75-c4e24bd32113

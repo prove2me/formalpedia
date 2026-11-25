@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ennreal_mul_le_sq_add_sq
 -- name    : GroundTheory.Automorphic.ennreal_mul_le_sq_add_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:34:30.657826+00:00
 -- url     : https://prove2.me/theorems/f2d718db-8ddf-431c-95c0-9792335a6ac1

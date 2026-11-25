@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ReducedSubgroup_exists_smooth_closed_subgroup
 -- name    : GlobalTheory.ReducedSubgroup.exists_smooth_closed_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:51:47.831343+00:00
 -- url     : https://prove2.me/theorems/ba142c7e-aff2-4e0a-9373-6c9b86196fcd

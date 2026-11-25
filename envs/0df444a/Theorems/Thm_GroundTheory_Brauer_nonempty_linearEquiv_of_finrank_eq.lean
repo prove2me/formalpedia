@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_nonempty_linearEquiv_of_finrank_eq
 -- name    : GroundTheory.Brauer.nonempty_linearEquiv_of_finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:37:19.302795+00:00
 -- url     : https://prove2.me/theorems/92857c0b-9662-4a0c-8b2b-5a444cbb4f2d

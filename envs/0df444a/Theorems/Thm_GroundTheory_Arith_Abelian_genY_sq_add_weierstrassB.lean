@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_genY_sq_add_weierstrassB
 -- name    : GroundTheory.Arith.Abelian.genY_sq_add_weierstrassB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:41:41.927861+00:00
 -- url     : https://prove2.me/theorems/d6b9feed-ee46-4b01-8a7e-f9aaf6a4db17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_two_mul_pow_four_dvd_card_generalLinearGroup
 -- name    : GlobalTheory.two_mul_pow_four_dvd_card_generalLinearGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:24:09.148393+00:00
 -- url     : https://prove2.me/theorems/d77f6caf-61f9-46b4-a761-ee4db766943b

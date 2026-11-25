@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_uNormal
 -- name    : GlobalTheory.JR.Step.uNormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:37:08.849699+00:00
 -- url     : https://prove2.me/theorems/a8628375-5623-4838-b3d7-b3b35567c9d5

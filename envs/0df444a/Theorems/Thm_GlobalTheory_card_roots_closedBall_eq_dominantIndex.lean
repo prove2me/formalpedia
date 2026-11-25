@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_roots_closedBall_eq_dominantIndex
 -- name    : GlobalTheory.card_roots_closedBall_eq_dominantIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:07:42.897988+00:00
 -- url     : https://prove2.me/theorems/d0f64f71-df45-42bf-a0e3-c1a17cb71333

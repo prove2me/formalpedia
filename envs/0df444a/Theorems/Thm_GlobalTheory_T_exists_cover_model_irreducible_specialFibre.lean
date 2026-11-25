@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_cover_model_irreducible_specialFibre
 -- name    : GlobalTheory.T.exists_cover_model_irreducible_specialFibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:34:16.817552+00:00
 -- url     : https://prove2.me/theorems/2ce2aa9d-3b38-44e5-bdf4-48b245f79d68

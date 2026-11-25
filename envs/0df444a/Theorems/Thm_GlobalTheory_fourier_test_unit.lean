@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fourier_test_unit
 -- name    : GlobalTheory.fourier_test_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:53:43.383802+00:00
 -- url     : https://prove2.me/theorems/711b8254-a85c-444a-ad45-7d6dfb747a4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HaarSK_translate_apply
 -- name    : GroundTheory.Automorphic.HaarSK.translate_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:30:16.445057+00:00
 -- url     : https://prove2.me/theorems/205e4e28-2ab8-4049-bcc0-1fc185a09534

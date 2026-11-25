@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_toPadicInt_surjective
 -- name    : GroundTheory.Global.Cyclotomic.toPadicInt_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:38:13.868169+00:00
 -- url     : https://prove2.me/theorems/bb138ebd-bfb3-404e-ba84-22ad60951786

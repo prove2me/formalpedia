@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjTwist_val_smul
 -- name    : GroundTheory.Arith.SchemeCoh.ProjTwist.val_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:28:09.599926+00:00
 -- url     : https://prove2.me/theorems/48690eca-f47b-4305-8fbb-3a38c1ac76de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckePoisson_theta_poisson
 -- name    : GlobalTheory.HeckePoisson.theta_poisson
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:04:20.145946+00:00
 -- url     : https://prove2.me/theorems/98e72ecd-8af3-4f24-b1d7-def9f8a9d8a9

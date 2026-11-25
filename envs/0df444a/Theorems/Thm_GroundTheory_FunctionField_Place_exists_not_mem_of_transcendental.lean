@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_exists_not_mem_of_transcendental
 -- name    : GroundTheory.FunctionField.Place.exists_not_mem_of_transcendental
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:36:42.747652+00:00
 -- url     : https://prove2.me/theorems/1b00adde-2b9b-4a9c-b982-da3bd185110a

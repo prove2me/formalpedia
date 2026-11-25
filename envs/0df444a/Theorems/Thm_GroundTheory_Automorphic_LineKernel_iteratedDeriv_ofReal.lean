@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_iteratedDeriv_ofReal
 -- name    : GroundTheory.Automorphic.LineKernel.iteratedDeriv_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:32:05.860791+00:00
 -- url     : https://prove2.me/theorems/6091f3f0-b17e-429e-8b1c-8191fe3853dc

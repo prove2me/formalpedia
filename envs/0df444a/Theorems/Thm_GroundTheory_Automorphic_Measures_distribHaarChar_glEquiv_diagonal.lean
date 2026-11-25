@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_distribHaarChar_glEquiv_diagonal
 -- name    : GroundTheory.Automorphic.Measures.distribHaarChar_glEquiv_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:33:20.076076+00:00
 -- url     : https://prove2.me/theorems/30289c90-b678-4dfa-b604-ff3cd45316aa

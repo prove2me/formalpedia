@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_realEmb_eq_extension
 -- name    : GroundTheory.Automorphic.realEmb_eq_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:36:46.28211+00:00
 -- url     : https://prove2.me/theorems/b30fd769-7b23-4117-bd15-592d77dce17f

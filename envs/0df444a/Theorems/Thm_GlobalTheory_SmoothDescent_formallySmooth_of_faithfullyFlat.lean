@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothDescent_formallySmooth_of_faithfullyFlat
 -- name    : GlobalTheory.SmoothDescent.formallySmooth_of_faithfullyFlat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:15:33.863407+00:00
 -- url     : https://prove2.me/theorems/cb4324a5-fa4a-45d0-bd6d-5347a3df970a

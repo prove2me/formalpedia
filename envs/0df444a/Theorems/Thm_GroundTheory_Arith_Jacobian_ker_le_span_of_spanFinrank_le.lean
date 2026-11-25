@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Jacobian_ker_le_span_of_spanFinrank_le
 -- name    : GroundTheory.Arith.Jacobian.ker_le_span_of_spanFinrank_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:08.145704+00:00
 -- url     : https://prove2.me/theorems/527ff9e4-d92f-4783-9219-f9a17411d2f6

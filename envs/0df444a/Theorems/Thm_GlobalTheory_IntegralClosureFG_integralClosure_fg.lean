@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralClosureFG_integralClosure_fg
 -- name    : GlobalTheory.IntegralClosureFG.integralClosure_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:19:40.88059+00:00
 -- url     : https://prove2.me/theorems/26f84803-e8af-4184-9042-d0d8cbcbe82f

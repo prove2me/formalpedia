@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_mul_left_mem
 -- name    : GlobalTheory.SingleBlock.mul_left_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:50:06.080637+00:00
 -- url     : https://prove2.me/theorems/13576a1e-994f-42f8-81ee-b34e493575cd

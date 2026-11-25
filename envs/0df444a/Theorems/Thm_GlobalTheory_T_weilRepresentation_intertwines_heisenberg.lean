@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weilRepresentation_intertwines_heisenberg
 -- name    : GlobalTheory.T.weilRepresentation_intertwines_heisenberg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:36:35.418797+00:00
 -- url     : https://prove2.me/theorems/c4e4cf46-4814-4e7a-a589-afe795760b58

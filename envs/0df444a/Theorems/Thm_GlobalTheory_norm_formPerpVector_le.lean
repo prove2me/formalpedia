@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_formPerpVector_le
 -- name    : GlobalTheory.norm_formPerpVector_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:13:08.229329+00:00
 -- url     : https://prove2.me/theorems/79267c59-abe1-4537-beba-cf334034509c

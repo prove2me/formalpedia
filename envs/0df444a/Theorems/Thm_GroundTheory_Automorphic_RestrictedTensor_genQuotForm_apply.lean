@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_genQuotForm_apply
 -- name    : GroundTheory.Automorphic.RestrictedTensor.genQuotForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:34:17.245859+00:00
 -- url     : https://prove2.me/theorems/21dc6174-8aad-4e94-af63-09f9342eda90

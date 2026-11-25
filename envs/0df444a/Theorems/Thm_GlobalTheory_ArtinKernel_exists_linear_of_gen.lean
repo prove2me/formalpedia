@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_exists_linear_of_gen
 -- name    : GlobalTheory.ArtinKernel.exists_linear_of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:58:23.934857+00:00
 -- url     : https://prove2.me/theorems/44d0b0c8-bfb4-4144-a292-ab433037238d

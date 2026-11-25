@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_cutoff_le_one
 -- name    : GroundTheory.Automorphic.LineKernel.cutoff_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:31:50.942027+00:00
 -- url     : https://prove2.me/theorems/7afb7308-3411-4cd0-9174-19c80027d810

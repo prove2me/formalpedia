@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rayClassIdealCount_eq_ncard_shiftedBinaryForm
 -- name    : GlobalTheory.T.rayClassIdealCount_eq_ncard_shiftedBinaryForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:56:21.012854+00:00
 -- url     : https://prove2.me/theorems/2df67f81-a1e7-4698-b5f6-0eaca0a22100

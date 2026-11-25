@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mem_formGroup
 -- name    : GroundTheory.Automorphic.mem_formGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:35:45.934804+00:00
 -- url     : https://prove2.me/theorems/d21c7014-5e31-4ca3-81f1-05fd47801eb1

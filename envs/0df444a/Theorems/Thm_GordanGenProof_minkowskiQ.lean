@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GordanGenProof_minkowskiQ
 -- name    : GordanGenProof.minkowskiQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:25:44.518164+00:00
 -- url     : https://prove2.me/theorems/8c81336a-5a7f-45fa-b09e-16df43b36ab5

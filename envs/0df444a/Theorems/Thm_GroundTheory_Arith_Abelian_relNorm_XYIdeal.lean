@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_relNorm_XYIdeal
 -- name    : GroundTheory.Arith.Abelian.relNorm_XYIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:26:25.418954+00:00
 -- url     : https://prove2.me/theorems/bbf06056-b173-4227-9ecc-5c1d2d7aba1e

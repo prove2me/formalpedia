@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_isRestricted_update_iff
 -- name    : GroundTheory.Automorphic.RestrictedTensor.isRestricted_update_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:33:04.013635+00:00
 -- url     : https://prove2.me/theorems/aa8864a8-75ce-4ccd-9a02-e2bbead1b2d5

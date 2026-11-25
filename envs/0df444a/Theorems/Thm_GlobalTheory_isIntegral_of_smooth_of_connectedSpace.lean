@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_of_smooth_of_connectedSpace
 -- name    : GlobalTheory.isIntegral_of_smooth_of_connectedSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:57:09.414818+00:00
 -- url     : https://prove2.me/theorems/54dd0d33-f9a4-4345-9240-bcad02006c58

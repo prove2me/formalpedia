@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_succMin_inSpan
 -- name    : GlobalTheory.succMin_inSpan
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:51:40.325465+00:00
 -- url     : https://prove2.me/theorems/6a57e2ba-3717-4e11-b26d-a77f41b0a0ad

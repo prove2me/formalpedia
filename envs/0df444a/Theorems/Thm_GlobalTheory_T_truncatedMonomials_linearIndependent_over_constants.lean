@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_truncatedMonomials_linearIndependent_over_constants
 -- name    : GlobalTheory.T.truncatedMonomials_linearIndependent_over_constants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:00:09.292981+00:00
 -- url     : https://prove2.me/theorems/409acc66-b6fb-4086-93cb-5fb5dec1578f

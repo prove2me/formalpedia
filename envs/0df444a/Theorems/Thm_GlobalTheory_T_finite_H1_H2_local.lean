@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_H1_H2_local
 -- name    : GlobalTheory.T.finite_H1_H2_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:36:39.062477+00:00
 -- url     : https://prove2.me/theorems/097dd3bf-b0d6-43fb-b154-f4797686a090

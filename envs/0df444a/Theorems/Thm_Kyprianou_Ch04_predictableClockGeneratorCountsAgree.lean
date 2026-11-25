@@ -1,0 +1,44 @@
+-- Prove2me | Theorems.Thm_Kyprianou_Ch04_predictableClockGeneratorCountsAgree
+-- name    : Kyprianou.Ch04.predictableClockGeneratorCountsAgree
+-- status  : Proved
+-- author  : @WillR
+-- created : 2026-11-24T23:55:47.719856+00:00
+-- url     : https://prove2.me/theorems/47e769d2-cb16-444a-8e98-b7249d507f6f
+-- title:
+--   Weighted raw and reference counts agree on predictable generators
+-- statement:
+--   The initial atom has zero expected mass by the proved Poisson count first-moment theorem. For a future generator the truncated time preimage is the future interval ending at the horizon; its count factorises against the past event by the rectangle hypothesis.
+-- source:
+--   Kyprianou (2006), Theorem 4.4, printed page 95, proof decomposition of the common-null-event corrected statement.
+
+import Mathlib
+import Definitions.Def_KLSModular_LevyStochCalc_Poisson_RandomMeasure
+import Definitions.Def_Kyprianou_Ch04_PoissonCompensationSetting
+open MeasureTheory Filter LevyStochCalc.Poisson
+open scoped NNReal ENNReal
+set_option autoImplicit false
+
+namespace Kyprianou.Ch04
+/-- Weighted count agreement on the predictable generator. -/
+theorem predictableClockGeneratorCountsAgree
+    {Omega : Type} [MeasurableSpace Omega]
+    (P : Measure Omega) [IsProbabilityMeasure P]
+    (levyMeasure : Measure Real) [SigmaFinite levyMeasure]
+    (F : Filtration NNReal (inferInstance : MeasurableSpace Omega))
+    (N : LevyStochCalc.Poisson.PoissonRandomMeasure.{0,0,0} P levyMeasure)
+    (hRect : ∀ (u v : NNReal) (B : Set Real) (A : Set Omega),
+      u ≤ v → MeasurableSet B → MeasurableSet[F u] A →
+      (∫⁻ omega, N.N omega (Set.Ioc (u : Real) (v : Real) ×ˢ B) *
+        A.indicator (fun _ => (1 : ENNReal)) omega ∂P) =
+      referenceIntensity levyMeasure (Set.Ioc (u : Real) (v : Real) ×ˢ B) * P A)
+    (t : NNReal) (B : Set Real) (hB : MeasurableSet B)
+    (D : Set NNReal) (A : Set Omega) (C : Set Real) (hC : MeasurableSet C)
+    (hGen : (D = {0} ∧ MeasurableSet[F 0] A) ∨
+      (∃ i : NNReal, D = Set.Ioi i ∧ MeasurableSet[F i] A)) :
+    (∫⁻ w, N.N w ((Set.Icc (0 : Real) (t : Real) ∩ Real.toNNReal ⁻¹' D) ×ˢ
+      (B ∩ C)) * A.indicator (fun _ => (1 : ENNReal)) w ∂P) =
+    (∫⁻ w, referenceIntensity levyMeasure
+      ((Set.Icc (0 : Real) (t : Real) ∩ Real.toNNReal ⁻¹' D) ×ˢ (B ∩ C)) *
+      A.indicator (fun _ => (1 : ENNReal)) w ∂P) := by
+  sorry
+end Kyprianou.Ch04

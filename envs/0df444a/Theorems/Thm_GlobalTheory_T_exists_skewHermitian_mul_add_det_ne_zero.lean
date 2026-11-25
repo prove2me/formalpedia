@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_skewHermitian_mul_add_det_ne_zero
 -- name    : GlobalTheory.T.exists_skewHermitian_mul_add_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:38:20.67267+00:00
 -- url     : https://prove2.me/theorems/e2b31a9b-e04f-403d-b6c6-68dfb000b9d1

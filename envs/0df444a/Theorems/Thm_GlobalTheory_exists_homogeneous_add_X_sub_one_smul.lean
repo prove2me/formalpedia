@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_homogeneous_add_X_sub_one_smul
 -- name    : GlobalTheory.exists_homogeneous_add_X_sub_one_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:19.307913+00:00
 -- url     : https://prove2.me/theorems/3fdc087c-2fb1-4fbb-b164-16bbf2013f47

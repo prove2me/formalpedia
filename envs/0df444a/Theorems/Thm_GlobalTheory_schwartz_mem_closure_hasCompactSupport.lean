@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schwartz_mem_closure_hasCompactSupport
 -- name    : GlobalTheory.schwartz_mem_closure_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:20:54.323582+00:00
 -- url     : https://prove2.me/theorems/c2b33994-9937-41b5-b7e9-d28b37112b2b

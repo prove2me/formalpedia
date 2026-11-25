@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_le_lintegral_taylor_tail_iteratedDeriv
 -- name    : GlobalTheory.T.norm_le_lintegral_taylor_tail_iteratedDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:53:52.171878+00:00
 -- url     : https://prove2.me/theorems/303bf73d-d32f-45cc-8178-a5a89ce8e29e

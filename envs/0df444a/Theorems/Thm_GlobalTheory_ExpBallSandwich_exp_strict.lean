@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpBallSandwich_exp_strict
 -- name    : GlobalTheory.ExpBallSandwich.exp_strict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:39:43.547281+00:00
 -- url     : https://prove2.me/theorems/d9b6e4ca-a679-4628-8c1e-d964d3800c0d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_avgOver_eq_of_forall_mul_eq
 -- name    : GroundTheory.Automorphic.Parabolic.avgOver_eq_of_forall_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:32:56.49608+00:00
 -- url     : https://prove2.me/theorems/be82b404-e140-4cd7-8459-3831e2426c3b

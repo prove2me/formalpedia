@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsQuasiRegularSeq_of_flat_of_isBaseChange
 -- name    : GlobalTheory.IsQuasiRegularSeq.of_flat_of_isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:21:56.605496+00:00
 -- url     : https://prove2.me/theorems/4b3a5d60-9f70-410c-a446-e188b37f0c55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_finite_monic_dvd
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.finite_monic_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:28:34.732949+00:00
 -- url     : https://prove2.me/theorems/7cc62d5d-019a-4579-8734-ae9ffc88bf9f

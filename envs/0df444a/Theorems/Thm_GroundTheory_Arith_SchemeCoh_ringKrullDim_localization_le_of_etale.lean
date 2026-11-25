@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ringKrullDim_localization_le_of_etale
 -- name    : GroundTheory.Arith.SchemeCoh.ringKrullDim_localization_le_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:29:24.451798+00:00
 -- url     : https://prove2.me/theorems/dafd0bc4-80e9-4f05-aa4d-a99f719e704f

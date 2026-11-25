@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_exists_eq_mul_affineWeylGL_of_rowsReducedOn
 -- name    : GroundTheory.Automorphic.GLnLocal.exists_eq_mul_affineWeylGL_of_rowsReducedOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:29:58.854196+00:00
 -- url     : https://prove2.me/theorems/30c1ddb8-8acb-4e3a-9994-ccea28419e02

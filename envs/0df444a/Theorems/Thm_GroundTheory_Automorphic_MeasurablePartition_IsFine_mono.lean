@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_MeasurablePartition_IsFine_mono
 -- name    : GroundTheory.Automorphic.MeasurablePartition.IsFine.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:33:04.955551+00:00
 -- url     : https://prove2.me/theorems/553ddbe1-aef9-4045-9dfa-592275a93f30

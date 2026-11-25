@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_exists_linear_of_log_deriv
 -- name    : GlobalTheory.ArtinKernel.exists_linear_of_log_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:58:44.868081+00:00
 -- url     : https://prove2.me/theorems/e60b81e5-dafb-4293-a19b-7c7fd2a701f6

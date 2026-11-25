@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_cone_mem_rangeIn
 -- name    : GroundTheory.Arith.SchemeCoh.cone_mem_rangeIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:31.166152+00:00
 -- url     : https://prove2.me/theorems/4f31a5c7-bbf1-4aaf-b9ef-3d4c6fcf6618

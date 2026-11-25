@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ShortStep_quot_iso
 -- name    : GlobalTheory.SW.ShortStep.quot_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:44:06.705936+00:00
 -- url     : https://prove2.me/theorems/3d59cc07-bb06-42f0-b8d8-107e7402ca70

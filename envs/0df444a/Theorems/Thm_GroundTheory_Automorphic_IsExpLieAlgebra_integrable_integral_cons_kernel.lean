@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_integrable_integral_cons_kernel
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.integrable_integral_cons_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:31:50.40513+00:00
 -- url     : https://prove2.me/theorems/ef711300-260e-42da-8600-2e76ee09e33b

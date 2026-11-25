@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsQuasiRegularSeq_of_flat_module
 -- name    : GlobalTheory.IsQuasiRegularSeq.of_flat_module
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:21:34.619582+00:00
 -- url     : https://prove2.me/theorems/ce7a889d-a028-40c2-8769-fdedd2470b95

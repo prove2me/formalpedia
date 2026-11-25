@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_flat_closure
 -- name    : GlobalTheory.exists_flat_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:58:19.673721+00:00
 -- url     : https://prove2.me/theorems/76b8329b-6b0a-4b85-b7a8-4d60378ecee4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GL2Classical_L_pow_succ_apply
 -- name    : GroundTheory.Automorphic.GL2Classical.L_pow_succ_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:30:45.90665+00:00
 -- url     : https://prove2.me/theorems/90450f0f-734c-4abb-846d-2d12060081c0

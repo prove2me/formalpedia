@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_aeval_mem_of_forall_mem
 -- name    : GroundTheory.Automorphic.HarishChandra.aeval_mem_of_forall_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:42.559968+00:00
 -- url     : https://prove2.me/theorems/254b8dc0-e1e5-4dfe-88a4-9aa58f9c5813

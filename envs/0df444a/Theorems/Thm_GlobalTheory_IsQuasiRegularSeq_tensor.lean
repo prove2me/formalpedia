@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsQuasiRegularSeq_tensor
 -- name    : GlobalTheory.IsQuasiRegularSeq.tensor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:55.352034+00:00
 -- url     : https://prove2.me/theorems/1c945b9b-fac3-47b1-8bce-1d21cea0a0d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_henselianLocalRing_localization_of_henselian
 -- name    : GlobalTheory.henselianLocalRing_localization_of_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:55:03.390714+00:00
 -- url     : https://prove2.me/theorems/616c07a8-2d94-4fc9-b21a-42440d6e4059

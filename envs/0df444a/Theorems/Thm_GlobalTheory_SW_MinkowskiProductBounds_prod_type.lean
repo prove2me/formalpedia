@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_MinkowskiProductBounds_prod_type
 -- name    : GlobalTheory.SW.MinkowskiProductBounds.prod_type
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:29.90982+00:00
 -- url     : https://prove2.me/theorems/08021251-e1ed-4927-b003-defe74e55720

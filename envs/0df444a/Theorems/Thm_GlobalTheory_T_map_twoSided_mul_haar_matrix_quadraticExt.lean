@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_map_twoSided_mul_haar_matrix_quadraticExt
 -- name    : GlobalTheory.T.map_twoSided_mul_haar_matrix_quadraticExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:17:21.628821+00:00
 -- url     : https://prove2.me/theorems/60add39b-a3f3-41d7-a72e-f31888dc2e38

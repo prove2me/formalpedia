@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_germ_one
 -- name    : GroundTheory.Global.Elliptic.germ_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:38:29.023737+00:00
 -- url     : https://prove2.me/theorems/4aab518e-5cbe-401d-9298-e795b98942f7

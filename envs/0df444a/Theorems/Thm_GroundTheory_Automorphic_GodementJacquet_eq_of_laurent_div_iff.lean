@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_eq_of_laurent_div_iff
 -- name    : GroundTheory.Automorphic.GodementJacquet.eq_of_laurent_div_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:29:38.303397+00:00
 -- url     : https://prove2.me/theorems/bd28bcb3-60ad-4a77-8178-faad7328e83a

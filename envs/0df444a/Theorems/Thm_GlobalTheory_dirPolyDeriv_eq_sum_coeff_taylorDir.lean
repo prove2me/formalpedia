@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dirPolyDeriv_eq_sum_coeff_taylorDir
 -- name    : GlobalTheory.dirPolyDeriv_eq_sum_coeff_taylorDir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:43:21.508619+00:00
 -- url     : https://prove2.me/theorems/ff5f39f8-28f4-44de-a497-39a1a2efb10d

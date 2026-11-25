@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeCurvPoint_gnorm_map_star
 -- name    : GlobalTheory.HodgeCurvPoint.gnorm_map_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:48:54.307792+00:00
 -- url     : https://prove2.me/theorems/3f7321db-9beb-45ec-951c-8feca4225613

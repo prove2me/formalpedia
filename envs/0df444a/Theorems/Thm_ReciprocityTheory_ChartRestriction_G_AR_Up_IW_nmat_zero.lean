@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_IW_nmat_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.IW.nmat_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:49:30.869802+00:00
 -- url     : https://prove2.me/theorems/5abbf561-07c0-42fb-a45b-35d68c23c1e4

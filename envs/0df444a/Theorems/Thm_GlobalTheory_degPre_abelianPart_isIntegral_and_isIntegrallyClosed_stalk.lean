@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_degPre_abelianPart_isIntegral_and_isIntegrallyClosed_stalk
 -- name    : GlobalTheory.degPre_abelianPart_isIntegral_and_isIntegrallyClosed_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:42:32.4658+00:00
 -- url     : https://prove2.me/theorems/d3dbd2ae-6089-4f98-a3e9-6626d5e425de

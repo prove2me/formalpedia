@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_unimodular_posDef_adjoint_action
 -- name    : GlobalTheory.exists_unimodular_posDef_adjoint_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:45:54.913916+00:00
 -- url     : https://prove2.me/theorems/fc2ae6cb-e2d3-4ad6-9236-30cc8e63170b

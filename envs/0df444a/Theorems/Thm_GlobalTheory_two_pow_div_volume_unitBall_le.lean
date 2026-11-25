@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_two_pow_div_volume_unitBall_le
 -- name    : GlobalTheory.two_pow_div_volume_unitBall_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:25:03.110605+00:00
 -- url     : https://prove2.me/theorems/be27ee84-a5f9-4c13-8950-7c2c13cc3a9f

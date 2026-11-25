@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_mem_standardLattice
 -- name    : GroundTheory.Automorphic.GLnLocal.mem_standardLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:29:34.853493+00:00
 -- url     : https://prove2.me/theorems/b1ceadb6-c45d-4adc-b4d3-46b2e47f3d5d

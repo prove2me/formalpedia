@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeComplex_above_exactAt
 -- name    : GlobalTheory.cubeComplex_above_exactAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:45.118039+00:00
 -- url     : https://prove2.me/theorems/b184265d-5f5c-4a26-b7f2-2d36fe02e685

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_kap_fg_trdeg
 -- name    : GlobalTheory.Reg.kap_fg_trdeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:21:21.189966+00:00
 -- url     : https://prove2.me/theorems/16cbc28a-3026-4460-be1f-aa1300ff288a

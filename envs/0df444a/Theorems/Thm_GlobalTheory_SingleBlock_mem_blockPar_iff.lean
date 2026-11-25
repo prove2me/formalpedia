@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_mem_blockPar_iff
 -- name    : GlobalTheory.SingleBlock.mem_blockPar_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:50:03.842956+00:00
 -- url     : https://prove2.me/theorems/0356e3fd-046a-4d17-a9a8-eaaab449d0e5

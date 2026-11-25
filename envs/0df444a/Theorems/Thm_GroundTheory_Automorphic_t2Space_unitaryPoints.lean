@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_t2Space_unitaryPoints
 -- name    : GroundTheory.Automorphic.t2Space_unitaryPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:36:09.834599+00:00
 -- url     : https://prove2.me/theorems/5f5ba24c-c0d4-4106-b129-535f91094558

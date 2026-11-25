@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_coinvariantsKer_le_ker
 -- name    : GroundTheory.Automorphic.coinvariantsKer_le_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:34:56.665251+00:00
 -- url     : https://prove2.me/theorems/91b25c26-7871-4058-b3d5-26ad81842591

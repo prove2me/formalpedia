@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_exp_le_shift_by_one_iff
 -- name    : Formalism.CohomologicalDescent.LD.exp_le_shift_by_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:06:33.402906+00:00
 -- url     : https://prove2.me/theorems/16ad71d2-4975-478e-a474-84e3978d6908

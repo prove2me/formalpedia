@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_Model_conn_sub
 -- name    : GlobalTheory.HermFrame.Model.conn_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:43:57.839003+00:00
 -- url     : https://prove2.me/theorems/d1c52d42-1713-4bc8-8f7b-ceafc6365775

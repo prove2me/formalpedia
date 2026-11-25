@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariant_tower_isPushout
 -- name    : GlobalTheory.T.invariant_tower_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:48:09.722905+00:00
 -- url     : https://prove2.me/theorems/1753963c-8535-4972-a49b-ac096ce485b5

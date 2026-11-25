@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UDense_vanish_generic
 -- name    : GlobalTheory.UDense.vanish_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:19:56.82544+00:00
 -- url     : https://prove2.me/theorems/4401d5e0-3e4a-4053-a55c-3a80bb752b6b

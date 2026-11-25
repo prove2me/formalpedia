@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jHyp_mem_induced_fourier_weyl
 -- name    : GlobalTheory.T.jHyp_mem_induced_fourier_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:51:10.077667+00:00
 -- url     : https://prove2.me/theorems/588a4936-4697-4ca8-bc0c-856e74fd693f

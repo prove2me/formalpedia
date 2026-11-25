@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_zmod_sq_mul_p_eq_zero_iff
 -- name    : GlobalTheory.flat_zmod_sq_mul_p_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:51:50.160806+00:00
 -- url     : https://prove2.me/theorems/913e75e3-1901-48e8-9abd-3099dd5823b6

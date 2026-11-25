@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIso_grCechMap
 -- name    : GlobalTheory.isIso_grCechMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:44:03.483779+00:00
 -- url     : https://prove2.me/theorems/f1467c88-51b0-4ff7-9078-129af2d7edfd

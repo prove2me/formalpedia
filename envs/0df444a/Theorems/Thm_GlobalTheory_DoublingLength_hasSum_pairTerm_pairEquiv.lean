@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoublingLength_hasSum_pairTerm_pairEquiv
 -- name    : GlobalTheory.DoublingLength.hasSum_pairTerm_pairEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:51:50.38496+00:00
 -- url     : https://prove2.me/theorems/fbf33c7e-fc71-4fcf-95a3-f2829b919274

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_shift_C
 -- name    : GroundTheory.Automorphic.HarishChandra.shift_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:32:09.11868+00:00
 -- url     : https://prove2.me/theorems/c2bf0bfc-7e62-4b52-95ed-fe331343c79d

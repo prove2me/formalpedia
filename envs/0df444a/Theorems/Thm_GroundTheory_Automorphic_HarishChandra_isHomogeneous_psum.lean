@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_isHomogeneous_psum
 -- name    : GroundTheory.Automorphic.HarishChandra.isHomogeneous_psum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:29:44.448135+00:00
 -- url     : https://prove2.me/theorems/c90c9e67-ece9-4136-8f28-49f0f044b7c2

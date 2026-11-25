@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CuspidalSpectrum_exists_abs_repr_le
 -- name    : GroundTheory.Automorphic.CuspidalSpectrum.exists_abs_repr_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:29:28.561615+00:00
 -- url     : https://prove2.me/theorems/b3538909-6cd5-4e29-8a02-acbcca77dce0

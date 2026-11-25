@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SingleBlock_measurable_toRows__be0362a1a7c9
 -- name    : P2M_GlobalTheory_SingleBlock_measurable_toRows__be0362a1a7c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:49:42.134404+00:00
 -- url     : https://prove2.me/theorems/e265fa56-73db-438e-8b18-c7ef3679322d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeCurvPoint_isHermitian_map
 -- name    : GlobalTheory.HodgeCurvPoint.isHermitian_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:36.751861+00:00
 -- url     : https://prove2.me/theorems/5a0b3edd-2a82-4d16-8454-458590b2efcc

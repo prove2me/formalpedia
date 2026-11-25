@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_teichmuller_distinguished_regular_sequence
 -- name    : GlobalTheory.T.teichmuller_distinguished_regular_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:39:45.922817+00:00
 -- url     : https://prove2.me/theorems/71f2271e-79a4-45b1-94cc-1823d5d81f36

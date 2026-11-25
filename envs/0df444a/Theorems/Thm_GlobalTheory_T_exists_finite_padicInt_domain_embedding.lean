@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finite_padicInt_domain_embedding
 -- name    : GlobalTheory.T.exists_finite_padicInt_domain_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:34:57.034774+00:00
 -- url     : https://prove2.me/theorems/6192be64-1234-45bd-97dc-cdc20912f7ab

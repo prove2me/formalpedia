@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_fischer_self_eq_zero_iff
 -- name    : GroundTheory.Automorphic.HarishChandra.fischer_self_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:30:34.558613+00:00
 -- url     : https://prove2.me/theorems/22f513c2-591c-46a1-b8e7-1b2070148321

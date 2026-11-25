@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flatFactorReduction_kernel_integrates_free_entries
 -- name    : GlobalTheory.T.flatFactorReduction_kernel_integrates_free_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:22:14.239417+00:00
 -- url     : https://prove2.me/theorems/93384dc6-3988-418d-944d-2f808e8054e6

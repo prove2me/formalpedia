@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPullUnif_iff_stalks
 -- name    : GlobalTheory.isPullUnif_iff_stalks
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:57:02.249805+00:00
 -- url     : https://prove2.me/theorems/8de8a7b0-9b72-4c92-90ae-c1df5e7e674e

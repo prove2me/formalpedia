@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_hermitianMultiplier_braid_relation
 -- name    : GlobalTheory.T.fourier_hermitianMultiplier_braid_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:20:44.41271+00:00
 -- url     : https://prove2.me/theorems/d7efd871-3bde-47d7-b180-ce31460a8a60

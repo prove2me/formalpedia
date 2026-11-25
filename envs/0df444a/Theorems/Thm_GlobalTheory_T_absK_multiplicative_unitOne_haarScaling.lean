@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_absK_multiplicative_unitOne_haarScaling
 -- name    : GlobalTheory.T.absK_multiplicative_unitOne_haarScaling
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:26:40.134671+00:00
 -- url     : https://prove2.me/theorems/9b719cea-4618-40f1-96f7-3ef2105035e3

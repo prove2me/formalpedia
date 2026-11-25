@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_limit_class
 -- name    : GlobalTheory.MatchTerm.limit_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:22:53.264988+00:00
 -- url     : https://prove2.me/theorems/cac63eee-c937-4740-bf31-6e08ad4f1a63

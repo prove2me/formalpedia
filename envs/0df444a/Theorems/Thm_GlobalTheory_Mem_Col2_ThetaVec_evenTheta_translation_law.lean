@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Col2_ThetaVec_evenTheta_translation_law
 -- name    : GlobalTheory.Mem.Col2.ThetaVec.evenTheta_translation_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:33:04.804472+00:00
 -- url     : https://prove2.me/theorems/3bfdca4e-d000-4e35-a9f0-14abc763d2f3

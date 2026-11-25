@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_first_of_second
 -- name    : GlobalTheory.DictPinCompare.first_of_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:19:30.199866+00:00
 -- url     : https://prove2.me/theorems/5bb31aa3-b0f9-4efa-a74e-d1ee20ba3ea2

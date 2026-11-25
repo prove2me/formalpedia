@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_forall_smul_eq_iff_tensorNorm
 -- name    : GlobalTheory.forall_smul_eq_iff_tensorNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:51:40.202358+00:00
 -- url     : https://prove2.me/theorems/bbead419-03bd-4dcf-94ed-e81ea3b5bd51

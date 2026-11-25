@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_sum_sc_succ
 -- name    : GroundTheory.Automorphic.LineKernel.sum_sc_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:32:19.256682+00:00
 -- url     : https://prove2.me/theorems/b9fb50d5-25d7-4da1-87fb-8102e93011f4

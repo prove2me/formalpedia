@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tendsto_doublingLog_of_contraction
 -- name    : GlobalTheory.tendsto_doublingLog_of_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:09.697366+00:00
 -- url     : https://prove2.me/theorems/78fea5c4-e774-47d0-b671-16f253bcd7d9

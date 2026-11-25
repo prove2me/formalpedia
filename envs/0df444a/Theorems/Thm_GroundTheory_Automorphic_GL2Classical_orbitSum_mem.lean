@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GL2Classical_orbitSum_mem
 -- name    : GroundTheory.Automorphic.GL2Classical.orbitSum_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:30:02.411815+00:00
 -- url     : https://prove2.me/theorems/9ce56267-46ec-4fba-90e7-4778651cc565

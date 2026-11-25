@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cancel_artinian_noetherian_summand
 -- name    : GlobalTheory.T.cancel_artinian_noetherian_summand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:26:47.030565+00:00
 -- url     : https://prove2.me/theorems/662f6654-171c-435f-9b4c-e9553206be5e

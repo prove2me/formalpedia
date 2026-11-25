@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_mem_orthogonal
 -- name    : GroundTheory.Automorphic.HermitianForm.mem_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:32:00.555049+00:00
 -- url     : https://prove2.me/theorems/d7ede75c-86dd-40d0-837a-c04febaab3e2

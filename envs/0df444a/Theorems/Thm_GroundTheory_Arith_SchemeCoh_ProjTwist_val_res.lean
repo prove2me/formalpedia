@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjTwist_val_res
 -- name    : GroundTheory.Arith.SchemeCoh.ProjTwist.val_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:28:04.529476+00:00
 -- url     : https://prove2.me/theorems/05cbe81d-7bfc-46b6-b538-7c5e612cb2c2

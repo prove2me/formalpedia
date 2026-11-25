@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_RankOneTransfer_lam_sum
 -- name    : GlobalTheory.JR.RankOneTransfer.lam_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:36:20.500714+00:00
 -- url     : https://prove2.me/theorems/64afde52-1523-401d-bbeb-cec294357e94

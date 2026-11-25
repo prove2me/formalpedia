@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Superpos_mom_dh
 -- name    : GlobalTheory.RealWeil.Superpos.mom_dh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:49:13.853613+00:00
 -- url     : https://prove2.me/theorems/a7552c69-e116-4551-9511-c32cec1e07dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_character_eq_induced_of_imprimitivity_system
 -- name    : GlobalTheory.T.character_eq_induced_of_imprimitivity_system
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:27:51.155023+00:00
 -- url     : https://prove2.me/theorems/10c973c2-5f90-4793-b350-9413d3c39f66

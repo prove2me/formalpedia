@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_kern_le
 -- name    : GroundTheory.Automorphic.LineKernel.kern_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:32:22.361775+00:00
 -- url     : https://prove2.me/theorems/2c0e4e83-35cf-4cdc-9c2b-5482eb4abdd2

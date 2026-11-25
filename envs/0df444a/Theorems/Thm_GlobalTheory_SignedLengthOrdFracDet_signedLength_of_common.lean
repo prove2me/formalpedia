@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthOrdFracDet_signedLength_of_common
 -- name    : GlobalTheory.SignedLengthOrdFracDet.signedLength_of_common
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:12:37.806708+00:00
 -- url     : https://prove2.me/theorems/c139cc1c-0ab5-436b-887f-3973bfbe02fd

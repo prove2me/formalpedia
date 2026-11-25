@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_II_add
 -- name    : GlobalTheory.SingleBlock.II_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:49:50.978819+00:00
 -- url     : https://prove2.me/theorems/3f23b9f1-2462-4281-bc43-ced19a42ef85

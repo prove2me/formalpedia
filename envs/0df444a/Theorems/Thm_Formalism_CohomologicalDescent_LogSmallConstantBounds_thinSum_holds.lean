@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_thinSum_holds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.thinSum_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:45:11.498933+00:00
 -- url     : https://prove2.me/theorems/14fa47c9-cf12-4799-8ae3-e166b36612ff

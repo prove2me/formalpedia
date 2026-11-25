@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_list_prod_transvectionGL_mem
 -- name    : GroundTheory.Automorphic.list_prod_transvectionGL_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:35:57.72971+00:00
 -- url     : https://prove2.me/theorems/5a4d7e38-481f-447b-8f04-c46900c39e9a

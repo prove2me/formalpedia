@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_basis_kaehler_of_algebraicIndependent
 -- name    : GlobalTheory.exists_basis_kaehler_of_algebraicIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:01:34.820617+00:00
 -- url     : https://prove2.me/theorems/8a85f0cf-6a1c-4d5a-8e8d-ee72aaf3b826

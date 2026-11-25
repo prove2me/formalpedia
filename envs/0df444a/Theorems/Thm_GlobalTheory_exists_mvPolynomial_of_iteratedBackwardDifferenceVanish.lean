@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_mvPolynomial_of_iteratedBackwardDifferenceVanish
 -- name    : GlobalTheory.exists_mvPolynomial_of_iteratedBackwardDifferenceVanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:35:23.134423+00:00
 -- url     : https://prove2.me/theorems/78d9d345-c7e4-46ce-9cfb-f886a39ee2f1

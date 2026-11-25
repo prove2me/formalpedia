@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvPathJumpMeasureIntegralEqTsumV1
 -- name    : Kyprianou.Ch04.bvPathJumpMeasureIntegralEqTsumV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:12:19.808438+00:00
 -- url     : https://prove2.me/theorems/209698f9-ea02-4021-b18e-aa79b8c364f1

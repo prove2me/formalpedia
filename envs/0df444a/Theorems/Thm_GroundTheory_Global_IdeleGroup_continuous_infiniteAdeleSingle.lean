@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_continuous_infiniteAdeleSingle
 -- name    : GroundTheory.Global.IdeleGroup.continuous_infiniteAdeleSingle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:38:34.228617+00:00
 -- url     : https://prove2.me/theorems/b8ac2e66-ffd2-4a69-8531-b2940e0280f8

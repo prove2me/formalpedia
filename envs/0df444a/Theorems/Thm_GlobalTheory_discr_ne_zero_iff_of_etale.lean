@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_discr_ne_zero_iff_of_etale
 -- name    : GlobalTheory.discr_ne_zero_iff_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:15:42.198556+00:00
 -- url     : https://prove2.me/theorems/4d2cf2c8-a8d7-4485-ae88-5f33cf67f0aa

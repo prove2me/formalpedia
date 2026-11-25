@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_oscillatorAction_unitaryGroup_hermitian
 -- name    : GlobalTheory.T.exists_oscillatorAction_unitaryGroup_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:36:45.839451+00:00
 -- url     : https://prove2.me/theorems/65a10671-a4e5-4f86-a958-a9c166c25c3e

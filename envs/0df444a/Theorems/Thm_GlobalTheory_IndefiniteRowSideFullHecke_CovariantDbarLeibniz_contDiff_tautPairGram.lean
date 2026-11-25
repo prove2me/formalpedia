@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CovariantDbarLeibniz_contDiff_tautPairGram
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CovariantDbarLeibniz.contDiff_tautPairGram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:12.530801+00:00
 -- url     : https://prove2.me/theorems/27153bb8-a5ff-497b-8d28-3c08b1745d97

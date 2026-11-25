@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_conn_eq_of_isSymm
 -- name    : GlobalTheory.HermFrame.conn_eq_of_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:38:50.025272+00:00
 -- url     : https://prove2.me/theorems/fc0fede4-f833-4b30-88ae-ac4a74fa9bab

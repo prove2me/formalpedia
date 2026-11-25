@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_quotient_of_finite_group
 -- name    : GlobalTheory.exists_quotient_of_finite_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:42:04.32263+00:00
 -- url     : https://prove2.me/theorems/5aa8dc5c-795a-4a23-a1b5-ca586349a59b

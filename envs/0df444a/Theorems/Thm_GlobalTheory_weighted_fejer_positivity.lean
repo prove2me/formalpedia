@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weighted_fejer_positivity
 -- name    : GlobalTheory.weighted_fejer_positivity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:24:22.225892+00:00
 -- url     : https://prove2.me/theorems/1cbdab48-5d07-4a8c-8389-5a4a53270407

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoublingLength_hasSum_pairTerm_fiber
 -- name    : GlobalTheory.DoublingLength.hasSum_pairTerm_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:12:06.966196+00:00
 -- url     : https://prove2.me/theorems/1a6d792b-743b-42bb-b1e4-8742c0c74ca7

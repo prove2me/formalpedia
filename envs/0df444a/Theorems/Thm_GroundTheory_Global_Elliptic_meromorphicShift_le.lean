@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_meromorphicShift_le
 -- name    : GroundTheory.Global.Elliptic.meromorphicShift_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:38:33.030708+00:00
 -- url     : https://prove2.me/theorems/ee8becb0-e9e6-48b8-8f48-005007168e2c

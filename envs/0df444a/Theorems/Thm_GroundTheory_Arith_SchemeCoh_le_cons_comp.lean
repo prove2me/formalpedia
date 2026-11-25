@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_le_cons_comp
 -- name    : GroundTheory.Arith.SchemeCoh.le_cons_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:29:20.177387+00:00
 -- url     : https://prove2.me/theorems/f8513841-4e64-4047-b820-af6ed0a7dedb

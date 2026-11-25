@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_pderivIter_le_of_nonneg
 -- name    : GlobalTheory.norm_pderivIter_le_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:13:21.646788+00:00
 -- url     : https://prove2.me/theorems/4eef25b8-96cc-41e3-9abc-e8b5d7df3a17

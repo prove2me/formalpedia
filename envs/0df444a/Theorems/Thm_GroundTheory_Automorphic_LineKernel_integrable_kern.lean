@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_integrable_kern
 -- name    : GroundTheory.Automorphic.LineKernel.integrable_kern
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:17:05.916057+00:00
 -- url     : https://prove2.me/theorems/78c0488b-32fd-4379-8f30-bf51010d03e3

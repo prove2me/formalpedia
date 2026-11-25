@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_comp_eq_of_antitone
 -- name    : GroundTheory.Automorphic.Spherical.comp_eq_of_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:33:41.081562+00:00
 -- url     : https://prove2.me/theorems/ef0f7ec7-09c1-4c81-bf50-a8e91b1707cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_Ad_bracket
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.Ad_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:30:37.140158+00:00
 -- url     : https://prove2.me/theorems/d36146c9-8fd5-46f3-8ed6-e4892f8fc498

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_dual_weyl_shift_eq_det_pow_mul
 -- name    : Formalism.CohomologicalDescent.LD.dual_weyl_shift_eq_det_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:05:07.093518+00:00
 -- url     : https://prove2.me/theorems/b8161608-4d22-474d-820b-3708a5fa4018

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_least_exponent_over_ring
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.least_exponent_over_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:07:57.764839+00:00
 -- url     : https://prove2.me/theorems/d07dbef9-a6cd-4495-8465-aa5446421ac0

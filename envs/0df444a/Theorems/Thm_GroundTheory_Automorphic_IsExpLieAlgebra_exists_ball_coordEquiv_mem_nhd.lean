@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_exists_ball_coordEquiv_mem_nhd
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.exists_ball_coordEquiv_mem_nhd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:32:53.811025+00:00
 -- url     : https://prove2.me/theorems/8ecf86fe-3992-49ab-8052-2f6c60d209ae

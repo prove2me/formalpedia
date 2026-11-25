@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isOpenImmersion_of_etale_of_mono_pullback_snd
 -- name    : GlobalTheory.isOpenImmersion_of_etale_of_mono_pullback_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:58:55.698885+00:00
 -- url     : https://prove2.me/theorems/f2d11760-09c3-4f39-9705-534e22b11eb9

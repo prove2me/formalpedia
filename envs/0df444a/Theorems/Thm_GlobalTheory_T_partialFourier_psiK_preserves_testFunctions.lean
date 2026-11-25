@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialFourier_psiK_preserves_testFunctions
 -- name    : GlobalTheory.T.partialFourier_psiK_preserves_testFunctions
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:56.628805+00:00
 -- url     : https://prove2.me/theorems/696c3710-1fba-4fdb-bc2e-70f20b1f2827

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_phiU_of_notMem
 -- name    : GlobalTheory.SingleBlock.phiU_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:46.074879+00:00
 -- url     : https://prove2.me/theorems/a0477103-32f3-43ea-930f-43e2c55a8dfd

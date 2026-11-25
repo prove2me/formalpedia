@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_sumForm_X_smul
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.sumForm_X_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:28:59.031193+00:00
 -- url     : https://prove2.me/theorems/129e4999-b86b-4ff3-884e-d68f4ab98e0a

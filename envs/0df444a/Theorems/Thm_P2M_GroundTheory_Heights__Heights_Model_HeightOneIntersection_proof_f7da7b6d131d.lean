@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_HeightOneIntersection_proof_f7da7b6d131d
 -- name    : P2M_GroundTheory_Heights__Heights_Model_HeightOneIntersection_proof_f7da7b6d131d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:20.728623+00:00
 -- url     : https://prove2.me/theorems/6ff5b7d9-9e68-4c14-a73f-2874060c0501

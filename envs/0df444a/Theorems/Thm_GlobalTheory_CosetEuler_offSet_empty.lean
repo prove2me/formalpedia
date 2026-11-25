@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_offSet_empty
 -- name    : GlobalTheory.CosetEuler.offSet_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:49:04.325661+00:00
 -- url     : https://prove2.me/theorems/dd45266f-6db2-4aad-aee2-1653953fcf59

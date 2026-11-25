@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_MinkowskiProductBounds_exists_int_rows
 -- name    : GlobalTheory.SW.MinkowskiProductBounds.exists_int_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:42:42.659108+00:00
 -- url     : https://prove2.me/theorems/8fc0099a-7435-41ae-bd62-2f06adc77674

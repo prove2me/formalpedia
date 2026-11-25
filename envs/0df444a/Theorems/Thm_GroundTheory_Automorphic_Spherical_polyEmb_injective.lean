@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_polyEmb_injective
 -- name    : GroundTheory.Automorphic.Spherical.polyEmb_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:33:59.663185+00:00
 -- url     : https://prove2.me/theorems/35f14876-e755-4eee-9c85-ab70e7bbfabf

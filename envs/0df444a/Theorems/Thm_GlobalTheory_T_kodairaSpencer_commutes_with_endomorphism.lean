@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_kodairaSpencer_commutes_with_endomorphism
 -- name    : GlobalTheory.T.kodairaSpencer_commutes_with_endomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:51:13.503512+00:00
 -- url     : https://prove2.me/theorems/d5c3a244-6b84-4422-8d12-83e0d4272655

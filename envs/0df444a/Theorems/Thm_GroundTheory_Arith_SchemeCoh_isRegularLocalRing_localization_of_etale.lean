@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_isRegularLocalRing_localization_of_etale
 -- name    : GroundTheory.Arith.SchemeCoh.isRegularLocalRing_localization_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:27:43.590077+00:00
 -- url     : https://prove2.me/theorems/41f5a425-c4ab-4133-90f2-146755259a92

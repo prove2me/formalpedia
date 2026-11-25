@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_selfDual_haar_hyperbolicKernelPsiK
 -- name    : GlobalTheory.T.exists_selfDual_haar_hyperbolicKernelPsiK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:38:22.753751+00:00
 -- url     : https://prove2.me/theorems/1d2464d7-6dc1-4d20-ac68-d0ca022ce3c1

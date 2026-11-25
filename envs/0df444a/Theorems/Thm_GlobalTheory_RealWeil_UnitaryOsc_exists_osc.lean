@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_UnitaryOsc_exists_osc
 -- name    : GlobalTheory.RealWeil.UnitaryOsc.exists_osc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:07.63979+00:00
 -- url     : https://prove2.me/theorems/ec5c29a9-678b-4965-8d68-34b92daf0136

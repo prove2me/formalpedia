@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_of_isClosed_torusZariski_of_pow_eq_one
 -- name    : GlobalTheory.finite_of_isClosed_torusZariski_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:47:03.020417+00:00
 -- url     : https://prove2.me/theorems/dbd29deb-04a2-4d07-a6e1-cad676aae0c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeFourier_of_contDiff
 -- name    : GlobalTheory.latticeFourier_of_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:15:15.7873+00:00
 -- url     : https://prove2.me/theorems/b576bdb4-18e0-41f8-a931-edf077dadee3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_pos_le_latticeHeight_at_frame
 -- name    : GlobalTheory.T.exists_pos_le_latticeHeight_at_frame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:20:21.315113+00:00
 -- url     : https://prove2.me/theorems/48dd8947-0297-4ade-8819-113127834c9c

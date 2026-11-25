@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeCurvPoint_re_form_map
 -- name    : GlobalTheory.HodgeCurvPoint.re_form_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:40.450043+00:00
 -- url     : https://prove2.me/theorems/5f2dc013-7357-4069-bc4a-30370860a6c2

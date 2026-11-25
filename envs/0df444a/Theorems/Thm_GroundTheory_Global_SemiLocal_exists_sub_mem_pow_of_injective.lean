@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_exists_sub_mem_pow_of_injective
 -- name    : GroundTheory.Global.SemiLocal.exists_sub_mem_pow_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:39:23.457694+00:00
 -- url     : https://prove2.me/theorems/ea6740ad-536c-4003-87bf-b3342f32ddef

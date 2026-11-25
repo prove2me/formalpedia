@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hasFDerivAt_integral_iter
 -- name    : GroundTheory.Automorphic.hasFDerivAt_integral_iter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:55:08.63792+00:00
 -- url     : https://prove2.me/theorems/9b459f91-fdb3-4ebd-8f98-17cedc93505b

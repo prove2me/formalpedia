@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isLUB_height_rpow_lowerSemicontinuousOn
 -- name    : GlobalTheory.exists_isLUB_height_rpow_lowerSemicontinuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:52:06.095354+00:00
 -- url     : https://prove2.me/theorems/1151e87e-1678-4323-94d0-52a7df695c8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_tsupport_iteratedDeriv_subset
 -- name    : GroundTheory.Automorphic.LineKernel.tsupport_iteratedDeriv_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:32:24.685544+00:00
 -- url     : https://prove2.me/theorems/bf056f63-fc29-4774-bd63-63ed96abc7be

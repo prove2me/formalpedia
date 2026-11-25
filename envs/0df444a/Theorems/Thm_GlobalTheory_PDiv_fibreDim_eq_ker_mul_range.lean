@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_fibreDim_eq_ker_mul_range
 -- name    : GlobalTheory.PDiv.fibreDim_eq_ker_mul_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:46:16.765599+00:00
 -- url     : https://prove2.me/theorems/bf36d947-7ed6-4821-94c9-4ffbd96c5ab7

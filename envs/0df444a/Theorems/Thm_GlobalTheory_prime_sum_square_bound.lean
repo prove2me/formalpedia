@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prime_sum_square_bound
 -- name    : GlobalTheory.prime_sum_square_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:15:34.856098+00:00
 -- url     : https://prove2.me/theorems/41366d01-fe59-4bb5-9b5b-9c9ff13207e3

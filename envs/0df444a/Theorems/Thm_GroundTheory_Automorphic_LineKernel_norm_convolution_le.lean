@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_norm_convolution_le
 -- name    : GroundTheory.Automorphic.LineKernel.norm_convolution_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:32:47.208589+00:00
 -- url     : https://prove2.me/theorems/f4218f53-1b66-41a8-abed-3112c4eec09a

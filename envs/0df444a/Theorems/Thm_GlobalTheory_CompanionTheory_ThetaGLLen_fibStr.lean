@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ThetaGLLen_fibStr
 -- name    : GlobalTheory.CompanionTheory.ThetaGLLen.fibStr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:43:19.693831+00:00
 -- url     : https://prove2.me/theorems/7eb3a974-0c31-4296-865c-f8acc129d828

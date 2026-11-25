@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_eq_mul_permGL_of_rowsReduced
 -- name    : GroundTheory.Automorphic.exists_eq_mul_permGL_of_rowsReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:34:16.678561+00:00
 -- url     : https://prove2.me/theorems/13059c9a-8738-4a32-9083-5b39b5c9d2f0

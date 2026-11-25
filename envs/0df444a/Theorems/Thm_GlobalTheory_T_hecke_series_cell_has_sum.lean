@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hecke_series_cell_has_sum
 -- name    : GlobalTheory.T.hecke_series_cell_has_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:31.330849+00:00
 -- url     : https://prove2.me/theorems/51fcb20a-86fa-4ff9-8898-b34c86a6f7fa

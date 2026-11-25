@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_repr_mul
 -- name    : GroundTheory.Automorphic.repr_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:36:15.63966+00:00
 -- url     : https://prove2.me/theorems/cfeb6b9a-9ac2-473a-bc94-b9545805830e

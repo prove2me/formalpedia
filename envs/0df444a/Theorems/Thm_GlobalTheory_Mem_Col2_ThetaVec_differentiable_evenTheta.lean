@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Col2_ThetaVec_differentiable_evenTheta
 -- name    : GlobalTheory.Mem.Col2.ThetaVec.differentiable_evenTheta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:32:10.134327+00:00
 -- url     : https://prove2.me/theorems/d481c584-74cf-488f-b23b-86e56fc0b5b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_toSesq_self_ne_zero_of_eq
 -- name    : GroundTheory.Automorphic.HermitianForm.toSesq_self_ne_zero_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:31:41.780521+00:00
 -- url     : https://prove2.me/theorems/4fb2c1f3-d0b0-4b8f-95b1-81780072343c

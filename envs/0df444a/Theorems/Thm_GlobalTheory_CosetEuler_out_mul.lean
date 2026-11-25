@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_out_mul
 -- name    : GlobalTheory.CosetEuler.out_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:14.181267+00:00
 -- url     : https://prove2.me/theorems/43df246d-84b4-42e6-b0b3-a31f5d33d832

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_succMin_pos_of_isZLattice
 -- name    : GlobalTheory.succMin_pos_of_isZLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:56:47.016072+00:00
 -- url     : https://prove2.me/theorems/872b98f5-b8ec-4873-bf05-b07470738cca

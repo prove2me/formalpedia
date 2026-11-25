@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_classNumber_le_abs_discr_of_finrank_eq_two
 -- name    : GlobalTheory.classNumber_le_abs_discr_of_finrank_eq_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:07:34.018802+00:00
 -- url     : https://prove2.me/theorems/c6569426-90de-4004-a5cb-dd39ebd1e4dd

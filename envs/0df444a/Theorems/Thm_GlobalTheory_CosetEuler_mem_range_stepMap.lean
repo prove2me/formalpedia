@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_mem_range_stepMap
 -- name    : GlobalTheory.CosetEuler.mem_range_stepMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:48:58.865607+00:00
 -- url     : https://prove2.me/theorems/387fd6fb-ed79-4cdf-9353-cbedf9269cc4

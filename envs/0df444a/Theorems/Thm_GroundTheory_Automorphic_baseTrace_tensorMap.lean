@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_baseTrace_tensorMap
 -- name    : GroundTheory.Automorphic.baseTrace_tensorMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:36:00.117639+00:00
 -- url     : https://prove2.me/theorems/718b01f9-cf47-43f5-8190-28474ee93236

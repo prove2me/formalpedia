@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LocalIntegralGL_weilPair_one_right
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LocalIntegralGL.weilPair_one_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:49:08.289879+00:00
 -- url     : https://prove2.me/theorems/255f9a66-0585-4044-a164-a8d3513a4ff5

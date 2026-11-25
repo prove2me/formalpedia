@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_poisson_cexp_gaussian_lattice
 -- name    : GlobalTheory.poisson_cexp_gaussian_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:13:56.030942+00:00
 -- url     : https://prove2.me/theorems/e8afbac2-d5a7-49de-8af5-a892ac070803

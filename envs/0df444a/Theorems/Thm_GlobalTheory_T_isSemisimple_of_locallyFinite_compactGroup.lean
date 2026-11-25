@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSemisimple_of_locallyFinite_compactGroup
 -- name    : GlobalTheory.T.isSemisimple_of_locallyFinite_compactGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:50:42.397172+00:00
 -- url     : https://prove2.me/theorems/8e665a23-2e29-42f2-b049-7ec54190701b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_FourierTest_beta_isSymm
 -- name    : GlobalTheory.JR.WeilQuad.FourierTest.beta_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:52:38.411365+00:00
 -- url     : https://prove2.me/theorems/3afdb96f-fef3-48a1-9a55-d061c446f9fd

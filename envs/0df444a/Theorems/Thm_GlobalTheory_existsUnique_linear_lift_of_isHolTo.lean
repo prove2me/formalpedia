@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_linear_lift_of_isHolTo
 -- name    : GlobalTheory.existsUnique_linear_lift_of_isHolTo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:14:26.688036+00:00
 -- url     : https://prove2.me/theorems/24d9e095-652d-40d4-8400-5e9c94a326fd

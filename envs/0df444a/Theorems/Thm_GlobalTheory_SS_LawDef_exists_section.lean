@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LawDef_exists_section
 -- name    : GlobalTheory.SS.LawDef.exists_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:03:04.841073+00:00
 -- url     : https://prove2.me/theorems/eb402b69-4422-49f4-b721-cd69a40d2eea

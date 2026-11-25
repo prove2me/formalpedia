@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_iteratedDeriv_line_eq
 -- name    : GroundTheory.Automorphic.Sobolev.iteratedDeriv_line_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:34:04.568829+00:00
 -- url     : https://prove2.me/theorems/4428a729-b098-4d77-99f0-950585c94160

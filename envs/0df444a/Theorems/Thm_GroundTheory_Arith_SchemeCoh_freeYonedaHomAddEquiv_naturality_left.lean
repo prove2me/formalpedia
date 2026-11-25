@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_freeYonedaHomAddEquiv_naturality_left
 -- name    : GroundTheory.Arith.SchemeCoh.freeYonedaHomAddEquiv_naturality_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:27:43.228097+00:00
 -- url     : https://prove2.me/theorems/da001b1f-194f-46dc-8d56-85c83b4210c0

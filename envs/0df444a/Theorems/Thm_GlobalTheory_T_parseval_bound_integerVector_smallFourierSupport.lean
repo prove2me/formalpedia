@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_parseval_bound_integerVector_smallFourierSupport
 -- name    : GlobalTheory.T.parseval_bound_integerVector_smallFourierSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:55:14.779253+00:00
 -- url     : https://prove2.me/theorems/f0c189bd-1fac-4f5a-ba8d-86f866c57aea

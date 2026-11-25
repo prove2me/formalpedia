@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_irrChar_linear_or_induced
 -- name    : GlobalTheory.BI.irrChar_linear_or_induced
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:14:21.21274+00:00
 -- url     : https://prove2.me/theorems/f64dcce0-e585-4dd4-9128-5656e50ec340

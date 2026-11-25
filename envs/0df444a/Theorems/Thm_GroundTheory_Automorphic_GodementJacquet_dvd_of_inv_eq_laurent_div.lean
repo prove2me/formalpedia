@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_dvd_of_inv_eq_laurent_div
 -- name    : GroundTheory.Automorphic.GodementJacquet.dvd_of_inv_eq_laurent_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:18:26.135591+00:00
 -- url     : https://prove2.me/theorems/f7162a7b-b9cd-43df-a716-24eac8f0f5df

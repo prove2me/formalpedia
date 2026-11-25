@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpanIndex_relIndex_span_mul_le
 -- name    : GlobalTheory.SpanIndex.relIndex_span_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:18:55.085059+00:00
 -- url     : https://prove2.me/theorems/743d75a2-199d-4322-bec7-4bc982440461

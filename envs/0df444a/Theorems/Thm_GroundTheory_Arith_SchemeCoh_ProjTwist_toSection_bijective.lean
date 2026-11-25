@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjTwist_toSection_bijective
 -- name    : GroundTheory.Arith.SchemeCoh.ProjTwist.toSection_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:28:13.521799+00:00
 -- url     : https://prove2.me/theorems/6689f3f1-1eee-4468-bc38-7725579d8f2b

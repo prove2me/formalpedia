@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_single_zero_mem_reesSubmodule
 -- name    : GroundTheory.Arith.SchemeCoh.single_zero_mem_reesSubmodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:29:01.233196+00:00
 -- url     : https://prove2.me/theorems/a6b9c16c-d665-44f5-83c1-07a3def20341

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_IsRegularLocalRing_of_flat_of_map_maximalIdeal
 -- name    : GroundTheory.Arith.SchemeCoh.IsRegularLocalRing.of_flat_of_map_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:36:45.354481+00:00
 -- url     : https://prove2.me/theorems/28743fde-df01-44ce-902d-be8c463c5a1f

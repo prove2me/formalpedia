@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Col2_ThetaVec_altE_stdH
 -- name    : GlobalTheory.Mem.Col2.ThetaVec.altE_stdH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:32:42.741017+00:00
 -- url     : https://prove2.me/theorems/e4ef4248-fbcd-45b7-a46c-d7beb5471119

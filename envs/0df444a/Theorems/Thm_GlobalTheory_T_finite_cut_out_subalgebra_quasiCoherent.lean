@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_cut_out_subalgebra_quasiCoherent
 -- name    : GlobalTheory.T.finite_cut_out_subalgebra_quasiCoherent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:39:32.547365+00:00
 -- url     : https://prove2.me/theorems/bb9da80b-e3ab-40f3-930d-c662de571679

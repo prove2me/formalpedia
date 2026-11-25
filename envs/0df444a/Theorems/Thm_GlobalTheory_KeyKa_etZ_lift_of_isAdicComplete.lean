@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_etZ_lift_of_isAdicComplete
 -- name    : GlobalTheory.KeyKa.etZ_lift_of_isAdicComplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:01:10.10169+00:00
 -- url     : https://prove2.me/theorems/69f9ffbf-a27f-4ff3-9b9f-0a43188a5992

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_IrrSplit_exists_cover_irr
 -- name    : GlobalTheory.SS.IrrSplit.exists_cover_irr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:34:56.705216+00:00
 -- url     : https://prove2.me/theorems/233b4bac-7eab-4dfe-9841-57cfab9566e7

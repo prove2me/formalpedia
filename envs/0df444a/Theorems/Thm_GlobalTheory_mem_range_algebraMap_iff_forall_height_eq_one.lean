@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_range_algebraMap_iff_forall_height_eq_one
 -- name    : GlobalTheory.mem_range_algebraMap_iff_forall_height_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:55:40.623396+00:00
 -- url     : https://prove2.me/theorems/c400a050-f0df-43af-a703-4189a293ecf2

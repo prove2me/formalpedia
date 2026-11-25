@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_shift_val
 -- name    : GlobalTheory.CosetEuler.shift_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:49:08.060968+00:00
 -- url     : https://prove2.me/theorems/794a529c-e021-4c17-ab1f-86b74bd49f97

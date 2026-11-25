@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HaarSK_lift_flat_translate
 -- name    : GroundTheory.Automorphic.HaarSK.lift_flat_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:29:49.126527+00:00
 -- url     : https://prove2.me/theorems/670882de-158c-4638-9f66-a5507b0edf2f

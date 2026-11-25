@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_of_smooth_field
 -- name    : GlobalTheory.isIntegral_of_smooth_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:27:36.022332+00:00
 -- url     : https://prove2.me/theorems/924d5a18-de2d-4fc2-bdcd-e9a05e71c33e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Col2_ThetaVec_th0Char_sq
 -- name    : GlobalTheory.Mem.Col2.ThetaVec.th0Char_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:32:45.953551+00:00
 -- url     : https://prove2.me/theorems/994e1a7d-83c0-451d-b890-8d660920b518

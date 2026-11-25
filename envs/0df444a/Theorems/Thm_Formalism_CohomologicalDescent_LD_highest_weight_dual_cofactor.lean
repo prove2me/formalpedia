@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_highest_weight_dual_cofactor
 -- name    : Formalism.CohomologicalDescent.LD.highest_weight_dual_cofactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:06:43.527806+00:00
 -- url     : https://prove2.me/theorems/29a56a18-e2be-4281-8d3f-ea7c7915a61a

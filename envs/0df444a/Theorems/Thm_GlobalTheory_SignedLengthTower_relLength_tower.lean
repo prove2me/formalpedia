@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthTower_relLength_tower
 -- name    : GlobalTheory.SignedLengthTower.relLength_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:12:46.035928+00:00
 -- url     : https://prove2.me/theorems/fddd9e15-60b4-4a9a-928b-05a76b3c77d5

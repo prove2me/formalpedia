@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hsGrowth_exp_radius
 -- name    : GlobalTheory.hsGrowth_exp_radius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:55:16.550596+00:00
 -- url     : https://prove2.me/theorems/68ae5ccb-2426-4fa4-91a7-006a87cfa5a6

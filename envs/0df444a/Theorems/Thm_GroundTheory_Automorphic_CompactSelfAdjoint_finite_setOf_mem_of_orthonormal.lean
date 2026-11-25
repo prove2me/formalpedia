@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactSelfAdjoint_finite_setOf_mem_of_orthonormal
 -- name    : GroundTheory.Automorphic.CompactSelfAdjoint.finite_setOf_mem_of_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:28:42.265053+00:00
 -- url     : https://prove2.me/theorems/c629429d-b5a5-48e1-b279-6d137d94c514

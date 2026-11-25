@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ringKrullDim_le_of_hasGoingDown
 -- name    : GroundTheory.Arith.SchemeCoh.ringKrullDim_le_of_hasGoingDown
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:28:49.185435+00:00
 -- url     : https://prove2.me/theorems/ef12c178-3f07-4628-bfb0-13e54653e502

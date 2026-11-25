@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_vacuum_matrix_coefficient_sq
 -- name    : GlobalTheory.T.vacuum_matrix_coefficient_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:01:47.7782+00:00
 -- url     : https://prove2.me/theorems/1d291b4b-c345-4e28-80b0-878bae5c1aca

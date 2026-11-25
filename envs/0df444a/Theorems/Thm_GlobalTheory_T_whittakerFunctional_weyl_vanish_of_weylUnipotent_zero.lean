@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_whittakerFunctional_weyl_vanish_of_weylUnipotent_zero
 -- name    : GlobalTheory.T.whittakerFunctional_weyl_vanish_of_weylUnipotent_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:01:12.593504+00:00
 -- url     : https://prove2.me/theorems/b72d4afb-15f4-4f25-9fa1-32ff7ef90b76

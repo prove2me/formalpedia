@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_taylor_comp_clm
 -- name    : GlobalTheory.taylor_comp_clm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:43:28.922171+00:00
 -- url     : https://prove2.me/theorems/cd732912-1283-443c-845b-b8c141497e01

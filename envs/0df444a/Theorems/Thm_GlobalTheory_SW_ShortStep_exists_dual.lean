@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ShortStep_exists_dual
 -- name    : GlobalTheory.SW.ShortStep.exists_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:44:17.048161+00:00
 -- url     : https://prove2.me/theorems/a65764dc-df79-47a6-b1cb-4e3ef31b009b

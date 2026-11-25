@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_hasCompactSupport_KC
 -- name    : GroundTheory.Automorphic.LineKernel.hasCompactSupport_KC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:38:26.137691+00:00
 -- url     : https://prove2.me/theorems/7d0b9552-a659-4221-9531-258d5458ec5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pderivList_replicate
 -- name    : GlobalTheory.pderivList_replicate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:14:14.567923+00:00
 -- url     : https://prove2.me/theorems/37c31fd5-822b-4a2c-bb06-96b371910e0f

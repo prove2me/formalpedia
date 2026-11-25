@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_integral_deriv_cutoff
 -- name    : GroundTheory.Automorphic.LineKernel.integral_deriv_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:32:00.127726+00:00
 -- url     : https://prove2.me/theorems/aaf4a011-5d7b-4a67-8867-76b21479aef6

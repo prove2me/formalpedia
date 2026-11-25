@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_convolution_apply_apply
 -- name    : GroundTheory.Automorphic.Sobolev.convolution_apply_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:34:41.656363+00:00
 -- url     : https://prove2.me/theorems/1c4c01c0-02e7-4786-b69d-7dd38202f684

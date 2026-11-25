@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_range_tensor_iff_forall_height_eq_one
 -- name    : GlobalTheory.mem_range_tensor_iff_forall_height_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:11:15.846073+00:00
 -- url     : https://prove2.me/theorems/6e4eb7f7-99b1-4079-99ea-e3e7fed7a135

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_norm_le_hsNorm
 -- name    : GroundTheory.Automorphic.norm_le_hsNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:35:10.782515+00:00
 -- url     : https://prove2.me/theorems/1eb8fba6-d366-4d9a-bdd6-f5534eb7c731

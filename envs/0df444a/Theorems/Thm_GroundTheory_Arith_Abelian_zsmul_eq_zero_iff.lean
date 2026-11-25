@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_zsmul_eq_zero_iff
 -- name    : GroundTheory.Arith.Abelian.zsmul_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:17:16.417354+00:00
 -- url     : https://prove2.me/theorems/0c168d66-a8f3-410f-b144-20839945db12

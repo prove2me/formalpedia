@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_linearIndependent_norm_le_succMin
 -- name    : GlobalTheory.exists_linearIndependent_norm_le_succMin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:34:13.676872+00:00
 -- url     : https://prove2.me/theorems/e46feaf8-3731-4812-bd59-77d3c3749141

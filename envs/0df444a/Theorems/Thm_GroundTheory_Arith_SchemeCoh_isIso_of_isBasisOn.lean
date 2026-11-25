@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_isIso_of_isBasisOn
 -- name    : GroundTheory.Arith.SchemeCoh.isIso_of_isBasisOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:03:44.095599+00:00
 -- url     : https://prove2.me/theorems/d7dd5243-d54e-4d71-a187-1f79ec5d4d0b

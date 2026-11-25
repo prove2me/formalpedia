@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_conn_changeFrame
 -- name    : GlobalTheory.HermFrame.conn_changeFrame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:37:33.997751+00:00
 -- url     : https://prove2.me/theorems/21c04595-d772-40f6-94c2-a28ec592ed90

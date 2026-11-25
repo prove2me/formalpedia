@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_spanCovol_bot
 -- name    : GlobalTheory.spanCovol_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:42:59.020229+00:00
 -- url     : https://prove2.me/theorems/d90d9d78-a285-425c-8043-073fb6a6374e

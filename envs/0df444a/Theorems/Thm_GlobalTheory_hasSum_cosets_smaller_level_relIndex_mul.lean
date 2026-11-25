@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasSum_cosets_smaller_level_relIndex_mul
 -- name    : GlobalTheory.hasSum_cosets_smaller_level_relIndex_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:50:01.226014+00:00
 -- url     : https://prove2.me/theorems/ad2ccd07-c4bb-4561-b916-7a83b6ca0834

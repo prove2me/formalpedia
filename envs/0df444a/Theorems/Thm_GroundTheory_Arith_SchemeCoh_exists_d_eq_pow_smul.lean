@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_exists_d_eq_pow_smul
 -- name    : GroundTheory.Arith.SchemeCoh.exists_d_eq_pow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:27:32.616272+00:00
 -- url     : https://prove2.me/theorems/c1f8b04c-c32a-46ac-bdbb-bed3918bef19

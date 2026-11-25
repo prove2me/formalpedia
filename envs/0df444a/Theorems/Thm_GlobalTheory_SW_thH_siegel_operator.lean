@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_thH_siegel_operator
 -- name    : GlobalTheory.SW.thH_siegel_operator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:46:08.787555+00:00
 -- url     : https://prove2.me/theorems/5723e1b4-3b9b-4bb5-9c4d-b4895402d1e8

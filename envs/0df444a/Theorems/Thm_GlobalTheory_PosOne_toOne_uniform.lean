@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOne_toOne_uniform
 -- name    : GlobalTheory.PosOne.toOne_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:43:56.776401+00:00
 -- url     : https://prove2.me/theorems/55db0ca7-0847-4c7e-bf29-e357534b647a

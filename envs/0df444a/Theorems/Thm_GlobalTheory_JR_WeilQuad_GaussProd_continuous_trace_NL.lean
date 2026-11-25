@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_GaussProd_continuous_trace_NL
 -- name    : GlobalTheory.JR.WeilQuad.GaussProd.continuous_trace_NL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:39:12.9138+00:00
 -- url     : https://prove2.me/theorems/37b7a70f-d8fd-466c-b476-f4318bcccde6

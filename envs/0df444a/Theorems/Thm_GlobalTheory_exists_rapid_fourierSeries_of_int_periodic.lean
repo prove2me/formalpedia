@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_rapid_fourierSeries_of_int_periodic
 -- name    : GlobalTheory.exists_rapid_fourierSeries_of_int_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:41:02.484671+00:00
 -- url     : https://prove2.me/theorems/ab8555d6-ced4-4682-8720-e98c0e69829d

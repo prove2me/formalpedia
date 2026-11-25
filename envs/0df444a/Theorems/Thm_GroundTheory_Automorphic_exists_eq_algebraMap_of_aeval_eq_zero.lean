@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_eq_algebraMap_of_aeval_eq_zero
 -- name    : GroundTheory.Automorphic.exists_eq_algebraMap_of_aeval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:34:15.073932+00:00
 -- url     : https://prove2.me/theorems/9f9c0932-be32-4e26-9855-d2a51c4a9cfd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GL2Classical_denom_borelGL
 -- name    : GroundTheory.Automorphic.GL2Classical.denom_borelGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:30:36.603099+00:00
 -- url     : https://prove2.me/theorems/efeb6fc4-27ad-48e6-abef-d45a20bfe46e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIso_of_quasiFinite_of_isIso_genericFibre_dvr
 -- name    : GlobalTheory.isIso_of_quasiFinite_of_isIso_genericFibre_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:59:11.828913+00:00
 -- url     : https://prove2.me/theorems/a17e016c-6d62-4823-88b8-3533c24f8f10

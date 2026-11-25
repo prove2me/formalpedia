@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_xOf_zsmul
 -- name    : GroundTheory.Arith.Abelian.xOf_zsmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:36:53.354234+00:00
 -- url     : https://prove2.me/theorems/408aed02-b09c-48c2-8c32-ed768fee3605

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_sum_rootAt_expand
 -- name    : GroundTheory.Automorphic.HarishChandra.sum_rootAt_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:30:56.618958+00:00
 -- url     : https://prove2.me/theorems/53f78cd3-5b6e-4363-aeaf-1fc65aec21cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_upperHalfPlaneProduct_prod_im_rpow_contDiffOn
 -- name    : GlobalTheory.T.upperHalfPlaneProduct_prod_im_rpow_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:00:36.049601+00:00
 -- url     : https://prove2.me/theorems/bc14b93f-ad5f-470b-8f0b-2056b901a8b3

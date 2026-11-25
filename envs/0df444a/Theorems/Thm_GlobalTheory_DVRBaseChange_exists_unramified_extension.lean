@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DVRBaseChange_exists_unramified_extension
 -- name    : GlobalTheory.DVRBaseChange.exists_unramified_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:35:41.554794+00:00
 -- url     : https://prove2.me/theorems/94c42e1e-d63c-491f-a4d1-508cff9200c2

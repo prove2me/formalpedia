@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_homLocSMul_X_bijective
 -- name    : GlobalTheory.homLocSMul_X_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:42:29.601375+00:00
 -- url     : https://prove2.me/theorems/c533014b-fdfc-4efd-92f1-c19b24ef4bcc

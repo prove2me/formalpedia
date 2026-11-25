@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Col2_ThetaVec_evenTheta_zero_eq_one
 -- name    : GlobalTheory.Mem.Col2.ThetaVec.evenTheta_zero_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:32:48.894813+00:00
 -- url     : https://prove2.me/theorems/6abef97a-90ef-4fef-9513-99aa655ff677

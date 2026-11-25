@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_valuation_pow_eq_alt
 -- name    : GlobalTheory.T.valuation_pow_eq_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:01:15.430026+00:00
 -- url     : https://prove2.me/theorems/cb228d7f-cabf-430f-be4b-fedc970bdbf5

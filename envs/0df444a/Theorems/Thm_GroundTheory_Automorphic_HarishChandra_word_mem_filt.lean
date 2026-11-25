@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_word_mem_filt
 -- name    : GroundTheory.Automorphic.HarishChandra.word_mem_filt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:31:07.040792+00:00
 -- url     : https://prove2.me/theorems/ac01ac31-4a79-485c-a40f-fdb717b205f8

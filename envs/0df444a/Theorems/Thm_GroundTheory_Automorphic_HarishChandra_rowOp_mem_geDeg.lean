@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_rowOp_mem_geDeg
 -- name    : GroundTheory.Automorphic.HarishChandra.rowOp_mem_geDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:31:39.064279+00:00
 -- url     : https://prove2.me/theorems/d6099a0d-91fc-4b9d-befc-47f9a7963901

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_orthogonal_int_vectors_not_agree_on_regular
 -- name    : GlobalTheory.CuspGL.orthogonal_int_vectors_not_agree_on_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:33:01.998714+00:00
 -- url     : https://prove2.me/theorems/9fff4408-9351-417c-8240-1830845c6c01

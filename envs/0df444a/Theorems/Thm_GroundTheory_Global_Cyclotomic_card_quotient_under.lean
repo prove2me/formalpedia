@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_card_quotient_under
 -- name    : GroundTheory.Global.Cyclotomic.card_quotient_under
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:36:28.9098+00:00
 -- url     : https://prove2.me/theorems/4e338a59-43ca-4208-a2e2-9d4ecafd943b

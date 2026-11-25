@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_ContCoeff_sum
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.ContCoeff.sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:28:46.837806+00:00
 -- url     : https://prove2.me/theorems/87bd194d-6690-4c62-8d90-474e6eb3b25c

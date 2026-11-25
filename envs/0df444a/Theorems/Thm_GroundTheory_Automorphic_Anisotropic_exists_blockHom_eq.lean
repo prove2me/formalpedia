@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_exists_blockHom_eq
 -- name    : GroundTheory.Automorphic.Anisotropic.exists_blockHom_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:25.6215+00:00
 -- url     : https://prove2.me/theorems/7b0c62d7-83e5-41bc-84ae-27a1582adff1

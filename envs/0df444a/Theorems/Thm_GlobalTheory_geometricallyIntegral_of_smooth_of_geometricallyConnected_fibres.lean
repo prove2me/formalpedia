@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyIntegral_of_smooth_of_geometricallyConnected_fibres
 -- name    : GlobalTheory.geometricallyIntegral_of_smooth_of_geometricallyConnected_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:28:00.255187+00:00
 -- url     : https://prove2.me/theorems/fe8ca82f-56e6-4b8c-80a2-04db1ccae1e7

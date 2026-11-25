@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_exists_rmat_eq
 -- name    : GroundTheory.Automorphic.Anisotropic.exists_rmat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:22.733807+00:00
 -- url     : https://prove2.me/theorems/62208bf7-f6d2-4d75-8b2c-d54612825b83

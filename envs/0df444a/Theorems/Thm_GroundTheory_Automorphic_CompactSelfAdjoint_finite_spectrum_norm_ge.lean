@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactSelfAdjoint_finite_spectrum_norm_ge
 -- name    : GroundTheory.Automorphic.CompactSelfAdjoint.finite_spectrum_norm_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:28:53.433906+00:00
 -- url     : https://prove2.me/theorems/0b15724a-5997-4e0f-af2e-d0df74f89758

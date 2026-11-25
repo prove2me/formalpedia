@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_HodgePeriodGram_im_period
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.HodgePeriodGram.im_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:44:20.570851+00:00
 -- url     : https://prove2.me/theorems/902fe51c-17ae-4696-8c9c-e3e096c75f33

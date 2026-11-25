@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConnPointwise_gnorm_one_eq
 -- name    : GlobalTheory.ConnPointwise.gnorm_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:49:30.946478+00:00
 -- url     : https://prove2.me/theorems/a737f92f-dee4-493f-85b4-4a505569f86d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushInv_pushInvertible_of_densePart
 -- name    : GlobalTheory.PushInv.pushInvertible_of_densePart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:58:19.150021+00:00
 -- url     : https://prove2.me/theorems/a239fd08-6208-4526-ad2d-46eb5936f9fb

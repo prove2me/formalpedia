@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_exponent_eq_over_ring
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.exponent_eq_over_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:07:58.243182+00:00
 -- url     : https://prove2.me/theorems/cbc3659c-c12a-4b60-bc3b-bc5fa369cc64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_esymm_mem_adjoin_psum
 -- name    : GroundTheory.Automorphic.HarishChandra.esymm_mem_adjoin_psum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:47.400936+00:00
 -- url     : https://prove2.me/theorems/515168a3-527d-417d-a9b9-a1785dde8a64

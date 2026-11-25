@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_openCompact_annihilator_scaled_integersK
 -- name    : GlobalTheory.T.exists_openCompact_annihilator_scaled_integersK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:36:50.605059+00:00
 -- url     : https://prove2.me/theorems/a0a43399-0882-4f08-a850-218c8cacfd22

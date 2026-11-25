@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_isCentral_of_isCentral_matrix
 -- name    : GroundTheory.Brauer.isCentral_of_isCentral_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:36:55.492385+00:00
 -- url     : https://prove2.me/theorems/3b2b2d8e-55f0-4a00-94a3-78c051fbf6db

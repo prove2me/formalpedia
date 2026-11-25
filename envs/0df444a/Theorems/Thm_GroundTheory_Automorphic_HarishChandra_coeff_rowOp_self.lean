@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_coeff_rowOp_self
 -- name    : GroundTheory.Automorphic.HarishChandra.coeff_rowOp_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:57:04.373528+00:00
 -- url     : https://prove2.me/theorems/7ef5d90e-bad9-47c2-9e22-9a2e6b150093

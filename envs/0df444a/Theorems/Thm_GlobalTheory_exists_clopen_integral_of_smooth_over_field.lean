@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_clopen_integral_of_smooth_over_field
 -- name    : GlobalTheory.exists_clopen_integral_of_smooth_over_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:30:44.353831+00:00
 -- url     : https://prove2.me/theorems/e4dd005b-8397-4512-b91b-c8ac28507b0b

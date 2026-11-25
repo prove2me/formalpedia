@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_weight_le_upper_translation_of_thick
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.weight_le_upper_translation_of_thick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:29:29.742633+00:00
 -- url     : https://prove2.me/theorems/05f3b827-07c6-4dc8-a37c-7927d987c03b

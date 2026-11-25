@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_globalFns_holds
 -- name    : GlobalTheory.globalFns_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:58:24.454179+00:00
 -- url     : https://prove2.me/theorems/ec9f53c9-ab79-4008-a10b-4cabdd5573ab

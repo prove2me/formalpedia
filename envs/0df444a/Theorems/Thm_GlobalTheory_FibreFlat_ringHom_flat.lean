@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreFlat_ringHom_flat
 -- name    : GlobalTheory.FibreFlat.ringHom_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:24:55.187882+00:00
 -- url     : https://prove2.me/theorems/89740af4-1040-437b-af96-0e536681a4a3

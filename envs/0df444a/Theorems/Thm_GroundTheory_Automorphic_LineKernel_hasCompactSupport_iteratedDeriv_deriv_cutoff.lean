@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_hasCompactSupport_iteratedDeriv_deriv_cutoff
 -- name    : GroundTheory.Automorphic.LineKernel.hasCompactSupport_iteratedDeriv_deriv_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:31:51.138925+00:00
 -- url     : https://prove2.me/theorems/4171ca11-4ba5-4966-beec-a4dafc74486b

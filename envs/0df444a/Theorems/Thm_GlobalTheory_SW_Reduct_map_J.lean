@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Reduct_map_J
 -- name    : GlobalTheory.SW.Reduct.map_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:45:11.001163+00:00
 -- url     : https://prove2.me/theorems/fcedc396-246c-4fb8-aea1-07e5941378d1

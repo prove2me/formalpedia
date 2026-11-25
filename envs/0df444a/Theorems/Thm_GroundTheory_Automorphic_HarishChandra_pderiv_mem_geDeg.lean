@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_pderiv_mem_geDeg
 -- name    : GroundTheory.Automorphic.HarishChandra.pderiv_mem_geDeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:14:28.508007+00:00
 -- url     : https://prove2.me/theorems/4bfff4c9-860a-4fb1-9ecf-97a3cb902ee6

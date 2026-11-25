@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_periodLattice_of_theta_translate_eq_unit_mul
 -- name    : GlobalTheory.mem_periodLattice_of_theta_translate_eq_unit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:40.303419+00:00
 -- url     : https://prove2.me/theorems/8bae1bf6-3af5-461c-8b97-b764da4b05b0

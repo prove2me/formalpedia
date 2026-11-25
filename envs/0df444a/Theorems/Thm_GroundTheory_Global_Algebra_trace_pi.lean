@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Algebra_trace_pi
 -- name    : GroundTheory.Global.Algebra.trace_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:36:07.929105+00:00
 -- url     : https://prove2.me/theorems/9f076c88-f2c2-4156-972d-f145b505c5dd

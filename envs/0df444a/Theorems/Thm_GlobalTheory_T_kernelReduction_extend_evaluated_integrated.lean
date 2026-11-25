@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_kernelReduction_extend_evaluated_integrated
 -- name    : GlobalTheory.T.kernelReduction_extend_evaluated_integrated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:07:31.254486+00:00
 -- url     : https://prove2.me/theorems/ce83fbd7-8feb-4f41-bd34-a1c16d30b9e8

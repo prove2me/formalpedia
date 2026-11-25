@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasLocalisationAtElements_trivSqZeroExtForms
 -- name    : GlobalTheory.T.hasLocalisationAtElements_trivSqZeroExtForms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:14:39.7338+00:00
 -- url     : https://prove2.me/theorems/0f748731-fa3f-4c6e-a291-88965524c34d

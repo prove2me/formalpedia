@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isBigO_doublingLog_sub
 -- name    : GlobalTheory.isBigO_doublingLog_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:57:25.91496+00:00
 -- url     : https://prove2.me/theorems/8b1b3e37-4a37-4753-a040-c42b2e14bd82

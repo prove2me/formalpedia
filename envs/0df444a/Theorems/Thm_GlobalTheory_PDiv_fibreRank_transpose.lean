@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_fibreRank_transpose
 -- name    : GlobalTheory.PDiv.fibreRank_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:46:29.415415+00:00
 -- url     : https://prove2.me/theorems/c53d0e1d-78a9-400f-a2f1-574b8de04ede

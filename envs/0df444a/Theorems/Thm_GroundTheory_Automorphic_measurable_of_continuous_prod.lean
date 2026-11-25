@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_measurable_of_continuous_prod
 -- name    : GroundTheory.Automorphic.measurable_of_continuous_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:35:48.084737+00:00
 -- url     : https://prove2.me/theorems/fb87b4d3-9ab8-4ae4-a1c5-de4ddfe440f4

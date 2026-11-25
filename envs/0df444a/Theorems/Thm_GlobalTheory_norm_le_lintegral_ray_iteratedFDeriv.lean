@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_le_lintegral_ray_iteratedFDeriv
 -- name    : GlobalTheory.norm_le_lintegral_ray_iteratedFDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:13:09.464489+00:00
 -- url     : https://prove2.me/theorems/8a74dba3-9a33-4356-ba97-f8e6ab0c0eb3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_lin_mem_rangeIn
 -- name    : GroundTheory.Arith.SchemeCoh.lin_mem_rangeIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:28:33.74137+00:00
 -- url     : https://prove2.me/theorems/7fee7b45-c1df-48c2-93fa-b9242333d961

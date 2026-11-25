@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_TorusCutOff_exists_unitary_cutoff
 -- name    : GlobalTheory.JR.TorusCutOff.exists_unitary_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:38:47.317521+00:00
 -- url     : https://prove2.me/theorems/39aab34a-51f0-4c0f-bdb8-f3d7a1b4454c

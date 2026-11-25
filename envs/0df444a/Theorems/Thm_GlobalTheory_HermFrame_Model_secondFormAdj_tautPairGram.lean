@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_Model_secondFormAdj_tautPairGram
 -- name    : GlobalTheory.HermFrame.Model.secondFormAdj_tautPairGram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:44:11.714961+00:00
 -- url     : https://prove2.me/theorems/8c728608-3f38-4ff3-ba9d-7f4a6df8dc45

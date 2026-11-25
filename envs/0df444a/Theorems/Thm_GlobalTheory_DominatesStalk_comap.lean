@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DominatesStalk_comap
 -- name    : GlobalTheory.DominatesStalk.comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:29:11.289507+00:00
 -- url     : https://prove2.me/theorems/4d69d171-0d63-487d-aa29-f3f9c9107bef

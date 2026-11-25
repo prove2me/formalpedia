@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Reduct_den_smul_J
 -- name    : GlobalTheory.SW.Reduct.den_smul_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:45:43.633045+00:00
 -- url     : https://prove2.me/theorems/9d7ae668-2439-467a-9dac-fcf9566ff443

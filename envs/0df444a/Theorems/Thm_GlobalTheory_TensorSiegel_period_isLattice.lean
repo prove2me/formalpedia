@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_period_isLattice
 -- name    : GlobalTheory.TensorSiegel.period_isLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:03:56.680229+00:00
 -- url     : https://prove2.me/theorems/7610fe53-b579-4ca2-9303-01d566f5185a

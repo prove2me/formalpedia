@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Endo_comm_of_endo
 -- name    : GlobalTheory.KS.Endo.comm_of_endo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:45:43.29224+00:00
 -- url     : https://prove2.me/theorems/9f598dd2-9127-4efd-85e9-4a0fc2c89238

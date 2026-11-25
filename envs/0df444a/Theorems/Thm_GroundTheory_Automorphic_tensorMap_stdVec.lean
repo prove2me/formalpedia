@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_tensorMap_stdVec
 -- name    : GroundTheory.Automorphic.tensorMap_stdVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:36:30.055134+00:00
 -- url     : https://prove2.me/theorems/b435c1bf-88a0-43a5-80ff-00e3b6ef7427

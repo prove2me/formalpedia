@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_poly_eq_zero_of_newton_recursion
 -- name    : GlobalTheory.T.poly_eq_zero_of_newton_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:46:12.75994+00:00
 -- url     : https://prove2.me/theorems/401cb743-558c-475a-83df-cb7a540ea04f

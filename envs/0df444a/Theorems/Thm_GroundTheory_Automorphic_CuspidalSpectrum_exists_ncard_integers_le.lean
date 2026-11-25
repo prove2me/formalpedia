@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CuspidalSpectrum_exists_ncard_integers_le
 -- name    : GroundTheory.Automorphic.CuspidalSpectrum.exists_ncard_integers_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:55:48.876949+00:00
 -- url     : https://prove2.me/theorems/ab9d180a-69c0-48bc-ac80-401687521d54

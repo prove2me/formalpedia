@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeTop_topClass_res
 -- name    : GlobalTheory.CubeTop.topClass_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:48:05.107971+00:00
 -- url     : https://prove2.me/theorems/a20f1eaf-8730-4245-9cc2-cb70e4d48066

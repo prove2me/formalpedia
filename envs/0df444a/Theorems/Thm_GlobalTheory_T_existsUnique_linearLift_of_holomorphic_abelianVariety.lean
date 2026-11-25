@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_linearLift_of_holomorphic_abelianVariety
 -- name    : GlobalTheory.T.existsUnique_linearLift_of_holomorphic_abelianVariety
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:33:55.822809+00:00
 -- url     : https://prove2.me/theorems/394fe6c7-327f-4377-b3d4-7a6aa4dabbbd

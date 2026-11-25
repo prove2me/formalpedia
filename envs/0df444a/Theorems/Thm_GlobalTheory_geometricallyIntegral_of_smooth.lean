@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyIntegral_of_smooth
 -- name    : GlobalTheory.geometricallyIntegral_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:27:37.299804+00:00
 -- url     : https://prove2.me/theorems/a195eca4-5686-4932-bfe5-9533c3363de8

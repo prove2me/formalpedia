@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_fibreRank_comp_of_surjective
 -- name    : GlobalTheory.PDiv.fibreRank_comp_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:46:18.229109+00:00
 -- url     : https://prove2.me/theorems/e627f197-875c-4a91-a73c-be7e3e715b52

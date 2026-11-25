@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_zpow_eq_one_of_isClosed_torusZariski
 -- name    : GlobalTheory.exists_zpow_eq_one_of_isClosed_torusZariski
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:46:41.491236+00:00
 -- url     : https://prove2.me/theorems/f9e80f2e-36fb-49d8-8909-712cdbe2bb95

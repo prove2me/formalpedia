@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_EmbeddingHermitianPairs_flowMat_mulVec
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.EmbeddingHermitianPairs.flowMat_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:49:20.059923+00:00
 -- url     : https://prove2.me/theorems/69a90089-0a25-4464-bf5e-71a0a8b7ab5d

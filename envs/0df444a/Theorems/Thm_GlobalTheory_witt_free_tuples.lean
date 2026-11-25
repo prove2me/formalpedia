@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_witt_free_tuples
 -- name    : GlobalTheory.witt_free_tuples
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:25:11.390162+00:00
 -- url     : https://prove2.me/theorems/44d64d3e-717e-4fe5-8f0f-1b79bb19dcf3

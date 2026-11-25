@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_weyl_eq_dual_nabla_holds
 -- name    : Formalism.L2.DIV.weyl_eq_dual_nabla_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:18.571136+00:00
 -- url     : https://prove2.me/theorems/a49c107c-952f-4eb2-931f-a5bb34715c68

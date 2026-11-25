@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_inter_cons_eq
 -- name    : GroundTheory.Arith.SchemeCoh.inter_cons_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:28:25.797736+00:00
 -- url     : https://prove2.me/theorems/dfbd21ed-938b-4694-a73b-b1636418291e

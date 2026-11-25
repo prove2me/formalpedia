@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfRetract_exists_finite_projective_model
 -- name    : GlobalTheory.CompanionTheory.PerfRetract.exists_finite_projective_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:26:42.840803+00:00
 -- url     : https://prove2.me/theorems/ebfbcfdf-ba2d-423a-ac58-9481229afeb0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_mem_offSet_mk
 -- name    : GlobalTheory.CosetEuler.mem_offSet_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:31.83519+00:00
 -- url     : https://prove2.me/theorems/5303b32f-cbed-4d06-973e-cffa99c270da

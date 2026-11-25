@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_p_shift_self
 -- name    : GlobalTheory.CosetEuler.p_shift_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:30.562028+00:00
 -- url     : https://prove2.me/theorems/5244c9cf-78e9-471c-9b3e-98d805e55ede

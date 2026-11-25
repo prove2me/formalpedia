@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_genQuotMk_mem_fixedVectors
 -- name    : GroundTheory.Automorphic.RestrictedTensor.genQuotMk_mem_fixedVectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:33:19.625649+00:00
 -- url     : https://prove2.me/theorems/1945edad-a89e-47e0-a6df-be18af903588

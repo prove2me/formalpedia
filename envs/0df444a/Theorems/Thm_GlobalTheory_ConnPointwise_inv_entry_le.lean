@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConnPointwise_inv_entry_le
 -- name    : GlobalTheory.ConnPointwise.inv_entry_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:49:46.976827+00:00
 -- url     : https://prove2.me/theorems/c0a9df61-89f4-42c5-919c-7a9728e6c0fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_eq_one_of_forall_norm_zpow_sub_one_lt
 -- name    : GroundTheory.Automorphic.Whittaker.eq_one_of_forall_norm_zpow_sub_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:35:09.818405+00:00
 -- url     : https://prove2.me/theorems/58d556a9-75a6-4f45-9a98-42e22f0561da

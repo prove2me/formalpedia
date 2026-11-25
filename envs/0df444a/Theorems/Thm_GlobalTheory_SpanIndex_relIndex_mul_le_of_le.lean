@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpanIndex_relIndex_mul_le_of_le
 -- name    : GlobalTheory.SpanIndex.relIndex_mul_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:18:43.028744+00:00
 -- url     : https://prove2.me/theorems/d6e122e7-6266-41aa-9cf1-601adec3eea7

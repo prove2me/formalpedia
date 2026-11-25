@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_permCoord_apply
 -- name    : GroundTheory.Automorphic.Spherical.permCoord_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:33:58.02663+00:00
 -- url     : https://prove2.me/theorems/f25de0b5-9b18-4507-a819-10a2686b994e

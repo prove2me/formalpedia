@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_costBound_holds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.costBound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:44:32.012629+00:00
 -- url     : https://prove2.me/theorems/1c190389-06c1-4e5c-a2bb-f70f3f8dc7fa

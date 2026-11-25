@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_pairing_convolution
 -- name    : GroundTheory.Automorphic.LineKernel.pairing_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:31:50.225402+00:00
 -- url     : https://prove2.me/theorems/e574068a-8cbd-47dc-88b2-cea50d086f8a

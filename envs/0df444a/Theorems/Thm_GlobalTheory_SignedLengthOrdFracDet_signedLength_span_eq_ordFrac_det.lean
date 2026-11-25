@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthOrdFracDet_signedLength_span_eq_ordFrac_det
 -- name    : GlobalTheory.SignedLengthOrdFracDet.signedLength_span_eq_ordFrac_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:35.188861+00:00
 -- url     : https://prove2.me/theorems/bbaac91f-4101-4bcd-9ad8-3d7e7d49a9ab

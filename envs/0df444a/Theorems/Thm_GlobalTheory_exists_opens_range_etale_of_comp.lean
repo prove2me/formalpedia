@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_opens_range_etale_of_comp
 -- name    : GlobalTheory.exists_opens_range_etale_of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:36:18.999102+00:00
 -- url     : https://prove2.me/theorems/5a0dac60-74df-46a6-ad64-18652ea6ae09

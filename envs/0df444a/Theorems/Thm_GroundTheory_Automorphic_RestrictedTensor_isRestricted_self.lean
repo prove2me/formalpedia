@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_isRestricted_self
 -- name    : GroundTheory.Automorphic.RestrictedTensor.isRestricted_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:34:18.737388+00:00
 -- url     : https://prove2.me/theorems/6a71d01d-059f-46e6-8e0f-793dccf7f86b

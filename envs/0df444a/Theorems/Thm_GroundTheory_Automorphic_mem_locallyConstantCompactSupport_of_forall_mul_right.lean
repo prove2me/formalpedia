@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mem_locallyConstantCompactSupport_of_forall_mul_right
 -- name    : GroundTheory.Automorphic.mem_locallyConstantCompactSupport_of_forall_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:35:47.219541+00:00
 -- url     : https://prove2.me/theorems/1efa89c3-faaf-40bd-b3e0-286ebc2f1770

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndex_integralSpan_supermultiplicative
 -- name    : GlobalTheory.T.relIndex_integralSpan_supermultiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:56:28.80671+00:00
 -- url     : https://prove2.me/theorems/39f9065c-419a-4cf9-b813-31e2eb76a781

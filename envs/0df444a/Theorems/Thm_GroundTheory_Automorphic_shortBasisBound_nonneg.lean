@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_shortBasisBound_nonneg
 -- name    : GroundTheory.Automorphic.shortBasisBound_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:35:33.420356+00:00
 -- url     : https://prove2.me/theorems/32d2d111-d0b5-4931-bdda-85f6afb26919

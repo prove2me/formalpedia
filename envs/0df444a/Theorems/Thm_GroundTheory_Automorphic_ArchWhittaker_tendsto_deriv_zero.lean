@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ArchWhittaker_tendsto_deriv_zero
 -- name    : GroundTheory.Automorphic.ArchWhittaker.tendsto_deriv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:31.191677+00:00
 -- url     : https://prove2.me/theorems/7e76cd8b-f313-4aa6-8c18-fc421fc6aaef

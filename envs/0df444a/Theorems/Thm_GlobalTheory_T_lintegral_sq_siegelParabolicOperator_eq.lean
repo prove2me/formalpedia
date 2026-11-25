@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lintegral_sq_siegelParabolicOperator_eq
 -- name    : GlobalTheory.T.lintegral_sq_siegelParabolicOperator_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:36:03.4048+00:00
 -- url     : https://prove2.me/theorems/1b28cb51-3dd9-455e-8579-9562c113d561

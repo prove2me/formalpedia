@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_associated_of_isAlgebraic
 -- name    : GlobalTheory.exists_associated_of_isAlgebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:30:33.345682+00:00
 -- url     : https://prove2.me/theorems/b653dcd6-23ef-4941-b083-d08f986a4290

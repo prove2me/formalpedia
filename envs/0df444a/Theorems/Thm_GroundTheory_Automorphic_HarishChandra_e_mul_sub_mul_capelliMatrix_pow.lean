@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_e_mul_sub_mul_capelliMatrix_pow
 -- name    : GroundTheory.Automorphic.HarishChandra.e_mul_sub_mul_capelliMatrix_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:30:00.492736+00:00
 -- url     : https://prove2.me/theorems/c8a88d4b-de1b-4563-8c72-51543ed8be33

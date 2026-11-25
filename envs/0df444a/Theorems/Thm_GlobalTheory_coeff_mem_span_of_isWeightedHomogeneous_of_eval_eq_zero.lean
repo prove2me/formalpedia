@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_mem_span_of_isWeightedHomogeneous_of_eval_eq_zero
 -- name    : GlobalTheory.coeff_mem_span_of_isWeightedHomogeneous_of_eval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:10:07.685471+00:00
 -- url     : https://prove2.me/theorems/ccd43b90-ffe4-4f69-a7ef-661945304f96

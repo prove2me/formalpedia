@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_toFinsupp_map_swap_cons
 -- name    : GroundTheory.Automorphic.HarishChandra.toFinsupp_map_swap_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:30:58.941774+00:00
 -- url     : https://prove2.me/theorems/bfb074b5-1edd-48a6-b8d0-dc5f7755278e

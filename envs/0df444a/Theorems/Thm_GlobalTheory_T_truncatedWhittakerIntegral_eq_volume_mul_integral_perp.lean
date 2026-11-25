@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_truncatedWhittakerIntegral_eq_volume_mul_integral_perp
 -- name    : GlobalTheory.T.truncatedWhittakerIntegral_eq_volume_mul_integral_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:00:05.922542+00:00
 -- url     : https://prove2.me/theorems/f6e63b6a-c7d3-4715-b21f-9b8fbd46e51f

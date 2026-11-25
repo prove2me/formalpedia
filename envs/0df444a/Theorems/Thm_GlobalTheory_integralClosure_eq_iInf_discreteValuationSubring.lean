@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_integralClosure_eq_iInf_discreteValuationSubring
 -- name    : GlobalTheory.integralClosure_eq_iInf_discreteValuationSubring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:56:21.663939+00:00
 -- url     : https://prove2.me/theorems/07b1f362-2a19-42ce-abf8-5993326b9ba3

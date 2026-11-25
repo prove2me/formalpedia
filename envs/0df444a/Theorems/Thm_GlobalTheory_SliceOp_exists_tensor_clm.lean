@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceOp_exists_tensor_clm
 -- name    : GlobalTheory.SliceOp.exists_tensor_clm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:15:39.080577+00:00
 -- url     : https://prove2.me/theorems/7c9153ee-4d58-4e69-8a97-e14a33259947

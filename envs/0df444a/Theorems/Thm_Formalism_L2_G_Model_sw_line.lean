@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_sw_line
 -- name    : Formalism.L2.G.Model.sw_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:34.61991+00:00
 -- url     : https://prove2.me/theorems/c2a85d0f-ac89-4ace-afce-ebc4b22defd0

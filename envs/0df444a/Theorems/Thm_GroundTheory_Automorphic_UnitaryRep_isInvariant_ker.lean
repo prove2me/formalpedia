@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_isInvariant_ker
 -- name    : GroundTheory.Automorphic.UnitaryRep.isInvariant_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:33:33.104353+00:00
 -- url     : https://prove2.me/theorems/398d78c1-82a5-4148-94af-2a9139cc98a4

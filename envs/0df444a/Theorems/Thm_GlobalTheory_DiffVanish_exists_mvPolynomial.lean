@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffVanish_exists_mvPolynomial
 -- name    : GlobalTheory.DiffVanish.exists_mvPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:49:16.618899+00:00
 -- url     : https://prove2.me/theorems/4e017312-8bd5-4bcd-b333-a01db754caa4

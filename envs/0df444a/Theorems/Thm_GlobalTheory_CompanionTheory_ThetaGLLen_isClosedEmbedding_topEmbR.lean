@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ThetaGLLen_isClosedEmbedding_topEmbR
 -- name    : GlobalTheory.CompanionTheory.ThetaGLLen.isClosedEmbedding_topEmbR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:42:06.735048+00:00
 -- url     : https://prove2.me/theorems/c52199bb-1fd1-4bc6-83a9-778452ff033d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_isIntegral_fibre
 -- name    : GlobalTheory.ThetaScalar.isIntegral_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:08:29.018285+00:00
 -- url     : https://prove2.me/theorems/4beca684-cf67-45df-9c9f-3dea1207493e

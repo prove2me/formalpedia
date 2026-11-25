@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_t2Space_tensor
 -- name    : GroundTheory.Automorphic.t2Space_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:35:54.688382+00:00
 -- url     : https://prove2.me/theorems/cc36d5db-c2cb-4389-8ca7-bbd65aaf39c7

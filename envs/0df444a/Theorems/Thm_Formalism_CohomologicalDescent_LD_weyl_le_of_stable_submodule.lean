@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_weyl_le_of_stable_submodule
 -- name    : Formalism.CohomologicalDescent.LD.weyl_le_of_stable_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:07:41.766015+00:00
 -- url     : https://prove2.me/theorems/0985c352-0848-436b-ae6d-8111527a8db6

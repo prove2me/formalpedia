@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_exists_of_congr
 -- name    : GlobalTheory.SingleBlock.exists_of_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:49:06.894798+00:00
 -- url     : https://prove2.me/theorems/0b841116-023a-4803-87f9-d8d74f610a87

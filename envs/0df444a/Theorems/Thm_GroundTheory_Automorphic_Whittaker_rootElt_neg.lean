@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_rootElt_neg
 -- name    : GroundTheory.Automorphic.Whittaker.rootElt_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:34:38.951607+00:00
 -- url     : https://prove2.me/theorems/853321c5-47ea-4b00-9b84-b76c40232f4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_exists_sub_mem_fundamentalCompact
 -- name    : GroundTheory.Global.Elliptic.exists_sub_mem_fundamentalCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:38:50.978768+00:00
 -- url     : https://prove2.me/theorems/65e194f6-970f-43a5-8ead-d7dfb34f8628

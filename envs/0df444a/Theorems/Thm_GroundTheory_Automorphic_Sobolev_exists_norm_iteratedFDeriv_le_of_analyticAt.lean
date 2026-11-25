@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_exists_norm_iteratedFDeriv_le_of_analyticAt
 -- name    : GroundTheory.Automorphic.Sobolev.exists_norm_iteratedFDeriv_le_of_analyticAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:33:52.484891+00:00
 -- url     : https://prove2.me/theorems/b95f3692-3d79-4601-8a8e-f5a9869d80d9

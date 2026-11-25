@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodSymm_symm_of_cocycle
 -- name    : GlobalTheory.PeriodSymm.symm_of_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:45:38.681561+00:00
 -- url     : https://prove2.me/theorems/1dc380c8-008d-485b-a431-462833fcc3d6

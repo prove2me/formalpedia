@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_toPadics_injective
 -- name    : GroundTheory.Global.Cyclotomic.toPadics_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:37:22.503811+00:00
 -- url     : https://prove2.me/theorems/49f0d613-44cf-46d2-87ec-831d756f3dc0

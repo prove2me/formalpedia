@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pow_prime_sub_one_norm_le
 -- name    : GlobalTheory.pow_prime_sub_one_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:14:13.110811+00:00
 -- url     : https://prove2.me/theorems/c16c5851-f14d-4b7e-96df-e3361e1f1b55

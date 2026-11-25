@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ArchWhittaker_wronskian_eq_zero_of_moderate
 -- name    : GroundTheory.Automorphic.ArchWhittaker.wronskian_eq_zero_of_moderate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:28:54.28708+00:00
 -- url     : https://prove2.me/theorems/be58e3e6-60df-42cc-9f0f-5b9b2b5d3f3c

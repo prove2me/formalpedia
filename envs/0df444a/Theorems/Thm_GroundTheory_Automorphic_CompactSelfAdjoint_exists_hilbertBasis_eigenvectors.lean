@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactSelfAdjoint_exists_hilbertBasis_eigenvectors
 -- name    : GroundTheory.Automorphic.CompactSelfAdjoint.exists_hilbertBasis_eigenvectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:28:46.179066+00:00
 -- url     : https://prove2.me/theorems/0ceec599-92cd-40e2-af9c-299917b3fc43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramifiedEndFlat_flat_of_map_maximalIdeal
 -- name    : GlobalTheory.UnramifiedEndFlat.flat_of_map_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:49:13.101544+00:00
 -- url     : https://prove2.me/theorems/d9aaef76-43f2-4e6e-b815-b750b4f13384

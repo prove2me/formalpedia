@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_opT_succ
 -- name    : GroundTheory.Automorphic.LineKernel.opT_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:31:45.694609+00:00
 -- url     : https://prove2.me/theorems/626eb3be-c1dd-4d71-9482-4658c06af197

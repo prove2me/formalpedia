@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jHyp_unipotent_torus_equivariance
 -- name    : GlobalTheory.T.jHyp_unipotent_torus_equivariance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:51:34.875479+00:00
 -- url     : https://prove2.me/theorems/09ed3ecc-545e-48a8-8920-b4e6d45adfca

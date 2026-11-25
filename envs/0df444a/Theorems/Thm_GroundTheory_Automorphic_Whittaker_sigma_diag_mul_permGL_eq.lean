@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_sigma_diag_mul_permGL_eq
 -- name    : GroundTheory.Automorphic.Whittaker.sigma_diag_mul_permGL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:35:02.846653+00:00
 -- url     : https://prove2.me/theorems/b4557609-5d11-42cb-aae3-b2eebc21d630

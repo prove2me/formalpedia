@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_pderivIter_le_of_analyticAt
 -- name    : GlobalTheory.norm_pderivIter_le_of_analyticAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:13:16.867804+00:00
 -- url     : https://prove2.me/theorems/fca9b424-cc4b-4692-bf73-2539670cb66c

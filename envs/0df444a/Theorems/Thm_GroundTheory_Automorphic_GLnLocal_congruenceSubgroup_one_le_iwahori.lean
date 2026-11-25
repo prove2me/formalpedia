@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_congruenceSubgroup_one_le_iwahori
 -- name    : GroundTheory.Automorphic.GLnLocal.congruenceSubgroup_one_le_iwahori
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:10:57.700803+00:00
 -- url     : https://prove2.me/theorems/ab703cb8-e7e8-4aff-8969-3b7c771e50d0

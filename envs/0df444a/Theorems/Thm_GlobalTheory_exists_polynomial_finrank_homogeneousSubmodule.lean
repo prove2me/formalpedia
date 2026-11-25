@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_polynomial_finrank_homogeneousSubmodule
 -- name    : GlobalTheory.exists_polynomial_finrank_homogeneousSubmodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:36:25.455873+00:00
 -- url     : https://prove2.me/theorems/44c28a21-14ca-4d71-8fed-308061bc8c39

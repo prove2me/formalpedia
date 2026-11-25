@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_piece_of_polyGradedSMul
 -- name    : GlobalTheory.finite_piece_of_polyGradedSMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:51.11627+00:00
 -- url     : https://prove2.me/theorems/2d8aa2c1-373a-406e-bbe9-1ed45b93a5d1

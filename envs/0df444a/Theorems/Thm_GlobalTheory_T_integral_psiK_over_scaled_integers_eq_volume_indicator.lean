@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_psiK_over_scaled_integers_eq_volume_indicator
 -- name    : GlobalTheory.T.integral_psiK_over_scaled_integers_eq_volume_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:47:05.549807+00:00
 -- url     : https://prove2.me/theorems/7d03e7b0-f6ed-4e30-a79c-075c223570ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_lattice_z_rank_two_two_columns
 -- name    : Formalism.CohomologicalDescent.LA.lattice_z_rank_two_two_columns
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:50:02.244803+00:00
 -- url     : https://prove2.me/theorems/72228555-fd05-4678-bf8b-816c3330ca63

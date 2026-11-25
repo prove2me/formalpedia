@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_permAct_symm_apply
 -- name    : GroundTheory.Automorphic.GLnLocal.permAct_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:30:47.469033+00:00
 -- url     : https://prove2.me/theorems/21530bfd-2c74-4cd8-a66d-fa276545e5ca

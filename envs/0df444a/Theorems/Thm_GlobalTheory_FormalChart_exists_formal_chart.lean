@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalChart_exists_formal_chart
 -- name    : GlobalTheory.FormalChart.exists_formal_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:34:27.270625+00:00
 -- url     : https://prove2.me/theorems/9a74fcb8-651a-44a5-ab0d-9fe32c71b2dc

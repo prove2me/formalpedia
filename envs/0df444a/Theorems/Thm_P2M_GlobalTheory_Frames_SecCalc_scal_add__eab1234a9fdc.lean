@@ -1,0 +1,40 @@
+-- Prove2me | Theorems.Thm_P2M_GlobalTheory_Frames_SecCalc_scal_add__eab1234a9fdc
+-- name    : P2M_GlobalTheory_Frames_SecCalc_scal_add__eab1234a9fdc
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-25T00:05:23.802734+00:00
+-- url     : https://prove2.me/theorems/12b0dc86-171e-43d8-be98-c51cff753250
+-- title:
+--   P2 M Global Theory Frames Sec Calc scal add  eab1234a9fdc: P2 M Global Theory Frames Sec Calc scal add  eab1234a9fdc
+-- statement:
+--   The P2 M Global Theory Frames Sec Calc scal add  eab1234a9fdc construction uses the P2 M Global Theory Frames Sec Calc scal add  eab1234a9fdc property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/UnitaryExistence/ScaledBaseChangeFibreSectionCalculus.lean#L31-L36
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/UnitaryExistence/ScaledBaseChangeFibreSectionCalculus.lean#L31-L36
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ExistenceOfLattices_UnivFrame
+import Definitions.Def_Formalism_LocalToGlobal_ProjectiveLattices_AllTest
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsLieBasis
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnitaryExistence_ScaledBaseChangeFibreSectionCalculus
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor Formalism.L2.Pj GlobalTheory.Frames
+open GlobalTheory GlobalTheory.Frames GlobalTheory.Frames.SecCalc
+variable {E : Type} [Field E] [NumberField E] [IsCMField E] {H : Host E} {Dw : Datum H} {l : Level H}
+variable {Xo : Moduli Dw l}
+
+theorem P2M_GlobalTheory_Frames_SecCalc_scal_add__eab1234a9fdc {S : Type} [CommRing S] (x : Sp S ⟶ Xo.X) (a b : S) (i : (PPx x).ι) :
+    scal x (a + b) i = scal x a i + scal x b i := by sorry
+
+alias «GlobalTheory».«Frames».«SecCalc».«scal_add'» := P2M_GlobalTheory_Frames_SecCalc_scal_add__eab1234a9fdc

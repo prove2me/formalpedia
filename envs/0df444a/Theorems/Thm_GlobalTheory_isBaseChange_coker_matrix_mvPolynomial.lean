@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isBaseChange_coker_matrix_mvPolynomial
 -- name    : GlobalTheory.isBaseChange_coker_matrix_mvPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:49:58.198928+00:00
 -- url     : https://prove2.me/theorems/c2e29949-8bea-4e1d-83b3-7336eeb35a45

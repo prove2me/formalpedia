@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sq_quadraticGaussSum
 -- name    : GlobalTheory.sq_quadraticGaussSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:21:42.677232+00:00
 -- url     : https://prove2.me/theorems/0439c140-bde8-4010-8243-13284990f361

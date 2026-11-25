@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_IsRegularLocalRing_uniqueFactorizationMonoid_of_ringKrullDim_le_one
 -- name    : GroundTheory.Arith.SchemeCoh.IsRegularLocalRing.uniqueFactorizationMonoid_of_ringKrullDim_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:28:11.345376+00:00
 -- url     : https://prove2.me/theorems/d58090e1-378d-46bb-8a5a-b25b829b8ce4

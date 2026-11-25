@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isDiscreteValuationRing_of_mem_associatedPrimes_quotient
 -- name    : GlobalTheory.exists_isDiscreteValuationRing_of_mem_associatedPrimes_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:33:16.242717+00:00
 -- url     : https://prove2.me/theorems/c384d130-0ccc-4ac5-9c05-0709c46c5a34

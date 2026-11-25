@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_sigmaMat_eq
 -- name    : GroundTheory.Automorphic.Whittaker.sigmaMat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:35:06.128186+00:00
 -- url     : https://prove2.me/theorems/480dcae6-e240-4640-be70-3b4b75192c71

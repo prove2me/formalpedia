@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_conjugates_separable_matrix_compact_mod_centralizer
 -- name    : GlobalTheory.T.conjugates_separable_matrix_compact_mod_centralizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:31:31.802351+00:00
 -- url     : https://prove2.me/theorems/47106b9d-0df0-4a2e-8936-c05d2a28df29

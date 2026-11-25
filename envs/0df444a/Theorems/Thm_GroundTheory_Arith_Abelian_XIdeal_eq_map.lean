@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_XIdeal_eq_map
 -- name    : GroundTheory.Arith.Abelian.XIdeal_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:25:12.950065+00:00
 -- url     : https://prove2.me/theorems/217c1930-6e56-4caa-9670-33b488034b7a

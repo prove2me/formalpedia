@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_sigma_mem_borel
 -- name    : GroundTheory.Automorphic.Whittaker.sigma_mem_borel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:35:05.278527+00:00
 -- url     : https://prove2.me/theorems/51a5e6f7-64c1-403b-9767-0e73d2e65175

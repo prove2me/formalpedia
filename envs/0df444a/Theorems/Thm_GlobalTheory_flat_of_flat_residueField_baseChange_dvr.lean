@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_flat_residueField_baseChange_dvr
 -- name    : GlobalTheory.flat_of_flat_residueField_baseChange_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:52.163795+00:00
 -- url     : https://prove2.me/theorems/b86f62da-d1c5-4a40-a7c3-78f1a4834dc8

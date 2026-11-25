@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LocalIntegralGL_blockChar_apply
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LocalIntegralGL.blockChar_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:49:54.655905+00:00
 -- url     : https://prove2.me/theorems/0f38eeea-bdf3-43cd-875f-a6866640cd62

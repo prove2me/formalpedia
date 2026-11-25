@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_exists_conj_le_integralGL
 -- name    : GroundTheory.Automorphic.GLnLocal.exists_conj_le_integralGL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:55:21.050219+00:00
 -- url     : https://prove2.me/theorems/9526656a-9ac6-42a7-8b8f-e4ae4ee2531f

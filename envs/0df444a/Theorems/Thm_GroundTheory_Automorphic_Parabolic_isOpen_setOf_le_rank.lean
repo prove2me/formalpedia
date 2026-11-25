@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isOpen_setOf_le_rank
 -- name    : GroundTheory.Automorphic.Parabolic.isOpen_setOf_le_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:34:08.80565+00:00
 -- url     : https://prove2.me/theorems/0cbd91b9-d063-4c32-b4af-d5ae33a68af6

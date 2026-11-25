@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_length_coinvariants_exact
 -- name    : GlobalTheory.T.finite_length_coinvariants_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:48:20.13614+00:00
 -- url     : https://prove2.me/theorems/eee9fe27-baa9-494f-9da6-48e65b7a7346

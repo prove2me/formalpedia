@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_Model_mdbar_orthCoeff
 -- name    : GlobalTheory.HermFrame.Model.mdbar_orthCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:45:53.48757+00:00
 -- url     : https://prove2.me/theorems/26a8b721-c246-4b40-a8f9-25b7b26cd09c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericConnected_not_mem_image_inter
 -- name    : GlobalTheory.GenericConnected.not_mem_image_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:54:08.044746+00:00
 -- url     : https://prove2.me/theorems/c3dbd7c9-5092-4e87-873b-b70457512879

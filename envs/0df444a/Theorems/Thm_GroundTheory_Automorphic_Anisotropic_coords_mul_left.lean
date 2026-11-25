@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_coords_mul_left
 -- name    : GroundTheory.Automorphic.Anisotropic.coords_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:15.604418+00:00
 -- url     : https://prove2.me/theorems/e8bb36e6-eacc-404f-9d31-d13d8d3b0c0e

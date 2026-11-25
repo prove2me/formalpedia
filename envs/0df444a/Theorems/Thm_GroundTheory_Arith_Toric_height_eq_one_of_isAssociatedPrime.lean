@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_height_eq_one_of_isAssociatedPrime
 -- name    : GroundTheory.Arith.Toric.height_eq_one_of_isAssociatedPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:29:13.698382+00:00
 -- url     : https://prove2.me/theorems/4bc78d5f-7e51-4ea5-af70-79215bf010db

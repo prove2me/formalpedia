@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_goodUniformisation_kodairaSpencer
 -- name    : GlobalTheory.T.exists_goodUniformisation_kodairaSpencer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:36:07.523786+00:00
 -- url     : https://prove2.me/theorems/09c08c19-3d76-41f6-9e86-aa83d3b56298

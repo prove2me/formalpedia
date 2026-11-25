@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mk_eq_iff_mem_out_smul
 -- name    : GroundTheory.Automorphic.mk_eq_iff_mem_out_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:36:05.74105+00:00
 -- url     : https://prove2.me/theorems/d8c31aa3-b009-486d-94d7-bbe3be6e0714

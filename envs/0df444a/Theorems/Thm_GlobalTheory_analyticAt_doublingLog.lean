@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_analyticAt_doublingLog
 -- name    : GlobalTheory.analyticAt_doublingLog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:05:59.517925+00:00
 -- url     : https://prove2.me/theorems/064a339f-2e00-450a-bcec-4a081f6b0d71

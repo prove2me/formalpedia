@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_integral_deriv_mul
 -- name    : GroundTheory.Automorphic.LineKernel.integral_deriv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:32:02.758453+00:00
 -- url     : https://prove2.me/theorems/94b59590-620b-4034-a977-cea3e08a62dd

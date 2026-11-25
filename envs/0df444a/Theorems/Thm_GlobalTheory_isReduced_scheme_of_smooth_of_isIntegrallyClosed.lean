@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isReduced_scheme_of_smooth_of_isIntegrallyClosed
 -- name    : GlobalTheory.isReduced_scheme_of_smooth_of_isIntegrallyClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:42:21.866321+00:00
 -- url     : https://prove2.me/theorems/daa27db7-5611-4401-818e-b898f9f44ccd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_rectIntegral_zero
 -- name    : GroundTheory.Global.Elliptic.rectIntegral_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:38:39.240145+00:00
 -- url     : https://prove2.me/theorems/4340ec65-80c9-4163-b375-009f6e359578

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_single_last_vecMul_blockOne
 -- name    : GroundTheory.Automorphic.Reduction.single_last_vecMul_blockOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:32:54.326193+00:00
 -- url     : https://prove2.me/theorems/99856cf5-8b37-4cb3-a8bb-7689f2656e6e

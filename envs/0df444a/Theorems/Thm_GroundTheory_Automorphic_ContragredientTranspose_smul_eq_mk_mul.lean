@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_smul_eq_mk_mul
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.smul_eq_mk_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:28:54.945598+00:00
 -- url     : https://prove2.me/theorems/f0c53fc9-2e7b-4108-976e-060e613b3c70

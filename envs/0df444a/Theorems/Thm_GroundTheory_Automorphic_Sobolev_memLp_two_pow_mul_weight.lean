@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_memLp_two_pow_mul_weight
 -- name    : GroundTheory.Automorphic.Sobolev.memLp_two_pow_mul_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:34:20.717157+00:00
 -- url     : https://prove2.me/theorems/eb74ccb9-5a63-4712-81f6-4b9c130bcde7

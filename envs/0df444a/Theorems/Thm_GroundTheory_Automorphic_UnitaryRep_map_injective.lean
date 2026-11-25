@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_map_injective
 -- name    : GroundTheory.Automorphic.UnitaryRep.map_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:33:41.728953+00:00
 -- url     : https://prove2.me/theorems/45b027d3-1b8d-444a-aadc-a9e27271191b

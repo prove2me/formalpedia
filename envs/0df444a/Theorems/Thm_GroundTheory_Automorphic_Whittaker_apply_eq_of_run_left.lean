@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_apply_eq_of_run_left
 -- name    : GroundTheory.Automorphic.Whittaker.apply_eq_of_run_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:34:47.816933+00:00
 -- url     : https://prove2.me/theorems/cdb7f447-203d-4fb5-b05f-152bcdff1833

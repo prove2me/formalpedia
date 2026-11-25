@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_idealCharacter_LSeries_continuation
 -- name    : GlobalTheory.idealCharacter_LSeries_continuation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:58.850511+00:00
 -- url     : https://prove2.me/theorems/1f315c28-4730-44a2-8cbd-32d28ead236e

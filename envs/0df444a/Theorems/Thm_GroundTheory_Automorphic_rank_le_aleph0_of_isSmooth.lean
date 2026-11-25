@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_rank_le_aleph0_of_isSmooth
 -- name    : GroundTheory.Automorphic.rank_le_aleph0_of_isSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:35:18.669438+00:00
 -- url     : https://prove2.me/theorems/b04da5c0-49b8-4007-a7ab-39da7a00ddfb

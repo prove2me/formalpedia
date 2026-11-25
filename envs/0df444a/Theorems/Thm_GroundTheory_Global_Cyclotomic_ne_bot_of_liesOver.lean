@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_ne_bot_of_liesOver
 -- name    : GroundTheory.Global.Cyclotomic.ne_bot_of_liesOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:37:56.672666+00:00
 -- url     : https://prove2.me/theorems/42c7e115-ba2b-4f68-9aa5-e157d93a13e0

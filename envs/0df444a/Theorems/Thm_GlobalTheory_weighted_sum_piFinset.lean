@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weighted_sum_piFinset
 -- name    : GlobalTheory.weighted_sum_piFinset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:42:01.323803+00:00
 -- url     : https://prove2.me/theorems/5273f5fa-4d71-42c9-a1d2-50cab07038b4

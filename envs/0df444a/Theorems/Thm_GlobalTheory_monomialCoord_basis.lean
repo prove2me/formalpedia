@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_monomialCoord_basis
 -- name    : GlobalTheory.monomialCoord_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:47:42.76767+00:00
 -- url     : https://prove2.me/theorems/17b51470-418e-49b6-a822-348b7e454577

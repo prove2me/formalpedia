@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactSelfAdjoint_orthogonal_iSup_iInf_eigenspaces_eq_bot
 -- name    : GroundTheory.Automorphic.CompactSelfAdjoint.orthogonal_iSup_iInf_eigenspaces_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:28:40.776799+00:00
 -- url     : https://prove2.me/theorems/2c589a3b-793b-41c3-8cf4-6645602606e9

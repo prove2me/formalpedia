@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthTower_signedLength_span_eq
 -- name    : GlobalTheory.SignedLengthTower.signedLength_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:12:42.336596+00:00
 -- url     : https://prove2.me/theorems/d519f2b2-e931-48f1-9772-54e04a64d96e

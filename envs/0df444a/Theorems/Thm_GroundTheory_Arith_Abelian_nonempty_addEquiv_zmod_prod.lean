@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_nonempty_addEquiv_zmod_prod
 -- name    : GroundTheory.Arith.Abelian.nonempty_addEquiv_zmod_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:25:43.051182+00:00
 -- url     : https://prove2.me/theorems/5cc0a263-2407-400c-a7d0-fa11c2b05b8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weightedRelation_coeff_mem
 -- name    : GlobalTheory.weightedRelation_coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:24:09.822568+00:00
 -- url     : https://prove2.me/theorems/f8c4fbe9-3e1c-446b-8e07-4e730d887528

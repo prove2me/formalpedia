@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsHilbertSchmidt_hasSum_norm_sq
 -- name    : GroundTheory.Automorphic.IsHilbertSchmidt.hasSum_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:31:11.787362+00:00
 -- url     : https://prove2.me/theorems/50c25e98-da13-4e34-adcb-bca34fb53ad9

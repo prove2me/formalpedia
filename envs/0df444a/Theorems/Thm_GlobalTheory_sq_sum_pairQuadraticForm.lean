@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sq_sum_pairQuadraticForm
 -- name    : GlobalTheory.sq_sum_pairQuadraticForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:21:28.738503+00:00
 -- url     : https://prove2.me/theorems/9cdcd35f-8e15-4bec-be38-e90555932824

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_cls_eq
 -- name    : GlobalTheory.CosetEuler.cls_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:28.706326+00:00
 -- url     : https://prove2.me/theorems/0deb4f29-f30f-44de-b8a5-eb98eced3d55

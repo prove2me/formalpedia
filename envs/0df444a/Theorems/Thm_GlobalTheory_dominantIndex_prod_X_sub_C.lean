@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dominantIndex_prod_X_sub_C
 -- name    : GlobalTheory.dominantIndex_prod_X_sub_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:20.47343+00:00
 -- url     : https://prove2.me/theorems/2d575780-61fd-4981-9c2f-15a744ce1129

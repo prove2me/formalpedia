@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_single_last_vecMul_rowMatrix
 -- name    : GroundTheory.Automorphic.Reduction.single_last_vecMul_rowMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:32:58.301328+00:00
 -- url     : https://prove2.me/theorems/cf78af47-fd0d-4c6c-b6b5-ee91a67464f1

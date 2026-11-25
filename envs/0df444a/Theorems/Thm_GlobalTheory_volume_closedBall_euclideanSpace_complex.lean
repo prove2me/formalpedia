@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_volume_closedBall_euclideanSpace_complex
 -- name    : GlobalTheory.volume_closedBall_euclideanSpace_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:24:42.603654+00:00
 -- url     : https://prove2.me/theorems/7764e676-3edb-40f5-abbb-f183cd77c829

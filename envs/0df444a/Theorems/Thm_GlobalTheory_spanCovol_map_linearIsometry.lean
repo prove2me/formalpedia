@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_spanCovol_map_linearIsometry
 -- name    : GlobalTheory.spanCovol_map_linearIsometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:21:06.751269+00:00
 -- url     : https://prove2.me/theorems/a1dda533-13d7-4685-992c-e98f559c17b6

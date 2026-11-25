@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_mem_boxSubgroup
 -- name    : GroundTheory.Automorphic.RestrictedTensor.mem_boxSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:33:26.272597+00:00
 -- url     : https://prove2.me/theorems/a6f4ca44-f5d4-4068-80c0-fd2ed1d0b3f6

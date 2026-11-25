@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_of_local_presentation_pow
 -- name    : GlobalTheory.T.exists_integral_of_local_presentation_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:37:36.552831+00:00
 -- url     : https://prove2.me/theorems/0d5d41b8-b3d4-44f9-b5d6-3355af2fea41

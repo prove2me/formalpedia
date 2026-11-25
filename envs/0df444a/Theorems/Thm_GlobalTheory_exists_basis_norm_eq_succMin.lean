@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_basis_norm_eq_succMin
 -- name    : GlobalTheory.exists_basis_norm_eq_succMin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:51:12.867427+00:00
 -- url     : https://prove2.me/theorems/478ac36f-223c-40ab-adcf-9c8456ea0d56

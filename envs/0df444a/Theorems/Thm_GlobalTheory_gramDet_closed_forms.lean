@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gramDet_closed_forms
 -- name    : GlobalTheory.gramDet_closed_forms
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:52:33.38691+00:00
 -- url     : https://prove2.me/theorems/19bb7d75-a19c-4660-9672-8d5011621901

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_exists_countable_conj_charpoly
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.exists_countable_conj_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:18.138706+00:00
 -- url     : https://prove2.me/theorems/2ea90b0a-a129-40f9-aff7-36ead464fc42

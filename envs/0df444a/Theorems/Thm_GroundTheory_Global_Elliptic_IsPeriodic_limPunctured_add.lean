@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_IsPeriodic_limPunctured_add
 -- name    : GroundTheory.Global.Elliptic.IsPeriodic.limPunctured_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:37:19.47329+00:00
 -- url     : https://prove2.me/theorems/8081efa3-a499-424b-bbfb-8ad85a1d1494

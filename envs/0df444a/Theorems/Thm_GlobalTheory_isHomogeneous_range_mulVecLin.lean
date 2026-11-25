@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isHomogeneous_range_mulVecLin
 -- name    : GlobalTheory.isHomogeneous_range_mulVecLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:48:19.764253+00:00
 -- url     : https://prove2.me/theorems/32da031b-4ca3-4df6-86d8-1417818d9511

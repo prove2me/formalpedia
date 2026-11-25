@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_selfDualMeasure_etaleHermitian_eq_coords
 -- name    : GlobalTheory.T.selfDualMeasure_etaleHermitian_eq_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:58:02.282483+00:00
 -- url     : https://prove2.me/theorems/a3c8fec0-f9fa-40ce-8e54-7d27b454140c

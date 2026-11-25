@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_roots_closedBall_dominant_coeff
 -- name    : GlobalTheory.T.card_roots_closedBall_dominant_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:28:37.941845+00:00
 -- url     : https://prove2.me/theorems/2284d3f0-3c50-4ac0-90a3-6c50e8b71870

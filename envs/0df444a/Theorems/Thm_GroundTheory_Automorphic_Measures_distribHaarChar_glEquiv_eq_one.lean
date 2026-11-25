@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_distribHaarChar_glEquiv_eq_one
 -- name    : GroundTheory.Automorphic.Measures.distribHaarChar_glEquiv_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:14:50.016785+00:00
 -- url     : https://prove2.me/theorems/e72af955-7164-439e-b5b4-965786e4ec15

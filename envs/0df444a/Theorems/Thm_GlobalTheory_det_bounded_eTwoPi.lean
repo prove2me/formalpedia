@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_bounded_eTwoPi
 -- name    : GlobalTheory.det_bounded_eTwoPi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:22.718882+00:00
 -- url     : https://prove2.me/theorems/20291dff-83e4-4783-8953-e5af6d0af178

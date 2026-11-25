@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_bessel_ofSchwartz
 -- name    : GroundTheory.Automorphic.Sobolev.bessel_ofSchwartz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:33:39.037861+00:00
 -- url     : https://prove2.me/theorems/3f0e4506-d50c-40e1-81ba-e20b8013c3f5

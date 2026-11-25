@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeCurvPoint_dotProduct_mulVec_eq_form
 -- name    : GlobalTheory.HodgeCurvPoint.dotProduct_mulVec_eq_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:48:48.415059+00:00
 -- url     : https://prove2.me/theorems/d8342db3-205e-4e64-8eaa-24657e033a44

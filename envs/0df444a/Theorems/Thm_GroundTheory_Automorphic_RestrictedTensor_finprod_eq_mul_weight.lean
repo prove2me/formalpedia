@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_finprod_eq_mul_weight
 -- name    : GroundTheory.Automorphic.RestrictedTensor.finprod_eq_mul_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:33:01.303541+00:00
 -- url     : https://prove2.me/theorems/277dde6b-99ab-4d2f-8c7a-bb49f0dbd1b6

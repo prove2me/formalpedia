@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_X_pow_mul_mem
 -- name    : GroundTheory.Automorphic.GodementJacquet.X_pow_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:29:56.326172+00:00
 -- url     : https://prove2.me/theorems/fe96c845-8632-488c-b699-398dd2a324c1

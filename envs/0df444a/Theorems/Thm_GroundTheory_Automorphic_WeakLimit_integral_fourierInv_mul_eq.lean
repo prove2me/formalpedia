@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_WeakLimit_integral_fourierInv_mul_eq
 -- name    : GroundTheory.Automorphic.WeakLimit.integral_fourierInv_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:34:15.979807+00:00
 -- url     : https://prove2.me/theorems/5a68cb38-2a8b-43ed-ac2d-a4ca6b841d32

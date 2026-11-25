@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_curv_eq
 -- name    : GlobalTheory.HermFrame.curv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:38:24.456626+00:00
 -- url     : https://prove2.me/theorems/127a21ca-1f22-4847-84f2-d69ab8d83619

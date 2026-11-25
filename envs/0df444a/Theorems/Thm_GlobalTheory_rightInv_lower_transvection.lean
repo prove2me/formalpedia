@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rightInv_lower_transvection
 -- name    : GlobalTheory.rightInv_lower_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:17:15.685806+00:00
 -- url     : https://prove2.me/theorems/026c6fce-1c25-43e1-93e1-a0c6a73f34fc

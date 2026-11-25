@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConnPointwise_opNorm_one_le_of_entry
 -- name    : GlobalTheory.ConnPointwise.opNorm_one_le_of_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:49:36.071726+00:00
 -- url     : https://prove2.me/theorems/a3188190-234d-4e98-99db-fc8b891e24a1

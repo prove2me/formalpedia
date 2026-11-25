@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeightSubmodular_height_submodular
 -- name    : GlobalTheory.HeightSubmodular.height_submodular
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:37:03.805235+00:00
 -- url     : https://prove2.me/theorems/a338f564-e64f-4445-8762-b62bc1704de2

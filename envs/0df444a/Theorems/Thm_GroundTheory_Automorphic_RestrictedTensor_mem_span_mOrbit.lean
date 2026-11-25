@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_mem_span_mOrbit
 -- name    : GroundTheory.Automorphic.RestrictedTensor.mem_span_mOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:21.845137+00:00
 -- url     : https://prove2.me/theorems/e3183ce1-b564-4269-9f9d-e1b01fc37079

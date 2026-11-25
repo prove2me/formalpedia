@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_dslopeIter_const_mul
 -- name    : GroundTheory.Global.Elliptic.dslopeIter_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:38:50.756114+00:00
 -- url     : https://prove2.me/theorems/6f53afb9-f9d0-481f-b826-3038e93eaf09

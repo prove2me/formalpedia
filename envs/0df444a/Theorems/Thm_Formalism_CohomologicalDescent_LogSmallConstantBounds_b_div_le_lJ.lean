@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_b_div_le_lJ
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.b_div_le_lJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:44:25.511169+00:00
 -- url     : https://prove2.me/theorems/763a2a47-1de1-4151-ab55-7a735aa4701b

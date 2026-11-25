@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Superpos_hasFDerivAt_itg
 -- name    : GlobalTheory.RealWeil.Superpos.hasFDerivAt_itg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:48:54.300863+00:00
 -- url     : https://prove2.me/theorems/5a7c0e34-2be2-497b-90ad-aaf0fe239a3b

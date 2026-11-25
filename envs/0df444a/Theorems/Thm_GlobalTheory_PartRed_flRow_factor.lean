@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_flRow_factor
 -- name    : GlobalTheory.PartRed.flRow_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:11:11.8078+00:00
 -- url     : https://prove2.me/theorems/4c10865a-9ce7-45d2-9172-b43dafbc25f5

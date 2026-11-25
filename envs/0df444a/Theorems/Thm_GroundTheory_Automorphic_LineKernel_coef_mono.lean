@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_coef_mono
 -- name    : GroundTheory.Automorphic.LineKernel.coef_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:32:08.57521+00:00
 -- url     : https://prove2.me/theorems/69c3f08b-d88f-4cbe-a4c1-51948a2085e8

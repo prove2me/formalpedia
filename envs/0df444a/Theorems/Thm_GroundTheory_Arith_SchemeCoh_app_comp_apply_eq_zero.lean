@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_app_comp_apply_eq_zero
 -- name    : GroundTheory.Arith.SchemeCoh.app_comp_apply_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:28:33.698274+00:00
 -- url     : https://prove2.me/theorems/72c786dc-46af-4026-a2ec-1309e710af28

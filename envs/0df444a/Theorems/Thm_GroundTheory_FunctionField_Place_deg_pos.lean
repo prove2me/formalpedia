@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_deg_pos
 -- name    : GroundTheory.FunctionField.Place.deg_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:36:33.459157+00:00
 -- url     : https://prove2.me/theorems/e58aa1c5-f93c-4084-a7db-ac72cd248bbf

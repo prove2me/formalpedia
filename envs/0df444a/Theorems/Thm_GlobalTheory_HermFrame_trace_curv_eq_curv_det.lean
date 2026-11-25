@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_trace_curv_eq_curv_det
 -- name    : GlobalTheory.HermFrame.trace_curv_eq_curv_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:44:55.691836+00:00
 -- url     : https://prove2.me/theorems/9c81a918-4de4-40d8-bad1-cc17c735ab6f
