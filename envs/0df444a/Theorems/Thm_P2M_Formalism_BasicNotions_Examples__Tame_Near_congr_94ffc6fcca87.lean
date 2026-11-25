@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__Tame_Near_congr_94ffc6fcca87
 -- name    : P2M_Formalism_BasicNotions_Examples__Tame_Near_congr_94ffc6fcca87
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:09:12.726627+00:00
 -- url     : https://prove2.me/theorems/244b2559-fdfc-4c4d-a757-485e88bc8b6d

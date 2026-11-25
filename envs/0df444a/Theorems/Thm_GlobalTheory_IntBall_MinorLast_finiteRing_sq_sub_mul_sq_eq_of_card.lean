@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_MinorLast_finiteRing_sq_sub_mul_sq_eq_of_card
 -- name    : GlobalTheory.IntBall.MinorLast.finiteRing_sq_sub_mul_sq_eq_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:47:33.387151+00:00
 -- url     : https://prove2.me/theorems/05b702d8-a18f-59f8-9afd-9265c84d77a1

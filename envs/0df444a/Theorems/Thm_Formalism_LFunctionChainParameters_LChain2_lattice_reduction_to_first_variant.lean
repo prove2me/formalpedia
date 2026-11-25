@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_lattice_reduction_to_first_variant
 -- name    : Formalism.LFunctionChainParameters.LChain2.lattice_reduction_to_first_variant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:50:53.696475+00:00
 -- url     : https://prove2.me/theorems/a76fa6bb-1814-415e-9721-fa1684712b86

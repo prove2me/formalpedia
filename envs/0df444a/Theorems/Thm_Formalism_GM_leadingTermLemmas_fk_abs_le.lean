@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_fk_abs_le
 -- name    : Formalism.GM.leadingTermLemmas.fk_abs_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:25:08.303875+00:00
 -- url     : https://prove2.me/theorems/fe5dd81c-3c7c-45ae-844e-fc70c1d0701c

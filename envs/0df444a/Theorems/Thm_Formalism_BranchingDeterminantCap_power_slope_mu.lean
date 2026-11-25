@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_power_slope_mu
 -- name    : Formalism.BranchingDeterminantCap.power_slope_mu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:28:23.022095+00:00
 -- url     : https://prove2.me/theorems/129df165-154e-4dbd-85b6-adb6b989e2a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_range_incl_saturated_7cd10a09373f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_range_incl_saturated_7cd10a09373f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:37:46.813955+00:00
 -- url     : https://prove2.me/theorems/7217c7ad-160d-45cb-8552-1b4395b01c86

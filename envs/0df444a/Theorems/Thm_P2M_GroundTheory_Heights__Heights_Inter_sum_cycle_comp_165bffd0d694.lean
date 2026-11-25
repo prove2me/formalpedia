@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_sum_cycle_comp_165bffd0d694
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_sum_cycle_comp_165bffd0d694
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:27:33.614225+00:00
 -- url     : https://prove2.me/theorems/803cf729-d807-49a3-9f58-5d3ce6c3da87

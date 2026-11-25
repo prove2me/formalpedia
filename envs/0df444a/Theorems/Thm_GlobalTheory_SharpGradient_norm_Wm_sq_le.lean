@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpGradient_norm_Wm_sq_le
 -- name    : GlobalTheory.SharpGradient.norm_Wm_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:55:21.60951+00:00
 -- url     : https://prove2.me/theorems/55cce0a0-d2a8-5e77-b471-7909c9c656b7

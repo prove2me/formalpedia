@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_distChar_contragredient
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.distChar_contragredient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:57:10.012701+00:00
 -- url     : https://prove2.me/theorems/48822bfe-061b-4b05-a9cf-b152478d2f43

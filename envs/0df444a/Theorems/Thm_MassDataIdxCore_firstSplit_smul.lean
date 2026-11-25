@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_firstSplit_smul
 -- name    : MassDataIdxCore.firstSplit_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:36:53.893416+00:00
 -- url     : https://prove2.me/theorems/a3903885-e77a-40f1-bc10-cbdc78a6538f

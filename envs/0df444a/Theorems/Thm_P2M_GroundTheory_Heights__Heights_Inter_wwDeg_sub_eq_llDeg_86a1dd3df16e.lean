@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_wwDeg_sub_eq_llDeg_86a1dd3df16e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_wwDeg_sub_eq_llDeg_86a1dd3df16e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:25:16.530894+00:00
 -- url     : https://prove2.me/theorems/2cad896b-bb39-4079-913a-d3dbc4530042

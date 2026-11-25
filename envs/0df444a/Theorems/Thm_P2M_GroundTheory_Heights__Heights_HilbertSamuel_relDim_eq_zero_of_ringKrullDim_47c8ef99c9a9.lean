@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_relDim_eq_zero_of_ringKrullDim_47c8ef99c9a9
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_relDim_eq_zero_of_ringKrullDim_47c8ef99c9a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:48:32.877634+00:00
 -- url     : https://prove2.me/theorems/5d70de66-e43c-510f-975d-80390ad59535

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smooth_flat_algebra_finite_cover_decomp
 -- name    : GlobalTheory.T.smooth_flat_algebra_finite_cover_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:58:41.760287+00:00
 -- url     : https://prove2.me/theorems/849030e3-015d-453f-b69b-f39d54896607

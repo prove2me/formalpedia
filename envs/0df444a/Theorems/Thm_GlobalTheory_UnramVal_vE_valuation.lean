@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramVal_vE_valuation
 -- name    : GlobalTheory.UnramVal.vE_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:34:38.346562+00:00
 -- url     : https://prove2.me/theorems/a4de3353-937f-48b9-9603-f7a2a80e6cd6

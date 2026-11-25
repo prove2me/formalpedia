@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockSurjectivity_coeffVec_mem_span_26ad69966bfe
 -- name    : P2M_GroundTheory_Heights__Heights_BlockSurjectivity_coeffVec_mem_span_26ad69966bfe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:16:15.409769+00:00
 -- url     : https://prove2.me/theorems/17a0f354-e2d6-4adf-936d-7b883a2da617

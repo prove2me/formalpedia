@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_hua_integrable
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.HuaInt.hua_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:14:22.401662+00:00
 -- url     : https://prove2.me/theorems/fa5f7611-8b45-42ac-81b7-dea0ea1a0395

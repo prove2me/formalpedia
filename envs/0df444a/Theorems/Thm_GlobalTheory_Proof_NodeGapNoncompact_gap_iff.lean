@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_NodeGapNoncompact_gap_iff
 -- name    : GlobalTheory.Proof.NodeGapNoncompact.gap_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:29:46.60145+00:00
 -- url     : https://prove2.me/theorems/97eecec9-b89f-480f-b75c-00e98b35b83c

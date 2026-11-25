@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_Top_fockRMap
 -- name    : Formalism.L2.G.Model.TS.Top.fockRMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:48:48.9823+00:00
 -- url     : https://prove2.me/theorems/3b78495f-add9-4483-ae70-375e8af09829

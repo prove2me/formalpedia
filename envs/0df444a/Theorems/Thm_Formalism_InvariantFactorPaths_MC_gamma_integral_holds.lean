@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_MC_gamma_integral_holds
 -- name    : Formalism.InvariantFactorPaths.MC.gamma_integral_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:44:44.304679+00:00
 -- url     : https://prove2.me/theorems/ec44bf21-3b52-534f-8f61-85ec28a40125

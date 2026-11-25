@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CircleArgumentPrinciple_integral_prod_mul_c8dc6c3455c8
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CircleArgumentPrinciple_integral_prod_mul_c8dc6c3455c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:40.169094+00:00
 -- url     : https://prove2.me/theorems/44c23ede-703e-53e4-9fbd-07b6a79156ad

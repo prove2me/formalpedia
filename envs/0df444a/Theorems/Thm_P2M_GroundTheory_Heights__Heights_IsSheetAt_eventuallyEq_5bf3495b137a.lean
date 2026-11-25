@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IsSheetAt_eventuallyEq_5bf3495b137a
 -- name    : P2M_GroundTheory_Heights__Heights_IsSheetAt_eventuallyEq_5bf3495b137a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:46:27.5327+00:00
 -- url     : https://prove2.me/theorems/c4b70cda-c301-481a-80f8-2ed6e1778c68

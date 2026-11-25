@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_resVec_vecMul
 -- name    : GroundTheory.Automorphic.Anisotropic.resVec_vecMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:57:29.028368+00:00
 -- url     : https://prove2.me/theorems/aa2b2338-d7ca-42ca-8fd3-c7adbede116d

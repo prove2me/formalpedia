@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodPointBranch_slice_chart_fc0789027df7
 -- name    : P2M_GroundTheory_Heights__Heights_GoodPointBranch_slice_chart_fc0789027df7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:55.231035+00:00
 -- url     : https://prove2.me/theorems/b61030ef-402b-56d1-94b3-366a6c00c6b4

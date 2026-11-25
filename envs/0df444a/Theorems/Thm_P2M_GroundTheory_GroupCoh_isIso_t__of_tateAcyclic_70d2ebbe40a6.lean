@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_isIso_t__of_tateAcyclic_70d2ebbe40a6
 -- name    : P2M_GroundTheory_GroupCoh_isIso_t__of_tateAcyclic_70d2ebbe40a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:37:44.452901+00:00
 -- url     : https://prove2.me/theorems/a5ae3f05-6270-4d9d-811d-fa17fa5f4c14

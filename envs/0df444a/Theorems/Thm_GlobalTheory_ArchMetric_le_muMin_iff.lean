@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_le_muMin_iff
 -- name    : GlobalTheory.ArchMetric.le_muMin_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:51:16.666257+00:00
 -- url     : https://prove2.me/theorems/cc5b063e-72c5-5021-adfb-c42ebb2c4ab7

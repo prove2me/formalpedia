@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadingMinorInv_minor_mul_left
 -- name    : GlobalTheory.LeadingMinorInv.minor_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:42:29.488039+00:00
 -- url     : https://prove2.me/theorems/790a4d26-454d-4298-9bb4-43b1a8305048

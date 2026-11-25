@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_mem_quotGraded_piece_498792b22d20
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_mem_quotGraded_piece_498792b22d20
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:54.372495+00:00
 -- url     : https://prove2.me/theorems/1dd5086e-9cf1-40ab-a022-a65c542c58da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_measurable_hB
 -- name    : GlobalTheory.IntBall.measurable_hB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:45:17.932055+00:00
 -- url     : https://prove2.me/theorems/56dc1cdc-54cb-4970-a3d5-d90a8771790a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointQuot_mono_constDesc
 -- name    : GlobalTheory.PointQuot.mono_constDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:50:47.47466+00:00
 -- url     : https://prove2.me/theorems/8c1722fa-76ec-4e3c-93f2-5dbfae7d92ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLevelExists_symSum_mul
 -- name    : GlobalTheory.SymLevelExists.symSum_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:10:25.171902+00:00
 -- url     : https://prove2.me/theorems/6cff13e3-53aa-473f-8dc5-c82b46eda200

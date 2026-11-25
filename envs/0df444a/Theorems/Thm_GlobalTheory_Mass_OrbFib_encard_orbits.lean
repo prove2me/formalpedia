@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_OrbFib_encard_orbits
 -- name    : GlobalTheory.Mass.OrbFib.encard_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:31:52.160902+00:00
 -- url     : https://prove2.me/theorems/3311a55b-0475-4b9f-8888-4ec789e9373b

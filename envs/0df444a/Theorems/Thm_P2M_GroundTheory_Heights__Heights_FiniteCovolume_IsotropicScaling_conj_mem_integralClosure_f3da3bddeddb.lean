@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_IsotropicScaling_conj_mem_integralClosure_f3da3bddeddb
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_IsotropicScaling_conj_mem_integralClosure_f3da3bddeddb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:40:14.357233+00:00
 -- url     : https://prove2.me/theorems/8f64520b-e5fb-4c4e-b785-6107e4b0a665

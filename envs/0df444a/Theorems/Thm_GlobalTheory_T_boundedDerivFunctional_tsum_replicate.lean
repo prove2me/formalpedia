@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_boundedDerivFunctional_tsum_replicate
 -- name    : GlobalTheory.T.boundedDerivFunctional_tsum_replicate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:11:54.70174+00:00
 -- url     : https://prove2.me/theorems/e1d08ae2-3d12-45c8-a770-3168ea0f67bc

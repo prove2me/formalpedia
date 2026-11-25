@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Pj_QAt_TieLDB_smul_comm__12647fffb386
 -- name    : P2M_Formalism_L2_Pj_QAt_TieLDB_smul_comm__12647fffb386
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:36:51.650823+00:00
 -- url     : https://prove2.me/theorems/ef94f9d9-3eb1-5042-bf1f-f35b6111077d

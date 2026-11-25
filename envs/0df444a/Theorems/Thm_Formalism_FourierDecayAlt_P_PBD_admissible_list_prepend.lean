@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_admissible_list_prepend
 -- name    : Formalism.FourierDecayAlt.P.PBD.admissible_list_prepend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:08:36.686861+00:00
 -- url     : https://prove2.me/theorems/210d9b68-524e-44ab-b3c9-de40c65f3c7d

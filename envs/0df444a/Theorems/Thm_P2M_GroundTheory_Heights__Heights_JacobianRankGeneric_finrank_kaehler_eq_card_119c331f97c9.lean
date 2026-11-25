@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_JacobianRankGeneric_finrank_kaehler_eq_card_119c331f97c9
 -- name    : P2M_GroundTheory_Heights__Heights_JacobianRankGeneric_finrank_kaehler_eq_card_119c331f97c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:46:16.898802+00:00
 -- url     : https://prove2.me/theorems/5c64a180-4314-406b-9893-c36daaf94482

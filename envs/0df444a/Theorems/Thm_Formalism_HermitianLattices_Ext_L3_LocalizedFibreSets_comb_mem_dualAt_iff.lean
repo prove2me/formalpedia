@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalizedFibreSets_comb_mem_dualAt_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalizedFibreSets.comb_mem_dualAt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:48:34.606429+00:00
 -- url     : https://prove2.me/theorems/cf04b1d3-eabb-4fa7-bd6f-9c67abf27e9e

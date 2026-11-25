@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_hermitian_group_blocks
 -- name    : Formalism.FourierDecayAlt.P.hermitian_group_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:44:58.238624+00:00
 -- url     : https://prove2.me/theorems/c9581fba-a338-4e18-918e-8322c27b8a43

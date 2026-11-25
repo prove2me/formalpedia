@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_polynomial_modularJ_of_hasQExpansion
 -- name    : GlobalTheory.exists_polynomial_modularJ_of_hasQExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:26:05.948352+00:00
 -- url     : https://prove2.me/theorems/a96c5682-6195-4110-984b-1be12174c946

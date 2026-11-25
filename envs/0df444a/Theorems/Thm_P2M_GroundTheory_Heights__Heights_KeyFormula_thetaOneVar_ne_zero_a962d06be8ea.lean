@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_thetaOneVar_ne_zero_a962d06be8ea
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_thetaOneVar_ne_zero_a962d06be8ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:26:18.138472+00:00
 -- url     : https://prove2.me/theorems/8b20d486-4be5-4811-950e-8256a2cc74cf

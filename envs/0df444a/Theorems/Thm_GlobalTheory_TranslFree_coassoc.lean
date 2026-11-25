@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TranslFree_coassoc
 -- name    : GlobalTheory.TranslFree.coassoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:42:46.830273+00:00
 -- url     : https://prove2.me/theorems/6c5fda1e-9df7-5fde-8998-ffd5fc2c8080

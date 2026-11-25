@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerC_Fou_fourier_smooth
 -- name    : Formalism.FourierDecayAlt.P5.HerC.Fou.fourier_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:33:58.997245+00:00
 -- url     : https://prove2.me/theorems/90345fd7-f3c7-4658-a15a-34219ea135aa

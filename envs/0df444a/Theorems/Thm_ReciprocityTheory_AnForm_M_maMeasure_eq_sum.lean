@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_maMeasure_eq_sum
 -- name    : ReciprocityTheory.AnForm.M.maMeasure_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:50:31.093155+00:00
 -- url     : https://prove2.me/theorems/21251a89-a455-43ed-b73a-7f0cb1b81147

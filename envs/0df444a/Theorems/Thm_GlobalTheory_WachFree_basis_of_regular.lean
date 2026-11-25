@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WachFree_basis_of_regular
 -- name    : GlobalTheory.WachFree.basis_of_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:29:31.280445+00:00
 -- url     : https://prove2.me/theorems/08d1ca28-0f15-4f80-976e-49ffa01c5650

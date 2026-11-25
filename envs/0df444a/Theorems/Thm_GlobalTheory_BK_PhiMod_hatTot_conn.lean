@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_hatTot_conn
 -- name    : GlobalTheory.BK.PhiMod.hatTot_conn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:51:59.928305+00:00
 -- url     : https://prove2.me/theorems/403338d3-131a-442b-a842-89ce8c704566

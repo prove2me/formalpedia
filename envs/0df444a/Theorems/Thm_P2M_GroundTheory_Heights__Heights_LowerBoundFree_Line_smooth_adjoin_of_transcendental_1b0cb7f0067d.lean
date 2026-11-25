@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_smooth_adjoin_of_transcendental_1b0cb7f0067d
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_smooth_adjoin_of_transcendental_1b0cb7f0067d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:28:36.089815+00:00
 -- url     : https://prove2.me/theorems/f18af830-98a1-4b64-a326-f4fa66aab158

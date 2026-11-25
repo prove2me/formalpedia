@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_fderiv_coneMapE_single_5ae304af17b3
 -- name    : P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_fderiv_coneMapE_single_5ae304af17b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:38:57.778249+00:00
 -- url     : https://prove2.me/theorems/6c5227d3-0722-4cc3-a213-a339c124fedc

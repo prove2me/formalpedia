@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRegular_isMultiHomogIdeal_sup_span_9559967f1914
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRegular_isMultiHomogIdeal_sup_span_9559967f1914
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:38:55.618379+00:00
 -- url     : https://prove2.me/theorems/0f1a1811-538e-4b82-b4ed-2eed0f8441be

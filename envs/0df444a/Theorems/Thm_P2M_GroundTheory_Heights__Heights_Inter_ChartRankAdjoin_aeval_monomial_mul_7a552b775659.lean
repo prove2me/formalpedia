@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartRankAdjoin_aeval_monomial_mul_7a552b775659
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartRankAdjoin_aeval_monomial_mul_7a552b775659
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:41:26.400244+00:00
 -- url     : https://prove2.me/theorems/09c91248-25ad-4602-bb89-711d3fa3e880

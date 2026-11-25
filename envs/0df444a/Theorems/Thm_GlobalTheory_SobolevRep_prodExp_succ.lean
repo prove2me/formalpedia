@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SobolevRep_prodExp_succ
 -- name    : GlobalTheory.SobolevRep.prodExp_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:47:26.01029+00:00
 -- url     : https://prove2.me/theorems/7b0cc59c-e9d8-57ad-b515-be2e93cf40e3

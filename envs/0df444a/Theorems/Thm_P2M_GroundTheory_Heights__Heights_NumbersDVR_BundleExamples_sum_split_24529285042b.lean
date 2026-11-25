@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BundleExamples_sum_split_24529285042b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BundleExamples_sum_split_24529285042b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:30:04.608647+00:00
 -- url     : https://prove2.me/theorems/114db4ba-8ca7-48c8-bfdd-b4af2a5ff8fd

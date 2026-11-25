@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientMeasureSigmaFinite_sigmaFinite_of_isQuotMeas
 -- name    : GlobalTheory.QuotientMeasureSigmaFinite.sigmaFinite_of_isQuotMeas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:24:59.522857+00:00
 -- url     : https://prove2.me/theorems/bde16f2e-c574-44de-afda-5ee169d11d08

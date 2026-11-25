@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsElementary_mono
 -- name    : GroundTheory.LocalField.IsElementary.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:35:26.229782+00:00
 -- url     : https://prove2.me/theorems/a51d35a3-ebaf-4772-a2bc-df569386d243

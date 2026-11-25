@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FlagSectionAction_coef_mem_flagSec
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FlagSectionAction.coef_mem_flagSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:44:59.313855+00:00
 -- url     : https://prove2.me/theorems/db96f797-3463-4ece-8aa4-1c587acafed7

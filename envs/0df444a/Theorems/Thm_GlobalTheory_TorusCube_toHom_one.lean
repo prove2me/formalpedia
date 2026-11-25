@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCube_toHom_one
 -- name    : GlobalTheory.TorusCube.toHom_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:33:20.834804+00:00
 -- url     : https://prove2.me/theorems/bcc7f972-ee1d-4d24-ba05-4573a823dac6

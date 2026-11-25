@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_u_x
 -- name    : Formalism.InvariantFactorPaths.L4.u_x
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:56:15.196256+00:00
 -- url     : https://prove2.me/theorems/eaac46aa-9da0-41a7-9255-8fc4f98757c2

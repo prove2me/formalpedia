@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrixGaussSum_singular_and_invertible
 -- name    : GlobalTheory.matrixGaussSum_singular_and_invertible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:28:47.637419+00:00
 -- url     : https://prove2.me/theorems/d7893632-384c-406c-ae6d-71c4c2954c45

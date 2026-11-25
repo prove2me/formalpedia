@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_sep_of_four
 -- name    : Formalism.FourierDecayAlt.P.PBD.sep_of_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:57:52.858734+00:00
 -- url     : https://prove2.me/theorems/27343751-333d-432a-a329-17eff46e6d7a

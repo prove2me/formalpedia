@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_det_resHom
 -- name    : GroundTheory.Automorphic.Anisotropic.det_resHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:47:10.582097+00:00
 -- url     : https://prove2.me/theorems/864ce618-1aa5-5a01-9a3a-953e2d466a70

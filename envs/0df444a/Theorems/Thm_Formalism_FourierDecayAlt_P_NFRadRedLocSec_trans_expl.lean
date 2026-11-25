@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFRadRedLocSec_trans_expl
 -- name    : Formalism.FourierDecayAlt.P.NFRadRedLocSec.trans_expl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:49:21.862483+00:00
 -- url     : https://prove2.me/theorems/ce760e6e-c01b-4d08-ae3b-c0cd8824eff7

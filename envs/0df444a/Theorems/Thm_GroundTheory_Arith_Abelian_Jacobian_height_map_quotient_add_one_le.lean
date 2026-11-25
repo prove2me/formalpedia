@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_Jacobian_height_map_quotient_add_one_le
 -- name    : GroundTheory.Arith.Abelian.Jacobian.height_map_quotient_add_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:46:06.745155+00:00
 -- url     : https://prove2.me/theorems/a7c27569-ddca-4d6a-84ed-ed491edc59aa

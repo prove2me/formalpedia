@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_HeightOneIntersection_hypotheses_inhabited_3dd7cb22c212
 -- name    : P2M_GroundTheory_Heights__Heights_Model_HeightOneIntersection_hypotheses_inhabited_3dd7cb22c212
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:44:08.884634+00:00
 -- url     : https://prove2.me/theorems/27f1662a-d69e-59c9-9900-1a5b8f9b1c87

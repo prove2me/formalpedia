@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_LogDetDerivative_intersectionNumber_baseChange_380f38d27535
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_LogDetDerivative_intersectionNumber_baseChange_380f38d27535
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:32:19.344426+00:00
 -- url     : https://prove2.me/theorems/811d0aeb-e242-4d87-884c-5f646baf9d71

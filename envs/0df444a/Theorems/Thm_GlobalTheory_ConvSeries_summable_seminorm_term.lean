@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSeries_summable_seminorm_term
 -- name    : GlobalTheory.ConvSeries.summable_seminorm_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:08:09.178723+00:00
 -- url     : https://prove2.me/theorems/b75f4d3e-a23a-4b39-810e-c65db26cc8d9

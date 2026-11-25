@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PluckerAffineCover_multiConeMap_rename0_a76163a15ff8
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PluckerAffineCover_multiConeMap_rename0_a76163a15ff8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:37:40.944154+00:00
 -- url     : https://prove2.me/theorems/f9f8370b-9d17-417d-9464-37b800d31916

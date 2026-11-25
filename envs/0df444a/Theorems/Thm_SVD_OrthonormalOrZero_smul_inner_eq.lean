@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_OrthonormalOrZero_smul_inner_eq
 -- name    : SVD.OrthonormalOrZero.smul_inner_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:07:03.078405+00:00
 -- url     : https://prove2.me/theorems/61b5da55-b729-4b7e-97bd-4840ca22e973

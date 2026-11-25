@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_fixedFieldMulEquiv_smul_ringOfIntegers
 -- name    : GroundTheory.Global.Artin.fixedFieldMulEquiv_smul_ringOfIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:47:38.415879+00:00
 -- url     : https://prove2.me/theorems/848b79f5-c817-420b-8ad2-97b54014028f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeIndep_cellMon_monomial_bdac4391f48a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeIndep_cellMon_monomial_bdac4391f48a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:36:15.319189+00:00
 -- url     : https://prove2.me/theorems/83d96b8b-4016-5af2-ad83-58e2dcd482bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliLocality_hpart1_mem
 -- name    : GlobalTheory.CapelliLocality.hpart1_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:48:59.905472+00:00
 -- url     : https://prove2.me/theorems/bd6708d4-0cf0-5c1e-b543-3254800d066a

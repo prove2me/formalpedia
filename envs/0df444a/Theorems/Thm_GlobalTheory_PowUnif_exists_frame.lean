@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowUnif_exists_frame
 -- name    : GlobalTheory.PowUnif.exists_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:53:34.006383+00:00
 -- url     : https://prove2.me/theorems/7bc21643-7df7-435a-b484-a77ff55e264d

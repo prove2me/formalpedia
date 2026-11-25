@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Cell_exists_near_representation
 -- name    : Formalism.HermitianLattices.Ext.L3.Cell.exists_near_representation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:17:12.000576+00:00
 -- url     : https://prove2.me/theorems/7039a275-85d7-5114-a14c-83d826538bd1

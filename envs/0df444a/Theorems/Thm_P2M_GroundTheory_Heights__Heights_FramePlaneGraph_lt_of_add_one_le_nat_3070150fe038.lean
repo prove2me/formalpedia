@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FramePlaneGraph_lt_of_add_one_le_nat_3070150fe038
 -- name    : P2M_GroundTheory_Heights__Heights_FramePlaneGraph_lt_of_add_one_le_nat_3070150fe038
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:36:57.381684+00:00
 -- url     : https://prove2.me/theorems/fa73bfc3-b4f4-4246-a871-6be9459c98d9

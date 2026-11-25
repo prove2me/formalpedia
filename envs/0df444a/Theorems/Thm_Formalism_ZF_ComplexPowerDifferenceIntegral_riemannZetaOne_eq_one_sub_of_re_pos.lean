@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_ComplexPowerDifferenceIntegral_riemannZetaOne_eq_one_sub_of_re_pos
 -- name    : Formalism.ZF.ComplexPowerDifferenceIntegral.riemannZetaOne_eq_one_sub_of_re_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:35:53.842601+00:00
 -- url     : https://prove2.me/theorems/45674b78-18f0-4884-8315-2920a59045e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_WeightedLenSmul_vecAt_smul_b03500ff132f
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_WeightedLenSmul_vecAt_smul_b03500ff132f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:39:46.48282+00:00
 -- url     : https://prove2.me/theorems/50cd9c50-093c-4201-b71f-f65e454f5732

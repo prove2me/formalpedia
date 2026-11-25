@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gram_matrix_product_formula
 -- name    : Formalism.HermitianLatticeCounting.P.gram_matrix_product_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:34:13.764875+00:00
 -- url     : https://prove2.me/theorems/a10780a1-7790-4f51-9910-c3a1cbbf0852

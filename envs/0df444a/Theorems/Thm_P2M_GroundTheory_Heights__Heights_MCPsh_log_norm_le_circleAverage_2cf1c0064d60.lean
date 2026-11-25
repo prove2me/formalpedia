@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCPsh_log_norm_le_circleAverage_2cf1c0064d60
 -- name    : P2M_GroundTheory_Heights__Heights_MCPsh_log_norm_le_circleAverage_2cf1c0064d60
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:47:36.581203+00:00
 -- url     : https://prove2.me/theorems/e15c0df3-26f1-43fb-88ee-dc9f3f9a8dc4

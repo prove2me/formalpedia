@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_chartZ_natCast_d9230e02c1d5
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_chartZ_natCast_d9230e02c1d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:33:11.601394+00:00
 -- url     : https://prove2.me/theorems/8e9b70ed-886a-49d3-8889-656e0f4c99af

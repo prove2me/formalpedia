@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMax_mem_orbitIdeal_of_aeval_eq_zero_420291cb19c8
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMax_mem_orbitIdeal_of_aeval_eq_zero_420291cb19c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:00.412499+00:00
 -- url     : https://prove2.me/theorems/dc08f5ee-97a0-4355-9d1a-e99536e401e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsCharacter_exists_nat_one
 -- name    : GroundTheory.LocalField.IsCharacter.exists_nat_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:34:52.789726+00:00
 -- url     : https://prove2.me/theorems/8a4d4520-9520-59f5-8086-b42754d23e5f

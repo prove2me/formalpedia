@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_ringEquiv_extending_of_ker_le__5ea22eb2e57f
 -- name    : P2M_GlobalTheory_T_exists_ringEquiv_extending_of_ker_le__5ea22eb2e57f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:37:36.850662+00:00
 -- url     : https://prove2.me/theorems/ecc61f78-1192-437e-b956-c1f068cec738

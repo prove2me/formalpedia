@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DivisorOneComponent_isClosed_zeroSet_e95e7da77948
 -- name    : P2M_GroundTheory_Heights__Heights_DivisorOneComponent_isClosed_zeroSet_e95e7da77948
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:39:07.854164+00:00
 -- url     : https://prove2.me/theorems/11d618ba-8d72-48eb-b642-8d7ed7b42fdb

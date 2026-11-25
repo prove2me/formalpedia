@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Split_biextension_vanishes_split
 -- name    : Formalism.L2.Th1.B.Split.biextension_vanishes_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:48:10.155921+00:00
 -- url     : https://prove2.me/theorems/b0beddfe-ee19-4982-b141-24803790b1bb

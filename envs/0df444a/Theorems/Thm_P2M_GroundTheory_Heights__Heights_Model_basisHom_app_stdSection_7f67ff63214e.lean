@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_basisHom_app_stdSection_7f67ff63214e
 -- name    : P2M_GroundTheory_Heights__Heights_Model_basisHom_app_stdSection_7f67ff63214e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:28.432132+00:00
 -- url     : https://prove2.me/theorems/2277e5dd-d106-45e0-a244-99426b67c8cd

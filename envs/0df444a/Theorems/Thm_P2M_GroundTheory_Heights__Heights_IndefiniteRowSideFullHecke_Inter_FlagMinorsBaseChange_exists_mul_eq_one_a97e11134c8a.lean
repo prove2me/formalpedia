@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagMinorsBaseChange_exists_mul_eq_one_a97e11134c8a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagMinorsBaseChange_exists_mul_eq_one_a97e11134c8a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:46:51.16126+00:00
 -- url     : https://prove2.me/theorems/be68efac-1977-588c-b468-da91d797fbff

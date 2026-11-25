@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_derivative_lowers_degree
 -- name    : Formalism.InvariantFactorPaths.L4.derivative_lowers_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:55:27.966377+00:00
 -- url     : https://prove2.me/theorems/62847505-d28b-4741-b8cd-17575d0eecee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_JacobianRankGeneric_kaehler_D_aeval_da53b3b7fe57
 -- name    : P2M_GroundTheory_Heights__Heights_JacobianRankGeneric_kaehler_D_aeval_da53b3b7fe57
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:46:05.814276+00:00
 -- url     : https://prove2.me/theorems/a958fbc9-fac5-4fce-affe-b06849157652

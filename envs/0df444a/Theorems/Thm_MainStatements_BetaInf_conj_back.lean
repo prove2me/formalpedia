@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MainStatements_BetaInf_conj_back
 -- name    : MainStatements.BetaInf.conj_back
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:37:36.98928+00:00
 -- url     : https://prove2.me/theorems/81ed339d-ee94-4cf9-9579-f9b38332e7c0

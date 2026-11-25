@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_Axes_jEq_iff_order
 -- name    : GlobalTheory.ChartCmp.Axes.jEq_iff_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:28:02.554582+00:00
 -- url     : https://prove2.me/theorems/99b310d9-1d92-58e7-8d7c-d758592ee8e2

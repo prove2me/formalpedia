@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_BoundedInverseCompact_norm_mul_apply_le_0a1fce1ba032
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_BoundedInverseCompact_norm_mul_apply_le_0a1fce1ba032
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:39:43.19696+00:00
 -- url     : https://prove2.me/theorems/cadc216d-ae09-4b37-84ea-bbb6564f2cf0

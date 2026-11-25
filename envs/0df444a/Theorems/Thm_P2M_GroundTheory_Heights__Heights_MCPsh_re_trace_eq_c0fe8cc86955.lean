@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCPsh_re_trace_eq_c0fe8cc86955
 -- name    : P2M_GroundTheory_Heights__Heights_MCPsh_re_trace_eq_c0fe8cc86955
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:48:12.250908+00:00
 -- url     : https://prove2.me/theorems/6c1d55fe-9e3b-49df-aea1-e8e06cbfedb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_A_More_map_g__846035df1560
 -- name    : P2M_Formalism_L2_Th1_A_More_map_g__846035df1560
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:37:35.682092+00:00
 -- url     : https://prove2.me/theorems/39b62b2e-d44d-4d89-a4c1-f7f2e858667b

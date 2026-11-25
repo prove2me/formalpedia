@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GenSESStep_cellMon_homog_9faa70fa300d
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GenSESStep_cellMon_homog_9faa70fa300d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:20.933333+00:00
 -- url     : https://prove2.me/theorems/a88a5a51-54bb-4993-943d-dd7e5bc46ef4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_finite_integralClosure_mvPolynomial_of_charZero_f3c1cd062f3c
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_finite_integralClosure_mvPolynomial_of_charZero_f3c1cd062f3c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:01:17.452581+00:00
 -- url     : https://prove2.me/theorems/b630b5ec-3726-47f4-a053-d0c399547b50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_conj_harm_of_span__62df867434b0
 -- name    : P2M_GlobalTheory_T_exists_conj_harm_of_span__62df867434b0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:11:33.557809+00:00
 -- url     : https://prove2.me/theorems/bc062b1a-6e6a-4b56-a043-57c8ce3af29e

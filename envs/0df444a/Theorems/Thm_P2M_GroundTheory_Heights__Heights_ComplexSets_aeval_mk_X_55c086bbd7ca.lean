@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_aeval_mk_X_55c086bbd7ca
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_aeval_mk_X_55c086bbd7ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:38:35.25923+00:00
 -- url     : https://prove2.me/theorems/5ba98816-097c-4109-ab85-65994e47e213

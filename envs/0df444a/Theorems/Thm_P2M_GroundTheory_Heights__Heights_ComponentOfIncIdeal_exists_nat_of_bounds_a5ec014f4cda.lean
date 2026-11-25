@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComponentOfIncIdeal_exists_nat_of_bounds_a5ec014f4cda
 -- name    : P2M_GroundTheory_Heights__Heights_ComponentOfIncIdeal_exists_nat_of_bounds_a5ec014f4cda
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:38:33.074479+00:00
 -- url     : https://prove2.me/theorems/518b184b-8ba6-425c-a331-5bcaad4b37cb

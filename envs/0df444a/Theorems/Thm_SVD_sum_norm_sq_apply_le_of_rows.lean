@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_sum_norm_sq_apply_le_of_rows
 -- name    : SVD.sum_norm_sq_apply_le_of_rows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:06:27.811816+00:00
 -- url     : https://prove2.me/theorems/00d7c29a-8721-4395-bcfe-3a9d884bfd9a

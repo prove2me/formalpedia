@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_DiscOrder_dual_covBy
 -- name    : GlobalTheory.Mass.DiscOrder.dual_covBy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:31:59.185987+00:00
 -- url     : https://prove2.me/theorems/1d816a02-03fb-4678-80a7-68e335b48ae2

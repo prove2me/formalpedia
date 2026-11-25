@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_WeightedIndexBound_proof_f3aeb1858a2f
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_WeightedIndexBound_proof_f3aeb1858a2f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:42:37.301028+00:00
 -- url     : https://prove2.me/theorems/45bdfdd2-647d-5faf-ad23-310dbc22dd3c

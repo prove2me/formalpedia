@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_GaugeDiff_ev_trans
 -- name    : GlobalTheory.ChartCmp.GaugeDiff.ev_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:50:36.761435+00:00
 -- url     : https://prove2.me/theorems/383e86f7-a88a-4c53-9fea-978b3e73d928

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PFHoriz_ker_eq_map_4ad68b54e07b
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PFHoriz_ker_eq_map_4ad68b54e07b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:42:40.313092+00:00
 -- url     : https://prove2.me/theorems/30086695-a86b-435d-8d0e-0ab896a486e3

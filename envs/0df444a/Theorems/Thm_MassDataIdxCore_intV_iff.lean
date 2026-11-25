@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_intV_iff
 -- name    : MassDataIdxCore.intV_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:36:53.152523+00:00
 -- url     : https://prove2.me/theorems/079d66dd-22d4-49d9-bb0e-938140922aab

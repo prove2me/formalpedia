@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_uMat_isWeightedHomogeneous_64b7e0b33f97
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_uMat_isWeightedHomogeneous_64b7e0b33f97
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:45:51.397503+00:00
 -- url     : https://prove2.me/theorems/ad7fecbd-348f-5dfd-9377-b530a593a885

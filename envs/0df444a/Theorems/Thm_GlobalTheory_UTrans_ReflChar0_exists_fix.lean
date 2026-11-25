@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_ReflChar0_exists_fix
 -- name    : GlobalTheory.UTrans.ReflChar0.exists_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:57:53.157483+00:00
 -- url     : https://prove2.me/theorems/12305503-645e-4518-8ece-3f5b1086f96b

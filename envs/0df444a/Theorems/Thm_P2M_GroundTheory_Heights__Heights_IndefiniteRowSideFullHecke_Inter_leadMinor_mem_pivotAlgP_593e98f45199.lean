@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_leadMinor_mem_pivotAlgP_593e98f45199
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_leadMinor_mem_pivotAlgP_593e98f45199
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:45:02.316284+00:00
 -- url     : https://prove2.me/theorems/26bde82e-dde6-5da1-964b-899ac65eebec

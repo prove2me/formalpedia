@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FlatNormalFibres_proof_b6c2fd15f50e
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FlatNormalFibres_proof_b6c2fd15f50e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:34.836693+00:00
 -- url     : https://prove2.me/theorems/56128c8f-0304-476d-844f-c8f7edf41d80

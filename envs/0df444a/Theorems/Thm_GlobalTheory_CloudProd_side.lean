@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CloudProd_side
 -- name    : GlobalTheory.CloudProd.side
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:24:12.868101+00:00
 -- url     : https://prove2.me/theorems/520f0724-a19e-4ca7-940f-7039baccc3da

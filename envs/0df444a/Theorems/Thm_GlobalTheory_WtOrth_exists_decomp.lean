@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WtOrth_exists_decomp
 -- name    : GlobalTheory.WtOrth.exists_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:34:41.471853+00:00
 -- url     : https://prove2.me/theorems/4eb951ab-0c44-41f9-b8d7-87d8cd868750

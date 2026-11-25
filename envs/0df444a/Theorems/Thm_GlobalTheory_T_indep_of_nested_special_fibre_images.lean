@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_indep_of_nested_special_fibre_images
 -- name    : GlobalTheory.T.indep_of_nested_special_fibre_images
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:56.098718+00:00
 -- url     : https://prove2.me/theorems/5ff4f48a-c2a3-4054-9622-50312c4fd2df

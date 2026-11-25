@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LTwoLemma_weyl_unipotent_l2_finite
 -- name    : GlobalTheory.JR.LTwoLemma.weyl_unipotent_l2_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:50:51.960271+00:00
 -- url     : https://prove2.me/theorems/bc5e85c0-8cb7-4da6-b287-4b86f73b86b7

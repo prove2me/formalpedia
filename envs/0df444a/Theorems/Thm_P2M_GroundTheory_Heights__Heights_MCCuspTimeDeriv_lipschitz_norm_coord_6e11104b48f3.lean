@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCCuspTimeDeriv_lipschitz_norm_coord_6e11104b48f3
 -- name    : P2M_GroundTheory_Heights__Heights_MCCuspTimeDeriv_lipschitz_norm_coord_6e11104b48f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:46:43.967031+00:00
 -- url     : https://prove2.me/theorems/4db41e7e-3688-4466-9613-5e6c1711ce7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_prod_X_sub_C_eq
 -- name    : GlobalTheory.exists_prod_X_sub_C_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:55:26.881793+00:00
 -- url     : https://prove2.me/theorems/524b86d9-e333-53b6-bf38-2d671a5bfab2

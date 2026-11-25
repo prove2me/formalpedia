@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartFormsRational_mem_of_mem_chartRing_7697125cad1f
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartFormsRational_mem_of_mem_chartRing_7697125cad1f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:46:23.759523+00:00
 -- url     : https://prove2.me/theorems/6b6b8b78-661e-521e-9f01-c19ccebc2b38

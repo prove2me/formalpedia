@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Pj_QAt_TieLD_ramificationIdx_ne_zero__c3cf86b65c17
 -- name    : P2M_Formalism_L2_Pj_QAt_TieLD_ramificationIdx_ne_zero__c3cf86b65c17
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:37:34.097282+00:00
 -- url     : https://prove2.me/theorems/0301e6a2-47b5-469a-b98a-d6f17bdab1bd

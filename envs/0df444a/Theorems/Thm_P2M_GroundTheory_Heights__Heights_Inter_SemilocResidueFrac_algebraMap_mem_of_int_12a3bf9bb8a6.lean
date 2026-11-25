@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueFrac_algebraMap_mem_of_int_12a3bf9bb8a6
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueFrac_algebraMap_mem_of_int_12a3bf9bb8a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:51:30.997574+00:00
 -- url     : https://prove2.me/theorems/66c84e76-cac6-5dc6-8903-95d543cc0aab

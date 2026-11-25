@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_PrimitiveDiscriminant_proof_372413c4aca0
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_PrimitiveDiscriminant_proof_372413c4aca0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:11:46.134804+00:00
 -- url     : https://prove2.me/theorems/2e45d274-b565-4d25-9581-c98ecc173463

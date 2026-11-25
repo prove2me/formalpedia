@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_PBG_ofFn_prod_smul__0bf769d4659b
 -- name    : P2M_Formalism_FourierDecayAlt_P_PBG_ofFn_prod_smul__0bf769d4659b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:37:53.938885+00:00
 -- url     : https://prove2.me/theorems/e67476aa-820e-408d-80b8-fea4b25936eb

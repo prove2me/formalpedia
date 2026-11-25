@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BundleExamples_exists_const_iff_dedd20248e23
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BundleExamples_exists_const_iff_dedd20248e23
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:32.01613+00:00
 -- url     : https://prove2.me/theorems/f42315ec-0b6e-4104-b460-3b2ede495e6a

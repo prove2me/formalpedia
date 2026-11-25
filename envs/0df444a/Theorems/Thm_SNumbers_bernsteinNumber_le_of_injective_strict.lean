@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bernsteinNumber_le_of_injective_strict
 -- name    : SNumbers.bernsteinNumber_le_of_injective_strict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:11:46.980064+00:00
 -- url     : https://prove2.me/theorems/4526c31f-6044-5766-8164-e62bfdefae89

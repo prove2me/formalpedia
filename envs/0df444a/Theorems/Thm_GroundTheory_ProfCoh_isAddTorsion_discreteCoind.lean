@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isAddTorsion_discreteCoind
 -- name    : GroundTheory.ProfCoh.isAddTorsion_discreteCoind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:33:29.469561+00:00
 -- url     : https://prove2.me/theorems/2336ebfe-f48c-4207-aa59-a041b98f1fd5

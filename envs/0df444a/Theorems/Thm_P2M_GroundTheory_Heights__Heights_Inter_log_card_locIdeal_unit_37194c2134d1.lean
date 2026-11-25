@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_log_card_locIdeal_unit_37194c2134d1
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_log_card_locIdeal_unit_37194c2134d1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:33:55.821846+00:00
 -- url     : https://prove2.me/theorems/b2fbebb0-c56a-58e7-8200-b82dbe9108cf

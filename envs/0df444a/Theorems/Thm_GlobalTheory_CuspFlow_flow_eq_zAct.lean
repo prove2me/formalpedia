@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspFlow_flow_eq_zAct
 -- name    : GlobalTheory.CuspFlow.flow_eq_zAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:40:13.154723+00:00
 -- url     : https://prove2.me/theorems/07b6e4d2-9ddb-5388-9aab-4fcf9a5454d8

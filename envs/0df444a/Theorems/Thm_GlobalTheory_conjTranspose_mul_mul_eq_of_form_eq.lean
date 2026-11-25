@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_conjTranspose_mul_mul_eq_of_form_eq
 -- name    : GlobalTheory.conjTranspose_mul_mul_eq_of_form_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:34:33.291212+00:00
 -- url     : https://prove2.me/theorems/b9ba74f0-7bda-4372-b8bd-9518c3ef3370

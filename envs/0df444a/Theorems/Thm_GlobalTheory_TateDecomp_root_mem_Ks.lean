@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_root_mem_Ks
 -- name    : GlobalTheory.TateDecomp.root_mem_Ks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:51:43.959341+00:00
 -- url     : https://prove2.me/theorems/54284a8f-945c-5dc2-aeb4-1aba4e2c716c

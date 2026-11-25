@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MaDensLogPow_det_eq_zero_of_rows_smul_c90b5b458b1e
 -- name    : P2M_GroundTheory_Heights__Heights_MaDensLogPow_det_eq_zero_of_rows_smul_c90b5b458b1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:49:45.56153+00:00
 -- url     : https://prove2.me/theorems/9a7e1a11-7c99-41db-a7bf-ebd0129a25d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ae_eval__ne_zero_of_countable_9703a96fed7c
 -- name    : P2M_GlobalTheory_ae_eval__ne_zero_of_countable_9703a96fed7c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:37:47.112662+00:00
 -- url     : https://prove2.me/theorems/84874a09-2397-428a-80f9-cfe3d5edce62

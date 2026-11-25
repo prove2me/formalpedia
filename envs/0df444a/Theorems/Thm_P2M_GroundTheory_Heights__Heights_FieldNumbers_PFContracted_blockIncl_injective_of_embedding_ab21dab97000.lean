@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_blockIncl_injective_of_embedding_ab21dab97000
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_blockIncl_injective_of_embedding_ab21dab97000
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:39:19.923403+00:00
 -- url     : https://prove2.me/theorems/01251a5c-df16-4375-a186-47345d4b9344

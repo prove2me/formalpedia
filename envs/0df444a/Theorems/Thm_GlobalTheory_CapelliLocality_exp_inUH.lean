@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliLocality_exp_inUH
 -- name    : GlobalTheory.CapelliLocality.exp_inUH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:50:34.230241+00:00
 -- url     : https://prove2.me/theorems/b38c73ee-f2bc-4a4e-bd06-93cc6194bc6e

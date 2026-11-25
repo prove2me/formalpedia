@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain6_inputs_third_to_second
 -- name    : Formalism.LFunctionChainParameters.LChain6.inputs_third_to_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:49:07.215382+00:00
 -- url     : https://prove2.me/theorems/17aafad8-e80c-5fea-a560-a25e88f0c8df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_exists_prim
 -- name    : GlobalTheory.TateDecomp.exists_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:52:02.313161+00:00
 -- url     : https://prove2.me/theorems/fda278ff-f605-54e8-8729-1f1881559026

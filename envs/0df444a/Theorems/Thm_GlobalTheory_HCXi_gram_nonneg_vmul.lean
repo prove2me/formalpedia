@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_gram_nonneg_vmul
 -- name    : GlobalTheory.HCXi.gram_nonneg_vmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:50:39.89685+00:00
 -- url     : https://prove2.me/theorems/853baf8b-bffc-4472-a2ba-1be8d8703a79

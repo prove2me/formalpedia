@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_tateAcyclic_augSES_tensorLeft_X__fbb3989e91cd
 -- name    : P2M_GroundTheory_GroupCoh_tateAcyclic_augSES_tensorLeft_X__fbb3989e91cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:38:43.356478+00:00
 -- url     : https://prove2.me/theorems/86794ded-926e-4cc4-8b62-2ca679c92771

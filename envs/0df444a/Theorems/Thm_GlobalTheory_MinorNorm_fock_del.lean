@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_fock_del
 -- name    : GlobalTheory.MinorNorm.fock_del
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:27:11.875224+00:00
 -- url     : https://prove2.me/theorems/35ae8f4e-ad08-45a4-b1fc-589189872c4e

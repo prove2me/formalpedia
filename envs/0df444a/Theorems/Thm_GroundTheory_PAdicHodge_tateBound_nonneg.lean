@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_tateBound_nonneg
 -- name    : GroundTheory.PAdicHodge.tateBound_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:33:46.456275+00:00
 -- url     : https://prove2.me/theorems/0dfa1b08-4f2d-45bd-9ba4-f976cb9054c1

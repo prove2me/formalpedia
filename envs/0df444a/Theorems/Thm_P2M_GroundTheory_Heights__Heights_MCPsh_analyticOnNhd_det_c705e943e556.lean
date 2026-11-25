@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCPsh_analyticOnNhd_det_c705e943e556
 -- name    : P2M_GroundTheory_Heights__Heights_MCPsh_analyticOnNhd_det_c705e943e556
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:47:34.523016+00:00
 -- url     : https://prove2.me/theorems/823807c8-8a8d-526d-b191-b9c1020d0407

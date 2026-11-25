@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_ambientAction_idempotent_19a0aea92b0d
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_ambientAction_idempotent_19a0aea92b0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:37:03.757809+00:00
 -- url     : https://prove2.me/theorems/072e3b9c-4105-4a9c-b83c-0b41efd58230

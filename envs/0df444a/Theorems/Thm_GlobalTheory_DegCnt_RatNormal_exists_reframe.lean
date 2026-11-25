@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_RatNormal_exists_reframe
 -- name    : GlobalTheory.DegCnt.RatNormal.exists_reframe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:45.949288+00:00
 -- url     : https://prove2.me/theorems/50d33453-4b79-56be-8493-56b69787f6d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_gal_mem_cyclotomicLimit
 -- name    : GroundTheory.PAdicHodge.gal_mem_cyclotomicLimit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:32:41.64766+00:00
 -- url     : https://prove2.me/theorems/87ad95e6-5157-4d73-8e94-290e3e22d55f

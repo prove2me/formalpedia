@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_card_adm
 -- name    : PretorsionImageClosed.LinearQuiver.card_adm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:08:05.562323+00:00
 -- url     : https://prove2.me/theorems/9397dce3-f40c-5379-ba7e-3c328d95e6e2

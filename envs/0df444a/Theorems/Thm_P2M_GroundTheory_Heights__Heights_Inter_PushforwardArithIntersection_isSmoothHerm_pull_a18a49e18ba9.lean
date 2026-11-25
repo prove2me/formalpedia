@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PushforwardArithIntersection_isSmoothHerm_pull_a18a49e18ba9
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PushforwardArithIntersection_isSmoothHerm_pull_a18a49e18ba9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:46:43.382938+00:00
 -- url     : https://prove2.me/theorems/b2aa7001-5c29-5187-bf8c-11c47dc4a969

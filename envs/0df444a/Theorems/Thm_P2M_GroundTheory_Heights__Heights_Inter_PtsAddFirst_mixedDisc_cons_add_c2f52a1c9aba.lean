@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PtsAddFirst_mixedDisc_cons_add_c2f52a1c9aba
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PtsAddFirst_mixedDisc_cons_add_c2f52a1c9aba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:42:20.763818+00:00
 -- url     : https://prove2.me/theorems/a17b52b3-bff7-4a4c-81d4-1bbd4a3e6e36

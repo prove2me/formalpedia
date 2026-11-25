@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagPull_mem_minimalPrimes_of_cross_a4bf0f01ea5d
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagPull_mem_minimalPrimes_of_cross_a4bf0f01ea5d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:29:12.585698+00:00
 -- url     : https://prove2.me/theorems/5c9e0c4b-fefa-5564-9cb1-ea9ea4ab2c95

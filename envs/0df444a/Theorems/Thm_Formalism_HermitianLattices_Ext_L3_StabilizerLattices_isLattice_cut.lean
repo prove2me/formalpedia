@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_StabilizerLattices_isLattice_cut
 -- name    : Formalism.HermitianLattices.Ext.L3.StabilizerLattices.isLattice_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:55:38.430902+00:00
 -- url     : https://prove2.me/theorems/17187e02-0b5c-5ecc-a4c4-304983e7f498

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_isMultiHomog_X_zero_b47684ca621c
 -- name    : P2M_GroundTheory_Heights__Heights_Model_isMultiHomog_X_zero_b47684ca621c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:34:10.643322+00:00
 -- url     : https://prove2.me/theorems/b51b27d7-5f91-4953-9f91-c6e7c63a5d3b

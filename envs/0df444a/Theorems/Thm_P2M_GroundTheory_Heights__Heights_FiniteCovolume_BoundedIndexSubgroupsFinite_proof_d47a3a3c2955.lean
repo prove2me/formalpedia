@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_BoundedIndexSubgroupsFinite_proof_d47a3a3c2955
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_BoundedIndexSubgroupsFinite_proof_d47a3a3c2955
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:01:45.356573+00:00
 -- url     : https://prove2.me/theorems/84f59e71-f7a0-4d43-a828-fc485372ddb4

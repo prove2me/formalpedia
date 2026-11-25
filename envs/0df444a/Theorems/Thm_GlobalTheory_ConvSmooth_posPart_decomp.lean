@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSmooth_posPart_decomp
 -- name    : GlobalTheory.ConvSmooth.posPart_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:39:05.994093+00:00
 -- url     : https://prove2.me/theorems/8e1ef6a9-1d33-4995-81e4-8b8eb9d2b15b

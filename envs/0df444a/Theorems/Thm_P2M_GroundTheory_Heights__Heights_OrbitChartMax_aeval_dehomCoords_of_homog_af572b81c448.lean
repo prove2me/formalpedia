@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMax_aeval_dehomCoords_of_homog_af572b81c448
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMax_aeval_dehomCoords_of_homog_af572b81c448
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:34:03.830583+00:00
 -- url     : https://prove2.me/theorems/ee99e2e8-8c00-4b89-8012-2d8384591de5

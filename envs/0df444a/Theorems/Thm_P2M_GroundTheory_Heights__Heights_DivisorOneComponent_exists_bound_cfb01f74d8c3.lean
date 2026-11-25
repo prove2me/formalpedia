@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DivisorOneComponent_exists_bound_cfb01f74d8c3
 -- name    : P2M_GroundTheory_Heights__Heights_DivisorOneComponent_exists_bound_cfb01f74d8c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:39:13.853643+00:00
 -- url     : https://prove2.me/theorems/78f0405e-f07f-4a4f-b199-194159ecc849

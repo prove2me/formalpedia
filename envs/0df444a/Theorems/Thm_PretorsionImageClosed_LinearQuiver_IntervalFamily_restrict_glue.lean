@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_IntervalFamily_restrict_glue
 -- name    : PretorsionImageClosed.LinearQuiver.IntervalFamily.restrict_glue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:08:45.912416+00:00
 -- url     : https://prove2.me/theorems/8cf703d0-3daf-45ff-9d41-4cc1742ffde6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeRhamCompare_co_tmul
 -- name    : GlobalTheory.DeRhamCompare.co_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:51:57.784957+00:00
 -- url     : https://prove2.me/theorems/ee50e5fc-e210-4ef1-af85-147b55d94bf2

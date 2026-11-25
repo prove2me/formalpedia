@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_tscForm_apply
 -- name    : Formalism.L2.G.Model.TS.tscForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:57:32.360133+00:00
 -- url     : https://prove2.me/theorems/91f9dc89-51a2-5a9d-a694-857ec091e968

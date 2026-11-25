@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCPsh_circleAverage_of_analytic_5753593141aa
 -- name    : P2M_GroundTheory_Heights__Heights_MCPsh_circleAverage_of_analytic_5753593141aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:47:44.42656+00:00
 -- url     : https://prove2.me/theorems/64b104f2-b1c3-54b1-af33-8a6b9acb7d12

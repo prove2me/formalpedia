@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_omega_baseChange_bijective_of_p_eq_zero
 -- name    : GlobalTheory.T.omega_baseChange_bijective_of_p_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:12:31.833905+00:00
 -- url     : https://prove2.me/theorems/34d05232-1dce-464e-a071-6322078aa943

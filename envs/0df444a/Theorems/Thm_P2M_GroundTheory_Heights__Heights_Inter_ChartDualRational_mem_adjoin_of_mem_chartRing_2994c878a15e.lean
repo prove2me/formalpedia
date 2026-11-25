@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartDualRational_mem_adjoin_of_mem_chartRing_2994c878a15e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartDualRational_mem_adjoin_of_mem_chartRing_2994c878a15e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:46:09.922002+00:00
 -- url     : https://prove2.me/theorems/ae44c335-fc12-5caf-b271-2b04ffc87bb5

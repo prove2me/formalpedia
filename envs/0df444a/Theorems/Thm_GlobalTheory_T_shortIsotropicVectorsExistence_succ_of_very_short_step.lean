@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_shortIsotropicVectorsExistence_succ_of_very_short_step
 -- name    : GlobalTheory.T.shortIsotropicVectorsExistence_succ_of_very_short_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:57:38.890045+00:00
 -- url     : https://prove2.me/theorems/fd4fba1c-f482-4ac6-9057-35783bc685f1

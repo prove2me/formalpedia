@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ConeTrdegFnField_trdeg_eq_of_le_of_isAlgebraic_983b32a504c5
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ConeTrdegFnField_trdeg_eq_of_le_of_isAlgebraic_983b32a504c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:30:59.546487+00:00
 -- url     : https://prove2.me/theorems/cf88d013-a559-476c-a3b6-7a9a3fbf4d68

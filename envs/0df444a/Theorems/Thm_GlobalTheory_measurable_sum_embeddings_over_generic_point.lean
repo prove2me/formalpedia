@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_measurable_sum_embeddings_over_generic_point
 -- name    : GlobalTheory.measurable_sum_embeddings_over_generic_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:55:50.708724+00:00
 -- url     : https://prove2.me/theorems/1be600b3-c164-4d8a-90ce-749d05ba5853

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_one_le_norm_embedding_a7bf02bfbb23
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_one_le_norm_embedding_a7bf02bfbb23
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:42:00.761801+00:00
 -- url     : https://prove2.me/theorems/03a5da61-abf5-4cdc-9299-b250301c4367

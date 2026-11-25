@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MatrixMultiplicationContinuity_key_bound
 -- name    : Formalism.FourierDecayAlt.P.MatrixMultiplicationContinuity.key_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:34:35.048841+00:00
 -- url     : https://prove2.me/theorems/6054e630-5e80-47b2-910f-850e9e827045

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagPivotIdentity_sum_castLE_6bb839077312
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagPivotIdentity_sum_castLE_6bb839077312
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:41:36.029746+00:00
 -- url     : https://prove2.me/theorems/aa7062b7-b5ea-5057-a58e-d12d3c589457

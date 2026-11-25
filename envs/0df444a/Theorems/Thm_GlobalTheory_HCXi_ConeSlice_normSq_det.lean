@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeSlice_normSq_det
 -- name    : GlobalTheory.HCXi.ConeSlice.normSq_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:39:35.645943+00:00
 -- url     : https://prove2.me/theorems/8c989627-2546-54b4-96b4-214562fec0b0

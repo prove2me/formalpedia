@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_funEquivMonoidAlgebra_funPermRep
 -- name    : GroundTheory.Global.funEquivMonoidAlgebra_funPermRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:38:09.142654+00:00
 -- url     : https://prove2.me/theorems/3bcb0159-d6b6-4639-b726-fa3777ac39fb

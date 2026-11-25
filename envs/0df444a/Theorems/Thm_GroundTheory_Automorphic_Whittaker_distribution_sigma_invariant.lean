@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_distribution_sigma_invariant
 -- name    : GroundTheory.Automorphic.Whittaker.distribution_sigma_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:40:48.525724+00:00
 -- url     : https://prove2.me/theorems/b2f52267-8568-4ec5-aaa9-de6578973b0a

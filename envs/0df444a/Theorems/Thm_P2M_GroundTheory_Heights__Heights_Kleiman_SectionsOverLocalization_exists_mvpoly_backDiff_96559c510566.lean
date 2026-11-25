@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_exists_mvpoly_backDiff_96559c510566
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_exists_mvpoly_backDiff_96559c510566
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:28:24.010422+00:00
 -- url     : https://prove2.me/theorems/2b10d5a1-6dbd-586b-84b9-205d5407bbbf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_card_ltPairs_48f6c2476ca5
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_card_ltPairs_48f6c2476ca5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:44:57.304823+00:00
 -- url     : https://prove2.me/theorems/17b8dfe2-84b5-5a97-8da3-163a6aef3ccc

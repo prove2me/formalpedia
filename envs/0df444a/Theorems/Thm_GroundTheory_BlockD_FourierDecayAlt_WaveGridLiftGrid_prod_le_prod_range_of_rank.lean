@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_WaveGridLiftGrid_prod_le_prod_range_of_rank
 -- name    : GroundTheory.BlockD.FourierDecayAlt.WaveGridLiftGrid.prod_le_prod_range_of_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:34:38.624478+00:00
 -- url     : https://prove2.me/theorems/23a0e766-0967-524e-8602-d24e947f1ff1

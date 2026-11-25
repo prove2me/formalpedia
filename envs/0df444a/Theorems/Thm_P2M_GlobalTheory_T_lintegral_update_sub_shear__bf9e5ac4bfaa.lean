@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_lintegral_update_sub_shear__bf9e5ac4bfaa
 -- name    : P2M_GlobalTheory_T_lintegral_update_sub_shear__bf9e5ac4bfaa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:37:46.546034+00:00
 -- url     : https://prove2.me/theorems/807d5465-e868-4a1b-96a3-c424ca6e754f

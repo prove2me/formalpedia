@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_map_mulEquiv
 -- name    : Formalism.FourierDecayAlt.P.PBK.map_mulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:54:52.25631+00:00
 -- url     : https://prove2.me/theorems/7e434db3-6b9f-5e8d-8747-221977d73f0f

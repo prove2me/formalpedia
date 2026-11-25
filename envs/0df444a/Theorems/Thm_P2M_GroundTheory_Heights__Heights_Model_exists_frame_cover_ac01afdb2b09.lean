@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_exists_frame_cover_ac01afdb2b09
 -- name    : P2M_GroundTheory_Heights__Heights_Model_exists_frame_cover_ac01afdb2b09
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:30:01.572238+00:00
 -- url     : https://prove2.me/theorems/25f29c70-5fa2-4331-9706-66c721d9ca88

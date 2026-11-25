@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LeviZero_leviV_sum__12cf4af592ec
 -- name    : P2M_GlobalTheory_LeviZero_leviV_sum__12cf4af592ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:37:21.719714+00:00
 -- url     : https://prove2.me/theorems/02bf22fc-9696-569a-8c85-06143e478de8

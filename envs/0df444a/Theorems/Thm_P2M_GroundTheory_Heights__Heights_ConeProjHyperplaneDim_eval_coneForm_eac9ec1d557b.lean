@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeProjHyperplaneDim_eval_coneForm_eac9ec1d557b
 -- name    : P2M_GroundTheory_Heights__Heights_ConeProjHyperplaneDim_eval_coneForm_eac9ec1d557b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:38:49.815967+00:00
 -- url     : https://prove2.me/theorems/a46f5cb8-039d-4e68-a716-29d7ce6ce64c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_exists_vars_isTranscendenceBasis_40c8cc02b5cb
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_exists_vars_isTranscendenceBasis_40c8cc02b5cb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:38:16.973546+00:00
 -- url     : https://prove2.me/theorems/8da086cd-1e8c-40b6-9e22-e3eb1607de09

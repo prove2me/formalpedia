@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBL_ae_ne_zero_complex
 -- name    : Formalism.FourierDecayAlt.P.PBL.ae_ne_zero_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:42:45.880296+00:00
 -- url     : https://prove2.me/theorems/f2dd15d9-859c-50a4-b5bc-8df245d7cca4

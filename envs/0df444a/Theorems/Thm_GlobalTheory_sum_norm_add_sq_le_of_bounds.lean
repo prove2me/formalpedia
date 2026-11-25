@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_norm_add_sq_le_of_bounds
 -- name    : GlobalTheory.sum_norm_add_sq_le_of_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:34:34.956547+00:00
 -- url     : https://prove2.me/theorems/994fc740-26fd-4098-a980-d911aec42396

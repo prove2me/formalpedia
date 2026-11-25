@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dehomogenisation_isRadical_and_torsionFree
 -- name    : GlobalTheory.dehomogenisation_isRadical_and_torsionFree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:14:45.382531+00:00
 -- url     : https://prove2.me/theorems/27ffdd75-7c69-4758-a26e-227f7cab675d

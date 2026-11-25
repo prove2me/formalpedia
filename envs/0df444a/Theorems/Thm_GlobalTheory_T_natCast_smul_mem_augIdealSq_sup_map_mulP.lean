@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_natCast_smul_mem_augIdealSq_sup_map_mulP
 -- name    : GlobalTheory.T.natCast_smul_mem_augIdealSq_sup_map_mulP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:13:13.205062+00:00
 -- url     : https://prove2.me/theorems/94e7f7f3-d893-45e0-8979-f51868ecb67b

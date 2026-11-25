@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncIdealSeparate_proof_d29a97c00fa0
 -- name    : P2M_GroundTheory_Heights__Heights_IncIdealSeparate_proof_d29a97c00fa0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:49:48.000432+00:00
 -- url     : https://prove2.me/theorems/7f585f4d-eb0a-5ba8-97cd-b1ed04b9db86

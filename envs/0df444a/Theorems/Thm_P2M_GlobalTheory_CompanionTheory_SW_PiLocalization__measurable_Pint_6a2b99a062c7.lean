@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__measurable_Pint_6a2b99a062c7
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__measurable_Pint_6a2b99a062c7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:03:56.003073+00:00
 -- url     : https://prove2.me/theorems/3b7c8b34-4c05-4163-bb30-6a9f09c941b7

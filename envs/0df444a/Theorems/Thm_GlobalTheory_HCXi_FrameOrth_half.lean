@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_FrameOrth_half
 -- name    : GlobalTheory.HCXi.FrameOrth.half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:55:18.958456+00:00
 -- url     : https://prove2.me/theorems/dc4292f8-4b38-4029-b281-cec1e4800dc2

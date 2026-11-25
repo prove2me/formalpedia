@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCLogDetGramDeriv_key_bound_462b1424da6d
 -- name    : P2M_GroundTheory_Heights__Heights_MCLogDetGramDeriv_key_bound_462b1424da6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:46:16.725503+00:00
 -- url     : https://prove2.me/theorems/ae5e4134-0140-4da2-92a9-c0a8459903e0

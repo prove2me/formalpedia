@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCPsh_continuousOn_inv_of_posDef_a099a701d7dc
 -- name    : P2M_GroundTheory_Heights__Heights_MCPsh_continuousOn_inv_of_posDef_a099a701d7dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:47:18.026038+00:00
 -- url     : https://prove2.me/theorems/0a52c07c-2336-4927-a085-6d498760d8ed

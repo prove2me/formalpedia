@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_Coord_exists_coord
 -- name    : GlobalTheory.ChartCmp.Coord.exists_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:04:22.038705+00:00
 -- url     : https://prove2.me/theorems/09e71815-9628-5af9-bdea-fc4ab74ddf39

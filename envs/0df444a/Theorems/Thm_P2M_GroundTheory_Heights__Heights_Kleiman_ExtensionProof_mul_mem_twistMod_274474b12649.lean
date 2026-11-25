@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ExtensionProof_mul_mem_twistMod_274474b12649
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ExtensionProof_mul_mem_twistMod_274474b12649
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:27:34.663861+00:00
 -- url     : https://prove2.me/theorems/8bc8906b-806c-476c-bffc-ec72d017a108

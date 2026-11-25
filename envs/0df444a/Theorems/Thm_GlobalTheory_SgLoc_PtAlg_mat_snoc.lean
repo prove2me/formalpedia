@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_PtAlg_mat_snoc
 -- name    : GlobalTheory.SgLoc.PtAlg.mat_snoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:30:17.578418+00:00
 -- url     : https://prove2.me/theorems/5086f53a-75f1-48c6-a2a3-2e3aef4003b3

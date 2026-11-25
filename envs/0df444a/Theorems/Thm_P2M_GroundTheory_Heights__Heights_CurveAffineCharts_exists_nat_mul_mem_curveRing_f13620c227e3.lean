@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveAffineCharts_exists_nat_mul_mem_curveRing_f13620c227e3
 -- name    : P2M_GroundTheory_Heights__Heights_CurveAffineCharts_exists_nat_mul_mem_curveRing_f13620c227e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:10.472707+00:00
 -- url     : https://prove2.me/theorems/c263e58c-8cc8-433a-86ef-c4841fdb1e2b

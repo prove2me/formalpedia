@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeLocalSheets_to_mem_fibre_71799e65f6b8
 -- name    : P2M_GroundTheory_Heights__Heights_ConeLocalSheets_to_mem_fibre_71799e65f6b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:36:12.818011+00:00
 -- url     : https://prove2.me/theorems/0158ccba-4285-4ee9-9935-3183207d434e

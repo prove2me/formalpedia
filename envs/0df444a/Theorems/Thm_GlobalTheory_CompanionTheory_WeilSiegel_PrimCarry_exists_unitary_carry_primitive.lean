@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_PrimCarry_exists_unitary_carry_primitive
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.PrimCarry.exists_unitary_carry_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:04:47.340618+00:00
 -- url     : https://prove2.me/theorems/99e326e2-58e4-4a1a-aba6-6107b095b931

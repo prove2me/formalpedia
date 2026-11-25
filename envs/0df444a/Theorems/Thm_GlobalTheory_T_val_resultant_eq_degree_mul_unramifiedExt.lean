@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_val_resultant_eq_degree_mul_unramifiedExt
 -- name    : GlobalTheory.T.val_resultant_eq_degree_mul_unramifiedExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:05:20.849366+00:00
 -- url     : https://prove2.me/theorems/c07d98aa-f1d8-447c-8b8c-eb818b14722a

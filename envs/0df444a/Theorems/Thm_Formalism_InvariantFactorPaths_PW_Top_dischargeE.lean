@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_dischargeE
 -- name    : Formalism.InvariantFactorPaths.PW.Top.dischargeE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:43:54.298658+00:00
 -- url     : https://prove2.me/theorems/2fcd5059-1517-4fad-a5cb-38d83520d90e

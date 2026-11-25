@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_eulerDirs_finrank_2122c098d3ee
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_eulerDirs_finrank_2122c098d3ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:24:53.793022+00:00
 -- url     : https://prove2.me/theorems/0e8fc789-11ae-4260-af32-bb7bf20fdfa4

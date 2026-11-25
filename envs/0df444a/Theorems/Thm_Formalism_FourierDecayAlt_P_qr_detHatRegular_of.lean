@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_qr_detHatRegular_of
 -- name    : Formalism.FourierDecayAlt.P.qr_detHatRegular_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:43:03.997909+00:00
 -- url     : https://prove2.me/theorems/d961ebca-f74b-4b82-b41e-e27218632038

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_sub_pow_eq_mul_sum_fin_48c4d365a9ba
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_sub_pow_eq_mul_sum_fin_48c4d365a9ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:21:31.033291+00:00
 -- url     : https://prove2.me/theorems/45d5100e-5941-586e-8e85-8bf5fb5aabf6

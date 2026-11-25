@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_tateTrace_mul_of_mem
 -- name    : GroundTheory.PAdicHodge.tateTrace_mul_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:33:55.146796+00:00
 -- url     : https://prove2.me/theorems/58c1a160-258f-5107-ab0b-b7cbeec0036f

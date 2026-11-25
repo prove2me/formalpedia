@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_deriv_deriv_nonneg_of_isLocalMin_e6e314957576
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_deriv_deriv_nonneg_of_isLocalMin_e6e314957576
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:28:18.227175+00:00
 -- url     : https://prove2.me/theorems/2572e097-2414-4006-9f20-721ff588291e

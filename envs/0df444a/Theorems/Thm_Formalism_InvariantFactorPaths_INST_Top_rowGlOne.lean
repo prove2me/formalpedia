@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_Top_rowGlOne
 -- name    : Formalism.InvariantFactorPaths.INST.Top.rowGlOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:38:08.429875+00:00
 -- url     : https://prove2.me/theorems/dbf4f284-83de-516f-8ced-911e04700199

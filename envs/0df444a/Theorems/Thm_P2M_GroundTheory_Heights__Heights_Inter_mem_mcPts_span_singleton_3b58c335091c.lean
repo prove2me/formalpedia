@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_mem_mcPts_span_singleton_3b58c335091c
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_mem_mcPts_span_singleton_3b58c335091c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:58.42363+00:00
 -- url     : https://prove2.me/theorems/8db21b52-0e0b-41ff-a8b2-4b08a9fab7d2

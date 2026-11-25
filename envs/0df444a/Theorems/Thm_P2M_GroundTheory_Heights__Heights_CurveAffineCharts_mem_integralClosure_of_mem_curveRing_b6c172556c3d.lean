@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveAffineCharts_mem_integralClosure_of_mem_curveRing_b6c172556c3d
 -- name    : P2M_GroundTheory_Heights__Heights_CurveAffineCharts_mem_integralClosure_of_mem_curveRing_b6c172556c3d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:36:06.820358+00:00
 -- url     : https://prove2.me/theorems/dba0a371-dc0b-4399-902a-b069a647a3ff

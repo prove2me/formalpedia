@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SpreadBundle_hypotheses_inhabited_4ad4a2995cf0
 -- name    : P2M_GroundTheory_Heights__Heights_Model_SpreadBundle_hypotheses_inhabited_4ad4a2995cf0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:30:07.027791+00:00
 -- url     : https://prove2.me/theorems/973c755c-52ae-4485-82a4-886f1451d382

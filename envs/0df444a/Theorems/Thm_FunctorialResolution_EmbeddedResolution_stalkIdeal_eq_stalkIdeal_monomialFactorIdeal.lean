@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_eq_stalkIdeal_monomialFactorIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_eq_stalkIdeal_monomialFactorIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:25:58.800799+00:00
 -- url     : https://prove2.me/theorems/f50b58e4-4bd2-4fd3-9544-3013253a8bd7

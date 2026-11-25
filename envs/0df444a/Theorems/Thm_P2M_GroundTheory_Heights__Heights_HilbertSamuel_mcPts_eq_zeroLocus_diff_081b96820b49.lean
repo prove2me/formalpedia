@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_mcPts_eq_zeroLocus_diff_081b96820b49
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_mcPts_eq_zeroLocus_diff_081b96820b49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:20:05.170173+00:00
 -- url     : https://prove2.me/theorems/f9a5ff08-90d4-44d8-bd8e-c6fae9c37160

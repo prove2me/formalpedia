@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_isFractionRing_of_subalgebra_5f26c5178364
 -- name    : P2M_GroundTheory_Heights__Heights_Model_isFractionRing_of_subalgebra_5f26c5178364
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:34.878592+00:00
 -- url     : https://prove2.me/theorems/bcf93a46-fcd8-4d66-931e-09162b78ff0c

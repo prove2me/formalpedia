@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBL_rr_eq_form
 -- name    : Formalism.FourierDecayAlt.P.PBL.rr_eq_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:44:56.600337+00:00
 -- url     : https://prove2.me/theorems/f6941fbc-ee80-459f-aec0-e5f92165e871

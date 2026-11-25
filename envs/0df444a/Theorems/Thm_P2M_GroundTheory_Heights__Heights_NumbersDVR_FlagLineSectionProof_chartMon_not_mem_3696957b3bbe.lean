@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_chartMon_not_mem_3696957b3bbe
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_chartMon_not_mem_3696957b3bbe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:31:10.184518+00:00
 -- url     : https://prove2.me/theorems/77f13c79-6cc3-47a9-8f97-63bfb4a24f78

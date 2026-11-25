@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LinkSec_homAt_comp__47a5a5bde5a3
 -- name    : P2M_GlobalTheory_LinkSec_homAt_comp__47a5a5bde5a3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:39:48.802316+00:00
 -- url     : https://prove2.me/theorems/318e0f79-68f6-4d17-92aa-42eab3332f2a

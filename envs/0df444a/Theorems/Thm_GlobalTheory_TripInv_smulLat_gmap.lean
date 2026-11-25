@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripInv_smulLat_gmap
 -- name    : GlobalTheory.TripInv.smulLat_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:34:47.230099+00:00
 -- url     : https://prove2.me/theorems/1890e26c-47e8-45a7-a3d1-46a4667714e5

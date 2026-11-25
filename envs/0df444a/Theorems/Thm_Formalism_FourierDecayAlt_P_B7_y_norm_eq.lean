@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_y_norm_eq
 -- name    : Formalism.FourierDecayAlt.P.B7.y_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:09:27.864622+00:00
 -- url     : https://prove2.me/theorems/e6f77804-52df-4500-a7af-35509d3bbd91

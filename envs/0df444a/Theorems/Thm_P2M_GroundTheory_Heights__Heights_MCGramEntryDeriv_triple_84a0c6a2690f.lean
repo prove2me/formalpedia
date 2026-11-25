@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCGramEntryDeriv_triple_84a0c6a2690f
 -- name    : P2M_GroundTheory_Heights__Heights_MCGramEntryDeriv_triple_84a0c6a2690f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:47:24.936526+00:00
 -- url     : https://prove2.me/theorems/4d0568b7-d070-4a9c-9709-b03f841df0c2

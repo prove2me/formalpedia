@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PushforwardArithIntersection_isMultiHomog_coordPow_6706e34a9132
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PushforwardArithIntersection_isMultiHomog_coordPow_6706e34a9132
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:42:01.828113+00:00
 -- url     : https://prove2.me/theorems/785fb2ee-a7ba-40c8-af03-9a9b6b66acd9

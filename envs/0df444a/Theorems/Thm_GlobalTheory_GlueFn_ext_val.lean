@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueFn_ext_val
 -- name    : GlobalTheory.GlueFn.ext_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:55:21.497803+00:00
 -- url     : https://prove2.me/theorems/1267eea0-3a2d-4308-ba97-0372cbf1f01f

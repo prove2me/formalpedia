@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_negIndex_diagonal
 -- name    : GlobalTheory.Inertia.negIndex_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:33:59.996832+00:00
 -- url     : https://prove2.me/theorems/39ee3a45-62c8-49ef-8484-bd9532ada1b0

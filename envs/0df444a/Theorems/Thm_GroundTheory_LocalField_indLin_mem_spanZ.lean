@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_indLin_mem_spanZ
 -- name    : GroundTheory.LocalField.indLin_mem_spanZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:35:39.439177+00:00
 -- url     : https://prove2.me/theorems/2cf321d1-ac62-4099-a1ef-3edd5b05085a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_LocRingLocal_isMultiHomog_add_08ecdd1ec297
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_LocRingLocal_isMultiHomog_add_08ecdd1ec297
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:41:34.233508+00:00
 -- url     : https://prove2.me/theorems/272dc8bf-a0de-49a6-b250-c789acf48062

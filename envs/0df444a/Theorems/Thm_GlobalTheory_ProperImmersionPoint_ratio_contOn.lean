@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperImmersionPoint_ratio_contOn
 -- name    : GlobalTheory.ProperImmersionPoint.ratio_contOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:51:33.97385+00:00
 -- url     : https://prove2.me/theorems/ff222896-7632-5f53-b22a-45e4eaae7545

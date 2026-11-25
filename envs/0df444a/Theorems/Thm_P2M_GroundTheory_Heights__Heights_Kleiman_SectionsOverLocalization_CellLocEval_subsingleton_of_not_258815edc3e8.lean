@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_CellLocEval_subsingleton_of_not_258815edc3e8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_CellLocEval_subsingleton_of_not_258815edc3e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:29:29.058769+00:00
 -- url     : https://prove2.me/theorems/a1cac681-2d58-458e-b462-5ac573ac49f0

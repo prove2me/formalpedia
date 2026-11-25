@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_MC_meanGamX_of
 -- name    : Formalism.InvariantFactorPaths.MC.meanGamX_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:09:04.62724+00:00
 -- url     : https://prove2.me/theorems/bb876f49-1b15-5e2f-9232-4ba4fe1c7023

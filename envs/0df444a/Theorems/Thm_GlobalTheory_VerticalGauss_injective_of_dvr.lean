@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VerticalGauss_injective_of_dvr
 -- name    : GlobalTheory.VerticalGauss.injective_of_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:44:01.781037+00:00
 -- url     : https://prove2.me/theorems/695fcba7-9855-4c1d-88c6-3a4553ce46c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_character_ind
 -- name    : GroundTheory.LocalField.character_ind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:35:28.8251+00:00
 -- url     : https://prove2.me/theorems/9944d770-53d5-4e90-8b5d-e376d720d3d8

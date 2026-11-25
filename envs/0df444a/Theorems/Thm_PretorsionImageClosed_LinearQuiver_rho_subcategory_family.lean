@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_rho_subcategory_family
 -- name    : PretorsionImageClosed.LinearQuiver.rho_subcategory_family
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:04:31.625676+00:00
 -- url     : https://prove2.me/theorems/fc1f2dad-cf42-5b87-a01a-b7c8a387a4fd

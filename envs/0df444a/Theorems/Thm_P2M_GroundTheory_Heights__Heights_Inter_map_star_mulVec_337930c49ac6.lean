@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_map_star_mulVec_337930c49ac6
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_map_star_mulVec_337930c49ac6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:24:23.426629+00:00
 -- url     : https://prove2.me/theorems/76815ccc-ca50-4c53-8a61-aa2399900531

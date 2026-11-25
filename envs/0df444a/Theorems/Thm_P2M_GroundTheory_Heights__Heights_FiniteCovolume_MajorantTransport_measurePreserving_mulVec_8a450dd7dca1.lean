@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_MajorantTransport_measurePreserving_mulVec_8a450dd7dca1
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_MajorantTransport_measurePreserving_mulVec_8a450dd7dca1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:39:26.51124+00:00
 -- url     : https://prove2.me/theorems/a512c1e2-c9e3-4bcd-b49d-f6bda476cec8

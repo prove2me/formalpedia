@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.ZeroFreeDirichlet.smoothChi
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T04:18:59.42015+00:00
+-- url     : https://prove2.me/submissions/f7b9825d-35ed-4e87-82c3-283c938c243d
+
+import Definitions.Def_Formalism_LandauZeroFreeBounds_NoZeroComplex
+import Definitions.Def_Formalism_LandauZeroFreeBounds_FinalSiegel
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LandauLocal3
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PerronChi
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RectShiftChi
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LogDerivRegionChiOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SmoothChiOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PsiChiBoundOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LDerivNearOne
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ExcBoundOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszAPOf
+import Definitions.Def_Formalism_ZeroFreeRegion_LogDerivRegion
+import Definitions.Def_Formalism_LandauZeroFreeBounds_SiegelWalfiszAPOfSiegelLower
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_logDerivRegionChi
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_l_log_deriv_right
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_perron_formula_character
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_rectangle_contour_shift_character
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_smoothed_character_sum_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.ZeroFreeDirichlet
+namespace Formalism.ZeroFreeDirichlet
+theorem _root_.solution : SmoothChi :=
+  smoothed_character_sum_of perron_formula_character rectangle_contour_shift_character logDerivRegionChi l_log_deriv_right
+end Formalism.ZeroFreeDirichlet

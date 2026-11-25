@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CharAgree_hf_sum_l
 -- name    : GlobalTheory.HL.CharAgree.hf_sum_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:51:28.152632+00:00
 -- url     : https://prove2.me/theorems/92e75a78-675b-5ce0-a31c-7033ad1747b1

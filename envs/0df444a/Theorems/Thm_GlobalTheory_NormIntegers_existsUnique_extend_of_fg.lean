@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormIntegers_existsUnique_extend_of_fg
 -- name    : GlobalTheory.NormIntegers.existsUnique_extend_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:36:14.645973+00:00
 -- url     : https://prove2.me/theorems/6bbe741c-7183-4507-a65f-8b854063b348

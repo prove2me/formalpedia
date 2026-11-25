@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_g_psi_eq_g_chi
 -- name    : Formalism.LFunctionChainParameters.LBr2.g_psi_eq_g_chi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:45:07.739246+00:00
 -- url     : https://prove2.me/theorems/ebeb21e0-ba69-469b-8966-f6d951769942

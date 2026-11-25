@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_svd_apply_left
 -- name    : SVD.svd_apply_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:04:01.227687+00:00
 -- url     : https://prove2.me/theorems/edc47085-7fa6-4e5a-a304-87f73f5524df

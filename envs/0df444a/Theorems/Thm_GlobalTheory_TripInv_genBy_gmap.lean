@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripInv_genBy_gmap
 -- name    : GlobalTheory.TripInv.genBy_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:33:57.089868+00:00
 -- url     : https://prove2.me/theorems/a2b12e0e-b491-42df-8114-36a31ad83fb1

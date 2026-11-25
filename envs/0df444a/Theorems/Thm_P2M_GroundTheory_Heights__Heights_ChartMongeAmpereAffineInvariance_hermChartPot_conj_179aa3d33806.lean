@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_hermChartPot_conj_179aa3d33806
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_hermChartPot_conj_179aa3d33806
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:07:33.043465+00:00
 -- url     : https://prove2.me/theorems/083bb144-aa0c-4c0a-abee-db75a0f6fa16

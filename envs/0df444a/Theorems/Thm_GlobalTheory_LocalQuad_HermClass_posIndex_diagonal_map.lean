@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_HermClass_posIndex_diagonal_map
 -- name    : GlobalTheory.LocalQuad.HermClass.posIndex_diagonal_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:49.357465+00:00
 -- url     : https://prove2.me/theorems/31363d75-2a00-421e-b1f9-9832d7486fd4

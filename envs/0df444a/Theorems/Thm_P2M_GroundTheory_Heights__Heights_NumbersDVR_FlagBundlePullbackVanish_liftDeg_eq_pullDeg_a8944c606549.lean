@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundlePullbackVanish_liftDeg_eq_pullDeg_a8944c606549
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundlePullbackVanish_liftDeg_eq_pullDeg_a8944c606549
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:39:52.437965+00:00
 -- url     : https://prove2.me/theorems/447f8ef5-f966-53a2-8fa9-24a3e94a65e8

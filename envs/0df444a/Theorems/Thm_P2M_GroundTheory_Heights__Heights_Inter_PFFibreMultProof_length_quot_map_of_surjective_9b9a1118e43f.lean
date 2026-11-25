@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PFFibreMultProof_length_quot_map_of_surjective_9b9a1118e43f
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PFFibreMultProof_length_quot_map_of_surjective_9b9a1118e43f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:41:58.630804+00:00
 -- url     : https://prove2.me/theorems/84daa688-981e-4db6-a624-ff857068bd47

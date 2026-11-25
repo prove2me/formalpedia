@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TranslFree_counit_law
 -- name    : GlobalTheory.TranslFree.counit_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:56:24.08444+00:00
 -- url     : https://prove2.me/theorems/549fb979-7d46-4bad-a665-c295e7cbb294

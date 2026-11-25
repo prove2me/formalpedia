@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeFactsFlagMeasures_main
 -- name    : GlobalTheory.LatticeFactsFlagMeasures.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:42:37.666271+00:00
 -- url     : https://prove2.me/theorems/bed6bc09-49c3-410c-a25c-76dabf4230f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_aeval_genPt_da9742bcf082
 -- name    : P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_aeval_genPt_da9742bcf082
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:48:21.997478+00:00
 -- url     : https://prove2.me/theorems/74884ed5-a24a-55e4-90b9-44d0c24bd64f

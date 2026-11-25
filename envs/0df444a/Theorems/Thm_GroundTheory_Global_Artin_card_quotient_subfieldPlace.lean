@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_card_quotient_subfieldPlace
 -- name    : GroundTheory.Global.Artin.card_quotient_subfieldPlace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:14:25.488538+00:00
 -- url     : https://prove2.me/theorems/27de88e0-33a2-5e9b-9dd1-7966edc5ae64

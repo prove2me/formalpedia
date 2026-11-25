@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleSectionDivProof_divCycle_congr_3f7c8e7470ac
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleSectionDivProof_divCycle_congr_3f7c8e7470ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:30:15.944796+00:00
 -- url     : https://prove2.me/theorems/09fbc90c-aa74-4782-bf44-89d01048efc4

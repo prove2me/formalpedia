@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_JacobianRankOffHypersurface_exists_fin_ec031f113fa3
 -- name    : P2M_GroundTheory_Heights__Heights_JacobianRankOffHypersurface_exists_fin_ec031f113fa3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:47:00.4808+00:00
 -- url     : https://prove2.me/theorems/48d3e90d-c3de-4c5c-bbbc-fa0e2c600e63

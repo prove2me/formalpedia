@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_hasSum_modularJ_sub_inv
 -- name    : GlobalTheory.exists_hasSum_modularJ_sub_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:32:52.429951+00:00
 -- url     : https://prove2.me/theorems/4ec13ea7-5c36-449a-ac81-4cd20c642e69

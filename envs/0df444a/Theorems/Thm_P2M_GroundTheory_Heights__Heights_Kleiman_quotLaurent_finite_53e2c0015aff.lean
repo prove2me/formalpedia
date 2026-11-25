@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_quotLaurent_finite_53e2c0015aff
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_quotLaurent_finite_53e2c0015aff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:32:30.96581+00:00
 -- url     : https://prove2.me/theorems/3e6137bc-df7f-419f-8f57-51ebaf8ba19d

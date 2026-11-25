@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_TelescopeMetric_proof_6cf8272cfc27
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_TelescopeMetric_proof_6cf8272cfc27
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:30:02.013222+00:00
 -- url     : https://prove2.me/theorems/4a17d44e-4b74-4059-af91-c991ad148537

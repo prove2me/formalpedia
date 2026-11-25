@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateTest_isAl_taut
 -- name    : GlobalTheory.HodgeTateTest.isAl_taut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:56:05.513806+00:00
 -- url     : https://prove2.me/theorems/e92155e2-7aaf-4640-a159-25953fcc5891

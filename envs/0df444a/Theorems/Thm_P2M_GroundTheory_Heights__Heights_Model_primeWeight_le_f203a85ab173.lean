@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_primeWeight_le_f203a85ab173
 -- name    : P2M_GroundTheory_Heights__Heights_Model_primeWeight_le_f203a85ab173
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:29:28.704564+00:00
 -- url     : https://prove2.me/theorems/7482cbfc-2ad9-400e-9f81-261c04e5f92a

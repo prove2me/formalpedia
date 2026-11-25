@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Landau_zero_free_of_Chebyshev_growth
 -- name    : Formalism.HC.Landau.zero_free_of_Chebyshev_growth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:49.711929+00:00
 -- url     : https://prove2.me/theorems/e13bbc46-5272-4596-a41a-d115e3368702

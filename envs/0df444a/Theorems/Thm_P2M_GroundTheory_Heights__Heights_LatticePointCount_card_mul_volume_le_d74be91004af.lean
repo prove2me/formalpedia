@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticePointCount_card_mul_volume_le_d74be91004af
 -- name    : P2M_GroundTheory_Heights__Heights_LatticePointCount_card_mul_volume_le_d74be91004af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:29:10.727418+00:00
 -- url     : https://prove2.me/theorems/0f076691-d289-4de6-b8b8-b74782f89cf9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_mem_away_of_heightOne_353e1e593eaf
 -- name    : P2M_GroundTheory_Heights__Heights_Model_mem_away_of_heightOne_353e1e593eaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:30.596278+00:00
 -- url     : https://prove2.me/theorems/696244fe-2225-4cf7-bb6e-3e9e62dd81cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Complex_units_subgroup_eq_bot_of_norm_sub_one_lt
 -- name    : GroundTheory.Global.Complex.units_subgroup_eq_bot_of_norm_sub_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:36:40.444573+00:00
 -- url     : https://prove2.me/theorems/aed8f8b8-1f23-442e-9e54-a156984dde4a

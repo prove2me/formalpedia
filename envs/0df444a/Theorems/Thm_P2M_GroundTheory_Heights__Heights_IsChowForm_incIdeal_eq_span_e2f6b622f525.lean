@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IsChowForm_incIdeal_eq_span_e2f6b622f525
 -- name    : P2M_GroundTheory_Heights__Heights_IsChowForm_incIdeal_eq_span_e2f6b622f525
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:44:58.564443+00:00
 -- url     : https://prove2.me/theorems/09df463c-ed8c-4df4-aa08-51d580f019f8

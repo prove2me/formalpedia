@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_quasiPeriodic_eq_zero_46166fd09bf9
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_quasiPeriodic_eq_zero_46166fd09bf9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:26:14.791995+00:00
 -- url     : https://prove2.me/theorems/4af7f3ac-1d6a-465f-901c-b102f3ba255a

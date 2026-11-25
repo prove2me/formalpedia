@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartSpecCount_dvd_map_of_dvd_map_7571100aeae2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartSpecCount_dvd_map_of_dvd_map_7571100aeae2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:41:05.444818+00:00
 -- url     : https://prove2.me/theorems/56faedb5-f3e4-4993-ba19-2137a4523e40

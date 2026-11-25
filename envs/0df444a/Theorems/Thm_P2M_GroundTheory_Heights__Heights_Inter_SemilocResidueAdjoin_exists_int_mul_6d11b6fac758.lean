@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueAdjoin_exists_int_mul_6d11b6fac758
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueAdjoin_exists_int_mul_6d11b6fac758
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:47:04.493836+00:00
 -- url     : https://prove2.me/theorems/869e641b-7ce0-458e-85b5-0da97a129cf6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IntegralIndep_chartPosDens_nonneg_e1523890f8fb
 -- name    : P2M_GroundTheory_Heights__Heights_IntegralIndep_chartPosDens_nonneg_e1523890f8fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:42:38.331529+00:00
 -- url     : https://prove2.me/theorems/6a31c6a8-0afe-41e2-8066-faf1712dbc29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_isAffineOpen_coordOpen
 -- name    : GlobalTheory.WeierstrassCurve.isAffineOpen_coordOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:00:01.226635+00:00
 -- url     : https://prove2.me/theorems/99baafb3-f682-5bc1-83eb-f6b1ef63cce6

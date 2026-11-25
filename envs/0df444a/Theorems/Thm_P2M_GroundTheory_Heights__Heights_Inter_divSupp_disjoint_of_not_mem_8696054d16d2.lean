@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_divSupp_disjoint_of_not_mem_8696054d16d2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_divSupp_disjoint_of_not_mem_8696054d16d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:25:25.537376+00:00
 -- url     : https://prove2.me/theorems/2334f907-0958-4b41-a54a-a617e03fbd30

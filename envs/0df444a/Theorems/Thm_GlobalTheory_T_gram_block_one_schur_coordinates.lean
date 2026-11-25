@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_block_one_schur_coordinates
 -- name    : GlobalTheory.T.gram_block_one_schur_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:18.806721+00:00
 -- url     : https://prove2.me/theorems/9c1bbbe6-c317-4427-820f-555f08799fbd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Dyadic_dyadic_summation
 -- name    : GlobalTheory.Dyadic.dyadic_summation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:29:53.640598+00:00
 -- url     : https://prove2.me/theorems/058b24d5-dab2-49f6-b776-072b56b0fbed

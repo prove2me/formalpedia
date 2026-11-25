@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_affineMap_affineY
 -- name    : GlobalTheory.WeierstrassCurve.affineMap_affineY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:00:41.529587+00:00
 -- url     : https://prove2.me/theorems/0a35f8e6-7f51-5a98-acd1-fdfcc33ca77e

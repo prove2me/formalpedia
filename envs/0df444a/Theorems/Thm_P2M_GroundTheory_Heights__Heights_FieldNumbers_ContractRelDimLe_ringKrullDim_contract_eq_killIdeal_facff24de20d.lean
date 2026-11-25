@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_ContractRelDimLe_ringKrullDim_contract_eq_killIdeal_facff24de20d
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_ContractRelDimLe_ringKrullDim_contract_eq_killIdeal_facff24de20d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:17:01.326003+00:00
 -- url     : https://prove2.me/theorems/81702df1-6625-4fc0-a1b6-bc3b4176109d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ChartCmp_FrameRatio_unit__surj_a33959c60320
 -- name    : P2M_GlobalTheory_ChartCmp_FrameRatio_unit__surj_a33959c60320
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:37:52.146294+00:00
 -- url     : https://prove2.me/theorems/a36aa57a-f92f-4a49-aceb-692423a1238f

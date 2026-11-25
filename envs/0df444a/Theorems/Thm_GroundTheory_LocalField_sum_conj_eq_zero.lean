@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_sum_conj_eq_zero
 -- name    : GroundTheory.LocalField.sum_conj_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:33:18.549518+00:00
 -- url     : https://prove2.me/theorems/78066fb1-25a9-527a-9b23-0b5ac15197fe

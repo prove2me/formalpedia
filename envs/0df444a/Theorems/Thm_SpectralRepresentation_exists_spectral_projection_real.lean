@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_exists_spectral_projection_real
 -- name    : SpectralRepresentation.exists_spectral_projection_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:17:06.6102+00:00
 -- url     : https://prove2.me/theorems/6b7bbb2e-d77b-5ecf-82c3-edae5abf5a6e

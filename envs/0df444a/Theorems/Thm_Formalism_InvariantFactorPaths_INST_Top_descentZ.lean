@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_Top_descentZ
 -- name    : Formalism.InvariantFactorPaths.INST.Top.descentZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:28:48.901081+00:00
 -- url     : https://prove2.me/theorems/53eec1f2-67da-4005-8775-47c6aeeb6211

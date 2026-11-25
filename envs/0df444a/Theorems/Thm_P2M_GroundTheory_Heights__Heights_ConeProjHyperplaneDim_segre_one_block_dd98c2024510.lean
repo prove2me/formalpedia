@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeProjHyperplaneDim_segre_one_block_dd98c2024510
 -- name    : P2M_GroundTheory_Heights__Heights_ConeProjHyperplaneDim_segre_one_block_dd98c2024510
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:44:23.752563+00:00
 -- url     : https://prove2.me/theorems/67ea8b56-87f8-50f5-b699-ace2b24bc0df

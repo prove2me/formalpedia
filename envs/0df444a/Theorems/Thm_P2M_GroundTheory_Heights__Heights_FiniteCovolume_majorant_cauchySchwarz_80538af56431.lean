@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_majorant_cauchySchwarz_80538af56431
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_majorant_cauchySchwarz_80538af56431
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:44:21.765533+00:00
 -- url     : https://prove2.me/theorems/a7ae4139-7686-4856-906c-5784603e62f9

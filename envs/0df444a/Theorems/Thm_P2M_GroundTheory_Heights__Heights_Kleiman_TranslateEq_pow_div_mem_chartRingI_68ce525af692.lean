@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_pow_div_mem_chartRingI_68ce525af692
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_pow_div_mem_chartRingI_68ce525af692
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:29:36.11837+00:00
 -- url     : https://prove2.me/theorems/293a5bc2-189d-4240-a0a4-a6803aa8a04b

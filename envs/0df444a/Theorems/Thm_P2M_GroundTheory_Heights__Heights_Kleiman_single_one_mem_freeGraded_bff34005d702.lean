@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_single_one_mem_freeGraded_bff34005d702
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_single_one_mem_freeGraded_bff34005d702
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:28:48.669344+00:00
 -- url     : https://prove2.me/theorems/a39fdc7f-7874-455e-b955-a2bfadad8fa9

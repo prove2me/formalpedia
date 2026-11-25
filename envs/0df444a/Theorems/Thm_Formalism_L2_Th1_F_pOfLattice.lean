@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_pOfLattice
 -- name    : Formalism.L2.Th1.F.pOfLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:47:57.65898+00:00
 -- url     : https://prove2.me/theorems/872b6496-f43f-50f3-8f54-be16c22cbd49

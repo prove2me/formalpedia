@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_CocycleSum_val_push
 -- name    : GlobalTheory.PDiv.CocycleSum.val_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:55:42.90868+00:00
 -- url     : https://prove2.me/theorems/5e916f11-9aca-583c-b545-ddf381381b02

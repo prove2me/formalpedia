@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_fixedFieldMulEquiv_apply
 -- name    : GroundTheory.Global.Artin.fixedFieldMulEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:47:10.163792+00:00
 -- url     : https://prove2.me/theorems/b00df160-720b-458c-ae20-d9c4692d8259

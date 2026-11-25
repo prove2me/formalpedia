@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularisedIntegral_sqIntegrable_of_threshold
 -- name    : GlobalTheory.RegularisedIntegral.sqIntegrable_of_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:49:39.658638+00:00
 -- url     : https://prove2.me/theorems/fb0aedbe-7f4b-50a5-a195-68bde11f7d07

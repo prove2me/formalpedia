@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RowTiePSplit_exists_sep
 -- name    : Formalism.L2.FormalSeriesBounds.RowTiePSplit.exists_sep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:23:50.099808+00:00
 -- url     : https://prove2.me/theorems/874af1aa-f554-5e81-a54a-35d5e77e94b6

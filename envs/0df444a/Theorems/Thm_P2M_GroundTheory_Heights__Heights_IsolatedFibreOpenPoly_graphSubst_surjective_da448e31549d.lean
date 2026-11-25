@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IsolatedFibreOpenPoly_graphSubst_surjective_da448e31549d
 -- name    : P2M_GroundTheory_Heights__Heights_IsolatedFibreOpenPoly_graphSubst_surjective_da448e31549d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:46:19.27323+00:00
 -- url     : https://prove2.me/theorems/606df2e6-993f-595f-a052-6ee62ac1dc6c

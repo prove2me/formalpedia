@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraicIndependent_residue_iff_gauss
 -- name    : GlobalTheory.algebraicIndependent_residue_iff_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:24:26.917229+00:00
 -- url     : https://prove2.me/theorems/6a7a7fd5-9593-40d8-ade7-f6e3250345ba

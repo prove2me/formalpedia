@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_CutByFormField_vecCons_comp_finRotate_429c6d1004da
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_CutByFormField_vecCons_comp_finRotate_429c6d1004da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:51.008085+00:00
 -- url     : https://prove2.me/theorems/4a075578-08ec-4e68-8f38-e908ce739d37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_thetaRunParameters_uniform_torus
 -- name    : GlobalTheory.T.exists_thetaRunParameters_uniform_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:52:41.396257+00:00
 -- url     : https://prove2.me/theorems/50e6118b-301f-4476-aedb-a0b0b3597271

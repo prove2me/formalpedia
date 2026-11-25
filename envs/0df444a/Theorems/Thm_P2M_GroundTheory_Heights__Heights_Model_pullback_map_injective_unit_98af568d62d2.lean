@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_pullback_map_injective_unit_98af568d62d2
 -- name    : P2M_GroundTheory_Heights__Heights_Model_pullback_map_injective_unit_98af568d62d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:31:09.965793+00:00
 -- url     : https://prove2.me/theorems/c72044b6-9de2-4bcd-875c-dbf6bc08708f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_isNormalScheme_specZ_75d583b78156
 -- name    : P2M_GroundTheory_Heights__Heights_Model_isNormalScheme_specZ_75d583b78156
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:27.705364+00:00
 -- url     : https://prove2.me/theorems/eb68323e-5b35-4ade-9692-3e8d98714577

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_charpoly_eq_of_charCoeffs_eq
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.charpoly_eq_of_charCoeffs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:47:27.686876+00:00
 -- url     : https://prove2.me/theorems/ed604877-ccfe-465f-a089-9481a0c0ebae

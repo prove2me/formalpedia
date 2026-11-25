@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_exists_posDef_mul_inv_mul_eq_23d407a350fb
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_exists_posDef_mul_inv_mul_eq_23d407a350fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:40:19.428093+00:00
 -- url     : https://prove2.me/theorems/6b54e75f-39dd-4104-86c6-aaa89e8a0e8c

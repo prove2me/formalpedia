@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_WaveGridLiftGrid_pairOK_of_interlace
 -- name    : GroundTheory.BlockD.FourierDecayAlt.WaveGridLiftGrid.pairOK_of_interlace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:52:09.792603+00:00
 -- url     : https://prove2.me/theorems/35f4ad39-fa34-4223-b48a-296cc2fc2586

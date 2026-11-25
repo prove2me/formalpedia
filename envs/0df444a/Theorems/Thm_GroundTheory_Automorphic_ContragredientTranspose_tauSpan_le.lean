@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_tauSpan_le
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.tauSpan_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:57:43.351608+00:00
 -- url     : https://prove2.me/theorems/5e582776-7365-4d3c-bb34-40c7de0406f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_leadBlock_genMatK_det_ne_zero_82c575e12eaf
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_leadBlock_genMatK_det_ne_zero_82c575e12eaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:49:02.209806+00:00
 -- url     : https://prove2.me/theorems/a47e26f1-2dcf-5830-bd2d-09a95dd5d865

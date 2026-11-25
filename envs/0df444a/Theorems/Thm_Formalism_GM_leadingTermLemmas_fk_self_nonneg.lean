@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_fk_self_nonneg
 -- name    : Formalism.GM.leadingTermLemmas.fk_self_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:51:43.907741+00:00
 -- url     : https://prove2.me/theorems/ac1e8e57-a0ec-44b6-8692-a84acca6edc6

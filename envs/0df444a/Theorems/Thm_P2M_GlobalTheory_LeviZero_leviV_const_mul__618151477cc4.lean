@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LeviZero_leviV_const_mul__618151477cc4
 -- name    : P2M_GlobalTheory_LeviZero_leviV_const_mul__618151477cc4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:37:36.031162+00:00
 -- url     : https://prove2.me/theorems/3245591f-918e-458e-90ba-294ce512815d

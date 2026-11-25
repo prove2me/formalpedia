@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WtOrth_inner_eq_zero_of_ne
 -- name    : GlobalTheory.WtOrth.inner_eq_zero_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:34:46.635811+00:00
 -- url     : https://prove2.me/theorems/f8129228-41fa-4e5a-93a8-7ff9a128c13a

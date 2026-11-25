@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCInvEntryDeriv_inv_entry_eq_c0f1905f6b53
 -- name    : P2M_GroundTheory_Heights__Heights_MCInvEntryDeriv_inv_entry_eq_c0f1905f6b53
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:46:05.080071+00:00
 -- url     : https://prove2.me/theorems/d929710f-2a73-49d2-91d7-7e4b3c9b8ec3

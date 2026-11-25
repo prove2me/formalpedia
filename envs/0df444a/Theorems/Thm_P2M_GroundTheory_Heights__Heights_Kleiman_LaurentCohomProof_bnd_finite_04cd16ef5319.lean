@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_LaurentCohomProof_bnd_finite_04cd16ef5319
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_LaurentCohomProof_bnd_finite_04cd16ef5319
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:27:22.255377+00:00
 -- url     : https://prove2.me/theorems/4e0679fa-b107-48a3-8d0b-881ffcefc701

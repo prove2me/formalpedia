@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineDegreeProof_chart_form_792b75e5fddd
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineDegreeProof_chart_form_792b75e5fddd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:30:27.326274+00:00
 -- url     : https://prove2.me/theorems/cafbf4e9-2971-4486-be22-8c20a300450c

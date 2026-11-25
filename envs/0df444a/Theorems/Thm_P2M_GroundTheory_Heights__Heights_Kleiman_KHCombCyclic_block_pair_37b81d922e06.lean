@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHCombCyclic_block_pair_37b81d922e06
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHCombCyclic_block_pair_37b81d922e06
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:33:32.672807+00:00
 -- url     : https://prove2.me/theorems/c391bd30-f71a-4709-9bb2-88a91ea41f75

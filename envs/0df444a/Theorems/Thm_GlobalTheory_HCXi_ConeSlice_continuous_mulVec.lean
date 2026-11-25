@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeSlice_continuous_mulVec
 -- name    : GlobalTheory.HCXi.ConeSlice.continuous_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:40:19.692247+00:00
 -- url     : https://prove2.me/theorems/3358bbdc-139a-4697-9476-ee7781dad2dd

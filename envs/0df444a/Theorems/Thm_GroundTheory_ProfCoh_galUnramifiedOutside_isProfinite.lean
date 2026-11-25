@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_galUnramifiedOutside_isProfinite
 -- name    : GroundTheory.ProfCoh.galUnramifiedOutside_isProfinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:33:59.950898+00:00
 -- url     : https://prove2.me/theorems/4f9b5a3a-9ed9-4b38-b2be-df61d17d0202

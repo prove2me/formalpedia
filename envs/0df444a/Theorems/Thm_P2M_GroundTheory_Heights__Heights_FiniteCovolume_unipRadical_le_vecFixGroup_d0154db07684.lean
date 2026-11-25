@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_unipRadical_le_vecFixGroup_d0154db07684
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_unipRadical_le_vecFixGroup_d0154db07684
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:40:53.034058+00:00
 -- url     : https://prove2.me/theorems/5a7a4234-3c57-5ee5-94a3-f892035ddde5

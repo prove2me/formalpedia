@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GroupGeneratedByExp_norm_exp_mul_le
 -- name    : Formalism.FourierDecayAlt.P.GroupGeneratedByExp.norm_exp_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:44:03.365254+00:00
 -- url     : https://prove2.me/theorems/ae76d7ab-9561-5515-8c90-980f4fa02308

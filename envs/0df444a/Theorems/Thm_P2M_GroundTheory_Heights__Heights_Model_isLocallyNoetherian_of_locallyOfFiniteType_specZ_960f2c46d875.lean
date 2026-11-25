@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_isLocallyNoetherian_of_locallyOfFiniteType_specZ_960f2c46d875
 -- name    : P2M_GroundTheory_Heights__Heights_Model_isLocallyNoetherian_of_locallyOfFiniteType_specZ_960f2c46d875
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:33.012926+00:00
 -- url     : https://prove2.me/theorems/216d02ad-a1a1-436b-916e-fc314a1eb8d6

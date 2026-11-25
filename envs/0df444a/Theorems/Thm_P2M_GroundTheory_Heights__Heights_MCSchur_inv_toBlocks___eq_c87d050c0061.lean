@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCSchur_inv_toBlocks___eq_c87d050c0061
 -- name    : P2M_GroundTheory_Heights__Heights_MCSchur_inv_toBlocks___eq_c87d050c0061
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:47:50.443802+00:00
 -- url     : https://prove2.me/theorems/e4ce479b-4144-5208-997d-14d03b3ac531

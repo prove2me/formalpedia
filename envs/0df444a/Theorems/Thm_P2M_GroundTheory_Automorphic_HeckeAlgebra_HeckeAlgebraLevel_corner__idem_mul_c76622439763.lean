@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_HeckeAlgebra_HeckeAlgebraLevel_corner__idem_mul_c76622439763
 -- name    : P2M_GroundTheory_Automorphic_HeckeAlgebra_HeckeAlgebraLevel_corner__idem_mul_c76622439763
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:38:27.324912+00:00
 -- url     : https://prove2.me/theorems/e5a1e76a-1697-45db-84f6-e4c502e720c8

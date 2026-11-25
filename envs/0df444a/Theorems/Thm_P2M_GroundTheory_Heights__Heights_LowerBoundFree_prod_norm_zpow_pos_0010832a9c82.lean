@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_prod_norm_zpow_pos_0010832a9c82
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_prod_norm_zpow_pos_0010832a9c82
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:13.160769+00:00
 -- url     : https://prove2.me/theorems/58d5af64-3925-4687-be0b-c9af8da2bfe1

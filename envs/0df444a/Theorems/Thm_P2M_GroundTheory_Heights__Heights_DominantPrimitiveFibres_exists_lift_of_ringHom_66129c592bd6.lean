@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DominantPrimitiveFibres_exists_lift_of_ringHom_66129c592bd6
 -- name    : P2M_GroundTheory_Heights__Heights_DominantPrimitiveFibres_exists_lift_of_ringHom_66129c592bd6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:17:19.775325+00:00
 -- url     : https://prove2.me/theorems/6fc40a80-abfb-492b-a086-47d85eb77dfd

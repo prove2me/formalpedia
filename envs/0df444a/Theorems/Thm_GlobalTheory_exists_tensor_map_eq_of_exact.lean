@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_tensor_map_eq_of_exact
 -- name    : GlobalTheory.exists_tensor_map_eq_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:49:55.719023+00:00
 -- url     : https://prove2.me/theorems/6636e029-ce15-4e4a-9e6e-ab6b215de521

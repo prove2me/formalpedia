@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_smul_mem_spanA_of_mem
 -- name    : GroundTheory.LocalField.smul_mem_spanA_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:33:11.269414+00:00
 -- url     : https://prove2.me/theorems/cc891a53-cbe5-5be1-a504-092a5945f621

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBL_lamS_pos
 -- name    : Formalism.FourierDecayAlt.P.PBL.lamS_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:42:40.394061+00:00
 -- url     : https://prove2.me/theorems/4754a133-db5f-54c7-a825-6d915f5e4ef5

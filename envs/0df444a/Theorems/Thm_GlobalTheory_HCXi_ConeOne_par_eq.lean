@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeOne_par_eq
 -- name    : GlobalTheory.HCXi.ConeOne.par_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:43:29.065987+00:00
 -- url     : https://prove2.me/theorems/bfa979d0-3ed1-43d4-a800-6d4f2754babe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_isUnit_gram_2d7d21b9dd7f
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_isUnit_gram_2d7d21b9dd7f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:04:21.626806+00:00
 -- url     : https://prove2.me/theorems/9263eff9-4ce8-4cad-a4da-dc3be0023b48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_nPlusU_le_vermaIdeal
 -- name    : GroundTheory.Automorphic.HarishChandra.nPlusU_le_vermaIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:54:00.179609+00:00
 -- url     : https://prove2.me/theorems/e4cd9b23-f129-4d4c-a995-950943e15d0c

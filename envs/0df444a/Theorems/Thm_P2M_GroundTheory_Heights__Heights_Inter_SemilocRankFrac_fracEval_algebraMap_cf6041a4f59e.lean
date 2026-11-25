@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocRankFrac_fracEval_algebraMap_cf6041a4f59e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocRankFrac_fracEval_algebraMap_cf6041a4f59e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:45:01.785683+00:00
 -- url     : https://prove2.me/theorems/781c18b4-1782-4d5a-8d6b-846980fd70eb

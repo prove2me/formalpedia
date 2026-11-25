@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MainStatements_BetaInf_gap_step
 -- name    : MainStatements.BetaInf.gap_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:36:53.673656+00:00
 -- url     : https://prove2.me/theorems/0ab0a332-0733-4114-a0bd-fde5e82c5da9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_primary_discreteCoind
 -- name    : GroundTheory.ProfCoh.primary_discreteCoind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:36:06.52198+00:00
 -- url     : https://prove2.me/theorems/8ccd1415-8de7-4b37-9c6f-5ef87387d5dd

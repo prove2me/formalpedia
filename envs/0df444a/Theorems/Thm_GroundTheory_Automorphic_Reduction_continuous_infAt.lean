@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_continuous_infAt
 -- name    : GroundTheory.Automorphic.Reduction.continuous_infAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:52:46.008952+00:00
 -- url     : https://prove2.me/theorems/9b132742-52b2-4079-911a-f58d9142f4b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Intertw_eq_of_rhoFun_eq
 -- name    : GlobalTheory.RealWeil.Intertw.eq_of_rhoFun_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:15:27.769351+00:00
 -- url     : https://prove2.me/theorems/8d56b7a9-abd2-43da-8504-73b05e63e8b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_swapped_highest_weight_ne_zero
 -- name    : Formalism.InvariantFactorPaths.INST.swapped_highest_weight_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:59:55.796383+00:00
 -- url     : https://prove2.me/theorems/6ccf8d91-3916-4af7-a000-6ba0604d721a

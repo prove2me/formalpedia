@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_range_aeval_flagMap_X_ffa3ac4f6640
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_range_aeval_flagMap_X_ffa3ac4f6640
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:24:07.788202+00:00
 -- url     : https://prove2.me/theorems/504e5f36-19a0-4f57-9c81-d2f241a73545

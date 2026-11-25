@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_pairMatrix_secondSplit
 -- name    : MassDataIdxCore.pairMatrix_secondSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:37:14.161957+00:00
 -- url     : https://prove2.me/theorems/20621b5c-b114-45fb-9841-0f5cb89525c3

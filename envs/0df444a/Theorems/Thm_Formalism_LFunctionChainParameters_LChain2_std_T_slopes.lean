@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_std_T_slopes
 -- name    : Formalism.LFunctionChainParameters.LChain2.std_T_slopes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:49:34.131908+00:00
 -- url     : https://prove2.me/theorems/e15c0155-6e6b-5e81-82f6-e8d346bae258

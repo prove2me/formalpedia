@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_ScaledModelNorms_px_ptOf
 -- name    : Formalism.L2.Th1.E.ScaledModelNorms.px_ptOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:31:30.77469+00:00
 -- url     : https://prove2.me/theorems/24ff5ede-9bc4-5b53-b273-0b2e6344791c

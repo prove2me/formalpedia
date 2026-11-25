@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_CutPieces_component_mul_68293a88f0c6
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_CutPieces_component_mul_68293a88f0c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:40.047182+00:00
 -- url     : https://prove2.me/theorems/10770b00-838e-4b23-84c4-b689c13d3b42

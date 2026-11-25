@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassOrth_exists_max_vector
 -- name    : GlobalTheory.MassOrth.exists_max_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:32:09.399813+00:00
 -- url     : https://prove2.me/theorems/89eab01a-59b7-46cb-96db-36592c6eb0b3

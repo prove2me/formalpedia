@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularityFunctionFieldNumber_specMap_X_ce1131bead89
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularityFunctionFieldNumber_specMap_X_ce1131bead89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:50:07.165472+00:00
 -- url     : https://prove2.me/theorems/d39bbba9-eeed-5f2d-a630-bb496b16df5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_majorant_cauchy_schwarz_holds
 -- name    : Formalism.HermitianLatticeCounting.P.majorant_cauchy_schwarz_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:36:03.960098+00:00
 -- url     : https://prove2.me/theorems/159e01ef-f781-49b5-b4b2-0a45e1c16052

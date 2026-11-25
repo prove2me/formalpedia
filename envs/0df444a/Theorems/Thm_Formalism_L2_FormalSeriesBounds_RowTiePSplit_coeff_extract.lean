@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RowTiePSplit_coeff_extract
 -- name    : Formalism.L2.FormalSeriesBounds.RowTiePSplit.coeff_extract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:30:06.999804+00:00
 -- url     : https://prove2.me/theorems/9733c558-937c-4075-85ae-c42f74045bf4

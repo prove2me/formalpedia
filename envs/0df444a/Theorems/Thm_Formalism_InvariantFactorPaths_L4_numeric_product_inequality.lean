@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_numeric_product_inequality
 -- name    : Formalism.InvariantFactorPaths.L4.numeric_product_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:45:44.419244+00:00
 -- url     : https://prove2.me/theorems/ba232d59-3d94-4ffd-93e7-0290cf74b03a

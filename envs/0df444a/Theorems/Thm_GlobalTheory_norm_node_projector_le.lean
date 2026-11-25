@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_node_projector_le
 -- name    : GlobalTheory.norm_node_projector_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:33:04.988542+00:00
 -- url     : https://prove2.me/theorems/aabf2563-498b-586a-948e-ddbe1784c514

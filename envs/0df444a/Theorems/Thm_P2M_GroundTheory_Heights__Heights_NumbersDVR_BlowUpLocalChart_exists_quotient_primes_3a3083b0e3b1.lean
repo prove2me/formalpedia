@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpLocalChart_exists_quotient_primes_3a3083b0e3b1
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpLocalChart_exists_quotient_primes_3a3083b0e3b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:30:03.821884+00:00
 -- url     : https://prove2.me/theorems/02cabfc8-e81b-4b0b-b2bf-5a8462d713d9

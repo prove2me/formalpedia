@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_levi_eq_deriv_deriv_1a5664901ce5
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_levi_eq_deriv_deriv_1a5664901ce5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:24.875524+00:00
 -- url     : https://prove2.me/theorems/31c5d6ed-3fc0-5360-8a88-a23068d17ae2

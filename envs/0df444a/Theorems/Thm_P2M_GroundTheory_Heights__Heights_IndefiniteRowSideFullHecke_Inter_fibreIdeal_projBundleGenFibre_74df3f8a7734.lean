@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_fibreIdeal_projBundleGenFibre_74df3f8a7734
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_fibreIdeal_projBundleGenFibre_74df3f8a7734
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:26:42.747877+00:00
 -- url     : https://prove2.me/theorems/866fc96c-9369-5111-9228-71a28a749604

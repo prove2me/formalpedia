@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_hcProjLin_eq_zero_of_mem_nMinusU
 -- name    : GroundTheory.Automorphic.HarishChandra.hcProjLin_eq_zero_of_mem_nMinusU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:34:59.348161+00:00
 -- url     : https://prove2.me/theorems/6b7db150-4283-4d80-a724-7dc9528ca8be

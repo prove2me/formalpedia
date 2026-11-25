@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_ShortVectorsOrthogonal_proof_ba0cb89396c9
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_ShortVectorsOrthogonal_proof_ba0cb89396c9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:30:12.82795+00:00
 -- url     : https://prove2.me/theorems/c7fc133f-ff04-464d-a2e2-63b66f6fc553

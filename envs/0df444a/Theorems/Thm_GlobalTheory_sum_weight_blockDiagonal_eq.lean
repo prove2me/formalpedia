@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_weight_blockDiagonal_eq
 -- name    : GlobalTheory.sum_weight_blockDiagonal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:34:19.208589+00:00
 -- url     : https://prove2.me/theorems/ebf9ca99-1ceb-5383-94ca-0d253e6498a9

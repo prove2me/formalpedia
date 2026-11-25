@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCChartImagDeriv_Y_apply_6a483f1f4a19
 -- name    : P2M_GroundTheory_Heights__Heights_MCChartImagDeriv_Y_apply_6a483f1f4a19
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:45:26.376275+00:00
 -- url     : https://prove2.me/theorems/9fc54500-db6b-57ba-9e40-ece690dd04d9

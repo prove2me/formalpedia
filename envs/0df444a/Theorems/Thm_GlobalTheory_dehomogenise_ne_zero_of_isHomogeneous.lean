@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dehomogenise_ne_zero_of_isHomogeneous
 -- name    : GlobalTheory.dehomogenise_ne_zero_of_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:08.742359+00:00
 -- url     : https://prove2.me/theorems/ccf2d43b-943b-5901-acc4-a7de74654d52

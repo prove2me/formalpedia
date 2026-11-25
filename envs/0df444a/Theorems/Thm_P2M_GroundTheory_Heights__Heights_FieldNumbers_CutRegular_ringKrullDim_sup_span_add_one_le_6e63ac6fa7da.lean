@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRegular_ringKrullDim_sup_span_add_one_le_6e63ac6fa7da
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRegular_ringKrullDim_sup_span_add_one_le_6e63ac6fa7da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:38:58.984127+00:00
 -- url     : https://prove2.me/theorems/d167369c-4bac-484d-b2b8-fbe788351706

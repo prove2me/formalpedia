@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_StabilizerLattices_exists_move
 -- name    : Formalism.HermitianLattices.Ext.L3.StabilizerLattices.exists_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:58:56.695185+00:00
 -- url     : https://prove2.me/theorems/dca9f870-2ca5-4495-b665-a5d6def81852

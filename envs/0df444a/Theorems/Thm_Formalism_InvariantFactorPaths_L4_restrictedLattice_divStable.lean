@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_restrictedLattice_divStable
 -- name    : Formalism.InvariantFactorPaths.L4.restrictedLattice_divStable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:55:52.675638+00:00
 -- url     : https://prove2.me/theorems/fca7c739-0ff5-4a5d-8bc7-3863dde9832f

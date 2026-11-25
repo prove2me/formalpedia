@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_JacobianRankOffHypersurface_eval_pderiv_sum_mul_8d82014868a9
 -- name    : P2M_GroundTheory_Heights__Heights_JacobianRankOffHypersurface_eval_pderiv_sum_mul_8d82014868a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:46:52.327802+00:00
 -- url     : https://prove2.me/theorems/b5583971-935a-4a30-a566-0e13cca1640a

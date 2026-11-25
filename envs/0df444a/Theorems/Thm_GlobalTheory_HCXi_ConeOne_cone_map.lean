@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeOne_cone_map
 -- name    : GlobalTheory.HCXi.ConeOne.cone_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:43:35.806093+00:00
 -- url     : https://prove2.me/theorems/602c8ed2-dab3-49ee-9340-ce97fe404877

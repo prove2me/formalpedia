@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergySymmetry_maDensity_update_sub_fa58ba25e45b
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergySymmetry_maDensity_update_sub_fa58ba25e45b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:19:26.994834+00:00
 -- url     : https://prove2.me/theorems/4f94808c-c9e0-48b7-b33f-8e053ed8d671

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveProperClosedFinite_proof_19a9f160baa2
 -- name    : P2M_GroundTheory_Heights__Heights_CurveProperClosedFinite_proof_19a9f160baa2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:31:57.068714+00:00
 -- url     : https://prove2.me/theorems/3fa8af06-a10d-45cc-928f-b67afbf1ae25

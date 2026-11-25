@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_norm_lt_of_monic_root_small_coeffs_98580c9f2175
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_norm_lt_of_monic_root_small_coeffs_98580c9f2175
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:36:48.82793+00:00
 -- url     : https://prove2.me/theorems/5451db4a-8f98-4dca-8f9e-3ee9f534d7ca

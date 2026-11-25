@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_exists_corr_of_family_eq
 -- name    : GlobalTheory.ChartCmp.exists_corr_of_family_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:12:11.257476+00:00
 -- url     : https://prove2.me/theorems/33f83911-25d5-4bf1-84af-4ae54baa40a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_weierstrassDivision_in_coordinate_41c122d1492a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_weierstrassDivision_in_coordinate_41c122d1492a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:21:26.555082+00:00
 -- url     : https://prove2.me/theorems/5e37fb9e-8a94-44dd-8467-9fa462ccc6db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_More_map_logSer
 -- name    : Formalism.L2.Th1.A.More.map_logSer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:04:10.886096+00:00
 -- url     : https://prove2.me/theorems/86812d34-75b6-55fe-b215-fbcf905be344

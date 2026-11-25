@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_thGrid_sum
 -- name    : Formalism.FourierDecayAlt.P.PBD.thGrid_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:55:51.583398+00:00
 -- url     : https://prove2.me/theorems/0f14fec2-9e12-4a6b-a234-c57bd547877f

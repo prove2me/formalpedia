@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IdealIndexPlaces_genIndex_ideal_8d3b6b12661a
 -- name    : P2M_GroundTheory_Heights__Heights_IdealIndexPlaces_genIndex_ideal_8d3b6b12661a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:22:41.714805+00:00
 -- url     : https://prove2.me/theorems/59266f20-5c7f-40fa-9d33-2817e15d891d

@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for Formalism.L2.Th1.F.u_series_lattice
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-25T04:19:57.477813+00:00
+-- url     : https://prove2.me/submissions/5bbf2326-21c2-4d7f-af2f-7cab73bb4e18
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_EisensteinS2LimitFormula
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_MulStableIntegral
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_Taylor
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_TaylorWp
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_TaylorSigma
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaScale
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_WeierstrassNumeratorDenominator
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_GoodModelLatticeGen
+import Theorems.Thm_Formalism_L2_Th1_F_uSerLattice_of
+import Theorems.Thm_Formalism_L2_Th1_F_weierstrass_numerator_denominator
+import Theorems.Thm_Formalism_L2_Th1_F_weierstrass_p_of_lattice
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators ComplexConjugate
+open Formalism.L2.Th1.CM (wpNum wpDen uSer IsGoodModel)
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.F
+open PowerSeries TaylorWp
+namespace Formalism.L2.Th1.F
+theorem _root_.solution : USerLattice := uSerLattice_of weierstrass_p_of_lattice weierstrass_numerator_denominator
+end Formalism.L2.Th1.F

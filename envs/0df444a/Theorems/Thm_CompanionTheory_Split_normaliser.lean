@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Split_normaliser
 -- name    : CompanionTheory.Split.normaliser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:33:35.08187+00:00
 -- url     : https://prove2.me/theorems/bad660c7-cd77-46a6-bca2-f4e347abdd72

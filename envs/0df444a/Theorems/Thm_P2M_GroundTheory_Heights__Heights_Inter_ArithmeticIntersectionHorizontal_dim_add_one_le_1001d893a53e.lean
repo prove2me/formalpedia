@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionHorizontal_dim_add_one_le_1001d893a53e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionHorizontal_dim_add_one_le_1001d893a53e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:40:46.401834+00:00
 -- url     : https://prove2.me/theorems/20cc0d49-7362-472a-897a-9ac3409e4c1b

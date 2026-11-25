@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassOrth_mem_hcompl_iff
 -- name    : GlobalTheory.MassOrth.mem_hcompl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:21:29.588725+00:00
 -- url     : https://prove2.me/theorems/e4281bd9-121b-4512-b597-dc0fe5f4c88b

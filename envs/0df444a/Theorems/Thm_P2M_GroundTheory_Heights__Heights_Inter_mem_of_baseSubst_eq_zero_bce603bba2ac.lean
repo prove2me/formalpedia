@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_mem_of_baseSubst_eq_zero_bce603bba2ac
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_mem_of_baseSubst_eq_zero_bce603bba2ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:33:52.593765+00:00
 -- url     : https://prove2.me/theorems/059f095b-d6f7-4ba5-95a7-756e6ee2e147

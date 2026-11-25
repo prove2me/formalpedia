@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CechDSq_restrictTo_eq_6615ffe29c1d
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CechDSq_restrictTo_eq_6615ffe29c1d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:26:59.900905+00:00
 -- url     : https://prove2.me/theorems/81e16b4b-083a-41ca-ac43-941b6cef92c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Qx8_mkPair_congr__fe9b39966127
 -- name    : P2M_Formalism_FourierDecayAlt_P_Qx8_mkPair_congr__fe9b39966127
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:37:25.293135+00:00
 -- url     : https://prove2.me/theorems/417ae946-ea31-4df9-89e0-b7d98cca20e5

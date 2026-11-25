@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitDenom_sub_mul_left
 -- name    : GlobalTheory.OrbitDenom.sub_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:22:04.056679+00:00
 -- url     : https://prove2.me/theorems/8e9c6ad3-c5d4-5b5c-bec5-e5e1bcad3f72

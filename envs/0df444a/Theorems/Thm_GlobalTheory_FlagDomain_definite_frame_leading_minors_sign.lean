@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagDomain_definite_frame_leading_minors_sign
 -- name    : GlobalTheory.FlagDomain.definite_frame_leading_minors_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:42:22.096273+00:00
 -- url     : https://prove2.me/theorems/e3e3cf03-077e-4f39-a53c-5cd472c34b11

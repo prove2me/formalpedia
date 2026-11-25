@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFRadRedLocSec_inWb_add
 -- name    : Formalism.FourierDecayAlt.P.NFRadRedLocSec.inWb_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:37:55.162016+00:00
 -- url     : https://prove2.me/theorems/6f7acb6c-c60a-59e5-998a-af52ba34715d

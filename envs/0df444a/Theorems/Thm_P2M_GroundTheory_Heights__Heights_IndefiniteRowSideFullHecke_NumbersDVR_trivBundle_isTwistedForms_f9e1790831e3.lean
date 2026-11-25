@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_trivBundle_isTwistedForms_f9e1790831e3
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_trivBundle_isTwistedForms_f9e1790831e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:40:17.455737+00:00
 -- url     : https://prove2.me/theorems/2fe35681-03ac-4bd8-99c9-582d6f9bd31a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorFunctor_isRepresentable_genFunctor
 -- name    : GlobalTheory.GeneratorFunctor.isRepresentable_genFunctor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:54:39.861457+00:00
 -- url     : https://prove2.me/theorems/e5c84dd0-3615-4b80-9278-bba78a1ed004

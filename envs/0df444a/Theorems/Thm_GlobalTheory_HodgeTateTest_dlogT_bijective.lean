@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateTest_dlogT_bijective
 -- name    : GlobalTheory.HodgeTateTest.dlogT_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:56:49.61082+00:00
 -- url     : https://prove2.me/theorems/b3a273f3-a3c1-47cf-80f1-ac79746e4921

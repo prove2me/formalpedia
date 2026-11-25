@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_subfield_closure_coords_eq_top_76055511fe92
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_subfield_closure_coords_eq_top_76055511fe92
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:32:34.263131+00:00
 -- url     : https://prove2.me/theorems/7338d0fa-d3ac-48d3-848e-0858efd1f49e

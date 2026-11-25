@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_Majorant_sqrt_le_len_65952950a6fe
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_Majorant_sqrt_le_len_65952950a6fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:42:13.565646+00:00
 -- url     : https://prove2.me/theorems/45fcf258-a54f-429d-a8f4-743cd2094f4f

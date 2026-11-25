@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ord_le_ord_iff
 -- name    : GroundTheory.LocalField.ord_le_ord_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:33:27.719294+00:00
 -- url     : https://prove2.me/theorems/8cb8f23c-bcc5-4b63-b3de-d541f0beed5c

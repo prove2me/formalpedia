@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_NodeGapNoncompact_lam_eq
 -- name    : GlobalTheory.Proof.NodeGapNoncompact.lam_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:27:33.654278+00:00
 -- url     : https://prove2.me/theorems/e56edba3-57f5-43ce-8947-5f70943ff010

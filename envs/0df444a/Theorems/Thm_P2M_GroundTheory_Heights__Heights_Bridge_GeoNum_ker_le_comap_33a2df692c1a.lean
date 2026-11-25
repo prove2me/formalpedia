@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Bridge_GeoNum_ker_le_comap_33a2df692c1a
 -- name    : P2M_GroundTheory_Heights__Heights_Bridge_GeoNum_ker_le_comap_33a2df692c1a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:38:33.073794+00:00
 -- url     : https://prove2.me/theorems/3bee4b81-9023-41fe-ad9f-d373f197a937

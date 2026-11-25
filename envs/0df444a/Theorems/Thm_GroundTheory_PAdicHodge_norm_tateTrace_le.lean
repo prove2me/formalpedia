@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_tateTrace_le
 -- name    : GroundTheory.PAdicHodge.norm_tateTrace_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:33:40.857742+00:00
 -- url     : https://prove2.me/theorems/5855a6dd-6413-5ec2-a490-b0c03667790c

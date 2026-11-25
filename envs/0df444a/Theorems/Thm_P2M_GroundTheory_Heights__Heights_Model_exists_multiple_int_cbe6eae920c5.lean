@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_exists_multiple_int_cbe6eae920c5
 -- name    : P2M_GroundTheory_Heights__Heights_Model_exists_multiple_int_cbe6eae920c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:10.299293+00:00
 -- url     : https://prove2.me/theorems/1579f68c-d788-4f50-a439-29b50600a165

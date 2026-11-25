@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RatioField_isAlgebraic_map_f9ef88b8fca0
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RatioField_isAlgebraic_map_f9ef88b8fca0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:44:43.116683+00:00
 -- url     : https://prove2.me/theorems/cc1ac357-ee67-412b-b1ca-fe8de4f6133c

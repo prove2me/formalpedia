@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MainStatements_BetaInf_gN_le_sN
 -- name    : MainStatements.BetaInf.gN_le_sN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:36:55.901593+00:00
 -- url     : https://prove2.me/theorems/f7b97bef-30e4-4251-8033-4c47e3aa635a

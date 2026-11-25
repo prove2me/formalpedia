@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PluckerRelations_chart_form_82dccfe371dc
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PluckerRelations_chart_form_82dccfe371dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:23:28.859297+00:00
 -- url     : https://prove2.me/theorems/0914c2e3-0e6f-430e-9fe9-c9ee108027ae

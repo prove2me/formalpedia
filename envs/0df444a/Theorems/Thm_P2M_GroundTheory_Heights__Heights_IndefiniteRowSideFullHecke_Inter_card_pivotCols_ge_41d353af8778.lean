@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_card_pivotCols_ge_41d353af8778
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_card_pivotCols_ge_41d353af8778
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:34:42.698139+00:00
 -- url     : https://prove2.me/theorems/ddca4ae0-d943-4871-8861-e031e09f940c

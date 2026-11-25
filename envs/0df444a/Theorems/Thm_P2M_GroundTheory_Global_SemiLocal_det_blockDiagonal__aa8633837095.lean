@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Global_SemiLocal_det_blockDiagonal__aa8633837095
 -- name    : P2M_GroundTheory_Global_SemiLocal_det_blockDiagonal__aa8633837095
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:37:53.87779+00:00
 -- url     : https://prove2.me/theorems/34af72b5-0d92-4f54-ab47-ec0ad7bb3ed7

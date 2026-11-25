@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_map_conj_inf_ker_self
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.map_conj_inf_ker_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:36:02.441033+00:00
 -- url     : https://prove2.me/theorems/92beb6dd-ac52-48c3-83d0-706f8ff4ea6e

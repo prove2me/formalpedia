@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SpreadIso_hypotheses_inhabited_370230db64ce
 -- name    : P2M_GroundTheory_Heights__Heights_Model_SpreadIso_hypotheses_inhabited_370230db64ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:54.608832+00:00
 -- url     : https://prove2.me/theorems/2387843c-2d63-4ae3-aebf-89070ade03b4

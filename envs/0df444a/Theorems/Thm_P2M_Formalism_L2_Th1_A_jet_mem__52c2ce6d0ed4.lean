@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_A_jet_mem__52c2ce6d0ed4
 -- name    : P2M_Formalism_L2_Th1_A_jet_mem__52c2ce6d0ed4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:37:44.459785+00:00
 -- url     : https://prove2.me/theorems/004c9cf2-f4be-465b-8342-8ad1ad4770d4

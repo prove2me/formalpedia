@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularityDivisorSupportClosed_not_add_add_9b3ea79ea563
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularityDivisorSupportClosed_not_add_add_9b3ea79ea563
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:43:36.923606+00:00
 -- url     : https://prove2.me/theorems/a839a400-4528-4b62-9431-c589875f088b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_continuous_toConjAct
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.continuous_toConjAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:55:27.150847+00:00
 -- url     : https://prove2.me/theorems/9b8d6284-3e82-555c-a9b8-8da1411a8861

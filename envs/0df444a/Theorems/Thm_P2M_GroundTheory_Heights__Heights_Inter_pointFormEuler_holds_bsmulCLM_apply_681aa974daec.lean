@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pointFormEuler_holds_bsmulCLM_apply_681aa974daec
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pointFormEuler_holds_bsmulCLM_apply_681aa974daec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:35:22.040371+00:00
 -- url     : https://prove2.me/theorems/70fbe669-6698-5d46-8231-422016b356fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_mem_dual_8941773f3eb5
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_mem_dual_8941773f3eb5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:02.892988+00:00
 -- url     : https://prove2.me/theorems/699a2eb0-183a-4d14-a345-2865f6385c3a

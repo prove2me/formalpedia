@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ClosedPointUnitSectionAlt_mem_of_forall_prime_ca2e131ff074
 -- name    : P2M_GroundTheory_Heights__Heights_ClosedPointUnitSectionAlt_mem_of_forall_prime_ca2e131ff074
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:35:54.888082+00:00
 -- url     : https://prove2.me/theorems/03daa8ae-4b65-4ce4-bb36-3f1ea17c7989

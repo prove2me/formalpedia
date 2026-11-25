@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBO_isoQ_apply
 -- name    : Formalism.FourierDecayAlt.P.PBO.isoQ_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:08:22.21332+00:00
 -- url     : https://prove2.me/theorems/6d603960-b84c-59ca-9eb3-30c720b0b9f0

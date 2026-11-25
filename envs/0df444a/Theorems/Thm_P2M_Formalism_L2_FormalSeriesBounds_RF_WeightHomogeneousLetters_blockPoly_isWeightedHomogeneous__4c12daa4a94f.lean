@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_FormalSeriesBounds_RF_WeightHomogeneousLetters_blockPoly_isWeightedHomogeneous__4c12daa4a94f
 -- name    : P2M_Formalism_L2_FormalSeriesBounds_RF_WeightHomogeneousLetters_blockPoly_isWeightedHomogeneous__4c12daa4a94f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:39:48.970855+00:00
 -- url     : https://prove2.me/theorems/acc74ef1-66fe-4958-bc27-ea67ca5d0852

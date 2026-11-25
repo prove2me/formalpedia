@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperImmersionPoint_phla_lin
 -- name    : GlobalTheory.ProperImmersionPoint.phla_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:02:55.799715+00:00
 -- url     : https://prove2.me/theorems/18e27b3b-a5b5-4702-b678-b3aa8580be7b

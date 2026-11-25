@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_charInner_comp_conjNormal
 -- name    : GroundTheory.LocalField.charInner_comp_conjNormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:35:10.482622+00:00
 -- url     : https://prove2.me/theorems/7ad81b7e-976f-5774-b671-d625abcc6ad4

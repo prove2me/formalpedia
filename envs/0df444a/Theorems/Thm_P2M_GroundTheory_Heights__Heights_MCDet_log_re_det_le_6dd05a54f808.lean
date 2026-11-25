@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCDet_log_re_det_le_6dd05a54f808
 -- name    : P2M_GroundTheory_Heights__Heights_MCDet_log_re_det_le_6dd05a54f808
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:46:28.985107+00:00
 -- url     : https://prove2.me/theorems/935b5c68-ca73-4192-803d-09e544d2d773

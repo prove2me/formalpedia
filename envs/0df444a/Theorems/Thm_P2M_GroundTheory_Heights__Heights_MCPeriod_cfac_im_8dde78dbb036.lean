@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCPeriod_cfac_im_8dde78dbb036
 -- name    : P2M_GroundTheory_Heights__Heights_MCPeriod_cfac_im_8dde78dbb036
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:46:25.855043+00:00
 -- url     : https://prove2.me/theorems/f5970d58-bcc7-51a7-96ff-28d32b66bc68

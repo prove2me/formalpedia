@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_pick_many
 -- name    : Formalism.FourierDecayAlt.P.PBD.pick_many
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:00:18.542405+00:00
 -- url     : https://prove2.me/theorems/997698f1-c0bc-4d15-b29e-80d64a030f9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalizedFibreSets_exists_max_over
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalizedFibreSets.exists_max_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:47:34.880957+00:00
 -- url     : https://prove2.me/theorems/da3daf91-23b2-42ca-b445-0d5199f5dd33

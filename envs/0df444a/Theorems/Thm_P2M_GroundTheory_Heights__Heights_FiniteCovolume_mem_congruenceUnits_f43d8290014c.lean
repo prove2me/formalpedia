@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_mem_congruenceUnits_f43d8290014c
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_mem_congruenceUnits_f43d8290014c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:40:34.63885+00:00
 -- url     : https://prove2.me/theorems/fae1a2e6-f639-4a6f-a08b-e66e8603ccb3

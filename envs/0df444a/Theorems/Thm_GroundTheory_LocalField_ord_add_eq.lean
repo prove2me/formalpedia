@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ord_add_eq
 -- name    : GroundTheory.LocalField.ord_add_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:34:34.314814+00:00
 -- url     : https://prove2.me/theorems/fec2270d-fe06-45c2-8b32-efdaf98c3eb0

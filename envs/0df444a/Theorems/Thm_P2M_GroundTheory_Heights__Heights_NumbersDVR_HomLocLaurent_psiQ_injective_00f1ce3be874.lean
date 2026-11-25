@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocLaurent_psiQ_injective_00f1ce3be874
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocLaurent_psiQ_injective_00f1ce3be874
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:31:19.19756+00:00
 -- url     : https://prove2.me/theorems/cb1d890e-18ac-4d09-91b8-2f3f6c12ae3f

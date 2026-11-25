@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentFlagBasis_greedy
 -- name    : GlobalTheory.LaurentFlagBasis.greedy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:45:20.945015+00:00
 -- url     : https://prove2.me/theorems/07c57b0e-9bdf-4a37-a7dd-51e60ac09599

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThree_ne_zero_f16649ac4b2d
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThree_ne_zero_f16649ac4b2d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:54.800571+00:00
 -- url     : https://prove2.me/theorems/06f99b53-33d6-4a61-99a9-2fb59139085a

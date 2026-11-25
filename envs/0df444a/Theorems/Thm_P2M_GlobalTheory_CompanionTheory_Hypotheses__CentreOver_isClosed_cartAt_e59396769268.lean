@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_isClosed_cartAt_e59396769268
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_isClosed_cartAt_e59396769268
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:03:46.862602+00:00
 -- url     : https://prove2.me/theorems/84447cf7-8a3a-4070-a3c0-a99eab4b945a

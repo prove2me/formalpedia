@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_IsotropicScaling_exists_nsmul_mem_b0df14af21b1
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_IsotropicScaling_exists_nsmul_mem_b0df14af21b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:39:45.194117+00:00
 -- url     : https://prove2.me/theorems/a467cfb9-3728-4d8b-84c5-cdb3ff53ec45

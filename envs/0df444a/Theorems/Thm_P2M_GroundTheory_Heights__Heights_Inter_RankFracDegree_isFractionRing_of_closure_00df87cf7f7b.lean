@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RankFracDegree_isFractionRing_of_closure_00df87cf7f7b
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RankFracDegree_isFractionRing_of_closure_00df87cf7f7b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:41:58.389616+00:00
 -- url     : https://prove2.me/theorems/163177b2-ee7e-492e-8957-334bab08a64c

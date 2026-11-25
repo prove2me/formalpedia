@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualArithmeticVariety_span_dualLattice_879b19e8a055
 -- name    : P2M_GroundTheory_Heights__Heights_DualArithmeticVariety_span_dualLattice_879b19e8a055
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:29:08.452559+00:00
 -- url     : https://prove2.me/theorems/b325b793-aeeb-4a93-a56c-c73d210c7a0f

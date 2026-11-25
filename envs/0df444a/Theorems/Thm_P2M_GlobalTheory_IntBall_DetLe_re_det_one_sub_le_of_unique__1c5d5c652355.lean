@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IntBall_DetLe_re_det_one_sub_le_of_unique__1c5d5c652355
 -- name    : P2M_GlobalTheory_IntBall_DetLe_re_det_one_sub_le_of_unique__1c5d5c652355
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:37:14.583115+00:00
 -- url     : https://prove2.me/theorems/49051225-2332-48c4-b5ee-78be298ac153

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HlCoc_exists_unique_cocycle
 -- name    : GlobalTheory.HlCoc.exists_unique_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:46:19.382639+00:00
 -- url     : https://prove2.me/theorems/156c7441-5a26-457c-a8d0-46f24080e1ed

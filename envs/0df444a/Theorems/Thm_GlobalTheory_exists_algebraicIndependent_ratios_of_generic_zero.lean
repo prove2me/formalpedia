@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algebraicIndependent_ratios_of_generic_zero
 -- name    : GlobalTheory.exists_algebraicIndependent_ratios_of_generic_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:39.236487+00:00
 -- url     : https://prove2.me/theorems/b281c035-31be-4a87-9d24-3584f2681a81

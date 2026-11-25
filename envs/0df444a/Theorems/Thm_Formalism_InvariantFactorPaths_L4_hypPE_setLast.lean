@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_hypPE_setLast
 -- name    : Formalism.InvariantFactorPaths.L4.hypPE_setLast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:07:41.853179+00:00
 -- url     : https://prove2.me/theorems/ee73ccc0-6d92-5272-b8b6-6751ab9389bd

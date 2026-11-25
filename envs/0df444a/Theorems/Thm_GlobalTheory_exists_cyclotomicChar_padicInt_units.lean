@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_cyclotomicChar_padicInt_units
 -- name    : GlobalTheory.exists_cyclotomicChar_padicInt_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:54:54.611027+00:00
 -- url     : https://prove2.me/theorems/2c652788-e706-5e99-9284-6c5a5b375961

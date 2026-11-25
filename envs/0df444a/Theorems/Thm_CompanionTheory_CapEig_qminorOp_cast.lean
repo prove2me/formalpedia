@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_qminorOp_cast
 -- name    : CompanionTheory.CapEig.qminorOp_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:42:37.546546+00:00
 -- url     : https://prove2.me/theorems/84fc4038-1555-45a2-b823-facd2fd66a2a

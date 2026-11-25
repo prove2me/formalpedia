@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticePointCount_exists_near_9e6247090531
 -- name    : P2M_GroundTheory_Heights__Heights_LatticePointCount_exists_near_9e6247090531
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:59.430737+00:00
 -- url     : https://prove2.me/theorems/dfe1ae21-28c9-43d5-9c1d-be2254ec48d8

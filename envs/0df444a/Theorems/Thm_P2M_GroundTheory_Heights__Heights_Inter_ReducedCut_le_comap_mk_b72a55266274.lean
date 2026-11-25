@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ReducedCut_le_comap_mk_b72a55266274
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ReducedCut_le_comap_mk_b72a55266274
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:42:15.624539+00:00
 -- url     : https://prove2.me/theorems/5318783c-f609-45ec-b1d6-603f82d283a1

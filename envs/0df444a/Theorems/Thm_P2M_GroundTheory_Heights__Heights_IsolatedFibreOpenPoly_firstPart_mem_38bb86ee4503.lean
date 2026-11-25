@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IsolatedFibreOpenPoly_firstPart_mem_38bb86ee4503
 -- name    : P2M_GroundTheory_Heights__Heights_IsolatedFibreOpenPoly_firstPart_mem_38bb86ee4503
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:45:24.448471+00:00
 -- url     : https://prove2.me/theorems/91f4d075-1e76-43f7-8abd-a41676ffce8a

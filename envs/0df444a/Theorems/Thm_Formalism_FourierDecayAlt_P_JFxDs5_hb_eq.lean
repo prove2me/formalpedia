@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxDs5_hb_eq
 -- name    : Formalism.FourierDecayAlt.P.JFxDs5.hb_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:41:12.212444+00:00
 -- url     : https://prove2.me/theorems/b3229016-474a-4b44-ac86-1e18fd63c2de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_one_sub_two_div_le_mass_true
 -- name    : GlobalTheory.BadShare.one_sub_two_div_le_mass_true
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:27:28.393219+00:00
 -- url     : https://prove2.me/theorems/3a6fe287-db82-4ae0-af42-f13571f7e3db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_exists_pullSectionOn_eq_nsmul_of_basis_f891758361c0
 -- name    : P2M_GroundTheory_Heights__Heights_Model_exists_pullSectionOn_eq_nsmul_of_basis_f891758361c0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:30:47.019785+00:00
 -- url     : https://prove2.me/theorems/37120a40-c12e-434f-aa9d-e6d3bc33c77e

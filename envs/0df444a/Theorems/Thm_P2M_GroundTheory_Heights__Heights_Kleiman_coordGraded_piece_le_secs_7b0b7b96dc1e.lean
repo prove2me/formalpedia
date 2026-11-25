@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_coordGraded_piece_le_secs_7b0b7b96dc1e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_coordGraded_piece_le_secs_7b0b7b96dc1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:29:16.433889+00:00
 -- url     : https://prove2.me/theorems/60c3123b-86de-42c2-927b-9cf1ff65ee57

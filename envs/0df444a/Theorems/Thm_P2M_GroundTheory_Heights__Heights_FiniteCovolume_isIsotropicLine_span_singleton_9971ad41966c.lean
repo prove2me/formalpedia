@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_isIsotropicLine_span_singleton_9971ad41966c
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_isIsotropicLine_span_singleton_9971ad41966c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:40:03.122582+00:00
 -- url     : https://prove2.me/theorems/4384010e-80ea-432c-81f6-7ed3e8c3a077

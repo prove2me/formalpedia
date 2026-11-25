@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolTorsion_exists_isHolTo_lift
 -- name    : GlobalTheory.HolTorsion.exists_isHolTo_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:39:02.861245+00:00
 -- url     : https://prove2.me/theorems/e882de94-c1bd-4d6a-a1b0-825c6c027c8f

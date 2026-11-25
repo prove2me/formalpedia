@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripInv_toAddSubgroup_gmap
 -- name    : GlobalTheory.TripInv.toAddSubgroup_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:35:16.62921+00:00
 -- url     : https://prove2.me/theorems/c2e1018b-f833-434e-b231-112ef5e2684f

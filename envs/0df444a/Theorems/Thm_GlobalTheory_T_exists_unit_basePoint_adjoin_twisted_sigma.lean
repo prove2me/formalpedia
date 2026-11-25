@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unit_basePoint_adjoin_twisted_sigma
 -- name    : GlobalTheory.T.exists_unit_basePoint_adjoin_twisted_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:38:02.950485+00:00
 -- url     : https://prove2.me/theorems/d76efbd2-3765-4f74-bf3c-a5bdc25bc3f4

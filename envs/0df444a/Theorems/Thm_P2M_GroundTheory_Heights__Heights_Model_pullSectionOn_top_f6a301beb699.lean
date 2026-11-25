@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_pullSectionOn_top_f6a301beb699
 -- name    : P2M_GroundTheory_Heights__Heights_Model_pullSectionOn_top_f6a301beb699
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:29:36.181819+00:00
 -- url     : https://prove2.me/theorems/b244d93d-7d5d-4636-8bf6-1565d6d7a4bc

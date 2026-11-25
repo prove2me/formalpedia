@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHCombCyclic_not_faceOK_of_card_one_ac09a1e47140
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHCombCyclic_not_faceOK_of_card_one_ac09a1e47140
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:27:56.329799+00:00
 -- url     : https://prove2.me/theorems/1348327b-5cb5-4e03-bfc1-e3294921dbf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_PlaneGram_TwistData_hypH__461b564647c2
 -- name    : P2M_Formalism_MainNotions_PlaneGram_TwistData_hypH__461b564647c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:38:12.621575+00:00
 -- url     : https://prove2.me/theorems/e2644bf1-84fc-42f3-9dc1-e575682079ab

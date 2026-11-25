@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_DiscOrder_idxN_ne_zero
 -- name    : GlobalTheory.Mass.DiscOrder.idxN_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:21:44.151707+00:00
 -- url     : https://prove2.me/theorems/c001bfef-d2d9-4ce1-b2f7-c2309a455192

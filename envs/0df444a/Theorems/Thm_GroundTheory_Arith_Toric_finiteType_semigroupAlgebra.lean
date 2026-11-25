@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_finiteType_semigroupAlgebra
 -- name    : GroundTheory.Arith.Toric.finiteType_semigroupAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:56:17.187816+00:00
 -- url     : https://prove2.me/theorems/1d205289-065e-40a4-917f-d97cd149ed97

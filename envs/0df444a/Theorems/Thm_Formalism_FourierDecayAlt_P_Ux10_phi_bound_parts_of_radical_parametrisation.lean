@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_phi_bound_parts_of_radical_parametrisation
 -- name    : Formalism.FourierDecayAlt.P.Ux10.phi_bound_parts_of_radical_parametrisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:11:11.365842+00:00
 -- url     : https://prove2.me/theorems/0396637c-ceb6-44b6-bf01-0f35401e839e

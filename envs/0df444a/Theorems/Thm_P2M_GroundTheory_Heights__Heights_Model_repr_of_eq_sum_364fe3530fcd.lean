@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_repr_of_eq_sum_364fe3530fcd
 -- name    : P2M_GroundTheory_Heights__Heights_Model_repr_of_eq_sum_364fe3530fcd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:39:42.979364+00:00
 -- url     : https://prove2.me/theorems/25a05976-91c8-506f-9359-be7d10dfbe0d

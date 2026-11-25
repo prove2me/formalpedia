@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogLinear_ev_sum_C_mul
 -- name    : GlobalTheory.LogLinear.ev_sum_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:42:21.44337+00:00
 -- url     : https://prove2.me/theorems/63cb06ad-5570-43c1-b994-363bb3ec0e94

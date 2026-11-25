@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_muMin_le_quotSlope
 -- name    : GlobalTheory.ArchMetric.muMin_le_quotSlope
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:51:12.087109+00:00
 -- url     : https://prove2.me/theorems/5cfcad8e-98cb-5f4b-ae65-a9c4c5e06c4a

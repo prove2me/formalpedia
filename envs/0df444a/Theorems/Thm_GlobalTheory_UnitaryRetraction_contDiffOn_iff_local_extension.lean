@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryRetraction_contDiffOn_iff_local_extension
 -- name    : GlobalTheory.UnitaryRetraction.contDiffOn_iff_local_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:34:38.889245+00:00
 -- url     : https://prove2.me/theorems/42a6bcd9-4b04-45b5-9bae-0f50b877ef09

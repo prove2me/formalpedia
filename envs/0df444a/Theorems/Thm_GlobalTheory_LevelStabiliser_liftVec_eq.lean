@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelStabiliser_liftVec_eq
 -- name    : GlobalTheory.LevelStabiliser.liftVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:21:13.693267+00:00
 -- url     : https://prove2.me/theorems/9add6c4a-da2d-4dfa-b008-711c333e1d68

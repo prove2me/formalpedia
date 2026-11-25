@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_MapFB_map_nabValN
 -- name    : Formalism.L2.FormalSeriesBounds.MapFB.map_nabValN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:47:57.501724+00:00
 -- url     : https://prove2.me/theorems/e3c82b3c-a018-4063-89ee-21654e094824

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_phSum_sq
 -- name    : Formalism.L2.Th1.G.phSum_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:29:26.73044+00:00
 -- url     : https://prove2.me/theorems/f19adc50-722e-51c4-abc6-461405e06bea

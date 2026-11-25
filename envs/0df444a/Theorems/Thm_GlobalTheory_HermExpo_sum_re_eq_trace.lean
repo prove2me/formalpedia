@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermExpo_sum_re_eq_trace
 -- name    : GlobalTheory.HermExpo.sum_re_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:47:51.760622+00:00
 -- url     : https://prove2.me/theorems/25792ebf-de21-45d3-886d-6c175fc63bdf

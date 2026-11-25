@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_BlowUpChart_comap_eq_maximalIdeal_e63e4b11dba8
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_BlowUpChart_comap_eq_maximalIdeal_e63e4b11dba8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:38:17.129498+00:00
 -- url     : https://prove2.me/theorems/cc037e66-4b48-4f62-b799-31da9bac38a6

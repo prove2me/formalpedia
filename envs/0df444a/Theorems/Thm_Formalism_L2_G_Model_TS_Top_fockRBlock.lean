@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_Top_fockRBlock
 -- name    : Formalism.L2.G.Model.TS.Top.fockRBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:48:24.864206+00:00
 -- url     : https://prove2.me/theorems/7aac0fc6-ea1a-4dbb-ad7d-6759f5dc1b16

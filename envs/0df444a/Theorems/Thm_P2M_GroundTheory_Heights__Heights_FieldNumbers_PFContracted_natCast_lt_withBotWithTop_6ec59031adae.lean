@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_natCast_lt_withBotWithTop_6ec59031adae
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_natCast_lt_withBotWithTop_6ec59031adae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:39:06.592798+00:00
 -- url     : https://prove2.me/theorems/c6cc3507-7a9b-5955-a81a-8fa261ed66b2

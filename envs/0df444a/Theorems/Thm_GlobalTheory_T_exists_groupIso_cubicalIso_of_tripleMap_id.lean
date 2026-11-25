@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_groupIso_cubicalIso_of_tripleMap_id
 -- name    : GlobalTheory.T.exists_groupIso_cubicalIso_of_tripleMap_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:39:36.304377+00:00
 -- url     : https://prove2.me/theorems/a6835006-df12-466d-9304-0c0a43d541e9

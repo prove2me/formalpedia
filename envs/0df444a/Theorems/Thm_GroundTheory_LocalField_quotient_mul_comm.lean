@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_quotient_mul_comm
 -- name    : GroundTheory.LocalField.quotient_mul_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:34:13.140203+00:00
 -- url     : https://prove2.me/theorems/37e1ffad-3a5a-40a4-8071-ecd17b25f65c

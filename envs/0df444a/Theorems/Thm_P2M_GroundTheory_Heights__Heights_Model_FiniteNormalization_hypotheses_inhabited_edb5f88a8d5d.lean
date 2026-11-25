@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_FiniteNormalization_hypotheses_inhabited_edb5f88a8d5d
 -- name    : P2M_GroundTheory_Heights__Heights_Model_FiniteNormalization_hypotheses_inhabited_edb5f88a8d5d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:32:07.837962+00:00
 -- url     : https://prove2.me/theorems/fd0c0380-380d-4a04-93bc-8f1d04298b79

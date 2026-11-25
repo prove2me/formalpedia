@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineDegreeProof_subst_homog_eac77d32653b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineDegreeProof_subst_homog_eac77d32653b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:32:41.423614+00:00
 -- url     : https://prove2.me/theorems/7a042eba-4735-4c81-b327-f7f3eccc65eb

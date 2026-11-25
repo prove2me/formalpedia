@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCPsh_circleAverage_log_norm_of_ne_zero_7323d50ed254
 -- name    : P2M_GroundTheory_Heights__Heights_MCPsh_circleAverage_log_norm_of_ne_zero_7323d50ed254
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:48:04.585038+00:00
 -- url     : https://prove2.me/theorems/c83c15c5-108a-48c1-8ce9-29a08dc1b210

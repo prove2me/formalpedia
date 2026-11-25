@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_cechAbHEquivH__toCechAbH_41bd61f78311
 -- name    : P2M_GlobalTheory_cechAbHEquivH__toCechAbH_41bd61f78311
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:39:39.659418+00:00
 -- url     : https://prove2.me/theorems/54c287d1-5cc2-4505-88ca-86f49a181a9a

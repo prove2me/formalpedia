@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algebraicIndependent_int_quasiFiniteAt
 -- name    : GlobalTheory.exists_algebraicIndependent_int_quasiFiniteAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:29:32.828794+00:00
 -- url     : https://prove2.me/theorems/81081a68-d401-4d73-82f4-f895064c3662

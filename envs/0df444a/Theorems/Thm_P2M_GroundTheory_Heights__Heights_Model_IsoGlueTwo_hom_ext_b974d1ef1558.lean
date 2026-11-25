@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_IsoGlueTwo_hom_ext_b974d1ef1558
 -- name    : P2M_GroundTheory_Heights__Heights_Model_IsoGlueTwo_hom_ext_b974d1ef1558
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:24.137432+00:00
 -- url     : https://prove2.me/theorems/5c384d1a-21a2-430a-a11d-d3e2b178d4c7

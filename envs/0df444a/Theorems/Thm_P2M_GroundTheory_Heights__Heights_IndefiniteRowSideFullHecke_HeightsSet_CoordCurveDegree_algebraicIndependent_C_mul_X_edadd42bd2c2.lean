@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CoordCurveDegree_algebraicIndependent_C_mul_X_edadd42bd2c2
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CoordCurveDegree_algebraicIndependent_C_mul_X_edadd42bd2c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:40:09.686306+00:00
 -- url     : https://prove2.me/theorems/e601264e-4ef9-4974-83f5-8a2b9c3dc802

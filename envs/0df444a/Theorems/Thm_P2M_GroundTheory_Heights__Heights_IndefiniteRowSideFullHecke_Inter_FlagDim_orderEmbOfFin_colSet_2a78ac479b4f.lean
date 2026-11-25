@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_orderEmbOfFin_colSet_2a78ac479b4f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_orderEmbOfFin_colSet_2a78ac479b4f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:40:31.420149+00:00
 -- url     : https://prove2.me/theorems/b90f1e4e-9f1a-42e5-aa0a-d5cfade496a5

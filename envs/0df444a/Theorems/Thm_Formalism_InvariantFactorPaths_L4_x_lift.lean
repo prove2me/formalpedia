@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_x_lift
 -- name    : Formalism.InvariantFactorPaths.L4.x_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:55:46.486471+00:00
 -- url     : https://prove2.me/theorems/9f9e97cc-15a5-5e81-9df6-3888ba859fbe

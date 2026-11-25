@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_le_inertia
 -- name    : GroundTheory.LocalField.le_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:35:25.26123+00:00
 -- url     : https://prove2.me/theorems/c30948b3-2a94-5700-b899-0cc6d5f4b8cd

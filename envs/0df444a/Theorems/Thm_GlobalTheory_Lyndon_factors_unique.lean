@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_factors_unique
 -- name    : GlobalTheory.Lyndon.factors_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:19:39.756426+00:00
 -- url     : https://prove2.me/theorems/788fbc8c-915e-4b12-a125-19ddaf5376a6

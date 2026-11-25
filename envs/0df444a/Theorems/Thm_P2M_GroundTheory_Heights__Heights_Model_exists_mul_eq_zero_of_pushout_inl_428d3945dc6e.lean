@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_exists_mul_eq_zero_of_pushout_inl_428d3945dc6e
 -- name    : P2M_GroundTheory_Heights__Heights_Model_exists_mul_eq_zero_of_pushout_inl_428d3945dc6e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:57.182606+00:00
 -- url     : https://prove2.me/theorems/0dabf081-97a3-4bbf-9bf2-ccd45930f792

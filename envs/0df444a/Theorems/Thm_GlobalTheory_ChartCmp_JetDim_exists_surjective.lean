@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_JetDim_exists_surjective
 -- name    : GlobalTheory.ChartCmp.JetDim.exists_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:58:46.146355+00:00
 -- url     : https://prove2.me/theorems/2a778220-636d-58a8-9265-5167b608e280

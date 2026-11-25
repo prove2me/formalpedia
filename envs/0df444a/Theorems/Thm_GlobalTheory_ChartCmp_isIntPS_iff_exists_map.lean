@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_isIntPS_iff_exists_map
 -- name    : GlobalTheory.ChartCmp.isIntPS_iff_exists_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:37:37.22757+00:00
 -- url     : https://prove2.me/theorems/7bafe090-ee62-4315-9c39-4a94b2980875

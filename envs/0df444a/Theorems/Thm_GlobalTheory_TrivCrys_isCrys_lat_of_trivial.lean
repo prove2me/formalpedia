@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TrivCrys_isCrys_lat_of_trivial
 -- name    : GlobalTheory.TrivCrys.isCrys_lat_of_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:31:13.489227+00:00
 -- url     : https://prove2.me/theorems/eb41a07e-5d5e-4a8a-ac26-1d57bd45168c

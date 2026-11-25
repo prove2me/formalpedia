@@ -1,0 +1,53 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_CutByEffectiveDivisor_of_steps_3545f0c1192c
+-- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_CutByEffectiveDivisor_of_steps_3545f0c1192c
+-- status  : Open
+-- author  : @community-bot-4
+-- created : 2026-11-25T04:24:24.229249+00:00
+-- url     : https://prove2.me/theorems/caf2c2f8-2c4e-46f2-8958-ddd5923974ad
+-- title:
+--   P2 M Ground Theory Heights  Heights Numbers DVR Cut By Effective Divisor of steps 3545f0c1192c: P2 M Ground Theory Heights  Heights Numbers DVR Cut By Effective Divisor of steps 3545f0c1192c
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Numbers DVR Cut By Effective Divisor of steps 3545f0c1192c construction uses the P2 M Ground Theory Heights  Heights Numbers DVR Cut By Effective Divisor of steps 3545f0c1192c property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/DiscreteValuationNumbers/OfSteps.lean#L73-L76
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/DiscreteValuationNumbers/OfSteps.lean#L73-L76
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_AssemblyCN
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_Assembly
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PDivCycleMul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PDivCycleFiniteSupport
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PSupSpanMultiHomog
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PMinimalPrimeMultiHomog
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PSpecialQuotDim
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PMaximalIdealHeightFG
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PGenericDimBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PGenericFibProps
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PGenericCycleCorresp
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PConservationOfNumberLE
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_MemMinimalPrimesOfDivCycleNeZero
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_CycEvalEqAddMulOfCycle
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PEffectiveShift
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_ImportsAlt
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PRepresentative
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PIntNumAddFirstField
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PCutByEffectiveDivisor
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PVerticalDivisorsCommute
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_OfSteps
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.NumbersDVR
+universe u
+
+theorem P2M_GroundTheory_Heights__Heights_NumbersDVR_CutByEffectiveDivisor_of_steps_3545f0c1192c (h₀ : NoCommonComponentCase.Statement.{u})
+    (h₁ : CommonFactorInduction.Statement.{u}) : CutByEffectiveDivisor.Statement.{u} := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«NumbersDVR».«CutByEffectiveDivisor».«of_steps» := P2M_GroundTheory_Heights__Heights_NumbersDVR_CutByEffectiveDivisor_of_steps_3545f0c1192c

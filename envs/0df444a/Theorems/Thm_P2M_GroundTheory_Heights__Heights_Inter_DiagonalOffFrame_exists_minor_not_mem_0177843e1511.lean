@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalOffFrame_exists_minor_not_mem_0177843e1511
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalOffFrame_exists_minor_not_mem_0177843e1511
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:23:59.704406+00:00
 -- url     : https://prove2.me/theorems/bdd1917a-4104-4fb2-9503-65ff82e2df76

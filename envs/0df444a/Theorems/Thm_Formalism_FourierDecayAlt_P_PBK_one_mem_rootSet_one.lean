@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_one_mem_rootSet_one
 -- name    : Formalism.FourierDecayAlt.P.PBK.one_mem_rootSet_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:34:14.864697+00:00
 -- url     : https://prove2.me/theorems/5a005196-8150-46db-b1be-d5e01e60ef66

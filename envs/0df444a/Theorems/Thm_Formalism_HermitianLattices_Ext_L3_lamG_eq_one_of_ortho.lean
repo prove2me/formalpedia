@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_lamG_eq_one_of_ortho
 -- name    : Formalism.HermitianLattices.Ext.L3.lamG_eq_one_of_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:19.766244+00:00
 -- url     : https://prove2.me/theorems/06149a56-9d2d-48f3-832a-0b97c3fac9b3

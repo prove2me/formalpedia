@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_Cutoff_zOf_mem_cut
 -- name    : GlobalTheory.IntBall.Cutoff.zOf_mem_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:45:36.349846+00:00
 -- url     : https://prove2.me/theorems/3cc900b6-eaef-457b-ac21-7834ecc96fc5

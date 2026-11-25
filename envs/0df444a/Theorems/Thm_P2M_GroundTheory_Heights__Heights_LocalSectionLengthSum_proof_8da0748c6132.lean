@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalSectionLengthSum_proof_8da0748c6132
 -- name    : P2M_GroundTheory_Heights__Heights_LocalSectionLengthSum_proof_8da0748c6132
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:35.069488+00:00
 -- url     : https://prove2.me/theorems/39a73b71-9eea-4969-9be0-d5fccdc9f449

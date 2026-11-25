@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LowerBoundFree_Nine_sl_eq_8eea8789824b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LowerBoundFree_Nine_sl_eq_8eea8789824b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:32:57.332221+00:00
 -- url     : https://prove2.me/theorems/df3bab20-26f5-4eeb-8913-2171f5f305e7

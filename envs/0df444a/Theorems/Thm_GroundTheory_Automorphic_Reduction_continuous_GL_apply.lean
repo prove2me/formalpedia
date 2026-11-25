@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_continuous_GL_apply
 -- name    : GroundTheory.Automorphic.Reduction.continuous_GL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:50:43.505362+00:00
 -- url     : https://prove2.me/theorems/c5970f83-42b5-58f2-a788-e69b4fc8445b

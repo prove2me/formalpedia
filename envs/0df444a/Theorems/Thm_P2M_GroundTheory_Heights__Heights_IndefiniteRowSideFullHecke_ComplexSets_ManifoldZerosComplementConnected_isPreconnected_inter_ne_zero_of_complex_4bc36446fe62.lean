@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ManifoldZerosComplementConnected_isPreconnected_inter_ne_zero_of_complex_4bc36446fe62
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ManifoldZerosComplementConnected_isPreconnected_inter_ne_zero_of_complex_4bc36446fe62
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:20:07.711669+00:00
 -- url     : https://prove2.me/theorems/b08c68ed-d752-461a-a743-92b92b9b6676

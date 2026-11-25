@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_hyperplaneEmb_tail_2783fa70efbb
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_hyperplaneEmb_tail_2783fa70efbb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:40:12.469655+00:00
 -- url     : https://prove2.me/theorems/ba7c2ab5-3cb3-465b-8c0b-ce36dfba2cf7

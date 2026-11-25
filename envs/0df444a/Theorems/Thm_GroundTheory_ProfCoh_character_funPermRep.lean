@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_character_funPermRep
 -- name    : GroundTheory.ProfCoh.character_funPermRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:34:51.502995+00:00
 -- url     : https://prove2.me/theorems/b90390df-dde0-49e9-902c-fc10902cefa3

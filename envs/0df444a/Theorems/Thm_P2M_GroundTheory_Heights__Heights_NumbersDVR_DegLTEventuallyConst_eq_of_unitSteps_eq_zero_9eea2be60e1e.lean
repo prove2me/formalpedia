@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DegLTEventuallyConst_eq_of_unitSteps_eq_zero_9eea2be60e1e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_DegLTEventuallyConst_eq_of_unitSteps_eq_zero_9eea2be60e1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:31:32.986136+00:00
 -- url     : https://prove2.me/theorems/d798f6e8-91f9-4f94-bcd1-7fbdae68302e

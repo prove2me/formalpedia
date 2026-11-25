@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBL_stdS_app
 -- name    : Formalism.FourierDecayAlt.P.PBL.stdS_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:45:43.52684+00:00
 -- url     : https://prove2.me/theorems/200a767e-35be-4b02-a86d-314a25623328

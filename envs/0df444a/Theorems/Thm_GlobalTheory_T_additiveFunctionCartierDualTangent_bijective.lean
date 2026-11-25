@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_additiveFunctionCartierDualTangent_bijective
 -- name    : GlobalTheory.T.additiveFunctionCartierDualTangent_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:57:03.653305+00:00
 -- url     : https://prove2.me/theorems/8873ed32-e761-4607-ab5e-e7e090bf4a43

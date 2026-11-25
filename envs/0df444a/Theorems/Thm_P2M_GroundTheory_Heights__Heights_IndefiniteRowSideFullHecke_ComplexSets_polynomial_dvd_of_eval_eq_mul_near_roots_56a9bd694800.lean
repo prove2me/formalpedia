@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_polynomial_dvd_of_eval_eq_mul_near_roots_56a9bd694800
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_polynomial_dvd_of_eval_eq_mul_near_roots_56a9bd694800
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:37:22.697789+00:00
 -- url     : https://prove2.me/theorems/cd34f058-2d84-4984-bd14-4fc6ad4e1765

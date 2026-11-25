@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_prod_card_stabilizer_finitePlace
 -- name    : GroundTheory.Global.prod_card_stabilizer_finitePlace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:14:53.471464+00:00
 -- url     : https://prove2.me/theorems/78eadbb7-8057-541f-8028-766aac2c5a8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_ringKrullDim_le_of_isIntegral_of_injective
 -- name    : GroundTheory.Arith.Toric.ringKrullDim_le_of_isIntegral_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:55:42.00061+00:00
 -- url     : https://prove2.me/theorems/93321087-7a87-4e14-923c-50b273ec9593

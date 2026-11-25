@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_wtX_range
 -- name    : Formalism.InvariantFactorPaths.L4.wtX_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:54:26.986722+00:00
 -- url     : https://prove2.me/theorems/fcdde815-90a5-4196-8326-cff5efd8fded

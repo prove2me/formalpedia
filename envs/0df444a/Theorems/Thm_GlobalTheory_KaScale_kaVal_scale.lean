@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaScale_kaVal_scale
 -- name    : GlobalTheory.KaScale.kaVal_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:48:04.812671+00:00
 -- url     : https://prove2.me/theorems/f9b763c8-d4ac-4948-a72f-e1693df9d469

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_hasQExpansion_modularJ_comp
 -- name    : GlobalTheory.exists_hasQExpansion_modularJ_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:32:30.901444+00:00
 -- url     : https://prove2.me/theorems/ba5b10b4-32be-4d25-ab12-745758df0980

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__Tame_val_eq_210212283d05
 -- name    : P2M_Formalism_BasicNotions_Examples__Tame_val_eq_210212283d05
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:03:59.105796+00:00
 -- url     : https://prove2.me/theorems/2fe5f4fc-3c21-43b8-9993-489146037171

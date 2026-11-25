@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleCutProof_intNumL_cons_eq_snoc_d16d0916dd87
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleCutProof_intNumL_cons_eq_snoc_d16d0916dd87
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:29:37.477745+00:00
 -- url     : https://prove2.me/theorems/4982a499-725f-4d9e-9693-fcab9ec8c41a

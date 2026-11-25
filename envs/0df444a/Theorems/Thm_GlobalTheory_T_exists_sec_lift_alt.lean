@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_sec_lift_alt
 -- name    : GlobalTheory.T.exists_sec_lift_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:38:32.091923+00:00
 -- url     : https://prove2.me/theorems/64e20bce-48e2-49b4-93d7-dcfd1761d1f0

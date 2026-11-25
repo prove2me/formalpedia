@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_Ks_mono
 -- name    : GlobalTheory.TateDecomp.Ks_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:51:55.944504+00:00
 -- url     : https://prove2.me/theorems/3377fd46-9f04-5292-a391-8a40adc26f3c

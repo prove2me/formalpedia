@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_isMultiHomog_of_isWeightedHomogeneous_22d326baa3f1
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_isMultiHomog_of_isWeightedHomogeneous_22d326baa3f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:40:29.360356+00:00
 -- url     : https://prove2.me/theorems/757a6dc9-aaf5-4b5e-b4f0-38adcbabb45f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_StabilizerLattices_finite_rep
 -- name    : Formalism.HermitianLattices.Ext.L3.StabilizerLattices.finite_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:54:26.319614+00:00
 -- url     : https://prove2.me/theorems/8c8a51bf-9f9e-5dfe-ac42-88cb3b67eccb

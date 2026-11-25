@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ReducedCut_length_quot_map_mk_1149da282bdc
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ReducedCut_length_quot_map_mk_1149da282bdc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:42:46.745799+00:00
 -- url     : https://prove2.me/theorems/e0db9d14-4733-4b64-8004-00d176f015c5

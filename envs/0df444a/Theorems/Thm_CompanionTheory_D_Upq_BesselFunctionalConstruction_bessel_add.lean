@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_BesselFunctionalConstruction_bessel_add
 -- name    : CompanionTheory.D.Upq.BesselFunctionalConstruction.bessel_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:42:41.464289+00:00
 -- url     : https://prove2.me/theorems/f536bf69-de0c-4a74-b290-24a1719b0e5b

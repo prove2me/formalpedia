@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_FubiniLevi_lagrange_9c3712389ff7
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_FubiniLevi_lagrange_9c3712389ff7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:31:30.05086+00:00
 -- url     : https://prove2.me/theorems/1c5a7f82-55d7-4a39-8a99-16dd8d3771bb

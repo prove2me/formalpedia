@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_filtPiece_top_9f718a593fcf
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_filtPiece_top_9f718a593fcf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:36:51.447519+00:00
 -- url     : https://prove2.me/theorems/e7cf82fa-682e-51c7-8c71-c0a0010c5d25

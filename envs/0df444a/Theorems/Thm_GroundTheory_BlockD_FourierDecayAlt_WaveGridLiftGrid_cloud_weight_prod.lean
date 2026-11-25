@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_WaveGridLiftGrid_cloud_weight_prod
 -- name    : GroundTheory.BlockD.FourierDecayAlt.WaveGridLiftGrid.cloud_weight_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:35:03.964431+00:00
 -- url     : https://prove2.me/theorems/45b444c9-bb83-57dc-b863-aa69a21e0bcb

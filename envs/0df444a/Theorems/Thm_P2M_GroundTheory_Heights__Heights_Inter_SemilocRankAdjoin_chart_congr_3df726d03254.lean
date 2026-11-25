@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocRankAdjoin_chart_congr_3df726d03254
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocRankAdjoin_chart_congr_3df726d03254
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:44:40.613009+00:00
 -- url     : https://prove2.me/theorems/0c3f81ce-3460-4295-a8e1-ccbe57545e2b

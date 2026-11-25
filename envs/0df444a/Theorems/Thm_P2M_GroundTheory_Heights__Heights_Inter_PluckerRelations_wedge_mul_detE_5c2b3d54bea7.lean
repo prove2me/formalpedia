@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PluckerRelations_wedge_mul_detE_5c2b3d54bea7
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PluckerRelations_wedge_mul_detE_5c2b3d54bea7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:49:50.394282+00:00
 -- url     : https://prove2.me/theorems/41e1b905-0d71-5107-981f-c4cb85ef5f6d

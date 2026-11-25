@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_matrix_ext_split
 -- name    : MassDataIdxCore.matrix_ext_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:37:02.841436+00:00
 -- url     : https://prove2.me/theorems/64ab5b3c-465c-4920-bcad-52e8a77bdb36

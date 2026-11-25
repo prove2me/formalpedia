@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AreaGraphPiece_proof_78929f66b0bb
 -- name    : P2M_GroundTheory_Heights__Heights_AreaGraphPiece_proof_78929f66b0bb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:32:38.089852+00:00
 -- url     : https://prove2.me/theorems/a6938da2-3105-427e-96d3-56a1441f6b0c

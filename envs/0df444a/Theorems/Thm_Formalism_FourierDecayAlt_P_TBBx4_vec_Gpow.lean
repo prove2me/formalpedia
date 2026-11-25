@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx4_vec_Gpow
 -- name    : Formalism.FourierDecayAlt.P.TBBx4.vec_Gpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:58:49.586374+00:00
 -- url     : https://prove2.me/theorems/647ffdde-e32d-4f3a-a8b5-920bd6cb23d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_filter_le_succ_and_sq_sum_le_pow
 -- name    : GlobalTheory.card_filter_le_succ_and_sq_sum_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:34:34.191043+00:00
 -- url     : https://prove2.me/theorems/f500974c-b93f-45ce-ba9d-9d24b8ac919e

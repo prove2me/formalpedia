@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_isotropicVector_mem_lattice_d587d911849a
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_isotropicVector_mem_lattice_d587d911849a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:39:16.446793+00:00
 -- url     : https://prove2.me/theorems/fd174332-21ae-4de0-bf18-ba84b29977fe

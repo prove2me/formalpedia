@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_tsum_orbit_eq_tsum_quotient_4af71a9ca89b
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_tsum_orbit_eq_tsum_quotient_4af71a9ca89b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:41:42.00862+00:00
 -- url     : https://prove2.me/theorems/6a61511b-dcff-42d1-aad0-b66ca3d2dd07

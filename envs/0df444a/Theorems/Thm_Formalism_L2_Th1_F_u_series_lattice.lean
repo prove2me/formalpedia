@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_u_series_lattice
 -- name    : Formalism.L2.Th1.F.u_series_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:33:24.330896+00:00
 -- url     : https://prove2.me/theorems/dc4f8413-15a9-4565-942a-e51d7dcadcfd

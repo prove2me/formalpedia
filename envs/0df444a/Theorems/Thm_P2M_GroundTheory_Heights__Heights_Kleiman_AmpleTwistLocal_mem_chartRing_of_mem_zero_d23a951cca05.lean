@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_AmpleTwistLocal_mem_chartRing_of_mem_zero_d23a951cca05
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_AmpleTwistLocal_mem_chartRing_of_mem_zero_d23a951cca05
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:26:55.759775+00:00
 -- url     : https://prove2.me/theorems/68a7e8d3-4946-46c5-a4ff-a8cdc9650a10

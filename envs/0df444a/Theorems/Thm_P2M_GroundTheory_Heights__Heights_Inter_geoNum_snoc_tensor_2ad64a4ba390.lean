@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_geoNum_snoc_tensor_2ad64a4ba390
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_geoNum_snoc_tensor_2ad64a4ba390
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:25:13.922097+00:00
 -- url     : https://prove2.me/theorems/8550aef4-7277-438c-ac07-a56ec553ef57

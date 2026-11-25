@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_isUnitAt_one_e6e6f4cfcb1d
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_isUnitAt_one_e6e6f4cfcb1d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:30.239533+00:00
 -- url     : https://prove2.me/theorems/fb9729e7-e1dd-4bb5-9f82-88062643e58f

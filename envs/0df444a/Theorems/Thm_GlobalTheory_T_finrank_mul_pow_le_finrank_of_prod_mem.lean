@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finrank_mul_pow_le_finrank_of_prod_mem
 -- name    : GlobalTheory.T.finrank_mul_pow_le_finrank_of_prod_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:39:29.437604+00:00
 -- url     : https://prove2.me/theorems/d19a4b5d-5725-4ecf-a5a3-f70c7d1b3889

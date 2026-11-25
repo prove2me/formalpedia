@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_NodeGapNoncompact_interlace_iff
 -- name    : GlobalTheory.Proof.NodeGapNoncompact.interlace_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:29:20.556465+00:00
 -- url     : https://prove2.me/theorems/6d4b7d36-8c3e-51c1-b254-8e8374c6c221

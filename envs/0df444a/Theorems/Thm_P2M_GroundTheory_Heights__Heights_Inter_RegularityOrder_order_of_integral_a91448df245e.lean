@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularityOrder_order_of_integral_a91448df245e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularityOrder_order_of_integral_a91448df245e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:43:09.207538+00:00
 -- url     : https://prove2.me/theorems/352ed7cd-95a2-4748-94a9-d3d6a4171398

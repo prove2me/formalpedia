@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eLpNorm_two_le_ofReal_sqrt_of_integral_le
 -- name    : GlobalTheory.eLpNorm_two_le_ofReal_sqrt_of_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:34:47.248637+00:00
 -- url     : https://prove2.me/theorems/6b2e9ff7-0c7d-494d-95bb-d763a1d4c18b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCCuspTimeDeriv_inv_le_exp_half_log_8bddef3919ec
 -- name    : P2M_GroundTheory_Heights__Heights_MCCuspTimeDeriv_inv_le_exp_half_log_8bddef3919ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:46:17.588912+00:00
 -- url     : https://prove2.me/theorems/09f26161-98b0-587e-b278-53e289c3d029

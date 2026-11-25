@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_matrixAction_idempotent_ac24ce58c29b
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_matrixAction_idempotent_ac24ce58c29b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:36:59.9696+00:00
 -- url     : https://prove2.me/theorems/6e0ca058-d058-45e1-aff3-9935bfb0bdaf

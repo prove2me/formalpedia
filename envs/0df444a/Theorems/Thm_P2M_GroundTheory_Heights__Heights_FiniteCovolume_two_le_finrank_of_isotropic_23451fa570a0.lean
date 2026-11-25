@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_two_le_finrank_of_isotropic_23451fa570a0
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_two_le_finrank_of_isotropic_23451fa570a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:45:27.347068+00:00
 -- url     : https://prove2.me/theorems/5a20682f-6980-4d19-ad1b-0bc54ff89ea3

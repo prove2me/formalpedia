@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_prod_range_prod_range_eq
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.prod_range_prod_range_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:34:58.797737+00:00
 -- url     : https://prove2.me/theorems/278b706a-9e82-4310-8894-cd4681c89de5

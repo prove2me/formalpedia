@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueAdjoin_isMultiHomogIdeal_map_ef06bc88f37f
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueAdjoin_isMultiHomogIdeal_map_ef06bc88f37f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:46:14.805705+00:00
 -- url     : https://prove2.me/theorems/4c3131d2-e971-48fb-bed3-41fdee621224

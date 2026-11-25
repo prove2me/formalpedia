@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalPullback_X_mem_diag_iff_cd110d0e6e0d
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalPullback_X_mem_diag_iff_cd110d0e6e0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:23:42.276633+00:00
 -- url     : https://prove2.me/theorems/8ea0d911-b0be-4e5a-ba60-51bb14b436c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_MaxIdealJointEigen_mulVec_eval__627d53cb6c27
 -- name    : P2M_GlobalTheory_MaxIdealJointEigen_mulVec_eval__627d53cb6c27
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:37:00.558676+00:00
 -- url     : https://prove2.me/theorems/daee18dc-acaf-5e09-8bee-2b76272acb72

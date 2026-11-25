@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GradedFrameCharacterisation_forward_756e8a607425
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GradedFrameCharacterisation_forward_756e8a607425
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:31:16.192803+00:00
 -- url     : https://prove2.me/theorems/f5841a4e-1e3b-47c7-9015-20ea1e8aa31c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBallMinorOne_zDet_mul_colGram_le_norm_dmin
 -- name    : GlobalTheory.IntBallMinorOne.zDet_mul_colGram_le_norm_dmin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:46:09.193581+00:00
 -- url     : https://prove2.me/theorems/415a6704-3e71-4e1b-9d84-c08ef5a21e61

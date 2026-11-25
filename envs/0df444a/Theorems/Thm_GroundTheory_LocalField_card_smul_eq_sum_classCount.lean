@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_card_smul_eq_sum_classCount
 -- name    : GroundTheory.LocalField.card_smul_eq_sum_classCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:35:52.658125+00:00
 -- url     : https://prove2.me/theorems/b6a52dac-8fe2-4041-89da-0359193e1b20

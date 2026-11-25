@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_DegLocExact_mem_of_map_mem_a634e76c1bc9
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_DegLocExact_mem_of_map_mem_a634e76c1bc9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:26:53.010107+00:00
 -- url     : https://prove2.me/theorems/a57862f1-439b-4f26-9e21-f80f41a73429

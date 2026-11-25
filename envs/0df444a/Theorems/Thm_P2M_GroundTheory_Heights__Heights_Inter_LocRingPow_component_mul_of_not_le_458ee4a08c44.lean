@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_LocRingPow_component_mul_of_not_le_458ee4a08c44
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_LocRingPow_component_mul_of_not_le_458ee4a08c44
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:41:52.719297+00:00
 -- url     : https://prove2.me/theorems/eb6a391b-c836-4eb8-8ed0-0f629d58be83

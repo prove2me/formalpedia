@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_squarefreeLabelMass_degreeType_le
 -- name    : GlobalTheory.T.squarefreeLabelMass_degreeType_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:51:38.290549+00:00
 -- url     : https://prove2.me/theorems/c19cfce7-65bf-5598-b84b-f3df4ec6a7be

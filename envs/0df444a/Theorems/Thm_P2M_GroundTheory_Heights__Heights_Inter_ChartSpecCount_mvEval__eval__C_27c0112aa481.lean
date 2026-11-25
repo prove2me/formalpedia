@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartSpecCount_mvEval__eval__C_27c0112aa481
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartSpecCount_mvEval__eval__C_27c0112aa481
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:41:08.340276+00:00
 -- url     : https://prove2.me/theorems/2e2d94ba-6e91-4d86-9bf6-f403b9fbf665

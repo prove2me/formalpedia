@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocallyPrincipalCoprimeAlt_exists_local_mult_e9c2278c58f0
 -- name    : P2M_GroundTheory_Heights__Heights_LocallyPrincipalCoprimeAlt_exists_local_mult_e9c2278c58f0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:04.58811+00:00
 -- url     : https://prove2.me/theorems/ba50c1e8-df17-43d2-a166-cfb86251e6c1

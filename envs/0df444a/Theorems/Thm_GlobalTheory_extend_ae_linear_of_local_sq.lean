@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_extend_ae_linear_of_local_sq
 -- name    : GlobalTheory.extend_ae_linear_of_local_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:36:06.762116+00:00
 -- url     : https://prove2.me/theorems/04bbdd36-fb02-47f6-8df0-8853092f48aa

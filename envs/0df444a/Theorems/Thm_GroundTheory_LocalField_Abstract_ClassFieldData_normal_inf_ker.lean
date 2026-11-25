@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_normal_inf_ker
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.normal_inf_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:35:26.208067+00:00
 -- url     : https://prove2.me/theorems/4fd7a573-e08e-4e67-98f1-b94dbbd7f55b

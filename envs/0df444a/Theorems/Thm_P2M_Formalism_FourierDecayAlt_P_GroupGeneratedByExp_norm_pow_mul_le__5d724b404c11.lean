@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_GroupGeneratedByExp_norm_pow_mul_le__5d724b404c11
 -- name    : P2M_Formalism_FourierDecayAlt_P_GroupGeneratedByExp_norm_pow_mul_le__5d724b404c11
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:37:26.208804+00:00
 -- url     : https://prove2.me/theorems/952e3e26-a0cf-4d2e-9276-dd706846620c

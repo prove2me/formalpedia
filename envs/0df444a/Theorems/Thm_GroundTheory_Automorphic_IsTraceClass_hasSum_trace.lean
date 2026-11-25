@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsTraceClass_hasSum_trace
 -- name    : GroundTheory.Automorphic.IsTraceClass.hasSum_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:36:19.125801+00:00
 -- url     : https://prove2.me/theorems/7bd18c27-d374-439a-bcbe-103dd8b9ed7c

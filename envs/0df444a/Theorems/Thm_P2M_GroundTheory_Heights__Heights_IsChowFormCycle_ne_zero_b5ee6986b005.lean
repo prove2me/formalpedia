@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IsChowFormCycle_ne_zero_b5ee6986b005
 -- name    : P2M_GroundTheory_Heights__Heights_IsChowFormCycle_ne_zero_b5ee6986b005
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:44:44.007864+00:00
 -- url     : https://prove2.me/theorems/bef781e2-8736-448c-aa5f-0ec194a516a9

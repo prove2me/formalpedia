@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ConeTrdegFnField_coneMap_X_ffc52befaca7
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ConeTrdegFnField_coneMap_X_ffc52befaca7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:30:50.963784+00:00
 -- url     : https://prove2.me/theorems/0a39091b-1f33-45d8-961f-cdf51e2690c5

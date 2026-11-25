@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_isVectorBundle_freeModule_ea3cf8102b36
 -- name    : P2M_GroundTheory_Heights__Heights_Model_isVectorBundle_freeModule_ea3cf8102b36
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:32:08.577569+00:00
 -- url     : https://prove2.me/theorems/7ef656bc-41bf-43c7-a538-ebacaf7fb0e1

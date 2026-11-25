@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_differentiableAt_coeff_prod_X_sub_C_05324d52b041
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_differentiableAt_coeff_prod_X_sub_C_05324d52b041
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:37:51.383975+00:00
 -- url     : https://prove2.me/theorems/b0d714c2-0d9d-5585-ba8d-8bf82bc1bcd1

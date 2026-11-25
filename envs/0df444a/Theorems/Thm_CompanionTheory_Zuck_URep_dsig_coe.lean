@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Zuck_URep_dsig_coe
 -- name    : CompanionTheory.Zuck.URep.dsig_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:44:55.271822+00:00
 -- url     : https://prove2.me/theorems/23357cd1-bec1-5a1e-9bf1-46acb86eeec8

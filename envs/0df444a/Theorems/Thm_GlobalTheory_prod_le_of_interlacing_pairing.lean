@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_le_of_interlacing_pairing
 -- name    : GlobalTheory.prod_le_of_interlacing_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:34:46.192132+00:00
 -- url     : https://prove2.me/theorems/d41039d0-fae5-49f3-a4aa-57bace5d9909

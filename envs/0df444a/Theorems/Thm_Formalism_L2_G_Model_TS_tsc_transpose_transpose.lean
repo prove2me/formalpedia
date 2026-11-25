@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_tsc_transpose_transpose
 -- name    : Formalism.L2.G.Model.TS.tsc_transpose_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:14:24.158893+00:00
 -- url     : https://prove2.me/theorems/8c35b69a-35da-4d74-b187-798fd7c2dca8

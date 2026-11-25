@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_siegelParabolic_transform_values_rootOfUnity
 -- name    : GlobalTheory.T.siegelParabolic_transform_values_rootOfUnity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:57:55.387427+00:00
 -- url     : https://prove2.me/theorems/6b467e83-d86e-4438-a79d-a16c1f9d0aa8

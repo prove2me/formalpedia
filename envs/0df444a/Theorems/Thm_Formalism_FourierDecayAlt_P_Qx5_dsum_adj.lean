@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_dsum_adj
 -- name    : Formalism.FourierDecayAlt.P.Qx5.dsum_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:46:00.336949+00:00
 -- url     : https://prove2.me/theorems/a5be95c5-0c7e-4eed-9431-5ca6694bb541

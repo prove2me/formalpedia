@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IsolatedFibreOpenPoly_eq_graphPt_of_mem_4583e741b80e
 -- name    : P2M_GroundTheory_Heights__Heights_IsolatedFibreOpenPoly_eq_graphPt_of_mem_4583e741b80e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:45:36.899823+00:00
 -- url     : https://prove2.me/theorems/4dce44d9-ffa4-43be-a51d-61da3c71acbc

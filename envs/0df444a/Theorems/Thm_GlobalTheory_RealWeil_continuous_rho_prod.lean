@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_continuous_rho_prod
 -- name    : GlobalTheory.RealWeil.continuous_rho_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:16:20.764426+00:00
 -- url     : https://prove2.me/theorems/85a72c12-2c72-460f-b34d-2527878d5f9f

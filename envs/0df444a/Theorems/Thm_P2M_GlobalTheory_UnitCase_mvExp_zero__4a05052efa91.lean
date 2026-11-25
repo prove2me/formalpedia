@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitCase_mvExp_zero__4a05052efa91
 -- name    : P2M_GlobalTheory_UnitCase_mvExp_zero__4a05052efa91
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:38:55.992712+00:00
 -- url     : https://prove2.me/theorems/5e77985c-3bb2-460d-be19-f1ea1439c7c7

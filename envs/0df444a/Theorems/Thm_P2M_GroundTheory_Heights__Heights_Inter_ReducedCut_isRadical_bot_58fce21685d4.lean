@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ReducedCut_isRadical_bot_58fce21685d4
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ReducedCut_isRadical_bot_58fce21685d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:42:39.688711+00:00
 -- url     : https://prove2.me/theorems/79320147-5d2e-4b1e-9d1d-6811b5176f00

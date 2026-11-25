@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_exists_mul_transpose_eq_one_d14d1218bc3d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_exists_mul_transpose_eq_one_d14d1218bc3d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:40:16.329914+00:00
 -- url     : https://prove2.me/theorems/3a1aae61-c521-57f1-8b39-27b5589e427b

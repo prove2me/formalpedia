@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_RatLocalAffine_eq_zero_of_intCast_mul_eq_zero_bbfecc57b868
 -- name    : P2M_GroundTheory_Heights__Heights_Model_RatLocalAffine_eq_zero_of_intCast_mul_eq_zero_bbfecc57b868
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:30:22.278737+00:00
 -- url     : https://prove2.me/theorems/19153818-03b6-4696-b68d-dd9c84b76260

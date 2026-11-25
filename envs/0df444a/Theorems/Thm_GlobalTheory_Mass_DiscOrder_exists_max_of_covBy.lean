@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_DiscOrder_exists_max_of_covBy
 -- name    : GlobalTheory.Mass.DiscOrder.exists_max_of_covBy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:31:58.613403+00:00
 -- url     : https://prove2.me/theorems/45dd2c8d-871b-42e1-b570-fdc651d11c69

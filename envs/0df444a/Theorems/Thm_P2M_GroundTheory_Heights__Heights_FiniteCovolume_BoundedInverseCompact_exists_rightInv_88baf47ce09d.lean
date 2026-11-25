@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_BoundedInverseCompact_exists_rightInv_88baf47ce09d
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_BoundedInverseCompact_exists_rightInv_88baf47ce09d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:39:22.048787+00:00
 -- url     : https://prove2.me/theorems/da130095-124b-48cf-b37e-57e1ea94f55a

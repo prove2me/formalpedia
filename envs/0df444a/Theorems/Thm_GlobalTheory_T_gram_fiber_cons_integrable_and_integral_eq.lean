@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_fiber_cons_integrable_and_integral_eq
 -- name    : GlobalTheory.T.gram_fiber_cons_integrable_and_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:42:18.851823+00:00
 -- url     : https://prove2.me/theorems/6fb623bd-80be-4e8b-9a17-5ff6fc9da42b

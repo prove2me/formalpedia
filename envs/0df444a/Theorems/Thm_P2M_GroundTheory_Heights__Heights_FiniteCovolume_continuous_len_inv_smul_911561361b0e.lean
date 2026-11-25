@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_continuous_len_inv_smul_911561361b0e
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_continuous_len_inv_smul_911561361b0e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:39:15.369852+00:00
 -- url     : https://prove2.me/theorems/54ab8e74-039c-5fa2-b19c-45f40a6d0e59

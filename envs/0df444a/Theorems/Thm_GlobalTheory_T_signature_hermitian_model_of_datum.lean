@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_signature_hermitian_model_of_datum
 -- name    : GlobalTheory.T.signature_hermitian_model_of_datum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:29:55.82559+00:00
 -- url     : https://prove2.me/theorems/4113b5b9-a56b-4b7c-be2c-42517e4d555d

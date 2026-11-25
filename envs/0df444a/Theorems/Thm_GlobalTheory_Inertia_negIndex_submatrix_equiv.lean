@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_negIndex_submatrix_equiv
 -- name    : GlobalTheory.Inertia.negIndex_submatrix_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:08:04.436306+00:00
 -- url     : https://prove2.me/theorems/648507ce-b9eb-44d8-990d-b07511f779f3

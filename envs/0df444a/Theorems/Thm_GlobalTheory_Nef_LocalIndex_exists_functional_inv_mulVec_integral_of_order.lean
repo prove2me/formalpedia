@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_LocalIndex_exists_functional_inv_mulVec_integral_of_order
 -- name    : GlobalTheory.Nef.LocalIndex.exists_functional_inv_mulVec_integral_of_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:48:11.324698+00:00
 -- url     : https://prove2.me/theorems/98fb41e0-2f75-53af-b59a-edaab73d12bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocLaurent_isMultiHomog_add_6df46c87f520
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocLaurent_isMultiHomog_add_6df46c87f520
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:32:12.132435+00:00
 -- url     : https://prove2.me/theorems/8ded4805-5f67-4fa5-95f9-020f43992f3e

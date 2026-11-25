@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_exists_segre_smul_bfffda87fde7
 -- name    : P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_exists_segre_smul_bfffda87fde7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:04:21.6418+00:00
 -- url     : https://prove2.me/theorems/b76ab695-dd12-457e-b0c8-e5f0feb80a33

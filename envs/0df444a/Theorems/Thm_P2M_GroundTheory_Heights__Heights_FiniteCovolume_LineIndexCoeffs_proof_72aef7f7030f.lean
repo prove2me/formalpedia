@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineIndexCoeffs_proof_72aef7f7030f
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineIndexCoeffs_proof_72aef7f7030f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:57:16.78296+00:00
 -- url     : https://prove2.me/theorems/d9e02098-c643-4d13-8dc6-dae079445d57

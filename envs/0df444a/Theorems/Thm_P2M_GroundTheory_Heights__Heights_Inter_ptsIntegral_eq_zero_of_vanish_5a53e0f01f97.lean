@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ptsIntegral_eq_zero_of_vanish_5a53e0f01f97
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ptsIntegral_eq_zero_of_vanish_5a53e0f01f97
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:25:52.844995+00:00
 -- url     : https://prove2.me/theorems/55b2890e-7764-40f3-b441-672506b9f391

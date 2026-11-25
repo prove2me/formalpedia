@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pDivGroup_omega_noPTorsion_of_cotangent_injective
 -- name    : GlobalTheory.T.pDivGroup_omega_noPTorsion_of_cotangent_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:47:42.086944+00:00
 -- url     : https://prove2.me/theorems/5e5a3c09-9323-592b-9b3c-4d1d4831912a

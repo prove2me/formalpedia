@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PrimeGermFiniteProjection_exists_of_step_7c5a3335504a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PrimeGermFiniteProjection_exists_of_step_7c5a3335504a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:34.925809+00:00
 -- url     : https://prove2.me/theorems/b27757d9-d136-49fb-8666-9e9ea821912b

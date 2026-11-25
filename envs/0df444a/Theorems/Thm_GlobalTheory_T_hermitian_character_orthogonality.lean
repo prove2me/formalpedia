@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_character_orthogonality
 -- name    : GlobalTheory.T.hermitian_character_orthogonality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:45:28.035636+00:00
 -- url     : https://prove2.me/theorems/091fc9cc-2a1d-405e-9c77-dd035a46045f

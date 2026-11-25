@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IsChowFormCycle_C_mul_f39b13a892e3
 -- name    : P2M_GroundTheory_Heights__Heights_IsChowFormCycle_C_mul_f39b13a892e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:44:09.494089+00:00
 -- url     : https://prove2.me/theorems/2b138eaa-18ee-4c69-85fb-b04d0b32aa6b

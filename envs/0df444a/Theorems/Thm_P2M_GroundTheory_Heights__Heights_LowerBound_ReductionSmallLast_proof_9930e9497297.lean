@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_ReductionSmallLast_proof_9930e9497297
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_ReductionSmallLast_proof_9930e9497297
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:29:57.547711+00:00
 -- url     : https://prove2.me/theorems/187a45ce-121f-4fae-aedf-f8be115953a0

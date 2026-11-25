@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetIdeal_det_ideal
 -- name    : GlobalTheory.DetIdeal.det_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:49:11.147807+00:00
 -- url     : https://prove2.me/theorems/48cfc73e-790c-43a2-b1fa-0de5a2b79161

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalResidue_holds_isMultiHomog_zero__56eb92a444c9
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalResidue_holds_isMultiHomog_zero__56eb92a444c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:26:13.179441+00:00
 -- url     : https://prove2.me/theorems/463e0697-37b4-44a0-b79a-5649ec1c8afa

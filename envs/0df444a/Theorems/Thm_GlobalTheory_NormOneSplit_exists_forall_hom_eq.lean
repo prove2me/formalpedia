@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormOneSplit_exists_forall_hom_eq
 -- name    : GlobalTheory.NormOneSplit.exists_forall_hom_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:32:26.395646+00:00
 -- url     : https://prove2.me/theorems/c7a678e4-506c-425a-ba44-ca88285b9081

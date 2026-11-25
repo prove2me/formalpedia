@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_log_derivative_integral__c6ea0ab8f588
 -- name    : P2M_Formalism_L2_Th1_C_log_derivative_integral__c6ea0ab8f588
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:37:25.603154+00:00
 -- url     : https://prove2.me/theorems/f3662293-90f8-48df-b7ee-8915ad34cdda

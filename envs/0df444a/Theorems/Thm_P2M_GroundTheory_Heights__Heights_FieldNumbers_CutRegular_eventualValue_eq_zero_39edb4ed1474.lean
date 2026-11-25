@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRegular_eventualValue_eq_zero_39edb4ed1474
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRegular_eventualValue_eq_zero_39edb4ed1474
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:38:50.388799+00:00
 -- url     : https://prove2.me/theorems/0e596147-dc1f-4f25-baf0-4d8adad10da2

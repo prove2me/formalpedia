@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreIncompressibility_card_add_card_forgottenBlocks_417d84efc882
 -- name    : P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreIncompressibility_card_add_card_forgottenBlocks_417d84efc882
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:42:32.766397+00:00
 -- url     : https://prove2.me/theorems/17298656-7323-4e8f-8f6b-95181fc2ff30

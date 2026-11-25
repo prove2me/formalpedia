@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_CellDSq_sigma_rem_783ced986bac
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_CellDSq_sigma_rem_783ced986bac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:41:51.064023+00:00
 -- url     : https://prove2.me/theorems/f639f14c-0e5a-50a5-99bf-5b3525eb0b5b

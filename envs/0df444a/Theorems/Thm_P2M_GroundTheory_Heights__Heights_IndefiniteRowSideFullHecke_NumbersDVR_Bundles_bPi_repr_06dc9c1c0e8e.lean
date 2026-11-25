@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_Bundles_bPi_repr_06dc9c1c0e8e
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_Bundles_bPi_repr_06dc9c1c0e8e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:33:00.906648+00:00
 -- url     : https://prove2.me/theorems/a31f9fd6-9504-40d5-934d-9957dd0e2a91

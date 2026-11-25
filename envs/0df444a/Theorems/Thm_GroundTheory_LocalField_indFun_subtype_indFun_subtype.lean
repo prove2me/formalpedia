@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_indFun_subtype_indFun_subtype
 -- name    : GroundTheory.LocalField.indFun_subtype_indFun_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:35:40.789098+00:00
 -- url     : https://prove2.me/theorems/6ff3cfec-950a-4fc4-8004-484b0cbc77b0

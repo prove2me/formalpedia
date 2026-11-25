@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Sym_der_tr
 -- name    : GlobalTheory.KS.Sym.der_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:27:39.970271+00:00
 -- url     : https://prove2.me/theorems/0d5eaee6-1437-4898-b8fb-ca39227c6a30

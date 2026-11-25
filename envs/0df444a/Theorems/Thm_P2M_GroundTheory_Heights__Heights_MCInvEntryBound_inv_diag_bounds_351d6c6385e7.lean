@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCInvEntryBound_inv_diag_bounds_351d6c6385e7
 -- name    : P2M_GroundTheory_Heights__Heights_MCInvEntryBound_inv_diag_bounds_351d6c6385e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:46:32.683819+00:00
 -- url     : https://prove2.me/theorems/3dd81eec-5b3f-5095-9e2d-51d9d4689b64

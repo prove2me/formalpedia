@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isElementaryAt_elemSub
 -- name    : GroundTheory.LocalField.isElementaryAt_elemSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:35:39.215068+00:00
 -- url     : https://prove2.me/theorems/a063ee7d-776a-4deb-b4e1-5ac5a3689c55

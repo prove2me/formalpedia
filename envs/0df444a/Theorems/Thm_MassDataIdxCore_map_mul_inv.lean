@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_map_mul_inv
 -- name    : MassDataIdxCore.map_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:36:41.49082+00:00
 -- url     : https://prove2.me/theorems/4cd2ab89-45af-4060-90d7-c7c433bce4c0

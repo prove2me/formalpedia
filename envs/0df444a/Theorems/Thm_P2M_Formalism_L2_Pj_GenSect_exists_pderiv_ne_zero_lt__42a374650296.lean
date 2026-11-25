@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Pj_GenSect_exists_pderiv_ne_zero_lt__42a374650296
 -- name    : P2M_Formalism_L2_Pj_GenSect_exists_pderiv_ne_zero_lt__42a374650296
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:37:08.992988+00:00
 -- url     : https://prove2.me/theorems/7f7de911-ff3a-4eb7-b1a1-c0ecf3d0c230

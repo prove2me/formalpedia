@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_FreeSheafBasis_sum_projC___11ca3dfecaad
 -- name    : P2M_GroundTheory_Heights__Heights_Model_FreeSheafBasis_sum_projC___11ca3dfecaad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:18.31782+00:00
 -- url     : https://prove2.me/theorems/e5b3ecdc-433e-427b-89b0-dfaf1cbb6957

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_MultiIrr_products_irreducible
 -- name    : GlobalTheory.SmGL.MultiIrr.products_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:14:13.49792+00:00
 -- url     : https://prove2.me/theorems/cac8fb11-431a-4c51-8c8e-89ecb1aafcd8

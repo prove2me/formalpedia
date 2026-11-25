@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flagGram_density_ineq
 -- name    : GlobalTheory.flagGram_density_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:56:25.664404+00:00
 -- url     : https://prove2.me/theorems/37d88d7d-d726-4179-8439-ebd2c8aa3fbd

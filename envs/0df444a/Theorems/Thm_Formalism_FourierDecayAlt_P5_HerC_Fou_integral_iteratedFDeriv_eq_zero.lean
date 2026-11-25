@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerC_Fou_integral_iteratedFDeriv_eq_zero
 -- name    : Formalism.FourierDecayAlt.P5.HerC.Fou.integral_iteratedFDeriv_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:34:01.838178+00:00
 -- url     : https://prove2.me/theorems/e1da4441-b030-4b2e-8866-81b86714da93

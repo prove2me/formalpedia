@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRegular_le_of_height_add_0297706b95e3
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRegular_le_of_height_add_0297706b95e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:38:56.050739+00:00
 -- url     : https://prove2.me/theorems/af8e3fc1-c0e1-5e23-ae50-ff47f5d98246

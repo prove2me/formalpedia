@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_exists_iso_free_of_isZero_groupHomology_one
 -- name    : GroundTheory.GroupCoh.exists_iso_free_of_isZero_groupHomology_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:43:27.057921+00:00
 -- url     : https://prove2.me/theorems/45531635-99cc-4d1a-9ec8-a105da6b36f2

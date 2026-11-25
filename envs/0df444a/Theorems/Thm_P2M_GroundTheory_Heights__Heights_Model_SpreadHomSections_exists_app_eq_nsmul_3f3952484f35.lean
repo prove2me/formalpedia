@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SpreadHomSections_exists_app_eq_nsmul_3f3952484f35
 -- name    : P2M_GroundTheory_Heights__Heights_Model_SpreadHomSections_exists_app_eq_nsmul_3f3952484f35
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:50.508556+00:00
 -- url     : https://prove2.me/theorems/7c412d38-2b52-4305-aa02-dd595a906228

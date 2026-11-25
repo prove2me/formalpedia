@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HilbDegBound_isHomogeneous_of_isMultiHomogIdeal_3b643baca88d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HilbDegBound_isHomogeneous_of_isMultiHomogIdeal_3b643baca88d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:30:28.869958+00:00
 -- url     : https://prove2.me/theorems/0123983e-b858-4b53-8916-1cd929181258

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularityValuationCentre_exists_int_valuation_lt_one_3c7df0df2e3a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularityValuationCentre_exists_int_valuation_lt_one_3c7df0df2e3a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:41:03.244976+00:00
 -- url     : https://prove2.me/theorems/58186228-e3aa-5213-ba83-339554a8ca83

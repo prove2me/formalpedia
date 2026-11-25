@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeIndep_smul_smul_monoFrac_6431750a8b2e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeIndep_smul_smul_monoFrac_6431750a8b2e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:35:31.552101+00:00
 -- url     : https://prove2.me/theorems/2269dadc-e7d9-584b-a2a2-b42aa6a176ab

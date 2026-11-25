@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_LiftExp_norm_add_of_lt
 -- name    : GlobalTheory.Cyc.LiftExp.norm_add_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:52:51.745821+00:00
 -- url     : https://prove2.me/theorems/da1f884b-9671-48d2-a0e8-cdd8a2a726c9

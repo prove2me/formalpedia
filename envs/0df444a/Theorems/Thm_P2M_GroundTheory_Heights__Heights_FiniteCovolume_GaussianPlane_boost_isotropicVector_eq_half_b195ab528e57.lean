@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_boost_isotropicVector_eq_half_b195ab528e57
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_boost_isotropicVector_eq_half_b195ab528e57
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:39:10.493081+00:00
 -- url     : https://prove2.me/theorems/352af399-724d-45c6-8148-875fbbf198e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_lpow_zero_e51216961655
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_lpow_zero_e51216961655
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:31:42.857841+00:00
 -- url     : https://prove2.me/theorems/92d3334b-5c8c-4e47-99d9-28ba9f7e1be2

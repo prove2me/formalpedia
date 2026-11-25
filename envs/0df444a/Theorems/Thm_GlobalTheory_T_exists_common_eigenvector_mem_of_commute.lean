@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_common_eigenvector_mem_of_commute
 -- name    : GlobalTheory.T.exists_common_eigenvector_mem_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:51:46.140426+00:00
 -- url     : https://prove2.me/theorems/1c442a35-fcc0-516b-9576-a31433026948

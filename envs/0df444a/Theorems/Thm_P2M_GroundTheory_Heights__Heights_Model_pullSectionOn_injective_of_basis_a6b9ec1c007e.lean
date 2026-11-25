@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_pullSectionOn_injective_of_basis_a6b9ec1c007e
 -- name    : P2M_GroundTheory_Heights__Heights_Model_pullSectionOn_injective_of_basis_a6b9ec1c007e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:29:53.667574+00:00
 -- url     : https://prove2.me/theorems/07e30a6e-5b03-4e04-b469-0d66596940bf

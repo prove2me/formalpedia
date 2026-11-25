@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_Conservation_isMultiHomog_C_402bc878fee5
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_Conservation_isMultiHomog_C_402bc878fee5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:29:23.978649+00:00
 -- url     : https://prove2.me/theorems/78401713-46cd-5da3-8219-42712a4ea05d

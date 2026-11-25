@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_EigenspacesOrthogonal_proof_a9492236de26
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_EigenspacesOrthogonal_proof_a9492236de26
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:07:08.815945+00:00
 -- url     : https://prove2.me/theorems/a21108eb-7950-4b8c-8333-c9ec3a0028c6

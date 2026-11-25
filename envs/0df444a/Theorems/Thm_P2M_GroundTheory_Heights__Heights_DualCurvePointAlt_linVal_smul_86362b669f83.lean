@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_linVal_smul_86362b669f83
 -- name    : P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_linVal_smul_86362b669f83
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:39:42.703879+00:00
 -- url     : https://prove2.me/theorems/09399e2b-8974-4059-a8d1-1987e894ecda

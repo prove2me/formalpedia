@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_isPreimmersion_baseChangeMap_52e3bc354d38
 -- name    : P2M_GroundTheory_Heights__Heights_Model_isPreimmersion_baseChangeMap_52e3bc354d38
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:31:57.016269+00:00
 -- url     : https://prove2.me/theorems/83bdbabf-98f8-424a-9a92-112fe76a18e0

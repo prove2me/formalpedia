@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeCompare_isWtOn_iff
 -- name    : GlobalTheory.KTypeCompare.isWtOn_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:58:31.576+00:00
 -- url     : https://prove2.me/theorems/8939088f-8872-41d9-a5df-99e4995bf46d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerC_Fou_integral_fsv_eq_fourier
 -- name    : Formalism.FourierDecayAlt.P5.HerC.Fou.integral_fsv_eq_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:41:06.268501+00:00
 -- url     : https://prove2.me/theorems/cff149f0-c928-4a2e-a4ea-737a051138f3

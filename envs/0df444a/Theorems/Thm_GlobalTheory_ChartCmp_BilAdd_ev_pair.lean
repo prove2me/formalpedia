@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_BilAdd_ev_pair
 -- name    : GlobalTheory.ChartCmp.BilAdd.ev_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:10:22.144508+00:00
 -- url     : https://prove2.me/theorems/08a8a997-5fa3-5bdf-9766-f245a2104d29

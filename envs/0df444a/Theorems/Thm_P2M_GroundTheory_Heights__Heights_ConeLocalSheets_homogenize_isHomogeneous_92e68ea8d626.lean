@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeLocalSheets_homogenize_isHomogeneous_92e68ea8d626
 -- name    : P2M_GroundTheory_Heights__Heights_ConeLocalSheets_homogenize_isHomogeneous_92e68ea8d626
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:36:08.378931+00:00
 -- url     : https://prove2.me/theorems/a8e20ff8-5c35-4ef9-8353-a275e725c929

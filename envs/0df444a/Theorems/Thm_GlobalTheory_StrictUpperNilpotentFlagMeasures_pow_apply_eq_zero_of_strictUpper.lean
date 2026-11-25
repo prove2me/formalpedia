@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StrictUpperNilpotentFlagMeasures_pow_apply_eq_zero_of_strictUpper
 -- name    : GlobalTheory.StrictUpperNilpotentFlagMeasures.pow_apply_eq_zero_of_strictUpper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:34:07.607378+00:00
 -- url     : https://prove2.me/theorems/12006c26-7ba7-5b6d-b1a3-e41934af0ad8

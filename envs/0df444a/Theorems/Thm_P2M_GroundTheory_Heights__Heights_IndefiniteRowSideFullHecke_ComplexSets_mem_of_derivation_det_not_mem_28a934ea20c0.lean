@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_mem_of_derivation_det_not_mem_28a934ea20c0
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_mem_of_derivation_det_not_mem_28a934ea20c0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:21:32.839577+00:00
 -- url     : https://prove2.me/theorems/851ae396-9e8d-4a51-b4cd-3257d1a1434f

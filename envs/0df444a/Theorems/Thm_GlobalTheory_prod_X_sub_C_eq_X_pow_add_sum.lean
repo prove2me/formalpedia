@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_X_sub_C_eq_X_pow_add_sum
 -- name    : GlobalTheory.prod_X_sub_C_eq_X_pow_add_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:56:31.488856+00:00
 -- url     : https://prove2.me/theorems/4f51a994-54ae-4b41-b4ff-758bb70c599a

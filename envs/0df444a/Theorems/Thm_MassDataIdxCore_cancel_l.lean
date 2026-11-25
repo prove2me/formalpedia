@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_cancel_l
 -- name    : MassDataIdxCore.cancel_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:36:54.684487+00:00
 -- url     : https://prove2.me/theorems/78affbf5-da34-47b7-ab5f-8b0691487a48

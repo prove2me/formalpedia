@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsIrrCharacter_comp_mulEquiv
 -- name    : GroundTheory.LocalField.IsIrrCharacter.comp_mulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:35:39.784569+00:00
 -- url     : https://prove2.me/theorems/25233126-9809-4fe4-9510-20a498c2add4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_dvd_primeProd_4e2ae87d1026
 -- name    : P2M_GroundTheory_Heights__Heights_Model_dvd_primeProd_4e2ae87d1026
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:19.423765+00:00
 -- url     : https://prove2.me/theorems/38815068-bfb5-4be5-b746-341d835cfa88

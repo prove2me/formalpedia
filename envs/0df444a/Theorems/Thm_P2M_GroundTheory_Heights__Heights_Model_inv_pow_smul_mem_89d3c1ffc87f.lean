@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_inv_pow_smul_mem_89d3c1ffc87f
 -- name    : P2M_GroundTheory_Heights__Heights_Model_inv_pow_smul_mem_89d3c1ffc87f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:44:01.764253+00:00
 -- url     : https://prove2.me/theorems/f0dd8233-1a82-5f6e-be51-e3ac25bf0d04

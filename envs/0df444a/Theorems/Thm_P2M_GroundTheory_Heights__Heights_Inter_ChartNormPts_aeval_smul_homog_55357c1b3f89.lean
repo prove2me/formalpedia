@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartNormPts_aeval_smul_homog_55357c1b3f89
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartNormPts_aeval_smul_homog_55357c1b3f89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:40:41.480833+00:00
 -- url     : https://prove2.me/theorems/8fde0400-ffb6-464b-b0de-feb3cd8c9c72

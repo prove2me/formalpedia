@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_primeProd_eq_cast_abc008bbf28d
 -- name    : P2M_GroundTheory_Heights__Heights_Model_primeProd_eq_cast_abc008bbf28d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:29:35.306798+00:00
 -- url     : https://prove2.me/theorems/f2e4d914-a586-4ff9-9b27-cb62641763f2

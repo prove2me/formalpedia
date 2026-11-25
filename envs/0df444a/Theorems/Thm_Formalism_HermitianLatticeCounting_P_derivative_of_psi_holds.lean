@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_derivative_of_psi_holds
 -- name    : Formalism.HermitianLatticeCounting.P.derivative_of_psi_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:34:52.040251+00:00
 -- url     : https://prove2.me/theorems/ec563662-eddf-4554-b9e4-74a15d070db7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_norm_eq_re_of_nonneg_81519d3969bc
 -- name    : P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_norm_eq_re_of_nonneg_81519d3969bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:38:19.20439+00:00
 -- url     : https://prove2.me/theorems/10ab14f2-cfb2-4de3-89e0-36afc9d6ff2e

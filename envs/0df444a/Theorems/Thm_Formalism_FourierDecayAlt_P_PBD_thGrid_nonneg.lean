@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_thGrid_nonneg
 -- name    : Formalism.FourierDecayAlt.P.PBD.thGrid_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:44:26.089037+00:00
 -- url     : https://prove2.me/theorems/4908762a-dc54-484f-a4dd-c53efd293621

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycFr_act_mul
 -- name    : GlobalTheory.CycFr.act_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:40:29.643802+00:00
 -- url     : https://prove2.me/theorems/23b1be3b-88fd-4745-864e-f1590fd96fba

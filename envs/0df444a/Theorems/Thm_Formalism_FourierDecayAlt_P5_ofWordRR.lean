@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_ofWordRR
 -- name    : Formalism.FourierDecayAlt.P5.ofWordRR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:09:34.650278+00:00
 -- url     : https://prove2.me/theorems/f2c8fa75-dbb7-587c-949b-377036cb6969

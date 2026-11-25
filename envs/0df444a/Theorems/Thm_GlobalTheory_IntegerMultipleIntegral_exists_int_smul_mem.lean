@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegerMultipleIntegral_exists_int_smul_mem
 -- name    : GlobalTheory.IntegerMultipleIntegral.exists_int_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:31:48.637656+00:00
 -- url     : https://prove2.me/theorems/a48f5a6f-5dd6-4edf-97af-58c597bb28e3

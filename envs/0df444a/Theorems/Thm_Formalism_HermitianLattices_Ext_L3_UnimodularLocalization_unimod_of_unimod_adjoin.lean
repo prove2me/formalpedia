@@ -1,0 +1,45 @@
+-- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_UnimodularLocalization_unimod_of_unimod_adjoin
+-- name    : Formalism.HermitianLattices.Ext.L3.UnimodularLocalization.unimod_of_unimod_adjoin
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-25T04:24:36.229564+00:00
+-- url     : https://prove2.me/theorems/ac807451-9c20-497a-a0d0-2da7b29226b8
+-- title:
+--   Unimodular Localization: unimod of unimod adjoin
+-- statement:
+--   The Unimodular Localization construction uses the unimod of unimod adjoin property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/GL3MeanSquares/GenusMeanAsymptotics/UnimodularClassRepresentatives/ExistsLatticeOfFibLocNeZeroGood.lean#L73-L84
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/GL3MeanSquares/GenusMeanAsymptotics/UnimodularClassRepresentatives/ExistsLatticeOfFibLocNeZeroGood.lean#L73-L84
+
+import Definitions.Def_Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_InvMemLocROfUnimod
+import Definitions.Def_Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSmulMem
+import Definitions.Def_Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AlgebraMapIntCastSmul
+import Definitions.Def_Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LamGEqOneOfOrtho
+import Definitions.Def_Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_NkCountLocF
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_DualLattice
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_LocDual
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_DualBasic
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_LocBasic
+import Definitions.Def_Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsLatticeOfFibLocNeZeroGood
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField Module Formalism.HermitianLattices.Ext.L3.SplitA
+noncomputable section
+open Formalism Formalism.HermitianLattices Formalism.HermitianLattices.Ext Formalism.HermitianLattices.Ext.L3 Formalism.HermitianLattices.Ext.L3.UnimodularLocalization
+variable {K F V V' : Type} [Field K] [NumberField K] [StarRing K] [Field F] [NumberField F]
+  [Algebra F K] [AddCommGroup V] [Module K V] [FiniteDimensional K V] [Module (𝓞 K) V]
+  [IsScalarTower (𝓞 K) K V] [AddCommGroup V'] [Module K V'] [FiniteDimensional K V']
+  [Module (𝓞 K) V'] [IsScalarTower (𝓞 K) K V']
+variable {h : V →ₗ⋆[K] V →ₗ[K] K} {h' : V' →ₗ⋆[K] V' →ₗ[K] K}
+
+theorem Formalism.HermitianLattices.Ext.L3.UnimodularLocalization.unimod_of_unimod_adjoin (hs : h.IsSymm) (S : VecSplit h h') {p : Ideal (𝓞 K)}
+    {L' : Submodule (𝓞 K) V'} (hU : Formalism.HermitianLatticesTheory.IsUnimodularAt h p (S.adjoin L')) :
+    Formalism.HermitianLatticesTheory.IsUnimodularAt h' p L' := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_mul_span_eq_one_of_le_d361b21de1fd
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_mul_span_eq_one_of_le_d361b21de1fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:55.330645+00:00
 -- url     : https://prove2.me/theorems/0e3e16e3-f282-49f5-a2a9-6c6c1240733e

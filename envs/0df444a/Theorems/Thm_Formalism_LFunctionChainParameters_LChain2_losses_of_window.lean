@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_losses_of_window
 -- name    : Formalism.LFunctionChainParameters.LChain2.losses_of_window
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:50:16.613195+00:00
 -- url     : https://prove2.me/theorems/68654223-46e5-4e2f-96c7-10599c9a3c24

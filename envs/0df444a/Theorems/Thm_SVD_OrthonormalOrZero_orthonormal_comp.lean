@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_OrthonormalOrZero_orthonormal_comp
 -- name    : SVD.OrthonormalOrZero.orthonormal_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:06:49.878327+00:00
 -- url     : https://prove2.me/theorems/c10eb54e-ba76-4f5e-9042-0b53244a204f

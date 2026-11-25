@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_flow_unique
 -- name    : Formalism.L2.Th1.A.flow_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:09:00.855957+00:00
 -- url     : https://prove2.me/theorems/6fd1bf5c-5644-5538-ac94-897f201fe294

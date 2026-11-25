@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_generic_jacobian_data_iterated
 -- name    : GlobalTheory.exists_generic_jacobian_data_iterated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:32:59.716326+00:00
 -- url     : https://prove2.me/theorems/1f178846-d31a-497f-ac82-572390c9ff4f

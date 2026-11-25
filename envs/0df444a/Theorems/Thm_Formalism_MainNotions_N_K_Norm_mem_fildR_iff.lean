@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_mem_fildR_iff
 -- name    : Formalism.MainNotions.N.K.Norm.mem_fildR_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:12:58.250852+00:00
 -- url     : https://prove2.me/theorems/50f4bec3-7ef5-4292-a715-2e7346329eff

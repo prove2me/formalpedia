@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_dividedPowerEval_twoVars_ringHom
 -- name    : GlobalTheory.T.exists_dividedPowerEval_twoVars_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:33:48.868792+00:00
 -- url     : https://prove2.me/theorems/ae803ca9-73d1-4f15-90ab-6a0c5cde06a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Sym_dl_diff
 -- name    : GlobalTheory.KS.Sym.dl_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:45:43.337695+00:00
 -- url     : https://prove2.me/theorems/b06ba75c-ed16-4fc5-b9e9-963aebf666a5

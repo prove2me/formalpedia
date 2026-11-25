@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_orbG_integrand_hasCompactSupport
 -- name    : GlobalTheory.JR.orbG_integrand_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:40:30.197404+00:00
 -- url     : https://prove2.me/theorems/368cf75b-430a-403d-aabb-f0b0c26917d3

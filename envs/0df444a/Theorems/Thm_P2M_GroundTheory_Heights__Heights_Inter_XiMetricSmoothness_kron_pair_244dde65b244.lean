@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_XiMetricSmoothness_kron_pair_244dde65b244
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_XiMetricSmoothness_kron_pair_244dde65b244
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:33:40.315399+00:00
 -- url     : https://prove2.me/theorems/ce5eba27-f8b1-5887-8815-2bd91b790b4d

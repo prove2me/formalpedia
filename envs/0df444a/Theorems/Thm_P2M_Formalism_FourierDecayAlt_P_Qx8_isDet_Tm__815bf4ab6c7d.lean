@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Qx8_isDet_Tm__815bf4ab6c7d
 -- name    : P2M_Formalism_FourierDecayAlt_P_Qx8_isDet_Tm__815bf4ab6c7d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:36:59.430838+00:00
 -- url     : https://prove2.me/theorems/05c2d6c5-2982-5896-8180-dc54a9c26836

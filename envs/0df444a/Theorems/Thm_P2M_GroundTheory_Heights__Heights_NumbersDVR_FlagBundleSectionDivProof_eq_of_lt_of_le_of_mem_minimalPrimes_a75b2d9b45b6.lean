@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleSectionDivProof_eq_of_lt_of_le_of_mem_minimalPrimes_a75b2d9b45b6
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleSectionDivProof_eq_of_lt_of_le_of_mem_minimalPrimes_a75b2d9b45b6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:30:42.199391+00:00
 -- url     : https://prove2.me/theorems/e712b729-b3e3-4ace-a417-070e70c1103e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_five_elementary_inequalities_eventually
 -- name    : GlobalTheory.five_elementary_inequalities_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:55:42.81818+00:00
 -- url     : https://prove2.me/theorems/2663e6f0-f5be-5f4d-a0df-bfcf3eaf71a9

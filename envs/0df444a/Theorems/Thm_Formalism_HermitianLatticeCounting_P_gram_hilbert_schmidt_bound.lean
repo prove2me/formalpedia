@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gram_hilbert_schmidt_bound
 -- name    : Formalism.HermitianLatticeCounting.P.gram_hilbert_schmidt_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:34:11.529935+00:00
 -- url     : https://prove2.me/theorems/dec14666-b420-40f3-9c25-9e417a56f4ae

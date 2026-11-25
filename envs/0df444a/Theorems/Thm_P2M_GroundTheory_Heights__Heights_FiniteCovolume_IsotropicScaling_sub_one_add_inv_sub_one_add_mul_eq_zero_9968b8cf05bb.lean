@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_IsotropicScaling_sub_one_add_inv_sub_one_add_mul_eq_zero_9968b8cf05bb
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_IsotropicScaling_sub_one_add_inv_sub_one_add_mul_eq_zero_9968b8cf05bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:39:42.821654+00:00
 -- url     : https://prove2.me/theorems/d7b6ceed-ffd0-4a0b-ac7b-d216b4f2e007

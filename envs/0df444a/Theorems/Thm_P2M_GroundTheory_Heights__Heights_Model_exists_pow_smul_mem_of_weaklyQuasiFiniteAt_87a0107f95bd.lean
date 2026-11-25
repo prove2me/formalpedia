@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_exists_pow_smul_mem_of_weaklyQuasiFiniteAt_87a0107f95bd
 -- name    : P2M_GroundTheory_Heights__Heights_Model_exists_pow_smul_mem_of_weaklyQuasiFiniteAt_87a0107f95bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:09.960285+00:00
 -- url     : https://prove2.me/theorems/8eeac30d-05af-4383-9e87-9a81cf898718

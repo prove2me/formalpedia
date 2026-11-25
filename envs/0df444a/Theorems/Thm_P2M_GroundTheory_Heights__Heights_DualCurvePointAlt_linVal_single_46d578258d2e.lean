@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_linVal_single_46d578258d2e
 -- name    : P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_linVal_single_46d578258d2e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:40:44.816313+00:00
 -- url     : https://prove2.me/theorems/37db8bd3-69a0-4bf8-824a-0d1d96e8dbe2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ReducedCut_mem_minimalPrimes_map_iff_93dab1339ec5
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ReducedCut_mem_minimalPrimes_map_iff_93dab1339ec5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:42:27.927928+00:00
 -- url     : https://prove2.me/theorems/a17815d0-c57c-4b47-99c1-4bfbcebe7ee5

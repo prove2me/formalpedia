@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_Hdeg_mk_zero_7e32b064706a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Cech_Hdeg_mk_zero_7e32b064706a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:36:00.91455+00:00
 -- url     : https://prove2.me/theorems/98bd65b9-560b-52cc-9f35-f2896fe4aeea

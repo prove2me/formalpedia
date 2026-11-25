@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_lagrange_identity_complex_two_51ae89be2e4e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_lagrange_identity_complex_two_51ae89be2e4e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:25:51.091896+00:00
 -- url     : https://prove2.me/theorems/23aa7613-38bc-4061-b737-5bafad264eaa

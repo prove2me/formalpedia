@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_not_isField_stalk_of_ne_genericPoint_1cad4102bfa7
 -- name    : P2M_GroundTheory_Heights__Heights_Model_not_isField_stalk_of_ne_genericPoint_1cad4102bfa7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:29:36.382496+00:00
 -- url     : https://prove2.me/theorems/b47aa22b-27ac-4dce-9ce6-da8ae812645d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_GlueModulesStar_isIso___none_a13867f1fcc0
 -- name    : P2M_GroundTheory_Heights__Heights_Model_GlueModulesStar_isIso___none_a13867f1fcc0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:43.721443+00:00
 -- url     : https://prove2.me/theorems/45535e2b-0fe8-4713-9706-53ddfa7e3fb7

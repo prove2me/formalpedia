@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FlagTypings_intNumL_perm_6fa0b4475d01
 -- name    : P2M_GroundTheory_Heights__Heights_FlagTypings_intNumL_perm_6fa0b4475d01
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:03:19.854857+00:00
 -- url     : https://prove2.me/theorems/852b39e9-9d29-49b6-b061-0ed8484b6d0d

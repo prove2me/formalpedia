@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_sum_conj_eq_card_centralizer
 -- name    : GroundTheory.LocalField.sum_conj_eq_card_centralizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:33:28.431369+00:00
 -- url     : https://prove2.me/theorems/42c3bcfd-6943-48e7-98ab-02f9dbad7146

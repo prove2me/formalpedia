@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_eq_one_of_gen_translDiff
 -- name    : GlobalTheory.ArtinKernel.eq_one_of_gen_translDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:59:21.057247+00:00
 -- url     : https://prove2.me/theorems/a7d10ad9-5424-4e9d-b1e5-c7d5e7690560

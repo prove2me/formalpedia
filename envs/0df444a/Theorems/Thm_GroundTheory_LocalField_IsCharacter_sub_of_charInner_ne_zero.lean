@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsCharacter_sub_of_charInner_ne_zero
 -- name    : GroundTheory.LocalField.IsCharacter.sub_of_charInner_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:35:17.84884+00:00
 -- url     : https://prove2.me/theorems/d2b6c4e9-0abf-4d77-8843-d7c42dca19a9

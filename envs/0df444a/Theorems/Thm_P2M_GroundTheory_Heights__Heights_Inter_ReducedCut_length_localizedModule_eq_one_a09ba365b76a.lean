@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ReducedCut_length_localizedModule_eq_one_a09ba365b76a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ReducedCut_length_localizedModule_eq_one_a09ba365b76a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:42:45.270193+00:00
 -- url     : https://prove2.me/theorems/fcf384b4-b1d5-4714-9a0c-a1b8bd7477c7

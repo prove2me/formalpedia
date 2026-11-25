@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSaturatedIn_iff_exists_subspace
 -- name    : GlobalTheory.isSaturatedIn_iff_exists_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:33:26.760289+00:00
 -- url     : https://prove2.me/theorems/8bfc6c96-b741-481a-9f6d-07c3b8a2024a

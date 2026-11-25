@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_majorant_parameter_choice_holds
 -- name    : Formalism.HermitianLatticeCounting.P.majorant_parameter_choice_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:31:40.256435+00:00
 -- url     : https://prove2.me/theorems/daa54423-85af-4b7c-b0c0-6edfeee947b9

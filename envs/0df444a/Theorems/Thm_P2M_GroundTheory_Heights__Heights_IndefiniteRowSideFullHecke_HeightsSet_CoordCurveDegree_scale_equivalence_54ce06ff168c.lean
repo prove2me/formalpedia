@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CoordCurveDegree_scale_equivalence_54ce06ff168c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CoordCurveDegree_scale_equivalence_54ce06ff168c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:41:11.03563+00:00
 -- url     : https://prove2.me/theorems/b954df23-563d-449a-b845-2f85ac33cfd1

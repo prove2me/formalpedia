@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsCharacter_eq_zero_of_apply_one
 -- name    : GroundTheory.LocalField.IsCharacter.eq_zero_of_apply_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:35:41.307675+00:00
 -- url     : https://prove2.me/theorems/bc880bff-c583-4d7b-aa2e-a09053454915

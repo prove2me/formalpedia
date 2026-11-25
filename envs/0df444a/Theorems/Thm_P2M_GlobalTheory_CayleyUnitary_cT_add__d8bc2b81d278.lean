@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CayleyUnitary_cT_add__d8bc2b81d278
 -- name    : P2M_GlobalTheory_CayleyUnitary_cT_add__d8bc2b81d278
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:37:09.355854+00:00
 -- url     : https://prove2.me/theorems/8d7ea7f4-4941-403d-9029-6499be769468

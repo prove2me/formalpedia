@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IsolatedFibreOpenPoly_lastRows_mulVec_e023a6c4759e
 -- name    : P2M_GroundTheory_Heights__Heights_IsolatedFibreOpenPoly_lastRows_mulVec_e023a6c4759e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:45:41.323154+00:00
 -- url     : https://prove2.me/theorems/cc308922-4ba3-432a-a5cb-0ff13e8eec69

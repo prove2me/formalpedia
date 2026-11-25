@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeHom_exists_linearEquiv_of_holUnif
 -- name    : GlobalTheory.LatticeHom.exists_linearEquiv_of_holUnif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:48:02.917806+00:00
 -- url     : https://prove2.me/theorems/86d7ba9c-b170-40e8-b6fe-458db9e105a2

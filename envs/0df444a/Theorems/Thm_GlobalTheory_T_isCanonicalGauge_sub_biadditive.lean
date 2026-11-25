@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCanonicalGauge_sub_biadditive
 -- name    : GlobalTheory.T.isCanonicalGauge_sub_biadditive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:12:28.573421+00:00
 -- url     : https://prove2.me/theorems/561575ea-b992-4314-ad35-6ea856b0c31a

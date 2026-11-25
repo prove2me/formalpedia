@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_phiDeriv_injective_25c5f20f89f1
 -- name    : P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_phiDeriv_injective_25c5f20f89f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:01.874568+00:00
 -- url     : https://prove2.me/theorems/a777d8a2-09d5-4e91-bc38-f7205abf0343

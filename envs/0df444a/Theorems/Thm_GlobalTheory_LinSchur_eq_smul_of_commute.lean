@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinSchur_eq_smul_of_commute
 -- name    : GlobalTheory.LinSchur.eq_smul_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:08:20.725807+00:00
 -- url     : https://prove2.me/theorems/8e755525-f44b-4451-a8cc-88afd0c69e32

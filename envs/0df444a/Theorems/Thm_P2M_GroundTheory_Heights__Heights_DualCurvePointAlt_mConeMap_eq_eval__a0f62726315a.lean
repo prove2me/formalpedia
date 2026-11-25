@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_mConeMap_eq_eval__a0f62726315a
 -- name    : P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_mConeMap_eq_eval__a0f62726315a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:39:09.964658+00:00
 -- url     : https://prove2.me/theorems/25880293-8af4-4deb-9b79-6a65072cf093

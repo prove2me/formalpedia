@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_eq_zero_of_cob_eq_zero
 -- name    : GlobalTheory.PDivGroup.eq_zero_of_cob_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:39:56.210374+00:00
 -- url     : https://prove2.me/theorems/5c9ec93f-0e2d-47e5-9a13-9073f583a6f7

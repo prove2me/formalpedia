@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_invOpen_eq_basicOpen_c5fee204da3b
 -- name    : P2M_GroundTheory_Heights__Heights_Model_invOpen_eq_basicOpen_c5fee204da3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:33.849818+00:00
 -- url     : https://prove2.me/theorems/b4c17e5a-c1d9-4549-9ca9-d0630dd46650

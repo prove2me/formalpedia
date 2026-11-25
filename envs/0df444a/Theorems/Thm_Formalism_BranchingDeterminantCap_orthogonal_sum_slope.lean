@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_orthogonal_sum_slope
 -- name    : Formalism.BranchingDeterminantCap.orthogonal_sum_slope
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:39:54.850866+00:00
 -- url     : https://prove2.me/theorems/1dd7899f-89b0-5a8d-81c0-0d1739ee931e

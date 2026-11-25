@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_AnalyticGermsNoetherian_proof_bbc29778fca7
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_AnalyticGermsNoetherian_proof_bbc29778fca7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:41:04.050684+00:00
 -- url     : https://prove2.me/theorems/18286499-b795-40a1-91fe-2ac5f8e69180

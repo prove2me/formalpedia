@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_abs_list_prod_map_le_of_abs_le
 -- name    : GlobalTheory.abs_list_prod_map_le_of_abs_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:34:43.627142+00:00
 -- url     : https://prove2.me/theorems/2bff744e-1ed0-40dc-a7a1-2e20f1e93940

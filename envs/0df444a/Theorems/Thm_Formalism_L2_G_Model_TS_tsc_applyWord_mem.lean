@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_tsc_applyWord_mem
 -- name    : Formalism.L2.G.Model.TS.tsc_applyWord_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:42:02.378222+00:00
 -- url     : https://prove2.me/theorems/87c613f0-04c2-4a05-97c4-2d1872054754

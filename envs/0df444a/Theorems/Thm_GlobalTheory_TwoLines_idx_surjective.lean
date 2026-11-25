@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_idx_surjective
 -- name    : GlobalTheory.TwoLines.idx_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:11:48.691113+00:00
 -- url     : https://prove2.me/theorems/bd665992-9e68-4348-b5b4-a451ddbb7951

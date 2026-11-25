@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_stalkMap_eq_iff_germ_581138d9864c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_stalkMap_eq_iff_germ_581138d9864c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:38:21.146816+00:00
 -- url     : https://prove2.me/theorems/f286a0b5-f59d-496c-ab47-8f56de643742

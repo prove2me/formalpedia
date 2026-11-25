@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WachLettersCompare_mem_Nl_iff
 -- name    : GlobalTheory.WachLettersCompare.mem_Nl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:09:48.557254+00:00
 -- url     : https://prove2.me/theorems/04527db7-b4b7-497a-b31c-d7ad31ea4167

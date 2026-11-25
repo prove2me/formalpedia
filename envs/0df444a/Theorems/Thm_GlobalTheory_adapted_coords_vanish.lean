@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_adapted_coords_vanish
 -- name    : GlobalTheory.adapted_coords_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:53:07.551083+00:00
 -- url     : https://prove2.me/theorems/3af44c81-3d7e-488a-b60b-3ee7fc91167d

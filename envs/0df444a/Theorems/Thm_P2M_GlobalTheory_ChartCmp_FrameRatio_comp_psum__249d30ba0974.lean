@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ChartCmp_FrameRatio_comp_psum__249d30ba0974
 -- name    : P2M_GlobalTheory_ChartCmp_FrameRatio_comp_psum__249d30ba0974
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:38:00.171948+00:00
 -- url     : https://prove2.me/theorems/e163ffe3-ef85-4fed-8ce2-ae90b868530c

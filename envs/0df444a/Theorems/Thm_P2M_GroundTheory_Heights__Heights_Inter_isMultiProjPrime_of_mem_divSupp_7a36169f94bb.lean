@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_isMultiProjPrime_of_mem_divSupp_7a36169f94bb
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_isMultiProjPrime_of_mem_divSupp_7a36169f94bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:24:13.283704+00:00
 -- url     : https://prove2.me/theorems/f6cb7c71-c92f-494b-8308-b83328ee1b61

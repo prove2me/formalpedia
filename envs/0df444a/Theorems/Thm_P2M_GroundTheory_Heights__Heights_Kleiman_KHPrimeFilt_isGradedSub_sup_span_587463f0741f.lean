@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHPrimeFilt_isGradedSub_sup_span_587463f0741f
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHPrimeFilt_isGradedSub_sup_span_587463f0741f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:36:07.926995+00:00
 -- url     : https://prove2.me/theorems/fb7fb9d9-4a96-5cd7-97da-155f773543c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_mem_of_mem_divSupp__48cdc1ee338b
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_mem_of_mem_divSupp__48cdc1ee338b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:25:00.591415+00:00
 -- url     : https://prove2.me/theorems/a60b5330-dccc-47d4-8eea-06c3c5e2cc6b

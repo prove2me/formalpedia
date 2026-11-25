@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmISymm_snoc_snoc_comp_swap_2783ae7a74db
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmISymm_snoc_snoc_comp_swap_2783ae7a74db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:24:00.380917+00:00
 -- url     : https://prove2.me/theorems/f5eaf872-e7c2-4aec-ada5-a38c5e48735e

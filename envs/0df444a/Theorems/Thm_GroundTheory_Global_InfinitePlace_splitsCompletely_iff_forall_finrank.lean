@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_splitsCompletely_iff_forall_finrank
 -- name    : GroundTheory.Global.InfinitePlace.splitsCompletely_iff_forall_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:04:20.626605+00:00
 -- url     : https://prove2.me/theorems/58f1e5a3-2294-5f77-8865-a2cda128575e

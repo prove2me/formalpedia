@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_jets_fourth_holds
 -- name    : Formalism.L2.Th1.G.jets_fourth_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:34:24.102684+00:00
 -- url     : https://prove2.me/theorems/2afb2cba-03d7-42c7-b757-b2f6d72df414

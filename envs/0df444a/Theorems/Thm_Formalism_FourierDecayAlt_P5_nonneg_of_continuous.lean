@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_nonneg_of_continuous
 -- name    : Formalism.FourierDecayAlt.P5.nonneg_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:55:28.005807+00:00
 -- url     : https://prove2.me/theorems/4f6b85cc-7a15-4fbe-a0a1-8d6b9f156d0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Bridge_GeoNum_quotEquiv_mk_72962265258b
 -- name    : P2M_GroundTheory_Heights__Heights_Bridge_GeoNum_quotEquiv_mk_72962265258b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:48:01.490934+00:00
 -- url     : https://prove2.me/theorems/e383fd8e-0c6d-52db-945a-5a0fdcccb9b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finite_sup_of_finite
 -- name    : GroundTheory.ProfCoh.finite_sup_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:33:48.857047+00:00
 -- url     : https://prove2.me/theorems/5df64547-5422-5fb6-9056-903740456abc

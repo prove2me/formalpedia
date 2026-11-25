@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_shape_conj_chr_mul
 -- name    : GlobalTheory.Phase.shape_conj_chr_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:48:30.064986+00:00
 -- url     : https://prove2.me/theorems/c260cefe-278f-4a21-baaf-32ef243b13c1

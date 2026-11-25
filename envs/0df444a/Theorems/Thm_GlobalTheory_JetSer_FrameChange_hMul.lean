@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_FrameChange_hMul
 -- name    : GlobalTheory.JetSer.FrameChange.hMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:41:03.964201+00:00
 -- url     : https://prove2.me/theorems/899d1cf0-2a2e-4e0b-a1a7-745522c4fa30

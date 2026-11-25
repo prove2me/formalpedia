@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ClosedPointAffineChart_exists_mul_div_mem_curveRing_3519ceb654b7
 -- name    : P2M_GroundTheory_Heights__Heights_ClosedPointAffineChart_exists_mul_div_mem_curveRing_3519ceb654b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:17:38.130326+00:00
 -- url     : https://prove2.me/theorems/389d7723-4980-4fac-8e01-3fa7e461f9e8

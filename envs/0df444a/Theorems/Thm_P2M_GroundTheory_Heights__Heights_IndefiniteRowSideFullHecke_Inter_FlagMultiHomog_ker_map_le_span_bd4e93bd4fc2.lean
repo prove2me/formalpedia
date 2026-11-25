@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagMultiHomog_ker_map_le_span_bd4e93bd4fc2
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagMultiHomog_ker_map_le_span_bd4e93bd4fc2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:33:16.467652+00:00
 -- url     : https://prove2.me/theorems/863911fc-213a-46c7-b19b-2b8264b28ff8

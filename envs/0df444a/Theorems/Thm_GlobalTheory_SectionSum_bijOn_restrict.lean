@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionSum_bijOn_restrict
 -- name    : GlobalTheory.SectionSum.bijOn_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:00:17.775605+00:00
 -- url     : https://prove2.me/theorems/a9e72a6f-10bc-559f-8b79-014839789814

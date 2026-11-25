@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PFHoriz_aeval_baseSubst_c36c478e057f
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PFHoriz_aeval_baseSubst_c36c478e057f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:42:02.295921+00:00
 -- url     : https://prove2.me/theorems/316aa70c-4626-459d-ae9b-9e55de048f8b

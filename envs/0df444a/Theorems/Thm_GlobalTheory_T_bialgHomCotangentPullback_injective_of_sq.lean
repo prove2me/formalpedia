@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_bialgHomCotangentPullback_injective_of_sq
 -- name    : GlobalTheory.T.bialgHomCotangentPullback_injective_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:11:40.345711+00:00
 -- url     : https://prove2.me/theorems/1c4816d8-aee8-4ea7-acc3-37df8d04740c

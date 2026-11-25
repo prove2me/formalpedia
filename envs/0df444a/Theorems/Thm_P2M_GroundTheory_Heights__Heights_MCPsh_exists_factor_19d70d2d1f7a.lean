@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCPsh_exists_factor_19d70d2d1f7a
 -- name    : P2M_GroundTheory_Heights__Heights_MCPsh_exists_factor_19d70d2d1f7a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:47:50.432054+00:00
 -- url     : https://prove2.me/theorems/b8416741-b464-4f4c-85ee-6f75762122bf

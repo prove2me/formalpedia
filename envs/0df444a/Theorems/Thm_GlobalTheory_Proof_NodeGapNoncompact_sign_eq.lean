@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_NodeGapNoncompact_sign_eq
 -- name    : GlobalTheory.Proof.NodeGapNoncompact.sign_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:27:33.089468+00:00
 -- url     : https://prove2.me/theorems/553c27a3-bad4-440a-9c44-fb7aaccf35c8

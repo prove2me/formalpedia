@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PushforwardArithIntersection_coordPow_not_mem_acb1a66812b9
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PushforwardArithIntersection_coordPow_not_mem_acb1a66812b9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:42:06.4688+00:00
 -- url     : https://prove2.me/theorems/8ccd0883-b39f-4a21-bf92-1bb86cfe5b57

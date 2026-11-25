@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_scaledBaseChange_fibreSection_calculus
 -- name    : GlobalTheory.T.scaledBaseChange_fibreSection_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:38:36.404802+00:00
 -- url     : https://prove2.me/theorems/ef87fc38-7d12-4f78-b1fa-f56ffc737d6f

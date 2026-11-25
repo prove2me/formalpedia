@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_natCast_eq_of_norm_sub_lt_one_5dc16dc23cbe
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_natCast_eq_of_norm_sub_lt_one_5dc16dc23cbe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:37:23.981813+00:00
 -- url     : https://prove2.me/theorems/04900df4-2fc8-49fe-bc54-21e88029abda

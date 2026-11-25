@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_smul_mem_field
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.smul_mem_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:36:37.94554+00:00
 -- url     : https://prove2.me/theorems/6b8d6f2f-1e9f-4597-98ba-71160ee9b449

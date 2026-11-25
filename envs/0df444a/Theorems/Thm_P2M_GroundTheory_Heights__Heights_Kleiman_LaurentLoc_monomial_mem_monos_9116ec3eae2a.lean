@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_LaurentLoc_monomial_mem_monos_9116ec3eae2a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_LaurentLoc_monomial_mem_monos_9116ec3eae2a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:27:21.884826+00:00
 -- url     : https://prove2.me/theorems/df1f0ce1-bbf3-4f2c-b2ec-220bc70d3584

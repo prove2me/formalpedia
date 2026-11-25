@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_chi_comp_continuousOn
 -- name    : ReciprocityTheory.AnForm.M.chi_comp_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:50:22.053267+00:00
 -- url     : https://prove2.me/theorems/a31537da-861a-4797-9cb1-67d7c1b564b2

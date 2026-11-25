@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_primeWeight_nonneg_579c05874559
 -- name    : P2M_GroundTheory_Heights__Heights_Model_primeWeight_nonneg_579c05874559
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:29:08.956261+00:00
 -- url     : https://prove2.me/theorems/8fc27299-f1d5-4545-8a40-e6c62d0ba596

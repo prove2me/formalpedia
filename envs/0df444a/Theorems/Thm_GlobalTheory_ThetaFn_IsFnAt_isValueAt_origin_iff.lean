@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_IsFnAt_isValueAt_origin_iff
 -- name    : GlobalTheory.ThetaFn.IsFnAt.isValueAt_origin_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:37:31.148213+00:00
 -- url     : https://prove2.me/theorems/302873a8-56b5-4cfa-806c-eed908286231

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreTranscendenceDegree_trdeg_quot_ker_49a962a5ab3c
 -- name    : P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreTranscendenceDegree_trdeg_quot_ker_49a962a5ab3c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:41:40.159028+00:00
 -- url     : https://prove2.me/theorems/c265d6d8-e6bd-467a-b517-0784c061b2b7

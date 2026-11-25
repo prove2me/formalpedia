@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_Top_fockRRowAct
 -- name    : Formalism.L2.G.Model.TS.Top.fockRRowAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:47:55.182053+00:00
 -- url     : https://prove2.me/theorems/2cffe45e-7765-4623-8488-7a253b6008d7

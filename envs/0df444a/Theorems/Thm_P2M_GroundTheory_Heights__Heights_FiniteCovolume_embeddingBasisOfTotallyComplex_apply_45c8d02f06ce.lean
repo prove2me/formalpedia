@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_embeddingBasisOfTotallyComplex_apply_45c8d02f06ce
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_embeddingBasisOfTotallyComplex_apply_45c8d02f06ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:41:17.631613+00:00
 -- url     : https://prove2.me/theorems/c61ce26a-ae93-4742-8c82-79a97173df97

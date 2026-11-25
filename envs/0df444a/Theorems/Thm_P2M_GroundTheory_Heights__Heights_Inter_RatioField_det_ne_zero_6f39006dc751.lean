@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RatioField_det_ne_zero_6f39006dc751
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RatioField_det_ne_zero_6f39006dc751
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:42:22.623888+00:00
 -- url     : https://prove2.me/theorems/1f041336-d4bf-46e2-be90-2973ec20fb47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartScalingIndep_isHomogeneous_mw_6c8ae1086a4a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartScalingIndep_isHomogeneous_mw_6c8ae1086a4a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:41:06.713086+00:00
 -- url     : https://prove2.me/theorems/afe98e6a-b04d-4ef9-95ca-5c76e81aa0d9

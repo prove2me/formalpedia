@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBL_g_pos_of_built
 -- name    : Formalism.FourierDecayAlt.P.PBL.g_pos_of_built
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:44:29.608743+00:00
 -- url     : https://prove2.me/theorems/28949b8f-f15c-4946-b166-1e2172baed1e

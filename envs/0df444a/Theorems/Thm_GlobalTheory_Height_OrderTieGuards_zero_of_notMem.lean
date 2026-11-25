@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Height_OrderTieGuards_zero_of_notMem
 -- name    : GlobalTheory.Height.OrderTieGuards.zero_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:43:24.171223+00:00
 -- url     : https://prove2.me/theorems/f5a2bf2c-762e-4b72-a225-d2ac77886c26

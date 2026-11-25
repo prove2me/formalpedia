@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_iterate_frobeniusEquiv_symm_mem_integerTilt
 -- name    : GroundTheory.PAdicHodge.iterate_frobeniusEquiv_symm_mem_integerTilt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:34:39.927898+00:00
 -- url     : https://prove2.me/theorems/7566cf67-ed6c-4070-ae0a-38a75d8129d9

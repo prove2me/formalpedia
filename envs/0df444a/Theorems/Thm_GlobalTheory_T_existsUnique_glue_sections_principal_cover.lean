@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_glue_sections_principal_cover
 -- name    : GlobalTheory.T.existsUnique_glue_sections_principal_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:33:54.044335+00:00
 -- url     : https://prove2.me/theorems/5e74db97-8a65-4883-b110-7b76c80feee6

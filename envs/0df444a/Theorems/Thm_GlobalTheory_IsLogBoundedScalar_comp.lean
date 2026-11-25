@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLogBoundedScalar_comp
 -- name    : GlobalTheory.IsLogBoundedScalar.comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:55:32.650282+00:00
 -- url     : https://prove2.me/theorems/60dc8c0d-3f98-441d-b7a8-f029abdb120c

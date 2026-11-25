@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_coe_sUnitMap
 -- name    : GroundTheory.Global.coe_sUnitMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:38:39.058836+00:00
 -- url     : https://prove2.me/theorems/cda77779-0cee-4abb-bc9a-e3f8d43334ed

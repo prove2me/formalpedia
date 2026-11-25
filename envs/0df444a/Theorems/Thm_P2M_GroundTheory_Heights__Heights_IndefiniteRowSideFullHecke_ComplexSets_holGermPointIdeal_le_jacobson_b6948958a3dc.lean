@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_holGermPointIdeal_le_jacobson_b6948958a3dc
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_holGermPointIdeal_le_jacobson_b6948958a3dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:21:35.127941+00:00
 -- url     : https://prove2.me/theorems/b1d5b892-d9d1-462b-9615-991bce0d48b1

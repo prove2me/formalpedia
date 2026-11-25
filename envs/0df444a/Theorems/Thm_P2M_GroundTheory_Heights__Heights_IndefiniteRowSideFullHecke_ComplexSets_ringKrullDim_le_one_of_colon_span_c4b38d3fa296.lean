@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ringKrullDim_le_one_of_colon_span_c4b38d3fa296
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ringKrullDim_le_one_of_colon_span_c4b38d3fa296
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:37:41.837963+00:00
 -- url     : https://prove2.me/theorems/38696bdf-4206-4f26-9e11-e4cec8fc1954

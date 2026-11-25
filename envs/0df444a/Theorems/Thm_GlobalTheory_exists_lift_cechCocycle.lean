@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_lift_cechCocycle
 -- name    : GlobalTheory.exists_lift_cechCocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:34:25.912804+00:00
 -- url     : https://prove2.me/theorems/6a180ea1-a10b-5e4b-8c91-10ef582b2498

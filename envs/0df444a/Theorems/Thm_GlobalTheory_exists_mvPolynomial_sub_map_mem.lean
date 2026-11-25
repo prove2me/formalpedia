@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_mvPolynomial_sub_map_mem
 -- name    : GlobalTheory.exists_mvPolynomial_sub_map_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:56:37.894797+00:00
 -- url     : https://prove2.me/theorems/89290baa-0cb1-4267-91fb-25ca03dd32e1

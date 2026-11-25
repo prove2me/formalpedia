@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_minor_det_triangular_mul
 -- name    : GlobalTheory.T.gram_minor_det_triangular_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:58:32.793669+00:00
 -- url     : https://prove2.me/theorems/d055d29f-4c69-5d00-9f41-ae659923089d

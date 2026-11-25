@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_exists_elliptic_weakSol_of_aeval_eq_zero
 -- name    : GlobalTheory.HCA.exists_elliptic_weakSol_of_aeval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:13:09.723465+00:00
 -- url     : https://prove2.me/theorems/9aecbcac-753f-4b80-963c-dca627147533

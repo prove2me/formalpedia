@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_theorem_A_generic
 -- name    : Formalism.DworkPowerSeriesWeights.theorem_A_generic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:12.464187+00:00
 -- url     : https://prove2.me/theorems/55398abd-c1a1-48a5-b914-0dea2d41ba6b

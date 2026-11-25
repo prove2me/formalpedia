@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootGridLower_average_ed28bb99e416
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootGridLower_average_ed28bb99e416
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:49.52073+00:00
 -- url     : https://prove2.me/theorems/7be7807e-0516-5395-863d-f104412abeda

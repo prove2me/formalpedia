@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormRankFour_gram_CC
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormRankFour.gram_CC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:25:13.612345+00:00
 -- url     : https://prove2.me/theorems/cd2bef1f-42a4-50f0-8b2f-64ef9f2efbde

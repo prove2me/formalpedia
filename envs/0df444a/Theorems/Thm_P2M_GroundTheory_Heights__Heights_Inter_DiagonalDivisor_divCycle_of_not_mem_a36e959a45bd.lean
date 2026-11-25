@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalDivisor_divCycle_of_not_mem_a36e959a45bd
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalDivisor_divCycle_of_not_mem_a36e959a45bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:25:32.346335+00:00
 -- url     : https://prove2.me/theorems/afc0260c-8fca-4780-a540-76cc5b2a7b38

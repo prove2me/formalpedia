@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_columnGramDeterminant_unitLower_three
 -- name    : GlobalTheory.T.columnGramDeterminant_unitLower_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:55:22.618846+00:00
 -- url     : https://prove2.me/theorems/38918ef7-53e5-4d76-b56d-757d465af467

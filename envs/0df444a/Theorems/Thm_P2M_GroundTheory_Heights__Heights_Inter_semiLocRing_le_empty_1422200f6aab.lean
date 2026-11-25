@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_semiLocRing_le_empty_1422200f6aab
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_semiLocRing_le_empty_1422200f6aab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:34:04.272557+00:00
 -- url     : https://prove2.me/theorems/c645f1ef-ea31-4735-abc0-e8a8021271b6

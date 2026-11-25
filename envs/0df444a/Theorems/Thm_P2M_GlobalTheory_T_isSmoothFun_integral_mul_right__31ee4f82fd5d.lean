@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_isSmoothFun_integral_mul_right__31ee4f82fd5d
 -- name    : P2M_GlobalTheory_T_isSmoothFun_integral_mul_right__31ee4f82fd5d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:37:50.866282+00:00
 -- url     : https://prove2.me/theorems/36a42c48-3d87-4c09-ad5b-0794387f286b

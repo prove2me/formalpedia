@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CechTop_idx_isEmpty_10e419feb8ed
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CechTop_idx_isEmpty_10e419feb8ed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:35:16.455798+00:00
 -- url     : https://prove2.me/theorems/88a73946-c2cf-5863-b6d4-1ae773402490

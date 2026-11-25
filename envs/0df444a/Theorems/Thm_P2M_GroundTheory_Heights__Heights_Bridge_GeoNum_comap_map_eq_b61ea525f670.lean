@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Bridge_GeoNum_comap_map_eq_b61ea525f670
 -- name    : P2M_GroundTheory_Heights__Heights_Bridge_GeoNum_comap_map_eq_b61ea525f670
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:09:18.450674+00:00
 -- url     : https://prove2.me/theorems/c29c2ce1-86e7-4dee-8c8b-080bf38af379

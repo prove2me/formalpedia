@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueFrac_mem_of_atPrime_042fe231d9ab
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueFrac_mem_of_atPrime_042fe231d9ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:46:31.581843+00:00
 -- url     : https://prove2.me/theorems/91444b82-df36-4378-9a41-e537e5bc9bd7

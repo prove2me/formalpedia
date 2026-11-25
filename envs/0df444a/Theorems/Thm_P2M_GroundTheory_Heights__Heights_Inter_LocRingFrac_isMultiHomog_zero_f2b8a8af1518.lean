@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_LocRingFrac_isMultiHomog_zero_f2b8a8af1518
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_LocRingFrac_isMultiHomog_zero_f2b8a8af1518
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:41:44.814976+00:00
 -- url     : https://prove2.me/theorems/c9416a04-4182-4b37-92be-c35d7ebe2120

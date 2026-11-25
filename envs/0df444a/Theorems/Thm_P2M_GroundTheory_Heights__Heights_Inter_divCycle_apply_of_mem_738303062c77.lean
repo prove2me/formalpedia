@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_divCycle_apply_of_mem_738303062c77
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_divCycle_apply_of_mem_738303062c77
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:25:49.084185+00:00
 -- url     : https://prove2.me/theorems/90bac1d3-0068-4c39-a716-69b6ae2f0cc3

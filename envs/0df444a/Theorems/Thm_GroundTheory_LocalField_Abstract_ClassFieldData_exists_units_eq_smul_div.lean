@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_exists_units_eq_smul_div
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.exists_units_eq_smul_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:35:34.760333+00:00
 -- url     : https://prove2.me/theorems/1e041913-f81d-4d6c-9e2b-e3b419e796f7

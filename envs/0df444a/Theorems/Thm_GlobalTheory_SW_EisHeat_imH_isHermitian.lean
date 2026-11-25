@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisHeat_imH_isHermitian
 -- name    : GlobalTheory.SW.EisHeat.imH_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:10:52.913782+00:00
 -- url     : https://prove2.me/theorems/26cc7c00-c246-5d4f-a2c0-ac935313233c

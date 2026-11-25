@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_PairedSquareConstantCoefficients_constantCoeff_C_mul_sqSum
 -- name    : Formalism.L2.Th1.G.PairedSquareConstantCoefficients.constantCoeff_C_mul_sqSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:31:52.747368+00:00
 -- url     : https://prove2.me/theorems/ed585142-fd6d-52ea-a413-49f0af2ea155

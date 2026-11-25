@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionHorizontal_sum_block_bdff83cc376b
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionHorizontal_sum_block_bdff83cc376b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:40:52.935201+00:00
 -- url     : https://prove2.me/theorems/bca99ac7-1742-41ce-b809-a2183648d95e

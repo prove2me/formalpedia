@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ae_eval_circleMap_ne_zero
 -- name    : GlobalTheory.ae_eval_circleMap_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:56:16.932928+00:00
 -- url     : https://prove2.me/theorems/f9164174-8813-4276-aefe-a35ae2c86ee7

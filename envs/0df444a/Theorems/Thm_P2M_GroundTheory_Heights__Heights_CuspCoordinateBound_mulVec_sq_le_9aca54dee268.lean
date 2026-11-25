@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CuspCoordinateBound_mulVec_sq_le_9aca54dee268
 -- name    : P2M_GroundTheory_Heights__Heights_CuspCoordinateBound_mulVec_sq_le_9aca54dee268
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:32:41.872159+00:00
 -- url     : https://prove2.me/theorems/92a2932a-9ec5-47ac-a6ca-e94f0cef5bb8

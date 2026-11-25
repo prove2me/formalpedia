@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh___augIdealRetract_82d7b9ae2009
 -- name    : P2M_GroundTheory_GroupCoh___augIdealRetract_82d7b9ae2009
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:37:48.303053+00:00
 -- url     : https://prove2.me/theorems/5562e02a-4ffd-4041-bc9a-f7d3404c1112

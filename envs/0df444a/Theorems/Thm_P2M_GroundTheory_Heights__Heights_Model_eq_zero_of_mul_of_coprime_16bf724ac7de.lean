@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_eq_zero_of_mul_of_coprime_16bf724ac7de
 -- name    : P2M_GroundTheory_Heights__Heights_Model_eq_zero_of_mul_of_coprime_16bf724ac7de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:30:51.802081+00:00
 -- url     : https://prove2.me/theorems/b750a4ad-65aa-48e1-af24-1c2cfb2ecd1c

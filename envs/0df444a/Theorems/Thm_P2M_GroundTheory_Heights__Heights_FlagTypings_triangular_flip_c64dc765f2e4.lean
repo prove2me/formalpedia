@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FlagTypings_triangular_flip_c64dc765f2e4
 -- name    : P2M_GroundTheory_Heights__Heights_FlagTypings_triangular_flip_c64dc765f2e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:34:10.518913+00:00
 -- url     : https://prove2.me/theorems/4ef10e66-1329-4a12-9e6e-6da9bdc6746d

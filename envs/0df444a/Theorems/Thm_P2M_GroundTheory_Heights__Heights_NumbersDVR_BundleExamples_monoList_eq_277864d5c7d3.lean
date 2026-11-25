@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BundleExamples_monoList_eq_277864d5c7d3
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BundleExamples_monoList_eq_277864d5c7d3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:30:55.487004+00:00
 -- url     : https://prove2.me/theorems/f54ffb24-c8bd-4541-99fd-0159d6d2ecbf

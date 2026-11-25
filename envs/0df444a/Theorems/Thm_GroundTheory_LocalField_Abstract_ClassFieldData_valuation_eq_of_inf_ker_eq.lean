@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_valuation_eq_of_inf_ker_eq
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.valuation_eq_of_inf_ker_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:35:42.756963+00:00
 -- url     : https://prove2.me/theorems/73d88ec9-998b-44c1-a8f8-5845d99b261a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_QZ_exists_comp_eq_of_injective
 -- name    : GroundTheory.ProfCoh.QZ.exists_comp_eq_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:34:20.289773+00:00
 -- url     : https://prove2.me/theorems/89f0021d-d9c7-4918-a070-c796a1a7f15f

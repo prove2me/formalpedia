@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_normDiscrete_ne_zero_of_isDedekindDomain
 -- name    : GlobalTheory.finite_normDiscrete_ne_zero_of_isDedekindDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:57:55.934015+00:00
 -- url     : https://prove2.me/theorems/1776f969-ae20-4e1d-b226-1fe10a009e6b

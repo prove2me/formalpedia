@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_gram_scalar_almost_all
 -- name    : GlobalTheory.T.lattice_gram_scalar_almost_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:52:06.650909+00:00
 -- url     : https://prove2.me/theorems/ec918ead-2486-4504-b7c9-ad2e52f7cf27

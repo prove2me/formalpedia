@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_fixedFieldMulEquiv_smul_ideal
 -- name    : GroundTheory.Global.Artin.fixedFieldMulEquiv_smul_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:47:31.54423+00:00
 -- url     : https://prove2.me/theorems/504ec264-630a-4660-b9b3-f7eebbc43350

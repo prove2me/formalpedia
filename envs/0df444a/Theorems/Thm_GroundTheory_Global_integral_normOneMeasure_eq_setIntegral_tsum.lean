@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_integral_normOneMeasure_eq_setIntegral_tsum
 -- name    : GroundTheory.Global.integral_normOneMeasure_eq_setIntegral_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:37:18.051701+00:00
 -- url     : https://prove2.me/theorems/ce2f3050-60cd-4026-8e2f-1cfd866d94e0

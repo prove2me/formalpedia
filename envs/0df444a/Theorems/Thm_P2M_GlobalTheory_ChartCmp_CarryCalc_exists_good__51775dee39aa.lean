@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ChartCmp_CarryCalc_exists_good__51775dee39aa
 -- name    : P2M_GlobalTheory_ChartCmp_CarryCalc_exists_good__51775dee39aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:37:47.317089+00:00
 -- url     : https://prove2.me/theorems/bee09222-93d9-47d3-afec-1605d4797343

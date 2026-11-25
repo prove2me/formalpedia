@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ConeTrdegFnField_mcMap_X_956b3496ba62
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ConeTrdegFnField_mcMap_X_956b3496ba62
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:39:02.810291+00:00
 -- url     : https://prove2.me/theorems/64681c24-d51b-564f-86f6-593126fff00a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreTranscendenceDegree_isAlgebraic_of_forall_div_b61d5af56ab3
 -- name    : P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreTranscendenceDegree_isAlgebraic_of_forall_div_b61d5af56ab3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:42:17.504147+00:00
 -- url     : https://prove2.me/theorems/12e843ed-e8da-4626-a09d-4aa3c53098e3

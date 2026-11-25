@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerC_Fou_norm_iteratedFDerivWithin_inv_one_le
 -- name    : Formalism.FourierDecayAlt.P5.HerC.Fou.norm_iteratedFDerivWithin_inv_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:39:59.959894+00:00
 -- url     : https://prove2.me/theorems/583394ae-c351-47ba-a1ef-857c2fed551e

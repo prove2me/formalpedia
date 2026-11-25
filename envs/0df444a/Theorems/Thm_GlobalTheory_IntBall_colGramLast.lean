@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_colGramLast
 -- name    : GlobalTheory.IntBall.colGramLast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:45:13.341454+00:00
 -- url     : https://prove2.me/theorems/6afa7abe-8887-441b-bd55-6eec4aef6f15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_d___mapRange_addEquiv_855b748d2b6d
 -- name    : P2M_GroundTheory_GroupCoh_d___mapRange_addEquiv_855b748d2b6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:38:27.306389+00:00
 -- url     : https://prove2.me/theorems/d2db88a3-1b40-497e-a824-482afd54d5f8

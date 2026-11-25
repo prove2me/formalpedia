@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_aeval_cons_eq_eval__finSuccEquiv_b773e260af41
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_aeval_cons_eq_eval__finSuccEquiv_b773e260af41
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:39:52.92656+00:00
 -- url     : https://prove2.me/theorems/e5d11b29-296c-4e29-bd78-9ab84125849a

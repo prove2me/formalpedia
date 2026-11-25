@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagPull_exists_line_notMem_25089793c224
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagPull_exists_line_notMem_25089793c224
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:23:31.470184+00:00
 -- url     : https://prove2.me/theorems/4bbba542-7bde-4284-8a4d-f33e0e30d66b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_latticeForm_add_ff76c8df2829
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_latticeForm_add_ff76c8df2829
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:34:08.277796+00:00
 -- url     : https://prove2.me/theorems/3c02de0c-0a51-4a9a-b09b-bca7326ca26f

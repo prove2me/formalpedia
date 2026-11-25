@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_stdCoordMap_span_1f6bd7367cc3
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_stdCoordMap_span_1f6bd7367cc3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:23:00.359815+00:00
 -- url     : https://prove2.me/theorems/fbb45ea9-ca1a-525b-86a1-a4dc65ab59c9

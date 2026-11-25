@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionBasis_exists_maps
 -- name    : GlobalTheory.SectionBasis.exists_maps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:51:53.275914+00:00
 -- url     : https://prove2.me/theorems/6e16eae8-949d-44d6-9cab-7ff78abf341e

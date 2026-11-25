@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PFSecRed_exists_form_not_mem_68abc4b9c90c
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PFSecRed_exists_form_not_mem_68abc4b9c90c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:42:17.204655+00:00
 -- url     : https://prove2.me/theorems/1dabbd3c-e121-4f08-87af-d2301f518a1c

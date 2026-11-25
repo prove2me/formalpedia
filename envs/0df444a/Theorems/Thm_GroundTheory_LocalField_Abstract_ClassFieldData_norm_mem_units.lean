@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_norm_mem_units
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.norm_mem_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:35:42.802538+00:00
 -- url     : https://prove2.me/theorems/ebeb1b3f-4d23-4968-8b26-c9f25b738d22

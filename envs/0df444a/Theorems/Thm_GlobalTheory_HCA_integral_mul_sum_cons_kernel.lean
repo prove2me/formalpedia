@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_integral_mul_sum_cons_kernel
 -- name    : GlobalTheory.HCA.integral_mul_sum_cons_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:45:02.731928+00:00
 -- url     : https://prove2.me/theorems/d7e0a2c0-2e08-4bfa-964b-b68b5d553bd1

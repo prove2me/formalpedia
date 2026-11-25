@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_LaurentCohomProof_part_univ_eq_zero_4f68cd74c221
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_LaurentCohomProof_part_univ_eq_zero_4f68cd74c221
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:27:42.572805+00:00
 -- url     : https://prove2.me/theorems/8bd57ae4-c9a4-4e3d-931d-c19019a71bdf

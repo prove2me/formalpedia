@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_eq_of_basisCoord_caa2d94696ac
 -- name    : P2M_GroundTheory_Heights__Heights_Model_eq_of_basisCoord_caa2d94696ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:59.577482+00:00
 -- url     : https://prove2.me/theorems/1695ea55-fd83-406b-9db7-37eb5a169380

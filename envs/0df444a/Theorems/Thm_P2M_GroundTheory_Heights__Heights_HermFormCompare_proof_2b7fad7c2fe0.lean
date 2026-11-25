@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermFormCompare_proof_2b7fad7c2fe0
 -- name    : P2M_GroundTheory_Heights__Heights_HermFormCompare_proof_2b7fad7c2fe0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:30:04.22498+00:00
 -- url     : https://prove2.me/theorems/bb2cb559-1f50-4087-9fd4-236b5c3616d2

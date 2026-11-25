@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_map_le_ker_genericEvaluation_940d81026d18
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_map_le_ker_genericEvaluation_940d81026d18
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:34:35.390674+00:00
 -- url     : https://prove2.me/theorems/58a0d178-84e1-4bc6-80e3-4c9e4055c29e

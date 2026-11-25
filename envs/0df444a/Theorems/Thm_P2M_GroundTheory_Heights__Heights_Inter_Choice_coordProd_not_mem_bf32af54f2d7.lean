@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_Choice_coordProd_not_mem_bf32af54f2d7
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_Choice_coordProd_not_mem_bf32af54f2d7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:41:24.726662+00:00
 -- url     : https://prove2.me/theorems/c466a495-389b-463e-9de5-a36ae45913f9

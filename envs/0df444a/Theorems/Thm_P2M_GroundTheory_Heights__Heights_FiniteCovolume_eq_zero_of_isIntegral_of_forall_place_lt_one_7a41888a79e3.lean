@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_eq_zero_of_isIntegral_of_forall_place_lt_one_7a41888a79e3
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_eq_zero_of_isIntegral_of_forall_place_lt_one_7a41888a79e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:42:24.266703+00:00
 -- url     : https://prove2.me/theorems/4c820665-e5d9-40bf-bb7a-f7c8a7646187

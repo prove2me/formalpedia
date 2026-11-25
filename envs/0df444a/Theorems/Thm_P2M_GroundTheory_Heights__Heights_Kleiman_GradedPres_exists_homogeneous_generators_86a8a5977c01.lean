@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_GradedPres_exists_homogeneous_generators_86a8a5977c01
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_GradedPres_exists_homogeneous_generators_86a8a5977c01
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:32:13.280487+00:00
 -- url     : https://prove2.me/theorems/0dd8357f-db3f-5d67-8dfb-a8825f5af665

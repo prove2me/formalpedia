@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relAmple_thetaBundle_projectiveModel
 -- name    : GlobalTheory.T.relAmple_thetaBundle_projectiveModel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:01:04.606261+00:00
 -- url     : https://prove2.me/theorems/1d66162c-9ac5-4eb3-946b-92bc19b103d5

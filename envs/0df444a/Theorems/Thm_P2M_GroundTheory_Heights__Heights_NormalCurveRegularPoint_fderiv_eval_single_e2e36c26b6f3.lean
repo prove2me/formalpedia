@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalCurveRegularPoint_fderiv_eval_single_e2e36c26b6f3
 -- name    : P2M_GroundTheory_Heights__Heights_NormalCurveRegularPoint_fderiv_eval_single_e2e36c26b6f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:49:07.962435+00:00
 -- url     : https://prove2.me/theorems/d9cc9060-892f-4e03-8843-0b8bf446faa3

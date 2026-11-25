@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_star_form_eq_of_hermitian
 -- name    : GlobalTheory.star_form_eq_of_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:34:27.670058+00:00
 -- url     : https://prove2.me/theorems/4ec11c2e-3e14-4c87-bcd7-86169671378c

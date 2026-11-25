@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_mem_fixedModule_of_smul_eq
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.mem_fixedModule_of_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:36:11.367529+00:00
 -- url     : https://prove2.me/theorems/16b3e642-7588-45d9-be1c-1077dd378705

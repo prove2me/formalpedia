@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_summable_eis_majorant
 -- name    : GlobalTheory.SW.summable_eis_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:26:34.8716+00:00
 -- url     : https://prove2.me/theorems/4c290057-cdfd-432c-88d5-9fb883ebdc1e

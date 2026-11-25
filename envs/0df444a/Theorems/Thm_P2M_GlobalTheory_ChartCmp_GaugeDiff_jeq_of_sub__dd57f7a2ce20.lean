@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ChartCmp_GaugeDiff_jeq_of_sub__dd57f7a2ce20
 -- name    : P2M_GlobalTheory_ChartCmp_GaugeDiff_jeq_of_sub__dd57f7a2ce20
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:38:00.227409+00:00
 -- url     : https://prove2.me/theorems/c98e3952-951d-4167-907a-319514786a7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveGermComponents_ringKrullDim_curveLocalRing_le_zero_05fdced4cf0b
 -- name    : P2M_GroundTheory_Heights__Heights_CurveGermComponents_ringKrullDim_curveLocalRing_le_zero_05fdced4cf0b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:37:14.779084+00:00
 -- url     : https://prove2.me/theorems/6bf0cd13-c88e-47e4-a92f-81ceeda7d597

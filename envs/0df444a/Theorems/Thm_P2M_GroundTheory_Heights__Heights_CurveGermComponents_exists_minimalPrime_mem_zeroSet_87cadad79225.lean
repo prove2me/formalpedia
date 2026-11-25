@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveGermComponents_exists_minimalPrime_mem_zeroSet_87cadad79225
 -- name    : P2M_GroundTheory_Heights__Heights_CurveGermComponents_exists_minimalPrime_mem_zeroSet_87cadad79225
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:36:44.686637+00:00
 -- url     : https://prove2.me/theorems/c54c257c-d2c9-54ae-9700-001610bd11a8

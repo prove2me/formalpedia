@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_LowerBound_pow
 -- name    : GroundTheory.Arith.Toric.LowerBound.pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:35:39.524802+00:00
 -- url     : https://prove2.me/theorems/7a30a06c-f43f-4391-a92a-1d7e2d6acd17
