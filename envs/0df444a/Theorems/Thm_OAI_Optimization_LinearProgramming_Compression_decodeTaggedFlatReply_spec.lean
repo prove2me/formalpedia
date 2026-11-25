@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_decodeTaggedFlatReply_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.decodeTaggedFlatReply_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:48:13.278256+00:00
 -- url     : https://prove2.me/theorems/b62f79e8-c188-4771-9867-2a79db7da8ca

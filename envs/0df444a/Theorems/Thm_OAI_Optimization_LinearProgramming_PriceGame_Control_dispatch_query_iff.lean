@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Control_dispatch_query_iff
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Control.dispatch_query_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:15.267804+00:00
 -- url     : https://prove2.me/theorems/d28a9003-5951-46b6-96be-a32f1fef5b38

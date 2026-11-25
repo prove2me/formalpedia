@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_quantile_pivots
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.quantile_pivots
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:02:55.282944+00:00
 -- url     : https://prove2.me/theorems/5cecbd1f-d46e-5919-b568-3ade94aa256b

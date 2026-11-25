@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_feedback_stopped_primitives_restart
 -- name    : ManyServerQED.Scheduling.feedback_stopped_primitives_restart
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-25T18:33:14.883881+00:00
 -- url     : https://prove2.me/theorems/c75dbd52-db70-5991-bb8e-302cc3534439

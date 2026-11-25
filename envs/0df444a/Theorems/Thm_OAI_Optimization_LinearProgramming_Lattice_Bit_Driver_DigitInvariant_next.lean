@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_Bit_Driver_DigitInvariant_next
 -- name    : OAI.Optimization.LinearProgramming.Lattice.Bit.Driver.DigitInvariant.next
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:04:03.112628+00:00
 -- url     : https://prove2.me/theorems/24940258-4b9d-4975-b9df-9a9c29102d34

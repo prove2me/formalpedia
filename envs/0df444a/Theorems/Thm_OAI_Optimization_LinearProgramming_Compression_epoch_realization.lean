@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_epoch_realization
 -- name    : OAI.Optimization.LinearProgramming.Compression.epoch_realization
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:43.919571+00:00
 -- url     : https://prove2.me/theorems/ce7c31ff-5f3d-4bb9-9b82-a5451518541f

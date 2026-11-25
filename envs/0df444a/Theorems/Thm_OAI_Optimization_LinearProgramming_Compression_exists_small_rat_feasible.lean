@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_exists_small_rat_feasible
 -- name    : OAI.Optimization.LinearProgramming.Compression.exists_small_rat_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:12.372626+00:00
 -- url     : https://prove2.me/theorems/a4c394e2-b4fa-5b4c-acec-855c5519d080

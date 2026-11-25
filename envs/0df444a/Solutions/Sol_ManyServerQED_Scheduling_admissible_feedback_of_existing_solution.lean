@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ManyServerQED.Scheduling.admissible_feedback_of_existing_solution
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Jie Luo
 -- created : 2026-11-25T18:35:15.829485+00:00
 -- url     : https://prove2.me/submissions/660887e6-7b75-4244-915d-1ae9836529a2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_ManyServerQED_Scheduling_Policy
 import Theorems.Thm_ManyServerQED_Scheduling_feedback_state_measurable

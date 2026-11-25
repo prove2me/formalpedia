@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_scaledCoeffs_adjacentSwap_lower_curr
 -- name    : Hex.GramSchmidt.Int.scaledCoeffs_adjacentSwap_lower_curr
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:42:47.911806+00:00
 -- url     : https://prove2.me/theorems/3ff6982a-2730-589a-9d8b-5fc2a8008229

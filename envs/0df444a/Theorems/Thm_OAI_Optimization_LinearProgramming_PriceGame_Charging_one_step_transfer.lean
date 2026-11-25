@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_one_step_transfer
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.one_step_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:53.160664+00:00
 -- url     : https://prove2.me/theorems/e38e6c24-48ad-4536-9c29-5a2c7c7acd96

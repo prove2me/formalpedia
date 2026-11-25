@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2003_13288_isa_dipole_differential_scattering
 -- name    : Arxiv2003_13288.isa_dipole_differential_scattering
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T08:57:37.210803+00:00
 -- url     : https://prove2.me/theorems/898aa829-1b86-5133-9755-9d205c8a21a8

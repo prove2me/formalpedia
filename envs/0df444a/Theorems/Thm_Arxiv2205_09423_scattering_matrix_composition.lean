@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09423_scattering_matrix_composition
 -- name    : Arxiv2205_09423.scattering_matrix_composition
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T12:37:23.860059+00:00
 -- url     : https://prove2.me/theorems/47f7be3d-6041-5cd4-99eb-83e63ae12883

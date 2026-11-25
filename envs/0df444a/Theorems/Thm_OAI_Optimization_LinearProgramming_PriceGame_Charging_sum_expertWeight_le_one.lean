@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_sum_expertWeight_le_one
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.sum_expertWeight_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:50.800565+00:00
 -- url     : https://prove2.me/theorems/76e9455c-d909-410a-8eb6-5924e199bf20

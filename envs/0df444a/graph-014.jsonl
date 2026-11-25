@@ -86926,7 +86926,7 @@
 {"parent": "PopularMixed.mixed_fractional_bridge", "child": "PopularMixed_Fractional", "via": ["statement"]}
 {"parent": "PopularMixed.mixed_fractional_bridge", "child": "PopularMixed_Model", "via": ["statement"]}
 {"parent": "OAI.GeneralMahler.SCal.Mid.Tab.ctrue_11_0_90", "child": "OAIQ026G002", "via": ["solution", "statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_67", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_67", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
 {"parent": "FuchsThesis.Fidelity.eq_3_67", "child": "FuchsVdGraaf_IsPOVM", "via": ["statement"]}
 {"parent": "FuchsThesis.Fidelity.eq_3_67", "child": "FuchsVdGraaf_outcomeDist", "via": ["statement"]}
 {"parent": "FuchsThesis.Fidelity.eq_3_67", "child": "FuchsVdGraaf_bhattacharyya", "via": ["statement"]}
@@ -88203,10 +88203,10 @@
 {"parent": "PubFrequency.lemma_EC_2", "child": "PubFrequency_PricingGame", "via": ["statement"]}
 {"parent": "PubFrequency.lemma_EC_2", "child": "PubFrequency_MixedEquilibrium", "via": ["statement"]}
 {"parent": "PubFrequency.lemma_EC_2", "child": "PubFrequency_PublishingGame", "via": ["statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_55", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_55", "child": "FuchsVdGraaf_IsPOVM", "via": ["statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_55", "child": "FuchsVdGraaf_outcomeDist", "via": ["statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_55", "child": "FuchsVdGraaf_bhattacharyya", "via": ["statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_55", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_55", "child": "FuchsVdGraaf_IsPOVM", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_55", "child": "FuchsVdGraaf_outcomeDist", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_55", "child": "FuchsVdGraaf_bhattacharyya", "via": ["solution", "statement"]}
 {"parent": "FuchsThesis.Fidelity.eq_3_55", "child": "FuchsVdGraaf_qBhattacharyya", "via": ["statement"]}
 {"parent": "MFCLearn.eq_3_7", "child": "MFCLearn_Lifted", "via": ["statement"]}
 {"parent": "MFCLearn.eq_3_7", "child": "MFCLearn_Process", "via": ["statement"]}
@@ -91896,10 +91896,10 @@
 {"parent": "MayersBC.kolmogorov_le_of_binary", "child": "MayersBC_outcomeDist", "via": ["solution", "statement"]}
 {"parent": "MayersBC.kolmogorov_le_of_binary", "child": "QAlgorithms_Defs_Information", "via": ["solution", "statement"]}
 {"parent": "MayersBC.kolmogorov_le_of_binary", "child": "QAlgorithms_Defs_Ensemble", "via": ["solution", "statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_65", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_65", "child": "FuchsVdGraaf_IsPOVM", "via": ["statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_65", "child": "FuchsVdGraaf_outcomeDist", "via": ["statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_65", "child": "FuchsVdGraaf_bhattacharyya", "via": ["statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_65", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_65", "child": "FuchsVdGraaf_IsPOVM", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_65", "child": "FuchsVdGraaf_outcomeDist", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_65", "child": "FuchsVdGraaf_bhattacharyya", "via": ["solution", "statement"]}
 {"parent": "FuchsThesis.Fidelity.eq_3_65", "child": "FuchsVdGraaf_qBhattacharyya", "via": ["statement"]}
 {"parent": "BroadieKaya.SV.variance_bridge_laplace", "child": "BroadieKaya_SV_MonteCarlo", "via": ["statement"]}
 {"parent": "BroadieKaya.SV.variance_bridge_laplace", "child": "BroadieKaya_SV_EndpointBridge", "via": ["statement"]}
@@ -98685,7 +98685,7 @@
 {"parent": "ParamSDPTraj_IsContinuousBifurcationPoint", "child": "ParamSDPTraj_PKContinuousAt", "via": ["statement"]}
 {"parent": "ParamSDPTraj_IsContinuousBifurcationPoint", "child": "ParamSDPTraj_MultiValuedAt", "via": ["statement"]}
 {"parent": "ParamSDPTraj_IsContinuousBifurcationPoint", "child": "ParamSDPTraj_SingleValuedAt", "via": ["statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_36", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_36", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
 {"parent": "FuchsThesis.Fidelity.eq_3_36", "child": "FuchsVdGraaf_IsPOVM", "via": ["statement"]}
 {"parent": "FuchsThesis.Fidelity.eq_3_36", "child": "FuchsVdGraaf_outcomeDist", "via": ["statement"]}
 {"parent": "FuchsThesis.Fidelity.eq_3_36", "child": "FuchsVdGraaf_bhattacharyya", "via": ["statement"]}
@@ -99841,7 +99841,7 @@
 {"parent": "ParamSDPTraj_Assumption32", "child": "ParamSDPTraj_opA", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P70.unconditional_spectral_procedure", "child": "QAlgorithms_Papers_Independent_Intake100_P70", "via": ["statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.row_length_32", "child": "OAIQ019N048", "via": ["solution", "statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_60", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_60", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
 {"parent": "FuchsThesis.Fidelity.eq_3_60", "child": "FuchsVdGraaf_IsPOVM", "via": ["statement"]}
 {"parent": "FuchsThesis.Fidelity.eq_3_60", "child": "FuchsVdGraaf_outcomeDist", "via": ["statement"]}
 {"parent": "FuchsThesis.Fidelity.eq_3_60", "child": "FuchsVdGraaf_bhattacharyya", "via": ["statement"]}

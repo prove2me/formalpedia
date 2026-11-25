@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_bareiss_scaledCoeffMatrix_rowSwap_above_prev
 -- name    : Hex.GramSchmidt.Int.bareiss_scaledCoeffMatrix_rowSwap_above_prev
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:43:47.766659+00:00
 -- url     : https://prove2.me/theorems/f757acea-095d-450a-b67f-a8cca84ab583

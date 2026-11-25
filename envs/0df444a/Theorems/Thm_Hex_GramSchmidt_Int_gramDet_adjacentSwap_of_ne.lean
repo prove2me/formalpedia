@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_gramDet_adjacentSwap_of_ne
 -- name    : Hex.GramSchmidt.Int.gramDet_adjacentSwap_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:42:38.054363+00:00
 -- url     : https://prove2.me/theorems/8f2a210a-e61d-5e3c-acd1-a2c6ee0b35ad

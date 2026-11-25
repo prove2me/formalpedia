@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_uniformBasisProbe_spec
 -- name    : OAI.Optimization.LinearProgramming.Elimination.uniformBasisProbe_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:50.323629+00:00
 -- url     : https://prove2.me/theorems/d575063e-2bd5-5c65-8ffc-034079e471e5

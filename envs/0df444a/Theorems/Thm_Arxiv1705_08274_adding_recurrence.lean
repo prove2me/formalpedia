@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1705_08274_adding_recurrence
 -- name    : Arxiv1705_08274.adding_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T02:14:28.246567+00:00
 -- url     : https://prove2.me/theorems/5ffb5766-07ae-42d6-9221-c6284e5a6d84

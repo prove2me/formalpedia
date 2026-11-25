@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PrimalDual_raw_joint_optimum
 -- name    : OAI.Optimization.LinearProgramming.PrimalDual.raw_joint_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:03.652605+00:00
 -- url     : https://prove2.me/theorems/4dcb04ee-7c7d-5983-8047-df9d6e5bc945

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_sum_masked_slots
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.sum_masked_slots
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:06:37.243123+00:00
 -- url     : https://prove2.me/theorems/9620056c-a609-579c-b0cf-c8c7341ffab9

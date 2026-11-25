@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_symbolicSerialize_eval
 -- name    : OAI.Optimization.LinearProgramming.Compression.symbolicSerialize_eval
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:45:55.810921+00:00
 -- url     : https://prove2.me/theorems/02fff8ac-cefa-46de-b859-3c911f8f131f

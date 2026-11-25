@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_scaledCoeffs_adjacentSwap_above_curr
 -- name    : Hex.GramSchmidt.Int.scaledCoeffs_adjacentSwap_above_curr
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:42:57.273405+00:00
 -- url     : https://prove2.me/theorems/ccc365c3-cbd6-4745-9e8d-a9254494e31a

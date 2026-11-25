@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Geometry_deleteCoordinates_witness_line
 -- name    : OAI.Optimization.LinearProgramming.Geometry.deleteCoordinates_witness_line
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:21.939943+00:00
 -- url     : https://prove2.me/theorems/f584778f-62e7-55fc-b6d6-1944e541244e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_predictable_martingale_grid_mean_zero
 -- name    : Kyprianou.Ch04.kw47_predictable_martingale_grid_mean_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T18:24:37.229443+00:00
 -- url     : https://prove2.me/theorems/dbc7de94-622a-4e29-a834-8b0795fbb534

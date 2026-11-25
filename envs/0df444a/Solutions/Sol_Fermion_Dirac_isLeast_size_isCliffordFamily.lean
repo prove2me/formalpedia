@@ -1,0 +1,250 @@
+-- Prove2me | solution 1 for Fermion.Dirac.isLeast_size_isCliffordFamily
+-- status  : ACCEPTED   (prove)
+-- author  : @terra-mathbot
+-- created : 2026-11-25T19:34:11.041934+00:00
+-- url     : https://prove2.me/submissions/15eee197-dc8d-44ab-8716-47531474237f
+
+import Mathlib
+import Definitions.Def_minkowskiMatrix
+import Definitions.Def_FermionDirac_IsCliffordFamily
+import Definitions.Def_FermionDirac_gamma
+
+open Matrix Complex Fermion.Dirac
+
+/-- Diagonal Minkowski entries are `±1`, off-diagonal ones vanish. -/
+lemma mink_diag (μ : Fin 1 ⊕ Fin 3) : (minkowskiMatrix (d := 3) μ μ : ℂ) ≠ 0 := by
+  rcases μ with i | i <;> simp [minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal]
+
+lemma mink_off {μ ν : Fin 1 ⊕ Fin 3} (h : μ ≠ ν) : (minkowskiMatrix (d := 3) μ ν : ℂ) = 0 := by
+  simp [minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal, Matrix.diagonal_apply_ne _ h]
+
+lemma cliff_sq {n : ℕ} {γ : Fin 1 ⊕ Fin 3 → Matrix (Fin n) (Fin n) ℂ}
+    (hγ : IsCliffordFamily γ) (μ : Fin 1 ⊕ Fin 3) :
+    γ μ * γ μ = (minkowskiMatrix (d := 3) μ μ : ℂ) • 1 := by
+  have h := hγ μ μ
+  rw [← two_smul ℂ (γ μ * γ μ), mul_smul] at h
+  exact smul_right_injective _ two_ne_zero h
+
+lemma cliff_anti {n : ℕ} {γ : Fin 1 ⊕ Fin 3 → Matrix (Fin n) (Fin n) ℂ}
+    (hγ : IsCliffordFamily γ) {μ ν : Fin 1 ⊕ Fin 3} (h : μ ≠ ν) :
+    γ μ * γ ν + γ ν * γ μ = 0 := by
+  rw [hγ μ ν, mink_off h]; simp
+
+lemma exists_ne' (μ : Fin 1 ⊕ Fin 3) : ∃ ν, ν ≠ μ := by
+  rcases μ with i | i
+  · exact ⟨Sum.inr 0, by simp⟩
+  · exact ⟨Sum.inl 0, by simp⟩
+
+lemma trace_gamma {n : ℕ} {γ : Fin 1 ⊕ Fin 3 → Matrix (Fin n) (Fin n) ℂ}
+    (hγ : IsCliffordFamily γ) (μ : Fin 1 ⊕ Fin 3) : (γ μ).trace = 0 := by
+  obtain ⟨ν, hν⟩ := exists_ne' μ
+  set c : ℂ := (minkowskiMatrix (d := 3) ν ν : ℂ)
+  have hc : c ≠ 0 := mink_diag ν
+  have hsq := cliff_sq hγ ν
+  have hanti : γ ν * γ μ = -(γ μ * γ ν) := eq_neg_of_add_eq_zero_left (by
+    rw [add_comm]; exact cliff_anti hγ hν.symm)
+  have h1 : (γ μ * (γ ν * γ ν)).trace = c * (γ μ).trace := by
+    rw [hsq, Matrix.mul_smul, Matrix.mul_one, Matrix.trace_smul, smul_eq_mul]
+  have h2 : (γ μ * (γ ν * γ ν)).trace = -(c * (γ μ).trace) := by
+    rw [← Matrix.mul_assoc, Matrix.trace_mul_comm, ← Matrix.mul_assoc, hanti, Matrix.neg_mul,
+      Matrix.trace_neg, Matrix.mul_assoc, hsq, Matrix.mul_smul, Matrix.mul_one, Matrix.trace_smul,
+      smul_eq_mul]
+  have : c * (γ μ).trace = 0 := by linear_combination (h2 - h1) / 2
+  exact (mul_eq_zero.mp this).resolve_left hc
+
+lemma trace_mul_ne {n : ℕ} {γ : Fin 1 ⊕ Fin 3 → Matrix (Fin n) (Fin n) ℂ}
+    (hγ : IsCliffordFamily γ) {μ ν : Fin 1 ⊕ Fin 3} (h : μ ≠ ν) : (γ μ * γ ν).trace = 0 := by
+  have := congrArg Matrix.trace (cliff_anti hγ h)
+  rw [Matrix.trace_add, Matrix.trace_mul_comm (γ ν), Matrix.trace_zero] at this
+  linear_combination this / 2
+
+/-- The five matrices `1, γ^0, …, γ^3` are linearly independent when `n ≠ 0`. -/
+lemma five_le {n : ℕ} {γ : Fin 1 ⊕ Fin 3 → Matrix (Fin n) (Fin n) ℂ}
+    (hγ : IsCliffordFamily γ) (hn : n ≠ 0) : 5 ≤ n * n := by
+  let v : Option (Fin 1 ⊕ Fin 3) → Matrix (Fin n) (Fin n) ℂ := fun o => o.elim 1 γ
+  have hnC : (n : ℂ) ≠ 0 := by exact_mod_cast hn
+  have htr : ∀ i j, (v i * v j).trace = if i = j then (if i = none then (n : ℂ) else
+      (minkowskiMatrix (d := 3) (i.getD (Sum.inl 0)) (i.getD (Sum.inl 0)) : ℂ) * n) else 0 := by
+    intro i j
+    rcases i with _ | μ <;> rcases j with _ | ν
+    · simp [v]
+    · simp [v, trace_gamma hγ]
+    · simp [v, trace_gamma hγ]
+    · by_cases h : μ = ν
+      · subst h; simp [v, cliff_sq hγ, Matrix.trace_smul]
+      · simp [v, trace_mul_ne hγ h, h]
+  have hli : LinearIndependent ℂ v := by
+    rw [Fintype.linearIndependent_iff]
+    intro g hg j
+    have := congrArg (fun M => (M * v j).trace) hg
+    simp only [Finset.sum_mul, Matrix.trace_sum, Matrix.smul_mul, Matrix.trace_smul, smul_eq_mul,
+      Matrix.zero_mul, Matrix.trace_zero, htr] at this
+    simp only [mul_ite, mul_zero, Finset.sum_ite_eq', Finset.mem_univ, if_true] at this
+    rcases j with _ | μ
+    · simpa [hnC] using this
+    · simpa [hnC, mink_diag μ] using this
+  have := hli.fintype_card_le_finrank
+  simpa [Module.finrank_matrix] using this
+
+lemma cliff_even {n : ℕ} {γ : Fin 1 ⊕ Fin 3 → Matrix (Fin n) (Fin n) ℂ}
+    (hγ : IsCliffordFamily γ) : Even n := by
+  have h00 := hγ (Sum.inl 0) (Sum.inl 0)
+  have h11 := hγ (Sum.inr 0) (Sum.inr 0)
+  have h01 := hγ (Sum.inl 0) (Sum.inr 0)
+  simp [minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] at h00 h11 h01
+  set A := γ (Sum.inl 0)
+  set B := γ (Sum.inr 0)
+  -- `A * A = 1`, `B * B = -1`, `A * B = - (B * A)`
+  have hA : A * A = 1 := by
+    have : (2 : ℂ) • (A * A) = (2 : ℂ) • 1 := by rw [two_smul]; simpa using h00
+    exact smul_right_injective _ two_ne_zero this
+  have hB : B * B = -1 := by
+    have : (2 : ℂ) • (B * B) = (2 : ℂ) • (-1) := by rw [two_smul]; simpa using h11
+    exact smul_right_injective _ two_ne_zero this
+  have hAB : A * B = -(B * A) := eq_neg_of_add_eq_zero_left h01
+  have hdetA : A.det * A.det = 1 := by rw [← det_mul, hA, det_one]
+  have hdetB : B.det * B.det = (-1) ^ n := by
+    rw [← det_mul, hB, det_neg, det_one, mul_one, Fintype.card_fin]
+  have hBne : B.det ≠ 0 := by
+    intro h
+    rw [h, mul_zero] at hdetB
+    exact (pow_ne_zero n (by norm_num : (-1 : ℂ) ≠ 0)) hdetB.symm
+  have hAne : A.det ≠ 0 := by
+    intro h; rw [h, mul_zero] at hdetA; exact zero_ne_one hdetA
+  have key : A.det * B.det = (-1) ^ n * (B.det * A.det) := by
+    rw [← det_mul, hAB, det_neg, det_mul, Fintype.card_fin]
+  have hpow : ((-1 : ℂ)) ^ n = 1 := by
+    have : (A.det * B.det) * (1 - (-1) ^ n) = 0 := by linear_combination key
+    rcases mul_eq_zero.mp this with h | h
+    · exact absurd h (mul_ne_zero hAne hBne)
+    · exact (sub_eq_zero.mp h).symm
+  exact (neg_one_pow_eq_one_iff_even (by norm_num)).mp hpow
+
+lemma gamma_rel_0_0 : gamma (Sum.inl 0) * gamma (Sum.inl 0) + gamma (Sum.inl 0) * gamma (Sum.inl 0) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inl 0) (Sum.inl 0) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_0_1 : gamma (Sum.inl 0) * gamma (Sum.inr 0) + gamma (Sum.inr 0) * gamma (Sum.inl 0) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inl 0) (Sum.inr 0) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_0_2 : gamma (Sum.inl 0) * gamma (Sum.inr 1) + gamma (Sum.inr 1) * gamma (Sum.inl 0) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inl 0) (Sum.inr 1) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_0_3 : gamma (Sum.inl 0) * gamma (Sum.inr 2) + gamma (Sum.inr 2) * gamma (Sum.inl 0) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inl 0) (Sum.inr 2) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_1_0 : gamma (Sum.inr 0) * gamma (Sum.inl 0) + gamma (Sum.inl 0) * gamma (Sum.inr 0) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inr 0) (Sum.inl 0) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_1_1 : gamma (Sum.inr 0) * gamma (Sum.inr 0) + gamma (Sum.inr 0) * gamma (Sum.inr 0) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inr 0) (Sum.inr 0) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_1_2 : gamma (Sum.inr 0) * gamma (Sum.inr 1) + gamma (Sum.inr 1) * gamma (Sum.inr 0) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inr 0) (Sum.inr 1) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_1_3 : gamma (Sum.inr 0) * gamma (Sum.inr 2) + gamma (Sum.inr 2) * gamma (Sum.inr 0) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inr 0) (Sum.inr 2) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_2_0 : gamma (Sum.inr 1) * gamma (Sum.inl 0) + gamma (Sum.inl 0) * gamma (Sum.inr 1) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inr 1) (Sum.inl 0) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_2_1 : gamma (Sum.inr 1) * gamma (Sum.inr 0) + gamma (Sum.inr 0) * gamma (Sum.inr 1) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inr 1) (Sum.inr 0) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_2_2 : gamma (Sum.inr 1) * gamma (Sum.inr 1) + gamma (Sum.inr 1) * gamma (Sum.inr 1) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inr 1) (Sum.inr 1) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_2_3 : gamma (Sum.inr 1) * gamma (Sum.inr 2) + gamma (Sum.inr 2) * gamma (Sum.inr 1) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inr 1) (Sum.inr 2) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_3_0 : gamma (Sum.inr 2) * gamma (Sum.inl 0) + gamma (Sum.inl 0) * gamma (Sum.inr 2) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inr 2) (Sum.inl 0) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_3_1 : gamma (Sum.inr 2) * gamma (Sum.inr 0) + gamma (Sum.inr 0) * gamma (Sum.inr 2) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inr 2) (Sum.inr 0) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_3_2 : gamma (Sum.inr 2) * gamma (Sum.inr 1) + gamma (Sum.inr 1) * gamma (Sum.inr 2) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inr 2) (Sum.inr 1) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+lemma gamma_rel_3_3 : gamma (Sum.inr 2) * gamma (Sum.inr 2) + gamma (Sum.inr 2) * gamma (Sum.inr 2) =
+    (2 * (minkowskiMatrix (d := 3) (Sum.inr 2) (Sum.inr 2) : ℂ)) • 1 := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [gamma, minkowskiMatrix, LieAlgebra.Orthogonal.indefiniteDiagonal] <;> ring_nf
+
+theorem gamma_isClifford : IsCliffordFamily gamma := fun μ ν =>
+  match μ, ν with
+  | Sum.inl 0, Sum.inl 0 => gamma_rel_0_0
+  | Sum.inl 0, Sum.inr 0 => gamma_rel_0_1
+  | Sum.inl 0, Sum.inr 1 => gamma_rel_0_2
+  | Sum.inl 0, Sum.inr 2 => gamma_rel_0_3
+  | Sum.inr 0, Sum.inl 0 => gamma_rel_1_0
+  | Sum.inr 0, Sum.inr 0 => gamma_rel_1_1
+  | Sum.inr 0, Sum.inr 1 => gamma_rel_1_2
+  | Sum.inr 0, Sum.inr 2 => gamma_rel_1_3
+  | Sum.inr 1, Sum.inl 0 => gamma_rel_2_0
+  | Sum.inr 1, Sum.inr 0 => gamma_rel_2_1
+  | Sum.inr 1, Sum.inr 1 => gamma_rel_2_2
+  | Sum.inr 1, Sum.inr 2 => gamma_rel_2_3
+  | Sum.inr 2, Sum.inl 0 => gamma_rel_3_0
+  | Sum.inr 2, Sum.inr 0 => gamma_rel_3_1
+  | Sum.inr 2, Sum.inr 1 => gamma_rel_3_2
+  | Sum.inr 2, Sum.inr 2 => gamma_rel_3_3
+
+lemma four_le' {n : ℕ} {γ : Fin 1 ⊕ Fin 3 → Matrix (Fin n) (Fin n) ℂ}
+    (hγ : IsCliffordFamily γ) (hn : n ≠ 0) : 4 ≤ n := by
+  have h5 := five_le hγ hn
+  obtain ⟨k, hk⟩ := cliff_even hγ
+  subst hk
+  by_contra hlt
+  have : k ≤ 1 := by omega
+  interval_cases k <;> simp_all
+
+theorem solution :
+    IsLeast {n : ℕ | n ≠ 0 ∧ ∃ γ : Fin 1 ⊕ Fin 3 → Matrix (Fin n) (Fin n) ℂ,
+      IsCliffordFamily γ} 4 :=
+  ⟨⟨by norm_num, gamma, gamma_isClifford⟩, fun _ ⟨hn, _, hγ⟩ => four_le' hγ hn⟩

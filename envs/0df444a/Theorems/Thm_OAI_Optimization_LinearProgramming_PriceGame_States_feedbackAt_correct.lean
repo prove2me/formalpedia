@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_States_feedbackAt_correct
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.States.feedbackAt_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:05.155264+00:00
 -- url     : https://prove2.me/theorems/93269115-87fe-490c-a72b-9ef9a5c1dbe2

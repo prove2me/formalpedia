@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2111_09089_spectral_integral_cayley
 -- name    : Arxiv2111_09089.spectral_integral_cayley
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T10:34:19.05355+00:00
 -- url     : https://prove2.me/theorems/c942b1af-261a-5608-a99f-75c297442a7a

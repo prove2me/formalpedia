@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_native_scaled_coefficient_bits
 -- name    : OAI.Optimization.LinearProgramming.Lattice.native_scaled_coefficient_bits
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:35.051874+00:00
 -- url     : https://prove2.me/theorems/a972ea2e-8d08-5bc5-a46c-fafc9f8df701

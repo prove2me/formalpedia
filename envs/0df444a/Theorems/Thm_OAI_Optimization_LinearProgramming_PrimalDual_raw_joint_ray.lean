@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PrimalDual_raw_joint_ray
 -- name    : OAI.Optimization.LinearProgramming.PrimalDual.raw_joint_ray
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:18.859934+00:00
 -- url     : https://prove2.me/theorems/e7ebbfc1-17af-4b50-97b8-9276ffe4ba16

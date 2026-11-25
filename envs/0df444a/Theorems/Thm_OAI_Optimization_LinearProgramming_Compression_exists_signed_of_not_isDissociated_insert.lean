@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_exists_signed_of_not_isDissociated_insert
 -- name    : OAI.Optimization.LinearProgramming.Compression.exists_signed_of_not_isDissociated_insert
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:24.432453+00:00
 -- url     : https://prove2.me/theorems/aeb5b37d-0ea1-5519-8440-d6245edf32ef

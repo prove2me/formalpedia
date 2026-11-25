@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PrimalDual_JointRAM_emit_correct
 -- name    : OAI.Optimization.LinearProgramming.PrimalDual.JointRAM.emit_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:31.968914+00:00
 -- url     : https://prove2.me/theorems/51aeca2b-e270-48ba-bf40-d2f6d77db974

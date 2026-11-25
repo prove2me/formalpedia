@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_charge_mixture
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.charge_mixture
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:47.546266+00:00
 -- url     : https://prove2.me/theorems/6be7236f-77fa-46e6-9688-a8b57dc915e6

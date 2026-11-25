@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PrimalDual_Header_cert_header
 -- name    : OAI.Optimization.LinearProgramming.PrimalDual.Header.cert_header
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:06:42.467017+00:00
 -- url     : https://prove2.me/theorems/b8ae5241-e0e9-4341-8c60-0f7191460ae2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_Bit_mixedGramInitializer_packMatrix
 -- name    : OAI.Optimization.LinearProgramming.Lattice.Bit.mixedGramInitializer_packMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:04:42.875267+00:00
 -- url     : https://prove2.me/theorems/e34bb072-298b-4212-92d7-516fee6f3b95

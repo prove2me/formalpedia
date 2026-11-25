@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1504_01000_sdY4O_conserves_total_power
 -- name    : Arxiv1504_01000.sdY4O_conserves_total_power
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T19:30:41.27308+00:00
 -- url     : https://prove2.me/theorems/9e898b2d-1f82-48be-9a8a-adb245297bfe

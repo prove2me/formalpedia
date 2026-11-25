@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_augmented_basis
 -- name    : OAI.Optimization.LinearProgramming.Elimination.augmented_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:18.724433+00:00
 -- url     : https://prove2.me/theorems/914c45a4-2f22-4f37-b57b-40b245683137

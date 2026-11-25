@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1504_01000_relative_hellinger_bounds
 -- name    : Arxiv1504_01000.relative_hellinger_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T18:52:19.946845+00:00
 -- url     : https://prove2.me/theorems/36cc3a87-6c57-4658-9fd2-af35c897dd12

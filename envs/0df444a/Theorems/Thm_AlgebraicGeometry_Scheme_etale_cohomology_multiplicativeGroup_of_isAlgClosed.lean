@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_etale_cohomology_multiplicativeGroup_of_isAlgClosed
 -- name    : AlgebraicGeometry.Scheme.etale_cohomology_multiplicativeGroup_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-25T01:42:39.597802+00:00
 -- url     : https://prove2.me/theorems/1cc556a5-8c39-4efe-b563-834ac67e5e9d

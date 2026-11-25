@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2201_05558_zero_offset_coefficients_revisited
 -- name    : Arxiv2201_05558.zero_offset_coefficients_revisited
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T11:41:56.65613+00:00
 -- url     : https://prove2.me/theorems/4439e03f-84fe-5321-82cc-cd1063f71a9d

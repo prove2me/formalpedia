@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Recovery_PairBuilder_dense_encoded
 -- name    : OAI.Optimization.LinearProgramming.Recovery.PairBuilder.dense_encoded
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:06:36.440909+00:00
 -- url     : https://prove2.me/theorems/2ca969e5-851d-5109-948d-be6ac7e553c6

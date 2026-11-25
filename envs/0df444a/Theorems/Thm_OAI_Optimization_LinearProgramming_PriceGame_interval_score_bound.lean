@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_interval_score_bound
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.interval_score_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:41.692264+00:00
 -- url     : https://prove2.me/theorems/3c3d8bd4-64fa-40b8-9bfa-bac90a485940

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_exists_simultaneous_ternary_approx
 -- name    : OAI.Optimization.LinearProgramming.Compression.exists_simultaneous_ternary_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:30.229694+00:00
 -- url     : https://prove2.me/theorems/63783d27-375c-42af-b327-115dce78d107

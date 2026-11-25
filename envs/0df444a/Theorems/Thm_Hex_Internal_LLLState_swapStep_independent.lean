@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_Internal_LLLState_swapStep_independent
 -- name    : Hex.Internal.LLLState.swapStep_independent
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:48:50.258929+00:00
 -- url     : https://prove2.me/theorems/ad3f9f46-a48d-5c60-b640-11d20acba910

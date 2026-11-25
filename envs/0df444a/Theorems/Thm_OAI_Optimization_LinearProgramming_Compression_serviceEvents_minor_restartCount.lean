@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_serviceEvents_minor_restartCount
 -- name    : OAI.Optimization.LinearProgramming.Compression.serviceEvents_minor_restartCount
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:25.952444+00:00
 -- url     : https://prove2.me/theorems/16898411-510c-5b33-8473-53a111de12d4

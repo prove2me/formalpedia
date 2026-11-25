@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_NumericROM_residentAndPorts_run
 -- name    : OAI.Optimization.LinearProgramming.Compression.NumericROM.residentAndPorts_run
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:46:16.16177+00:00
 -- url     : https://prove2.me/theorems/e3b50c16-87e3-5282-8ce8-3265aefd2da6

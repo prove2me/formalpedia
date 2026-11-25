@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_gramDet_adjacentSwap_pivot
 -- name    : Hex.GramSchmidt.Int.gramDet_adjacentSwap_pivot
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:45:06.063583+00:00
 -- url     : https://prove2.me/theorems/624765c2-350b-44d8-96df-4fec27d671b5

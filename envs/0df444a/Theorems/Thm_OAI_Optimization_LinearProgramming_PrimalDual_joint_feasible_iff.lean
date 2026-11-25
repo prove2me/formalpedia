@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PrimalDual_joint_feasible_iff
 -- name    : OAI.Optimization.LinearProgramming.PrimalDual.joint_feasible_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:02:59.183062+00:00
 -- url     : https://prove2.me/theorems/9e60cbdf-fee7-5acc-b0f1-1dcee82c4d22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_expected_gain_of_hit
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.expected_gain_of_hit
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:02:59.291458+00:00
 -- url     : https://prove2.me/theorems/e41cc0e3-02d1-471a-9cd1-d83157c5018b

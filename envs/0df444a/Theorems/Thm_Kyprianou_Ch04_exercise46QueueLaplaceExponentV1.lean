@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46QueueLaplaceExponentV1
 -- name    : Kyprianou.Ch04.exercise46QueueLaplaceExponentV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T18:21:01.652562+00:00
 -- url     : https://prove2.me/theorems/9dabed11-39f9-54cc-a3f9-cb4c01417096

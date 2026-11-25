@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_uniformVectorMask_spec
 -- name    : OAI.Optimization.LinearProgramming.Elimination.uniformVectorMask_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:27.758822+00:00
 -- url     : https://prove2.me/theorems/8de60e70-05f5-48eb-8a2c-4d878fea4828

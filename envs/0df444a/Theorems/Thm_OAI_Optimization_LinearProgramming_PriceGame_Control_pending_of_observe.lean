@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Control_pending_of_observe
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Control.pending_of_observe
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:03.574048+00:00
 -- url     : https://prove2.me/theorems/9044ccac-d69c-589e-8e57-9ab8a7aaf953

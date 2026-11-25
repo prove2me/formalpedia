@@ -13,7 +13,7 @@
 --
 --   This supermodularity inequality is the structural step behind the existence of a largest deficiency-maximizing closure and its monotonicity. It is independent of satisfiability, clause widths, expansion conditions and admissibility thresholds.
 -- source:
---   Jonas Conneryd, STOC 2027 submission #332, October 2026, Section 3.1, Equation (15) in the proof of Lemma 3.2, printed p. 9 / PDF p. 11. https://github.com/sigact-stoc/stoc2027/releases/download/papers-1/332.pdf
+--   Jonas Conneryd, Random (log n)-CNF Formulas Are Hard for Depth-2 Frege with Modular Gates, manuscript dated November 2, 2026, STOC 2027 submission #332, Section 3.1, Equation (15) in the proof of Lemma 3.2, printed p. 9 / PDF p. 11. https://github.com/sigact-stoc/stoc2027/releases/download/papers-1/332.pdf
 
 import Definitions.Def_RandomCNFDeficiency_LowerBound_DeficiencyClosure
 open RandomCNFDeficiency.LowerBound

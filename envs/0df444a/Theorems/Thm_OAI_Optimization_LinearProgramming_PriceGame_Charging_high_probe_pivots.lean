@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_high_probe_pivots
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.high_probe_pivots
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:11.718473+00:00
 -- url     : https://prove2.me/theorems/862105a3-af55-43f2-96c9-cd7173284f43

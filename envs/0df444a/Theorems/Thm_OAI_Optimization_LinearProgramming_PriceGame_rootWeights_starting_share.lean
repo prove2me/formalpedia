@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_rootWeights_starting_share
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.rootWeights_starting_share
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:51.066353+00:00
 -- url     : https://prove2.me/theorems/5ab7dad7-1a69-4d09-a568-9cdb76e7c8ab

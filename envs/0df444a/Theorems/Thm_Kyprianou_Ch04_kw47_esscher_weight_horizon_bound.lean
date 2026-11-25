@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_esscher_weight_horizon_bound
 -- name    : Kyprianou.Ch04.kw47_esscher_weight_horizon_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T18:22:33.815689+00:00
 -- url     : https://prove2.me/theorems/016d4f06-c0e7-5cd2-9117-5f72b3320f9c

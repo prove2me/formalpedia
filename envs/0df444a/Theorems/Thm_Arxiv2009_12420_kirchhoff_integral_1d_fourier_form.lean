@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2009_12420_kirchhoff_integral_1d_fourier_form
 -- name    : Arxiv2009_12420.kirchhoff_integral_1d_fourier_form
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:14:20.440931+00:00
 -- url     : https://prove2.me/theorems/4c87e953-828c-4561-b7ef-901894e2a2e8

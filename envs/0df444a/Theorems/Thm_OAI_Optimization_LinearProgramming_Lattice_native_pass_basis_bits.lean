@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_native_pass_basis_bits
 -- name    : OAI.Optimization.LinearProgramming.Lattice.native_pass_basis_bits
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:07:17.003443+00:00
 -- url     : https://prove2.me/theorems/6e7d197d-1f64-5a43-9bae-019684afc1f6

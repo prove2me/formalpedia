@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_uniformSolveBlock_safe
 -- name    : OAI.Optimization.LinearProgramming.Elimination.uniformSolveBlock_safe
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:04.655184+00:00
 -- url     : https://prove2.me/theorems/ec9bdf02-2046-452f-9b90-be34d224ba50

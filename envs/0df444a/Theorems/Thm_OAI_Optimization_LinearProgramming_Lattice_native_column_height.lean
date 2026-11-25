@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_native_column_height
 -- name    : OAI.Optimization.LinearProgramming.Lattice.native_column_height
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:45.136575+00:00
 -- url     : https://prove2.me/theorems/b74c160c-575a-5e04-9b09-5165dc957787

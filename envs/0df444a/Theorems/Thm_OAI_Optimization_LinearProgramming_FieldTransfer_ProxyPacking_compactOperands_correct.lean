@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_FieldTransfer_ProxyPacking_compactOperands_correct
 -- name    : OAI.Optimization.LinearProgramming.FieldTransfer.ProxyPacking.compactOperands_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:46:43.059844+00:00
 -- url     : https://prove2.me/theorems/70b61c20-b417-5634-95b0-bcd5268de3b0

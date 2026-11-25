@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_MinorProxyCache_rational_nativeSafe
 -- name    : OAI.Optimization.LinearProgramming.Compression.MinorProxyCache.rational_nativeSafe
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:38:45.769833+00:00
 -- url     : https://prove2.me/theorems/ac314631-d68a-49db-94f5-b8e7dd5d5020

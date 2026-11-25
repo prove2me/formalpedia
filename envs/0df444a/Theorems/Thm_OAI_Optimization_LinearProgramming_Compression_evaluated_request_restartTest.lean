@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_evaluated_request_restartTest
 -- name    : OAI.Optimization.LinearProgramming.Compression.evaluated_request_restartTest
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:48.940592+00:00
 -- url     : https://prove2.me/theorems/d5588ac7-3968-5b1e-8203-2c74885673f6

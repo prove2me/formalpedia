@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_publicReplyBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.publicReplyBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:43.383801+00:00
 -- url     : https://prove2.me/theorems/2620ec0d-5912-438e-8c99-bcb737ae47a3

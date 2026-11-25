@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2009_12420_layered_seafloor_integral_equation
 -- name    : Arxiv2009_12420.layered_seafloor_integral_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:15:01.701897+00:00
 -- url     : https://prove2.me/theorems/e168c89c-98b9-4a42-a388-c4534fd53095

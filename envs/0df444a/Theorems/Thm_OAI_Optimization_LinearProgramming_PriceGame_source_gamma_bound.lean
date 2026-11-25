@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_source_gamma_bound
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.source_gamma_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:34.159853+00:00
 -- url     : https://prove2.me/theorems/5cfac074-ce85-504e-9404-f4abbe4e72dd

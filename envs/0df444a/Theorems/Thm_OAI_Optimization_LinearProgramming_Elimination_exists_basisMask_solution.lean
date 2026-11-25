@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_exists_basisMask_solution
 -- name    : OAI.Optimization.LinearProgramming.Elimination.exists_basisMask_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:01.708341+00:00
 -- url     : https://prove2.me/theorems/64722422-ae61-5d32-92df-a3c3f643b3f0

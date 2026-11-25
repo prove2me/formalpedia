@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fermion_Dirac_IsCliffordFamily_four_le
 -- name    : Fermion.Dirac.IsCliffordFamily.four_le
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T01:28:30.094398+00:00
 -- url     : https://prove2.me/theorems/e343cf35-43cb-44e9-be0f-86dcef185869

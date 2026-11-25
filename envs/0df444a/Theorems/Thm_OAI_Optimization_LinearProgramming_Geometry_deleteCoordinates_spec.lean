@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Geometry_deleteCoordinates_spec
 -- name    : OAI.Optimization.LinearProgramming.Geometry.deleteCoordinates_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:27.568066+00:00
 -- url     : https://prove2.me/theorems/c1f3b53c-8a81-47ec-aa64-89002553e9cd

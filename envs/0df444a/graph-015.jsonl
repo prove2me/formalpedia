@@ -5099,10 +5099,10 @@
 {"parent": "AvramDividend.Classical.avram_wave3_01_capped_reflected_reward_markov_factor", "child": "AvramDividend.Classical.firstRecord_truncation_clock_measurable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave3_01_capped_reflected_reward_markov_factor", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P28.kl_hellinger_bounds", "child": "QAlgorithms_Papers_Independent_Intakenext100_P28", "via": ["statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_58", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_58", "child": "FuchsVdGraaf_IsPOVM", "via": ["statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_58", "child": "FuchsVdGraaf_outcomeDist", "via": ["statement"]}
-{"parent": "FuchsThesis.Fidelity.eq_3_58", "child": "FuchsVdGraaf_bhattacharyya", "via": ["statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_58", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_58", "child": "FuchsVdGraaf_IsPOVM", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_58", "child": "FuchsVdGraaf_outcomeDist", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Fidelity.eq_3_58", "child": "FuchsVdGraaf_bhattacharyya", "via": ["solution", "statement"]}
 {"parent": "FuchsThesis.Fidelity.eq_3_58", "child": "FuchsVdGraaf_qBhattacharyya", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P07.generalizedFidelity_monotone", "child": "QAlgorithms_Papers_Independent_Intakenext100_P07", "via": ["statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.bucket_l1_8", "child": "OAIQ019N049", "via": ["solution", "statement"]}

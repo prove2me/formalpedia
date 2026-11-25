@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_wordComparator_implements
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.wordComparator_implements
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:54:08.033179+00:00
 -- url     : https://prove2.me/theorems/f3161fd2-0274-4f91-8ce7-44ec53488a3f

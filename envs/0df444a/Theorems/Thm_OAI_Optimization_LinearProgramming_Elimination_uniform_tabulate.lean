@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_uniform_tabulate
 -- name    : OAI.Optimization.LinearProgramming.Elimination.uniform_tabulate
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:04.843813+00:00
 -- url     : https://prove2.me/theorems/0ef7c0ab-404f-5cf4-aded-fb6d5b57148b

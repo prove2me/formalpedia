@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1912_10252_reciprocal_implies_not_diode
 -- name    : Arxiv1912_10252.reciprocal_implies_not_diode
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T07:19:07.740842+00:00
 -- url     : https://prove2.me/theorems/b8905da1-ddc5-43b6-9394-b38463c37b8d

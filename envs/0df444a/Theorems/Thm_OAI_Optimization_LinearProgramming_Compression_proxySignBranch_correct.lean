@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_proxySignBranch_correct
 -- name    : OAI.Optimization.LinearProgramming.Compression.proxySignBranch_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:41:32.678992+00:00
 -- url     : https://prove2.me/theorems/92110582-907f-426e-a886-97e85a4061c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BauerleRiederMDP_Stopping_theorem_10_2_7
 -- name    : BauerleRiederMDP.Stopping.theorem_10_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:30:49.609329+00:00
 -- url     : https://prove2.me/theorems/f604c143-55dc-4623-b69a-930878dfe72c

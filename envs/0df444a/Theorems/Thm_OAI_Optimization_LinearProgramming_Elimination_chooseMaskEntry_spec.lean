@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_chooseMaskEntry_spec
 -- name    : OAI.Optimization.LinearProgramming.Elimination.chooseMaskEntry_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:10.846645+00:00
 -- url     : https://prove2.me/theorems/32d94828-84d6-481c-86c5-a027cafa5b95

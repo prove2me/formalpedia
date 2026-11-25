@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_writeFlag_spec
 -- name    : OAI.Optimization.LinearProgramming.Elimination.writeFlag_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:54:58.054924+00:00
 -- url     : https://prove2.me/theorems/10e995fa-4403-5df9-8060-e3bf39971a68

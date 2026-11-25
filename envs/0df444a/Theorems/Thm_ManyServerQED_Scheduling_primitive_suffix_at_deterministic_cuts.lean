@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_primitive_suffix_at_deterministic_cuts
 -- name    : ManyServerQED.Scheduling.primitive_suffix_at_deterministic_cuts
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-25T18:55:44.671242+00:00
 -- url     : https://prove2.me/theorems/7cbeb0b9-248c-500c-9786-f4f34f826abd

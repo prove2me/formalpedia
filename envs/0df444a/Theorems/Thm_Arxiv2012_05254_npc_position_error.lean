@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2012_05254_npc_position_error
 -- name    : Arxiv2012_05254.npc_position_error
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T04:32:06.832786+00:00
 -- url     : https://prove2.me/theorems/26642a59-1023-41ee-be62-42c1e0700ab6

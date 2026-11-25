@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_Bit_mixedGramDet_lower
 -- name    : OAI.Optimization.LinearProgramming.Lattice.Bit.mixedGramDet_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:02:04.274714+00:00
 -- url     : https://prove2.me/theorems/52ef500a-3dc9-41bd-a41d-3fde0e09b816

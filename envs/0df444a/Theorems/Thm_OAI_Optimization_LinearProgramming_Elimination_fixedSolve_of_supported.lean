@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_fixedSolve_of_supported
 -- name    : OAI.Optimization.LinearProgramming.Elimination.fixedSolve_of_supported
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:13.540285+00:00
 -- url     : https://prove2.me/theorems/6543cef3-f51f-4cac-86b4-0626fa51c282

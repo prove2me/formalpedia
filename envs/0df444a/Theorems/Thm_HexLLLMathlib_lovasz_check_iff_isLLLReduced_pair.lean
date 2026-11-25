@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HexLLLMathlib_lovasz_check_iff_isLLLReduced_pair
 -- name    : HexLLLMathlib.lovasz_check_iff_isLLLReduced_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:46:04.452563+00:00
 -- url     : https://prove2.me/theorems/6b1e413c-b197-4b8f-af86-1a11026befe7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_solve_zero_off_basis
 -- name    : OAI.Optimization.LinearProgramming.Elimination.solve_zero_off_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:29.845066+00:00
 -- url     : https://prove2.me/theorems/b93c5636-ac43-4488-b08f-2cb1e48f8637

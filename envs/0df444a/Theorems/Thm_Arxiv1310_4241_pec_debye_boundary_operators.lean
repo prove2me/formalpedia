@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1310_4241_pec_debye_boundary_operators
 -- name    : Arxiv1310_4241.pec_debye_boundary_operators
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:24:24.242257+00:00
 -- url     : https://prove2.me/theorems/ce031c65-2249-484a-9986-00e6b4279a77

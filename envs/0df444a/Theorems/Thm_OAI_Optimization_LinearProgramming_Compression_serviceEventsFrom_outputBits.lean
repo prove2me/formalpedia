@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_serviceEventsFrom_outputBits
 -- name    : OAI.Optimization.LinearProgramming.Compression.serviceEventsFrom_outputBits
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:56:14.892302+00:00
 -- url     : https://prove2.me/theorems/06d69201-5f12-4922-b7be-1a6243e42eb0

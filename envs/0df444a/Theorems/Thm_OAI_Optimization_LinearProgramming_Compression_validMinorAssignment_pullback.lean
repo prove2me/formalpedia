@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_validMinorAssignment_pullback
 -- name    : OAI.Optimization.LinearProgramming.Compression.validMinorAssignment_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:57.182011+00:00
 -- url     : https://prove2.me/theorems/6514f891-d0d8-4fa3-a603-0c578470a585

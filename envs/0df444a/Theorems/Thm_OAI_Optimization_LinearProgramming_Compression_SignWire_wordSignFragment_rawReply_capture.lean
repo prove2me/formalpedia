@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_wordSignFragment_rawReply_capture
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.wordSignFragment_rawReply_capture
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:35.545668+00:00
 -- url     : https://prove2.me/theorems/15f8af8d-b201-4c73-b6cb-8d2bcf176acf

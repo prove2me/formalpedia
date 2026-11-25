@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2005_04287_logAmplitude_sech_sq
 -- name    : Arxiv2005_04287.logAmplitude_sech_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:11:31.210885+00:00
 -- url     : https://prove2.me/theorems/7a32252e-904d-486e-b454-8e097300bfa4

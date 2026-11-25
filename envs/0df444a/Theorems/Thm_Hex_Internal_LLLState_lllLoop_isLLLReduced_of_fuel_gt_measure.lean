@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_Internal_LLLState_lllLoop_isLLLReduced_of_fuel_gt_measure
 -- name    : Hex.Internal.LLLState.lllLoop_isLLLReduced_of_fuel_gt_measure
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:08.186541+00:00
 -- url     : https://prove2.me/theorems/1c3c8f8f-a249-50c7-8bcd-8491c1dcf35f

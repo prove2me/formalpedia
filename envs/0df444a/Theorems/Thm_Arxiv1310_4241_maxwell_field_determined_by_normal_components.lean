@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1310_4241_maxwell_field_determined_by_normal_components
 -- name    : Arxiv1310_4241.maxwell_field_determined_by_normal_components
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:08:39.621594+00:00
 -- url     : https://prove2.me/theorems/7f2a1e92-2b07-4295-99f0-f2e77a0b5baa

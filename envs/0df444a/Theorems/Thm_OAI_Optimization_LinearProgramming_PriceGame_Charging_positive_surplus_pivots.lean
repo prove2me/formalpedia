@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_positive_surplus_pivots
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.positive_surplus_pivots
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:02:58.836865+00:00
 -- url     : https://prove2.me/theorems/0b6029c6-0f30-5a35-b4de-cd5c8860ccbe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_isDissociated_iff_signed
 -- name    : OAI.Optimization.LinearProgramming.Compression.isDissociated_iff_signed
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:27.137206+00:00
 -- url     : https://prove2.me/theorems/5afaad9f-db4f-4cbc-ab54-13d77c968b2a

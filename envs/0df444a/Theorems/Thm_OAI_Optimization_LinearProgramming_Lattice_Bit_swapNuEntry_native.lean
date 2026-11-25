@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_Bit_swapNuEntry_native
 -- name    : OAI.Optimization.LinearProgramming.Lattice.Bit.swapNuEntry_native
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:10:06.375938+00:00
 -- url     : https://prove2.me/theorems/fa5742c1-09e9-53a3-8b20-2741f73b2ae0

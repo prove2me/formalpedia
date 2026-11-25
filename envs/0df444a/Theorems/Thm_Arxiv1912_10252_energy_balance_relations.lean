@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1912_10252_energy_balance_relations
 -- name    : Arxiv1912_10252.energy_balance_relations
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T07:08:31.041498+00:00
 -- url     : https://prove2.me/theorems/b6f08932-dcc4-5084-ad0e-ef30a96efb16

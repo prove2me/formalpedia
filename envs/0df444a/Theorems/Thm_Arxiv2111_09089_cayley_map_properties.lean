@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2111_09089_cayley_map_properties
 -- name    : Arxiv2111_09089.cayley_map_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T10:28:43.307038+00:00
 -- url     : https://prove2.me/theorems/b2d3012d-69d7-4aaf-8b71-9e8faa8a1ba2

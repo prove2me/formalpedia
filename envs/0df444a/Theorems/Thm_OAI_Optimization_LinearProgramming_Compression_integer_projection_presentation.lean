@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_integer_projection_presentation
 -- name    : OAI.Optimization.LinearProgramming.Compression.integer_projection_presentation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:23.697416+00:00
 -- url     : https://prove2.me/theorems/5eae04a3-c763-5802-9b38-c0ab50d1bec6

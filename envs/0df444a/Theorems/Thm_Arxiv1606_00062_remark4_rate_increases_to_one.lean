@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1606_00062_remark4_rate_increases_to_one
 -- name    : Arxiv1606_00062.remark4_rate_increases_to_one
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T22:13:41.294106+00:00
 -- url     : https://prove2.me/theorems/871efe68-6220-4266-b4ed-21287a0da1c2

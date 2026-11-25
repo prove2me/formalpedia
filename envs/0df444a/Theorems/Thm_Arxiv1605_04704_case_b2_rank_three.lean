@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1605_04704_case_b2_rank_three
 -- name    : Arxiv1605_04704.case_b2_rank_three
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T21:27:41.34205+00:00
 -- url     : https://prove2.me/theorems/ec640e9e-5141-4d65-8f3e-18a9332df3f5

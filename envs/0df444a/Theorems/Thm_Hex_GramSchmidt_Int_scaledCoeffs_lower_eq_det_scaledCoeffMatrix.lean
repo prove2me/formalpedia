@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_scaledCoeffs_lower_eq_det_scaledCoeffMatrix
 -- name    : Hex.GramSchmidt.Int.scaledCoeffs_lower_eq_det_scaledCoeffMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:45:39.537868+00:00
 -- url     : https://prove2.me/theorems/bd1bafff-7c67-4448-add4-5da28d8b5cfb

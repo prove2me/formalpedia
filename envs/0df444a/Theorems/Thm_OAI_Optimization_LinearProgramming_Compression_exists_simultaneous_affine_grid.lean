@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_exists_simultaneous_affine_grid
 -- name    : OAI.Optimization.LinearProgramming.Compression.exists_simultaneous_affine_grid
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:29.688438+00:00
 -- url     : https://prove2.me/theorems/784721a4-3736-4522-8e37-ee3f3af40a9c

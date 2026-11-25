@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_NumericROM_scatterPrefix_run
 -- name    : OAI.Optimization.LinearProgramming.Compression.NumericROM.scatterPrefix_run
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:45.596798+00:00
 -- url     : https://prove2.me/theorems/0be047d4-cc44-59ff-bf64-00aa72f5e4f4

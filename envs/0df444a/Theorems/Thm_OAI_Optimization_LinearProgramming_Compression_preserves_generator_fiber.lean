@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_preserves_generator_fiber
 -- name    : OAI.Optimization.LinearProgramming.Compression.preserves_generator_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:17.248604+00:00
 -- url     : https://prove2.me/theorems/155675ea-d3e5-5530-bd58-f4bd27885dea

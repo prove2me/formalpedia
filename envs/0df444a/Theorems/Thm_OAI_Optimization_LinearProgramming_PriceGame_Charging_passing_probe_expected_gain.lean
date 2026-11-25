@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_passing_probe_expected_gain
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.passing_probe_expected_gain
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:02:56.194801+00:00
 -- url     : https://prove2.me/theorems/3599cc06-ce86-5824-ae8f-c1e31a8956ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_Internal_LLLState_lllLoop_eq_of_fuel_gt_measure
 -- name    : Hex.Internal.LLLState.lllLoop_eq_of_fuel_gt_measure
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:49:06.69461+00:00
 -- url     : https://prove2.me/theorems/772beef1-e1bc-45e4-b0de-752f887efbee

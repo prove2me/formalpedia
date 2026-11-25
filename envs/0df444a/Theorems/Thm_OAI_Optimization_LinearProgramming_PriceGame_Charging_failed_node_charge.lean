@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_failed_node_charge
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.failed_node_charge
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:02:56.014588+00:00
 -- url     : https://prove2.me/theorems/f03f9e48-aa35-4a17-97d8-55164dd2de9d

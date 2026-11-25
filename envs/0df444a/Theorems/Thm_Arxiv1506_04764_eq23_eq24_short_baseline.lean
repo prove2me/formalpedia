@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1506_04764_eq23_eq24_short_baseline
 -- name    : Arxiv1506_04764.eq23_eq24_short_baseline
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T14:53:14.067901+00:00
 -- url     : https://prove2.me/theorems/8ee3c4af-5099-4625-a08d-488cbd6584a4

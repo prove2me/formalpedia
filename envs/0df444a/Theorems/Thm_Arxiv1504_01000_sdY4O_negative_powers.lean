@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1504_01000_sdY4O_negative_powers
 -- name    : Arxiv1504_01000.sdY4O_negative_powers
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T19:41:09.932627+00:00
 -- url     : https://prove2.me/theorems/b3b5b3f3-6828-4774-b509-00115bed9bf0

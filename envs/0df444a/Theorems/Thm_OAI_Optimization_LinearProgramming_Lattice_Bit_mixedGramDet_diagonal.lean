@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_Bit_mixedGramDet_diagonal
 -- name    : OAI.Optimization.LinearProgramming.Lattice.Bit.mixedGramDet_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:01:56.128065+00:00
 -- url     : https://prove2.me/theorems/88e6c837-0210-4132-b8d7-3963840f4841

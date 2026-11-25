@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_epoch_commit_extends_accepted
 -- name    : OAI.Optimization.LinearProgramming.Compression.epoch_commit_extends_accepted
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:55.871229+00:00
 -- url     : https://prove2.me/theorems/2215a8e2-05b3-51a7-bf0b-4f6e69b1ba67

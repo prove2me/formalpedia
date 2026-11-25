@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_nativeLLL_reduced
 -- name    : OAI.Optimization.LinearProgramming.Lattice.nativeLLL_reduced
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:48.987797+00:00
 -- url     : https://prove2.me/theorems/b706c40f-bfea-5a7b-8826-0e655662474f

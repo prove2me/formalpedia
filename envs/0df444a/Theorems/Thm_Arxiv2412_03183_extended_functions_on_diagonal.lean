@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2412_03183_extended_functions_on_diagonal
 -- name    : Arxiv2412_03183.extended_functions_on_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T14:00:16.972023+00:00
 -- url     : https://prove2.me/theorems/be8e509c-f749-4a91-8501-55ee5ed15b85

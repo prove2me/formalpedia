@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_packPowerAddressBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.packPowerAddressBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:57.3994+00:00
 -- url     : https://prove2.me/theorems/eacb763d-b1cb-5a4c-9880-7fdd88fcad00

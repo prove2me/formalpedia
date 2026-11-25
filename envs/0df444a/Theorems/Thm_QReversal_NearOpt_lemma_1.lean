@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QReversal_NearOpt_lemma_1
 -- name    : QReversal.NearOpt.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:09.314982+00:00
 -- url     : https://prove2.me/theorems/16bc06cd-3620-4d07-9b75-f890e7aebf7e

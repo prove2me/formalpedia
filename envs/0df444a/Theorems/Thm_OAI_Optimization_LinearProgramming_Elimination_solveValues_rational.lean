@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_solveValues_rational
 -- name    : OAI.Optimization.LinearProgramming.Elimination.solveValues_rational
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:02:20.072983+00:00
 -- url     : https://prove2.me/theorems/84e0a23d-677f-4791-b62b-8c10b8ad34b8

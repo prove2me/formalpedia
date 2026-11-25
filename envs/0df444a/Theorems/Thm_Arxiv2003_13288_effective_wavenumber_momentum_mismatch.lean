@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2003_13288_effective_wavenumber_momentum_mismatch
 -- name    : Arxiv2003_13288.effective_wavenumber_momentum_mismatch
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T08:54:10.026903+00:00
 -- url     : https://prove2.me/theorems/17a00763-42cb-5a64-bd3f-088865e14d33

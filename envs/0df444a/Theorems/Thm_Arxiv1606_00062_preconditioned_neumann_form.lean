@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1606_00062_preconditioned_neumann_form
 -- name    : Arxiv1606_00062.preconditioned_neumann_form
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T22:37:11.71114+00:00
 -- url     : https://prove2.me/theorems/d4ec43b9-c139-4e14-b314-bfdfa5adbdb7

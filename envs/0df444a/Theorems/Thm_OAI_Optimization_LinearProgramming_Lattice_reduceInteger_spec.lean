@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_reduceInteger_spec
 -- name    : OAI.Optimization.LinearProgramming.Lattice.reduceInteger_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:51:27.047341+00:00
 -- url     : https://prove2.me/theorems/ee65166b-ea0c-54fa-bebd-bdc9208a439a

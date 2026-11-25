@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Farkas_slack_orthogonal_iff
 -- name    : OAI.Optimization.LinearProgramming.Farkas.slack_orthogonal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:21.126129+00:00
 -- url     : https://prove2.me/theorems/f2bde228-9263-53cb-b574-82ca0d463985

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_scaledCoeffs_rowAdd_lower
 -- name    : Hex.GramSchmidt.Int.scaledCoeffs_rowAdd_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:43:14.22791+00:00
 -- url     : https://prove2.me/theorems/8b354df1-dced-4e3c-b483-38ca097db2d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_knownRequestFamily_spec_of_raw
 -- name    : OAI.Optimization.LinearProgramming.Compression.knownRequestFamily_spec_of_raw
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:53:14.749294+00:00
 -- url     : https://prove2.me/theorems/04932558-dad6-4714-af1a-d0de67be7583

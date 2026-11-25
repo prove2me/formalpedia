@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_request_grid_affine_approx
 -- name    : OAI.Optimization.LinearProgramming.Compression.request_grid_affine_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:41.932512+00:00
 -- url     : https://prove2.me/theorems/e5b81256-841b-42e2-a316-81b1ae127bb9

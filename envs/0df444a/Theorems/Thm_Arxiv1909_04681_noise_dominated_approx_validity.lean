@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1909_04681_noise_dominated_approx_validity
 -- name    : Arxiv1909_04681.noise_dominated_approx_validity
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T06:49:26.904797+00:00
 -- url     : https://prove2.me/theorems/1f0403d0-6f3d-4341-9514-d17a781b81b8

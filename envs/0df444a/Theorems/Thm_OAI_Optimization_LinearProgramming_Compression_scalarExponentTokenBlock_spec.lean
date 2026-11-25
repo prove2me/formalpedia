@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_scalarExponentTokenBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.scalarExponentTokenBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:45:26.465857+00:00
 -- url     : https://prove2.me/theorems/12c345c2-9b12-5c9a-9acc-c71e07fce042

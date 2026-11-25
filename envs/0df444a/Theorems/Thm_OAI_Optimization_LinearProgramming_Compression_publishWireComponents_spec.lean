@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_publishWireComponents_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.publishWireComponents_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:46.199273+00:00
 -- url     : https://prove2.me/theorems/4dfd6e3f-b234-573b-bb9a-46302c914bbc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1707_02146_bbtm_intensity_decomposition
 -- name    : Arxiv1707_02146.bbtm_intensity_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T00:18:15.627502+00:00
 -- url     : https://prove2.me/theorems/7e1ff3eb-32b9-484b-a504-1821977ecfff

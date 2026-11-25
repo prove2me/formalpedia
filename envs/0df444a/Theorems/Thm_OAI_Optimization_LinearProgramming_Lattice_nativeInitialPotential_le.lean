@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_nativeInitialPotential_le
 -- name    : OAI.Optimization.LinearProgramming.Lattice.nativeInitialPotential_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:54.210415+00:00
 -- url     : https://prove2.me/theorems/18eb32c6-981b-5a4f-91f5-8ad9af7d563c

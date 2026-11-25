@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1310_4241_pec_mie_spectral_densities
 -- name    : Arxiv1310_4241.pec_mie_spectral_densities
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:23:50.547287+00:00
 -- url     : https://prove2.me/theorems/d8159ba2-ee4a-4650-881f-63fb639cb1fa

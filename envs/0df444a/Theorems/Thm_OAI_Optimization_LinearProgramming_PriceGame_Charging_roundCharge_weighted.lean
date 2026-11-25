@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_roundCharge_weighted
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.roundCharge_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:02:56.707108+00:00
 -- url     : https://prove2.me/theorems/0c844c54-54e9-451e-b468-fd60bb8f5483

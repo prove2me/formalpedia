@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_logProxyValue_error
 -- name    : OAI.Optimization.LinearProgramming.Compression.logProxyValue_error
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:46.74914+00:00
 -- url     : https://prove2.me/theorems/60875c6f-7b6f-416b-9fa1-12cc0544081e

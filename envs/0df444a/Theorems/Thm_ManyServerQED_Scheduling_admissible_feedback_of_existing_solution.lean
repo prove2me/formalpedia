@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_admissible_feedback_of_existing_solution
 -- name    : ManyServerQED.Scheduling.admissible_feedback_of_existing_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-25T18:21:42.124065+00:00
 -- url     : https://prove2.me/theorems/c599126e-14cd-4cc8-b543-3f073c2f3cdb

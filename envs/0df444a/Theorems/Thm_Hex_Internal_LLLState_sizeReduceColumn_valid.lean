@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_Internal_LLLState_sizeReduceColumn_valid
 -- name    : Hex.Internal.LLLState.sizeReduceColumn_valid
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:49:07.439263+00:00
 -- url     : https://prove2.me/theorems/87db3426-44a9-40bd-a787-19f6868365e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_exists_rat_of_tight_integer_system
 -- name    : OAI.Optimization.LinearProgramming.Compression.exists_rat_of_tight_integer_system
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:16.948785+00:00
 -- url     : https://prove2.me/theorems/a2fcfd6e-e360-51d6-887f-69b8e360bf4d

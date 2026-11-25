@@ -42233,7 +42233,7 @@
 {"parent": "OAI.Paper320.towerFamily_blocks", "child": "OAI_Combinatorics_Sensitivity_Tower", "via": ["solution", "statement"]}
 {"parent": "OAI.Paper320.towerFamily_blocks", "child": "OAI_Combinatorics_Sensitivity_InitialPredicates", "via": ["solution", "statement"]}
 {"parent": "OAI.Paper320.towerFamily_blocks", "child": "OAI_Combinatorics_Sensitivity_RecursiveSets", "via": ["solution", "statement"]}
-{"parent": "QReversal.NearOpt.lemma_1", "child": "QReversal_NearOpt_Setting", "via": ["statement"]}
+{"parent": "QReversal.NearOpt.lemma_1", "child": "QReversal_NearOpt_Setting", "via": ["solution", "statement"]}
 {"parent": "QReversal.NearOpt.lemma_1", "child": "PeresTerno_kraus_basics", "via": ["statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_zeta_correlation02", "child": "TaoFivePrimes_RHHighFFTPositive02", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_zeta_correlation02", "child": "TaoFivePrimes_RHHighZetaCorrelationOutput02", "via": ["solution", "statement"]}

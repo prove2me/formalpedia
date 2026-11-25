@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_powerSearch_mantissa
 -- name    : OAI.Optimization.LinearProgramming.Compression.powerSearch_mantissa
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:35.339906+00:00
 -- url     : https://prove2.me/theorems/86909940-2668-4196-a680-61689fa94bb5

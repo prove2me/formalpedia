@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_predictable_martingale_increment_zero
 -- name    : Kyprianou.Ch04.kw47_predictable_martingale_increment_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T18:20:12.980817+00:00
 -- url     : https://prove2.me/theorems/0899243f-6078-425b-8073-df0049f81bef

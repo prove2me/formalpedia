@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_uniformInverseVector_spec
 -- name    : OAI.Optimization.LinearProgramming.Elimination.uniformInverseVector_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:59:05.572273+00:00
 -- url     : https://prove2.me/theorems/20651fab-8dfa-5373-9e12-d556b68c53ef

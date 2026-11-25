@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_uniformSolveProgram_stronglyPolynomial
 -- name    : OAI.Optimization.LinearProgramming.Elimination.uniformSolveProgram_stronglyPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:49.991846+00:00
 -- url     : https://prove2.me/theorems/2c2ba115-a29c-5d4b-90f9-8a1cea3d42dd

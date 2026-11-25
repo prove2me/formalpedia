@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Computation_reaches_bind_iff
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Computation.reaches_bind_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:37.685247+00:00
 -- url     : https://prove2.me/theorems/6b957d0e-0739-40ee-94fc-1286603b4e62

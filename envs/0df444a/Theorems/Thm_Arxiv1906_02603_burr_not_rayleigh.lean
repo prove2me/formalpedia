@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1906_02603_burr_not_rayleigh
 -- name    : Arxiv1906_02603.burr_not_rayleigh
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T06:46:31.878299+00:00
 -- url     : https://prove2.me/theorems/77c41941-a58a-428b-9917-255e3cbb8739

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1707_02146_shorter_focus_wider_correlation_bandwidth
 -- name    : Arxiv1707_02146.shorter_focus_wider_correlation_bandwidth
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T00:28:24.860328+00:00
 -- url     : https://prove2.me/theorems/895070f4-4a0a-48fe-8ad4-3933613d19f4

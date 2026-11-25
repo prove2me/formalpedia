@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_median_miss_majority
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.median_miss_majority
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:02.134576+00:00
 -- url     : https://prove2.me/theorems/a685907d-1be0-4652-86c1-ef20a1302a73

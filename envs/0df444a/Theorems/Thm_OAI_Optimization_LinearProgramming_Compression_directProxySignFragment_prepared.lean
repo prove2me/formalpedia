@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_directProxySignFragment_prepared
 -- name    : OAI.Optimization.LinearProgramming.Compression.directProxySignFragment_prepared
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:52.477664+00:00
 -- url     : https://prove2.me/theorems/51c283fa-76b7-413b-a76d-9cbd0981f7aa

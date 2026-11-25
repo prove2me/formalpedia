@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1606_00062_krylov_binomial_identity
 -- name    : Arxiv1606_00062.krylov_binomial_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T22:19:41.394695+00:00
 -- url     : https://prove2.me/theorems/7bca1ebb-379c-4844-8771-a799fd5d13e9

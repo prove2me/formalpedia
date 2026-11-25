@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_exists_feasible_tight_rows_separate
 -- name    : OAI.Optimization.LinearProgramming.Compression.exists_feasible_tight_rows_separate
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:05.835294+00:00
 -- url     : https://prove2.me/theorems/c6e5f244-ca7c-582d-89db-803d17dc2994

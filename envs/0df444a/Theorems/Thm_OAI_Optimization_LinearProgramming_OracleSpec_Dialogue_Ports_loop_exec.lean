@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_OracleSpec_Dialogue_Ports_loop_exec
 -- name    : OAI.Optimization.LinearProgramming.OracleSpec.Dialogue.Ports.loop_exec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:04:42.375326+00:00
 -- url     : https://prove2.me/theorems/7a0cdcc4-3862-4622-ba10-77ba750d23f7

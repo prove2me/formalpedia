@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_NormalSubspace_call_run
 -- name    : OAI.Optimization.LinearProgramming.NormalSubspace.call_run
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:59:49.313227+00:00
 -- url     : https://prove2.me/theorems/c10bf218-b785-4ab7-b420-171b4690d801

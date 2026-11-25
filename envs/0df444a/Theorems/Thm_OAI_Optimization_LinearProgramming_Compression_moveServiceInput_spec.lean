@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_moveServiceInput_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.moveServiceInput_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:36.882555+00:00
 -- url     : https://prove2.me/theorems/ccb0bc36-97e6-559e-bcbe-cb98a9c4da57

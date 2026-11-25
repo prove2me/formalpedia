@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_OracleSpec_Dialogue_Ports_nextStep_exec
 -- name    : OAI.Optimization.LinearProgramming.OracleSpec.Dialogue.Ports.nextStep_exec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:06:16.04081+00:00
 -- url     : https://prove2.me/theorems/3851739d-1b62-4b58-aadc-e930e1fe129d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1506_04764_time_shift_beta_r_negligible
 -- name    : Arxiv1506_04764.time_shift_beta_r_negligible
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T14:37:32.792961+00:00
 -- url     : https://prove2.me/theorems/a01019b8-3507-42e4-8609-ad209c92977a

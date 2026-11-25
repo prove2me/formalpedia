@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1605_04704_case_b1_not_proportional
 -- name    : Arxiv1605_04704.case_b1_not_proportional
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T21:19:22.365735+00:00
 -- url     : https://prove2.me/theorems/d1e1ddd9-d42c-41d2-a7c0-de8baa37ef0a

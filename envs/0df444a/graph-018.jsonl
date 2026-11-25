@@ -34012,8 +34012,8 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaInitialSeedHeader", "child": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedSourceCountHost.Reads.update", "via": ["statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaInitialSeedHeader", "child": "Light.LocalsBut.update", "via": ["statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaInitialSeedHeader", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.Stopping.theorem_10_2_3", "child": "BauerleRiederMDP_Stopping_AssumptionBLim", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.Stopping.theorem_10_2_3", "child": "MDPFinance_OptimalStopping_Stationary", "via": ["statement"]}
+{"parent": "BauerleRiederMDP.Stopping.theorem_10_2_3", "child": "BauerleRiederMDP_Stopping_AssumptionBLim", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.Stopping.theorem_10_2_3", "child": "MDPFinance_OptimalStopping_Stationary", "via": ["solution", "statement"]}
 {"parent": "BauerleRiederMDP_PDMDP_Chain", "child": "BauerleRiederMDP_PDMDP_JumpModel", "via": ["statement"]}
 {"parent": "BauerleRiederMDP_PDMDP_Chain", "child": "BauerleRiederMDP_PDMDP_StageModel", "via": ["statement"]}
 {"parent": "BauerleRiederMDP_PDMDP_Chain", "child": "BauerleRiederMDP_PDMDP_DecisionRule", "via": ["statement"]}
@@ -36887,11 +36887,11 @@
 {"parent": "Eight_App_Rate", "child": "Eight_App_Pieces", "via": ["statement"]}
 {"parent": "Eight_App_Rate", "child": "ClauseBound_Gen_Defs", "via": ["statement"]}
 {"parent": "Eight_App_Rate", "child": "Eight_SecCrossing_PolyDefs", "via": ["statement"]}
-{"parent": "CorrelatedRounding.display_p12", "child": "CorrelatedRounding_IsInstance", "via": ["statement"]}
-{"parent": "CorrelatedRounding.display_p12", "child": "CorrelatedRounding_y", "via": ["statement"]}
-{"parent": "CorrelatedRounding.display_p12", "child": "CorrelatedRounding_IsAlg1Draw", "via": ["statement"]}
-{"parent": "CorrelatedRounding.display_p12", "child": "CorrelatedRounding_clock", "via": ["statement"]}
-{"parent": "CorrelatedRounding.display_p12", "child": "CorrelatedRounding_IsAlg1Output", "via": ["statement"]}
+{"parent": "CorrelatedRounding.display_p12", "child": "CorrelatedRounding_IsInstance", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.display_p12", "child": "CorrelatedRounding_y", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.display_p12", "child": "CorrelatedRounding_IsAlg1Draw", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.display_p12", "child": "CorrelatedRounding_clock", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.display_p12", "child": "CorrelatedRounding_IsAlg1Output", "via": ["solution", "statement"]}
 {"parent": "QMCLeafB_pinch_m1", "child": "QMCLeafB_thrice", "via": ["statement"]}
 {"parent": "QMCLeafB_pinch_m1", "child": "QMCLeafB_ball_m2", "via": ["statement"]}
 {"parent": "QMCLeafB_pinch_m1", "child": "QMCLeafB_centre_adm_m1", "via": ["statement"]}
@@ -41616,8 +41616,8 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalPhysicalPairWordBounds.weighted_abs_le", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryNativeMomentBounds", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalPhysicalPairWordBounds.weighted_abs_le", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalPhysicalPairWordBounds.weighted_abs_le", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryPhysicalPairWordBounds", "via": ["solution", "statement"]}
-{"parent": "BauerleRiederMDP.Stopping.theorem_10_1_5", "child": "BauerleRiederMDP_Stopping_IsOptimalUpTo", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.Stopping.theorem_10_1_5", "child": "MDPFinance_OptimalStopping_Stationary", "via": ["statement"]}
+{"parent": "BauerleRiederMDP.Stopping.theorem_10_1_5", "child": "BauerleRiederMDP_Stopping_IsOptimalUpTo", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.Stopping.theorem_10_1_5", "child": "MDPFinance_OptimalStopping_Stationary", "via": ["solution", "statement"]}
 {"parent": "BauerleRiederMDP_FiniteHorizon_VHist", "child": "BauerleRiederMDP_FiniteHorizon_stepKernel", "via": ["statement"]}
 {"parent": "BauerleRiederMDP_FiniteHorizon_VHist", "child": "MDPFinance_Bellman_Model", "via": ["statement"]}
 {"parent": "BauerleRiederMDP_FiniteHorizon_VHist", "child": "MDPFinance_Bellman_Operators", "via": ["statement"]}
@@ -54456,9 +54456,9 @@
 {"parent": "GeneralPieces.stSeq2", "child": "Groundwork.PolyT.all", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.stSeq2", "child": "ClauseBound_Alg_Need", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.stSeq2", "child": "ClauseBound_Gen_Pick", "via": ["solution", "statement"]}
-{"parent": "CorrelatedRounding.runtime_claim", "child": "CorrelatedRounding_IsInstance", "via": ["statement"]}
-{"parent": "CorrelatedRounding.runtime_claim", "child": "CorrelatedRounding_IsAlg1Output", "via": ["statement"]}
-{"parent": "CorrelatedRounding.runtime_claim", "child": "CorrelatedRounding_alg1Prog", "via": ["statement"]}
+{"parent": "CorrelatedRounding.runtime_claim", "child": "CorrelatedRounding_IsInstance", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.runtime_claim", "child": "CorrelatedRounding_IsAlg1Output", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.runtime_claim", "child": "CorrelatedRounding_alg1Prog", "via": ["solution", "statement"]}
 {"parent": "NamesInOrder.codeIsShort", "child": "NamesInOrder_Arith", "via": ["solution", "statement"]}
 {"parent": "NamesInOrder.codeIsShort", "child": "PairsToBound_Arith", "via": ["solution", "statement"]}
 {"parent": "NamesInOrder.codeIsShort", "child": "ClauseBound_Alg_End", "via": ["solution", "statement"]}
@@ -64555,10 +64555,10 @@
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_marked_pairs_fine_cell_exclusion", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_marked_pairs_fine_cell_exclusion", "child": "AvramDividend.Classical.avram_wave7_06_original_negative_band_marked_times_finite", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_marked_pairs_fine_cell_exclusion", "child": "AvramDividend.Classical.avram_p4_f_assembly_original_marked_pairs_uniform_grid_scale", "via": ["solution", "statement"]}
-{"parent": "BauerleRiederMDP.Stopping.theorem_10_2_7", "child": "BauerleRiederMDP_Stopping_lookAheadSet", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.Stopping.theorem_10_2_7", "child": "BauerleRiederMDP_Stopping_AssumptionBLim", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.Stopping.theorem_10_2_7", "child": "BauerleRiederMDP_Stopping_IsOptimalUpTo", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.Stopping.theorem_10_2_7", "child": "MDPFinance_OptimalStopping_Stationary", "via": ["statement"]}
+{"parent": "BauerleRiederMDP.Stopping.theorem_10_2_7", "child": "BauerleRiederMDP_Stopping_lookAheadSet", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.Stopping.theorem_10_2_7", "child": "BauerleRiederMDP_Stopping_AssumptionBLim", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.Stopping.theorem_10_2_7", "child": "BauerleRiederMDP_Stopping_IsOptimalUpTo", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.Stopping.theorem_10_2_7", "child": "MDPFinance_OptimalStopping_Stationary", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.ParityChecks.Approx.abs_prod_ev_cast_le", "child": "ParityChecksStatement", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.ParityChecks.Approx.abs_prod_ev_cast_le", "child": "ClauseBound_ParityChecks_Approx", "via": ["solution", "statement"]}
 {"parent": "CalendarDependentRM.lemma_5_1", "child": "CalendarDependentRM_PolicyRun", "via": ["statement"]}
@@ -66068,11 +66068,11 @@
 {"parent": "CountKSatRate.roundS_iterate", "child": "CountKSatRate_Interfaces", "via": ["solution", "statement"]}
 {"parent": "CountKSatRate.roundS_iterate", "child": "WidthK.InvK.step", "via": ["solution", "statement"]}
 {"parent": "CountKSatRate.roundS_iterate", "child": "Groundwork.PolyT.map", "via": ["solution", "statement"]}
-{"parent": "CorrelatedRounding.lemma_1", "child": "CorrelatedRounding_IsInstance", "via": ["statement"]}
-{"parent": "CorrelatedRounding.lemma_1", "child": "CorrelatedRounding_y", "via": ["statement"]}
-{"parent": "CorrelatedRounding.lemma_1", "child": "CorrelatedRounding_IsAlg1Draw", "via": ["statement"]}
-{"parent": "CorrelatedRounding.lemma_1", "child": "CorrelatedRounding_clock", "via": ["statement"]}
-{"parent": "CorrelatedRounding.lemma_1", "child": "CorrelatedRounding_IsAlg1Output", "via": ["statement"]}
+{"parent": "CorrelatedRounding.lemma_1", "child": "CorrelatedRounding_IsInstance", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.lemma_1", "child": "CorrelatedRounding_y", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.lemma_1", "child": "CorrelatedRounding_IsAlg1Draw", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.lemma_1", "child": "CorrelatedRounding_clock", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.lemma_1", "child": "CorrelatedRounding_IsAlg1Output", "via": ["solution", "statement"]}
 {"parent": "PhysicalCostTransfer.selected_state_cost_bound", "child": "PhysicalCostTransfer", "via": ["solution", "statement"]}
 {"parent": "PhysicalCostTransfer.selected_state_cost_bound", "child": "SelectedFloorTransfer", "via": ["solution", "statement"]}
 {"parent": "Exits.tested_singleton", "child": "Exits_Defs", "via": ["solution", "statement"]}

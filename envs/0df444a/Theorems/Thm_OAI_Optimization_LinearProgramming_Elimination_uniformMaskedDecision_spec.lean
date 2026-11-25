@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_uniformMaskedDecision_spec
 -- name    : OAI.Optimization.LinearProgramming.Elimination.uniformMaskedDecision_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:56:02.476903+00:00
 -- url     : https://prove2.me/theorems/bd760462-4bc1-482c-8243-d0210c6ec78d

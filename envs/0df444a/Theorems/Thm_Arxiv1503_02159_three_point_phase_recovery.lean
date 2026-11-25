@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1503_02159_three_point_phase_recovery
 -- name    : Arxiv1503_02159.three_point_phase_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T13:13:52.428015+00:00
 -- url     : https://prove2.me/theorems/0cc688a3-531c-4213-9fed-a47f8b4db025

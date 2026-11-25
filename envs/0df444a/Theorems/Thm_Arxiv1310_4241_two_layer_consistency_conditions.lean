@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1310_4241_two_layer_consistency_conditions
 -- name    : Arxiv1310_4241.two_layer_consistency_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:25:42.026235+00:00
 -- url     : https://prove2.me/theorems/8de5f0dc-eb01-4903-90de-f0c2f47e6101

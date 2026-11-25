@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_coeffMass_symbolicMinor_le
 -- name    : OAI.Optimization.LinearProgramming.Compression.coeffMass_symbolicMinor_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:38.263593+00:00
 -- url     : https://prove2.me/theorems/99812e58-ceaf-417c-b239-6e05027f3e7f

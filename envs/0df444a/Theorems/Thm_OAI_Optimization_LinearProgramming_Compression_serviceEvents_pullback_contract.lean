@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_serviceEvents_pullback_contract
 -- name    : OAI.Optimization.LinearProgramming.Compression.serviceEvents_pullback_contract
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:56:11.315809+00:00
 -- url     : https://prove2.me/theorems/3cef863a-2627-4e04-9122-633b83f8874d

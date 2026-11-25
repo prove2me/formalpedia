@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_solve_complete
 -- name    : OAI.Optimization.LinearProgramming.Elimination.solve_complete
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:26.433665+00:00
 -- url     : https://prove2.me/theorems/c8b50971-6b2f-484e-b500-d2ca5e18447f

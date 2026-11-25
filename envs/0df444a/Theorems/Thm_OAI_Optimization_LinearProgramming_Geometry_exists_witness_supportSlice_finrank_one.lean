@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Geometry_exists_witness_supportSlice_finrank_one
 -- name    : OAI.Optimization.LinearProgramming.Geometry.exists_witness_supportSlice_finrank_one
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:29.072799+00:00
 -- url     : https://prove2.me/theorems/54c42988-4e29-49cc-9da0-d3e4d83da466

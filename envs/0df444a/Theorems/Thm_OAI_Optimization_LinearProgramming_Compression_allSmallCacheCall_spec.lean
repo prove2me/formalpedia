@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_allSmallCacheCall_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.allSmallCacheCall_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:16.167009+00:00
 -- url     : https://prove2.me/theorems/97b88bcb-4e94-53f7-9479-780e4450d76b

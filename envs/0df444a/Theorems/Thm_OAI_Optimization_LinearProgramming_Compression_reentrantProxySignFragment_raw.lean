@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_reentrantProxySignFragment_raw
 -- name    : OAI.Optimization.LinearProgramming.Compression.reentrantProxySignFragment_raw
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:43.154553+00:00
 -- url     : https://prove2.me/theorems/b999450b-0917-43e8-ba49-0d7e829fbae9

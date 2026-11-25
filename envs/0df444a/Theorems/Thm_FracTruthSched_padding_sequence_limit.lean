@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracTruthSched_padding_sequence_limit
 -- name    : FracTruthSched.padding_sequence_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:23:49.281596+00:00
 -- url     : https://prove2.me/theorems/d07e7a79-8533-4b1b-b341-b2c995c5f581

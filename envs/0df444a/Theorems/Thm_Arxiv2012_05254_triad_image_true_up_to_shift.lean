@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2012_05254_triad_image_true_up_to_shift
 -- name    : Arxiv2012_05254.triad_image_true_up_to_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T04:38:27.852691+00:00
 -- url     : https://prove2.me/theorems/2e882304-e047-4ca6-b15e-544fca03c467

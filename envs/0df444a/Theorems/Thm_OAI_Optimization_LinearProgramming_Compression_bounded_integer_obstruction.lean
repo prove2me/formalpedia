@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_bounded_integer_obstruction
 -- name    : OAI.Optimization.LinearProgramming.Compression.bounded_integer_obstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:28.430658+00:00
 -- url     : https://prove2.me/theorems/fe866953-a8f6-444a-ab8e-ce8c9153d935

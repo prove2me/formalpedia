@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1606_00062_remark12_spectral_radius_bound
 -- name    : Arxiv1606_00062.remark12_spectral_radius_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T22:42:50.767703+00:00
 -- url     : https://prove2.me/theorems/8417f17f-91ef-426b-8981-bf121c8a688c

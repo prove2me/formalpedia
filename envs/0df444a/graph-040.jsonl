@@ -18822,11 +18822,11 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_Regularisation_PMaxOscillation", "child": "GroundTheory_HeightsAndTheta_Heights_Regularisation_Statements", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_Cartier", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_Objects", "via": ["statement"]}
 {"parent": "RHX1000000.Edge.piece_03", "child": "RHX1E6_RunE03", "via": ["statement"]}
-{"parent": "RHX1000000.Edge.piece_03", "child": "RHX_Edge1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.piece_03", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Edge.piece_03", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Edge.piece_03", "child": "RHX_RunChain", "via": ["statement"]}
 {"parent": "RHX1000000.Edge.piece_03", "child": "RHX_RunSplit", "via": ["statement"]}
-{"parent": "RHX1000000.Edge.piece_03", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.piece_03", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_MembershipProofs_SplitQuadraticAlgebraOrderStatement", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_HilbertNinetyQuotientHomEqIff", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_MembershipProofs_SplitQuadraticAlgebraOrderStatement", "child": "Development_AutomorphicSpectrum_Proofs_MembershipProofs_SplitQuadraticAlgebraOrder", "via": ["statement"]}
 {"parent": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MinorFormulas_MinorIter", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MinorFormulas_MinorCore", "via": ["statement"]}
@@ -19109,12 +19109,12 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PBaseChangeLogBound", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_LowerBoundConditional", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PBaseChangeLogBound", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_ConeBall", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PBaseChangeLogBound", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_Characterised", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E03.blk8", "child": "RHX1E6_RunE03", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E03.blk8", "child": "RHX_Edge1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E03.blk8", "child": "RHX1E6_RunE03", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.E03.blk8", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E03.blk8", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E03.blk8", "child": "RHX_RunChain", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E03.blk8", "child": "RHX_RunSplit", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E03.blk8", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E03.blk8", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "FairChores.cbarSum_le_sum", "child": "RequestProject_ChoresModel", "via": ["solution", "statement"]}
 {"parent": "FBMStrongSim.RecordBreak.Supplement.lemma_5_7", "child": "FBMStrongSim_RecordBreak_Supplement_YoungConstants", "via": ["statement"]}
 {"parent": "FBMStrongSim.RecordBreak.Supplement.lemma_5_7", "child": "FBMStrongSim_RecordBreak_Supplement_YoungModel", "via": ["statement"]}

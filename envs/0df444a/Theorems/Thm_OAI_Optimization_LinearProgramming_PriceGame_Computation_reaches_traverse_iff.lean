@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Computation_reaches_traverse_iff
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Computation.reaches_traverse_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:02:59.568496+00:00
 -- url     : https://prove2.me/theorems/5fe3eff5-b19b-4c6d-b4c3-958f58e6a183

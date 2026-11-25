@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomCNFDeficiency_LowerBound_local_extendability
 -- name    : RandomCNFDeficiency.LowerBound.local_extendability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:32:51.575509+00:00
 -- url     : https://prove2.me/theorems/8f1f5bcd-ceb6-4f33-8464-7e6549eeda1a

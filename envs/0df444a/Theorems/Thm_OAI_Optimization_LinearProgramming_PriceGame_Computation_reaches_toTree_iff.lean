@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Computation_reaches_toTree_iff
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Computation.reaches_toTree_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:33.727552+00:00
 -- url     : https://prove2.me/theorems/dcae34a1-0625-5775-82cb-a101d447765e

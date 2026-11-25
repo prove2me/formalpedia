@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1504_01000_oa_independent_of_looks
 -- name    : Arxiv1504_01000.oa_independent_of_looks
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T19:02:41.741944+00:00
 -- url     : https://prove2.me/theorems/562bf4d4-5b3e-4eff-bae8-5111bdfc0d31

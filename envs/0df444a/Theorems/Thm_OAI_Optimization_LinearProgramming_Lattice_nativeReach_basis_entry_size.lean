@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_nativeReach_basis_entry_size
 -- name    : OAI.Optimization.LinearProgramming.Lattice.nativeReach_basis_entry_size
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:04:10.593899+00:00
 -- url     : https://prove2.me/theorems/06b45fd3-3da8-5d72-a235-3d9d177feab8

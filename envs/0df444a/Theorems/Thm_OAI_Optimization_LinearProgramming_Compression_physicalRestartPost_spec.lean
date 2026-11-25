@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_physicalRestartPost_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.physicalRestartPost_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:49:19.544262+00:00
 -- url     : https://prove2.me/theorems/8160a7c1-ba7a-4737-b632-1422308dbe7b

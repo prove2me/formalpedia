@@ -40555,7 +40555,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm1_1_0_18.s3_eq_g", "child": "OAIQ098G977", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm1_1_0_18.s3_eq_g", "child": "OAIQ098G975", "via": ["solution", "statement"]}
 {"parent": "LeeYangGap.SpectralGap.moment_bounds", "child": "LeeYangGap_SpectralGap_Analytic", "via": ["statement"]}
-{"parent": "RandomCNFDeficiency.LowerBound.local_extendability", "child": "RandomCNFDeficiency_LowerBound_DeficiencyClosure", "via": ["statement"]}
+{"parent": "RandomCNFDeficiency.LowerBound.local_extendability", "child": "RandomCNFDeficiency_LowerBound_DeficiencyClosure", "via": ["solution", "statement"]}
 {"parent": "OAIQ098G1649", "child": "OAIQ098G1647", "via": ["statement"]}
 {"parent": "OAIQ098G1649", "child": "OAIQ098G1642", "via": ["statement"]}
 {"parent": "OAIQ098G1649", "child": "OAIQ098G1648", "via": ["statement"]}

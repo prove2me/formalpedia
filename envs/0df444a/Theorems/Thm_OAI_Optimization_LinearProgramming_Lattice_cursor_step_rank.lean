@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_cursor_step_rank
 -- name    : OAI.Optimization.LinearProgramming.Lattice.cursor_step_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:53:16.014496+00:00
 -- url     : https://prove2.me/theorems/01de854b-c8d2-48fc-a21d-7f395a712b9c

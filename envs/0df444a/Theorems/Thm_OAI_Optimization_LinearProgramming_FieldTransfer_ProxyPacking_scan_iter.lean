@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_FieldTransfer_ProxyPacking_scan_iter
 -- name    : OAI.Optimization.LinearProgramming.FieldTransfer.ProxyPacking.scan_iter
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:46:43.90858+00:00
 -- url     : https://prove2.me/theorems/26a1e273-9e4c-591e-9162-8ee314c5f7f1

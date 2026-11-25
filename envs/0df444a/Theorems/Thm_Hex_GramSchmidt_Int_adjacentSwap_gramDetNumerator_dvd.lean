@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_adjacentSwap_gramDetNumerator_dvd
 -- name    : Hex.GramSchmidt.Int.adjacentSwap_gramDetNumerator_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:42:31.295718+00:00
 -- url     : https://prove2.me/theorems/ffa4de30-fb57-5ff2-a99c-d9233468ae99

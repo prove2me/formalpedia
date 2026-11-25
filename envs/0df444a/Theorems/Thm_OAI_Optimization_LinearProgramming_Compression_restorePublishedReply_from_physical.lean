@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_restorePublishedReply_from_physical
 -- name    : OAI.Optimization.LinearProgramming.Compression.restorePublishedReply_from_physical
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:48:55.600217+00:00
 -- url     : https://prove2.me/theorems/2620c3d5-8970-4aab-87c9-451077add92c

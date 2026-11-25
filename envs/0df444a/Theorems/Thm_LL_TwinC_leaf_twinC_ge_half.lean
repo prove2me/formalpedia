@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_TwinC_leaf_twinC_ge_half
 -- name    : LL_TwinC.leaf_twinC_ge_half
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-25T04:06:35.026284+00:00
 -- url     : https://prove2.me/theorems/fd192487-e2a7-4660-9f56-1ef2803a01c6

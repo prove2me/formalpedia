@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_normalInitialResident_run_window
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.normalInitialResident_run_window
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:41:37.671602+00:00
 -- url     : https://prove2.me/theorems/50ed98ca-81be-59da-92f0-bbd1c4fe9b0f

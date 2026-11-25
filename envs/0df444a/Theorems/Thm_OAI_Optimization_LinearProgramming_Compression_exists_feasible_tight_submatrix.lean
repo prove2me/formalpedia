@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_exists_feasible_tight_submatrix
 -- name    : OAI.Optimization.LinearProgramming.Compression.exists_feasible_tight_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:12.140873+00:00
 -- url     : https://prove2.me/theorems/a0996dbe-5411-4e77-8af0-c769045da5cc

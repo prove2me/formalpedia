@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsThesis_Fidelity_eq_3_60
 -- name    : FuchsThesis.Fidelity.eq_3_60
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:55:48.479294+00:00
 -- url     : https://prove2.me/theorems/7d3d731b-1e7c-41c8-ba7c-a006ecf0d59c

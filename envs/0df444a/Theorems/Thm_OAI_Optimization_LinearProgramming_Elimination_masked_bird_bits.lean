@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_masked_bird_bits
 -- name    : OAI.Optimization.LinearProgramming.Elimination.masked_bird_bits
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:40.505191+00:00
 -- url     : https://prove2.me/theorems/0a168150-7a3b-40ba-b599-197185476668

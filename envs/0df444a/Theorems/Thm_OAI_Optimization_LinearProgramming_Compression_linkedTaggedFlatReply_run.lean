@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_linkedTaggedFlatReply_run
 -- name    : OAI.Optimization.LinearProgramming.Compression.linkedTaggedFlatReply_run
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:49:42.663485+00:00
 -- url     : https://prove2.me/theorems/8fc9aec9-812c-5e29-a10e-5b4a479c1e53

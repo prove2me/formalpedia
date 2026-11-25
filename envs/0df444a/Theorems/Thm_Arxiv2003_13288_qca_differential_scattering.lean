@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2003_13288_qca_differential_scattering
 -- name    : Arxiv2003_13288.qca_differential_scattering
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:06:48.55702+00:00
 -- url     : https://prove2.me/theorems/5bc49579-eeb0-4496-8095-852b9d7e67c6

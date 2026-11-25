@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_exists_bounded_projection_cut
 -- name    : OAI.Optimization.LinearProgramming.Compression.exists_bounded_projection_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:19.770728+00:00
 -- url     : https://prove2.me/theorems/dbd019bb-2c43-5336-801d-fd78601ba262

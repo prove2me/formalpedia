@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_requestReducedRows_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.requestReducedRows_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:54.983128+00:00
 -- url     : https://prove2.me/theorems/e41cbf95-1f3c-43de-9106-9be4dd60a863

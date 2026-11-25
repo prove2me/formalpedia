@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2108_02600_kernel_log_sine_form
 -- name    : Arxiv2108_02600.kernel_log_sine_form
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T10:01:16.431964+00:00
 -- url     : https://prove2.me/theorems/adfe1c2d-ec1e-55d7-b9ba-906fc54b5351

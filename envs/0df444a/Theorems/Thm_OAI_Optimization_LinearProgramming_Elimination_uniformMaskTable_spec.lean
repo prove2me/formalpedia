@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_uniformMaskTable_spec
 -- name    : OAI.Optimization.LinearProgramming.Elimination.uniformMaskTable_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:33.813298+00:00
 -- url     : https://prove2.me/theorems/241c5863-67c8-409b-a4a1-9109e104ecd6

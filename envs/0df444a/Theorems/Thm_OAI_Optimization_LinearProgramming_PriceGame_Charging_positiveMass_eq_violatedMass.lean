@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_positiveMass_eq_violatedMass
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.positiveMass_eq_violatedMass
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:59:05.363727+00:00
 -- url     : https://prove2.me/theorems/f9b409e0-1e7e-543f-aaf8-16796acef179

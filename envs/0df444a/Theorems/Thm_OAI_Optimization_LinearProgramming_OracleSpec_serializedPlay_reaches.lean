@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_OracleSpec_serializedPlay_reaches
 -- name    : OAI.Optimization.LinearProgramming.OracleSpec.serializedPlay_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:44.438216+00:00
 -- url     : https://prove2.me/theorems/f932e24c-56cc-4a7e-a2d5-3cf9d249a3dd

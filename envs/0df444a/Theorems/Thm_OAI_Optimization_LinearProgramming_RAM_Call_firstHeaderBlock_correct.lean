@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_RAM_Call_firstHeaderBlock_correct
 -- name    : OAI.Optimization.LinearProgramming.RAM.Call.firstHeaderBlock_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:06:39.218217+00:00
 -- url     : https://prove2.me/theorems/1d72b6a2-49ba-556c-8a21-feb3f5ca71ca

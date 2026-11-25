@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_dissociated_minor_card_le
 -- name    : OAI.Optimization.LinearProgramming.Compression.dissociated_minor_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:37.979664+00:00
 -- url     : https://prove2.me/theorems/70bb44c8-2b14-5cbf-a4eb-b53e1fac97ea

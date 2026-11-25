@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_commitHeight_log2_le
 -- name    : OAI.Optimization.LinearProgramming.Compression.commitHeight_log2_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:35.501588+00:00
 -- url     : https://prove2.me/theorems/751dfc1e-4b55-4346-a9a9-cea7ec770f14

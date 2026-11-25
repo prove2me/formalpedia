@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2012_05254_sos_conservation_principle
 -- name    : Arxiv2012_05254.sos_conservation_principle
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T04:02:51.3858+00:00
 -- url     : https://prove2.me/theorems/906dbc00-4393-5271-8830-dc2c99b460f8

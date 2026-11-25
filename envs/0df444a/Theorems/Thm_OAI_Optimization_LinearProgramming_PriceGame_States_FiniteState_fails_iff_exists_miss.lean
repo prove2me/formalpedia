@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_States_FiniteState_fails_iff_exists_miss
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.States.FiniteState.fails_iff_exists_miss
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:04:01.4419+00:00
 -- url     : https://prove2.me/theorems/80a676d2-1809-4f9b-b775-9520512125ac

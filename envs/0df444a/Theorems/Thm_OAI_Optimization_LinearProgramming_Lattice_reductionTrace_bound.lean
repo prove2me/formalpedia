@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_reductionTrace_bound
 -- name    : OAI.Optimization.LinearProgramming.Lattice.reductionTrace_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:54.942274+00:00
 -- url     : https://prove2.me/theorems/a887ad8c-460d-52be-8f48-3a1445348ba4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fermion_Dirac_isLeast_size_isCliffordFamily
 -- name    : Fermion.Dirac.isLeast_size_isCliffordFamily
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T01:37:52.68833+00:00
 -- url     : https://prove2.me/theorems/bc79bb4e-3d89-47cd-9896-d570ca3e3085

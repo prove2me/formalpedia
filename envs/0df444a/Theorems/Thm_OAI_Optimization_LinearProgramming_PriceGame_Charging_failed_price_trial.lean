@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_failed_price_trial
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.failed_price_trial
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:00.714482+00:00
 -- url     : https://prove2.me/theorems/206a07b8-c3db-40da-8cc5-8e0470f1ebdd

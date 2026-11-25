@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_dissociated_of_request_search_empty
 -- name    : OAI.Optimization.LinearProgramming.Compression.dissociated_of_request_search_empty
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:34.144318+00:00
 -- url     : https://prove2.me/theorems/bb7fbcb6-afdc-599d-a5ce-d4ee4f5a5e1a

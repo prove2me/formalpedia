@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Farkas_sparse_certificate_supported
 -- name    : OAI.Optimization.LinearProgramming.Farkas.sparse_certificate_supported
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:18.653818+00:00
 -- url     : https://prove2.me/theorems/aa6c463d-5425-4125-91b1-1529368fbcca

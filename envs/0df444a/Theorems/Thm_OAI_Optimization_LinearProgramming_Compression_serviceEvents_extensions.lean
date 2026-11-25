@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_serviceEvents_extensions
 -- name    : OAI.Optimization.LinearProgramming.Compression.serviceEvents_extensions
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:11.350391+00:00
 -- url     : https://prove2.me/theorems/33f7b1e1-afe2-43b3-8fa1-6cf8c5184311

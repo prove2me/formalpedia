@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1310_4241_planar_mie_representation
 -- name    : Arxiv1310_4241.planar_mie_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:17:31.829805+00:00
 -- url     : https://prove2.me/theorems/a3880f5a-43f8-45cf-ab06-627d8723a9f9

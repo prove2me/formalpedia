@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PrimalDual_negative_ray_denominator
 -- name    : OAI.Optimization.LinearProgramming.PrimalDual.negative_ray_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:01.589549+00:00
 -- url     : https://prove2.me/theorems/e146674f-b6cd-4802-a063-e4a7172be3eb

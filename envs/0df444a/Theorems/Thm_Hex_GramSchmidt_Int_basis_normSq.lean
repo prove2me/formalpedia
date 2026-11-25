@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_basis_normSq
 -- name    : Hex.GramSchmidt.Int.basis_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:39:12.688829+00:00
 -- url     : https://prove2.me/theorems/0375ea44-e947-42ab-908f-1a8c4b362c4a

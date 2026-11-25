@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_minorProxy_independent_bound
 -- name    : OAI.Optimization.LinearProgramming.Compression.minorProxy_independent_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:53:06.937811+00:00
 -- url     : https://prove2.me/theorems/20598b25-1ca4-53c8-abef-ff4361aab601

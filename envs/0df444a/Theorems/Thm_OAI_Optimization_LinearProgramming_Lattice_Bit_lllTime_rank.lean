@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_Bit_lllTime_rank
 -- name    : OAI.Optimization.LinearProgramming.Lattice.Bit.lllTime_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:07:44.687798+00:00
 -- url     : https://prove2.me/theorems/0e476310-0db8-5025-92d0-5063fbe448fd

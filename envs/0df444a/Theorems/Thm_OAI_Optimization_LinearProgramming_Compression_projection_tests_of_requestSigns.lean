@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_projection_tests_of_requestSigns
 -- name    : OAI.Optimization.LinearProgramming.Compression.projection_tests_of_requestSigns
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:54.96355+00:00
 -- url     : https://prove2.me/theorems/cd1af1a1-f63b-4563-aa3a-368e7ad7862a

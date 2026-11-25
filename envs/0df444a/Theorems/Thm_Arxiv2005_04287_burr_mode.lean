@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2005_04287_burr_mode
 -- name    : Arxiv2005_04287.burr_mode
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:09:58.802351+00:00
 -- url     : https://prove2.me/theorems/c0770b34-8721-472b-8b53-e82e44f01abc

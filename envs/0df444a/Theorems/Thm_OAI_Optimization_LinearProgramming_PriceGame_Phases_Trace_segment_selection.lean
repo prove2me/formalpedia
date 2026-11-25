@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Phases_Trace_segment_selection
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Phases.Trace.segment_selection
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:04:16.416569+00:00
 -- url     : https://prove2.me/theorems/0759945f-e1c4-4828-928c-6f1cc8a81255

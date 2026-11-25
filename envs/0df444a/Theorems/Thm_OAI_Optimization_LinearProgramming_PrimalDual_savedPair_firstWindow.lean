@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PrimalDual_savedPair_firstWindow
 -- name    : OAI.Optimization.LinearProgramming.PrimalDual.savedPair_firstWindow
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:43.028304+00:00
 -- url     : https://prove2.me/theorems/eadc28f3-2da4-5d6b-a7cd-fdc048c24dd1

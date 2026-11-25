@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_uniformRowBasisBlock_safe
 -- name    : OAI.Optimization.LinearProgramming.Elimination.uniformRowBasisBlock_safe
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:47.075477+00:00
 -- url     : https://prove2.me/theorems/88a49a1d-3971-59ff-b563-733bbf65030c

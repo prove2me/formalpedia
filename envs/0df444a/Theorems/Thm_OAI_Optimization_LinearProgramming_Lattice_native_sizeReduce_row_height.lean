@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_native_sizeReduce_row_height
 -- name    : OAI.Optimization.LinearProgramming.Lattice.native_sizeReduce_row_height
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:41.301673+00:00
 -- url     : https://prove2.me/theorems/c84f8d11-208c-4d49-8e77-eddeb6d90d6c

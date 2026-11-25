@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_card_le_of_bounded_integer_polynomials
 -- name    : OAI.Optimization.LinearProgramming.Compression.card_le_of_bounded_integer_polynomials
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:35.084535+00:00
 -- url     : https://prove2.me/theorems/b6ea951d-30e8-519f-aaf3-40b33101f21f

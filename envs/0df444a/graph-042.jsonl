@@ -5854,7 +5854,7 @@
 {"parent": "GlobalTheory.FinTypeIntCatenary.exists_maximal_mvPolynomial_localization", "child": "ReciprocityTheory_CommutativeAlgebra_PolynomialHeights_PolyCM", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FinTypeIntCatenary.exists_maximal_mvPolynomial_localization", "child": "ReciprocityTheory_AnalyticForms_RegularLocalRings_IntToRatA", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FinTypeIntCatenary.exists_maximal_mvPolynomial_localization", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeightMaximalLePrimeAddDim", "via": ["solution", "statement"]}
-{"parent": "Arxiv1503_02159.three_point_phase_recovery", "child": "Arxiv1503_02159_Basic", "via": ["statement"]}
+{"parent": "Arxiv1503_02159.three_point_phase_recovery", "child": "Arxiv1503_02159_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.typesSplit", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CompactCasimirHighestWeight", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.typesSplit", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CompactExponentialSurjective", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.typesSplit", "child": "Formalism_RealPlaceAnalysis_IsRightTranslationIsometric", "via": ["solution", "statement"]}
@@ -28520,7 +28520,7 @@
 {"parent": "Formalism.FourierDecayAlt.P.B4.inLie_add", "child": "Formalism_HermitianCurvature_StatementB", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B4.inLie_add", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_UnitaryWeylNormalHolds", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B4.inLie_add", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CartanInvolutionConjTransposeMul", "via": ["solution", "statement"]}
-{"parent": "Arxiv1506_04764.eq13_linearised_distance", "child": "Arxiv1506_04764_Basic", "via": ["statement"]}
+{"parent": "Arxiv1506_04764.eq13_linearised_distance", "child": "Arxiv1506_04764_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZeroLevelIndex_SecondMinorZeroLevelFormula", "child": "Formalism_HermitianCurvature_StatementQ", "via": ["statement"]}
 {"parent": "GlobalTheory.HerbrandLength.concl_max", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LengthEqKerAddRange", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HerbrandLength.concl_max", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LengthCokerLsmulEqLengthKerAddSum", "via": ["solution", "statement"]}
@@ -32091,7 +32091,7 @@
 {"parent": "Formalism.FourierDecayAlt.P.B7.sm_FM", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_StabilizerFourthCondition", "child": "Formalism_HermitianCurvature_FiniteOrderIntersectionInSmooth", "via": ["statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_StabilizerFourthCondition", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["statement"]}
-{"parent": "Arxiv1506_04764.time_shift_beta_r_negligible", "child": "Arxiv1506_04764_Basic", "via": ["statement"]}
+{"parent": "Arxiv1506_04764.time_shift_beta_r_negligible", "child": "Arxiv1506_04764_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B6.continuousOn_matrix_mul", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_IntegralZeroFrequencyInvariant", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B6.continuousOn_matrix_mul", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_BesselUnitaryEquivHolds", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B6.continuousOn_matrix_mul", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdjointnessPolynomiallyBounded", "via": ["solution", "statement"]}
@@ -37606,7 +37606,7 @@
 {"parent": "PI.StabSplit.UnipW.key", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerFlagSplitting_NilpotentOrthogonalComplement", "via": ["statement"]}
 {"parent": "PI.StabSplit.UnipW.key", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerFlagSplitting_SubFlag", "via": ["statement"]}
 {"parent": "PI.StabSplit.UnipW.key", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_GBasic", "via": ["statement"]}
-{"parent": "Arxiv1506_04764.eq23_eq24_short_baseline", "child": "Arxiv1506_04764_Basic", "via": ["statement"]}
+{"parent": "Arxiv1506_04764.eq23_eq24_short_baseline", "child": "Arxiv1506_04764_Basic", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.theorem51_sharp_transfer_gap_global_cancellation", "child": "TaoFivePrimes_TypeISlabSums", "via": ["statement"]}
 {"parent": "TaoFivePrimes.constant_certificate", "child": "TaoFivePrimes_mertens_cert_511_tables", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.HW.tensHW", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_HighestWeights_PieriRules_LowComp", "via": ["solution", "statement"]}

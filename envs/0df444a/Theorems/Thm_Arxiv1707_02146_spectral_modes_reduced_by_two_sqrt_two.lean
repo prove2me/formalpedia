@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1707_02146_spectral_modes_reduced_by_two_sqrt_two
 -- name    : Arxiv1707_02146.spectral_modes_reduced_by_two_sqrt_two
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T00:35:29.067953+00:00
 -- url     : https://prove2.me/theorems/7ff55d90-6fba-489f-8dad-c2883f719443

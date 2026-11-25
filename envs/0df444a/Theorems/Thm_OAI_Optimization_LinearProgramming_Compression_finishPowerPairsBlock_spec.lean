@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_finishPowerPairsBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.finishPowerPairsBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:45:18.488805+00:00
 -- url     : https://prove2.me/theorems/a26a41d6-b782-54ae-a0c7-962edabf66f8

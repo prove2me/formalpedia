@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_validRun_iff_steps
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.validRun_iff_steps
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:49.410998+00:00
 -- url     : https://prove2.me/theorems/56c8a3c2-40a7-4b18-a564-863f378389e8

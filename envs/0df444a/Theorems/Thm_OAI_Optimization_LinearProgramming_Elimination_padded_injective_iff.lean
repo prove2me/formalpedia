@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_padded_injective_iff
 -- name    : OAI.Optimization.LinearProgramming.Elimination.padded_injective_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:54:54.251382+00:00
 -- url     : https://prove2.me/theorems/2f36d614-a361-5a9b-a931-e7c03d404fd2

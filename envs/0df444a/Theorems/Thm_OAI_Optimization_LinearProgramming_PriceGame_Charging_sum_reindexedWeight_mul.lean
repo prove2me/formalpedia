@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_sum_reindexedWeight_mul
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.sum_reindexedWeight_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:52.293824+00:00
 -- url     : https://prove2.me/theorems/d0f7b85a-3eb6-48a0-913a-d9a2363ef451

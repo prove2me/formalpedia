@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_visitedBasis_spec
 -- name    : OAI.Optimization.LinearProgramming.Elimination.visitedBasis_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:59:31.812499+00:00
 -- url     : https://prove2.me/theorems/8e655501-1f63-4961-92d2-0d588d604eff

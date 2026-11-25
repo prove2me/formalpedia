@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_RAM_Call_callHeader_correct
 -- name    : OAI.Optimization.LinearProgramming.RAM.Call.callHeader_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:26.110907+00:00
 -- url     : https://prove2.me/theorems/5870b1f9-00af-429e-9fa1-f72c25c2eb59

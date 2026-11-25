@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliMatrix_IsAnticommuting_linearIndependent
 -- name    : PauliMatrix.IsAnticommuting.linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T01:16:40.476738+00:00
 -- url     : https://prove2.me/theorems/3a28548a-90c9-438a-97a6-7524c9e78913

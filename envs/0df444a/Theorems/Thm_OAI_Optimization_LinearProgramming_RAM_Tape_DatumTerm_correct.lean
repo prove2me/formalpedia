@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_RAM_Tape_DatumTerm_correct
 -- name    : OAI.Optimization.LinearProgramming.RAM.Tape.DatumTerm.correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:21.380725+00:00
 -- url     : https://prove2.me/theorems/751b95a9-bcba-4f79-ba9d-9d096ad69987

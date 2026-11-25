@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2111_09089_gaussian_pade_example
 -- name    : Arxiv2111_09089.gaussian_pade_example
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T10:25:48.937831+00:00
 -- url     : https://prove2.me/theorems/24384091-6297-5b77-b228-324e9a71afac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_smallCacheRawTapes_fromStable
 -- name    : OAI.Optimization.LinearProgramming.Compression.smallCacheRawTapes_fromStable
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:33.851777+00:00
 -- url     : https://prove2.me/theorems/8aff9de8-0bb9-4ef3-a34b-b4dd7d42e5cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliMatrix_IsAnticommuting_card_le_three
 -- name    : PauliMatrix.IsAnticommuting.card_le_three
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T01:18:35.934273+00:00
 -- url     : https://prove2.me/theorems/cb14289b-4023-486d-8ea9-49fa95fbeef1

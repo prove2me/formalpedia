@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ManyServerQED.Scheduling.feedback_stopped_primitives_restart
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Jie Luo
 -- created : 2026-11-25T19:00:24.93048+00:00
 -- url     : https://prove2.me/submissions/eabc2c05-cc9c-4c8b-ac94-2d39db9d4492
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ManyServerQED_Scheduling_primitive_suffix_at_deterministic_cuts
 import Theorems.Thm_ManyServerQED_Scheduling_stopped_product_law_of_countable_cuts

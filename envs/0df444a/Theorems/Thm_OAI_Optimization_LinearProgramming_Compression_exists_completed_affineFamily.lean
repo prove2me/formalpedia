@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_exists_completed_affineFamily
 -- name    : OAI.Optimization.LinearProgramming.Compression.exists_completed_affineFamily
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:42.053824+00:00
 -- url     : https://prove2.me/theorems/2c56f839-ee13-5b87-9fd7-3d4a6a78d690

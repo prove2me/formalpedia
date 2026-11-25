@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PrimalDual_jointInput_totalBits
 -- name    : OAI.Optimization.LinearProgramming.PrimalDual.jointInput_totalBits
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:06:58.613199+00:00
 -- url     : https://prove2.me/theorems/c577ed1e-5617-4b34-8762-47c90acf00bd

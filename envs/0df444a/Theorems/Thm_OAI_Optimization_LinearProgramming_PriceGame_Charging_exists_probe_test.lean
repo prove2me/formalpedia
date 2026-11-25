@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_exists_probe_test
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.exists_probe_test
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:16.149664+00:00
 -- url     : https://prove2.me/theorems/3cb6fabf-7e06-4add-9823-c9f8b23c25f9

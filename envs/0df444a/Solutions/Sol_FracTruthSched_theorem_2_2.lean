@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for FracTruthSched.theorem_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @jdenwood
 -- created : 2026-11-24T21:38:39.411328+00:00
 -- url     : https://prove2.me/submissions/02843b3e-4987-4333-b4ee-06cdce7c7a04
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_FracTruthSched_Nonneg

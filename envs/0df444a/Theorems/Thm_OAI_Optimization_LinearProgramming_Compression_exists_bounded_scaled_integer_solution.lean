@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_exists_bounded_scaled_integer_solution
 -- name    : OAI.Optimization.LinearProgramming.Compression.exists_bounded_scaled_integer_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:20.45288+00:00
 -- url     : https://prove2.me/theorems/ef13fbff-f6ff-57f5-af65-01e2cd59cadf

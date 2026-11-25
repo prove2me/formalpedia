@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2012_05254_closure_phase_shift_invariant
 -- name    : Arxiv2012_05254.closure_phase_shift_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T03:42:40.073902+00:00
 -- url     : https://prove2.me/theorems/7d131cb5-362d-43d4-a1a0-a6d9e85384ea

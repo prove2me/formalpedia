@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1503_02159_reflection_coefficient_from_psi
 -- name    : Arxiv1503_02159.reflection_coefficient_from_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T12:48:39.456549+00:00
 -- url     : https://prove2.me/theorems/e3a1ccea-2cf9-47e0-a968-0b7a37faaa13

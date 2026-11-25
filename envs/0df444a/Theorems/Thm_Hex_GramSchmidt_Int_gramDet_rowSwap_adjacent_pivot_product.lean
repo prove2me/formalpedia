@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_gramDet_rowSwap_adjacent_pivot_product
 -- name    : Hex.GramSchmidt.Int.gramDet_rowSwap_adjacent_pivot_product
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:43:49.507999+00:00
 -- url     : https://prove2.me/theorems/0c98b61c-93ea-4ce0-b18f-f89a69209651

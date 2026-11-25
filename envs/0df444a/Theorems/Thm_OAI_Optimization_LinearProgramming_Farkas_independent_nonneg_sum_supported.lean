@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Farkas_independent_nonneg_sum_supported
 -- name    : OAI.Optimization.LinearProgramming.Farkas.independent_nonneg_sum_supported
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:18.702874+00:00
 -- url     : https://prove2.me/theorems/2a26ee99-3241-4f77-8e3d-91501d2c16fd

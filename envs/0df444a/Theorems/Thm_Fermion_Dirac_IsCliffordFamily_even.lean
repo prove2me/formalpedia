@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fermion_Dirac_IsCliffordFamily_even
 -- name    : Fermion.Dirac.IsCliffordFamily.even
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T01:21:05.245363+00:00
 -- url     : https://prove2.me/theorems/0cd37bfb-9a40-473e-abe2-bd005faed60d

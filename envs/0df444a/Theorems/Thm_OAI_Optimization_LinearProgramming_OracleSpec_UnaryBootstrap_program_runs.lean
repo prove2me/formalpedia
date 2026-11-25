@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_OracleSpec_UnaryBootstrap_program_runs
 -- name    : OAI.Optimization.LinearProgramming.OracleSpec.UnaryBootstrap.program_runs
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:00:16.819238+00:00
 -- url     : https://prove2.me/theorems/50707f77-e97a-4ad4-9892-ee6d8ccf1fec

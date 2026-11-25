@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2003_13288_inverse_transmittance_slope
 -- name    : Arxiv2003_13288.inverse_transmittance_slope
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:07:55.044179+00:00
 -- url     : https://prove2.me/theorems/d92ff0cf-2964-4a97-a44f-ef1b77e836ca

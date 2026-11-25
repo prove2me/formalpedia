@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_all_successful_requests_extend
 -- name    : OAI.Optimization.LinearProgramming.Compression.all_successful_requests_extend
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:55.04183+00:00
 -- url     : https://prove2.me/theorems/49ad6dfb-5498-4922-844d-e41f7bd5602b

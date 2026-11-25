@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_clearFlags_spec
 -- name    : OAI.Optimization.LinearProgramming.Elimination.clearFlags_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:54:59.222298+00:00
 -- url     : https://prove2.me/theorems/a924fa23-26b8-5b93-9222-efed335562d3

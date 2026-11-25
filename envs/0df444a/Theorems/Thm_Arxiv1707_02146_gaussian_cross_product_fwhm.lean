@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1707_02146_gaussian_cross_product_fwhm
 -- name    : Arxiv1707_02146.gaussian_cross_product_fwhm
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T00:31:54.518892+00:00
 -- url     : https://prove2.me/theorems/75e06b10-5e3d-44df-a522-5a58e21c8f58

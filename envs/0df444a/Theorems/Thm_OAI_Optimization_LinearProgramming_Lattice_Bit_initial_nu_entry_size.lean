@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_Bit_initial_nu_entry_size
 -- name    : OAI.Optimization.LinearProgramming.Lattice.Bit.initial_nu_entry_size
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:59:28.224603+00:00
 -- url     : https://prove2.me/theorems/2b15177e-f712-5acf-8635-762db5070420

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_native_gram_length_bounds
 -- name    : OAI.Optimization.LinearProgramming.Lattice.native_gram_length_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:51:22.69295+00:00
 -- url     : https://prove2.me/theorems/20df1ea2-bbb5-50c9-8b91-a9ad329591c1

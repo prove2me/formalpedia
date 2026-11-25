@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_TrialExecution_runSchedule_reaches_iff
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.TrialExecution.runSchedule_reaches_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:02:59.912344+00:00
 -- url     : https://prove2.me/theorems/b61175eb-0720-57b6-b33a-f7be6578b8d3

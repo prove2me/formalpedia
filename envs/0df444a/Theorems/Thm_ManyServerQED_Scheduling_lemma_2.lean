@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_lemma_2
 -- name    : ManyServerQED.Scheduling.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:46:53.065983+00:00
 -- url     : https://prove2.me/theorems/9d4f959a-9f3b-40ee-acf1-a633abda2acd

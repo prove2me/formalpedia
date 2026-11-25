@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_low_surplus_expected_gain
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.low_surplus_expected_gain
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:01.173211+00:00
 -- url     : https://prove2.me/theorems/682f71a1-9299-4299-9281-f5bd3e6cce9c

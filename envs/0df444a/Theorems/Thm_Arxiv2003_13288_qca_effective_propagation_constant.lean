@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2003_13288_qca_effective_propagation_constant
 -- name    : Arxiv2003_13288.qca_effective_propagation_constant
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:06:15.688897+00:00
 -- url     : https://prove2.me/theorems/179cc6df-089b-403a-bd3d-a2c381a58914

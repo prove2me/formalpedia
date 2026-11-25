@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1310_4241_pec_debye_sources_decouple
 -- name    : Arxiv1310_4241.pec_debye_sources_decouple
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:24:58.484001+00:00
 -- url     : https://prove2.me/theorems/d5e93d46-be19-4642-8267-980276c6cdc5

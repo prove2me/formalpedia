@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2012_05254_npc_translation_iff_element_based
 -- name    : Arxiv2012_05254.npc_translation_iff_element_based
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T04:05:58.860368+00:00
 -- url     : https://prove2.me/theorems/875e7ef1-c452-47ab-95ad-cc040bf2db09

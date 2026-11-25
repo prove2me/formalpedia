@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_Inner_transferSession
 -- name    : OAI.Optimization.LinearProgramming.Compression.Inner.transferSession
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:08:25.539128+00:00
 -- url     : https://prove2.me/theorems/6f9b4b0d-7cb2-4f00-b8e7-5154e27d75af

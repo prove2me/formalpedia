@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_native_stored_coefficient
 -- name    : OAI.Optimization.LinearProgramming.Lattice.native_stored_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:39.505986+00:00
 -- url     : https://prove2.me/theorems/07886d35-a110-426b-ba0c-b9452f3b4281

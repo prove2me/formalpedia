@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_child_absoluteSelection
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.child_absoluteSelection
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:07:49.358739+00:00
 -- url     : https://prove2.me/theorems/ac1d18f9-3360-4607-8c41-351ff72c84f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedRounding_lemma_1
 -- name    : CorrelatedRounding.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:36:46.970582+00:00
 -- url     : https://prove2.me/theorems/c97b9ddc-9887-4c39-9566-2da4c18672ff

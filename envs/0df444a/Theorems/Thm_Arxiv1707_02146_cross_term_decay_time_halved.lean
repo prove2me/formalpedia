@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1707_02146_cross_term_decay_time_halved
 -- name    : Arxiv1707_02146.cross_term_decay_time_halved
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T00:25:08.061528+00:00
 -- url     : https://prove2.me/theorems/e8a81bb6-3ac2-46bf-8055-ec3f66dacc2c

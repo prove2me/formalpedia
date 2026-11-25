@@ -1284,7 +1284,7 @@
 {"parent": "Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_IsQuasicoherentOfLocallyIso", "child": "GlobalTheory.QCoh.res_res", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_IsQuasicoherentOfLocallyIso", "child": "GlobalTheory.QCoh.res_self", "via": ["statement"]}
 {"parent": "PositivityTheory.SiegelWeilFormula.KAway.exists_T_field", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_SiegelWeilFormula_AwayActions_DecAlg", "via": ["statement"]}
-{"parent": "Arxiv2412_03183.gain_constraint_prevents_zero", "child": "Arxiv2412_03183_Basic", "via": ["statement"]}
+{"parent": "Arxiv2412_03183.gain_constraint_prevents_zero", "child": "Arxiv2412_03183_Basic", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_HeightProofs_ExistsPtOrdEqAddValuation", "child": "Formalism_SharpRestriction_GenusPolyhedralBounds_RelativeIndexClassSets_ExistsPowSmulMemBall", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_HeightProofs_ExistsPtOrdEqAddValuation", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_AlgebraMapOLInjective", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_HeightProofs_ExistsPtOrdEqAddValuation", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_ValuationResidueLemmas", "via": ["statement"]}
@@ -33602,9 +33602,9 @@
 {"parent": "GlobalTheory.UU.PackageDescent.stalkMap_injective", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_CubeDescendsAlongEtaleIsogeny", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UU.PackageDescent.stalkMap_injective", "child": "Development_AbelianVarietyTheory_Proofs_UniformizationProofs_ExistsDescendThrough", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UU.PackageDescent.stalkMap_injective", "child": "Development_AbelianVarietyTheory_Definitions_Uniformization_PointEqOfSubsingleton", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.kw47_esscher_weight_horizon_bound", "child": "AvramDividend.Classical.dividendStrategy_path_nonneg", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.kw47_esscher_weight_horizon_bound", "child": "Kyprianou.Ch04.kw47_finite_horizon_predictable_weight_bound", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.kw47_esscher_weight_horizon_bound", "child": "AvramDividend.Classical.runningSup_isDividendStrategy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.kw47_esscher_weight_horizon_bound", "child": "AvramDividend.Classical.dividendStrategy_path_nonneg", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_esscher_weight_horizon_bound", "child": "Kyprianou.Ch04.kw47_finite_horizon_predictable_weight_bound", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_esscher_weight_horizon_bound", "child": "AvramDividend.Classical.runningSup_isDividendStrategy", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Statements_ThetaLevelCharacters_MemThetaLevelCharDimZero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Statements_ThetaLevelCharacters_MemThetaLevelCharDimZero", "child": "GlobalTheory.thetaLevelCharBasis_apply", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Statements_ThetaLevelCharacters_MemThetaLevelCharDimZero", "child": "ReciprocityTheory.ChartRestriction.G.I2.DimB.ex_add", "via": ["statement"]}
@@ -34163,7 +34163,7 @@
 {"parent": "GlobalTheory.ArcTransport.IsTransport.equiv", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsMonHomOfMul", "via": ["statement"]}
 {"parent": "GlobalTheory.ArcTransport.IsTransport.equiv", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_GlobalFnsHolds", "via": ["statement"]}
 {"parent": "GlobalTheory.ArcTransport.IsTransport.equiv", "child": "Development_AbelianVarietyTheory_Proofs_ThetaShiftProofs_ExistsCommonField", "via": ["statement"]}
-{"parent": "Poly1305Debian.internalOk_poly1305_blocks", "child": "Poly1305Debian_Spec", "via": ["statement"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_blocks", "child": "Poly1305Debian_Spec", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TensorLat.nsmul_apply_mem_of_mem_tensorLat", "child": "Development_AbelianVarietyTheory_Proofs_CuspFormEvaluations_NsmulApplyMemOfMemTensorLat", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TensorLat.nsmul_apply_mem_of_mem_tensorLat", "child": "Development_AbelianVarietyTheory_Proofs_CuspFormEvaluations_IsLocalizedModuleSubtype", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TensorLat.nsmul_apply_mem_of_mem_tensorLat", "child": "Development_AbelianVarietyTheory_Definitions_ThetaValues_FlatMemLatIffStdLat", "via": ["solution", "statement"]}
@@ -39801,7 +39801,7 @@
 {"parent": "SourceProof_82c6a8d7f62bdd2579a434fc", "child": "SourceProof_6a141fa6412d14db4fc15aeb", "via": ["statement"]}
 {"parent": "SourceProof_82c6a8d7f62bdd2579a434fc", "child": "SourceProof_84e43ea7d3e275425e367f8b", "via": ["statement"]}
 {"parent": "SourceProof_82c6a8d7f62bdd2579a434fc", "child": "StochLean_Probability_Process_Measurability_Optional_F000", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.kw47_predictable_martingale_increment_zero", "child": "AvramDividend.Classical.avram_gb49_predictable_real_condExp_cross_zero", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.kw47_predictable_martingale_increment_zero", "child": "AvramDividend.Classical.avram_gb49_predictable_real_condExp_cross_zero", "via": ["solution", "statement"]}
 {"parent": "OAILP_QF_BitStackAdder", "child": "OAILP_QF_BitStackUnary", "via": ["statement"]}
 {"parent": "OAILP_QF_BitStackAdder", "child": "OAILP_QF_BitStackBinaryBasics", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_PadicPlaceBasisOfIdempotentStatement", "child": "ReciprocityTheory_DualLattices_LinPairStatement", "via": ["statement"]}
@@ -57504,7 +57504,7 @@
 {"parent": "GlobalTheory.Cmp.WachMonoidal.isTensorLat_ofBijective", "child": "Development_AbelianVarietyTheory_BlockTheory_NonGaloisCusps_CrystallineSubrepresentation", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Cmp.WachMonoidal.isTensorLat_ofBijective", "child": "Development_AbelianVarietyTheory_BlockTheory_NonGaloisCusps_UnitDualParts", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Cmp.WachMonoidal.isTensorLat_ofBijective", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_UnitSumTensorDualOfWachMonoidal", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.exercise46QueueLaplaceExponentV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46QueueLaplaceExponentV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "DetDLP.m89_s1_count_oracle", "child": "DetDLP_M89_S1_Queries", "via": ["solution", "statement"]}
 {"parent": "OAILP_Compression_PublicTransport", "child": "OAILP_Compression_ServiceHistory", "via": ["statement"]}
 {"parent": "OAILP_Compression_PublicTransport", "child": "OAILP_Compression_RequestIndex", "via": ["statement"]}

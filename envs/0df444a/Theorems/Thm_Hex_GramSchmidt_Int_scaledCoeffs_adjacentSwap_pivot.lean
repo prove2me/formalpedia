@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_scaledCoeffs_adjacentSwap_pivot
 -- name    : Hex.GramSchmidt.Int.scaledCoeffs_adjacentSwap_pivot
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:42:36.979224+00:00
 -- url     : https://prove2.me/theorems/5f3efcba-4356-5dab-91d9-a43f6774a7d1

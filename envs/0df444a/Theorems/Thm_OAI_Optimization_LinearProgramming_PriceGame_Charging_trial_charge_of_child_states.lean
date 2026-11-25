@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_trial_charge_of_child_states
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.trial_charge_of_child_states
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:06:35.747967+00:00
 -- url     : https://prove2.me/theorems/740f682c-b95b-5ba7-afd7-39368b806651

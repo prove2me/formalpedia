@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1912_10252_steady_state_reciprocity_iff_not_diode
 -- name    : Arxiv1912_10252.steady_state_reciprocity_iff_not_diode
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T07:28:50.63149+00:00
 -- url     : https://prove2.me/theorems/460f4289-92bb-4460-a5d9-38c42417022f

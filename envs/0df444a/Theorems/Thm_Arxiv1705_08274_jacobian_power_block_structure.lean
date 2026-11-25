@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1705_08274_jacobian_power_block_structure
 -- name    : Arxiv1705_08274.jacobian_power_block_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T02:07:10.632336+00:00
 -- url     : https://prove2.me/theorems/a16753e0-ad9d-4a09-97b7-2eb3f33dd884

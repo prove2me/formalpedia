@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_lllNative_isLLLReduced
 -- name    : Hex.lllNative_isLLLReduced
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:49:50.535473+00:00
 -- url     : https://prove2.me/theorems/e436e148-a869-48e9-bd8d-d2d53c9ee235

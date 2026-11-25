@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_States_Possible_probeTest_of_feedbackAll
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.States.Possible.probeTest_of_feedbackAll
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:50.931992+00:00
 -- url     : https://prove2.me/theorems/8977aeab-3e60-52db-afae-0d4dc4264ba1

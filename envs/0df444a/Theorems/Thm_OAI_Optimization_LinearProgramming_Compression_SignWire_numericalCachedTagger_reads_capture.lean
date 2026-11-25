@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_numericalCachedTagger_reads_capture
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.numericalCachedTagger_reads_capture
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:49:46.128248+00:00
 -- url     : https://prove2.me/theorems/134b6a7f-934c-4738-ad30-d337d55bcc24

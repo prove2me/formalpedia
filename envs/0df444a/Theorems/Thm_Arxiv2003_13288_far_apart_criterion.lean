@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2003_13288_far_apart_criterion
 -- name    : Arxiv2003_13288.far_apart_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T08:46:04.631799+00:00
 -- url     : https://prove2.me/theorems/231a775f-d65e-4853-8f67-8643cb82ed79

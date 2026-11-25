@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_RAM_Tape_DatumTerm_cost_le
 -- name    : OAI.Optimization.LinearProgramming.RAM.Tape.DatumTerm.cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:30.3928+00:00
 -- url     : https://prove2.me/theorems/ec1a9ad8-f924-42bd-9c65-35c6a3491f7c

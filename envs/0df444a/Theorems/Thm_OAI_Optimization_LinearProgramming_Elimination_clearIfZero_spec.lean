@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_clearIfZero_spec
 -- name    : OAI.Optimization.LinearProgramming.Elimination.clearIfZero_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:16.744811+00:00
 -- url     : https://prove2.me/theorems/482c562c-b4e2-42bb-8dbb-308637c12b01

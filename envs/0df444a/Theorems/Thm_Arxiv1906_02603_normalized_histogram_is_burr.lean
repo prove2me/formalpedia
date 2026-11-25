@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1906_02603_normalized_histogram_is_burr
 -- name    : Arxiv1906_02603.normalized_histogram_is_burr
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T06:42:54.490068+00:00
 -- url     : https://prove2.me/theorems/c7209724-6fa5-430f-bef7-c07f4c889046

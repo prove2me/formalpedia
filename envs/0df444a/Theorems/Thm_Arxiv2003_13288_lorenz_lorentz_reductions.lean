@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2003_13288_lorenz_lorentz_reductions
 -- name    : Arxiv2003_13288.lorenz_lorentz_reductions
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:00:50.342751+00:00
 -- url     : https://prove2.me/theorems/621f0ce6-20e1-43ae-aa5f-b1734406ab14

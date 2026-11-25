@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_exists_integer_projection_system
 -- name    : OAI.Optimization.LinearProgramming.Compression.exists_integer_projection_system
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:40.719252+00:00
 -- url     : https://prove2.me/theorems/50806e33-85b6-440f-a0ca-22b8fa5fefa5

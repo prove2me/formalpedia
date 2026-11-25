@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1705_08274_single_node_response_symmetric
 -- name    : Arxiv1705_08274.single_node_response_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T02:11:59.658831+00:00
 -- url     : https://prove2.me/theorems/1e7ca061-2418-5400-86a7-feb88a6d1a12

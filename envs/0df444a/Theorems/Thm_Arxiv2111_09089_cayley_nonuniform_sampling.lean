@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2111_09089_cayley_nonuniform_sampling
 -- name    : Arxiv2111_09089.cayley_nonuniform_sampling
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T10:31:25.13119+00:00
 -- url     : https://prove2.me/theorems/0a2395be-fafe-5fff-b41c-257df9da3bfa

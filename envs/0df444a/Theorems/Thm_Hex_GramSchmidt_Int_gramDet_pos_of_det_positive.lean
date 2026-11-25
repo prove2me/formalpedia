@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_gramDet_pos_of_det_positive
 -- name    : Hex.GramSchmidt.Int.gramDet_pos_of_det_positive
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:22.205569+00:00
 -- url     : https://prove2.me/theorems/2bc97cb2-f856-4165-9dcd-7e5781d33139

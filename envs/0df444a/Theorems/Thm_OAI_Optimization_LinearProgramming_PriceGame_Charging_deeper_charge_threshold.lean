@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_Charging_deeper_charge_threshold
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.Charging.deeper_charge_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:02:45.906241+00:00
 -- url     : https://prove2.me/theorems/189edf84-ce9c-5a00-8a79-8bfce65475aa

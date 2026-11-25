@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_augmented_recovery
 -- name    : OAI.Optimization.LinearProgramming.Elimination.augmented_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:18.958802+00:00
 -- url     : https://prove2.me/theorems/d1c276d7-446a-458a-9316-972280d10040

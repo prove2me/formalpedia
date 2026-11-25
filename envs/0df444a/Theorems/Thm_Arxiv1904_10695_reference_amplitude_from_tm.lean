@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1904_10695_reference_amplitude_from_tm
 -- name    : Arxiv1904_10695.reference_amplitude_from_tm
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T06:36:12.904362+00:00
 -- url     : https://prove2.me/theorems/8e898505-1866-44d1-b3f8-b861f9e70989

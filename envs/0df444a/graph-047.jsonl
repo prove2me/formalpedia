@@ -19212,7 +19212,7 @@
 {"parent": "Formalism.LT.QuasiLogShift_valid", "child": "Formalism_TorsionNormIteration_InverseIntegralClasses_NormNatCastOfNotDvd", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.SG.Pf.discriminantNormShapes.ent_top", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_CokernelGLCounts_RankPointCounts_DualFamilyCounting_EntOfMapEqZero", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.SG.Pf.discriminantNormShapes.ent_top", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsLocalData", "via": ["solution", "statement"]}
-{"parent": "Arxiv2201_05558.zero_offset_coefficients_revisited", "child": "Arxiv2201_05558_Basic", "via": ["statement"]}
+{"parent": "Arxiv2201_05558.zero_offset_coefficients_revisited", "child": "Arxiv2201_05558_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.limit_A", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ShiftBound", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.limit_A", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Markov", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.limit_A", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_WeightedL2BoundedMul", "via": ["solution", "statement"]}
@@ -46428,7 +46428,7 @@
 {"parent": "GlobalTheory.AnDim.point_dimension_lt_projective_line", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_IsClosedOfIsAnalyticSubset", "via": ["statement"]}
 {"parent": "GlobalTheory.isAEOrbitSection_sign_Ici", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_ExistsIsFundamentalDomainAndQuotMeasureEq", "via": ["statement"]}
 {"parent": "SourceProof_c76249a292da67937efb1fa8", "child": "StochLean_ForMathlib_MeasureTheory_PointAtomicDecomposition_F002", "via": ["statement"]}
-{"parent": "Arxiv2205_09423.scattering_matrix_composition", "child": "Arxiv2205_09423_Basic", "via": ["statement"]}
+{"parent": "Arxiv2205_09423.scattering_matrix_composition", "child": "Arxiv2205_09423_Basic", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.M.CompatibleChartOperations.pairDet_smul", "child": "ReciprocityTheory_AnalyticForms_PotentialTheory_ContDiffFubiniStudyRatioCompChart0", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.M.CompatibleChartOperations.pairDet_smul", "child": "ReciprocityTheory_AnalyticForms_PotentialTheory_HomogeneousLiftHolomorphicOnSnd", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LogDerOneProof.logDerOne_holds", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LogDerivLFunctionStrip", "via": ["solution", "statement"]}
@@ -99803,7 +99803,7 @@
 {"parent": "GlobalTheory.FibreDeriv.jet_add", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FibreDeriv.jet_add", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HeckeKer", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FibreDeriv.jet_add", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_FlagBasis", "via": ["solution", "statement"]}
-{"parent": "Arxiv2412_03183.extended_functions_on_diagonal", "child": "Arxiv2412_03183_Basic", "via": ["statement"]}
+{"parent": "Arxiv2412_03183.extended_functions_on_diagonal", "child": "Arxiv2412_03183_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Diag.exists_isPullback", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_LocallyOfFinitePresentationDiagMap", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Diag.exists_isPullback", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_LinCombTrivG", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Diag.exists_isPullback", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SemiabelianSchemes_PrecompleteBases_Torus2GammaBijective", "via": ["solution", "statement"]}

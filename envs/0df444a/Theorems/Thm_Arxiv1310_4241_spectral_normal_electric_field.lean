@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1310_4241_spectral_normal_electric_field
 -- name    : Arxiv1310_4241.spectral_normal_electric_field
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:22:36.726366+00:00
 -- url     : https://prove2.me/theorems/0a7e6d84-fafe-440c-99e5-9919df877159

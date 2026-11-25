@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_map_requestIndexEmbedding
 -- name    : OAI.Optimization.LinearProgramming.Compression.map_requestIndexEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:48.956872+00:00
 -- url     : https://prove2.me/theorems/dca5c0a2-82f6-4019-ae89-03dff7de0d27

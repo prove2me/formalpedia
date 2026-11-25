@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2003_13288_static_scatterer_criterion
 -- name    : Arxiv2003_13288.static_scatterer_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T08:50:29.59485+00:00
 -- url     : https://prove2.me/theorems/0a6fb8c5-c287-5298-8ab8-dbad52400e91

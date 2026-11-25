@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_solveTime_bound
 -- name    : OAI.Optimization.LinearProgramming.Elimination.solveTime_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:56:00.31967+00:00
 -- url     : https://prove2.me/theorems/fde6b785-7df6-50f2-9a0e-f687a23537e3

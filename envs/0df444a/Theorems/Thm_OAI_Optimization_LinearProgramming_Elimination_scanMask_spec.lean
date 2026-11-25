@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_scanMask_spec
 -- name    : OAI.Optimization.LinearProgramming.Elimination.scanMask_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:04.518193+00:00
 -- url     : https://prove2.me/theorems/ff41538f-89e2-4573-9bf4-80fb639c204a

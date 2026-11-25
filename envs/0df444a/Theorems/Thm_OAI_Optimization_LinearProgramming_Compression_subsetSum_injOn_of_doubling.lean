@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_subsetSum_injOn_of_doubling
 -- name    : OAI.Optimization.LinearProgramming.Compression.subsetSum_injOn_of_doubling
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:30.126676+00:00
 -- url     : https://prove2.me/theorems/767fe41c-13b2-5d91-9129-9e2e4cd4ae67

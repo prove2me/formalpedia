@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracTruthSched_padding_sequence_exists
 -- name    : FracTruthSched.padding_sequence_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:21:44.819435+00:00
 -- url     : https://prove2.me/theorems/cd8bab61-7693-41bd-9281-d17ca0af1b21

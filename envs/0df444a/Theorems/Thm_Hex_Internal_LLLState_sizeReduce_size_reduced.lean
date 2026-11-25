@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_Internal_LLLState_sizeReduce_size_reduced
 -- name    : Hex.Internal.LLLState.sizeReduce_size_reduced
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:49:04.192866+00:00
 -- url     : https://prove2.me/theorems/f47e4384-3e49-4e4d-b75c-7b559c76221d

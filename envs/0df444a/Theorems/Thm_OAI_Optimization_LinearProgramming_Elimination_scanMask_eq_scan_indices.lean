@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_scanMask_eq_scan_indices
 -- name    : OAI.Optimization.LinearProgramming.Elimination.scanMask_eq_scan_indices
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:23.319709+00:00
 -- url     : https://prove2.me/theorems/b20e24fe-cf24-4d75-b566-b836a3756659

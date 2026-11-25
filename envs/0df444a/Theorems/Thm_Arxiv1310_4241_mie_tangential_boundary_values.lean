@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1310_4241_mie_tangential_boundary_values
 -- name    : Arxiv1310_4241.mie_tangential_boundary_values
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:23:13.38494+00:00
 -- url     : https://prove2.me/theorems/e4608728-4b0e-4dc6-8274-b22b371ad9c3

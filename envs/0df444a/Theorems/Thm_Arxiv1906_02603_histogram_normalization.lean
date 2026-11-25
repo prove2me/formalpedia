@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1906_02603_histogram_normalization
 -- name    : Arxiv1906_02603.histogram_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T06:42:11.843428+00:00
 -- url     : https://prove2.me/theorems/ac5ee041-2fa7-4404-9475-1ab19992752c

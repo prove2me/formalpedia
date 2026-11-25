@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PrimalDual_Header_ray_header
 -- name    : OAI.Optimization.LinearProgramming.PrimalDual.Header.ray_header
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:39.616966+00:00
 -- url     : https://prove2.me/theorems/5db3f14d-1daa-562d-9910-274189d3ff38

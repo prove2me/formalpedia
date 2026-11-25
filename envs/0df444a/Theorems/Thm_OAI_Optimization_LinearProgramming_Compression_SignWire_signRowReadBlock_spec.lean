@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_signRowReadBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.signRowReadBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:02.265031+00:00
 -- url     : https://prove2.me/theorems/d0b3f7e1-5ceb-5293-b774-079405ad6d33

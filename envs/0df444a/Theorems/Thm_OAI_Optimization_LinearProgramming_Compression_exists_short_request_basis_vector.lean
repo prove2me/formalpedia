@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_exists_short_request_basis_vector
 -- name    : OAI.Optimization.LinearProgramming.Compression.exists_short_request_basis_vector
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:30.765933+00:00
 -- url     : https://prove2.me/theorems/e4dde589-9393-5825-8470-a8a34be47a46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1310_4241_two_layer_system_low_frequency_decoupling
 -- name    : Arxiv1310_4241.two_layer_system_low_frequency_decoupling
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:26:41.366399+00:00
 -- url     : https://prove2.me/theorems/999c2ead-825a-46fa-aaaf-c807e460dbd9

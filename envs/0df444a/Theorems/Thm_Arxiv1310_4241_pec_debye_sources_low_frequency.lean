@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1310_4241_pec_debye_sources_low_frequency
 -- name    : Arxiv1310_4241.pec_debye_sources_low_frequency
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:25:22.726528+00:00
 -- url     : https://prove2.me/theorems/7ed72161-82a4-4ef5-b908-d6b228d4d7b6

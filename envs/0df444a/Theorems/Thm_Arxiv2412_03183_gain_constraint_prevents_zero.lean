@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2412_03183_gain_constraint_prevents_zero
 -- name    : Arxiv2412_03183.gain_constraint_prevents_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T13:51:52.211624+00:00
 -- url     : https://prove2.me/theorems/cff66fb9-b0ca-4892-a81e-c9aaf71347af

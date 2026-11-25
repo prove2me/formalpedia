@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1506_04764_eq13_linearised_distance
 -- name    : Arxiv1506_04764.eq13_linearised_distance
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T14:22:13.882614+00:00
 -- url     : https://prove2.me/theorems/d81696e6-36e3-4504-8bc1-e1dac5c96795

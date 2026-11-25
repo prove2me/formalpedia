@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_OracleSpec_paddedPriceProgram_correct
 -- name    : OAI.Optimization.LinearProgramming.OracleSpec.paddedPriceProgram_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:59:22.258715+00:00
 -- url     : https://prove2.me/theorems/c9a6f4cf-f989-5c84-95dd-331e5b13f975

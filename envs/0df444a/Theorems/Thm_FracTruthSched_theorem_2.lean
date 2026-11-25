@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracTruthSched_theorem_2
 -- name    : FracTruthSched.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:30:48.928644+00:00
 -- url     : https://prove2.me/theorems/cb345fff-1874-4b1a-84d8-32414fbb4fbf

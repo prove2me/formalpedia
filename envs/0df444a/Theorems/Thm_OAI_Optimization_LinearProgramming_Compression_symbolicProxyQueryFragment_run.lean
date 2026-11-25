@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_symbolicProxyQueryFragment_run
 -- name    : OAI.Optimization.LinearProgramming.Compression.symbolicProxyQueryFragment_run
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:44.377559+00:00
 -- url     : https://prove2.me/theorems/5d0d8603-4779-4562-9342-ccb48fbed4f4

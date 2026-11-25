@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_minorServiceInit_call
 -- name    : OAI.Optimization.LinearProgramming.Compression.minorServiceInit_call
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:43.324951+00:00
 -- url     : https://prove2.me/theorems/c082e788-4a56-53cf-8784-160446f3791f

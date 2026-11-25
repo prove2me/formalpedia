@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_scaledCoeffMatrix_det_eq_zero_of_singularStep_lt
 -- name    : Hex.GramSchmidt.Int.scaledCoeffMatrix_det_eq_zero_of_singularStep_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:43:57.247919+00:00
 -- url     : https://prove2.me/theorems/7308bfbe-4bc9-427b-9265-2b8b4475d888

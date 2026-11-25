@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2105_07250_collinear_receivers_same_frequency
 -- name    : Arxiv2105_07250.collinear_receivers_same_frequency
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:29:34.926058+00:00
 -- url     : https://prove2.me/theorems/255226e1-1172-4b6f-a9f2-851741fe1fec

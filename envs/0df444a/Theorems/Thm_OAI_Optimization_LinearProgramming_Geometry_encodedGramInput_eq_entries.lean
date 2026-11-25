@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Geometry_encodedGramInput_eq_entries
 -- name    : OAI.Optimization.LinearProgramming.Geometry.encodedGramInput_eq_entries
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:38.726802+00:00
 -- url     : https://prove2.me/theorems/5a643dc6-4469-4619-a657-067a58e36c55

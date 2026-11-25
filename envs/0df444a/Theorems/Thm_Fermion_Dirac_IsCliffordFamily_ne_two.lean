@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fermion_Dirac_IsCliffordFamily_ne_two
 -- name    : Fermion.Dirac.IsCliffordFamily.ne_two
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T01:23:59.170996+00:00
 -- url     : https://prove2.me/theorems/f6ae014d-7e4f-496d-88d5-c8d592aae652

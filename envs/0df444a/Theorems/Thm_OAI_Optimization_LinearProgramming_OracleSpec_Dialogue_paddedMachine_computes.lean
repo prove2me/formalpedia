@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_OracleSpec_Dialogue_paddedMachine_computes
 -- name    : OAI.Optimization.LinearProgramming.OracleSpec.Dialogue.paddedMachine_computes
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:02:52.519105+00:00
 -- url     : https://prove2.me/theorems/dddd1a24-4122-4d4f-9cbc-a901eccd3cb7

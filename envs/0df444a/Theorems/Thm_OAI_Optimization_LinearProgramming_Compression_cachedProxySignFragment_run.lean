@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_cachedProxySignFragment_run
 -- name    : OAI.Optimization.LinearProgramming.Compression.cachedProxySignFragment_run
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:37.075437+00:00
 -- url     : https://prove2.me/theorems/3ce705d4-557e-523c-8990-2da77e273197

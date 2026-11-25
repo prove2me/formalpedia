@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2105_07250_emission_time_formula
 -- name    : Arxiv2105_07250.emission_time_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:28:42.161797+00:00
 -- url     : https://prove2.me/theorems/d35ef8d1-bed3-5ed0-8ea6-209abf346ffb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1809_10262_generator_loss_as_regularized_inversion
 -- name    : Arxiv1809_10262.generator_loss_as_regularized_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T14:20:26.489411+00:00
 -- url     : https://prove2.me/theorems/d90b7b71-03dc-4362-929b-53d3fec67427

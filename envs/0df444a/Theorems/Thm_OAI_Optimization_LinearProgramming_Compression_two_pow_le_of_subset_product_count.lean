@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_two_pow_le_of_subset_product_count
 -- name    : OAI.Optimization.LinearProgramming.Compression.two_pow_le_of_subset_product_count
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:34.274804+00:00
 -- url     : https://prove2.me/theorems/1e8477ee-8c5e-49d7-aa8c-09d69f9f4f66

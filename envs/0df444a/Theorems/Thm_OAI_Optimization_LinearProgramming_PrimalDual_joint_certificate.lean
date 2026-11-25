@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PrimalDual_joint_certificate
 -- name    : OAI.Optimization.LinearProgramming.PrimalDual.joint_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:03:11.121437+00:00
 -- url     : https://prove2.me/theorems/91d90e3c-5710-4b89-b058-d13867e4dac6

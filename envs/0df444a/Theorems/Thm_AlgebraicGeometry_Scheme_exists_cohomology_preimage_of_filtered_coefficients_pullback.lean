@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_cohomology_preimage_of_filtered_coefficients_pullback
 -- name    : AlgebraicGeometry.Scheme.exists_cohomology_preimage_of_filtered_coefficients_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-25T08:41:11.96362+00:00
 -- url     : https://prove2.me/theorems/c98791f2-347b-5759-9000-e6f9e8abd4e3

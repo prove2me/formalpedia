@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1310_4241_spectral_magnetic_field
 -- name    : Arxiv1310_4241.spectral_magnetic_field
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:22:08.587307+00:00
 -- url     : https://prove2.me/theorems/5bafdfb5-fc26-4ade-8085-229641338bdf

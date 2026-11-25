@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_rebuildMask_spec
 -- name    : OAI.Optimization.LinearProgramming.Elimination.rebuildMask_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:40.502727+00:00
 -- url     : https://prove2.me/theorems/084ca735-41d1-5f95-81cc-355b7e4b6040

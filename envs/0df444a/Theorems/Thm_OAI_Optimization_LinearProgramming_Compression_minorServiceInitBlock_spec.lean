@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_minorServiceInitBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.minorServiceInitBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:48.841929+00:00
 -- url     : https://prove2.me/theorems/cf8872ed-7021-46ee-8e28-6a190141f519

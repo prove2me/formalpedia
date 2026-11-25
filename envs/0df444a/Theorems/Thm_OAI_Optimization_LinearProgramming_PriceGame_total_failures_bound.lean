@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_PriceGame_total_failures_bound
 -- name    : OAI.Optimization.LinearProgramming.PriceGame.total_failures_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:58:37.8918+00:00
 -- url     : https://prove2.me/theorems/0400d60c-684e-501c-a440-1314ed997f72

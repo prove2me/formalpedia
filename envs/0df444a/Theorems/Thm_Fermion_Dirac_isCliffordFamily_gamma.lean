@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fermion_Dirac_isCliffordFamily_gamma
 -- name    : Fermion.Dirac.isCliffordFamily_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T01:33:39.548056+00:00
 -- url     : https://prove2.me/theorems/04c94dc8-af12-4563-9b50-bd1f21ff28f0

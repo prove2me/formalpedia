@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Geometry_uniformGramInputBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Geometry.uniformGramInputBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:55:26.54183+00:00
 -- url     : https://prove2.me/theorems/842414c5-980e-4f3c-a2dd-9e350668b6a3

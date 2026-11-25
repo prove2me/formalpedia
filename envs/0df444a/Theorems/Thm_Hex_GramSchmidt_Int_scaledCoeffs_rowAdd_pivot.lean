@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_scaledCoeffs_rowAdd_pivot
 -- name    : Hex.GramSchmidt.Int.scaledCoeffs_rowAdd_pivot
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:46:06.826555+00:00
 -- url     : https://prove2.me/theorems/85dc0860-5fd0-49be-9810-9047916c0bf5

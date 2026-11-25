@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Elimination_uniformSolveProgram_noRows
 -- name    : OAI.Optimization.LinearProgramming.Elimination.uniformSolveProgram_noRows
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T19:06:01.42404+00:00
 -- url     : https://prove2.me/theorems/f61a62a6-558b-4075-81d5-801dcdbfe64c

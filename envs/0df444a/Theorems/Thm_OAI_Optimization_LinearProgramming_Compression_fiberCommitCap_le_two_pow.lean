@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_fiberCommitCap_le_two_pow
 -- name    : OAI.Optimization.LinearProgramming.Compression.fiberCommitCap_le_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:52.041081+00:00
 -- url     : https://prove2.me/theorems/66ab183f-b01d-471e-bc3e-e1f82d80409e

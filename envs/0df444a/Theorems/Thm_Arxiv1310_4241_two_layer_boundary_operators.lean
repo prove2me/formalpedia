@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1310_4241_two_layer_boundary_operators
 -- name    : Arxiv1310_4241.two_layer_boundary_operators
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:26:01.770294+00:00
 -- url     : https://prove2.me/theorems/b346b768-306b-4fa4-808a-6e42a43b507a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_mantissaGrid_error
 -- name    : OAI.Optimization.LinearProgramming.Compression.mantissaGrid_error
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:52:38.668825+00:00
 -- url     : https://prove2.me/theorems/1592b9d7-33f5-4f8b-bc14-c728c0dbfde4
