@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1810_02867_ac_system
 -- name    : Arxiv1810_02867.ac_system
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T05:19:11.281799+00:00
 -- url     : https://prove2.me/theorems/baf1ffe7-6f39-49a3-a99d-1cdca22b8162

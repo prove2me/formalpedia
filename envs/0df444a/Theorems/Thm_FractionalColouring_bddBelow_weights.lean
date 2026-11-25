@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FractionalColouring_bddBelow_weights
 -- name    : FractionalColouring.bddBelow_weights
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:29:31.123811+00:00
 -- url     : https://prove2.me/theorems/6efbcf2b-c787-5ba5-abf3-a8c09ce77e6c

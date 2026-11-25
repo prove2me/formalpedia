@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosGirth_exists_girth_indep
 -- name    : ErdosGirth.exists_girth_indep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:29:15.921196+00:00
 -- url     : https://prove2.me/theorems/682ff38d-02f6-518f-9f9f-dcabe49f96f6

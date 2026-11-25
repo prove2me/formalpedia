@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_recipTerm_eq
 -- name    : SmallRatio.recipTerm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:21:19.624908+00:00
 -- url     : https://prove2.me/theorems/2a5a354a-20d7-41f6-8f0e-46bff291e2b4

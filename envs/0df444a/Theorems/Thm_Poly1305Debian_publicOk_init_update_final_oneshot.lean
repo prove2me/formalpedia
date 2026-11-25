@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305Debian_publicOk_init_update_final_oneshot
 -- name    : Poly1305Debian.publicOk_init_update_final_oneshot
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-25T19:38:29.807674+00:00
 -- url     : https://prove2.me/theorems/f1cc6ce5-c1d4-51cb-923f-9a73e146c0cf

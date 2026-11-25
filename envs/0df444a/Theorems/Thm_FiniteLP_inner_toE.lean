@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteLP_inner_toE
 -- name    : FiniteLP.inner_toE
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:27:15.172546+00:00
 -- url     : https://prove2.me/theorems/75b796c9-99b2-4137-bc11-146b20cf4833

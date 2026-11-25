@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosPosa_first_hit
 -- name    : ErdosPosa.first_hit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:29:48.715037+00:00
 -- url     : https://prove2.me/theorems/7129ca32-95c9-5628-9bd4-813a6ab12720

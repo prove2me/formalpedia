@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_y_det
 -- name    : SmallRatio.y_det
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:21:31.495064+00:00
 -- url     : https://prove2.me/theorems/5a0775f8-26fb-5505-a094-a7f238f056b5

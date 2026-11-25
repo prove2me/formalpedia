@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_pairs_coprime
 -- name    : SmallRatio.pairs_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:26:08.765416+00:00
 -- url     : https://prove2.me/theorems/0db29af7-8b92-484b-a948-d5ed87e9cf15

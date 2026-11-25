@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosPosa_exists_isMax023
 -- name    : ErdosPosa.exists_isMax023
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:29:43.10371+00:00
 -- url     : https://prove2.me/theorems/1384b2f8-097a-5150-91a8-cf0720b69218

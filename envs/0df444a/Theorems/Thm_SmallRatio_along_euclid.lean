@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_along_euclid
 -- name    : SmallRatio.along_euclid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:25:31.034933+00:00
 -- url     : https://prove2.me/theorems/e35f66d8-b685-4cde-9d75-0fe6fa9995d2

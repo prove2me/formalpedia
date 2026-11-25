@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosGirth_exists_good_graph
 -- name    : ErdosGirth.exists_good_graph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:28:53.151154+00:00
 -- url     : https://prove2.me/theorems/142550ec-02c6-4da4-a4f4-adbdd060744a

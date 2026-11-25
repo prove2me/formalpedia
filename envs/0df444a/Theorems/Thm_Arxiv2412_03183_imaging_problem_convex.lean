@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2412_03183_imaging_problem_convex
 -- name    : Arxiv2412_03183.imaging_problem_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T13:43:31.012165+00:00
 -- url     : https://prove2.me/theorems/f8f1e614-713a-5f43-bd2d-174e2f9f1d13

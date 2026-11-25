@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteLP_simplicial_cone_isClosed
 -- name    : FiniteLP.simplicial_cone_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:27:08.5216+00:00
 -- url     : https://prove2.me/theorems/63b02c5e-f796-537c-b6ec-af2df1fd6614

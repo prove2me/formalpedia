@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_den_le
 -- name    : SmallRatio.den_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:20:02.256402+00:00
 -- url     : https://prove2.me/theorems/bd463313-5ed3-5145-9927-a84a117d7773

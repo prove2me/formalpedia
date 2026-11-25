@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42LipschitzTruncatedWeightedIntegralLimitV1
 -- name    : Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T21:29:57.06567+00:00
 -- url     : https://prove2.me/theorems/e1668465-a3a2-5f1b-bf58-0c22d37cb1b3

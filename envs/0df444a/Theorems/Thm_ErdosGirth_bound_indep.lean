@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosGirth_bound_indep
 -- name    : ErdosGirth.bound_indep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:28:49.805928+00:00
 -- url     : https://prove2.me/theorems/dd045522-f9ee-5a08-bfba-91c04eaa39a8

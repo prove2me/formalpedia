@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteLP_covering_packing_duality
 -- name    : FiniteLP.covering_packing_duality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:27:28.149829+00:00
 -- url     : https://prove2.me/theorems/0054e3b4-ae5e-4094-a1ed-f74125ce73b4

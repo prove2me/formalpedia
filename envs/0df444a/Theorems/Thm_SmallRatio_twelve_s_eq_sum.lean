@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_twelve_s_eq_sum
 -- name    : SmallRatio.twelve_s_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:21:10.629656+00:00
 -- url     : https://prove2.me/theorems/e1ea16d3-8bef-4b3f-b02d-63b4095a42e9

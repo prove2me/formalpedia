@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_rem_strictAnti
 -- name    : SmallRatio.rem_strictAnti
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:19:35.925825+00:00
 -- url     : https://prove2.me/theorems/93b3b9df-ee0f-5999-be34-ec46998150ee

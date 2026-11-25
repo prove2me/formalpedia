@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2610_39302_subsample_interval_scaling
 -- name    : Arxiv2610_39302.subsample_interval_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T03:08:05.999072+00:00
 -- url     : https://prove2.me/theorems/18559967-5333-4e53-8dd4-55d841ed43cf

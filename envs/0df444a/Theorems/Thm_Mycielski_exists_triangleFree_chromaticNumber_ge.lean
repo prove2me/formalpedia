@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mycielski_exists_triangleFree_chromaticNumber_ge
 -- name    : Mycielski.exists_triangleFree_chromaticNumber_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:26:31.830805+00:00
 -- url     : https://prove2.me/theorems/66960af9-2932-4222-a160-59316c87353d

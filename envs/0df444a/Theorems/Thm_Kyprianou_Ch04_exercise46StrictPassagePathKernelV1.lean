@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46StrictPassagePathKernelV1
 -- name    : Kyprianou.Ch04.exercise46StrictPassagePathKernelV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T21:23:38.411176+00:00
 -- url     : https://prove2.me/theorems/b25f7a37-8666-490c-81a3-3b87ae2aa61c

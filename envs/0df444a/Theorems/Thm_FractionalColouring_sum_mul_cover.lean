@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FractionalColouring_sum_mul_cover
 -- name    : FractionalColouring.sum_mul_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:29:50.659836+00:00
 -- url     : https://prove2.me/theorems/8074e917-9a2e-4cda-8815-a7b3a42d7165

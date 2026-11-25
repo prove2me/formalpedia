@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_coprime_rem_den
 -- name    : SmallRatio.coprime_rem_den
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:22:04.739371+00:00
 -- url     : https://prove2.me/theorems/6348193b-6e11-4db4-8e16-afd9f629fc2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosPosa_support_restr
 -- name    : ErdosPosa.support_restr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:30:04.50301+00:00
 -- url     : https://prove2.me/theorems/ce2af889-e68f-5c0d-b19c-8afc3b6297fb

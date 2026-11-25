@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_rem_div_rem_pos
 -- name    : SmallRatio.rem_div_rem_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:17:48.253397+00:00
 -- url     : https://prove2.me/theorems/cd964b9f-6232-567c-9650-e83c7d4d49da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_steps_le_log
 -- name    : SmallRatio.steps_le_log
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:20:34.856534+00:00
 -- url     : https://prove2.me/theorems/757b8302-e947-4b31-91fd-4a7f8671ec88

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteLP_conic_caratheodory
 -- name    : FiniteLP.conic_caratheodory
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:27:09.467819+00:00
 -- url     : https://prove2.me/theorems/105d4652-3c35-5ba9-9234-63704c4b221b

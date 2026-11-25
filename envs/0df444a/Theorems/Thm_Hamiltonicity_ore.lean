@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hamiltonicity_ore
 -- name    : Hamiltonicity.ore
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:16:52.599815+00:00
 -- url     : https://prove2.me/theorems/8c08ce72-5551-579a-81df-208169ec6f42

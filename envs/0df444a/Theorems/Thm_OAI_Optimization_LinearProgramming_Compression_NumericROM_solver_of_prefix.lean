@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_NumericROM_solver_of_prefix
 -- name    : OAI.Optimization.LinearProgramming.Compression.NumericROM.solver_of_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T20:27:00.847157+00:00
 -- url     : https://prove2.me/theorems/b79c4484-4711-5370-877a-adb811f68902

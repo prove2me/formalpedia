@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosGirth_exists_girth_not_colorable
 -- name    : ErdosGirth.exists_girth_not_colorable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:29:22.873991+00:00
 -- url     : https://prove2.me/theorems/aaedb0e5-11e4-495e-9e4f-1cd60ca9e00d

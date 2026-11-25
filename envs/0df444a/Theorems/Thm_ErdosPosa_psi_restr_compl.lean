@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosPosa_psi_restr_compl
 -- name    : ErdosPosa.psi_restr_compl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:28:05.719985+00:00
 -- url     : https://prove2.me/theorems/96a408ee-8a9a-4ab4-919a-cbf2064c34e0

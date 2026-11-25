@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mycielski_family_chromaticNumber
 -- name    : Mycielski.family_chromaticNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:26:23.784933+00:00
 -- url     : https://prove2.me/theorems/2922020e-093f-4935-b305-0d1f467b65ad

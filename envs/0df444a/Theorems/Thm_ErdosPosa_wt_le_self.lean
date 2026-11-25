@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosPosa_wt_le_self
 -- name    : ErdosPosa.wt_le_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:29:24.164393+00:00
 -- url     : https://prove2.me/theorems/e8fbe45c-c6d3-550c-8d55-a87cc9ced943

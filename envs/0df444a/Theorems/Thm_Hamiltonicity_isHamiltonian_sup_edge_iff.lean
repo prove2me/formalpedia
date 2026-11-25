@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hamiltonicity_isHamiltonian_sup_edge_iff
 -- name    : Hamiltonicity.isHamiltonian_sup_edge_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:16:21.97873+00:00
 -- url     : https://prove2.me/theorems/7a1802f5-b4e8-56a9-83a1-b2a5c49cd672

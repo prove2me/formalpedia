@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosPosa_psi_deleteEdge_of_deg_one
 -- name    : ErdosPosa.psi_deleteEdge_of_deg_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:26:56.704392+00:00
 -- url     : https://prove2.me/theorems/23d6ce11-0bbd-45fd-92df-cbf9b2640cb2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_err_bound
 -- name    : SmallRatio.err_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:21:34.606873+00:00
 -- url     : https://prove2.me/theorems/80ade3c1-0ee5-426d-bf55-d9fb4ccff06c

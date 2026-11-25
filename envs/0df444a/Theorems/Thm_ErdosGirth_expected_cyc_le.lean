@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosGirth_expected_cyc_le
 -- name    : ErdosGirth.expected_cyc_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:28:23.459739+00:00
 -- url     : https://prove2.me/theorems/9fcbb12e-b95d-4ae7-84c5-36ae320ce586

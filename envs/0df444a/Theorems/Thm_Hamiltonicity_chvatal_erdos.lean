@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hamiltonicity_chvatal_erdos
 -- name    : Hamiltonicity.chvatal_erdos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:19:19.979486+00:00
 -- url     : https://prove2.me/theorems/6c89fdb6-d868-47f8-9d02-2b97a0d67890

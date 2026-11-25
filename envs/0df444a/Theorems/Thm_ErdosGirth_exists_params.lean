@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosGirth_exists_params
 -- name    : ErdosGirth.exists_params
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:29:03.763511+00:00
 -- url     : https://prove2.me/theorems/8021a8e1-e5a6-5663-9bb3-d75ababb2e61

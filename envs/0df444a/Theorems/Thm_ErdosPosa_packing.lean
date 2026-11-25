@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosPosa_packing
 -- name    : ErdosPosa.packing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:29:44.790621+00:00
 -- url     : https://prove2.me/theorems/df71e6a9-dbce-4727-ada9-285c2fe3ae9c

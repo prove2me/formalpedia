@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPosa_posa
 -- name    : ChvatalPosa.posa
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:18:04.910439+00:00
 -- url     : https://prove2.me/theorems/4cc09418-7008-52b9-9cfc-029bec222664

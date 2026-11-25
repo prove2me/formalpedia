@@ -87324,7 +87324,7 @@
 {"parent": "Formalism.InvariantFactorPaths.L4.resMMZL", "child": "Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_GramBoundUnconditionalOfSat", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.L4.resMMZL", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_DischargeHeightBound", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.L4.resMMZL", "child": "Formalism_ThetaLogCoordinates_FockResolutionOnto_StatementF", "via": ["solution", "statement"]}
-{"parent": "Arxiv2610_39302.subsample_interval_scaling", "child": "Arxiv2610_39302_Basic", "via": ["statement"]}
+{"parent": "Arxiv2610_39302.subsample_interval_scaling", "child": "Arxiv2610_39302_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.formalChartJetRel_unit_one_on_axes", "child": "Development_AbelianVarietyTheory_Proofs_FormalGroupCharts_FormalChartJetRelUnitOneOnAxesStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.formalChartJetRel_unit_one_on_axes", "child": "Development_AbelianVarietyTheory_Definitions_TwoChartAtlas_AdditionLawSecondIdentity", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.formalChartJetRel_unit_one_on_axes", "child": "Development_AbelianVarietyTheory_Proofs_FormalGroupCharts_FormalChartJetRelUnitOneOnAxes", "via": ["solution", "statement"]}

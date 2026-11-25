@@ -91309,7 +91309,7 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_UniformizationProofs_KTrivExternalTensorPowerLineBundle", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SemiabelianSchemes_PrecompleteBases_PsbLb", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ZeroDimIsolated_proof_233a663b5d93", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StZeroDimIsolated", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ZeroDimIsolated_proof_233a663b5d93", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PZeroDimIsolated", "via": ["statement"]}
-{"parent": "Arxiv2412_03183.imaging_problem_convex", "child": "Arxiv2412_03183_Basic", "via": ["statement"]}
+{"parent": "Arxiv2412_03183.imaging_problem_convex", "child": "Arxiv2412_03183_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_AnalyticLimit_Telescoping_proof_3d108e34d8f5", "child": "GroundTheory_HeightsAndTheta_Heights_AnalyticLimit_Objects", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_AnalyticLimit_Telescoping_proof_3d108e34d8f5", "child": "GroundTheory_HeightsAndTheta_Heights_AnalyticLimit_Telescoping", "via": ["statement"]}
 {"parent": "GlobalTheory.TorusExt.isIota_unique", "child": "Development_AbelianVarietyTheory_Proofs_ThetaShiftProofs_IsNsmulIffEq", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46RandomStrictPassageTransformV1
 -- name    : Kyprianou.Ch04.exercise46RandomStrictPassageTransformV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T21:27:36.887799+00:00
 -- url     : https://prove2.me/theorems/ac0a01a9-49c6-4807-9f13-040bc94349d1

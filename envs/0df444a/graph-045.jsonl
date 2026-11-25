@@ -43243,7 +43243,7 @@
 {"parent": "P2M_ReciprocityTheory_ChartRestriction_G_Geo_stokes_of___71a0598ad90a", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterGood", "via": ["statement"]}
 {"parent": "PI.FJMB.aeval_killS_union", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_PurElim", "via": ["solution", "statement"]}
 {"parent": "PI.FJMB.aeval_killS_union", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_PurInv", "via": ["solution", "statement"]}
-{"parent": "Arxiv1810_02867.ac_system", "child": "Arxiv1810_02867_Basic", "via": ["statement"]}
+{"parent": "Arxiv1810_02867.ac_system", "child": "Arxiv1810_02867_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_AnForm_M_isClosed_of_isAnalyticSubset__ea2fe8163d5c", "child": "ReciprocityTheory_AnalyticForms_PotentialTheory_DegreeSheets", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_AnForm_M_isClosed_of_isAnalyticSubset__ea2fe8163d5c", "child": "ReciprocityTheory_AnalyticForms_PotentialTheory_IntegrableOnTargetOfTsupport", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_AnForm_M_isClosed_of_isAnalyticSubset__ea2fe8163d5c", "child": "ReciprocityTheory_AnalyticForms_PotentialTheory_AnalyticSubsetChartLocal", "via": ["solution", "statement"]}
@@ -44195,7 +44195,7 @@
 {"parent": "PI.EF.PK.rectInt_ker", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExplicitFormula_PerronKernelA", "via": ["solution", "statement"]}
 {"parent": "PI.DvRows.GramDeterminantPositive.gram_cs", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ProjectionRows_MulVecInjectiveOfKer", "via": ["solution", "statement"]}
 {"parent": "PI.DvRows.GramDeterminantPositive.gram_cs", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ProjectionRows_Pieces", "via": ["solution", "statement"]}
-{"parent": "Arxiv1810_02867.one_dimensional_solutions", "child": "Arxiv1810_02867_Basic", "via": ["statement"]}
+{"parent": "Arxiv1810_02867.one_dimensional_solutions", "child": "Arxiv1810_02867_Basic", "via": ["solution", "statement"]}
 {"parent": "PI.EF.PK.kernel_le_kb", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExplicitFormula_GoodHeightExists", "via": ["solution", "statement"]}
 {"parent": "PI.EF.PK.kernel_le_kb", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExplicitFormula_PerronTruncOf", "via": ["solution", "statement"]}
 {"parent": "PI.ComplexConjugateDerivative.inLie_neg", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ChainRuleSecondOrder_HasDerivAtDOf", "via": ["solution", "statement"]}

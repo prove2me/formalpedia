@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_two_rem_lt
 -- name    : SmallRatio.two_rem_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:20:02.05252+00:00
 -- url     : https://prove2.me/theorems/dae43127-57fa-5a35-80d0-faf87c35fc73

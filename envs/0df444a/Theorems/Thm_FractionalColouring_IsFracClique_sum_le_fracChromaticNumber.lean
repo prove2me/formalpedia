@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FractionalColouring_IsFracClique_sum_le_fracChromaticNumber
 -- name    : FractionalColouring.IsFracClique.sum_le_fracChromaticNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:30:06.849437+00:00
 -- url     : https://prove2.me/theorems/b883493c-4f27-511f-ae5d-5443039596c9

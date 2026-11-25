@@ -8635,7 +8635,7 @@
 {"parent": "OAILP_PriceGame_MarketFlowMachineOutput", "child": "OAILP_PriceGame_MarketFlowMachineAllocation", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlReplayBox", "child": "OAILP_PriceGame_ControlEncodingPad", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlReplayBox", "child": "OAILP_PriceGame_ControlReplayMachine", "via": ["statement"]}
-{"parent": "OAI.Optimization.LinearProgramming.Compression.NumericROM.solver_of_prefix", "child": "OAILP_Compression_NumericROMCore", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.NumericROM.solver_of_prefix", "child": "OAILP_Compression_NumericROMCore", "via": ["solution", "statement"]}
 {"parent": "collatz_residual_fifteen_mod_sixteen_after_sixfold_progression_classes", "child": "collatzStepMap", "via": ["statement"]}
 {"parent": "collatz_residual_fifteen_mod_sixteen_after_sixfold_progression_classes", "child": "collatzMinPreimage", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlPrepareFrame", "child": "OAILP_PriceGame_ControlTrialStepWire", "via": ["statement"]}
@@ -11581,14 +11581,14 @@
 {"parent": "RPLib_FX_EtPBC_063", "child": "RPLib_FX_EtPBC_053", "via": ["statement"]}
 {"parent": "RPLib_FX_EtPBC_063", "child": "RPLib_FX_EtPBC_051", "via": ["statement"]}
 {"parent": "RPLib_FX_EtPBC_063", "child": "RPLib_FX_EtPBC_050", "via": ["statement"]}
-{"parent": "Poly1305Debian.internalOk_donna_oneshot", "child": "Poly1305Debian_Spec", "via": ["statement"]}
+{"parent": "Poly1305Debian.internalOk_donna_oneshot", "child": "Poly1305Debian_Spec", "via": ["solution", "statement"]}
 {"parent": "SourceProof_314794411901083e0cc253d3", "child": "SourceProof_2c0d4ca99a3f51a9d8eb6cb0", "via": ["statement"]}
 {"parent": "SourceProof_314794411901083e0cc253d3", "child": "SourceProof_9a889647ae0a35373dc0068d", "via": ["statement"]}
 {"parent": "SourceProof_314794411901083e0cc253d3", "child": "SourceProof_00a8a291a5ec377d57feab0f", "via": ["statement"]}
 {"parent": "SourceProof_314794411901083e0cc253d3", "child": "SourceProof_a2c8327cbb95fe609809545d", "via": ["statement"]}
 {"parent": "SourceProof_314794411901083e0cc253d3", "child": "SourceProof_8a4a12d702db4efcb2478f93", "via": ["statement"]}
 {"parent": "Kyprianou.Ch04.pathJumpMeasureZeroTimeV1", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
-{"parent": "Poly1305Debian.internalOk_donna_init_update_final", "child": "Poly1305Debian_Spec", "via": ["statement"]}
+{"parent": "Poly1305Debian.internalOk_donna_init_update_final", "child": "Poly1305Debian_Spec", "via": ["solution", "statement"]}
 {"parent": "SourceProof_a2c8327cbb95fe609809545d", "child": "SourceProof_b39c46ea153c4c96354bca13", "via": ["statement"]}
 {"parent": "SourceProof_a2c8327cbb95fe609809545d", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
 {"parent": "SourceProof_a2c8327cbb95fe609809545d", "child": "SourceProof_4c53178c24a5f39c8484090d", "via": ["statement"]}
@@ -11617,20 +11617,20 @@
 {"parent": "SourceProof_8a4a12d702db4efcb2478f93", "child": "SourceProof_6ed3c177b9234dc2ab8ed747", "via": ["statement"]}
 {"parent": "SourceProof_8a4a12d702db4efcb2478f93", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
 {"parent": "SourceProof_8a4a12d702db4efcb2478f93", "child": "SourceProof_7062939edfbaae600c8a129c", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise46StrictPassagePathKernelV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise46StrictPassagePathKernelV1", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46StrictPassagePathKernelV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise46StrictPassagePathKernelV1", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
 {"parent": "RPLib_FX_EtPBC_085", "child": "RPLib_FX_EtPBC_075", "via": ["statement"]}
 {"parent": "StochLean_Probability_Process_Semimartingale_StochasticExponential_Basic_F001", "child": "StochLean_Probability_Process_Semimartingale_StochasticExponential_Basic_F000", "via": ["statement"]}
 {"parent": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_PureJump_F000", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
 {"parent": "SourceProof_7062939edfbaae600c8a129c", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise46NonzeroStrictPassageNotAntitoneV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise46NonzeroStrictPassageNotAntitoneV1", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46NonzeroStrictPassageNotAntitoneV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise46NonzeroStrictPassageNotAntitoneV1", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
 {"parent": "collatz_residual_fifteen_mod_sixteen_after_independent_clock_lifts", "child": "collatzMinPreimage", "via": ["statement"]}
 {"parent": "collatz_residual_fifteen_mod_sixteen_after_independent_clock_lifts", "child": "collatzStepMap", "via": ["statement"]}
 {"parent": "SourceProof_b2af300e8e7381ed92a14088", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
 {"parent": "SourceProof_b2af300e8e7381ed92a14088", "child": "SourceProof_6dedeeef2014456de8ce028c", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise46RandomStrictPassageTransformV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise46RandomStrictPassageTransformV1", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46RandomStrictPassageTransformV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise46RandomStrictPassageTransformV1", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.kw47_exp_grid_linearization_limit", "child": "Kyprianou.Ch04.kw47_exp_grid_linearization", "via": ["solution", "statement"]}
 {"parent": "RPLib_FX_EtPBC_075", "child": "RPLib_FX_EtPBC_036", "via": ["statement"]}
 {"parent": "RPLib_FX_EtPBC_075", "child": "RPLib_FX_EtPBC_068", "via": ["statement"]}
@@ -11648,17 +11648,17 @@
 {"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedJumpSumLimitV1", "child": "Kyprianou.Ch04.bvContDiffSpatialEvalTendstoV1", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedJumpSumLimitV1", "child": "Kyprianou.Ch04.bvTruncatedPathsUniformV1", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedJumpSumLimitV1", "child": "Kyprianou.Ch04.bvTruncatedPathCompactBoundV1", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.exercise42LipschitzFiniteJumpFderivIntegrableV1", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.exercise42LipschitzTruncatedDerivativeUniformV1", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.exercise42LipschitzTimeDerivativeBoundV1", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.uniformBoundedMultiplierV1", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.bvNNRealFiniteAffineRightCoercionV1", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.bvUniformSetIntegralLimitV1", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.exercise42LipschitzFiniteJumpFderivIntegrableV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.exercise42LipschitzTruncatedDerivativeUniformV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.exercise42LipschitzTimeDerivativeBoundV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.uniformBoundedMultiplierV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.bvNNRealFiniteAffineRightCoercionV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.bvUniformSetIntegralLimitV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
 {"parent": "RPLib_FX_EtPBC_072", "child": "RPLib_FX_EtPBC_063", "via": ["statement"]}
 {"parent": "RPLib_FX_EtPBC_072", "child": "RPLib_FX_EtPBC_062", "via": ["statement"]}
 {"parent": "SourceProof_7a2cd734cad19a873789e942", "child": "SourceProof_c3d82db2ca7eee09ee06d809", "via": ["statement"]}
@@ -11719,3 +11719,196 @@
 {"parent": "Kyprianou.Ch04.rightContinuousDyadicSupV1", "child": "AvramDividend.Classical.avram_ws01e_b_right_continuous_strict_dyadic_grid_event", "via": ["solution"]}
 {"parent": "Kyprianou.Ch04.dyadicMartingaleL2V1", "child": "AvramDividend.Classical.avram_ga_a426_dyadic_sampled_martingale_L2_norm_bound", "via": ["solution"]}
 {"parent": "Kyprianou.Ch04.dyadicMartingaleL2V1", "child": "AvramDividend.Classical.avram_ga_a428_L2_maximal_envelope_integrability_bridge", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.actualCutoffDifferenceBandV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.actualCutoffDifferenceBandV1", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.actualCutoffDifferenceBandV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "SourceProof_8fcba75198d6a3dc02488251", "child": "StochLean_Probability_Process_Semimartingale_StochasticExponential_Basic_F001", "via": ["statement"]}
+{"parent": "SourceProof_8fcba75198d6a3dc02488251", "child": "SourceProof_1079144fe60f0ff536db6816", "via": ["statement"]}
+{"parent": "SourceProof_8fcba75198d6a3dc02488251", "child": "SourceProof_472bb0fb2e5ea3f0d733b6e5", "via": ["statement"]}
+{"parent": "SourceProof_8fcba75198d6a3dc02488251", "child": "SourceProof_c00d36002cf69560fd2a8d00", "via": ["statement"]}
+{"parent": "SourceProof_83e0b6f196e4f43fa027ce93", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "SourceProof_83e0b6f196e4f43fa027ce93", "child": "SourceProof_4d7fc7190a3d02a61bd44d4d", "via": ["statement"]}
+{"parent": "SourceProof_83e0b6f196e4f43fa027ce93", "child": "StochLean_Analysis_PathVariation_VectorEnergy_F000", "via": ["statement"]}
+{"parent": "SourceProof_83e0b6f196e4f43fa027ce93", "child": "SourceProof_889cc5878c88eebb9dbc02bf", "via": ["statement"]}
+{"parent": "SourceProof_83e0b6f196e4f43fa027ce93", "child": "SourceProof_56c71dd2079e6b44a7dc4950", "via": ["statement"]}
+{"parent": "SourceProof_83e0b6f196e4f43fa027ce93", "child": "SourceProof_60b183cce884b1ffa7a599f8", "via": ["statement"]}
+{"parent": "SourceProof_83e0b6f196e4f43fa027ce93", "child": "SourceProof_3b9e1eacb18faa84cc0222f4", "via": ["statement"]}
+{"parent": "SourceProof_83e0b6f196e4f43fa027ce93", "child": "SourceProof_30d0c59bde2d1c0616100b0f", "via": ["statement"]}
+{"parent": "SourceProof_83e0b6f196e4f43fa027ce93", "child": "StochLean_ForMathlib_Analysis_FrechetTaylorCoefficient_F000", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionMaximalBoundV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionMaximalBoundV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_096", "child": "RPLib_FX_EtPBC_085", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_096", "child": "RPLib_FX_EtPBC_086", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_073", "child": "RPLib_FX_EtPBC_064", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_073", "child": "RPLib_FX_EtPBC_062", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionVarianceBoundV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_097", "child": "RPLib_FX_EtPBC_086", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.simplePredictableFiniteL2Isometry", "child": "Kyprianou.Ch04.integrableProductOfSquareIntegrable", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.simplePredictableFiniteL2Isometry", "child": "Kyprianou.Ch04.simplePredictableFullyDiagonalFiniteIsometry", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.simplePredictableFiniteL2Isometry", "child": "LevyStochCalc_Poisson_CompensatedIsometry_F001", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_actual_product_grid_pathwise_limit", "child": "Kyprianou.Ch04.kw47_reflected_record_quadrature", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.kw47_actual_product_grid_pathwise_limit", "child": "Kyprianou.Ch04.kw47_discrete_product_summation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.kw47_actual_product_grid_pathwise_limit", "child": "Kyprianou.Ch04.kw47_reflected_time_quadrature", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.kw47_actual_product_grid_pathwise_limit", "child": "Kyprianou.Ch04.kw47_actual_exp_grid_linearization_limit", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.klsSimpleCenteredMomentV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_083", "child": "RPLib_FX_EtPBC_071", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_083", "child": "RPLib_FX_EtPBC_073", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_083", "child": "RPLib_FX_EtPBC_072", "via": ["statement"]}
+{"parent": "SourceProof_a7b6b2ace97fad1531f4af27", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "SourceProof_a7b6b2ace97fad1531f4af27", "child": "SourceProof_7062939edfbaae600c8a129c", "via": ["statement"]}
+{"parent": "SourceProof_a7b6b2ace97fad1531f4af27", "child": "SourceProof_b2af300e8e7381ed92a14088", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_081", "child": "RPLib_FX_EtPBC_071", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_081", "child": "RPLib_FX_EtPBC_073", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_081", "child": "RPLib_FX_EtPBC_072", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzFiniteTruncationIdentityV1", "child": "Kyprianou.Ch04.bvNNRealFiniteAffineRightCoercionV1", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzFiniteTruncationIdentityV1", "child": "Kyprianou.Ch04.exercise42LipschitzTimeDerivativeBoundV1", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzFiniteTruncationIdentityV1", "child": "Kyprianou.Ch04.bvNNRealFiniteAffineLeftCoercionV1", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzFiniteTruncationIdentityV1", "child": "Kyprianou.Ch04.exercise42LipschitzFiniteJumpTelescopingV2", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzFiniteTruncationIdentityV1", "child": "Kyprianou.Ch04.exercise42LipschitzFiniteJumpFderivIntegrableV1", "via": ["statement"]}
+{"parent": "SourceProof_daca2e66d302eb408e43e93d", "child": "StochLean_Probability_Process_Path_FiniteVariation_F000", "via": ["statement"]}
+{"parent": "SourceProof_daca2e66d302eb408e43e93d", "child": "SourceProof_d74afafd51c92049941a84c1", "via": ["statement"]}
+{"parent": "SourceProof_daca2e66d302eb408e43e93d", "child": "SourceProof_c00d36002cf69560fd2a8d00", "via": ["statement"]}
+{"parent": "SourceProof_daca2e66d302eb408e43e93d", "child": "StochLean_Probability_Process_Semimartingale_StochasticExponential_Basic_F000", "via": ["statement"]}
+{"parent": "SourceProof_daca2e66d302eb408e43e93d", "child": "SourceProof_472bb0fb2e5ea3f0d733b6e5", "via": ["statement"]}
+{"parent": "SourceProof_1cce7685e72bf317570bfd3c", "child": "SourceProof_944fa57bc3b71053cbab118a", "via": ["statement"]}
+{"parent": "SourceProof_1cce7685e72bf317570bfd3c", "child": "SourceProof_a307e422895411519841ce97", "via": ["statement"]}
+{"parent": "SourceProof_1cce7685e72bf317570bfd3c", "child": "SourceProof_51c0da11e7e46e13ea7b46dd", "via": ["statement"]}
+{"parent": "SourceProof_1cce7685e72bf317570bfd3c", "child": "SourceProof_c3a38a53524388b4ac4c79ee", "via": ["statement"]}
+{"parent": "SourceProof_1cce7685e72bf317570bfd3c", "child": "SourceProof_bfe53c0f4ad1412df776a314", "via": ["statement"]}
+{"parent": "SourceProof_1cce7685e72bf317570bfd3c", "child": "SourceProof_60b183cce884b1ffa7a599f8", "via": ["statement"]}
+{"parent": "SourceProof_1cce7685e72bf317570bfd3c", "child": "SourceProof_9183846313e90de3d6561ee0", "via": ["statement"]}
+{"parent": "SourceProof_1cce7685e72bf317570bfd3c", "child": "StochLean_Probability_Process_Partition_TaylorSums_F000", "via": ["statement"]}
+{"parent": "SourceProof_1cce7685e72bf317570bfd3c", "child": "SourceProof_2a0294735f59af179c5d8895", "via": ["statement"]}
+{"parent": "SourceProof_1cce7685e72bf317570bfd3c", "child": "SourceProof_472bb0fb2e5ea3f0d733b6e5", "via": ["statement"]}
+{"parent": "SourceProof_1cce7685e72bf317570bfd3c", "child": "StochLean_Probability_Process_Partition_SquareSums_F000", "via": ["statement"]}
+{"parent": "SourceProof_80c4eebd8b1285b250fd01ee", "child": "StochLean_Probability_Process_Semimartingale_StochasticExponential_Basic_F001", "via": ["statement"]}
+{"parent": "SourceProof_80c4eebd8b1285b250fd01ee", "child": "SourceProof_a21e6b2a65717feabd6bc579", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.actualCutoffMaximalBoundV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.actualCutoffMaximalBoundV1", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.actualCutoffMaximalBoundV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_actual_adapted", "child": "Kyprianou.Ch04.kw47_capped_uniform_grid", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_actual_adapted", "child": "Kyprianou.Ch04.kw47_reflected_time_quadrature", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_actual_adapted", "child": "AvramDividend.Classical.runningSup_isDividendStrategy", "via": ["solution", "statement"]}
+{"parent": "SourceProof_44e1865b649fa0c29b61b82f", "child": "SourceProof_314794411901083e0cc253d3", "via": ["statement"]}
+{"parent": "SourceProof_44e1865b649fa0c29b61b82f", "child": "SourceProof_cec55a75e8011931c820c0c2", "via": ["statement"]}
+{"parent": "SourceProof_44e1865b649fa0c29b61b82f", "child": "SourceProof_8c18053bf585bd3a019ad5a3", "via": ["statement"]}
+{"parent": "SourceProof_44e1865b649fa0c29b61b82f", "child": "StochLean_Probability_Process_Semimartingale_StochasticExponential_Characteristic_F000", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46WeakClockEqualsStrictOfRateOneV1", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise46WeakClockEqualsStrictOfRateOneV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.klsCountTimeMeanV1", "child": "KLSModular_LevyStochCalc_Poisson_CompensatedIsometry", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_078", "child": "RPLib_FX_EtPBC_071", "via": ["statement"]}
+{"parent": "SourceProof_472bb0fb2e5ea3f0d733b6e5", "child": "SourceProof_7a2cd734cad19a873789e942", "via": ["statement"]}
+{"parent": "SourceProof_dd381a297e552784125931ec", "child": "StochLean_Probability_Process_Semimartingale_QuadraticCovariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "SourceProof_dd381a297e552784125931ec", "child": "SourceProof_b154264af403f6b2bc595390", "via": ["statement"]}
+{"parent": "SourceProof_dd381a297e552784125931ec", "child": "SourceProof_31d0de13ef1656df97c05a7d", "via": ["statement"]}
+{"parent": "SourceProof_b154264af403f6b2bc595390", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "SourceProof_b154264af403f6b2bc595390", "child": "SourceProof_6f12ceaef9e4802a31ac72de", "via": ["statement"]}
+{"parent": "SourceProof_b154264af403f6b2bc595390", "child": "SourceProof_7a2cd734cad19a873789e942", "via": ["statement"]}
+{"parent": "SourceProof_b154264af403f6b2bc595390", "child": "SourceProof_264d677d5da3fcd447059c80", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_086", "child": "RPLib_FX_EtPBC_075", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_086", "child": "RPLib_FX_EtPBC_076", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.klsSimpleMarkRawFibreMeanV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_095", "child": "RPLib_FX_EtPBC_077", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_095", "child": "RPLib_FX_EtPBC_078", "via": ["statement"]}
+{"parent": "SourceProof_30d0c59bde2d1c0616100b0f", "child": "StochLean_Analysis_PathVariation_VectorEnergy_F000", "via": ["statement"]}
+{"parent": "SourceProof_30d0c59bde2d1c0616100b0f", "child": "SourceProof_472bb0fb2e5ea3f0d733b6e5", "via": ["statement"]}
+{"parent": "SourceProof_30d0c59bde2d1c0616100b0f", "child": "SourceProof_22dfd694bd9e533ba03d52f6", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_082", "child": "RPLib_FX_EtPBC_075", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_082", "child": "RPLib_FX_EtPBC_073", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.strongly_polynomial_optimization", "child": "OAILP_Recovery_PrincipalProgram", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.strongly_polynomial_optimization", "child": "OAILP_Compression_ServiceImplementation", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.strongly_polynomial_optimization", "child": "OAILP_NormalSubspace_Main", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.strongly_polynomial_optimization", "child": "OAILP_PriceGame_ControlDispatchMachine", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.strongly_polynomial_optimization", "child": "OAILP_Compression_NumericMinorROM", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.strongly_polynomial_optimization", "child": "OAILP_PrimalDual_Ending", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.strongly_polynomial_optimization", "child": "OAILP_PrimalDual_FrameOptimizationCompose", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.strongly_polynomial_optimization", "child": "OAILP_PriceGame_ControlEndpoint", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.klsSimpleMarkMeanV1", "child": "KLSModular_LevyStochCalc_Poisson_CompensatedIsometry", "via": ["statement"]}
+{"parent": "SourceProof_6b0aad381fde89d7c19479e6", "child": "SourceProof_0287d90d6966a0a0ba68f0fa", "via": ["statement"]}
+{"parent": "SourceProof_6b0aad381fde89d7c19479e6", "child": "SourceProof_59b26859132e89360b279698", "via": ["statement"]}
+{"parent": "SourceProof_6b0aad381fde89d7c19479e6", "child": "SourceProof_264d677d5da3fcd447059c80", "via": ["statement"]}
+{"parent": "SourceProof_6b0aad381fde89d7c19479e6", "child": "SourceProof_2cbb2ed1687ae3057f41e0d2", "via": ["statement"]}
+{"parent": "SourceProof_6b0aad381fde89d7c19479e6", "child": "SourceProof_2b2fa01d52a365fcbed78a43", "via": ["statement"]}
+{"parent": "SourceProof_6b0aad381fde89d7c19479e6", "child": "SourceProof_46e00cd1de49de31920230f6", "via": ["statement"]}
+{"parent": "SourceProof_6b0aad381fde89d7c19479e6", "child": "SourceProof_561d7fc50af0bdd1f0a29ad5", "via": ["statement"]}
+{"parent": "SourceProof_6b0aad381fde89d7c19479e6", "child": "SourceProof_c8232beed6b358cd17e7323d", "via": ["statement"]}
+{"parent": "SourceProof_6b0aad381fde89d7c19479e6", "child": "SourceProof_4c53178c24a5f39c8484090d", "via": ["statement"]}
+{"parent": "SourceProof_6b0aad381fde89d7c19479e6", "child": "SourceProof_60b183cce884b1ffa7a599f8", "via": ["statement"]}
+{"parent": "SourceProof_6b0aad381fde89d7c19479e6", "child": "SourceProof_472bb0fb2e5ea3f0d733b6e5", "via": ["statement"]}
+{"parent": "SourceProof_6b0aad381fde89d7c19479e6", "child": "SourceProof_cea06ce35b1a746f3e8af6f7", "via": ["statement"]}
+{"parent": "SourceProof_6b0aad381fde89d7c19479e6", "child": "StochLean_Probability_Process_Semimartingale_StochasticExponential_Basic_F001", "via": ["statement"]}
+{"parent": "SourceProof_6b0aad381fde89d7c19479e6", "child": "SourceProof_99d670b7492a1db05d3ba395", "via": ["statement"]}
+{"parent": "SourceProof_954e10b76576263a9def2e7a", "child": "SourceProof_8c18053bf585bd3a019ad5a3", "via": ["statement"]}
+{"parent": "SourceProof_954e10b76576263a9def2e7a", "child": "SourceProof_1d0b25291561423c84395ca8", "via": ["statement"]}
+{"parent": "SourceProof_954e10b76576263a9def2e7a", "child": "SourceProof_4d9ac1d8fdeead36a7d9ab22", "via": ["statement"]}
+{"parent": "SourceProof_954e10b76576263a9def2e7a", "child": "StochLean_Probability_Process_Semimartingale_QuadraticCovariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "SourceProof_954e10b76576263a9def2e7a", "child": "SourceProof_60b183cce884b1ffa7a599f8", "via": ["statement"]}
+{"parent": "SourceProof_954e10b76576263a9def2e7a", "child": "SourceProof_f3df3adc8be51e4f63a6abca", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.NumericROM.solver_of_prefix", "child": "OAI.Optimization.LinearProgramming.Compression.SignWire.wordComparatorTime_le_poly", "via": ["solution"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.NumericROM.solver_of_prefix", "child": "OAI.Optimization.LinearProgramming.Compression.manuscript_homogeneous_grid_fuel", "via": ["solution"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.NumericROM.solver_of_prefix", "child": "OAI.Optimization.LinearProgramming.Compression.SignWire.wordComparator_implements", "via": ["solution"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.NumericROM.solver_of_prefix", "child": "OAI.Optimization.LinearProgramming.Compression.finishTaggedFragment_run", "via": ["solution"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.NumericROM.solver_of_prefix", "child": "OAI.Optimization.LinearProgramming.Compression.linkedTaggedFlatReply_run", "via": ["solution"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.NumericROM.solver_of_prefix", "child": "OAI.Optimization.LinearProgramming.Compression.NumericROM.height_le", "via": ["solution"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.NumericROM.solver_of_prefix", "child": "OAI.Optimization.LinearProgramming.Compression.numericInner_run", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_donna_oneshot", "child": "Poly1305Debian_PlacedObj", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_donna_oneshot", "child": "Poly1305Debian.internalOk_poly1305_update", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_donna_oneshot", "child": "Arm64Facts.steps_codeLoaded_v2", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_donna_oneshot", "child": "X25519Dalek.steps_keepsFrozen_v2", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_donna_oneshot", "child": "Poly1305Debian.internalOk_poly1305_finish", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_donna_init_update_final", "child": "Poly1305Debian_PlacedObj", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_donna_init_update_final", "child": "Poly1305Debian.internalOk_poly1305_update", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_donna_init_update_final", "child": "Arm64Facts.steps_codeLoaded_v2", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_donna_init_update_final", "child": "X25519Dalek.steps_keepsFrozen_v2", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_donna_init_update_final", "child": "Poly1305Debian.internalOk_poly1305_finish", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46StrictPassagePathKernelV1", "child": "AvramDividend_Classical_TwoSidedExitCorrected", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46StrictPassagePathKernelV1", "child": "Kyprianou.Ch03.firstHittingIoi_eq_correctedUpTime", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46StrictPassagePathKernelV1", "child": "AvramDividend.Classical.chat04_shifted_random_reserve_two_sided_exit_clocks_eq_explicit_schedule", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.rightContinuousMartingaleL2MaximalV1", "child": "Kyprianou.Ch04.ennrealBudgetToRealV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.rightContinuousMartingaleL2MaximalV1", "child": "AvramDividend.Classical.avram_ga_a427_dyadic_square_grid_sup_monotone", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.rightContinuousMartingaleL2MaximalV1", "child": "Kyprianou.Ch04.dyadicMartingaleL2V1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.rightContinuousMartingaleL2MaximalV1", "child": "Kyprianou.Ch04.finiteExtendedSupToRealV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.rightContinuousMartingaleL2MaximalV1", "child": "Kyprianou.Ch04.monotoneLIntegralBudgetV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.rightContinuousMartingaleL2MaximalV1", "child": "Kyprianou.Ch04.rightContinuousDyadicSupV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46RandomStrictPassageTransformV1", "child": "Kyprianou.Ch04.exercise46StrictPassagePathKernelV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46RandomStrictPassageTransformV1", "child": "AvramDividend.Classical.chat04_levy_joint_time_state_measurable", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46RandomStrictPassageTransformV1", "child": "Kyprianou.Ch04.exercise46KilledDiscountPropertiesV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46RandomStrictPassageTransformV1", "child": "Kyprianou.Ch04.exercise46IndependentPathKernelIntegralV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.actualCutoffDifferenceBandV1", "child": "Kyprianou.Ch02.prmFiniteRegionMarkedIntegrableAllTimesAEV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.actualCutoffDifferenceBandV1", "child": "Kyprianou.Ch04.pathJumpMeasureZeroTimeV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.actualCutoffDifferenceBandV1", "child": "Kyprianou.Ch04.zeroTimeRestrictionIccIocV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionMaximalBoundV1", "child": "Kyprianou.Ch04.klsGeneralRegionVarianceBoundV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionMaximalBoundV1", "child": "Kyprianou.Ch02.prmFiniteRegionCadlagAEV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionMaximalBoundV1", "child": "Kyprianou.Ch04.rightContinuousMartingaleL2MaximalV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionMaximalBoundV1", "child": "Kyprianou.compensatedGeneralRegionMartingaleCh02V3", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionVarianceBoundV1", "child": "Kyprianou.Ch02.prmFiniteIntensityWindowSimpleMarkIntegralTendstoV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionVarianceBoundV1", "child": "Kyprianou.Ch02.prmFiniteMarkTimeRectIntensityFiniteV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionVarianceBoundV1", "child": "Kyprianou.Ch04.klsSimpleCenteredMomentV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionVarianceBoundV1", "child": "Kyprianou.Ch04.l2FatouSquareLimitV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionVarianceBoundV1", "child": "Kyprianou.Ch02.prmFiniteSimpleMarkRawIntegralL2V1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionVarianceBoundV1", "child": "Kyprianou.Ch02.realMarkSimpleL2ApproxV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionVarianceBoundV1", "child": "Kyprianou.compensatedGeneralRegionMartingaleCh02V3", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionVarianceBoundV1", "child": "Kyprianou.Ch04.l2IntegralLimitV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsGeneralRegionVarianceBoundV1", "child": "Kyprianou.Ch04.l2SquareIntegralLimitV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsSimpleCenteredMomentV1", "child": "Kyprianou.Ch02.prmFiniteSimpleMarkRawIntegralL2V1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsSimpleCenteredMomentV1", "child": "Kyprianou.Ch04.klsSimpleMarkMeanV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsSimpleCenteredMomentV1", "child": "Kyprianou.Ch02.prmSimpleMarkRawCampbellSecondMomentV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsSimpleCenteredMomentV1", "child": "Kyprianou.Ch02.prmFiniteMarkTimeRectIntensityFiniteV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.l2SquareIntegralLimitV1", "child": "Kyprianou.Ch04.l2NormSquareIntegralV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.actualCutoffMaximalBoundV1", "child": "Kyprianou.Ch04.klsGeneralRegionMaximalBoundV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.actualCutoffMaximalBoundV1", "child": "Kyprianou.Ch02.prmFiniteRegionMarkedIntegrableAllTimesAEV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.actualCutoffMaximalBoundV1", "child": "Kyprianou.Ch04.actualCutoffDifferenceBandV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.actualCutoffMaximalBoundV1", "child": "Kyprianou.Ch04.zeroTimeRestrictionIccIocV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.actualCutoffMaximalBoundV1", "child": "Kyprianou.Ch04.pathJumpMeasureZeroTimeV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46WeakClockEqualsStrictOfRateOneV1", "child": "Kyprianou.Ch04.exercise46LowerHeightLaplaceLimitV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46WeakClockEqualsStrictOfRateOneV1", "child": "Kyprianou.Ch04.exercise46RandomStrictPassageTransformV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46WeakClockEqualsStrictOfRateOneV1", "child": "Kyprianou.Ch04.exercise46WeakPassageSandwichV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46WeakClockEqualsStrictOfRateOneV1", "child": "Kyprianou.Ch04.exercise46KilledDiscountPropertiesV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46WeakClockEqualsStrictOfRateOneV1", "child": "Kyprianou.Ch04.exercise46BoundedPayoffSqueezeAEV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46WeakClockEqualsStrictOfRateOneV1", "child": "Kyprianou.Ch04.exercise46LowerHeightSequenceV2", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsCountTimeMeanV1", "child": "Kyprianou.Ch02.prmFiniteIntensityCountRealL2V1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsSimpleMarkRawFibreMeanV1", "child": "Kyprianou.Ch02.prmFiniteMarkTimeRectIntensityFiniteV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsSimpleMarkRawFibreMeanV1", "child": "Kyprianou.Ch02.prmFiniteSimpleMarkIntegralFibreSumV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsSimpleMarkRawFibreMeanV1", "child": "Kyprianou.Ch04.klsCountTimeMeanV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsSimpleMarkMeanV1", "child": "Kyprianou.Ch04.klsSimpleMarkRawFibreMeanV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsSimpleMarkMeanV1", "child": "Kyprianou.Ch04.simpleMarkIntensityFibresV1", "via": ["solution"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_euclid_terminates
 -- name    : SmallRatio.euclid_terminates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:24:45.894804+00:00
 -- url     : https://prove2.me/theorems/f5df735e-fc7c-4ae0-8363-6ed011e1a129

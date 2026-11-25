@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1810_02867_one_dimensional_solutions
 -- name    : Arxiv1810_02867.one_dimensional_solutions
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T05:21:32.709246+00:00
 -- url     : https://prove2.me/theorems/f6b4804f-2682-44e4-87d0-7e8848e2aaad

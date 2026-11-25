@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_small_ratio_element
 -- name    : SmallRatio.small_ratio_element
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:22:06.54119+00:00
 -- url     : https://prove2.me/theorems/063e00f1-5309-488a-927b-21cef3a93716

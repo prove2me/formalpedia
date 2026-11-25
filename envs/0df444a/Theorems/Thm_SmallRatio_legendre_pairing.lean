@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_legendre_pairing
 -- name    : SmallRatio.legendre_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:21:31.308815+00:00
 -- url     : https://prove2.me/theorems/ad0657d4-a33c-5e4c-bc31-bda6e7910acd

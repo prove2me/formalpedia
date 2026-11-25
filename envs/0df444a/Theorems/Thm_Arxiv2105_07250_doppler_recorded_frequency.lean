@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2105_07250_doppler_recorded_frequency
 -- name    : Arxiv2105_07250.doppler_recorded_frequency
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:29:06.88446+00:00
 -- url     : https://prove2.me/theorems/a3b8197d-051d-576c-a704-82c5406ad76a

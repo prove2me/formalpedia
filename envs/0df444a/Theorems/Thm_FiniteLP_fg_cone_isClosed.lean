@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteLP_fg_cone_isClosed
 -- name    : FiniteLP.fg_cone_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:27:36.697979+00:00
 -- url     : https://prove2.me/theorems/43544fed-5efe-4938-8463-27dd6c28374d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosPosa_psi_deleteEdge
 -- name    : ErdosPosa.psi_deleteEdge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:26:49.637875+00:00
 -- url     : https://prove2.me/theorems/8b863921-5f6d-4b20-a31c-87bea5e7ecb1

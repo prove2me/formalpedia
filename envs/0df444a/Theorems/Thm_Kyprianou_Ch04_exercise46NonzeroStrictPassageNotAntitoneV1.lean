@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46NonzeroStrictPassageNotAntitoneV1
 -- name    : Kyprianou.Ch04.exercise46NonzeroStrictPassageNotAntitoneV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T21:27:36.696076+00:00
 -- url     : https://prove2.me/theorems/69fe9097-25b0-43b0-8bff-036fb4a5e8c2

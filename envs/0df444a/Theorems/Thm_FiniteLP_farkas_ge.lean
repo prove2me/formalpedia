@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteLP_farkas_ge
 -- name    : FiniteLP.farkas_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:27:22.859879+00:00
 -- url     : https://prove2.me/theorems/bec09829-a011-48fa-8a12-986904b56497

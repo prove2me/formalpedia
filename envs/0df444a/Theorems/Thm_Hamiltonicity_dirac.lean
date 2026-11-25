@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hamiltonicity_dirac
 -- name    : Hamiltonicity.dirac
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:19:02.809643+00:00
 -- url     : https://prove2.me/theorems/e79625d6-55a7-48b5-bc2f-0fb3871443e4

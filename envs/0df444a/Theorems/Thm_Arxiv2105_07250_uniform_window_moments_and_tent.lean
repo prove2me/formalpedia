@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2105_07250_uniform_window_moments_and_tent
 -- name    : Arxiv2105_07250.uniform_window_moments_and_tent
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:32:26.809917+00:00
 -- url     : https://prove2.me/theorems/f0713d78-79ab-550f-b2fa-f9daded55ac3

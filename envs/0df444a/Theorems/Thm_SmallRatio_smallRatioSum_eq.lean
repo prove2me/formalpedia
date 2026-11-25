@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallRatio_smallRatioSum_eq
 -- name    : SmallRatio.smallRatioSum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:21:39.625206+00:00
 -- url     : https://prove2.me/theorems/9c549a28-1c0d-5771-950e-89d8d2e22f46
