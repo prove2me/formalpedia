@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_mkF_chartMonomial_mul_chartPow_10a98fec4d52
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_mkF_chartMonomial_mul_chartPow_10a98fec4d52
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:36:51.800525+00:00
 -- url     : https://prove2.me/theorems/9e71e2d0-8412-45c7-8121-d32c4cfe7026

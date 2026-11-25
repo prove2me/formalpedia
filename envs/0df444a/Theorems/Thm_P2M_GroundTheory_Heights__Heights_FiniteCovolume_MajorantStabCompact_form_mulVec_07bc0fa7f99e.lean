@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_MajorantStabCompact_form_mulVec_07bc0fa7f99e
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_MajorantStabCompact_form_mulVec_07bc0fa7f99e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:28:16.737952+00:00
 -- url     : https://prove2.me/theorems/ef8fbe9c-315b-557e-a31b-ebf28d558c29

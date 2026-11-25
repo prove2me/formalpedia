@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frameChangeByMatrices_refl_and_comp
 -- name    : GlobalTheory.T.frameChangeByMatrices_refl_and_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:00:34.101398+00:00
 -- url     : https://prove2.me/theorems/f985e54a-bd35-46cc-bd1e-caf72cc7a2a9

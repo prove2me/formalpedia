@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_canon_single
 -- name    : GroundTheory.Automorphic.HarishChandra.canon_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:05:14.2358+00:00
 -- url     : https://prove2.me/theorems/cbfda123-c91b-420b-9ca6-350eae51c099

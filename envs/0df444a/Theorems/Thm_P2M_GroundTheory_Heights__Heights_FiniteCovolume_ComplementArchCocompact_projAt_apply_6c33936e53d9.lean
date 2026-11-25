@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_ComplementArchCocompact_projAt_apply_6c33936e53d9
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_ComplementArchCocompact_projAt_apply_6c33936e53d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:54:55.469532+00:00
 -- url     : https://prove2.me/theorems/cf87a8ef-5347-56f6-bfc6-bb731e6935eb

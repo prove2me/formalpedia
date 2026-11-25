@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_isAlgClosureQ_74b0853cbd95
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_isAlgClosureQ_74b0853cbd95
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:33:09.433131+00:00
 -- url     : https://prove2.me/theorems/0f1e00de-a42a-4e87-b8ce-24ce58455225

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchPowerSumAtRootsOfUnity_proof_16d614cef0da
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchPowerSumAtRootsOfUnity_proof_16d614cef0da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:01:33.201385+00:00
 -- url     : https://prove2.me/theorems/63d98550-3a81-4062-a3bc-6fc7d46c0bdf

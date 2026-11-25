@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Q2_subst_neg_X
 -- name    : Formalism.L2.Th1.A.Q2.subst_neg_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:26:44.266385+00:00
 -- url     : https://prove2.me/theorems/50c66701-eba1-42c5-a26f-80d55039dc16

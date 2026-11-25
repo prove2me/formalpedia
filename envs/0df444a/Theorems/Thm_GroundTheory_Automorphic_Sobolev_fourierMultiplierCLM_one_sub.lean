@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_fourierMultiplierCLM_one_sub
 -- name    : GroundTheory.Automorphic.Sobolev.fourierMultiplierCLM_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:20:08.049846+00:00
 -- url     : https://prove2.me/theorems/b5e29a7a-b242-4a49-94bf-dd604272db6b

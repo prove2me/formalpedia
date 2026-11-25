@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SegreChartZeroSet_proof_17ca30ede7f1
 -- name    : P2M_GroundTheory_Heights__Heights_SegreChartZeroSet_proof_17ca30ede7f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:27:21.97881+00:00
 -- url     : https://prove2.me/theorems/f989bf67-0192-4b53-97d3-d7925d1fb35d

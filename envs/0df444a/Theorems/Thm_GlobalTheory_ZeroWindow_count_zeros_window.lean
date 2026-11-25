@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroWindow_count_zeros_window
 -- name    : GlobalTheory.ZeroWindow.count_zeros_window
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:50:22.241599+00:00
 -- url     : https://prove2.me/theorems/b7ffd85c-ea4b-4c82-9608-d1e42f13ebf2

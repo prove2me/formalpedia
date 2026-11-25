@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalizedFibreSets_cut_locF
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalizedFibreSets.cut_locF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:23:07.229611+00:00
 -- url     : https://prove2.me/theorems/396676ed-391b-5a9c-b940-4973dea9dbda

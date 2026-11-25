@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_CechOrdered_cls_altProj
 -- name    : GroundTheory.Arith.SchemeCoh.CechOrdered.cls_altProj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:28:37.124154+00:00
 -- url     : https://prove2.me/theorems/4b7ecba2-49b9-4637-b34c-db6339993033

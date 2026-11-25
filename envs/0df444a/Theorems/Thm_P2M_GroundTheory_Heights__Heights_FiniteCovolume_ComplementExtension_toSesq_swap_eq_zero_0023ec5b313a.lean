@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_ComplementExtension_toSesq_swap_eq_zero_0023ec5b313a
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_ComplementExtension_toSesq_swap_eq_zero_0023ec5b313a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:50:39.215145+00:00
 -- url     : https://prove2.me/theorems/69e505a0-3d84-462d-a11f-f57a6d5390ba

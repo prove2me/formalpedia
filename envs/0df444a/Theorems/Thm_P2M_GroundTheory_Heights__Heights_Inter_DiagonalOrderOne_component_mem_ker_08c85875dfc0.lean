@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalOrderOne_component_mem_ker_08c85875dfc0
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalOrderOne_component_mem_ker_08c85875dfc0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:30:58.329494+00:00
 -- url     : https://prove2.me/theorems/8c80ca8f-b324-59a9-80c2-8c3d3866b33f

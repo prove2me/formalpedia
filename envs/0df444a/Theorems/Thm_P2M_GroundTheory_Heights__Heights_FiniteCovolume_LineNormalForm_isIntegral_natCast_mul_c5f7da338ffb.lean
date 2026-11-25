@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineNormalForm_isIntegral_natCast_mul_c5f7da338ffb
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineNormalForm_isIntegral_natCast_mul_c5f7da338ffb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:30:56.332517+00:00
 -- url     : https://prove2.me/theorems/c30427f4-a16b-410a-b636-9981d4115acd

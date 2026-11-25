@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_LieEnd_eta_sq
 -- name    : GlobalTheory.UnitLemma.LieEnd.eta_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:04:37.494285+00:00
 -- url     : https://prove2.me/theorems/77d1c408-2c99-4518-b6ec-a2b804bb8fba

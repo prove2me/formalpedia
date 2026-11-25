@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CharAgree_coef_eq
 -- name    : GlobalTheory.HL.CharAgree.coef_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:32.123345+00:00
 -- url     : https://prove2.me/theorems/27e32aeb-3c3f-4cf5-9141-68319274a5d9

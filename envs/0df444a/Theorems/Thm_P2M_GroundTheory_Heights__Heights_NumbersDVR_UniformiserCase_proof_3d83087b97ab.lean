@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_UniformiserCase_proof_3d83087b97ab
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_UniformiserCase_proof_3d83087b97ab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:54:48.713109+00:00
 -- url     : https://prove2.me/theorems/fcd16bfb-e85e-4285-aee0-65e089422aad

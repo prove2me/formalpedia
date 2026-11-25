@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_integrableOn_log_norm_eval_6d9e8a0784fc
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_integrableOn_log_norm_eval_6d9e8a0784fc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:28.296593+00:00
 -- url     : https://prove2.me/theorems/b9550253-f609-4e25-847a-16b4f1a7d042

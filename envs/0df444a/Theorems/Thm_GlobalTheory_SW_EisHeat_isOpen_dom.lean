@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisHeat_isOpen_dom
 -- name    : GlobalTheory.SW.EisHeat.isOpen_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:29:16.942161+00:00
 -- url     : https://prove2.me/theorems/3b451014-ee9e-4e3e-87b5-40aeace92260

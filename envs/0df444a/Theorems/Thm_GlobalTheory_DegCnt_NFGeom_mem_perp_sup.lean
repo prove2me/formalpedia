@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_NFGeom_mem_perp_sup
 -- name    : GlobalTheory.DegCnt.NFGeom.mem_perp_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:45:01.49354+00:00
 -- url     : https://prove2.me/theorems/5011c311-aa09-408b-a876-f038b2195cf2

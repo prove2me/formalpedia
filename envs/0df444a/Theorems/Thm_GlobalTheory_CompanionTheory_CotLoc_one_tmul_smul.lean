@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLoc_one_tmul_smul
 -- name    : GlobalTheory.CompanionTheory.CotLoc.one_tmul_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:06:15.646117+00:00
 -- url     : https://prove2.me/theorems/1b945f2c-064d-5a43-b6d3-b3e8589418c8

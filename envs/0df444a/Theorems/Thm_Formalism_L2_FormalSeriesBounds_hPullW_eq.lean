@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_hPullW_eq
 -- name    : Formalism.L2.FormalSeriesBounds.hPullW_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:24:52.219116+00:00
 -- url     : https://prove2.me/theorems/437a0c02-306b-5b9c-b2a3-0be29b566da0

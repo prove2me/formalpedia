@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CoinvIdealComponent_proof_f098e93102bb
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CoinvIdealComponent_proof_f098e93102bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:32:45.307331+00:00
 -- url     : https://prove2.me/theorems/c8b7bad5-071e-464c-9f2e-3b82851a56cf

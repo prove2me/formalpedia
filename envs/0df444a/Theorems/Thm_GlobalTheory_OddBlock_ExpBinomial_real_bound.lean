@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpBinomial_real_bound
 -- name    : GlobalTheory.OddBlock.ExpBinomial.real_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:36:09.563161+00:00
 -- url     : https://prove2.me/theorems/a15341af-40e3-405d-9da3-644a1a486de6

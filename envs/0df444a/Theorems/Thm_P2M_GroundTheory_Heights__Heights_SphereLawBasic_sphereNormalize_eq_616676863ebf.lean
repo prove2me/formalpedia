@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereLawBasic_sphereNormalize_eq_616676863ebf
 -- name    : P2M_GroundTheory_Heights__Heights_SphereLawBasic_sphereNormalize_eq_616676863ebf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:38:28.494607+00:00
 -- url     : https://prove2.me/theorems/ad4519c8-3910-4517-8ccb-045c534999ea

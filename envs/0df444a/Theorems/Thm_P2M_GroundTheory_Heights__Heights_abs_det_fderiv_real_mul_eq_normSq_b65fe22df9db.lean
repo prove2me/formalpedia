@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_abs_det_fderiv_real_mul_eq_normSq_b65fe22df9db
 -- name    : P2M_GroundTheory_Heights__Heights_abs_det_fderiv_real_mul_eq_normSq_b65fe22df9db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:43:54.207266+00:00
 -- url     : https://prove2.me/theorems/8218f995-8e80-42a5-9d0a-7f435078c0c8

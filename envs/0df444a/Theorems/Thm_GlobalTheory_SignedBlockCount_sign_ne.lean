@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedBlockCount_sign_ne
 -- name    : GlobalTheory.SignedBlockCount.sign_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:31:36.856343+00:00
 -- url     : https://prove2.me/theorems/6702829a-5119-55d7-b786-ce6069fd7d87

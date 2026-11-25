@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_modularJ_of_fixed
 -- name    : GlobalTheory.isIntegral_modularJ_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:57:08.486799+00:00
 -- url     : https://prove2.me/theorems/0eb262d5-e3ce-48d4-8fab-0536d715db38

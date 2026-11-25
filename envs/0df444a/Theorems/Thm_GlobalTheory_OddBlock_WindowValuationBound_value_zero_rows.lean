@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_WindowValuationBound_value_zero_rows
 -- name    : GlobalTheory.OddBlock.WindowValuationBound.value_zero_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:34:28.84702+00:00
 -- url     : https://prove2.me/theorems/b8990379-8761-4d7b-afcb-7973f1c950ea

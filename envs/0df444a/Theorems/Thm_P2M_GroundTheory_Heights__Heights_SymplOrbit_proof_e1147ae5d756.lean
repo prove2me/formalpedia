@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplOrbit_proof_e1147ae5d756
 -- name    : P2M_GroundTheory_Heights__Heights_SymplOrbit_proof_e1147ae5d756
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:19:08.017692+00:00
 -- url     : https://prove2.me/theorems/42ea8d7f-94fe-4d54-9175-56f96b83130e

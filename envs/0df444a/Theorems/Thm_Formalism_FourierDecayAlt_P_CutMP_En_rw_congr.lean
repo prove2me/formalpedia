@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_En_rw_congr
 -- name    : Formalism.FourierDecayAlt.P.CutMP.En.rw_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:31:51.092902+00:00
 -- url     : https://prove2.me/theorems/e2cc546e-ee4b-514d-b0fe-f56e8d8d98c0

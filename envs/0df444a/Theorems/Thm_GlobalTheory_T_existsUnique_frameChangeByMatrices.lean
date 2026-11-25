@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_frameChangeByMatrices
 -- name    : GlobalTheory.T.existsUnique_frameChangeByMatrices
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:01:31.225806+00:00
 -- url     : https://prove2.me/theorems/ab61cc1c-ee57-42f1-9442-08d7b47602fe

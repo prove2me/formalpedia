@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_proof_b5407db643ba
 -- name    : P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_proof_b5407db643ba
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:48:39.413223+00:00
 -- url     : https://prove2.me/theorems/dc0ed19a-1a22-48b1-b1d5-b85d517a198c

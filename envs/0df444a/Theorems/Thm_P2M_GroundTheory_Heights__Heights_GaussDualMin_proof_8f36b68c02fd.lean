@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussDualMin_proof_8f36b68c02fd
 -- name    : P2M_GroundTheory_Heights__Heights_GaussDualMin_proof_8f36b68c02fd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:18:49.179884+00:00
 -- url     : https://prove2.me/theorems/127e2133-2475-46c0-87ff-023f8e06aa00

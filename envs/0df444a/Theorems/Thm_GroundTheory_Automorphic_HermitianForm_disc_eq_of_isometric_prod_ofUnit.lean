@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_disc_eq_of_isometric_prod_ofUnit
 -- name    : GroundTheory.Automorphic.HermitianForm.disc_eq_of_isometric_prod_ofUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:30:06.982518+00:00
 -- url     : https://prove2.me/theorems/66bdc603-66d8-404e-b33d-4409507163a7

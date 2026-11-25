@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_hausdorffMeasure_image_eq_zero_of_not_injective_0e64433aadc0
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_hausdorffMeasure_image_eq_zero_of_not_injective_0e64433aadc0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:26:17.871032+00:00
 -- url     : https://prove2.me/theorems/d855fd5e-eee8-491f-9df5-5f5849dc7a33

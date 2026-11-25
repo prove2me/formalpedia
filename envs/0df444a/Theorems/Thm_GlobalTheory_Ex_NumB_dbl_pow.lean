@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumB_dbl_pow
 -- name    : GlobalTheory.Ex.NumB.dbl_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:39:13.537897+00:00
 -- url     : https://prove2.me/theorems/58f96378-c2ba-4624-a4f2-72cb9b5286f3

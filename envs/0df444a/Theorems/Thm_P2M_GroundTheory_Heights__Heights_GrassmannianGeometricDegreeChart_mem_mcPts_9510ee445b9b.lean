@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GrassmannianGeometricDegreeChart_mem_mcPts_9510ee445b9b
 -- name    : P2M_GroundTheory_Heights__Heights_GrassmannianGeometricDegreeChart_mem_mcPts_9510ee445b9b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:07:50.566825+00:00
 -- url     : https://prove2.me/theorems/3ebb8f28-d150-4e0c-b4f3-d97fe95f678e

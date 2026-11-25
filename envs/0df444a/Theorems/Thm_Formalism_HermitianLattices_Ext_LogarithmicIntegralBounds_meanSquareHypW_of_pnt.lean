@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_meanSquareHypW_of_pnt
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.meanSquareHypW_of_pnt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:44.635151+00:00
 -- url     : https://prove2.me/theorems/3e448ef7-2f72-443b-908a-a8295dbfac83

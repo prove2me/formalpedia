@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_Shuffle_shuffle_coboundary_one
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.Shuffle.shuffle_coboundary_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:58:35.446831+00:00
 -- url     : https://prove2.me/theorems/66dda8ab-ba1f-49a3-a636-496c19a1b0e9

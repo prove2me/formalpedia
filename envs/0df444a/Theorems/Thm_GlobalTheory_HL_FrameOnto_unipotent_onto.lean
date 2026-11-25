@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameOnto_unipotent_onto
 -- name    : GlobalTheory.HL.FrameOnto.unipotent_onto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:12:56.1008+00:00
 -- url     : https://prove2.me/theorems/89cce467-94af-41cc-8770-1462b79f7922

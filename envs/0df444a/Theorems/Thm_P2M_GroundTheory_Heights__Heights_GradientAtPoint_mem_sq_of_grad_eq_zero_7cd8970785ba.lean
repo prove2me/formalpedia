@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GradientAtPoint_mem_sq_of_grad_eq_zero_7cd8970785ba
 -- name    : P2M_GroundTheory_Heights__Heights_GradientAtPoint_mem_sq_of_grad_eq_zero_7cd8970785ba
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:07:50.666016+00:00
 -- url     : https://prove2.me/theorems/44c77090-7830-4b79-8869-0c071d8dbfc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_detNumber_le_pow_norm
 -- name    : SNumbers.detNumber_le_pow_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:20:27.809883+00:00
 -- url     : https://prove2.me/theorems/2d113da1-4e5e-4e3f-806f-98490121d5b0

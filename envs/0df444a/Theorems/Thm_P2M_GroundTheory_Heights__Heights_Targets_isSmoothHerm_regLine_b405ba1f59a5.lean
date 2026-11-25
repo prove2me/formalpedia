@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_isSmoothHerm_regLine_b405ba1f59a5
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_isSmoothHerm_regLine_b405ba1f59a5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:59:05.264343+00:00
 -- url     : https://prove2.me/theorems/4bf28120-fbaa-430b-b1ec-4260811dd098

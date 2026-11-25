@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_ker_coeffL_eq_comap
 -- name    : GroundTheory.Automorphic.Whittaker.ker_coeffL_eq_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:08:13.9376+00:00
 -- url     : https://prove2.me/theorems/3ca35c50-3247-48e1-8b0d-944c38149827

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Cocycles_finite_cocycles
 -- name    : GlobalTheory.CompanionTheory.Cocycles.finite_cocycles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:52:34.867055+00:00
 -- url     : https://prove2.me/theorems/b9c2a99f-c367-40d8-8f00-deccdddb51cb

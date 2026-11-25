@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_hReal_add
 -- name    : Formalism.FourierDecayAlt.P.CutMP.hReal_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:29:32.031248+00:00
 -- url     : https://prove2.me/theorems/cf7dc31e-f74c-4d18-b9b9-4f6e5213c720

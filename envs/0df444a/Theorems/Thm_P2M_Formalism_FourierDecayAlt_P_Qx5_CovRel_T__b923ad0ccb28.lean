@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Qx5_CovRel_T__b923ad0ccb28
 -- name    : P2M_Formalism_FourierDecayAlt_P_Qx5_CovRel_T__b923ad0ccb28
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:37:03.08671+00:00
 -- url     : https://prove2.me/theorems/d54e9a49-faa8-40ab-81ab-18e725d8a433

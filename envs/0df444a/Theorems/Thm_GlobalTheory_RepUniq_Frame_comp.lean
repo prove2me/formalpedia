@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RepUniq_Frame_comp
 -- name    : GlobalTheory.RepUniq.Frame.comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:33:32.769127+00:00
 -- url     : https://prove2.me/theorems/cf352e46-a903-46cf-9942-08b6c6cc2a93

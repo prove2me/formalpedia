@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericFibProps_proof_2daf7a7447fa
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericFibProps_proof_2daf7a7447fa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:55:16.329751+00:00
 -- url     : https://prove2.me/theorems/1e3572e4-21a0-42ce-8945-734b3e2c13dc

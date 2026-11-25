@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_jet_sum_right
 -- name    : Formalism.L2.FormalSeriesBounds.jet_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:59:29.491032+00:00
 -- url     : https://prove2.me/theorems/1acd2fa6-6827-575c-b21d-8e696136301a

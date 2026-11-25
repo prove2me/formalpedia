@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_coe_transferInv
 -- name    : GroundTheory.GroupCoh.coe_transferInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:04:08.208375+00:00
 -- url     : https://prove2.me/theorems/fd2b3904-1f18-488c-8b82-4157a0f28e87

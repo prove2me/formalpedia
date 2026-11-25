@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_KerInert_VC_log_phi
 -- name    : Formalism.L2.KerInert.VC.log_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:37:22.404602+00:00
 -- url     : https://prove2.me/theorems/ef00af5f-6f70-4384-8c48-92848e1d6596

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpGradient_neg_log_det_le
 -- name    : GlobalTheory.SharpGradient.neg_log_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:29:09.756321+00:00
 -- url     : https://prove2.me/theorems/c8ffa977-d801-4ae4-affb-7378cda99d0e

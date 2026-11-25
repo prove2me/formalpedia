@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionInjectivity_chartForm_cross_7af2443d38e3
 -- name    : P2M_GroundTheory_Heights__Heights_SectionInjectivity_chartForm_cross_7af2443d38e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:37:39.93135+00:00
 -- url     : https://prove2.me/theorems/ae5315e3-1e6a-415c-9e59-0db23efa6871

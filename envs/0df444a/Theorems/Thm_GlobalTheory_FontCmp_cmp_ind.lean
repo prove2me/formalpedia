@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_cmp_ind
 -- name    : GlobalTheory.FontCmp.cmp_ind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:28:27.536395+00:00
 -- url     : https://prove2.me/theorems/86129128-dcce-5333-aad4-e30936ee1c4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EffectiveHS_TranslateEq_sPow_eq_monoSec_dddd22f75433
 -- name    : P2M_GroundTheory_Heights__Heights_EffectiveHS_TranslateEq_sPow_eq_monoSec_dddd22f75433
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:46:59.753496+00:00
 -- url     : https://prove2.me/theorems/a8b817a7-1604-426c-a640-40564c1d0f5e

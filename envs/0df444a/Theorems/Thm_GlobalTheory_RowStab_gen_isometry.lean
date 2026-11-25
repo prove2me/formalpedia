@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowStab_gen_isometry
 -- name    : GlobalTheory.RowStab.gen_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:23.872065+00:00
 -- url     : https://prove2.me/theorems/eb8a4d38-2aff-449a-8dff-d7a9a158bfc7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_entropyNumber_pos
 -- name    : SNumbers.entropyNumber_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:22:25.907013+00:00
 -- url     : https://prove2.me/theorems/a2dd5105-4693-4ac2-ba50-df36a235ab26

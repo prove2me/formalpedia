@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasDirichletDensity_degreeOnePrimes
 -- name    : GroundTheory.Global.hasDirichletDensity_degreeOnePrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:24.417064+00:00
 -- url     : https://prove2.me/theorems/78670b3f-6e8d-46d9-abc5-4d5fd015f5f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagSwapDivisible_proof_3cd4b9fef857
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagSwapDivisible_proof_3cd4b9fef857
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:01:32.590672+00:00
 -- url     : https://prove2.me/theorems/0136de97-99be-41fd-87d8-224942c580d5

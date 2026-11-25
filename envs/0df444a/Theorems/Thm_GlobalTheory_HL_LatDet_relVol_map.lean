@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LatDet_relVol_map
 -- name    : GlobalTheory.HL.LatDet.relVol_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:13:07.007881+00:00
 -- url     : https://prove2.me/theorems/2deabc84-de93-531d-a0a9-6f3804ca3ab6

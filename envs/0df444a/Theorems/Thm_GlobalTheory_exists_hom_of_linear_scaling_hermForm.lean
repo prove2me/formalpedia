@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_hom_of_linear_scaling_hermForm
 -- name    : GlobalTheory.exists_hom_of_linear_scaling_hermForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:56:25.575913+00:00
 -- url     : https://prove2.me/theorems/f19d0ca6-11ae-418e-bb92-91e6ccd7d610

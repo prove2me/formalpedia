@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_negIndex_fromBlocks
 -- name    : GlobalTheory.Inertia.negIndex_fromBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:04.697462+00:00
 -- url     : https://prove2.me/theorems/5ef30768-5929-4bd6-b1bd-98b5d55bf792

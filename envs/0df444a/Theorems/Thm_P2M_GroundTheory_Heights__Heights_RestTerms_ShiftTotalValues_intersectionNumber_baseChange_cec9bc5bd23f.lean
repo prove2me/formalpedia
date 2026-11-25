@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_ShiftTotalValues_intersectionNumber_baseChange_cec9bc5bd23f
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_ShiftTotalValues_intersectionNumber_baseChange_cec9bc5bd23f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:32:10.319664+00:00
 -- url     : https://prove2.me/theorems/f120b573-9165-433f-9cd4-9af47f5e5cfc

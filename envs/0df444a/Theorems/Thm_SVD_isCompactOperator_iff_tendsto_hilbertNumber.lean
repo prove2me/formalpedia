@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_isCompactOperator_iff_tendsto_hilbertNumber
 -- name    : SVD.isCompactOperator_iff_tendsto_hilbertNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:24:41.966912+00:00
 -- url     : https://prove2.me/theorems/4a94827a-3947-5633-96cd-6910d4a0411f

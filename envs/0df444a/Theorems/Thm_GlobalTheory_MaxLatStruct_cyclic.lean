@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxLatStruct_cyclic
 -- name    : GlobalTheory.MaxLatStruct.cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:01:57.378701+00:00
 -- url     : https://prove2.me/theorems/07ecfe5e-828a-5dc4-9842-bf0530c6143d

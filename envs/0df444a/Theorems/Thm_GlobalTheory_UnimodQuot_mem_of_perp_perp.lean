@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodQuot_mem_of_perp_perp
 -- name    : GlobalTheory.UnimodQuot.mem_of_perp_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:02:37.008132+00:00
 -- url     : https://prove2.me/theorems/d13e41f4-5ce5-4905-ac76-75b55bd419ec

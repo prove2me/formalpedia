@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecAlgField_proof_730301ea002c
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecAlgField_proof_730301ea002c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:52:14.670675+00:00
 -- url     : https://prove2.me/theorems/7b7cc09b-9035-465c-977d-07c2f1acee7a

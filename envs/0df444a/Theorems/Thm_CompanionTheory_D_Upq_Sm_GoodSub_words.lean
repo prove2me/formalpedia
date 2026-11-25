@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_GoodSub_words
 -- name    : CompanionTheory.D.Upq.Sm.GoodSub.words
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:14:07.631183+00:00
 -- url     : https://prove2.me/theorems/e136ae39-6012-55d9-b2d2-2e0aa3e4a5d7

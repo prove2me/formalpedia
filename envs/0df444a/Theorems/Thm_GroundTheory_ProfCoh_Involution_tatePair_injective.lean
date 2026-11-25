@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_Involution_tatePair_injective
 -- name    : GroundTheory.ProfCoh.Involution.tatePair_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:10:48.816252+00:00
 -- url     : https://prove2.me/theorems/ecb0e7c1-7a45-5265-9e81-0a7b787c3e13

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBO_fsv_smul
 -- name    : Formalism.FourierDecayAlt.P.PBO.fsv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:08:21.345234+00:00
 -- url     : https://prove2.me/theorems/cf41856b-5e24-5344-b345-a9624b01e73c

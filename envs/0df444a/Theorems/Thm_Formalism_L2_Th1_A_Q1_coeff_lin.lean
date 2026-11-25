@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Q1_coeff_lin
 -- name    : Formalism.L2.Th1.A.Q1.coeff_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:00:05.884999+00:00
 -- url     : https://prove2.me/theorems/065a89e0-1d3d-4597-8580-1ce5f6427693

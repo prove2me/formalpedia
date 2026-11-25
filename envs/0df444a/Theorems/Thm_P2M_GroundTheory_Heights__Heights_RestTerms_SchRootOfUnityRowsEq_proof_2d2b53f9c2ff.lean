@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchRootOfUnityRowsEq_proof_2d2b53f9c2ff
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchRootOfUnityRowsEq_proof_2d2b53f9c2ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:01:51.726183+00:00
 -- url     : https://prove2.me/theorems/be4a47c8-a5ef-4fa4-b56c-5bd147242cc2

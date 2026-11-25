@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootsOfUnityDense_proof_226af5c671e2
 -- name    : P2M_GroundTheory_Heights__Heights_RootsOfUnityDense_proof_226af5c671e2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:21:26.991262+00:00
 -- url     : https://prove2.me/theorems/2ad14d0c-df56-49b5-857e-f2322a878a77

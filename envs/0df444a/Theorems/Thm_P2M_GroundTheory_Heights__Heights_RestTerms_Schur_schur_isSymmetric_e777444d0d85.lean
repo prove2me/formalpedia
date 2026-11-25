@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Schur_schur_isSymmetric_e777444d0d85
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Schur_schur_isSymmetric_e777444d0d85
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:31:34.905792+00:00
 -- url     : https://prove2.me/theorems/b002f9b4-9151-4c89-982b-5c760030be91

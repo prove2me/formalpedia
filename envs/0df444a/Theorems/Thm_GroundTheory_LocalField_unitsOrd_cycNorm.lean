@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_unitsOrd_cycNorm
 -- name    : GroundTheory.LocalField.unitsOrd_cycNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:15:57.185718+00:00
 -- url     : https://prove2.me/theorems/3548689b-5233-584e-b160-02507cb31666

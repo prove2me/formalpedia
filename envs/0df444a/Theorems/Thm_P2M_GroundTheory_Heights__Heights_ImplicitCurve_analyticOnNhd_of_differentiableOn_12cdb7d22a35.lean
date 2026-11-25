@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ImplicitCurve_analyticOnNhd_of_differentiableOn_12cdb7d22a35
 -- name    : P2M_GroundTheory_Heights__Heights_ImplicitCurve_analyticOnNhd_of_differentiableOn_12cdb7d22a35
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:46:27.937957+00:00
 -- url     : https://prove2.me/theorems/07ba4280-a482-4534-9d70-a9ba2c1f3e79

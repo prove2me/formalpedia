@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ThroughPointIncIdeal_proof_d6fd7d5191ac
 -- name    : P2M_GroundTheory_Heights__Heights_ThroughPointIncIdeal_proof_d6fd7d5191ac
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:44:45.437806+00:00
 -- url     : https://prove2.me/theorems/60fa59b2-09b3-40c0-aec5-eb402fa7c6c5

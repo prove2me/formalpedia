@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_shift
 -- name    : GlobalTheory.DegCnt.StabInv.shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:51:48.025295+00:00
 -- url     : https://prove2.me/theorems/377bfb43-664e-5cb8-8c29-b6efd0be1107

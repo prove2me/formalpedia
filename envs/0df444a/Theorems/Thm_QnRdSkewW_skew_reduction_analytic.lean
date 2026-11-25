@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_QnRdSkewW_skew_reduction_analytic
+-- name    : QnRdSkewW.skew_reduction_analytic
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-25T06:05:44.607403+00:00
+-- url     : https://prove2.me/theorems/3756efdd-fb24-483e-a52d-8a4ed567fc72
+-- title:
+--   Qn Rd Skew W: skew reduction analytic
+-- statement:
+--   The Qn Rd Skew W construction uses the skew reduction analytic property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/SkewAnalyticGroup/Analytic.lean#L24-L134
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/SkewAnalyticGroup/Analytic.lean#L24-L134
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SkewAnalyticGroup_IntegrableOfContOn
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SkewAnalyticGroup_Analytic
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix MeasureTheory Filter Topology Set
+open scoped ContDiff ENNReal
+noncomputable section
+open QnRdSkewW
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.Q
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+
+theorem QnRdSkewW.skew_reduction_analytic : StepAnalytic := by sorry

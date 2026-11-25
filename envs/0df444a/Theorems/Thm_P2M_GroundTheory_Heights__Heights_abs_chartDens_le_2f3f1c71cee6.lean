@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_abs_chartDens_le_2f3f1c71cee6
 -- name    : P2M_GroundTheory_Heights__Heights_abs_chartDens_le_2f3f1c71cee6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:58:40.7468+00:00
 -- url     : https://prove2.me/theorems/28bdd37b-09d3-46b8-b86b-85828bc62d37

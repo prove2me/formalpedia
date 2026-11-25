@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumB_mulq_mul_point
 -- name    : GlobalTheory.Ex.NumB.mulq_mul_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:20:39.661834+00:00
 -- url     : https://prove2.me/theorems/2a7bca9a-966d-4898-8cc4-d712b1f16ad0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TermBasic_term_basic
 -- name    : GlobalTheory.HL.TermBasic.term_basic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:20:03.855829+00:00
 -- url     : https://prove2.me/theorems/7576bfb7-de9e-5cd1-a6fb-c4ad43191e06

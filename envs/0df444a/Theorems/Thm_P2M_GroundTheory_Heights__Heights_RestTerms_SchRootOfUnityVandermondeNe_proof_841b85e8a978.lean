@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchRootOfUnityVandermondeNe_proof_841b85e8a978
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchRootOfUnityVandermondeNe_proof_841b85e8a978
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:01:10.722945+00:00
 -- url     : https://prove2.me/theorems/49cef75f-e52c-4a80-8e30-2ec5faab65ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralPermute_proof_c7843aa748b1
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralPermute_proof_c7843aa748b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:01:00.961614+00:00
 -- url     : https://prove2.me/theorems/a4a8ebf5-0162-4826-9c8f-42103e21f1b1

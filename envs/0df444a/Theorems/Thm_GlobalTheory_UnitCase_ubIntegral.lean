@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_ubIntegral
 -- name    : GlobalTheory.UnitCase.ubIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:36:58.006164+00:00
 -- url     : https://prove2.me/theorems/84e41db0-e5bb-4d95-879c-b4b34aaa1c42

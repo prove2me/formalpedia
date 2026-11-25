@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarIntAdd_proof_5f0bc402ccc8
 -- name    : P2M_GroundTheory_Heights__Heights_VarIntAdd_proof_5f0bc402ccc8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:10:56.753593+00:00
 -- url     : https://prove2.me/theorems/bb857595-dd62-5ab2-ab80-c1162037d6ef

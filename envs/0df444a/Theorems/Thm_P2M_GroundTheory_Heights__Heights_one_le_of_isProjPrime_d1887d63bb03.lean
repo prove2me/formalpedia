@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_one_le_of_isProjPrime_d1887d63bb03
 -- name    : P2M_GroundTheory_Heights__Heights_one_le_of_isProjPrime_d1887d63bb03
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:04:37.236383+00:00
 -- url     : https://prove2.me/theorems/bb58a05d-7917-43f1-a889-0cf6bfca7e63

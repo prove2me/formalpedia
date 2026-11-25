@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_slope_bound_single_lift_of_definitions
 -- name    : Formalism.L2.Indef.Tree.slope_bound_single_lift_of_definitions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:46:07.832189+00:00
 -- url     : https://prove2.me/theorems/1cb72722-f2e9-4788-9d9a-957035d04433

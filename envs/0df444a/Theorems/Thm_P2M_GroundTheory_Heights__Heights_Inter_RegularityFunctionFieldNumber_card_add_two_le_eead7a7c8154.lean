@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularityFunctionFieldNumber_card_add_two_le_eead7a7c8154
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularityFunctionFieldNumber_card_add_two_le_eead7a7c8154
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:47:19.872794+00:00
 -- url     : https://prove2.me/theorems/fc89740c-10a8-51de-bf1b-229c4d775ea1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineNormalForm_exists_nat_mul_isIntegral_0b76cb35c68e
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineNormalForm_exists_nat_mul_isIntegral_0b76cb35c68e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:32:18.242794+00:00
 -- url     : https://prove2.me/theorems/bffc01db-c327-41d4-be3c-a4d8014ba756

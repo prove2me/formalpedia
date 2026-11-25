@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_sob_neg
 -- name    : GroundTheory.Automorphic.Sobolev.sob_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:51:20.121458+00:00
 -- url     : https://prove2.me/theorems/f97407f6-f48b-4e49-b296-d0f748e87866

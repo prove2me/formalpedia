@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finrank_logLattice
 -- name    : GroundTheory.Global.finrank_logLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:51:33.695961+00:00
 -- url     : https://prove2.me/theorems/aae10e41-0108-4486-9a60-e800eb2adc83

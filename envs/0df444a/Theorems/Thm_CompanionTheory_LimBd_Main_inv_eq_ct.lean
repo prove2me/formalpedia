@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_inv_eq_ct
 -- name    : CompanionTheory.LimBd.Main.inv_eq_ct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:54:03.18845+00:00
 -- url     : https://prove2.me/theorems/6afdab1b-5bb7-4e18-87bb-1f2fcbfd9462

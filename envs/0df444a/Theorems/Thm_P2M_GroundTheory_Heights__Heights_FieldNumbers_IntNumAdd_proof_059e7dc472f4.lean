@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_IntNumAdd_proof_059e7dc472f4
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_IntNumAdd_proof_059e7dc472f4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:40:25.085949+00:00
 -- url     : https://prove2.me/theorems/38761622-b8ef-4fd3-896f-631c193c30a2

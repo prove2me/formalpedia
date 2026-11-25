@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_LiftExp_zpow_lt
 -- name    : GlobalTheory.Cyc.LiftExp.zpow_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:58:13.763753+00:00
 -- url     : https://prove2.me/theorems/7efa53a9-8ec3-5fe3-8dbd-12b7dde0cb7d

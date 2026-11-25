@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RectangleTablePos_intersectionNumber_baseChange_ae6f04d8e84b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RectangleTablePos_intersectionNumber_baseChange_ae6f04d8e84b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:02:14.903894+00:00
 -- url     : https://prove2.me/theorems/7e5ce9ab-1d29-44bd-83ef-de69c227627d

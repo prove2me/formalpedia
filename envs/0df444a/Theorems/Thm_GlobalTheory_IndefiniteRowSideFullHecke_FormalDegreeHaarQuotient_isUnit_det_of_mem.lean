@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FormalDegreeHaarQuotient_isUnit_det_of_mem
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FormalDegreeHaarQuotient.isUnit_det_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:00:46.047672+00:00
 -- url     : https://prove2.me/theorems/0e801cb1-3c45-4f74-bc70-2780ecbc4db7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_CutoffsExist_proof_f4ff773d4377
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_CutoffsExist_proof_f4ff773d4377
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:30:50.575905+00:00
 -- url     : https://prove2.me/theorems/9071a65e-4c91-4b5d-ae6b-86e300a15b2b

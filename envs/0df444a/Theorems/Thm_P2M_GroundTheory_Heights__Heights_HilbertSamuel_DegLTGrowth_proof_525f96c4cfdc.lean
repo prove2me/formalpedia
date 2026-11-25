@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_DegLTGrowth_proof_525f96c4cfdc
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_DegLTGrowth_proof_525f96c4cfdc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:06:18.281469+00:00
 -- url     : https://prove2.me/theorems/a57fc3e5-ef7b-45e3-b6c4-c9680ca3f201

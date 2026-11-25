@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_flat_SB_onto
 -- name    : GlobalTheory.LocFlat.flat_SB_onto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:28:07.74789+00:00
 -- url     : https://prove2.me/theorems/360ed690-21ef-48ae-b24e-1abefdd046d3

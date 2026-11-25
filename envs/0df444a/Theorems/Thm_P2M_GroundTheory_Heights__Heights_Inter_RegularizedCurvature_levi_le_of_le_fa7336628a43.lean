@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_levi_le_of_le_fa7336628a43
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_levi_le_of_le_fa7336628a43
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:02:17.00733+00:00
 -- url     : https://prove2.me/theorems/f9be3ddf-c1f7-4c24-ab41-e50ff8cd1b77

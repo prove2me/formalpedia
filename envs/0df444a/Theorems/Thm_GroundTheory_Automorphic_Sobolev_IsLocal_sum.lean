@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_IsLocal_sum
 -- name    : GroundTheory.Automorphic.Sobolev.IsLocal.sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:59:50.285408+00:00
 -- url     : https://prove2.me/theorems/c13f94f8-5598-457f-8ed5-4e06071f24e5

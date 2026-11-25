@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_exists_compact_tail
 -- name    : Formalism.FourierDecayAlt.P.PBK.exists_compact_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:27:44.998792+00:00
 -- url     : https://prove2.me/theorems/916ca964-e44c-4d2a-aad9-4fb8b5879bb1

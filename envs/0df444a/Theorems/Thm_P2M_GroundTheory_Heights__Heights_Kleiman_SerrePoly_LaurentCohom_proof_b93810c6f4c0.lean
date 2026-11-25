@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SerrePoly_LaurentCohom_proof_b93810c6f4c0
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SerrePoly_LaurentCohom_proof_b93810c6f4c0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:32:05.605322+00:00
 -- url     : https://prove2.me/theorems/deadcd33-33c9-433e-8c7c-feffa3151566

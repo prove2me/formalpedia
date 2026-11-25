@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegMove_perp_smul
 -- name    : GlobalTheory.DegMove.perp_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:52:38.689179+00:00
 -- url     : https://prove2.me/theorems/8868d9b4-539f-51a6-9ad1-882555328052

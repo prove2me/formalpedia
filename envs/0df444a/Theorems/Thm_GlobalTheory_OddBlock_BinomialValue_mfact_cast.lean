@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_BinomialValue_mfact_cast
 -- name    : GlobalTheory.OddBlock.BinomialValue.mfact_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:32:56.501242+00:00
 -- url     : https://prove2.me/theorems/a0a474b8-ca3c-4dc1-9081-88c82b878232

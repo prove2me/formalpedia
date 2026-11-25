@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushChart_isCombAtG_comp
 -- name    : GlobalTheory.PushChart.isCombAtG_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:03:39.414956+00:00
 -- url     : https://prove2.me/theorems/ef0c1181-d69a-49e0-8be5-e510c6d7e72d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_ChartTorsion_proof_5ea1ab7636cd
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_ChartTorsion_proof_5ea1ab7636cd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:41:54.15072+00:00
 -- url     : https://prove2.me/theorems/7825e7c1-ddb1-4a4c-8368-7544a08c948c

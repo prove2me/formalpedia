@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Unimod_exists_mul_le
 -- name    : GlobalTheory.DegCnt.Unimod.exists_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:45:56.372979+00:00
 -- url     : https://prove2.me/theorems/c59a75cf-5d67-464e-9604-5b93d2376e61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FrameCramer_Dl_swap
 -- name    : GlobalTheory.DegCnt.FrameCramer.Dl_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:27:42.736657+00:00
 -- url     : https://prove2.me/theorems/5e662c03-8cc9-49aa-aed4-90dbadd568fd

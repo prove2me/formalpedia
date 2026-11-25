@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_prod_mB_right
 -- name    : GlobalTheory.FontCmp.prod_mB_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:29:05.590781+00:00
 -- url     : https://prove2.me/theorems/e626fde4-aa9b-428b-9b05-4e2e99c75ad0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchStrictAntiSplit_proof_5ab3f850d620
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchStrictAntiSplit_proof_5ab3f850d620
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:01:15.01298+00:00
 -- url     : https://prove2.me/theorems/96efbd48-b3ae-4071-bd28-9415ee42e8b5

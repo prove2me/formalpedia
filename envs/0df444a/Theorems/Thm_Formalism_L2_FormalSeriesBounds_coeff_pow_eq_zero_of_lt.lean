@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_pow_eq_zero_of_lt
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_pow_eq_zero_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:27:09.210827+00:00
 -- url     : https://prove2.me/theorems/72f6e5c6-ba79-4064-8ac1-1debaf60dbaa

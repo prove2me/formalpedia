@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PFDegree_equiv_3b6592683a09
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PFDegree_equiv_3b6592683a09
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:01:27.120924+00:00
 -- url     : https://prove2.me/theorems/d8cebf40-8596-427e-86a5-9c33a3fe4db0

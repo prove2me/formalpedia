@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_phi_analytic_cb4cbe93b925
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_phi_analytic_cb4cbe93b925
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:07.965171+00:00
 -- url     : https://prove2.me/theorems/378ecdbd-6310-482e-b804-24575e12a9bd

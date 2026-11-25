@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_VandermondeOfHomogeneous_proof_eb784eab83eb
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_VandermondeOfHomogeneous_proof_eb784eab83eb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:57.605796+00:00
 -- url     : https://prove2.me/theorems/e3f5766f-0d01-48b1-bda7-bf2cd9025608

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_leadForm_ne_zero_b013d2644888
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_leadForm_ne_zero_b013d2644888
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:38:29.645792+00:00
 -- url     : https://prove2.me/theorems/6ac38ca6-1e27-487c-ae10-788dfacc75ff

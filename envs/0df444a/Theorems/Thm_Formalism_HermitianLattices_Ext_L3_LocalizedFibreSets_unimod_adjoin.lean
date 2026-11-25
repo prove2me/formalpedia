@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalizedFibreSets_unimod_adjoin
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalizedFibreSets.unimod_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:43:56.23427+00:00
 -- url     : https://prove2.me/theorems/9498e42f-20e2-5688-89a3-851706112fde

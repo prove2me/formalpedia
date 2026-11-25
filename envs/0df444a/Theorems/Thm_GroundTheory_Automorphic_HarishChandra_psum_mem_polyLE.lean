@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_psum_mem_polyLE
 -- name    : GroundTheory.Automorphic.HarishChandra.psum_mem_polyLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:04:16.990315+00:00
 -- url     : https://prove2.me/theorems/31158554-9e97-4a2a-aa4d-2807ccc025b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_sum_diagMain_capelliWord
 -- name    : GroundTheory.Automorphic.HarishChandra.sum_diagMain_capelliWord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:04:25.782339+00:00
 -- url     : https://prove2.me/theorems/b44d4fb5-f013-42d5-b328-2af4de726fda

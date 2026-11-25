@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_TorusInvariantLevi_sum_cross_eq_levi_b160f656bbd5
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_TorusInvariantLevi_sum_cross_eq_levi_b160f656bbd5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:49.498841+00:00
 -- url     : https://prove2.me/theorems/5467f782-a7ec-48d8-83d7-9533784c0d60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistBound_det_ccT
 -- name    : GlobalTheory.SW.TwistBound.det_ccT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:21:45.148781+00:00
 -- url     : https://prove2.me/theorems/c2c98253-f4ab-58f6-ab01-eb9a78d9ffb2

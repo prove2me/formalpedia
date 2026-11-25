@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Mul_add_rule
 -- name    : Formalism.L2.Th1.B.Mul.add_rule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:27:24.217947+00:00
 -- url     : https://prove2.me/theorems/5121d4ef-5c97-5229-8678-0a404c99634b

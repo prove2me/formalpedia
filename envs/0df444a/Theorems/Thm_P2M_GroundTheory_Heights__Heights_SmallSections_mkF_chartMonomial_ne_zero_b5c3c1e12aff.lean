@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SmallSections_mkF_chartMonomial_ne_zero_b5c3c1e12aff
 -- name    : P2M_GroundTheory_Heights__Heights_SmallSections_mkF_chartMonomial_ne_zero_b5c3c1e12aff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:39:35.099193+00:00
 -- url     : https://prove2.me/theorems/9c2bdddd-32a3-5c29-81fc-0b2fb2c385fa

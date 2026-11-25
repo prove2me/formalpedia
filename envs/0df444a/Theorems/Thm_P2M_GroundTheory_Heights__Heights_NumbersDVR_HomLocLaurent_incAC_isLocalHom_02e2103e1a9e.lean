@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocLaurent_incAC_isLocalHom_02e2103e1a9e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocLaurent_incAC_isLocalHom_02e2103e1a9e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:29:17.225729+00:00
 -- url     : https://prove2.me/theorems/c055f558-87d4-42dc-b3e0-cac843683ce5

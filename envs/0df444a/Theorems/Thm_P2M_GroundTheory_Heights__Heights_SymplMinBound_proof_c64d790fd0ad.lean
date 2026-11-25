@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplMinBound_proof_c64d790fd0ad
 -- name    : P2M_GroundTheory_Heights__Heights_SymplMinBound_proof_c64d790fd0ad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:18:12.621954+00:00
 -- url     : https://prove2.me/theorems/517a669a-2de6-487a-8830-7d73876e4be5

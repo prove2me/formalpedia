@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_HyperbolicPairTransitive_sesq_swap_9b7db62729c5
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_HyperbolicPairTransitive_sesq_swap_9b7db62729c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:51:34.414561+00:00
 -- url     : https://prove2.me/theorems/1b7c6002-e217-47b1-844b-d4947dee48e1

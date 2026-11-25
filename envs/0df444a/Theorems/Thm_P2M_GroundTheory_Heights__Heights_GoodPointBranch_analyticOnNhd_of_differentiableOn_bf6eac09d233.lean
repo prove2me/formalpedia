@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodPointBranch_analyticOnNhd_of_differentiableOn_bf6eac09d233
 -- name    : P2M_GroundTheory_Heights__Heights_GoodPointBranch_analyticOnNhd_of_differentiableOn_bf6eac09d233
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:52.521794+00:00
 -- url     : https://prove2.me/theorems/0b249805-64cb-4489-b8ee-34730f8df1a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchurSignCoefficient_proof_567c051d0467
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchurSignCoefficient_proof_567c051d0467
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:02:11.326723+00:00
 -- url     : https://prove2.me/theorems/2e884296-1303-481a-a981-5cf7e8919903

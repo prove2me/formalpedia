@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HilbFnVanishBlock_proof_30f55825ab61
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HilbFnVanishBlock_proof_30f55825ab61
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:27:33.323045+00:00
 -- url     : https://prove2.me/theorems/51476311-2bba-4add-ad1c-df23f076ee9a

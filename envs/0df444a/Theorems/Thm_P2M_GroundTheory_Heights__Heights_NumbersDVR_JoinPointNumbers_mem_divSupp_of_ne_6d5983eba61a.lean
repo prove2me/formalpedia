@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointNumbers_mem_divSupp_of_ne_6d5983eba61a
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointNumbers_mem_divSupp_of_ne_6d5983eba61a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:29:31.819133+00:00
 -- url     : https://prove2.me/theorems/60d5074f-f380-4341-83e0-a9473ee501ad

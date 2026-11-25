@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_NormIdentity_proof_a9df3967635c
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_NormIdentity_proof_a9df3967635c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:44:14.351873+00:00
 -- url     : https://prove2.me/theorems/be6f437a-557f-404e-8647-5cb52cc99189

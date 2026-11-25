@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_ReflectionLatticeMembership_line_le
 -- name    : GlobalTheory.DegCnt.ReflectionLatticeMembership.line_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:26:19.193412+00:00
 -- url     : https://prove2.me/theorems/f1dc3b4d-572b-4fec-abec-f0ed6a8ad09b

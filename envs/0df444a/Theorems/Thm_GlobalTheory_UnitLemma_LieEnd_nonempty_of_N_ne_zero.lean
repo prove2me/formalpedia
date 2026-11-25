@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_LieEnd_nonempty_of_N_ne_zero
 -- name    : GlobalTheory.UnitLemma.LieEnd.nonempty_of_N_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:03:36.111798+00:00
 -- url     : https://prove2.me/theorems/ca6bb9b9-ab3a-473c-8d27-20b5701d526a

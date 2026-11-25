@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_zMap
 -- name    : Formalism.L2.Th1.A.zMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:56:47.155506+00:00
 -- url     : https://prove2.me/theorems/126c17cb-1284-52b1-be19-d9138d46489f

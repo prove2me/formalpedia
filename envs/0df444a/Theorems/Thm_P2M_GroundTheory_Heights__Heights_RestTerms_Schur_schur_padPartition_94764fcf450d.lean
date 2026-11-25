@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Schur_schur_padPartition_94764fcf450d
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Schur_schur_padPartition_94764fcf450d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:27:09.748511+00:00
 -- url     : https://prove2.me/theorems/18d19f11-d014-48e3-9724-f7a403303b83

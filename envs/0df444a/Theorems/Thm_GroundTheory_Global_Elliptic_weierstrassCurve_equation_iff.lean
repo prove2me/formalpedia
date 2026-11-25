@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_weierstrassCurve_equation_iff
 -- name    : GroundTheory.Global.Elliptic.weierstrassCurve_equation_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:05:45.532596+00:00
 -- url     : https://prove2.me/theorems/564ef946-564f-51e0-9fbc-5a4616039686

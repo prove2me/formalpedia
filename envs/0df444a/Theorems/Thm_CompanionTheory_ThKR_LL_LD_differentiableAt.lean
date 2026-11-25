@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_LD_differentiableAt
 -- name    : CompanionTheory.ThKR.LL.LD.differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:00:56.692552+00:00
 -- url     : https://prove2.me/theorems/044f0533-590c-4331-b78b-c141c71a3392

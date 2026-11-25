@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionSmall_live_of_ne_76717d206e78
 -- name    : P2M_GroundTheory_Heights__Heights_SectionSmall_live_of_ne_76717d206e78
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:37:20.007467+00:00
 -- url     : https://prove2.me/theorems/37d1d9f8-a0be-475b-91e0-97c6acb2a04e

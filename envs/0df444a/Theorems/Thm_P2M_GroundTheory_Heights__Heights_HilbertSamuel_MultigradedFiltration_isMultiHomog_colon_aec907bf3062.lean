@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_isMultiHomog_colon_aec907bf3062
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_isMultiHomog_colon_aec907bf3062
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:09:16.05158+00:00
 -- url     : https://prove2.me/theorems/7dfab54d-6f5c-4380-b406-f1d6e3991160

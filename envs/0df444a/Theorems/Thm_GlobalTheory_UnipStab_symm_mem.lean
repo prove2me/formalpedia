@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipStab_symm_mem
 -- name    : GlobalTheory.UnipStab.symm_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:11:58.242162+00:00
 -- url     : https://prove2.me/theorems/33422d42-f4bb-4aa6-9056-d58ad87ac494

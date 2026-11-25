@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussDetFactor_proof_04dbed974b95
 -- name    : P2M_GroundTheory_Heights__Heights_GaussDetFactor_proof_04dbed974b95
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:21:26.310443+00:00
 -- url     : https://prove2.me/theorems/6e0ba450-8beb-438a-816c-368e39638140

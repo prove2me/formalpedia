@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_tendsto_err
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.tendsto_err
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:03:01.79808+00:00
 -- url     : https://prove2.me/theorems/66585e8e-4801-551c-81f8-88e7d569405e

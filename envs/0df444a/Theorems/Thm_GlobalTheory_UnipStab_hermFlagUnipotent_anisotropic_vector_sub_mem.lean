@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipStab_hermFlagUnipotent_anisotropic_vector_sub_mem
 -- name    : GlobalTheory.UnipStab.hermFlagUnipotent_anisotropic_vector_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:09:04.39563+00:00
 -- url     : https://prove2.me/theorems/bec43cfc-6324-5c1e-a4ec-f15de23d6f88

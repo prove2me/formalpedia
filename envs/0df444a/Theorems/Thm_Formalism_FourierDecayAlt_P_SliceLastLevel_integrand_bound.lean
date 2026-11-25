@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_integrand_bound
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.integrand_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:08:07.181827+00:00
 -- url     : https://prove2.me/theorems/533a6f86-088d-4f02-a39c-ac7196cc615f

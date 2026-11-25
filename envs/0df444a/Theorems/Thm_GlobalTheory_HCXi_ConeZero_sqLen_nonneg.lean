@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeZero_sqLen_nonneg
 -- name    : GlobalTheory.HCXi.ConeZero.sqLen_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:30:00.818239+00:00
 -- url     : https://prove2.me/theorems/42817f0d-906b-5748-9940-9ca3fe265e58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_mulVec_liftVec
 -- name    : PIQnLT.mulVec_liftVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:17:43.103397+00:00
 -- url     : https://prove2.me/theorems/af091d2c-ac01-4464-be01-0e8f6e13a590

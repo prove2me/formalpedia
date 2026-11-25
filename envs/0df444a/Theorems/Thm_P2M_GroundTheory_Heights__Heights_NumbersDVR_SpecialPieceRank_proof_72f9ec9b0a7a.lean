@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SpecialPieceRank_proof_72f9ec9b0a7a
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SpecialPieceRank_proof_72f9ec9b0a7a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:30:12.61882+00:00
 -- url     : https://prove2.me/theorems/705a5ac4-782a-43b8-b639-e767753b5906

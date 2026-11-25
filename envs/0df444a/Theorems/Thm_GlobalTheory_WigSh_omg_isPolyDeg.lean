@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_omg_isPolyDeg
 -- name    : GlobalTheory.WigSh.omg_isPolyDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:37:29.29548+00:00
 -- url     : https://prove2.me/theorems/60dca7cf-dbe3-414e-8913-b5f416f413ff

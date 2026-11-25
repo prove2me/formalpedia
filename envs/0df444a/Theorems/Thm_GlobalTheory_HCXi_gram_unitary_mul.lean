@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_gram_unitary_mul
 -- name    : GlobalTheory.HCXi.gram_unitary_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:28:02.075878+00:00
 -- url     : https://prove2.me/theorems/ce407609-41c3-5bb4-a494-b5e965a7999f

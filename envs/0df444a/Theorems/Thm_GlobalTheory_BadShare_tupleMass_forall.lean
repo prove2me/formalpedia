@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_tupleMass_forall
 -- name    : GlobalTheory.BadShare.tupleMass_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:30:57.580412+00:00
 -- url     : https://prove2.me/theorems/6f19bc97-dead-42b5-a6c2-fafd0a27b8a9

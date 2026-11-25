@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Cube_trunc_Incl_bijective_15000a487b45
 -- name    : P2M_GlobalTheory_Cube_trunc_Incl_bijective_15000a487b45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:05:58.243615+00:00
 -- url     : https://prove2.me/theorems/9cd6d4bf-c7eb-5365-bc21-c472ca56d046

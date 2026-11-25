@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_eq_of_continuousAt_e738391b5387
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_eq_of_continuousAt_e738391b5387
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:17:25.851788+00:00
 -- url     : https://prove2.me/theorems/3c986f74-ea97-4a0c-b6cf-18f1444d7d4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_ddConst_psumAt_mul_5fb3aa7ed198
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_ddConst_psumAt_mul_5fb3aa7ed198
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:46:30.027036+00:00
 -- url     : https://prove2.me/theorems/64bb3378-f711-4802-a86e-137aff15b652

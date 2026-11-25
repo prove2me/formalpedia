@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_iso_big
 -- name    : CompanionTheory.ThKR.LL.iso_big
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:05.035457+00:00
 -- url     : https://prove2.me/theorems/0ad12062-2635-40c1-956d-775eb68b4f47

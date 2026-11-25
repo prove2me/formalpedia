@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_OpBound_congr_idx
 -- name    : GroundTheory.Automorphic.Sobolev.OpBound.congr_idx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:19:43.865973+00:00
 -- url     : https://prove2.me/theorems/4c9169da-51bc-4815-ba43-491875e9bc1c

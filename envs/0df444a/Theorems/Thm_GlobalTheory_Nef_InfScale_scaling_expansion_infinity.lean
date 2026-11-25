@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_InfScale_scaling_expansion_infinity
 -- name    : GlobalTheory.Nef.InfScale.scaling_expansion_infinity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:00:26.32611+00:00
 -- url     : https://prove2.me/theorems/880c117e-5cf3-49ce-9fab-27d211b28536

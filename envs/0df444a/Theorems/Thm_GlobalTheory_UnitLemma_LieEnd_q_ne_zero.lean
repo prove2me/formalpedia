@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_LieEnd_q_ne_zero
 -- name    : GlobalTheory.UnitLemma.LieEnd.q_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:04:05.077859+00:00
 -- url     : https://prove2.me/theorems/ec04bffa-045c-4170-9f1a-32b45969ae7b

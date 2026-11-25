@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_ParAlgIndep_proof_e1c5efead5be
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_ParAlgIndep_proof_e1c5efead5be
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:41:53.152432+00:00
 -- url     : https://prove2.me/theorems/c9d0a592-6283-4555-8d65-71dc03a83db8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_prim_of_map
 -- name    : GlobalTheory.GramCount.prim_of_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:19:57.312138+00:00
 -- url     : https://prove2.me/theorems/f3014d66-7ce0-4271-9c67-6bfe776b62b2

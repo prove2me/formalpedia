@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_coindConst_apply
 -- name    : GroundTheory.GroupCoh.coindConst_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:04:10.832417+00:00
 -- url     : https://prove2.me/theorems/39b33ea8-4bc5-4dd7-a8ea-0a6b9e1ecf48

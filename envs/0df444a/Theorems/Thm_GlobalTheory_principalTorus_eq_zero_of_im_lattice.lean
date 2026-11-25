@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_principalTorus_eq_zero_of_im_lattice
 -- name    : GlobalTheory.principalTorus_eq_zero_of_im_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:59:37.491275+00:00
 -- url     : https://prove2.me/theorems/b7e33929-6d73-4fd8-b735-a47605592d46

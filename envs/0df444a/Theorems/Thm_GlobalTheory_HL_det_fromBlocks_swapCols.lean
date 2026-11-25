@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_det_fromBlocks_swapCols
 -- name    : GlobalTheory.HL.det_fromBlocks_swapCols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:15:41.030497+00:00
 -- url     : https://prove2.me/theorems/9f5c3f23-fe45-46f0-b0a5-0b38a3dc81e8

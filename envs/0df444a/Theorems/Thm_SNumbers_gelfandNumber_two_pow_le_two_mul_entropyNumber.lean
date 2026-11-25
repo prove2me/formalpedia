@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_two_pow_le_two_mul_entropyNumber
 -- name    : SNumbers.gelfandNumber_two_pow_le_two_mul_entropyNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:21:54.66281+00:00
 -- url     : https://prove2.me/theorems/d5f9cc7d-c235-5336-bb0c-800150e1b256

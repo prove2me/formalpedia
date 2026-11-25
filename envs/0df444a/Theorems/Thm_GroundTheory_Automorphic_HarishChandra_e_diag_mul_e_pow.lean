@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_e_diag_mul_e_pow
 -- name    : GroundTheory.Automorphic.HarishChandra.e_diag_mul_e_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:53:56.019578+00:00
 -- url     : https://prove2.me/theorems/f73c6427-adc2-53ca-bb66-0909a33e537a

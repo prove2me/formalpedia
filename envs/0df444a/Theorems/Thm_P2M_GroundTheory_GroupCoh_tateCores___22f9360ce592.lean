@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_tateCores___22f9360ce592
 -- name    : P2M_GroundTheory_GroupCoh_tateCores___22f9360ce592
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:55:22.559775+00:00
 -- url     : https://prove2.me/theorems/d78e347b-68f4-481c-9199-a958db4fbf24

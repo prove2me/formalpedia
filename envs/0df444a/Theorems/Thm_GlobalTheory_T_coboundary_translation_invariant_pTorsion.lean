@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coboundary_translation_invariant_pTorsion
 -- name    : GlobalTheory.T.coboundary_translation_invariant_pTorsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:56:13.84472+00:00
 -- url     : https://prove2.me/theorems/c24f642d-ffc8-4ab5-a5c7-26cf794fc92d

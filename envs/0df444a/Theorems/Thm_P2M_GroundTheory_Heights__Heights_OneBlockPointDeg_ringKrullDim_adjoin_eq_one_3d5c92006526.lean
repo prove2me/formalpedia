@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OneBlockPointDeg_ringKrullDim_adjoin_eq_one_3d5c92006526
 -- name    : P2M_GroundTheory_Heights__Heights_OneBlockPointDeg_ringKrullDim_adjoin_eq_one_3d5c92006526
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:20:14.625736+00:00
 -- url     : https://prove2.me/theorems/e4a81588-c8d0-5f41-8ed3-925ce504289f

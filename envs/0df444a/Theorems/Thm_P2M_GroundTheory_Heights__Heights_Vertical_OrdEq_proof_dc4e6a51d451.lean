@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_OrdEq_proof_dc4e6a51d451
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_OrdEq_proof_dc4e6a51d451
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:42:08.182988+00:00
 -- url     : https://prove2.me/theorems/5f0a7720-643f-4211-9450-b28975911d6a

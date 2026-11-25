@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_C_charOf_mem_ae3c5b4eba75
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_C_charOf_mem_ae3c5b4eba75
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:36:52.693962+00:00
 -- url     : https://prove2.me/theorems/a65baebd-983b-5820-aed2-d00f31355d22

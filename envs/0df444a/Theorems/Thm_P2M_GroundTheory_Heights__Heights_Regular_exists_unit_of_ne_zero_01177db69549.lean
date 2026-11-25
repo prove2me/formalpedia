@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_exists_unit_of_ne_zero_01177db69549
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_exists_unit_of_ne_zero_01177db69549
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:37.675023+00:00
 -- url     : https://prove2.me/theorems/aec48c17-0886-45a0-ae2c-290964b90a43

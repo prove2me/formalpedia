@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_additiveFunctions_flatBaseChange_bijective
 -- name    : GlobalTheory.T.additiveFunctions_flatBaseChange_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:12:58.319643+00:00
 -- url     : https://prove2.me/theorems/bc8f0aad-5a8c-45d8-8082-bbe7c3f4358d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_re_inner_le_on_image_of_intertwining__54cc34e9f289
 -- name    : P2M_GlobalTheory_T_re_inner_le_on_image_of_intertwining__54cc34e9f289
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:40:01.668877+00:00
 -- url     : https://prove2.me/theorems/8b509b64-871c-595d-b8e3-cbc9a3d7144e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_contDiff_remSum
 -- name    : GroundTheory.Automorphic.LineKernel.contDiff_remSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:03:32.226008+00:00
 -- url     : https://prove2.me/theorems/c81cf7bf-bc52-4da8-8b59-af2ade7b1627

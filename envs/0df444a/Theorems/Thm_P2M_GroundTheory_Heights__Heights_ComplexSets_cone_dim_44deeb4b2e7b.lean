@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_cone_dim_44deeb4b2e7b
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_cone_dim_44deeb4b2e7b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:50:58.541314+00:00
 -- url     : https://prove2.me/theorems/066f15c0-f031-493b-978e-c7d22e966a8b

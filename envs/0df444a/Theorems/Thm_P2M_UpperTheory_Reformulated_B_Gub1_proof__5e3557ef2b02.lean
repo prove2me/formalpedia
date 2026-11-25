@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Gub1_proof__5e3557ef2b02
 -- name    : P2M_UpperTheory_Reformulated_B_Gub1_proof__5e3557ef2b02
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:10:03.817698+00:00
 -- url     : https://prove2.me/theorems/9c516c90-8eae-5611-898b-a881ebd58a0f

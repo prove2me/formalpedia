@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_tendsto_smul_cocompact
 -- name    : Formalism.FourierDecayAlt.P.PBK.tendsto_smul_cocompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:01:35.13352+00:00
 -- url     : https://prove2.me/theorems/0ec27bb4-0435-54a9-a825-bcfa807c72b4

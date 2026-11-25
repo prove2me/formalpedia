@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_UnimodularLocalization_nondegenerate
 -- name    : Formalism.HermitianLattices.Ext.L3.UnimodularLocalization.nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:24:53.514834+00:00
 -- url     : https://prove2.me/theorems/9b827b2c-51af-4656-b0a9-cbb787415e44

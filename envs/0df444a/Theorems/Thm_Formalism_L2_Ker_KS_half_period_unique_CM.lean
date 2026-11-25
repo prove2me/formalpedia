@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Ker_KS_half_period_unique_CM
 -- name    : Formalism.L2.Ker.KS.half_period_unique_CM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:05:27.805625+00:00
 -- url     : https://prove2.me/theorems/acb883db-e7a7-4863-85ed-f7c841afdc44

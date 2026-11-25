@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestPrimeBoundOfFactor_proof_99faba5c2a4b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestPrimeBoundOfFactor_proof_99faba5c2a4b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:01:12.917804+00:00
 -- url     : https://prove2.me/theorems/5008810d-b22b-4ab8-950b-a4b559f1017f

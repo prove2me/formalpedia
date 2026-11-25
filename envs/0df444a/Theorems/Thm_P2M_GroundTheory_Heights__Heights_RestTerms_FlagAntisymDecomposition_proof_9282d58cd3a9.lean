@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagAntisymDecomposition_proof_9282d58cd3a9
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagAntisymDecomposition_proof_9282d58cd3a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:02:02.569832+00:00
 -- url     : https://prove2.me/theorems/742860a3-d631-4085-a291-6a3f48a03a7c

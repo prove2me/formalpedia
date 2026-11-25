@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_unitComponent_mul_mem
 -- name    : GlobalTheory.mem_unitComponent_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:12:29.200399+00:00
 -- url     : https://prove2.me/theorems/6cb10d03-6e61-4928-80d2-656db7e499f9

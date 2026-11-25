@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_isMultiHomog_of_isChowForm_129f76209172
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_isMultiHomog_of_isChowForm_129f76209172
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:09:50.990632+00:00
 -- url     : https://prove2.me/theorems/f9afe8a8-d9d6-434b-a009-0b11ce5f3ae7

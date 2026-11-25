@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_tupleMass_le_add
 -- name    : GlobalTheory.BadShare.tupleMass_le_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:29:17.538221+00:00
 -- url     : https://prove2.me/theorems/9fbd20b4-f7e2-5097-b920-a6fb6ff737fd

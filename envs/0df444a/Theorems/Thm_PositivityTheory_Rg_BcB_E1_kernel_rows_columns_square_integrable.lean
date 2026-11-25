@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_kernel_rows_columns_square_integrable
 -- name    : PositivityTheory.Rg.BcB.E1.kernel_rows_columns_square_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:37:19.679813+00:00
 -- url     : https://prove2.me/theorems/b518a2e3-a47b-47a9-928b-403edbf3d1ac

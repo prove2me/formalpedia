@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_component_lex_mem_d13b7ad741bd
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_component_lex_mem_d13b7ad741bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:13.929706+00:00
 -- url     : https://prove2.me/theorems/dda51449-2f56-536b-99bf-844559484a4a

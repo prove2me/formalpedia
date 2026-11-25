@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_PiMeasureScaling_pi_reindex_scale
 -- name    : Formalism.L2.SG.PiMeasureScaling.pi_reindex_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:13:27.021508+00:00
 -- url     : https://prove2.me/theorems/99042a5f-b90d-41fe-957e-a82a0f1aa9ff

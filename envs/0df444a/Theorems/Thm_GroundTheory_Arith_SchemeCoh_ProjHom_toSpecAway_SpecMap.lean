@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjHom_toSpecAway_SpecMap
 -- name    : GroundTheory.Arith.SchemeCoh.ProjHom.toSpecAway_SpecMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:34:33.272794+00:00
 -- url     : https://prove2.me/theorems/0bf3f913-1b50-53ad-9974-0070b0bf88db

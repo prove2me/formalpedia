@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_LatticeGens_gens_and_count
 -- name    : GlobalTheory.Mass.LatticeGens.gens_and_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:33:40.063321+00:00
 -- url     : https://prove2.me/theorems/78f5ae3e-613b-5bc6-a9b8-a5d62e79bf3f

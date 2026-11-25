@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_exists_haar_density_prodExp
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.exists_haar_density_prodExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:38:01.47526+00:00
 -- url     : https://prove2.me/theorems/a651cf90-2cc9-414f-92ab-35bfaf17b253

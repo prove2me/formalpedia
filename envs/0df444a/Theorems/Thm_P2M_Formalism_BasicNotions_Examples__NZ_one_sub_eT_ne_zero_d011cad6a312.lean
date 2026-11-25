@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_one_sub_eT_ne_zero_d011cad6a312
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_one_sub_eT_ne_zero_d011cad6a312
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:54:38.310179+00:00
 -- url     : https://prove2.me/theorems/70b1a80c-a7eb-56e6-9189-2e8c0a101958

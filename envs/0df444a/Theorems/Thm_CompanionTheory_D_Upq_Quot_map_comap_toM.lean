@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Quot_map_comap_toM
 -- name    : CompanionTheory.D.Upq.Quot.map_comap_toM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:29:39.046537+00:00
 -- url     : https://prove2.me/theorems/7f132e4d-98de-5ea5-aee3-90e924dbf83f

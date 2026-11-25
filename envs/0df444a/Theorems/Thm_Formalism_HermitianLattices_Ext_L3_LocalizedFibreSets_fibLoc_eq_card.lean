@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalizedFibreSets_fibLoc_eq_card
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalizedFibreSets.fibLoc_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:48:10.199976+00:00
 -- url     : https://prove2.me/theorems/100597d5-fb5c-46ae-898d-79c6f93a72cd

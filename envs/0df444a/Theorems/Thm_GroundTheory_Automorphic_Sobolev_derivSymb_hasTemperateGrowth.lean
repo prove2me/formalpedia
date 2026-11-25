@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_derivSymb_hasTemperateGrowth
 -- name    : GroundTheory.Automorphic.Sobolev.derivSymb_hasTemperateGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:00:06.147898+00:00
 -- url     : https://prove2.me/theorems/480566e2-175c-4501-accf-108201920403

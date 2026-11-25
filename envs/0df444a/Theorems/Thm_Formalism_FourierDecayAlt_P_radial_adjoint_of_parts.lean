@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_radial_adjoint_of_parts
 -- name    : Formalism.FourierDecayAlt.P.radial_adjoint_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:40:22.346238+00:00
 -- url     : https://prove2.me/theorems/2d718cc9-a61d-40ba-b515-04f43a01ceaa

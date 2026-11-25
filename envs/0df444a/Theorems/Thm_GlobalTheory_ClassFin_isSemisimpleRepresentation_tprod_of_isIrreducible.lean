@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_isSemisimpleRepresentation_tprod_of_isIrreducible
 -- name    : GlobalTheory.ClassFin.isSemisimpleRepresentation_tprod_of_isIrreducible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:02:10.294799+00:00
 -- url     : https://prove2.me/theorems/384b62ac-9a7b-4479-8f8c-aab016ed029d

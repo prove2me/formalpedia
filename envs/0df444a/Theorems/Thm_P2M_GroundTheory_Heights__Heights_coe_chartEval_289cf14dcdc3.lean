@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_coe_chartEval_289cf14dcdc3
 -- name    : P2M_GroundTheory_Heights__Heights_coe_chartEval_289cf14dcdc3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:45:11.920829+00:00
 -- url     : https://prove2.me/theorems/3c21c899-3041-40a9-bbd5-e91d716c84dc

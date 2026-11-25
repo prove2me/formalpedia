@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjHom_specCorr_comp
 -- name    : GroundTheory.Arith.SchemeCoh.ProjHom.specCorr_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:33:13.664797+00:00
 -- url     : https://prove2.me/theorems/9639bcca-d58f-4f43-ac91-4557019b413e

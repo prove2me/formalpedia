@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_enorm_weight_mul_fourier_commRem_le
 -- name    : GroundTheory.Automorphic.Sobolev.enorm_weight_mul_fourier_commRem_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:13:17.909731+00:00
 -- url     : https://prove2.me/theorems/046f744d-404f-502e-8452-0a691a405133

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceCut_contDiff_7cec4fd39f55
 -- name    : P2M_GroundTheory_Heights__Heights_SliceCut_contDiff_7cec4fd39f55
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:48:04.314285+00:00
 -- url     : https://prove2.me/theorems/2bc03c65-2bc3-40e4-8a6f-b155f885656e

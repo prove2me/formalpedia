@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_rep_apply_of_highestWeight
 -- name    : GroundTheory.Automorphic.HarishChandra.rep_apply_of_highestWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:24:34.573801+00:00
 -- url     : https://prove2.me/theorems/dcd88a0d-078f-4b53-b81e-503e408829c6

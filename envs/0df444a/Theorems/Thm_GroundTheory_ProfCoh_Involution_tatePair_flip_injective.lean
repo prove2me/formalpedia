@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_Involution_tatePair_flip_injective
 -- name    : GroundTheory.ProfCoh.Involution.tatePair_flip_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:10:53.71924+00:00
 -- url     : https://prove2.me/theorems/7c6a3faf-21d1-5743-922d-ccff2c3c8791

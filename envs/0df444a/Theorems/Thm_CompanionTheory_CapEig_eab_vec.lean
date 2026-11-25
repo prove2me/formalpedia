@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_eab_vec
 -- name    : CompanionTheory.CapEig.eab_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:54:08.058896+00:00
 -- url     : https://prove2.me/theorems/82b3f44b-7a34-47ea-9077-39e40c5383fa

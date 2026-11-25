@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_norm_l_lt
 -- name    : GlobalTheory.TateDecomp.norm_l_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:53:14.554585+00:00
 -- url     : https://prove2.me/theorems/a244bc37-4533-43af-b03e-432563672dbe

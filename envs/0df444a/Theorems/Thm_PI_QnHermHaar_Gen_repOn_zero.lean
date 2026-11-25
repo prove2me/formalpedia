@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_Gen_repOn_zero
 -- name    : PI.QnHermHaar.Gen.repOn_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:16:25.494791+00:00
 -- url     : https://prove2.me/theorems/4be4a9b2-e58d-4242-ad67-b3de0ecfaa13

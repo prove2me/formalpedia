@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_metaplectic_schwartz_smooth
 -- name    : GlobalTheory.RealWeil.metaplectic_schwartz_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:16:23.073008+00:00
 -- url     : https://prove2.me/theorems/ae347005-ea73-4f21-9763-5f104e78833a

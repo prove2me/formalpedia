@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_IdemCusp_mul_mem_SS
 -- name    : GlobalTheory.Reg.IdemCusp.mul_mem_SS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:18:34.012435+00:00
 -- url     : https://prove2.me/theorems/13ce3f8b-d3f1-4c7a-9fb8-80b5bc8900a4

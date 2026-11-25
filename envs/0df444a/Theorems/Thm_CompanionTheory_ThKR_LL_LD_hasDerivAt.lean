@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_LD_hasDerivAt
 -- name    : CompanionTheory.ThKR.LL.LD.hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:00:10.06628+00:00
 -- url     : https://prove2.me/theorems/79ebd797-340e-4216-9ae5-323eeb88c286

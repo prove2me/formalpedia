@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLevelExists_exists_isSymLevel
 -- name    : GlobalTheory.SymLevelExists.exists_isSymLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:10:22.833515+00:00
 -- url     : https://prove2.me/theorems/510a5038-586d-49ea-9654-611d96b8074a

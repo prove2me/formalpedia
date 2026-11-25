@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_OrthProjection_proof_1cb5e0297f2f
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_OrthProjection_proof_1cb5e0297f2f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:56.54661+00:00
 -- url     : https://prove2.me/theorems/632f94ba-a799-40fa-a191-3ae6aa8c4709

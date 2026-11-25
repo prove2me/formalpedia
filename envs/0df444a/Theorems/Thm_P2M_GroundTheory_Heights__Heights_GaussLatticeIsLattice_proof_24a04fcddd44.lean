@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussLatticeIsLattice_proof_24a04fcddd44
 -- name    : P2M_GroundTheory_Heights__Heights_GaussLatticeIsLattice_proof_24a04fcddd44
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:18:47.960278+00:00
 -- url     : https://prove2.me/theorems/17d8f868-0d84-44a4-9d52-1f8c5e906c35

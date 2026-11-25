@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_HilbertPrime_proof_fb04600de6ab
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_HilbertPrime_proof_fb04600de6ab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:06:07.531926+00:00
 -- url     : https://prove2.me/theorems/c608661d-a8cf-47b6-a807-76af02b7425d

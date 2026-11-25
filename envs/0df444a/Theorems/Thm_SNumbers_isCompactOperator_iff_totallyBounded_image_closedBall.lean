@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_isCompactOperator_iff_totallyBounded_image_closedBall
 -- name    : SNumbers.isCompactOperator_iff_totallyBounded_image_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:23:38.489081+00:00
 -- url     : https://prove2.me/theorems/4ee1065a-2b40-4c38-85c8-e66cebc2c7dc

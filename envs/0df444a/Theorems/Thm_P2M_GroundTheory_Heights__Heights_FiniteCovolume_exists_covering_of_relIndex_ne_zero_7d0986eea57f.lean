@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_exists_covering_of_relIndex_ne_zero_7d0986eea57f
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_exists_covering_of_relIndex_ne_zero_7d0986eea57f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:38:09.646842+00:00
 -- url     : https://prove2.me/theorems/e934a5ef-ff12-453e-80f1-b68bd7fcc6a5

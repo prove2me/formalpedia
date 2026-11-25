@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Q2_nadd
 -- name    : Formalism.L2.Th1.A.Q2.nadd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:58:02.204811+00:00
 -- url     : https://prove2.me/theorems/d5986a34-ea5d-5f03-abce-d9df4807ba70

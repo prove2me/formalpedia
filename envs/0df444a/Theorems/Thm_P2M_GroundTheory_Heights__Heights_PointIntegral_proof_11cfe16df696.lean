@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointIntegral_proof_11cfe16df696
 -- name    : P2M_GroundTheory_Heights__Heights_PointIntegral_proof_11cfe16df696
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:10:18.771345+00:00
 -- url     : https://prove2.me/theorems/f32d12b8-fe95-48f4-ad63-476df2711837

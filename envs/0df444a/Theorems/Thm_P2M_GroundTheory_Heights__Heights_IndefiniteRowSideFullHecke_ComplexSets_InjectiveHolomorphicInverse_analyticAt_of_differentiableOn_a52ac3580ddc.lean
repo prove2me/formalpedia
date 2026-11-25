@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_InjectiveHolomorphicInverse_analyticAt_of_differentiableOn_a52ac3580ddc
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_InjectiveHolomorphicInverse_analyticAt_of_differentiableOn_a52ac3580ddc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:10:48.295799+00:00
 -- url     : https://prove2.me/theorems/fd510e3b-c599-4643-8a8a-529b80434037

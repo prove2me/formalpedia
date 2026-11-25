@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClearingDenominatorsInOrder_main
 -- name    : GlobalTheory.ClearingDenominatorsInOrder.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:15:37.186882+00:00
 -- url     : https://prove2.me/theorems/dce256c4-cdcb-4047-a8c9-d488c325ae18

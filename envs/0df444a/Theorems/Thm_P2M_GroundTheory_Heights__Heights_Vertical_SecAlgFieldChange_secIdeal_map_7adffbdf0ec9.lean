@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecAlgFieldChange_secIdeal_map_7adffbdf0ec9
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecAlgFieldChange_secIdeal_map_7adffbdf0ec9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:45:53.290791+00:00
 -- url     : https://prove2.me/theorems/1987698e-bf4d-4e95-b906-284a8c066266

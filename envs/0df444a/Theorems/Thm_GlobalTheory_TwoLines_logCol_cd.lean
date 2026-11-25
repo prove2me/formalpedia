@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_logCol_cd
 -- name    : GlobalTheory.TwoLines.logCol_cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:55:24.446816+00:00
 -- url     : https://prove2.me/theorems/e5a646fb-a280-57d1-8733-0f6db8920876

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagStaircaseOrbit_proof_ee5852b2498a
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagStaircaseOrbit_proof_ee5852b2498a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:01:19.037814+00:00
 -- url     : https://prove2.me/theorems/5c5a3e96-c9ac-4b0a-8aa3-5b286d88622b

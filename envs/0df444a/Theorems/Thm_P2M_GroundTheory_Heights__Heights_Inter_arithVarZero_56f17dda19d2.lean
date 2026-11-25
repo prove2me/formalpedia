@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_arithVarZero_56f17dda19d2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_arithVarZero_56f17dda19d2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:22:01.574032+00:00
 -- url     : https://prove2.me/theorems/a9ddd527-d51d-4941-8b76-ff8ea069d8f5

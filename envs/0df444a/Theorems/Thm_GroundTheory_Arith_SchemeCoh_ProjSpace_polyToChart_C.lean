@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_polyToChart_C
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.polyToChart_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:32:21.273246+00:00
 -- url     : https://prove2.me/theorems/f2cc944a-efd2-4a87-921d-9124ba947eee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalizedFibreSets_isLattice_gmap
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalizedFibreSets.isLattice_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:25:39.81868+00:00
 -- url     : https://prove2.me/theorems/a462132d-9253-40c6-b002-bc5976b05966

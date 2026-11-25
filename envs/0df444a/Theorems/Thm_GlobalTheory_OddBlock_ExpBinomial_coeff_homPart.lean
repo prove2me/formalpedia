@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpBinomial_coeff_homPart
 -- name    : GlobalTheory.OddBlock.ExpBinomial.coeff_homPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:33:03.278683+00:00
 -- url     : https://prove2.me/theorems/4167cbe3-313c-4060-b1c2-d4c59b6a697b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_thetaLine
 -- name    : Formalism.L2.Th1.F.thetaLine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:50.55835+00:00
 -- url     : https://prove2.me/theorems/b78a959d-2822-44ab-8b6d-a9c826b9bfd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinVerticalDivisorLeft_isMultiHomog_rename_assocVar__0335aad9cd95
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinVerticalDivisorLeft_isMultiHomog_rename_assocVar__0335aad9cd95
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:35:36.897617+00:00
 -- url     : https://prove2.me/theorems/33a5cbb0-4a6d-47cd-94cd-3d9132e600a4

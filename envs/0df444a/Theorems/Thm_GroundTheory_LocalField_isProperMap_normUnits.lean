@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isProperMap_normUnits
 -- name    : GroundTheory.LocalField.isProperMap_normUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:14:46.542037+00:00
 -- url     : https://prove2.me/theorems/7c491f6d-7582-48a0-8e1e-f4daf3f74b49

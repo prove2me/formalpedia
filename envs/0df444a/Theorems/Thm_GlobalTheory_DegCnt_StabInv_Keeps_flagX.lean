@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_Keeps_flagX
 -- name    : GlobalTheory.DegCnt.StabInv.Keeps.flagX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:51:02.160943+00:00
 -- url     : https://prove2.me/theorems/c3f3ce87-e90e-5a08-884e-1e5f55c4bb87

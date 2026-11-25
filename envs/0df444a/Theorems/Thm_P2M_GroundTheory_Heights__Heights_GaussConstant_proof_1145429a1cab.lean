@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussConstant_proof_1145429a1cab
 -- name    : P2M_GroundTheory_Heights__Heights_GaussConstant_proof_1145429a1cab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:18:52.148596+00:00
 -- url     : https://prove2.me/theorems/77255486-6171-41e3-b5f3-53f5aad9dd8a

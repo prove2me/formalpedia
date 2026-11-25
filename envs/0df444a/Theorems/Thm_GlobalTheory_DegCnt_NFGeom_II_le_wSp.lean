@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_NFGeom_II_le_wSp
 -- name    : GlobalTheory.DegCnt.NFGeom.II_le_wSp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:45:23.071817+00:00
 -- url     : https://prove2.me/theorems/dda7d6ca-5d12-4b52-bb77-ee72501db846

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HypersurfacePresentation_exists_integral_primitive_79d7c8a66779
 -- name    : P2M_GroundTheory_Heights__Heights_HypersurfacePresentation_exists_integral_primitive_79d7c8a66779
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:45.581635+00:00
 -- url     : https://prove2.me/theorems/c36799b8-80dd-4983-847b-576ee1c7659b

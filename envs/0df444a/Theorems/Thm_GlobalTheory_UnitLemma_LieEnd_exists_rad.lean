@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_LieEnd_exists_rad
 -- name    : GlobalTheory.UnitLemma.LieEnd.exists_rad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:03:52.39295+00:00
 -- url     : https://prove2.me/theorems/d224d18b-63b7-40d8-82ec-5f02449d6dc6

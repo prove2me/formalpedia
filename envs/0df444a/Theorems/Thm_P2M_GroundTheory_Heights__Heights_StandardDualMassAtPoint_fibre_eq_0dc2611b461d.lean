@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StandardDualMassAtPoint_fibre_eq_0dc2611b461d
 -- name    : P2M_GroundTheory_Heights__Heights_StandardDualMassAtPoint_fibre_eq_0dc2611b461d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:39:25.599555+00:00
 -- url     : https://prove2.me/theorems/69f6eb35-73ec-41b2-9fc0-e0bbcf1abfdd

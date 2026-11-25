@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Unimod_mem_smul_iff
 -- name    : GlobalTheory.DegCnt.Unimod.mem_smul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:45:36.388274+00:00
 -- url     : https://prove2.me/theorems/72f6ffd6-a428-4c6f-bea7-46d05778aa62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionSmall_evalCone_chartMonomial_ne_zero_504e49938418
 -- name    : P2M_GroundTheory_Heights__Heights_SectionSmall_evalCone_chartMonomial_ne_zero_504e49938418
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:37:30.669827+00:00
 -- url     : https://prove2.me/theorems/7850d040-077d-457e-9bea-9ca5ffdd3b3d

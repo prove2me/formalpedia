@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_polyLE_mono
 -- name    : GroundTheory.Automorphic.HarishChandra.polyLE_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:54:11.315331+00:00
 -- url     : https://prove2.me/theorems/0b00cdf2-b147-5fc4-ae76-3c40a1291c99

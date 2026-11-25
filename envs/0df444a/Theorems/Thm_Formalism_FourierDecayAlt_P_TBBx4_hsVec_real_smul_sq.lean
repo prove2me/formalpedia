@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx4_hsVec_real_smul_sq
 -- name    : Formalism.FourierDecayAlt.P.TBBx4.hsVec_real_smul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:54:46.504622+00:00
 -- url     : https://prove2.me/theorems/d151af6a-48ba-5790-9869-fd9983476beb

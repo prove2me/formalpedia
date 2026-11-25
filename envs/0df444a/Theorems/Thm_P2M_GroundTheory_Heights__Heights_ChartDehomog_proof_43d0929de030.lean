@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartDehomog_proof_43d0929de030
 -- name    : P2M_GroundTheory_Heights__Heights_ChartDehomog_proof_43d0929de030
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:12:02.867105+00:00
 -- url     : https://prove2.me/theorems/5c64b05a-4a9a-4b7a-a00b-d3eca5481c8d

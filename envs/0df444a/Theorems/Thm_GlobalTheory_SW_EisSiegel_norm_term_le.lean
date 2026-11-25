@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisSiegel_norm_term_le
 -- name    : GlobalTheory.SW.EisSiegel.norm_term_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:51:28.497865+00:00
 -- url     : https://prove2.me/theorems/9038310a-988c-5f1e-9604-32a0c58ef01d

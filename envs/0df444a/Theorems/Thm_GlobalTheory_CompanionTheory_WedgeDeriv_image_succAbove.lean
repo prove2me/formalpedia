@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeDeriv_image_succAbove
 -- name    : GlobalTheory.CompanionTheory.WedgeDeriv.image_succAbove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:24:35.800107+00:00
 -- url     : https://prove2.me/theorems/56733acd-b879-5028-8a81-c72c395754a7

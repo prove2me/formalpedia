@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_coneJac_eq_compressDet_7f1389046cce
 -- name    : P2M_GroundTheory_Heights__Heights_coneJac_eq_compressDet_7f1389046cce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:48:31.307154+00:00
 -- url     : https://prove2.me/theorems/f83f1e8a-7952-58fa-ba78-fd5a40eaa88a

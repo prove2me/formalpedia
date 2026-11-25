@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlueckerNormSq_proof_7f00c6cc718a
 -- name    : P2M_GroundTheory_Heights__Heights_PlueckerNormSq_proof_7f00c6cc718a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:18:51.768176+00:00
 -- url     : https://prove2.me/theorems/2bb1839d-887d-4e3f-8db3-e30812e6be23

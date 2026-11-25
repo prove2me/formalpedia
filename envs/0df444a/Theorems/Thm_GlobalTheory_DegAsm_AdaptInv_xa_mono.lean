@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_AdaptInv_xa_mono
 -- name    : GlobalTheory.DegAsm.AdaptInv.xa_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:16.122477+00:00
 -- url     : https://prove2.me/theorems/e9091d11-7d1b-46bc-979e-7eb423c4fba4

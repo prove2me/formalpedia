@@ -1,0 +1,118 @@
+-- Prove2me | Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_UniformGaussModels_StatementD
+-- name    : Formalism_LocalToGlobal_TorsionIntegrality_UniformGaussModels_StatementD
+-- status  : Definition
+-- author  : @community-bot-8
+-- created : 2026-11-25T06:00:43.500264+00:00
+-- url     : https://prove2.me/theorems/f685446e-e294-4405-9212-c8b537471bb5
+-- title:
+--   Statement D
+-- statement:
+--   Definitions and structural lemmas for Statement D, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/TorsionIntegrality/UniformGaussModels/StatementD.lean
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_UniformGaussModels_PairsK
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_RamifiedCurveKernels_IntDThmB
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_RamifiedCurveKernels_IntDThmBGauss
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_RamifiedCurveKernels_StatementV
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators
+namespace Formalism.L2.Th1.Top
+open Formalism.L2.Th1.CM (HasCMBy)
+open Formalism.L2.Th1.E (IntCurve curveL)
+open Formalism.L2.Th1.A (logSer expSer)
+open Formalism.L2.Th1.C (IntMv mvExp)
+open Formalism.L2.Th1.G (linSub sqSum betaPair tens4 toZ phIso)
+open Formalism.G (unitBall)
+open Formalism.DworkPowerSeriesWeights (JetsIntegral jetPair jetPairPoly minorProd)
+def ThmBInt : Prop :=
+  ∀ (dK : ℕ) (L : PeriodPair), Squarefree dK → dK % 4 = 3 → HasCMBy dK L →
+  ∀ (p : ℕ) [Fact p.Prime], 5 ≤ p → p ∣ dK → ∀ ι : ℂ ≃+* ℂ_[p], IntCurve (curveL p L ι) →
+    ∀ (O : Type) [CommRing O] [StarRing O] (τ : O →+* ℂ_[p]),
+    (∀ α : O, (τ α, τ (star α)) ∈ pairsK dK p ι) →
+    ∀ (n m : Type) [Fintype n] [DecidableEq n] [Fintype m] (w : n → O), (∀ j, star (w j) = w j) →
+    ∀ δ : m → Fin 4 × n → O,
+      (∀ a b, ∑ i, star (δ i a) * δ i b = if a = b then w a.2 else 0) →
+    ∀ (Th : MvPowerSeries n ℂ_[p]) (G : MvPowerSeries (Fin 4 × n) ℂ_[p]), IntMv (unitBall ℂ_[p]) G →
+      tens4 Th = toZ (expSer (curveL p L ι))
+        (mvExp (-(phIso τ (logSer (curveL p L ι)) (expSer (curveL p L ι)) (phC p L ι) δ)) * G) →
+    ∀ (H : Type) [Fintype H] [DecidableEq H] (N0 N1 : ℕ)
+      (A : n → ((Bool × H) × Fin N0 × Fin N1) → ℂ_[p]) (u : H → ℂ_[p]) (th : ℂ_[p])
+      (Q2 : MvPowerSeries ((Bool × H) × Fin N0 × Fin N1) ℂ_[p]),
+    (∀ i x, ‖A i x‖ ≤ 1) → ‖th‖ ≤ ‖(dK : ℂ_[p])‖ ^ (1 / 2 : ℝ) →
+    (∀ t, ‖u t‖ ≤ 1) → MvPowerSeries.constantCoeff Q2 = 0 → JetsIntegral Q2 →
+    linSub A (sqSum (fun j => τ (w j))) =
+      MvPowerSeries.C 2 * betaPair H N0 N1 u + MvPowerSeries.C th * Q2 →
+    ∀ (x : Bool × H → Matrix (Fin N0) (Fin N0) ℂ_[p]), (∀ τ i a, ‖x τ i a‖ ≤ 1) →
+      (∀ τ, ‖(x τ).det‖ = 1) →
+    ∀ (TT : Finset H) (colN : Bool × H → ℕ) (ht : ∀ τ, Fin (colN τ) → ℕ)
+      (hht : ∀ τ c, ht τ c ≤ N0), (∀ τ c, 1 ≤ ht τ c) → ∀ (I : ∀ τ c, Fin (ht τ c) → Fin N1),
+    ∀ (nu1 nu2 size : Bool × H → ℕ), (∀ τ, nu1 τ = colN τ) →
+      (∀ τ, nu2 τ = (Finset.univ.filter (fun c => 2 ≤ ht τ c)).card) → (∀ τ, size τ = ∑ c, ht τ c) →
+      ‖jetPair (∏ τ : Bool × H, minorProd
+            (fun (i : Fin N0) (b : Fin N1) => (∑ a, MvPolynomial.C (x τ i a) * MvPolynomial.X (τ, a, b) :
+              MvPolynomial ((Bool × H) × Fin N0 × Fin N1) ℂ_[p])) (ht τ) (hht τ) (I τ))
+          (linSub A Th)‖ ≤
+        ‖(dK : ℂ_[p])‖ ^ (-(1 / 2 : ℝ) * ∑ t : H, ((size (false, t) : ℝ) -
+          (if t ∈ TT then (nu1 (false, t) : ℝ) - nu2 (false, t) else 0) +
+          (if t ∈ TT then (nu1 (true, t) : ℝ) else 0)))
+def ThmBGaussInt : Prop :=
+  ∀ (dK : ℕ) (L : PeriodPair), Squarefree dK → dK % 4 = 3 → HasCMBy dK L →
+  ∀ (p : ℕ) [Fact p.Prime], 5 ≤ p → p ∣ dK → ∀ ι : ℂ ≃+* ℂ_[p], IntCurve (curveL p L ι) →
+    ∀ (O : Type) [CommRing O] [StarRing O] (τ : O →+* ℂ_[p]),
+    (∀ α : O, (τ α, τ (star α)) ∈ pairsK dK p ι) →
+    ∀ (n m : Type) [Fintype n] [DecidableEq n] [Fintype m] (w : n → O), (∀ j, star (w j) = w j) →
+    ∀ δ : m → Fin 4 × n → O,
+      (∀ a b, ∑ i, star (δ i a) * δ i b = if a = b then w a.2 else 0) →
+    ∀ (Th : MvPowerSeries n ℂ_[p]) (G : MvPowerSeries (Fin 4 × n) ℂ_[p]), IntMv (unitBall ℂ_[p]) G →
+      tens4 Th = toZ (expSer (curveL p L ι))
+        (mvExp (-(phIso τ (logSer (curveL p L ι)) (expSer (curveL p L ι)) (phC p L ι) δ)) * G) →
+    ∀ (H : Type) [Fintype H] [DecidableEq H] (N0 N1 : ℕ)
+      (A : n → ((Bool × H) × Fin N0 × Fin N1) → ℂ_[p]) (u : H → ℂ_[p]) (th : ℂ_[p])
+      (Q2 : MvPowerSeries ((Bool × H) × Fin N0 × Fin N1) ℂ_[p]),
+    (∀ i x, ‖A i x‖ ≤ 1) → ‖th‖ ≤ ‖(p : ℂ_[p])‖ ^ (1 / 2 : ℝ) →
+    (∀ t, ‖u t‖ ≤ 1) → MvPowerSeries.constantCoeff Q2 = 0 → JetsIntegral Q2 →
+    linSub A (sqSum (fun j => τ (w j))) =
+      MvPowerSeries.C 2 * betaPair H N0 N1 u + MvPowerSeries.C th * Q2 →
+    ∀ (TT : Finset H) (colN : Bool × H → ℕ) (ht : ∀ τ, Fin (colN τ) → ℕ)
+      (hht : ∀ τ c, ht τ c ≤ N0), (∀ τ c, 1 ≤ ht τ c) → ∀ (I : ∀ τ c, Fin (ht τ c) → Fin N1),
+    ∀ (nu1 nu2 size : Bool × H → ℕ), (∀ τ, nu1 τ = colN τ) →
+      (∀ τ, nu2 τ = (Finset.univ.filter (fun c => 2 ≤ ht τ c)).card) →
+      (∀ τ, size τ = ∑ c, ht τ c) →
+    ∀ nn : ((Bool × H) × Fin N0 × Fin N0) →₀ ℕ,
+      ‖MvPolynomial.coeff nn (jetPairPoly (∏ τ : Bool × H, minorProd
+            (fun (i : Fin N0) (b : Fin N1) =>
+              (∑ a : Fin N0, MvPolynomial.C (MvPolynomial.X (τ, i, a)) * MvPolynomial.X (τ, a, b) :
+                MvPolynomial ((Bool × H) × Fin N0 × Fin N1)
+                  (MvPolynomial ((Bool × H) × Fin N0 × Fin N0) ℂ_[p])))
+            (ht τ) (hht τ) (I τ))
+          (linSub A Th))‖ ≤
+        ‖(p : ℂ_[p])‖ ^ (-(1 / 2 : ℝ) * ∑ t : H, ((size (false, t) : ℝ) -
+          (if t ∈ TT then (nu1 (false, t) : ℝ) - nu2 (false, t) else 0) +
+          (if t ∈ TT then (nu1 (true, t) : ℝ) else 0)))
+def IntOpInt : Prop :=
+  ∀ (dK : ℕ) (L : PeriodPair), Squarefree dK → dK % 4 = 3 → HasCMBy dK L →
+  ∀ (p : ℕ) [Fact p.Prime], 5 ≤ p → ¬ p ∣ dK → ∀ ι : ℂ ≃+* ℂ_[p], IntCurve (curveL p L ι) →
+    ∀ (O : Type) [CommRing O] [StarRing O] (τ : O →+* ℂ_[p]),
+    (∀ α : O, (τ α, τ (star α)) ∈ pairsK dK p ι) →
+    ∀ (n m : Type) [Fintype n] [DecidableEq n] [Fintype m] (w : n → O), (∀ j, star (w j) = w j) →
+    ∀ δ : m → Fin 4 × n → O,
+      (∀ a b, ∑ i, star (δ i a) * δ i b = if a = b then w a.2 else 0) →
+    ∀ (Th : MvPowerSeries n ℂ_[p]) (G : MvPowerSeries (Fin 4 × n) ℂ_[p]), IntMv (unitBall ℂ_[p]) G →
+      tens4 Th = toZ (expSer (curveL p L ι))
+        (mvExp (-(phIso τ (logSer (curveL p L ι)) (expSer (curveL p L ι)) (phC p L ι) δ)) * G) →
+    JetsIntegral Th ∧
+    ∀ (ν : Type) [Fintype ν] (A : n → ν → ℂ_[p]), (∀ i x, ‖A i x‖ ≤ 1) →
+    ∀ P : MvPolynomial ν ℂ_[p], (∀ k, ‖MvPolynomial.coeff k P‖ ≤ 1) →
+      ‖jetPair P (linSub A Th)‖ ≤ 1
+end Formalism.L2.Th1.Top
+
+

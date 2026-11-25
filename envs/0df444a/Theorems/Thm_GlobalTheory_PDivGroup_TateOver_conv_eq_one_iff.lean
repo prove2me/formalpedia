@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_TateOver_conv_eq_one_iff
 -- name    : GlobalTheory.PDivGroup.TateOver.conv_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:52:01.378908+00:00
 -- url     : https://prove2.me/theorems/b07464e8-b0c5-4246-b1e3-34f69db1756c

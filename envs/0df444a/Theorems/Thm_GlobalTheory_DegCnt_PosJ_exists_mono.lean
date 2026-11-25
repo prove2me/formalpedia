@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosJ_exists_mono
 -- name    : GlobalTheory.DegCnt.PosJ.exists_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:53:41.288943+00:00
 -- url     : https://prove2.me/theorems/ced0a574-9e7b-4113-9284-2475e8c6c774

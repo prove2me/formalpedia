@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_kolmogorovNumber_two_pow_le_entropyNumber
 -- name    : SNumbers.kolmogorovNumber_two_pow_le_entropyNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:22:13.470502+00:00
 -- url     : https://prove2.me/theorems/9af2a08f-5afb-473a-af17-0707b1dfd67a

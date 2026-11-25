@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPreconnected_bor
 -- name    : GlobalTheory.isPreconnected_bor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:00:06.945711+00:00
 -- url     : https://prove2.me/theorems/be5ebb0b-646a-4c99-a80d-23f8b71d4213

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Dict_cof_eq
 -- name    : GlobalTheory.CompanionTheory.Dict.cof_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:30:35.541613+00:00
 -- url     : https://prove2.me/theorems/c96bfe86-7b71-46d5-9d32-03a4ac6df6cc

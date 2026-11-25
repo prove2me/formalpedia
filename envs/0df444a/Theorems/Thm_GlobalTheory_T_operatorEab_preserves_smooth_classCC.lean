@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_operatorEab_preserves_smooth_classCC
 -- name    : GlobalTheory.T.operatorEab_preserves_smooth_classCC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:36:32.717058+00:00
 -- url     : https://prove2.me/theorems/f79769c5-645b-42f3-97b4-1c25022766ed

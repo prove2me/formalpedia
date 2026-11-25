@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_hookNorm
 -- name    : GlobalTheory.MinorNorm.hookNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:32:32.168978+00:00
 -- url     : https://prove2.me/theorems/3fc8a347-7f8c-4cd3-9535-ab4b9d32dfce

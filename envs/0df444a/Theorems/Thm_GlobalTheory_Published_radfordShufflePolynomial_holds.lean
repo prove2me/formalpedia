@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_radfordShufflePolynomial_holds
 -- name    : GlobalTheory.Published.radfordShufflePolynomial_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:16:31.791203+00:00
 -- url     : https://prove2.me/theorems/1b433a74-67d7-4b84-97f5-1b952ebf7a5e

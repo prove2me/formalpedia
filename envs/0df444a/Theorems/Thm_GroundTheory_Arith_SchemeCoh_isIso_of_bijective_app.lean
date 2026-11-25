@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_isIso_of_bijective_app
 -- name    : GroundTheory.Arith.SchemeCoh.isIso_of_bijective_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:08:46.020187+00:00
 -- url     : https://prove2.me/theorems/9ae4f19e-94bd-49db-9b6e-6662c33c7b3c

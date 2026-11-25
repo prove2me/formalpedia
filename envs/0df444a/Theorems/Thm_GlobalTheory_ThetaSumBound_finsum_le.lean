@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSumBound_finsum_le
 -- name    : GlobalTheory.ThetaSumBound.finsum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:01:27.489381+00:00
 -- url     : https://prove2.me/theorems/71a6b5f0-5662-4d6d-819a-fb26ebe39fb5

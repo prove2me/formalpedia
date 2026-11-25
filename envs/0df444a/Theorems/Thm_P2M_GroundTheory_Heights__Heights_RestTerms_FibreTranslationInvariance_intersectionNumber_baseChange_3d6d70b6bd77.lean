@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FibreTranslationInvariance_intersectionNumber_baseChange_3d6d70b6bd77
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FibreTranslationInvariance_intersectionNumber_baseChange_3d6d70b6bd77
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:32:19.911302+00:00
 -- url     : https://prove2.me/theorems/9945dadc-32be-4632-89e7-bf30b9572697

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctionField_lisseDuality_compactH1_bijective_of_picDivisible
 -- name    : FunctionField.lisseDuality_compactH1_bijective_of_picDivisible
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-25T02:26:54.63368+00:00
 -- url     : https://prove2.me/theorems/99699c42-3222-4ffe-9526-0268b6dedfe6

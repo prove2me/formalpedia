@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_cover_of
 -- name    : CompanionTheory.ThKR.Mp.cover_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:19:24.159086+00:00
 -- url     : https://prove2.me/theorems/0d6b5e44-bea6-4765-b144-698d2f36cab6

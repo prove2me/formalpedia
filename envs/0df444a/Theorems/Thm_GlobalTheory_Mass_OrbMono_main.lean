@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_OrbMono_main
 -- name    : GlobalTheory.Mass.OrbMono.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:33:34.708913+00:00
 -- url     : https://prove2.me/theorems/4a4754a3-5786-5334-89f0-92fb0a81614d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_rpow_eq_sqrt_pow
 -- name    : GroundTheory.Automorphic.Sobolev.rpow_eq_sqrt_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:20:02.056772+00:00
 -- url     : https://prove2.me/theorems/a8fa3529-ec03-4091-bada-ede5b2353215

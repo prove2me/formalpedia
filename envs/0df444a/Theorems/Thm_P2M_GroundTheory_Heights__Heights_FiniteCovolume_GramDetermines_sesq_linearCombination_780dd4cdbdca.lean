@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GramDetermines_sesq_linearCombination_780dd4cdbdca
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GramDetermines_sesq_linearCombination_780dd4cdbdca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:25:44.710791+00:00
 -- url     : https://prove2.me/theorems/8b4e2369-3e7c-414e-94ba-8e8ee6498ee8

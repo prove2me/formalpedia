@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularityRelativeClosedPoint_killBlocks_comp_eb0db3f96410
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularityRelativeClosedPoint_killBlocks_comp_eb0db3f96410
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:45:42.905956+00:00
 -- url     : https://prove2.me/theorems/18cbeec3-e873-49df-b768-3ad8b9e70367

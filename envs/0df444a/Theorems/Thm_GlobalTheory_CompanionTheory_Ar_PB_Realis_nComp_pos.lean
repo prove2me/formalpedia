@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Realis_nComp_pos
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Realis.nComp_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:18.864435+00:00
 -- url     : https://prove2.me/theorems/5b1ba1a4-ba51-4f75-a39f-76bce09a7333

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_Top_tr_smul
 -- name    : PI.LocDualGen.Top.tr_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:25:22.991147+00:00
 -- url     : https://prove2.me/theorems/7e0416f5-f2cc-4670-8bd7-cfe07f1f327c

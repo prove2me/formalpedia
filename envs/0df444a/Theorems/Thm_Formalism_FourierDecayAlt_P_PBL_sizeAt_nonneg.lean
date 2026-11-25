@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBL_sizeAt_nonneg
 -- name    : Formalism.FourierDecayAlt.P.PBL.sizeAt_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:22:58.958103+00:00
 -- url     : https://prove2.me/theorems/ed709898-575e-5d93-96a4-da2e76c38a3b

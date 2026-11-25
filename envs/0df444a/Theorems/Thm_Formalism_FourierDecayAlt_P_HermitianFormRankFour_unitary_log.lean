@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormRankFour_unitary_log
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormRankFour.unitary_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:11:19.024294+00:00
 -- url     : https://prove2.me/theorems/a5ea4a04-8044-5af5-b772-ad29bd6fd01f

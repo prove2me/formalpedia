@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelExp_HolAt_analyticAt_coordinate_zero
 -- name    : GlobalTheory.RelExp.HolAt.analyticAt_coordinate_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:54:47.644467+00:00
 -- url     : https://prove2.me/theorems/e32c3db8-da9e-4928-8344-928ed3723d1d

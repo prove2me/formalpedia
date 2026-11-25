@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SerreOnto_proof_0bf9afe57585
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SerreOnto_proof_0bf9afe57585
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:31:20.579459+00:00
 -- url     : https://prove2.me/theorems/79b8b262-6e5f-48a1-ac2d-be2122103577

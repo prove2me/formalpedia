@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BrauerZero_step_ind_one_sub_index_of_comm
 -- name    : GlobalTheory.BrauerZero.step_ind_one_sub_index_of_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:57:31.737333+00:00
 -- url     : https://prove2.me/theorems/720861a0-63f6-5646-a22a-67c9cad8d163

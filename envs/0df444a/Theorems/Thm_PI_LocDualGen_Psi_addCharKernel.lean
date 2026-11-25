@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_Psi_addCharKernel
 -- name    : PI.LocDualGen.Psi.addCharKernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:25:06.846819+00:00
 -- url     : https://prove2.me/theorems/518d7295-0e53-4ac3-931a-9d287392221e

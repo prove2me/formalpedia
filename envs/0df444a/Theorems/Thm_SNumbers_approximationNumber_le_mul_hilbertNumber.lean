@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_le_mul_hilbertNumber
 -- name    : SNumbers.approximationNumber_le_mul_hilbertNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:00:26.213804+00:00
 -- url     : https://prove2.me/theorems/a1155bcc-1d1a-5120-9f49-92853df727bc

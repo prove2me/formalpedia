@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_rowIdx_other
 -- name    : Formalism.L2.FormalSeriesBounds.rowIdx_other
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:00:33.089452+00:00
 -- url     : https://prove2.me/theorems/80a92998-f3bc-58ca-8f09-df4936f99189

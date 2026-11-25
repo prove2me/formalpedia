@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagInjSumBound_proof_4fb063fa4ab0
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagInjSumBound_proof_4fb063fa4ab0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:01:01.188542+00:00
 -- url     : https://prove2.me/theorems/a113214e-70b6-4b34-9245-80bffdf640ac

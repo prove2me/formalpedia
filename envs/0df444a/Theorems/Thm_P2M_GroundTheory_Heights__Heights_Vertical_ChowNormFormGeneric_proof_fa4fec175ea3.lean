@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_ChowNormFormGeneric_proof_fa4fec175ea3
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_ChowNormFormGeneric_proof_fa4fec175ea3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:46:49.401592+00:00
 -- url     : https://prove2.me/theorems/80282f7d-04b5-4a85-b225-4186258d6427

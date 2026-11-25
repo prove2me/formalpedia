@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_vF_lt_of_notMem
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.vF_lt_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:30:04.756601+00:00
 -- url     : https://prove2.me/theorems/9f335f02-c9b7-58b5-8001-aefbffc88fb8

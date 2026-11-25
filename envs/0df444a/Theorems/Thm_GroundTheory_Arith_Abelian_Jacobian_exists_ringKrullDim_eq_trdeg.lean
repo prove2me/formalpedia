@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_Jacobian_exists_ringKrullDim_eq_trdeg
 -- name    : GroundTheory.Arith.Abelian.Jacobian.exists_ringKrullDim_eq_trdeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:52:34.562786+00:00
 -- url     : https://prove2.me/theorems/24e5cf6d-9553-43d5-b301-fda63b76028b

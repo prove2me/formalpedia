@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_inner_toLp
 -- name    : Formalism.FourierDecayAlt.P.PBK.inner_toLp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:28:27.05733+00:00
 -- url     : https://prove2.me/theorems/3345b9fa-f47a-43c0-833e-0086203a5969

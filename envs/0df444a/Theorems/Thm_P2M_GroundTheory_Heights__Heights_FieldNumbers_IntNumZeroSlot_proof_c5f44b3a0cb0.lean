@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_IntNumZeroSlot_proof_c5f44b3a0cb0
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_IntNumZeroSlot_proof_c5f44b3a0cb0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:40:37.069612+00:00
 -- url     : https://prove2.me/theorems/a2008ea9-6b49-4802-bc90-ade336a3da1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_topDensNonnegOfKappa
 -- name    : Formalism.FourierDecayAlt.P5.topDensNonnegOfKappa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:24:27.621539+00:00
 -- url     : https://prove2.me/theorems/9745bdb0-ea94-4bd2-b714-ebca90e25655

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_LieEnd_eta_mul
 -- name    : GlobalTheory.UnitLemma.LieEnd.eta_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:04:45.224648+00:00
 -- url     : https://prove2.me/theorems/2877912c-220c-419d-8475-8d925f4e0e72

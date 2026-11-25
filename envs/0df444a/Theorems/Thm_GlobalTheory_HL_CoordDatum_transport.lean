@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordDatum_transport
 -- name    : GlobalTheory.HL.CoordDatum.transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:25:57.329988+00:00
 -- url     : https://prove2.me/theorems/8230cce5-afca-4e44-8bbe-9fbf0399d0f8

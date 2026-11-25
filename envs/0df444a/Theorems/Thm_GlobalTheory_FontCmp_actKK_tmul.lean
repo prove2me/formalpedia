@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_actKK_tmul
 -- name    : GlobalTheory.FontCmp.actKK_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:28:58.005581+00:00
 -- url     : https://prove2.me/theorems/8a238def-23f0-4ad9-a7b7-5f37b2a1add4

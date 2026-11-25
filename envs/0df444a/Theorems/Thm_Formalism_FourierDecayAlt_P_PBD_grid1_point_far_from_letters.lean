@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_grid1_point_far_from_letters
 -- name    : Formalism.FourierDecayAlt.P.PBD.grid1_point_far_from_letters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:43:23.974147+00:00
 -- url     : https://prove2.me/theorems/b2f6ae87-f84c-5bb7-bff5-62ad9979ddac

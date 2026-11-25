@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumVanish_proof_7f139f099c8c
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumVanish_proof_7f139f099c8c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:30:20.140994+00:00
 -- url     : https://prove2.me/theorems/a399ecb1-12ab-4682-ad50-e34c158fa5d3

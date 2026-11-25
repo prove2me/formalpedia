@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sandwich_entry_sum
 -- name    : GlobalTheory.sandwich_entry_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:36:12.387034+00:00
 -- url     : https://prove2.me/theorems/f4ff1af3-3bb7-475c-9839-47ba8cbe2187

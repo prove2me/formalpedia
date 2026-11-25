@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplMinkowskiBox_proof_64297bba648b
 -- name    : P2M_GroundTheory_Heights__Heights_SymplMinkowskiBox_proof_64297bba648b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:18:15.781801+00:00
 -- url     : https://prove2.me/theorems/33cfb736-7648-45a2-8bd4-ee2cabf5bf26

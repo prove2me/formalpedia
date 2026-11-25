@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlaceCentredSum_apply_algebraMap_fc47d50d1873
 -- name    : P2M_GroundTheory_Heights__Heights_PlaceCentredSum_apply_algebraMap_fc47d50d1873
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:55.87765+00:00
 -- url     : https://prove2.me/theorems/77653506-4299-4a3e-b2d3-1c699fd8acb4

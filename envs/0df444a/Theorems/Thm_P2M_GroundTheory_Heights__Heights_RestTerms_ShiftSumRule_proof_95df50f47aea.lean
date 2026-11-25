@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_ShiftSumRule_proof_95df50f47aea
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_ShiftSumRule_proof_95df50f47aea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:02:15.677958+00:00
 -- url     : https://prove2.me/theorems/922f29e4-8c53-4bb0-8773-37d4c3333cca

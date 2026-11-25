@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_exists_liftAdd
 -- name    : GlobalTheory.FontCmp.exists_liftAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:28:48.509999+00:00
 -- url     : https://prove2.me/theorems/8e0a7f25-16be-4d88-a12e-0a80a8d46aa4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnitary_gram_inner
 -- name    : GlobalTheory.LevelUnitary.gram_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:24:19.575864+00:00
 -- url     : https://prove2.me/theorems/8d346b37-6cf7-5f4f-bd39-f355d2cdd228

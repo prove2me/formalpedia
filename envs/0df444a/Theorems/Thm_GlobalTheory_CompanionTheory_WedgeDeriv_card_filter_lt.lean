@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeDeriv_card_filter_lt
 -- name    : GlobalTheory.CompanionTheory.WedgeDeriv.card_filter_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:27:53.663465+00:00
 -- url     : https://prove2.me/theorems/1d741999-d0e2-4c7e-a5fb-795fb14fe360

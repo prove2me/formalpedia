@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_cj_ip
 -- name    : GlobalTheory.GramCount.cj_ip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:19:25.353243+00:00
 -- url     : https://prove2.me/theorems/649eda65-1d79-57a0-9483-7d71e4fb77d1

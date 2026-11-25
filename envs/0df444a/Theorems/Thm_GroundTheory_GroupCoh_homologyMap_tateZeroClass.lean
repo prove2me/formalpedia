@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_homologyMap_tateZeroClass
 -- name    : GroundTheory.GroupCoh.homologyMap_tateZeroClass
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:46:09.11382+00:00
 -- url     : https://prove2.me/theorems/f89bcfd0-35c2-4a9b-94e6-78dff480dfd6

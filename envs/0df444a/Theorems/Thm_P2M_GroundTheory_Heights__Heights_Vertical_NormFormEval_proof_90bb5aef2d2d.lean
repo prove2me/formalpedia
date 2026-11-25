@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_NormFormEval_proof_90bb5aef2d2d
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_NormFormEval_proof_90bb5aef2d2d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:41:51.282805+00:00
 -- url     : https://prove2.me/theorems/1b8e99fb-eba2-4299-b831-be4f9134e2de

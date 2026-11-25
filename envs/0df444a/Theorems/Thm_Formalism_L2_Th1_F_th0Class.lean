@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_th0Class
 -- name    : Formalism.L2.Th1.F.th0Class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:04:27.049913+00:00
 -- url     : https://prove2.me/theorems/ac24a029-d1b0-48c1-a165-0256ab82812e

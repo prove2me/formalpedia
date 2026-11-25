@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_rhoSymb_eq
 -- name    : GroundTheory.Automorphic.Sobolev.rhoSymb_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:20:31.176512+00:00
 -- url     : https://prove2.me/theorems/dc46e4bb-ae50-4080-810a-087cf49967ec

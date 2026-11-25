@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_inh_J_eq_083d9017b1ba
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_inh_J_eq_083d9017b1ba
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:10:15.473141+00:00
 -- url     : https://prove2.me/theorems/d0139fae-d29e-4bdf-8e44-6e9b52d83e64

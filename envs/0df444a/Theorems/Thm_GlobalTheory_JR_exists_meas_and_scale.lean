@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_exists_meas_and_scale
 -- name    : GlobalTheory.JR.exists_meas_and_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:53:17.886466+00:00
 -- url     : https://prove2.me/theorems/0fb7648d-dbcb-4237-a52b-c007d1b5be19

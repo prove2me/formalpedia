@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_nonneg_all_levels
 -- name    : Formalism.FourierDecayAlt.P5.nonneg_all_levels
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:54:06.383985+00:00
 -- url     : https://prove2.me/theorems/306e6149-5602-4385-b3b8-1a12445e1fed

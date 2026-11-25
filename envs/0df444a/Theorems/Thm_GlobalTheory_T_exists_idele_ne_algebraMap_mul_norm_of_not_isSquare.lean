@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_idele_ne_algebraMap_mul_norm_of_not_isSquare
 -- name    : GlobalTheory.T.exists_idele_ne_algebraMap_mul_norm_of_not_isSquare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:28:32.727801+00:00
 -- url     : https://prove2.me/theorems/4410659c-21e1-465c-8aa5-45b4044c0622

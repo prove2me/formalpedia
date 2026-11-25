@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_rootSum_charpoly_mem_virt
 -- name    : GlobalTheory.CuspGL.rootSum_charpoly_mem_virt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:21:11.688121+00:00
 -- url     : https://prove2.me/theorems/c82cc7d5-9eaa-4471-9ee8-bec40abafdf0

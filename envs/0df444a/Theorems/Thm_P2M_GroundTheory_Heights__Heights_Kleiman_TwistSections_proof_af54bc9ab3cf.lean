@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TwistSections_proof_af54bc9ab3cf
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TwistSections_proof_af54bc9ab3cf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:35:27.816802+00:00
 -- url     : https://prove2.me/theorems/a53fcc36-8a32-495f-a6b6-7b5eb588fa4b

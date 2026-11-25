@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FiniteSumLocalExpansion_capAdInv_loc
 -- name    : Formalism.FourierDecayAlt.P.FiniteSumLocalExpansion.capAdInv_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:47:51.07525+00:00
 -- url     : https://prove2.me/theorems/8053a415-4e96-4ec8-9e9e-883ae606cb11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ContractMixedField_isMultiHomog_rename_70c5fc34d2e4
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ContractMixedField_isMultiHomog_rename_70c5fc34d2e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:23:34.004721+00:00
 -- url     : https://prove2.me/theorems/bdd0ffe1-d9cb-47f3-b9a4-8918fb5f2488

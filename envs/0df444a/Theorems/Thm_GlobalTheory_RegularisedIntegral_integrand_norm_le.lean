@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularisedIntegral_integrand_norm_le
 -- name    : GlobalTheory.RegularisedIntegral.integrand_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:58:13.538803+00:00
 -- url     : https://prove2.me/theorems/d8a1a3f9-fa6d-4895-a852-8618fea5c413

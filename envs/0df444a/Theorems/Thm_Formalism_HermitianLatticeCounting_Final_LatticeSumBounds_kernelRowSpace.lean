@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_kernelRowSpace
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.kernelRowSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:38:03.166805+00:00
 -- url     : https://prove2.me/theorems/5138922b-c848-548c-af2e-879bad943922

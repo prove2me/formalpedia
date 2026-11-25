@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Monomial_B_smul
 -- name    : GlobalTheory.DegCnt.Monomial.B_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:27:35.3719+00:00
 -- url     : https://prove2.me/theorems/daceb0a7-9b80-4886-bea5-fecfa174edf0

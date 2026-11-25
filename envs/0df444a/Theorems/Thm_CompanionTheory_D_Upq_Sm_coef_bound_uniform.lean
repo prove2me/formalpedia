@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_coef_bound_uniform
 -- name    : CompanionTheory.D.Upq.Sm.coef_bound_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:13:40.261072+00:00
 -- url     : https://prove2.me/theorems/ee45fe6d-b3b0-41e6-8a4a-e811e4170866

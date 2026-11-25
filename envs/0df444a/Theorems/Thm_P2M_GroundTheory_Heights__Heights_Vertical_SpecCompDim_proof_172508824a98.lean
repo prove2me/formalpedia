@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SpecCompDim_proof_172508824a98
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SpecCompDim_proof_172508824a98
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:25:05.228799+00:00
 -- url     : https://prove2.me/theorems/d02c3bf0-c851-439b-8876-6e1069d200cd

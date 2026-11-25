@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HeisenbergLevelMinors_nnMinor_of_left
 -- name    : Formalism.FourierDecayAlt.P.HeisenbergLevelMinors.nnMinor_of_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:44:47.807345+00:00
 -- url     : https://prove2.me/theorems/3cd52ebc-0d01-4fec-b878-2a11fd56c3dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BrauerZero_inducedClassFunction_mem_degreeOneCharacterDiff
 -- name    : GlobalTheory.BrauerZero.inducedClassFunction_mem_degreeOneCharacterDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:30:49.669333+00:00
 -- url     : https://prove2.me/theorems/b2a4a763-19c8-59bd-8284-263f9d5ff998

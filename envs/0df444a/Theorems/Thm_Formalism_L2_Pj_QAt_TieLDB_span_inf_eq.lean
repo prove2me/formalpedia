@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_TieLDB_span_inf_eq
 -- name    : Formalism.L2.Pj.QAt.TieLDB.span_inf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:36:23.137739+00:00
 -- url     : https://prove2.me/theorems/44d2cbb1-ec38-4b0b-a4ed-4725b6f05bef

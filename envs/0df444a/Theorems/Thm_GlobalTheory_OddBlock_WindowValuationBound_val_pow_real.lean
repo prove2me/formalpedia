@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_WindowValuationBound_val_pow_real
 -- name    : GlobalTheory.OddBlock.WindowValuationBound.val_pow_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:34:52.508669+00:00
 -- url     : https://prove2.me/theorems/e1d13708-306f-4fcb-a0ce-28978bf4b717

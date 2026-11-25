@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_GaussEq_proof_40345398bcfa
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_GaussEq_proof_40345398bcfa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:42:01.26716+00:00
 -- url     : https://prove2.me/theorems/9c6cca70-2146-4fba-b390-6d43843e86e4

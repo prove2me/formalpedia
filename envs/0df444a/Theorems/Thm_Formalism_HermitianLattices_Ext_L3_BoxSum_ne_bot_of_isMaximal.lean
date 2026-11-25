@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_ne_bot_of_isMaximal
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.ne_bot_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:30:02.837715+00:00
 -- url     : https://prove2.me/theorems/036391ac-62bf-4803-96e2-18984fbf5ab9

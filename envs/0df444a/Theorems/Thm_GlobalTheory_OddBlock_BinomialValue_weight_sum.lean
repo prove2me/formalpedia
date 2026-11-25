@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_BinomialValue_weight_sum
 -- name    : GlobalTheory.OddBlock.BinomialValue.weight_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:34:43.767848+00:00
 -- url     : https://prove2.me/theorems/b7f6ea09-01e2-4162-8bfe-1ef808ce1382

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_minorBound
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.minorBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:37:24.741873+00:00
 -- url     : https://prove2.me/theorems/867ddde3-02f6-5378-8000-26d49947e665

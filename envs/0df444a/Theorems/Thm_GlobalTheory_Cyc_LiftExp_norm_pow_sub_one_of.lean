@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_LiftExp_norm_pow_sub_one_of
 -- name    : GlobalTheory.Cyc.LiftExp.norm_pow_sub_one_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:52:45.139143+00:00
 -- url     : https://prove2.me/theorems/3655b700-08fd-4e4e-b14f-cba57616cf4f

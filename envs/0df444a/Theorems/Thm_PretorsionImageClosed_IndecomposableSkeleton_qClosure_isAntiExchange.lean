@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_qClosure_isAntiExchange
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.qClosure_isAntiExchange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:08:54.716868+00:00
 -- url     : https://prove2.me/theorems/3dcb69e7-39e4-5504-a097-cfd944533e0c

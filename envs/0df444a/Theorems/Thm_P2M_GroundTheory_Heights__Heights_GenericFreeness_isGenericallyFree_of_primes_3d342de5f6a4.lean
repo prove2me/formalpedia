@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericFreeness_isGenericallyFree_of_primes_3d342de5f6a4
 -- name    : P2M_GroundTheory_Heights__Heights_GenericFreeness_isGenericallyFree_of_primes_3d342de5f6a4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:20:22.170723+00:00
 -- url     : https://prove2.me/theorems/bd80a40b-a858-4c9f-a957-073bee7c2268

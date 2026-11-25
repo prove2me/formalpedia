@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_pow_eq_uniformizer_of_residueDegree_eq_one
 -- name    : GroundTheory.LocalField.exists_pow_eq_uniformizer_of_residueDegree_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:15:26.926723+00:00
 -- url     : https://prove2.me/theorems/2a541f21-8a83-44d1-97e6-8caafc9159f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_local_index
 -- name    : GlobalTheory.Nef.local_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:48:24.028176+00:00
 -- url     : https://prove2.me/theorems/6eb744fc-a765-5aa9-9b8a-839fce39ef3f

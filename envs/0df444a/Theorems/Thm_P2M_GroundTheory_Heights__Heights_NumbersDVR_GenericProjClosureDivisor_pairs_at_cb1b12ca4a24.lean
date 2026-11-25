@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericProjClosureDivisor_pairs_at_cb1b12ca4a24
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericProjClosureDivisor_pairs_at_cb1b12ca4a24
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:34:34.393801+00:00
 -- url     : https://prove2.me/theorems/7a82f023-f507-40d7-810d-2909193db349

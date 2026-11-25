@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_memLp_dil
 -- name    : Formalism.FourierDecayAlt.P.PBK.memLp_dil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:52:57.510795+00:00
 -- url     : https://prove2.me/theorems/ee7e404b-d600-4d38-9ec1-da1480f9917b

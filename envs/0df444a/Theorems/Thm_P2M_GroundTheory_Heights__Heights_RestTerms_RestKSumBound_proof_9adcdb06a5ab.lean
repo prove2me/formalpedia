@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestKSumBound_proof_9adcdb06a5ab
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestKSumBound_proof_9adcdb06a5ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:01:00.607411+00:00
 -- url     : https://prove2.me/theorems/8d77616a-af25-4238-8df6-20da001c2eb1

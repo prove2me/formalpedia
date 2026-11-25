@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_cycloChar_toZModPow_eq_one
 -- name    : GroundTheory.PAdicHodge.cycloChar_toZModPow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:10:01.948785+00:00
 -- url     : https://prove2.me/theorems/7511066a-573a-59d0-aaeb-11a77bbd0b0c

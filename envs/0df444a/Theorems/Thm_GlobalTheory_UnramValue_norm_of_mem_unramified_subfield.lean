@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramValue_norm_of_mem_unramified_subfield
 -- name    : GlobalTheory.UnramValue.norm_of_mem_unramified_subfield
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:39:34.29841+00:00
 -- url     : https://prove2.me/theorems/4ca2ae43-ed23-4411-a107-dfbee69db282

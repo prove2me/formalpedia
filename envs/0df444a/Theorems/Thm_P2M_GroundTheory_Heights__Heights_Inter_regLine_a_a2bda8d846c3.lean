@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regLine_a_a2bda8d846c3
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regLine_a_a2bda8d846c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:20:17.176056+00:00
 -- url     : https://prove2.me/theorems/bcc2aa67-d8a2-57c7-ac06-8cdcf54e24f2

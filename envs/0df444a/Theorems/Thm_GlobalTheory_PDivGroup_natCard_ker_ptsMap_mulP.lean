@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_natCard_ker_ptsMap_mulP
 -- name    : GlobalTheory.PDivGroup.natCard_ker_ptsMap_mulP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:55:11.164423+00:00
 -- url     : https://prove2.me/theorems/366616e4-205f-450b-8fc5-b60a3fd89c88

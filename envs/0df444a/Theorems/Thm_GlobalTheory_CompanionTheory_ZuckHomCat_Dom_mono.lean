@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckHomCat_Dom_mono
 -- name    : GlobalTheory.CompanionTheory.ZuckHomCat.Dom.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:28:45.256344+00:00
 -- url     : https://prove2.me/theorems/1645a1f1-160e-5480-a75e-b45d6a061ee6

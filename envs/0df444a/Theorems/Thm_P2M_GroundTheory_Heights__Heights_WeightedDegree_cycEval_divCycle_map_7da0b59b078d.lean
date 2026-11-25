@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_WeightedDegree_cycEval_divCycle_map_7da0b59b078d
 -- name    : P2M_GroundTheory_Heights__Heights_WeightedDegree_cycEval_divCycle_map_7da0b59b078d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:45:51.558198+00:00
 -- url     : https://prove2.me/theorems/af9c44f2-433a-467f-9475-1392eb57b8a9

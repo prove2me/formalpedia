@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_GramPos_mulVec_inj
 -- name    : GlobalTheory.HCXi.GramPos.mulVec_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:52:43.204465+00:00
 -- url     : https://prove2.me/theorems/1ac4168b-18fa-4277-ad28-89d42f96ae36

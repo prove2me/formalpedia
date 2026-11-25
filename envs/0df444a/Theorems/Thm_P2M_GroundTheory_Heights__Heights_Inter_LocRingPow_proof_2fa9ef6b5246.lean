@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_LocRingPow_proof_2fa9ef6b5246
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_LocRingPow_proof_2fa9ef6b5246
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:10:56.026023+00:00
 -- url     : https://prove2.me/theorems/b37225f7-3c16-4529-b1b9-8f2fe2404afd

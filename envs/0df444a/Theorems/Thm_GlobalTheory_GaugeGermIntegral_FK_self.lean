@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeGermIntegral_FK_self
 -- name    : GlobalTheory.GaugeGermIntegral.FK_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:28:16.420484+00:00
 -- url     : https://prove2.me/theorems/5441c636-81d6-42c9-859f-6b730fc78a4f

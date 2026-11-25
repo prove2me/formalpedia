@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_mem_archCompact
 -- name    : GroundTheory.Automorphic.Reduction.mem_archCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:38:15.67889+00:00
 -- url     : https://prove2.me/theorems/bf68d412-e867-4fcb-a160-7e2b1dd49179

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CoinvariantTopDegree_proof_ba21560137f2
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CoinvariantTopDegree_proof_ba21560137f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:02:03.706436+00:00
 -- url     : https://prove2.me/theorems/410a2183-0557-4b63-8259-74c81fdd4a71

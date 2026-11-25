@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosJ_B_symm0
 -- name    : GlobalTheory.DegCnt.PosJ.B_symm0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:53:49.316552+00:00
 -- url     : https://prove2.me/theorems/d173f636-d930-4b89-a9f3-17460a597b76

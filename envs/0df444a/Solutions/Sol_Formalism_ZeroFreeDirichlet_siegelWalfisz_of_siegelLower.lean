@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for Formalism.ZeroFreeDirichlet.siegelWalfisz_of_siegelLower
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-25T05:58:21.715069+00:00
+-- url     : https://prove2.me/submissions/55a2ff38-d6bb-431d-a3d3-1f34f89b37ec
+
+import Definitions.Def_Formalism_LandauZeroFreeBounds_NoZeroComplex
+import Definitions.Def_Formalism_LandauZeroFreeBounds_FinalSiegel
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LandauLocal3
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PerronChi
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RectShiftChi
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LogDerivRegionChiOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SmoothChiOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PsiChiBoundOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LDerivNearOne
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ExcBoundOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszAPOf
+import Definitions.Def_Formalism_ZeroFreeRegion_LogDerivRegion
+import Definitions.Def_Formalism_LandauZeroFreeBounds_SiegelWalfiszAPOfSiegelLower
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_psiChiBound
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_excBound_of_siegelLower
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_siegel_walfisz_character_of
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_zFRDirichlet
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.ZeroFreeDirichlet
+namespace Formalism.ZeroFreeDirichlet
+theorem _root_.solution (hS : SiegelLower) : SiegelWalfisz :=
+  siegel_walfisz_character_of psiChiBound zFRDirichlet (excBound_of_siegelLower hS)
+end Formalism.ZeroFreeDirichlet

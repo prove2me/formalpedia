@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_key_d10b44fcabab
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_key_d10b44fcabab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:06:02.524675+00:00
 -- url     : https://prove2.me/theorems/9f4a2da0-b645-4e16-ad8a-b1778dc0737d

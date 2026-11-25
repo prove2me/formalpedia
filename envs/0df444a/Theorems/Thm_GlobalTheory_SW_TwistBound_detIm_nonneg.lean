@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistBound_detIm_nonneg
 -- name    : GlobalTheory.SW.TwistBound.detIm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:25:33.338873+00:00
 -- url     : https://prove2.me/theorems/d569cee0-5c49-45c6-846e-38307c81e349

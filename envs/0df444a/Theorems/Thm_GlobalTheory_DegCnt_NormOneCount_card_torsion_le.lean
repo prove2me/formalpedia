@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_NormOneCount_card_torsion_le
 -- name    : GlobalTheory.DegCnt.NormOneCount.card_torsion_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:00:46.382659+00:00
 -- url     : https://prove2.me/theorems/c04b1896-a460-410b-8e96-26f068bdc8fd

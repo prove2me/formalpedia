@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_tupleMass_exists_le
 -- name    : GlobalTheory.BadShare.tupleMass_exists_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:30:44.508706+00:00
 -- url     : https://prove2.me/theorems/67319b0a-5137-46b6-98ea-2475b16d8061

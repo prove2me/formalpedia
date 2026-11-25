@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_Jacobian_ringKrullDim_lt_top
 -- name    : GroundTheory.Arith.Abelian.Jacobian.ringKrullDim_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:50:56.354447+00:00
 -- url     : https://prove2.me/theorems/13b2d8fd-5792-5394-b28f-6bc36d3effe1

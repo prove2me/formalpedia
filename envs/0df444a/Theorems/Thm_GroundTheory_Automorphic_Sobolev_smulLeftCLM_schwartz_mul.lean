@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_smulLeftCLM_schwartz_mul
 -- name    : GroundTheory.Automorphic.Sobolev.smulLeftCLM_schwartz_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:20:19.218883+00:00
 -- url     : https://prove2.me/theorems/7dc28163-d36c-4acb-926f-e72e5d37a03d

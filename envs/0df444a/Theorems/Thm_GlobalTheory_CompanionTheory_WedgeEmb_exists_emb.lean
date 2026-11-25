@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeEmb_exists_emb
 -- name    : GlobalTheory.CompanionTheory.WedgeEmb.exists_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:26:20.511603+00:00
 -- url     : https://prove2.me/theorems/4eae104c-3d24-4b27-9894-c11b0ec74da4

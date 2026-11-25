@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_NFGeom_sub_proj_perp
 -- name    : GlobalTheory.DegCnt.NFGeom.sub_proj_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:45:11.811457+00:00
 -- url     : https://prove2.me/theorems/51466e13-5cd4-47ab-8877-d9ef250249c8

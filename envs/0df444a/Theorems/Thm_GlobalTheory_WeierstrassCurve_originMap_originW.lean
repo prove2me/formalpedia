@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_originMap_originW
 -- name    : GlobalTheory.WeierstrassCurve.originMap_originW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:01:31.731959+00:00
 -- url     : https://prove2.me/theorems/91175395-7c0b-48a4-9752-98e3d42acf0e

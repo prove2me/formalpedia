@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegMove_isotropicFrameMapIsometry_pairComplement
 -- name    : GlobalTheory.DegMove.isotropicFrameMapIsometry_pairComplement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:59:59.692592+00:00
 -- url     : https://prove2.me/theorems/6550063e-6818-4303-be0c-a0e7466cf745

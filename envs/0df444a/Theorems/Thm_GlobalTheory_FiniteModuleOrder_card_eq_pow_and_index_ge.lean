@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteModuleOrder_card_eq_pow_and_index_ge
 -- name    : GlobalTheory.FiniteModuleOrder.card_eq_pow_and_index_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:20:17.496785+00:00
 -- url     : https://prove2.me/theorems/0e81b82c-1d5f-4e35-a911-41700dc8d7b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_filL_rankOne
 -- name    : GlobalTheory.BK.filL_rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:10:29.506821+00:00
 -- url     : https://prove2.me/theorems/c1ec4dd5-625e-4313-ad7f-307b9e93a8a3

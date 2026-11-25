@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrincipalLogDeriv_neg_re_logDeriv_le
 -- name    : GlobalTheory.PrincipalLogDeriv.neg_re_logDeriv_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:47.271511+00:00
 -- url     : https://prove2.me/theorems/dc009bba-221e-4d82-aec7-413fac359eb7

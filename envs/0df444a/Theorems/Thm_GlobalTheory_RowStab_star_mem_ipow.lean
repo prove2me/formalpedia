@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowStab_star_mem_ipow
 -- name    : GlobalTheory.RowStab.star_mem_ipow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:29:21.481573+00:00
 -- url     : https://prove2.me/theorems/adf987f6-11b2-5e46-ae95-d981d96085a9

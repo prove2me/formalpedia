@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_capelli_two_commutation_rule
 -- name    : Formalism.FourierDecayAlt.P.Qx5.capelli_two_commutation_rule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:46:22.989801+00:00
 -- url     : https://prove2.me/theorems/7ea76818-047a-4d6b-8e19-e76815062efc

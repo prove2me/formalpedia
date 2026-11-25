@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_opBound_fourierMultiplier
 -- name    : GroundTheory.Automorphic.Sobolev.opBound_fourierMultiplier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:19:58.219251+00:00
 -- url     : https://prove2.me/theorems/d478389e-228a-4f4b-b5c5-caedd98dff70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestInnerTsumBound_proof_ac904daf09ed
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestInnerTsumBound_proof_ac904daf09ed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:01:06.962924+00:00
 -- url     : https://prove2.me/theorems/6e139fe4-cb81-4611-815f-a0a8bc595f67

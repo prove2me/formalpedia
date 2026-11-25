@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckCasSplit_right_factor_action_diag_op
 -- name    : GlobalTheory.CompanionTheory.ZuckCasSplit.right_factor_action_diag_op
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:29:25.328829+00:00
 -- url     : https://prove2.me/theorems/6e464b13-09b3-4801-918c-da44cf8f6b60

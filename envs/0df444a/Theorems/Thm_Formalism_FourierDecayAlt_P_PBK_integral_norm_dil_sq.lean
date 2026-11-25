@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_integral_norm_dil_sq
 -- name    : Formalism.FourierDecayAlt.P.PBK.integral_norm_dil_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:51:39.469031+00:00
 -- url     : https://prove2.me/theorems/d40e0959-e0f4-5996-a1e8-af461c7b5a7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_cyclotomicTowerLevelGaloisSubgroup_le_fixingSubgroup_base
 -- name    : GlobalTheory.Cyc.cyclotomicTowerLevelGaloisSubgroup_le_fixingSubgroup_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:02:44.759772+00:00
 -- url     : https://prove2.me/theorems/658fac39-9207-545c-86e6-af35155f864e

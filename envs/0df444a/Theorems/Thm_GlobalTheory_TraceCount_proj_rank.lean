@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceCount_proj_rank
 -- name    : GlobalTheory.TraceCount.proj_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:16:55.048691+00:00
 -- url     : https://prove2.me/theorems/f42e178b-90d2-5121-9d51-6b454113384b

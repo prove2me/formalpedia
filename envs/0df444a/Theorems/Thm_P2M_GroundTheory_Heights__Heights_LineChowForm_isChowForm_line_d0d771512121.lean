@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LineChowForm_isChowForm_line_d0d771512121
 -- name    : P2M_GroundTheory_Heights__Heights_LineChowForm_isChowForm_line_d0d771512121
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:42:38.054562+00:00
 -- url     : https://prove2.me/theorems/7942f9de-4f64-46b4-8d6f-460953217ef9

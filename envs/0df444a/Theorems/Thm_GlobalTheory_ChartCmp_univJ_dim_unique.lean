@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_univJ_dim_unique
 -- name    : GlobalTheory.ChartCmp.univJ_dim_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:36:00.522747+00:00
 -- url     : https://prove2.me/theorems/24d3178b-40ea-5667-bcd6-245356cd875b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_VertTermEq_proof_84fc7ba4561c
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_VertTermEq_proof_84fc7ba4561c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:42:06.398714+00:00
 -- url     : https://prove2.me/theorems/badcd475-2e5a-4d8a-9d5e-09336415dc4f

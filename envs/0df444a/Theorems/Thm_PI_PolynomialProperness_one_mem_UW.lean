@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_one_mem_UW
 -- name    : PI.PolynomialProperness.one_mem_UW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:25:04.034975+00:00
 -- url     : https://prove2.me/theorems/57797e91-daf0-5fd5-a3d3-f13a12109072

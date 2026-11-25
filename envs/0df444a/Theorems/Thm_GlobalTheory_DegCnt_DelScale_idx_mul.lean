@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_DelScale_idx_mul
 -- name    : GlobalTheory.DegCnt.DelScale.idx_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:53:31.586033+00:00
 -- url     : https://prove2.me/theorems/73bfb2c0-30bd-4a1f-80e7-7636471475e5

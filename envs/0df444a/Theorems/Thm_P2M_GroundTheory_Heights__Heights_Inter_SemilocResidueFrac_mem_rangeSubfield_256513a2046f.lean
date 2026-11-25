@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueFrac_mem_rangeSubfield_256513a2046f
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueFrac_mem_rangeSubfield_256513a2046f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:46:30.265955+00:00
 -- url     : https://prove2.me/theorems/a955f409-8357-427f-a179-a329ffaf7136

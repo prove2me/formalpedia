@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_isCompactOperator_iff_tendsto_gelfandNumber
 -- name    : SNumbers.isCompactOperator_iff_tendsto_gelfandNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:24:34.919578+00:00
 -- url     : https://prove2.me/theorems/c10ec559-cb92-48e3-b89f-49a68c8f565e

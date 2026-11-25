@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_polyVal_X_mul_dd63c716e8c0
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_polyVal_X_mul_dd63c716e8c0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:17.543915+00:00
 -- url     : https://prove2.me/theorems/fa542894-b3ef-482c-8754-304aea032326

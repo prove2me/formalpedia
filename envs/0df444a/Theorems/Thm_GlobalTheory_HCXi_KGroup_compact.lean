@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_KGroup_compact
 -- name    : GlobalTheory.HCXi.KGroup.compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:10:30.101586+00:00
 -- url     : https://prove2.me/theorems/d5e56193-d7b3-497a-a78d-88b5764afbe8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_arDeg_scaleNormExp
 -- name    : GlobalTheory.ArchMetric.arDeg_scaleNormExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:56:50.279046+00:00
 -- url     : https://prove2.me/theorems/99344380-948d-4ef7-9ed8-a460348de3ae

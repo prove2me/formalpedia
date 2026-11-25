@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplGramMem_proof_205f0b624406
 -- name    : P2M_GroundTheory_Heights__Heights_SymplGramMem_proof_205f0b624406
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:18:14.337837+00:00
 -- url     : https://prove2.me/theorems/684658fc-52bf-4bc3-8500-e5f286cc2e12

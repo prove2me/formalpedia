@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_pow_mul_h_sub_mem_vermaIdeal
 -- name    : GroundTheory.Automorphic.HarishChandra.pow_mul_h_sub_mem_vermaIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:03:22.286644+00:00
 -- url     : https://prove2.me/theorems/7f05337b-93e4-597d-aab2-a33114df9460

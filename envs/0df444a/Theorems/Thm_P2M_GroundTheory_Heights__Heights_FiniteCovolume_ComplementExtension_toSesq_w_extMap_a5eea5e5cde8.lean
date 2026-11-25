@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_ComplementExtension_toSesq_w_extMap_a5eea5e5cde8
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_ComplementExtension_toSesq_w_extMap_a5eea5e5cde8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:49:48.337704+00:00
 -- url     : https://prove2.me/theorems/a62826cf-43c1-4807-ac2d-bdaafb41f1b9

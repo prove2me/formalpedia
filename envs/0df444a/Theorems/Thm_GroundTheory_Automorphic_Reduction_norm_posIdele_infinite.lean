@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_norm_posIdele_infinite
 -- name    : GroundTheory.Automorphic.Reduction.norm_posIdele_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:53:29.92626+00:00
 -- url     : https://prove2.me/theorems/fa9a4080-667b-58f1-8ddd-dd3a8a4d8a79

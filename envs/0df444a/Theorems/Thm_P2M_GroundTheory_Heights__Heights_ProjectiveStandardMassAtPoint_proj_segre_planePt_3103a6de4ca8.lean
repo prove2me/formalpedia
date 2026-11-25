@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjectiveStandardMassAtPoint_proj_segre_planePt_3103a6de4ca8
 -- name    : P2M_GroundTheory_Heights__Heights_ProjectiveStandardMassAtPoint_proj_segre_planePt_3103a6de4ca8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:01.20887+00:00
 -- url     : https://prove2.me/theorems/8db5f780-3f9c-45a1-825d-074b32f42cd5

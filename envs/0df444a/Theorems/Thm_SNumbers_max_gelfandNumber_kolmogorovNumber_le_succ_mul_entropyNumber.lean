@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_max_gelfandNumber_kolmogorovNumber_le_succ_mul_entropyNumber
 -- name    : SNumbers.max_gelfandNumber_kolmogorovNumber_le_succ_mul_entropyNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:23:02.795137+00:00
 -- url     : https://prove2.me/theorems/3d9a08f3-ae5e-452d-a2c8-8a622f990b35

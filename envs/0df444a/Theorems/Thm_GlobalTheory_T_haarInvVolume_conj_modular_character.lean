@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haarInvVolume_conj_modular_character
 -- name    : GlobalTheory.T.haarInvVolume_conj_modular_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:25:41.087128+00:00
 -- url     : https://prove2.me/theorems/08e6b25e-6558-474c-9bd6-7a0858f2fb79

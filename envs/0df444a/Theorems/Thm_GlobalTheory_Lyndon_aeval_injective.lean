@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_aeval_injective
 -- name    : GlobalTheory.Lyndon.aeval_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:19:31.255552+00:00
 -- url     : https://prove2.me/theorems/9f35fb19-5f45-476a-b19a-5031339e4480

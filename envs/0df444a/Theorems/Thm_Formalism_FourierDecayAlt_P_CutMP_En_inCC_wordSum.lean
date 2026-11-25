@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_En_inCC_wordSum
 -- name    : Formalism.FourierDecayAlt.P.CutMP.En.inCC_wordSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:34:24.828457+00:00
 -- url     : https://prove2.me/theorems/013d4776-84af-4d1c-9ef5-91e89508870a

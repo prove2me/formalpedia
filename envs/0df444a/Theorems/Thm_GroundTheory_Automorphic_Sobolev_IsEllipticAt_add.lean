@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_IsEllipticAt_add
 -- name    : GroundTheory.Automorphic.Sobolev.IsEllipticAt.add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:59:01.412574+00:00
 -- url     : https://prove2.me/theorems/39ad3232-23a5-5454-ade4-334882c0c3e4

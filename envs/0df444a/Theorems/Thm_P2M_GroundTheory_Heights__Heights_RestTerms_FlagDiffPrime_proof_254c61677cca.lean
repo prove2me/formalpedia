@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagDiffPrime_proof_254c61677cca
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagDiffPrime_proof_254c61677cca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:00:51.287804+00:00
 -- url     : https://prove2.me/theorems/ff5b32b1-5458-45a5-8fc5-6ef1738702c2

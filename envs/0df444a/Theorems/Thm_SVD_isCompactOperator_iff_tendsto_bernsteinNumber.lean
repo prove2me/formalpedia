@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_isCompactOperator_iff_tendsto_bernsteinNumber
 -- name    : SVD.isCompactOperator_iff_tendsto_bernsteinNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:24:49.970324+00:00
 -- url     : https://prove2.me/theorems/f185fe7d-a193-44d7-aced-dabad31a9b5d

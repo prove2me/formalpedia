@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpShift_form_eq_sum
 -- name    : GlobalTheory.OddBlock.ExpShift.form_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:31:59.630979+00:00
 -- url     : https://prove2.me/theorems/b6d5d284-3106-5ad4-b81c-f4715bebda1b

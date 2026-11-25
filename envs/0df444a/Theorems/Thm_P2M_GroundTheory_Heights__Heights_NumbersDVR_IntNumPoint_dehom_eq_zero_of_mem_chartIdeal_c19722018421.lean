@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_dehom_eq_zero_of_mem_chartIdeal_c19722018421
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_dehom_eq_zero_of_mem_chartIdeal_c19722018421
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:35:00.773291+00:00
 -- url     : https://prove2.me/theorems/841135e2-8204-44e5-a0d2-59144007ab85

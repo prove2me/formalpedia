@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalizedFibreSets_isIntegralLat_adjoin
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalizedFibreSets.isIntegralLat_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:27:56.169009+00:00
 -- url     : https://prove2.me/theorems/f0ff3d61-2f20-4f16-bb15-2e9a7412ad03

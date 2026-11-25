@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_HermClass_posIndex_of_congr
 -- name    : GlobalTheory.LocalQuad.HermClass.posIndex_of_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:47.847482+00:00
 -- url     : https://prove2.me/theorems/48922e6e-40da-4673-a45b-33780db47ecf

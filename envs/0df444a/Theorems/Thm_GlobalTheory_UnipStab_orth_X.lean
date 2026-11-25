@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipStab_orth_X
 -- name    : GlobalTheory.UnipStab.orth_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:10:01.286359+00:00
 -- url     : https://prove2.me/theorems/338f3ef9-688a-42ca-949f-e697ae434f0e

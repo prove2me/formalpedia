@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_coeff_one_mulBy
 -- name    : Formalism.L2.Th1.G.coeff_one_mulBy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:33:45.867684+00:00
 -- url     : https://prove2.me/theorems/047d7fe0-0f84-55b6-af29-1ebd43ec856e

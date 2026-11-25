@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbExactDivide_closed_52aa7c2563e1
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbExactDivide_closed_52aa7c2563e1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:53:45.616937+00:00
 -- url     : https://prove2.me/theorems/7a2175e5-f5c1-4ed3-aed1-697017a685fb

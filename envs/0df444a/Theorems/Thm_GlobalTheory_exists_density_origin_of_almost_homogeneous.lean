@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_density_origin_of_almost_homogeneous
 -- name    : GlobalTheory.exists_density_origin_of_almost_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:29:22.50736+00:00
 -- url     : https://prove2.me/theorems/898f959b-2b68-4de3-b62e-63f36b27b13d

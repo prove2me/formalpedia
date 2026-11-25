@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_two_mul_mem_lattice_iff_derivWeierstrassP_eq_zero
 -- name    : GroundTheory.Global.Elliptic.two_mul_mem_lattice_iff_derivWeierstrassP_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:05:27.800452+00:00
 -- url     : https://prove2.me/theorems/799d31a0-47c3-5921-a640-bb5e494ef235

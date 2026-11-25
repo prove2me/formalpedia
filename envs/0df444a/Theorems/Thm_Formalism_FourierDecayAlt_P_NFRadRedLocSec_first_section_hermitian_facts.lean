@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFRadRedLocSec_first_section_hermitian_facts
 -- name    : Formalism.FourierDecayAlt.P.NFRadRedLocSec.first_section_hermitian_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:31:26.832715+00:00
 -- url     : https://prove2.me/theorems/7d535042-e2e1-5ed2-885c-237426362b8e

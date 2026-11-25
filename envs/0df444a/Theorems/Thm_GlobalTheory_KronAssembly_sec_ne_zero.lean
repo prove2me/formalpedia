@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KronAssembly_sec_ne_zero
 -- name    : GlobalTheory.KronAssembly.sec_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:00:54.548408+00:00
 -- url     : https://prove2.me/theorems/08b9b793-20cd-4dde-bc53-0a31747c2e7b

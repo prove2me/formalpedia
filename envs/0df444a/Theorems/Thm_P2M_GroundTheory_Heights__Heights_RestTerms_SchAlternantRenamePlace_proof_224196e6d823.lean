@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchAlternantRenamePlace_proof_224196e6d823
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchAlternantRenamePlace_proof_224196e6d823
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:01:22.811949+00:00
 -- url     : https://prove2.me/theorems/13983c4b-e8e4-4ebe-9bc5-7d49b1f2b215

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_box_inter_eq_empty
 -- name    : Formalism.HermitianLattices.Ext.L3.box_inter_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:29:30.406322+00:00
 -- url     : https://prove2.me/theorems/12581640-7089-40a0-b05f-48edd64d119d

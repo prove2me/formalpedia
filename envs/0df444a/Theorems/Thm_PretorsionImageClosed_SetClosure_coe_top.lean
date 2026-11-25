@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_coe_top
 -- name    : PretorsionImageClosed.SetClosure.coe_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:49:32.849859+00:00
 -- url     : https://prove2.me/theorems/174a28f7-618b-46ed-8a17-aa3117985f42

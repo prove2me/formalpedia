@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_charCoeffs_smul
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.charCoeffs_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:46:57.673201+00:00
 -- url     : https://prove2.me/theorems/5ded4785-5607-50c4-ba9e-d00cbbad1b68

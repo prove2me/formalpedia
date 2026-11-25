@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_LemmaB_proof_ccf90bd04f01
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_LemmaB_proof_ccf90bd04f01
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:01:45.867826+00:00
 -- url     : https://prove2.me/theorems/dc762ca3-47ed-45cc-b306-0a3b12a75e8b

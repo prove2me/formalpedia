@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_component_mul_of_unique_5016b9b31e21
 -- name    : P2M_GroundTheory_Heights__Heights_component_mul_of_unique_5016b9b31e21
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:44:43.953196+00:00
 -- url     : https://prove2.me/theorems/48b939c8-ad7e-4daa-97e1-bd7bb6a188a1

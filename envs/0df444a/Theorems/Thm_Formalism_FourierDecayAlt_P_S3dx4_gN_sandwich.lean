@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_gN_sandwich
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.gN_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:32:32.690827+00:00
 -- url     : https://prove2.me/theorems/add96ca5-db90-55e6-9576-0b68b02ed7db

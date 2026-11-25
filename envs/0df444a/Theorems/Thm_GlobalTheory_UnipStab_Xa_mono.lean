@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipStab_Xa_mono
 -- name    : GlobalTheory.UnipStab.Xa_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:10:20.51524+00:00
 -- url     : https://prove2.me/theorems/1d6d9483-bb39-4d33-a444-858aa1004a1f

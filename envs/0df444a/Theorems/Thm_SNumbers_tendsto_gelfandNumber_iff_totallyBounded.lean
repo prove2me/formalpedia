@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_tendsto_gelfandNumber_iff_totallyBounded
 -- name    : SNumbers.tendsto_gelfandNumber_iff_totallyBounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:24:04.098206+00:00
 -- url     : https://prove2.me/theorems/18eee3d6-f10e-5c54-a717-9b2ce2313ced

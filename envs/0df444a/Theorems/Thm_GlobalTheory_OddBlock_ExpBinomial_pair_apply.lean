@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpBinomial_pair_apply
 -- name    : GlobalTheory.OddBlock.ExpBinomial.pair_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:06:34.095698+00:00
 -- url     : https://prove2.me/theorems/688dfff4-3e6f-5111-bd8d-e6ccf76fa266

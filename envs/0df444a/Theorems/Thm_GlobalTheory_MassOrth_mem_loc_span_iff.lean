@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassOrth_mem_loc_span_iff
 -- name    : GlobalTheory.MassOrth.mem_loc_span_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:21:22.079931+00:00
 -- url     : https://prove2.me/theorems/03a61262-ae9e-4e24-b51c-7d9b3c9fbc32

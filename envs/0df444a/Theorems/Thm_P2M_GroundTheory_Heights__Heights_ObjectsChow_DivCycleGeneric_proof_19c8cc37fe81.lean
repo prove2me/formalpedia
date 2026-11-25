@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_DivCycleGeneric_proof_19c8cc37fe81
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_DivCycleGeneric_proof_19c8cc37fe81
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:10:57.445+00:00
 -- url     : https://prove2.me/theorems/f5a486bc-9fe9-4e9a-a123-f737fa30e9ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_fildR_eq_comap
 -- name    : Formalism.MainNotions.N.K.Norm.fildR_eq_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:27:07.667314+00:00
 -- url     : https://prove2.me/theorems/8e9b741a-fee3-4252-81f6-4487dec0cb6d

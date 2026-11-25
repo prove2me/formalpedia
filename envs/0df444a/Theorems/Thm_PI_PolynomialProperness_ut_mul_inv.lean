@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_PI_PolynomialProperness_ut_mul_inv
+-- name    : PI.PolynomialProperness.ut_mul_inv
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-25T05:58:43.387661+00:00
+-- url     : https://prove2.me/theorems/d36306ac-147e-4826-954a-b04e9eac180d
+-- title:
+--   Polynomial Properness: ut mul inv
+-- statement:
+--   The Polynomial Properness construction uses the ut mul inv property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/PolynomialProperness/AddLeMulPowOfSqLeOfLeMul.lean#L30-L30
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/PolynomialProperness/AddLeMulPowOfSqLeOfLeMul.lean#L30-L30
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialProperness_UnitriangularInversePolynomialBound
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialProperness_AddLeMulPowOfSqLeOfLeMul
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.C2
+open scoped ComplexConjugate
+noncomputable section
+open PI PI.PolynomialProperness
+
+theorem PI.PolynomialProperness.ut_mul_inv {m : ℕ} {v : Matrix (Fin m) (Fin m) ℂ} (hv : v ∈ UTset m) : v * v⁻¹ = 1 := by sorry

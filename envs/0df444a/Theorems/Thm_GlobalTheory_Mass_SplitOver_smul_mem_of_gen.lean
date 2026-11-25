@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SplitOver_smul_mem_of_gen
 -- name    : GlobalTheory.Mass.SplitOver.smul_mem_of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:59:42.984098+00:00
 -- url     : https://prove2.me/theorems/661c4b2f-fef8-54ac-8cf0-4407db54514c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_Xsum_le
 -- name    : GlobalTheory.TateDecomp.Xsum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:53:21.43484+00:00
 -- url     : https://prove2.me/theorems/a7d17925-1686-529f-86df-08df10615676

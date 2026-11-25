@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_shape_position
 -- name    : GlobalTheory.shape_position
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:51:56.415015+00:00
 -- url     : https://prove2.me/theorems/03cbbb4d-0bd9-4fa6-8392-aec2f8e0664a

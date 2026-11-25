@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_isPseudoSNumberSequence_entropyNumber
 -- name    : SNumbers.isPseudoSNumberSequence_entropyNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:23:19.298319+00:00
 -- url     : https://prove2.me/theorems/fe672617-95eb-45f2-a89d-f12fd39cec41

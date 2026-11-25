@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_bal_mem
 -- name    : GlobalTheory.FontCmp.bal_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:32:57.153357+00:00
 -- url     : https://prove2.me/theorems/1b4d69f3-1910-489b-98ed-9c76d501f829

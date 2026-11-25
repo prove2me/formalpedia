@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_MackeyCuspidal_sum_inter_eq_zero
 -- name    : GlobalTheory.CompanionTheory.TyFin.MackeyCuspidal.sum_inter_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:34:34.473816+00:00
 -- url     : https://prove2.me/theorems/f9bb33ca-fa80-44c5-af21-2145a6b9adb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchSchurEvalMatrix_proof_91c9d5e6207d
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchSchurEvalMatrix_proof_91c9d5e6207d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:01:28.476105+00:00
 -- url     : https://prove2.me/theorems/4ae59267-4cb6-4b81-bf0e-5e2bed635817

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxLatDet_form_eq_sum
 -- name    : GlobalTheory.MaxLatDet.form_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:09:34.467094+00:00
 -- url     : https://prove2.me/theorems/844b614b-7c90-570d-bee6-17b2ed693aad

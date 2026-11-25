@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_dep_isUnit_of_skew
 -- name    : GlobalTheory.GramCount.dep_isUnit_of_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:21:17.169113+00:00
 -- url     : https://prove2.me/theorems/fd4d0ad5-9235-4724-80b1-b97882dea29a

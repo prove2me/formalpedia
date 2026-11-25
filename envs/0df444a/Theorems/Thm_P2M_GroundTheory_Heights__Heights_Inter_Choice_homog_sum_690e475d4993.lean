@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_Choice_homog_sum_690e475d4993
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_Choice_homog_sum_690e475d4993
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:22:51.468804+00:00
 -- url     : https://prove2.me/theorems/3b44a0eb-17d7-4530-997e-1f4089e88347

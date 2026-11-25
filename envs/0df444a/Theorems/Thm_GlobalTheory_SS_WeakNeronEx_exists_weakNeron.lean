@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WeakNeronEx_exists_weakNeron
 -- name    : GlobalTheory.SS.WeakNeronEx.exists_weakNeron
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:11:28.743102+00:00
 -- url     : https://prove2.me/theorems/d6828239-69e0-41da-828d-7a04a10fe0e6

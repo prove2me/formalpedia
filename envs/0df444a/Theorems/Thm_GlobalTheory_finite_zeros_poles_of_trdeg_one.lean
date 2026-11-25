@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_zeros_poles_of_trdeg_one
 -- name    : GlobalTheory.finite_zeros_poles_of_trdeg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:56:24.802833+00:00
 -- url     : https://prove2.me/theorems/6f4daf6e-e8d8-4a78-b5c6-f267a50357a7

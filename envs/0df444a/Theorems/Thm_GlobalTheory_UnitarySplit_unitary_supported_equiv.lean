@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySplit_unitary_supported_equiv
 -- name    : GlobalTheory.UnitarySplit.unitary_supported_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:46:26.900749+00:00
 -- url     : https://prove2.me/theorems/6a0a790c-2a4a-4ad3-984e-7744d36a5ed5

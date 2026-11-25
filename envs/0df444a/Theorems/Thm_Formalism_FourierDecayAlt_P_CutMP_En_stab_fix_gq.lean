@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_En_stab_fix_gq
 -- name    : Formalism.FourierDecayAlt.P.CutMP.En.stab_fix_gq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:30:55.433239+00:00
 -- url     : https://prove2.me/theorems/9b359784-1f95-4cfb-a761-3ca406b571ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_idealEquiv_apply_240b37bfc4da
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_idealEquiv_apply_240b37bfc4da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:26:22.902874+00:00
 -- url     : https://prove2.me/theorems/377a06a4-bfdb-5ec5-8626-cd51c75ce380

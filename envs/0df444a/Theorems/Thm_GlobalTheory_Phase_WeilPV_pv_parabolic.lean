@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_WeilPV_pv_parabolic
 -- name    : GlobalTheory.Phase.WeilPV.pv_parabolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:07:02.938819+00:00
 -- url     : https://prove2.me/theorems/ab303a14-f854-4fd5-863d-8efea0027b18

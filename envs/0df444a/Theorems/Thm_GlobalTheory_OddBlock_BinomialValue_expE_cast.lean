@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_BinomialValue_expE_cast
 -- name    : GlobalTheory.OddBlock.BinomialValue.expE_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:34:29.94656+00:00
 -- url     : https://prove2.me/theorems/6c487dd7-47ac-4103-bd81-be6e17b3e91f

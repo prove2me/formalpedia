@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_half_le_entropyNumber_id_of_lt_rank
 -- name    : SNumbers.half_le_entropyNumber_id_of_lt_rank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:22:41.754298+00:00
 -- url     : https://prove2.me/theorems/6e005e29-9bef-5154-aa93-c941d26c9007

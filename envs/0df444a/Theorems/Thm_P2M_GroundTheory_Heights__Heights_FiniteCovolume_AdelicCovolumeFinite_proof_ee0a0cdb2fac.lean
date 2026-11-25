@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_AdelicCovolumeFinite_proof_ee0a0cdb2fac
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_AdelicCovolumeFinite_proof_ee0a0cdb2fac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:57:07.505722+00:00
 -- url     : https://prove2.me/theorems/46401cb6-4c22-4b37-843a-a46799e8b0fb

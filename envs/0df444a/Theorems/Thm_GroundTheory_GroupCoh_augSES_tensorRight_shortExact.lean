@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_augSES_tensorRight_shortExact
 -- name    : GroundTheory.GroupCoh.augSES_tensorRight_shortExact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:31:47.569422+00:00
 -- url     : https://prove2.me/theorems/5b14b69b-4a95-49ef-8513-3f44bf23e958

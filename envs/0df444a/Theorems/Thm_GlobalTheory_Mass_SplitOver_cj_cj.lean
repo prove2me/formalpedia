@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SplitOver_cj_cj
 -- name    : GlobalTheory.Mass.SplitOver.cj_cj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:00:57.280621+00:00
 -- url     : https://prove2.me/theorems/4e566a89-4e7f-430f-9711-9844f7d49ec6

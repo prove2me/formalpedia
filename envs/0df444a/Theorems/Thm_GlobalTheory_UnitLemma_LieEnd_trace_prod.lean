@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_LieEnd_trace_prod
 -- name    : GlobalTheory.UnitLemma.LieEnd.trace_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:03:12.318461+00:00
 -- url     : https://prove2.me/theorems/053b06bc-5ed5-5614-9e75-f68d6741a3d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_lead_le
 -- name    : GlobalTheory.DegCnt.StabInv.lead_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:59:58.715781+00:00
 -- url     : https://prove2.me/theorems/31a5d26d-91ba-408f-80fa-0816e6406d09
