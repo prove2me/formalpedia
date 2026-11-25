@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CutDeriv_continuous_scale
 -- name    : GlobalTheory.CompanionTheory.CutDeriv.continuous_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:06:24.516871+00:00
 -- url     : https://prove2.me/theorems/320578c1-482a-484d-b459-3f028c77e789

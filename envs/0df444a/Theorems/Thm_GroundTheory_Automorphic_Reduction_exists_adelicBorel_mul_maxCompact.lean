@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_exists_adelicBorel_mul_maxCompact
 -- name    : GroundTheory.Automorphic.Reduction.exists_adelicBorel_mul_maxCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:59:05.525683+00:00
 -- url     : https://prove2.me/theorems/7f90fb3a-3232-4cf9-8ad0-ffd5609c6809

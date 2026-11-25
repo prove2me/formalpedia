@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ClassCount_sameBlock_trans
 -- name    : GlobalTheory.HL.ClassCount.sameBlock_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:30:29.322992+00:00
 -- url     : https://prove2.me/theorems/7f4008f7-f7dd-4d8a-9d27-f9211caeab5f

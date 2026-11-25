@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerDatumAct_inU_of_mem
 -- name    : GlobalTheory.InnerDatumAct.inU_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:38:29.930449+00:00
 -- url     : https://prove2.me/theorems/a030be6d-6a8c-5547-9fb6-da505e6bef20

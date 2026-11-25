@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuRootVec_ex_of_mul_self_eq_zero
 -- name    : GlobalTheory.CompanionTheory.BmuRootVec.ex_of_mul_self_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:34:09.903797+00:00
 -- url     : https://prove2.me/theorems/47f04e45-0030-4fb4-ba12-7e4ea6e003f9

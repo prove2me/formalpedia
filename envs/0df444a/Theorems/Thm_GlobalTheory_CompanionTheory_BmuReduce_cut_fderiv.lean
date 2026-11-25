@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuReduce_cut_fderiv
 -- name    : GlobalTheory.CompanionTheory.BmuReduce.cut_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:40:08.519854+00:00
 -- url     : https://prove2.me/theorems/639765fe-ac97-5b5b-bdeb-dea925c7b75b

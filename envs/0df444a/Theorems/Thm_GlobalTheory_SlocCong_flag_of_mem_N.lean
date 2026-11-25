@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SlocCong_flag_of_mem_N
 -- name    : GlobalTheory.SlocCong.flag_of_mem_N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:44:16.598611+00:00
 -- url     : https://prove2.me/theorems/684d4c3f-a1ed-41b6-92fa-d06734d9ec5e

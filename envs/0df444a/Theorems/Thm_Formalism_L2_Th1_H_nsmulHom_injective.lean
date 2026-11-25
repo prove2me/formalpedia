@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_nsmulHom_injective
 -- name    : Formalism.L2.Th1.H.nsmulHom_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:19:57.983837+00:00
 -- url     : https://prove2.me/theorems/2d8fe2e9-210e-4825-b248-292d125aa5fc

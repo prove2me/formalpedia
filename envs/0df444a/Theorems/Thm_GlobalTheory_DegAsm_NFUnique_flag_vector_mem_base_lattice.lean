@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_NFUnique_flag_vector_mem_base_lattice
 -- name    : GlobalTheory.DegAsm.NFUnique.flag_vector_mem_base_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:23:27.224871+00:00
 -- url     : https://prove2.me/theorems/6c2903e5-b0ad-41c4-8e5f-35af3e797eba

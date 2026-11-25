@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_EichlerUnip_hf_symm0
 -- name    : GlobalTheory.HL.EichlerUnip.hf_symm0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:29:53.427429+00:00
 -- url     : https://prove2.me/theorems/2dd0cb91-efc5-4b92-a59a-4e9906cf7ba6

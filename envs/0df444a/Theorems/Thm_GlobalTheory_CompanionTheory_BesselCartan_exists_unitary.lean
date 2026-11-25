@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BesselCartan_exists_unitary
 -- name    : GlobalTheory.CompanionTheory.BesselCartan.exists_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:21:50.195463+00:00
 -- url     : https://prove2.me/theorems/f01a497e-09b2-4ae6-8eab-bae63d61cfdf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveSame_exists_coef_map
 -- name    : GlobalTheory.HL.MoveSame.exists_coef_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:36:16.939952+00:00
 -- url     : https://prove2.me/theorems/c72d4708-7e2f-4d7c-b5e6-68c511cb2ff3

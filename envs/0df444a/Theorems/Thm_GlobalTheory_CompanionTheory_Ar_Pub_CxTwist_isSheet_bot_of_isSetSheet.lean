@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxTwist_isSheet_bot_of_isSetSheet
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxTwist.isSheet_bot_of_isSetSheet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:18:25.481289+00:00
 -- url     : https://prove2.me/theorems/9bda4d44-a6c9-5f4e-b16f-68f07c9e87cf

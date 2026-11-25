@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAct_graph_smul
 -- name    : GlobalTheory.FrameAct.graph_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:30:18.445569+00:00
 -- url     : https://prove2.me/theorems/0f335b98-90b4-4bbb-af56-02fecbcd3e02

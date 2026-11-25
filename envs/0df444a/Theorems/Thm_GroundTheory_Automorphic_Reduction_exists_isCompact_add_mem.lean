@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_exists_isCompact_add_mem
 -- name    : GroundTheory.Automorphic.Reduction.exists_isCompact_add_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:49:28.299076+00:00
 -- url     : https://prove2.me/theorems/7cf6b5c2-802b-40b8-9af6-6da307fc27ff

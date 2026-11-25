@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_intP_fg
 -- name    : GlobalTheory.MoveFine.intP_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:44:55.053975+00:00
 -- url     : https://prove2.me/theorems/5b86c5a4-50f1-55d6-84ad-76ec776212c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_split_mul
 -- name    : GlobalTheory.BesselPeriodCompare.split_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:10:31.305535+00:00
 -- url     : https://prove2.me/theorems/3b60ba5e-0483-466a-a492-34e0ba1f43a4

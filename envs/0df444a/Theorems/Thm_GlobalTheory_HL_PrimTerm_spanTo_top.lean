@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PrimTerm_spanTo_top
 -- name    : GlobalTheory.HL.PrimTerm.spanTo_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:33:22.355299+00:00
 -- url     : https://prove2.me/theorems/28573268-20e1-49a1-acbf-2d76cbd677df

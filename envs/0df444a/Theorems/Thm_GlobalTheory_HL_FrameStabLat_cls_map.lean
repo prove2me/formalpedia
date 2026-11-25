@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameStabLat_cls_map
 -- name    : GlobalTheory.HL.FrameStabLat.cls_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:30:20.568002+00:00
 -- url     : https://prove2.me/theorems/e1236bff-38d9-4a3b-8e9b-9bc844e7cf5a

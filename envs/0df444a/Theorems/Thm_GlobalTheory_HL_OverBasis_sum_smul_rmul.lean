@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OverBasis_sum_smul_rmul
 -- name    : GlobalTheory.HL.OverBasis.sum_smul_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:32:57.000319+00:00
 -- url     : https://prove2.me/theorems/28272d69-552d-4646-a40b-4c7d6cb54832

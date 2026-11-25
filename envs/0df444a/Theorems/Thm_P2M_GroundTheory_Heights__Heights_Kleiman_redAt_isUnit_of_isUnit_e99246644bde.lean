@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_redAt_isUnit_of_isUnit_e99246644bde
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_redAt_isUnit_of_isUnit_e99246644bde
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:12:38.832441+00:00
 -- url     : https://prove2.me/theorems/67ae483d-35cb-4f11-a015-82ba21091938

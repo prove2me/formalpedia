@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_exLF_of_ne
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.exLF_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:11:00.153958+00:00
 -- url     : https://prove2.me/theorems/89092d36-3deb-4260-9dd3-a510674d2de4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_support_annihilatorIdealSheaf_subset
 -- name    : GroundTheory.Arith.SchemeCoh.support_annihilatorIdealSheaf_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:48:38.829855+00:00
 -- url     : https://prove2.me/theorems/763eb049-33cd-4075-b3e3-3ca2e5a983d1

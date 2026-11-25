@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhfShiftPoleN
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhfShiftPoleN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:44:23.925014+00:00
 -- url     : https://prove2.me/theorems/ddcfea00-5fed-55b7-adc3-830d53061fcf

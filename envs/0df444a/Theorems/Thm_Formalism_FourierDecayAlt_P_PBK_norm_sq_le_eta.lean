@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_norm_sq_le_eta
 -- name    : Formalism.FourierDecayAlt.P.PBK.norm_sq_le_eta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:15:53.331906+00:00
 -- url     : https://prove2.me/theorems/04a42beb-7e24-406d-9b10-8442e66dcebe

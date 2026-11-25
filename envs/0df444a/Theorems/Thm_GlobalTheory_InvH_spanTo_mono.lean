@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvH_spanTo_mono
 -- name    : GlobalTheory.InvH.spanTo_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:40:32.400161+00:00
 -- url     : https://prove2.me/theorems/db1d9d05-bdbb-4288-bd3e-06492da85615

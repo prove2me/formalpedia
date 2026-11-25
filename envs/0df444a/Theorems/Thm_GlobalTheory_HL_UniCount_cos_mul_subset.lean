@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_UniCount_cos_mul_subset
 -- name    : GlobalTheory.HL.UniCount.cos_mul_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:38:46.1598+00:00
 -- url     : https://prove2.me/theorems/38db8c7a-8f15-5cb6-a203-dcee03dbe6a5

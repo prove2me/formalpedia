@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_extremePoints_iff_isImageClosed
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.extremePoints_iff_isImageClosed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T07:29:56.163026+00:00
 -- url     : https://prove2.me/theorems/ce8df4ec-8168-5158-b6b3-a987fafebdb4

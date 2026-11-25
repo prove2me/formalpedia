@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_irrChar_eq_one_of_subsingleton
 -- name    : GlobalTheory.CuspGL.irrChar_eq_one_of_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:26:42.061163+00:00
 -- url     : https://prove2.me/theorems/499b04af-6284-4469-b7fa-94a9f02ea40d

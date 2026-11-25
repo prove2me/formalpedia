@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_PrimDisc_gens_swap
 -- name    : GlobalTheory.Mass.PrimDisc.gens_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:38:36.523969+00:00
 -- url     : https://prove2.me/theorems/7e79b0b3-ca03-5bde-8c2b-86bad96e5cd7

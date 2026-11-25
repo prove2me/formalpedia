@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_of_weierstrassP_derivWeierstrassP_torsion_eq
 -- name    : GlobalTheory.T.eq_of_weierstrassP_derivWeierstrassP_torsion_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:33:35.636321+00:00
 -- url     : https://prove2.me/theorems/ed434910-92c4-40e6-90b7-a41125995e6d

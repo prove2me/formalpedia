@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Procyclic_chiC_mem_intC
 -- name    : GlobalTheory.Cyc.Procyclic.chiC_mem_intC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:09:06.294786+00:00
 -- url     : https://prove2.me/theorems/a3fef569-fd7c-42fe-877e-f1c9357569ee

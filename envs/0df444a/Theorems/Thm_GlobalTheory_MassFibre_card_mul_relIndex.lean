@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassFibre_card_mul_relIndex
 -- name    : GlobalTheory.MassFibre.card_mul_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:40:41.242741+00:00
 -- url     : https://prove2.me/theorems/41e667b5-9f68-5b6a-9e92-22d1247a5a62

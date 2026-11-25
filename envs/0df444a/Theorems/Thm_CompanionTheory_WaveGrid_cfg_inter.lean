@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_cfg_inter
 -- name    : CompanionTheory.WaveGrid.cfg_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:27:58.847796+00:00
 -- url     : https://prove2.me/theorems/6ef6b44d-46e0-59ca-a37e-1f222c07efee

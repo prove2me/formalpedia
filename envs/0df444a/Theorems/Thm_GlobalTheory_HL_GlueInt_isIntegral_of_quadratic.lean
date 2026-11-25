@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GlueInt_isIntegral_of_quadratic
 -- name    : GlobalTheory.HL.GlueInt.isIntegral_of_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:30:38.456046+00:00
 -- url     : https://prove2.me/theorems/1758adb0-8770-4b84-88e3-bfdb5ca45282

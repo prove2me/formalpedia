@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhpr_hyper_simp
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhpr_hyper_simp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:43:38.310813+00:00
 -- url     : https://prove2.me/theorems/0106381d-8a14-4505-83e2-33e3f369039b

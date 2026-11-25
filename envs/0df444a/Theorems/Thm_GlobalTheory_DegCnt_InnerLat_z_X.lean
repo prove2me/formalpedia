@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_InnerLat_z_X
 -- name    : GlobalTheory.DegCnt.InnerLat.z_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:22:41.995054+00:00
 -- url     : https://prove2.me/theorems/800ad221-8c0e-5f73-bfc8-edf97d024111

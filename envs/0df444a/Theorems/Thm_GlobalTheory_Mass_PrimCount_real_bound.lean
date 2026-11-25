@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_PrimCount_real_bound
 -- name    : GlobalTheory.Mass.PrimCount.real_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:42:55.020336+00:00
 -- url     : https://prove2.me/theorems/f254ff15-e104-43c4-b950-cb2fbbe2ad2d

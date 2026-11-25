@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_UnimodSplit_hf_add_right
 -- name    : GlobalTheory.HL.UnimodSplit.hf_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:41:45.330799+00:00
 -- url     : https://prove2.me/theorems/15d0c83d-25d5-5736-87f1-2c775deec3fe

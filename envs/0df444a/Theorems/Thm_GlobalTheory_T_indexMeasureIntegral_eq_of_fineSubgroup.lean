@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_indexMeasureIntegral_eq_of_fineSubgroup
 -- name    : GlobalTheory.T.indexMeasureIntegral_eq_of_fineSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:45:59.436397+00:00
 -- url     : https://prove2.me/theorems/5a69406a-c683-47c2-acf1-524ae53791ba

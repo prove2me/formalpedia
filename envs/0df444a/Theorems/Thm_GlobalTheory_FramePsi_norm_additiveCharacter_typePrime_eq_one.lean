@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePsi_norm_additiveCharacter_typePrime_eq_one
 -- name    : GlobalTheory.FramePsi.norm_additiveCharacter_typePrime_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:28:25.394547+00:00
 -- url     : https://prove2.me/theorems/cbc3cd06-9906-5dc1-b06d-de2f60996bd1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QuotMass_unif_pow_mem
 -- name    : GlobalTheory.HL.QuotMass.unif_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:27:21.614192+00:00
 -- url     : https://prove2.me/theorems/24b68687-fd96-476e-a97b-fc08b9acb03c

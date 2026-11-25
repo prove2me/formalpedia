@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_principal_zeta_bound
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.principal_zeta_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:16:24.721964+00:00
 -- url     : https://prove2.me/theorems/0efd0d64-2bd4-4b5a-a104-ef2b8156ac0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ThickSplit_mem_fixG
 -- name    : GlobalTheory.HL.ThickSplit.mem_fixG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:34:43.191681+00:00
 -- url     : https://prove2.me/theorems/391ff36f-90e6-4b8a-b6a8-e9cf9725fa54

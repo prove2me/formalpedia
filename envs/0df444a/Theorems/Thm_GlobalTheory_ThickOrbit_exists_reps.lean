@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickOrbit_exists_reps
 -- name    : GlobalTheory.ThickOrbit.exists_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:48:27.808857+00:00
 -- url     : https://prove2.me/theorems/6a1d3da0-015e-4a00-a809-3b85b2e0296a

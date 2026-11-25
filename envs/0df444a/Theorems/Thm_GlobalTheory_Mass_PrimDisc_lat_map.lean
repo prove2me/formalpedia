@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_PrimDisc_lat_map
 -- name    : GlobalTheory.Mass.PrimDisc.lat_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:39:11.564424+00:00
 -- url     : https://prove2.me/theorems/4d499e3f-7be8-4a89-bdbc-49cc820fa5cd

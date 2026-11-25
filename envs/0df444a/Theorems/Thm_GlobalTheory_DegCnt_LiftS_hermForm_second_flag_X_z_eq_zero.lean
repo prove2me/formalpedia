@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_hermForm_second_flag_X_z_eq_zero
 -- name    : GlobalTheory.DegCnt.LiftS.hermForm_second_flag_X_z_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:26:22.314173+00:00
 -- url     : https://prove2.me/theorems/7c85b591-4fcc-5aa9-9b58-76d385993403

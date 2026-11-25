@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SkyMod_nonempty_sky_pushforward_iso
 -- name    : GlobalTheory.SkyMod.nonempty_sky_pushforward_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:49:50.748315+00:00
 -- url     : https://prove2.me/theorems/554addd6-05a8-5b85-a408-f3f12d402458

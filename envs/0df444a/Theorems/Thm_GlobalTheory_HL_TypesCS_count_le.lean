@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TypesCS_count_le
 -- name    : GlobalTheory.HL.TypesCS.count_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:36:50.472147+00:00
 -- url     : https://prove2.me/theorems/2957f990-1e89-4e42-a433-1c5dad11eda2

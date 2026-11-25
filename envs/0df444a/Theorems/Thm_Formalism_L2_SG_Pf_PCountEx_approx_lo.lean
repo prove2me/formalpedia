@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_PCountEx_approx_lo
 -- name    : Formalism.L2.SG.Pf.PCountEx.approx_lo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:17:13.246816+00:00
 -- url     : https://prove2.me/theorems/a36b09ff-ee0f-4df3-86d4-50d8dbe04764

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TupleJac_det_rmulL
 -- name    : GlobalTheory.HL.TupleJac.det_rmulL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:36:21.605011+00:00
 -- url     : https://prove2.me/theorems/553247c3-acd5-434d-b50e-09c52394a097

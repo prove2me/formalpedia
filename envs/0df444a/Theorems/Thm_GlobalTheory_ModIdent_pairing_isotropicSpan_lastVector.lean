@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_pairing_isotropicSpan_lastVector
 -- name    : GlobalTheory.ModIdent.pairing_isotropicSpan_lastVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:46:06.569875+00:00
 -- url     : https://prove2.me/theorems/df03e269-a8e3-568c-96b5-8229acabfbed

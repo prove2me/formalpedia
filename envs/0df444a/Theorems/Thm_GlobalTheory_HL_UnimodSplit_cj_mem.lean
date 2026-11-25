@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_UnimodSplit_cj_mem
 -- name    : GlobalTheory.HL.UnimodSplit.cj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:37:43.741902+00:00
 -- url     : https://prove2.me/theorems/0042f98b-2714-48d6-bac4-43bed85c97c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_continuous_split
 -- name    : GlobalTheory.BesselPeriodCompare.continuous_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:10:35.628122+00:00
 -- url     : https://prove2.me/theorems/e3f08680-8ae5-4fde-86a1-c44679d8f59c

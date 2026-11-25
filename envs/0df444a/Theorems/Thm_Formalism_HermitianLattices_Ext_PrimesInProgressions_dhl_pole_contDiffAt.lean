@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhl_pole_contDiffAt
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhl_pole_contDiffAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:41:56.261684+00:00
 -- url     : https://prove2.me/theorems/e9949c98-29ad-5a44-bc35-a6041366e786

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_relVol_eq_mul_of_le
 -- name    : GlobalTheory.HL.relVol_eq_mul_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:34:37.571573+00:00
 -- url     : https://prove2.me/theorems/4041e6c3-da64-4ac6-822e-172d9b52feb6

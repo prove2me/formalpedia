@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_Equiv_trace_integrated
 -- name    : GroundTheory.Automorphic.UnitaryRep.Equiv.trace_integrated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:55:47.862906+00:00
 -- url     : https://prove2.me/theorems/92339ddb-637e-4e81-b66b-4c910a7f538c

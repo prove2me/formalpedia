@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SobolevRep_exists_rep
 -- name    : GlobalTheory.SobolevRep.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:14:40.375141+00:00
 -- url     : https://prove2.me/theorems/35ad909a-e7d3-4f49-a207-bf179aa34464

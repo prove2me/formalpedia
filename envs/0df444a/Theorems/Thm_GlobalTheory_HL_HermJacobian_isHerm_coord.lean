@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_HermJacobian_isHerm_coord
 -- name    : GlobalTheory.HL.HermJacobian.isHerm_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:31:44.313199+00:00
 -- url     : https://prove2.me/theorems/d4fccfdd-d440-4a66-9feb-70932b9d3094

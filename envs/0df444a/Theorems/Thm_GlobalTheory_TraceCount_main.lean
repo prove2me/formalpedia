@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceCount_main
 -- name    : GlobalTheory.TraceCount.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:18:39.338083+00:00
 -- url     : https://prove2.me/theorems/1e26f727-f0d7-457b-8319-9a4ea9c08534

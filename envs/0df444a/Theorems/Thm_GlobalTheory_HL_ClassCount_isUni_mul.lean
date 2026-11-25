@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ClassCount_isUni_mul
 -- name    : GlobalTheory.HL.ClassCount.isUni_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:29:55.302453+00:00
 -- url     : https://prove2.me/theorems/5620e2b4-0532-4195-a57e-21838ff2689f

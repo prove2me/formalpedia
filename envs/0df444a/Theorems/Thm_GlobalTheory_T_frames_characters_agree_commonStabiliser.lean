@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frames_characters_agree_commonStabiliser
 -- name    : GlobalTheory.T.frames_characters_agree_commonStabiliser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:45:26.587551+00:00
 -- url     : https://prove2.me/theorems/db79bc0d-85c8-4498-97d2-e3e835b34b75

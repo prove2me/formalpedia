@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuWordBd_exists_basis_sub
 -- name    : GlobalTheory.CompanionTheory.BmuWordBd.exists_basis_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:22:24.605064+00:00
 -- url     : https://prove2.me/theorems/baf3a6b0-6238-41cb-862b-72f9d11c7984

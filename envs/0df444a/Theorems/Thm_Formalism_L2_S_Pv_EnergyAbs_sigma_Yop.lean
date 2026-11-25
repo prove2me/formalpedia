@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_sigma_Yop
 -- name    : Formalism.L2.S.Pv.EnergyAbs.sigma_Yop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:16:23.860384+00:00
 -- url     : https://prove2.me/theorems/0cf45869-a244-413e-a1fe-b1ad7e172037

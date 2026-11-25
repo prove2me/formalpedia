@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameLift_core
 -- name    : GlobalTheory.HL.FrameLift.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:39:21.219128+00:00
 -- url     : https://prove2.me/theorems/864ab1e9-0cea-4c6c-ad1a-11e4b0be0925

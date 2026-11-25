@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntClsCount_uni_mul
 -- name    : GlobalTheory.IntClsCount.uni_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:39:26.977577+00:00
 -- url     : https://prove2.me/theorems/0ec98307-3ba7-47ee-93d0-513c2f59e104

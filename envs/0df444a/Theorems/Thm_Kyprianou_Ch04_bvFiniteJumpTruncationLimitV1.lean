@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvFiniteJumpTruncationLimitV1
 -- name    : Kyprianou.Ch04.bvFiniteJumpTruncationLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:11:58.545486+00:00
 -- url     : https://prove2.me/theorems/36c78a52-77d7-4caf-aa68-42dd7467d133

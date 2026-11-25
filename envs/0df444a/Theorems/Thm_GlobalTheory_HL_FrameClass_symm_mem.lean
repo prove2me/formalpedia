@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameClass_symm_mem
 -- name    : GlobalTheory.HL.FrameClass.symm_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:34:55.918335+00:00
 -- url     : https://prove2.me/theorems/ce730e1a-8ee9-5504-90ae-d3cbbd596268

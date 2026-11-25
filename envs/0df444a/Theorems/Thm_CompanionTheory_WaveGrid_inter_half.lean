@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_inter_half
 -- name    : CompanionTheory.WaveGrid.inter_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:08:58.416094+00:00
 -- url     : https://prove2.me/theorems/fa7c5e58-9332-43b4-8e30-1051fdef6f6d

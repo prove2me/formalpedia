@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_shortExact_map_pushforward
 -- name    : GlobalTheory.QCoh.shortExact_map_pushforward
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:03:39.225181+00:00
 -- url     : https://prove2.me/theorems/89ea9172-65ba-49b2-a6dc-5b24c7e27ee1

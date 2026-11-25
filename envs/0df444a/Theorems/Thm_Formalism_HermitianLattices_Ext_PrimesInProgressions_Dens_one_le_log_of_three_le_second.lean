@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_one_le_log_of_three_le_second
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.one_le_log_of_three_le_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:44:56.713223+00:00
 -- url     : https://prove2.me/theorems/8d3fe6ad-ccb4-4929-a43f-af3b6d852ebb

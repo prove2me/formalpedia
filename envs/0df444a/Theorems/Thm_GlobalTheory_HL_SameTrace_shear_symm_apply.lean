@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SameTrace_shear_symm_apply
 -- name    : GlobalTheory.HL.SameTrace.shear_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:37:00.166974+00:00
 -- url     : https://prove2.me/theorems/c0f73077-0f89-5dbf-bd2b-9bd88ae3ea8f

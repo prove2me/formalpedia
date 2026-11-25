@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhfEraseSum
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhfEraseSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:49:28.423955+00:00
 -- url     : https://prove2.me/theorems/a779fbcc-2d58-4ee2-951a-535a9515a8a5

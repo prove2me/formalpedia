@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineIndexNeZero_proof_a8fe4bc038ad
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineIndexNeZero_proof_a8fe4bc038ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:47:43.831335+00:00
 -- url     : https://prove2.me/theorems/de452196-97ef-497f-bbd0-5ff480ca9573

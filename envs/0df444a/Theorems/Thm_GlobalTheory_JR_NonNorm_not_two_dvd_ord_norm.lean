@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NonNorm_not_two_dvd_ord_norm
 -- name    : GlobalTheory.JR.NonNorm.not_two_dvd_ord_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:40:56.833806+00:00
 -- url     : https://prove2.me/theorems/6442f113-7afb-4fc1-b42b-5ae108208685

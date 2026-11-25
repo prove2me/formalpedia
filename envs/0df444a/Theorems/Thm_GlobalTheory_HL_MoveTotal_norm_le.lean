@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveTotal_norm_le
 -- name    : GlobalTheory.HL.MoveTotal.norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:38:18.400388+00:00
 -- url     : https://prove2.me/theorems/d580b148-267d-40e9-85a0-c57c74f5512c

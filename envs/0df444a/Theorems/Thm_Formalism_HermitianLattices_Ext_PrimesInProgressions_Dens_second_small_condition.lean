@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_second_small_condition
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.second_small_condition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:34:40.050441+00:00
 -- url     : https://prove2.me/theorems/7c04a0dc-91d1-4877-82cd-8bffd8b56049

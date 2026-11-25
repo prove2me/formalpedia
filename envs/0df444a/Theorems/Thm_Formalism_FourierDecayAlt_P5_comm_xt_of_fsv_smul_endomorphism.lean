@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_comm_xt_of_fsv_smul_endomorphism
 -- name    : Formalism.FourierDecayAlt.P5.comm_xt_of_fsv_smul_endomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:56:54.216234+00:00
 -- url     : https://prove2.me/theorems/84ae30bd-60ef-401f-a0dd-498f33568863

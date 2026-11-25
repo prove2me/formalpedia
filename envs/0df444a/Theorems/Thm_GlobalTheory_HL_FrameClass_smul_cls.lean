@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameClass_smul_cls
 -- name    : GlobalTheory.HL.FrameClass.smul_cls
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:32:02.936223+00:00
 -- url     : https://prove2.me/theorems/34923b31-8ff5-4965-8149-19dc7168e326

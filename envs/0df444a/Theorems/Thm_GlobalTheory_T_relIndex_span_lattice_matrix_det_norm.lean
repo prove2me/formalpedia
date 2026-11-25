@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndex_span_lattice_matrix_det_norm
 -- name    : GlobalTheory.T.relIndex_span_lattice_matrix_det_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:46:11.665152+00:00
 -- url     : https://prove2.me/theorems/d059dd21-0cd1-4b93-b2de-72c8ca38afba

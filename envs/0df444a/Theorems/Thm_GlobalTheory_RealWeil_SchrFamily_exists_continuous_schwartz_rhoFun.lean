@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_SchrFamily_exists_continuous_schwartz_rhoFun
 -- name    : GlobalTheory.RealWeil.SchrFamily.exists_continuous_schwartz_rhoFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:17:12.299036+00:00
 -- url     : https://prove2.me/theorems/4e3856e3-1a85-487e-a714-66c93fe7c416

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_exists_fg_span_stable_of_unipotent
 -- name    : GlobalTheory.HL.exists_fg_span_stable_of_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:33:49.507725+00:00
 -- url     : https://prove2.me/theorems/4a7c60fd-9d9b-4042-80b0-4577de44def9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_HypLam_lamN_gap
 -- name    : CompanionTheory.WaveGrid.HypLam.lamN_gap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:08:22.608138+00:00
 -- url     : https://prove2.me/theorems/28a70bdf-f10b-48ba-93ff-412ee7a35a08

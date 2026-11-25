@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripInv_tr_mapsTo
 -- name    : GlobalTheory.TripInv.tr_mapsTo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:35:16.214248+00:00
 -- url     : https://prove2.me/theorems/6a9e36fa-c01c-4a4b-8019-fc272550ad5b

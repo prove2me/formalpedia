@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Bmu_prod_norm_le
 -- name    : CompanionTheory.Bmu.prod_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:43:26.577365+00:00
 -- url     : https://prove2.me/theorems/9dfe12e1-0810-445b-83a0-f303bc662c75

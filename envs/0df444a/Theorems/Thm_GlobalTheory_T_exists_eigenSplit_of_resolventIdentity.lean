@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_eigenSplit_of_resolventIdentity
 -- name    : GlobalTheory.T.exists_eigenSplit_of_resolventIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:45:01.139818+00:00
 -- url     : https://prove2.me/theorems/a04edc5f-e513-52e3-8e05-4c636fbb84ec

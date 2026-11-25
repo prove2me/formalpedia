@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameTuple_det_uni
 -- name    : GlobalTheory.HL.FrameTuple.det_uni
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:35:14.139127+00:00
 -- url     : https://prove2.me/theorems/ce17649d-0c39-5807-bb03-ae7b708873ae

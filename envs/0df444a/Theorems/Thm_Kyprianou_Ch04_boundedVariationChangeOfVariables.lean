@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_boundedVariationChangeOfVariables
 -- name    : Kyprianou.Ch04.boundedVariationChangeOfVariables
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T22:22:29.295676+00:00
 -- url     : https://prove2.me/theorems/949a2995-9202-4880-8431-e7d57b0da724

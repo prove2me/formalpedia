@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ContModel_smul_inf_of_fix
 -- name    : GlobalTheory.HL.ContModel.smul_inf_of_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:39:43.327107+00:00
 -- url     : https://prove2.me/theorems/1eb842bb-f2b3-5f26-a8aa-80f10a68f9b7

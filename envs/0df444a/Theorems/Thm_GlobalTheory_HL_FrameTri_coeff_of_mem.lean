@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameTri_coeff_of_mem
 -- name    : GlobalTheory.HL.FrameTri.coeff_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:34:49.766599+00:00
 -- url     : https://prove2.me/theorems/5b3b98db-a2a7-488d-a2ca-6ac43de80d86

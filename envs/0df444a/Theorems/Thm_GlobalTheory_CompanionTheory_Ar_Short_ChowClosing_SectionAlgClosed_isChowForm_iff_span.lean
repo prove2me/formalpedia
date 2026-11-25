@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Short_ChowClosing_SectionAlgClosed_isChowForm_iff_span
 -- name    : GlobalTheory.CompanionTheory.Ar.Short.ChowClosing.SectionAlgClosed.isChowForm_iff_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:20:46.403372+00:00
 -- url     : https://prove2.me/theorems/afdb7cc0-9558-4ca3-90a9-1cfffc705896

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_RadTTaylor_poly_at
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.RadTTaylor.poly_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:15:57.181399+00:00
 -- url     : https://prove2.me/theorems/c35be2f5-1444-50b7-a7b9-df6decd117ec

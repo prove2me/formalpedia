@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RStab_gramT_scale
 -- name    : GlobalTheory.HL.RStab.gramT_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:38:26.172598+00:00
 -- url     : https://prove2.me/theorems/97c8ad78-d046-5836-b325-2c150340867b

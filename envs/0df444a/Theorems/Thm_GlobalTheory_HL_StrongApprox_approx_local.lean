@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StrongApprox_approx_local
 -- name    : GlobalTheory.HL.StrongApprox.approx_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:38:00.7476+00:00
 -- url     : https://prove2.me/theorems/f18df719-7585-47c4-81d3-63eaa25f1108

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_adelicNorm_single_units
 -- name    : GroundTheory.Automorphic.Reduction.adelicNorm_single_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:11:40.084345+00:00
 -- url     : https://prove2.me/theorems/4c9fb084-5d2f-49ca-af7c-53b631fc183e

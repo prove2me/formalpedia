@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocDict_baer_fractionRing
 -- name    : GlobalTheory.HL.LocDict.baer_fractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:31:58.997799+00:00
 -- url     : https://prove2.me/theorems/0c0bb3f7-6960-4249-8b71-80c1b1e67ce3

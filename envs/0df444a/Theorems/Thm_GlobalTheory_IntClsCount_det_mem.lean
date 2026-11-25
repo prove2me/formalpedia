@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntClsCount_det_mem
 -- name    : GlobalTheory.IntClsCount.det_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:40:22.271101+00:00
 -- url     : https://prove2.me/theorems/90d056ff-360d-4ba0-969e-0e97f2efaff9

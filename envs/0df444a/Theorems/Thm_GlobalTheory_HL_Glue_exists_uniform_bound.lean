@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Glue_exists_uniform_bound
 -- name    : GlobalTheory.HL.Glue.exists_uniform_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:31:39.655198+00:00
 -- url     : https://prove2.me/theorems/878dbcb6-96e4-52eb-afc1-843f77d5c576

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_PrimDisc_idx_mul
 -- name    : GlobalTheory.Mass.PrimDisc.idx_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:39:04.96764+00:00
 -- url     : https://prove2.me/theorems/8d47b9b9-6412-4f26-a5f5-d9c24a4a9620

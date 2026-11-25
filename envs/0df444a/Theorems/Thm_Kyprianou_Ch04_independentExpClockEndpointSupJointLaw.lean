@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_independentExpClockEndpointSupJointLaw
 -- name    : Kyprianou.Ch04.independentExpClockEndpointSupJointLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:40:28.238643+00:00
 -- url     : https://prove2.me/theorems/fea04ffe-04ca-4373-84e1-2a4addea9e7f

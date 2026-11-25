@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_choose_two_mul
 -- name    : GroundTheory.Global.Elliptic.choose_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:48:34.237552+00:00
 -- url     : https://prove2.me/theorems/e6b7051f-ab05-4fb0-b9d1-10881a6dd884

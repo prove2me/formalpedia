@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuIwa_conj_mul
 -- name    : GlobalTheory.CompanionTheory.BmuIwa.conj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:43:10.066808+00:00
 -- url     : https://prove2.me/theorems/c042a278-441b-4c4b-aca6-42ebb4c9bbea

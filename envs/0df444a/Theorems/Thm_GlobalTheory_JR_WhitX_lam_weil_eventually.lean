@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WhitX_lam_weil_eventually
 -- name    : GlobalTheory.JR.WhitX.lam_weil_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:40:49.442659+00:00
 -- url     : https://prove2.me/theorems/124c21bf-bc77-4ece-8b1a-1ce12fd5f0bd

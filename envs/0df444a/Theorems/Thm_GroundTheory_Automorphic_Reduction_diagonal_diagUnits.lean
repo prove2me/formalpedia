@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_diagonal_diagUnits
 -- name    : GroundTheory.Automorphic.Reduction.diagonal_diagUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:49:40.451821+00:00
 -- url     : https://prove2.me/theorems/8489bbd2-da0f-4fd9-87f3-761b0d1a4e1b

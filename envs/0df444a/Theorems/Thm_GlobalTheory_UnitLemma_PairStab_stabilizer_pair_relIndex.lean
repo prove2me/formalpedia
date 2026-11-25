@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_PairStab_stabilizer_pair_relIndex
 -- name    : GlobalTheory.UnitLemma.PairStab.stabilizer_pair_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:05:04.579832+00:00
 -- url     : https://prove2.me/theorems/fd5f7ef0-3fc7-4964-b7d5-25eed4405a49

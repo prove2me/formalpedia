@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CloseTuples_exists_pow_denom
 -- name    : GlobalTheory.HL.CloseTuples.exists_pow_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:29:30.746092+00:00
 -- url     : https://prove2.me/theorems/f3e4c47c-9c4e-4b5b-83f7-058d7424e8fc

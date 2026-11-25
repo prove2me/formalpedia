@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_hasOrder_mulRem
 -- name    : GroundTheory.Automorphic.Sobolev.hasOrder_mulRem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:14:28.340712+00:00
 -- url     : https://prove2.me/theorems/e3ecff83-a7ea-4c6c-bf57-f9dca593e631

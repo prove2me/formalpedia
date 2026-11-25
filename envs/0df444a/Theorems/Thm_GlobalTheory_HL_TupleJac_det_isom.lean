@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TupleJac_det_isom
 -- name    : GlobalTheory.HL.TupleJac.det_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:38:52.40883+00:00
 -- url     : https://prove2.me/theorems/a3e411fe-d89b-5bd3-828c-8b33dcc1d478

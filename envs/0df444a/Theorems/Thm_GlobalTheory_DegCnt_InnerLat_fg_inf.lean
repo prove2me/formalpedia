@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_InnerLat_fg_inf
 -- name    : GlobalTheory.DegCnt.InnerLat.fg_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:33:17.716701+00:00
 -- url     : https://prove2.me/theorems/97cb4427-95ca-57e8-a8d6-f102ba66c041

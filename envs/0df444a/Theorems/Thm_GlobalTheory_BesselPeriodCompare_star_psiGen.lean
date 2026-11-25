@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_star_psiGen
 -- name    : GlobalTheory.BesselPeriodCompare.star_psiGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:30:06.681516+00:00
 -- url     : https://prove2.me/theorems/3dfe30b2-a1bc-5044-9d3b-319a83cb910c

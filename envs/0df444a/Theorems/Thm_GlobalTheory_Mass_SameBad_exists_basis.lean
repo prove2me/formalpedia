@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SameBad_exists_basis
 -- name    : GlobalTheory.Mass.SameBad.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:41:13.831804+00:00
 -- url     : https://prove2.me/theorems/f9a71b8e-9d88-4ecc-890d-79fa7c72638e

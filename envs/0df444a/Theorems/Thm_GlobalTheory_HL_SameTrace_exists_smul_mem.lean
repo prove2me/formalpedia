@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SameTrace_exists_smul_mem
 -- name    : GlobalTheory.HL.SameTrace.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:36:54.645419+00:00
 -- url     : https://prove2.me/theorems/00676f79-48c8-51c1-907a-7a637c8a9064

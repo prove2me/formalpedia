@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycPerturb_mul_mem_intC
 -- name    : GlobalTheory.CycPerturb.mul_mem_intC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:44:12.890453+00:00
 -- url     : https://prove2.me/theorems/810191c6-ce11-44b2-a24a-a80c1b63fabd

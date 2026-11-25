@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Glue_natCast_isUnit_ae
 -- name    : GlobalTheory.HL.Glue.natCast_isUnit_ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:31:20.8788+00:00
 -- url     : https://prove2.me/theorems/7fc99c52-06e3-5856-8be0-53cdb278e638

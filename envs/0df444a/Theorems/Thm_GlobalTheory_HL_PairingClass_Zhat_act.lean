@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PairingClass_Zhat_act
 -- name    : GlobalTheory.HL.PairingClass.Zhat_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:43:20.509799+00:00
 -- url     : https://prove2.me/theorems/592a762a-0a3d-4390-a27b-a52084a7189d

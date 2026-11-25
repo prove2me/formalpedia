@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocDict_exists_bc_map
 -- name    : GlobalTheory.HL.LocDict.exists_bc_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:32:33.54503+00:00
 -- url     : https://prove2.me/theorems/421aa80f-a0ee-412d-9861-891c2cfabc42

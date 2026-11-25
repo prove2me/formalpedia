@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameMove_x_eq_span
 -- name    : GlobalTheory.DegAsm.FrameMove.x_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:23:06.242749+00:00
 -- url     : https://prove2.me/theorems/2adf5532-1588-4a3d-8bb8-46b1a3a1f3f7

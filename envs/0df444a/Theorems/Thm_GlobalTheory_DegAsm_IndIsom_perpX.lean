@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_IndIsom_perpX
 -- name    : GlobalTheory.DegAsm.IndIsom.perpX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:21:38.392993+00:00
 -- url     : https://prove2.me/theorems/7b9799ab-1f4a-5d6b-b67a-68f4dc4262fe

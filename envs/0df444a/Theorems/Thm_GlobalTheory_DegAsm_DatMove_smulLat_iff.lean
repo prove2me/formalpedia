@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_DatMove_smulLat_iff
 -- name    : GlobalTheory.DegAsm.DatMove.smulLat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:26:13.248687+00:00
 -- url     : https://prove2.me/theorems/0c9c9f53-3b3c-4521-b57e-b6f63a2b558a

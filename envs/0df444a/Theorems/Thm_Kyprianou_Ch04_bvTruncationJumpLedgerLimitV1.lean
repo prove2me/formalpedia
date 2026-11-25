@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvTruncationJumpLedgerLimitV1
 -- name    : Kyprianou.Ch04.bvTruncationJumpLedgerLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:33:03.163328+00:00
 -- url     : https://prove2.me/theorems/b63a88a7-9a61-4144-a8b4-aebb0163ba78

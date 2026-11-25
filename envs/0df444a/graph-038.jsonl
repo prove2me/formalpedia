@@ -32136,18 +32136,18 @@
 {"parent": "Development_AutomorphicArithmetic_MeanSquareBounds_SumCNLe", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_TailMertens", "via": ["statement"]}
 {"parent": "UpperTheory.T3.normPrimesN", "child": "Development_AutomorphicArithmetic_ShortNorms_ShortNorm", "via": ["solution", "statement"]}
 {"parent": "UpperTheory.T3.normPrimesN", "child": "Development_AutomorphicArithmetic_ShortNorms_normPrimesN", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_InvertibleEndInnerProductRootPowerSumEqTorusSumStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Definitions_CommutativeAlgebra_AbByPOfComm", "via": ["statement"]}
-{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Definitions_CommutativeAlgebra_InvariantSubspaceMobiusInverseRecEqOfFinrankLt", "via": ["statement"]}
-{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_InvariantSubspaceMobiusInverseCharpolyLinearEqui", "via": ["statement"]}
-{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_EqZeroOfNotPrimaryStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_PrimitiveClassFunctionExpansionRootSums", "via": ["statement"]}
-{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_EqZeroOfFinsumMulStarPowEqZero", "via": ["statement"]}
-{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_PrimitiveEndClassFunctionZeroOfCharpolyMassZeroStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_IsPrimitiveEndClassFunctionInvariantSubspaceMobiStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_InnerProductRootPowerSumEqOfFrobeniusModEqStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_RootPowerSumCharacterAdditiveAndXSubOnePow", "via": ["statement"]}
-{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_InvertibleEndInnerProductRootPowerSumMobiusStatement", "via": ["statement"]}
+{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_InvertibleEndInnerProductRootPowerSumEqTorusSumStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Definitions_CommutativeAlgebra_AbByPOfComm", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Definitions_CommutativeAlgebra_InvariantSubspaceMobiusInverseRecEqOfFinrankLt", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_InvariantSubspaceMobiusInverseCharpolyLinearEqui", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_EqZeroOfNotPrimaryStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_PrimitiveClassFunctionExpansionRootSums", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_EqZeroOfFinsumMulStarPowEqZero", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_PrimitiveEndClassFunctionZeroOfCharpolyMassZeroStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_IsPrimitiveEndClassFunctionInvariantSubspaceMobiStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_InnerProductRootPowerSumEqOfFrobeniusModEqStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_RootPowerSumCharacterAdditiveAndXSubOnePow", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CuspGL.expand_primitive", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_InvertibleEndInnerProductRootPowerSumMobiusStatement", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.eq_of_add_self_eq_add_self", "child": "Formalism_RealPlaceAnalysis_Complexify", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.eq_of_add_self_eq_add_self", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_IndefiniteUnitaryPreservesForm", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_NormRayClassFamilyFOneGeOfRealCharacterStatement", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_NormRayClassFamilyFOneGeOfRealCharacter", "via": ["statement"]}
@@ -35408,11 +35408,11 @@
 {"parent": "GlobalTheory.Hk.ZeroFree.one_le_ell", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyLogDerivPositivityStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Hk.ZeroFree.one_le_ell", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassFamilyLogDerivReGtOneStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Hk.ZeroFree.one_le_ell", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionLogDerivLocalFormulaStatement", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.SupplyAP.supplyPrimesEff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_ExceptionalCharacterBounds_EffExc", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.SupplyAP.supplyPrimesEff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_ExceptionalCharacterBounds_EffFinal", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.SupplyAP.supplyPrimesEff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_ExceptionalCharacterBounds_EffPsi", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.SupplyAP.supplyPrimesEff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_ExceptionalCharacterBounds_PsiAPLeCount", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.SupplyAP.supplyPrimesEff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_ExceptionalCharacterBounds_EffConsts", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.SupplyAP.supplyPrimesEff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_ExceptionalCharacterBounds_EffExc", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.SupplyAP.supplyPrimesEff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_ExceptionalCharacterBounds_EffFinal", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.SupplyAP.supplyPrimesEff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_ExceptionalCharacterBounds_EffPsi", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.SupplyAP.supplyPrimesEff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_ExceptionalCharacterBounds_PsiAPLeCount", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.SupplyAP.supplyPrimesEff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_ExceptionalCharacterBounds_EffConsts", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.heckecomm_theta_inv", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_HeckeConvolutionMemHolds", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.heckecomm_theta_inv", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Heckecomm", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.heckecomm_theta_inv", "child": "Formalism_SatakeDualWeyl_StatementE", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GlueInt_fix_mem
 -- name    : GlobalTheory.HL.GlueInt.fix_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:30:31.392477+00:00
 -- url     : https://prove2.me/theorems/088705e0-a18f-454c-9e9d-223671614735

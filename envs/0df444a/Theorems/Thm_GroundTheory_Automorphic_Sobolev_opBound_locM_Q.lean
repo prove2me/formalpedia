@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_opBound_locM_Q
 -- name    : GroundTheory.Automorphic.Sobolev.opBound_locM_Q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:20:38.532333+00:00
 -- url     : https://prove2.me/theorems/19b2bef1-baa9-5293-8368-da0903656b34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_independentExpClockPathJointLaw
 -- name    : Kyprianou.Ch04.independentExpClockPathJointLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:41:35.605458+00:00
 -- url     : https://prove2.me/theorems/6a8b669b-9f1c-4dc8-9116-602ead44933f

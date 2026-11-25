@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DivisibleGauss_form_smul_right
 -- name    : GlobalTheory.HL.DivisibleGauss.form_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:30:14.985374+00:00
 -- url     : https://prove2.me/theorems/daccc646-76fe-5c9f-ac2d-db34be2e14e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonGenericLocalCheck_exists_transv
 -- name    : GlobalTheory.NonGenericLocalCheck.exists_transv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:41:26.946256+00:00
 -- url     : https://prove2.me/theorems/911c23a4-4dfd-40c3-9f9e-0609254ea5cd

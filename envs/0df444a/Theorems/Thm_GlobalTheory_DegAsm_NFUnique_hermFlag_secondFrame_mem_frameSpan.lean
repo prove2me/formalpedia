@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_NFUnique_hermFlag_secondFrame_mem_frameSpan
 -- name    : GlobalTheory.DegAsm.NFUnique.hermFlag_secondFrame_mem_frameSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:44:31.852631+00:00
 -- url     : https://prove2.me/theorems/579c7add-c8bd-41e2-946b-8762df78e619

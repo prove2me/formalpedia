@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealResProd_mem_span_iff
 -- name    : GlobalTheory.IdealResProd.mem_span_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:38:37.492805+00:00
 -- url     : https://prove2.me/theorems/4815742b-f8e2-4a4e-99a6-5ad77b9c0fe9

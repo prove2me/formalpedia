@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_HermJacobian_det_sandwich
 -- name    : GlobalTheory.HL.HermJacobian.det_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:31:37.066365+00:00
 -- url     : https://prove2.me/theorems/e631231c-a9b6-4ac9-b5cb-2f77cc90479d

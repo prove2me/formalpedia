@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermTuple_exists_matrix
 -- name    : GlobalTheory.HermTuple.exists_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:40:24.874859+00:00
 -- url     : https://prove2.me/theorems/78272697-a234-5216-a1d0-0adc160f2009

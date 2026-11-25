@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesIdealIndexPos_full_4f9c5f06aec4
 -- name    : P2M_GroundTheory_Heights__Heights_LinesIdealIndexPos_full_4f9c5f06aec4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:31.850502+00:00
 -- url     : https://prove2.me/theorems/11bf8603-f97f-4172-88e4-24cf5aa13b69

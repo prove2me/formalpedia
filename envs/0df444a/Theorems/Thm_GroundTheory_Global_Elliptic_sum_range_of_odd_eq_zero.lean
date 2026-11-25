@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_sum_range_of_odd_eq_zero
 -- name    : GroundTheory.Global.Elliptic.sum_range_of_odd_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:48:46.656156+00:00
 -- url     : https://prove2.me/theorems/d4415b51-b63e-573d-af39-b7024525dcf2

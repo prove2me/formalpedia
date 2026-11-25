@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_add_add_eq_zero_of_roots
 -- name    : GroundTheory.Global.Elliptic.add_add_eq_zero_of_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:48:49.860288+00:00
 -- url     : https://prove2.me/theorems/8ef8bdfe-1d70-464f-b843-49eade88a108

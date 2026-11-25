@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hermLat_boundedScaleDual_finite
 -- name    : GlobalTheory.hermLat_boundedScaleDual_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:47:56.978016+00:00
 -- url     : https://prove2.me/theorems/321049fd-d995-44df-a718-8428ff7fb368

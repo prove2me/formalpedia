@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SameBad_exists_intLat
 -- name    : GlobalTheory.Mass.SameBad.exists_intLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:40:38.498691+00:00
 -- url     : https://prove2.me/theorems/e0a5e65f-7768-4aeb-9f0b-c7af941a8eec

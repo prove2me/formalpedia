@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_intInv
 -- name    : Formalism.L2.FormalSeriesBounds.VP.intInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:05:37.697369+00:00
 -- url     : https://prove2.me/theorems/f3a4b57c-f345-4b93-b695-50b22b382bdf

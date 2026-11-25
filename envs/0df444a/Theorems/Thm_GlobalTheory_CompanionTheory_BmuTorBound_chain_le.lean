@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuTorBound_chain_le
 -- name    : GlobalTheory.CompanionTheory.BmuTorBound.chain_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:26:10.769914+00:00
 -- url     : https://prove2.me/theorems/6e8f75cd-3738-45a4-93d4-9c38b8a6ed6e

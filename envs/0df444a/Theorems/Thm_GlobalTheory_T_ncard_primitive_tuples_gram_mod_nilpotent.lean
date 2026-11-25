@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ncard_primitive_tuples_gram_mod_nilpotent
 -- name    : GlobalTheory.T.ncard_primitive_tuples_gram_mod_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:45:51.01187+00:00
 -- url     : https://prove2.me/theorems/6b4eb957-ab6a-5644-b656-b20a8d2a5d64

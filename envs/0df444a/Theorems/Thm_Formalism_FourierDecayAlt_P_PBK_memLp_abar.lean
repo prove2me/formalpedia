@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_memLp_abar
 -- name    : Formalism.FourierDecayAlt.P.PBK.memLp_abar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:22:06.19892+00:00
 -- url     : https://prove2.me/theorems/31b73f27-f606-4edd-a766-9efac8530e37

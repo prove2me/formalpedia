@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BesselLevi_Hq_sq
 -- name    : GlobalTheory.CompanionTheory.BesselLevi.Hq_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:22:26.991916+00:00
 -- url     : https://prove2.me/theorems/5565ad5b-c679-5f47-ba10-532d878a73e6

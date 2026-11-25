@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameOver_card_coker
 -- name    : GlobalTheory.FrameOver.card_coker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:27:35.355333+00:00
 -- url     : https://prove2.me/theorems/30675f6e-dc32-509a-8604-0c3f2e8981e8

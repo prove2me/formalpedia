@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LevelFamilies_relIndex_eq_card_map
 -- name    : GlobalTheory.HL.LevelFamilies.relIndex_eq_card_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:32:51.556047+00:00
 -- url     : https://prove2.me/theorems/77952731-0f55-4973-b861-68581692e9a3

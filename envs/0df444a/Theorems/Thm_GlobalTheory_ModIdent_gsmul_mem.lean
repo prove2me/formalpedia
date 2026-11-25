@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_gsmul_mem
 -- name    : GlobalTheory.ModIdent.gsmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:08:16.506377+00:00
 -- url     : https://prove2.me/theorems/ec15407e-71bb-57f6-aefe-ea6ad71d8101

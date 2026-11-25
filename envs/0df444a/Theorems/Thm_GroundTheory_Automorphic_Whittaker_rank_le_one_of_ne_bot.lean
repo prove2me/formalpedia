@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_rank_le_one_of_ne_bot
 -- name    : GroundTheory.Automorphic.Whittaker.rank_le_one_of_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:11:05.625937+00:00
 -- url     : https://prove2.me/theorems/d7694aed-9180-4589-b65a-5843d9dcb963

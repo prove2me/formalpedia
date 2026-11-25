@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_PrimDisc_idx_swap
 -- name    : GlobalTheory.Mass.PrimDisc.idx_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:38:48.674791+00:00
 -- url     : https://prove2.me/theorems/29daf2e4-95e1-5a9f-bb83-4c06bba230dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_coset_fibre_card
 -- name    : GlobalTheory.HL.coset_fibre_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:37:31.771563+00:00
 -- url     : https://prove2.me/theorems/54b56cb3-b8df-5eb3-825e-ded520715c3b

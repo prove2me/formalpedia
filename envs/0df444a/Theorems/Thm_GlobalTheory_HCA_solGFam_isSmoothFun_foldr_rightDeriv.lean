@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_solGFam_isSmoothFun_foldr_rightDeriv
 -- name    : GlobalTheory.HCA.solGFam_isSmoothFun_foldr_rightDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:04:43.137974+00:00
 -- url     : https://prove2.me/theorems/8ed1f78c-8a16-5a52-bb35-b977a27cffb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_rank_mul_rank_le_one
 -- name    : GroundTheory.Automorphic.Whittaker.rank_mul_rank_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:08:58.8856+00:00
 -- url     : https://prove2.me/theorems/b2db719e-b83e-496b-81ef-da6ae9cebc67

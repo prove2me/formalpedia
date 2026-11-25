@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerRead_prF_of
 -- name    : GlobalTheory.InnerRead.prF_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:43:05.394349+00:00
 -- url     : https://prove2.me/theorems/15f5ca56-e5e5-5546-987e-dfb20552a78d

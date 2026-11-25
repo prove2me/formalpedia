@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuReduce_contDiff_of_smOn_univ
 -- name    : GlobalTheory.CompanionTheory.BmuReduce.contDiff_of_smOn_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:21:52.486267+00:00
 -- url     : https://prove2.me/theorems/194d7dc5-0d7a-5491-9bd2-3b40dd92353d

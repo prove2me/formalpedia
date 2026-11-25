@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LatCard_tupOf_apply
 -- name    : GlobalTheory.HL.LatCard.tupOf_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:33:45.17295+00:00
 -- url     : https://prove2.me/theorems/c9a6c0ac-8d7c-5513-9468-d6d571940da4

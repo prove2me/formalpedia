@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Challenge_completeLattice
 -- name    : PretorsionImageClosed.Challenge.completeLattice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T07:44:44.056976+00:00
 -- url     : https://prove2.me/theorems/ef80fd37-06f1-43a6-b599-7af8157fef45

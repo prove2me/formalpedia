@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealResProd_mem_pow_iff
 -- name    : GlobalTheory.IdealResProd.mem_pow_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:15:20.849378+00:00
 -- url     : https://prove2.me/theorems/cafb4d80-0cc9-43a2-b95d-d43dce09b7b3

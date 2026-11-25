@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OrthCompl_exists_gram_unit
 -- name    : GlobalTheory.HL.OrthCompl.exists_gram_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:32:55.755255+00:00
 -- url     : https://prove2.me/theorems/e936b3ae-64e4-471b-bc1f-b19917ffbd01

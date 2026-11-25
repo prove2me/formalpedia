@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_addDefect_algebra_zero
 -- name    : GroundTheory.Global.Elliptic.addDefect_algebra_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:48:26.433838+00:00
 -- url     : https://prove2.me/theorems/2b326354-e89d-4488-9add-0b13331d2729

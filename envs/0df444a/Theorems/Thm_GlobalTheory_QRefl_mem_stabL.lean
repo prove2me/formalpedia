@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QRefl_mem_stabL
 -- name    : GlobalTheory.QRefl.mem_stabL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:43:36.28759+00:00
 -- url     : https://prove2.me/theorems/41a57629-ad0d-4c35-a35b-1a9667920cde

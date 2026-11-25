@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QReflGen_exists_skew
 -- name    : GlobalTheory.HL.QReflGen.exists_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:32:57.984289+00:00
 -- url     : https://prove2.me/theorems/0865ffe0-2593-488e-a445-9fbf30d4102d

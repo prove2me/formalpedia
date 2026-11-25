@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_StandardDifferential
 -- name    : GlobalTheory.T.StandardDifferential
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:45:46.940055+00:00
 -- url     : https://prove2.me/theorems/19fb505e-1ced-44b6-a188-0b619b767fed

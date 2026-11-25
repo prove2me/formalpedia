@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_chordSlope_comm
 -- name    : GroundTheory.Global.Elliptic.chordSlope_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:48:22.206995+00:00
 -- url     : https://prove2.me/theorems/4600542d-0114-4f05-9362-2d9dfcacddfd

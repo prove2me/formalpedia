@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_eq_zero_of_simple_pole
 -- name    : GlobalTheory.coeff_eq_zero_of_simple_pole
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:50:01.580038+00:00
 -- url     : https://prove2.me/theorems/388a2222-a8f2-47ed-a1cc-c4384b316ab5

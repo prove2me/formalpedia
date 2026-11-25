@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_ex_tail_bound
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.ex_tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:18:13.0677+00:00
 -- url     : https://prove2.me/theorems/6c4e61e3-a3d6-4c5e-8a4e-75edbea5c32a

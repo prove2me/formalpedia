@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.bvTruncationJumpLedgerLimitV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T00:45:24.716676+00:00
 -- url     : https://prove2.me/submissions/a46dab3d-40bf-4b3c-a156-e0dc2e34d12a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch04_bvTruncatedJumpSumLimitV1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_forall_field
 -- name    : GlobalTheory.eq_zero_of_forall_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:49:44.854034+00:00
 -- url     : https://prove2.me/theorems/66379e25-5d96-4777-a162-ad635ff0248c

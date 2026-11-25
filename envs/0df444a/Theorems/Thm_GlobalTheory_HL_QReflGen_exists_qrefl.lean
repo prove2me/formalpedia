@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QReflGen_exists_qrefl
 -- name    : GlobalTheory.HL.QReflGen.exists_qrefl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:32:59.693863+00:00
 -- url     : https://prove2.me/theorems/c1210d29-e66b-49fe-9073-436337d875c7

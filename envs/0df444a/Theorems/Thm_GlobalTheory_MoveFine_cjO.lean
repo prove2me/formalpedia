@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_cjO
 -- name    : GlobalTheory.MoveFine.cjO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:44:18.87038+00:00
 -- url     : https://prove2.me/theorems/cf3737e2-32b4-5870-a8ba-06731fe9a091

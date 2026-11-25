@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_levi_isom
 -- name    : GlobalTheory.DegCnt.LiftS.levi_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:42:53.982193+00:00
 -- url     : https://prove2.me/theorems/0500b5d4-8484-4236-b25b-6d9b22ce175a

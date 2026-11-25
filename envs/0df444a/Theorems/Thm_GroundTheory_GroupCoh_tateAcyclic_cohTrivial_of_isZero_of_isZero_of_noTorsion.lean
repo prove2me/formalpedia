@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateAcyclic_cohTrivial_of_isZero_of_isZero_of_noTorsion
 -- name    : GroundTheory.GroupCoh.tateAcyclic_cohTrivial_of_isZero_of_isZero_of_noTorsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:16:00.290849+00:00
 -- url     : https://prove2.me/theorems/34773d16-630a-47f5-9541-a2cd43ee9f5e

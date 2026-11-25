@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lev_E_add_two
 -- name    : GlobalTheory.lev_E_add_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:47:39.035934+00:00
 -- url     : https://prove2.me/theorems/c21a5a7b-a4e1-437d-a063-6c3fa0e23065

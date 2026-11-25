@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGram_lead_mul_upper
 -- name    : GlobalTheory.FrameGram.lead_mul_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:10:47.034425+00:00
 -- url     : https://prove2.me/theorems/d1416a3f-384c-4b00-b5c4-a2b8e81b9964

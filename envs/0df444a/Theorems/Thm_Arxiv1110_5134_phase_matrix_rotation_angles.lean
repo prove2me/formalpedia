@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_phase_matrix_rotation_angles
 -- name    : Arxiv1110_5134.phase_matrix_rotation_angles
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:10:32.434154+00:00
 -- url     : https://prove2.me/theorems/a4352992-afa4-4887-9cfd-6455546ba8f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrderBasis_exists_common
 -- name    : GlobalTheory.OrderBasis.exists_common
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:49:16.13727+00:00
 -- url     : https://prove2.me/theorems/a6e7a071-517d-58ae-972b-05974e3d91ca

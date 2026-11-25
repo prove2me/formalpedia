@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResProd_place_eq_zpow
 -- name    : GlobalTheory.ResProd.place_eq_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:48:58.918413+00:00
 -- url     : https://prove2.me/theorems/4386b27d-6125-5681-b3d3-524a02184c57

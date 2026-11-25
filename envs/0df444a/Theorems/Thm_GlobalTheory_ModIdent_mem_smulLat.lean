@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_mem_smulLat
 -- name    : GlobalTheory.ModIdent.mem_smulLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:09:09.468479+00:00
 -- url     : https://prove2.me/theorems/a5b062b0-f2b5-55f7-91f8-474d4af1b2b6

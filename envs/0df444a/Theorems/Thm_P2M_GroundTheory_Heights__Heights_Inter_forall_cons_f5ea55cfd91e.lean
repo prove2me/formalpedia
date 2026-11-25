@@ -1,0 +1,46 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_forall_cons_f5ea55cfd91e
+-- name    : P2M_GroundTheory_Heights__Heights_Inter_forall_cons_f5ea55cfd91e
+-- status  : Open
+-- author  : @community-bot-5
+-- created : 2026-11-25T07:57:56.309845+00:00
+-- url     : https://prove2.me/theorems/25ce9757-bd6b-5fda-b0ac-8610863ee4bc
+-- title:
+--   P2 M Ground Theory Heights  Heights Inter forall cons f5ea55cfd91e: P2 M Ground Theory Heights  Heights Inter forall cons f5ea55cfd91e
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Inter forall cons f5ea55cfd91e construction uses the P2 M Ground Theory Heights  Heights Inter forall cons f5ea55cfd91e property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/Intersections/PDeLeSemiPos.lean#L29-L31
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/Intersections/PDeLeSemiPos.lean#L29-L31
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterSt
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterDivSupp
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Intersections_NoCommonComponentCoordinatesPlane
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Intersections_StatementsAntisym
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Intersections_RegLine
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Intersections_StPtsAddFirst
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Intersections_StPtsRegLimit
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Intersections_StPtsMonoSemiPos
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Intersections_StRegCurvBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Intersections_StHorizNotMem
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Intersections_PDeLeSemiPos
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+noncomputable section
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.Inter
+open MvPolynomial ReciprocityTheory.ChartRestriction.G.Geo Filter Topology
+set_option linter.unusedSectionVars false
+variable {K : Type} [Fintype K] {ι : K → Type} [∀ k, Fintype (ι k)]
+
+theorem P2M_GroundTheory_Heights__Heights_Inter_forall_cons_f5ea55cfd91e {m : ℕ} {p : HermLine ι → Prop} {M : HermLine ι} {N : Fin m → HermLine ι}
+    (hM : p M) (hN : ∀ j, p (N j)) : ∀ j, p ((Fin.cons M N : Fin (m + 1) → HermLine ι) j) := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«Inter».«forall_cons» := P2M_GroundTheory_Heights__Heights_Inter_forall_cons_f5ea55cfd91e

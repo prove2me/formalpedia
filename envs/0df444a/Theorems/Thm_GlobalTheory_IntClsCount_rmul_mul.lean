@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntClsCount_rmul_mul
 -- name    : GlobalTheory.IntClsCount.rmul_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:42:11.906889+00:00
 -- url     : https://prove2.me/theorems/50dedcc6-4e27-5cbf-a462-2ff703182418

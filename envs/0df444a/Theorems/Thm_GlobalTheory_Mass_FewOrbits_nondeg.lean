@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_FewOrbits_nondeg
 -- name    : GlobalTheory.Mass.FewOrbits.nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:40:52.913877+00:00
 -- url     : https://prove2.me/theorems/91ce592a-124e-5237-aa6a-915390741b28

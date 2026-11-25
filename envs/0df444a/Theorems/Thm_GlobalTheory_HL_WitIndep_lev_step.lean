@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_WitIndep_lev_step
 -- name    : GlobalTheory.HL.WitIndep.lev_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:37:06.321479+00:00
 -- url     : https://prove2.me/theorems/1b921396-5419-530c-ac7c-5d2183fbeb33

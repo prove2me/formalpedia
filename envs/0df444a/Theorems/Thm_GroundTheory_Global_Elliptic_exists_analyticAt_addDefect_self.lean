@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_exists_analyticAt_addDefect_self
 -- name    : GroundTheory.Global.Elliptic.exists_analyticAt_addDefect_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:49:00.863268+00:00
 -- url     : https://prove2.me/theorems/baac6630-58df-43d1-b94c-155ad77d75c5

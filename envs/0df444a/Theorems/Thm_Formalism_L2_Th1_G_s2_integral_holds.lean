@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_s2_integral_holds
 -- name    : Formalism.L2.Th1.G.s2_integral_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:19:31.90813+00:00
 -- url     : https://prove2.me/theorems/5289ff30-bd71-5372-94e2-f58177970e4b

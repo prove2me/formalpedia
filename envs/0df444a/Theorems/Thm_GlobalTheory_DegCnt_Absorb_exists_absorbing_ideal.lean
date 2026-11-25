@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Absorb_exists_absorbing_ideal
 -- name    : GlobalTheory.DegCnt.Absorb.exists_absorbing_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:11:04.150205+00:00
 -- url     : https://prove2.me/theorems/ae64d2e0-5d6c-59ac-b6ea-cf936922569f

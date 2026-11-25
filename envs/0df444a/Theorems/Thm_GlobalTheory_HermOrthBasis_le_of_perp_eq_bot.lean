@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermOrthBasis_le_of_perp_eq_bot
 -- name    : GlobalTheory.HermOrthBasis.le_of_perp_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:35:47.170379+00:00
 -- url     : https://prove2.me/theorems/8f927e21-c059-4bb9-bce1-3a06ab68fa31

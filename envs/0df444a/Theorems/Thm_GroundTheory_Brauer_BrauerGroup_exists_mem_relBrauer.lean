@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_BrauerGroup_exists_mem_relBrauer
 -- name    : GroundTheory.Brauer.BrauerGroup.exists_mem_relBrauer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:15:31.57718+00:00
 -- url     : https://prove2.me/theorems/fdefd418-1421-495e-82a0-9482aa082947

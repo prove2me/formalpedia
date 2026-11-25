@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_ShortVector_nondeg
 -- name    : GlobalTheory.Mass.ShortVector.nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:39:52.583852+00:00
 -- url     : https://prove2.me/theorems/3b3602fa-b960-4605-9a00-98f37d3f83e8

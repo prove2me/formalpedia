@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_padic_norm_zpow_sub_one_padicValInt
 -- name    : GlobalTheory.T.padic_norm_zpow_sub_one_padicValInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:28:43.566377+00:00
 -- url     : https://prove2.me/theorems/cfcd3437-7e1d-57b5-ae2d-60e9bac1ac4b

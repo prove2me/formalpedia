@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLoc_cotangent_away
 -- name    : GlobalTheory.CompanionTheory.CotLoc.cotangent_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:58:48.254109+00:00
 -- url     : https://prove2.me/theorems/27014e21-ed71-42a9-b6aa-97606eb34148

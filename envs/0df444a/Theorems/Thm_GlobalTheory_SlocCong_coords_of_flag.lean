@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SlocCong_coords_of_flag
 -- name    : GlobalTheory.SlocCong.coords_of_flag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:44:00.702681+00:00
 -- url     : https://prove2.me/theorems/ad9f75fd-6d4d-42fc-b5a3-801f1c58acf4

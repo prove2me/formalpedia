@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RatExt_single_comp
 -- name    : GlobalTheory.HL.RatExt.single_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:33:49.900851+00:00
 -- url     : https://prove2.me/theorems/e0acfe5e-d751-47c6-ab67-42c34f391a5a

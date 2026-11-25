@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_inTh_pow
 -- name    : GlobalTheory.MoveFine.inTh_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:41:47.776393+00:00
 -- url     : https://prove2.me/theorems/16412c76-88ed-4a3a-a480-36c9878b8fc0

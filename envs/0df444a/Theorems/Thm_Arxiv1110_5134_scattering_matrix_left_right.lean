@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_scattering_matrix_left_right
 -- name    : Arxiv1110_5134.scattering_matrix_left_right
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:09:10.246975+00:00
 -- url     : https://prove2.me/theorems/822d5f04-3cf7-45e4-b4d9-8fbf9012c564

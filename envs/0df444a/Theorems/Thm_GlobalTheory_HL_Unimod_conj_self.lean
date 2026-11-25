@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Unimod_conj_self
 -- name    : GlobalTheory.HL.Unimod.conj_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:34:15.115649+00:00
 -- url     : https://prove2.me/theorems/df4bae27-b4b3-4861-a7a7-b970ca78064f

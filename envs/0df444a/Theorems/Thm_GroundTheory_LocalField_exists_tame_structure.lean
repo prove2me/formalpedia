@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_tame_structure
 -- name    : GroundTheory.LocalField.exists_tame_structure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:15:32.022097+00:00
 -- url     : https://prove2.me/theorems/18aa264b-6a5c-4604-8fdc-83d8005e8adc

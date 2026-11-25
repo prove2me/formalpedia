@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvTruncatedJumpSumLimitV1
 -- name    : Kyprianou.Ch04.bvTruncatedJumpSumLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:39:33.946895+00:00
 -- url     : https://prove2.me/theorems/d9b44b57-4b01-461d-b29b-ee0da839a167

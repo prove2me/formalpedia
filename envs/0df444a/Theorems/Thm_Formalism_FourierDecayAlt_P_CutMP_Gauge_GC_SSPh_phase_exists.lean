@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_SSPh_phase_exists
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.SSPh.phase_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:33:55.465592+00:00
 -- url     : https://prove2.me/theorems/ac4e92e0-b499-5b5c-8868-b753d50438ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LatCard_hf_sum_smul
 -- name    : GlobalTheory.HL.LatCard.hf_sum_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:31:41.400914+00:00
 -- url     : https://prove2.me/theorems/5281bdb7-a26b-4e91-a3a2-187a436d303a

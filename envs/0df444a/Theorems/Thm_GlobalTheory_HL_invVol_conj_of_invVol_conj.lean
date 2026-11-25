@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_invVol_conj_of_invVol_conj
 -- name    : GlobalTheory.HL.invVol_conj_of_invVol_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:37:20.870864+00:00
 -- url     : https://prove2.me/theorems/c312e8ea-a50d-5d00-834e-338d6476bd3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_NcS_LT_GLP_glPair
 -- name    : Formalism.L2.SG.Pf.NcS.LT.GLP.glPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:34:38.091578+00:00
 -- url     : https://prove2.me/theorems/56e3dc18-c94a-4c17-8fb5-b6a55e8d6b5c

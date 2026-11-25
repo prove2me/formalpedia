@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_discountedExponentialUnitMoment
 -- name    : Kyprianou.Ch04.discountedExponentialUnitMoment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:43:48.766305+00:00
 -- url     : https://prove2.me/theorems/de63c6a4-16e4-447e-86d5-ba1f18ea40fe

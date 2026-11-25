@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TwoPlaceCoordinateLemmas_cc_xOfZ
 -- name    : Formalism.L2.Th1.D.TwoPlaceCoordinateLemmas.cc_xOfZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:29:35.977672+00:00
 -- url     : https://prove2.me/theorems/78a273d1-3206-5c86-8936-2854e327e2fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameStab_step_mem
 -- name    : GlobalTheory.HL.FrameStab.step_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:30:20.247479+00:00
 -- url     : https://prove2.me/theorems/e69bac1d-0a4d-5c7b-a93b-f4901b7cf496

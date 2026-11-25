@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitIdx_step
 -- name    : GlobalTheory.DegCnt.SplitIdx.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:27:48.17274+00:00
 -- url     : https://prove2.me/theorems/ecdf0096-8874-4968-850d-ccbb500cf67e

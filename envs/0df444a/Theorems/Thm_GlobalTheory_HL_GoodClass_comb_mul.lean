@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodClass_comb_mul
 -- name    : GlobalTheory.HL.GoodClass.comb_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:42:55.026292+00:00
 -- url     : https://prove2.me/theorems/b84b0c18-766b-47cc-9160-fdf153696b2a

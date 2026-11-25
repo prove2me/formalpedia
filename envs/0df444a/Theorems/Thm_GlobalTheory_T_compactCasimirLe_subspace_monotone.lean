@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_compactCasimirLe_subspace_monotone
 -- name    : GlobalTheory.T.compactCasimirLe_subspace_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:47:53.562171+00:00
 -- url     : https://prove2.me/theorems/89f3cc4f-93a4-44e5-865a-86d2c51ee042

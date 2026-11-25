@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_cmPair_mul_mem
 -- name    : Formalism.L2.Th1.H.cmPair_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:33:57.980806+00:00
 -- url     : https://prove2.me/theorems/3c465c18-96ad-4e4a-b891-e71144278241

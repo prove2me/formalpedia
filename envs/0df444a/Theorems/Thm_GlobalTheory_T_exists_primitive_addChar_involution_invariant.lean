@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_primitive_addChar_involution_invariant
 -- name    : GlobalTheory.T.exists_primitive_addChar_involution_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:45:20.715312+00:00
 -- url     : https://prove2.me/theorems/98a8db54-3856-4e57-aab6-d35b453bfd95

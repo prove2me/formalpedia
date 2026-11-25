@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodAlmostAll_coe_inv_unit
 -- name    : GlobalTheory.HL.GoodAlmostAll.coe_inv_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:32:59.073571+00:00
 -- url     : https://prove2.me/theorems/40b41eaf-04a3-47b6-be00-9eab1aab45c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitDenom_main
 -- name    : GlobalTheory.OrbitDenom.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:17:06.327735+00:00
 -- url     : https://prove2.me/theorems/aa084afd-bfa1-480b-a528-0e68cdecbfd7

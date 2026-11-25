@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongTrans_series_ord
 -- name    : GlobalTheory.CongTrans.series_ord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:21:32.313024+00:00
 -- url     : https://prove2.me/theorems/c1b55ad8-49bf-529f-b215-69e88216c0fe

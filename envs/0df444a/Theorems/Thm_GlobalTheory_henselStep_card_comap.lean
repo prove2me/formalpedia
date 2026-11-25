@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_henselStep_card_comap
 -- name    : GlobalTheory.henselStep_card_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:46:41.101274+00:00
 -- url     : https://prove2.me/theorems/504c53df-d4a9-454b-bb04-a41e0396e932

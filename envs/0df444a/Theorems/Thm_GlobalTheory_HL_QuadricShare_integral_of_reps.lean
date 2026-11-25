@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QuadricShare_integral_of_reps
 -- name    : GlobalTheory.HL.QuadricShare.integral_of_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:36:21.948558+00:00
 -- url     : https://prove2.me/theorems/6e7d9c97-fb68-5a93-9f3c-71110fa2f353

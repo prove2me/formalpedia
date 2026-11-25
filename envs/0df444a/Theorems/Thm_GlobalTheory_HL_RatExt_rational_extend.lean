@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RatExt_rational_extend
 -- name    : GlobalTheory.HL.RatExt.rational_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:36:28.329723+00:00
 -- url     : https://prove2.me/theorems/e95930db-4820-511e-9588-ded37e73decf

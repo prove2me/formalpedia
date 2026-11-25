@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_WitIndep_frame_mem
 -- name    : GlobalTheory.HL.WitIndep.frame_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:34:13.149606+00:00
 -- url     : https://prove2.me/theorems/97b99385-6419-477f-9c27-9c5e5fa48b2c

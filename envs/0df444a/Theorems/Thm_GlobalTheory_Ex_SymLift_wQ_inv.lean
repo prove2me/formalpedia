@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_SymLift_wQ_inv
 -- name    : GlobalTheory.Ex.SymLift.wQ_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:05:36.956043+00:00
 -- url     : https://prove2.me/theorems/39502e33-3571-4711-bfcc-8b087c667c77

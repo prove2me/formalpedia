@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_idealCharacter_apply
 -- name    : GroundTheory.Global.HeckeCharacter.idealCharacter_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:49:14.355197+00:00
 -- url     : https://prove2.me/theorems/012c72eb-2904-53bc-9ccd-dd433e677362

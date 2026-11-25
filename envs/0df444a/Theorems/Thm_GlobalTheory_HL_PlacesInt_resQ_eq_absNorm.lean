@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PlacesInt_resQ_eq_absNorm
 -- name    : GlobalTheory.HL.PlacesInt.resQ_eq_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:12:40.966464+00:00
 -- url     : https://prove2.me/theorems/59ef8ef7-2ae9-470b-ac36-33e7f4ba8f56

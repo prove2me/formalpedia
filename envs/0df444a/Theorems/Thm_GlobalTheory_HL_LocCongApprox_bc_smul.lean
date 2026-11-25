@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocCongApprox_bc_smul
 -- name    : GlobalTheory.HL.LocCongApprox.bc_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:42:35.426545+00:00
 -- url     : https://prove2.me/theorems/be8994bb-85bb-4a6b-9d7b-31b24159c9df

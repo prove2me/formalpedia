@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixIndex_span_eq_map
 -- name    : GlobalTheory.MatrixIndex.span_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:42:29.261747+00:00
 -- url     : https://prove2.me/theorems/ddd130c7-9cb6-51c9-95b3-8e9f13924ca9

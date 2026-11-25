@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_sizes_top_level
 -- name    : Formalism.FourierDecayAlt.P.sizes_top_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:41:43.180795+00:00
 -- url     : https://prove2.me/theorems/155a407e-68e7-4896-8a9e-2913af39454b

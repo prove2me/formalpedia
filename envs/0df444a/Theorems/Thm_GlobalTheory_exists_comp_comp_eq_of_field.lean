@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_comp_comp_eq_of_field
 -- name    : GlobalTheory.exists_comp_comp_eq_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:49:52.668351+00:00
 -- url     : https://prove2.me/theorems/943f8705-6274-4b40-9300-463ee37d0b7c

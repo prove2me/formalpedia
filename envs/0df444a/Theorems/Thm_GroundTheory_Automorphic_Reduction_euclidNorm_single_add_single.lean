@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_euclidNorm_single_add_single
 -- name    : GroundTheory.Automorphic.Reduction.euclidNorm_single_add_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:08:14.622237+00:00
 -- url     : https://prove2.me/theorems/fbaa112b-d541-5b2c-a02e-078cd1ffd487

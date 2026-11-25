@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_stokes_axis_choice_invariance
 -- name    : Arxiv1110_5134.stokes_axis_choice_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:07:50.876276+00:00
 -- url     : https://prove2.me/theorems/a062ebd7-cb12-412f-acbc-39af328f5a34

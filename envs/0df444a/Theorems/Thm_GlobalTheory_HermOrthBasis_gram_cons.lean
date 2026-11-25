@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermOrthBasis_gram_cons
 -- name    : GlobalTheory.HermOrthBasis.gram_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:41:15.07787+00:00
 -- url     : https://prove2.me/theorems/6a5b95d4-3a26-5361-9159-74813980104e

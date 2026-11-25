@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothLocusBaseChange_main
 -- name    : GlobalTheory.SmoothLocusBaseChange.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:49:43.61519+00:00
 -- url     : https://prove2.me/theorems/dd48c30f-a5c3-55b7-850f-a3ccb94103f2

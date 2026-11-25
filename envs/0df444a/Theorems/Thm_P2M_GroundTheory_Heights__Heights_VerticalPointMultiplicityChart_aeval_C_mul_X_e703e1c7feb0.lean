@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPointMultiplicityChart_aeval_C_mul_X_e703e1c7feb0
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPointMultiplicityChart_aeval_C_mul_X_e703e1c7feb0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:39:19.941442+00:00
 -- url     : https://prove2.me/theorems/353258fa-6b77-4ec2-83bf-b01877ead36c

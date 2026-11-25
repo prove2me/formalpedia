@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_continuous_leviW
 -- name    : GlobalTheory.BesselPeriodCompare.continuous_leviW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:19:23.269997+00:00
 -- url     : https://prove2.me/theorems/546fcb71-ff7a-54c5-a760-421ec69de813

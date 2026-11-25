@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_ncard_of_covby
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.ncard_of_covby
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T07:39:10.272823+00:00
 -- url     : https://prove2.me/theorems/14d312ff-e989-4e22-b9d9-245f35312f2b

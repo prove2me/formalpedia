@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_UniCount_resQ_ne_zero
 -- name    : GlobalTheory.HL.UniCount.resQ_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:34:15.128177+00:00
 -- url     : https://prove2.me/theorems/ba52265b-6bdd-48ad-b36f-9425fa7fcba8

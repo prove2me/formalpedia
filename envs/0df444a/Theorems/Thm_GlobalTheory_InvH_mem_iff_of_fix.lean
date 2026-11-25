@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvH_mem_iff_of_fix
 -- name    : GlobalTheory.InvH.mem_iff_of_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:42:27.071547+00:00
 -- url     : https://prove2.me/theorems/0efcdbde-4ee2-53a6-94ba-045cd0d85aeb

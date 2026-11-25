@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_IntNumBaseChange_full_6df51af375e0
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_IntNumBaseChange_full_6df51af375e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:41:47.164909+00:00
 -- url     : https://prove2.me/theorems/17082cd9-d6ed-495f-b6c3-ef1bdcd749e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_derivative_cost_of_slice_and_radical
 -- name    : Formalism.FourierDecayAlt.P.Ux10.derivative_cost_of_slice_and_radical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:26:12.683152+00:00
 -- url     : https://prove2.me/theorems/889ec118-49bb-412d-9b62-b18e3b400c81

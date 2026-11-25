@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_StabilizerIndexVolumes_ptMat_det
 -- name    : Formalism.L2.SG.Pf.StabilizerIndexVolumes.ptMat_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:09:53.326262+00:00
 -- url     : https://prove2.me/theorems/5aac6226-e510-443c-9907-271ec7f1bbda

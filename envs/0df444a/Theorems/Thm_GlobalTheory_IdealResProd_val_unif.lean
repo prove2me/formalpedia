@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealResProd_val_unif
 -- name    : GlobalTheory.IdealResProd.val_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:38:31.405821+00:00
 -- url     : https://prove2.me/theorems/5977a2d5-a6f9-4b93-91de-e6fe1aa5921c

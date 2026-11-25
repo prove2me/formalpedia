@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_tens_unit_all
 -- name    : Formalism.L2.S.Pv.SchurTens.tens_unit_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:15:32.668459+00:00
 -- url     : https://prove2.me/theorems/73709c22-e7ec-4358-9925-ea176b7b1e78

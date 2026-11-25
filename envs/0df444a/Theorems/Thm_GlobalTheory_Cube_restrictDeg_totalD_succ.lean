@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_restrictDeg_totalD_succ
 -- name    : GlobalTheory.Cube.restrictDeg_totalD_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:49:48.66672+00:00
 -- url     : https://prove2.me/theorems/184d3258-3d28-5bff-a946-28399bcef75c

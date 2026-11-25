@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrderBasis_exists_basis_pi
 -- name    : GlobalTheory.OrderBasis.exists_basis_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:44:43.677505+00:00
 -- url     : https://prove2.me/theorems/3e42f4e0-a1c4-44ac-b6b7-b3c7da00b0c7

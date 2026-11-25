@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_sigma_invol_cm
 -- name    : PI.VolStabW.sigma_invol_cm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:44:13.361898+00:00
 -- url     : https://prove2.me/theorems/216e5342-3ebe-4206-a650-f0ffabf6cd6b

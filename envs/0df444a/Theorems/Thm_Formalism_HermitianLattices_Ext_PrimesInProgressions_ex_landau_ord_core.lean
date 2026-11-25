@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_ex_landau_ord_core
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.ex_landau_ord_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:18:03.830635+00:00
 -- url     : https://prove2.me/theorems/b84de459-18dd-499a-aeed-bfafb48bfeb0

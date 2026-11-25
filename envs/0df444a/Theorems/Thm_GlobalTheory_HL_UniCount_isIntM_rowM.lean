@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_UniCount_isIntM_rowM
 -- name    : GlobalTheory.HL.UniCount.isIntM_rowM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:34:25.219841+00:00
 -- url     : https://prove2.me/theorems/6b647e5b-f1c1-4d25-8d36-d1a7b37a752d

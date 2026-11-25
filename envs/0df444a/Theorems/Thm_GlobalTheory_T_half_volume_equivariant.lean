@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_half_volume_equivariant
 -- name    : GlobalTheory.T.half_volume_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:12:26.854787+00:00
 -- url     : https://prove2.me/theorems/bd8c89d3-e8c1-58b5-a6cf-8f6a84dca2ec

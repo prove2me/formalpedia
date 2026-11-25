@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_indexMeasureIntegral_transport_and_change
 -- name    : GlobalTheory.T.indexMeasureIntegral_transport_and_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:45:40.039013+00:00
 -- url     : https://prove2.me/theorems/f6323cb3-2626-5b58-88e2-da2328419404

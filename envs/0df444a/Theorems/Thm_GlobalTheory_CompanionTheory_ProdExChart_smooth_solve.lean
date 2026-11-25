@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdExChart_smooth_solve
 -- name    : GlobalTheory.CompanionTheory.ProdExChart.smooth_solve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:43:17.571875+00:00
 -- url     : https://prove2.me/theorems/aa29f88f-3974-5882-8d0a-e33b97f05405

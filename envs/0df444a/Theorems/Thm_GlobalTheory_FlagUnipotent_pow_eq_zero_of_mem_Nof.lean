@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagUnipotent_pow_eq_zero_of_mem_Nof
 -- name    : GlobalTheory.FlagUnipotent.pow_eq_zero_of_mem_Nof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:34:52.091616+00:00
 -- url     : https://prove2.me/theorems/01e509ba-d728-4c16-b823-8e58e44d064f

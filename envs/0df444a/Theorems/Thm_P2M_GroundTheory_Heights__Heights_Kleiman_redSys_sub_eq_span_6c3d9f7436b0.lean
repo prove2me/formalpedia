@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_redSys_sub_eq_span_6c3d9f7436b0
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_redSys_sub_eq_span_6c3d9f7436b0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:11:03.736889+00:00
 -- url     : https://prove2.me/theorems/72fc330a-9781-56e7-8098-ee8603747f40

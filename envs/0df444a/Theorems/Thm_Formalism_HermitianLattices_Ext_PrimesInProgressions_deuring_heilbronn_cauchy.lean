@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_deuring_heilbronn_cauchy
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.deuring_heilbronn_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:15:37.975857+00:00
 -- url     : https://prove2.me/theorems/d8fb6a88-11cf-53d0-9583-c568f6c9cb40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SameBad_cancel
 -- name    : GlobalTheory.Mass.SameBad.cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:39:55.999853+00:00
 -- url     : https://prove2.me/theorems/5501681b-01ce-591a-aa6a-1105fad6b7c2

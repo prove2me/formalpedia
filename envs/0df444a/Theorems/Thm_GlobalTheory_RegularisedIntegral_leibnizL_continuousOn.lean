@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularisedIntegral_leibnizL_continuousOn
 -- name    : GlobalTheory.RegularisedIntegral.leibnizL_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:52:28.111496+00:00
 -- url     : https://prove2.me/theorems/cf1b333e-6b39-49f9-acd5-6c5d5682cdbc

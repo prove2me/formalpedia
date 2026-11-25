@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodAlmostAll_hf_smul
 -- name    : GlobalTheory.HL.GoodAlmostAll.hf_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:33:28.756089+00:00
 -- url     : https://prove2.me/theorems/d2e5b0a3-f4fd-4939-ae4e-021ab4a9174d

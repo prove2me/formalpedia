@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NormSign_norm_algebraMap_of_isPushout
 -- name    : GlobalTheory.JR.WeilQuad.NormSign.norm_algebraMap_of_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:42:52.588538+00:00
 -- url     : https://prove2.me/theorems/bf98e5e8-c8f2-440e-9abf-fde510fbc0b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhl_triv_growth
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhl_triv_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:18:51.492567+00:00
 -- url     : https://prove2.me/theorems/9d77ae66-0f36-4407-96e1-3728eeeb9cfb

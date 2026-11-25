@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasHerbrandQuotient_of_cycHerbrand_ne_zero
 -- name    : GroundTheory.Global.hasHerbrandQuotient_of_cycHerbrand_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:49:34.461803+00:00
 -- url     : https://prove2.me/theorems/f961635b-5ff7-54ae-8cb8-0e1382e87e73

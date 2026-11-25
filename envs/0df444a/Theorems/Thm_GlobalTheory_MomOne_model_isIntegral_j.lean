@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MomOne_model_isIntegral_j
 -- name    : GlobalTheory.MomOne.model_isIntegral_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:34:06.170678+00:00
 -- url     : https://prove2.me/theorems/5dfd5efc-7992-4f17-8edc-6ec385774db4

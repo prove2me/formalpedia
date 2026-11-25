@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_InnerLat_unimod_transfer
 -- name    : GlobalTheory.DegCnt.InnerLat.unimod_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:30:35.590871+00:00
 -- url     : https://prove2.me/theorems/97f94cfe-d412-472d-b202-a6c38d9b4a70

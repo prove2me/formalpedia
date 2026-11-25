@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_restrictDeg_apply
 -- name    : GlobalTheory.Cube.restrictDeg_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:40:35.373073+00:00
 -- url     : https://prove2.me/theorems/39d090c9-e19f-4ab6-95bc-298142895454

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_holomorphicUniformisation_powerThetaKeyDatum
 -- name    : GlobalTheory.T.exists_holomorphicUniformisation_powerThetaKeyDatum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:36:17.801725+00:00
 -- url     : https://prove2.me/theorems/26b87ece-9d3b-433c-acb7-ad8f309e82a2

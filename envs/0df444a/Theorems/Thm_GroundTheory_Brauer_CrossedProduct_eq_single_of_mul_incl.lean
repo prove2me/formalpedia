@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_CrossedProduct_eq_single_of_mul_incl
 -- name    : GroundTheory.Brauer.CrossedProduct.eq_single_of_mul_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:47:23.886797+00:00
 -- url     : https://prove2.me/theorems/aa9112a3-2ef9-527d-b399-067dfaa52b5a

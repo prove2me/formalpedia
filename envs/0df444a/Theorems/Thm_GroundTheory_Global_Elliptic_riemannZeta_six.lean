@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_riemannZeta_six
 -- name    : GroundTheory.Global.Elliptic.riemannZeta_six
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:49:34.579415+00:00
 -- url     : https://prove2.me/theorems/dbd98291-7af7-4721-85fc-ec2848aa0151

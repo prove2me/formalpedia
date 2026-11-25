@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocDict_bc_mem_of_smul_mem
 -- name    : GlobalTheory.HL.LocDict.bc_mem_of_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:35:32.392807+00:00
 -- url     : https://prove2.me/theorems/5822478b-da10-5efd-9250-52b4ea627e71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntClsCount_pairing
 -- name    : GlobalTheory.IntClsCount.pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:39:09.261841+00:00
 -- url     : https://prove2.me/theorems/8f23e614-7c43-47fb-bea8-1c67a3572846

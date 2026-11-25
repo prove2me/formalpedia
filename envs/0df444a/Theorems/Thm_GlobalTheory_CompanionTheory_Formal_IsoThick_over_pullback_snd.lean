@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Formal_IsoThick_over_pullback_snd
 -- name    : GlobalTheory.CompanionTheory.Formal.IsoThick.over_pullback_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:47:30.112504+00:00
 -- url     : https://prove2.me/theorems/6accdeac-953c-4503-b870-00e9bd0bba3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DatumStab_inner_iff
 -- name    : GlobalTheory.HL.DatumStab.inner_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:30:20.486491+00:00
 -- url     : https://prove2.me/theorems/910743f8-12d2-5256-a606-bf4fcae6bd54

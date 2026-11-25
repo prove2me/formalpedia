@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ncard_image_mk_of_le
 -- name    : GlobalTheory.HL.ncard_image_mk_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:37:25.918902+00:00
 -- url     : https://prove2.me/theorems/ba4ebf11-f7e7-534c-a6a5-1f3b0716a515

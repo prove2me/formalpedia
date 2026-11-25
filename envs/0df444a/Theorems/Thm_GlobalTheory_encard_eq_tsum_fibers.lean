@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_encard_eq_tsum_fibers
 -- name    : GlobalTheory.encard_eq_tsum_fibers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:49:31.747222+00:00
 -- url     : https://prove2.me/theorems/201eeaed-511d-483e-84cf-ca0735aca9dc

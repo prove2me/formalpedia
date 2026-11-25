@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_redGood_twist_a17ebf2d3318
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_redGood_twist_a17ebf2d3318
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:11:17.272574+00:00
 -- url     : https://prove2.me/theorems/d87a34a8-5605-447b-b553-e5e759dd7618

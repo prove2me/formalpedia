@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhpr_rpow_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhpr_rpow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:42:11.463441+00:00
 -- url     : https://prove2.me/theorems/a4a6b0cf-fd76-56a8-acf0-3b75d4000389

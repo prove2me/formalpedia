@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Step_imH_add
 -- name    : GlobalTheory.SW.Step.imH_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:47:10.701417+00:00
 -- url     : https://prove2.me/theorems/5f623f0e-5f15-47e5-b2fd-45e9db215f20

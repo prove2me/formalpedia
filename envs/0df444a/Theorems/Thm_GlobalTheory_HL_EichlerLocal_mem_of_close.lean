@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_EichlerLocal_mem_of_close
 -- name    : GlobalTheory.HL.EichlerLocal.mem_of_close
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:30:45.534949+00:00
 -- url     : https://prove2.me/theorems/2b9066be-c7c8-4393-bc8a-2a652e592b44

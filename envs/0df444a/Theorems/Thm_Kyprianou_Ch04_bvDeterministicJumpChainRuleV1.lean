@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvDeterministicJumpChainRuleV1
 -- name    : Kyprianou.Ch04.bvDeterministicJumpChainRuleV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T22:01:13.408285+00:00
 -- url     : https://prove2.me/theorems/67439b6c-5a9d-4e7e-8021-5d8f923eefb9

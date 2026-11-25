@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_congrData_of_mem_spanA
 -- name    : GroundTheory.LocalField.congrData_of_mem_spanA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:30:46.69073+00:00
 -- url     : https://prove2.me/theorems/1b0a409b-e8e7-4f36-988c-d5cd26b6c7c1

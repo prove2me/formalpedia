@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_restrictDeg_totalD_zero
 -- name    : GlobalTheory.Cube.restrictDeg_totalD_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:36:48.211583+00:00
 -- url     : https://prove2.me/theorems/e322cd49-5045-4f24-bb9f-0b36f247e559

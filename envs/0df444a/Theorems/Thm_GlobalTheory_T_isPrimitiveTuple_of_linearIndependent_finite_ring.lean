@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isPrimitiveTuple_of_linearIndependent_finite_ring
 -- name    : GlobalTheory.T.isPrimitiveTuple_of_linearIndependent_finite_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:45:49.611283+00:00
 -- url     : https://prove2.me/theorems/52c0475e-c47b-4c84-af92-724795563fca

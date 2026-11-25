@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycEigen_norm_zpow_sub_one_le
 -- name    : GlobalTheory.CycEigen.norm_zpow_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:37:30.610775+00:00
 -- url     : https://prove2.me/theorems/3562c9f8-f972-49f0-a07c-1fa55d26b5ff

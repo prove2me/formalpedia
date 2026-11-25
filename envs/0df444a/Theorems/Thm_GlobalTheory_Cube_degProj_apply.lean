@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_degProj_apply
 -- name    : GlobalTheory.Cube.degProj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:44:29.335118+00:00
 -- url     : https://prove2.me/theorems/1e8e8339-b3c8-5b66-9737-75efe03c22bc

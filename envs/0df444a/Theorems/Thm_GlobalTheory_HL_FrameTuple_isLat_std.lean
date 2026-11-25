@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameTuple_isLat_std
 -- name    : GlobalTheory.HL.FrameTuple.isLat_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:35:19.417901+00:00
 -- url     : https://prove2.me/theorems/10325f43-388c-560a-a4a4-bffe713e4eef

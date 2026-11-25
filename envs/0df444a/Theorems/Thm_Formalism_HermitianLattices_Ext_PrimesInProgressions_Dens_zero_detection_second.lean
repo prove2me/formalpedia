@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_zero_detection_second
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.zero_detection_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:39:55.123422+00:00
 -- url     : https://prove2.me/theorems/d129354b-b9d6-543d-8b0e-cbe7d8ef50a5

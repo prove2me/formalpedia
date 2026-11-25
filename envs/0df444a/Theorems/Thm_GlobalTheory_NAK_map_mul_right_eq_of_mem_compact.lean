@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NAK_map_mul_right_eq_of_mem_compact
 -- name    : GlobalTheory.NAK.map_mul_right_eq_of_mem_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:41:36.343683+00:00
 -- url     : https://prove2.me/theorems/c1183107-59ce-5e07-ae20-8f86fa355a3e

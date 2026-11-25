@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerDatumAct_datum_ext
 -- name    : GlobalTheory.InnerDatumAct.datum_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:38:24.529075+00:00
 -- url     : https://prove2.me/theorems/ad8372fc-87fe-5698-be44-854db8d720fd

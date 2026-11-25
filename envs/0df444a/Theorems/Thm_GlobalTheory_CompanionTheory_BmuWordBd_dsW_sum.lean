@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuWordBd_dsW_sum
 -- name    : GlobalTheory.CompanionTheory.BmuWordBd.dsW_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:21:28.359643+00:00
 -- url     : https://prove2.me/theorems/9cf80483-bd0f-44d8-a464-ea922612c1d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameClass_th_ne_zero
 -- name    : GlobalTheory.HL.FrameClass.th_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:29:57.997376+00:00
 -- url     : https://prove2.me/theorems/f46a1aed-44d0-44eb-9a7a-2d3afcf30c7b

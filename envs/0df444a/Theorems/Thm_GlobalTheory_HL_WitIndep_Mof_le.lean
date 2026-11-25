@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_WitIndep_Mof_le
 -- name    : GlobalTheory.HL.WitIndep.Mof_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:34:09.612309+00:00
 -- url     : https://prove2.me/theorems/090c3342-c09c-4603-be35-e807c161bca2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_dlast_pos
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.dlast_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:07:16.666969+00:00
 -- url     : https://prove2.me/theorems/c147637f-5571-4c9e-80e6-eec672d25980

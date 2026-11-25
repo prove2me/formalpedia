@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameTri_hf_sum_left
 -- name    : GlobalTheory.HL.FrameTri.hf_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:07:11.852444+00:00
 -- url     : https://prove2.me/theorems/4ed0972a-50a9-4348-829d-83fcd780922b

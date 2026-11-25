@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QuadricShare_sum_char_eq_zero
 -- name    : GlobalTheory.HL.QuadricShare.sum_char_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:43:06.873261+00:00
 -- url     : https://prove2.me/theorems/6cf00e01-cb42-5947-9dd5-f48b8312635f

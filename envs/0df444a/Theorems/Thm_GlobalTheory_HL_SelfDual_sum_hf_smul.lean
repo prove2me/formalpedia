@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SelfDual_sum_hf_smul
 -- name    : GlobalTheory.HL.SelfDual.sum_hf_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:33:43.993097+00:00
 -- url     : https://prove2.me/theorems/b2c2147e-7ee3-4c13-8cb7-49c851b432d1

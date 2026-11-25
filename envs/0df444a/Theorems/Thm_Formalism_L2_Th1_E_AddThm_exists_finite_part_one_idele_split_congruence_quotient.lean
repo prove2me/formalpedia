@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_AddThm_exists_finite_part_one_idele_split_congruence_quotient
 -- name    : Formalism.L2.Th1.E.AddThm.exists_finite_part_one_idele_split_congruence_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:05:08.490722+00:00
 -- url     : https://prove2.me/theorems/b323ee40-bece-4b61-bb01-d2879e2aeda2

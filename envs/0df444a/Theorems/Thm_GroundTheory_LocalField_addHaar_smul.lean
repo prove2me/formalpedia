@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_addHaar_smul
 -- name    : GroundTheory.LocalField.addHaar_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:27:46.506305+00:00
 -- url     : https://prove2.me/theorems/46b374d3-cf72-4d1e-8e4d-8baac4a780c0

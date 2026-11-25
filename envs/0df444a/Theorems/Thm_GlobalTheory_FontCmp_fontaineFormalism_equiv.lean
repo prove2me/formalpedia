@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_fontaineFormalism_equiv
 -- name    : GlobalTheory.FontCmp.fontaineFormalism_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:28:23.717353+00:00
 -- url     : https://prove2.me/theorems/8de6aa87-9ba6-404b-9ff8-1956e21b2e6d

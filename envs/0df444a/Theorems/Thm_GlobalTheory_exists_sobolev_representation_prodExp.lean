@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sobolev_representation_prodExp
 -- name    : GlobalTheory.exists_sobolev_representation_prodExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:57:27.599672+00:00
 -- url     : https://prove2.me/theorems/fbc8ee59-ea69-4e06-a1d1-ce9ff4299edf

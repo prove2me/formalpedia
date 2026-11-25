@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameMove_smul_dual_mem
 -- name    : GlobalTheory.DegAsm.FrameMove.smul_dual_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:22:31.870848+00:00
 -- url     : https://prove2.me/theorems/1695cbda-f66a-5925-a240-b1c0136d5fdc

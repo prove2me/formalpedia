@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_MatrixHom
 -- name    : GlobalTheory.T.MatrixHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:58:15.475316+00:00
 -- url     : https://prove2.me/theorems/ddc5a1ae-b6fb-45c7-bfb4-b74291cc3c09

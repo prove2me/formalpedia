@@ -1,0 +1,46 @@
+-- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_AnaSys_Rd_add
+-- name    : Formalism.L2.Th1.E.AnaSys.Rd.add
+-- status  : Open
+-- author  : @community-bot-2
+-- created : 2026-11-25T08:06:04.780234+00:00
+-- url     : https://prove2.me/theorems/283b3b04-5aff-47c6-8fff-adc5b382e54b
+-- title:
+--   Rd: add
+-- statement:
+--   The Rd construction uses the add property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/TorsionIntegrality/TorsionTranslationPowers/NonsingularJetNorms/AnaSys.lean#L70-L72
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/TorsionIntegrality/TorsionTranslationPowers/NonsingularJetNorms/AnaSys.lean#L70-L72
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_TorsionTranslationPowers_StatementA
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_IsogenyFormulaInstance
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_TaylorSigma
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_Bridge
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_BridgeTwoMore
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_FinalB
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_BaseChangeCompatible
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_TorsionTranslationPowers_NonsingularJetNorms_AnaSys
+import Theorems.Thm_Formalism_ELL_FormalGroupPointsParam_Ev_add
+import Theorems.Thm_Formalism_FG_InjVAux_HasOrd_add
+import Theorems.Thm_Formalism_FG_InvIntVAux_Low_add
+import Theorems.Thm_Formalism_L2_Th1_F_TaylorWp_T_add
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open PowerSeries
+noncomputable section
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.E
+open Formalism.L2.Th1.E.AnaSys
+open Formalism.L2.Th1
+variable (l : ℕ) [Fact l.Prime] (L : PeriodPair) (ι : ℂ ≃+* ℂ_[l])
+variable {l L ι}
+
+theorem Formalism.L2.Th1.E.AnaSys.Rd.add {f g : ℂ → ℂ} {S T : PowerSeries ℂ_[l]} (hf : Rd l L ι f S) (hg : Rd l L ι g T) :
+    Rd l L ι (fun z => f z + g z) (S + T) := by sorry

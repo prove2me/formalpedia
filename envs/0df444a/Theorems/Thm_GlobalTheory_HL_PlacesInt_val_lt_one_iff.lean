@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PlacesInt_val_lt_one_iff
 -- name    : GlobalTheory.HL.PlacesInt.val_lt_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:33:16.773636+00:00
 -- url     : https://prove2.me/theorems/a7464613-fc14-4177-94da-1bca659049d8

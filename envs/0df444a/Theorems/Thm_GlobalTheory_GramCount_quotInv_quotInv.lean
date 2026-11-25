@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_quotInv_quotInv
 -- name    : GlobalTheory.GramCount.quotInv_quotInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:32:55.815662+00:00
 -- url     : https://prove2.me/theorems/d7db946a-52b3-52a8-9706-ccc02a5f685b

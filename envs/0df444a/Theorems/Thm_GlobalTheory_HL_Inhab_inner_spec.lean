@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Inhab_inner_spec
 -- name    : GlobalTheory.HL.Inhab.inner_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:32:06.537637+00:00
 -- url     : https://prove2.me/theorems/8f9c97bb-4a85-497e-af2a-81068dde2acb

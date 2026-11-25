@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_orbitStabilizerMass_prod_eq_mul
 -- name    : GlobalTheory.T.orbitStabilizerMass_prod_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:09:48.671503+00:00
 -- url     : https://prove2.me/theorems/34da28fa-55a4-4eda-801e-3a44d7f3585c

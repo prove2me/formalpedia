@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_log_two_mul_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.log_two_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:17:26.109425+00:00
 -- url     : https://prove2.me/theorems/f6caa283-a28b-4100-bd47-059da4c35a3e

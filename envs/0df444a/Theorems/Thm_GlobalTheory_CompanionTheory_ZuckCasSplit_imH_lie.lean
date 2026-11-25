@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckCasSplit_imH_lie
 -- name    : GlobalTheory.CompanionTheory.ZuckCasSplit.imH_lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:29:19.368128+00:00
 -- url     : https://prove2.me/theorems/0960ff13-0c23-4f66-afa7-3534d3f358a8

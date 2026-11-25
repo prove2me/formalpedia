@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_GramFrameCompositionTwoFacts_toZ_subst_X
 -- name    : Formalism.L2.Th1.G.GramFrameCompositionTwoFacts.toZ_subst_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:46:55.895263+00:00
 -- url     : https://prove2.me/theorems/a26d1278-581d-49ee-a35b-b17bfb515401

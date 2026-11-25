@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_perron_integral_shift_primitive_LFunction
 -- name    : GlobalTheory.T.perron_integral_shift_primitive_LFunction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:55:22.231217+00:00
 -- url     : https://prove2.me/theorems/8aa110ad-2f62-457d-9806-8b87f807ebec

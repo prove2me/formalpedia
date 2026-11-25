@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_DatMove_flag_vector_mem_base_lattice
 -- name    : GlobalTheory.DegAsm.DatMove.flag_vector_mem_base_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:25:53.091667+00:00
 -- url     : https://prove2.me/theorems/a4f9ffd1-98a1-41b1-b8bd-3e561ac81d73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QRefl_hf_sum_right
 -- name    : GlobalTheory.QRefl.hf_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:43:28.1819+00:00
 -- url     : https://prove2.me/theorems/d7f8f762-082b-41af-9f76-ad20c23f2e05

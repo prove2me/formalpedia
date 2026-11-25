@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameTuple_main
 -- name    : GlobalTheory.HL.FrameTuple.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:07:33.332816+00:00
 -- url     : https://prove2.me/theorems/92011ba2-9123-47ce-9c67-fc6d8d5c1619

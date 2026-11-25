@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ProdFormula_map_mul_left_infinite
 -- name    : GlobalTheory.CompanionTheory.SW.ProdFormula.map_mul_left_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:38:13.613854+00:00
 -- url     : https://prove2.me/theorems/5c7944d3-30cf-40d7-a9b8-3c147ebbcdd0

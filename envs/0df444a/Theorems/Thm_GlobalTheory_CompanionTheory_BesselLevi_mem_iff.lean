@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BesselLevi_mem_iff
 -- name    : GlobalTheory.CompanionTheory.BesselLevi.mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:39:57.494815+00:00
 -- url     : https://prove2.me/theorems/3def4ead-e1f0-5e69-88c4-501744aa5ac3

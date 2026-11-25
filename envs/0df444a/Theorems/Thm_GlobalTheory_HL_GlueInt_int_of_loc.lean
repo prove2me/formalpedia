@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GlueInt_int_of_loc
 -- name    : GlobalTheory.HL.GlueInt.int_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:30:29.586156+00:00
 -- url     : https://prove2.me/theorems/fd100595-26df-46fb-a9c8-b633172e8801

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_sumsq_div_eq
 -- name    : Formalism.L2.S.Pv.EnergyAbs.sumsq_div_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:16:22.60983+00:00
 -- url     : https://prove2.me/theorems/b19568a7-dc22-5336-be7b-71f9b0981b7f

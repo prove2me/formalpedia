@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_parabolic_line_stabilizer_levi
 -- name    : GlobalTheory.T.parabolic_line_stabilizer_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:53:54.201741+00:00
 -- url     : https://prove2.me/theorems/fa1cf0af-3c9e-4c8c-aeea-79dc43c68953

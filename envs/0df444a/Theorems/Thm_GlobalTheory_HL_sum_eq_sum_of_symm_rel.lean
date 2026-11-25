@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_sum_eq_sum_of_symm_rel
 -- name    : GlobalTheory.HL.sum_eq_sum_of_symm_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:39:59.821954+00:00
 -- url     : https://prove2.me/theorems/258b33ad-5b65-504b-9619-302237fb11a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_kurComplete
 -- name    : Formalism.L2.Th1.D.kurComplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:32:42.481842+00:00
 -- url     : https://prove2.me/theorems/1e2e08b0-7f35-5fc6-bc06-3d36cb64532a

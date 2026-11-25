@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_recFrob_mul_ofDegOne
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.recFrob_mul_ofDegOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:37:18.454667+00:00
 -- url     : https://prove2.me/theorems/97b325a1-c443-4184-b6a9-da313aeffc31

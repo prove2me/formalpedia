@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdxInt_Fubini_exists_fine_prod
 -- name    : GlobalTheory.IdxInt.Fubini.exists_fine_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:35:10.090799+00:00
 -- url     : https://prove2.me/theorems/2a39c87b-a177-4787-867b-5926b0adeb41

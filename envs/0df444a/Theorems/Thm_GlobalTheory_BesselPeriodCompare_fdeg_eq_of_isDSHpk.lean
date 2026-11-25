@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_fdeg_eq_of_isDSHpk
 -- name    : GlobalTheory.BesselPeriodCompare.fdeg_eq_of_isDSHpk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:20:28.643329+00:00
 -- url     : https://prove2.me/theorems/63c1d62c-07e7-4168-b126-c2f468744747

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_SP_of_dense_a
 -- name    : Formalism.L2.S.Pv.SchurTens.SP_of_dense_a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:24:55.312798+00:00
 -- url     : https://prove2.me/theorems/3c851ffd-01e0-4ea9-a38e-c30ed897dfaa

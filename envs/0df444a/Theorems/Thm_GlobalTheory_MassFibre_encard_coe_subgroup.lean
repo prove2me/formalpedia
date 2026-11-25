@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassFibre_encard_coe_subgroup
 -- name    : GlobalTheory.MassFibre.encard_coe_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:38:32.859967+00:00
 -- url     : https://prove2.me/theorems/cc56b0f7-defd-4812-aaf7-3a5b72060ce3

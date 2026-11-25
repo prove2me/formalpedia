@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodClass_int_mul
 -- name    : GlobalTheory.HL.GoodClass.int_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:46:33.031603+00:00
 -- url     : https://prove2.me/theorems/af5ea643-f0c1-5c70-a0b4-1110c2be3590

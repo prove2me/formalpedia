@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_isHermND_one
 -- name    : GlobalTheory.HL.Model.isHermND_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:32:34.337124+00:00
 -- url     : https://prove2.me/theorems/0945facc-991b-4505-b717-2bf70a01656c

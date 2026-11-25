@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_tendsto_pairD
 -- name    : Formalism.FourierDecayAlt.P.PBK.tendsto_pairD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:01:26.749026+00:00
 -- url     : https://prove2.me/theorems/01006e4e-dc6e-59cb-8b55-c4f1eb707a8a

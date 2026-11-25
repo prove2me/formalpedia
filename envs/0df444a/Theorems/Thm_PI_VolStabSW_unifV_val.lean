@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_unifV_val
 -- name    : PI.VolStabSW.unifV_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:42:00.250455+00:00
 -- url     : https://prove2.me/theorems/a960d325-ea45-5e7f-8dfc-926f2b19e261

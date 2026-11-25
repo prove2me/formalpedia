@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Glue_finrank_baseChange_field
 -- name    : GlobalTheory.DegCnt.Glue.finrank_baseChange_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:24:14.260748+00:00
 -- url     : https://prove2.me/theorems/ae9c628e-b3ae-5c5f-a385-9da79c695874

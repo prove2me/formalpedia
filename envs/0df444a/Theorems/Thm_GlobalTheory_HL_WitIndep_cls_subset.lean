@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_WitIndep_cls_subset
 -- name    : GlobalTheory.HL.WitIndep.cls_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:37:11.513342+00:00
 -- url     : https://prove2.me/theorems/edd95510-bad1-5967-924e-ff07d7799c7f

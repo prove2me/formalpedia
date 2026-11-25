@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothLocusAdd_isSumAt_ptHom
 -- name    : GlobalTheory.SmoothLocusAdd.isSumAt_ptHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:47:55.72886+00:00
 -- url     : https://prove2.me/theorems/86946c14-044e-4d7f-ac1e-fc1866020454

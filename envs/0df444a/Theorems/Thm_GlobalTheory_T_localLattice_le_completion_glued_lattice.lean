@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_localLattice_le_completion_glued_lattice
 -- name    : GlobalTheory.T.localLattice_le_completion_glued_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:46:09.634444+00:00
 -- url     : https://prove2.me/theorems/90f99dd5-ac02-4dc7-8dbb-8bf5bb929325

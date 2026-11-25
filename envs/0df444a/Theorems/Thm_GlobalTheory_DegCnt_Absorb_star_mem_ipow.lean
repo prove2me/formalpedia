@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Absorb_star_mem_ipow
 -- name    : GlobalTheory.DegCnt.Absorb.star_mem_ipow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:24:55.321584+00:00
 -- url     : https://prove2.me/theorems/437847fb-c0f4-4117-8303-c0aa968f9431

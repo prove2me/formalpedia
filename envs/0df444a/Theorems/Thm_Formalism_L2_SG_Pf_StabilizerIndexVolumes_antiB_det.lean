@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_StabilizerIndexVolumes_antiB_det
 -- name    : Formalism.L2.SG.Pf.StabilizerIndexVolumes.antiB_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:16:29.035013+00:00
 -- url     : https://prove2.me/theorems/a92a741f-0169-4db2-81fa-7ecf956b5cd8

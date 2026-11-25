@@ -1,0 +1,53 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.Ux10.derivative_cost_of_slice_and_radical
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T07:40:12.227271+00:00
+-- url     : https://prove2.me/submissions/33b62a0c-2ed0-4b02-8b15-a84b0f1db288
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementU
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixTranspose
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixMul
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DirectionsInParabolic
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CoordinateSizesOfHypotheses
+import Definitions.Def_Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_CayleyTransformPreservesForm
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PhiBoundPartsOfRadicalParametrisation
+import Theorems.Thm_Formalism_FourierDecayAlt_P_aux_statement_17
+import Theorems.Thm_Formalism_FourierDecayAlt_P_block3_apply_embedding
+import Theorems.Thm_Formalism_FourierDecayAlt_P_coordinate_sizes_of_parts
+import Theorems.Thm_Formalism_FourierDecayAlt_P_directions_in_parabolic
+import Theorems.Thm_Formalism_FourierDecayAlt_P_hat_z_on_slice
+import Theorems.Thm_Formalism_FourierDecayAlt_P_level_determinant_z
+import Theorems.Thm_Formalism_FourierDecayAlt_P_slice_left_coordinates
+import Theorems.Thm_Formalism_FourierDecayAlt_P_slice_right_coordinates
+import Theorems.Thm_Formalism_FourierDecayAlt_P_slice_z_coordinates
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Matrix MeasureTheory
+open Formalism.FourierDecayAlt Formalism.FourierDecayAlt.U Formalism.REAL Formalism.QuantumDeterminants
+open MeasureTheory Filter Topology
+open Matrix Filter Topology
+open Matrix MeasureTheory Filter Topology
+open Matrix MeasureTheory Filter Topology
+open Matrix MeasureTheory Filter Topology
+open Matrix MeasureTheory Filter Topology
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+open Formalism.FourierDecayAlt.U
+namespace Formalism.FourierDecayAlt.P
+namespace Ux10
+theorem _root_.solution (hM : SliceMem) (hR : RadicalParam) (hCP : DerivativeCostFromComponents) : DerivativeCost :=
+  hCP hM hR slice_right_coordinates slice_left_coordinates slice_z_coordinates directions_in_parabolic
+    (coordinate_sizes_of_parts hM block3_apply_embedding aux_statement_17 hat_z_on_slice level_determinant_z)
+end Ux10
+end Formalism.FourierDecayAlt.P

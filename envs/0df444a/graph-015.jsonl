@@ -7583,8 +7583,8 @@
 {"parent": "CombOpt_MatchingPolytope_Graph_matchingPolytope", "child": "CombOpt_MatchingPolytope_Graph_IsMatching", "via": ["statement"]}
 {"parent": "CombOpt_MatchingPolytope_Graph_matchingPolytope", "child": "CombOpt_MatchingPolytope_Graph", "via": ["statement"]}
 {"parent": "CombOpt_MatchingPolytope_Graph_matchingPolytope", "child": "CombOpt_MatchingPolytope_charVec", "via": ["statement"]}
-{"parent": "KallMayerSLP.NormalCC.theorem_2_5", "child": "KallMayerSLP_NormalCC_IsMultivariateNormal", "via": ["statement"]}
-{"parent": "KallMayerSLP.NormalCC.theorem_2_5", "child": "KallMayerSLP_NormalCC_levelSet", "via": ["statement"]}
+{"parent": "KallMayerSLP.NormalCC.theorem_2_5", "child": "KallMayerSLP_NormalCC_IsMultivariateNormal", "via": ["solution", "statement"]}
+{"parent": "KallMayerSLP.NormalCC.theorem_2_5", "child": "KallMayerSLP_NormalCC_levelSet", "via": ["solution", "statement"]}
 {"parent": "OAIQ107D103", "child": "OAIQ107D000", "via": ["statement"]}
 {"parent": "SinkhornHall.lemma_2_4", "child": "SinkhornHall_Model", "via": ["solution", "statement"]}
 {"parent": "SinkhornHall.lemma_2_4", "child": "SinkhornHall_Analysis", "via": ["solution", "statement"]}

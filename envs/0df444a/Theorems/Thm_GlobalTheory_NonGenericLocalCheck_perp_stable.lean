@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonGenericLocalCheck_perp_stable
 -- name    : GlobalTheory.NonGenericLocalCheck.perp_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:42:09.530831+00:00
 -- url     : https://prove2.me/theorems/920b8dee-6fa7-4029-9d3e-7d86ba5ea6bc

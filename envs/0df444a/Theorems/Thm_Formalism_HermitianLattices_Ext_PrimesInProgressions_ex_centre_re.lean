@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_ex_centre_re
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.ex_centre_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:39:25.753314+00:00
 -- url     : https://prove2.me/theorems/5c9ad084-259a-4e2c-827a-dd149ce6a72f

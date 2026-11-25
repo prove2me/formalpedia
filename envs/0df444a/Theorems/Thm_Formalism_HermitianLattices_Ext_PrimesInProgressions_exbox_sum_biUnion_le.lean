@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_exbox_sum_biUnion_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.exbox_sum_biUnion_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:37:00.706879+00:00
 -- url     : https://prove2.me/theorems/75200a3d-d6fe-5a31-af03-229300f81bb8

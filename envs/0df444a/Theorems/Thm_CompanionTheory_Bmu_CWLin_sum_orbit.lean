@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Bmu_CWLin_sum_orbit
 -- name    : CompanionTheory.Bmu.CWLin.sum_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:14:11.773128+00:00
 -- url     : https://prove2.me/theorems/d934106d-07f2-5b07-a984-e4d6b3b1e76a

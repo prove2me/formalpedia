@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeDeriv_dC_wedge_single
 -- name    : GlobalTheory.CompanionTheory.WedgeDeriv.dC_wedge_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:28:05.797444+00:00
 -- url     : https://prove2.me/theorems/1f567ead-2ea1-41ec-b189-0284322a3fae

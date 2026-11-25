@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassFibre_wt_smul
 -- name    : GlobalTheory.MassFibre.wt_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:39:00.795971+00:00
 -- url     : https://prove2.me/theorems/b90f7249-ea20-4404-825f-fc5b76523b77

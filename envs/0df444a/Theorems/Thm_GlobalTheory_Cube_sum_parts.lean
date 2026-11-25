@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_sum_parts
 -- name    : GlobalTheory.Cube.sum_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:41:28.718894+00:00
 -- url     : https://prove2.me/theorems/93778d67-4bd5-5a8f-8458-53080cc41e46

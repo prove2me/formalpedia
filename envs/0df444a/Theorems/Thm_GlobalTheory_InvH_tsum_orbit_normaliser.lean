@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvH_tsum_orbit_normaliser
 -- name    : GlobalTheory.InvH.tsum_orbit_normaliser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:41:41.148796+00:00
 -- url     : https://prove2.me/theorems/56cfa225-3d13-464b-aa48-465fb5dd8a68

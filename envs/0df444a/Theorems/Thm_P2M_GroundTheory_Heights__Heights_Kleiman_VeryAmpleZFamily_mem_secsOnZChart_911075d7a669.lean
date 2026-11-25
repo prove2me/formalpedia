@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZFamily_mem_secsOnZChart_911075d7a669
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZFamily_mem_secsOnZChart_911075d7a669
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:08:18.538988+00:00
 -- url     : https://prove2.me/theorems/e582f3de-051f-4c92-9ca2-959711a56d0b

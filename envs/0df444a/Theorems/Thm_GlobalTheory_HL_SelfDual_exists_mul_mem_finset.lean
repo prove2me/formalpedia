@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SelfDual_exists_mul_mem_finset
 -- name    : GlobalTheory.HL.SelfDual.exists_mul_mem_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:33:56.776338+00:00
 -- url     : https://prove2.me/theorems/0aa5091a-1e85-4ffd-a5eb-4e47a9741fd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_kUnit_of_isUnitary_proj
 -- name    : GlobalTheory.kUnit_of_isUnitary_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:47:21.485445+00:00
 -- url     : https://prove2.me/theorems/67ae1a50-bee5-40a9-9811-ba57febae462

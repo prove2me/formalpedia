@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_forms_integrally_equivalent_almost_all
 -- name    : GlobalTheory.T.hermitian_forms_integrally_equivalent_almost_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:45:38.315769+00:00
 -- url     : https://prove2.me/theorems/35c4f58e-c106-47a3-9669-e5bbd5892d8a

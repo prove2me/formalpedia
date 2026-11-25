@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QuadricShare_perp_anti
 -- name    : GlobalTheory.HL.QuadricShare.perp_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:37:59.162776+00:00
 -- url     : https://prove2.me/theorems/f561c685-9366-4fab-9ee5-7ba623bc5c37

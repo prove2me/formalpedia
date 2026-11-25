@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_isCompact_maxCompact
 -- name    : GroundTheory.Automorphic.Reduction.isCompact_maxCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:00:24.147795+00:00
 -- url     : https://prove2.me/theorems/54e17794-85b3-42c5-8a8d-99076ea0695e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSeries_norm_root_sub_one
 -- name    : GlobalTheory.CycSeries.norm_root_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:22:13.976871+00:00
 -- url     : https://prove2.me/theorems/8df1a618-96e6-4ebd-85f9-bae5bfbe1776

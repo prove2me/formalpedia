@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Hyp_lw_anti
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Hyp.lw_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:40:01.266373+00:00
 -- url     : https://prove2.me/theorems/5f4fea64-56fe-56ac-b31f-aa0885b21cb8

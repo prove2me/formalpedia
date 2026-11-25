@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Challenge_theoremA
 -- name    : PretorsionImageClosed.Challenge.theoremA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T07:42:00.998444+00:00
 -- url     : https://prove2.me/theorems/f354c6d7-aa39-5d6e-a823-4c71dedbc59e

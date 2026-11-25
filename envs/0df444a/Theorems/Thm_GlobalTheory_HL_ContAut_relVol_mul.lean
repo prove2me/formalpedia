@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ContAut_relVol_mul
 -- name    : GlobalTheory.HL.ContAut.relVol_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:29:15.175015+00:00
 -- url     : https://prove2.me/theorems/350b622d-cb45-4061-8495-3fd3b7f61003

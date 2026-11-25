@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NormSign_exists_valuativeRel_of_normed
 -- name    : GlobalTheory.JR.WeilQuad.NormSign.exists_valuativeRel_of_normed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:07:39.038899+00:00
 -- url     : https://prove2.me/theorems/dd348266-98a9-41ac-a792-77cf70179841

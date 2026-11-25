@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TermCount_encard_le_mul
 -- name    : GlobalTheory.HL.TermCount.encard_le_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:35:40.943329+00:00
 -- url     : https://prove2.me/theorems/1590365e-1cae-441b-9f21-4001bc65e11c

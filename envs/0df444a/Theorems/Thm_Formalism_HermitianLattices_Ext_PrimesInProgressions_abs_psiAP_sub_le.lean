@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_abs_psiAP_sub_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.abs_psiAP_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:39:50.709977+00:00
 -- url     : https://prove2.me/theorems/8e6856a8-7ac4-4bc9-92c3-01ff63b5d427

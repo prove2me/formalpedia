@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_inv_encard_stab_ne
 -- name    : GlobalTheory.HL.inv_encard_stab_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:34:35.021329+00:00
 -- url     : https://prove2.me/theorems/2b2b403d-0270-49dd-bf11-37603b288d9e

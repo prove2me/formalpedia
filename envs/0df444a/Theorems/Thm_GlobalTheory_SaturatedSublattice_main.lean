@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SaturatedSublattice_main
 -- name    : GlobalTheory.SaturatedSublattice.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:43:55.802701+00:00
 -- url     : https://prove2.me/theorems/d315f5dc-4d07-4f61-8d34-d7fcf681e239

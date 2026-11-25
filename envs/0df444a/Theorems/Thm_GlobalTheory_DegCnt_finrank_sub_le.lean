@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_finrank_sub_le
 -- name    : GlobalTheory.DegCnt.finrank_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:31:23.994148+00:00
 -- url     : https://prove2.me/theorems/ca87a187-99da-53a8-a89b-873b48537543

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscOver_det_cT
 -- name    : GlobalTheory.DiscOver.det_cT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:44:27.997338+00:00
 -- url     : https://prove2.me/theorems/a755b6ac-33f0-4a7e-a709-756a472f1c03

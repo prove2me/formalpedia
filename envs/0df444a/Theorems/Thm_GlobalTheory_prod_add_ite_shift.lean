@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_add_ite_shift
 -- name    : GlobalTheory.prod_add_ite_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:47:54.551975+00:00
 -- url     : https://prove2.me/theorems/252c554e-2d82-436c-98d5-ac3ce591b1e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuExpMem_ex_mulVec
 -- name    : GlobalTheory.CompanionTheory.BmuExpMem.ex_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:20:14.441298+00:00
 -- url     : https://prove2.me/theorems/2fbccca6-b405-5546-993b-6b7480612e67

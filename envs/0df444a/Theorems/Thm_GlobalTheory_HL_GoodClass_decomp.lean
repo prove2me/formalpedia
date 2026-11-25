@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodClass_decomp
 -- name    : GlobalTheory.HL.GoodClass.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:43:28.828673+00:00
 -- url     : https://prove2.me/theorems/e35a0c32-a3a2-4f0b-9c20-2b54362b5adf

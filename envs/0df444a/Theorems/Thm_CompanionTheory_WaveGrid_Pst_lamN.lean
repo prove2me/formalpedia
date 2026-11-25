@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_Pst_lamN
 -- name    : CompanionTheory.WaveGrid.Pst_lamN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:01:27.864511+00:00
 -- url     : https://prove2.me/theorems/0ec7ca8c-1fa6-463e-8fdb-eb201116f7ad

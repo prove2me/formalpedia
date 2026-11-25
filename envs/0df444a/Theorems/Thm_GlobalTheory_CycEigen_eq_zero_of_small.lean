@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycEigen_eq_zero_of_small
 -- name    : GlobalTheory.CycEigen.eq_zero_of_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:26:58.351271+00:00
 -- url     : https://prove2.me/theorems/e0470899-6599-4312-bfde-7f2e506cabd8

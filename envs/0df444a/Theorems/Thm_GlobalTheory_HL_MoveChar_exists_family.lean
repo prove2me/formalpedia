@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveChar_exists_family
 -- name    : GlobalTheory.HL.MoveChar.exists_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:32:32.68736+00:00
 -- url     : https://prove2.me/theorems/fb5c94d2-0ec4-41f0-a9ca-445ef71a4c34

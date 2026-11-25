@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_mainPsi_sum_none
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.mainPsi_sum_none
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:18:40.607462+00:00
 -- url     : https://prove2.me/theorems/6df3a118-906d-42be-8133-d88aaa6b786b

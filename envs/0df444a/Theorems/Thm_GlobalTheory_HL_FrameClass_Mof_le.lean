@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameClass_Mof_le
 -- name    : GlobalTheory.HL.FrameClass.Mof_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:31:10.471799+00:00
 -- url     : https://prove2.me/theorems/5f84d46e-e003-410b-8e14-943c770a2abc

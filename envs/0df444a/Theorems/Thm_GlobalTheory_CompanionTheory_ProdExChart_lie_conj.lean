@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdExChart_lie_conj
 -- name    : GlobalTheory.CompanionTheory.ProdExChart.lie_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:40:53.227147+00:00
 -- url     : https://prove2.me/theorems/1037a4bf-e8ff-5b95-9f97-4bb6d842e06d

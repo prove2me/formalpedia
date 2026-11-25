@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_UnitaryIso
 -- name    : GlobalTheory.T.UnitaryIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:46:54.578079+00:00
 -- url     : https://prove2.me/theorems/eaed1ceb-a373-4cdd-adc0-2d56545eea2f

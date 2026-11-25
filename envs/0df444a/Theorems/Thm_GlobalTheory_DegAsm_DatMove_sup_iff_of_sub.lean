@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_DatMove_sup_iff_of_sub
 -- name    : GlobalTheory.DegAsm.DatMove.sup_iff_of_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:23:23.337203+00:00
 -- url     : https://prove2.me/theorems/b014afd0-3b0c-46f3-9aac-325ef86e0596

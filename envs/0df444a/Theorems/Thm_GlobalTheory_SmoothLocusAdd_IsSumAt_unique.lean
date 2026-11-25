@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothLocusAdd_IsSumAt_unique
 -- name    : GlobalTheory.SmoothLocusAdd.IsSumAt.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:44:39.910838+00:00
 -- url     : https://prove2.me/theorems/a87ca484-192e-4f45-a148-ecc4f769d8f6

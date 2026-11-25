@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpecialFibreGenerator_mem_basicOpen_of_chart
 -- name    : GlobalTheory.SpecialFibreGenerator.mem_basicOpen_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:45:38.344847+00:00
 -- url     : https://prove2.me/theorems/4379cada-b24c-5e0a-b4eb-722be5c86e53

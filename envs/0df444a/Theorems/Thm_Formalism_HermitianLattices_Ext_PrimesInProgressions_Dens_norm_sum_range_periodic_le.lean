@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_norm_sum_range_periodic_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.norm_sum_range_periodic_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:22:13.142576+00:00
 -- url     : https://prove2.me/theorems/2ef65795-4282-430e-82f5-41a2bd11e1f5

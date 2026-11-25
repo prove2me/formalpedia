@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_HermJacobian_det_cT
 -- name    : GlobalTheory.HL.HermJacobian.det_cT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:31:49.027451+00:00
 -- url     : https://prove2.me/theorems/d114f59c-39e7-40bd-ab51-0dce316e5c87

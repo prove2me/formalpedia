@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_lenDescent_holds
 -- name    : Formalism.L2.Pj.QAt.lenDescent_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:36:53.207897+00:00
 -- url     : https://prove2.me/theorems/a85ba3b1-6f85-4eb2-b0c1-edf51340858b

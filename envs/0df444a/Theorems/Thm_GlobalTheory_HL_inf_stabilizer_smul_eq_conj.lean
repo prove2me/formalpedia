@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_inf_stabilizer_smul_eq_conj
 -- name    : GlobalTheory.HL.inf_stabilizer_smul_eq_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:37:52.013421+00:00
 -- url     : https://prove2.me/theorems/1130e214-b6bb-515a-a5aa-83120feea0a2

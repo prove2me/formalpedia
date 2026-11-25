@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_BlockContent_biWindow_of
 -- name    : GlobalTheory.OddBlock.BlockContent.biWindow_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:34:32.576418+00:00
 -- url     : https://prove2.me/theorems/a57a61ea-42c0-46b3-b9ef-50d9e547d272

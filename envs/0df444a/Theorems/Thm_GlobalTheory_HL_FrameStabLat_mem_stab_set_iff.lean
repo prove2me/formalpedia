@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameStabLat_mem_stab_set_iff
 -- name    : GlobalTheory.HL.FrameStabLat.mem_stab_set_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:32:02.317437+00:00
 -- url     : https://prove2.me/theorems/4be375f8-c714-4e72-9789-637d04af9063

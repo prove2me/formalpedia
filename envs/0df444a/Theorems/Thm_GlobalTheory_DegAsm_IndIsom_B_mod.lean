@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_IndIsom_B_mod
 -- name    : GlobalTheory.DegAsm.IndIsom.B_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:21:01.173814+00:00
 -- url     : https://prove2.me/theorems/c57f6a7b-220c-55fe-9837-6eda298164d6

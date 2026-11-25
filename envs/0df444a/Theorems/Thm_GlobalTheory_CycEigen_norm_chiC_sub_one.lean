@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycEigen_norm_chiC_sub_one
 -- name    : GlobalTheory.CycEigen.norm_chiC_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:27:00.630413+00:00
 -- url     : https://prove2.me/theorems/c0dbfd03-8ec0-4fc6-a915-e28bc216c734

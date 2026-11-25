@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodClass_up_cT
 -- name    : GlobalTheory.HL.GoodClass.up_cT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:31:25.461582+00:00
 -- url     : https://prove2.me/theorems/6a3c749a-5b59-4c1c-9c37-ab88cf835a80

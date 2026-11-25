@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAct_exists_sat
 -- name    : GlobalTheory.FrameAct.exists_sat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:29:24.874871+00:00
 -- url     : https://prove2.me/theorems/550ef3a4-5181-5aa8-a8ee-398895d8914f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_folner_limit
 -- name    : Formalism.L2.S.Pv.EnergyAbs.folner_limit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:15:48.915226+00:00
 -- url     : https://prove2.me/theorems/d9f5afe7-5790-5c35-b5e4-49d95854b595

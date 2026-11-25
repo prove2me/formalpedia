@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitLift_mem_wSp_iff
 -- name    : GlobalTheory.DegCnt.SplitLift.mem_wSp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:25:25.42512+00:00
 -- url     : https://prove2.me/theorems/9316129d-3331-4975-ba81-aebdd6e80032

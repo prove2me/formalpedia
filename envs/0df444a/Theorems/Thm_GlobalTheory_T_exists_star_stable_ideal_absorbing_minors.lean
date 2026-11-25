@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_star_stable_ideal_absorbing_minors
 -- name    : GlobalTheory.T.exists_star_stable_ideal_absorbing_minors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:22:51.684801+00:00
 -- url     : https://prove2.me/theorems/614c9c25-68de-4278-b648-1d08d1c95e8f

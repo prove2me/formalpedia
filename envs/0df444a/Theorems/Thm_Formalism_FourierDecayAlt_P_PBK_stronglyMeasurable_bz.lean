@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_stronglyMeasurable_bz
 -- name    : Formalism.FourierDecayAlt.P.PBK.stronglyMeasurable_bz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:11:06.878787+00:00
 -- url     : https://prove2.me/theorems/615f1d94-ae6c-56f9-946c-7d9797ce13a8

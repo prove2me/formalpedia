@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FibU_hf_smulr
 -- name    : GlobalTheory.HL.FibU.hf_smulr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:09:31.941828+00:00
 -- url     : https://prove2.me/theorems/9814340c-cfaf-4ea1-a50b-20abca6649c4

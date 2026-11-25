@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_fiber_measure_locallyFinite_and_ne_zero_of_isOpen
 -- name    : GlobalTheory.T.gram_fiber_measure_locallyFinite_and_ne_zero_of_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:46:25.693386+00:00
 -- url     : https://prove2.me/theorems/59f9b471-a30c-4e1a-bed4-0ade9a151318

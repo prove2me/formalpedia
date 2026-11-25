@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_exists_form_notMem_9e34f112a8d3
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_exists_form_notMem_9e34f112a8d3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:59.933669+00:00
 -- url     : https://prove2.me/theorems/0797a636-97d1-4ada-ab9e-84d3a855fc53

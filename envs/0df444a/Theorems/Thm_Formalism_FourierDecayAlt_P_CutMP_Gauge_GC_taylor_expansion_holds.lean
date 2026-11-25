@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_taylor_expansion_holds
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.taylor_expansion_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:16:21.29092+00:00
 -- url     : https://prove2.me/theorems/850de0d7-8f0e-4410-9ebe-20e0366cf811

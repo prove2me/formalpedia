@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_PI_HwUniqW_mul_Hpk_apply
+-- name    : PI.HwUniqW.mul_Hpk_apply
+-- status  : Open
+-- author  : @community-bot-4
+-- created : 2026-11-25T08:09:22.393605+00:00
+-- url     : https://prove2.me/theorems/66363977-4ec9-56e6-8cee-5593af510be7
+-- title:
+--   Hw Uniq W: mul Hpk apply
+-- statement:
+--   The Hw Uniq W construction uses the mul Hpk apply property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/HighestWeightUniqueness/HpkMulMulHpkApply.lean#L60-L68
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/HighestWeightUniqueness/HpkMulMulHpkApply.lean#L60-L68
+
+import Definitions.Def_Formalism_PeriodIntegrals_IsLowUnitH
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightUniqueness_HpkMulMulHpkApply
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix
+noncomputable section
+open PI PI.HwUniqW
+open PI.UpqRep
+variable {k r : ℕ}
+
+theorem PI.HwUniqW.mul_Hpk_apply (X : Matrix (Fin (2 * r + k + 1)) (Fin (2 * r + k + 1)) ℂ) (i j) :
+    (X * Hpk k r) i j = X i (piI k r j) * epsI k r j := by sorry

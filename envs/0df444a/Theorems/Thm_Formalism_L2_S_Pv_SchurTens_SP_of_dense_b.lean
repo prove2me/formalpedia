@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_SP_of_dense_b
 -- name    : Formalism.L2.S.Pv.SchurTens.SP_of_dense_b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:25:27.477216+00:00
 -- url     : https://prove2.me/theorems/1b62a650-9482-440e-8661-a3cda6f7e23d

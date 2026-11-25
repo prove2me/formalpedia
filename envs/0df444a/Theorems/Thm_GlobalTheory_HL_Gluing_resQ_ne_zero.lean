@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Gluing_resQ_ne_zero
 -- name    : GlobalTheory.HL.Gluing.resQ_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:32:31.74416+00:00
 -- url     : https://prove2.me/theorems/2586da2d-e32b-42e2-aeb2-6cd2872ddcc7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SumRefinement_finsum_fst
 -- name    : GlobalTheory.SumRefinement.finsum_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:45:04.328978+00:00
 -- url     : https://prove2.me/theorems/31271ced-038c-4ff1-9cbf-1c9bcf85e523

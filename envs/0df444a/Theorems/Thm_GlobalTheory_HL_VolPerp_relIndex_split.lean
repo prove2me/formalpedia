@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_VolPerp_relIndex_split
 -- name    : GlobalTheory.HL.VolPerp.relIndex_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:34:46.625396+00:00
 -- url     : https://prove2.me/theorems/757dd569-fbb7-4770-9b93-69b26a573e60

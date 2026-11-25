@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_ShortVector_idxN_span
 -- name    : GlobalTheory.Mass.ShortVector.idxN_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:39:02.016618+00:00
 -- url     : https://prove2.me/theorems/15e8c176-36de-4a55-aad7-5253dc3637e5

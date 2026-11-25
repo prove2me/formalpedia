@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SmoothDecompositionForms_dsigW_zero
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SmoothDecompositionForms.dsigW_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:35:26.476312+00:00
 -- url     : https://prove2.me/theorems/2d8f8b71-41ce-4a55-af89-ff4b8871fdb4

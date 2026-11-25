@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_extremal_iff_isRelativeSplitInjective_of_sClosed
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.extremal_iff_isRelativeSplitInjective_of_sClosed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:16:39.663802+00:00
 -- url     : https://prove2.me/theorems/7114d13a-8be0-45a4-9193-0eedaf0d5c2e

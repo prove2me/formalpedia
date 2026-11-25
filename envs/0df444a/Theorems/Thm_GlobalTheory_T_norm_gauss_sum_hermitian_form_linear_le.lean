@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_gauss_sum_hermitian_form_linear_le
 -- name    : GlobalTheory.T.norm_gauss_sum_hermitian_form_linear_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:46:18.458874+00:00
 -- url     : https://prove2.me/theorems/c7a16731-7f50-48c7-acc9-9407bbdb0217

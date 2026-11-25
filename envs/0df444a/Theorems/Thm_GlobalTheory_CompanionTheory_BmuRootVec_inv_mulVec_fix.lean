@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuRootVec_inv_mulVec_fix
 -- name    : GlobalTheory.CompanionTheory.BmuRootVec.inv_mulVec_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:21:04.597812+00:00
 -- url     : https://prove2.me/theorems/71131a2f-24ad-508f-9926-5dde3586098c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdxInt_Lin_fine_zero
 -- name    : GlobalTheory.IdxInt.Lin.fine_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:35:53.617992+00:00
 -- url     : https://prove2.me/theorems/36f7428a-bac6-491a-b63b-c5eb0ec20930

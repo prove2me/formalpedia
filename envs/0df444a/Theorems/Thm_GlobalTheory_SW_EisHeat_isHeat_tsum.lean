@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisHeat_isHeat_tsum
 -- name    : GlobalTheory.SW.EisHeat.isHeat_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:29:32.495141+00:00
 -- url     : https://prove2.me/theorems/f78172e5-0c85-4537-a328-0f75b2d4445e

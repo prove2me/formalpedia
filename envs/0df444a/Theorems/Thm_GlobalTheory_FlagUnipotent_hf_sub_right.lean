@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagUnipotent_hf_sub_right
 -- name    : GlobalTheory.FlagUnipotent.hf_sub_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:35:40.410113+00:00
 -- url     : https://prove2.me/theorems/668475bd-89cc-4176-be30-27ba76ff37e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimplexVolume_volume_simplex_le
 -- name    : GlobalTheory.SimplexVolume.volume_simplex_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:22:20.635889+00:00
 -- url     : https://prove2.me/theorems/1514bce7-9bca-4f81-9cfc-a083f48d7a01

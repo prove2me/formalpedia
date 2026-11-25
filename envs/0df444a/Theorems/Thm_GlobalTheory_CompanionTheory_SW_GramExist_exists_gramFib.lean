@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramExist_exists_gramFib
 -- name    : GlobalTheory.CompanionTheory.SW.GramExist.exists_gramFib
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:06:09.241027+00:00
 -- url     : https://prove2.me/theorems/7c13748c-f644-49e7-a129-f92abc979ac6

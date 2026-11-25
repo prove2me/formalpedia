@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_NormalCC_theorem_2_5
 -- name    : KallMayerSLP.NormalCC.theorem_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:11:52.383896+00:00
 -- url     : https://prove2.me/theorems/efe254f4-2231-42b0-b7ac-bb920d666d01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameStabLat_cong_coef
 -- name    : GlobalTheory.HL.FrameStabLat.cong_coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:30:35.739198+00:00
 -- url     : https://prove2.me/theorems/0099690d-d602-4bba-bd50-14903186d9a8

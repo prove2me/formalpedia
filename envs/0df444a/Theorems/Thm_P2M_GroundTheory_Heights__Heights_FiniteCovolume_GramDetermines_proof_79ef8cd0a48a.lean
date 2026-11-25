@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GramDetermines_proof_79ef8cd0a48a
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GramDetermines_proof_79ef8cd0a48a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:43:46.284797+00:00
 -- url     : https://prove2.me/theorems/0a411511-e4db-5711-b00d-1df1f062a3ed

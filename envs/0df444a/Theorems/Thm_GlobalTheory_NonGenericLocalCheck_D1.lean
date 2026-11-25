@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonGenericLocalCheck_D1
 -- name    : GlobalTheory.NonGenericLocalCheck.D1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:41:34.860855+00:00
 -- url     : https://prove2.me/theorems/ce0ac3c5-5456-49f2-a76c-586e815edeb6

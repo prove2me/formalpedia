@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_log_pow_five_le_sqrt
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.log_pow_five_le_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:44:14.085843+00:00
 -- url     : https://prove2.me/theorems/420c4da6-8085-4180-b248-98f22cf394ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowSmulMemLattice_exists_pow_mul_mem_O
 -- name    : GlobalTheory.PowSmulMemLattice.exists_pow_mul_mem_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:43:38.05132+00:00
 -- url     : https://prove2.me/theorems/333f26cb-2d91-4b71-a812-f1a697e4768f

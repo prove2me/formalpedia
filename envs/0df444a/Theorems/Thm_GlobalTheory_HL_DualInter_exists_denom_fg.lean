@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DualInter_exists_denom_fg
 -- name    : GlobalTheory.HL.DualInter.exists_denom_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:39:46.828071+00:00
 -- url     : https://prove2.me/theorems/5faf1bf9-60bd-4732-ae41-3dbb90936115

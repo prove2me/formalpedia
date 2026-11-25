@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePsi_psi_unitary_character
 -- name    : GlobalTheory.FramePsi.psi_unitary_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:08:52.771249+00:00
 -- url     : https://prove2.me/theorems/88f8bbbf-f67e-54f8-9c0c-30c03389c5b3

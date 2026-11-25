@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonGenericLocalCheck_framePairFixator_unitary_and_fixes_frame
 -- name    : GlobalTheory.NonGenericLocalCheck.framePairFixator_unitary_and_fixes_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:45:07.746613+00:00
 -- url     : https://prove2.me/theorems/0899cabd-29dc-5499-aa2a-df9cf6ff5b89

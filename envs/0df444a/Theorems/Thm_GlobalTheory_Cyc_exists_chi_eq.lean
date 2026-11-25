@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_exists_chi_eq
 -- name    : GlobalTheory.Cyc.exists_chi_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:24:26.94286+00:00
 -- url     : https://prove2.me/theorems/111e5abf-df99-4533-8740-351446b2ac07

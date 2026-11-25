@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerDatumAct_moves_unique
 -- name    : GlobalTheory.InnerDatumAct.moves_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:35:09.080803+00:00
 -- url     : https://prove2.me/theorems/e632f2d4-0060-4186-bad1-ab7b88836173

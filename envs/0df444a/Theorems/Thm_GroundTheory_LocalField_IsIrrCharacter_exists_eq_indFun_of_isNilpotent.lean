@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsIrrCharacter_exists_eq_indFun_of_isNilpotent
 -- name    : GroundTheory.LocalField.IsIrrCharacter.exists_eq_indFun_of_isNilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:35:08.476267+00:00
 -- url     : https://prove2.me/theorems/9aab2b8f-c21c-413a-bf0a-a98269d71ae6

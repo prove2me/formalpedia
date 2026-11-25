@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Step_exists_enum
 -- name    : GlobalTheory.SW.Step.exists_enum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:48:02.224316+00:00
 -- url     : https://prove2.me/theorems/aab36e6f-cf2e-401f-9547-3114aeecd049

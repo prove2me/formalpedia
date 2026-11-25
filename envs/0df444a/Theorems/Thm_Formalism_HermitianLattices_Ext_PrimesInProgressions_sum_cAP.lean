@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_sum_cAP
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.sum_cAP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:17:19.036992+00:00
 -- url     : https://prove2.me/theorems/e173df89-bed4-5195-a313-4e3a0c170c3f

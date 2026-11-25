@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NormSign_norm_one_tmul
 -- name    : GlobalTheory.JR.WeilQuad.NormSign.norm_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:40:16.57072+00:00
 -- url     : https://prove2.me/theorems/d244c093-4d19-5e23-b077-ea0b8b62db7c

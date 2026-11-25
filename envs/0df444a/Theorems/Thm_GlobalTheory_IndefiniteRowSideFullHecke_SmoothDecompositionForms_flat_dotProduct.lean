@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SmoothDecompositionForms_flat_dotProduct
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SmoothDecompositionForms.flat_dotProduct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:35:20.421449+00:00
 -- url     : https://prove2.me/theorems/bca4a552-010d-40d8-823f-2de38377142a

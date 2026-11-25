@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Glue_main
 -- name    : GlobalTheory.Mass.Glue.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:39:22.317668+00:00
 -- url     : https://prove2.me/theorems/e1acf90a-1be5-432e-a3f9-4ab20181d7cb

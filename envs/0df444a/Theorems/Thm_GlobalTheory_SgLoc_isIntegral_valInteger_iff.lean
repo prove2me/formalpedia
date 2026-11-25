@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_isIntegral_valInteger_iff
 -- name    : GlobalTheory.SgLoc.isIntegral_valInteger_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:47:54.471471+00:00
 -- url     : https://prove2.me/theorems/cc2af5d0-427a-547a-84e1-a2c33f54027d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_derivAdd_algebra
 -- name    : GroundTheory.Global.Elliptic.derivAdd_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:49:00.784971+00:00
 -- url     : https://prove2.me/theorems/3dc22e76-2c7b-459f-b2ef-13ce630bc44c

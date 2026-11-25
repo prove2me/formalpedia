@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_LieEnd_unitLemmaLie_of
 -- name    : GlobalTheory.UnitLemma.LieEnd.unitLemmaLie_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:08:25.228807+00:00
 -- url     : https://prove2.me/theorems/50f0f80f-0f4e-420f-b873-20ee863942c6

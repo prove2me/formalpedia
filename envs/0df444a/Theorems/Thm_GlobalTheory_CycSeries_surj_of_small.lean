@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSeries_surj_of_small
 -- name    : GlobalTheory.CycSeries.surj_of_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:25:01.279827+00:00
 -- url     : https://prove2.me/theorems/dd8e066c-4e7e-432a-b88f-451dea7ec73f

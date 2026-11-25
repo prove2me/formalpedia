@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberRelabel_isRelevant_iff__96fb149ae8ef
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberRelabel_isRelevant_iff__96fb149ae8ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:55:56.492559+00:00
 -- url     : https://prove2.me/theorems/bca51672-8999-5c0f-9649-d159f1a41d2f

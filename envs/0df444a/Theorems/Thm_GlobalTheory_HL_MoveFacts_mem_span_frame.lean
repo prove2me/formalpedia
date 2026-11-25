@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveFacts_mem_span_frame
 -- name    : GlobalTheory.HL.MoveFacts.mem_span_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:49:52.159868+00:00
 -- url     : https://prove2.me/theorems/53a02650-567c-4450-a8a5-9ee67032d3f5

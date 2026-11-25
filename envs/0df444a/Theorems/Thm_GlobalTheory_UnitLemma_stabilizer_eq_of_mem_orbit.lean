@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_stabilizer_eq_of_mem_orbit
 -- name    : GlobalTheory.UnitLemma.stabilizer_eq_of_mem_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:49:53.37436+00:00
 -- url     : https://prove2.me/theorems/c1434575-9ccf-5b1d-925f-9a2141c8f571

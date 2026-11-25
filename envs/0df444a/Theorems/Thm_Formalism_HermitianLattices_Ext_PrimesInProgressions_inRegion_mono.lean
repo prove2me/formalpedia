@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_inRegion_mono
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.inRegion_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:17:04.976846+00:00
 -- url     : https://prove2.me/theorems/581dc0ef-282c-4361-bcdd-ad93db970f8d

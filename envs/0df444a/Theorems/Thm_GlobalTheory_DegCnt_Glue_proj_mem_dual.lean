@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Glue_proj_mem_dual
 -- name    : GlobalTheory.DegCnt.Glue.proj_mem_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:25:55.597799+00:00
 -- url     : https://prove2.me/theorems/7afa313b-e5ab-52de-a62b-3a43c6da6a1f

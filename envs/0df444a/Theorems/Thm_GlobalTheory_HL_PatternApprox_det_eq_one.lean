@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PatternApprox_det_eq_one
 -- name    : GlobalTheory.HL.PatternApprox.det_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:33:22.351298+00:00
 -- url     : https://prove2.me/theorems/99de9d16-9c17-4788-ba0f-67b5edb864a2

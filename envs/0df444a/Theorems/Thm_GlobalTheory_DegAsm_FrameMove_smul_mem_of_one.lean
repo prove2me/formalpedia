@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameMove_smul_mem_of_one
 -- name    : GlobalTheory.DegAsm.FrameMove.smul_mem_of_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:42:38.840079+00:00
 -- url     : https://prove2.me/theorems/3f8b49f2-4c08-4a0f-9dc7-001b81995e14

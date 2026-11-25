@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainStatements_RankOne_KD_fin_of_finAlg
 -- name    : Formalism.MainStatements.RankOne.KD.fin_of_finAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:19:15.483917+00:00
 -- url     : https://prove2.me/theorems/74da9ade-c50b-5cd5-984f-f91aebe9b458

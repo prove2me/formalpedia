@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodClass_smul_span_le
 -- name    : GlobalTheory.HL.GoodClass.smul_span_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:31:36.571608+00:00
 -- url     : https://prove2.me/theorems/1ba89c23-a19f-4709-97ed-7d11b6ce43b5

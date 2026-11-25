@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroFreeComplex_neg_re_logDeriv_le
 -- name    : GlobalTheory.ZeroFreeComplex.neg_re_logDeriv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:47:13.168583+00:00
 -- url     : https://prove2.me/theorems/12c3fe60-bc0d-5b5a-b1c8-ae40ce6667ec

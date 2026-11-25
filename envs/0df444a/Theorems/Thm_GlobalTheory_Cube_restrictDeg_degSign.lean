@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_restrictDeg_degSign
 -- name    : GlobalTheory.Cube.restrictDeg_degSign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:41:23.460052+00:00
 -- url     : https://prove2.me/theorems/9136d4c6-ba9a-57ed-879a-dc32cdce7abe

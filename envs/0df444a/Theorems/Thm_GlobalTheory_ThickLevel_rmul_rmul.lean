@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickLevel_rmul_rmul
 -- name    : GlobalTheory.ThickLevel.rmul_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:47:03.10101+00:00
 -- url     : https://prove2.me/theorems/1815eaed-6f94-40f9-b046-2a6eb814a68b

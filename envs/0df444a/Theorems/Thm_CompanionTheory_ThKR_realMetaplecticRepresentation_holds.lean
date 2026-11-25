@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_realMetaplecticRepresentation_holds
 -- name    : CompanionTheory.ThKR.realMetaplecticRepresentation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:34:09.995134+00:00
 -- url     : https://prove2.me/theorems/9abb5262-2b92-4a91-93b6-3a8f80e81c49

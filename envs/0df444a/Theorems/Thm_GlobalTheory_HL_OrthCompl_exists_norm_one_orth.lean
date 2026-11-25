@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OrthCompl_exists_norm_one_orth
 -- name    : GlobalTheory.HL.OrthCompl.exists_norm_one_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:33:06.184304+00:00
 -- url     : https://prove2.me/theorems/4aa9835f-d355-4567-810c-b6dd429555e7

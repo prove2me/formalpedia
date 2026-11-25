@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreRatio_ratio_field
 -- name    : GlobalTheory.CompanionTheory.SW.FibreRatio.ratio_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:48:19.710521+00:00
 -- url     : https://prove2.me/theorems/5529c9a2-1a79-4d84-9deb-0f1443e43447

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_PositiveNearLattice_exists_int_basis
 -- name    : PI.VolStabSW.PositiveNearLattice.exists_int_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:41:56.709066+00:00
 -- url     : https://prove2.me/theorems/8e5098c1-737f-4fb6-a8c8-c1cad9721ed2

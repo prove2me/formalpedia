@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermTuple_witt_tuples
 -- name    : GlobalTheory.HermTuple.witt_tuples
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:38:23.215465+00:00
 -- url     : https://prove2.me/theorems/7c7c0a96-9203-4670-b370-c2ae8af41251

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocAtTopology_locAt_topology
 -- name    : GlobalTheory.LocAtTopology.locAt_topology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:41:00.15247+00:00
 -- url     : https://prove2.me/theorems/6c2e9c48-a0b8-4cef-b13b-7eb068d9fd60

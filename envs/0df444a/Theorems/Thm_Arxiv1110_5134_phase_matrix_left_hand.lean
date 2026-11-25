@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_phase_matrix_left_hand
 -- name    : Arxiv1110_5134.phase_matrix_left_hand
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:11:57.506804+00:00
 -- url     : https://prove2.me/theorems/55d5a644-3f44-4b72-832c-a3ca0ba215e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Absorb_coe_sig
 -- name    : GlobalTheory.DegCnt.Absorb.coe_sig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:21:57.501804+00:00
 -- url     : https://prove2.me/theorems/a4bce9d8-24f6-5f23-a2a9-e66e748080ad

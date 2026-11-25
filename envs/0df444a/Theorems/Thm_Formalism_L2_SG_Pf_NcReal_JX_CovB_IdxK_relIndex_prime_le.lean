@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_NcReal_JX_CovB_IdxK_relIndex_prime_le
 -- name    : Formalism.L2.SG.Pf.NcReal.JX.CovB.IdxK.relIndex_prime_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:16:54.195998+00:00
 -- url     : https://prove2.me/theorems/6e6beb66-9f5f-4ebc-b75e-6edae915946c

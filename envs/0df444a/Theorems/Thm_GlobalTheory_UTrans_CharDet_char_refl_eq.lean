@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_CharDet_char_refl_eq
 -- name    : GlobalTheory.UTrans.CharDet.char_refl_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:12:57.603104+00:00
 -- url     : https://prove2.me/theorems/a8f830a8-bd2a-46f3-8564-ec28818068a5

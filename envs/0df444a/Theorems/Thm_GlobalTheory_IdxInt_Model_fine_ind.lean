@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdxInt_Model_fine_ind
 -- name    : GlobalTheory.IdxInt.Model.fine_ind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:34:49.230917+00:00
 -- url     : https://prove2.me/theorems/b8ca4488-8d76-5681-bdf3-503faa46c39b

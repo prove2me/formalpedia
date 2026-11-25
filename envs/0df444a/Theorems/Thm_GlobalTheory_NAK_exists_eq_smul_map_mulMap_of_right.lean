@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NAK_exists_eq_smul_map_mulMap_of_right
 -- name    : GlobalTheory.NAK.exists_eq_smul_map_mulMap_of_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:42:46.662802+00:00
 -- url     : https://prove2.me/theorems/98e2ca5b-fd08-42ce-8dc5-2defb5f88245

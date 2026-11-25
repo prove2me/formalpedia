@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_OmgContr_isPolyDeg_star
 -- name    : GlobalTheory.WigSh.OmgContr.isPolyDeg_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:48:48.355802+00:00
 -- url     : https://prove2.me/theorems/56111304-2438-5df7-a8fc-977330d4caba

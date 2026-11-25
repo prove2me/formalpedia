@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometric_divCycle_eq_of_local_4c1557f3b5d9
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometric_divCycle_eq_of_local_4c1557f3b5d9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:09:08.984739+00:00
 -- url     : https://prove2.me/theorems/ad462a67-c509-4315-8b17-acf8deb3d4d9

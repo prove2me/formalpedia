@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SelfDual_exists_dual
 -- name    : GlobalTheory.HL.SelfDual.exists_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:33:51.699798+00:00
 -- url     : https://prove2.me/theorems/12d4ddbf-d59d-4feb-8126-7d3850f4f013

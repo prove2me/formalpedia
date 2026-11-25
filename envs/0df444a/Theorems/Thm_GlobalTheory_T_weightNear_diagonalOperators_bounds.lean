@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weightNear_diagonalOperators_bounds
 -- name    : GlobalTheory.T.weightNear_diagonalOperators_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:54:09.415188+00:00
 -- url     : https://prove2.me/theorems/d221b862-9ede-5c41-a3f4-90e42e80f6cd

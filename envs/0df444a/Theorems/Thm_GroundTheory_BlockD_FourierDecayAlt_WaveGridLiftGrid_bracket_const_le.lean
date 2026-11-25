@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_WaveGridLiftGrid_bracket_const_le
 -- name    : GroundTheory.BlockD.FourierDecayAlt.WaveGridLiftGrid.bracket_const_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:47:38.493245+00:00
 -- url     : https://prove2.me/theorems/459511ca-5680-4aa5-9960-42964c0132d4

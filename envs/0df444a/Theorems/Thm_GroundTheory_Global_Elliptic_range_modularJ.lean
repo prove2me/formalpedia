@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_range_modularJ
 -- name    : GroundTheory.Global.Elliptic.range_modularJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:49:16.7548+00:00
 -- url     : https://prove2.me/theorems/c8fb0023-b667-4ce9-8aae-bc07504ee785

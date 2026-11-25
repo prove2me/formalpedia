@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_hermitian_matrices_dvd_sq
 -- name    : GlobalTheory.T.card_hermitian_matrices_dvd_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:46:53.728144+00:00
 -- url     : https://prove2.me/theorems/4c367a33-ea05-5b72-afc2-b19f6edf15a5

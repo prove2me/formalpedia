@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_volSt_inf_stab_smul
 -- name    : GlobalTheory.HL.volSt_inf_stab_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:38:28.905141+00:00
 -- url     : https://prove2.me/theorems/4253fd38-51e7-45a3-813c-6536d5023060

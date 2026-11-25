@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvH_conj_unipOn
 -- name    : GlobalTheory.InvH.conj_unipOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:40:36.604038+00:00
 -- url     : https://prove2.me/theorems/dbeade00-8d2d-48e4-9d45-1e201f8b0e64

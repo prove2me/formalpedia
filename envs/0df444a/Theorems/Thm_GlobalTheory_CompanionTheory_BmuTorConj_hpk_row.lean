@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuTorConj_hpk_row
 -- name    : GlobalTheory.CompanionTheory.BmuTorConj.hpk_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:22:35.417099+00:00
 -- url     : https://prove2.me/theorems/b0822ece-f0e2-4315-b822-5c213336c43d

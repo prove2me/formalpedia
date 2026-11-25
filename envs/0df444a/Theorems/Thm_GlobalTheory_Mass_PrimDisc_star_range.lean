@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_PrimDisc_star_range
 -- name    : GlobalTheory.Mass.PrimDisc.star_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:39:07.266289+00:00
 -- url     : https://prove2.me/theorems/32c1f822-f370-5f94-967f-e91e926197d1

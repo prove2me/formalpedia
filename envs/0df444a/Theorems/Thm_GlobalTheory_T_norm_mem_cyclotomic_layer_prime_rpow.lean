@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_mem_cyclotomic_layer_prime_rpow
 -- name    : GlobalTheory.T.norm_mem_cyclotomic_layer_prime_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:53:39.641567+00:00
 -- url     : https://prove2.me/theorems/a7a3e818-2323-4191-95fd-e3771bc64a7e

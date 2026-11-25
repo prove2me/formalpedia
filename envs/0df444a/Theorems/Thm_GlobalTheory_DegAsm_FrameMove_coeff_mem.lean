@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameMove_coeff_mem
 -- name    : GlobalTheory.DegAsm.FrameMove.coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:24:03.721046+00:00
 -- url     : https://prove2.me/theorems/1278d902-4a97-41b8-b59d-17f77b9aea9a

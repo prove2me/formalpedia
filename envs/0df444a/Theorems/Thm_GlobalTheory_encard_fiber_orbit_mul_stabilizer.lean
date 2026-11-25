@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_encard_fiber_orbit_mul_stabilizer
 -- name    : GlobalTheory.encard_fiber_orbit_mul_stabilizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:49:24.726737+00:00
 -- url     : https://prove2.me/theorems/f19d039a-82ca-5621-a03e-40f5dc1c991a

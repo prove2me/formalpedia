@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QReflGen_qrefl_fix
 -- name    : GlobalTheory.HL.QReflGen.qrefl_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:32:50.4852+00:00
 -- url     : https://prove2.me/theorems/b978c41b-4350-462c-a799-229e942adcb1

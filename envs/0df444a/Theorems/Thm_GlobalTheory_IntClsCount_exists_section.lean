@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntClsCount_exists_section
 -- name    : GlobalTheory.IntClsCount.exists_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:39:00.728441+00:00
 -- url     : https://prove2.me/theorems/4f914d13-bd94-4823-86fc-d6556fe0f75a

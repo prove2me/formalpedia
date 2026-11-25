@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonGenericLocalCheck_img_mul
 -- name    : GlobalTheory.NonGenericLocalCheck.img_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:41:49.596641+00:00
 -- url     : https://prove2.me/theorems/08137cdb-4986-464d-8762-0b44572e02ca

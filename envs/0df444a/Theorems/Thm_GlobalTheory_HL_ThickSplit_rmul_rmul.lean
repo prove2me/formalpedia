@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ThickSplit_rmul_rmul
 -- name    : GlobalTheory.HL.ThickSplit.rmul_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:36:42.747338+00:00
 -- url     : https://prove2.me/theorems/8ceb61cc-12c4-531d-9cac-1c0a02e58179

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_identityComponents_of_mul_inv
 -- name    : GlobalTheory.mem_identityComponents_of_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:11:20.493831+00:00
 -- url     : https://prove2.me/theorems/6893f2f5-76de-4414-8339-e5be12a42644

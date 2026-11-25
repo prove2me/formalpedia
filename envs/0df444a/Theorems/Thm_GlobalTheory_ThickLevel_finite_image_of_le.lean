@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickLevel_finite_image_of_le
 -- name    : GlobalTheory.ThickLevel.finite_image_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:47:15.852628+00:00
 -- url     : https://prove2.me/theorems/70c73e58-4bdf-4e13-aab2-51008e633460

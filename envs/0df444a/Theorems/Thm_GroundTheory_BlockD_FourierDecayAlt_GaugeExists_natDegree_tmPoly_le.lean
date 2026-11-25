@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_GaugeExists_natDegree_tmPoly_le
 -- name    : GroundTheory.BlockD.FourierDecayAlt.GaugeExists.natDegree_tmPoly_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:12:15.136548+00:00
 -- url     : https://prove2.me/theorems/df54418e-d5f8-5af7-8bcc-0fa5d604e660

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OrthCompl_isON_cons
 -- name    : GlobalTheory.HL.OrthCompl.isON_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:36:01.274677+00:00
 -- url     : https://prove2.me/theorems/40a1f85c-4c8a-5ff4-8d8d-6793c33ae9c2

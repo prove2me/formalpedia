@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Defect_comb_mem
 -- name    : GlobalTheory.HL.Defect.comb_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:30:44.76932+00:00
 -- url     : https://prove2.me/theorems/465949f5-ea78-49c1-bec4-decbe32c45a1

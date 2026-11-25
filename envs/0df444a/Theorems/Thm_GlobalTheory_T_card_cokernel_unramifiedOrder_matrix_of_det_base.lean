@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_cokernel_unramifiedOrder_matrix_of_det_base
 -- name    : GlobalTheory.T.card_cokernel_unramifiedOrder_matrix_of_det_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:45:22.936429+00:00
 -- url     : https://prove2.me/theorems/78df633d-ca12-4af7-b3cc-db55023da6c1

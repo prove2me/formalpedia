@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_isUnitriangular_lastColMat
 -- name    : GroundTheory.Automorphic.Reduction.isUnitriangular_lastColMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:49:15.508253+00:00
 -- url     : https://prove2.me/theorems/25f5fe30-3536-4621-891d-23e06882b0d0

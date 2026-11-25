@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_inertiaSubgroup_apply_eq
 -- name    : GroundTheory.LocalField.inertiaSubgroup_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:49:59.316302+00:00
 -- url     : https://prove2.me/theorems/b0827c97-0f61-5b4a-8d58-42c6364967fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_trace_cast_eq_sum_re
 -- name    : GlobalTheory.Mass.trace_cast_eq_sum_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:41:27.735056+00:00
 -- url     : https://prove2.me/theorems/7187731d-b628-4ce4-9376-5e0a1fcda8b5

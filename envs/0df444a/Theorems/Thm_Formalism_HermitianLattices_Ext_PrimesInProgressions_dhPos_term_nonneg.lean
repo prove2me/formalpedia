@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhPos_term_nonneg
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhPos_term_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:15:59.287465+00:00
 -- url     : https://prove2.me/theorems/40176a81-da29-5d3c-aca6-060969d71d78

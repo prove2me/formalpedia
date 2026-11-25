@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerRead_good_map_le
 -- name    : GlobalTheory.InnerRead.good_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:38:20.276566+00:00
 -- url     : https://prove2.me/theorems/dfb86666-7cda-4c6d-ba80-8955fb90c3e9

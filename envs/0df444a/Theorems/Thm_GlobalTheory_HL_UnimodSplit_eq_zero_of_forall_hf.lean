@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_UnimodSplit_eq_zero_of_forall_hf
 -- name    : GlobalTheory.HL.UnimodSplit.eq_zero_of_forall_hf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:38:03.797048+00:00
 -- url     : https://prove2.me/theorems/64993e62-c5dc-47e2-b813-72955a18d7cb

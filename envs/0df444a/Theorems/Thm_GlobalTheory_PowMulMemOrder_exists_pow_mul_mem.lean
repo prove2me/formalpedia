@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowMulMemOrder_exists_pow_mul_mem
 -- name    : GlobalTheory.PowMulMemOrder.exists_pow_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:47:13.224649+00:00
 -- url     : https://prove2.me/theorems/c9406f21-4ca0-5e44-88ba-5bbc7380fd9a

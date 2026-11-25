@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_VLev_levi_embedding_mulVec_e0
 -- name    : GlobalTheory.HCXi.VLev.levi_embedding_mulVec_e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:42:59.695677+00:00
 -- url     : https://prove2.me/theorems/f5a4c45e-d793-4840-a94a-d97a03f6a83c

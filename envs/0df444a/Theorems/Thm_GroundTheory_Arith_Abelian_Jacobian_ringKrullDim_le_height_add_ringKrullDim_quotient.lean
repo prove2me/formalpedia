@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_Jacobian_ringKrullDim_le_height_add_ringKrullDim_quotient
 -- name    : GroundTheory.Arith.Abelian.Jacobian.ringKrullDim_le_height_add_ringKrullDim_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:56:22.413949+00:00
 -- url     : https://prove2.me/theorems/772978cd-837f-49d5-b30b-bc646a5e082c

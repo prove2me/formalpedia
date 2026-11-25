@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_LineGlue_encard_between
 -- name    : GlobalTheory.Mass.LineGlue.encard_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:39:21.607937+00:00
 -- url     : https://prove2.me/theorems/3b8f2522-1601-4117-b1ee-341a6fb3b005

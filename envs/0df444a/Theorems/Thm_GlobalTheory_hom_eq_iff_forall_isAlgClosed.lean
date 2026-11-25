@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hom_eq_iff_forall_isAlgClosed
 -- name    : GlobalTheory.hom_eq_iff_forall_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:48:07.336881+00:00
 -- url     : https://prove2.me/theorems/af8f8453-6a57-41e6-9680-9d7bae7cf762

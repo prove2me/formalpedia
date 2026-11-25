@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GluingKernels_encard_le_of_param
 -- name    : GlobalTheory.HL.GluingKernels.encard_le_of_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:43:41.534113+00:00
 -- url     : https://prove2.me/theorems/a17592e1-b213-4bba-8095-69a415d7a7c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_singS_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.singS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:46:07.094895+00:00
 -- url     : https://prove2.me/theorems/397ba450-f362-45df-80f6-fa7df30866ba

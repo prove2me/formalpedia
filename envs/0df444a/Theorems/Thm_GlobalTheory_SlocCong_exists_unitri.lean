@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SlocCong_exists_unitri
 -- name    : GlobalTheory.SlocCong.exists_unitri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:44:22.583064+00:00
 -- url     : https://prove2.me/theorems/e8800e5f-bc0c-46a5-b6f4-bf912301bda2

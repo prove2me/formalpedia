@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_expand_primitive
 -- name    : GlobalTheory.CuspGL.expand_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:00:53.256132+00:00
 -- url     : https://prove2.me/theorems/afd14f77-2919-4ec2-abaa-a259d0c541e0

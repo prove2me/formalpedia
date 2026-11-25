@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_deuring_heilbronn_dominant
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.deuring_heilbronn_dominant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:30:52.759102+00:00
 -- url     : https://prove2.me/theorems/e371d09f-b75e-4088-8e2b-bccb71d0d937

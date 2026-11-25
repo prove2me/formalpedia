@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodClass_sig_mono
 -- name    : GlobalTheory.HL.GoodClass.sig_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:33:48.689075+00:00
 -- url     : https://prove2.me/theorems/96cd0dd1-9e29-508e-9de1-ea6900e9780b

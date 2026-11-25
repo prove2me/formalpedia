@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TheSecStab_emb_inj
 -- name    : Formalism.FourierDecayAlt.P.TheSecStab.emb_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:23:05.199425+00:00
 -- url     : https://prove2.me/theorems/91c44d7c-f0a6-4187-8998-1614bc243e54

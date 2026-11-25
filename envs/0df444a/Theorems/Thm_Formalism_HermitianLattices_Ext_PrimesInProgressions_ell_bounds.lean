@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_ell_bounds
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.ell_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:16:38.751598+00:00
 -- url     : https://prove2.me/theorems/1e4e6048-fd5b-5c84-9b43-126a7e7804a7

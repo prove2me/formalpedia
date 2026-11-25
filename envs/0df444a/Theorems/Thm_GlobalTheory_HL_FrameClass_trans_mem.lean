@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameClass_trans_mem
 -- name    : GlobalTheory.HL.FrameClass.trans_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:29:51.988543+00:00
 -- url     : https://prove2.me/theorems/7525b842-3d43-5c42-8bec-177d87f70e0b

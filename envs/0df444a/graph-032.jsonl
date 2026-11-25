@@ -49234,7 +49234,7 @@
 {"parent": "HouseAllocLT.LowerBound.Supplement.lemma_4_6", "child": "HouseAllocLT_LowerBound_Supplement_RPG", "via": ["statement"]}
 {"parent": "HolonomicPositivity.Robust.Supplement.lemma_5_6", "child": "HolonomicPositivity_Robust_Supplement_Products", "via": ["statement"]}
 {"parent": "ConstructiveArboricity_Exact_Supplement_Conversion", "child": "ConstructiveArboricity_Exact_Supplement_Extraction", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise_4_3_iv_goalV2", "child": "Kyprianou_Ch04_Exercise4_3Certification", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise_4_3_iv_goalV2", "child": "Kyprianou_Ch04_Exercise4_3Certification", "via": ["solution", "statement"]}
 {"parent": "QAdvFew.PoQOracle.Supplement.theorem_5_6", "child": "QAdvFew_PoQOracle_Supplement_oracleD", "via": ["statement"]}
 {"parent": "QAdvFew.PoQOracle.Supplement.theorem_5_6", "child": "QAdvFew_PoQOracle_Supplement_BQPU", "via": ["statement"]}
 {"parent": "QAdvFew.PoQOracle.Supplement.theorem_5_6", "child": "QAdvFew_PoQOracle_Supplement_IsPSPACEComplete", "via": ["statement"]}
@@ -54563,7 +54563,7 @@
 {"parent": "Kyprianou_Ch06_certificate_result_6_5", "child": "Kyprianou_Ch06_LevyKhintchineTriple", "via": ["statement"]}
 {"parent": "Kyprianou_Ch06_certificate_result_6_5", "child": "Kyprianou_Ch06_RegularityAtFirstEntrance", "via": ["statement"]}
 {"parent": "LocalProbeMIS871.Greedy.Supplement.theorem_1_2", "child": "LocalProbeMIS871_Greedy_Supplement_Oracle", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise_4_8_iii_goalV2", "child": "Kyprianou_Ch04_Exercise4_8CertificationV2", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise_4_8_iii_goalV2", "child": "Kyprianou_Ch04_Exercise4_8CertificationV2", "via": ["solution", "statement"]}
 {"parent": "LinMatroidSecretary.Online.Supplement.lemma_7", "child": "LinMatroidSecretary_Online_Supplement_Allocation", "via": ["statement"]}
 {"parent": "LinMatroidSecretary.Online.Supplement.lemma_7", "child": "LinMatroidSecretary_Online_Supplement_BundleLP", "via": ["statement"]}
 {"parent": "SeededShannon_Supplement_Constr61", "child": "NoisyOWMPC_IOScheme", "via": ["statement"]}

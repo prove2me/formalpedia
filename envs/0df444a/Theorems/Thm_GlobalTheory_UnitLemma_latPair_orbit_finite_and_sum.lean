@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_latPair_orbit_finite_and_sum
 -- name    : GlobalTheory.UnitLemma.latPair_orbit_finite_and_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:49:29.673125+00:00
 -- url     : https://prove2.me/theorems/1c789932-90e4-443c-a63f-fe98f3b29a7a

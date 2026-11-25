@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordTerm_mkW_eq
 -- name    : GlobalTheory.HL.CoordTerm.mkW_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:30:32.256937+00:00
 -- url     : https://prove2.me/theorems/74d35629-917b-4b6d-8293-2e22c9c50463

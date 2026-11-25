@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowSmulMemLattice_exists_pow_smul_mem_of_isLat
 -- name    : GlobalTheory.PowSmulMemLattice.exists_pow_smul_mem_of_isLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:43:37.197512+00:00
 -- url     : https://prove2.me/theorems/2492952f-fc0f-4a89-bdf1-4190cc3112d3

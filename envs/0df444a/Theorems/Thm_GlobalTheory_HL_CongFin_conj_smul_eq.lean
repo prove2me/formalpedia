@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CongFin_conj_smul_eq
 -- name    : GlobalTheory.HL.CongFin.conj_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:31:56.264988+00:00
 -- url     : https://prove2.me/theorems/33c68206-1764-5acb-917e-ce58a40cc716

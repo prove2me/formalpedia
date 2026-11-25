@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_invVol_mul_relIndex_comm
 -- name    : GlobalTheory.HL.invVol_mul_relIndex_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:33:47.014184+00:00
 -- url     : https://prove2.me/theorems/394a4d1c-d6a9-48df-be62-b787065f26ac

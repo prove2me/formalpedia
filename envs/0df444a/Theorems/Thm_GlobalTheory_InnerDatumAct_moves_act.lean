@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerDatumAct_moves_act
 -- name    : GlobalTheory.InnerDatumAct.moves_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:35:10.096838+00:00
 -- url     : https://prove2.me/theorems/2cc63112-bd7a-4892-a1be-3a47d34d2e9c

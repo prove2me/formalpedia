@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_stokes_right_to_left_hand
 -- name    : Arxiv1110_5134.stokes_right_to_left_hand
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:06:31.803869+00:00
 -- url     : https://prove2.me/theorems/9d57817b-d4f4-45dd-8431-1afee48a6e2b

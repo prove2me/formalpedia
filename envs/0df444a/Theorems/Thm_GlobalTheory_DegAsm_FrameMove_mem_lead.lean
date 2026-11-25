@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameMove_mem_lead
 -- name    : GlobalTheory.DegAsm.FrameMove.mem_lead
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:35:27.833021+00:00
 -- url     : https://prove2.me/theorems/d9aa0958-150c-432c-a643-3f3640ad0780

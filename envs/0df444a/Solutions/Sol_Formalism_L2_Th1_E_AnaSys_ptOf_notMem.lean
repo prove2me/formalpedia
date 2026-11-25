@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for Formalism.L2.Th1.E.AnaSys.ptOf_notMem
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T07:34:37.840176+00:00
+-- url     : https://prove2.me/submissions/288bc232-ab85-440f-85a7-29c05f73fa68
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_TorsionTranslationPowers_StatementA
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_IsogenyFormulaInstance
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_TaylorSigma
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_Bridge
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_BridgeTwoMore
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_FinalB
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_BaseChangeCompatible
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_TorsionTranslationPowers_NonsingularJetNorms_AnaSys
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open PowerSeries
+noncomputable section
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.E
+open Formalism.L2.Th1.E.AnaSys
+open Formalism.L2.Th1
+variable (l : ℕ) [Fact l.Prime] (L : PeriodPair) (ι : ℂ ≃+* ℂ_[l])
+variable {l L ι}
+variable (l L ι)
+namespace Formalism.L2.Th1.E.AnaSys
+theorem _root_.solution (t : ℂ) (ht : t ∉ L.lattice) :
+    ptOf l L ι t = .some _ _ (nonsing l L ι t ht) :=
+  dif_pos ⟨ht, nonsing l L ι t ht⟩
+end Formalism.L2.Th1.E.AnaSys

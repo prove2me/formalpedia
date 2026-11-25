@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PatternApprox_adjugate_mem
 -- name    : GlobalTheory.HL.PatternApprox.adjugate_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:33:33.947056+00:00
 -- url     : https://prove2.me/theorems/b167a626-fac6-460a-89cd-7bc97903f40a

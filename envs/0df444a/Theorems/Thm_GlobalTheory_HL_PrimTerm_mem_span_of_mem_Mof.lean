@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PrimTerm_mem_span_of_mem_Mof
 -- name    : GlobalTheory.HL.PrimTerm.mem_span_of_mem_Mof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:36:20.822092+00:00
 -- url     : https://prove2.me/theorems/36dfbe3c-2d30-5fd0-9f53-b285f36a9003

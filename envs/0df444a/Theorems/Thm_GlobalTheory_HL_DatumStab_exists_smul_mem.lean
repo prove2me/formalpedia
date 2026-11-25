@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DatumStab_exists_smul_mem
 -- name    : GlobalTheory.HL.DatumStab.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:30:22.513338+00:00
 -- url     : https://prove2.me/theorems/5d1f93af-1fad-4fda-9ae0-b34733cb0234

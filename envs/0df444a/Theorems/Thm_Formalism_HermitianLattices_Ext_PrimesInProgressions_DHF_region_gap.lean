@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_DHF_region_gap
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.DHF.region_gap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:57:57.224915+00:00
 -- url     : https://prove2.me/theorems/ca2ec6c3-763d-5369-8bc0-5f8d4cc7d0fb

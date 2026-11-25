@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainStatements_RankOne_KD_dsW_int
 -- name    : Formalism.MainStatements.RankOne.KD.dsW_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:19:40.338023+00:00
 -- url     : https://prove2.me/theorems/3da12ab2-5492-5ab0-8215-05560a3ac1ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TraceRep_hf_neg_right
 -- name    : GlobalTheory.HL.TraceRep.hf_neg_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:39:15.406915+00:00
 -- url     : https://prove2.me/theorems/78c903a8-fed8-5603-85a9-37a48eb6c890

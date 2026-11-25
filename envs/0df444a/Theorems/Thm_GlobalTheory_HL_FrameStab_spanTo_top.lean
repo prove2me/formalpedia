@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameStab_spanTo_top
 -- name    : GlobalTheory.HL.FrameStab.spanTo_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:30:21.067624+00:00
 -- url     : https://prove2.me/theorems/ba9963f0-0b5c-499f-b110-09b535a85af4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_fixed_frame_rotation
 -- name    : Arxiv1110_5134.fixed_frame_rotation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:13:33.852152+00:00
 -- url     : https://prove2.me/theorems/7efd4c4a-321b-4240-9561-7037f213d93c

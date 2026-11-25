@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OverBasis_linearIndependent_of_gram
 -- name    : GlobalTheory.HL.OverBasis.linearIndependent_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:43:38.385618+00:00
 -- url     : https://prove2.me/theorems/2c6e28e9-49ff-42a3-a8a5-c719d72701c2

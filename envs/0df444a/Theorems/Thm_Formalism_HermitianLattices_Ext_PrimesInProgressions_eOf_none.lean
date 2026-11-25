@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_eOf_none
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.eOf_none
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:18:29.617089+00:00
 -- url     : https://prove2.me/theorems/a62ff10f-693e-4418-ae7e-f6a6dcf6018c

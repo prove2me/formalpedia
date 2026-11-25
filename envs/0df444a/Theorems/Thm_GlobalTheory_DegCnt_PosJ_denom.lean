@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosJ_denom
 -- name    : GlobalTheory.DegCnt.PosJ.denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:52:26.44779+00:00
 -- url     : https://prove2.me/theorems/f82164ac-b405-531a-bd9a-cf8c8a628235

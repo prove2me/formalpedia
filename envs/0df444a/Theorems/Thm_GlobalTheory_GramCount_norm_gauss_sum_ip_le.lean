@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_norm_gauss_sum_ip_le
 -- name    : GlobalTheory.GramCount.norm_gauss_sum_ip_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:28:01.659199+00:00
 -- url     : https://prove2.me/theorems/86e44af6-e4c4-4e8e-9e9c-9e96c4ab31c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_adeleTensorEquiv_symm_apply
 -- name    : GroundTheory.Global.AdeleBaseChange.adeleTensorEquiv_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:49:07.243809+00:00
 -- url     : https://prove2.me/theorems/da48a841-d55b-43a9-93e4-8e2855b9c74f
