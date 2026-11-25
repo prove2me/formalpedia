@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_isGrpPullback
 -- name    : GlobalTheory.Diag.isGrpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:07:06.038981+00:00
 -- url     : https://prove2.me/theorems/2187045b-9809-424e-a936-d9c072adfc93

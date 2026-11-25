@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_pullTop_unitOn
 -- name    : GlobalTheory.ToricData.pullTop_unitOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:20:57.806811+00:00
 -- url     : https://prove2.me/theorems/7eb170cd-701d-4b13-8540-806e1001105b

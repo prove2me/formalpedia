@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorusSlice_isPullback_sweep
 -- name    : GlobalTheory.SS.TorusSlice.isPullback_sweep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:29:05.30542+00:00
 -- url     : https://prove2.me/theorems/9cb849d8-476d-5c65-bbea-0b935ca057b3

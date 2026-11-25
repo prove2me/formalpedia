@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_CoefficientPositivity_psd_of
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.CoefficientPositivity.psd_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:12:33.596021+00:00
 -- url     : https://prove2.me/theorems/b6683877-67a5-5538-ba05-10de2191a9d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_rm_cplx_smul_eq
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.rm_cplx_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:01:35.235883+00:00
 -- url     : https://prove2.me/theorems/3082989c-4154-4dd9-a151-99ce3fc5aead

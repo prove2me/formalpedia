@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenIsoRatio_ratio
 -- name    : GlobalTheory.GenIsoRatio.ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:58:23.154183+00:00
 -- url     : https://prove2.me/theorems/bace8e0a-d7e7-5f7c-be76-813e7588810c

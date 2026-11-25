@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Twist_isFiniteType_of_locally_iso
 -- name    : GlobalTheory.Twist.isFiniteType_of_locally_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:08:04.746356+00:00
 -- url     : https://prove2.me/theorems/a7901b24-3ee9-45b7-8c77-483824394ea1

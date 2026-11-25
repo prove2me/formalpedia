@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_valCentreOn
 -- name    : GlobalTheory.mem_valCentreOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:18:30.518819+00:00
 -- url     : https://prove2.me/theorems/a25f82ed-e3cc-4389-91d2-57a35361523c

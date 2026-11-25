@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_short_integers_span
 -- name    : GlobalTheory.exists_short_integers_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:59:25.402481+00:00
 -- url     : https://prove2.me/theorems/1e678a8e-8712-47da-b446-43581828a5e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_modN_smul_Mb
 -- name    : GlobalTheory.LevCover.modN_smul_Mb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:25:27.229109+00:00
 -- url     : https://prove2.me/theorems/124fcd5f-dd81-5741-82f4-331816722be8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IotaInj_c_left_eq
 -- name    : GlobalTheory.IotaInj.c_left_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:02:11.01041+00:00
 -- url     : https://prove2.me/theorems/112c0d4c-2f01-590d-a211-8156670b170c

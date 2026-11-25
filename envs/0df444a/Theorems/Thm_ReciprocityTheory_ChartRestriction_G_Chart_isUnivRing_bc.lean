@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_isUnivRing_bc
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.isUnivRing_bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:47:04.922698+00:00
 -- url     : https://prove2.me/theorems/cee6ffd5-ed98-42bd-809e-5f994a7c87aa

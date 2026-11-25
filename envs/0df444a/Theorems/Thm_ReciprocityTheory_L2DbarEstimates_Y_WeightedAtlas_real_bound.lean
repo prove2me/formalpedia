@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_real_bound
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.real_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:00:25.597131+00:00
 -- url     : https://prove2.me/theorems/dee6cb40-ae8d-4950-ba39-75a176cc34dd

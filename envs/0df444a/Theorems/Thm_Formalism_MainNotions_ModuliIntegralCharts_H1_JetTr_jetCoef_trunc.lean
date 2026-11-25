@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_JetTr_jetCoef_trunc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.JetTr.jetCoef_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:39:57.856606+00:00
 -- url     : https://prove2.me/theorems/ea285b33-4cdb-54c0-a643-a4da25ebda9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_existsUnique_iso_nsmul
 -- name    : GlobalTheory.EffCartierData.existsUnique_iso_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:10:37.306439+00:00
 -- url     : https://prove2.me/theorems/893585df-76e1-435e-b892-2681a6f3d84c

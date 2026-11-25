@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_ProcyclicCohomology_model_comparison_degree_zero_bijective
 -- name    : ReciprocityTheory.Coh.ProcyclicCohomology.model_comparison_degree_zero_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:51:39.652783+00:00
 -- url     : https://prove2.me/theorems/2e5c8c5a-ab81-5fc1-896b-e3ec00a456aa

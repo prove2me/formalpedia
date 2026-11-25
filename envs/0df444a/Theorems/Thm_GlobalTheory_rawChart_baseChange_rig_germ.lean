@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rawChart_baseChange_rig_germ
 -- name    : GlobalTheory.rawChart_baseChange_rig_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:17:33.432804+00:00
 -- url     : https://prove2.me/theorems/585830fa-57e2-4cda-a112-ea81fd1454a9

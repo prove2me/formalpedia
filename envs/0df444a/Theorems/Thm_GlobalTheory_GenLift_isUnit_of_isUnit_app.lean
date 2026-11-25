@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenLift_isUnit_of_isUnit_app
 -- name    : GlobalTheory.GenLift.isUnit_of_isUnit_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:25:49.153816+00:00
 -- url     : https://prove2.me/theorems/26a3e55b-6a95-4b8d-be86-0338643369c8

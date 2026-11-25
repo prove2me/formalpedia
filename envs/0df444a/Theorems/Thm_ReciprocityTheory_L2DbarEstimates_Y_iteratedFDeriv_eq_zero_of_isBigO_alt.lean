@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_iteratedFDeriv_eq_zero_of_isBigO_alt
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.iteratedFDeriv_eq_zero_of_isBigO_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:29:37.796343+00:00
 -- url     : https://prove2.me/theorems/eb42ae61-5044-4af7-8741-5b5e1aa1da93

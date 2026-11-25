@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_common_refinement
 -- name    : GlobalTheory.exists_common_refinement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:06:30.340808+00:00
 -- url     : https://prove2.me/theorems/07912c00-5e22-4757-b699-acdbf4e38fe3

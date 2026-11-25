@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictGrp_defAt_generic
 -- name    : GlobalTheory.SS.StrictGrp.defAt_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:17:31.246603+00:00
 -- url     : https://prove2.me/theorems/e99dc1ce-1cf2-496c-9269-01b36fc9e324

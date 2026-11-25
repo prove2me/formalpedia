@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_loc_lintegral_sum_lt
 -- name    : ReciprocityTheory.L2DbarEstimates.F.loc_lintegral_sum_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:56:52.074928+00:00
 -- url     : https://prove2.me/theorems/05a0f1e9-08b6-44fd-9acc-b5f4bc4c6f4c

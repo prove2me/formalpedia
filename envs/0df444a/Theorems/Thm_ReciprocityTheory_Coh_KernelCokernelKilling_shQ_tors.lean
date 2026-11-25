@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_KernelCokernelKilling_shQ_tors
 -- name    : ReciprocityTheory.Coh.KernelCokernelKilling.shQ_tors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:50:49.648549+00:00
 -- url     : https://prove2.me/theorems/a000aa69-845f-59ba-a68e-7007aabc01f7

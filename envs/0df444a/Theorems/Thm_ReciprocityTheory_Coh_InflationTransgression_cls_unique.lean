@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationTransgression_cls_unique
 -- name    : ReciprocityTheory.Coh.InflationTransgression.cls_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:50:29.580918+00:00
 -- url     : https://prove2.me/theorems/70da5e0e-b9d7-41f9-b6b5-98a3c22de918

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pullbackPushforward_holds_isOpen_chart_ne_ce897c4f4dc7
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pullbackPushforward_holds_isOpen_chart_ne_ce897c4f4dc7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:50.180878+00:00
 -- url     : https://prove2.me/theorems/578d5b4b-be63-5f6c-8503-9fb96d8c6847

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_finiteIndex_nsmul
 -- name    : GlobalTheory.Diag.finiteIndex_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:06:50.995079+00:00
 -- url     : https://prove2.me/theorems/5754a09c-3519-4d7d-9109-ce67851646e0

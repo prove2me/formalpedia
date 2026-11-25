@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_existsUnique_oAct_of_isGrpPullback
 -- name    : GlobalTheory.ExtUnique.existsUnique_oAct_of_isGrpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:43:34.731831+00:00
 -- url     : https://prove2.me/theorems/ac092c07-579e-4884-883b-d04cf04560f7

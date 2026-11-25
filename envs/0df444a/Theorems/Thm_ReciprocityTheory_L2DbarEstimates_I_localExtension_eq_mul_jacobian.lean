@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_localExtension_eq_mul_jacobian
 -- name    : ReciprocityTheory.L2DbarEstimates.I.localExtension_eq_mul_jacobian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:59:16.444651+00:00
 -- url     : https://prove2.me/theorems/7998f67d-4ea7-44af-aba3-a54bb652dabe

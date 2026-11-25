@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_generator_iso_extend_from_open_containing_charts
 -- name    : GlobalTheory.T.generator_iso_extend_from_open_containing_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:40:58.934233+00:00
 -- url     : https://prove2.me/theorems/0dbace06-9031-4dcc-94d4-b8295940f2e2

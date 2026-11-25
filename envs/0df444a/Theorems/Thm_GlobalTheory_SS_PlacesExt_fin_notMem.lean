@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_PlacesExt_fin_notMem
 -- name    : GlobalTheory.SS.PlacesExt.fin_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:14:48.851283+00:00
 -- url     : https://prove2.me/theorems/3541b019-ca23-4aa5-a387-b8013bbca143

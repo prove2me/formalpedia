@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_CompactEntryBounds_comp_le_Qy
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.CompactEntryBounds.comp_le_Qy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:19:01.160274+00:00
 -- url     : https://prove2.me/theorems/2fb612a1-7828-4f9f-898b-aa87c1697d7a

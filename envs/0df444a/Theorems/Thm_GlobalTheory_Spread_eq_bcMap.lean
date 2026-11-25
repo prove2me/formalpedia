@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Spread_eq_bcMap
 -- name    : GlobalTheory.Spread.eq_bcMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:25.358587+00:00
 -- url     : https://prove2.me/theorems/bc752d32-f0d1-4c21-a904-a220435736cc

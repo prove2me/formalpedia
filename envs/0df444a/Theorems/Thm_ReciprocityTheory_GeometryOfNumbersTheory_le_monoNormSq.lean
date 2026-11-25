@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_le_monoNormSq
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.le_monoNormSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:53:06.787655+00:00
 -- url     : https://prove2.me/theorems/8dc7cde6-9116-5bea-a36e-44e7ef213066

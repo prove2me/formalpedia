@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_SymFrame_grep_cub
 -- name    : GlobalTheory.UT.SymFrame.grep_cub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:20:44.247797+00:00
 -- url     : https://prove2.me/theorems/35e23727-281c-4f63-8655-d6ffd26e43af

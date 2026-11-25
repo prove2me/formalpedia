@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamPull_famFE_iff
 -- name    : GlobalTheory.FamPull.famFE_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:15:37.962967+00:00
 -- url     : https://prove2.me/theorems/1311c1cd-2e28-4d17-bb1f-f680dd534a76

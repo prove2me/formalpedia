@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_of_isOpenImmersion
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.of_isOpenImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:28:37.477198+00:00
 -- url     : https://prove2.me/theorems/48fd86e1-e57a-45b1-b3fa-93a4cca41399

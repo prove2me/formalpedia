@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenScheme_pullU_eq
 -- name    : GlobalTheory.GenScheme.pullU_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:24:48.121311+00:00
 -- url     : https://prove2.me/theorems/61d81c94-8dff-51b9-9336-f053206d942e

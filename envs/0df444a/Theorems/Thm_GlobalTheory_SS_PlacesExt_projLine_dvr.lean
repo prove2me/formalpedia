@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_PlacesExt_projLine_dvr
 -- name    : GlobalTheory.SS.PlacesExt.projLine_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:13:59.547425+00:00
 -- url     : https://prove2.me/theorems/be8c9a62-90b0-453c-a23a-5342cbc4a7d6

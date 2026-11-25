@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GtBaseChange_lbIso_refl
 -- name    : GlobalTheory.GtBaseChange.lbIso_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:16:36.930862+00:00
 -- url     : https://prove2.me/theorems/ded464a9-66af-546f-9e02-840a809ac622

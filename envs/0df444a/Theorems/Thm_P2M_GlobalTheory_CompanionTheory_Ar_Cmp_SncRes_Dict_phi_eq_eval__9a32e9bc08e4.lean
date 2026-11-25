@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dict_phi_eq_eval__9a32e9bc08e4
 -- name    : P2M_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dict_phi_eq_eval__9a32e9bc08e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:21:10.759352+00:00
 -- url     : https://prove2.me/theorems/d82c2fab-9c46-4baf-af99-a8e3a139a0cb

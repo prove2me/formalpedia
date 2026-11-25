@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isRawChart_baseChange_jetPoints
 -- name    : GlobalTheory.T.isRawChart_baseChange_jetPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:50:04.416946+00:00
 -- url     : https://prove2.me/theorems/b25afc53-97c6-4fb7-89f0-05d134ba19f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_group_laws_on_cover_agree_on_common_points
 -- name    : GlobalTheory.T.group_laws_on_cover_agree_on_common_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:42:21.674347+00:00
 -- url     : https://prove2.me/theorems/a0c8eabb-b14e-4ac1-ab19-8132e74f9627

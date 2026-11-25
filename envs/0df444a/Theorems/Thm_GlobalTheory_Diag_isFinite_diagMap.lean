@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_isFinite_diagMap
 -- name    : GlobalTheory.Diag.isFinite_diagMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:13:17.796114+00:00
 -- url     : https://prove2.me/theorems/db78167c-841b-55d9-96a1-baf5c35a5d5b

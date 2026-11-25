@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstFam_exists_sec_up
 -- name    : GlobalTheory.ConstFam.exists_sec_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:13:16.353264+00:00
 -- url     : https://prove2.me/theorems/5ccb09f7-0ca7-5f71-85b6-a2a2b298291a

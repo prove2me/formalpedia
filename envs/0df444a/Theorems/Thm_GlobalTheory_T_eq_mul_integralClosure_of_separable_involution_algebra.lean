@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_mul_integralClosure_of_separable_involution_algebra
 -- name    : GlobalTheory.T.eq_mul_integralClosure_of_separable_involution_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:11:20.544866+00:00
 -- url     : https://prove2.me/theorems/a49d267b-ebd7-46cc-a22b-4fbac8fa73be

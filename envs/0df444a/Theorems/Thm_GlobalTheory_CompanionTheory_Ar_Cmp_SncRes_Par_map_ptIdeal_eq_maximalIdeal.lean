@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Par_map_ptIdeal_eq_maximalIdeal
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Par.map_ptIdeal_eq_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:16:18.224621+00:00
 -- url     : https://prove2.me/theorems/28281619-10b2-43b1-a5c5-6278e4c1ded0

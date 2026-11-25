@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Spread_isSchemeTheoreticallyDominant_bcMap
 -- name    : GlobalTheory.Spread.isSchemeTheoreticallyDominant_bcMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:27:59.854266+00:00
 -- url     : https://prove2.me/theorems/bb073b10-a1e5-4fc5-a48c-111163bc5310

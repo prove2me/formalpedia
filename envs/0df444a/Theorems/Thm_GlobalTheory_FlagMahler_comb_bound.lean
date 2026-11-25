@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagMahler_comb_bound
 -- name    : GlobalTheory.FlagMahler.comb_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:08:58.18193+00:00
 -- url     : https://prove2.me/theorems/0384923d-6ba4-403a-b20e-bbb9fba13375

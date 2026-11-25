@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_differentiableAt_wd
 -- name    : ReciprocityTheory.L2DbarEstimates.differentiableAt_wd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:01:25.585926+00:00
 -- url     : https://prove2.me/theorems/36e49e96-392b-41b9-8d9b-b1e47999109a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColumnValue_column_value
 -- name    : GlobalTheory.ColumnValue.column_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:53:14.574764+00:00
 -- url     : https://prove2.me/theorems/ba88682c-77c5-42a5-93fc-da2c82c5a396

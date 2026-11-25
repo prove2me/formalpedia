@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeGermIntegral_second_deriv
 -- name    : GlobalTheory.GaugeGermIntegral.second_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:43.616266+00:00
 -- url     : https://prove2.me/theorems/7936e84d-e196-4331-92fd-854aaca66ad1

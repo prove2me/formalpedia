@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Norm_symmVanish
 -- name    : ReciprocityTheory.L2DbarEstimates.Norm.symmVanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:58:56.574637+00:00
 -- url     : https://prove2.me/theorems/b9a58fa4-363b-43a8-ba36-ec4e66e2735a

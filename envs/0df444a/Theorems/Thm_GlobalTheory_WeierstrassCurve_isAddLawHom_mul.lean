@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_isAddLawHom_mul
 -- name    : GlobalTheory.WeierstrassCurve.isAddLawHom_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:49:03.49351+00:00
 -- url     : https://prove2.me/theorems/ffc35e68-3857-5920-8f3a-ce4ce9041782

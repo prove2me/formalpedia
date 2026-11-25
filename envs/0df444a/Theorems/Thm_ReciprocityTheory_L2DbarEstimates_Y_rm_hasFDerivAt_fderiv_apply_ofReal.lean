@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_rm_hasFDerivAt_fderiv_apply_ofReal
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.rm_hasFDerivAt_fderiv_apply_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:00:40.789918+00:00
 -- url     : https://prove2.me/theorems/00bacd0c-f5eb-43c9-94d6-c486dc820cc1

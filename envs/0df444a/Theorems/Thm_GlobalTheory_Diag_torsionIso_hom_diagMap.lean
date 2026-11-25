@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_torsionIso_hom_diagMap
 -- name    : GlobalTheory.Diag.torsionIso_hom_diagMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:07:58.377966+00:00
 -- url     : https://prove2.me/theorems/b818430d-582f-4691-8f47-000380d3acda

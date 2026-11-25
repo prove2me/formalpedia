@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvenPull_even_of_square
 -- name    : GlobalTheory.EvenPull.even_of_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:07:28.429841+00:00
 -- url     : https://prove2.me/theorems/f6f93ecf-5fe0-4997-9fd7-6f0daa5d97f9

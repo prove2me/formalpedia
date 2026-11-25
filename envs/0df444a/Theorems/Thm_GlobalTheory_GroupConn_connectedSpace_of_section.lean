@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupConn_connectedSpace_of_section
 -- name    : GlobalTheory.GroupConn.connectedSpace_of_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:28:04.650974+00:00
 -- url     : https://prove2.me/theorems/1f517e7a-4428-43ba-9345-fae026c26ad5

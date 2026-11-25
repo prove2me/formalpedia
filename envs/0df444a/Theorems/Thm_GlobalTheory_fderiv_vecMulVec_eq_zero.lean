@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fderiv_vecMulVec_eq_zero
 -- name    : GlobalTheory.fderiv_vecMulVec_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:46:19.026851+00:00
 -- url     : https://prove2.me/theorems/139a63b9-8e04-43ce-8eef-ff8912040bbe

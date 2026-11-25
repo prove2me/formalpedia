@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_hasLineDerivAt_lineFirstVariation
 -- name    : ReciprocityTheory.L2DbarEstimates.C.hasLineDerivAt_lineFirstVariation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:54:12.605491+00:00
 -- url     : https://prove2.me/theorems/5a8e08dd-0ef7-54f2-81a9-7fa80eb0c7a3

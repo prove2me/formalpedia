@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_rm_wd_wdb_ofReal
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.rm_wd_wdb_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:01:03.293695+00:00
 -- url     : https://prove2.me/theorems/ad801e74-6fb2-42c9-a509-9292082e4aae

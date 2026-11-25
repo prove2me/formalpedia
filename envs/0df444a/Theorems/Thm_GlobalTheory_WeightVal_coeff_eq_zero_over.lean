@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightVal_coeff_eq_zero_over
 -- name    : GlobalTheory.WeightVal.coeff_eq_zero_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:51:55.868187+00:00
 -- url     : https://prove2.me/theorems/8be39f92-806f-4945-93ce-6f56a4b1596b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_exists_idem
 -- name    : GlobalTheory.LevCover.exists_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:24:48.043847+00:00
 -- url     : https://prove2.me/theorems/616cce9a-99f7-5faa-84ce-f1bd0dd11894

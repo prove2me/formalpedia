@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigidLinearisation_exists_gen_of_iso
 -- name    : GlobalTheory.RigidLinearisation.exists_gen_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:25:46.101641+00:00
 -- url     : https://prove2.me/theorems/661fc757-45cb-423b-bcb6-3b141c1dbad5

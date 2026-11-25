@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_BdRad_exists_den_of_mem_map
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.BdRad.exists_den_of_mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:29:06.391688+00:00
 -- url     : https://prove2.me/theorems/d5c3a029-c233-4053-953f-ffde55ddff53

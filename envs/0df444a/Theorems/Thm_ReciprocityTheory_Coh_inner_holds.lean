@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_inner_holds
 -- name    : ReciprocityTheory.Coh.inner_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:17:29.80799+00:00
 -- url     : https://prove2.me/theorems/71597195-d9bb-4d82-a9e0-d448be8a0664

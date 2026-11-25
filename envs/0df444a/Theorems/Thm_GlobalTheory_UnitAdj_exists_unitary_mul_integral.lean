@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitAdj_exists_unitary_mul_integral
 -- name    : GlobalTheory.UnitAdj.exists_unitary_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:13:37.957777+00:00
 -- url     : https://prove2.me/theorems/227e1e30-eca4-4c6f-a407-1663d4830f06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_half_not_integral
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.half_not_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:35.745628+00:00
 -- url     : https://prove2.me/theorems/f13ce676-0ec9-4115-b927-6c6caefc7739

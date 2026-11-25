@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_jacobsonSpace_of_finiteType_over_int
 -- name    : GlobalTheory.jacobsonSpace_of_finiteType_over_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:17:24.773805+00:00
 -- url     : https://prove2.me/theorems/058e5e53-87ad-5032-aa04-152775a9e654

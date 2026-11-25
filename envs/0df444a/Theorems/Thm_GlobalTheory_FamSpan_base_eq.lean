@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamSpan_base_eq
 -- name    : GlobalTheory.FamSpan.base_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:28:45.194993+00:00
 -- url     : https://prove2.me/theorems/30b6abd3-7aaf-4288-aa32-7b0598d6717b

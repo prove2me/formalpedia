@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstFam_isExtension_comp
 -- name    : GlobalTheory.ConstFam.isExtension_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:07:11.961906+00:00
 -- url     : https://prove2.me/theorems/e7462d3a-28d7-4efc-89c8-cff29f735070

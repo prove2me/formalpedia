@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QkPairing_exists_const
 -- name    : GlobalTheory.QkPairing.exists_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:09:12.383877+00:00
 -- url     : https://prove2.me/theorems/64ec01ce-e636-409f-a487-4c81fcfddf3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldDescentGen_isUnit_of_surjective
 -- name    : GlobalTheory.FieldDescentGen.isUnit_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:19:38.194511+00:00
 -- url     : https://prove2.me/theorems/20f9a274-040e-4cc1-b2d2-bffc6154985f

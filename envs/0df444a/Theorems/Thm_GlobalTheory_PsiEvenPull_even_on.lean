@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiEvenPull_even_on
 -- name    : GlobalTheory.PsiEvenPull.even_on
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:57:14.46141+00:00
 -- url     : https://prove2.me/theorems/1c1b6f5c-904c-4815-a6d2-7feaa29e790e

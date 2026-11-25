@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_st_byPartsNonpos_of
 -- name    : ReciprocityTheory.AnForm.M.st_byPartsNonpos_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:51:39.544826+00:00
 -- url     : https://prove2.me/theorems/be6a4ced-2fb8-42ac-820b-19f0437a32b4

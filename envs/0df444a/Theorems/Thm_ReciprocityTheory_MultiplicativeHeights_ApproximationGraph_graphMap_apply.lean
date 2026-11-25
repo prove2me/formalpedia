@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ApproximationGraph_graphMap_apply
 -- name    : ReciprocityTheory.MultiplicativeHeights.ApproximationGraph.graphMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:01:17.319233+00:00
 -- url     : https://prove2.me/theorems/29f35052-6235-5e34-9c3a-bbaf22e700ea

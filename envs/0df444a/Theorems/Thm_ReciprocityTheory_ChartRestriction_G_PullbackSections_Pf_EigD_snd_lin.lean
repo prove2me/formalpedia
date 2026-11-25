@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_EigD_snd_lin
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.EigD.snd_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:43:14.666223+00:00
 -- url     : https://prove2.me/theorems/8d95f6e1-c4eb-401a-bdb1-f9e5bd6805f8

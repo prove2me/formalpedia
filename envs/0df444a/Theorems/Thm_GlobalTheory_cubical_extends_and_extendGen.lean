@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubical_extends_and_extendGen
 -- name    : GlobalTheory.cubical_extends_and_extendGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:51:29.026063+00:00
 -- url     : https://prove2.me/theorems/d8067344-f8e1-42ab-9933-6bba967d07d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_res_addGen
 -- name    : GlobalTheory.EffCartierData.res_addGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:11:18.712119+00:00
 -- url     : https://prove2.me/theorems/ac729aa1-55f3-4cf1-8f59-ec549ec28915

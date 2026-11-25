@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_IntTrans_expS_nsmul
 -- name    : GlobalTheory.JetSer.IntTrans.expS_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:41:36.753487+00:00
 -- url     : https://prove2.me/theorems/b5d57ee8-71cd-4ac9-bee2-f012f4c61f20

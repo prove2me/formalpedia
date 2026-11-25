@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tateIso_exists_lift_of_two_data
 -- name    : GlobalTheory.tateIso_exists_lift_of_two_data
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:30:02.54015+00:00
 -- url     : https://prove2.me/theorems/a8c2a642-7cfe-4964-910f-e94d49b60890

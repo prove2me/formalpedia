@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenScheme_pb_top_val
 -- name    : GlobalTheory.GenScheme.pb_top_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:18:51.942607+00:00
 -- url     : https://prove2.me/theorems/31302583-d105-4fad-bff3-cd34a438ebdc

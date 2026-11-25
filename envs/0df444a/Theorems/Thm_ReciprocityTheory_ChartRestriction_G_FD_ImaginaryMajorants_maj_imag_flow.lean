@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_ImaginaryMajorants_maj_imag_flow
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.ImaginaryMajorants.maj_imag_flow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:23:21.554933+00:00
 -- url     : https://prove2.me/theorems/3c8250a4-e52e-499f-8664-37712b573b5a

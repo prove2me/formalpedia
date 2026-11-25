@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_InvDer_hasDerivAt_inv_det_and_inv
 -- name    : GlobalTheory.Mem.InvDer.hasDerivAt_inv_det_and_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:23:16.608787+00:00
 -- url     : https://prove2.me/theorems/39f10c50-68dd-4627-a71c-f102b92052c8

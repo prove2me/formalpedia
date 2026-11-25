@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_moll_integral
 -- name    : ReciprocityTheory.L2DbarEstimates.C.moll_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:13:06.868008+00:00
 -- url     : https://prove2.me/theorems/1c79edc7-accd-4ca1-95c0-6afb62a79f46

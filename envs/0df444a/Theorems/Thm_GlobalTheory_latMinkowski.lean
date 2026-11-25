@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latMinkowski
 -- name    : GlobalTheory.latMinkowski
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:48:39.379488+00:00
 -- url     : https://prove2.me/theorems/88fdd6a5-6074-493c-98ef-fd70ccc75d47

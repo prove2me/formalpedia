@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_prism_holds
 -- name    : ReciprocityTheory.Coh.prism_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:31:37.112738+00:00
 -- url     : https://prove2.me/theorems/0b5e621f-f73f-469d-af61-b279fd3d53b6

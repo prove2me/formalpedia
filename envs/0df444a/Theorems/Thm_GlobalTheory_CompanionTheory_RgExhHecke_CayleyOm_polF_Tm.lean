@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_CayleyOm_polF_Tm
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.CayleyOm.polF_Tm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:12:49.84321+00:00
 -- url     : https://prove2.me/theorems/ad8b9da3-611c-44cd-9928-84300293d76e

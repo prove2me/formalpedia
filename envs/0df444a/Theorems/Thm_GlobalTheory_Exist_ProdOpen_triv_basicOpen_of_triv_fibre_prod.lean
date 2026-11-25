@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Exist_ProdOpen_triv_basicOpen_of_triv_fibre_prod
 -- name    : GlobalTheory.Exist.ProdOpen.triv_basicOpen_of_triv_fibre_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:07:22.532715+00:00
 -- url     : https://prove2.me/theorems/2fa00bd5-fbcb-422f-b55c-f8c81a3f0c53

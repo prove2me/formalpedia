@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_nonzeroLocus_formSec
 -- name    : GlobalTheory.ProjSpace.nonzeroLocus_formSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:45:00.908174+00:00
 -- url     : https://prove2.me/theorems/c2aa308e-e2a9-4ab6-947c-94b0a6515bfb

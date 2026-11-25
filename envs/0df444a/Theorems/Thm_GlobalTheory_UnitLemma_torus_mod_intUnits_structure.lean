@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_torus_mod_intUnits_structure
 -- name    : GlobalTheory.UnitLemma.torus_mod_intUnits_structure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:18:41.817631+00:00
 -- url     : https://prove2.me/theorems/01b57900-0b68-45fd-a668-4005c25e3292

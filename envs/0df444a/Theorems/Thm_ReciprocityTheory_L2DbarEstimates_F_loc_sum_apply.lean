@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_loc_sum_apply
 -- name    : ReciprocityTheory.L2DbarEstimates.F.loc_sum_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:56:11.030627+00:00
 -- url     : https://prove2.me/theorems/4ac3d515-42d0-5755-ac59-a92ab6093c9c

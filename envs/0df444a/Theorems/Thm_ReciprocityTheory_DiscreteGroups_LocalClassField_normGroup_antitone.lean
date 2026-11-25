@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_normGroup_antitone
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.normGroup_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:52:52.857488+00:00
 -- url     : https://prove2.me/theorems/6ae01657-ac10-5de4-a561-0a426b332cce

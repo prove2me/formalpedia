@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IotaInj_exists_val_psi
 -- name    : GlobalTheory.IotaInj.exists_val_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:02:52.116004+00:00
 -- url     : https://prove2.me/theorems/2b56736d-ebf1-5730-9bc6-6689f6a87703

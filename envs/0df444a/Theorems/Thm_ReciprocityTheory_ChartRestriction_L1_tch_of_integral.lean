@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_tch_of_integral
 -- name    : ReciprocityTheory.ChartRestriction.L1.tch_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:43:33.183883+00:00
 -- url     : https://prove2.me/theorems/b365eb92-2a24-4653-827d-1b347bfcff78

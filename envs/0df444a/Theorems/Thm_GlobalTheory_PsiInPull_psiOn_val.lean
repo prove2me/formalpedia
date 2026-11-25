@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiInPull_psiOn_val
 -- name    : GlobalTheory.PsiInPull.psiOn_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:56:51.8515+00:00
 -- url     : https://prove2.me/theorems/89258964-61f3-43f0-bb50-c3725e9bc085

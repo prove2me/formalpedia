@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowAlongIso_sq_iff
 -- name    : GlobalTheory.PowAlongIso.sq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:19:35.491235+00:00
 -- url     : https://prove2.me/theorems/4b680bfa-6cdf-4928-beb9-42eb10b573df

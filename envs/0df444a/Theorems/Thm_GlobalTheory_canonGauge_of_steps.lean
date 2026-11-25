@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_canonGauge_of_steps
 -- name    : GlobalTheory.canonGauge_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:06:45.784594+00:00
 -- url     : https://prove2.me/theorems/4f3e8ad6-7ae0-4a6f-a504-8f7146a51f77

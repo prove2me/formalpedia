@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_disc_mean_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.disc_mean_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:53:10.102566+00:00
 -- url     : https://prove2.me/theorems/9fe7879a-74d1-444b-882f-45dcc05de991

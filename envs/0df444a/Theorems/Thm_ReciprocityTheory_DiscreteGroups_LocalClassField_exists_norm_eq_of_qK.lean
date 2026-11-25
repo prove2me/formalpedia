@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_norm_eq_of_qK
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_norm_eq_of_qK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:59:29.567837+00:00
 -- url     : https://prove2.me/theorems/8533b7fa-5efa-5609-af89-530849ed8a85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxKernel_hasGen_flat
 -- name    : GlobalTheory.BoxKernel.hasGen_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:40:30.192935+00:00
 -- url     : https://prove2.me/theorems/0964efb8-270a-5c5c-a7a9-b607ca9069da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_FlatWeightedEstimates_tendsto_lint
 -- name    : ReciprocityTheory.L2DbarEstimates.F.FlatWeightedEstimates.tendsto_lint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:03:16.909402+00:00
 -- url     : https://prove2.me/theorems/05b0da13-2af5-53e2-a35f-c82d1116e7a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_support_admissible
 -- name    : GlobalTheory.finite_support_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:56:14.303846+00:00
 -- url     : https://prove2.me/theorems/37a682a5-39f2-46f4-81a5-3b89c524df7e

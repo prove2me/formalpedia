@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_groupSection_holds
 -- name    : ReciprocityTheory.Coh.groupSection_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:52:07.228378+00:00
 -- url     : https://prove2.me/theorems/11d8b75b-5df5-5374-a5a8-27b2f0fc9ac0

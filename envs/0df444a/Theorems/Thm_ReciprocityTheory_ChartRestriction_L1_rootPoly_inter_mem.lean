@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_rootPoly_inter_mem
 -- name    : ReciprocityTheory.ChartRestriction.L1.rootPoly_inter_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:09.50792+00:00
 -- url     : https://prove2.me/theorems/e9a97e6e-d56a-4ade-b287-556c0bd61dd3

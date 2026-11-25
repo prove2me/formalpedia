@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_sqD_mulStable
 -- name    : ReciprocityTheory.ChartRestriction.L1.sqD_mulStable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:37:29.563106+00:00
 -- url     : https://prove2.me/theorems/0bf4c959-88f2-5771-8734-1f4e5dd4b49f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxDetUnique_isSquareDetComparison_eq_mul_det_pow_of_basis_change
 -- name    : GlobalTheory.BoxDetUnique.isSquareDetComparison_eq_mul_det_pow_of_basis_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:04:27.266165+00:00
 -- url     : https://prove2.me/theorems/1cae1c76-9db8-4c19-83dc-17ea61574732

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_sec_algebraMap_of_iso
 -- name    : ReciprocityTheory.AnForm.R.sec_algebraMap_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:01:18.207484+00:00
 -- url     : https://prove2.me/theorems/cde6fc60-fc2b-4dcc-bbb7-6cf93efa257d

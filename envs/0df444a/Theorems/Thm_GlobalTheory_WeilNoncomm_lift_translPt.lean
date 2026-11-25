@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilNoncomm_lift_translPt
 -- name    : GlobalTheory.WeilNoncomm.lift_translPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:15:50.979009+00:00
 -- url     : https://prove2.me/theorems/e503901a-7a2f-5969-8a73-96cb3866f1b9

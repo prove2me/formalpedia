@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigidLinearisation_val_eq_of_rigid
 -- name    : GlobalTheory.RigidLinearisation.val_eq_of_rigid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:26:40.475857+00:00
 -- url     : https://prove2.me/theorems/4d3a7377-1276-4c3d-b0ea-940d8b17fce1

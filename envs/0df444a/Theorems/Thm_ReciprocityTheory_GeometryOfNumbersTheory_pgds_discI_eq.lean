@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_pgds_discI_eq
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.pgds_discI_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:15:34.469275+00:00
 -- url     : https://prove2.me/theorems/23790212-9991-4e60-b957-6edc7bad7a36

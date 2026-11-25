@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypeIntCatenary_height_le_of_equidim
 -- name    : GlobalTheory.FinTypeIntCatenary.height_le_of_equidim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:25:54.037487+00:00
 -- url     : https://prove2.me/theorems/b363fc0c-79ba-48e7-8f33-2856006e2762

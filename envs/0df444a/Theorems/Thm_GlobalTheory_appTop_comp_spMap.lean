@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_appTop_comp_spMap
 -- name    : GlobalTheory.appTop_comp_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:14:35.506304+00:00
 -- url     : https://prove2.me/theorems/d6e4d9cb-6381-50c6-b994-25bf3bbb83d9

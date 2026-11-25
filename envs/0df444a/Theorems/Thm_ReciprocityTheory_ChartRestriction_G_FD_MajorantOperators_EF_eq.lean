@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_MajorantOperators_EF_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.MajorantOperators.EF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:22:52.629285+00:00
 -- url     : https://prove2.me/theorems/9db912b5-b7ad-4920-ac74-5cd2313d50c8

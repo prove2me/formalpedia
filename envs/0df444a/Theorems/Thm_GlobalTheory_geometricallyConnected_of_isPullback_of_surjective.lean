@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyConnected_of_isPullback_of_surjective
 -- name    : GlobalTheory.geometricallyConnected_of_isPullback_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:16:36.364815+00:00
 -- url     : https://prove2.me/theorems/c144fe80-9de4-4c18-ad82-0287719113be

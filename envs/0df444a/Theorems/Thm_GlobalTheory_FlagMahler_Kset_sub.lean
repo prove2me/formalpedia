@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagMahler_Kset_sub
 -- name    : GlobalTheory.FlagMahler.Kset_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:08:34.511203+00:00
 -- url     : https://prove2.me/theorems/65d163bb-33c3-49b4-9f40-72ebd0ecbbde

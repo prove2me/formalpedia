@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_flow_coefficient_decay_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.flow_coefficient_decay_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:23:57.402852+00:00
 -- url     : https://prove2.me/theorems/186ed60e-e5a3-5849-aece-78a74794f645

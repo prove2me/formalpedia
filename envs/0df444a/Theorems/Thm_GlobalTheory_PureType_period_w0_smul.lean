@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PureType_period_w0_smul
 -- name    : GlobalTheory.PureType.period_w0_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:46:10.27396+00:00
 -- url     : https://prove2.me/theorems/80286798-b481-5855-a13a-45f62ba1f849

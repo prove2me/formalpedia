@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_coord_ofChar
 -- name    : GlobalTheory.Diag.coord_ofChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:12:45.044983+00:00
 -- url     : https://prove2.me/theorems/f1c676b3-75e3-5206-bffe-34989a968435

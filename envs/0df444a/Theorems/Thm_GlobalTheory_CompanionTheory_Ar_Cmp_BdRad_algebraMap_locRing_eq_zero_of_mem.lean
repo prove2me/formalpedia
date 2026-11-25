@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_BdRad_algebraMap_locRing_eq_zero_of_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.BdRad.algebraMap_locRing_eq_zero_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:27:10.521434+00:00
 -- url     : https://prove2.me/theorems/cbf0077d-685e-59a6-a486-b83ae2d9eead

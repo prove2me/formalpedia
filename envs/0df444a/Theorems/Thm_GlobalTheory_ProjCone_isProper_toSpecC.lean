@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCone_isProper_toSpecC
 -- name    : GlobalTheory.ProjCone.isProper_toSpecC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:28:51.965295+00:00
 -- url     : https://prove2.me/theorems/8120acc4-8723-5ec9-a5cb-a3e6f4b66bad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamFree_zero_of_eq_add_nsmul
 -- name    : GlobalTheory.FamFree.zero_of_eq_add_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:42.901543+00:00
 -- url     : https://prove2.me/theorems/fd9ab832-0f19-4698-8d60-2afe3ffc6583

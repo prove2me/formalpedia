@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_CompactEntryBounds_Kset_sub
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.CompactEntryBounds.Kset_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:19:55.256797+00:00
 -- url     : https://prove2.me/theorems/05f07316-0f9b-481a-b3f7-8c757e4b6467

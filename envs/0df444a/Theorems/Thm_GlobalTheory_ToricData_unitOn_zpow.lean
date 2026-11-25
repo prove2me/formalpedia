@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_unitOn_zpow
 -- name    : GlobalTheory.ToricData.unitOn_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:21:15.076209+00:00
 -- url     : https://prove2.me/theorems/01ac063e-d80e-5655-b320-36b9510d218d

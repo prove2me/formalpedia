@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_integer_ring_topology
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.integer_ring_topology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:57:09.926529+00:00
 -- url     : https://prove2.me/theorems/40ce7f46-2e2c-5cf4-b23f-db3c1f858028

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_maximal_integralHermitianLattice_orthonormal_maximal
 -- name    : GlobalTheory.T.exists_maximal_integralHermitianLattice_orthonormal_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:41:22.430978+00:00
 -- url     : https://prove2.me/theorems/e9dcce3b-c511-4c16-803c-d00ab04ef0ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_sqrt_add_sq_le_weighted
 -- name    : ReciprocityTheory.L2DbarEstimates.I.sqrt_add_sq_le_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:58:17.598833+00:00
 -- url     : https://prove2.me/theorems/af8b1221-f8c1-47bf-b50d-7b50be23b149

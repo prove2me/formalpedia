@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_smoothR_log
 -- name    : ReciprocityTheory.L2DbarEstimates.H.smoothR_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:04:01.829225+00:00
 -- url     : https://prove2.me/theorems/5b67a758-3738-56ca-baef-fac48a926cb4

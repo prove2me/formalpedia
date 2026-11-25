@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hom_spec_ext
 -- name    : GlobalTheory.hom_spec_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:14:50.132855+00:00
 -- url     : https://prove2.me/theorems/3b7fde22-02c2-587a-b982-2090b59b977d

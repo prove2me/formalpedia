@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_addVal_eq_of_associated_loc
 -- name    : GlobalTheory.addVal_eq_of_associated_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:18:50.883953+00:00
 -- url     : https://prove2.me/theorems/3d56d333-bfbf-4fb1-9af7-9ae300ac7f23

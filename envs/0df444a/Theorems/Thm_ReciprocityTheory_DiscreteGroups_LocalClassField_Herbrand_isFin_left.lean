@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_isFin_left
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.isFin_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:50:46.911801+00:00
 -- url     : https://prove2.me/theorems/62bc30bc-3a57-5b58-90e5-9947c33b3195

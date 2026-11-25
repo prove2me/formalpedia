@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weilIs_alternating_skew_natural
 -- name    : GlobalTheory.weilIs_alternating_skew_natural
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:35:11.16584+00:00
 -- url     : https://prove2.me/theorems/bfd9fcca-c7a0-4e33-a980-f54de7759f94

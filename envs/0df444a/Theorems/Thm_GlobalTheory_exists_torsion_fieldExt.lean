@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_torsion_fieldExt
 -- name    : GlobalTheory.exists_torsion_fieldExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:42:15.464955+00:00
 -- url     : https://prove2.me/theorems/25ca4304-5e91-4381-a57d-f80baa61e925

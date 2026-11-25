@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Twist_exists_sec_of_cover
 -- name    : GlobalTheory.Twist.exists_sec_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:08:26.535458+00:00
 -- url     : https://prove2.me/theorems/c6de9093-239a-429f-82a5-82165cbb3f82

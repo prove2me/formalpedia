@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Twist_stalkEquivOfLinear_germ
 -- name    : GlobalTheory.Twist.stalkEquivOfLinear_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:13:40.958064+00:00
 -- url     : https://prove2.me/theorems/85b44a98-ecd9-5383-ab6e-ed5c8736329d

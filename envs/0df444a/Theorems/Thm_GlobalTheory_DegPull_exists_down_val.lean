@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegPull_exists_down_val
 -- name    : GlobalTheory.DegPull.exists_down_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:00:15.616468+00:00
 -- url     : https://prove2.me/theorems/a3ca37c2-3a8d-45f5-a282-1ed30eaf4b19

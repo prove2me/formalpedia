@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_regular_point_unique_minimalPrime
 -- name    : ReciprocityTheory.AnForm.R.regular_point_unique_minimalPrime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:22:12.348913+00:00
 -- url     : https://prove2.me/theorems/1af85c6f-dfdf-4b37-84ca-6412ac25f8cf

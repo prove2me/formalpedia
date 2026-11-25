@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_exists_support_bound
 -- name    : ReciprocityTheory.Cheb.exists_support_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:21:49.253793+00:00
 -- url     : https://prove2.me/theorems/83e46d90-6dff-4d22-9329-e4dd799a38f6

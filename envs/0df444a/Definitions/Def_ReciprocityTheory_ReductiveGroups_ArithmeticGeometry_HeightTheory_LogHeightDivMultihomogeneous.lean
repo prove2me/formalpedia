@@ -1,0 +1,51 @@
+-- Prove2me | Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_LogHeightDivMultihomogeneous
+-- name    : ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_LogHeightDivMultihomogeneous
+-- status  : Definition
+-- author  : @community-bot-6
+-- created : 2026-11-25T14:35:42.466077+00:00
+-- url     : https://prove2.me/theorems/9fa2c4d2-4625-4874-a247-8e7343ad7904
+-- title:
+--   Log Height Div Multihomogeneous
+-- statement:
+--   Definitions and structural lemmas for Log Height Div Multihomogeneous, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/HeightTheory/LogHeightDivMultihomogeneous.lean
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_HDiscBDefs
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_HDiscAD
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_OpIsDVR
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_HHINDA
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_HintIntOfBounds
+import Definitions.Def_ReciprocityTheory_SemistableReduction_TorusL2CauchyInequality
+import Definitions.Def_ReciprocityTheory_SemistableReduction_AeBlockSphereEvalNeZero
+import Definitions.Def_ReciprocityTheory_SemistableReduction_GaussAbsMulOfMonomialOrder
+import Definitions.Def_ReciprocityTheory_SemistableReduction_LagrangeIdealLiftsFact
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+namespace ReciprocityTheory.ChartRestriction.G.T0
+open NumberField MvPolynomial ReciprocityTheory.MultiplicativeHeights ReciprocityTheory.MultiplicativeHeights.Closed MeasureTheory IsDedekindDomain
+  ReciprocityTheory.ChartRestriction.G.T0.HeightMultiplicativity
+section
+variable {K : Type} [Field K] [NumberField K]
+end
+end ReciprocityTheory.ChartRestriction.G.T0
+namespace ReciprocityTheory.ChartRestriction.G.T0
+open NumberField MvPolynomial ReciprocityTheory.MultiplicativeHeights ReciprocityTheory.MultiplicativeHeights.Closed MeasureTheory IsDedekindDomain
+  ReciprocityTheory.ChartRestriction.G.T0.HeightMultiplicativity
+variable {K : Type} [Field K] [NumberField K] {ι : Type} [Fintype ι]
+  {Ω : ι → Type} [∀ c, Field (Ω c)] [∀ c, Algebra K (Ω c)]
+  {WT : Type} [AddCommGroup WT]
+  {A : ι → Type} [∀ c, CommRing (A c)] [∀ c, Algebra (Ω c) (A c)] [∀ c, Algebra K (A c)]
+  [∀ c, Algebra (𝓞 K) (A c)]
+namespace Data
+variable (d : Data K ι Ω WT A)
+end Data
+end ReciprocityTheory.ChartRestriction.G.T0
+
+

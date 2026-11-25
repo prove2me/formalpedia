@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamSpan_sum_f
 -- name    : GlobalTheory.FamSpan.sum_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:29:07.775691+00:00
 -- url     : https://prove2.me/theorems/43e80919-9668-4a17-80d3-c64a9d092be4

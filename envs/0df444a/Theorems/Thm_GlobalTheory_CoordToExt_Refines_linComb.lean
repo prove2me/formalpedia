@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordToExt_Refines_linComb
 -- name    : GlobalTheory.CoordToExt.Refines.linComb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:26:00.627226+00:00
 -- url     : https://prove2.me/theorems/c54914f0-9de1-4cd0-bbf6-cefc30224452

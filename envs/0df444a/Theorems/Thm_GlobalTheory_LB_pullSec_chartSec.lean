@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LB_pullSec_chartSec
 -- name    : GlobalTheory.LB.pullSec_chartSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:10:55.30451+00:00
 -- url     : https://prove2.me/theorems/dd4b62b7-dd21-4fe0-9494-8ceee39f7976

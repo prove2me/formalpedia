@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_tateIso_of_periods
 -- name    : GlobalTheory.exists_tateIso_of_periods
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:42:52.236274+00:00
 -- url     : https://prove2.me/theorems/7a485a8d-b769-4874-84bf-ab5b9e274b10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_rho_eq_zero
 -- name    : PI.VolStabW.rho_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:53:38.387111+00:00
 -- url     : https://prove2.me/theorems/e8807034-b525-5462-bdc6-aa4257b5f363

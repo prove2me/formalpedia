@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_summable_prm_rpow
 -- name    : ReciprocityTheory.Cheb.summable_prm_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:55:15.022617+00:00
 -- url     : https://prove2.me/theorems/1d1e587c-7a0b-45f6-8192-30b79fd0d6b3

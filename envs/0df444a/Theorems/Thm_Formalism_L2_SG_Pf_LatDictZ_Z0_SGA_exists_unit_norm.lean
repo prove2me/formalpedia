@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_SGA_exists_unit_norm
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.SGA.exists_unit_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:59:04.584319+00:00
 -- url     : https://prove2.me/theorems/61a1397b-be67-4892-aa01-7af28cc6f7bd

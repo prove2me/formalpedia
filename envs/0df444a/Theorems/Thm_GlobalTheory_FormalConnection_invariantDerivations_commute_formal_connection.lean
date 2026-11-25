@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalConnection_invariantDerivations_commute_formal_connection
 -- name    : GlobalTheory.FormalConnection.invariantDerivations_commute_formal_connection
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:59:17.719057+00:00
 -- url     : https://prove2.me/theorems/189358dd-eb13-4a14-8153-d620bcdcaac3

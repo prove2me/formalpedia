@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_DiffSmall_norm_eval_le_prod
 -- name    : GlobalTheory.Cyc.DiffSmall.norm_eval_le_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:03:27.57335+00:00
 -- url     : https://prove2.me/theorems/6594b29e-f717-55a1-8091-2c16845016e3

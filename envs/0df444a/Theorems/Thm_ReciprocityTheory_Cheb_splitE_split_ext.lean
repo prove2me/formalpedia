@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_splitE_split_ext
 -- name    : ReciprocityTheory.Cheb.splitE_split_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:50:34.096831+00:00
 -- url     : https://prove2.me/theorems/966521f5-7156-56c2-943c-3455c29d741b

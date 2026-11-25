@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_normSq_sum_le_of_le
 -- name    : ReciprocityTheory.L2DbarEstimates.normSq_sum_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:01:15.00341+00:00
 -- url     : https://prove2.me/theorems/fa29b98d-de78-4414-9ce2-37fd033210fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_exists_root_ext
 -- name    : GlobalTheory.LevCover.exists_root_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:17:39.547197+00:00
 -- url     : https://prove2.me/theorems/eb3eba0e-907c-4b68-9bd5-a10eab98a6c5

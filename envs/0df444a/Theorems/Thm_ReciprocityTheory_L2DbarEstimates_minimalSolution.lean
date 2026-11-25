@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_minimalSolution
 -- name    : ReciprocityTheory.L2DbarEstimates.minimalSolution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:00:52.662665+00:00
 -- url     : https://prove2.me/theorems/84f61685-5bce-5430-8ed2-94dfe2ce9f8e

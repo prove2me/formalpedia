@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreDeriv_jet_const
 -- name    : GlobalTheory.FibreDeriv.jet_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:57:59.211856+00:00
 -- url     : https://prove2.me/theorems/b70105f7-11f8-42c8-8ad9-d0fc7036545a

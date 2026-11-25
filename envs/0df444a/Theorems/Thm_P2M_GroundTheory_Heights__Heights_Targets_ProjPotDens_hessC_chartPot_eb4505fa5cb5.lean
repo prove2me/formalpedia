@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjPotDens_hessC_chartPot_eb4505fa5cb5
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjPotDens_hessC_chartPot_eb4505fa5cb5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:06:56.405724+00:00
 -- url     : https://prove2.me/theorems/61dba0ca-6351-463c-b0eb-4423558ac15d

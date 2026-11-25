@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitRigidity_geometricallyConnected_of_isPullback_of_surjective
 -- name    : GlobalTheory.UnitRigidity.geometricallyConnected_of_isPullback_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:19:47.384535+00:00
 -- url     : https://prove2.me/theorems/7ec12e3d-0157-4eb8-9d65-96862b8e40e6

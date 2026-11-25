@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unitary_mul_integral_of_norm_maximalOrder_unit
 -- name    : GlobalTheory.T.exists_unitary_mul_integral_of_norm_maximalOrder_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:18:02.839391+00:00
 -- url     : https://prove2.me/theorems/d7354273-525e-462e-bd9f-03db01e56351

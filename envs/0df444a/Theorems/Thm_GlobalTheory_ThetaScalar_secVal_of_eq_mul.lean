@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_secVal_of_eq_mul
 -- name    : GlobalTheory.ThetaScalar.secVal_of_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:44:05.765531+00:00
 -- url     : https://prove2.me/theorems/166f3d34-1ee0-4249-9168-1c0a358f472b

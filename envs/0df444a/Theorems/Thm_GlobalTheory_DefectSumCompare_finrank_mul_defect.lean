@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DefectSumCompare_finrank_mul_defect
 -- name    : GlobalTheory.DefectSumCompare.finrank_mul_defect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:35:52.253818+00:00
 -- url     : https://prove2.me/theorems/10605beb-7e6a-4f07-bc45-0f34cd9d5a9d

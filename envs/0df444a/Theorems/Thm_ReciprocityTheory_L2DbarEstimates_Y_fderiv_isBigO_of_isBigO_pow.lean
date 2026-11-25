@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_fderiv_isBigO_of_isBigO_pow
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.fderiv_isBigO_of_isBigO_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:01:13.780328+00:00
 -- url     : https://prove2.me/theorems/ab4e0b13-31f5-40ee-bc81-4128785537ff

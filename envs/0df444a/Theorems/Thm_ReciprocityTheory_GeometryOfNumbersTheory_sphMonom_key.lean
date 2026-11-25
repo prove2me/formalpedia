@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_sphMonom_key
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.sphMonom_key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:26.329813+00:00
 -- url     : https://prove2.me/theorems/1037a341-4d0e-44cd-86b8-270bccbff93e

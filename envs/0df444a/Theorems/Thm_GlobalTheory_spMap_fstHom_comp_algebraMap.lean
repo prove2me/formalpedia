@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_spMap_fstHom_comp_algebraMap
 -- name    : GlobalTheory.spMap_fstHom_comp_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:08:43.808863+00:00
 -- url     : https://prove2.me/theorems/57dcd0c5-105c-5bfb-9ff1-067aed9db847

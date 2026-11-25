@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_dualSig_contDiff
 -- name    : ReciprocityTheory.L2DbarEstimates.I.dualSig_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:57:04.224925+00:00
 -- url     : https://prove2.me/theorems/6397634b-dc15-53f1-bfa1-6bbe5aa2de73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_level_smul_mem_half
 -- name    : GlobalTheory.level_smul_mem_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:25:14.058107+00:00
 -- url     : https://prove2.me/theorems/16827a4a-15d4-4536-8aeb-03fed302468d

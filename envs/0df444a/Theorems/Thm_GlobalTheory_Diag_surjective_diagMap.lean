@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_surjective_diagMap
 -- name    : GlobalTheory.Diag.surjective_diagMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:08:42.432701+00:00
 -- url     : https://prove2.me/theorems/705f91e1-1cea-48f2-aaff-0dc91476588f

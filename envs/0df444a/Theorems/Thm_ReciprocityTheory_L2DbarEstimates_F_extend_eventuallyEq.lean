@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_extend_eventuallyEq
 -- name    : ReciprocityTheory.L2DbarEstimates.F.extend_eventuallyEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:56:24.747883+00:00
 -- url     : https://prove2.me/theorems/15ee6c4f-cb5f-48ce-b635-4d6852aa59f5

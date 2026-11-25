@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_normSq_sum_mul_le
 -- name    : ReciprocityTheory.L2DbarEstimates.normSq_sum_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:01:07.600852+00:00
 -- url     : https://prove2.me/theorems/d0579fac-ef06-4618-9a2b-8b2921e5889c

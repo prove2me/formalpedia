@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_SGA_exists_norm_eq
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.SGA.exists_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:57:40.470809+00:00
 -- url     : https://prove2.me/theorems/90f05f31-0c83-4533-874b-730caf7c4c39

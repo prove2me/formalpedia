@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_diagMap_chi
 -- name    : GlobalTheory.Diag.diagMap_chi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:06:51.944844+00:00
 -- url     : https://prove2.me/theorems/7b26a40b-3d43-416d-9bb9-ea917fcca9f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_conv_finite
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.conv_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:13:19.508547+00:00
 -- url     : https://prove2.me/theorems/445831a0-811b-4384-bd48-bd15889e2b7e

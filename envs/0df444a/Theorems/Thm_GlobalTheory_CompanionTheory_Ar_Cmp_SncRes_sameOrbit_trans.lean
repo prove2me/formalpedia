@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_sameOrbit_trans
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.sameOrbit_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:15:42.057835+00:00
 -- url     : https://prove2.me/theorems/de180403-51c6-4416-8634-c5a47affabce

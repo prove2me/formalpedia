@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_fc_wd_sum
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.fc_wd_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:00:37.856171+00:00
 -- url     : https://prove2.me/theorems/c103e844-6d3f-4f00-b77d-35e1a2bc29f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_Unr_unramExt
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.Unr.unramExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:39:42.012791+00:00
 -- url     : https://prove2.me/theorems/b632c836-6038-47ae-8bcb-7b7f0d693da2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dict_eval__smul_d751c1e96760
 -- name    : P2M_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dict_eval__smul_d751c1e96760
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:19:57.786257+00:00
 -- url     : https://prove2.me/theorems/bad1c8c0-113c-40f5-b0fe-76728a942b2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctionField_cupPairing_compactH1_geomH1_isPerfect
 -- name    : FunctionField.cupPairing_compactH1_geomH1_isPerfect
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-25T14:30:06.760385+00:00
 -- url     : https://prove2.me/theorems/0fcbc32b-f79e-5304-a2b4-24df2e652091

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_idealSheaf_nsmul
 -- name    : GlobalTheory.EffCartierData.idealSheaf_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:20:22.816525+00:00
 -- url     : https://prove2.me/theorems/d122025e-02e4-5fc4-8578-a72c67ad25d4

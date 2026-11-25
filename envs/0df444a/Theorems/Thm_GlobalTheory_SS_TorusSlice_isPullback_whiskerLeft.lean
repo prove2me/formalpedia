@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorusSlice_isPullback_whiskerLeft
 -- name    : GlobalTheory.SS.TorusSlice.isPullback_whiskerLeft
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:18:04.182439+00:00
 -- url     : https://prove2.me/theorems/7fedf78f-39b4-46c4-bfdd-dda9c49a0752

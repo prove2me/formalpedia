@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_api_nsq_eq
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.api_nsq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:06:51.908055+00:00
 -- url     : https://prove2.me/theorems/fc88095a-d0af-5443-87ef-6be083c3cc6b

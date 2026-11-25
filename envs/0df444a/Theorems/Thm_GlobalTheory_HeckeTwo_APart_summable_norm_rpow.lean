@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_APart_summable_norm_rpow
 -- name    : GlobalTheory.HeckeTwo.APart.summable_norm_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:02:01.004111+00:00
 -- url     : https://prove2.me/theorems/bd61fa55-527e-49c6-9330-f2e836f90e72

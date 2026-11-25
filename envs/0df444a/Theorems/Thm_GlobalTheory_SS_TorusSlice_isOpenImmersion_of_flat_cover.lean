@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorusSlice_isOpenImmersion_of_flat_cover
 -- name    : GlobalTheory.SS.TorusSlice.isOpenImmersion_of_flat_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:29:53.692002+00:00
 -- url     : https://prove2.me/theorems/d1bf8c7d-713a-56c8-b36e-81168ddd9fba

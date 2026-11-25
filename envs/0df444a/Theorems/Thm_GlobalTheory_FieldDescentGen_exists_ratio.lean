@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldDescentGen_exists_ratio
 -- name    : GlobalTheory.FieldDescentGen.exists_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:20:46.382793+00:00
 -- url     : https://prove2.me/theorems/435ca53d-1789-42bf-ab57-05c6b437be7c

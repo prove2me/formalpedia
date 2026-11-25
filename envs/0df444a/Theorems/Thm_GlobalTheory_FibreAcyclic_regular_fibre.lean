@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreAcyclic_regular_fibre
 -- name    : GlobalTheory.FibreAcyclic.regular_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:12:41.859298+00:00
 -- url     : https://prove2.me/theorems/5668455c-353f-43b1-a080-574e84f4557d

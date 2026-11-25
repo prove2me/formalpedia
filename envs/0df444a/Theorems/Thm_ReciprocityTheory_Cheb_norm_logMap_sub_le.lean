@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_norm_logMap_sub_le
 -- name    : ReciprocityTheory.Cheb.norm_logMap_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:48:10.813244+00:00
 -- url     : https://prove2.me/theorems/485fd52e-4489-4df7-926d-486777ab19d8

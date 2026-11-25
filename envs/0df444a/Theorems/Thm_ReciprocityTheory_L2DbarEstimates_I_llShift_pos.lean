@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_llShift_pos
 -- name    : ReciprocityTheory.L2DbarEstimates.I.llShift_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:59:04.971982+00:00
 -- url     : https://prove2.me/theorems/3ddcdc8d-ec29-4652-aa31-9def455992f6

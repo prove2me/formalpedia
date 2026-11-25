@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_continuous_nsq
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.continuous_nsq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:32:31.929375+00:00
 -- url     : https://prove2.me/theorems/d56bdd18-014e-4de9-8d81-591f728dfbb1

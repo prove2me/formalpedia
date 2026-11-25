@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BundleNormalise_exists_iso_normalised
 -- name    : GlobalTheory.BundleNormalise.exists_iso_normalised
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:04:34.851575+00:00
 -- url     : https://prove2.me/theorems/c34cb1b2-ac7f-45f5-8feb-2eb822f58cb4

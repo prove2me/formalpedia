@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_prime_finite_quotient_atPrime
 -- name    : GlobalTheory.exists_prime_finite_quotient_atPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:50:28.376816+00:00
 -- url     : https://prove2.me/theorems/2e0cb8b0-ba98-5c30-8c78-ff1fc1b5cd4f

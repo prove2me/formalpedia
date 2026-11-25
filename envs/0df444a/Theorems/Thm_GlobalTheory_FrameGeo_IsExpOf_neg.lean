@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGeo_IsExpOf_neg
 -- name    : GlobalTheory.FrameGeo.IsExpOf.neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:21:14.476092+00:00
 -- url     : https://prove2.me/theorems/6478e7cf-99b9-43f5-bff6-91dee879c316

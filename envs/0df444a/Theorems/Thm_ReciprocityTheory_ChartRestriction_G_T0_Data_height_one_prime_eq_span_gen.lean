@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_height_one_prime_eq_span_gen
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.height_one_prime_eq_span_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:15:29.847874+00:00
 -- url     : https://prove2.me/theorems/447b9c99-a686-42aa-91f1-914db0c886ea

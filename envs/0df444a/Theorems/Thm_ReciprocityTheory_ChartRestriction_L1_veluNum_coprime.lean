@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_veluNum_coprime
 -- name    : ReciprocityTheory.ChartRestriction.L1.veluNum_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:48:37.246385+00:00
 -- url     : https://prove2.me/theorems/0219ede1-5414-4571-a0f8-a5541bf0abd4

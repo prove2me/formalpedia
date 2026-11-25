@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_leviZ_wd_coord
 -- name    : ReciprocityTheory.L2DbarEstimates.F.leviZ_wd_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:55:36.491077+00:00
 -- url     : https://prove2.me/theorems/a3363467-0e9f-5dbc-8e33-b1a1236e2bc1

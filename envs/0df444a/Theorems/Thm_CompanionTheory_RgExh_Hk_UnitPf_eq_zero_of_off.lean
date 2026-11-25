@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_Hk_UnitPf_eq_zero_of_off
 -- name    : CompanionTheory.RgExh.Hk.UnitPf.eq_zero_of_off
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:18:12.193592+00:00
 -- url     : https://prove2.me/theorems/3c1cd31d-f259-5794-9361-b3bd759c197a

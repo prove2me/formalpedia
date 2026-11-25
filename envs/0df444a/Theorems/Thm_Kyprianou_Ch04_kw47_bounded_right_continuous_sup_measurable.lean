@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_bounded_right_continuous_sup_measurable
 -- name    : Kyprianou.Ch04.kw47_bounded_right_continuous_sup_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T12:34:36.80873+00:00
 -- url     : https://prove2.me/theorems/82aba6e4-d780-42ca-ab22-a0e6bc2f3d45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_summable_nonprime_norm
 -- name    : ReciprocityTheory.Cheb.summable_nonprime_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:50:40.203904+00:00
 -- url     : https://prove2.me/theorems/2b83039a-a0a2-5c39-b6bb-976839538f23

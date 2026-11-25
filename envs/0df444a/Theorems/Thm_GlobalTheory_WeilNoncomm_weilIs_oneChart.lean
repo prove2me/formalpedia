@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilNoncomm_weilIs_oneChart
 -- name    : GlobalTheory.WeilNoncomm.weilIs_oneChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:18:10.506018+00:00
 -- url     : https://prove2.me/theorems/936a7d06-7f2b-4ebe-ab52-b1e7f915c76d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_QFam_map_E__div_period_05dd27cbcfa2
 -- name    : P2M_GlobalTheory_QFam_map_E__div_period_05dd27cbcfa2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:09:09.24227+00:00
 -- url     : https://prove2.me/theorems/167f62fc-09e5-44d5-ba1d-d9b47c5944de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsGenericPointHom_isAffine
 -- name    : GlobalTheory.IsGenericPointHom.isAffine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:17:14.726917+00:00
 -- url     : https://prove2.me/theorems/2e8233ff-93bf-4341-b109-a8a833b56b0d

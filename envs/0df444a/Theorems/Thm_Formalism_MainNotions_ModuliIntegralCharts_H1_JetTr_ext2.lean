@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_JetTr_ext2
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.JetTr.ext2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:54:11.794975+00:00
 -- url     : https://prove2.me/theorems/13931815-979e-4231-bcdb-56e268080a32

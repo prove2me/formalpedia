@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_BM_modF_Fv
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.BM.modF_Fv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:38:11.145805+00:00
 -- url     : https://prove2.me/theorems/713ec9f2-c8cf-49d4-b02f-104dee1af532

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weilIs_sharp_levelPoints
 -- name    : GlobalTheory.weilIs_sharp_levelPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:25:21.374469+00:00
 -- url     : https://prove2.me/theorems/f5306aed-f5a8-4941-87da-2824b44372e6

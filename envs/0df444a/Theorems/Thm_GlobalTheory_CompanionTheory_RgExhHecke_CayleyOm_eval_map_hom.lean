@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_CayleyOm_eval_map_hom
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.CayleyOm.eval_map_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:09:52.966391+00:00
 -- url     : https://prove2.me/theorems/af535301-3d8d-5d8c-8bd1-db14876007f5

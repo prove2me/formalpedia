@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_DerivationAlgebraicIndependence_eIdx_injective
 -- name    : ReciprocityTheory.MultiplicativeHeights.DerivationAlgebraicIndependence.eIdx_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:01:40.728035+00:00
 -- url     : https://prove2.me/theorems/1c3b6319-3aaf-4bc5-8d96-12fd23817789

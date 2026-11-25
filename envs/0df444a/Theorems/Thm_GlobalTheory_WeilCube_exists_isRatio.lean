@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCube_exists_isRatio
 -- name    : GlobalTheory.WeilCube.exists_isRatio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:47:30.431781+00:00
 -- url     : https://prove2.me/theorems/477f97ae-caaa-4c58-b301-c71e3d28ab56

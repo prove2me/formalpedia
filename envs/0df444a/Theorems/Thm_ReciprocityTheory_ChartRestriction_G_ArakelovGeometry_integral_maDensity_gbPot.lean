@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_integral_maDensity_gbPot
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.integral_maDensity_gbPot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:12:59.781608+00:00
 -- url     : https://prove2.me/theorems/f0c4d89c-e155-483c-b8a0-e54b19a61b42

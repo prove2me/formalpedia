@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_MaxExists_main
 -- name    : GlobalTheory.Mass.MaxExists.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:35:10.38245+00:00
 -- url     : https://prove2.me/theorems/b94a5936-cc88-586e-89f0-24a1fd907e43

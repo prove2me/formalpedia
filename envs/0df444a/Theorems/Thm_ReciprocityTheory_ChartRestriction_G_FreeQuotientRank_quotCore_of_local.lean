@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_quotCore_of_local
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.quotCore_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:27:22.803712+00:00
 -- url     : https://prove2.me/theorems/b9a20506-7f0a-5d15-a76f-4bc5d1ef5cd1

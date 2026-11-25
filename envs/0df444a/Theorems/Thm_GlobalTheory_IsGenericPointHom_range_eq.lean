@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsGenericPointHom_range_eq
 -- name    : GlobalTheory.IsGenericPointHom.range_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:19:12.416122+00:00
 -- url     : https://prove2.me/theorems/1ea25d84-fb1f-41e8-be21-ba0d7452d588

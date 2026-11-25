@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_isGrpPullback_of_dominant
 -- name    : GlobalTheory.ZJ.isGrpPullback_of_dominant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:03:10.261445+00:00
 -- url     : https://prove2.me/theorems/c75f7d13-e762-4134-b263-e2e1b9df1ae4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolFibre_isHolTo_comp
 -- name    : GlobalTheory.HolFibre.isHolTo_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:41:56.643397+00:00
 -- url     : https://prove2.me/theorems/d029d07f-bf8c-5e78-92fe-9287a5554c60

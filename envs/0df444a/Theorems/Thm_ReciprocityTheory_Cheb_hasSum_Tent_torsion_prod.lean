@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_hasSum_Tent_torsion_prod
 -- name    : ReciprocityTheory.Cheb.hasSum_Tent_torsion_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:49:01.190527+00:00
 -- url     : https://prove2.me/theorems/040f63e5-8c89-5bf3-8b60-d25c24484a7f

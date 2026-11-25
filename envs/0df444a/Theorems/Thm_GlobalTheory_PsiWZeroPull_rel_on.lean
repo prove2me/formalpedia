@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiWZeroPull_rel_on
 -- name    : GlobalTheory.PsiWZeroPull.rel_on
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:57:24.207419+00:00
 -- url     : https://prove2.me/theorems/19ebbe24-a2ae-45ce-9103-5c2dbb10a50a

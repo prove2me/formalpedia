@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_ptHom_grpObj_inv
 -- name    : GlobalTheory.WeierstrassCurve.ptHom_grpObj_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:48:18.461114+00:00
 -- url     : https://prove2.me/theorems/f2b02dcb-a566-5a39-9462-a243fa28a047

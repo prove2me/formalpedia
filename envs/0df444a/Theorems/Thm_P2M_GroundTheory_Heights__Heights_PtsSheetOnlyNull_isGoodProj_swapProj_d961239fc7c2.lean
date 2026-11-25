@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsSheetOnlyNull_isGoodProj_swapProj_d961239fc7c2
 -- name    : P2M_GroundTheory_Heights__Heights_PtsSheetOnlyNull_isGoodProj_swapProj_d961239fc7c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:13:53.276949+00:00
 -- url     : https://prove2.me/theorems/46e3c9f9-10d3-5192-bc02-c0f17cc22a41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_exists_zpowGen
 -- name    : GlobalTheory.KeyKa.exists_zpowGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:51:36.408361+00:00
 -- url     : https://prove2.me/theorems/15c70d92-1693-4691-8c82-06393ccd409a

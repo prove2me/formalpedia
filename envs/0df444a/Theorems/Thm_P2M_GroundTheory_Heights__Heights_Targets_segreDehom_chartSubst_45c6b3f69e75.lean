@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_segreDehom_chartSubst_45c6b3f69e75
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_segreDehom_chartSubst_45c6b3f69e75
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:05:25.688778+00:00
 -- url     : https://prove2.me/theorems/7c879a72-09d3-5b70-bba4-34ff77b5cbaa

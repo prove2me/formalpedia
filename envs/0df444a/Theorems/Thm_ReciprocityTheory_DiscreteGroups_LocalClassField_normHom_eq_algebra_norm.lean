@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_normHom_eq_algebra_norm
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.normHom_eq_algebra_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:00:07.420586+00:00
 -- url     : https://prove2.me/theorems/af9369d1-f636-461a-aaa5-d1f51b2d13bb

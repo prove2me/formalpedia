@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordToExt_Refines_exists_gen
 -- name    : GlobalTheory.CoordToExt.Refines.exists_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:25:02.128116+00:00
 -- url     : https://prove2.me/theorems/2d281a71-81cf-5333-9f7c-27540740d8ff

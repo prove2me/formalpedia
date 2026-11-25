@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistLoc_gc_mul
 -- name    : GlobalTheory.TwistLoc.gc_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:07:46.119351+00:00
 -- url     : https://prove2.me/theorems/322f17a9-745b-437e-b497-983a11b0bd00

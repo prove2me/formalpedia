@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstFam_pmaps_val
 -- name    : GlobalTheory.ConstFam.pmaps_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:20:25.026582+00:00
 -- url     : https://prove2.me/theorems/6d0b798d-907e-4301-a867-d984a46f0d6b

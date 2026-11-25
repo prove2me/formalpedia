@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_wPart_wPart
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.wPart_wPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:03:10.634773+00:00
 -- url     : https://prove2.me/theorems/8f21b4b9-7aea-5036-beab-0e44f49b79e0

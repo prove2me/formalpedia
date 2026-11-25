@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiSpread_Extends_cube
 -- name    : GlobalTheory.PsiSpread.Extends.cube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:56:59.157996+00:00
 -- url     : https://prove2.me/theorems/0344df4d-8c62-4230-9bda-e22f92bd4d96

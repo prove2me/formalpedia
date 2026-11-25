@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_normHom_of_mem_base
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.normHom_of_mem_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:59:43.009121+00:00
 -- url     : https://prove2.me/theorems/004c6d92-2f97-5257-b737-2e2f9413e3ac

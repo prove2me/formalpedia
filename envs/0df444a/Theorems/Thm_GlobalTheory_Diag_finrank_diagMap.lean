@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_finrank_diagMap
 -- name    : GlobalTheory.Diag.finrank_diagMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:27:59.053518+00:00
 -- url     : https://prove2.me/theorems/4349d6e6-fa9c-44d5-b79e-7e62164e7c4b

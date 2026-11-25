@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_psi_weight_zero_linear_combination
 -- name    : GlobalTheory.ToricData.psi_weight_zero_linear_combination
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:15:47.182979+00:00
 -- url     : https://prove2.me/theorems/9a9ee18f-37d5-425c-845e-ec7de35e95ad

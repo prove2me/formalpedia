@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_phiRel_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.phiRel_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:48:00.948613+00:00
 -- url     : https://prove2.me/theorems/2e2386d9-432a-4a18-94ca-32ae97063772

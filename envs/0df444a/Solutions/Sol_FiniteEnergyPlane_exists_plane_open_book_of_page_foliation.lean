@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FiniteEnergyPlane.exists_plane_open_book_of_page_foliation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-11-25T14:14:39.007266+00:00
 -- url     : https://prove2.me/submissions/b6445dd0-0973-4015-83e2-66ae4c00971f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FiniteEnergyPlane_OpenBook
 import Mathlib

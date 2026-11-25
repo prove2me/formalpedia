@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NabCol_expS_sum
 -- name    : GlobalTheory.NabCol.expS_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:29.806636+00:00
 -- url     : https://prove2.me/theorems/729f5f64-4d1c-43c6-b9ed-a11491976758

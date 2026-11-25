@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitRigidity_exists_normalised
 -- name    : GlobalTheory.UnitRigidity.exists_normalised
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:19:34.155309+00:00
 -- url     : https://prove2.me/theorems/3613b21a-d3cc-4d29-8a5c-70102692c90c

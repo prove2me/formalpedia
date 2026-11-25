@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_cvx
 -- name    : ReciprocityTheory.L2DbarEstimates.cvx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:00:51.573662+00:00
 -- url     : https://prove2.me/theorems/eb5146be-a232-4fea-84a4-5513671df8cd

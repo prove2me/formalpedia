@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCube_exists_theta
 -- name    : GlobalTheory.WeilCube.exists_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:43:49.503929+00:00
 -- url     : https://prove2.me/theorems/0a9db1c7-6ccc-4855-83cd-d38c0076c95e

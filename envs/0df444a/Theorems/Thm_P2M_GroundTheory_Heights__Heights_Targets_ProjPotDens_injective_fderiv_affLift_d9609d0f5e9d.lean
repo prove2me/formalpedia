@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjPotDens_injective_fderiv_affLift_d9609d0f5e9d
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjPotDens_injective_fderiv_affLift_d9609d0f5e9d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:50:58.562394+00:00
 -- url     : https://prove2.me/theorems/3312c6dd-ba9f-59e8-a10e-49ebeb230f44

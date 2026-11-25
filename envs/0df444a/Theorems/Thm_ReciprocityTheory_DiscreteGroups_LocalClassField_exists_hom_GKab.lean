@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_hom_GKab
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_hom_GKab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:54:40.326103+00:00
 -- url     : https://prove2.me/theorems/460fb2f9-e962-4298-a22d-62c1dc285bd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilIsogeny_weilIs_of_local
 -- name    : GlobalTheory.WeilIsogeny.weilIs_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:02:02.50553+00:00
 -- url     : https://prove2.me/theorems/646cf912-aaa1-4a92-8a0c-0039e4c6457e

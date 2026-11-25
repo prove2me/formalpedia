@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeDescent_val_eq_of_axis
 -- name    : GlobalTheory.CubeDescent.val_eq_of_axis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:28:32.171743+00:00
 -- url     : https://prove2.me/theorems/552c3523-14cf-423c-82cb-3517e48fd063

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_basic_exp_bound
 -- name    : ReciprocityTheory.L2DbarEstimates.I.basic_exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:58:59.000811+00:00
 -- url     : https://prove2.me/theorems/524652e1-57e4-5234-a705-f63f0881c3f6

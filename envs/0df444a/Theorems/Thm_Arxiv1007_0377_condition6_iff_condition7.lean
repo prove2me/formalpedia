@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1007_0377_condition6_iff_condition7
 -- name    : Arxiv1007_0377.condition6_iff_condition7
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T00:01:58.770958+00:00
 -- url     : https://prove2.me/theorems/47ce676d-f8be-4393-8032-91e92d6469f9

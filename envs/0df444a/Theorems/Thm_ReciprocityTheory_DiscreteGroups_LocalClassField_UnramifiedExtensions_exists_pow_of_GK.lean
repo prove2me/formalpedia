@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnramifiedExtensions_exists_pow_of_GK
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions.exists_pow_of_GK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:38:34.853807+00:00
 -- url     : https://prove2.me/theorems/d0ae9cc7-10cb-4e4c-bea9-d4ca31cb5f9a

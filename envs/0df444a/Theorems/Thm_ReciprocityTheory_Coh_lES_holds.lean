@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_lES_holds
 -- name    : ReciprocityTheory.Coh.lES_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:02.447869+00:00
 -- url     : https://prove2.me/theorems/61133174-b92a-4840-951f-df71e980642c

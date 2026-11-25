@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnramifiedExtensions_exists_lift_root
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions.exists_lift_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:52:03.959019+00:00
 -- url     : https://prove2.me/theorems/b58137ad-bf5a-40a2-ab53-00d067270730

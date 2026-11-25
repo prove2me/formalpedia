@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_OmScalP_compLeft_smul_one
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.OmScalP.compLeft_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:29:52.595397+00:00
 -- url     : https://prove2.me/theorems/f73a098b-a63b-4d49-a581-741a1cad4819

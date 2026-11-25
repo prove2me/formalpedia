@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_PrincipalLatDVR_isPrincipalIdealRing_integralClosure
 -- name    : GlobalTheory.UnitLemma.PrincipalLatDVR.isPrincipalIdealRing_integralClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:14:37.405948+00:00
 -- url     : https://prove2.me/theorems/c468040c-6ce5-40d8-b552-f49498ad821d

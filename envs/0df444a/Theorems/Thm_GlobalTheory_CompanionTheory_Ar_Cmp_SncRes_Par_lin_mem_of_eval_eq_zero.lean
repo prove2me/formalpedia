@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Par_lin_mem_of_eval_eq_zero
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Par.lin_mem_of_eval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:26:53.852728+00:00
 -- url     : https://prove2.me/theorems/6b582f8e-8fc0-5db7-a80b-44962533361f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_lieBasis_of_holUnif
 -- name    : GlobalTheory.exists_lieBasis_of_holUnif
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:26.688806+00:00
 -- url     : https://prove2.me/theorems/510bbcf8-efe0-40d2-8298-3e23580beabe

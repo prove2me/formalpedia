@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivJets_jet_finite
 -- name    : GlobalTheory.PowGerm.UnivJets.jet_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:16:53.072515+00:00
 -- url     : https://prove2.me/theorems/23e4e0bf-92da-45ef-a356-59c0dcea629a

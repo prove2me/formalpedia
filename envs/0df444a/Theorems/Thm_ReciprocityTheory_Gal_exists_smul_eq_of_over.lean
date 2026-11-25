@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_exists_smul_eq_of_over
 -- name    : ReciprocityTheory.Gal.exists_smul_eq_of_over
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:14.611853+00:00
 -- url     : https://prove2.me/theorems/696ab9be-7a61-47bf-851d-8f460a654419

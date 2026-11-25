@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordLinear_fn_eq_of_levels
 -- name    : GlobalTheory.CoordLinear.fn_eq_of_levels
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:08:44.624482+00:00
 -- url     : https://prove2.me/theorems/4aac60a0-03f6-4b69-b8b3-48e0ad39eb9d

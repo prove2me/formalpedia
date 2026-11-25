@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_prod_zpow_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.prod_zpow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:20:12.421554+00:00
 -- url     : https://prove2.me/theorems/36d4b8b5-4aad-4443-ad05-dd92988d229b

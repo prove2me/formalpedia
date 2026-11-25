@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstFam_secThrough_pullThrough
 -- name    : GlobalTheory.ConstFam.secThrough_pullThrough
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:13:55.42875+00:00
 -- url     : https://prove2.me/theorems/6bcb52ed-c201-50eb-90e4-7f031e490909

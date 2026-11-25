@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ApproximationGraph_posPart_negPart
 -- name    : ReciprocityTheory.MultiplicativeHeights.ApproximationGraph.posPart_negPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:02:36.378528+00:00
 -- url     : https://prove2.me/theorems/fc96f1b7-0f6d-47d4-ad81-a678b83d9351

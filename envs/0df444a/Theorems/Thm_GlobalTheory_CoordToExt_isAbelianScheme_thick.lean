@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordToExt_isAbelianScheme_thick
 -- name    : GlobalTheory.CoordToExt.isAbelianScheme_thick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:19:26.845009+00:00
 -- url     : https://prove2.me/theorems/85b42d7d-6fdb-4a8f-a141-84412bbc8411

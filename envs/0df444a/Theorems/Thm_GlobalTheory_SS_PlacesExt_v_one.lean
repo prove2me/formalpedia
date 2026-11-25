@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_PlacesExt_v_one
 -- name    : GlobalTheory.SS.PlacesExt.v_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:25:04.277032+00:00
 -- url     : https://prove2.me/theorems/9e51c73a-f719-4dd9-b687-03d3a0206631

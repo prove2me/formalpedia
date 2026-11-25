@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodChartModel_eval_linPoly_bbbdab6cc51b
 -- name    : P2M_GroundTheory_Heights__Heights_GoodChartModel_eval_linPoly_bbbdab6cc51b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:25:13.689662+00:00
 -- url     : https://prove2.me/theorems/74393966-1835-4c77-a0d9-f3a5c603d425

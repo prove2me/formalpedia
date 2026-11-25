@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_rho_sig
 -- name    : PI.VolStabW.rho_sig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:53:27.100503+00:00
 -- url     : https://prove2.me/theorems/ed63212a-710b-5ae4-961e-e7f3c44f6690

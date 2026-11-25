@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_fourBasic_norm_exp
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.fourBasic_norm_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:00:14.594364+00:00
 -- url     : https://prove2.me/theorems/2525086b-fb68-41fb-ba7a-d2da1295f025

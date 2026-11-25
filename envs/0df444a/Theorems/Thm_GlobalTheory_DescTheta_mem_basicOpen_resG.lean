@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DescTheta_mem_basicOpen_resG
 -- name    : GlobalTheory.DescTheta.mem_basicOpen_resG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:24.79099+00:00
 -- url     : https://prove2.me/theorems/5639feac-64bb-4dd8-9167-8a414fa632b9

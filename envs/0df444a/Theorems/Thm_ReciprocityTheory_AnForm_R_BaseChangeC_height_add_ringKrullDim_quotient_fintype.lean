@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_BaseChangeC_height_add_ringKrullDim_quotient_fintype
 -- name    : ReciprocityTheory.AnForm.R.BaseChangeC.height_add_ringKrullDim_quotient_fintype
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:06:55.923639+00:00
 -- url     : https://prove2.me/theorems/731df631-5fca-452e-af70-790bd3f2918d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldRestrictionTest_isPullF_unique
 -- name    : GlobalTheory.FieldRestrictionTest.isPullF_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:38:57.319221+00:00
 -- url     : https://prove2.me/theorems/19677d0d-8334-4539-8407-0caa26463084

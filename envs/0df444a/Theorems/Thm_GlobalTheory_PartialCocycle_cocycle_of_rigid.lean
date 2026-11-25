@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartialCocycle_cocycle_of_rigid
 -- name    : GlobalTheory.PartialCocycle.cocycle_of_rigid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:42:17.135983+00:00
 -- url     : https://prove2.me/theorems/eb369ad9-8b90-4c78-8d90-a14a89857ba0

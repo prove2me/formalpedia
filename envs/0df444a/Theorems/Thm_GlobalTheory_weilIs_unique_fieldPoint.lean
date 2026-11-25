@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weilIs_unique_fieldPoint
 -- name    : GlobalTheory.weilIs_unique_fieldPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:24:47.592219+00:00
 -- url     : https://prove2.me/theorems/da402085-ae6a-5c68-b47d-f03707c30184

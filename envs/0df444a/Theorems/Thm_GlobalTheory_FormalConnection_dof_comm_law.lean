@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalConnection_dof_comm_law
 -- name    : GlobalTheory.FormalConnection.dof_comm_law
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:14.568796+00:00
 -- url     : https://prove2.me/theorems/ca46e802-fa7c-4003-b6a6-69e03c21017f

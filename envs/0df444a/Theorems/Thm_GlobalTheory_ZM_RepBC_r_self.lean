@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_RepBC_r_self
 -- name    : GlobalTheory.ZM.RepBC.r_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:25:40.077148+00:00
 -- url     : https://prove2.me/theorems/8ee00bef-2fd5-5894-b3f1-23fa82091f7c

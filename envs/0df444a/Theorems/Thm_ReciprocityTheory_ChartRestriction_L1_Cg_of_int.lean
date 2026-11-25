@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_Cg_of_int
 -- name    : ReciprocityTheory.ChartRestriction.L1.Cg.of_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:58:11.665995+00:00
 -- url     : https://prove2.me/theorems/3febc141-3a4c-428c-924e-b9abbd9c7997

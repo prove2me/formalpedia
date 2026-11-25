@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajorantContinuity_eventually_comparable
 -- name    : GlobalTheory.MajorantContinuity.eventually_comparable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:19:50.929148+00:00
 -- url     : https://prove2.me/theorems/22c82c9a-39f0-46e0-a66e-c343cfe8b4e8

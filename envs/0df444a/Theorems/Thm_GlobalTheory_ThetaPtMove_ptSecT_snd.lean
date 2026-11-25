@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtMove_ptSecT_snd
 -- name    : GlobalTheory.ThetaPtMove.ptSecT_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:29:04.71383+00:00
 -- url     : https://prove2.me/theorems/0549cea6-6191-45cd-97cc-bb0163108d0d

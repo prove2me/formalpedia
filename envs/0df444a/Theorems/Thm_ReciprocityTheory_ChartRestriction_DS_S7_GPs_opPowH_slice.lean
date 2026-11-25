@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_GPs_opPowH_slice
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.GPs.opPowH_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:59:43.933804+00:00
 -- url     : https://prove2.me/theorems/f8e6c3fb-eae3-43e4-b83b-034347586de8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_exists_chart_bump
 -- name    : ReciprocityTheory.L2DbarEstimates.exists_chart_bump
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:01:44.03906+00:00
 -- url     : https://prove2.me/theorems/b04f697f-e9b4-51e1-bde4-cf1a866b8409

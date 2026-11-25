@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxPower_box_isGen
 -- name    : GlobalTheory.BoxPower.box_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:33:17.339924+00:00
 -- url     : https://prove2.me/theorems/2450b095-5786-42c8-803f-3c818458498e

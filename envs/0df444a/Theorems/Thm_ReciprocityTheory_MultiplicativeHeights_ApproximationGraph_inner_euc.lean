@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ApproximationGraph_inner_euc
 -- name    : ReciprocityTheory.MultiplicativeHeights.ApproximationGraph.inner_euc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:01:36.500956+00:00
 -- url     : https://prove2.me/theorems/ae290e8d-445e-467b-afcb-343aba8b8d83

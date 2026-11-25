@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_psum_orth
 -- name    : ReciprocityTheory.Cheb.psum_orth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:32.816899+00:00
 -- url     : https://prove2.me/theorems/9dd009e4-9143-4836-b9c9-2556a60eee22

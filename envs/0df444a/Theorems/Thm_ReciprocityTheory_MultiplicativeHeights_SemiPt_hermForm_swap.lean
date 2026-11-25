@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_hermForm_swap
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.hermForm_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:03:34.193394+00:00
 -- url     : https://prove2.me/theorems/2a9b3085-b711-5c73-8cf0-f7a0c722a0c7

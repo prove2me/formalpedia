@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FGAbove_exists_ge
 -- name    : GlobalTheory.FGAbove.exists_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:12:27.987842+00:00
 -- url     : https://prove2.me/theorems/12528b6d-927f-528f-b432-c920479ffaca

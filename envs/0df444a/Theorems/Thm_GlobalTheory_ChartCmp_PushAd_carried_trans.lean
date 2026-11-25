@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_PushAd_carried_trans
 -- name    : GlobalTheory.ChartCmp.PushAd.carried_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:05:18.709913+00:00
 -- url     : https://prove2.me/theorems/fbe84c16-a2fc-5ae2-bea8-f047b0fe603c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_aemeasurable_weighted_two_form
 -- name    : ReciprocityTheory.L2DbarEstimates.F.aemeasurable_weighted_two_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:56:20.226124+00:00
 -- url     : https://prove2.me/theorems/98e91e8f-5bb0-4d0f-90d2-ea1fabbb050e

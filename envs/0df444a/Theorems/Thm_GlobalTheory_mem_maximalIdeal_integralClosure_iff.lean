@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_maximalIdeal_integralClosure_iff
 -- name    : GlobalTheory.mem_maximalIdeal_integralClosure_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:50:06.228258+00:00
 -- url     : https://prove2.me/theorems/36fef4c4-fade-5ee4-b513-9fc9468190c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_germToFunctionField_eq_of_closedPoints
 -- name    : GlobalTheory.exists_germToFunctionField_eq_of_closedPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:10:46.358015+00:00
 -- url     : https://prove2.me/theorems/59523bc9-ac81-4414-81b4-b4bd2a52de7d

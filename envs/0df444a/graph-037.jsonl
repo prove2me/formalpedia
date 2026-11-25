@@ -70390,10 +70390,10 @@
 {"parent": "RH1E6S13_D034_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.realPoints_statement", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_InterlaceSignTwo", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.realPoints_statement", "child": "Formalism_HermitianCurvature_StatementM", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.Gal.exists_isFrob", "child": "ReciprocityTheory_GaloisValuations_GlobalA", "via": ["statement"]}
-{"parent": "ReciprocityTheory.Gal.exists_isFrob", "child": "ReciprocityTheory_GaloisValuations_Global", "via": ["statement"]}
-{"parent": "ReciprocityTheory.Gal.exists_isFrob", "child": "Formalism_ConjugateSelfDual_Statement", "via": ["statement"]}
-{"parent": "ReciprocityTheory.Gal.exists_isFrob", "child": "ReciprocityTheory_GaloisValuations_GlobalB", "via": ["statement"]}
+{"parent": "ReciprocityTheory.Gal.exists_isFrob", "child": "ReciprocityTheory_GaloisValuations_GlobalA", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.Gal.exists_isFrob", "child": "ReciprocityTheory_GaloisValuations_Global", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.Gal.exists_isFrob", "child": "Formalism_ConjugateSelfDual_Statement", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.Gal.exists_isFrob", "child": "ReciprocityTheory_GaloisValuations_GlobalB", "via": ["solution", "statement"]}
 {"parent": "Csg.NCSG.reduceMin_stageValue_eq", "child": "Csg_CoalitionComplement", "via": ["solution", "statement"]}
 {"parent": "Csg.NCSG.reduceMin_stageValue_eq", "child": "Csg_Coalition", "via": ["solution", "statement"]}
 {"parent": "Formalism.G0.QVandermondeP.form2", "child": "Formalism_SubspaceCounting_StatementB", "via": ["solution", "statement"]}

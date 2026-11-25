@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_secRel_pullSecs
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.secRel_pullSecs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:17:48.058983+00:00
 -- url     : https://prove2.me/theorems/717cbb72-5709-51d9-999f-5a1850c73d92

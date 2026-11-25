@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_KerChart_exists_int_clear
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.KerChart.exists_int_clear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:15:05.244538+00:00
 -- url     : https://prove2.me/theorems/2d5edb60-5af6-5c4c-ad33-4ce339defd66

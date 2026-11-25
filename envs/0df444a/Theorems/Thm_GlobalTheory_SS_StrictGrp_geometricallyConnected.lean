@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictGrp_geometricallyConnected
 -- name    : GlobalTheory.SS.StrictGrp.geometricallyConnected
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:17:25.032331+00:00
 -- url     : https://prove2.me/theorems/eb38e054-c138-43b3-bcb1-55335fd194af

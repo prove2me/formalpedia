@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_isNormalScheme_spec
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.isNormalScheme_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:27:06.925637+00:00
 -- url     : https://prove2.me/theorems/e06a273a-99d1-5dd4-b304-0fbbbdb74479

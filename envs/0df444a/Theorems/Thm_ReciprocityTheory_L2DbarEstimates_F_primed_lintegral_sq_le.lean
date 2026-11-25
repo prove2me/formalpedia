@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_primed_lintegral_sq_le
 -- name    : ReciprocityTheory.L2DbarEstimates.F.primed_lintegral_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:57:05.982527+00:00
 -- url     : https://prove2.me/theorems/b09cb065-c5f1-5ff8-8381-0751c73aac6c

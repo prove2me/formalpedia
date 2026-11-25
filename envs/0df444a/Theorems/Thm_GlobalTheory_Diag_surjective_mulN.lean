@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_surjective_mulN
 -- name    : GlobalTheory.Diag.surjective_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:08:22.529593+00:00
 -- url     : https://prove2.me/theorems/aad48adf-ecb0-4f67-a2cb-fb55591f5376

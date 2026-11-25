@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConformalCovariateShift_quantile_with_inf_iff
 -- name    : ConformalCovariateShift.quantile_with_inf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:21:37.065897+00:00
 -- url     : https://prove2.me/theorems/b24b1d65-0734-48c6-999f-0f8bd3c8820b

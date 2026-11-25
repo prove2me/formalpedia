@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMLatticeRow_diffEx
 -- name    : GlobalTheory.CMLatticeRow.diffEx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:04:33.810837+00:00
 -- url     : https://prove2.me/theorems/30b5f85a-60ad-466f-bb16-53aad90350b6

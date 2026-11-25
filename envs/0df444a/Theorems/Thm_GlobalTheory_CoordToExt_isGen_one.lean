@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordToExt_isGen_one
 -- name    : GlobalTheory.CoordToExt.isGen_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:27:24.720857+00:00
 -- url     : https://prove2.me/theorems/bddb401a-61ae-5519-936e-25c29ebd172d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_exists_smul_eq_of_isPlaceOver
 -- name    : ReciprocityTheory.Gal.exists_smul_eq_of_isPlaceOver
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:44:09.369796+00:00
 -- url     : https://prove2.me/theorems/08f836a6-2f37-4202-8084-85f38ac5d616

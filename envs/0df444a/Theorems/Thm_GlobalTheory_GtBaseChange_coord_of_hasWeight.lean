@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GtBaseChange_coord_of_hasWeight
 -- name    : GlobalTheory.GtBaseChange.coord_of_hasWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:10:07.326975+00:00
 -- url     : https://prove2.me/theorems/78bf8fe7-b948-4260-89e0-07a231222574

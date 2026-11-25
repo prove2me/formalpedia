@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_valueGroup_le_of_finiteDimensional
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.valueGroup_le_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:55:41.103436+00:00
 -- url     : https://prove2.me/theorems/2db8d529-fa1c-55ee-9ce3-b89123bebc10

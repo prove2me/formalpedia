@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_padicInt_algHom_comap_eq
 -- name    : GlobalTheory.exists_padicInt_algHom_comap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:51:19.239824+00:00
 -- url     : https://prove2.me/theorems/b929a596-78a7-4c4e-8bd7-6d07b842fcde

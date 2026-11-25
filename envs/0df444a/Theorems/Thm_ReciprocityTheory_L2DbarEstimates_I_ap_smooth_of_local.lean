@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_ap_smooth_of_local
 -- name    : ReciprocityTheory.L2DbarEstimates.I.ap_smooth_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:57:56.791858+00:00
 -- url     : https://prove2.me/theorems/1b286be9-be43-4d05-86a4-fda6a07398bd

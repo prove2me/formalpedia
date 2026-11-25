@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_exists_coprime_zpow
 -- name    : GlobalTheory.LevCover.exists_coprime_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:16:50.005607+00:00
 -- url     : https://prove2.me/theorems/5ef8f7b4-912b-42d7-9689-0f60a89fdbe5

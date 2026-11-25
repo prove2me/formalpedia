@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LB_coord_isoOfGen_hom_app
 -- name    : GlobalTheory.LB.coord_isoOfGen_hom_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:01:51.026893+00:00
 -- url     : https://prove2.me/theorems/b6d3126f-968f-45ad-b362-b5196da93c08

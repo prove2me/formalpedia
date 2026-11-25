@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PelPrim_cube_isLB
 -- name    : GlobalTheory.PelPrim.cube_isLB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:16:52.55602+00:00
 -- url     : https://prove2.me/theorems/dfbbe852-4ac8-42d7-8fe4-b5e4a469b932

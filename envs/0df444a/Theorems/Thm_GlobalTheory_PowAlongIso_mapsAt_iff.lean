@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowAlongIso_mapsAt_iff
 -- name    : GlobalTheory.PowAlongIso.mapsAt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:27:52.828843+00:00
 -- url     : https://prove2.me/theorems/2c3879f6-a598-526e-b86a-571e3eb4d228

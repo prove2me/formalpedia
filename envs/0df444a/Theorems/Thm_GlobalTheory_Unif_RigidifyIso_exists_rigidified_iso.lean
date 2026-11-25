@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unif_RigidifyIso_exists_rigidified_iso
 -- name    : GlobalTheory.Unif.RigidifyIso.exists_rigidified_iso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:39.864967+00:00
 -- url     : https://prove2.me/theorems/60b8f7a9-6ffe-42e2-8838-aa95fcb92934

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_vanish_lintegral_ball_smul
 -- name    : ReciprocityTheory.L2DbarEstimates.I.vanish_lintegral_ball_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:58:47.984109+00:00
 -- url     : https://prove2.me/theorems/d913a365-3924-5835-8761-c95798a7b0dc

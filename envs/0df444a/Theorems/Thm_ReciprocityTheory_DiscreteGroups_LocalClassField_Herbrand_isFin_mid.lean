@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_isFin_mid
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.isFin_mid
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:05:52.187961+00:00
 -- url     : https://prove2.me/theorems/454e9a84-73c9-4945-bdab-49bf1d6b88ca

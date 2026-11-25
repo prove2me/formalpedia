@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PullbackDegreeCount_ncard_pullW_eq_558ce03dd39e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PullbackDegreeCount_ncard_pullW_eq_558ce03dd39e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:40:45.447245+00:00
 -- url     : https://prove2.me/theorems/28a1b678-3c5e-437b-964f-a7c7903ab2a3

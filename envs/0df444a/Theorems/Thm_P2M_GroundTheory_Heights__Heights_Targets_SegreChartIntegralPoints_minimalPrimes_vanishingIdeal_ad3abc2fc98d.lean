@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_SegreChartIntegralPoints_minimalPrimes_vanishingIdeal_ad3abc2fc98d
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_SegreChartIntegralPoints_minimalPrimes_vanishingIdeal_ad3abc2fc98d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:06:28.472619+00:00
 -- url     : https://prove2.me/theorems/0d7f14cf-af17-4e58-b134-e3f0a9e24bbc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_multA_contR
 -- name    : ReciprocityTheory.L2DbarEstimates.F.multA_contR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:56:40.029483+00:00
 -- url     : https://prove2.me/theorems/00283798-8381-4ea1-9fbc-264579e003bb

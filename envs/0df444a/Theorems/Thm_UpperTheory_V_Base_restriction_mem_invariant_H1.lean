@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_UpperTheory_V_Base_restriction_mem_invariant_H1
+-- name    : UpperTheory.V.Base.restriction_mem_invariant_H1
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-25T14:41:47.756634+00:00
+-- url     : https://prove2.me/theorems/3405d13c-41b7-4612-a6de-906c00fb2aa1
+-- title:
+--   Base: restriction mem invariant H1
+-- statement:
+--   The Base construction uses the restriction mem invariant H1 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicArithmetic/AutomorphicVarieties/GaloisLibrary/SelmerTransport/RestrictionMemInvariantH1.lean#L242-L257
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicArithmetic/AutomorphicVarieties/GaloisLibrary/SelmerTransport/RestrictionMemInvariantH1.lean#L242-L257
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_GaloisValuations_ContinuousConstSMulQuotient
+import Definitions.Def_Development_AutomorphicArithmetic_AutomorphicVarieties_GaloisLibrary_SelmerTransport_RestrictionMemInvariantH1
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open ReciprocityTheory.Gal
+open UpperTheory UpperTheory.V UpperTheory.V.Base
+variable {R G M : Type} [CommRing R] [Group G] [TopologicalSpace G] [AddCommGroup M] [Module R M]
+  [TopologicalSpace M] [IsTopologicalAddGroup M] [ContinuousConstSMul R M]
+variable [IsTopologicalGroup G] [DiscreteTopology M]
+
+theorem UpperTheory.V.Base.restriction_mem_invariant_H1 (ρ : Representation R G M) {U' U : Subgroup G} [U'.Normal] (h : U' ≤ U) (x : H1U ρ U) :
+    resU ρ h x ∈ invariantsUnderSubgroupH1 ρ U U' := by sorry

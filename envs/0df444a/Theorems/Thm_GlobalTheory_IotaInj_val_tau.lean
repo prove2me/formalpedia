@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IotaInj_val_tau
 -- name    : GlobalTheory.IotaInj.val_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:01:17.51803+00:00
 -- url     : https://prove2.me/theorems/7eab90d5-0f66-4294-a353-a0ef323e261a

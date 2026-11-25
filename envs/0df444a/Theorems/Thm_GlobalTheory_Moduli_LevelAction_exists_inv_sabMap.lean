@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Moduli_LevelAction_exists_inv_sabMap
 -- name    : GlobalTheory.Moduli.LevelAction.exists_inv_sabMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:41:26.368532+00:00
 -- url     : https://prove2.me/theorems/ef0c9c1a-f2bb-4429-a755-37eb0b6241ab

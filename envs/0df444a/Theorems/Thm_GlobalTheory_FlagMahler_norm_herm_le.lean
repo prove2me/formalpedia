@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagMahler_norm_herm_le
 -- name    : GlobalTheory.FlagMahler.norm_herm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:20:34.698353+00:00
 -- url     : https://prove2.me/theorems/68c6306b-ea0c-4948-82c1-b6f7938b37d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigSq_exists_rescale
 -- name    : GlobalTheory.RigSq.exists_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:24:39.035869+00:00
 -- url     : https://prove2.me/theorems/d6be33e8-5409-482a-a37d-3096c5e09a3d

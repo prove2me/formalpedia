@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_RepBC_isGen_val
 -- name    : GlobalTheory.ZM.RepBC.isGen_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:24:48.124044+00:00
 -- url     : https://prove2.me/theorems/d7bf2681-fece-5dae-b86f-a73ef3fe2548

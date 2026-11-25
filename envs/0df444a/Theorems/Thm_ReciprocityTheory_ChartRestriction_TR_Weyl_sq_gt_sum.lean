@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_TR_Weyl_sq_gt_sum
 -- name    : ReciprocityTheory.ChartRestriction.TR.Weyl.sq_gt_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:47:34.008003+00:00
 -- url     : https://prove2.me/theorems/689b6168-a990-4d0a-aa74-09607c8072c0

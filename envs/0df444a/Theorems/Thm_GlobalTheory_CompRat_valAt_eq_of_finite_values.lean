@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompRat_valAt_eq_of_finite_values
 -- name    : GlobalTheory.CompRat.valAt_eq_of_finite_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:25:13.32846+00:00
 -- url     : https://prove2.me/theorems/a1df4ba0-499c-4590-8b3c-19ab9d4a19f4

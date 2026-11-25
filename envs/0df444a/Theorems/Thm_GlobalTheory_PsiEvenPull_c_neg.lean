@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiEvenPull_c_neg
 -- name    : GlobalTheory.PsiEvenPull.c_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:15.378597+00:00
 -- url     : https://prove2.me/theorems/2397f475-c779-4f9d-ba5c-c75b94f87713

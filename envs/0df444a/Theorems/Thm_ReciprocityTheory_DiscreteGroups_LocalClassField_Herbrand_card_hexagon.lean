@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_card_hexagon
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.card_hexagon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:50:53.226659+00:00
 -- url     : https://prove2.me/theorems/dde3e774-9a1d-4b3e-b0cf-679ea34051b4

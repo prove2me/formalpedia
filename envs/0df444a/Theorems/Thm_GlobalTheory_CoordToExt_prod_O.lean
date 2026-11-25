@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordToExt_prod_O
 -- name    : GlobalTheory.CoordToExt.prod_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:18:06.80842+00:00
 -- url     : https://prove2.me/theorems/e8c8da02-47d9-4cc8-bd80-99276ff1910d

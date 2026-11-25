@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_psiS_chiImg_base
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.psiS_chiImg_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:20:47.078299+00:00
 -- url     : https://prove2.me/theorems/7a0c2d36-9968-5b0c-a456-cfd0861f06f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_GlobalFunctionsDvrPowers_pull_powObj_globalFns
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.GlobalFunctionsDvrPowers.pull_powObj_globalFns
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:28:06.742573+00:00
 -- url     : https://prove2.me/theorems/f47016ae-5adf-49d4-ba7d-fec7935679d0

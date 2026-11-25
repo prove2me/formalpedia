@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_FinalTheorems_gfLogStC_of_CR
 -- name    : ReciprocityTheory.AnForm.R.FinalTheorems.gfLogStC_of_CR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:01:22.033236+00:00
 -- url     : https://prove2.me/theorems/0eea5f50-d7f2-5982-ac9f-447a279265cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_DiffSmall_norm_pow_sub_pow_le
 -- name    : GlobalTheory.Cyc.DiffSmall.norm_pow_sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:06:41.84316+00:00
 -- url     : https://prove2.me/theorems/ed7c4b61-3805-4dde-b98d-053d5d7ff48b

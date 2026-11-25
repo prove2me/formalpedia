@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_pa_A_sub_PE
 -- name    : ReciprocityTheory.Cheb.pa_A_sub_PE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:47.617483+00:00
 -- url     : https://prove2.me/theorems/74239531-e670-43ee-9149-d942102586e7

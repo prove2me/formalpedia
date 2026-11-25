@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_LeviFormQuadraticSums_normSq_eq_ofReal
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.LeviFormQuadraticSums.normSq_eq_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:00:42.82395+00:00
 -- url     : https://prove2.me/theorems/1a3ddad7-7b95-40e5-a7d5-5cf78898d4b3

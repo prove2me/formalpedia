@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IotaInj_mem_of_nonempty
 -- name    : GlobalTheory.IotaInj.mem_of_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:01:17.60208+00:00
 -- url     : https://prove2.me/theorems/00dbc505-b5d6-53e7-aa68-e30478178198

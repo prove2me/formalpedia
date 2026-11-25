@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_exists_comm_of_weilIs
 -- name    : GlobalTheory.ThetaScalar.exists_comm_of_weilIs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:08:13.789822+00:00
 -- url     : https://prove2.me/theorems/05a050df-610d-4632-96a7-3e31be46a653

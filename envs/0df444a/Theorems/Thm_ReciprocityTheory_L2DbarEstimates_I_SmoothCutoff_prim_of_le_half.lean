@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_SmoothCutoff_prim_of_le_half
 -- name    : ReciprocityTheory.L2DbarEstimates.I.SmoothCutoff.prim_of_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:31:02.010875+00:00
 -- url     : https://prove2.me/theorems/6cd6ca2f-8b31-4eb3-a232-9fbaa81bfe0b

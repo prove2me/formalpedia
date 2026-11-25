@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntAct_rosatiAdj_id
 -- name    : GlobalTheory.IntAct.rosatiAdj_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:19:34.540854+00:00
 -- url     : https://prove2.me/theorems/09c28288-0446-409a-b214-29339a4fd993

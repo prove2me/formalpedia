@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_padic_point_comp
 -- name    : GlobalTheory.padic_point_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:50:33.963884+00:00
 -- url     : https://prove2.me/theorems/a23172ac-8cfe-589d-8c10-d5037e32a29a

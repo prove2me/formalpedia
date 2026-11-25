@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaPole_bdd_right
 -- name    : GlobalTheory.ZetaPole.bdd_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:05:02.370452+00:00
 -- url     : https://prove2.me/theorems/86c80552-c150-4174-a424-26894c5d8a8f

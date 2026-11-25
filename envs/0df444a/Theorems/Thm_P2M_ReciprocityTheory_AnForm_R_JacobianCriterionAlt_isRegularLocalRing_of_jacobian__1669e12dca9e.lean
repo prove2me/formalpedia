@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_isRegularLocalRing_of_jacobian__1669e12dca9e
 -- name    : P2M_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_isRegularLocalRing_of_jacobian__1669e12dca9e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:12:13.855105+00:00
 -- url     : https://prove2.me/theorems/b18eeefb-90a7-410a-9777-7db9e7330b22

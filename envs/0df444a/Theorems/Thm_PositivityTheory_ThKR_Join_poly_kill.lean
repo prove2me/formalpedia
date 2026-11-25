@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Join_poly_kill
 -- name    : PositivityTheory.ThKR.Join.poly_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:47:12.881154+00:00
 -- url     : https://prove2.me/theorems/59d73405-1066-55de-a04b-e65d26b1fc76

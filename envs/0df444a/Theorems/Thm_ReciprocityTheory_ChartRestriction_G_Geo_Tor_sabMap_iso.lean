@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_sabMap_iso
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.sabMap_iso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:30:58.65081+00:00
 -- url     : https://prove2.me/theorems/6e1a69f2-4741-456c-a4c0-d0c51bacaa48

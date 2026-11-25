@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_ae_weighted_iff_ae
 -- name    : ReciprocityTheory.L2DbarEstimates.H.ae_weighted_iff_ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:59:16.059013+00:00
 -- url     : https://prove2.me/theorems/26efce7e-795b-5099-b7c5-5ee0b3484204

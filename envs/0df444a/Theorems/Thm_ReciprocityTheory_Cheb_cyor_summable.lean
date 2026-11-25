@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_cyor_summable
 -- name    : ReciprocityTheory.Cheb.cyor_summable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:11:58.549599+00:00
 -- url     : https://prove2.me/theorems/20fba970-9062-4b9e-83e3-85f3940ba6d5

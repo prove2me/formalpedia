@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamPull_val_feUnit
 -- name    : GlobalTheory.FamPull.val_feUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:19:08.507977+00:00
 -- url     : https://prove2.me/theorems/cfd084f9-97cd-4249-bf35-36f811d9d458

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSymmetric_iff_exists_gen
 -- name    : GlobalTheory.isSymmetric_iff_exists_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:02:10.03887+00:00
 -- url     : https://prove2.me/theorems/fadb729e-c2ce-412b-893f-f7d29faacdf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_untopD_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.untopD_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:13:43.962711+00:00
 -- url     : https://prove2.me/theorems/18de3fc8-ddcc-596f-a849-b62e6ec92e84

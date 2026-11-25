@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_symLift_odd
 -- name    : GlobalTheory.symLift_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:22:58.415869+00:00
 -- url     : https://prove2.me/theorems/678d9791-f201-4e48-b7c0-fc52b3bf21e2

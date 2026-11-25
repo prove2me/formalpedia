@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_Canon_gauge_add
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.Canon.gauge_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:44:57.390851+00:00
 -- url     : https://prove2.me/theorems/f8212f6c-5dbc-5cec-8639-074ea3610aa3

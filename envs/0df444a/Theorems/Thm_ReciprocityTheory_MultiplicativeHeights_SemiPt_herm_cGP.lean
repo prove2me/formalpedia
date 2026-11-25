@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_herm_cGP
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.herm_cGP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:03:04.542627+00:00
 -- url     : https://prove2.me/theorems/2fe58266-9783-453d-aef1-87df0382c134

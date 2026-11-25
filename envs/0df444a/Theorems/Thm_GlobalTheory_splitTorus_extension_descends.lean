@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitTorus_extension_descends
 -- name    : GlobalTheory.splitTorus_extension_descends
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:58.876797+00:00
 -- url     : https://prove2.me/theorems/9109785f-2089-4114-a541-f5666c8716e9

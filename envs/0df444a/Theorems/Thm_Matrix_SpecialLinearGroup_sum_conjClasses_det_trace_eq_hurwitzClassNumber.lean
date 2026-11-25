@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Matrix_SpecialLinearGroup_sum_conjClasses_det_trace_eq_hurwitzClassNumber
 -- name    : Matrix.SpecialLinearGroup.sum_conjClasses_det_trace_eq_hurwitzClassNumber
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-25T14:24:53.774498+00:00
 -- url     : https://prove2.me/theorems/9e80ccf7-38b3-41ee-813b-497611418bb2

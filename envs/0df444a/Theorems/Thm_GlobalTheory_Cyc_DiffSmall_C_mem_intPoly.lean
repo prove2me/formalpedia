@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_DiffSmall_C_mem_intPoly
 -- name    : GlobalTheory.Cyc.DiffSmall.C_mem_intPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:04:08.788883+00:00
 -- url     : https://prove2.me/theorems/0229a924-0a07-5282-8dd0-2ad5f3e32506

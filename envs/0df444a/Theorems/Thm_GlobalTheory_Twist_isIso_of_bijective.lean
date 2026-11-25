@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Twist_isIso_of_bijective
 -- name    : GlobalTheory.Twist.isIso_of_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:16:09.065571+00:00
 -- url     : https://prove2.me/theorems/b626fe21-b9f6-409c-b14e-03648bea4449

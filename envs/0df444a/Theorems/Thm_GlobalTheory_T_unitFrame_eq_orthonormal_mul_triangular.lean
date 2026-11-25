@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitFrame_eq_orthonormal_mul_triangular
 -- name    : GlobalTheory.T.unitFrame_eq_orthonormal_mul_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:01:30.317104+00:00
 -- url     : https://prove2.me/theorems/18484106-cb5d-4580-bd91-e8eaf9a1a9c4

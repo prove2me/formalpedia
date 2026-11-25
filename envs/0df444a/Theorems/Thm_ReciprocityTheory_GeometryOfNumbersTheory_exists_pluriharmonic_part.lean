@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_exists_pluriharmonic_part
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.exists_pluriharmonic_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:54:24.384046+00:00
 -- url     : https://prove2.me/theorems/9e8293c1-1437-4014-b3e8-2b206243d119

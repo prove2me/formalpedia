@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_integerApproximationCount_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.integerApproximationCount_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:44:55.599607+00:00
 -- url     : https://prove2.me/theorems/1649c27a-6457-4c92-a8c1-de4d4f9cd9fa

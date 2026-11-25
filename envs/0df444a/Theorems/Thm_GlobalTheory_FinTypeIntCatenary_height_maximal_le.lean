@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypeIntCatenary_height_maximal_le
 -- name    : GlobalTheory.FinTypeIntCatenary.height_maximal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:25:51.379661+00:00
 -- url     : https://prove2.me/theorems/7ea13037-2a81-4b07-874d-52d1b42fc7aa

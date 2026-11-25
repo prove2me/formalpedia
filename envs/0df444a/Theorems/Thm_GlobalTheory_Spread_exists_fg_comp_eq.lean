@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Spread_exists_fg_comp_eq
 -- name    : GlobalTheory.Spread.exists_fg_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:27:54.535623+00:00
 -- url     : https://prove2.me/theorems/5320e0a7-c7dc-4b49-8027-9fe07328d6e5

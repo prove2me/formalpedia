@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z3_exists_dual_one
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z3.exists_dual_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:57:58.632799+00:00
 -- url     : https://prove2.me/theorems/1c031f17-6c66-4b96-9990-3fe1549a4a84

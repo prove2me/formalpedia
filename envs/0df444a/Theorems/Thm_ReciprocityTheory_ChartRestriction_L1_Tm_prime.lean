@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_Tm_prime
 -- name    : ReciprocityTheory.ChartRestriction.L1.Tm_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:06:00.942714+00:00
 -- url     : https://prove2.me/theorems/601bfd61-3081-4829-9062-66987d2f311e

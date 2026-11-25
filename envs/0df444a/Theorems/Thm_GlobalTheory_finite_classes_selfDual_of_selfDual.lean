@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_classes_selfDual_of_selfDual
 -- name    : GlobalTheory.finite_classes_selfDual_of_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:47:07.151716+00:00
 -- url     : https://prove2.me/theorems/d3f37d0a-3249-4004-a5b2-d53fa5c5eefe

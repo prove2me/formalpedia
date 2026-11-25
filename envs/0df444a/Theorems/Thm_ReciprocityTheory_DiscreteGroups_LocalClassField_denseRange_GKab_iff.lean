@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_denseRange_GKab_iff
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.denseRange_GKab_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:53:12.194521+00:00
 -- url     : https://prove2.me/theorems/ce73b4e2-fce8-516b-9501-5cfe15c74d49

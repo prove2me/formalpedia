@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajorantContinuity_majorant_continuity
 -- name    : GlobalTheory.MajorantContinuity.majorant_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:50.221567+00:00
 -- url     : https://prove2.me/theorems/e5bb09c6-72eb-4612-b988-47e18d4500ec

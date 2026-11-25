@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformLift_map_zero_eq_one
 -- name    : GlobalTheory.UniformLift.map_zero_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:24:47.641417+00:00
 -- url     : https://prove2.me/theorems/7bf1d276-16b3-573c-9ab6-3cd61dff1167

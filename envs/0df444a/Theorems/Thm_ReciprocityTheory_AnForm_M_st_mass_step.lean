@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_st_mass_step
 -- name    : ReciprocityTheory.AnForm.M.st_mass_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:34:01.15826+00:00
 -- url     : https://prove2.me/theorems/95201a39-147c-4fd8-ae80-805870aebbf1

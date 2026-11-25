@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiPull_sval_rel
 -- name    : GlobalTheory.PhiPull.sval_rel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:30:49.413124+00:00
 -- url     : https://prove2.me/theorems/9f81c5a7-e89e-4b4d-aac4-77e8433b04e7

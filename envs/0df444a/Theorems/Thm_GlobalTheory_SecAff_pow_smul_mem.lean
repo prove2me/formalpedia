@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecAff_pow_smul_mem
 -- name    : GlobalTheory.SecAff.pow_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:54.956449+00:00
 -- url     : https://prove2.me/theorems/ae141855-3506-4303-8bb2-0528db198abf

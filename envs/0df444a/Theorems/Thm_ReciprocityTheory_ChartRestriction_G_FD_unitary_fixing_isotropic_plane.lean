@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_unitary_fixing_isotropic_plane
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.unitary_fixing_isotropic_plane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:22:30.147657+00:00
 -- url     : https://prove2.me/theorems/db2354f5-cba4-4491-bc4f-72fe6db5c3de

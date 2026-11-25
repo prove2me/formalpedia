@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_primed_ofReal_integral_le
 -- name    : ReciprocityTheory.L2DbarEstimates.F.primed_ofReal_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:56:44.4825+00:00
 -- url     : https://prove2.me/theorems/f734c95a-f478-4ec8-9eb0-740048837d00

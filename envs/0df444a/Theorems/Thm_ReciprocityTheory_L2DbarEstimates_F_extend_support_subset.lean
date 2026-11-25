@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_extend_support_subset
 -- name    : ReciprocityTheory.L2DbarEstimates.F.extend_support_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:02:32.975959+00:00
 -- url     : https://prove2.me/theorems/b46b352c-8193-5567-9a8d-038a14449498

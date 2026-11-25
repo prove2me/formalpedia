@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_no_sd_noKer
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.no_sd_noKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:17:17.400211+00:00
 -- url     : https://prove2.me/theorems/9c9f8cbd-addb-5700-b988-caaf96011c0b

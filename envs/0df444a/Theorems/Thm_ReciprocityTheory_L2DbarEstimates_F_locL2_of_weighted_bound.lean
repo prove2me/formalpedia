@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_locL2_of_weighted_bound
 -- name    : ReciprocityTheory.L2DbarEstimates.F.locL2_of_weighted_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:56:12.364949+00:00
 -- url     : https://prove2.me/theorems/74aec0c3-4866-4114-bfcf-6a62621a4a4f

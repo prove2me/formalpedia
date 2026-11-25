@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_height_add_ringKrullDim_quotient_of_finiteType
 -- name    : GlobalTheory.height_add_ringKrullDim_quotient_of_finiteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:56:37.118036+00:00
 -- url     : https://prove2.me/theorems/9025525b-7572-4b18-aa60-858ffa902cb0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_Gm_vanish
 -- name    : ReciprocityTheory.ChartRestriction.L1.Gm_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:58:20.645024+00:00
 -- url     : https://prove2.me/theorems/892f1ff9-1ee4-4116-872d-6e29ded0aabb

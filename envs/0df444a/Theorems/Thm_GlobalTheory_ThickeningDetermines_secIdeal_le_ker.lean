@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickeningDetermines_secIdeal_le_ker
 -- name    : GlobalTheory.ThickeningDetermines.secIdeal_le_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:25:02.227797+00:00
 -- url     : https://prove2.me/theorems/f4d2b15a-152d-437f-8f78-ab7ec201e2e4

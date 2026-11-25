@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_existsUnique_iso_of_isGrpPullback
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.existsUnique_iso_of_isGrpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:29:08.804866+00:00
 -- url     : https://prove2.me/theorems/95d7afc5-831d-4fa1-ac87-d482e508e5d0

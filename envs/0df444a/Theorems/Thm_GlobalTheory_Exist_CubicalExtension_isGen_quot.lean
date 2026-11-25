@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Exist_CubicalExtension_isGen_quot
 -- name    : GlobalTheory.Exist.CubicalExtension.isGen_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:44:40.041247+00:00
 -- url     : https://prove2.me/theorems/1d898a24-72e9-5d93-9949-0892725b6881

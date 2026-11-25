@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_DiffSmall_norm_root
 -- name    : GlobalTheory.Cyc.DiffSmall.norm_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:24:54.271131+00:00
 -- url     : https://prove2.me/theorems/75026495-a41e-4889-ab19-3e68f4b688d5

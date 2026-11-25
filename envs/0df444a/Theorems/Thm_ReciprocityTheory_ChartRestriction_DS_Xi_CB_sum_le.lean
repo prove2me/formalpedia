@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_CB_sum_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.CB.sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:29:56.216137+00:00
 -- url     : https://prove2.me/theorems/94e80669-a6c2-5d29-b632-6c356d60f2e0

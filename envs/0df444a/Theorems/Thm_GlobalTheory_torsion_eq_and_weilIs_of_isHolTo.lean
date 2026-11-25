@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torsion_eq_and_weilIs_of_isHolTo
 -- name    : GlobalTheory.torsion_eq_and_weilIs_of_isHolTo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:24:01.826885+00:00
 -- url     : https://prove2.me/theorems/c9237a9c-65b0-4010-8fee-0d15ab0d0283

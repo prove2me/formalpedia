@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiSpread_exists_extends
 -- name    : GlobalTheory.PsiSpread.exists_extends
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:42:59.573798+00:00
 -- url     : https://prove2.me/theorems/f83c220c-7486-433b-a4c1-fc1b00d53caa

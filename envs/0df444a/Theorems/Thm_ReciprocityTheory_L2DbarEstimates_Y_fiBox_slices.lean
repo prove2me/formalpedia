@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_fiBox_slices
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.fiBox_slices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:00:34.88113+00:00
 -- url     : https://prove2.me/theorems/3a859641-fe7f-4e65-b351-4a30b8fa6ed6

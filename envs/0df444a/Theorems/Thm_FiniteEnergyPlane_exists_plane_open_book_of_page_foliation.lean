@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_plane_open_book_of_page_foliation
 -- name    : FiniteEnergyPlane.exists_plane_open_book_of_page_foliation
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-04T15:52:39.897203+00:00
 -- url     : https://prove2.me/theorems/c2cb4f25-15f1-4989-bdce-186383a5b1e2

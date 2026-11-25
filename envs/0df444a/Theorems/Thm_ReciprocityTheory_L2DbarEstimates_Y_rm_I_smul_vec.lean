@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_rm_I_smul_vec
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.rm_I_smul_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:01:10.581631+00:00
 -- url     : https://prove2.me/theorems/f10cdd2f-3ec3-490c-b2a1-a2c5a3abc2d0

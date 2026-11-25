@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_valueGroup_mono
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.valueGroup_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:07.327578+00:00
 -- url     : https://prove2.me/theorems/cf2fdf76-75e8-4f59-99ab-7b8b5908a606

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ApproximationGraph_approxR_nonneg
 -- name    : ReciprocityTheory.MultiplicativeHeights.ApproximationGraph.approxR_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:01:20.084059+00:00
 -- url     : https://prove2.me/theorems/9e14bf6d-f2d0-553b-a55f-b16044178fe2

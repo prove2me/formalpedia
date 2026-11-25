@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_sphProb_compl_sphere
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.sphProb_compl_sphere
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:22.544857+00:00
 -- url     : https://prove2.me/theorems/8807637d-5c01-4a8d-a108-19bd274e8a7a

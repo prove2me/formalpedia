@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueLineBundle_unit_ext_imm
 -- name    : GlobalTheory.GlueLineBundle.unit_ext_imm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:08:46.360704+00:00
 -- url     : https://prove2.me/theorems/2ab5fb79-058e-4e2d-b029-796fcf20245e

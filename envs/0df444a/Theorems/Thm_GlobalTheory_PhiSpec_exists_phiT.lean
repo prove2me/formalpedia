@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiSpec_exists_phiT
 -- name    : GlobalTheory.PhiSpec.exists_phiT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:44:40.131834+00:00
 -- url     : https://prove2.me/theorems/73c3f01a-1e52-4f6d-976c-0233c8717002

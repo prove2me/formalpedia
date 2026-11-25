@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamSpan_exists_iso
 -- name    : GlobalTheory.FamSpan.exists_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:28:58.60271+00:00
 -- url     : https://prove2.me/theorems/d82e5fa8-4789-4a36-9df2-18c97c5807e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_macofRow_apply
 -- name    : ReciprocityTheory.L2DbarEstimates.I.macofRow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:58:37.359176+00:00
 -- url     : https://prove2.me/theorems/16f7ab8e-84a7-4be5-b90b-6a64f5818466

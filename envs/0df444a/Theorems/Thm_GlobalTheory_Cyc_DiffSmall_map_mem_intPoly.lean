@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_DiffSmall_map_mem_intPoly
 -- name    : GlobalTheory.Cyc.DiffSmall.map_mem_intPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:03:20.671237+00:00
 -- url     : https://prove2.me/theorems/58c2d1fa-68da-5b79-bcfd-6a5d265c16b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_BdRad_radical_span_prod_eq
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.BdRad.radical_span_prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:28:39.959998+00:00
 -- url     : https://prove2.me/theorems/110a82cf-2008-4da5-b300-dcdd0c39ce17

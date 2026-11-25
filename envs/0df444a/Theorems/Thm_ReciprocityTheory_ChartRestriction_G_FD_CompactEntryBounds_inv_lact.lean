@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_CompactEntryBounds_inv_lact
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.CompactEntryBounds.inv_lact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:20:23.550616+00:00
 -- url     : https://prove2.me/theorems/ac99e931-6ea6-432a-8948-4b56578a5813

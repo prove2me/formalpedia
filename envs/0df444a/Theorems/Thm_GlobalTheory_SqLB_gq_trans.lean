@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqLB_gq_trans
 -- name    : GlobalTheory.SqLB.gq_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:22:06.512436+00:00
 -- url     : https://prove2.me/theorems/1c55269b-caa2-43cc-abfb-fcf3ab6709b7

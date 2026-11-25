@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ProdFormula_distribHaarChar_eq_nnnorm
 -- name    : GlobalTheory.CompanionTheory.SW.ProdFormula.distribHaarChar_eq_nnnorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:37:56.905425+00:00
 -- url     : https://prove2.me/theorems/b7d3a3c2-cb43-5cd9-a2ab-3907190e6518

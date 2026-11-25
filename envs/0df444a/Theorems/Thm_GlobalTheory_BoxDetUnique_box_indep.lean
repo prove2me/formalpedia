@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxDetUnique_box_indep
 -- name    : GlobalTheory.BoxDetUnique.box_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:03:48.797865+00:00
 -- url     : https://prove2.me/theorems/5604ce6a-78d5-4214-a9cc-727d57dcaa03

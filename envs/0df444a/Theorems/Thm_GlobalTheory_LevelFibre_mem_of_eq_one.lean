@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelFibre_mem_of_eq_one
 -- name    : GlobalTheory.LevelFibre.mem_of_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:06.856812+00:00
 -- url     : https://prove2.me/theorems/4b94b099-9b18-496e-8852-28fadd7523f9

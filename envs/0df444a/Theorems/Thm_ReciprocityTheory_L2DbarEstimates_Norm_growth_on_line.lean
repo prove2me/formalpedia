@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Norm_growth_on_line
 -- name    : ReciprocityTheory.L2DbarEstimates.Norm.growth_on_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:00:31.907218+00:00
 -- url     : https://prove2.me/theorems/a8bbeda4-e86c-59dc-860f-57f46307d796

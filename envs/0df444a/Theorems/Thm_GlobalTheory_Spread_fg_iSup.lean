@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Spread_fg_iSup
 -- name    : GlobalTheory.Spread.fg_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:28:38.124805+00:00
 -- url     : https://prove2.me/theorems/4fc9d5c2-f60a-4838-ae00-5f4f4638e240

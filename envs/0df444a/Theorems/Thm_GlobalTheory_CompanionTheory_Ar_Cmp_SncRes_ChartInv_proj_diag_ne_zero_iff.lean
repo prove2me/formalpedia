@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_ChartInv_proj_diag_ne_zero_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.ChartInv.proj_diag_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:17:42.459257+00:00
 -- url     : https://prove2.me/theorems/2448c19f-64cb-4df7-87ae-ed0e5f66a9af

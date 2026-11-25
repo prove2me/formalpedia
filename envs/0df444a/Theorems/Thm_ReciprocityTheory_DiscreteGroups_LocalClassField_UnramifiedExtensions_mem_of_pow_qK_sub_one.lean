@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnramifiedExtensions_mem_of_pow_qK_sub_one
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions.mem_of_pow_qK_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:29:05.798992+00:00
 -- url     : https://prove2.me/theorems/b46632b4-8d67-48a9-a254-7242fb857510

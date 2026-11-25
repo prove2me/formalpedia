@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_coord_single_add
 -- name    : GlobalTheory.Diag.coord_single_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:15:07.88793+00:00
 -- url     : https://prove2.me/theorems/bd33d89e-b947-42fd-95b8-d59eab6b996b

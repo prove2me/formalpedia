@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Par_exists_basicOpen_of_isSncModel
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Par.exists_basicOpen_of_isSncModel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:20:06.069125+00:00
 -- url     : https://prove2.me/theorems/2333fc1e-9266-4610-ad5f-e036c1fa7bf3

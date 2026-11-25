@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnitsFilt_filt_ball
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnitsFilt.filt_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:52:17.422549+00:00
 -- url     : https://prove2.me/theorems/36105de3-0fbb-43c5-9c11-1fa9b3da3956

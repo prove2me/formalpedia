@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrthFrameMahler_norm_apply_le_of_diagonal
 -- name    : GlobalTheory.OrthFrameMahler.norm_apply_le_of_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:18:45.654698+00:00
 -- url     : https://prove2.me/theorems/e8aedf3c-13d9-45b0-afd6-651ea14996ed

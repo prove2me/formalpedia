@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCover_sab_cancel
 -- name    : GlobalTheory.LevelCover.sab_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:51:01.296416+00:00
 -- url     : https://prove2.me/theorems/e49bf905-b893-44e1-a680-92fcacfad73c

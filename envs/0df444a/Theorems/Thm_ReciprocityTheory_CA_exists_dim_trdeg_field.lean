@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_exists_dim_trdeg_field
 -- name    : ReciprocityTheory.CA.exists_dim_trdeg_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:59:46.697117+00:00
 -- url     : https://prove2.me/theorems/01175d7d-cafa-4d1a-b0f6-44b650ae7d46

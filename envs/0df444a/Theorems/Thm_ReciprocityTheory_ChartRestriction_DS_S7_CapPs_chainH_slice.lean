@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapPs_chainH_slice
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapPs.chainH_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:04:21.643753+00:00
 -- url     : https://prove2.me/theorems/99cc79a8-6ad1-5f62-b71b-eaa8e648e8de

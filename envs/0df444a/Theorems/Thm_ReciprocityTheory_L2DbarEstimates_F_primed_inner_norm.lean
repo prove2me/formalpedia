@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_primed_inner_norm
 -- name    : ReciprocityTheory.L2DbarEstimates.F.primed_inner_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:56:54.026838+00:00
 -- url     : https://prove2.me/theorems/c1f4e5eb-a0a7-4107-b452-ee463a6f092d

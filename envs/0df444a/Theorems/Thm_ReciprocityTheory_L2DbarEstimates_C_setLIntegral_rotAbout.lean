@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_setLIntegral_rotAbout
 -- name    : ReciprocityTheory.L2DbarEstimates.C.setLIntegral_rotAbout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:55:01.222273+00:00
 -- url     : https://prove2.me/theorems/078f02d2-fce8-42c4-ae0b-74bbf31c31bd

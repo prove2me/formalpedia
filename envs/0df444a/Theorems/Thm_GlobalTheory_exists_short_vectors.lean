@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_short_vectors
 -- name    : GlobalTheory.exists_short_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:08.350645+00:00
 -- url     : https://prove2.me/theorems/bd41c7db-3718-4b30-8df0-5f872a8ddac4

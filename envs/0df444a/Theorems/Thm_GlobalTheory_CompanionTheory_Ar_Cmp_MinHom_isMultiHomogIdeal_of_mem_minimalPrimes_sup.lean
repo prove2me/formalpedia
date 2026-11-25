@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_MinHom_isMultiHomogIdeal_of_mem_minimalPrimes_sup
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.MinHom.isMultiHomogIdeal_of_mem_minimalPrimes_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:18:13.914857+00:00
 -- url     : https://prove2.me/theorems/75d701cb-2b6a-5629-b768-893483fc191e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Par_le_of_mul_pow_mem_span_pow
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Par.le_of_mul_pow_mem_span_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:17:07.981018+00:00
 -- url     : https://prove2.me/theorems/b2caf6b9-f611-41c0-94b0-84a1611493f0

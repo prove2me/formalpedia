@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorusSlice_ch_eq
 -- name    : GlobalTheory.SS.TorusSlice.ch_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:28:42.441747+00:00
 -- url     : https://prove2.me/theorems/4598c301-bd1a-55a2-8b98-a3808c167b78

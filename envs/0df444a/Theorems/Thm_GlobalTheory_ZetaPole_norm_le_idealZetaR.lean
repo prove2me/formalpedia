@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaPole_norm_le_idealZetaR
 -- name    : GlobalTheory.ZetaPole.norm_le_idealZetaR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:05:15.912145+00:00
 -- url     : https://prove2.me/theorems/d85a09c7-94f7-4db0-b5c0-e89dffdfa90a

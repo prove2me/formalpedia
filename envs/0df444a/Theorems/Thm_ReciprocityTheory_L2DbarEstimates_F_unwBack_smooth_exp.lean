@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_unwBack_smooth_exp
 -- name    : ReciprocityTheory.L2DbarEstimates.F.unwBack_smooth_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:56:57.445045+00:00
 -- url     : https://prove2.me/theorems/0aae075c-d719-50a9-84ee-41a06a813349

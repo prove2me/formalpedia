@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KerPow_LocGen_baseChange
 -- name    : GlobalTheory.KerPow.LocGen.baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:29:05.313981+00:00
 -- url     : https://prove2.me/theorems/18bcbbe4-4bfd-5e84-a214-fa0171575b1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamPull_val_psiW
 -- name    : GlobalTheory.FamPull.val_psiW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:19:06.908999+00:00
 -- url     : https://prove2.me/theorems/d1346849-858b-4c95-b00b-ed49b92986f6

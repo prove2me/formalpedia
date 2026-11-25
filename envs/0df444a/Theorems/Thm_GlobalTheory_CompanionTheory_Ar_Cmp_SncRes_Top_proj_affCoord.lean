@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Top_proj_affCoord
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Top.proj_affCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:02:08.313593+00:00
 -- url     : https://prove2.me/theorems/126e0c67-7e87-5e0b-99b3-e97a82a41911

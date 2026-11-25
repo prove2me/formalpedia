@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_lintegral_ball_rpow_lt_top
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.lintegral_ball_rpow_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:00:12.01731+00:00
 -- url     : https://prove2.me/theorems/6a1961f4-38ca-48a6-bf83-608b21ac7ee6

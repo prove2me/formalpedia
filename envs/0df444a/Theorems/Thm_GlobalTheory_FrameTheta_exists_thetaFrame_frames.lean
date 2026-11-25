@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameTheta_exists_thetaFrame_frames
 -- name    : GlobalTheory.FrameTheta.exists_thetaFrame_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:42:02.324943+00:00
 -- url     : https://prove2.me/theorems/9e84639e-9cef-4da0-b964-47e5fd6cc720

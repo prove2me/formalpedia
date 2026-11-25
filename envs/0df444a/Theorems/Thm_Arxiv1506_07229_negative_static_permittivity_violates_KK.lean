@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1506_07229_negative_static_permittivity_violates_KK
 -- name    : Arxiv1506_07229.negative_static_permittivity_violates_KK
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:02:16.533188+00:00
 -- url     : https://prove2.me/theorems/58ed4a2e-79a2-47f1-8e41-d0e6f12ac3fa

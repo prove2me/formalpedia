@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_natCard_mem
 -- name    : ReciprocityTheory.ChartRestriction.L1.natCard_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:20:03.485887+00:00
 -- url     : https://prove2.me/theorems/0fe06b16-72c9-4a2e-80d7-9475c4475e73

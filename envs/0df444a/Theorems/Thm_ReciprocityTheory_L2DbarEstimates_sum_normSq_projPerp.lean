@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_sum_normSq_projPerp
 -- name    : ReciprocityTheory.L2DbarEstimates.sum_normSq_projPerp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:01:25.275433+00:00
 -- url     : https://prove2.me/theorems/9ce78949-1449-4d6d-94c4-edc33ab9f9dd

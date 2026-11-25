@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_deriv_smoothTransition_of_one_lt
 -- name    : ReciprocityTheory.L2DbarEstimates.F.deriv_smoothTransition_of_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:02:09.695911+00:00
 -- url     : https://prove2.me/theorems/150d6aa5-e3bd-4535-8631-0520f6c7aee0

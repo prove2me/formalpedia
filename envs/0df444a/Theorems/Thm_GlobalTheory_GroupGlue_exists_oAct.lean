@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupGlue_exists_oAct
 -- name    : GlobalTheory.GroupGlue.exists_oAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:57:40.436282+00:00
 -- url     : https://prove2.me/theorems/26f03f72-6708-41d0-aab2-3e31f0dc7b1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_volFun_prod_singleton
 -- name    : ReciprocityTheory.L2DbarEstimates.volFun_prod_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:02:01.912799+00:00
 -- url     : https://prove2.me/theorems/0b98c201-5bf8-5cb7-bc24-5a28bd6e0b18

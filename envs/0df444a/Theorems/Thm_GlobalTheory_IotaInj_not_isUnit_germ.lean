@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IotaInj_not_isUnit_germ
 -- name    : GlobalTheory.IotaInj.not_isUnit_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:01:46.538719+00:00
 -- url     : https://prove2.me/theorems/06065546-5958-512e-ae2c-dcbdd5549f84

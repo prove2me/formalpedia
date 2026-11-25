@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupRingConst_pt_single
 -- name    : GlobalTheory.GroupRingConst.pt_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:28:59.068538+00:00
 -- url     : https://prove2.me/theorems/accc0655-0865-4d7a-aa05-0074fbba489e

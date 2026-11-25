@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistLoc_isComb_of_gs
 -- name    : GlobalTheory.TwistLoc.isComb_of_gs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:08:04.351308+00:00
 -- url     : https://prove2.me/theorems/7957b570-e843-40bc-a374-260eb114c2a2

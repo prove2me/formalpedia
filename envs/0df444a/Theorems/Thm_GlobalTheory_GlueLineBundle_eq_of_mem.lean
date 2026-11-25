@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueLineBundle_eq_of_mem
 -- name    : GlobalTheory.GlueLineBundle.eq_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:14:05.44293+00:00
 -- url     : https://prove2.me/theorems/014cac99-ea8f-5b21-9175-a12866b90817

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordToExt_gm_appLE
 -- name    : GlobalTheory.CoordToExt.gm_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:21:12.746378+00:00
 -- url     : https://prove2.me/theorems/7034bd5e-4eab-4a3a-9963-b4b9b6e80d82

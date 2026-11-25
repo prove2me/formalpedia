@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_ev_pow_div
 -- name    : GlobalTheory.LevCover.ev_pow_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:16:08.855304+00:00
 -- url     : https://prove2.me/theorems/b1c97c2f-940a-4273-bbc2-55f715245bc6

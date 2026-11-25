@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnramifiedExtensions_comb_injective
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions.comb_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:52:42.296295+00:00
 -- url     : https://prove2.me/theorems/2b678691-8cba-48e1-8c56-8a25a55b093a

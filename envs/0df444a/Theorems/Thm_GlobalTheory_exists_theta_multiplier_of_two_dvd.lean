@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_theta_multiplier_of_two_dvd
 -- name    : GlobalTheory.exists_theta_multiplier_of_two_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:41:58.489415+00:00
 -- url     : https://prove2.me/theorems/06fa9a3f-cfc3-4e43-9590-75705489def2

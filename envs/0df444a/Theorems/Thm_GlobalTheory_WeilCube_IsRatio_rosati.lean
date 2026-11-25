@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCube_IsRatio_rosati
 -- name    : GlobalTheory.WeilCube.IsRatio.rosati
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:41.960801+00:00
 -- url     : https://prove2.me/theorems/9749e9a7-9f27-43f4-a145-8452b002a85d

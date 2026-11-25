@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockDetDer_hasDerivAt_det_one_sub_sq
 -- name    : GlobalTheory.FockDetDer.hasDerivAt_det_one_sub_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:34:15.667797+00:00
 -- url     : https://prove2.me/theorems/3a2f4e8a-51ac-4398-9256-cee3fb5e7ddc

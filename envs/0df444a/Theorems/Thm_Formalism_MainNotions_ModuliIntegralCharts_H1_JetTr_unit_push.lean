@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_JetTr_unit_push
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.JetTr.unit_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:04:05.074027+00:00
 -- url     : https://prove2.me/theorems/314fb40f-3834-5001-9f9c-c5a1a9d7e360

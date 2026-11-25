@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_PlacesExt_projLine_const
 -- name    : GlobalTheory.SS.PlacesExt.projLine_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:21:31.819227+00:00
 -- url     : https://prove2.me/theorems/d4be187c-9444-4d7d-b67a-0bca0582eeb2

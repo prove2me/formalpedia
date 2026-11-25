@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_CayleyOm_eval_pow_of_commute
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.CayleyOm.eval_pow_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:12:35.761345+00:00
 -- url     : https://prove2.me/theorems/5c204658-79b2-4a51-8e00-d6d2a548c9cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_formalGroup_add_estimate
 -- name    : ReciprocityTheory.ChartRestriction.L1.formalGroup_add_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:45:20.417662+00:00
 -- url     : https://prove2.me/theorems/120d3ba9-0f91-468e-a3c1-b2b5c49d93f5

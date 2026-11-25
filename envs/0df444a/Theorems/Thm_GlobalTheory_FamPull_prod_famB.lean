@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamPull_prod_famB
 -- name    : GlobalTheory.FamPull.prod_famB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:13:05.445019+00:00
 -- url     : https://prove2.me/theorems/83e31020-5ef3-4171-a53c-2d7fd6ea9ef7

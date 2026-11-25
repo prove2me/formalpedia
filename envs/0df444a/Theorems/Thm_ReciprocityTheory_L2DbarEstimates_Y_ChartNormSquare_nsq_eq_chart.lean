@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_ChartNormSquare_nsq_eq_chart
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.ChartNormSquare.nsq_eq_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:59:54.284015+00:00
 -- url     : https://prove2.me/theorems/1e0b06ac-8b1d-5c56-ab94-e56d0f11488e

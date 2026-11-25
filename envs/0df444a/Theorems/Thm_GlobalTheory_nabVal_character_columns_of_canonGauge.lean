@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nabVal_character_columns_of_canonGauge
 -- name    : GlobalTheory.nabVal_character_columns_of_canonGauge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:04:49.274382+00:00
 -- url     : https://prove2.me/theorems/ab758ae5-9523-43ed-abf6-7c0c3d61622f

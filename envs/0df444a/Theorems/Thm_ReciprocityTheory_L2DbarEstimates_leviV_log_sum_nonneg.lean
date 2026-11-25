@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_leviV_log_sum_nonneg
 -- name    : ReciprocityTheory.L2DbarEstimates.leviV_log_sum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:36:24.412799+00:00
 -- url     : https://prove2.me/theorems/f6cd3021-1fdf-4236-a915-c46340c89b33

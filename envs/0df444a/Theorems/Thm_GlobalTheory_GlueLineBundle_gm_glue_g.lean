@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueLineBundle_gm_glue_g
 -- name    : GlobalTheory.GlueLineBundle.gm_glue_g
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:08:05.172297+00:00
 -- url     : https://prove2.me/theorems/c73b2059-de7e-4f5c-ae77-62a72660207a

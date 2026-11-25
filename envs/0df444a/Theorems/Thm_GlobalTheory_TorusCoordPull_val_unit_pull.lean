@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoordPull_val_unit_pull
 -- name    : GlobalTheory.TorusCoordPull.val_unit_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:53.242574+00:00
 -- url     : https://prove2.me/theorems/1c0a4a43-b2fc-402f-87f0-6138d782f768

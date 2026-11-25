@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_LogPf_mul_om
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.LogPf.mul_om
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:57:58.215861+00:00
 -- url     : https://prove2.me/theorems/7131ae23-9cd5-4b4f-8d32-a8a2177374d7

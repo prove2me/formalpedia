@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_pow_eq_one_of_kill
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.pow_eq_one_of_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:44:24.831228+00:00
 -- url     : https://prove2.me/theorems/261101c0-48a2-4aac-bcff-cd1993ca89d4

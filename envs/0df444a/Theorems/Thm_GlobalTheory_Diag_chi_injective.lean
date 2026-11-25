@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_chi_injective
 -- name    : GlobalTheory.Diag.chi_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:24:30.420976+00:00
 -- url     : https://prove2.me/theorems/acd7e2fd-cee1-545f-8533-bbc53fd345b1

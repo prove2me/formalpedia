@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHomOnto_exists_coords
 -- name    : GlobalTheory.HolHomOnto.exists_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:02:41.966836+00:00
 -- url     : https://prove2.me/theorems/a1577a2d-881c-581e-b077-b512eda4e962

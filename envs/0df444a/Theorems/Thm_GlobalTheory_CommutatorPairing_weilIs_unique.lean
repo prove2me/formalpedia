@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommutatorPairing_weilIs_unique
 -- name    : GlobalTheory.CommutatorPairing.weilIs_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:49.497798+00:00
 -- url     : https://prove2.me/theorems/ab8c4f75-4911-4db6-8254-64b19cf50fbe

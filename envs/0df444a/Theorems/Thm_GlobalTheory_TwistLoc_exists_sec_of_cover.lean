@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistLoc_exists_sec_of_cover
 -- name    : GlobalTheory.TwistLoc.exists_sec_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:13:12.098811+00:00
 -- url     : https://prove2.me/theorems/090919d6-85d0-509b-91e0-c1c6c7aa7ad4

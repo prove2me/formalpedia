@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_gram_herm
 -- name    : GlobalTheory.IsLatticeEmb.gram_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:37:48.161964+00:00
 -- url     : https://prove2.me/theorems/0aed67b6-63d5-50eb-abdf-d00900662141

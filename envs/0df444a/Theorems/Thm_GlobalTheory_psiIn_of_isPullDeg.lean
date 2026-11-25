@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_psiIn_of_isPullDeg
 -- name    : GlobalTheory.psiIn_of_isPullDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:16:15.379629+00:00
 -- url     : https://prove2.me/theorems/71480781-de1d-4736-8750-f61ce0b2d23b

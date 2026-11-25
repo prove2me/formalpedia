@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dict_theta_X
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dict.theta_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:18:05.937229+00:00
 -- url     : https://prove2.me/theorems/cbe254fc-5d15-40da-98a4-f76ee6f6a637

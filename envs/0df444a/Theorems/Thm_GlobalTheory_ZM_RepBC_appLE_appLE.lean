@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_RepBC_appLE_appLE
 -- name    : GlobalTheory.ZM.RepBC.appLE_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:17:43.885031+00:00
 -- url     : https://prove2.me/theorems/4026f159-3f00-4e7a-9196-a7acdc93017b

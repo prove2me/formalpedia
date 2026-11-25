@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Par_chPrime_le_of_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Par.chPrime_le_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:16:36.848365+00:00
 -- url     : https://prove2.me/theorems/64185f7d-3789-4e43-8132-0c4eab1051bd

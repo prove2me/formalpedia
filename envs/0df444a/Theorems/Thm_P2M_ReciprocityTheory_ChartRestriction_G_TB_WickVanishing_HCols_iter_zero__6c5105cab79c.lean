@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_HCols_iter_zero__6c5105cab79c
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_HCols_iter_zero__6c5105cab79c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:03:25.310466+00:00
 -- url     : https://prove2.me/theorems/c18894d6-3a45-5072-ad15-446abb0f5297

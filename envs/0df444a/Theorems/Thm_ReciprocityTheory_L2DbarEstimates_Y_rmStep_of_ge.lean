@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_rmStep_of_ge
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.rmStep_of_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:01:25.731143+00:00
 -- url     : https://prove2.me/theorems/0ed95b17-3e83-5b50-bd7c-50858de32ce3

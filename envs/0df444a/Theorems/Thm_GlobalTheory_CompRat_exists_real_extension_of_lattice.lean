@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompRat_exists_real_extension_of_lattice
 -- name    : GlobalTheory.CompRat.exists_real_extension_of_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:19:52.749602+00:00
 -- url     : https://prove2.me/theorems/668d77b8-a5e1-588d-b473-25049a07f2cb

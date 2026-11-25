@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartDensityIntegrable_proof_2baed358c155
 -- name    : P2M_GroundTheory_Heights__Heights_ChartDensityIntegrable_proof_2baed358c155
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:50:46.679517+00:00
 -- url     : https://prove2.me/theorems/0249a24c-9f4b-4385-8725-6155a63d7c03

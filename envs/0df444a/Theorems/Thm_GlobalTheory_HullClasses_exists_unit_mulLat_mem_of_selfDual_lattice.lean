@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HullClasses_exists_unit_mulLat_mem_of_selfDual_lattice
 -- name    : GlobalTheory.HullClasses.exists_unit_mulLat_mem_of_selfDual_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:19:01.861712+00:00
 -- url     : https://prove2.me/theorems/d3bc1235-ffd0-4cc5-8edb-a01aa082b04d

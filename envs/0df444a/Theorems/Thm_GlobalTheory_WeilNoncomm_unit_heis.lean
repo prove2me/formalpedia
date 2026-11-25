@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilNoncomm_unit_heis
 -- name    : GlobalTheory.WeilNoncomm.unit_heis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:09:05.441027+00:00
 -- url     : https://prove2.me/theorems/4b2f284b-4286-4035-ab7e-eb4672de69ef

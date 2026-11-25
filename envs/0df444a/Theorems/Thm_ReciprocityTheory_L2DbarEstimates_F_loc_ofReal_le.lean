@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_loc_ofReal_le
 -- name    : ReciprocityTheory.L2DbarEstimates.F.loc_ofReal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:57:28.373432+00:00
 -- url     : https://prove2.me/theorems/31fcd31d-4156-4e87-a018-fe170cc99363

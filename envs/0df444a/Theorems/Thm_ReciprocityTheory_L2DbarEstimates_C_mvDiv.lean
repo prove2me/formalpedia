@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_mvDiv
 -- name    : ReciprocityTheory.L2DbarEstimates.C.mvDiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:55:06.303049+00:00
 -- url     : https://prove2.me/theorems/b6706ddf-c3fe-42d5-b02d-c30cdb13ae4c

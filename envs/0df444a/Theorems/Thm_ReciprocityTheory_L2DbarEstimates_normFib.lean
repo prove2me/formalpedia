@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_normFib
 -- name    : ReciprocityTheory.L2DbarEstimates.normFib
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:01:20.191133+00:00
 -- url     : https://prove2.me/theorems/73438b83-6210-4415-ab1e-f1faf3f9572d

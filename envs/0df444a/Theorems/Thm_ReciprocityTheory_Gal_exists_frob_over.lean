@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_exists_frob_over
 -- name    : ReciprocityTheory.Gal.exists_frob_over
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:19:38.265587+00:00
 -- url     : https://prove2.me/theorems/33a6cb69-523f-4e33-ba14-4d6b568abb0f

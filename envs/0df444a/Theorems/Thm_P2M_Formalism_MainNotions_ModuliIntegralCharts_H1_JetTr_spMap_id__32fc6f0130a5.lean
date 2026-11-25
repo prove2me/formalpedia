@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_JetTr_spMap_id__32fc6f0130a5
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_JetTr_spMap_id__32fc6f0130a5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:10:35.380149+00:00
 -- url     : https://prove2.me/theorems/da01b1dc-09bc-4d3c-8fa0-b99c167b5d6e

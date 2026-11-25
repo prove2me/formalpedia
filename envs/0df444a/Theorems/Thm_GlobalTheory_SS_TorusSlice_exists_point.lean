@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorusSlice_exists_point
 -- name    : GlobalTheory.SS.TorusSlice.exists_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:19:48.267001+00:00
 -- url     : https://prove2.me/theorems/c690528e-9391-407f-80b7-37dea3131598

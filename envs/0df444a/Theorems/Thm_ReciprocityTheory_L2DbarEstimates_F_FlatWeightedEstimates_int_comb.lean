@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_FlatWeightedEstimates_int_comb
 -- name    : ReciprocityTheory.L2DbarEstimates.F.FlatWeightedEstimates.int_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:56:21.760369+00:00
 -- url     : https://prove2.me/theorems/3f15f0c8-8078-5db9-9ffe-64e96bd10b7e

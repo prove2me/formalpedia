@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreDeriv_isDerivAt0_iff
 -- name    : GlobalTheory.FibreDeriv.isDerivAt0_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:59:23.649345+00:00
 -- url     : https://prove2.me/theorems/38b762de-ed93-59e2-b90b-202ea84a4e17

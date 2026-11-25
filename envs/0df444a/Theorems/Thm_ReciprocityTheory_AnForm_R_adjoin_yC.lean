@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_adjoin_yC
 -- name    : ReciprocityTheory.AnForm.R.adjoin_yC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:59:34.852374+00:00
 -- url     : https://prove2.me/theorems/357083fd-69f3-5e7c-9c89-c6947631bcfe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_ratOf_secOnOf_self
 -- name    : GlobalTheory.Cartier.ratOf_secOnOf_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:11:06.59438+00:00
 -- url     : https://prove2.me/theorems/5b3e0818-7a6e-47c4-82da-2e14c098f73c

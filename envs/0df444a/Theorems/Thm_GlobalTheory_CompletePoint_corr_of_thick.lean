@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletePoint_corr_of_thick
 -- name    : GlobalTheory.CompletePoint.corr_of_thick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:31:49.261048+00:00
 -- url     : https://prove2.me/theorems/05634340-b497-427c-89ab-fd60c3eef23a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxSpan_boxProducts_span
 -- name    : GlobalTheory.BoxSpan.boxProducts_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:04:37.938329+00:00
 -- url     : https://prove2.me/theorems/1715c6a5-86ac-47ef-9d9d-4d3532a92dcd

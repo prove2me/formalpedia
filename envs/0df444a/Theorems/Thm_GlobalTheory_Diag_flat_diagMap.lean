@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_flat_diagMap
 -- name    : GlobalTheory.Diag.flat_diagMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:06:01.826597+00:00
 -- url     : https://prove2.me/theorems/6f272d22-8315-48c0-a75e-4643037dbbe7

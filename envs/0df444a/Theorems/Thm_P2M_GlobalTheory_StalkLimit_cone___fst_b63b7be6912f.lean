@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_StalkLimit_cone___fst_b63b7be6912f
 -- name    : P2M_GlobalTheory_StalkLimit_cone___fst_b63b7be6912f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:17:51.995056+00:00
 -- url     : https://prove2.me/theorems/6227e19d-ef7b-44de-98e5-00d257b6e09e

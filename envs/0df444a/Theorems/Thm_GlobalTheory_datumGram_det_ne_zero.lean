@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_datumGram_det_ne_zero
 -- name    : GlobalTheory.datumGram_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:38:41.371372+00:00
 -- url     : https://prove2.me/theorems/df17d6a7-c102-5c8c-87a1-69fa3c4cfacc

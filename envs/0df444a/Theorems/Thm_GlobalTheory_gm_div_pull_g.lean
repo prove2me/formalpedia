@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gm_div_pull_g
 -- name    : GlobalTheory.gm_div_pull_g
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:14:43.566693+00:00
 -- url     : https://prove2.me/theorems/980b7af3-7863-5c2d-ba05-3b217ece736a

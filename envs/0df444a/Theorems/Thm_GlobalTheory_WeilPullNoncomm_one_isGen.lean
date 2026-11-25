@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilPullNoncomm_one_isGen
 -- name    : GlobalTheory.WeilPullNoncomm.one_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:07:18.442777+00:00
 -- url     : https://prove2.me/theorems/cdc15428-85f4-4f1c-8cab-44155e8f14de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_R1_of_first_5beb06046114
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_R1_of_first_5beb06046114
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:23:57.72632+00:00
 -- url     : https://prove2.me/theorems/313a3b76-cb9c-4315-a1f6-0a54e995b2ae

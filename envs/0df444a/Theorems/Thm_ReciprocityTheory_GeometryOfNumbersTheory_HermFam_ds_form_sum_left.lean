@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_HermFam_ds_form_sum_left
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.HermFam.ds_form_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:08:54.219107+00:00
 -- url     : https://prove2.me/theorems/97592a6f-7418-4aed-b4df-943bd96f8b93

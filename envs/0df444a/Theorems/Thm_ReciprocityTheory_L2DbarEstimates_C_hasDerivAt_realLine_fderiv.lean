@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_hasDerivAt_realLine_fderiv
 -- name    : ReciprocityTheory.L2DbarEstimates.C.hasDerivAt_realLine_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:18:27.482935+00:00
 -- url     : https://prove2.me/theorems/a81fc29a-c15a-4964-9657-25019b0331e4

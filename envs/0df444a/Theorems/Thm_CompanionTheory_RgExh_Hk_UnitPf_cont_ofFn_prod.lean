@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_Hk_UnitPf_cont_ofFn_prod
 -- name    : CompanionTheory.RgExh.Hk.UnitPf.cont_ofFn_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:18:10.440914+00:00
 -- url     : https://prove2.me/theorems/dc54bcc0-284b-517a-a8e9-a1599ffbba99

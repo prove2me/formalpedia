@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lb_div_isLB
 -- name    : GlobalTheory.lb_div_isLB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:25:34.082327+00:00
 -- url     : https://prove2.me/theorems/ee55c15d-1b20-5157-8dca-7fe25baf9cc5

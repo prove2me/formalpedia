@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_sImg_succAbove
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.sImg_succAbove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:28:30.160865+00:00
 -- url     : https://prove2.me/theorems/136a275d-ebb3-4219-ba6c-8959f4261583

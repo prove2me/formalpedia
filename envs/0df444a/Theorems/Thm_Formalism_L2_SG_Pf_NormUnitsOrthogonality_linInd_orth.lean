@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_NormUnitsOrthogonality_linInd_orth
 -- name    : Formalism.L2.SG.Pf.NormUnitsOrthogonality.linInd_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:56:03.804827+00:00
 -- url     : https://prove2.me/theorems/30519c4d-7fd7-5bf0-97ab-972323054d59

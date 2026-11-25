@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_lintegral_weighted_entry_lt_top
 -- name    : ReciprocityTheory.L2DbarEstimates.F.lintegral_weighted_entry_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:55:53.113883+00:00
 -- url     : https://prove2.me/theorems/d95215a6-4932-5b44-9fe3-9b9a49e371de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaLift_exists_congr
 -- name    : GlobalTheory.InertiaLift.exists_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:15:47.773141+00:00
 -- url     : https://prove2.me/theorems/7a392ce3-f056-4193-9469-7d3958cc80e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_finite_subgroup_GL_int_dvd
 -- name    : GlobalTheory.card_finite_subgroup_GL_int_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:08:31.811587+00:00
 -- url     : https://prove2.me/theorems/1b4de662-3d5e-43d7-aeb3-8842fba74074

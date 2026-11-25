@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_tl_hasDerivAt_kp
 -- name    : ReciprocityTheory.L2DbarEstimates.I.tl_hasDerivAt_kp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:00:44.597594+00:00
 -- url     : https://prove2.me/theorems/afab292a-321f-5694-9225-3a32aa593297

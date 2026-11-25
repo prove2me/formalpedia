@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z2_primitive_plane_local
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z2.primitive_plane_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:58:04.172839+00:00
 -- url     : https://prove2.me/theorems/a99ad919-08db-48c2-84fd-c8102da31a83

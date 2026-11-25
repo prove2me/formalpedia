@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_decay_of_vanishing_at_cusps__97d5fc80e808
 -- name    : P2M_GlobalTheory_T_decay_of_vanishing_at_cusps__97d5fc80e808
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:10:28.941802+00:00
 -- url     : https://prove2.me/theorems/383c64fa-3dd6-4efd-a9e3-f4614c061d00

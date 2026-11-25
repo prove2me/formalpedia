@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagMahler_hermC_expand
 -- name    : GlobalTheory.FlagMahler.hermC_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:58:38.354697+00:00
 -- url     : https://prove2.me/theorems/efc48bc2-8cff-59b0-9e41-0e6f6944c41c

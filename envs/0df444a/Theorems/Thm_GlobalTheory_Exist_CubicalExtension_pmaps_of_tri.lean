@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Exist_CubicalExtension_pmaps_of_tri
 -- name    : GlobalTheory.Exist.CubicalExtension.pmaps_of_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:50:58.604828+00:00
 -- url     : https://prove2.me/theorems/c74ac87e-9330-4523-9474-131bbefa0848

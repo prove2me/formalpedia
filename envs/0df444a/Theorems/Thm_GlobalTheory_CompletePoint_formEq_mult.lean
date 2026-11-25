@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletePoint_formEq_mult
 -- name    : GlobalTheory.CompletePoint.formEq_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:32:10.039629+00:00
 -- url     : https://prove2.me/theorems/efd65cb6-88cb-5538-a6a5-8f27d465cd21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_kPsi_inner
 -- name    : ReciprocityTheory.L2DbarEstimates.F.kPsi_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:55:22.508942+00:00
 -- url     : https://prove2.me/theorems/eae17f90-1826-505c-8a93-2c6b4632bef5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_cmpa_wdb_log
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.cmpa_wdb_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:01:14.403917+00:00
 -- url     : https://prove2.me/theorems/416c6fc8-45d8-430c-80f4-51ce9f5489ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_baseChangeIso_naturality
 -- name    : GlobalTheory.Diag.baseChangeIso_naturality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:07:12.134439+00:00
 -- url     : https://prove2.me/theorems/23adbc66-0290-408a-8445-031c656172cb

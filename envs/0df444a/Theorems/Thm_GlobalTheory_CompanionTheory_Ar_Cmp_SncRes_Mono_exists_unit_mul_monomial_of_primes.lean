@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Mono_exists_unit_mul_monomial_of_primes
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Mono.exists_unit_mul_monomial_of_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:26:39.286589+00:00
 -- url     : https://prove2.me/theorems/06673c80-6f32-5a45-9aa6-ba5d06b08c87

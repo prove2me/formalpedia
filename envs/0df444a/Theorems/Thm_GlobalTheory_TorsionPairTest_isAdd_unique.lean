@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionPairTest_isAdd_unique
 -- name    : GlobalTheory.TorsionPairTest.isAdd_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:32:44.85191+00:00
 -- url     : https://prove2.me/theorems/37119d5e-21c0-5849-ac19-76c7dadc4fdf

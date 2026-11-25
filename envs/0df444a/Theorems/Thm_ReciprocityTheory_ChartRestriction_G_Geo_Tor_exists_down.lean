@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_exists_down
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.exists_down
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:17:56.206992+00:00
 -- url     : https://prove2.me/theorems/3fda0d3a-8872-4d9d-8da1-1c26e334c817

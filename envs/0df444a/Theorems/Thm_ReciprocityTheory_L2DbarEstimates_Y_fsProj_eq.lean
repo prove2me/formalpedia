@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_fsProj_eq
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.fsProj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:00:31.16666+00:00
 -- url     : https://prove2.me/theorems/f8568306-6d4a-48f0-870f-3ac17b591542

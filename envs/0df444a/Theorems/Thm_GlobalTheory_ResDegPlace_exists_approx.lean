@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResDegPlace_exists_approx
 -- name    : GlobalTheory.ResDegPlace.exists_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:09:41.146733+00:00
 -- url     : https://prove2.me/theorems/bca32529-a141-5b1a-8ba7-d3b1c20f5982

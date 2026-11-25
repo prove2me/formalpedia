@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_HasForm_of_comp
 -- name    : GlobalTheory.LocLift.HasForm.of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:20:31.960696+00:00
 -- url     : https://prove2.me/theorems/dbe460d5-9bf8-4e85-a401-eb1453e62f83

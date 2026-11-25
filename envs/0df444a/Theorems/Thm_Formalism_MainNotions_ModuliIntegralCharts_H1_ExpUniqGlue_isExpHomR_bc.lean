@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqGlue_isExpHomR_bc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqGlue.isExpHomR_bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:38:20.536708+00:00
 -- url     : https://prove2.me/theorems/ef7bb0a1-b7cd-4bde-a48c-f519f74b73e2

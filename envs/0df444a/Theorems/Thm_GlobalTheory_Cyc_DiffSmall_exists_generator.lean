@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_DiffSmall_exists_generator
 -- name    : GlobalTheory.Cyc.DiffSmall.exists_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:03:30.052955+00:00
 -- url     : https://prove2.me/theorems/a7c3080d-4131-5bf9-b6e0-c5c5fd47b924

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_apra_blow
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.apra_blow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:01:26.109693+00:00
 -- url     : https://prove2.me/theorems/589c5574-f327-56d0-9343-4a5f5cb55400

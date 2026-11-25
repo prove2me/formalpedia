@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_NormUnitsOrthogonality_gram_det_change
 -- name    : Formalism.L2.SG.Pf.NormUnitsOrthogonality.gram_det_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:16:26.261246+00:00
 -- url     : https://prove2.me/theorems/ed39247c-4f59-4d09-ba24-93c9f7deb7e8

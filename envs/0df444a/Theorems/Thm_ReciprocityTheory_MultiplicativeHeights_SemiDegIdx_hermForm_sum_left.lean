@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_hermForm_sum_left
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.hermForm_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:01:40.909729+00:00
 -- url     : https://prove2.me/theorems/aec8c966-f4cb-4063-9a36-543c66f2f2ea

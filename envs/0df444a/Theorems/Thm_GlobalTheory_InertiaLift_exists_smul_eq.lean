@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaLift_exists_smul_eq
 -- name    : GlobalTheory.InertiaLift.exists_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:19:36.145104+00:00
 -- url     : https://prove2.me/theorems/676d9765-891a-49b2-bb31-fe333d6d852c

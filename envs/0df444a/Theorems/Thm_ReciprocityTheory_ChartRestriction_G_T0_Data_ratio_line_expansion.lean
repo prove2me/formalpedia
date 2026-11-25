@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_ratio_line_expansion
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.ratio_line_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:07:26.456628+00:00
 -- url     : https://prove2.me/theorems/f35b7db7-b7a8-410d-8b05-3231dbbb0af4

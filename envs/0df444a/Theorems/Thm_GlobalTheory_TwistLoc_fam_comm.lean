@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistLoc_fam_comm
 -- name    : GlobalTheory.TwistLoc.fam_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:14:21.854374+00:00
 -- url     : https://prove2.me/theorems/5be4880b-8c05-5549-ac2f-bcc15159e961

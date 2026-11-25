@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_FourPlusTwoResidual_exists_admissible_affine_denominator
 -- name    : HodgeComputer.FourPlusTwoResidual.exists_admissible_affine_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-25T14:28:16.315525+00:00
 -- url     : https://prove2.me/theorems/6273c0e9-f0a6-4ad6-b472-cdaaf6a1376a

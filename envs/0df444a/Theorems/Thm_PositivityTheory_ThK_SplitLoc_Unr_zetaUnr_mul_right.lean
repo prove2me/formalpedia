@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_zetaUnr_mul_right
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.zetaUnr_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:13:57.360637+00:00
 -- url     : https://prove2.me/theorems/6e8f69cb-1387-47b8-924d-aa20e64e08e0

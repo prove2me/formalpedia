@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelFibre_inGam_of_diff
 -- name    : GlobalTheory.LevelFibre.inGam_of_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:03:21.44465+00:00
 -- url     : https://prove2.me/theorems/7ff15bb5-65a4-4383-b0c7-ee4810c56202

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Glob_InertiaLift_exists_residue_correction
 -- name    : GlobalTheory.CompanionTheory.Glob.InertiaLift.exists_residue_correction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:01:27.654656+00:00
 -- url     : https://prove2.me/theorems/4d03a5f3-7eac-4667-8e00-87cf1b5e64e3

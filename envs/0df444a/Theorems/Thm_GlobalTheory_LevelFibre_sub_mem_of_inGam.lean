@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelFibre_sub_mem_of_inGam
 -- name    : GlobalTheory.LevelFibre.sub_mem_of_inGam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:30.718478+00:00
 -- url     : https://prove2.me/theorems/b5e74941-75de-49d1-9177-1be8096916c9

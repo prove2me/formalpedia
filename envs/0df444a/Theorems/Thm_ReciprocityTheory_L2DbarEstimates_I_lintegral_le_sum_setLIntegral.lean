@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_lintegral_le_sum_setLIntegral
 -- name    : ReciprocityTheory.L2DbarEstimates.I.lintegral_le_sum_setLIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:04:21.635992+00:00
 -- url     : https://prove2.me/theorems/354d4459-0770-5af8-890b-17cebee974e7

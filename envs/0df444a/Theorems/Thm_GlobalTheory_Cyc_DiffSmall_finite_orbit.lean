@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_DiffSmall_finite_orbit
 -- name    : GlobalTheory.Cyc.DiffSmall.finite_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:12:12.584953+00:00
 -- url     : https://prove2.me/theorems/18c58ea2-94b3-4b8d-a950-19c452bd4ef9

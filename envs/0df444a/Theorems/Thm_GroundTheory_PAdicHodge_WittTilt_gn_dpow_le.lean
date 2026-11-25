@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_gn_dpow_le
 -- name    : GroundTheory.PAdicHodge.WittTilt.gn_dpow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:47:11.6358+00:00
 -- url     : https://prove2.me/theorems/e0bd6f05-d3e4-4ed3-8bbc-08f666f0cba6

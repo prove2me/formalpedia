@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActionGauge_exists_action_gauge
 -- name    : GlobalTheory.ActionGauge.exists_action_gauge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:53:55.536934+00:00
 -- url     : https://prove2.me/theorems/449f9eb9-4b74-49bc-8147-c4edd930cd68

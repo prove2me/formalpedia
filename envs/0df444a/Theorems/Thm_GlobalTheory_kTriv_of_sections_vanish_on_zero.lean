@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_kTriv_of_sections_vanish_on_zero
 -- name    : GlobalTheory.kTriv_of_sections_vanish_on_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:17.307811+00:00
 -- url     : https://prove2.me/theorems/c17fa456-24b8-4341-b9ad-b2ae5060d49e

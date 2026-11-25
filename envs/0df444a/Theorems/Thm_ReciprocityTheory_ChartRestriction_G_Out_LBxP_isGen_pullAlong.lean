@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_LBxP_isGen_pullAlong
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.LBxP.isGen_pullAlong
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:53:18.341703+00:00
 -- url     : https://prove2.me/theorems/9d55bf14-28f4-43ef-a9af-32d5062758ad

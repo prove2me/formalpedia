@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_uphi_Hfun_span
 -- name    : ReciprocityTheory.Cheb.uphi_Hfun_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:50:03.314464+00:00
 -- url     : https://prove2.me/theorems/8ffe73f9-3604-4f84-8244-38ec6fc7ca44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_isFastPlane_exp_smul_comp_affine
 -- name    : FiniteEnergyPlane.isFastPlane_exp_smul_comp_affine
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-25T13:42:34.103681+00:00
 -- url     : https://prove2.me/theorems/cbc7471b-702c-46e0-81a4-1ba7548843f6

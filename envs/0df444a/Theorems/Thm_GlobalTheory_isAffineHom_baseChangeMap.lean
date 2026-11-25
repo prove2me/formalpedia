@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isAffineHom_baseChangeMap
 -- name    : GlobalTheory.isAffineHom_baseChangeMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:06:21.19757+00:00
 -- url     : https://prove2.me/theorems/e7fcb9c0-0518-4513-83b7-6334f8f52dde

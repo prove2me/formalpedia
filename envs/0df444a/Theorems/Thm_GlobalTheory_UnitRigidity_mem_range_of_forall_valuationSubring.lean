@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitRigidity_mem_range_of_forall_valuationSubring
 -- name    : GlobalTheory.UnitRigidity.mem_range_of_forall_valuationSubring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:20:13.58064+00:00
 -- url     : https://prove2.me/theorems/d31b7c67-b0e0-4733-8fbb-e814ebd4f34b
