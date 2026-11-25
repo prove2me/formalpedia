@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CoordFn_surjective_eval_Hom_awayCoord_b9296fda01ae
 -- name    : P2M_GlobalTheory_CoordFn_surjective_eval_Hom_awayCoord_b9296fda01ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:43:27.380158+00:00
 -- url     : https://prove2.me/theorems/cb9aee65-1058-5c7d-a4d7-530c7ff84697

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_fourier_coefficients_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.fourier_coefficients_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:50:09.457844+00:00
 -- url     : https://prove2.me/theorems/dc3079a5-7896-42f1-a427-4788eb8e926e

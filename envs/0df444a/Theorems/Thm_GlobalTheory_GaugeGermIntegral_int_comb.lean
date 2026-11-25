@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeGermIntegral_int_comb
 -- name    : GlobalTheory.GaugeGermIntegral.int_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:27:50.205137+00:00
 -- url     : https://prove2.me/theorems/7c315552-8444-4abb-aa46-9b5c15185440

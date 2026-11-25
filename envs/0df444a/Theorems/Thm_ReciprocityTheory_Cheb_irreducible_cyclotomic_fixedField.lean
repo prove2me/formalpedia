@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_irreducible_cyclotomic_fixedField
 -- name    : ReciprocityTheory.Cheb.irreducible_cyclotomic_fixedField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:48:13.221155+00:00
 -- url     : https://prove2.me/theorems/090fa2e3-d842-4739-9b4c-2d679ccaef65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_dmap_cover
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.dmap_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:08:20.805308+00:00
 -- url     : https://prove2.me/theorems/d4c4634d-812f-4136-91b4-b7c541757af9

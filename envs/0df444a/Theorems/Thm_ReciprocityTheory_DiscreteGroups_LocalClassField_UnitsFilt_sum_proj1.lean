@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnitsFilt_sum_proj1
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnitsFilt.sum_proj1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:52:31.713859+00:00
 -- url     : https://prove2.me/theorems/b7e32029-aa97-429b-835f-100a66c90d2f

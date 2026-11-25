@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_bGram_isHermitian
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.bGram_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:52:19.486815+00:00
 -- url     : https://prove2.me/theorems/6d466644-6392-5438-bdb8-6621f05adf2a

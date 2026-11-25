@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_QuadraticLatticeForms_Am_posDef
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.QuadraticLatticeForms.Am_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:41:56.131799+00:00
 -- url     : https://prove2.me/theorems/9a3d09d9-a9ac-4ae1-9897-ba4fbf83b20b

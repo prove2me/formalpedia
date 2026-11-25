@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Exist_CubicalExtension_unit_ext_of_injective
 -- name    : GlobalTheory.Exist.CubicalExtension.unit_ext_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:45:30.445864+00:00
 -- url     : https://prove2.me/theorems/ea00b5ed-1935-5892-8222-b9526b590231

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_leadAt_prod
 -- name    : ReciprocityTheory.ChartRestriction.L1.leadAt_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:53:38.28617+00:00
 -- url     : https://prove2.me/theorems/7fe603cb-6698-47e4-9b3e-f533a4b6929b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_WA_gmap_loc_eq_of_frame
 -- name    : ReciprocityTheory.ChartRestriction.L3.WA.gmap_loc_eq_of_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:47:51.390817+00:00
 -- url     : https://prove2.me/theorems/df21e6d5-9dbf-5810-ba6f-786f391682c0

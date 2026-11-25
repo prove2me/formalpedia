@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompletePoint_prod_gt_T_c59e414e56f6
 -- name    : P2M_GlobalTheory_CompletePoint_prod_gt_T_c59e414e56f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:44:53.222802+00:00
 -- url     : https://prove2.me/theorems/88565765-20a1-553a-81f5-dc79f6c4fe75

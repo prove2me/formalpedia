@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_bI_succ
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.bI_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:52:20.15306+00:00
 -- url     : https://prove2.me/theorems/513d54e2-97fa-57ed-ad9f-fdd5bc00c140

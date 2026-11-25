@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SegreCoord_secCoord_box
 -- name    : GlobalTheory.SegreCoord.secCoord_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:52:23.558935+00:00
 -- url     : https://prove2.me/theorems/02f4b047-3096-421b-b491-6528e90ef82e

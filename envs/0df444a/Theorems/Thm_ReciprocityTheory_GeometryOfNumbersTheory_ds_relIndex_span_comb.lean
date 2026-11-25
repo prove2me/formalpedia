@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_ds_relIndex_span_comb
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.ds_relIndex_span_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:53:08.828983+00:00
 -- url     : https://prove2.me/theorems/5dea8197-ff65-53a4-a426-4378e5b8c3be

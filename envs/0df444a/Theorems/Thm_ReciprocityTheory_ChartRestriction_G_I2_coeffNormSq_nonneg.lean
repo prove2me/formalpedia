@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_coeffNormSq_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.coeffNormSq_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:28:32.017853+00:00
 -- url     : https://prove2.me/theorems/04076d22-1fc8-4fb2-9346-c5ac8da6ca36

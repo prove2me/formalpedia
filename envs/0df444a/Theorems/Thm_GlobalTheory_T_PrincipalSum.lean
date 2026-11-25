@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_PrincipalSum
 -- name    : GlobalTheory.T.PrincipalSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:57:50.149914+00:00
 -- url     : https://prove2.me/theorems/47ba0734-f4ba-479e-b0e4-dc6ecac00162

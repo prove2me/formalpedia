@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimilUnit_IsVal_pull
 -- name    : GlobalTheory.SimilUnit.IsVal.pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:28:01.271235+00:00
 -- url     : https://prove2.me/theorems/1bc40a1f-e74b-45ff-aaf2-2e3edd9bc911

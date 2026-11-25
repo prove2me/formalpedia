@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_lg_step
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.lg_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:50.924667+00:00
 -- url     : https://prove2.me/theorems/c29c04df-0901-4a76-aaf2-2a8caf9b210c

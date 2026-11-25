@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_LogPf_jac_F
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.LogPf.jac_F
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:54:32.460853+00:00
 -- url     : https://prove2.me/theorems/bd8c373d-9506-478f-a7ed-93d4b988cd7c

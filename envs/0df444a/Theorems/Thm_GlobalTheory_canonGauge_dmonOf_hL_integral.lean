@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_canonGauge_dmonOf_hL_integral
 -- name    : GlobalTheory.canonGauge_dmonOf_hL_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:39:47.201224+00:00
 -- url     : https://prove2.me/theorems/6fadff51-8fa8-4fdb-97cd-04a0a2fd98b4

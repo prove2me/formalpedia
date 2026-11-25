@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxCusp_Mmat_mulVec
 -- name    : GlobalTheory.MaxCusp.Mmat_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:05.217449+00:00
 -- url     : https://prove2.me/theorems/aaca6fe9-3df1-42a1-b19e-910d97dfa971

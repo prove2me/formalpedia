@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_isTest_logCutoff_mul
 -- name    : ReciprocityTheory.L2DbarEstimates.C.isTest_logCutoff_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:55:40.595908+00:00
 -- url     : https://prove2.me/theorems/14f8bce8-3775-4d32-9901-db07c9a1528d

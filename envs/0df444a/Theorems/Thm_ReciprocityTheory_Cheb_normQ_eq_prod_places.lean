@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_normQ_eq_prod_places
 -- name    : ReciprocityTheory.Cheb.normQ_eq_prod_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:48:23.231671+00:00
 -- url     : https://prove2.me/theorems/521e0afc-1fd7-517e-84c2-4ef3321ba496

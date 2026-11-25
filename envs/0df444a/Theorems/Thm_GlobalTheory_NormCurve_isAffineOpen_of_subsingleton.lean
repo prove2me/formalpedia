@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCurve_isAffineOpen_of_subsingleton
 -- name    : GlobalTheory.NormCurve.isAffineOpen_of_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:31:29.041118+00:00
 -- url     : https://prove2.me/theorems/6231c0f5-59ba-5a08-a8df-2c3757320abd

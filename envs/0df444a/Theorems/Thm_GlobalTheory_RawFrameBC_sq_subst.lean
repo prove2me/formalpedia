@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawFrameBC_sq_subst
 -- name    : GlobalTheory.RawFrameBC.sq_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:16:09.797804+00:00
 -- url     : https://prove2.me/theorems/93004196-97a2-4189-8110-b2fd4a19c891

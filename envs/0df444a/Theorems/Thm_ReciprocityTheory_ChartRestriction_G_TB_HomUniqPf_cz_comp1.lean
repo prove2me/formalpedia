@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_HomUniqPf_cz_comp1
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.HomUniqPf.cz_comp1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:40:50.864926+00:00
 -- url     : https://prove2.me/theorems/a595adde-821d-44a0-a952-c1e6b7eadb90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_FactorialDivisibilityBounds_rfac_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.FactorialDivisibilityBounds.rfac_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:40:39.833931+00:00
 -- url     : https://prove2.me/theorems/c186eb39-f882-4737-8ef8-a596eaac7060

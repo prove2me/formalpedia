@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_mem_inertiaGroup
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.mem_inertiaGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:51:37.52689+00:00
 -- url     : https://prove2.me/theorems/78dcfe94-afb8-55d4-a6a7-bacb1cd4c7cd

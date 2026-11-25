@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxDetUnique_isProper_powObj
 -- name    : GlobalTheory.BoxDetUnique.isProper_powObj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:03:38.482946+00:00
 -- url     : https://prove2.me/theorems/5dc4e3f1-b286-480f-b37a-471969f0eeab

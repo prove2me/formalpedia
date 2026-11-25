@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_bumpProf_scale
 -- name    : ReciprocityTheory.L2DbarEstimates.C.bumpProf_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:54:26.979344+00:00
 -- url     : https://prove2.me/theorems/eab01964-4847-47a7-9aee-8ddd9ed68438

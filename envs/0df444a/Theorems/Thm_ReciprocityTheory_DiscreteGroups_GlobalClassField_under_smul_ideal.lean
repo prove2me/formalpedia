@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_under_smul_ideal
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.under_smul_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:51:48.305734+00:00
 -- url     : https://prove2.me/theorems/446d9411-956b-45d6-8ed9-4e746ac941e6

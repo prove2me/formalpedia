@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassLie_exists_eq_vec
 -- name    : GlobalTheory.WeierstrassLie.exists_eq_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:42:30.56683+00:00
 -- url     : https://prove2.me/theorems/6e5aa245-7e9d-41dc-9488-f477c509b3ef

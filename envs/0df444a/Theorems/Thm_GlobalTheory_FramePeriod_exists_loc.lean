@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePeriod_exists_loc
 -- name    : GlobalTheory.FramePeriod.exists_loc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:37:17.301994+00:00
 -- url     : https://prove2.me/theorems/e8566bee-a2e6-4539-8b66-90476214a6b7

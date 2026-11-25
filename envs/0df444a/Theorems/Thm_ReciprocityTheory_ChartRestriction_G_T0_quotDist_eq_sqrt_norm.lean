@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_quotDist_eq_sqrt_norm
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.quotDist_eq_sqrt_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:04:17.359476+00:00
 -- url     : https://prove2.me/theorems/4b1501f4-60b0-4f60-93c4-731466ef5bce

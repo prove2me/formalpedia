@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_isFrobAt_smul
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.isFrobAt_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:51:23.557686+00:00
 -- url     : https://prove2.me/theorems/614fb256-51c1-5c59-b4d0-2a7bb8a87dd2

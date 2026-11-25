@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_col_inl_step
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.col_inl_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:30:24.68896+00:00
 -- url     : https://prove2.me/theorems/c077aeb2-09ec-58f6-bd04-7c35484c0fdb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_isGalois_cyclotomicField
 -- name    : ReciprocityTheory.Cheb.isGalois_cyclotomicField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:48:20.686334+00:00
 -- url     : https://prove2.me/theorems/6465eda7-5129-46cf-a6c5-84942c27c771

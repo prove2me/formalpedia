@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_coefficient_index_lower_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.coefficient_index_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:22:57.121498+00:00
 -- url     : https://prove2.me/theorems/ab839b8f-bbbf-5a8d-94f5-853d659e9198

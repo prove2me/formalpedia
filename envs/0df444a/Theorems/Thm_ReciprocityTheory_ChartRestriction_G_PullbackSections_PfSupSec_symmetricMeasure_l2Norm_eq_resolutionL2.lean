@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_PfSupSec_symmetricMeasure_l2Norm_eq_resolutionL2
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.PfSupSec.symmetricMeasure_l2Norm_eq_resolutionL2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:54:51.137963+00:00
 -- url     : https://prove2.me/theorems/c836bab9-76f7-4922-b5d4-21c567722695

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_splitA_finite_not_coprime
 -- name    : ReciprocityTheory.Cheb.splitA_finite_not_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:21:54.023013+00:00
 -- url     : https://prove2.me/theorems/6eba6518-3b4c-4ee9-ba43-44264a64967b

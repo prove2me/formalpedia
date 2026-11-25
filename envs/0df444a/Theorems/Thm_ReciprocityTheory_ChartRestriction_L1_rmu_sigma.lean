@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_rmu_sigma
 -- name    : ReciprocityTheory.ChartRestriction.L1.rmu_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:48:33.820949+00:00
 -- url     : https://prove2.me/theorems/cf91b92c-4a8a-5215-91c8-aa183be81391

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_hd_zero_eval
 -- name    : ReciprocityTheory.Coh.hd_zero_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:51:14.541068+00:00
 -- url     : https://prove2.me/theorems/6db9c4ed-e638-4eef-b386-201814362d51

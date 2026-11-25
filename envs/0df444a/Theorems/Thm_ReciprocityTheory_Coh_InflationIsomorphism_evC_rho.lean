@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationIsomorphism_evC_rho
 -- name    : ReciprocityTheory.Coh.InflationIsomorphism.evC_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:50:20.67207+00:00
 -- url     : https://prove2.me/theorems/3ed5a70c-e6b2-5b1a-9ab5-cde068495084

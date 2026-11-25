@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_on_rankOneCurve_of_integral
 -- name    : GlobalTheory.eq_on_rankOneCurve_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:17:59.318443+00:00
 -- url     : https://prove2.me/theorems/2c9b1977-995f-42d4-95ff-0c5a80c254a5

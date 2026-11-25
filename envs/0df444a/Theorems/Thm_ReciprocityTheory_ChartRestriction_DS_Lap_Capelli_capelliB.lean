@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_capelliB
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.capelliB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:40.782384+00:00
 -- url     : https://prove2.me/theorems/76052461-ae60-4878-bf68-5003c505c206

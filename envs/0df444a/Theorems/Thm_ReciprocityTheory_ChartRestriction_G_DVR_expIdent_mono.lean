@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_expIdent_mono
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.expIdent_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:25:19.384847+00:00
 -- url     : https://prove2.me/theorems/ddc237c7-06ba-59bf-bdb6-62e13bbc4238

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_fockInner_self_re_eq_coeffNormSq
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.fockInner_self_re_eq_coeffNormSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:29:17.559975+00:00
 -- url     : https://prove2.me/theorems/b525e3b3-9556-4d73-85d7-1ebed7448508

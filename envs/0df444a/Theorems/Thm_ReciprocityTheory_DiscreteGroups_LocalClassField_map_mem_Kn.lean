@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_map_mem_Kn
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.map_mem_Kn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:54:55.460961+00:00
 -- url     : https://prove2.me/theorems/7f12aabd-1219-4158-92b2-768d2311eb62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_prod_norm_embeddings
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.prod_norm_embeddings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:54:14.365009+00:00
 -- url     : https://prove2.me/theorems/9f2b7f9c-db0f-4c8a-bf7b-ec8c4c24b012

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_hsDefect_two_mul
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.hsDefect_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:53:56.762067+00:00
 -- url     : https://prove2.me/theorems/e9a0b7fd-c035-463d-8934-fb5f81b13912

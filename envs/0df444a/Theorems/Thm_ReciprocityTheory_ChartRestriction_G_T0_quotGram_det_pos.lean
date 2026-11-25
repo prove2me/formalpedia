@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_quotGram_det_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.quotGram_det_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:39:56.716881+00:00
 -- url     : https://prove2.me/theorems/da5e0e2a-411c-4f4e-b6dd-a418ef04e983

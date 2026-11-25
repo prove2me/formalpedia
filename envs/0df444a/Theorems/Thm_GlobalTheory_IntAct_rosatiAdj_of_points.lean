@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntAct_rosatiAdj_of_points
 -- name    : GlobalTheory.IntAct.rosatiAdj_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:50:34.325465+00:00
 -- url     : https://prove2.me/theorems/6da10f9d-a241-4c76-99eb-089987a3449c

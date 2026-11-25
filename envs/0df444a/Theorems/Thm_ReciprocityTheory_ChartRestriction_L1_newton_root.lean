@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_newton_root
 -- name    : ReciprocityTheory.ChartRestriction.L1.newton_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:36:10.107868+00:00
 -- url     : https://prove2.me/theorems/2f82cbb8-37d7-40a1-ba0c-4cef5b24c786

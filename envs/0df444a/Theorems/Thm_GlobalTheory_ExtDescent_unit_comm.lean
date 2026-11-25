@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtDescent_unit_comm
 -- name    : GlobalTheory.ExtDescent.unit_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:16:19.876324+00:00
 -- url     : https://prove2.me/theorems/e4dcc942-f27a-440e-b9eb-dcce5a645518

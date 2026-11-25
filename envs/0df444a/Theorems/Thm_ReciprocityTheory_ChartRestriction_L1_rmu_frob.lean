@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_rmu_frob
 -- name    : ReciprocityTheory.ChartRestriction.L1.rmu_frob
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:42:05.060326+00:00
 -- url     : https://prove2.me/theorems/c3321dd7-43c3-4e88-87dc-8fd7a4682aa9

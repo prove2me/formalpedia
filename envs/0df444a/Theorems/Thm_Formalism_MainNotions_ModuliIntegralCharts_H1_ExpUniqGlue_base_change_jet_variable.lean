@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqGlue_base_change_jet_variable
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqGlue.base_change_jet_variable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:40:37.217375+00:00
 -- url     : https://prove2.me/theorems/c1a06ccc-8844-558d-a0a6-07052149f72c

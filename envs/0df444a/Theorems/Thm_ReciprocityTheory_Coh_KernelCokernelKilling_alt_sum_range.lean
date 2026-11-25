@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_KernelCokernelKilling_alt_sum_range
 -- name    : ReciprocityTheory.Coh.KernelCokernelKilling.alt_sum_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:50:35.580076+00:00
 -- url     : https://prove2.me/theorems/0fb852dd-fbcc-427f-9d72-d890e0862397

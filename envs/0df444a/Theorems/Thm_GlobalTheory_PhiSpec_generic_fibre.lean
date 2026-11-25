@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiSpec_generic_fibre
 -- name    : GlobalTheory.PhiSpec.generic_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:45:00.486019+00:00
 -- url     : https://prove2.me/theorems/18b9b817-4bbe-4847-a352-ebed38b14495

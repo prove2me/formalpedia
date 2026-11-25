@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_TorusInj_eq_zero_of_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.TorusInj.eq_zero_of_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:57:02.371833+00:00
 -- url     : https://prove2.me/theorems/32e85abd-a930-44d8-ab1d-d1cd356c351c

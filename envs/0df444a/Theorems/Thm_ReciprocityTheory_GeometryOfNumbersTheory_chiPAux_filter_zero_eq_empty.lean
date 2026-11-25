@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_chiPAux_filter_zero_eq_empty
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.chiPAux_filter_zero_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:52:42.280936+00:00
 -- url     : https://prove2.me/theorems/c9d5669d-ce36-47a5-a2d9-45f4d0957537

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_pgds_circle
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.pgds_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:54:42.859977+00:00
 -- url     : https://prove2.me/theorems/a2eac605-3966-578e-90dd-2812361cad97

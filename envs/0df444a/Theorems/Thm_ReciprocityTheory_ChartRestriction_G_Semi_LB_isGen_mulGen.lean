@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_LB_isGen_mulGen
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.LB.isGen_mulGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:26:19.164519+00:00
 -- url     : https://prove2.me/theorems/daa63447-a58a-44e0-b055-5f1140f4c096

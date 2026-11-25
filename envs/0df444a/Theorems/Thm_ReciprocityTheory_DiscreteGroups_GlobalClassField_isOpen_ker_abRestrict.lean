@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_isOpen_ker_abRestrict
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.isOpen_ker_abRestrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:58:16.24745+00:00
 -- url     : https://prove2.me/theorems/8e8027e6-9019-4a99-90a4-bfca8569100b

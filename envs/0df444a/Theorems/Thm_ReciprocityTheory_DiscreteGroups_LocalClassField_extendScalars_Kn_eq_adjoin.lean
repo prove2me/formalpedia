@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_extendScalars_Kn_eq_adjoin
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.extendScalars_Kn_eq_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:59:59.447801+00:00
 -- url     : https://prove2.me/theorems/ef41155b-2743-470d-a991-5cc4ab9de676

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FlagSpanBounds_maj_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FlagSpanBounds.maj_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:17.228565+00:00
 -- url     : https://prove2.me/theorems/038d6589-0f49-4d6d-b340-f616581cd781

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamIntAt_sval_secScale
 -- name    : GlobalTheory.FamIntAt.sval_secScale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:21:04.973043+00:00
 -- url     : https://prove2.me/theorems/15cc4f37-f2f4-4913-bde1-2f1e30075f8f

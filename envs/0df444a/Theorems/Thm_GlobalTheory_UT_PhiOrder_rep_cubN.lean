@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_PhiOrder_rep_cubN
 -- name    : GlobalTheory.UT.PhiOrder.rep_cubN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:21:23.206064+00:00
 -- url     : https://prove2.me/theorems/76b82352-24af-4317-bad8-bcea02e55bad

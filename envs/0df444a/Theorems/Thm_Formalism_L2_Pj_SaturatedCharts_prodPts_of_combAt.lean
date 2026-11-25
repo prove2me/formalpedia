@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_SaturatedCharts_prodPts_of_combAt
 -- name    : Formalism.L2.Pj.SaturatedCharts.prodPts_of_combAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:28:15.355505+00:00
 -- url     : https://prove2.me/theorems/5a592c87-41b4-49bb-ba03-5156517f5eda

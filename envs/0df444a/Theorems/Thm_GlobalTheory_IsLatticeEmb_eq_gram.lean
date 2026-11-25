@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_eq_gram
 -- name    : GlobalTheory.IsLatticeEmb.eq_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:38:06.292412+00:00
 -- url     : https://prove2.me/theorems/13ad83b1-e58d-49e0-aa46-5525bafeee1d

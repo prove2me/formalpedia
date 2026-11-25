@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_monoNormSq_succ
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.monoNormSq_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:53:22.279254+00:00
 -- url     : https://prove2.me/theorems/c79bb54d-353d-40f2-8b72-a3dcb4c768bb

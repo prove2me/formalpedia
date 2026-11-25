@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCocycle_PullsBack_comp
 -- name    : GlobalTheory.ThetaCocycle.PullsBack.comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:05:51.86558+00:00
 -- url     : https://prove2.me/theorems/7b0a7891-3f83-4fe9-a56a-8c882e427823

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_cyclotomic_irreducible_of_isUnramifiedAt
 -- name    : ReciprocityTheory.Cheb.cyclotomic_irreducible_of_isUnramifiedAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:47:41.335439+00:00
 -- url     : https://prove2.me/theorems/ea4b0498-fbc4-574d-945d-79d7469c796f

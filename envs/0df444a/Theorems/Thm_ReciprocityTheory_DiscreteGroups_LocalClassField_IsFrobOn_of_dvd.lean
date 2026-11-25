@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_IsFrobOn_of_dvd
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.IsFrobOn.of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:51:52.473807+00:00
 -- url     : https://prove2.me/theorems/874c60b5-a9bf-5dce-833d-e428c81a26c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_units_of_cocycle
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_units_of_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:09:32.294024+00:00
 -- url     : https://prove2.me/theorems/73923353-68e7-40b5-a8df-a89ec7ce9f57

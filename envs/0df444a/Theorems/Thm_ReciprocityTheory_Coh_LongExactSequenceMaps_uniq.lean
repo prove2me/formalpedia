@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_LongExactSequenceMaps_uniq
 -- name    : ReciprocityTheory.Coh.LongExactSequenceMaps.uniq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:52:25.517928+00:00
 -- url     : https://prove2.me/theorems/bb604a52-3586-45fc-ae2f-32f8ed10093c

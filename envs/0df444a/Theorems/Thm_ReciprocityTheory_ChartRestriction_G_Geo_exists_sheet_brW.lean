@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_exists_sheet_brW
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.exists_sheet_brW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:50.815818+00:00
 -- url     : https://prove2.me/theorems/fcfab2a8-0567-459f-a84c-e530ec02d2db

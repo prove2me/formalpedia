@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_LinEmbed_isMultiHomogIdeal_comap_a23a80c5c85c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_LinEmbed_isMultiHomogIdeal_comap_a23a80c5c85c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:07:51.381128+00:00
 -- url     : https://prove2.me/theorems/55ceac7d-4b96-4a9d-bcd7-bbd31f14e24d

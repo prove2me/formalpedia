@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_exists_delta
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.exists_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:50:40.59836+00:00
 -- url     : https://prove2.me/theorems/7d63632c-57af-5ec5-92b4-d62c1a4178e9

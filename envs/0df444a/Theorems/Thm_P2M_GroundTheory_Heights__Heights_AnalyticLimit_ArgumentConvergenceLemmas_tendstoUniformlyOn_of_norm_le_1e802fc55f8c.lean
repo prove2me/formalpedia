@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_ArgumentConvergenceLemmas_tendstoUniformlyOn_of_norm_le_1e802fc55f8c
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_ArgumentConvergenceLemmas_tendstoUniformlyOn_of_norm_le_1e802fc55f8c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:36:05.931005+00:00
 -- url     : https://prove2.me/theorems/3367e373-163e-5142-bf2e-ceed3830f8b7

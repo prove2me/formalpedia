@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_exp_pow_mul_exp_neg
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.exp_pow_mul_exp_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:01:07.844234+00:00
 -- url     : https://prove2.me/theorems/35c0ffbd-49e2-4c38-bb6e-bb775b88279d

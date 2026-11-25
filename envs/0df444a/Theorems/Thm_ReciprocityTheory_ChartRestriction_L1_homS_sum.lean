@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_homS_sum
 -- name    : ReciprocityTheory.ChartRestriction.L1.homS_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:45:30.66257+00:00
 -- url     : https://prove2.me/theorems/c7a1310c-efd6-5c8d-9da0-09edcc441150

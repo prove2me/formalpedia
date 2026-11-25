@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_ul_card_residue_eq
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.ul_card_residue_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:51:40.437731+00:00
 -- url     : https://prove2.me/theorems/95ee1da9-7cc4-4acb-9e27-1f6be3c50023

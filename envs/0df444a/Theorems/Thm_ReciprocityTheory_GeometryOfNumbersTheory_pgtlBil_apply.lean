@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_pgtlBil_apply
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.pgtlBil_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:53:56.308904+00:00
 -- url     : https://prove2.me/theorems/e7a762c8-6465-4590-bf57-51a4be956f09

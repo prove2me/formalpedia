@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_normChar_inv_mul
 -- name    : GroundTheory.Automorphic.Parabolic.normChar_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:09:46.865481+00:00
 -- url     : https://prove2.me/theorems/f1d93638-bf24-546b-a125-6d9902e83c39

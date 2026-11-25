@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_integral_mul_conj_gaussian_eq_coeffNormSq
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.integral_mul_conj_gaussian_eq_coeffNormSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:28:41.242081+00:00
 -- url     : https://prove2.me/theorems/107107a8-66a2-4185-af13-f7c6c0a3cb56

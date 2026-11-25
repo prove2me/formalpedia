@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_IsCM_localization_atPrime
 -- name    : ReciprocityTheory.CA.IsCM.localization_atPrime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:40:38.513266+00:00
 -- url     : https://prove2.me/theorems/5abcac7f-5780-4be8-a313-e257c5bb239e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_orthogonal_lattice_decomposition
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.orthogonal_lattice_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:21:19.782719+00:00
 -- url     : https://prove2.me/theorems/aab34445-e584-4e9f-8ce5-61ac0d014a2d

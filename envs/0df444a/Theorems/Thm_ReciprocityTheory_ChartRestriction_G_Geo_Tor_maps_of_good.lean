@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_maps_of_good
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.maps_of_good
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:24:02.759093+00:00
 -- url     : https://prove2.me/theorems/094a7d8f-7cbc-4dd2-9b78-05e1eeb77df0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_TorsionRankLength_smul_top_eq_range
 -- name    : ReciprocityTheory.Coh.TorsionRankLength.smul_top_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:50:43.45362+00:00
 -- url     : https://prove2.me/theorems/c6916ea4-1c7a-403d-8202-970c278e343f

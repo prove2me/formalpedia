@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_PadicPolynomialApproximation_monic_X_pow_add_sum
 -- name    : ReciprocityTheory.ChartRestriction.PadicPolynomialApproximation.monic_X_pow_add_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:47:53.668825+00:00
 -- url     : https://prove2.me/theorems/3f4c9638-3be5-58de-a1e9-17a171ff4036

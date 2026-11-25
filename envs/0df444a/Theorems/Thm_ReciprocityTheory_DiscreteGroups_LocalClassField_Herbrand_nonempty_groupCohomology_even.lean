@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_nonempty_groupCohomology_even
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.nonempty_groupCohomology_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:50:45.935948+00:00
 -- url     : https://prove2.me/theorems/09869872-1762-5aef-943c-4d6263a032b4

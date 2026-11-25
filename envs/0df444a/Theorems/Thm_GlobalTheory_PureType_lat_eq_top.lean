@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PureType_lat_eq_top
 -- name    : GlobalTheory.PureType.lat_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:43:57.335486+00:00
 -- url     : https://prove2.me/theorems/fd47649f-26d3-47ba-9429-a4546bc9f3b8

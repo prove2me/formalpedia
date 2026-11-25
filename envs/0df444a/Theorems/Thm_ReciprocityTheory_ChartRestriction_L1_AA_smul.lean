@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_AA_smul
 -- name    : ReciprocityTheory.ChartRestriction.L1.AA_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:08.042441+00:00
 -- url     : https://prove2.me/theorems/cffce39c-6c2e-4e20-b8f7-f912261c79cf

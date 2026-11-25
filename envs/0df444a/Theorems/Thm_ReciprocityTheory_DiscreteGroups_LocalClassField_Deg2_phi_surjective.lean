@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Deg2_phi_surjective
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Deg2.phi_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:58:11.40454+00:00
 -- url     : https://prove2.me/theorems/ce84e6d4-62a1-5fd1-aa66-019285f5dcfb

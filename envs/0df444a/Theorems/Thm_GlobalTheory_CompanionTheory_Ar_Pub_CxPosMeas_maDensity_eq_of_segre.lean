@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxPosMeas_maDensity_eq_of_segre
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxPosMeas.maDensity_eq_of_segre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:21:33.327798+00:00
 -- url     : https://prove2.me/theorems/0d172ed2-2e26-40cc-857b-00dd084b6ae5

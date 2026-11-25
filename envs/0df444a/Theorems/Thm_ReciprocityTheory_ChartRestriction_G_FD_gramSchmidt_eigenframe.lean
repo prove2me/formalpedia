@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_gramSchmidt_eigenframe
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.gramSchmidt_eigenframe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:22:33.937743+00:00
 -- url     : https://prove2.me/theorems/f0445b80-224c-455d-83f9-9b77836ba0c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartialCocycle_gm_iso
 -- name    : GlobalTheory.PartialCocycle.gm_iso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:08.506802+00:00
 -- url     : https://prove2.me/theorems/a0c4aafa-a1d2-415c-bda5-c38e734cf16f

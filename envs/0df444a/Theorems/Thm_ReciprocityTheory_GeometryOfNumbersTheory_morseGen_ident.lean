@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_morseGen_ident
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.morseGen_ident
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:53:24.57738+00:00
 -- url     : https://prove2.me/theorems/582c1b3e-a05c-455d-bab9-dc6d0c6ed4a5

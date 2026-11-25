@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FamPull_comp_fam_B_04005a41a3d0
 -- name    : P2M_GlobalTheory_FamPull_comp_fam_B_04005a41a3d0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:25:22.168638+00:00
 -- url     : https://prove2.me/theorems/e5daa695-31d3-493b-9738-db59886e60bd

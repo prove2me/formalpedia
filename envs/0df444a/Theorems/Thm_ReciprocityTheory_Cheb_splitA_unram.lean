@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_splitA_unram
 -- name    : ReciprocityTheory.Cheb.splitA_unram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:48:34.593449+00:00
 -- url     : https://prove2.me/theorems/466aa899-19f9-43d8-9a42-c17e6edf381f

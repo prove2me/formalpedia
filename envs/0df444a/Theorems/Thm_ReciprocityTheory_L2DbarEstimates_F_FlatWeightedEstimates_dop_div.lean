@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_FlatWeightedEstimates_dop_div
 -- name    : ReciprocityTheory.L2DbarEstimates.F.FlatWeightedEstimates.dop_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:55:02.782639+00:00
 -- url     : https://prove2.me/theorems/60b4d7a6-a512-5dae-898e-0cc883c8cde5

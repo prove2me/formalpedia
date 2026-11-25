@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_of_similitudeIso_quotient_kernel_invariant
 -- name    : GlobalTheory.T.eq_of_similitudeIso_quotient_kernel_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:15.135624+00:00
 -- url     : https://prove2.me/theorems/2e77535c-11a6-479c-a32c-7b0839549d16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_gmap_injective
 -- name    : ReciprocityTheory.ChartRestriction.L3.gmap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:03:22.652833+00:00
 -- url     : https://prove2.me/theorems/a18c12c6-de84-4700-8e63-30486096b06c

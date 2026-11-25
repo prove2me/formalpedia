@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_posDef_det_re_pos
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.posDef_det_re_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:53:57.48439+00:00
 -- url     : https://prove2.me/theorems/1886c3ab-95cb-4a11-b1d9-69bfeaea70f8

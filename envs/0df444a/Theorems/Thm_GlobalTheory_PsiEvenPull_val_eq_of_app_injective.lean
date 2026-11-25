@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiEvenPull_val_eq_of_app_injective
 -- name    : GlobalTheory.PsiEvenPull.val_eq_of_app_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:26:08.036934+00:00
 -- url     : https://prove2.me/theorems/0191fa75-1a66-4ff1-8f67-4ed353231b84

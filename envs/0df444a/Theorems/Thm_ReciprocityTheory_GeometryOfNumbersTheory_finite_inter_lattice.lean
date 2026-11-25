@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_finite_inter_lattice
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.finite_inter_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:54:02.02495+00:00
 -- url     : https://prove2.me/theorems/cef529d6-733d-4428-a364-cd1c4cbacfdc

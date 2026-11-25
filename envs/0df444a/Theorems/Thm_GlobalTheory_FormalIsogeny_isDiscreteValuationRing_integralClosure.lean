@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalIsogeny_isDiscreteValuationRing_integralClosure
 -- name    : GlobalTheory.FormalIsogeny.isDiscreteValuationRing_integralClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:00:56.2893+00:00
 -- url     : https://prove2.me/theorems/ac28def1-165b-43f1-8c82-fccb309d5616

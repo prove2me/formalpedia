@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_Canon_bi_ext
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.Canon.bi_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:39:49.725069+00:00
 -- url     : https://prove2.me/theorems/588f7c01-fcf7-4b8e-8671-6d9256ed2703

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_mulEquiv_of_isGrpPullback
 -- name    : GlobalTheory.exists_mulEquiv_of_isGrpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:43:54.376672+00:00
 -- url     : https://prove2.me/theorems/3feb117f-6731-48dc-927a-2f864b78adcb

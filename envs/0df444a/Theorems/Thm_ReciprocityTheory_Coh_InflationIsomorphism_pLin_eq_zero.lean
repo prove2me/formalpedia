@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationIsomorphism_pLin_eq_zero
 -- name    : ReciprocityTheory.Coh.InflationIsomorphism.pLin_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:50:33.421688+00:00
 -- url     : https://prove2.me/theorems/b7cbe808-207e-50f8-86ab-f85ce67e2439

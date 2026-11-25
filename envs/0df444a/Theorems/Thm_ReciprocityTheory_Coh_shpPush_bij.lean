@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_shpPush_bij
 -- name    : ReciprocityTheory.Coh.shpPush_bij
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:57:42.194536+00:00
 -- url     : https://prove2.me/theorems/f2fa98fb-b7ea-5978-a5f4-0b08dcd34412

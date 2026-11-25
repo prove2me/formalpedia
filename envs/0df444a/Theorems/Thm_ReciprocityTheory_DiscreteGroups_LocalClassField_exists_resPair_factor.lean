@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_resPair_factor
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_resPair_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:53:26.039649+00:00
 -- url     : https://prove2.me/theorems/6d86226b-23c6-5e13-addd-b69bee48d636

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_norm_sq_clm
 -- name    : ReciprocityTheory.L2DbarEstimates.C.norm_sq_clm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:00:48.57182+00:00
 -- url     : https://prove2.me/theorems/74ebcbc1-956c-5e27-9ed5-1c7f58ea8a25

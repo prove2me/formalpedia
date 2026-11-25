@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExist_exists_theta_ne_zero
 -- name    : GlobalTheory.ThetaExist.exists_theta_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:11:09.847151+00:00
 -- url     : https://prove2.me/theorems/7ef6d0f1-690b-4e1c-a4d9-51f98d0ac530

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_coeff_ev_swap__ca766616f6db
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_coeff_ev_swap__ca766616f6db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:54:03.493802+00:00
 -- url     : https://prove2.me/theorems/24342e1f-136a-44bb-904e-d3ee4d4d6d97

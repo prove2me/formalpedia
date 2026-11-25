@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_Jm_mul_left
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.Jm_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:13:27.410215+00:00
 -- url     : https://prove2.me/theorems/28656d74-f929-41df-816f-6516e8cf3473

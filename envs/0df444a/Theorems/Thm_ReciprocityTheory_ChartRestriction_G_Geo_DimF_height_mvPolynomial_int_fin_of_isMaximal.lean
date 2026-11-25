@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_DimF_height_mvPolynomial_int_fin_of_isMaximal
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.DimF.height_mvPolynomial_int_fin_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:27:52.333516+00:00
 -- url     : https://prove2.me/theorems/8ece0160-3349-4fb0-9dde-24dcce558f54

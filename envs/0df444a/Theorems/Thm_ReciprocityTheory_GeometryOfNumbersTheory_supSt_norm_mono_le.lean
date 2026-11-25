@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_supSt_norm_mono_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.supSt_norm_mono_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:54:24.055861+00:00
 -- url     : https://prove2.me/theorems/9d6119cb-7682-4689-958b-6e15219a6da4

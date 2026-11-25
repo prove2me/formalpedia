@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_brFib_finite
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.brFib_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:48:25.494775+00:00
 -- url     : https://prove2.me/theorems/6d27414d-d1fc-4e04-9bde-65b84cd21e1f

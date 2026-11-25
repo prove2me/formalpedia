@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_lgCurve_sumF
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.lgCurve_sumF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:44:15.525901+00:00
 -- url     : https://prove2.me/theorems/b9a35a73-bad5-4553-a0af-ee77aefb4759

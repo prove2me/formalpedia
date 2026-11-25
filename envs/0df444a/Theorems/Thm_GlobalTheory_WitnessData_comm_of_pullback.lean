@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WitnessData_comm_of_pullback
 -- name    : GlobalTheory.WitnessData.comm_of_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:57:31.611966+00:00
 -- url     : https://prove2.me/theorems/60704d63-b6c2-4008-bb18-e461fd80d770

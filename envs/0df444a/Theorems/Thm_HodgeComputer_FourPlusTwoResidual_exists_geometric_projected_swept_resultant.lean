@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_FourPlusTwoResidual_exists_geometric_projected_swept_resultant
 -- name    : HodgeComputer.FourPlusTwoResidual.exists_geometric_projected_swept_resultant
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-25T13:48:24.890313+00:00
 -- url     : https://prove2.me/theorems/32199c1f-705b-41d8-929f-941fd7479603

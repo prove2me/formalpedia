@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_const_of_finite_family_spAct
 -- name    : GlobalTheory.const_of_finite_family_spAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:13:41.463389+00:00
 -- url     : https://prove2.me/theorems/0660040f-b6d7-43b8-b99a-52a6684f83dd

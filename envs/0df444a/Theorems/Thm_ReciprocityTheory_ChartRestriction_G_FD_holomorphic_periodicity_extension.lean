@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_holomorphic_periodicity_extension
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.holomorphic_periodicity_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:34:49.084438+00:00
 -- url     : https://prove2.me/theorems/45c08932-22d5-4770-af1d-c96e179c931b

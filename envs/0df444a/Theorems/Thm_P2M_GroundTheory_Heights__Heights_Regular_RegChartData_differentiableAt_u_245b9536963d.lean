@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_RegChartData_differentiableAt_u_245b9536963d
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_RegChartData_differentiableAt_u_245b9536963d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:35:30.848811+00:00
 -- url     : https://prove2.me/theorems/a92951bf-e9af-5f48-9dcf-fe4d46c6e43e

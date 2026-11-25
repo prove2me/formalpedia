@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RosatiCube_rosati_cubical_additive
 -- name    : GlobalTheory.RosatiCube.rosati_cubical_additive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:30:52.177797+00:00
 -- url     : https://prove2.me/theorems/da4b462b-d385-4883-ba2e-ac5bbdf34a7c

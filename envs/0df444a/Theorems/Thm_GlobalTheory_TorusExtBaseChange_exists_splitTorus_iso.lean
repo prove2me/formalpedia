@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusExtBaseChange_exists_splitTorus_iso
 -- name    : GlobalTheory.TorusExtBaseChange.exists_splitTorus_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:10:44.085257+00:00
 -- url     : https://prove2.me/theorems/3e6fdb20-8025-45e9-95e9-10455cac324f

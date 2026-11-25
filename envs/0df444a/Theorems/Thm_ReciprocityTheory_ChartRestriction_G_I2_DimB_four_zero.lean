@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_DimB_four_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.DimB.four_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:33.063988+00:00
 -- url     : https://prove2.me/theorems/213ef17a-9845-4afe-ae0e-2ff0362f31c5

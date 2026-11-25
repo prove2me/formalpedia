@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_SquareNormBall_norm_sq_convex_comb
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.SquareNormBall.norm_sq_convex_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:52:41.075811+00:00
 -- url     : https://prove2.me/theorems/530ac725-a96b-5a46-a035-e74087ba6e6b

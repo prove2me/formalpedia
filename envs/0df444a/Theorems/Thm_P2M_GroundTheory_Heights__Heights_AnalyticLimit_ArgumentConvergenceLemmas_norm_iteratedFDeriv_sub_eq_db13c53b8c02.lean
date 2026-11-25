@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_ArgumentConvergenceLemmas_norm_iteratedFDeriv_sub_eq_db13c53b8c02
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_ArgumentConvergenceLemmas_norm_iteratedFDeriv_sub_eq_db13c53b8c02
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:35:20.949819+00:00
 -- url     : https://prove2.me/theorems/6f96d5c8-cbab-5ebb-85c9-e399f9b66041

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationIsomorphism_stabN_open
 -- name    : ReciprocityTheory.Coh.InflationIsomorphism.stabN_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:50:58.350925+00:00
 -- url     : https://prove2.me/theorems/45933f01-aada-47e6-be78-c0e113ed693e

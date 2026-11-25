@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_card_filter_primeBelow_le
 -- name    : ReciprocityTheory.Cheb.card_filter_primeBelow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:47:50.522118+00:00
 -- url     : https://prove2.me/theorems/b1513961-3742-41b9-9bb6-f6fe221221e0

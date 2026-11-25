@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_h_of_subsingleton
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.h_of_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:50:55.011086+00:00
 -- url     : https://prove2.me/theorems/4647d736-5a7e-4d8b-a0b3-8fc42c35c888

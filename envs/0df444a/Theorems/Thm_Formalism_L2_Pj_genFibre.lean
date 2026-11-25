@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_genFibre
 -- name    : Formalism.L2.Pj.genFibre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:25:55.328185+00:00
 -- url     : https://prove2.me/theorems/791f88c1-d67e-471c-97ca-a930b948d02a

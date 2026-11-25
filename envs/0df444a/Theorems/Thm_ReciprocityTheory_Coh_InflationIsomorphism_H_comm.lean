@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationIsomorphism_H_comm
 -- name    : ReciprocityTheory.Coh.InflationIsomorphism.H_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:52:37.425003+00:00
 -- url     : https://prove2.me/theorems/50a6901f-ad45-44ff-bed3-24eccba8aed9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalConnection_kappa_symm
 -- name    : GlobalTheory.FormalConnection.kappa_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:35:31.331793+00:00
 -- url     : https://prove2.me/theorems/0a2e354d-2bba-43c6-b7b4-2edf953d2358

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GE_iterate_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GE.iterate_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:41:08.776003+00:00
 -- url     : https://prove2.me/theorems/4e21c910-4c5b-52ec-ab97-e20a7a41c462

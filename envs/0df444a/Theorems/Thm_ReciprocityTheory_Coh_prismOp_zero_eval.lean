@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_prismOp_zero_eval
 -- name    : ReciprocityTheory.Coh.prismOp_zero_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:58:07.255886+00:00
 -- url     : https://prove2.me/theorems/60ade3a7-1445-4a57-80e5-7c4f975a1fee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WitnessData_unit_ext_field
 -- name    : GlobalTheory.WitnessData.unit_ext_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:57:17.312631+00:00
 -- url     : https://prove2.me/theorems/ffab860c-482d-42e7-ab50-9dda0434f8d5

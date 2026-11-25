@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DescentPairing_exists_triv
 -- name    : GlobalTheory.DescentPairing.exists_triv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:03:23.729922+00:00
 -- url     : https://prove2.me/theorems/1777b1bc-fed2-461a-9e77-f05e72ab907f

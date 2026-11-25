@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_canonGauge_dmonOf_hL_natCast_mul
 -- name    : GlobalTheory.canonGauge_dmonOf_hL_natCast_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:48:28.159914+00:00
 -- url     : https://prove2.me/theorems/bd739497-4d4f-4fdd-b51f-75e3fc4f8232

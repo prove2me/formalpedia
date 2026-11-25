@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_resGal_injective
 -- name    : ReciprocityTheory.Gal.resGal_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:53:14.904577+00:00
 -- url     : https://prove2.me/theorems/43c948da-c034-40ec-bccb-f95526f6c295

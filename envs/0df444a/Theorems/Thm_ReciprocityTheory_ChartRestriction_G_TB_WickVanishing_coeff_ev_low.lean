@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_coeff_ev_low
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.coeff_ev_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:43:55.709102+00:00
 -- url     : https://prove2.me/theorems/3cbf8f56-6077-5b71-9919-22facadb3397

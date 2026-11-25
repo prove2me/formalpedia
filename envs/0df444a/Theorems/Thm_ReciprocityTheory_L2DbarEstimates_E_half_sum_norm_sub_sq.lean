@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_E_half_sum_norm_sub_sq
 -- name    : ReciprocityTheory.L2DbarEstimates.E.half_sum_norm_sub_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:55:27.007234+00:00
 -- url     : https://prove2.me/theorems/8cbb1d6a-42e8-449a-b26f-b93b20ce3968

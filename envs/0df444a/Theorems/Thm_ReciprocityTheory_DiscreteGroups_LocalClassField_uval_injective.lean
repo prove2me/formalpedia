@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_uval_injective
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.uval_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:57:29.876811+00:00
 -- url     : https://prove2.me/theorems/397843d4-5952-4f34-b7ef-d7d193661d94

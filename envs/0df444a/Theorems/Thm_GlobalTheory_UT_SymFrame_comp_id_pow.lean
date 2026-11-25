@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_SymFrame_comp_id_pow
 -- name    : GlobalTheory.UT.SymFrame.comp_id_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:20:44.103122+00:00
 -- url     : https://prove2.me/theorems/1e8cc5ae-10f3-4beb-beae-f8a302d057fa

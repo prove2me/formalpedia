@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_Canon_mq_ac
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.Canon.mq_ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:39:43.851399+00:00
 -- url     : https://prove2.me/theorems/3c061ea3-7f64-5808-9d6b-d778ed774ada

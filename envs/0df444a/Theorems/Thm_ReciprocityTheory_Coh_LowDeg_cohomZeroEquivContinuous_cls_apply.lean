@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_LowDeg_cohomZeroEquivContinuous_cls_apply
 -- name    : ReciprocityTheory.Coh.LowDeg.cohomZeroEquivContinuous_cls_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:50:46.919895+00:00
 -- url     : https://prove2.me/theorems/55bd48f8-6bf8-430b-8b68-ad54c06afb89

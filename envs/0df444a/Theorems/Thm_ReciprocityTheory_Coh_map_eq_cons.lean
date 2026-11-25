@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_map_eq_cons
 -- name    : ReciprocityTheory.Coh.map_eq_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:51:21.2578+00:00
 -- url     : https://prove2.me/theorems/a6745b57-8092-40fc-9c5e-99e93e31dae7

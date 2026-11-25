@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KerPow_gen_transfer
 -- name    : GlobalTheory.KerPow.gen_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:29:07.133737+00:00
 -- url     : https://prove2.me/theorems/9d6a944b-6c35-5036-88ce-9ba0e94acff3

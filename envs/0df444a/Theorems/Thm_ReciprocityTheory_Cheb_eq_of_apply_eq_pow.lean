@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_eq_of_apply_eq_pow
 -- name    : ReciprocityTheory.Cheb.eq_of_apply_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:47:59.716745+00:00
 -- url     : https://prove2.me/theorems/b06a6ce2-d068-428b-b7af-02080b4303a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_EulerCharacteristicLength_Fs1_hasDerivAt
 -- name    : ReciprocityTheory.L2DbarEstimates.F.EulerCharacteristicLength.Fs1_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:55:35.027267+00:00
 -- url     : https://prove2.me/theorems/c8304bbb-42d9-452e-8d2d-40ced0ea4b35

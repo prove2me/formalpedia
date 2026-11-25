@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverOpCompat_opCompat
 -- name    : GlobalTheory.CoverOpCompat.opCompat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:28:52.960559+00:00
 -- url     : https://prove2.me/theorems/40517c4c-1451-42b0-b43e-03aa8c3c54fe

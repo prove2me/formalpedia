@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_thetaGrp_acts_linearly
 -- name    : GlobalTheory.thetaGrp_acts_linearly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:26:26.172794+00:00
 -- url     : https://prove2.me/theorems/04afed3b-9b70-4c2c-9913-eaf04c63a5d8

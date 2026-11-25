@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pullbackPushforward_holds_eval_lift_eq_zero_iff_a992e61efe8a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pullbackPushforward_holds_eval_lift_eq_zero_iff_a992e61efe8a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:48:43.018569+00:00
 -- url     : https://prove2.me/theorems/66f19352-4a06-57bb-84cd-f19a973b8a44

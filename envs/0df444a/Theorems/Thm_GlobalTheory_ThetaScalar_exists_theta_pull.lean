@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_exists_theta_pull
 -- name    : GlobalTheory.ThetaScalar.exists_theta_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:43:03.944969+00:00
 -- url     : https://prove2.me/theorems/b2883073-53f2-45f6-9da2-643ec07cf9f2

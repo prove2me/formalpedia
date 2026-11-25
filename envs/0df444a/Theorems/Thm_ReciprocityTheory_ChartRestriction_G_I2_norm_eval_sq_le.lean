@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_norm_eval_sq_le
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.norm_eval_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:29:54.546221+00:00
 -- url     : https://prove2.me/theorems/83ea22bd-a6da-42f3-9fa6-6ba2c463b5c6

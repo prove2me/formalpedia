@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GC_burnside_surj_of_irred
 -- name    : ReciprocityTheory.GC.burnside_surj_of_irred
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:52:28.152711+00:00
 -- url     : https://prove2.me/theorems/917ea2f5-be46-4ee4-b69d-4f92a747b49e

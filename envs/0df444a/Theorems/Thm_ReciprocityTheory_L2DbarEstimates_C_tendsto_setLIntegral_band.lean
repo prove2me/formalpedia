@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_tendsto_setLIntegral_band
 -- name    : ReciprocityTheory.L2DbarEstimates.C.tendsto_setLIntegral_band
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:55:02.065518+00:00
 -- url     : https://prove2.me/theorems/ca5248d7-cad1-5fde-84c6-2b476b06ebe4

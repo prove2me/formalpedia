@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kac_lintegral_returnTime_eq_one
 -- name    : Kac.lintegral_returnTime_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T13:15:02.768479+00:00
 -- url     : https://prove2.me/theorems/140a3837-8815-4e75-9b74-c8de84801d86

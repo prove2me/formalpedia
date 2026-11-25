@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiInPull_exists_of_locally
 -- name    : GlobalTheory.PsiInPull.exists_of_locally
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:36:29.691051+00:00
 -- url     : https://prove2.me/theorems/d7b515c9-88b1-4030-948e-8f7869b69f4e

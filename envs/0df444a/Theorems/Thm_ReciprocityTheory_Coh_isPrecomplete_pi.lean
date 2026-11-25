@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_isPrecomplete_pi
 -- name    : ReciprocityTheory.Coh.isPrecomplete_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:51:42.023719+00:00
 -- url     : https://prove2.me/theorems/a369f2d7-ade1-4b06-887c-190349fd3db9

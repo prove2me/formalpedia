@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_st_symm_piece
 -- name    : ReciprocityTheory.AnForm.M.st_symm_piece
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:34:01.592605+00:00
 -- url     : https://prove2.me/theorems/5801b09f-71ba-4069-9dd3-31c184b1ddbc

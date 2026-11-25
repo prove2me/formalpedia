@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_homE_expand_subst_map_congr
 -- name    : ReciprocityTheory.ChartRestriction.L1.homE_expand_subst_map_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:45:05.989163+00:00
 -- url     : https://prove2.me/theorems/c6f5e9a1-5f8c-4241-bde9-bd31a65e9b15

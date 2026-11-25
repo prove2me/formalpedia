@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EFf_skewGram
 -- name    : GlobalTheory.EFf_skewGram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:38:24.4168+00:00
 -- url     : https://prove2.me/theorems/660dd548-b885-5333-9a24-663b518868dc

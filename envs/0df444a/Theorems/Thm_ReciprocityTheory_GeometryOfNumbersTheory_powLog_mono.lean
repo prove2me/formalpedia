@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_powLog_mono
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.powLog_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:54:17.926576+00:00
 -- url     : https://prove2.me/theorems/ab9f8447-8fba-5dd4-ba14-b86c94d2633c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartialBundleGlue_iso_isGen_iff
 -- name    : GlobalTheory.PartialBundleGlue.iso_isGen_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:41:57.965532+00:00
 -- url     : https://prove2.me/theorems/79939389-3486-4588-9ed3-915f01614211

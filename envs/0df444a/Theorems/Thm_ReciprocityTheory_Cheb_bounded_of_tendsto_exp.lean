@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_bounded_of_tendsto_exp
 -- name    : ReciprocityTheory.Cheb.bounded_of_tendsto_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:49:01.425928+00:00
 -- url     : https://prove2.me/theorems/94f23a7a-caf2-5ba1-afdd-60b1fe825ed3

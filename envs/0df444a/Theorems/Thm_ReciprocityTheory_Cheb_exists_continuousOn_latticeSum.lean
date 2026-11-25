@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_exists_continuousOn_latticeSum
 -- name    : ReciprocityTheory.Cheb.exists_continuousOn_latticeSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:47:49.040717+00:00
 -- url     : https://prove2.me/theorems/8004867e-15cc-444a-96bc-1a93cac3f632

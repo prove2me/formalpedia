@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_KernelCokernelKilling_triv_odd
 -- name    : ReciprocityTheory.Coh.KernelCokernelKilling.triv_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:51:30.101452+00:00
 -- url     : https://prove2.me/theorems/b7278292-92c2-5427-9123-88e2e45a42e6

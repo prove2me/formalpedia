@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Nab_first_derivative_shift_integral
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab.first_derivative_shift_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:42:49.426818+00:00
 -- url     : https://prove2.me/theorems/83dfbdf7-8732-4156-ad35-9960d8f20abd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_sqrt_poly
 -- name    : ReciprocityTheory.ChartRestriction.L1.sqrt_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:07:00.363083+00:00
 -- url     : https://prove2.me/theorems/b4d23a5d-f1a7-5f36-8fdd-828814417c32

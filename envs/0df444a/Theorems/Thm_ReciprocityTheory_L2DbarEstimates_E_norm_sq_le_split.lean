@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_E_norm_sq_le_split
 -- name    : ReciprocityTheory.L2DbarEstimates.E.norm_sq_le_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:55:06.78281+00:00
 -- url     : https://prove2.me/theorems/d9827a79-a268-4764-828b-cf12a098d899

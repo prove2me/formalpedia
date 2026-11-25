@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_EigD_coeff_psTrunc
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.EigD.coeff_psTrunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:35:06.738944+00:00
 -- url     : https://prove2.me/theorems/aaf33441-5e68-5014-bb00-35596896a31a

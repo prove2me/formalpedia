@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_transference_dual
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.transference_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:22.370914+00:00
 -- url     : https://prove2.me/theorems/b7348543-8581-432c-aba7-728efe114f7f

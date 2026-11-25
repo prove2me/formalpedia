@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_ProcyclicCohomology_tr_add
 -- name    : ReciprocityTheory.Coh.ProcyclicCohomology.tr_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:51:22.876134+00:00
 -- url     : https://prove2.me/theorems/ecb042f6-7610-57a7-927e-2eedac327296

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HDiscLat_sum_three_comm
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HDiscLat.sum_three_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:36:47.561986+00:00
 -- url     : https://prove2.me/theorems/3ab54a6b-8c15-53d3-903d-4be1ac9459c6

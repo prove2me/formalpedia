@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_ERam_beta_vanish
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.ERam.beta_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:36:25.245849+00:00
 -- url     : https://prove2.me/theorems/8015212a-a7d5-5868-8271-bcdd13bee3bd

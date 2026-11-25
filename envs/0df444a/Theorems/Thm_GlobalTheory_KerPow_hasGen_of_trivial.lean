@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KerPow_hasGen_of_trivial
 -- name    : GlobalTheory.KerPow.hasGen_of_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:28:13.177977+00:00
 -- url     : https://prove2.me/theorems/19100da0-0ef0-52a6-8259-8b2be0f2239b

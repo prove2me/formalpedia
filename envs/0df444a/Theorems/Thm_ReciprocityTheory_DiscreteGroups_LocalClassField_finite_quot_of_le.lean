@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_finite_quot_of_le
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.finite_quot_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:55:46.261309+00:00
 -- url     : https://prove2.me/theorems/b768967f-55c0-5ef5-924d-70ef149dcb77

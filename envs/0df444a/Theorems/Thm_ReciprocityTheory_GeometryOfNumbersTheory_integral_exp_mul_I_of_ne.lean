@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_integral_exp_mul_I_of_ne
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.integral_exp_mul_I_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:53:05.836339+00:00
 -- url     : https://prove2.me/theorems/6209d3ed-9148-5da0-aed8-eb52f905b292

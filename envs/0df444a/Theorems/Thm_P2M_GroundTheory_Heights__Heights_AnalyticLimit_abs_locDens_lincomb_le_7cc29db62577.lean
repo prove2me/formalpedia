@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_abs_locDens_lincomb_le_7cc29db62577
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_abs_locDens_lincomb_le_7cc29db62577
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:33:30.429473+00:00
 -- url     : https://prove2.me/theorems/e4ef676b-2307-50fc-a666-4404308b36e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_rel_unique
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.rel_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:51:44.189103+00:00
 -- url     : https://prove2.me/theorems/a2f1f55a-a1fb-4757-a9f2-ccc98fcf3c40

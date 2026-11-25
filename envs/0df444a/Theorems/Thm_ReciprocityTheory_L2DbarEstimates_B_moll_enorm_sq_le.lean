@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_B_moll_enorm_sq_le
 -- name    : ReciprocityTheory.L2DbarEstimates.B.moll_enorm_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:54:35.909226+00:00
 -- url     : https://prove2.me/theorems/b8c61fe5-febc-4c95-8a43-66afc1804d1c

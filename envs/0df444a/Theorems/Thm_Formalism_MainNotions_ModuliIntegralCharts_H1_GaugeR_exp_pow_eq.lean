@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_exp_pow_eq
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.exp_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:01:01.622893+00:00
 -- url     : https://prove2.me/theorems/ac21d2f4-98f0-44c7-b6dd-f6453ae6227b

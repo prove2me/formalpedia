@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_IsMF_smul_eq
 -- name    : ReciprocityTheory.ChartRestriction.L1.IsMF.smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:07:20.748803+00:00
 -- url     : https://prove2.me/theorems/7bfc45b5-5d29-4b20-96d7-087c17fc5b50

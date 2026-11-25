@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_twC_of_not_dvd
 -- name    : ReciprocityTheory.ChartRestriction.L1.twC_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:48:40.228638+00:00
 -- url     : https://prove2.me/theorems/5ba384d7-9f60-55b4-95ca-3c3dc804225f

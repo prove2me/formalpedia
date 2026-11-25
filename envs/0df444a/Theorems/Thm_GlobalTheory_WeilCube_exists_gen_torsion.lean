@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCube_exists_gen_torsion
 -- name    : GlobalTheory.WeilCube.exists_gen_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:48:12.145362+00:00
 -- url     : https://prove2.me/theorems/db2bd8cb-4a62-4b97-98b2-2d361a2f0fce

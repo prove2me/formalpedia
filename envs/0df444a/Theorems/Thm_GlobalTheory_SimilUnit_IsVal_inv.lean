@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimilUnit_IsVal_inv
 -- name    : GlobalTheory.SimilUnit.IsVal.inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:23:19.215988+00:00
 -- url     : https://prove2.me/theorems/b01c5eb8-dea5-5662-a27b-15d947a16a34

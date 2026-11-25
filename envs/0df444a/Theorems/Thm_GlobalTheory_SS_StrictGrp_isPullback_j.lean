@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictGrp_isPullback_j
 -- name    : GlobalTheory.SS.StrictGrp.isPullback_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:17:20.267704+00:00
 -- url     : https://prove2.me/theorems/2d58138a-e213-42bb-bace-4e7ce8d22818

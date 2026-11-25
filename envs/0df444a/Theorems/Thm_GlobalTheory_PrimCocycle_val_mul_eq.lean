@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimCocycle_val_mul_eq
 -- name    : GlobalTheory.PrimCocycle.val_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:16.049337+00:00
 -- url     : https://prove2.me/theorems/83fcedd9-65ff-4a6d-91a1-70b30bb78526

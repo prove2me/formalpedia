@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_sum_locDegree
 -- name    : ReciprocityTheory.Gal.sum_locDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:53:04.901224+00:00
 -- url     : https://prove2.me/theorems/d5f12751-3912-43d7-99d5-a91a177ff3ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_conj_first_action_comm
 -- name    : PositivityTheory.KReal.conj_first_action_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:46:02.193563+00:00
 -- url     : https://prove2.me/theorems/9ea0c809-2111-5dfb-b272-fa42db3cab75

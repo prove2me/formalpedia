@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_isLocalized_of_cx
 -- name    : ReciprocityTheory.Coh.isLocalized_of_cx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:52:16.902182+00:00
 -- url     : https://prove2.me/theorems/f9e4f078-1d9e-5f5d-8182-b311ef91834c

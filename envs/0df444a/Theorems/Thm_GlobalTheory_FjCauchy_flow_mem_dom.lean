@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FjCauchy_flow_mem_dom
 -- name    : GlobalTheory.FjCauchy.flow_mem_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:42:29.423848+00:00
 -- url     : https://prove2.me/theorems/cf92e05e-a375-5292-b373-806b7491dc2d

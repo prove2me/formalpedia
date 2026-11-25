@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_invariantDeriv_along_endo
 -- name    : GlobalTheory.invariantDeriv_along_endo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:18:25.909562+00:00
 -- url     : https://prove2.me/theorems/a013bad7-6708-46c1-86e0-0d5d29d4aa65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationTransgression_conj_fix_iff
 -- name    : ReciprocityTheory.Coh.InflationTransgression.conj_fix_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:51:37.174145+00:00
 -- url     : https://prove2.me/theorems/9edee16e-84d5-48b9-873b-209d3b682607

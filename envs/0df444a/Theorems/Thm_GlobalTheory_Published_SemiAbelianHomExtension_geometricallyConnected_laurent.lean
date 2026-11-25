@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_geometricallyConnected_laurent
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.geometricallyConnected_laurent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:28:55.02231+00:00
 -- url     : https://prove2.me/theorems/01e17de2-e2fe-42c0-91f4-accb45d70375

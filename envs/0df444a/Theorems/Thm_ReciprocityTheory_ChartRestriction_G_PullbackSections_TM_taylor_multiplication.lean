@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_TM_taylor_multiplication
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.TM.taylor_multiplication
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:43:16.209571+00:00
 -- url     : https://prove2.me/theorems/bcbe3ae2-147e-467d-b16f-9aa4f80c3c95

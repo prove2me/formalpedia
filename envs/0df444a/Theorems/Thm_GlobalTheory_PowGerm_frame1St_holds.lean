@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_frame1St_holds
 -- name    : GlobalTheory.PowGerm.frame1St_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:48:59.6298+00:00
 -- url     : https://prove2.me/theorems/a1051768-ebc9-46be-b6ca-89613e53c95f

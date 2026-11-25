@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_EF_perf_iff
 -- name    : GlobalTheory.IsLatticeEmb.EF_perf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:38:37.727438+00:00
 -- url     : https://prove2.me/theorems/58b03baa-cfc5-528b-9979-39661975fdc0

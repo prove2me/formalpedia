@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_extCh_nonneg
 -- name    : ReciprocityTheory.L2DbarEstimates.C.extCh_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:53:54.530962+00:00
 -- url     : https://prove2.me/theorems/160a5060-fc7d-495a-8368-df67d66f1631

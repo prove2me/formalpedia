@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_padic_hom_valuation_lt_one
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.padic_hom_valuation_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:59:55.346422+00:00
 -- url     : https://prove2.me/theorems/678e824b-c407-51b5-90c3-46f575b58701

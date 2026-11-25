@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Kummer_kbarRep_apply
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Kummer.kbarRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:53:44.378601+00:00
 -- url     : https://prove2.me/theorems/cc743c0b-6fa0-4d2f-abfe-434416cc3636

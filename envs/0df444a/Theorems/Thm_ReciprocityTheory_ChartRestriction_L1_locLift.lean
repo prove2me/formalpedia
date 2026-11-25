@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_locLift
 -- name    : ReciprocityTheory.ChartRestriction.L1.locLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:45:17.224405+00:00
 -- url     : https://prove2.me/theorems/697d0d78-2ca4-4ead-a9f0-9bcce77e416b

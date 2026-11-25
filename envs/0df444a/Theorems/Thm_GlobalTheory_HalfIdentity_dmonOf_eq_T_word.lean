@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfIdentity_dmonOf_eq_T_word
 -- name    : GlobalTheory.HalfIdentity.dmonOf_eq_T_word
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:02:00.452185+00:00
 -- url     : https://prove2.me/theorems/ad1a3bdf-b0f3-401f-b473-d6cbae202e97

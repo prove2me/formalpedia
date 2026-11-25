@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QkShift_exists_shift_gen
 -- name    : GlobalTheory.QkShift.exists_shift_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:08:13.013129+00:00
 -- url     : https://prove2.me/theorems/28a86464-c7fe-4055-9d9e-f09887e42b2e

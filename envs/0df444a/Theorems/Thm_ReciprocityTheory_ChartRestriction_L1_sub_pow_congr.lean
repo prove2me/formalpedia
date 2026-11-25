@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_sub_pow_congr
 -- name    : ReciprocityTheory.ChartRestriction.L1.sub_pow_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:46:52.583012+00:00
 -- url     : https://prove2.me/theorems/cedb4949-53b5-4fdb-bab9-ecc5daec9cc3

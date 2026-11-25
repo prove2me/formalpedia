@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TorusAtPf_torusAtLa1_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TorusAtPf.torusAtLa1_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:55:31.390084+00:00
 -- url     : https://prove2.me/theorems/0a3794f8-586e-4791-9012-f04acebd8b17

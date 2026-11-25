@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_decay_of_vanishing_at_cusps
 -- name    : GlobalTheory.SW.decay_of_vanishing_at_cusps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:45:58.523208+00:00
 -- url     : https://prove2.me/theorems/9dc74774-1ba7-4138-b1bd-a206a3392c94

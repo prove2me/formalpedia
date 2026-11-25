@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_uphi_le_one
 -- name    : ReciprocityTheory.Cheb.uphi_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:31:15.540802+00:00
 -- url     : https://prove2.me/theorems/87916ff4-91e6-400f-bf14-095dcdadbb21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimensionalCollapse_two_layer_weight_flow
 -- name    : DimensionalCollapse.two_layer_weight_flow
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:54:37.383027+00:00
 -- url     : https://prove2.me/theorems/535522d5-e9f9-43e3-9187-3139d31fb0b5

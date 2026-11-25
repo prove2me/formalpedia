@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_HomogeneousCochainIso_hgi_negpow
 -- name    : ReciprocityTheory.Coh.HomogeneousCochainIso.hgi_negpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:49:47.651484+00:00
 -- url     : https://prove2.me/theorems/3a8371db-eacd-598b-9917-d1d87340a190

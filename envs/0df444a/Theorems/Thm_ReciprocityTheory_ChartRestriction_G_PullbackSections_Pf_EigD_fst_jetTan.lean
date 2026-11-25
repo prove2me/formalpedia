@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_EigD_fst_jetTan
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.EigD.fst_jetTan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:46:05.40301+00:00
 -- url     : https://prove2.me/theorems/08ee20fb-ceb8-5090-a02e-509d97964363

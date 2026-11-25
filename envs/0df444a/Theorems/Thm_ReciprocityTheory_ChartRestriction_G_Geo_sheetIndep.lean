@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_sheetIndep
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.sheetIndep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:09:07.499914+00:00
 -- url     : https://prove2.me/theorems/cd3b35b6-0ff3-47ec-a654-6303c1395803

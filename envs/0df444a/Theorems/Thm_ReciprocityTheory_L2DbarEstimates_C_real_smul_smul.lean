@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_real_smul_smul
 -- name    : ReciprocityTheory.L2DbarEstimates.C.real_smul_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:55:05.604427+00:00
 -- url     : https://prove2.me/theorems/c6e66d20-0f79-43e4-a117-16f265397c1e

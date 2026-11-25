@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_integrableOn_mul_of_sq
 -- name    : ReciprocityTheory.L2DbarEstimates.C.integrableOn_mul_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:54:26.706357+00:00
 -- url     : https://prove2.me/theorems/e1aeb776-6a2b-5800-9c83-b5748747c1c7

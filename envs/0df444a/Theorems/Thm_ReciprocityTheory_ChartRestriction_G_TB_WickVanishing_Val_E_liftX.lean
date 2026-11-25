@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Val_E_liftX
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Val.E_liftX
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:17:16.11873+00:00
 -- url     : https://prove2.me/theorems/85f962b5-c0fa-4818-84e4-f19d492b18a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifLieBasis_isDiff_list_prod
 -- name    : GlobalTheory.UnifLieBasis.isDiff_list_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:18:46.21702+00:00
 -- url     : https://prove2.me/theorems/f89b491e-0b66-439a-ae81-bb63fbc2e044

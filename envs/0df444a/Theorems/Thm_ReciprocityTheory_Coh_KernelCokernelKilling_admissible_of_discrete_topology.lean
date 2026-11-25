@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_KernelCokernelKilling_admissible_of_discrete_topology
 -- name    : ReciprocityTheory.Coh.KernelCokernelKilling.admissible_of_discrete_topology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:50:30.385252+00:00
 -- url     : https://prove2.me/theorems/83244312-fc8a-5264-b8e1-06addd0a0158

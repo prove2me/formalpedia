@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortVectors_transference_rat
 -- name    : GlobalTheory.ShortVectors.transference_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:11:37.463283+00:00
 -- url     : https://prove2.me/theorems/df9c673b-bd2b-4ca6-b04f-6b1cfbfdfdc8

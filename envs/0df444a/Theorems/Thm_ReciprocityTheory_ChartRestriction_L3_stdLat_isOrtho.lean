@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_stdLat_isOrtho
 -- name    : ReciprocityTheory.ChartRestriction.L3.stdLat_isOrtho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:49:16.879111+00:00
 -- url     : https://prove2.me/theorems/ca0ffadc-e4bd-4614-bf4b-a14cd739ac6e

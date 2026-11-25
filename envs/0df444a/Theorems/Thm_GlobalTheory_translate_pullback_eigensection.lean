@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_translate_pullback_eigensection
 -- name    : GlobalTheory.translate_pullback_eigensection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:24:09.956448+00:00
 -- url     : https://prove2.me/theorems/2fbbd81c-06e7-44eb-a9fb-aa206e480c50

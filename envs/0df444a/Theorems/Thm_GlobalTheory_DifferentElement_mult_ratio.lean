@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DifferentElement_mult_ratio
 -- name    : GlobalTheory.DifferentElement.mult_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:58:57.392326+00:00
 -- url     : https://prove2.me/theorems/01e3cab4-8033-46ad-ad16-0857096be78f

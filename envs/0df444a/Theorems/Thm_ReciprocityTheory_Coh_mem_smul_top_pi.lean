@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_mem_smul_top_pi
 -- name    : ReciprocityTheory.Coh.mem_smul_top_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:51:08.189086+00:00
 -- url     : https://prove2.me/theorems/2c198dee-b7ec-508f-b52a-b54876600f96

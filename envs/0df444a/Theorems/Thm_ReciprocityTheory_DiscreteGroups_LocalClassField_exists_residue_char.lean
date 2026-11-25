@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_residue_char
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_residue_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:02:44.33247+00:00
 -- url     : https://prove2.me/theorems/0ba27872-43f0-4768-8133-fefb55aa8f7b

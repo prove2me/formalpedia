@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_GenIsoRatio_gm_pull_g__f1a988516116
 -- name    : P2M_GlobalTheory_GenIsoRatio_gm_pull_g__f1a988516116
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:06:48.829145+00:00
 -- url     : https://prove2.me/theorems/0e4f9c7a-f84d-4dc8-8e3d-0aef0e030f95

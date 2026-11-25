@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_DiscreteValuationPoint_exists_dvr_point_flat_algebra
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.DiscreteValuationPoint.exists_dvr_point_flat_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:36:01.738442+00:00
 -- url     : https://prove2.me/theorems/32fe6b60-1925-4c85-adbe-718a31f80395

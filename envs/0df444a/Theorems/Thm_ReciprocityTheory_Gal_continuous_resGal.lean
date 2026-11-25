@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_continuous_resGal
 -- name    : ReciprocityTheory.Gal.continuous_resGal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:52:35.461041+00:00
 -- url     : https://prove2.me/theorems/5036ad2b-fd57-53e9-aed4-6def70d99fa6

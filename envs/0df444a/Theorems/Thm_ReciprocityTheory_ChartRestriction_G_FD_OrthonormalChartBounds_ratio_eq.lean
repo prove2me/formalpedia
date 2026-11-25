@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalChartBounds_ratio_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalChartBounds.ratio_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:21:48.983398+00:00
 -- url     : https://prove2.me/theorems/253e6c7f-8f91-57c0-a125-5c557af781b5

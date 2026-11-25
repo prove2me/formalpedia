@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnramifiedExtensions_sigBar_of_mem
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions.sigBar_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:53:37.702947+00:00
 -- url     : https://prove2.me/theorems/46ad5a8d-e662-4b98-b116-05b1a99c4a4f

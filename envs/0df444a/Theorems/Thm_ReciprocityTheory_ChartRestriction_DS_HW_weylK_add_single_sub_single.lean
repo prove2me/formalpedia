@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_weylK_add_single_sub_single
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.weylK_add_single_sub_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:42:42.290383+00:00
 -- url     : https://prove2.me/theorems/11d63703-05c8-5322-8f65-ff7424b0ef8f

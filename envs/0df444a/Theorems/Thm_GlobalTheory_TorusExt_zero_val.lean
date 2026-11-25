@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusExt_zero_val
 -- name    : GlobalTheory.TorusExt.zero_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:43:51.17204+00:00
 -- url     : https://prove2.me/theorems/9bfc70f3-086c-5ad8-b8ba-af9d1b24014d

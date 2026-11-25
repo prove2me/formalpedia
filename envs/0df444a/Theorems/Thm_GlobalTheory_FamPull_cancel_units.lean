@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamPull_cancel_units
 -- name    : GlobalTheory.FamPull.cancel_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:18:55.188739+00:00
 -- url     : https://prove2.me/theorems/1f2c3ef2-e211-4498-bccf-8df2f026d550

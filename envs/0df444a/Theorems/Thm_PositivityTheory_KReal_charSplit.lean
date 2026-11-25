@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_charSplit
 -- name    : PositivityTheory.KReal.charSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:00:53.320998+00:00
 -- url     : https://prove2.me/theorems/85480178-ae98-43cf-b9c5-80331877077f

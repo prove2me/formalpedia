@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QkPairing_ratio_tor
 -- name    : GlobalTheory.QkPairing.ratio_tor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:08:30.90588+00:00
 -- url     : https://prove2.me/theorems/076a0f6c-1d2b-4d3b-9cc0-cd0a74e697ee

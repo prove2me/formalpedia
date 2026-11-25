@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjPotMassEq_sqSum_pos_28c025ccad4a
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjPotMassEq_sqSum_pos_28c025ccad4a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:46:57.134592+00:00
 -- url     : https://prove2.me/theorems/19f98ad2-3274-5795-a315-efb217b69142

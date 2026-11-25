@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_EDenseInAE_proof_0c5759a225ba
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_EDenseInAE_proof_0c5759a225ba
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:49.247259+00:00
 -- url     : https://prove2.me/theorems/a7cf4e21-db0b-4fa8-bd94-ae0e5f4ac9f7

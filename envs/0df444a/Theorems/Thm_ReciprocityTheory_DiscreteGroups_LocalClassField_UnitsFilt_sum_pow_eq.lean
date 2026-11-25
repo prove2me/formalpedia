@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnitsFilt_sum_pow_eq
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnitsFilt.sum_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:52:15.20441+00:00
 -- url     : https://prove2.me/theorems/b75e7c72-81d4-49eb-bcd0-ed670f9317ca

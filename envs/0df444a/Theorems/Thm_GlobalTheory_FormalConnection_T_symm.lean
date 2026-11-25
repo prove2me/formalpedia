@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalConnection_T_symm
 -- name    : GlobalTheory.FormalConnection.T_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:37:19.891061+00:00
 -- url     : https://prove2.me/theorems/a1242685-42be-43b2-a6d3-783b8b866ffd

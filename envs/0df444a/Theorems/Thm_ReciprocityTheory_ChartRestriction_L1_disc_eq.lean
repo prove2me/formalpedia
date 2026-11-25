@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_disc_eq
 -- name    : ReciprocityTheory.ChartRestriction.L1.disc_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:52:15.089136+00:00
 -- url     : https://prove2.me/theorems/1a476eb2-1bfa-49da-ae37-984733b5bc65

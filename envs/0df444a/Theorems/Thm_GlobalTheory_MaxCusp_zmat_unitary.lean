@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxCusp_zmat_unitary
 -- name    : GlobalTheory.MaxCusp.zmat_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:40:44.797902+00:00
 -- url     : https://prove2.me/theorems/a30673f5-d0ee-5f1f-8568-9e14352c4922

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_st_byPartsSymm_of
 -- name    : ReciprocityTheory.AnForm.M.st_byPartsSymm_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:44:52.463579+00:00
 -- url     : https://prove2.me/theorems/582d9c99-fbed-455c-8598-e31075f3d414

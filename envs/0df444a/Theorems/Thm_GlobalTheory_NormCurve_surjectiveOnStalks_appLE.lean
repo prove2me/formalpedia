@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCurve_surjectiveOnStalks_appLE
 -- name    : GlobalTheory.NormCurve.surjectiveOnStalks_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:23:20.070406+00:00
 -- url     : https://prove2.me/theorems/e132c40d-ff91-5bfb-9544-77948c300ad2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_B_moll_tendsto_of_continuous
 -- name    : ReciprocityTheory.L2DbarEstimates.B.moll_tendsto_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:54:38.721652+00:00
 -- url     : https://prove2.me/theorems/277b80c5-d1c2-4aa4-a31d-efe60597bcae

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.L3.WA.unram_locRing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:47:56.885504+00:00
 -- url     : https://prove2.me/submissions/1ff7f488-cc4d-422f-834e-0bce1be0398a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Formalism_PeriodIntegrals_HermitianGenusExtension_SemilocalHermitianLattices_ExistsNormOneOfPair
 import Definitions.Def_Formalism_PeriodIntegrals_HermitianGenusExtension_SemilocalHermitianLattices_ExistsSqAbsNormOfInert

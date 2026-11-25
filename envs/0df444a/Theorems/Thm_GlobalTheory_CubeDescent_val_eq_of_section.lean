@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeDescent_val_eq_of_section
 -- name    : GlobalTheory.CubeDescent.val_eq_of_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:28:28.108806+00:00
 -- url     : https://prove2.me/theorems/1acaa9d1-4edf-4237-bc98-b155112c4a6d

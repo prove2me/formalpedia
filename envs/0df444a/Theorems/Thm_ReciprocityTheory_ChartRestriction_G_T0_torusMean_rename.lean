@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_torusMean_rename
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.torusMean_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:45:12.701803+00:00
 -- url     : https://prove2.me/theorems/3b179a45-8dfc-4679-8277-67b94b1325a5

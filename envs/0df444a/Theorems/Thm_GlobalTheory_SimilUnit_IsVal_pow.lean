@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimilUnit_IsVal_pow
 -- name    : GlobalTheory.SimilUnit.IsVal.pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:23:13.48924+00:00
 -- url     : https://prove2.me/theorems/9c39b58c-5fb9-5e6f-b2f1-48023387e4dd

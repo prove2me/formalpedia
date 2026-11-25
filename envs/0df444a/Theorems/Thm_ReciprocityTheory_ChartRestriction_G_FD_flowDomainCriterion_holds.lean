@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_flowDomainCriterion_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.flowDomainCriterion_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:36:02.979604+00:00
 -- url     : https://prove2.me/theorems/64b6cc24-d893-48ee-a3be-699b4f23aa67

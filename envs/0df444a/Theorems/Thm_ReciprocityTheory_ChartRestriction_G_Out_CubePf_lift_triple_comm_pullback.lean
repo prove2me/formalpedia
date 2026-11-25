@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_CubePf_lift_triple_comm_pullback
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.CubePf.lift_triple_comm_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:44:58.166389+00:00
 -- url     : https://prove2.me/theorems/51e094bf-2be6-4d30-a1d3-3427cd2ba078

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationIsomorphism_deg0
 -- name    : ReciprocityTheory.Coh.InflationIsomorphism.deg0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:50:37.571844+00:00
 -- url     : https://prove2.me/theorems/2d3e9694-6a1a-45c6-89ff-975edf20b5f1

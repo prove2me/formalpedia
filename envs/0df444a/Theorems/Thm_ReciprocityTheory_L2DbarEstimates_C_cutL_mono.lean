@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_cutL_mono
 -- name    : ReciprocityTheory.L2DbarEstimates.C.cutL_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:53:54.379499+00:00
 -- url     : https://prove2.me/theorems/406ac2a1-9bfa-5b29-9822-557f3fde561d

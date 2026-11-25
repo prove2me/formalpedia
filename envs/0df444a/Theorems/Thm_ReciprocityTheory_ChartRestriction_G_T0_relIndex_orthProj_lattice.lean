@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_relIndex_orthProj_lattice
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.relIndex_orthProj_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:40:26.032972+00:00
 -- url     : https://prove2.me/theorems/ee18df1f-2ebc-41fa-90d9-bf06c98d5e92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolFibre_isHolTo_const
 -- name    : GlobalTheory.HolFibre.isHolTo_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:47:10.543281+00:00
 -- url     : https://prove2.me/theorems/fe4f36cc-5ca8-5897-8b65-b8e53619f070

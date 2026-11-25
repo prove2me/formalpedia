@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubledSpace_finrank_glue
 -- name    : GlobalTheory.DoubledSpace.finrank_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:25:01.747158+00:00
 -- url     : https://prove2.me/theorems/1771fb41-71f6-4940-8164-b7aac53107e7

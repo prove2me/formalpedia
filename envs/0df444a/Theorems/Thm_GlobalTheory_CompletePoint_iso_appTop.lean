@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletePoint_iso_appTop
 -- name    : GlobalTheory.CompletePoint.iso_appTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:43:44.31875+00:00
 -- url     : https://prove2.me/theorems/1c7c6c82-05a8-4738-a5cf-dfe1fe1f3cf1

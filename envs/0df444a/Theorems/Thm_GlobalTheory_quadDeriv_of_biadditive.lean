@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quadDeriv_of_biadditive
 -- name    : GlobalTheory.quadDeriv_of_biadditive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:16:40.528639+00:00
 -- url     : https://prove2.me/theorems/b4d789d1-d9e2-4709-8213-9ad0a3d4b2fe

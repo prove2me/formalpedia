@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_fderiv_fderiv_gbPot_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.fderiv_fderiv_gbPot_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:12:30.24542+00:00
 -- url     : https://prove2.me/theorems/004b7545-fdd1-46f7-84d3-1cf7356aa5d3

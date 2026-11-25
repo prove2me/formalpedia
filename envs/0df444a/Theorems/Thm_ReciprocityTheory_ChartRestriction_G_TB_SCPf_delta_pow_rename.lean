@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_SCPf_delta_pow_rename
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.SCPf.delta_pow_rename
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:05:46.913551+00:00
 -- url     : https://prove2.me/theorems/82660461-baff-45b8-abd0-44416462ff34

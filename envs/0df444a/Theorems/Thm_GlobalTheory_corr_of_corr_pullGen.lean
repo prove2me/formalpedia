@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_corr_of_corr_pullGen
 -- name    : GlobalTheory.corr_of_corr_pullGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:15:29.933611+00:00
 -- url     : https://prove2.me/theorems/a089b53d-edf7-4796-af01-722b04240c07

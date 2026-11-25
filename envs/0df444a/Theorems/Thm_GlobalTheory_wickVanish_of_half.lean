@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_wickVanish_of_half
 -- name    : GlobalTheory.wickVanish_of_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:31:02.689572+00:00
 -- url     : https://prove2.me/theorems/33386ae7-89a5-4d3c-a5c3-bbcfce6ced33

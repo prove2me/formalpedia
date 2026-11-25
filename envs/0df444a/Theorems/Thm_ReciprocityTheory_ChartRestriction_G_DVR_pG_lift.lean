@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_pG_lift
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.pG_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:42:26.447664+00:00
 -- url     : https://prove2.me/theorems/e44540b7-6378-5b69-aa09-7a5d5e7eabf2

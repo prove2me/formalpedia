@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.G.TB.SCPf.cc_ordEval_mem
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:48:20.052666+00:00
 -- url     : https://prove2.me/submissions/3343d0ce-3882-4add-be8c-9f898dcb0b16
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_SCWick
 import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_GaugeTrans

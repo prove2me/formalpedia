@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TauPull_val_tau
 -- name    : GlobalTheory.TauPull.val_tau
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:39.920349+00:00
 -- url     : https://prove2.me/theorems/fd5bb3aa-a1fc-4d3d-bc98-e9c2dbe25922

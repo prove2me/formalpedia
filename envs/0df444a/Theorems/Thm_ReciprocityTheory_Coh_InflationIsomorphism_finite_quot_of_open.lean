@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationIsomorphism_finite_quot_of_open
 -- name    : ReciprocityTheory.Coh.InflationIsomorphism.finite_quot_of_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:50:50.68673+00:00
 -- url     : https://prove2.me/theorems/5d80766f-1017-53e2-8d19-46c0ca8c9fb1

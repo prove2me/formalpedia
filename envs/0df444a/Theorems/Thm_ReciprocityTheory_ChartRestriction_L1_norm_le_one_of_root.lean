@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_norm_le_one_of_root
 -- name    : ReciprocityTheory.ChartRestriction.L1.norm_le_one_of_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:48:07.054992+00:00
 -- url     : https://prove2.me/theorems/0db6ec8f-3ed7-5e71-bba7-60bc5d3b378e

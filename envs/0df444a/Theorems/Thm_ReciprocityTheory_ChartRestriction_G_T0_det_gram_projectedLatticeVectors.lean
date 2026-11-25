@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_det_gram_projectedLatticeVectors
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.det_gram_projectedLatticeVectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:37:30.386486+00:00
 -- url     : https://prove2.me/theorems/d176e391-6377-56a0-8c65-6cde0e852311

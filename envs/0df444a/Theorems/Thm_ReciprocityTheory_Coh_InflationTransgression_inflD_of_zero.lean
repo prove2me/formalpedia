@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationTransgression_inflD_of_zero
 -- name    : ReciprocityTheory.Coh.InflationTransgression.inflD_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:49:41.3454+00:00
 -- url     : https://prove2.me/theorems/5b27250e-94c1-510b-a521-168a39da4def

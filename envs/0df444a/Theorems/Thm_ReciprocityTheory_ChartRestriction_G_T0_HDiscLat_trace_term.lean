@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HDiscLat_trace_term
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HDiscLat.trace_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:37:13.932597+00:00
 -- url     : https://prove2.me/theorems/8342ec9a-d05c-4b16-a485-e955d67886a4

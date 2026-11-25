@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Deg2_exists_normal_index
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Deg2.exists_normal_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:52:14.739748+00:00
 -- url     : https://prove2.me/theorems/a4d13890-b9ff-579c-92bd-70cb4e50c51a

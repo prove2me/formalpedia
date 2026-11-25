@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HtGaussGen
 -- name    : HtGaussGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:03.297496+00:00
 -- url     : https://prove2.me/theorems/955dbe16-7315-46fc-8432-763a118ed645

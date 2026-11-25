@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_thetaLaw_mul
 -- name    : GlobalTheory.KeyPow.thetaLaw_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:49:13.866864+00:00
 -- url     : https://prove2.me/theorems/0151acb3-323a-499e-aa49-d9bea45a5a3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_q_of_finite
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.q_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:51:32.29296+00:00
 -- url     : https://prove2.me/theorems/86276f5a-27a2-53ac-bdef-56b0ec11924b

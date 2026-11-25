@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_pgds_cont_polar_symm
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.pgds_cont_polar_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:53:50.030125+00:00
 -- url     : https://prove2.me/theorems/07547a04-430d-4e38-8fe5-8e91a6fbc392

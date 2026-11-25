@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_SCPf_secondOrder_iterate_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.SCPf.secondOrder_iterate_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:42:19.157049+00:00
 -- url     : https://prove2.me/theorems/849217b6-ca0d-522d-bce2-043d4c4f3a5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGA_exists_tau
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGA.exists_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:59:58.313413+00:00
 -- url     : https://prove2.me/theorems/d8af7fb4-c866-4eee-9f8c-53dd68e39626

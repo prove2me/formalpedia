@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_CoefBasic_sval_lin
 -- name    : GlobalTheory.UT.CoefBasic.sval_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:08:14.012514+00:00
 -- url     : https://prove2.me/theorems/bc8b5f72-55b2-4bc3-9b74-82b53644dfe6

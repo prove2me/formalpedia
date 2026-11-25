@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_holoWeak_bound
 -- name    : ReciprocityTheory.L2DbarEstimates.C.holoWeak_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:54:34.581741+00:00
 -- url     : https://prove2.me/theorems/d804da28-0fa9-4704-aa68-edfe7c5ee913

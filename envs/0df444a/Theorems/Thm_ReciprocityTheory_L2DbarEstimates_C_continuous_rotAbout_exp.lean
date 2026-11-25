@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_continuous_rotAbout_exp
 -- name    : ReciprocityTheory.L2DbarEstimates.C.continuous_rotAbout_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:54:09.252459+00:00
 -- url     : https://prove2.me/theorems/5e07666e-ff83-4184-acd8-05aa0fd43d42

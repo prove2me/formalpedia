@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_JetTr_psTrunc_map
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.JetTr.psTrunc_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:41:22.879905+00:00
 -- url     : https://prove2.me/theorems/1c8168b7-4ba7-5f84-98b9-51e9f85488cd

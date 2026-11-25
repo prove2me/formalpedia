@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isogeny_sum_mem_and_norm
 -- name    : GlobalTheory.isogeny_sum_mem_and_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:09:07.867388+00:00
 -- url     : https://prove2.me/theorems/9df3b1e7-1e6c-474b-8d59-655457a9a715

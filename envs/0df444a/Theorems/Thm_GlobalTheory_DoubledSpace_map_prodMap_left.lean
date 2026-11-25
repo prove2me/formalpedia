@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubledSpace_map_prodMap_left
 -- name    : GlobalTheory.DoubledSpace.map_prodMap_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:24:55.14746+00:00
 -- url     : https://prove2.me/theorems/f35137b9-baa5-5847-ba65-a005a38dd193

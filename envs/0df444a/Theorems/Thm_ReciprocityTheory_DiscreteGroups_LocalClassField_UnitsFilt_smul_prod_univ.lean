@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnitsFilt_smul_prod_univ
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnitsFilt.smul_prod_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:51:54.04147+00:00
 -- url     : https://prove2.me/theorems/51b5bd14-83f4-45b2-b667-e7245d9abc4c

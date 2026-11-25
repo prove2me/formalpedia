@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_sigF_norm
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.sigF_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:35:43.731841+00:00
 -- url     : https://prove2.me/theorems/ed86c568-4f46-5b40-b78c-3d16095eb8d0

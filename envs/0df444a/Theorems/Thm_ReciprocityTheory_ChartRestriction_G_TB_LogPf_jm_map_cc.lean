@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_LogPf_jm_map_cc
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.LogPf.jm_map_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:57:40.649803+00:00
 -- url     : https://prove2.me/theorems/9c00a498-d660-4bee-ab87-dab6c30cb330

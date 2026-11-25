@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_abs_lt_one_of_Tent_ne_zero__b0d272
 -- name    : ReciprocityTheory.Cheb.abs_lt_one_of_Tent_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:49:22.936596+00:00
 -- url     : https://prove2.me/theorems/b0d272c3-bf2d-4192-adec-dc5d37d5f378

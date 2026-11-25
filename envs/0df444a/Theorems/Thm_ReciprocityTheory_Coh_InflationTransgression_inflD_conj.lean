@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationTransgression_inflD_conj
 -- name    : ReciprocityTheory.Coh.InflationTransgression.inflD_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:16:46.579653+00:00
 -- url     : https://prove2.me/theorems/2dd5e1d0-c781-4546-b8bc-6ce9bd20249b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonicRootExtension_isAdicComplete
 -- name    : GlobalTheory.MonicRootExtension.isAdicComplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:27:01.643099+00:00
 -- url     : https://prove2.me/theorems/e7bca8e1-d618-4403-bd54-7cd08a7c96e0

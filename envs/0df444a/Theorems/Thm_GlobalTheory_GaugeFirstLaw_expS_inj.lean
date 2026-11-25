@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeFirstLaw_expS_inj
 -- name    : GlobalTheory.GaugeFirstLaw.expS_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:49:27.87081+00:00
 -- url     : https://prove2.me/theorems/fdbfc921-7ed7-41e4-95a0-89b6d0693df5

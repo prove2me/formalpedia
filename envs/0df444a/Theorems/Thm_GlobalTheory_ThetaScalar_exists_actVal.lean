@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_exists_actVal
 -- name    : GlobalTheory.ThetaScalar.exists_actVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:43:49.099901+00:00
 -- url     : https://prove2.me/theorems/5165bbc8-fa2b-434e-82bc-2823140db3e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartBC_sq_tan
 -- name    : GlobalTheory.RawChartBC.sq_tan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:15:41.542812+00:00
 -- url     : https://prove2.me/theorems/eac1ec24-815c-493d-9b36-1bc937b06877

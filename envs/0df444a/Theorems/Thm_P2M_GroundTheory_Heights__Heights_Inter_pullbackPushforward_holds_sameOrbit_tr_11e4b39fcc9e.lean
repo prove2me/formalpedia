@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pullbackPushforward_holds_sameOrbit_tr_11e4b39fcc9e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pullbackPushforward_holds_sameOrbit_tr_11e4b39fcc9e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:40:17.458042+00:00
 -- url     : https://prove2.me/theorems/affe6af4-7cf4-5645-89b2-f265f34b2ee4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_finrank_of_ortho
 -- name    : ReciprocityTheory.ChartRestriction.L3.finrank_of_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:49:47.998022+00:00
 -- url     : https://prove2.me/theorems/dd991ad8-2ef3-404a-8684-7a87a5c25f99

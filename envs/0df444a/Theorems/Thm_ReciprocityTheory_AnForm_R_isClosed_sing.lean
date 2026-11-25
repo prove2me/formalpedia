@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_isClosed_sing
 -- name    : ReciprocityTheory.AnForm.R.isClosed_sing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:40:51.995919+00:00
 -- url     : https://prove2.me/theorems/a4374473-0e06-57b7-ab78-7516a24c01a7

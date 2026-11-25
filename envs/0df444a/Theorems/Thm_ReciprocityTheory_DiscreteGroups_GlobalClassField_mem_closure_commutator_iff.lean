@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_mem_closure_commutator_iff
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.mem_closure_commutator_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:51:46.888422+00:00
 -- url     : https://prove2.me/theorems/10de945f-5a0e-4bdb-b6e5-1f2ba0b87f85

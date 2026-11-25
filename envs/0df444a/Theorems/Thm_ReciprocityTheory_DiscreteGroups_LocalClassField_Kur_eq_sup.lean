@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Kur_eq_sup
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Kur_eq_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:07:01.958806+00:00
 -- url     : https://prove2.me/theorems/7202cb61-48c4-4aeb-813e-b2ed19417ba8

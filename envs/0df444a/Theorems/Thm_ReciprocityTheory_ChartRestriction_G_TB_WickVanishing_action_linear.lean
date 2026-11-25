@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_action_linear
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.action_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:24.26122+00:00
 -- url     : https://prove2.me/theorems/620933c7-aef7-4768-8f6a-8dac2dd76bc2

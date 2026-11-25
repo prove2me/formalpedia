@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_supSt_adt_eq
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.supSt_adt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:53:59.38946+00:00
 -- url     : https://prove2.me/theorems/4868de30-7199-5a20-9eb2-3d6f34249b2f

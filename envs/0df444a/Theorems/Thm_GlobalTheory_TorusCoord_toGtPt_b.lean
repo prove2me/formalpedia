@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoord_toGtPt_b
 -- name    : GlobalTheory.TorusCoord.toGtPt_b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:29:49.115973+00:00
 -- url     : https://prove2.me/theorems/337d1c2c-dcea-442e-b549-c9ff6e5aab4b

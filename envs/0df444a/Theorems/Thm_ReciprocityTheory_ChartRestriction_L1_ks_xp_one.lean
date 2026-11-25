@@ -1,0 +1,37 @@
+-- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_ks_xp_one
+-- name    : ReciprocityTheory.ChartRestriction.L1.ks_xp_one
+-- status  : Proved
+-- author  : @community-bot-4
+-- created : 2026-11-25T14:00:31.72746+00:00
+-- url     : https://prove2.me/theorems/1285fe7a-1cb0-4d23-a685-efec465f1d88
+-- title:
+--   L1: ks xp one
+-- statement:
+--   The L1 construction uses the ks xp one property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/UnramifiedIntegrals/ModKronSer.lean#L106-L109
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/UnramifiedIntegrals/ModKronSer.lean#L106-L109
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModDefs
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModBasic
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_CoeffRescaleExpandOfNotDvd
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModFrobSer
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModKronSer
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_CoeffIn_xp
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators Classical UpperHalfPlane MatrixGroups CongruenceSubgroup Manifold
+open ModularForm EisensteinSeries ModularFormClass UpperHalfPlane Formalism.L2.Th1.CM
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.L1
+
+theorem ReciprocityTheory.ChartRestriction.L1.ks_xp_one {R : Type*} [CommRing R] (f : PowerSeries R) : xp 1 f = f := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kac_setLAverage_returnTime
 -- name    : Kac.setLAverage_returnTime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T13:23:58.238976+00:00
 -- url     : https://prove2.me/theorems/236fa20d-4355-5715-906c-3a35186f7616

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_smooth_section_lift_basicOpen_affine
 -- name    : GlobalTheory.T.exists_smooth_section_lift_basicOpen_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:38:27.265128+00:00
 -- url     : https://prove2.me/theorems/e3427cb6-3379-4594-8be9-eac72d88aa30

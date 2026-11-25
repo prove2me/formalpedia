@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_GaussGen_comap_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.GaussGen.comap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:37:36.885082+00:00
 -- url     : https://prove2.me/theorems/a4dc7c9c-dd2f-476c-9970-4fc37a479dfa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_ProcyclicCohomology_per_of_dvd
 -- name    : ReciprocityTheory.Coh.ProcyclicCohomology.per_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:50:01.939605+00:00
 -- url     : https://prove2.me/theorems/2dbd43d8-b3f1-49b0-972a-965244cb5b8d

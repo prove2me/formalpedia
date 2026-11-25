@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegPull_pmaps_val
 -- name    : GlobalTheory.DegPull.pmaps_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:00:11.479886+00:00
 -- url     : https://prove2.me/theorems/d109c055-fa54-4011-8fcd-7bf8c556662d

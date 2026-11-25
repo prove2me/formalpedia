@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_WA_exists_isom_frame
 -- name    : ReciprocityTheory.ChartRestriction.L3.WA.exists_isom_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:47:07.196893+00:00
 -- url     : https://prove2.me/theorems/0b5e644a-1424-471d-8966-16b3a7240cb6

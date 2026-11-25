@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_fourier_coefficients_of_vector_group
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.fourier_coefficients_of_vector_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:22:40.667352+00:00
 -- url     : https://prove2.me/theorems/19086ef6-09c1-4eaa-87ae-5d010dc9b172

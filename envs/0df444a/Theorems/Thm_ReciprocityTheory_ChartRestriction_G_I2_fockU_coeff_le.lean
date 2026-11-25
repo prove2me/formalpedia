@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_fockU_coeff_le
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.fockU_coeff_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:29:18.774699+00:00
 -- url     : https://prove2.me/theorems/7d98778d-a08f-5295-9af6-1d6b17e42c2c

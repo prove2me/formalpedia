@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_ChartWirtingerDerivatives_Ck_differentiableAt_chart
 -- name    : ReciprocityTheory.L2DbarEstimates.ChartWirtingerDerivatives.Ck.differentiableAt_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:55:58.474836+00:00
 -- url     : https://prove2.me/theorems/321cfcc4-7e83-4680-bba3-9af686bb3ae4

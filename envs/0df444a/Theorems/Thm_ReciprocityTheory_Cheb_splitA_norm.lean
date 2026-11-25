@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_splitA_norm
 -- name    : ReciprocityTheory.Cheb.splitA_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:48:44.848656+00:00
 -- url     : https://prove2.me/theorems/2a725557-cd17-4cc6-86ae-e23781cc1ebe

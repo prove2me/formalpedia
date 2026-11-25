@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActionGauge_expS_inj
 -- name    : GlobalTheory.ActionGauge.expS_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:18.476222+00:00
 -- url     : https://prove2.me/theorems/86630d46-f9e1-4b5e-bcea-f89d016e8b6e

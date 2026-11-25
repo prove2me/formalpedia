@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_WA_BE_avoid_two
 -- name    : ReciprocityTheory.ChartRestriction.L3.WA.BE.avoid_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:47:57.359621+00:00
 -- url     : https://prove2.me/theorems/5b07ab02-e448-40e3-9d50-349383bba1d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_hasLineDerivAt_halfLogRatioSq_comp
 -- name    : ReciprocityTheory.L2DbarEstimates.C.hasLineDerivAt_halfLogRatioSq_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:54:48.006883+00:00
 -- url     : https://prove2.me/theorems/4e830bcd-09dd-498a-8d41-dabb999a2ecc

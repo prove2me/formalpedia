@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_SymFrame_left_pow
 -- name    : GlobalTheory.UT.SymFrame.left_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:58:49.299556+00:00
 -- url     : https://prove2.me/theorems/4be03169-ace2-435a-9729-3641e3f92100

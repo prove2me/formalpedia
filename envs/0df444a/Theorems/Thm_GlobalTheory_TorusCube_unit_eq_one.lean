@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCube_unit_eq_one
 -- name    : GlobalTheory.TorusCube.unit_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:09:31.428176+00:00
 -- url     : https://prove2.me/theorems/189e43ac-e242-4449-94c7-08ffc46e50c6

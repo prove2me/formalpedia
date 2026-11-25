@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnramifiedExtensions_norm_sub_one_of_pow
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions.norm_sub_one_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:58:40.840374+00:00
 -- url     : https://prove2.me/theorems/be80da0b-3096-4c41-b5ff-33871aa92a60

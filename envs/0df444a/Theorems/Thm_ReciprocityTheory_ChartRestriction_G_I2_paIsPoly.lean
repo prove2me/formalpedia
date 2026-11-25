@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_paIsPoly
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.paIsPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:30:20.594842+00:00
 -- url     : https://prove2.me/theorems/deedfa56-d55e-5425-ab37-b2d2851471be

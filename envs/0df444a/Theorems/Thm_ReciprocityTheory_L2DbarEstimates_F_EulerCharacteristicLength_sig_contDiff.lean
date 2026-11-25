@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_EulerCharacteristicLength_sig_contDiff
 -- name    : ReciprocityTheory.L2DbarEstimates.F.EulerCharacteristicLength.sig_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:55:00.171376+00:00
 -- url     : https://prove2.me/theorems/48f7a25b-b075-5e6d-8127-903585a34d01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Deg2_continuous_comp_rep
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Deg2.continuous_comp_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:14:11.259616+00:00
 -- url     : https://prove2.me/theorems/f8ac869a-c9b9-4e45-a774-a853c59b23a0

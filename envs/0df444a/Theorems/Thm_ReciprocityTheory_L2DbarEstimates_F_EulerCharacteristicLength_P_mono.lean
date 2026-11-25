@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_EulerCharacteristicLength_P_mono
 -- name    : ReciprocityTheory.L2DbarEstimates.F.EulerCharacteristicLength.P_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:55:30.37703+00:00
 -- url     : https://prove2.me/theorems/e72b6542-596d-425c-8e4c-8729d4877ee4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_isLB_tw
 -- name    : GlobalTheory.AbLaw.isLB_tw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:55:40.402865+00:00
 -- url     : https://prove2.me/theorems/399645a8-9a15-4bb8-95df-842b3ae1c99c

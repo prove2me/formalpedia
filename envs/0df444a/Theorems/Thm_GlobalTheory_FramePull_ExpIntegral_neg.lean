@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePull_ExpIntegral_neg
 -- name    : GlobalTheory.FramePull.ExpIntegral.neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:56:17.870948+00:00
 -- url     : https://prove2.me/theorems/53e49b7f-7602-4cd9-a31d-d6969db1662c

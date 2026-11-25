@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatFin_muF_lt_top_of_isCompact
 -- name    : GlobalTheory.SatFin.muF_lt_top_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:45:25.869528+00:00
 -- url     : https://prove2.me/theorems/f5cace07-7f52-4faa-b7f0-efe9f94d2284

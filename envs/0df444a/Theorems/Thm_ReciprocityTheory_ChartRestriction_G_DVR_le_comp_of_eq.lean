@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_le_comp_of_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.le_comp_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:42:20.180269+00:00
 -- url     : https://prove2.me/theorems/131f74e2-578e-5e7a-b502-0253d100e1fd

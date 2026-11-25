@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_norm_algHom
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.norm_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:55:10.986685+00:00
 -- url     : https://prove2.me/theorems/fc24995d-832c-54e0-be1d-fa287e5c5de1

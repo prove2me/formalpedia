@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_tor_conj_e
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.tor_conj_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:34:59.552041+00:00
 -- url     : https://prove2.me/theorems/804062a5-14b6-4d51-b660-02f0d223cb82

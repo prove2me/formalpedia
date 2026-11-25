@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnitsFilt_telescope
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnitsFilt.telescope
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:51:56.610165+00:00
 -- url     : https://prove2.me/theorems/daf48e6d-d318-4bdf-b5a3-dbdf09cbe16d

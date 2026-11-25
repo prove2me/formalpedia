@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_PadicPolynomialApproximation_norm_geom_sum_sub_le
 -- name    : ReciprocityTheory.ChartRestriction.PadicPolynomialApproximation.norm_geom_sum_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:47:07.710704+00:00
 -- url     : https://prove2.me/theorems/ca439149-ddf6-4d68-adf5-df95b6feead9

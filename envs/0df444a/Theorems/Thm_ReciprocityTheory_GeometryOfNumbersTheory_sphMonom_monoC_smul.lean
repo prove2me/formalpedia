@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_sphMonom_monoC_smul
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.sphMonom_monoC_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:54:35.965233+00:00
 -- url     : https://prove2.me/theorems/531b16cf-29c5-4864-9175-e434da9bd7aa

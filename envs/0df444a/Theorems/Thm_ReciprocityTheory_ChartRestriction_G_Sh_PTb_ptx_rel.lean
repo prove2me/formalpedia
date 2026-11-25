@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_ptx_rel
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.ptx_rel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:59:33.117796+00:00
 -- url     : https://prove2.me/theorems/620fc841-6514-4d40-9507-3b06a5d1c937

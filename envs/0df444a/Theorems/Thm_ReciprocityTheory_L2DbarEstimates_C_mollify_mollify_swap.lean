@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_mollify_mollify_swap
 -- name    : ReciprocityTheory.L2DbarEstimates.C.mollify_mollify_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:54:50.879597+00:00
 -- url     : https://prove2.me/theorems/96f3eace-8451-5283-a8ae-7facd18d9cc5

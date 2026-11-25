@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_TorusWeight_psi_zero
 -- name    : GlobalTheory.UT.TorusWeight.psi_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:20:07.861288+00:00
 -- url     : https://prove2.me/theorems/2e46912d-6485-427c-8f1c-5927461885c8

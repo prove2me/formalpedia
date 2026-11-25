@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_lowLES_h0Equiv_pair
 -- name    : ReciprocityTheory.Coh.lowLES_h0Equiv_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:59:10.941085+00:00
 -- url     : https://prove2.me/theorems/29b026ec-9248-4a16-a9ed-24ad89f7f293

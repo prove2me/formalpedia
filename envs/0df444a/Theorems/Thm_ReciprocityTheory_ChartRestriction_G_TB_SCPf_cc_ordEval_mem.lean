@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_SCPf_cc_ordEval_mem
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.SCPf.cc_ordEval_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:40:51.483053+00:00
 -- url     : https://prove2.me/theorems/1840d2a0-1396-5cb9-96ce-b339209406eb

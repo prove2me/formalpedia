@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_hermC_jp_jp
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.hermC_jp_jp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:14.522978+00:00
 -- url     : https://prove2.me/theorems/1f7116a6-0534-4765-82e2-d77677edd0bd

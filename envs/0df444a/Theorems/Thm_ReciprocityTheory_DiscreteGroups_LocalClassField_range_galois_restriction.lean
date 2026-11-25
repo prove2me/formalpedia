@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_range_galois_restriction
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.range_galois_restriction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:02:16.311365+00:00
 -- url     : https://prove2.me/theorems/79018b51-09e1-42ca-bd66-b10ada5d8f52

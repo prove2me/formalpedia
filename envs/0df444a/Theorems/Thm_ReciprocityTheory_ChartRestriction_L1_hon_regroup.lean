@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_hon_regroup
 -- name    : ReciprocityTheory.ChartRestriction.L1.hon_regroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:45:01.389189+00:00
 -- url     : https://prove2.me/theorems/248a6e57-4dd7-4361-8803-ff6b4674cf37

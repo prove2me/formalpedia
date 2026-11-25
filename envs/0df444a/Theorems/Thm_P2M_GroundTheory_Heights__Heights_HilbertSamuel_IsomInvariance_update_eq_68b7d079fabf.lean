@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_IsomInvariance_update_eq_68b7d079fabf
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_IsomInvariance_update_eq_68b7d079fabf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:20:34.900115+00:00
 -- url     : https://prove2.me/theorems/aea80b80-bba2-41f3-9068-caaea627e226

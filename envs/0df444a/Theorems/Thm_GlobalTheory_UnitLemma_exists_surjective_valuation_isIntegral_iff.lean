@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_exists_surjective_valuation_isIntegral_iff
 -- name    : GlobalTheory.UnitLemma.exists_surjective_valuation_isIntegral_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:05:08.56585+00:00
 -- url     : https://prove2.me/theorems/2a616c13-e7fd-4000-9b18-259505b3238e

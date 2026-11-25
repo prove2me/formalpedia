@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_convergesOnDisk_eisensteinFourCubeSeries
 -- name    : ReciprocityTheory.ChartRestriction.L1.convergesOnDisk_eisensteinFourCubeSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:43.41411+00:00
 -- url     : https://prove2.me/theorems/acf946f9-a485-445e-b9ed-e74aaf62eb84

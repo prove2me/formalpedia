@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_hadamard_det_le
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.hadamard_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:03:00.77767+00:00
 -- url     : https://prove2.me/theorems/6cfeb5a4-1145-43ff-a17d-f8f69f37042c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_CubePf_cocycle_sameSum
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.CubePf.cocycle_sameSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:58:10.658915+00:00
 -- url     : https://prove2.me/theorems/06b7ad24-e5e1-477e-abfd-5d68a04b6113

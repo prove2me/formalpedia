@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ChartPrimTrPf_maps_flat
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ChartPrimTrPf.maps_flat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:25:52.271343+00:00
 -- url     : https://prove2.me/theorems/5b1c9b1c-0227-4905-a9f7-e7232c819e55

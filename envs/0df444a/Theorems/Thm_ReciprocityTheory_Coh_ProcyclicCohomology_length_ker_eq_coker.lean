@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_ProcyclicCohomology_length_ker_eq_coker
 -- name    : ReciprocityTheory.Coh.ProcyclicCohomology.length_ker_eq_coker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:57:23.371732+00:00
 -- url     : https://prove2.me/theorems/6e7a0f57-8548-52ea-9c8a-ea74d3ca338b

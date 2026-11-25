@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_nrm_eq_primeBelow_pow
 -- name    : ReciprocityTheory.Cheb.nrm_eq_primeBelow_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:48:25.312689+00:00
 -- url     : https://prove2.me/theorems/0655a8ee-0e0a-4d55-83e8-908f585e3240

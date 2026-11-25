@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigidLinearisation_exists_ratio
 -- name    : GlobalTheory.RigidLinearisation.exists_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:55:00.884737+00:00
 -- url     : https://prove2.me/theorems/42b4c1a6-78ed-4035-b9d2-dcd9abce87a4

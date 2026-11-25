@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_Transport_exists_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.Transport.exists_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:37:02.229554+00:00
 -- url     : https://prove2.me/theorems/887c80ac-a895-4d3d-9bb8-7d26d8f790bd

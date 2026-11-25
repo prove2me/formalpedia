@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeGermIntegral_intS_iff
 -- name    : GlobalTheory.GaugeGermIntegral.intS_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:27:39.822902+00:00
 -- url     : https://prove2.me/theorems/89c96038-a99f-4c63-9531-f77f93898e27

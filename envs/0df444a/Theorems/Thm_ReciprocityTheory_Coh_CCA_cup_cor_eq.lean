@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_CCA_cup_cor_eq
 -- name    : ReciprocityTheory.Coh.CCA.cup_cor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:49:45.490535+00:00
 -- url     : https://prove2.me/theorems/3fa28911-e960-485d-b243-db9426d2fb4f

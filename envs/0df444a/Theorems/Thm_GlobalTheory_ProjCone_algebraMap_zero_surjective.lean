@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCone_algebraMap_zero_surjective
 -- name    : GlobalTheory.ProjCone.algebraMap_zero_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:18:44.709814+00:00
 -- url     : https://prove2.me/theorems/64b241fc-b9e5-55c8-bf62-b99b67eac8aa

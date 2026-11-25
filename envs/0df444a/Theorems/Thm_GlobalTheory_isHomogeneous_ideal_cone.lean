@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isHomogeneous_ideal_cone
 -- name    : GlobalTheory.isHomogeneous_ideal_cone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:42:33.510108+00:00
 -- url     : https://prove2.me/theorems/1ea3d87f-1027-5aba-b909-5013e14a5d37

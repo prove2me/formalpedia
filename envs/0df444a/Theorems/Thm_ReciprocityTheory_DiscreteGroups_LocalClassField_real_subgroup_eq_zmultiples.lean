@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_real_subgroup_eq_zmultiples
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.real_subgroup_eq_zmultiples
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:15:35.545834+00:00
 -- url     : https://prove2.me/theorems/c5411df6-a08f-47bc-ad5f-44c23f73d78b

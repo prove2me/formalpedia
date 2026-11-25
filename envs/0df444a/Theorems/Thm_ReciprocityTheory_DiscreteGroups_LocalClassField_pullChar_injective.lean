@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_pullChar_injective
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.pullChar_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:54:22.39502+00:00
 -- url     : https://prove2.me/theorems/85faa8e5-f019-44fe-a328-abb7b66a2011

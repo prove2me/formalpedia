@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_exists_colsFixed
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.exists_colsFixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:30:46.438809+00:00
 -- url     : https://prove2.me/theorems/4e545861-3bf0-4dfd-b9de-00921c025c71

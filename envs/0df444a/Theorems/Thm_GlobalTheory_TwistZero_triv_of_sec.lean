@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistZero_triv_of_sec
 -- name    : GlobalTheory.TwistZero.triv_of_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:16:45.841408+00:00
 -- url     : https://prove2.me/theorems/ff8b6bfa-c01c-46b5-9a6f-bac6fc8e9d02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_eventually_notMem
 -- name    : ReciprocityTheory.ChartRestriction.L1.eventually_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:54:25.694358+00:00
 -- url     : https://prove2.me/theorems/b8343731-bc0d-52a8-a13f-b74473573f0c

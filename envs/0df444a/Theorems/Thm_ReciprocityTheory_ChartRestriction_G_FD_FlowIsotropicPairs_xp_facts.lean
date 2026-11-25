@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FlowIsotropicPairs_xp_facts
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FlowIsotropicPairs.xp_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:14:11.039718+00:00
 -- url     : https://prove2.me/theorems/3e2d838b-f0ef-5a19-97c3-a6db69291e6f

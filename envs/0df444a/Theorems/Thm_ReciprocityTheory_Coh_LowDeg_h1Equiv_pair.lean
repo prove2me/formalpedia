@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_LowDeg_h1Equiv_pair
 -- name    : ReciprocityTheory.Coh.LowDeg.h1Equiv_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:50:09.473547+00:00
 -- url     : https://prove2.me/theorems/2651b836-8b95-4c2b-8565-9e6085ff9d09

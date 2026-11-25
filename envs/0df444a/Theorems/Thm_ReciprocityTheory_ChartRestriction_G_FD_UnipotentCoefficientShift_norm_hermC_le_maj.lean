@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_UnipotentCoefficientShift_norm_hermC_le_maj
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.UnipotentCoefficientShift.norm_hermC_le_maj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:49:01.842402+00:00
 -- url     : https://prove2.me/theorems/3fd46c9c-3d6d-4e91-ba44-22f49f08d054

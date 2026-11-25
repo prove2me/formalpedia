@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_TorusCoordPull_O__pull_be9eb376d61b
 -- name    : P2M_GlobalTheory_TorusCoordPull_O__pull_be9eb376d61b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:13:44.202806+00:00
 -- url     : https://prove2.me/theorems/1d3cfde8-1a06-4efa-b285-1525c0094b69

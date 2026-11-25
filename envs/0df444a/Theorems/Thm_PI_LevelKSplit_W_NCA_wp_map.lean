@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCA_wp_map
 -- name    : PI.LevelKSplit.W.NCA.wp_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:36:10.060973+00:00
 -- url     : https://prove2.me/theorems/051e0215-a7b8-5d5b-87eb-f67241110519

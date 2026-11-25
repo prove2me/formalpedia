@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_tvInt_lincomb_le_5b348dfe4313
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_tvInt_lincomb_le_5b348dfe4313
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:33:25.523571+00:00
 -- url     : https://prove2.me/theorems/1c108ee3-16bc-51f0-95c9-931b62eeb8d3

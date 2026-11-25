@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GE_dpolyOf_add_f
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GE.dpolyOf_add_f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:38:19.265382+00:00
 -- url     : https://prove2.me/theorems/95d8d448-5cde-4549-b4c3-0af03a441084

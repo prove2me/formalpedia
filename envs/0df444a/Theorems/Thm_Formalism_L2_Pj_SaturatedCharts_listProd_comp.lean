@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_SaturatedCharts_listProd_comp
 -- name    : Formalism.L2.Pj.SaturatedCharts.listProd_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:27:15.334811+00:00
 -- url     : https://prove2.me/theorems/ac502b88-c4f2-4aff-bd0c-1248aaa34f17

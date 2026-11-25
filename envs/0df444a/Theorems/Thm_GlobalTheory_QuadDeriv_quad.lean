@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadDeriv_quad
 -- name    : GlobalTheory.QuadDeriv.quad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:04:09.92657+00:00
 -- url     : https://prove2.me/theorems/ff014123-b9c2-485b-ab43-2dd8ebe9b792

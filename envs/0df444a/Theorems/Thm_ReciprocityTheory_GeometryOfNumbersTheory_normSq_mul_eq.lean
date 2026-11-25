@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_normSq_mul_eq
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.normSq_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:53:41.304885+00:00
 -- url     : https://prove2.me/theorems/7818a22b-30b9-43e2-b611-e5a17ca01ab1

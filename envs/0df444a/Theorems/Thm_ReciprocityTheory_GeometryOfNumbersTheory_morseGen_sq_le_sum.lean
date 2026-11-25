@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_morseGen_sq_le_sum
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.morseGen_sq_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:53:19.786717+00:00
 -- url     : https://prove2.me/theorems/5c57286f-4c18-4e6b-b7b7-e356957835be

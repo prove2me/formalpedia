@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusExt_nsmul_b
 -- name    : GlobalTheory.TorusExt.nsmul_b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:43:43.554088+00:00
 -- url     : https://prove2.me/theorems/d7d276f8-617f-58de-a3bd-f394f35c5951

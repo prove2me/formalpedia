@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamPull_sval_eq_of_app_injective
 -- name    : GlobalTheory.FamPull.sval_eq_of_app_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:19:39.600802+00:00
 -- url     : https://prove2.me/theorems/7094e7ba-177e-4c65-ad2e-f6f05e21ef74

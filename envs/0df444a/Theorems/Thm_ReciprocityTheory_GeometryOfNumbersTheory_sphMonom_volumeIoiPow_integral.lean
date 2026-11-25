@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_sphMonom_volumeIoiPow_integral
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.sphMonom_volumeIoiPow_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:55:11.030191+00:00
 -- url     : https://prove2.me/theorems/7e4c667f-79d5-4244-ba7d-07a1da068e18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_AlgRes_exists_atlas
 -- name    : ReciprocityTheory.AnForm.R.AlgRes.exists_atlas
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:06:04.631321+00:00
 -- url     : https://prove2.me/theorems/43ebe7bc-b2b2-474a-81d5-8644f01ea45c

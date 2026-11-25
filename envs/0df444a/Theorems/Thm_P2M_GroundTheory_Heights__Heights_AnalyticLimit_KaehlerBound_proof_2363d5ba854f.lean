@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_KaehlerBound_proof_2363d5ba854f
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_KaehlerBound_proof_2363d5ba854f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:35:30.239848+00:00
 -- url     : https://prove2.me/theorems/d2ead31c-4029-5e00-bddc-a33f09793fd4

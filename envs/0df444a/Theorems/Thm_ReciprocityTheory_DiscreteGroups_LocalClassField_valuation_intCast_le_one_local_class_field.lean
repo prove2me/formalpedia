@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_valuation_intCast_le_one_local_class_field
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.valuation_intCast_le_one_local_class_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:01:25.181418+00:00
 -- url     : https://prove2.me/theorems/7716dddd-00d7-4bd6-99f6-8c29b60dfe9b

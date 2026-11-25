@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_IsomInvariance_snoc_eq_8fa27cda6eb8
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_IsomInvariance_snoc_eq_8fa27cda6eb8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:22:55.665592+00:00
 -- url     : https://prove2.me/theorems/2b04c026-4c36-50de-b509-6cc5cf74723b

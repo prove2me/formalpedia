@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GRPf_gaugeRatio
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GRPf.gaugeRatio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:40:26.556428+00:00
 -- url     : https://prove2.me/theorems/40397360-a559-567e-87e2-ed7dd0266867

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_low_holds
 -- name    : ReciprocityTheory.Coh.low_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:15:37.098119+00:00
 -- url     : https://prove2.me/theorems/b76dc99c-98ce-47bc-b855-e97853c6d501

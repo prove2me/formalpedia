@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalChartBounds_xZ_mem_dom
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalChartBounds.xZ_mem_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:07:01.648803+00:00
 -- url     : https://prove2.me/theorems/d71571e3-5def-4b19-a773-6e9aae71db1a

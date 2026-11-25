@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_desc_QCls
 -- name    : ReciprocityTheory.ChartRestriction.L1.desc_QCls
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:44:37.663185+00:00
 -- url     : https://prove2.me/theorems/6f19208c-b14b-5f38-989a-f3ca34d8ff44

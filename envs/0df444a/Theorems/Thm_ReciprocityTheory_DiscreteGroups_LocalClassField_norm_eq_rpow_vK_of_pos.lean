@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_norm_eq_rpow_vK_of_pos
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.norm_eq_rpow_vK_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:54:53.287905+00:00
 -- url     : https://prove2.me/theorems/86cd7262-873e-512f-bec3-263ea521e130

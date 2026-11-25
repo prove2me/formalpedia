@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_cyc_re_psum_upper
 -- name    : ReciprocityTheory.Cheb.cyc_re_psum_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:48:56.047475+00:00
 -- url     : https://prove2.me/theorems/8589863a-7dd1-586f-89cb-2d7edac51c84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCone_iSup_chart
 -- name    : GlobalTheory.ProjCone.iSup_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:26:34.805911+00:00
 -- url     : https://prove2.me/theorems/bcf7edab-3e18-5c56-a351-56a4ca56e29a

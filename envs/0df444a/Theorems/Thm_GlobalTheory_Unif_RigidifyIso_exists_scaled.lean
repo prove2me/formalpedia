@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unif_RigidifyIso_exists_scaled
 -- name    : GlobalTheory.Unif.RigidifyIso.exists_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:25:08.364919+00:00
 -- url     : https://prove2.me/theorems/c0e9188c-a887-4ea4-9c0d-c60623521190

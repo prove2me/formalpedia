@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_trace_adjugate_mul_eq_sum_perm
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.trace_adjugate_mul_eq_sum_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:53:52.61465+00:00
 -- url     : https://prove2.me/theorems/6b33ca73-4b4a-46f3-a0a1-5ef098ddb812

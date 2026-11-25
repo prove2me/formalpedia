@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationTower_Is_torsor
 -- name    : ReciprocityTheory.Coh.InflationTower.Is_torsor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:50:12.636119+00:00
 -- url     : https://prove2.me/theorems/8ed4c223-4e39-413c-83c5-e8368c64618a

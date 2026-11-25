@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_EigA_hset_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.EigA.hset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:34:08.760849+00:00
 -- url     : https://prove2.me/theorems/cd97ea39-46e2-5774-9403-adead40b6c62

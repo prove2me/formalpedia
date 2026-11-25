@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationTransgression_isOpen_setOf_conj_eq
 -- name    : ReciprocityTheory.Coh.InflationTransgression.isOpen_setOf_conj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:51:46.761799+00:00
 -- url     : https://prove2.me/theorems/b216acc1-b3e4-4b49-8bda-75e2889d99a4

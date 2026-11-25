@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnitsFilt_Filt_normU_mem
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnitsFilt.Filt.normU_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:51:20.468044+00:00
 -- url     : https://prove2.me/theorems/d2c0e964-8065-43df-9af9-2d82c0637861

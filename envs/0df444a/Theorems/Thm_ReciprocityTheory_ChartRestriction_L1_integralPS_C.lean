@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_integralPS_C
 -- name    : ReciprocityTheory.ChartRestriction.L1.integralPS_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:45:03.863729+00:00
 -- url     : https://prove2.me/theorems/eb89e467-3517-4b70-98d4-c8622e8d1b93

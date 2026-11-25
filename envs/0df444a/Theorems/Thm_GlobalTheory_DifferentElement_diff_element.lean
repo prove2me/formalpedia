@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DifferentElement_diff_element
 -- name    : GlobalTheory.DifferentElement.diff_element
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:48:44.65649+00:00
 -- url     : https://prove2.me/theorems/d09c4e5a-5b70-4d96-b40f-ea25a07ac912

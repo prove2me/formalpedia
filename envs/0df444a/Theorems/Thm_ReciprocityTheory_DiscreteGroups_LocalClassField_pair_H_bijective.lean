@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_pair_H_bijective
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.pair_H_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:52:52.462502+00:00
 -- url     : https://prove2.me/theorems/33a77c77-5cdd-58ea-a289-211388f2c53d

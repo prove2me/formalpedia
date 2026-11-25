@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_exists_power_mul_unitNorm
 -- name    : ReciprocityTheory.ChartRestriction.L1.exists_power_mul_unitNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:43:27.155971+00:00
 -- url     : https://prove2.me/theorems/bf7fafc4-922f-4cfd-81e1-5b55e5a86287

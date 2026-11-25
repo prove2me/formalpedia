@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_On_isLB
 -- name    : GlobalTheory.ProjSpace.On_isLB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:44:32.46502+00:00
 -- url     : https://prove2.me/theorems/1bbc7ed5-1208-4065-8ba4-9d4348abecca

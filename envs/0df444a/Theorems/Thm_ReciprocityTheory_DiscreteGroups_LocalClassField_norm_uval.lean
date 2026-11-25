@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_norm_uval
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.norm_uval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:54:44.125096+00:00
 -- url     : https://prove2.me/theorems/8bd4f1e9-e967-5273-b560-46980ae93ba7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpGTrans_secLin_val
 -- name    : GlobalTheory.ExpGTrans.secLin_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:51:38.011806+00:00
 -- url     : https://prove2.me/theorems/27bbf590-ff6a-4247-a8f2-038e29b856f9

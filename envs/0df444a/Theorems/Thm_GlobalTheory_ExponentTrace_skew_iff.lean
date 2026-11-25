@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExponentTrace_skew_iff
 -- name    : GlobalTheory.ExponentTrace.skew_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:36:33.944548+00:00
 -- url     : https://prove2.me/theorems/b55bc27a-656d-465e-9335-351a08dd5ad7

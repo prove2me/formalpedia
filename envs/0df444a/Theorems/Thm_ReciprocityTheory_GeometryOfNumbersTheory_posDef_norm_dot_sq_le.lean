@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_posDef_norm_dot_sq_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.posDef_norm_dot_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:53:52.446561+00:00
 -- url     : https://prove2.me/theorems/8e9842dc-8155-4cf5-ae5a-5fa987295f79

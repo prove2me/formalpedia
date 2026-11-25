@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePull_expIntegral_nsmul
 -- name    : GlobalTheory.FramePull.expIntegral_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:38:55.365946+00:00
 -- url     : https://prove2.me/theorems/0851092a-7007-4da1-8df9-3c048b7d62e2

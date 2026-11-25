@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_conj_sum_projected_inner
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.conj_sum_projected_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:37:42.875238+00:00
 -- url     : https://prove2.me/theorems/acdedbc2-ae81-4b52-b451-fc2828e6862d

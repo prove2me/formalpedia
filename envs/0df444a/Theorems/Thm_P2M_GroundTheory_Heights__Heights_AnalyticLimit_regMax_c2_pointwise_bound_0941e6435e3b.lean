@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_regMax_c2_pointwise_bound_0941e6435e3b
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_regMax_c2_pointwise_bound_0941e6435e3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:32:36.564233+00:00
 -- url     : https://prove2.me/theorems/6a0f68e1-27e9-4009-a9f2-3c65ca08384b

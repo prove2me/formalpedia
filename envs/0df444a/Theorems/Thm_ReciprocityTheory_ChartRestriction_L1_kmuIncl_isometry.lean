@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_kmuIncl_isometry
 -- name    : ReciprocityTheory.ChartRestriction.L1.kmuIncl_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:44:55.161678+00:00
 -- url     : https://prove2.me/theorems/528cb390-179c-5805-b6a5-d9ebacc67fac

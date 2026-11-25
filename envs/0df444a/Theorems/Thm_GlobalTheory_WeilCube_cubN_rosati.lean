@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCube_cubN_rosati
 -- name    : GlobalTheory.WeilCube.cubN_rosati
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:53:42.998423+00:00
 -- url     : https://prove2.me/theorems/37bcff4b-2cc0-42fb-b2ab-29866c0fa627

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationIsomorphism_inv_lift
 -- name    : ReciprocityTheory.Coh.InflationIsomorphism.inv_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:52:16.295799+00:00
 -- url     : https://prove2.me/theorems/78057c61-c45c-4e18-a4a6-5d25de50b391

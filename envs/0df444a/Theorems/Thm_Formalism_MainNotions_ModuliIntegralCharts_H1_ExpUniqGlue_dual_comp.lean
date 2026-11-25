@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqGlue_dual_comp
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqGlue.dual_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:42:11.436748+00:00
 -- url     : https://prove2.me/theorems/52e6d0e0-7db0-53f2-a7db-39ad4c9dadba

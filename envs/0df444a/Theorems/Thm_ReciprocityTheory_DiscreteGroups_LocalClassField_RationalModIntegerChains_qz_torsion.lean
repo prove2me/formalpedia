@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_RationalModIntegerChains_qz_torsion
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.RationalModIntegerChains.qz_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:51:08.930335+00:00
 -- url     : https://prove2.me/theorems/8d2b941f-2d9f-449c-9444-4e260de31ce1

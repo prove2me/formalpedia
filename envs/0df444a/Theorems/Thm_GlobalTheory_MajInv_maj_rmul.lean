@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajInv_maj_rmul
 -- name    : GlobalTheory.MajInv.maj_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:05:45.254821+00:00
 -- url     : https://prove2.me/theorems/d09cb364-37cb-41da-8e40-da2b3cdae404

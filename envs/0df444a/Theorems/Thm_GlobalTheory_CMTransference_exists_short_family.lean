@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTransference_exists_short_family
 -- name    : GlobalTheory.CMTransference.exists_short_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:04:51.447903+00:00
 -- url     : https://prove2.me/theorems/7cef5a50-e319-44da-acc5-cbdaa53fb414

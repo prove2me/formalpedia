@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rigUnit_exists
 -- name    : GlobalTheory.rigUnit_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:17:39.946257+00:00
 -- url     : https://prove2.me/theorems/77de534f-2bb0-4c20-832c-3cb9727421ef

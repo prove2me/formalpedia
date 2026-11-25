@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DefectSumCompare_vla_discAt
 -- name    : GlobalTheory.DefectSumCompare.vla_discAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:23.030945+00:00
 -- url     : https://prove2.me/theorems/210775a7-ae96-433f-b214-36ee4fba35b0

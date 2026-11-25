@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_subG_subset
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_subG_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:54:25.997826+00:00
 -- url     : https://prove2.me/theorems/cf2a904b-a006-5fb5-afa7-ae49a3ed8ebf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PureType_exists_baseChange
 -- name    : GlobalTheory.PureType.exists_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:43:54.342303+00:00
 -- url     : https://prove2.me/theorems/144cb7a1-85f0-41d4-91cd-1a1c0bbc0dee

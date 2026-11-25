@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_supSt_monoNormSq_pos
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.supSt_monoNormSq_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:54:28.053795+00:00
 -- url     : https://prove2.me/theorems/49a501e6-6aac-41b2-aad7-448e270e7fde

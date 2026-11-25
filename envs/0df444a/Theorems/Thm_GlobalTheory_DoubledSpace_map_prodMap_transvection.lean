@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubledSpace_map_prodMap_transvection
 -- name    : GlobalTheory.DoubledSpace.map_prodMap_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:25:07.899932+00:00
 -- url     : https://prove2.me/theorems/f3abdb3b-ea9f-481f-8410-a99f4fdb855c

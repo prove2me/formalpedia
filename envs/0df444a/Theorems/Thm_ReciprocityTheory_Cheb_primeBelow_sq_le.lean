@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_primeBelow_sq_le
 -- name    : ReciprocityTheory.Cheb.primeBelow_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:49:12.100174+00:00
 -- url     : https://prove2.me/theorems/e6ec7066-4fbc-543a-bb56-bea7b020e4b8

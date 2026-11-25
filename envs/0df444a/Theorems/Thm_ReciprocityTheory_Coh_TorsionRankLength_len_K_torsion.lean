@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_TorsionRankLength_len_K_torsion
 -- name    : ReciprocityTheory.Coh.TorsionRankLength.len_K_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:50:00.744397+00:00
 -- url     : https://prove2.me/theorems/31630a28-8c5f-4a66-9258-170d23f06e33

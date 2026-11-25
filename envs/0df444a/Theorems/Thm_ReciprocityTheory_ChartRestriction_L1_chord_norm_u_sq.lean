@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_chord_norm_u_sq
 -- name    : ReciprocityTheory.ChartRestriction.L1.chord_norm_u_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:37:09.865564+00:00
 -- url     : https://prove2.me/theorems/f3663e92-c133-487a-848d-4d3496d48914

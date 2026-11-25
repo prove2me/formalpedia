@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_FlatWeightedEstimates_enorm_sq_V
 -- name    : ReciprocityTheory.L2DbarEstimates.F.FlatWeightedEstimates.enorm_sq_V
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:56:08.553856+00:00
 -- url     : https://prove2.me/theorems/eaf569fe-9471-4d62-b683-2b23fc927cfa

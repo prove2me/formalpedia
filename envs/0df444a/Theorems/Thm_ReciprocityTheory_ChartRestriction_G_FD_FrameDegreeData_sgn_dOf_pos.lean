@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FrameDegreeData_sgn_dOf_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FrameDegreeData.sgn_dOf_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:00:10.014835+00:00
 -- url     : https://prove2.me/theorems/6efa88c0-37e0-4d44-baa5-3811fee843dd

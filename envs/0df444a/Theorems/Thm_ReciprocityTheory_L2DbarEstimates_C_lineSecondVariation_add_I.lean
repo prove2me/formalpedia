@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_lineSecondVariation_add_I
 -- name    : ReciprocityTheory.L2DbarEstimates.C.lineSecondVariation_add_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:55:17.110341+00:00
 -- url     : https://prove2.me/theorems/9419a613-6719-5c25-9c80-7efdb1be6f47

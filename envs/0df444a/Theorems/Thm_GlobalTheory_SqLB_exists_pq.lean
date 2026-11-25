@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqLB_exists_pq
 -- name    : GlobalTheory.SqLB.exists_pq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:23:01.098912+00:00
 -- url     : https://prove2.me/theorems/b7e29ffb-d19c-4415-ad00-8f7ad44c8885

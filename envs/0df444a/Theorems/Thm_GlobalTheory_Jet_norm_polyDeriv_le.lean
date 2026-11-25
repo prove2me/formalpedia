@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Jet_norm_polyDeriv_le
 -- name    : GlobalTheory.Jet.norm_polyDeriv_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:09:57.108055+00:00
 -- url     : https://prove2.me/theorems/59728d2f-b2a8-4b9e-8292-975ab4615d9f

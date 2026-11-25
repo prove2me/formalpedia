@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_evaluation_eq_zero_iff_mem_primeIdealOf
 -- name    : ReciprocityTheory.AnForm.R.evaluation_eq_zero_iff_mem_primeIdealOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:29:13.525534+00:00
 -- url     : https://prove2.me/theorems/4f87381d-9316-546b-97a0-fc87768b0672

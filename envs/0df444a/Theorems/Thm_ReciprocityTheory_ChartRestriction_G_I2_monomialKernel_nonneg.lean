@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_monomialKernel_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.monomialKernel_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:29:33.177535+00:00
 -- url     : https://prove2.me/theorems/7c0296bd-a39b-42ff-8dd0-db33fe1c2fb2

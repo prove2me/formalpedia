@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_isThetaPtOver_pull
 -- name    : GlobalTheory.ThetaCoord.isThetaPtOver_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:17:35.448724+00:00
 -- url     : https://prove2.me/theorems/58d951ca-7884-43df-9952-236fd3836e7d

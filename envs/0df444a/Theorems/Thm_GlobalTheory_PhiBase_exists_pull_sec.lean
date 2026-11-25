@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiBase_exists_pull_sec
 -- name    : GlobalTheory.PhiBase.exists_pull_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:03:16.549078+00:00
 -- url     : https://prove2.me/theorems/dd26675c-5b9c-4c72-90df-cf60d2e16528

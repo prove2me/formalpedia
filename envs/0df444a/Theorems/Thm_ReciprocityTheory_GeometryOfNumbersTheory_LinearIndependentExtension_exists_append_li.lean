@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_LinearIndependentExtension_exists_append_li
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.LinearIndependentExtension.exists_append_li
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:52:43.480051+00:00
 -- url     : https://prove2.me/theorems/0d8dbde7-f122-4c9c-9437-1dd61388f84d

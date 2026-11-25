@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCurve_finiteType_constHom
 -- name    : GlobalTheory.NormCurve.finiteType_constHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:23:19.274499+00:00
 -- url     : https://prove2.me/theorems/3a747046-12a5-53e5-8756-6f212aa02d27

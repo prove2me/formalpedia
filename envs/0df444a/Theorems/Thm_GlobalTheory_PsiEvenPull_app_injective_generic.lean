@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiEvenPull_app_injective_generic
 -- name    : GlobalTheory.PsiEvenPull.app_injective_generic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:26:26.176179+00:00
 -- url     : https://prove2.me/theorems/49617987-afa6-44dd-968c-ab017a2952b2

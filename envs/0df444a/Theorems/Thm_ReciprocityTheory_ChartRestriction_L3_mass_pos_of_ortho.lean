@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_mass_pos_of_ortho
 -- name    : ReciprocityTheory.ChartRestriction.L3.mass_pos_of_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:48:22.560087+00:00
 -- url     : https://prove2.me/theorems/ed224da9-6b55-483f-858e-c2b137545ae4

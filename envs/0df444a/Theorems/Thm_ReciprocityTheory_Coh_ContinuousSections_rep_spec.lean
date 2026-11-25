@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_ContinuousSections_rep_spec
 -- name    : ReciprocityTheory.Coh.ContinuousSections.rep_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:49:55.416788+00:00
 -- url     : https://prove2.me/theorems/78c1ac10-eb0c-5a6e-a99b-c0235ce524a8

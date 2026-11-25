@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupGlue_MulCompat_inv
 -- name    : GlobalTheory.GroupGlue.MulCompat.inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:58.438008+00:00
 -- url     : https://prove2.me/theorems/57abeaec-0ced-491f-b070-b911c64927b3

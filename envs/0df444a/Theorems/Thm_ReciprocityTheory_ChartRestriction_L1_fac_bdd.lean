@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_fac_bdd
 -- name    : ReciprocityTheory.ChartRestriction.L1.fac_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:44:08.919483+00:00
 -- url     : https://prove2.me/theorems/f61d0ff9-59c2-45f1-b158-ce49d0da97bc

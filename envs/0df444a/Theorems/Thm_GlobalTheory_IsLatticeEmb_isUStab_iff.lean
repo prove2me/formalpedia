@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_isUStab_iff
 -- name    : GlobalTheory.IsLatticeEmb.isUStab_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:37:19.370657+00:00
 -- url     : https://prove2.me/theorems/a6ba0338-aff7-422f-b68a-37efd9dbb687

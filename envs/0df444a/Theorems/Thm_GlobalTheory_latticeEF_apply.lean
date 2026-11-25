@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeEF_apply
 -- name    : GlobalTheory.latticeEF_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:37:29.281457+00:00
 -- url     : https://prove2.me/theorems/a6c64409-cd5f-49c3-87f1-14661a54c6d3

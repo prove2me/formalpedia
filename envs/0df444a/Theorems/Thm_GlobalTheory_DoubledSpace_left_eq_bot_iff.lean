@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubledSpace_left_eq_bot_iff
 -- name    : GlobalTheory.DoubledSpace.left_eq_bot_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:24:32.729216+00:00
 -- url     : https://prove2.me/theorems/8f62ce85-c283-546c-b78b-e08844ce8418

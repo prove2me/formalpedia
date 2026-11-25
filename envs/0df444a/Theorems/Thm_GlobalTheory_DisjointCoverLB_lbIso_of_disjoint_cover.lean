@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DisjointCoverLB_lbIso_of_disjoint_cover
 -- name    : GlobalTheory.DisjointCoverLB.lbIso_of_disjoint_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:51:09.284672+00:00
 -- url     : https://prove2.me/theorems/a68e8f1c-3186-458c-850f-966e417fcae0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationRestrictionInvariants_inf_res_exact
 -- name    : ReciprocityTheory.Coh.InflationRestrictionInvariants.inf_res_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:50:04.566416+00:00
 -- url     : https://prove2.me/theorems/c2fd8929-1b6c-42f0-ab37-a2dee0104be7

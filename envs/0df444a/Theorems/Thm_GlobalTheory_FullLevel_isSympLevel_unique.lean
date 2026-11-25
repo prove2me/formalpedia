@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullLevel_isSympLevel_unique
 -- name    : GlobalTheory.FullLevel.isSympLevel_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:34:00.148474+00:00
 -- url     : https://prove2.me/theorems/5a26e0af-f2aa-4d46-9ee3-0c024631b0c0

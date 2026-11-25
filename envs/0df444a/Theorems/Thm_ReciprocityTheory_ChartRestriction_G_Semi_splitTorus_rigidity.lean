@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_splitTorus_rigidity
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.splitTorus_rigidity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:34:52.861236+00:00
 -- url     : https://prove2.me/theorems/7d249354-d242-41c9-833c-4012a86df46d

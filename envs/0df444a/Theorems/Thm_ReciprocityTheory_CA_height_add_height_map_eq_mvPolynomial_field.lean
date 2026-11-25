@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_height_add_height_map_eq_mvPolynomial_field
 -- name    : ReciprocityTheory.CA.height_add_height_map_eq_mvPolynomial_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:38:29.069113+00:00
 -- url     : https://prove2.me/theorems/018d0df9-0cb9-5512-ac9c-ee5e0913cb11

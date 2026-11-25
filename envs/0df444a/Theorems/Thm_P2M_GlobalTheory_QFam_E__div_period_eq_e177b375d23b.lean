@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_QFam_E__div_period_eq_e177b375d23b
 -- name    : P2M_GlobalTheory_QFam_E__div_period_eq_e177b375d23b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:08:57.812062+00:00
 -- url     : https://prove2.me/theorems/b6680bcc-d9a3-4740-8284-3e877b040c66

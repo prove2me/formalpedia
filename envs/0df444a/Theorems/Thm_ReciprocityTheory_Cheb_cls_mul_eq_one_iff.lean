@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_cls_mul_eq_one_iff
 -- name    : ReciprocityTheory.Cheb.cls_mul_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:19.396364+00:00
 -- url     : https://prove2.me/theorems/96e38f0c-fbea-4d59-8e4a-26529d9e8e23

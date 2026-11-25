@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvenPull_even_stalk
 -- name    : GlobalTheory.EvenPull.even_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:26:10.079829+00:00
 -- url     : https://prove2.me/theorems/fdcc737d-1882-4caa-b227-82d0d58bffde

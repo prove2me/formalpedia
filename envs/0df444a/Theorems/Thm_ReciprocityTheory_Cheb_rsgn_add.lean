@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_rsgn_add
 -- name    : ReciprocityTheory.Cheb.rsgn_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:50:03.789591+00:00
 -- url     : https://prove2.me/theorems/eeeb5374-5269-586a-bf7b-4e7b94c09c4a

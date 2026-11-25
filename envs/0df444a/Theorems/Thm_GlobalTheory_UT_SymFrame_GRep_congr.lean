@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_SymFrame_GRep_congr
 -- name    : GlobalTheory.UT.SymFrame.GRep.congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:59:13.624364+00:00
 -- url     : https://prove2.me/theorems/d830d688-d29a-4ba0-b7c6-a87ca4a00abb

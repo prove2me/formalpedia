@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lowest_weight_function_unique
 -- name    : GlobalTheory.lowest_weight_function_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:19:42.881061+00:00
 -- url     : https://prove2.me/theorems/b3658206-13f2-4f0a-89df-bc3c45ef5182

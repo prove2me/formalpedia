@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_isOpen_oev
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.isOpen_oev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:44:31.097896+00:00
 -- url     : https://prove2.me/theorems/332aea4f-d7e7-49ba-9b32-51586578b32b

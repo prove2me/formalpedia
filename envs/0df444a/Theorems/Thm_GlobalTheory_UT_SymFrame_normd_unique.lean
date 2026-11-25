@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_SymFrame_normd_unique
 -- name    : GlobalTheory.UT.SymFrame.normd_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:08:38.936957+00:00
 -- url     : https://prove2.me/theorems/05552d46-2f00-4e1b-ad83-3bc987cd82cc

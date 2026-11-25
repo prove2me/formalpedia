@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_integral_point_through
 -- name    : GlobalTheory.exists_integral_point_through
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:53:45.72415+00:00
 -- url     : https://prove2.me/theorems/4ec2c783-4158-42dd-af0c-99612bd9ea18

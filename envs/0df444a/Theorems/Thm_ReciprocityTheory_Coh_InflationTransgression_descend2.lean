@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationTransgression_descend2
 -- name    : ReciprocityTheory.Coh.InflationTransgression.descend2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:51:05.36198+00:00
 -- url     : https://prove2.me/theorems/3b6364fe-7a32-59bc-a8ef-be0fc68a04d8

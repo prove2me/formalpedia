@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxKernel_gen_of_chart
 -- name    : GlobalTheory.BoxKernel.gen_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:41:45.207655+00:00
 -- url     : https://prove2.me/theorems/f93ee9eb-03ad-55bb-8a20-3a13ad4f7712

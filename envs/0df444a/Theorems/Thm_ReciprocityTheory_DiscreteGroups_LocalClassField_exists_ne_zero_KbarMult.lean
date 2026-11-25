@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_ne_zero_KbarMult
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_ne_zero_KbarMult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:53:37.22642+00:00
 -- url     : https://prove2.me/theorems/7511eb78-5053-53b8-9c58-98279ac47997

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_chiPAux_multinomial_univ_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.chiPAux_multinomial_univ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:52:38.253145+00:00
 -- url     : https://prove2.me/theorems/fb676350-d8e7-4dcc-b20d-42c9b279c951

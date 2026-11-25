@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_PeuVal_exists_compatible_seq
 -- name    : ReciprocityTheory.DiscreteGroups.PeuVal.exists_compatible_seq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:52:09.646114+00:00
 -- url     : https://prove2.me/theorems/8ebb46ce-aea0-55f3-822b-35a540a5f84e

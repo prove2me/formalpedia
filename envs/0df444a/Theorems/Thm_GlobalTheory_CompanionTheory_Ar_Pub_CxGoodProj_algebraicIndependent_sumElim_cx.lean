@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxGoodProj_algebraicIndependent_sumElim_cx
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxGoodProj.algebraicIndependent_sumElim_cx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:20:00.772819+00:00
 -- url     : https://prove2.me/theorems/50fd7d6f-851b-4800-94a0-92b88ef745d9

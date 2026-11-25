@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationIsomorphism_QC_coind
 -- name    : ReciprocityTheory.Coh.InflationIsomorphism.QC_coind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:50:45.95647+00:00
 -- url     : https://prove2.me/theorems/c23da453-86fd-40ef-be88-eb08c2c2864e

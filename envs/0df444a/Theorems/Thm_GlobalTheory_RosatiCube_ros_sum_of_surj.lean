@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RosatiCube_ros_sum_of_surj
 -- name    : GlobalTheory.RosatiCube.ros_sum_of_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:30:47.154888+00:00
 -- url     : https://prove2.me/theorems/5c9b8dab-c839-454a-9712-2a4b4002de13

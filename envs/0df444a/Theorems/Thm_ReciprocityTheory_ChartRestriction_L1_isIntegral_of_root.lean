@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_isIntegral_of_root
 -- name    : ReciprocityTheory.ChartRestriction.L1.isIntegral_of_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:44:58.483395+00:00
 -- url     : https://prove2.me/theorems/70cc263b-323d-46c8-87a0-e0ea3be33a44

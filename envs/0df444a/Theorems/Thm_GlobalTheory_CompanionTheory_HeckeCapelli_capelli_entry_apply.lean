@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeCapelli_capelli_entry_apply
 -- name    : GlobalTheory.CompanionTheory.HeckeCapelli.capelli_entry_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:49:08.336846+00:00
 -- url     : https://prove2.me/theorems/31c43570-0b9f-4e67-bf80-d676c7d48d7e

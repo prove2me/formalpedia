@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_TorsionRankLength_finrank_torsion_eq_zero
 -- name    : ReciprocityTheory.Coh.TorsionRankLength.finrank_torsion_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:49:51.429113+00:00
 -- url     : https://prove2.me/theorems/74150379-e3be-5c2e-b5b5-f5db3fd5175b

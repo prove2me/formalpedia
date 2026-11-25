@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_of_compatible
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_of_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:53:19.698203+00:00
 -- url     : https://prove2.me/theorems/c93b6600-9946-54da-83f9-4783ed46b4c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_cut_bound_11483c3c9e2e
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_cut_bound_11483c3c9e2e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:09:03.271301+00:00
 -- url     : https://prove2.me/theorems/8df18136-c0ee-40af-b541-1db1e03caa4a

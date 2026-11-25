@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_hasDerivAt_line
 -- name    : ReciprocityTheory.L2DbarEstimates.C.hasDerivAt_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:54:30.356641+00:00
 -- url     : https://prove2.me/theorems/f72ba5af-b50a-47f7-8c51-3c32b124357b

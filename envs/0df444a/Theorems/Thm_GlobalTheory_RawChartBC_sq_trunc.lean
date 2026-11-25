@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartBC_sq_trunc
 -- name    : GlobalTheory.RawChartBC.sq_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:15:19.824983+00:00
 -- url     : https://prove2.me/theorems/35e59d23-5e0c-4e31-819d-fb5e710f1ac1

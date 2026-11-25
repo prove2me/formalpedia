@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoordPull_val_charGen
 -- name    : GlobalTheory.TorusCoordPull.val_charGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:55:22.263703+00:00
 -- url     : https://prove2.me/theorems/aa9abd58-713f-440d-8c90-fd0e1cf1b6e7

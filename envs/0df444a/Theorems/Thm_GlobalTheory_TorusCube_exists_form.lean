@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCube_exists_form
 -- name    : GlobalTheory.TorusCube.exists_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:35:37.170225+00:00
 -- url     : https://prove2.me/theorems/92a64446-537d-4a22-8d68-3789629a0eed

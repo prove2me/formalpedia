@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_cupCoh_isCup
 -- name    : ReciprocityTheory.Coh.cupCoh_isCup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:51:20.470156+00:00
 -- url     : https://prove2.me/theorems/40e45243-7b15-5add-919a-ebb3bcb4ce65

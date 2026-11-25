@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_gen_negLB
 -- name    : GlobalTheory.exists_gen_negLB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:35:36.162703+00:00
 -- url     : https://prove2.me/theorems/a27de9eb-47a4-4edd-9da5-d2d73cdef0de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_levi_abs_le_global_f507302d4074
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_levi_abs_le_global_f507302d4074
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:36:37.470798+00:00
 -- url     : https://prove2.me/theorems/55428a80-0769-4f37-becc-adac9c5fa8fc

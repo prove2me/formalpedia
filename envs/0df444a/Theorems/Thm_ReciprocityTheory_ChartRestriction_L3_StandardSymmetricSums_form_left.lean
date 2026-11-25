@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_StandardSymmetricSums_form_left
 -- name    : ReciprocityTheory.ChartRestriction.L3.StandardSymmetricSums.form_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:48:15.599544+00:00
 -- url     : https://prove2.me/theorems/e989ad32-0041-51eb-a0dd-67126bb45ad4

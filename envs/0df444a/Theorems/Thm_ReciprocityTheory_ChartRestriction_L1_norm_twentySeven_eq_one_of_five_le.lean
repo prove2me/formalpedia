@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_norm_twentySeven_eq_one_of_five_le
 -- name    : ReciprocityTheory.ChartRestriction.L1.norm_twentySeven_eq_one_of_five_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:01:37.023068+00:00
 -- url     : https://prove2.me/theorems/9e769ba2-0a5e-5e76-8544-f20d3754bbd3

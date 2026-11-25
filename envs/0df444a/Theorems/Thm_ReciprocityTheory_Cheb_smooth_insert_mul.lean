@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_smooth_insert_mul
 -- name    : ReciprocityTheory.Cheb.smooth_insert_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:48:30.09781+00:00
 -- url     : https://prove2.me/theorems/11f04dd5-39e4-4951-95b7-28bd82b65097

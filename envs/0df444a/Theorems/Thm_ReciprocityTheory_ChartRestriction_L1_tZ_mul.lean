@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_tZ_mul
 -- name    : ReciprocityTheory.ChartRestriction.L1.tZ_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:49:00.215511+00:00
 -- url     : https://prove2.me/theorems/0fc6a3aa-39d2-5bb8-b6cd-f8ff0a9e68a4

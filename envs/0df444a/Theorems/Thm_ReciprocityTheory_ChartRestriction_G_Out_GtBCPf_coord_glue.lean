@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_GtBCPf_coord_glue
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.GtBCPf.coord_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:31:14.665551+00:00
 -- url     : https://prove2.me/theorems/8893b738-8d6d-4bd3-9d21-5db803cd221b

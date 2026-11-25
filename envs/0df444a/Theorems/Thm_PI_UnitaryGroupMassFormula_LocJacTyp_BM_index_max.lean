@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_BM_index_max
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.BM.index_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:50.093829+00:00
 -- url     : https://prove2.me/theorems/27054fdd-696a-470f-9cf6-7524c559480e

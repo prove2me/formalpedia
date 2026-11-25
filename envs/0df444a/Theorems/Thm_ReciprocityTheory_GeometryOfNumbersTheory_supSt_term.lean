@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_supSt_term
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.supSt_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:54:52.448125+00:00
 -- url     : https://prove2.me/theorems/2e2fa5dc-c0b8-418f-9229-ba8d25918f77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_isFiniteAbelian_of_commutator_le
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.isFiniteAbelian_of_commutator_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:51:37.206435+00:00
 -- url     : https://prove2.me/theorems/09f57ddc-5518-4097-9ab3-2aea77f3446f

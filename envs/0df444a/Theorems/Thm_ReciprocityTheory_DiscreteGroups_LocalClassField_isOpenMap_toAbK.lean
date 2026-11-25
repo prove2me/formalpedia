@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_isOpenMap_toAbK
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.isOpenMap_toAbK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:01:34.944801+00:00
 -- url     : https://prove2.me/theorems/a8c08508-6010-4c1a-91cb-3bd3c3a43bc0

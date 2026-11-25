@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGeo_act_natCast_mul
 -- name    : GlobalTheory.FrameGeo.act_natCast_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:57:49.903557+00:00
 -- url     : https://prove2.me/theorems/fa78a2e0-3696-4482-a5bd-b86fdb0c2d08

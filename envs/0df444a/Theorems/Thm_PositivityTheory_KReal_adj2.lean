@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_adj2
 -- name    : PositivityTheory.KReal.adj2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:32:03.370257+00:00
 -- url     : https://prove2.me/theorems/90e0aafa-8c90-43e7-9fb0-a8408b260e14

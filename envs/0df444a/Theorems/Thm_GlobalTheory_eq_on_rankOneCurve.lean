@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_on_rankOneCurve
 -- name    : GlobalTheory.eq_on_rankOneCurve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:18:02.054865+00:00
 -- url     : https://prove2.me/theorems/2a75ca78-ef86-4fb1-8baf-0f74218db9a0

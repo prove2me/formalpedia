@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinExtIntegers_dvr_complete
 -- name    : GlobalTheory.FinExtIntegers.dvr_complete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:53:41.160944+00:00
 -- url     : https://prove2.me/theorems/b75f8e9c-ba0e-5ed9-abd4-0011dd765196

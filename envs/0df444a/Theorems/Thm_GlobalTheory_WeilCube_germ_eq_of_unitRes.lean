@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCube_germ_eq_of_unitRes
 -- name    : GlobalTheory.WeilCube.germ_eq_of_unitRes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:50:11.0725+00:00
 -- url     : https://prove2.me/theorems/2638238b-c8e1-4b13-9063-0b9f5f73990a

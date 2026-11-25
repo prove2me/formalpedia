@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_CoefPhi_exists_frame
 -- name    : GlobalTheory.UT.CoefPhi.exists_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:20:06.095712+00:00
 -- url     : https://prove2.me/theorems/860ddbbe-e445-4333-b669-30fee7eacf39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_CayleyTransformDarboux_Lie_comm
 -- name    : PositivityTheory.ThKG.CayleyTransformDarboux.Lie.comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:39:14.564397+00:00
 -- url     : https://prove2.me/theorems/245777c4-42c3-54fc-b62c-ae4a33f73d86

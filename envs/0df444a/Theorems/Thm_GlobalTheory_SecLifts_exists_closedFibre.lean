@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLifts_exists_closedFibre
 -- name    : GlobalTheory.SecLifts.exists_closedFibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:51:22.994988+00:00
 -- url     : https://prove2.me/theorems/8d79b97b-628d-41ec-88e3-ceaa7b6e35bc

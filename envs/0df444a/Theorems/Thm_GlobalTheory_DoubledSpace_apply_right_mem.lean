@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubledSpace_apply_right_mem
 -- name    : GlobalTheory.DoubledSpace.apply_right_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:24:53.937375+00:00
 -- url     : https://prove2.me/theorems/ead8f1a4-d1e0-4c1e-a69c-75aa57a770d0

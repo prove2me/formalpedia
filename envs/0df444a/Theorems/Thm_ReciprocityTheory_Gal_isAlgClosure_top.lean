@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_isAlgClosure_top
 -- name    : ReciprocityTheory.Gal.isAlgClosure_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:53:20.704802+00:00
 -- url     : https://prove2.me/theorems/70fe73f9-0e71-4c19-be6f-7f1f2b7b7125

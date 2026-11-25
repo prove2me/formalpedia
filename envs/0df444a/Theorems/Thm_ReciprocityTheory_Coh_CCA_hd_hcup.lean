@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_CCA_hd_hcup
 -- name    : ReciprocityTheory.Coh.CCA.hd_hcup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:49:17.807713+00:00
 -- url     : https://prove2.me/theorems/3747136a-3ad3-53b4-a3b5-596e7b33f308

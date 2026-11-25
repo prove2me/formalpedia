@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_ChartWirtingerDerivatives_db_of_not_chart
 -- name    : ReciprocityTheory.L2DbarEstimates.ChartWirtingerDerivatives.db_of_not_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:55:10.059971+00:00
 -- url     : https://prove2.me/theorems/ecade157-059d-5bce-b944-ae16c2c36300

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_ds_det_ne_zero_of_comb
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.ds_det_ne_zero_of_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:53:30.151278+00:00
 -- url     : https://prove2.me/theorems/588b1d93-ddd6-4cac-9cff-7ea525dd4236

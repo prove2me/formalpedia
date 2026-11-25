@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_tower_bijective
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.tower_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:55:52.366129+00:00
 -- url     : https://prove2.me/theorems/d831b737-d2b3-558b-a3da-f9838a4dfe53

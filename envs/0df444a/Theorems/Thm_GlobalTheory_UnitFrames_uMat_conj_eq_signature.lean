@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitFrames_uMat_conj_eq_signature
 -- name    : GlobalTheory.UnitFrames.uMat_conj_eq_signature
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:27:34.360668+00:00
 -- url     : https://prove2.me/theorems/fdf640cd-ab1e-4e65-bb6d-d7980e6cab0d

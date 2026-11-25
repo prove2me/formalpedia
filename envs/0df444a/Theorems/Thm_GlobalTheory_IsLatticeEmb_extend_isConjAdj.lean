@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_extend_isConjAdj
 -- name    : GlobalTheory.IsLatticeEmb.extend_isConjAdj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:37:48.485145+00:00
 -- url     : https://prove2.me/theorems/76d0279f-d823-40fa-b5db-69b035e199af

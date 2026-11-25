@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_splitD_frob
 -- name    : ReciprocityTheory.Cheb.splitD_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:48:30.61838+00:00
 -- url     : https://prove2.me/theorems/c97b34ad-b610-4707-8aee-25fd87846216

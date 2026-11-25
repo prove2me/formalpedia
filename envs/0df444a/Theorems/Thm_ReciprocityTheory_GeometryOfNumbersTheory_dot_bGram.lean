@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_dot_bGram
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.dot_bGram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:53:30.851666+00:00
 -- url     : https://prove2.me/theorems/15f80cb6-aa61-4e9e-95be-0669805d172c

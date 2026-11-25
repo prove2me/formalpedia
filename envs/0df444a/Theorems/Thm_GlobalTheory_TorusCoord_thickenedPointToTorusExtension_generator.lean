@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoord_thickenedPointToTorusExtension_generator
 -- name    : GlobalTheory.TorusCoord.thickenedPointToTorusExtension_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:42:16.538368+00:00
 -- url     : https://prove2.me/theorems/c0f8813a-a7e0-46b3-8e81-2289ca33405b

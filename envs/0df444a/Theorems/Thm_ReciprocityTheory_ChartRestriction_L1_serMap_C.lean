@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_serMap_C
 -- name    : ReciprocityTheory.ChartRestriction.L1.serMap_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:48:36.901306+00:00
 -- url     : https://prove2.me/theorems/29681c5e-f746-48bc-a3d7-2091aae65988

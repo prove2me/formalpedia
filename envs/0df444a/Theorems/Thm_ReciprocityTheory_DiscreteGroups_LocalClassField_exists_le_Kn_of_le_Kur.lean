@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_le_Kn_of_le_Kur
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_le_Kn_of_le_Kur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:03:43.173775+00:00
 -- url     : https://prove2.me/theorems/0ff9976d-fd35-45b2-a87b-7c5ba9d9adf4

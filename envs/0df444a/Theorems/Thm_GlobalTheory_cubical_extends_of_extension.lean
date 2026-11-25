@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubical_extends_of_extension
 -- name    : GlobalTheory.cubical_extends_of_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:55:01.682797+00:00
 -- url     : https://prove2.me/theorems/0628dec3-01a4-4b06-9db6-ec48adb73c54

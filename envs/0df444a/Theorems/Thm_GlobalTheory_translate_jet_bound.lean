@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_translate_jet_bound
 -- name    : GlobalTheory.translate_jet_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:23:47.209749+00:00
 -- url     : https://prove2.me/theorems/941cfb9c-a2bf-46de-80d8-d782bbf4262f

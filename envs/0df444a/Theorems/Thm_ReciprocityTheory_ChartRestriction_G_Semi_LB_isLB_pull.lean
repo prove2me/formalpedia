@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_LB_isLB_pull
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.LB.isLB_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:50:01.926447+00:00
 -- url     : https://prove2.me/theorems/a970913e-2c74-42c2-a984-43f3280f778b

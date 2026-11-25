@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_IsMF_qExp_eq
 -- name    : ReciprocityTheory.ChartRestriction.L1.IsMF.qExp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:37:57.911794+00:00
 -- url     : https://prove2.me/theorems/fa4b5e36-3434-4d54-8ecd-a5c23660cb72

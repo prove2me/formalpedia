@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_pow_apply_zeta_eq_units_pow
 -- name    : ReciprocityTheory.Cheb.pow_apply_zeta_eq_units_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:31.461796+00:00
 -- url     : https://prove2.me/theorems/cc1ce18f-1978-44ab-84d7-7b0eaad8fbc5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_GPs_isOpen_kappaOpenNeighbourhood
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.GPs.isOpen_kappaOpenNeighbourhood
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:58:54.16458+00:00
 -- url     : https://prove2.me/theorems/8ceedc04-65aa-5ee2-9649-9b9a69d4b8bf

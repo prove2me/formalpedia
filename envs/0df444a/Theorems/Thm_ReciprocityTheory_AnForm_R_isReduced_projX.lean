@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_isReduced_projX
 -- name    : ReciprocityTheory.AnForm.R.isReduced_projX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:40:32.459495+00:00
 -- url     : https://prove2.me/theorems/f0c34598-94ea-54c3-a4e3-c89015b6c5be

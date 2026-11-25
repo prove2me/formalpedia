@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_abs_second_variation_le
 -- name    : ReciprocityTheory.L2DbarEstimates.C.abs_second_variation_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:54:21.662335+00:00
 -- url     : https://prove2.me/theorems/47c04793-a03b-452b-b6cb-eced3518bc8e

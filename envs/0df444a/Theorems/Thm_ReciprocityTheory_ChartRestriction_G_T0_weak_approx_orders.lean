@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_weak_approx_orders
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.weak_approx_orders
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:30:31.855978+00:00
 -- url     : https://prove2.me/theorems/a0b65198-b6c6-40f5-99fa-3d8b60eb35b1

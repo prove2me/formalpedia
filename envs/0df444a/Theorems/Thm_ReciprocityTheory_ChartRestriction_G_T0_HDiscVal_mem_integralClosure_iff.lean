@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HDiscVal_mem_integralClosure_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HDiscVal.mem_integralClosure_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:59:47.255843+00:00
 -- url     : https://prove2.me/theorems/ca96f980-b103-4b8a-a50a-3060a5838cb6

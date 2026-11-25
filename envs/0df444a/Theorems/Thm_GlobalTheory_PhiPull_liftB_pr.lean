@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiPull_liftB_pr
 -- name    : GlobalTheory.PhiPull.liftB_pr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:16:52.268499+00:00
 -- url     : https://prove2.me/theorems/d31185b6-0780-45f3-bad5-7a634f357eb5

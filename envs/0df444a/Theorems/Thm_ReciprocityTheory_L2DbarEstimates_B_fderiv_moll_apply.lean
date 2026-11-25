@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_B_fderiv_moll_apply
 -- name    : ReciprocityTheory.L2DbarEstimates.B.fderiv_moll_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:54:28.075916+00:00
 -- url     : https://prove2.me/theorems/3cf22d4f-cfad-4b6a-b51a-179ecd5aa68d

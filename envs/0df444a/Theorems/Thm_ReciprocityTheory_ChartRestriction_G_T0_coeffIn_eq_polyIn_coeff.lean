@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_coeffIn_eq_polyIn_coeff
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.coeffIn_eq_polyIn_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:40:10.785821+00:00
 -- url     : https://prove2.me/theorems/3251c27a-6696-41dd-8ec7-6fc072aa4373

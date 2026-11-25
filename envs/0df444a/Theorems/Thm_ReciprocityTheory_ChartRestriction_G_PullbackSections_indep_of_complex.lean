@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_indep_of_complex
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.indep_of_complex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:09:06.637564+00:00
 -- url     : https://prove2.me/theorems/c216e674-1d7e-40b0-a4b2-c3e597e12480

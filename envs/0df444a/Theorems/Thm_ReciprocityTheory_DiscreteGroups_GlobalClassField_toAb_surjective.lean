@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_toAb_surjective
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.toAb_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:51:22.781824+00:00
 -- url     : https://prove2.me/theorems/becfe409-bc8f-546f-817a-eed6a48e37db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_rpow_neg_finrank_sub_one
 -- name    : ReciprocityTheory.Cheb.rpow_neg_finrank_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:49:34.960623+00:00
 -- url     : https://prove2.me/theorems/d2c090f2-050d-5d98-a339-0b2cd9a836d3

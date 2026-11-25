@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmetricBundle_isSymmetric_of_gen
 -- name    : GlobalTheory.SymmetricBundle.isSymmetric_of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:25:04.8383+00:00
 -- url     : https://prove2.me/theorems/864ebe75-9fff-4cb9-b1fa-bce6cc82d474

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isHoloSiegel_of_theta_transform
 -- name    : GlobalTheory.isHoloSiegel_of_theta_transform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:57:11.606349+00:00
 -- url     : https://prove2.me/theorems/975b7652-336c-467c-9903-61a585230483

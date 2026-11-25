@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_normHom_layer_eq_trace_sum
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.normHom_layer_eq_trace_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:59:38.395358+00:00
 -- url     : https://prove2.me/theorems/21bedea8-3ce0-5751-a5e2-9d85c3b4ad84

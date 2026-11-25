@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_isClosed_valuation_integers
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.isClosed_valuation_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:02:47.5258+00:00
 -- url     : https://prove2.me/theorems/b0f380f1-be4c-4044-aef4-ef5307f68cdb

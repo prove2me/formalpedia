@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FoldPermutation_pderiv_ev_embP_of_notMem_range
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FoldPermutation.pderiv_ev_embP_of_notMem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:59:14.146889+00:00
 -- url     : https://prove2.me/theorems/e2de999f-1a71-4cb3-8e36-a5bf2812fec8

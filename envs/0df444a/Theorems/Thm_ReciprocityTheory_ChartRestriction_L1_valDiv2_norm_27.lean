@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_valDiv2_norm_27
 -- name    : ReciprocityTheory.ChartRestriction.L1.valDiv2_norm_27
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:17:59.902114+00:00
 -- url     : https://prove2.me/theorems/07eabab8-02ed-4f0b-ab63-44a1ef8836d9

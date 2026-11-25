@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_DimensionQuotientBound_local_step
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.DimensionQuotientBound.local_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:59:12.446282+00:00
 -- url     : https://prove2.me/theorems/e4c16004-7029-45fb-98b5-ed340a7131c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_PrincipalLat_isPrincipalIdealRing_integralClosure
 -- name    : GlobalTheory.UnitLemma.PrincipalLat.isPrincipalIdealRing_integralClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:05:42.762571+00:00
 -- url     : https://prove2.me/theorems/ba0701d1-3609-441f-a9b1-fab15946135d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_L1_g__eq_e1cebfa140ec
 -- name    : P2M_ReciprocityTheory_ChartRestriction_L1_g__eq_e1cebfa140ec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:24:19.674901+00:00
 -- url     : https://prove2.me/theorems/d07e6ac9-6caf-461c-a513-de344ebf3c61

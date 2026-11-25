@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_exists_smul_eq
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.exists_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:52:15.942077+00:00
 -- url     : https://prove2.me/theorems/41604c74-64fb-47c2-b289-9d115a345dd6

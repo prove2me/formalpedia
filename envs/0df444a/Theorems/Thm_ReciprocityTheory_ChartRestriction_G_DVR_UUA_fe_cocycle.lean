@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_UUA_fe_cocycle
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.UUA.fe_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:17:46.805061+00:00
 -- url     : https://prove2.me/theorems/058da495-149b-5426-ab41-cc23cc614263

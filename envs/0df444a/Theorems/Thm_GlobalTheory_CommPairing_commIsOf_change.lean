@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommPairing_commIsOf_change
 -- name    : GlobalTheory.CommPairing.commIsOf_change
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:39:26.932944+00:00
 -- url     : https://prove2.me/theorems/82cbd1d6-b650-4846-9808-43c7c6144cae

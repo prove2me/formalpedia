@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Deg2_normA
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Deg2.normA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:00:27.717802+00:00
 -- url     : https://prove2.me/theorems/27c4f4c6-73fa-4f73-9b3f-02536b6b7777

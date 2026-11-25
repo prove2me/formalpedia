@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_FiniteLevelCohomology_exists_open_normal
 -- name    : ReciprocityTheory.Coh.FiniteLevelCohomology.exists_open_normal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:42:03.966298+00:00
 -- url     : https://prove2.me/theorems/e0bb486c-1d46-49c6-890a-6370efc76c25

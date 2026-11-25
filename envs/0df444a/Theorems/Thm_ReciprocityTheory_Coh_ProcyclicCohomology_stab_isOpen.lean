@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_ProcyclicCohomology_stab_isOpen
 -- name    : ReciprocityTheory.Coh.ProcyclicCohomology.stab_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:51:58.509415+00:00
 -- url     : https://prove2.me/theorems/eca5a04c-9403-494c-af89-f9821adbdc85

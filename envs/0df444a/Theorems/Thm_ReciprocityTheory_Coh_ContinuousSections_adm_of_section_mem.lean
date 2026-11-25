@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_ContinuousSections_adm_of_section_mem
 -- name    : ReciprocityTheory.Coh.ContinuousSections.adm_of_section_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:49:52.24847+00:00
 -- url     : https://prove2.me/theorems/53bac769-fd7a-4bca-ab4a-1d28604941ac

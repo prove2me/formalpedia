@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos654_erdos_654_parts_i
 -- name    : Erdos654.erdos_654.parts.i
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:57:06.569895+00:00
 -- url     : https://prove2.me/theorems/bd66dc31-597f-5423-afa8-0f7e2615b9b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_norm_fderiv_logCutoff_le
 -- name    : ReciprocityTheory.L2DbarEstimates.C.norm_fderiv_logCutoff_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:54:59.590922+00:00
 -- url     : https://prove2.me/theorems/255e79c9-2cc8-4275-b64e-2b4c568af005

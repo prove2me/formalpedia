@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormRos_normRos_of_lbIso
 -- name    : GlobalTheory.NormRos.normRos_of_lbIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:36:35.798028+00:00
 -- url     : https://prove2.me/theorems/e419e73b-fc87-4def-acd8-d971945bea7e

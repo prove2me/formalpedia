@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyCancel_appLE_eq_iff_stalk
 -- name    : GlobalTheory.KeyCancel.appLE_eq_iff_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:39:02.029015+00:00
 -- url     : https://prove2.me/theorems/c692a3d2-96c9-53f8-9a49-dba7c9aba0fb

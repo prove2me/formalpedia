@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymGauge_expS_inj
 -- name    : GlobalTheory.SymGauge.expS_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:24:04.846642+00:00
 -- url     : https://prove2.me/theorems/1937df8c-75a5-4d00-92d5-22ece90cd1ba

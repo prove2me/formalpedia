@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_one_coboundaries_trivial_eq_bot
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.one_coboundaries_trivial_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:54:15.892287+00:00
 -- url     : https://prove2.me/theorems/7bd80941-d445-59c4-acd3-39636416eb8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_closest
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_closest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:05:55.675536+00:00
 -- url     : https://prove2.me/theorems/e4fb1b2c-416e-46be-b7cf-62490619725f

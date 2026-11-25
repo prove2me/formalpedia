@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_abs_log_normAtPlace_sub_le
 -- name    : ReciprocityTheory.Cheb.abs_log_normAtPlace_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:21:48.113831+00:00
 -- url     : https://prove2.me/theorems/e8fb6fd6-5f22-4992-860c-e4390766cca8

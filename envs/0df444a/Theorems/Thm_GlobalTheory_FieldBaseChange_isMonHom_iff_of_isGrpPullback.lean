@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_isMonHom_iff_of_isGrpPullback
 -- name    : GlobalTheory.FieldBaseChange.isMonHom_iff_of_isGrpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:55:58.648693+00:00
 -- url     : https://prove2.me/theorems/ecee0601-94ab-4dd8-acca-12fd6faa29b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecPull_exists_down_sec
 -- name    : GlobalTheory.SecPull.exists_down_sec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:20.200323+00:00
 -- url     : https://prove2.me/theorems/3d669eac-72be-4f55-84fd-d620b90d54d9

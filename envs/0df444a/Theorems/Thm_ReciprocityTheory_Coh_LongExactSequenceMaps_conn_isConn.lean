@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_LongExactSequenceMaps_conn_isConn
 -- name    : ReciprocityTheory.Coh.LongExactSequenceMaps.conn_isConn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:51:45.902541+00:00
 -- url     : https://prove2.me/theorems/a098ed2d-da37-59bb-a2ad-c8045cc80821

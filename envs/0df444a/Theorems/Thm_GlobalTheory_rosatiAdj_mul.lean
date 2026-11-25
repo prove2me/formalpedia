@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rosatiAdj_mul
 -- name    : GlobalTheory.rosatiAdj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:20:11.660607+00:00
 -- url     : https://prove2.me/theorems/3879e868-4752-483b-be4e-513fce260e5f

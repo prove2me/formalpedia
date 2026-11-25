@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSumBound_firstMinimum_sq_mul_iInf_height_le_card
 -- name    : GlobalTheory.ThetaSumBound.firstMinimum_sq_mul_iInf_height_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:12:00.833278+00:00
 -- url     : https://prove2.me/theorems/1cb3691b-779e-4266-8f60-7844f604d670

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCone_awayEquiv_apply
 -- name    : GlobalTheory.ProjCone.awayEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:29:03.552602+00:00
 -- url     : https://prove2.me/theorems/7964378a-4af1-561d-b4d1-a255db15d182

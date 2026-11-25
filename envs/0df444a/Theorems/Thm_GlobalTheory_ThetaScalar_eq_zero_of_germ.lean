@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_eq_zero_of_germ
 -- name    : GlobalTheory.ThetaScalar.eq_zero_of_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:43:15.652206+00:00
 -- url     : https://prove2.me/theorems/584d091c-8765-47a2-b95c-ba2671b0130b

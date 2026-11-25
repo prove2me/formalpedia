@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_chiPAux_prod_fact_mul_fact_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.chiPAux_prod_fact_mul_fact_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:53:46.140692+00:00
 -- url     : https://prove2.me/theorems/dc0c6391-b414-4e6f-a5d4-a122cd6a0aea

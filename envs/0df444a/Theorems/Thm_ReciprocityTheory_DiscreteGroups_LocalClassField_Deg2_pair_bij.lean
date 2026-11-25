@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Deg2_pair_bij
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Deg2.pair_bij
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:53:25.76272+00:00
 -- url     : https://prove2.me/theorems/42dbbda5-7404-5907-88c9-2a239b5a1199

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationTransgression_inflation_hom_degree_one_apply
 -- name    : ReciprocityTheory.Coh.InflationTransgression.inflation_hom_degree_one_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:50:35.322136+00:00
 -- url     : https://prove2.me/theorems/e4d143e2-fc81-48fb-a29e-287478a43488

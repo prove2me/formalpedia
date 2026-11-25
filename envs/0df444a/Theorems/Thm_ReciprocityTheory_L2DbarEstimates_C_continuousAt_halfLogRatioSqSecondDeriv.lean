@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_continuousAt_halfLogRatioSqSecondDeriv
 -- name    : ReciprocityTheory.L2DbarEstimates.C.continuousAt_halfLogRatioSqSecondDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:54:26.231664+00:00
 -- url     : https://prove2.me/theorems/82b7f03e-8059-477c-b0c0-b41df5a4a1b4

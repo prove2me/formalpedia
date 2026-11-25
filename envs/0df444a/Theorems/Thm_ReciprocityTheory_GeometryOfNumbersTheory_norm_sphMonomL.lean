@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_norm_sphMonomL
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.norm_sphMonomL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:55:20.671945+00:00
 -- url     : https://prove2.me/theorems/bbcceed1-199c-4fc1-bb6f-0f0eaa00cfca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_CCA_homog_eq
 -- name    : ReciprocityTheory.Coh.CCA.homog_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:49:19.777007+00:00
 -- url     : https://prove2.me/theorems/83f431b5-b442-4057-9037-0db74d37d2b0

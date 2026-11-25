@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_triIter_norm
 -- name    : ReciprocityTheory.ChartRestriction.L1.triIter_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:47:24.539045+00:00
 -- url     : https://prove2.me/theorems/77773378-6e88-46c4-8d73-3a00c7ce420a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_tangent_eq_lc_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.tangent_eq_lc_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:59:54.390568+00:00
 -- url     : https://prove2.me/theorems/20139e2d-d9fe-4b0a-b4e3-5985098f1d11
