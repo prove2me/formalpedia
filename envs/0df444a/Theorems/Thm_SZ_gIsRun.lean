@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_gIsRun
 -- name    : SZ.gIsRun
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:33:17.410181+00:00
 -- url     : https://prove2.me/theorems/b3fc0922-9b37-4a44-8b22-fbce2e302c9f

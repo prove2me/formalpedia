@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_measurable_weight_mul_fourier
 -- name    : GroundTheory.Automorphic.Sobolev.measurable_weight_mul_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:49:56.367895+00:00
 -- url     : https://prove2.me/theorems/3b4b70fa-15cf-5d6b-b825-d78143cacd96

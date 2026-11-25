@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_galvin_of_degree_bound
 -- name    : GalvinMultigraph.galvin_of_degree_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:21:11.670064+00:00
 -- url     : https://prove2.me/theorems/9140a114-3c76-4681-bf85-fb32130d3e05

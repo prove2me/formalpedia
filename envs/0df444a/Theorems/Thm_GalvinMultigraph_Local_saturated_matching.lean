@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_saturated_matching
 -- name    : GalvinMultigraph.Local.saturated_matching
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:23:56.64014+00:00
 -- url     : https://prove2.me/theorems/253d4a5c-fa29-429f-914f-a010d62ba211

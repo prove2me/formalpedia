@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Subobject_mk_ofLE_push
 -- name    : PretorsionImageClosed.Subobject.mk_ofLE_push
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:47:39.31925+00:00
 -- url     : https://prove2.me/theorems/fae050ca-f905-5576-8bc2-791af7df1547

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PretorsionImageClosed_Subobject_kernelSubobject_arrow_comp_cokernel___push_f45f7adb5033
 -- name    : P2M_PretorsionImageClosed_Subobject_kernelSubobject_arrow_comp_cokernel___push_f45f7adb5033
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:48:29.329802+00:00
 -- url     : https://prove2.me/theorems/343b15c1-985f-5a03-80b9-8c5e13c9912c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_eLpNorm_norm_integral_lt_top
 -- name    : Newton.eLpNorm_norm_integral_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:12:03.705937+00:00
 -- url     : https://prove2.me/theorems/cb51e105-b423-41ec-a0ca-1836ee5c0136

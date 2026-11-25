@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_add_mem_entropySet
 -- name    : SNumbers.norm_add_mem_entropySet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:36:08.861738+00:00
 -- url     : https://prove2.me/theorems/3b6f7308-fe74-4ff2-9fe2-5088861d99dc

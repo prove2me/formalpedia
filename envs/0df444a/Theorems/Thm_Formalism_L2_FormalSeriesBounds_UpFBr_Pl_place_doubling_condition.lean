@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_UpFBr_Pl_place_doubling_condition
 -- name    : Formalism.L2.FormalSeriesBounds.UpFBr.Pl.place_doubling_condition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:03:30.816775+00:00
 -- url     : https://prove2.me/theorems/a82d8047-6819-4f3b-a218-ed3a51198b90

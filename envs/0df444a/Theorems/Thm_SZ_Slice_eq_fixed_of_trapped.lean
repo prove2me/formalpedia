@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_eq_fixed_of_trapped
 -- name    : SZ.Slice.eq_fixed_of_trapped
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:56:45.740039+00:00
 -- url     : https://prove2.me/theorems/e82ba805-4e68-4b55-b423-09ab04caeac0

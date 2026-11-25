@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_kolmogorovNumber_id_euclidean
 -- name    : SNumbers.kolmogorovNumber_id_euclidean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:30:50.814607+00:00
 -- url     : https://prove2.me/theorems/a5d98818-8fe0-4ca5-8e8c-59297d0f30f6

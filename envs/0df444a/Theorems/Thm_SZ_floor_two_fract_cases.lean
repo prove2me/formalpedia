@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_floor_two_fract_cases
 -- name    : SZ.floor_two_fract_cases
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:03:24.799315+00:00
 -- url     : https://prove2.me/theorems/d97c1616-0c3b-4139-b56a-7c5ab6a91058

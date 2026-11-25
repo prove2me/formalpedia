@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_EX_succ_succ
 -- name    : Formalism.InvariantFactorPaths.L4.EX_succ_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:55:12.546082+00:00
 -- url     : https://prove2.me/theorems/48604bc7-c4e3-47fb-9ec3-d8ca1d8cd3c9

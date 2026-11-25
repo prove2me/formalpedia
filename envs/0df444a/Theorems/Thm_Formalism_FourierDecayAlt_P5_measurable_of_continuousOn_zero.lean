@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_measurable_of_continuousOn_zero
 -- name    : Formalism.FourierDecayAlt.P5.measurable_of_continuousOn_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:55:39.684289+00:00
 -- url     : https://prove2.me/theorems/b19b9536-0ce1-4156-af21-c9c8b9e5caca

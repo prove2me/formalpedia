@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_coverState_snd_lower
 -- name    : SZ.coverState_snd_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:08:54.66795+00:00
 -- url     : https://prove2.me/theorems/0e3b204f-8953-426c-838a-0f335d8885f7

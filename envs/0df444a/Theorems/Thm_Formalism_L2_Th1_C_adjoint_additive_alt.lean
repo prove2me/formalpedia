@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_adjoint_additive_alt
 -- name    : Formalism.L2.Th1.C.adjoint_additive_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:37:37.268214+00:00
 -- url     : https://prove2.me/theorems/ad1db487-f481-4f0d-b6ff-0d289c99c4cb

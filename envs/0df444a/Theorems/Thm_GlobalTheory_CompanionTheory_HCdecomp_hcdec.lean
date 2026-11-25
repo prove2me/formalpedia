@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HCdecomp_hcdec
 -- name    : GlobalTheory.CompanionTheory.HCdecomp.hcdec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:38:08.170588+00:00
 -- url     : https://prove2.me/theorems/4a47e85b-e176-4036-8357-b55d6ca68952

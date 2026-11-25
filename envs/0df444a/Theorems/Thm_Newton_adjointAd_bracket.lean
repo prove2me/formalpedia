@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_adjointAd_bracket
 -- name    : Newton.adjointAd_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:04:52.216733+00:00
 -- url     : https://prove2.me/theorems/05f14bea-cf64-4f76-8500-8e7564f335ec

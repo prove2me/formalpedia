@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFRadRedA_qr_open
 -- name    : Formalism.FourierDecayAlt.P.NFRadRedA.qr_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:55:37.065503+00:00
 -- url     : https://prove2.me/theorems/32601f20-1660-41bd-818e-adb05287d8bb

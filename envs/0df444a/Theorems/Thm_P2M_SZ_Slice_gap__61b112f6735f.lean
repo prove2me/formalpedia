@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_SZ_Slice_gap__61b112f6735f
 -- name    : P2M_SZ_Slice_gap__61b112f6735f
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:42:05.379814+00:00
 -- url     : https://prove2.me/theorems/1e2e616e-1e10-4651-83a3-ac06f1312964

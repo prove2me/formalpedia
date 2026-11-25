@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_runXi_mem
 -- name    : SZ.runXi_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:38:19.368978+00:00
 -- url     : https://prove2.me/theorems/ca7b5183-52e6-4a68-a81f-49c66a9616db

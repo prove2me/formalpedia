@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_gcIsBeta
 -- name    : Formalism.InvariantFactorPaths.G7.Top.gcIsBeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:48:25.550468+00:00
 -- url     : https://prove2.me/theorems/e5eb66aa-dd54-56fb-b1da-e0236de2ce42

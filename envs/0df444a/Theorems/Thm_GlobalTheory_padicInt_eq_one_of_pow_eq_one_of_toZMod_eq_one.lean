@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_padicInt_eq_one_of_pow_eq_one_of_toZMod_eq_one
 -- name    : GlobalTheory.padicInt_eq_one_of_pow_eq_one_of_toZMod_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:01:08.01395+00:00
 -- url     : https://prove2.me/theorems/3026be6b-a094-5c52-abf9-e0d48665251d

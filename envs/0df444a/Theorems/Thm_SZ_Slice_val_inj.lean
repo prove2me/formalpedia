@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_val_inj
 -- name    : SZ.Slice.val_inj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:44:48.586972+00:00
 -- url     : https://prove2.me/theorems/7d058f2d-c325-492d-b4b5-56e205d1efb1

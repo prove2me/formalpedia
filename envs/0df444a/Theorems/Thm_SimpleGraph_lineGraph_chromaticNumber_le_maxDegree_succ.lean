@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleGraph_lineGraph_chromaticNumber_le_maxDegree_succ
 -- name    : SimpleGraph.lineGraph_chromaticNumber_le_maxDegree_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:35:21.006312+00:00
 -- url     : https://prove2.me/theorems/dee2c60e-c6a0-40d8-9984-0dd5151a4995

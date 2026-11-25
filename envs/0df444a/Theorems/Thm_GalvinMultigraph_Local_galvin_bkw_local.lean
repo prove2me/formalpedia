@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_galvin_bkw_local
 -- name    : GalvinMultigraph.Local.galvin_bkw_local
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:29:23.340891+00:00
 -- url     : https://prove2.me/theorems/3a4be9cd-e8c4-4604-bb9d-06c30d0148e2

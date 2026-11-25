@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_lf_inj
 -- name    : ChromaticReconstruction.lf_inj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:47:30.632819+00:00
 -- url     : https://prove2.me/theorems/7295361b-a1f2-431a-9f07-9669f96ee048

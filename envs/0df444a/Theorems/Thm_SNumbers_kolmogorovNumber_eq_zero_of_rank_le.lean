@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_kolmogorovNumber_eq_zero_of_rank_le
 -- name    : SNumbers.kolmogorovNumber_eq_zero_of_rank_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:30:40.20633+00:00
 -- url     : https://prove2.me/theorems/a4980667-9b2b-47d3-9436-b53e367323fa

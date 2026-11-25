@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_prod_constantCoeff_dmonOf_cols
 -- name    : GlobalTheory.sum_prod_constantCoeff_dmonOf_cols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:57:30.953098+00:00
 -- url     : https://prove2.me/theorems/477d30b5-b896-406f-ba58-3790d247b629

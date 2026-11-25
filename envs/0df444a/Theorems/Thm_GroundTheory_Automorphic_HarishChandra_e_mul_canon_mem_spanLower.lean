@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_e_mul_canon_mem_spanLower
 -- name    : GroundTheory.Automorphic.HarishChandra.e_mul_canon_mem_spanLower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:07:39.944528+00:00
 -- url     : https://prove2.me/theorems/0f16b974-6b59-4c48-99ef-b041e97d157f

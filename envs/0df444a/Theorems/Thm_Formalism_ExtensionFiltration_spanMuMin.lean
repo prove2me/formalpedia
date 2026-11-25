@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_spanMuMin
 -- name    : Formalism.ExtensionFiltration.spanMuMin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:17:16.147873+00:00
 -- url     : https://prove2.me/theorems/9d821cfd-7640-45eb-9166-5ac313e3f240

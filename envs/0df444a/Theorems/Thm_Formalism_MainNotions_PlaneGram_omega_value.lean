@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_omega_value
 -- name    : Formalism.MainNotions.PlaneGram.omega_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:07:38.805357+00:00
 -- url     : https://prove2.me/theorems/f4c8adc8-a2a9-4d68-96e0-5b0da2facd4d

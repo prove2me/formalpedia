@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_skeleton_isTree
 -- name    : ChromaticReconstruction.skeleton_isTree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:28.476879+00:00
 -- url     : https://prove2.me/theorems/fb4c9709-ea73-44e0-8a0f-aaf4eb353b08

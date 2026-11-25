@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_fract_eq_zero_of_even_floors
 -- name    : SZ.fract_eq_zero_of_even_floors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:05:27.770592+00:00
 -- url     : https://prove2.me/theorems/7dccacef-765f-47ba-a2ab-c5bc8398798c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_JetsSubst_of
 -- name    : Formalism.L2.Th1.G.JetsSubst_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:37:01.950842+00:00
 -- url     : https://prove2.me/theorems/15498dcf-95b9-40e5-ac11-da8c8bc9a303

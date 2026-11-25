@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTieGerm_corr_scale
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTieGerm.corr_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:29.444038+00:00
 -- url     : https://prove2.me/theorems/2c3a298f-4a72-4d7d-a3cb-dcf440671871

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_CoordLaw_ev_one_eq
 -- name    : GlobalTheory.ChartCmp.CoordLaw.ev_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:06:38.365812+00:00
 -- url     : https://prove2.me/theorems/3537a762-6ba2-5737-acf0-560609fa2b7a

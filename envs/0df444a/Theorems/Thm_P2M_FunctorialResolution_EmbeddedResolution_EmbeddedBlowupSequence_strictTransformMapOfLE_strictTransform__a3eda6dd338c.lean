@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_strictTransformMapOfLE_strictTransform__a3eda6dd338c
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_strictTransformMapOfLE_strictTransform__a3eda6dd338c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:02:28.757867+00:00
 -- url     : https://prove2.me/theorems/68dd0c77-c52b-4923-ab75-98b1594663ee

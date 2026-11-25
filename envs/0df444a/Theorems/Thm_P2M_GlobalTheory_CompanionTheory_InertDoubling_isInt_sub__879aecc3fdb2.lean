@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_InertDoubling_isInt_sub__879aecc3fdb2
 -- name    : P2M_GlobalTheory_CompanionTheory_InertDoubling_isInt_sub__879aecc3fdb2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:04:15.203086+00:00
 -- url     : https://prove2.me/theorems/3235da05-acf3-4db5-a85c-aee8e769bc59

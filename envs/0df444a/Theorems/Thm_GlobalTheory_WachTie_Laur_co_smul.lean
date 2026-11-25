@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WachTie_Laur_co_smul
 -- name    : GlobalTheory.WachTie.Laur.co_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:07:56.750634+00:00
 -- url     : https://prove2.me/theorems/72ccdd62-5ed4-4397-a012-f88139ef6118

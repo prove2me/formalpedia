@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_one_ne_zero2
 -- name    : Formalism.LFunctionChainParameters.LBr2.one_ne_zero2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:41:50.162094+00:00
 -- url     : https://prove2.me/theorems/1f20cecb-703f-5199-aa5d-7966dd920a41

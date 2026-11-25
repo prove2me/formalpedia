@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteGroups_sglob_LConvU_fixedProj_eq_avg
 -- name    : DiscreteGroups.sglob.LConvU.fixedProj_eq_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:02:35.236466+00:00
 -- url     : https://prove2.me/theorems/b96aaa4d-2389-43db-b04d-c722d8d5c31c

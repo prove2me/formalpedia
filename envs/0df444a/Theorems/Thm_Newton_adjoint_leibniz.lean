@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_adjoint_leibniz
 -- name    : Newton.adjoint_leibniz
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:03:29.396794+00:00
 -- url     : https://prove2.me/theorems/b8fe6684-67b6-4ca4-954a-e312417c1f9f

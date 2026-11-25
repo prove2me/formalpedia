@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_degree_le_two_PL_zero
 -- name    : ChromaticReconstruction.degree_le_two_PL_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:57.453407+00:00
 -- url     : https://prove2.me/theorems/0ef586c1-0ae9-4194-aabb-a7c58a6b7fda

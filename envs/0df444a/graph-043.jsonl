@@ -52740,10 +52740,10 @@
 {"parent": "GlobalTheory.T.separation_numerical_ineq_cuspidalGL", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_SeparationNumericalIneqCuspidalGL", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.separation_numerical_ineq_cuspidalGL", "child": "Development_AbelianVarietyTheory_Definitions_CommutativeAlgebra_InvariantSubspaceMobiusInverseRecEqOfFinrankLt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.separation_numerical_ineq_cuspidalGL", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_SeparationNumericalIneqCuspidalGLStatement", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.S3dx4.dd_stable", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbConvDDOfDecDD", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.S3dx4.dd_stable", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BesselNeZeroOfCyclicOrbit", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.S3dx4.dd_stable", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_UhMeasurableSet", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.S3dx4.dd_stable", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_UhMemMeasurableSet", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.S3dx4.dd_stable", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbConvDDOfDecDD", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.S3dx4.dd_stable", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BesselNeZeroOfCyclicOrbit", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.S3dx4.dd_stable", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_UhMeasurableSet", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.S3dx4.dd_stable", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_UhMemMeasurableSet", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SS.OrdMono.rs_jm", "child": "Development_AbelianVarietyTheory_Definitions_Degenerations_PlOrdSomeOfAssociated", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SS.OrdMono.rs_jm", "child": "Development_AbelianVarietyTheory_Definitions_Degenerations_OfDerivationFnOn", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SS.OrdMono.rs_jm", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_IsOpenImmersionOfExtendsIdOfEtale", "via": ["solution", "statement"]}
@@ -73098,14 +73098,14 @@
 {"parent": "Formalism.L2.Th1.B.Fs.tau3", "child": "Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_StatementD", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.B.Fs.tau3", "child": "Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_FinalA", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.B.Fs.tau3", "child": "Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_RealAdelicInertTransportTypeFormsEqAlt", "via": ["solution", "statement"]}
-{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_MulStableIntegral", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_IsogenyP", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_EllipticOnePole", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_WeierstrassPSecondDerivative", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_CmAlternatingForm", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_LatticeOnly", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_IsogenySigma", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_MulStableIntegral", "via": ["statement"]}
+{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_MulStableIntegral", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_IsogenyP", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_EllipticOnePole", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_WeierstrassPSecondDerivative", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_CmAlternatingForm", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_LatticeOnly", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_IsogenySigma", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.latticeOnly", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_MulStableIntegral", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.cell_columns_saturated_and_triangular", "child": "Development_AbelianVarietyTheory_Proofs_GenericRegularity_ExistsTriangularOfSpanFirstColumnsLe", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WCub.alg", "child": "Development_AbelianVarietyTheory_Proofs_UniformizationProofs_TripleProductPointCompProjection", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WCub.alg", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Subobject_exists_maximal_of_nonempty
 -- name    : PretorsionImageClosed.Subobject.exists_maximal_of_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:12:27.339488+00:00
 -- url     : https://prove2.me/theorems/d482d4f7-b6c9-4574-a1b1-9f908a8ce36e

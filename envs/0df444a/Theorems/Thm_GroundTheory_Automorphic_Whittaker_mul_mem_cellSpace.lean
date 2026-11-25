@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_mul_mem_cellSpace
 -- name    : GroundTheory.Automorphic.Whittaker.mul_mem_cellSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:36:52.488621+00:00
 -- url     : https://prove2.me/theorems/4526365a-804f-40e5-a5df-a8af4be26995

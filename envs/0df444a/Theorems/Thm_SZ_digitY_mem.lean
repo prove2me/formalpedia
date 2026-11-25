@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitY_mem
 -- name    : SZ.digitY_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:29:15.046726+00:00
 -- url     : https://prove2.me/theorems/c52904cc-d357-4e56-bc61-27565ed1699b

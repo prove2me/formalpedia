@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_additive
 -- name    : SNumbers.approximationNumber_additive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:13:40.707185+00:00
 -- url     : https://prove2.me/theorems/cd127b34-1431-4c26-a8d7-a75897ca6dbf

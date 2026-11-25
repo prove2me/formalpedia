@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_lidx_support_finite
 -- name    : PI.DvRows.lidx_support_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:23:05.207248+00:00
 -- url     : https://prove2.me/theorems/0e2f2ff9-9195-4acd-9812-ba32a468aa0a

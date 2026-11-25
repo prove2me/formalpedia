@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_augCocycle_apply
 -- name    : GroundTheory.GroupCoh.augCocycle_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:00:53.538434+00:00
 -- url     : https://prove2.me/theorems/de412121-e6ef-40c2-82da-aedca8c4c1e7

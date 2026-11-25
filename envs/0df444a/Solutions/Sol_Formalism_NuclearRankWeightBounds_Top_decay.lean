@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.NuclearRankWeightBounds.Top.decay
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T02:10:38.151409+00:00
+-- url     : https://prove2.me/submissions/b4dfd97e-2264-4697-b556-4a7f01b52b9c
+
+import Definitions.Def_Formalism_LogSumExpBounds_StatementE
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_LogSumExpBoundHolds
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_NuclearNormBoundHolds
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_RankLeOfSupport
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_WeightedOffDiagonalHolds
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_KappaModulusHolds
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_DetMulDiagonalMulEqSum
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_DescEquivLiftEquiv
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_LatSum
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_DecayAsm
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_ZLiftAsm
+import Definitions.Def_Formalism_LogSumExpBounds_IsoTransfer
+import Theorems.Thm_Formalism_NuclearRankWeightBounds_P_cb_weights
+import Theorems.Thm_Formalism_NuclearRankWeightBounds_P_decay_of_facts
+import Theorems.Thm_Formalism_NuclearRankWeightBounds_P_log_sum_exp_bound_holds
+import Theorems.Thm_Formalism_NuclearRankWeightBounds_P_nuclear_norm_bound_holds
+import Theorems.Thm_Formalism_NuclearRankWeightBounds_P_rank_block_holds
+import Theorems.Thm_Formalism_NuclearRankWeightBounds_P_weighted_off_diagonal_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.NuclearRankWeightBounds Formalism.NuclearRankWeightBounds.Top
+namespace Formalism.NuclearRankWeightBounds.Top
+theorem _root_.solution : Formalism.NuclearRankWeightBounds.D.Decay :=
+  Formalism.NuclearRankWeightBounds.P.decay_of_facts Formalism.NuclearRankWeightBounds.P.cb_weights Formalism.NuclearRankWeightBounds.P.nuclear_norm_bound_holds
+    Formalism.NuclearRankWeightBounds.P.rank_block_holds Formalism.NuclearRankWeightBounds.P.log_sum_exp_bound_holds Formalism.NuclearRankWeightBounds.P.weighted_off_diagonal_holds
+end Formalism.NuclearRankWeightBounds.Top

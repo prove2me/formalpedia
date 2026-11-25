@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_mapMu
 -- name    : Formalism.BranchingDeterminantCap.mapMu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:27:35.878553+00:00
 -- url     : https://prove2.me/theorems/8f22c0fc-efcc-4d11-9c6f-14b572874ee9

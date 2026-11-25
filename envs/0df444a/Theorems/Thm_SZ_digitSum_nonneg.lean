@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitSum_nonneg
 -- name    : SZ.digitSum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:40:19.981518+00:00
 -- url     : https://prove2.me/theorems/7ba0a425-e794-4d71-984a-2a8ecfd91591

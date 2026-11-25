@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_not_closeLeaves_PL
 -- name    : ChromaticReconstruction.not_closeLeaves_PL
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:54.006982+00:00
 -- url     : https://prove2.me/theorems/fe70d421-7099-4e87-affc-8a387cb8aee0

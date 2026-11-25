@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_Fam_rk_M
 -- name    : Formalism.LFunctionChainParameters.LChain2.Fam.rk_M
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:40:43.306464+00:00
 -- url     : https://prove2.me/theorems/b7b55dc9-7906-4d75-9499-25e3b4236ad8

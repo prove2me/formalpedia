@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_NormPrimes_exists_prime_norm_of_two_le
 -- name    : GlobalTheory.Mem.NormPrimes.exists_prime_norm_of_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:03:14.95508+00:00
 -- url     : https://prove2.me/theorems/54dab763-44c7-4319-8005-0b2feb1c3033

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_isSubobjectClosed_top
 -- name    : PretorsionImageClosed.Statement.Subcategory.isSubobjectClosed_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:51:42.78451+00:00
 -- url     : https://prove2.me/theorems/ebde809a-0aa2-53f1-8014-f798d0500389

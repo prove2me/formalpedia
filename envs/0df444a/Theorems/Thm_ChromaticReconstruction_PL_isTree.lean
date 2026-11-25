@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_PL_isTree
 -- name    : ChromaticReconstruction.PL_isTree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:50:23.446385+00:00
 -- url     : https://prove2.me/theorems/8e472832-844b-425c-9df0-353af6ef1764

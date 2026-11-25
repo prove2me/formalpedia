@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_conv_finite
 -- name    : GlobalTheory.NL.Model.conv_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:09:53.221344+00:00
 -- url     : https://prove2.me/theorems/1cea2f99-441d-43be-9db1-152118f8e345

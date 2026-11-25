@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_pow_intertwine
 -- name    : Formalism.InvariantFactorPaths.L4.pow_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:53:42.821604+00:00
 -- url     : https://prove2.me/theorems/6a2afbef-9c89-47f5-91df-724d44948318

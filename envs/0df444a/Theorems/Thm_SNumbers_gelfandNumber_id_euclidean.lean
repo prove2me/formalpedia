@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_id_euclidean
 -- name    : SNumbers.gelfandNumber_id_euclidean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:06:30.490272+00:00
 -- url     : https://prove2.me/theorems/121a46bd-f15f-5f3d-9296-9ae61e77395a

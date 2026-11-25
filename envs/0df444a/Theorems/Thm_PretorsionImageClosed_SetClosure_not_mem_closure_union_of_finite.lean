@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_not_mem_closure_union_of_finite
 -- name    : PretorsionImageClosed.SetClosure.not_mem_closure_union_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:32:29.630994+00:00
 -- url     : https://prove2.me/theorems/1c4af5c4-0d84-4921-bf1c-4546d3bef5c9

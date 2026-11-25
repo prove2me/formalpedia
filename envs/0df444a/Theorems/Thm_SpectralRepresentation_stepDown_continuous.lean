@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_stepDown_continuous
 -- name    : SpectralRepresentation.stepDown_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:35:50.421513+00:00
 -- url     : https://prove2.me/theorems/4c0ba2ed-72d8-443b-af3f-48ff952ea64b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_cellMinor_smul
 -- name    : GroundTheory.Automorphic.Whittaker.cellMinor_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:37:26.238325+00:00
 -- url     : https://prove2.me/theorems/11266eb6-97e3-4ce0-a577-b9992d90440b

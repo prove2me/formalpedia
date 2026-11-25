@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_map_rf_lf
 -- name    : ChromaticReconstruction.map_rf_lf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:09:14.578932+00:00
 -- url     : https://prove2.me/theorems/8101cb8b-7cb7-4a53-969d-0c0e38537f56

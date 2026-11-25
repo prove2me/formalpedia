@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_miso_of_multiplicityIsolated
 -- name    : ChromaticReconstruction.miso_of_multiplicityIsolated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:14:34.32732+00:00
 -- url     : https://prove2.me/theorems/d070a19e-53a4-422a-828a-cdae7ea8a554

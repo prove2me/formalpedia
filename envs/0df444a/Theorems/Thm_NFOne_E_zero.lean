@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_E_zero
 -- name    : NFOne.E_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:52:31.859343+00:00
 -- url     : https://prove2.me/theorems/36b4a94f-ae41-40dc-981f-ebef4544d1de

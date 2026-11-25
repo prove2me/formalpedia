@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_eLpNorm_translate_right
 -- name    : Newton.eLpNorm_translate_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:25:09.668745+00:00
 -- url     : https://prove2.me/theorems/27c4452e-0acb-4ae9-9ae0-07d486e94bdf

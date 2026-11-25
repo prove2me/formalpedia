@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_leafCount_pos
 -- name    : ChromaticReconstruction.leafCount_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:13:03.886511+00:00
 -- url     : https://prove2.me/theorems/17dcc178-47a3-4c3c-821b-a7c84e4731ff

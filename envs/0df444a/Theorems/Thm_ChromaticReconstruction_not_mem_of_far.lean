@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_not_mem_of_far
 -- name    : ChromaticReconstruction.not_mem_of_far
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:06:24.074522+00:00
 -- url     : https://prove2.me/theorems/9727503d-852f-421a-be72-6808aa199a67

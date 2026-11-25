@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__boundedIntegers_finite_card_le_8ec145ace085
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__boundedIntegers_finite_card_le_8ec145ace085
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:00:19.630237+00:00
 -- url     : https://prove2.me/theorems/f3c0a9e7-fe2b-424f-8aa3-312dd437d286

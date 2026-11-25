@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_norm_ball_volume_sharp
 -- name    : Formalism.FourierDecayAlt.P.norm_ball_volume_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:40:26.724223+00:00
 -- url     : https://prove2.me/theorems/46ae9511-07aa-4d07-8ae5-423970c1e8b3

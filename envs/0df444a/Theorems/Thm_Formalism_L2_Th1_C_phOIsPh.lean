@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_phOIsPh
 -- name    : Formalism.L2.Th1.C.phOIsPh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:48:37.633131+00:00
 -- url     : https://prove2.me/theorems/f8719c50-1477-5005-a46a-c158cbaaac67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_integrable_cpt
 -- name    : Formalism.FourierDecayAlt.P.Qx5.integrable_cpt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:47:03.224816+00:00
 -- url     : https://prove2.me/theorems/d5af3d69-9cd6-4471-8579-7adb308d0224

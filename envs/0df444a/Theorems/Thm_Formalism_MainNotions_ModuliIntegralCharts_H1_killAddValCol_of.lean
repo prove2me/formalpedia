@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_killAddValCol_of
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.killAddValCol_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:21.460822+00:00
 -- url     : https://prove2.me/theorems/af429359-94dd-4167-8319-a30a923005fc

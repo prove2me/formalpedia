@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_isClosed_sdiff_singleton_of_not_mem_closure
 -- name    : PretorsionImageClosed.SetClosure.isClosed_sdiff_singleton_of_not_mem_closure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:19:17.210103+00:00
 -- url     : https://prove2.me/theorems/c6ba7ee1-f3db-4165-9389-dc2469d23d9e

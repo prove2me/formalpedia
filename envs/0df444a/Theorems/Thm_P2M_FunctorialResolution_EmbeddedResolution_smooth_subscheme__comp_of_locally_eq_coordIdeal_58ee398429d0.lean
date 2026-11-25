@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_smooth_subscheme__comp_of_locally_eq_coordIdeal_58ee398429d0
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_smooth_subscheme__comp_of_locally_eq_coordIdeal_58ee398429d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:55:31.538897+00:00
 -- url     : https://prove2.me/theorems/db68ca5f-70d0-4c00-b818-c789467fbad8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_compact_frame_first_column
 -- name    : GlobalTheory.TwoLines.compact_frame_first_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:01:54.588881+00:00
 -- url     : https://prove2.me/theorems/db5071f1-8e57-488b-9db5-f63462d9332b

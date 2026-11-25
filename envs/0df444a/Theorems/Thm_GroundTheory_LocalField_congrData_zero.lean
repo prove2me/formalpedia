@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_congrData_zero
 -- name    : GroundTheory.LocalField.congrData_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:03:41.718923+00:00
 -- url     : https://prove2.me/theorems/4df10417-f631-5058-8e19-9b1206ebc3c3

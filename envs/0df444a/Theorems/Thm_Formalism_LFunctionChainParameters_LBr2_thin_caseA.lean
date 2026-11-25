@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_thin_caseA
 -- name    : Formalism.LFunctionChainParameters.LBr2.thin_caseA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:41:33.611348+00:00
 -- url     : https://prove2.me/theorems/f5e459cf-f1a3-50fd-8e21-fd3558ed906e

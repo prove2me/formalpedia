@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_bsel_nonneg
 -- name    : SZ.Slice.bsel_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:48:46.871155+00:00
 -- url     : https://prove2.me/theorems/282ef0fa-2092-4393-8b05-a84b6305bca2

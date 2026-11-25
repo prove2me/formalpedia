@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuousLinearMap_eq_zero_of_rank_le_zero
 -- name    : ContinuousLinearMap.eq_zero_of_rank_le_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:53:08.807883+00:00
 -- url     : https://prove2.me/theorems/c9a44658-f513-43e1-b9c8-ef2d65ae7de7

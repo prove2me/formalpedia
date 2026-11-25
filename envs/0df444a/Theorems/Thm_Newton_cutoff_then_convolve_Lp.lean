@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_cutoff_then_convolve_Lp
 -- name    : Newton.cutoff_then_convolve_Lp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:16:45.187023+00:00
 -- url     : https://prove2.me/theorems/a407b136-f799-407b-883a-f7a43392e648

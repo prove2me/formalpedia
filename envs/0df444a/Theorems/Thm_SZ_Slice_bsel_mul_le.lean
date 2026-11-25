@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_bsel_mul_le
 -- name    : SZ.Slice.bsel_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:49:37.363729+00:00
 -- url     : https://prove2.me/theorems/5c2824a2-5da8-52fd-ac2c-334aee29a0f8

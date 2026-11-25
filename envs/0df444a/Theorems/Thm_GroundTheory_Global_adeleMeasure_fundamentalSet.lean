@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_adeleMeasure_fundamentalSet
 -- name    : GroundTheory.Global.adeleMeasure_fundamentalSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:18:42.650094+00:00
 -- url     : https://prove2.me/theorems/a33b9ced-45ff-433b-8bf5-40267c55990d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_su2_adjointSq_21
 -- name    : Newton.su2_adjointSq_21
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:56:15.360805+00:00
 -- url     : https://prove2.me/theorems/28d039bd-c43e-4e17-86db-7efe6aef230a

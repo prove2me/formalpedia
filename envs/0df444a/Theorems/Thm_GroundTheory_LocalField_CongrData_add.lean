@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_CongrData_add
 -- name    : GroundTheory.LocalField.CongrData.add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:05:18.183385+00:00
 -- url     : https://prove2.me/theorems/98119907-337f-4c50-8e70-59a8a9558128

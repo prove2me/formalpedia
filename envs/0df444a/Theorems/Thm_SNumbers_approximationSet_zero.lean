@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationSet_zero
 -- name    : SNumbers.approximationSet_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:56:07.344408+00:00
 -- url     : https://prove2.me/theorems/bb420bca-3825-4446-9aa7-7fe6686db5eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_eq_zero_of_rank_le
 -- name    : SNumbers.gelfandNumber_eq_zero_of_rank_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:06:16.898635+00:00
 -- url     : https://prove2.me/theorems/f0e6c368-b0e8-540d-a68c-08838b2a48f9

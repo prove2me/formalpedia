@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OneBlockPointDeg_isMultiHomog_of_isHomogeneous_03061861cacf
 -- name    : P2M_GroundTheory_Heights__Heights_OneBlockPointDeg_isMultiHomog_of_isHomogeneous_03061861cacf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:54:08.239777+00:00
 -- url     : https://prove2.me/theorems/0c77db29-c746-4a26-bd85-d465eb001872

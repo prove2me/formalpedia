@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Subobject_eq_of_le_of_length_le
 -- name    : PretorsionImageClosed.Subobject.eq_of_le_of_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:57:26.865+00:00
 -- url     : https://prove2.me/theorems/459a80c4-62d0-4918-aeb2-7db447dd3064

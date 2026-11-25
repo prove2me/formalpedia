@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_Jacobian_trdeg_eq_of_isFractionRing
 -- name    : GroundTheory.Arith.Abelian.Jacobian.trdeg_eq_of_isFractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:52:33.408902+00:00
 -- url     : https://prove2.me/theorems/cd411420-9790-4170-8a16-90034f25aef9

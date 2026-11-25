@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_adjoint_from_norm_form
 -- name    : Formalism.L2.Th1.C.adjoint_from_norm_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:28:40.314687+00:00
 -- url     : https://prove2.me/theorems/f02a68e5-4920-4baa-bc56-8bb300617108

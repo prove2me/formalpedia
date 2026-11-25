@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_isIso_of_mono_of_length_le
 -- name    : PretorsionImageClosed.isIso_of_mono_of_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:40:38.450997+00:00
 -- url     : https://prove2.me/theorems/b32e0c0e-fc3d-46fc-af59-b168fd1e2887

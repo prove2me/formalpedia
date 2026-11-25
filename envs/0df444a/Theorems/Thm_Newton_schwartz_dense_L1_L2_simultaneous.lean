@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_schwartz_dense_L1_L2_simultaneous
 -- name    : Newton.schwartz_dense_L1_L2_simultaneous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:11.841847+00:00
 -- url     : https://prove2.me/theorems/3a8dd3d4-ec9a-4c1a-863f-7b9b0e045748

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_dinitz
 -- name    : Galvin.dinitz
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:13:57.920867+00:00
 -- url     : https://prove2.me/theorems/d4399287-7f7d-47d3-b25c-143a173fcd89

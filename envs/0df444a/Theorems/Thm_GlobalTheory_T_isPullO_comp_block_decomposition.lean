@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isPullO_comp_block_decomposition
 -- name    : GlobalTheory.T.isPullO_comp_block_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:48:53.011309+00:00
 -- url     : https://prove2.me/theorems/3981f8fc-2458-491d-9280-d8bee8c922d9

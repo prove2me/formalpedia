@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_multiplicative
 -- name    : SNumbers.gelfandNumber_multiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:24:58.659575+00:00
 -- url     : https://prove2.me/theorems/d40f3d13-4dba-423a-b28f-3f49f4422967

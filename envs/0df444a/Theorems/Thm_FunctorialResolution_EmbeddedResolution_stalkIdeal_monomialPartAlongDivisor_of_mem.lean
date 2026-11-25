@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_monomialPartAlongDivisor_of_mem
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_monomialPartAlongDivisor_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:04:28.422575+00:00
 -- url     : https://prove2.me/theorems/e0fd0ec4-2325-4929-bf1a-4a6d2af211f7

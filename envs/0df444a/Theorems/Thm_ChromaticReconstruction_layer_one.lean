@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_layer_one
 -- name    : ChromaticReconstruction.layer_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:20:27.53258+00:00
 -- url     : https://prove2.me/theorems/b3f2d78b-5a39-45ac-8bb5-a14f343bb364

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_IsImageClosed_inf
 -- name    : PretorsionImageClosed.Statement.Subcategory.IsImageClosed.inf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:55:58.590807+00:00
 -- url     : https://prove2.me/theorems/3f4558e2-a8e4-41e8-bd11-aa3748d7d21f

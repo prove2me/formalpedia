@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_dvd_floor_add_digitReal_mul_pow
 -- name    : SZ.dvd_floor_add_digitReal_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:15:01.456814+00:00
 -- url     : https://prove2.me/theorems/6cc39a43-0fc8-4c86-9f4b-5f3e441c1982

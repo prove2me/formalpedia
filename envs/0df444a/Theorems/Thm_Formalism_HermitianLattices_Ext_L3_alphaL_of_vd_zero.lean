@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_alphaL_of_vd_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.alphaL_of_vd_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:50.339181+00:00
 -- url     : https://prove2.me/theorems/e3282019-50c6-4fd0-9ce7-7eb3829d3fd8

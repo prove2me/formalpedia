@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_exists_not_leaf
 -- name    : ChromaticReconstruction.exists_not_leaf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:16:25.77528+00:00
 -- url     : https://prove2.me/theorems/67e8a60d-017c-4b10-ad6f-84094563bf8b

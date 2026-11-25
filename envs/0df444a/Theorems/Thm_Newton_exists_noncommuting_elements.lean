@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_exists_noncommuting_elements
 -- name    : Newton.exists_noncommuting_elements
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:02:14.143688+00:00
 -- url     : https://prove2.me/theorems/ed289347-d485-4e4a-b7e2-ab643a61a0d7

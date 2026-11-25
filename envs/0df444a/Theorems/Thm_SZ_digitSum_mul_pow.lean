@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitSum_mul_pow
 -- name    : SZ.digitSum_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:40:44.843538+00:00
 -- url     : https://prove2.me/theorems/c49a5e63-cd5b-45c2-ae56-4f3388e54b81

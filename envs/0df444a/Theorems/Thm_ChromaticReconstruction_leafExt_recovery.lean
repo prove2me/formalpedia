@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_leafExt_recovery
 -- name    : ChromaticReconstruction.leafExt_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:26:37.580203+00:00
 -- url     : https://prove2.me/theorems/6672ea41-d9df-40c1-817c-573fe5a08b4b

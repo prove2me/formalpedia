@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_localIdeal_smul
 -- name    : GroundTheory.Global.IdeleGroup.localIdeal_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:39:47.057132+00:00
 -- url     : https://prove2.me/theorems/5150d5ed-4941-4f3c-88e8-532bcb3adeea

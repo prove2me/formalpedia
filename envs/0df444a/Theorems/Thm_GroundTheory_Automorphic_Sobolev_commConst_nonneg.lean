@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_commConst_nonneg
 -- name    : GroundTheory.Automorphic.Sobolev.commConst_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:51:39.072176+00:00
 -- url     : https://prove2.me/theorems/5982355e-2f80-426d-97a0-90a9b6be4ae3

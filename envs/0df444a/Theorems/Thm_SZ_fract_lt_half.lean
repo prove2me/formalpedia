@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_fract_lt_half
 -- name    : SZ.fract_lt_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:04:58.216523+00:00
 -- url     : https://prove2.me/theorems/7f8619a1-7073-4130-aa3f-48fa0e24f53a

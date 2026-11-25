@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_finTrace_conj
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.finTrace_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:55:13.665451+00:00
 -- url     : https://prove2.me/theorems/17b70a5d-e3d9-5e19-b049-98c25f695ad6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_EpsProj_inv_spec
 -- name    : GlobalTheory.BadShare.EpsProj.inv_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:47:41.288888+00:00
 -- url     : https://prove2.me/theorems/c6793168-7f3a-4d67-b794-3abb4e644e03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_isVanishingOn_smul
 -- name    : GroundTheory.Automorphic.Sobolev.isVanishingOn_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:09:24.191471+00:00
 -- url     : https://prove2.me/theorems/402257c3-9486-46fd-a576-064770d0261a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LeftToRightConversion_tw_word
 -- name    : Formalism.FourierDecayAlt.P.LeftToRightConversion.tw_word
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:25:56.575154+00:00
 -- url     : https://prove2.me/theorems/3ae53603-c4fa-4d32-8f3b-1096f4545fda

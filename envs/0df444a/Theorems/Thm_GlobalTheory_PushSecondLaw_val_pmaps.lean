@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushSecondLaw_val_pmaps
 -- name    : GlobalTheory.PushSecondLaw.val_pmaps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:59:41.617096+00:00
 -- url     : https://prove2.me/theorems/992b3387-d8fd-48a2-948e-5f6e08a8949d

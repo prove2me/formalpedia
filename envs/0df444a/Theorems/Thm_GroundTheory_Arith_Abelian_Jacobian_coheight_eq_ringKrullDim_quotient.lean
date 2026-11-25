@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_Jacobian_coheight_eq_ringKrullDim_quotient
 -- name    : GroundTheory.Arith.Abelian.Jacobian.coheight_eq_ringKrullDim_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:53:15.78159+00:00
 -- url     : https://prove2.me/theorems/03189aff-698f-4ecc-a678-9dd984613ce6

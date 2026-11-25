@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_mem_entropySet_lt
 -- name    : SNumbers.exists_mem_entropySet_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:37.000207+00:00
 -- url     : https://prove2.me/theorems/fc587aa8-3b5b-4d0f-bbd3-6de0ebe73d5b

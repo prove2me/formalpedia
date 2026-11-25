@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycFr_coeff_one_act_X
 -- name    : GlobalTheory.CycFr.coeff_one_act_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:01:24.289311+00:00
 -- url     : https://prove2.me/theorems/b6741e10-bb6f-55ba-b12f-69ff7ceccb32

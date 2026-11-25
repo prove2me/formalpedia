@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_wpShape
 -- name    : Formalism.L2.Th1.A.wpShape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:55:50.0561+00:00
 -- url     : https://prove2.me/theorems/326192ee-36cd-4f58-a9d2-a24291b4b550

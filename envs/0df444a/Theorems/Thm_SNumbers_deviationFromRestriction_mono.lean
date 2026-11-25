@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_deviationFromRestriction_mono
 -- name    : SNumbers.deviationFromRestriction_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:02:04.922892+00:00
 -- url     : https://prove2.me/theorems/f9b5a15f-f751-4773-996a-d0f649c767bd

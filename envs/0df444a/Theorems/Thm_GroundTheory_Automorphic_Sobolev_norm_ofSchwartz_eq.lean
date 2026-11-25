@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_norm_ofSchwartz_eq
 -- name    : GroundTheory.Automorphic.Sobolev.norm_ofSchwartz_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:49:44.248696+00:00
 -- url     : https://prove2.me/theorems/0e59b1c4-6e22-58be-a0d2-6d19115b654a

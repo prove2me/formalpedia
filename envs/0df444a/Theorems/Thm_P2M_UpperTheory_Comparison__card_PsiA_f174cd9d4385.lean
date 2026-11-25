@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Comparison__card_PsiA_f174cd9d4385
 -- name    : P2M_UpperTheory_Comparison__card_PsiA_f174cd9d4385
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:03:22.133845+00:00
 -- url     : https://prove2.me/theorems/ab53d928-c142-59a2-8eb3-0e3a1d3b0918

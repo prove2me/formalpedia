@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_IsPrecokernel_comp_iso_right
 -- name    : PretorsionImageClosed.Statement.IsPrecokernel.comp_iso_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:56:15.5663+00:00
 -- url     : https://prove2.me/theorems/051aa940-e023-4e10-b652-cd611abccede

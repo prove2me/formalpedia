@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_isDigits_digitB
 -- name    : SZ.isDigits_digitB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:28:33.546902+00:00
 -- url     : https://prove2.me/theorems/21bfb089-4140-4ebf-9076-3cdd2e385226

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_mulConst_nonneg
 -- name    : GroundTheory.Automorphic.Sobolev.mulConst_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:50:11.875682+00:00
 -- url     : https://prove2.me/theorems/f2078943-8c2d-466a-b791-bbc99f4ba85f

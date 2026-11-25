@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_isCompact_abs_log_le_inter_standardOpenSubgroup
 -- name    : GroundTheory.Global.IdeleGroup.isCompact_abs_log_le_inter_standardOpenSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:13:14.86011+00:00
 -- url     : https://prove2.me/theorems/feb20ff1-236f-4004-98df-b619dbdf369b

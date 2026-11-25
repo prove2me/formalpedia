@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_stepDown_nonneg
 -- name    : SpectralRepresentation.stepDown_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:36:00.446711+00:00
 -- url     : https://prove2.me/theorems/9b40b713-52e4-4cc5-a7e7-a1d72cfc3a9b

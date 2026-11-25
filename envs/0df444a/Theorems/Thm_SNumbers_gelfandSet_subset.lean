@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandSet_subset
 -- name    : SNumbers.gelfandSet_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:01:22.388322+00:00
 -- url     : https://prove2.me/theorems/d72f6bcd-2cd3-5747-9dd1-1fcbf39b65ca

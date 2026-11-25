@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_closeLeaves_PL_pred
 -- name    : ChromaticReconstruction.closeLeaves_PL_pred
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:30.360442+00:00
 -- url     : https://prove2.me/theorems/174f55dc-d125-4529-8e74-e08eca89394b

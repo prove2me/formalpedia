@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_zero_eq_norm
 -- name    : SNumbers.approximationNumber_zero_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:39:10.870944+00:00
 -- url     : https://prove2.me/theorems/d1fc2943-d732-4b4b-b438-6c76318abc96

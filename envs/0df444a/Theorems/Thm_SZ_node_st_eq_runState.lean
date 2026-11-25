@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_node_st_eq_runState
 -- name    : SZ.node_st_eq_runState
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:36:00.667176+00:00
 -- url     : https://prove2.me/theorems/84995890-d4a6-40c2-a2f1-4204dce0adec

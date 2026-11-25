@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_su2_adjointSq_23
 -- name    : Newton.su2_adjointSq_23
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:58:06.073119+00:00
 -- url     : https://prove2.me/theorems/d883846d-fcc9-4db0-a711-81e638063f20

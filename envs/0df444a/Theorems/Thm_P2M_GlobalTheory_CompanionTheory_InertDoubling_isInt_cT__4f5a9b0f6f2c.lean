@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_InertDoubling_isInt_cT__4f5a9b0f6f2c
 -- name    : P2M_GlobalTheory_CompanionTheory_InertDoubling_isInt_cT__4f5a9b0f6f2c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:04:49.413365+00:00
 -- url     : https://prove2.me/theorems/146413e6-2f95-47f9-b2c7-e4b91b921126

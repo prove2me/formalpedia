@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_HurwitzJetIntegrality_exists_of_coeff_inBlock_ne_zero
 -- name    : Formalism.L2.Th1.G.HurwitzJetIntegrality.exists_of_coeff_inBlock_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:39:29.735605+00:00
 -- url     : https://prove2.me/theorems/c662b785-4cf6-52a4-ae07-fde8fc3b250f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_ae_eq_zero_of_lintegral_mul_eq_zero_right
 -- name    : Newton.ae_eq_zero_of_lintegral_mul_eq_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:25:04.933247+00:00
 -- url     : https://prove2.me/theorems/43c8c3ef-bd3f-49d4-8acf-8bd493cf5fc1

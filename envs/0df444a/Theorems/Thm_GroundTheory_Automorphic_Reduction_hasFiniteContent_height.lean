@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_hasFiniteContent_height
 -- name    : GroundTheory.Automorphic.Reduction.hasFiniteContent_height
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:06:25.3703+00:00
 -- url     : https://prove2.me/theorems/4acedf76-9e0b-47ad-ba59-fe2851d5500d

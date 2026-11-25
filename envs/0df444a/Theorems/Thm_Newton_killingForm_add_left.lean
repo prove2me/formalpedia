@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_killingForm_add_left
 -- name    : Newton.killingForm_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:50:02.835132+00:00
 -- url     : https://prove2.me/theorems/b7b7a285-3a77-598e-a5c0-1d232b9583d1

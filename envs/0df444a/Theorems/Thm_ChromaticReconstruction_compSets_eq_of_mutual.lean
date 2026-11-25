@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_compSets_eq_of_mutual
 -- name    : ChromaticReconstruction.compSets_eq_of_mutual
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:21:56.718922+00:00
 -- url     : https://prove2.me/theorems/b2f6f6d4-680d-45bf-907b-922e8c37ef03

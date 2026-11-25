@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_adjointAd2_self
 -- name    : Newton.adjointAd2_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:06:48.566529+00:00
 -- url     : https://prove2.me/theorems/be64981b-39b3-423f-b608-29263a3b4c0e

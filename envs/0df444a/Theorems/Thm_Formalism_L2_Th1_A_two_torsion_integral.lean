@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_two_torsion_integral
 -- name    : Formalism.L2.Th1.A.two_torsion_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:53.501125+00:00
 -- url     : https://prove2.me/theorems/e15b3f4c-e0a3-4040-84c2-61dba5349a0c

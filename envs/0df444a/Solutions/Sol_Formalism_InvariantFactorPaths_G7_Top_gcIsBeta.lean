@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for Formalism.InvariantFactorPaths.G7.Top.gcIsBeta
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T02:24:59.251302+00:00
+-- url     : https://prove2.me/submissions/92896a13-7589-4217-b49c-799a1cfa1250
+
+import Definitions.Def_Formalism_ThetaLogCoordinates_UniformThetaSubstitution_KOneConsequence
+import Definitions.Def_Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_OmegaOfTraceDuality
+import Definitions.Def_Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_FrobeniusPartialCoboundaryBound
+import Definitions.Def_Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_ExpansionsAtPlaces
+import Definitions.Def_Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_EGauss
+import Definitions.Def_Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_EKernel
+import Definitions.Def_Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_EChain
+import Definitions.Def_Formalism_ThetaLogCoordinates_UniformThetaSubstitution_KernelFromKOne
+import Theorems.Thm_Formalism_InvariantFactorPaths_G7_g_c_is_beta
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.G7 Formalism.InvariantFactorPaths.G7.Top
+open Formalism.InvariantFactorPaths.G7
+namespace Formalism.InvariantFactorPaths.G7.Top
+theorem _root_.solution : GcIsBeta := g_c_is_beta
+end Formalism.InvariantFactorPaths.G7.Top

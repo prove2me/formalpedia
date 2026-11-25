@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_first_projection_preserves_ok
 -- name    : Formalism.FourierDecayAlt.P.Qx8.first_projection_preserves_ok
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:22:55.645881+00:00
 -- url     : https://prove2.me/theorems/e93d53dc-1fea-4f81-82bc-7d6c5719ef13

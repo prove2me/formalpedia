@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FrameEntries_poly_contDiff
 -- name    : Formalism.FourierDecayAlt.P.FrameEntries.poly_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:33:40.470031+00:00
 -- url     : https://prove2.me/theorems/cc93d8ea-a44e-4d7f-b031-7d1c027220ed

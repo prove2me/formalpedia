@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_Top_decay
 -- name    : Formalism.NuclearRankWeightBounds.Top.decay
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:22:13.040996+00:00
 -- url     : https://prove2.me/theorems/1834f02f-91af-4d5e-a788-5fe197d51d21

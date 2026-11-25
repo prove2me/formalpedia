@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_e_cast_le
 -- name    : SZ.Slice.e_cast_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:44:54.638875+00:00
 -- url     : https://prove2.me/theorems/8077eb8a-5ca0-53cd-8f57-a63d8f6628f2

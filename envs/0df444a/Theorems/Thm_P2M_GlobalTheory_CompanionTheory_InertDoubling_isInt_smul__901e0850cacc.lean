@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_InertDoubling_isInt_smul__901e0850cacc
 -- name    : P2M_GlobalTheory_CompanionTheory_InertDoubling_isInt_smul__901e0850cacc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:04:23.482109+00:00
 -- url     : https://prove2.me/theorems/a317947b-3607-4bdc-9212-bb6959dbe881

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gainOnSubspace_nonneg
 -- name    : SNumbers.gainOnSubspace_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:32:06.768267+00:00
 -- url     : https://prove2.me/theorems/388a8b3b-5cd0-4ac4-8779-ddfaceda5e5f

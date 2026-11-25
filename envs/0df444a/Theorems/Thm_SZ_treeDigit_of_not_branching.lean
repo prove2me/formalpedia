@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_treeDigit_of_not_branching
 -- name    : SZ.treeDigit_of_not_branching
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:37:23.721802+00:00
 -- url     : https://prove2.me/theorems/2fc7aa32-09bd-4465-91fb-c6f621ef157b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_bsel_eq_zero_iff
 -- name    : SZ.Slice.bsel_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:51:45.682868+00:00
 -- url     : https://prove2.me/theorems/e2e90538-bb2b-58c5-9ef1-d1428ddacdf9

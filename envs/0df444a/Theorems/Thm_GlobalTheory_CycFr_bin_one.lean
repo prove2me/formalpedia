@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycFr_bin_one
 -- name    : GlobalTheory.CycFr.bin_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:00:10.247262+00:00
 -- url     : https://prove2.me/theorems/2d1f31b2-6413-565b-be08-98397bb3002a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_isotropicVector_ne_zero_3e8a12d81f0d
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_isotropicVector_ne_zero_3e8a12d81f0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:52:34.063343+00:00
 -- url     : https://prove2.me/theorems/4b166e71-e25c-54a4-9dde-9baf041f8309

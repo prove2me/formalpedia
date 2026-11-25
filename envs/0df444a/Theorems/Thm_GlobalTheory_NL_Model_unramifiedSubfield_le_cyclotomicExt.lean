@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_unramifiedSubfield_le_cyclotomicExt
 -- name    : GlobalTheory.NL.Model.unramifiedSubfield_le_cyclotomicExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:09:11.209884+00:00
 -- url     : https://prove2.me/theorems/133cc968-2b93-5ba3-b70a-a3a70a76d8ae

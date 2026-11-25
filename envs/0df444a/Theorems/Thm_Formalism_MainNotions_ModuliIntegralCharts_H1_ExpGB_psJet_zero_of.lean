@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGB_psJet_zero_of
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGB.psJet_zero_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:30:24.886275+00:00
 -- url     : https://prove2.me/theorems/293055e4-67ba-417f-b61b-73f4425ee0f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_key_mod
 -- name    : Formalism.YangianSpanCharacter.P.key_mod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:25:39.733253+00:00
 -- url     : https://prove2.me/theorems/699ba699-6a41-4580-9537-5500bf564284

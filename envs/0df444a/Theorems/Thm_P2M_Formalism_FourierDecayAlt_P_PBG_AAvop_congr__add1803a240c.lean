@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_PBG_AAvop_congr__add1803a240c
 -- name    : P2M_Formalism_FourierDecayAlt_P_PBG_AAvop_congr__add1803a240c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:00:35.155831+00:00
 -- url     : https://prove2.me/theorems/ce6e3905-2028-4ca7-bb28-19a59f421d2b

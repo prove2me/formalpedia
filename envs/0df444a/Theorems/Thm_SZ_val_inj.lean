@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_val_inj
 -- name    : SZ.val_inj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:23:54.867305+00:00
 -- url     : https://prove2.me/theorems/61981330-c29c-4322-a8ec-1fd337a396a0

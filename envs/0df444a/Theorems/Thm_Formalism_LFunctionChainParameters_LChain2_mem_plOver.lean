@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_mem_plOver
 -- name    : Formalism.LFunctionChainParameters.LChain2.mem_plOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:36:16.670411+00:00
 -- url     : https://prove2.me/theorems/692a12a7-4ed6-4f88-adb7-2252befb1098

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_IsPretorsionTheory_isQuotientClosed
 -- name    : PretorsionImageClosed.Statement.IsPretorsionTheory.isQuotientClosed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:41:42.419427+00:00
 -- url     : https://prove2.me/theorems/cbbd1697-65dd-4cd7-89db-894143e16b9b

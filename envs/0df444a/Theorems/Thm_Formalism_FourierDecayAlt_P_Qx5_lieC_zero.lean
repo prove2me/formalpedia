@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_lieC_zero
 -- name    : Formalism.FourierDecayAlt.P.Qx5.lieC_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:48:57.167552+00:00
 -- url     : https://prove2.me/theorems/9cecf53a-5354-4bb1-a3c5-195f0bdefcfd

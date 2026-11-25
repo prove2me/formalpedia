@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_qSet_finite_witness
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.qSet_finite_witness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:34:31.127936+00:00
 -- url     : https://prove2.me/theorems/651f767e-6768-45db-a504-184d76b6b581

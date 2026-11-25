@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_su2Gen2_ne_zero
 -- name    : Newton.su2Gen2_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:53:12.268806+00:00
 -- url     : https://prove2.me/theorems/2461a1cc-4d41-4fec-9272-bf982c6cfd3d

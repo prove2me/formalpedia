@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_hasBrk_of_card
 -- name    : ChromaticReconstruction.hasBrk_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:05:11.346416+00:00
 -- url     : https://prove2.me/theorems/ce1c4a22-2f6f-4f76-aa9a-230759aa6a93

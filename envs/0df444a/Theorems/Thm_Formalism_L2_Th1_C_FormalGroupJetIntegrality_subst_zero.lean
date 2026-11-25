@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_FormalGroupJetIntegrality_subst_zero
 -- name    : Formalism.L2.Th1.C.FormalGroupJetIntegrality.subst_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:32:45.366972+00:00
 -- url     : https://prove2.me/theorems/9c7c777d-d4c6-4930-ab89-b98cf2a76736

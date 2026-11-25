@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_isImageClosed_top
+-- name    : PretorsionImageClosed.Statement.Subcategory.isImageClosed_top
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-11-25T02:22:55.353151+00:00
+-- url     : https://prove2.me/theorems/b8ed3e5e-621b-5529-88e4-82508121c412
+-- title:
+--   Subcategory: is Image Closed top
+-- statement:
+--   The Subcategory construction uses the is Image Closed top property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/haruhisa-enomoto/pretorsion-image-closed/blob/e803b5d1325bc1ce2b779efbff157b6cd3234bc8/PretorsionImageClosed/Subcategories/Basic.lean#L262-L262
+-- source:
+--   https://github.com/haruhisa-enomoto/pretorsion-image-closed/blob/e803b5d1325bc1ce2b779efbff157b6cd3234bc8/PretorsionImageClosed/Subcategories/Basic.lean#L262-L262
+
+module
+public import Definitions.Def_PretorsionImageClosed_Statement
+public import Mathlib.CategoryTheory.Abelian.Basic
+public import Mathlib.CategoryTheory.Limits.Shapes.Images
+public import Definitions.Def_PretorsionImageClosed_Subcategories_Basic
+set_option autoImplicit true
+@[expose] public section
+public section
+set_option autoImplicit false
+noncomputable section
+open PretorsionImageClosed
+open CategoryTheory Limits Statement ZeroObject
+variable {C : Type*} [Category C] [HasZeroMorphisms C] [HasBinaryBiproducts C]
+variable {A : Type*} [Category A] [Abelian A]
+open PretorsionImageClosed.Statement PretorsionImageClosed.Statement.Subcategory
+variable (Z : Subcategory A)
+
+theorem PretorsionImageClosed.Statement.Subcategory.isImageClosed_top : (⊤ : Subcategory A).IsImageClosed := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperImmersionPoint_sum_pnorm_sq
 -- name    : GlobalTheory.ProperImmersionPoint.sum_pnorm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:45:08.09342+00:00
 -- url     : https://prove2.me/theorems/52cda779-5848-4205-9aa3-1b66eca475e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_subsingleton_etale_cohomology_constant_closed_of_isAlgClosed_fractionRing
 -- name    : AlgebraicGeometry.Scheme.subsingleton_etale_cohomology_constant_closed_of_isAlgClosed_fractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-25T00:59:56.508608+00:00
 -- url     : https://prove2.me/theorems/4a28918f-d6eb-4a41-99a5-82545295d7ee

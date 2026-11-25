@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PretorsionImageClosed___comp_cokernelKernelSubobjectArrowIso_hom_4e7f616de0e9
 -- name    : P2M_PretorsionImageClosed___comp_cokernelKernelSubobjectArrowIso_hom_4e7f616de0e9
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:58:08.051912+00:00
 -- url     : https://prove2.me/theorems/d01ddf23-a688-5428-bc02-051d2175f445

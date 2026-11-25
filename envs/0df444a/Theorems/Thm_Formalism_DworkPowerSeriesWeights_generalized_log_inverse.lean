@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_generalized_log_inverse
 -- name    : Formalism.DworkPowerSeriesWeights.generalized_log_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:00:09.681049+00:00
 -- url     : https://prove2.me/theorems/df4a3910-d427-4c59-b637-3d2bb52c10a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Subobject_eq_of_isZero
 -- name    : PretorsionImageClosed.Subobject.eq_of_isZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:00:59.632131+00:00
 -- url     : https://prove2.me/theorems/300b24c2-3474-4992-84db-de8b0fd3af68

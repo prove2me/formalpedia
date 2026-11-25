@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_W_mem
 -- name    : SZ.W_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:12:12.061549+00:00
 -- url     : https://prove2.me/theorems/16f13a3b-3602-49fd-a020-e4d3342db975

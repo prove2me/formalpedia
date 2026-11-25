@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_absorb2
 -- name    : Formalism.LFunctionChainParameters.LChain2.absorb2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:51:32.513244+00:00
 -- url     : https://prove2.me/theorems/b2b8d29b-0c80-4b86-90fa-c1a71e21ecff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_isFrobUnit_iff
 -- name    : Formalism.LFunctionChainParameters.LHost.isFrobUnit_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:24:26.366251+00:00
 -- url     : https://prove2.me/theorems/a7e686c6-5585-49f6-bfc2-a4ce00fcd6a6

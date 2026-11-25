@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_mem_extremePoints_iff_isClosed_sdiff_singleton
 -- name    : PretorsionImageClosed.SetClosure.mem_extremePoints_iff_isClosed_sdiff_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:19:24.650031+00:00
 -- url     : https://prove2.me/theorems/e89b154e-c093-43b0-b431-d935276a8fd4

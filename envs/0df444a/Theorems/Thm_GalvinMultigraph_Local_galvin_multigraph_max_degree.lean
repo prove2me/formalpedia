@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_galvin_multigraph_max_degree
 -- name    : GalvinMultigraph.Local.galvin_multigraph_max_degree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:08:52.181821+00:00
 -- url     : https://prove2.me/theorems/e2c1f49d-fcd1-404d-9240-10ac7a048d56

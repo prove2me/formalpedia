@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTiePf_appTop_to__408424b20004
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTiePf_appTop_to__408424b20004
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:02:21.955846+00:00
 -- url     : https://prove2.me/theorems/8d1d57ba-9dfb-4ba2-ab9d-6c3d667e18c9

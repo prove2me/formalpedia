@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_pick_adm
 -- name    : SZ.Slice.pick_adm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:09.061507+00:00
 -- url     : https://prove2.me/theorems/1eed7844-8ca5-449a-8a83-f8cbde5c7e31

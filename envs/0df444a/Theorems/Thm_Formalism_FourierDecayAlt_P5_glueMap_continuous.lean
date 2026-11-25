@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_glueMap_continuous
 -- name    : Formalism.FourierDecayAlt.P5.glueMap_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:56:32.724418+00:00
 -- url     : https://prove2.me/theorems/f97d094f-2dee-499e-b188-0a9afb778dec

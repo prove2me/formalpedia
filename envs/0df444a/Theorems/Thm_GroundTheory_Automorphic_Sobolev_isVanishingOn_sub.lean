@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_isVanishingOn_sub
 -- name    : GroundTheory.Automorphic.Sobolev.isVanishingOn_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:59:52.641113+00:00
 -- url     : https://prove2.me/theorems/77ca041f-e59a-48cf-ba5c-bdd3ea3422d9

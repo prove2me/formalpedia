@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_fract_two_mul
 -- name    : SZ.fract_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:04:58.236486+00:00
 -- url     : https://prove2.me/theorems/d84d4164-a0b0-4983-a073-3a3a511b98cc

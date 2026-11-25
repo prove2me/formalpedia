@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_DimFac_hasComp_of_trivial
 -- name    : GlobalTheory.BCT.DimFac.hasComp_of_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:59:40.77743+00:00
 -- url     : https://prove2.me/theorems/795019b3-5210-4efc-a115-af7193f0a630

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_norm_power_integrable_sharp
 -- name    : Formalism.FourierDecayAlt.P.norm_power_integrable_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:30:53.7746+00:00
 -- url     : https://prove2.me/theorems/c8f500aa-d311-4861-979c-1d28cdc556e0

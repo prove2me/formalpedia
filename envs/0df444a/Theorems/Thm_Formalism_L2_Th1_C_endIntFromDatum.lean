@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_endIntFromDatum
 -- name    : Formalism.L2.Th1.C.endIntFromDatum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:26:15.481592+00:00
 -- url     : https://prove2.me/theorems/e757b8b7-2a62-4b2a-9e26-d3a3122e4c35

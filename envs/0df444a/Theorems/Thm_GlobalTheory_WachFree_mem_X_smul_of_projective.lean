@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WachFree_mem_X_smul_of_projective
 -- name    : GlobalTheory.WachFree.mem_X_smul_of_projective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:01:45.316071+00:00
 -- url     : https://prove2.me/theorems/0302a1b1-6916-5961-a5cf-a19950bcd041

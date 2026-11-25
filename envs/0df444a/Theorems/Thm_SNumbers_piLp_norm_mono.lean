@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_piLp_norm_mono
 -- name    : SNumbers.piLp_norm_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:45:07.546642+00:00
 -- url     : https://prove2.me/theorems/5fb866fa-4de3-4c19-ac05-355ead5ae882

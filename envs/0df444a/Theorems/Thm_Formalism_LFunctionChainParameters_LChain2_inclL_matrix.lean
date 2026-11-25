@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_inclL_matrix
 -- name    : Formalism.LFunctionChainParameters.LChain2.inclL_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:51:23.842901+00:00
 -- url     : https://prove2.me/theorems/7b5d659a-28ed-4679-bb6a-5927def470e3

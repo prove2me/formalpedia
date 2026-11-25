@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_herm_scale
 -- name    : Formalism.L2.Th1.H.herm_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:41:47.045135+00:00
 -- url     : https://prove2.me/theorems/b9592cf8-0d72-4181-8402-1dafbfeb2422

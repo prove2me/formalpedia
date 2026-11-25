@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_TV_comp
 -- name    : Formalism.FourierDecayAlt.P.Qx8.TV_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:29:16.329887+00:00
 -- url     : https://prove2.me/theorems/73cd7b66-5df5-4209-8203-cdf76cf0c9f7

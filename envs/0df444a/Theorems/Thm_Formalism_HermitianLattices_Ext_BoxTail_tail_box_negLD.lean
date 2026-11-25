@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_BoxTail_tail_box_negLD
 -- name    : Formalism.HermitianLattices.Ext.BoxTail.tail_box_negLD
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:12.955459+00:00
 -- url     : https://prove2.me/theorems/53b0cd2d-046f-4b81-a362-ea16a1a0c260

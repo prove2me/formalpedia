@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_floor_add_digitReal_mul_pow
 -- name    : SZ.floor_add_digitReal_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:04:20.272801+00:00
 -- url     : https://prove2.me/theorems/06314c50-0287-43f5-82d3-765ce62cda39

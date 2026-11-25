@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_floor_two_mul
 -- name    : SZ.floor_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:03:23.488823+00:00
 -- url     : https://prove2.me/theorems/2b320d13-eae4-415c-b970-000ad58faf71

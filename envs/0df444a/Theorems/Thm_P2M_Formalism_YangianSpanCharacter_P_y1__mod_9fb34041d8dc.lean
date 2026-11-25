@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_YangianSpanCharacter_P_y1__mod_9fb34041d8dc
 -- name    : P2M_Formalism_YangianSpanCharacter_P_y1__mod_9fb34041d8dc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:14:46.252548+00:00
 -- url     : https://prove2.me/theorems/05fcf44e-64fd-44e7-ac25-c0627f6a4f88

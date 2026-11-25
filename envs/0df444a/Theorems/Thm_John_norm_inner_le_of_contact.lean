@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_norm_inner_le_of_contact
 -- name    : John.norm_inner_le_of_contact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:44:31.160398+00:00
 -- url     : https://prove2.me/theorems/e104a0ea-9d92-41c9-9c1f-e5cedbe5bf05

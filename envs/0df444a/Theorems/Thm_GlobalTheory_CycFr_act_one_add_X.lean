@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycFr_act_one_add_X
 -- name    : GlobalTheory.CycFr.act_one_add_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:00:41.908334+00:00
 -- url     : https://prove2.me/theorems/fbcc3fe5-e66c-43ce-9574-7e51b026cf1a

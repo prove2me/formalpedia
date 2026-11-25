@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_closeLeaves_of_iso
 -- name    : ChromaticReconstruction.closeLeaves_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:38.408289+00:00
 -- url     : https://prove2.me/theorems/904e1326-4d24-4aa8-bdbb-67765ec5daa8

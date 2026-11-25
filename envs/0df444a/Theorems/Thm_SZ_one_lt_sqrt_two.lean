@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_one_lt_sqrt_two
 -- name    : SZ.one_lt_sqrt_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:05:55.060074+00:00
 -- url     : https://prove2.me/theorems/27b98e33-a761-4165-90aa-ccd64b133191

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_sum_weight_inner_sq
 -- name    : John.sum_weight_inner_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:45:10.983104+00:00
 -- url     : https://prove2.me/theorems/d274b2c3-dc8e-4c28-b7f5-5085b9ace1fb

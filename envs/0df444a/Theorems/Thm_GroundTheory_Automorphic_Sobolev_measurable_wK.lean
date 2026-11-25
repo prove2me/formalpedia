@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_measurable_wK
 -- name    : GroundTheory.Automorphic.Sobolev.measurable_wK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:52:29.986617+00:00
 -- url     : https://prove2.me/theorems/726b2e9e-7832-4866-8559-c3ca77309015

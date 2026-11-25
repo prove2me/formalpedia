@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_functional_equation_hom_vector
 -- name    : Formalism.FG.functional_equation_hom_vector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:24:22.25269+00:00
 -- url     : https://prove2.me/theorems/f4ba2b0e-9f7a-4235-8d3d-874902e2b0fb

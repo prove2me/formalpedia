@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_weight_space_dimension_monotone
 -- name    : Formalism.GM.weight_space_dimension_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:51:57.249808+00:00
 -- url     : https://prove2.me/theorems/d4d8d437-e0b3-4118-9820-91c50965cab8

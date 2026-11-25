@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_DomR_eq
 -- name    : Formalism.FourierDecayAlt.P5.DomR_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:56:15.949084+00:00
 -- url     : https://prove2.me/theorems/f05b9fe4-2302-4b2b-8f9e-9f1367d7e951

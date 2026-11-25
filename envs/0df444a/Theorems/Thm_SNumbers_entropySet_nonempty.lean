@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_entropySet_nonempty
 -- name    : SNumbers.entropySet_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:47:11.196104+00:00
 -- url     : https://prove2.me/theorems/99b0c583-caf9-4c90-825e-eecbfd3afbcc

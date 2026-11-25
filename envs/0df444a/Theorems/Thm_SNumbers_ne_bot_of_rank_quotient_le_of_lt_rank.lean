@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_ne_bot_of_rank_quotient_le_of_lt_rank
 -- name    : SNumbers.ne_bot_of_rank_quotient_le_of_lt_rank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:51:36.050305+00:00
 -- url     : https://prove2.me/theorems/298de6a7-ae08-47f8-b385-23b76978e0ab

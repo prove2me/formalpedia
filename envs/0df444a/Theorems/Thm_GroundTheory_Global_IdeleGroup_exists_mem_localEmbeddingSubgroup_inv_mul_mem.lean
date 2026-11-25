@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_exists_mem_localEmbeddingSubgroup_inv_mul_mem
 -- name    : GroundTheory.Global.IdeleGroup.exists_mem_localEmbeddingSubgroup_inv_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:13:40.949276+00:00
 -- url     : https://prove2.me/theorems/99036fb6-7f5f-4d95-83d6-f6e5d0cac8e0

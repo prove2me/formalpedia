@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitA_even
 -- name    : SZ.digitA_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:08:45.232801+00:00
 -- url     : https://prove2.me/theorems/e1991071-f16e-5634-94ee-7560b672a226

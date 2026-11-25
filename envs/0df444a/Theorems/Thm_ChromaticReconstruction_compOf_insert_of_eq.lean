@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_compOf_insert_of_eq
 -- name    : ChromaticReconstruction.compOf_insert_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:29:05.393153+00:00
 -- url     : https://prove2.me/theorems/651b286b-5828-494e-aa2d-2fa44e3f6994

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_LocalPerfect_injective_compr__4c0b8fced67e
 -- name    : P2M_GlobalTheory_CompanionTheory_LocalPerfect_injective_compr__4c0b8fced67e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:03:40.687476+00:00
 -- url     : https://prove2.me/theorems/836c013a-1399-40bb-8bc9-52e8cf9b836b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpGradient_posDef_conj
 -- name    : GlobalTheory.SharpGradient.posDef_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:41:58.132868+00:00
 -- url     : https://prove2.me/theorems/12580169-80a3-4b12-80a6-75683c5f22c4

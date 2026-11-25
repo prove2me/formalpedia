@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_coordFunOfDet_apply_eq
 -- name    : coordFunOfDet_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:47:41.045459+00:00
 -- url     : https://prove2.me/theorems/807b46e8-4f11-5dc5-8644-5f6905efa29f

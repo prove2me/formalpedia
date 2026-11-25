@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitReal_lt_digitSum_add
 -- name    : SZ.digitReal_lt_digitSum_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:40:38.399492+00:00
 -- url     : https://prove2.me/theorems/747e52c8-3db6-49a8-8cca-e098d1db6793

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_SuNAlgebra_trace_square_nonpos
 -- name    : Newton.SuNAlgebra.trace_square_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:47:28.66153+00:00
 -- url     : https://prove2.me/theorems/b37b9eff-e0d1-42ae-a7c9-c3b88249bd74

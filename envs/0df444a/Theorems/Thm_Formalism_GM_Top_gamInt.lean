@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_Top_gamInt
 -- name    : Formalism.GM.Top.gamInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:21:50.534371+00:00
 -- url     : https://prove2.me/theorems/c6fe13b5-4fdc-4b73-afa6-9af55e99da77

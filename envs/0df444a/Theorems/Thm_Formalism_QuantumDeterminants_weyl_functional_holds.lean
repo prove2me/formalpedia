@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_weyl_functional_holds
 -- name    : Formalism.QuantumDeterminants.weyl_functional_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:50.653688+00:00
 -- url     : https://prove2.me/theorems/1099602b-f681-401a-a2d0-b17f01c5fa1a

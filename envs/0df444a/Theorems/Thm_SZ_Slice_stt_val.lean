@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_stt_val
 -- name    : SZ.Slice.stt_val
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:00:56.590391+00:00
 -- url     : https://prove2.me/theorems/bc59f75b-2708-568c-a0e9-7f0300a60af0

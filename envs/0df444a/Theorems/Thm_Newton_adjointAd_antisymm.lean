@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_adjointAd_antisymm
 -- name    : Newton.adjointAd.antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:02:54.670299+00:00
 -- url     : https://prove2.me/theorems/e5c87482-477b-42e3-b122-0b5fc72132ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_CongrData_smul
 -- name    : GroundTheory.LocalField.CongrData.smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:05:35.593952+00:00
 -- url     : https://prove2.me/theorems/1da4c5a2-3351-4ce7-8ceb-0e0432c1566d

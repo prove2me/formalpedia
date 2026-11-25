@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_M_pos
 -- name    : SZ.Slice.M_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:45:10.974845+00:00
 -- url     : https://prove2.me/theorems/9618d57a-0590-421d-9d5f-b1de87ec3655

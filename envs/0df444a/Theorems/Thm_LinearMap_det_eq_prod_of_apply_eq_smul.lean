@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearMap_det_eq_prod_of_apply_eq_smul
 -- name    : LinearMap.det_eq_prod_of_apply_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:40:44.545257+00:00
 -- url     : https://prove2.me/theorems/1e4cfdc5-ea49-410c-850c-c63a49628235

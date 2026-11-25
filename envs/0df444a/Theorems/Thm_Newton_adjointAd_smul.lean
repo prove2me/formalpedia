@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_adjointAd_smul
 -- name    : Newton.adjointAd.smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:02:20.251794+00:00
 -- url     : https://prove2.me/theorems/9f451a10-181c-448c-82e3-18a15b3dd7cf

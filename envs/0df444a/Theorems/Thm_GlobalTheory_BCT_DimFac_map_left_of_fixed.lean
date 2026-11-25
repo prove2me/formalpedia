@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_DimFac_map_left_of_fixed
 -- name    : GlobalTheory.BCT.DimFac.map_left_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:20:37.224069+00:00
 -- url     : https://prove2.me/theorems/d168f2a6-844b-40ed-9248-259ca1f09789

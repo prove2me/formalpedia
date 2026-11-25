@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_smooth_compactSupport_dense_L1_L2_real
 -- name    : Newton.smooth_compactSupport_dense_L1_L2_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:43:11.657691+00:00
 -- url     : https://prove2.me/theorems/77a2b4c6-1d8a-49fc-8d19-a465c9afca3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFRadRedA_zeta_eq
 -- name    : Formalism.FourierDecayAlt.P.NFRadRedA.zeta_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:57:25.602848+00:00
 -- url     : https://prove2.me/theorems/e3b88d33-8c0c-4679-a58e-2a5d4ea33fd2

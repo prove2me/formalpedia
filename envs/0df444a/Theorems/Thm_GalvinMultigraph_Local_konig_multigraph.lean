@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_konig_multigraph
 -- name    : GalvinMultigraph.Local.konig_multigraph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:24:25.526106+00:00
 -- url     : https://prove2.me/theorems/acd7a1e7-1c8c-47c6-8726-6dbae065bd1b

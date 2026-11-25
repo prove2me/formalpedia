@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_isDigits_digitY
 -- name    : SZ.isDigits_digitY
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:29:18.694385+00:00
 -- url     : https://prove2.me/theorems/60edd6d2-7339-4165-a126-99ca41119a38

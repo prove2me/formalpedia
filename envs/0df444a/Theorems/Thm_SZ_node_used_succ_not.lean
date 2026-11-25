@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_node_used_succ_not
 -- name    : SZ.node_used_succ_not
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:38:48.197345+00:00
 -- url     : https://prove2.me/theorems/c625f48b-039f-439a-aa1e-d1d5ef04c294

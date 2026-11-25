@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitReal_nonneg
 -- name    : SZ.digitReal_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:04:13.470604+00:00
 -- url     : https://prove2.me/theorems/f6d0751d-f9e6-4a09-84f4-46245564c539

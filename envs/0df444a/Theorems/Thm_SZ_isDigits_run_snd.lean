@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_isDigits_run_snd
 -- name    : SZ.isDigits_run_snd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:38:00.312695+00:00
 -- url     : https://prove2.me/theorems/8f61f1fb-df84-5ee1-807e-d85be9b67e93

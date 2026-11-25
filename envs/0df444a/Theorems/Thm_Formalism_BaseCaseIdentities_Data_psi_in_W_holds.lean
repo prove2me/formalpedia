@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_psi_in_W_holds
 -- name    : Formalism.BaseCaseIdentities.Data.psi_in_W_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:43:46.80301+00:00
 -- url     : https://prove2.me/theorems/ac67c865-8171-486b-b3fc-c40cd88debab

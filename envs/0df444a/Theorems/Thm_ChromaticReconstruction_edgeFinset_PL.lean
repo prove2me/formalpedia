@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_edgeFinset_PL
 -- name    : ChromaticReconstruction.edgeFinset_PL
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:49:03.218779+00:00
 -- url     : https://prove2.me/theorems/0938aed5-5264-4495-86b0-50b7ba7f90ce

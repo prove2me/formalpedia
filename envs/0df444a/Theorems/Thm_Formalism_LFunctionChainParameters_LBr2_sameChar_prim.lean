@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_sameChar_prim
 -- name    : Formalism.LFunctionChainParameters.LBr2.sameChar_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:54:55.430241+00:00
 -- url     : https://prove2.me/theorems/f0a6c27d-f4b0-4c6d-a21e-25ef1fd80e6a

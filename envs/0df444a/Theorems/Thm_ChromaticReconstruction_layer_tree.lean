@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_layer_tree
 -- name    : ChromaticReconstruction.layer_tree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:27:19.772028+00:00
 -- url     : https://prove2.me/theorems/44c0ed04-3968-4ac1-a785-0873b40c43d4

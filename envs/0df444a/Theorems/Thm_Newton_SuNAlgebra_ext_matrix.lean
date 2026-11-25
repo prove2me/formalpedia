@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_SuNAlgebra_ext_matrix
 -- name    : Newton.SuNAlgebra.ext_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:45:10.813885+00:00
 -- url     : https://prove2.me/theorems/15ae8d3c-7df0-4046-9b61-a2697183debd

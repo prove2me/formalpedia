@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_memLp_mul_of_memLp_conjugate
 -- name    : Newton.memLp_mul_of_memLp_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:28:14.652128+00:00
 -- url     : https://prove2.me/theorems/6794892f-42bd-4f75-a845-66a6ca9cd51a

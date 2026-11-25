@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_EpsProj_eps_mul
 -- name    : GlobalTheory.BadShare.EpsProj.eps_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:47:06.495476+00:00
 -- url     : https://prove2.me/theorems/d40226e8-faf1-4e1d-95d9-d6a2dd71f828

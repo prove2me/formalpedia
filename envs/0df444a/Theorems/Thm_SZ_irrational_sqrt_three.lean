@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_irrational_sqrt_three
 -- name    : SZ.irrational_sqrt_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:06:51.896739+00:00
 -- url     : https://prove2.me/theorems/6626ba1a-1c5d-5ec6-b2a3-c17a3f9902fd

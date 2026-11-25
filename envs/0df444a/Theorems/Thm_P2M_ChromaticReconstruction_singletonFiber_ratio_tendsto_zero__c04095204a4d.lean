@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ChromaticReconstruction_singletonFiber_ratio_tendsto_zero__c04095204a4d
 -- name    : P2M_ChromaticReconstruction_singletonFiber_ratio_tendsto_zero__c04095204a4d
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:56:40.504038+00:00
 -- url     : https://prove2.me/theorems/46a8b51b-a5d5-42ab-873b-6dd5ead95a8d

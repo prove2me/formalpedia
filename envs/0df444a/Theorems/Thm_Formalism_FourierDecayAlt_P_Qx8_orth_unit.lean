@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_orth_unit
 -- name    : Formalism.FourierDecayAlt.P.Qx8.orth_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:31:30.615696+00:00
 -- url     : https://prove2.me/theorems/ec992fac-3e6d-4f47-9d29-c0c19aa597f0

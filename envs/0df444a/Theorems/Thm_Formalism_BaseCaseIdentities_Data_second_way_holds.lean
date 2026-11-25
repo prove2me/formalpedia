@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_second_way_holds
 -- name    : Formalism.BaseCaseIdentities.Data.second_way_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:45:11.206079+00:00
 -- url     : https://prove2.me/theorems/9dfbbe54-d3e6-47e3-b3e7-63ee08f75677

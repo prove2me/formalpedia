@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_indFun_subtype_apply
 -- name    : GroundTheory.Global.Artin.indFun_subtype_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:45:48.8015+00:00
 -- url     : https://prove2.me/theorems/061e181c-1f29-5f88-8489-a95589d3ac73

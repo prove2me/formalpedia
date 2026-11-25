@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_SZ_Slice_digitReal_compl__fb997b0ac62f
 -- name    : P2M_SZ_Slice_digitReal_compl__fb997b0ac62f
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:55:46.110801+00:00
 -- url     : https://prove2.me/theorems/84409d27-5305-5acd-9a51-b20375e36f6d

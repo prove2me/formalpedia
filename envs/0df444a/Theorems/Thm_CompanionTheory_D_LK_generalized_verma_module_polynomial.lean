@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_generalized_verma_module_polynomial
 -- name    : CompanionTheory.D.LK.generalized_verma_module_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:47.432121+00:00
 -- url     : https://prove2.me/theorems/fbe730b0-7643-42d6-97a7-abc658a015db

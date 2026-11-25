@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_layer_edges
 -- name    : ChromaticReconstruction.layer_edges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:19:45.191212+00:00
 -- url     : https://prove2.me/theorems/c6d21a85-853c-4aca-80a6-740aceb043ee

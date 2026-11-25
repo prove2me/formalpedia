@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_derivSymb_eq
 -- name    : GroundTheory.Automorphic.Sobolev.derivSymb_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:59:48.682364+00:00
 -- url     : https://prove2.me/theorems/1e0e9334-4b23-4e06-a9f7-4bc5404e221a

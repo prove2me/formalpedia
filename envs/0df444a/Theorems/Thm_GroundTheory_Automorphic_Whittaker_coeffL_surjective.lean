@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_coeffL_surjective
 -- name    : GroundTheory.Automorphic.Whittaker.coeffL_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:00:29.186275+00:00
 -- url     : https://prove2.me/theorems/227c8493-8291-4ac4-9ead-fd82524adf87

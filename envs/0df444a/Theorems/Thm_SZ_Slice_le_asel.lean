@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_le_asel
 -- name    : SZ.Slice.le_asel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:51:48.262803+00:00
 -- url     : https://prove2.me/theorems/a6a8551c-beab-580c-898f-b1dfd6324192

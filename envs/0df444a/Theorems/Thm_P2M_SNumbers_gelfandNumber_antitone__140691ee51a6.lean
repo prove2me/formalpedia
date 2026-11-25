@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_SNumbers_gelfandNumber_antitone__140691ee51a6
 -- name    : P2M_SNumbers_gelfandNumber_antitone__140691ee51a6
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:15:11.847921+00:00
 -- url     : https://prove2.me/theorems/1bdde258-4d6b-4a7a-9430-7cac06ac53db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_pe_mem_edgeSet
 -- name    : ChromaticReconstruction.pe_mem_edgeSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:48:51.782327+00:00
 -- url     : https://prove2.me/theorems/6c5a7814-428c-434f-a762-abda6fa38b68

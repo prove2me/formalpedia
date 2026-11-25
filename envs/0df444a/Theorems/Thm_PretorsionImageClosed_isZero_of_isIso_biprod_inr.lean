@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_isZero_of_isIso_biprod_inr
 -- name    : PretorsionImageClosed.isZero_of_isIso_biprod_inr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:00:58.63396+00:00
 -- url     : https://prove2.me/theorems/83ecb1ce-568a-543d-961e-7ddd17ce7290

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_Coord_aug_X
 -- name    : GlobalTheory.ChartCmp.Coord.aug_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:59:41.73626+00:00
 -- url     : https://prove2.me/theorems/1c5caf9d-88bf-4dd9-9950-d502a15b1fe4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_IsLocal_id
 -- name    : GroundTheory.Automorphic.Sobolev.IsLocal.id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:59:40.271853+00:00
 -- url     : https://prove2.me/theorems/b9f08ff9-fba2-40e4-b9e6-1cbda0fd77ab

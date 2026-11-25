@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bddBelow_entropySet
 -- name    : SNumbers.bddBelow_entropySet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:37:14.452362+00:00
 -- url     : https://prove2.me/theorems/faa6e37f-72f0-4644-8406-6ddc08f1db91

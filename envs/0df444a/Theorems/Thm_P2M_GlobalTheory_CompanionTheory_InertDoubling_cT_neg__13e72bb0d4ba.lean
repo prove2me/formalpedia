@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_InertDoubling_cT_neg__13e72bb0d4ba
 -- name    : P2M_GlobalTheory_CompanionTheory_InertDoubling_cT_neg__13e72bb0d4ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:04:01.048514+00:00
 -- url     : https://prove2.me/theorems/fdd8b9f5-de99-495d-90f4-c804a26aaa77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_padFin_projFin_apply
 -- name    : SNumbers.padFin_projFin_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:45:07.937567+00:00
 -- url     : https://prove2.me/theorems/f7613f6b-25c7-4c3c-8ece-8f00f25fb4f1

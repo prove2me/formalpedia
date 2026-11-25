@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_regBound_of_hyp
 -- name    : Formalism.FourierDecayAlt.P.B6.regBound_of_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:07:36.466836+00:00
 -- url     : https://prove2.me/theorems/17a1e382-7636-451f-8fd8-929f3894bfdf

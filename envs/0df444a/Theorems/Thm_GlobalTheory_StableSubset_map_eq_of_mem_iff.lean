@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StableSubset_map_eq_of_mem_iff
 -- name    : GlobalTheory.StableSubset.map_eq_of_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:01:52.855168+00:00
 -- url     : https://prove2.me/theorems/5bae8b91-e0c7-5a32-ad2d-cf7525c37909

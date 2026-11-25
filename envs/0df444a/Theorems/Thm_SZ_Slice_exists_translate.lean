@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_exists_translate
 -- name    : SZ.Slice.exists_translate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:56:07.682611+00:00
 -- url     : https://prove2.me/theorems/1a57b292-92b4-4780-ab9c-0e6ff78f70af

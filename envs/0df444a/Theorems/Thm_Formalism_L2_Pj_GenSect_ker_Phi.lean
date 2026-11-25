@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GenSect_ker_Phi
 -- name    : Formalism.L2.Pj.GenSect.ker_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:37:51.779916+00:00
 -- url     : https://prove2.me/theorems/fb648ae0-eec4-48e3-b5d3-028b3e7703dd

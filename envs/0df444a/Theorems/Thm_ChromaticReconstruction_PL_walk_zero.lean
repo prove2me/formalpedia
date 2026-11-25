@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_PL_walk_zero
 -- name    : ChromaticReconstruction.PL_walk_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:02:47.550862+00:00
 -- url     : https://prove2.me/theorems/98f01ded-b434-4f7a-8faf-6aac2e8c211f

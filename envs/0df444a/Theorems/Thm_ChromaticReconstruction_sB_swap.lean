@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_sB_swap
 -- name    : ChromaticReconstruction.sB_swap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:07:54.157247+00:00
 -- url     : https://prove2.me/theorems/bd9c9807-fd94-4193-a41f-f8b8767637a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_su2_adjointSq_31
 -- name    : Newton.su2_adjointSq_31
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:56:18.146432+00:00
 -- url     : https://prove2.me/theorems/da749045-8fd2-47da-97ba-b29d8d7de09e

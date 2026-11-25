@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_W_eq_residual
 -- name    : SZ.Slice.W_eq_residual
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:53:57.89607+00:00
 -- url     : https://prove2.me/theorems/eb4b8740-b29b-45a5-b8fd-08117fdaf216

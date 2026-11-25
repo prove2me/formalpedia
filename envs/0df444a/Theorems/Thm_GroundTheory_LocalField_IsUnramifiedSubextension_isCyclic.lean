@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsUnramifiedSubextension_isCyclic
 -- name    : GroundTheory.LocalField.IsUnramifiedSubextension.isCyclic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:13:12.806886+00:00
 -- url     : https://prove2.me/theorems/52b00320-5ed0-46cf-83fb-57ec844b950c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_map_conj_eq_self_of_mem
 -- name    : GroundTheory.Automorphic.map_conj_eq_self_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:09:00.479814+00:00
 -- url     : https://prove2.me/theorems/5acd3a82-b07a-4822-baad-99bfef5b9f63

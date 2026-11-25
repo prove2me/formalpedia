@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_chainII_holds
 -- name    : Formalism.BaseCaseIdentities.Data.chainII_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:43:50.415708+00:00
 -- url     : https://prove2.me/theorems/d8efb1bd-b323-4fd9-863a-a99debe46bb4

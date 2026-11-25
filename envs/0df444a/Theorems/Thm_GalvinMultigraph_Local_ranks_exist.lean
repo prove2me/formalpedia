@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_ranks_exist
 -- name    : GalvinMultigraph.Local.ranks_exist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:28:51.314047+00:00
 -- url     : https://prove2.me/theorems/2bb1075c-550c-4eae-a847-974a8db33c31

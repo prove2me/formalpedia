@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_two_le_degree_PL
 -- name    : ChromaticReconstruction.two_le_degree_PL
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:03:34.772962+00:00
 -- url     : https://prove2.me/theorems/8952357f-1ad1-4754-84e7-9da6afab4848

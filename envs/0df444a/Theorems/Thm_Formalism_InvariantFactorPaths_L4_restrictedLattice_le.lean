@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_restrictedLattice_le
 -- name    : Formalism.InvariantFactorPaths.L4.restrictedLattice_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:55:52.396021+00:00
 -- url     : https://prove2.me/theorems/2cf9e430-a227-4615-bdeb-20a58fe29e90

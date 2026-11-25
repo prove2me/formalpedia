@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_Isometric_disc_eq
 -- name    : GroundTheory.Automorphic.HermitianForm.Isometric.disc_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:16:20.472409+00:00
 -- url     : https://prove2.me/theorems/a34c6acb-3df6-4a66-a136-7468e88cc42b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__FreeQuot_IsFppfTorsor_existsUnique_smul_0af5c6c57843
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__FreeQuot_IsFppfTorsor_existsUnique_smul_0af5c6c57843
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:03:46.867529+00:00
 -- url     : https://prove2.me/theorems/1d45785a-a0b2-4fc4-93ec-5e99046d9a8d

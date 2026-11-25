@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_gD_spec
 -- name    : Formalism.LFunctionChainParameters.LChain2.gD_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:58:14.942466+00:00
 -- url     : https://prove2.me/theorems/957b809d-a8ec-5ec1-bf69-8bf79c847072

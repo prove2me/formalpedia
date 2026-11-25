@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_node_st_of_not_branching
 -- name    : SZ.node_st_of_not_branching
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:37:20.184804+00:00
 -- url     : https://prove2.me/theorems/b5cc3145-9a37-5880-8000-62dba87a7372

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_CosetIndexLemmas_round_window_eventual
 -- name    : Formalism.LFunctionChainParameters.CosetIndexLemmas.round_window_eventual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:46:44.572859+00:00
 -- url     : https://prove2.me/theorems/cc6cf9e3-e4d7-4c9a-808d-d8afa7f306bc

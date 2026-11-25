@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_unitsMap_eq_one_iff
 -- name    : Formalism.LFunctionChainParameters.LHost.unitsMap_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:24:12.201834+00:00
 -- url     : https://prove2.me/theorems/39cc51b2-67b7-455f-a263-02a1b515cc75

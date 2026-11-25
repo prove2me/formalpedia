@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_IsPrekernel_of_iso_left
 -- name    : PretorsionImageClosed.Statement.IsPrekernel.of_iso_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:56:06.05581+00:00
 -- url     : https://prove2.me/theorems/c5dec744-42bf-4f9a-8af8-1687951f782d

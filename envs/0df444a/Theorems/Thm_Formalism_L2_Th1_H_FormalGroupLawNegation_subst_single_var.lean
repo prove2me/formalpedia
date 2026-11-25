@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_FormalGroupLawNegation_subst_single_var
 -- name    : Formalism.L2.Th1.H.FormalGroupLawNegation.subst_single_var
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:49:57.634002+00:00
 -- url     : https://prove2.me/theorems/15dda93b-37fb-42c9-88b1-d84fc559bb96

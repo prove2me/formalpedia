@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_colorable_iff
 -- name    : GalvinMultigraph.colorable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:58:31.482832+00:00
 -- url     : https://prove2.me/theorems/393cdb7e-4d7e-4e77-b204-f1e31140b2c8

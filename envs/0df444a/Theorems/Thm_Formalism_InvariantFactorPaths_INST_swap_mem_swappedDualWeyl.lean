@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_swap_mem_swappedDualWeyl
 -- name    : Formalism.InvariantFactorPaths.INST.swap_mem_swappedDualWeyl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:58:11.702649+00:00
 -- url     : https://prove2.me/theorems/ba1e0412-9764-5c6f-99b1-9b4e3a3e2dc8

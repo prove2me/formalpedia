@@ -16527,10 +16527,10 @@
 {"parent": "ReciprocityTheory.L2DbarEstimates.Y.top_add_one_le_top", "child": "ReciprocityTheory_L2DbarEstimates_PlurisubharmonicCharts_IteratedFDerivEqZeroOfIsBigO", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.L2DbarEstimates.Y.top_add_one_le_top", "child": "Lemmata_CharacterDirections_Cdir", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.L2DbarEstimates.Y.top_add_one_le_top", "child": "ReciprocityTheory_L2DbarEstimates_PlurisubharmonicCharts_GROWCountStatement", "via": ["solution", "statement"]}
-{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.killAddValCol_of", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_CIndEncPf", "via": ["statement"]}
-{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.killAddValCol_of", "child": "Formalism_LocalToGlobal_ProjectiveLattices_IsExpChart", "via": ["statement"]}
-{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.killAddValCol_of", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_KillAdd", "via": ["statement"]}
-{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.killAddValCol_of", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_ConstantCoeffPolyAdd", "via": ["statement"]}
+{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.killAddValCol_of", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_CIndEncPf", "via": ["solution", "statement"]}
+{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.killAddValCol_of", "child": "Formalism_LocalToGlobal_ProjectiveLattices_IsExpChart", "via": ["solution", "statement"]}
+{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.killAddValCol_of", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_KillAdd", "via": ["solution", "statement"]}
+{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.killAddValCol_of", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_ConstantCoeffPolyAdd", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Pj.Crude.crRho_monomial", "child": "Formalism_LocalToGlobal_ProjectiveLattices_CrudeMin", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Pj.Crude.crRho_monomial", "child": "Formalism_LocalToGlobal_ProjectiveLattices_RowDeg", "via": ["solution", "statement"]}
 {"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.GermD.val_genPowG", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermCut", "via": ["solution", "statement"]}
@@ -18499,12 +18499,12 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormEqZpowOfMemMaxUnramifiedSubfieldStatement", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_HTBasis", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormEqZpowOfMemMaxUnramifiedSubfieldStatement", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormEqZpowOfMemMaxUnramifiedSubfield", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormEqZpowOfMemMaxUnramifiedSubfieldStatement", "child": "Formalism_SharpRestriction_LevelLetterCocycles_DataNLoc", "via": ["statement"]}
-{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.isExpOf_expPhi", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_ExpLaw", "via": ["statement"]}
-{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.isExpOf_expPhi", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_ActLin", "via": ["statement"]}
-{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.isExpOf_expPhi", "child": "ReciprocityTheory.ChartRestriction.G.TB.LogPf.CZ.pt", "via": ["statement"]}
-{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.isExpOf_expPhi", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_PderivSecondEvFirstPointEqZero", "via": ["statement"]}
-{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.isExpOf_expPhi", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_ExpOfPf", "via": ["statement"]}
-{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.isExpOf_expPhi", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_ExpTie", "via": ["statement"]}
+{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.isExpOf_expPhi", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_ExpLaw", "via": ["solution", "statement"]}
+{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.isExpOf_expPhi", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_ActLin", "via": ["solution", "statement"]}
+{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.isExpOf_expPhi", "child": "ReciprocityTheory.ChartRestriction.G.TB.LogPf.CZ.pt", "via": ["solution", "statement"]}
+{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.isExpOf_expPhi", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_PderivSecondEvFirstPointEqZero", "via": ["solution", "statement"]}
+{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.isExpOf_expPhi", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_ExpOfPf", "via": ["solution", "statement"]}
+{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.isExpOf_expPhi", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_ExpTie", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SplitsInCMFieldTwoPrimesDegreeOneStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ValIotaLeOfMem", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SplitsInCMFieldTwoPrimesDegreeOneStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SplitsInCMFieldTwoPrimesDegreeOne", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SplitsInCMFieldTwoPrimesDegreeOneStatement", "child": "Formalism_PairingDivisors_StatementA", "via": ["statement"]}
@@ -80695,11 +80695,11 @@
 {"parent": "GroundTheory_AutomorphicForms_HarishChandraRegularity_ContDiffCompCoordEquiv", "child": "GroundTheory_AutomorphicForms_GKModules_RightRegular", "via": ["statement"]}
 {"parent": "GroundTheory_AutomorphicForms_HarishChandraRegularity_ContDiffCompCoordEquiv", "child": "GroundTheory.Automorphic.UnitaryRep.IsEquivalent.symm", "via": ["statement"]}
 {"parent": "GroundTheory_AutomorphicForms_HarishChandraRegularity_ContDiffCompCoordEquiv", "child": "GroundTheory.Automorphic.UnitaryRep.IsEquivalent.trans", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.H.herm_scale", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_Th0CharMulOpUTh0HalfPeriodEq", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.H.herm_scale", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_QuadraticSemicharactersFactAltForm", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.H.herm_scale", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_ScalePairMulMulEq", "via": ["statement"]}
+{"parent": "Formalism.L2.Th1.H.herm_scale", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_Th0CharMulOpUTh0HalfPeriodEq", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.H.herm_scale", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_QuadraticSemicharactersFactAltForm", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.H.herm_scale", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_ScalePairMulMulEq", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.H.herm_scale", "child": "Formalism.L2.Th1.F.Homog.herm_scale", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.H.herm_scale", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_MulStableIntegral", "via": ["statement"]}
+{"parent": "Formalism.L2.Th1.H.herm_scale", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_MulStableIntegral", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.iteratedFDeriv_left_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ContinuousOnIteratedFDerivTranslate", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.iteratedFDeriv_left_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ContDiffOnSecondCayleyBlockEntries", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.iteratedFDeriv_left_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_IteratedFderivRightTranslation", "via": ["solution", "statement"]}
@@ -91146,9 +91146,9 @@
 {"parent": "GlobalTheory.JR.NormalFormL.charpoly_companion_coeff", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_FourierMatch", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3x6.d_fconj_mul", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RestrictOrthogonalComplementNondeg", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3x6.d_fconj_mul", "child": "Formalism_HermitianCurvature_MemParahoricTimesPrincipalCongruenceIff", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.CompanionTheory.HCdecomp.hcdec", "child": "Formalism_RealPlaceAnalysis_ThirdArithmeticHolds", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.HCdecomp.hcdec", "child": "CompanionTheory_HarishChandraModules_LowKTypeMultiplicity_EigenspaceCyclicDensity_LowKMultOneP", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.HCdecomp.hcdec", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_StableLattices_InNOfMem", "via": ["statement"]}
+{"parent": "GlobalTheory.CompanionTheory.HCdecomp.hcdec", "child": "Formalism_RealPlaceAnalysis_ThirdArithmeticHolds", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.HCdecomp.hcdec", "child": "CompanionTheory_HarishChandraModules_LowKTypeMultiplicity_EigenspaceCyclicDensity_LowKMultOneP", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.HCdecomp.hcdec", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_StableLattices_InNOfMem", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.OrderChainWeights.chainWeight_snoc", "child": "Formalism_HermitianCurvature_MemParahoricTimesPrincipalCongruenceIff", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.OrderChainWeights.chainWeight_snoc", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrderChainWeights", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CuspGL.irreducible_dvd_of_dvd_charpoly_of_aeval_eq_zero", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_EqZeroOfNotPrimary", "via": ["solution", "statement"]}

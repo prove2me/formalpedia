@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_asel_dvd
 -- name    : SZ.Slice.asel_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:48:47.477156+00:00
 -- url     : https://prove2.me/theorems/f93f8cd0-28a3-47b0-8516-30e4dc2df799

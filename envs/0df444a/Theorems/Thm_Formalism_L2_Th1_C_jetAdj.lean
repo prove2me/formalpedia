@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_jetAdj
 -- name    : Formalism.L2.Th1.C.jetAdj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:38:55.667218+00:00
 -- url     : https://prove2.me/theorems/004e1221-7aec-5320-9dba-bfc82332bd26

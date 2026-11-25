@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_HurwitzJetIntegrality_coeff_inBlock_embDomain
 -- name    : Formalism.L2.Th1.G.HurwitzJetIntegrality.coeff_inBlock_embDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:35:51.780803+00:00
 -- url     : https://prove2.me/theorems/155f7a27-d422-445e-953c-faa3bef9ac5e

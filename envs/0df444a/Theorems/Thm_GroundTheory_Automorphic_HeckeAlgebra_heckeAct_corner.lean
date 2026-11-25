@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HeckeAlgebra_heckeAct_corner
 -- name    : GroundTheory.Automorphic.HeckeAlgebra.heckeAct_corner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:44:51.806597+00:00
 -- url     : https://prove2.me/theorems/d1f5af8e-afb8-49e9-8ba2-df2919b9056f

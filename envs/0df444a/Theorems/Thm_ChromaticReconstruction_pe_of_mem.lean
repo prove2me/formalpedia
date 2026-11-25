@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_pe_of_mem
 -- name    : ChromaticReconstruction.pe_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:17:32.048795+00:00
 -- url     : https://prove2.me/theorems/d91fcbff-4c0c-4e19-82b4-03eb1c243615

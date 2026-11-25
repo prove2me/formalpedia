@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_layer_card
 -- name    : ChromaticReconstruction.layer_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:19:40.614502+00:00
 -- url     : https://prove2.me/theorems/cbef4170-7243-4786-9bb2-cefbc2f96281

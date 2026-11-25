@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_solve_exists_vector
 -- name    : Formalism.FG.solve_exists_vector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:24:24.972664+00:00
 -- url     : https://prove2.me/theorems/73cf5ac6-985e-40d1-8836-7446762e164f

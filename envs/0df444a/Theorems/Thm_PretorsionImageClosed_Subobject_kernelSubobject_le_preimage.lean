@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Subobject_kernelSubobject_le_preimage
 -- name    : PretorsionImageClosed.Subobject.kernelSubobject_le_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:46:17.489394+00:00
 -- url     : https://prove2.me/theorems/cb519195-50f7-400e-877b-562acba13ebb

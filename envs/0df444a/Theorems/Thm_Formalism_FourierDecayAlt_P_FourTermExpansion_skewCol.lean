@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FourTermExpansion_skewCol
 -- name    : Formalism.FourierDecayAlt.P.FourTermExpansion.skewCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:04:50.827797+00:00
 -- url     : https://prove2.me/theorems/dbdaf5ba-0f21-4bd4-8a6d-ad3a61a632e7

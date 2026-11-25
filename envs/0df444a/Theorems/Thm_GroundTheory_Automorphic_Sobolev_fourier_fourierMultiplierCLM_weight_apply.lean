@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_fourier_fourierMultiplierCLM_weight_apply
 -- name    : GroundTheory.Automorphic.Sobolev.fourier_fourierMultiplierCLM_weight_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:51:53.441821+00:00
 -- url     : https://prove2.me/theorems/46a063e0-6937-41b3-819c-3acf039b184d

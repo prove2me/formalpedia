@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_evenDigit_pick
 -- name    : SZ.evenDigit_pick
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:33:20.848005+00:00
 -- url     : https://prove2.me/theorems/16f5cfd9-0a5a-4daf-ae44-61d442279530

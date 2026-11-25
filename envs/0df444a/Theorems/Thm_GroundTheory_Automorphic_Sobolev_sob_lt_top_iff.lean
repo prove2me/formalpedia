@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_sob_lt_top_iff
 -- name    : GroundTheory.Automorphic.Sobolev.sob_lt_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:51:33.181427+00:00
 -- url     : https://prove2.me/theorems/bcdda0a9-dd66-4674-8f43-a0361f383621

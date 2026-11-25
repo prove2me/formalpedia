@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_degree_matrixCSA
 -- name    : GroundTheory.Brauer.degree_matrixCSA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:30:27.039401+00:00
 -- url     : https://prove2.me/theorems/4fed407d-05a0-433f-85a2-94fc7f4d6553

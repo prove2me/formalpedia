@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Subobject_exists_minimal_of_nonempty
 -- name    : PretorsionImageClosed.Subobject.exists_minimal_of_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:12:25.623877+00:00
 -- url     : https://prove2.me/theorems/97f70d85-2c9e-4117-bdab-68af78274bc4

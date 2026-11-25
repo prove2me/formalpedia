@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_trace_conjTranspose_mul_self_re_pos_of_ne_zero
 -- name    : Newton.trace_conjTranspose_mul_self_re_pos_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:46:59.690503+00:00
 -- url     : https://prove2.me/theorems/35b8e169-a1df-4099-bdec-71309000cb74
