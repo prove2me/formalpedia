@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_isSchur_of_dense
 -- name    : Formalism.L2.S.Pv.SchurTens.isSchur_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:16:45.65725+00:00
 -- url     : https://prove2.me/theorems/f15a50c6-39f1-4c6d-9872-aaa2877d5b94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PlacesInt_intCast_isUnit_almost_all
 -- name    : GlobalTheory.HL.PlacesInt.intCast_isUnit_almost_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:35:58.997405+00:00
 -- url     : https://prove2.me/theorems/0e94f66b-ca69-53b8-b5f6-3138d8f5546e

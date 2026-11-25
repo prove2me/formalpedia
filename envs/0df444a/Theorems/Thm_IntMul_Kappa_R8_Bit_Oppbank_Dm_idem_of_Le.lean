@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_Dm_idem_of_Le
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.Dm_idem_of_Le
--- status  : Open
+-- status  : Proved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T18:51:26.687988+00:00
 -- url     : https://prove2.me/theorems/5f85da9b-6c3d-4f15-8f3c-8e749c763449

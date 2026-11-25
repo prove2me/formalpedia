@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateIsoH_tateCup
 -- name    : GroundTheory.GroupCoh.tateIsoH_tateCup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:37:56.188001+00:00
 -- url     : https://prove2.me/theorems/b441f822-5159-5259-9d33-14e850619e2b

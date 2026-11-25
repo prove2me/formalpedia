@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_SP_swap
 -- name    : Formalism.L2.S.Pv.SchurTens.SP_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:10:23.922392+00:00
 -- url     : https://prove2.me/theorems/7a0a4e4c-dd11-4bbd-8eb1-0b621cc1b1dd

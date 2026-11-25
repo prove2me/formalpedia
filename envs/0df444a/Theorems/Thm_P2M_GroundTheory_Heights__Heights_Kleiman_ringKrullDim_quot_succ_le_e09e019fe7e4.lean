@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ringKrullDim_quot_succ_le_e09e019fe7e4
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ringKrullDim_quot_succ_le_e09e019fe7e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:02:29.479588+00:00
 -- url     : https://prove2.me/theorems/d6cd1944-4dfe-40a2-b570-bb71370d0a4c

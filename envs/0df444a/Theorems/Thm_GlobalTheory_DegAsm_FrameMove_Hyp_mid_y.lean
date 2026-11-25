@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameMove_Hyp_mid_y
 -- name    : GlobalTheory.DegAsm.FrameMove.Hyp.mid_y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:35:13.0338+00:00
 -- url     : https://prove2.me/theorems/4f64a6cf-2d62-4e4d-902c-a9414f271148

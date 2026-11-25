@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_upperKer_isMultiHomogIdeal_e43b0d28821a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_upperKer_isMultiHomogIdeal_e43b0d28821a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:45:56.962539+00:00
 -- url     : https://prove2.me/theorems/81d33024-7015-5351-9e58-34708eaf8cd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_le_sum_of_prod_ne_zero_379ccba448f3
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_le_sum_of_prod_ne_zero_379ccba448f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:01:08.240112+00:00
 -- url     : https://prove2.me/theorems/bbba957d-ef22-4c90-b1f8-6161719a38a6

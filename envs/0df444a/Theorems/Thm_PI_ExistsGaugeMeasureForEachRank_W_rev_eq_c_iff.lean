@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_rev_eq_c_iff
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.rev_eq_c_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:09:24.221867+00:00
 -- url     : https://prove2.me/theorems/187365bc-f606-4d5d-8d24-92c0e94e9951

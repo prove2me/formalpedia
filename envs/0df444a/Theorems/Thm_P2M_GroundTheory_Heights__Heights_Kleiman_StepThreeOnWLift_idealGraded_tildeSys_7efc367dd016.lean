@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepThreeOnWLift_idealGraded_tildeSys_7efc367dd016
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepThreeOnWLift_idealGraded_tildeSys_7efc367dd016
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:59:54.789336+00:00
 -- url     : https://prove2.me/theorems/0f90fc45-b748-496b-bc19-629a51ef2360

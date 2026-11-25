@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_zfr_cZ
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.zfr_cZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:16:15.667018+00:00
 -- url     : https://prove2.me/theorems/163ccd19-bf15-5ceb-a3d9-7350abad06de

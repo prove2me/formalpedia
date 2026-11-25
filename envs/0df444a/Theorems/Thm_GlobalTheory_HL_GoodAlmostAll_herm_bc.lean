@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodAlmostAll_herm_bc
 -- name    : GlobalTheory.HL.GoodAlmostAll.herm_bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:07:42.125584+00:00
 -- url     : https://prove2.me/theorems/805ffa0a-214a-4acc-baf7-cf2225cf2607

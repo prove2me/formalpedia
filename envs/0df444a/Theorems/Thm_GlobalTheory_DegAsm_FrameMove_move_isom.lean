@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameMove_move_isom
 -- name    : GlobalTheory.DegAsm.FrameMove.move_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:23:03.406081+00:00
 -- url     : https://prove2.me/theorems/4070a76c-4d53-5466-938f-56a2f38197c7

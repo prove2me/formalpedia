@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_proof_ad209974f87b
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_proof_ad209974f87b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:40:58.193776+00:00
 -- url     : https://prove2.me/theorems/1e023298-333a-497f-95d3-9f7a1a7e2c37

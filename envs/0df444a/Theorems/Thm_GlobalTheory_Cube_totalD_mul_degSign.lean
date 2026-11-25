@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_totalD_mul_degSign
 -- name    : GlobalTheory.Cube.totalD_mul_degSign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:36:15.462438+00:00
 -- url     : https://prove2.me/theorems/7f3a6231-3cd3-4cf6-a8f7-d21321217ad7

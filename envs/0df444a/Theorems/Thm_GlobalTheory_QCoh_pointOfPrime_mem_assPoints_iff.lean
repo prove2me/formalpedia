@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_pointOfPrime_mem_assPoints_iff
 -- name    : GlobalTheory.QCoh.pointOfPrime_mem_assPoints_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:06:17.669812+00:00
 -- url     : https://prove2.me/theorems/72cc3b93-cba4-4824-9f5a-176ad1c00bcd

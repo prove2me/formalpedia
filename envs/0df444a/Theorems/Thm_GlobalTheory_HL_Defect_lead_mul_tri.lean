@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Defect_lead_mul_tri
 -- name    : GlobalTheory.HL.Defect.lead_mul_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:30:26.554328+00:00
 -- url     : https://prove2.me/theorems/00dbfd92-62ba-582a-87cd-e64c4aba9a56

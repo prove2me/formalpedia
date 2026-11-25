@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HL_GoodAlmostAll_cj___6605cd95568a
 -- name    : P2M_GlobalTheory_HL_GoodAlmostAll_cj___6605cd95568a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:00:56.168092+00:00
 -- url     : https://prove2.me/theorems/d12f0215-da28-56dc-83bf-806a4315b8e6

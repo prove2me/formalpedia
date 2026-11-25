@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_trans_isom
 -- name    : GlobalTheory.DegCnt.LiftS.trans_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:39:18.405273+00:00
 -- url     : https://prove2.me/theorems/ae11247d-fe48-47d2-9c82-ddbb99f769a7

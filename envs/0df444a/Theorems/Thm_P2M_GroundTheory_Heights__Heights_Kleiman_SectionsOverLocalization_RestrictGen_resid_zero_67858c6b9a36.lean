@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_RestrictGen_resid_zero_67858c6b9a36
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_RestrictGen_resid_zero_67858c6b9a36
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:57:56.693798+00:00
 -- url     : https://prove2.me/theorems/f0535731-fb8b-4ac0-a603-68605c806731

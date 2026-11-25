@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_isDIntegral_inv_smul_2409b0090b71
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_isDIntegral_inv_smul_2409b0090b71
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:04:26.608229+00:00
 -- url     : https://prove2.me/theorems/931182c2-9f3f-519e-b7f4-6ecd07070a7a

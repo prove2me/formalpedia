@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DivisibleGauss_share_and_gauss_sum
 -- name    : GlobalTheory.HL.DivisibleGauss.share_and_gauss_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:29:42.740371+00:00
 -- url     : https://prove2.me/theorems/b524eba5-fd4f-565f-ac81-26a22415b890

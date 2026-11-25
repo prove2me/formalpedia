@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickOrbit_cT_mul
 -- name    : GlobalTheory.ThickOrbit.cT_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:51:32.429462+00:00
 -- url     : https://prove2.me/theorems/e61ef557-da7f-57b8-8a2d-8c1a76fe649e

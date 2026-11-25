@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_splitCasimirDual_apply
 -- name    : GlobalTheory.WigSh.splitCasimirDual_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:48:24.113319+00:00
 -- url     : https://prove2.me/theorems/26c2c064-fb11-5c8c-9901-c3c0d4a4d0bc

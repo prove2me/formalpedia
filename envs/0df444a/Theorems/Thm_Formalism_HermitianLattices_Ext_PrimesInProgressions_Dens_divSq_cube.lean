@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_divSq_cube
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.divSq_cube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:19:37.567824+00:00
 -- url     : https://prove2.me/theorems/43c6add3-e99f-5678-a3b3-76ba2b6d2954

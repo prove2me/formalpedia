@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveTotal_mem_refB
 -- name    : GlobalTheory.HL.MoveTotal.mem_refB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:53:00.792828+00:00
 -- url     : https://prove2.me/theorems/b22e7d1c-eb25-4b45-886e-7f4cd18ebe27

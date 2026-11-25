@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_exists_fibreLift_075fadd65d1e
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_exists_fibreLift_075fadd65d1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:53:44.433431+00:00
 -- url     : https://prove2.me/theorems/b246a9fe-b11c-55b3-b919-871d4d7c3b8b

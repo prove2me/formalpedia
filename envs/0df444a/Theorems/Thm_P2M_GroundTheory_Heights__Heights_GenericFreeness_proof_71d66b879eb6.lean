@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericFreeness_proof_71d66b879eb6
 -- name    : P2M_GroundTheory_Heights__Heights_GenericFreeness_proof_71d66b879eb6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:17:29.707285+00:00
 -- url     : https://prove2.me/theorems/fc097775-562a-5ebb-bf30-829c59abab66

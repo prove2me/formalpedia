@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_map_f___apply_291461d878e9
 -- name    : P2M_GroundTheory_GroupCoh_map_f___apply_291461d878e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:52:22.654784+00:00
 -- url     : https://prove2.me/theorems/253ad0ab-fa05-5367-999a-1b873c8d6d74

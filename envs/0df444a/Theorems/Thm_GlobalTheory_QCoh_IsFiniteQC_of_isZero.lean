@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_IsFiniteQC_of_isZero
 -- name    : GlobalTheory.QCoh.IsFiniteQC.of_isZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:04:38.549316+00:00
 -- url     : https://prove2.me/theorems/aca4ef8e-4ef4-451d-a328-07e7aad3f830

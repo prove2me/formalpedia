@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_RestrictGenerated_exists_of_mem_430a486d49f9
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_RestrictGenerated_exists_of_mem_430a486d49f9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:59:24.126054+00:00
 -- url     : https://prove2.me/theorems/12f04d23-b0d0-57e0-98bf-110f3682ab5f

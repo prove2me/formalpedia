@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_antisymmetrize_blockVandermonde_e253c2e15948
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_antisymmetrize_blockVandermonde_e253c2e15948
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:50.725827+00:00
 -- url     : https://prove2.me/theorems/cd528d3e-05c0-4afb-8181-6e66917db14a

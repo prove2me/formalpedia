@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuSpan_hq_apply
 -- name    : GlobalTheory.CompanionTheory.BmuSpan.hq_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:05:02.424439+00:00
 -- url     : https://prove2.me/theorems/f981fb57-1e22-5a98-a053-a82ff29644f1

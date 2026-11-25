@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_map_mul_left_eq_smul
 -- name    : GroundTheory.LocalField.map_mul_left_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:27:11.561732+00:00
 -- url     : https://prove2.me/theorems/67cf9999-9c8d-47b7-a219-2bb7c7dbc9c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_retraction_tensor_ranges
 -- name    : GlobalTheory.exists_retraction_tensor_ranges
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:49:33.639474+00:00
 -- url     : https://prove2.me/theorems/28fd48b7-133a-46bf-bdab-054923c9fc83

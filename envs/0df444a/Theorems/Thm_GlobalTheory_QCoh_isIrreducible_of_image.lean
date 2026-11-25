@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isIrreducible_of_image
 -- name    : GlobalTheory.QCoh.isIrreducible_of_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:03:36.060644+00:00
 -- url     : https://prove2.me/theorems/624028da-e082-5a84-8cd5-5e52fb644aac

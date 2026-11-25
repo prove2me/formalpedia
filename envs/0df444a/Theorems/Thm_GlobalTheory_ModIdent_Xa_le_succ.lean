@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_Xa_le_succ
 -- name    : GlobalTheory.ModIdent.Xa_le_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:43:18.692178+00:00
 -- url     : https://prove2.me/theorems/189d1dd2-ac7c-5d64-b344-06423e3ab2c0

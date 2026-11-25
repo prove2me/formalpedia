@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_expMeasureComplexTransform
 -- name    : Kyprianou.Ch04.expMeasureComplexTransform
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T07:56:47.840843+00:00
 -- url     : https://prove2.me/theorems/b66a5349-d6a4-40f0-b6f0-f9c4a0de570e

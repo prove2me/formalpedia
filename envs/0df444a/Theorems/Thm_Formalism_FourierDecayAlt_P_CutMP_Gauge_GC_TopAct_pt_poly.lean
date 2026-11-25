@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_TopAct_pt_poly
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.TopAct.pt_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:16:49.628449+00:00
 -- url     : https://prove2.me/theorems/8f8d7c6d-10e1-53d5-a87d-4deaf7f7c4e4

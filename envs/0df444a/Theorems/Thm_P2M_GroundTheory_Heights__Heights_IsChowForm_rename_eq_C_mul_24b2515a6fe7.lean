@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IsChowForm_rename_eq_C_mul_24b2515a6fe7
 -- name    : P2M_GroundTheory_Heights__Heights_IsChowForm_rename_eq_C_mul_24b2515a6fe7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:44:03.76996+00:00
 -- url     : https://prove2.me/theorems/6c670688-e575-461d-93b7-011633aec2da

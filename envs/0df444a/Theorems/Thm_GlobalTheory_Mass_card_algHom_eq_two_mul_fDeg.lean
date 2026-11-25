@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_card_algHom_eq_two_mul_fDeg
 -- name    : GlobalTheory.Mass.card_algHom_eq_two_mul_fDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:41:38.055826+00:00
 -- url     : https://prove2.me/theorems/80b3c2a2-aefe-48f9-b616-e878f04e7289

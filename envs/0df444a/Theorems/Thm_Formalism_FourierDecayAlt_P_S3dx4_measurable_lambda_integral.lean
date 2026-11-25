@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_measurable_lambda_integral
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.measurable_lambda_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:16:48.682283+00:00
 -- url     : https://prove2.me/theorems/9faa40bf-4c59-4fba-b540-27eda6c51a9a

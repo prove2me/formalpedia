@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockImage_mConeMap_rename_12896742ddc3
 -- name    : P2M_GroundTheory_Heights__Heights_BlockImage_mConeMap_rename_12896742ddc3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:54:37.921435+00:00
 -- url     : https://prove2.me/theorems/0428fc5a-f4df-4556-8046-720b3b1727fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperHyperplaneMid_not_mem_of_mem_monos_7b959cd146fb
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperHyperplaneMid_not_mem_of_mem_monos_7b959cd146fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:01:22.472462+00:00
 -- url     : https://prove2.me/theorems/c4393dd9-82a3-5fe0-9600-1150ccaad484

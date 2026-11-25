@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CloseTuples_exists_cayley
 -- name    : GlobalTheory.HL.CloseTuples.exists_cayley
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:44:11.970882+00:00
 -- url     : https://prove2.me/theorems/3b8cf8d4-1534-4672-896f-627806390a33

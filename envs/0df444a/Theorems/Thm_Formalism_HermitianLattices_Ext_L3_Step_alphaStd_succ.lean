@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Step_alphaStd_succ
 -- name    : Formalism.HermitianLattices.Ext.L3.Step.alphaStd_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:57:58.041819+00:00
 -- url     : https://prove2.me/theorems/d782af82-27a9-4090-9d50-3df00cdf0f58

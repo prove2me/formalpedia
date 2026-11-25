@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isSMulRegular_sections_iff
 -- name    : GlobalTheory.QCoh.isSMulRegular_sections_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:04:33.788676+00:00
 -- url     : https://prove2.me/theorems/149d21aa-78df-5815-8ba5-7671114ec231

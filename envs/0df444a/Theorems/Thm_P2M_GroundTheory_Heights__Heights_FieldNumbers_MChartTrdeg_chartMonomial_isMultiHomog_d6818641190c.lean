@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartTrdeg_chartMonomial_isMultiHomog_d6818641190c
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartTrdeg_chartMonomial_isMultiHomog_d6818641190c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:52:18.344437+00:00
 -- url     : https://prove2.me/theorems/3657233c-008f-4bd3-aea9-07f5f9a5e145

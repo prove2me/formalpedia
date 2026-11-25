@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_sum_coef_mul_eq_pair
 -- name    : GlobalTheory.CuspGL.sum_coef_mul_eq_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:30:15.797801+00:00
 -- url     : https://prove2.me/theorems/5a564247-0995-5844-8393-cc22568e1ba3

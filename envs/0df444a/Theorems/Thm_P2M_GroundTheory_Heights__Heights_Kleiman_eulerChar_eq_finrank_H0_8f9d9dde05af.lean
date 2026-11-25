@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_eulerChar_eq_finrank_H0_8f9d9dde05af
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_eulerChar_eq_finrank_H0_8f9d9dde05af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:01:55.9738+00:00
 -- url     : https://prove2.me/theorems/29523fe1-77ee-410a-b927-e13fed296f5e

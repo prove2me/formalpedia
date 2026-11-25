@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPoint_coordGraded_le_secs_e4173d0b1c52
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPoint_coordGraded_le_secs_e4173d0b1c52
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:55:53.367313+00:00
 -- url     : https://prove2.me/theorems/73a01f45-f71f-42be-b984-96e32d0fb79c

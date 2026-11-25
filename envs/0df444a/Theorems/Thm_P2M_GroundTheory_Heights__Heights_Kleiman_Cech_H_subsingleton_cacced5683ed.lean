@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_H_subsingleton_cacced5683ed
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Cech_H_subsingleton_cacced5683ed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:53:35.287868+00:00
 -- url     : https://prove2.me/theorems/ba30da71-7f30-418c-aab8-0e617e32621b

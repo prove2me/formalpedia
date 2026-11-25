@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_finite_assPoints_inter_affine
 -- name    : GlobalTheory.QCoh.finite_assPoints_inter_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:09:42.572462+00:00
 -- url     : https://prove2.me/theorems/012a4ca8-a53f-454c-8eae-7a50269ae05d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_aeval_eisensteinPoly
 -- name    : GroundTheory.Global.Elliptic.aeval_eisensteinPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:48:39.200017+00:00
 -- url     : https://prove2.me/theorems/6954d5a6-945b-418c-9ee5-029b1fb96634

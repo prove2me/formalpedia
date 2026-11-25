@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Domination_div_mem_of_mem_pullPow_8800596b5cce
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Domination_div_mem_of_mem_pullPow_8800596b5cce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:59:20.633062+00:00
 -- url     : https://prove2.me/theorems/abf9edcf-8989-4f87-9e05-2cd877e75734

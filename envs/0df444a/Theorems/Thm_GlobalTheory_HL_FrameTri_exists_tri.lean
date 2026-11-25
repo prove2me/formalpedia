@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameTri_exists_tri
 -- name    : GlobalTheory.HL.FrameTri.exists_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:37:42.861967+00:00
 -- url     : https://prove2.me/theorems/3377b030-b74d-5766-b143-a09b9b7eac53

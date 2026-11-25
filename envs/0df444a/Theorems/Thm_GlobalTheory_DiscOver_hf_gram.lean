@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscOver_hf_gram
 -- name    : GlobalTheory.DiscOver.hf_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:39:39.471403+00:00
 -- url     : https://prove2.me/theorems/2fdb7884-7e70-42e9-8c8c-628419c430c4

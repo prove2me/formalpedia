@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FamilyVol_exists_basis
 -- name    : GlobalTheory.HL.FamilyVol.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:41:51.993391+00:00
 -- url     : https://prove2.me/theorems/2d91cb0a-91d7-4be7-9c35-9491060c1281

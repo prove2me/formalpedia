@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PrimVol_form_smul_right
 -- name    : GlobalTheory.HL.PrimVol.form_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:03:59.654315+00:00
 -- url     : https://prove2.me/theorems/4dbc4c8f-8192-598e-b2eb-554312057a4d

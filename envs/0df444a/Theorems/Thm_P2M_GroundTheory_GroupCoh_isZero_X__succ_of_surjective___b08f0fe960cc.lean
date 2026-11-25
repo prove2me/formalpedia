@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_isZero_X__succ_of_surjective___b08f0fe960cc
 -- name    : P2M_GroundTheory_GroupCoh_isZero_X__succ_of_surjective___b08f0fe960cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:53:53.542698+00:00
 -- url     : https://prove2.me/theorems/6fa7a487-ce84-4f2b-af2d-341610f76f49

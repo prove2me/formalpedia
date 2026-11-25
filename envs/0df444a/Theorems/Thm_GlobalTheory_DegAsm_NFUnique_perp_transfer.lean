@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_NFUnique_perp_transfer
 -- name    : GlobalTheory.DegAsm.NFUnique.perp_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:34:56.08192+00:00
 -- url     : https://prove2.me/theorems/83330b0d-71c2-4b6f-b7e7-895c2b85a911

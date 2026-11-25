@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_subsingleton_cohomology_of_subsingleton
 -- name    : GroundTheory.ProfCoh.subsingleton_cohomology_of_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:37:40.845909+00:00
 -- url     : https://prove2.me/theorems/f367a6ab-256e-4ad4-8b5f-98a7a30dca24

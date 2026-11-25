@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_blockSpecial_monomial_ab1e8c92d616
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_blockSpecial_monomial_ab1e8c92d616
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:51:56.375834+00:00
 -- url     : https://prove2.me/theorems/bfd2fe2d-1736-5c31-a862-dedb1cc8eed9

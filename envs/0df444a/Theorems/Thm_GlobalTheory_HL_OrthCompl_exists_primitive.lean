@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OrthCompl_exists_primitive
 -- name    : GlobalTheory.HL.OrthCompl.exists_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:35:47.634186+00:00
 -- url     : https://prove2.me/theorems/27d727bd-8b57-57d2-8d9c-cf1abad1fde8

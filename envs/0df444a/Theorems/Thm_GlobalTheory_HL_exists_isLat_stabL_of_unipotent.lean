@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_exists_isLat_stabL_of_unipotent
 -- name    : GlobalTheory.HL.exists_isLat_stabL_of_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:33:52.860079+00:00
 -- url     : https://prove2.me/theorems/376ffa65-32a8-438f-b13b-0cb69b6a06bf

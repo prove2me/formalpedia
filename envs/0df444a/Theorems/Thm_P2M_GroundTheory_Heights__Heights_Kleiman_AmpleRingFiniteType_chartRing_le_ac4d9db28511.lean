@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_AmpleRingFiniteType_chartRing_le_ac4d9db28511
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_AmpleRingFiniteType_chartRing_le_ac4d9db28511
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:58:55.517734+00:00
 -- url     : https://prove2.me/theorems/98c06613-c50d-44fe-be35-dbf9b24bc0e0

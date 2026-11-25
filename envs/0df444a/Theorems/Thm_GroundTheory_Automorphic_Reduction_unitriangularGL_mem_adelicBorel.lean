@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_unitriangularGL_mem_adelicBorel
 -- name    : GroundTheory.Automorphic.Reduction.unitriangularGL_mem_adelicBorel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:49:50.188997+00:00
 -- url     : https://prove2.me/theorems/592c6834-2995-4375-b088-d495aa2e6fbf

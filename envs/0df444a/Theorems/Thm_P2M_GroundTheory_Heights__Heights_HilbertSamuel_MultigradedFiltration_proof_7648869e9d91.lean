@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_proof_7648869e9d91
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_proof_7648869e9d91
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:07:39.228782+00:00
 -- url     : https://prove2.me/theorems/ef8539c2-4313-4113-8122-367648289392

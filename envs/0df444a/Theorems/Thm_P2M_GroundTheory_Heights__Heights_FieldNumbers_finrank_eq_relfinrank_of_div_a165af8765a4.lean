@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_finrank_eq_relfinrank_of_div_a165af8765a4
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_finrank_eq_relfinrank_of_div_a165af8765a4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:54:35.903017+00:00
 -- url     : https://prove2.me/theorems/64be58b0-e782-4be9-8e93-26e40cf0c47c

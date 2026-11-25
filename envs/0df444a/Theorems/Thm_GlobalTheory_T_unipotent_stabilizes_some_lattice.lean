@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unipotent_stabilizes_some_lattice
 -- name    : GlobalTheory.T.unipotent_stabilizes_some_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:47:17.140282+00:00
 -- url     : https://prove2.me/theorems/6622ee90-0b8d-42ed-b2f7-5a2517be4b67

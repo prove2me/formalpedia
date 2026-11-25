@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_finite_assPoints_inter_of_isCompact
 -- name    : GlobalTheory.QCoh.finite_assPoints_inter_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:06:41.85604+00:00
 -- url     : https://prove2.me/theorems/cdcb18a7-2295-442b-aef8-ac1fea2e8add

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_subsingleton_loc_6c2981eed93b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_subsingleton_loc_6c2981eed93b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:59:08.134347+00:00
 -- url     : https://prove2.me/theorems/d3e127ac-3b0e-59dc-82f0-aadd68ab69a7

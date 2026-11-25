@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianGenusMass_eq_orbitStabilizerMass
 -- name    : GlobalTheory.T.hermitianGenusMass_eq_orbitStabilizerMass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:46:13.251236+00:00
 -- url     : https://prove2.me/theorems/20c786f7-12ff-5049-96c0-fd6837532938

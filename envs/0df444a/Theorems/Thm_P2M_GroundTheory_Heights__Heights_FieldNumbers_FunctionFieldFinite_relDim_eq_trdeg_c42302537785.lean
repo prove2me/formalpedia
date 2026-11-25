@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_FunctionFieldFinite_relDim_eq_trdeg_c42302537785
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_FunctionFieldFinite_relDim_eq_trdeg_c42302537785
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:52:01.641867+00:00
 -- url     : https://prove2.me/theorems/4c59599b-0f12-5088-8cd6-a0599dca33d9

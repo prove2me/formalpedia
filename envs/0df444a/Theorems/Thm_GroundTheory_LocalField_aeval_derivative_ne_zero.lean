@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_aeval_derivative_ne_zero
 -- name    : GroundTheory.LocalField.aeval_derivative_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:51:18.042792+00:00
 -- url     : https://prove2.me/theorems/59d64e2b-35ca-561b-9f93-b7a1059d684a

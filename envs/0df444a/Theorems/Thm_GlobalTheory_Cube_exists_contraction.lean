@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_exists_contraction
 -- name    : GlobalTheory.Cube.exists_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:37:26.014129+00:00
 -- url     : https://prove2.me/theorems/14b8d1e0-f67a-4e35-986f-5ad81dae02a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinDivCycle_isPrime_map_rename_f7705f7889ce
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinDivCycle_isPrime_map_rename_f7705f7889ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:04:13.207949+00:00
 -- url     : https://prove2.me/theorems/36f8e83a-a1bb-4475-a6b3-d2b3e3e975a2

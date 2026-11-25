@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_ptOf_add_lattice
 -- name    : Formalism.L2.Th1.E.ptOf_add_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:29:47.23545+00:00
 -- url     : https://prove2.me/theorems/591f3cf2-9726-5713-bc60-cd4c853d56ac

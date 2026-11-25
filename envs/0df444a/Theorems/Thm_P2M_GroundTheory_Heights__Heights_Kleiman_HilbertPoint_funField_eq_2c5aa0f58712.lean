@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPoint_funField_eq_2c5aa0f58712
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPoint_funField_eq_2c5aa0f58712
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:56:10.310595+00:00
 -- url     : https://prove2.me/theorems/d96dc7f7-ba22-43d6-92c6-e412edf45be3

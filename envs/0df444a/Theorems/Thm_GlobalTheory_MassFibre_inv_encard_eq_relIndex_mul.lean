@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassFibre_inv_encard_eq_relIndex_mul
 -- name    : GlobalTheory.MassFibre.inv_encard_eq_relIndex_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:38:31.319085+00:00
 -- url     : https://prove2.me/theorems/a47bbd69-6c54-472d-bb36-96d3093650b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_norm_natCast_cpow_neg_le_one
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.norm_natCast_cpow_neg_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:46:18.136399+00:00
 -- url     : https://prove2.me/theorems/2925afa7-83f8-435a-8392-3fca24fc6252

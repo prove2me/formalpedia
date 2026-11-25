@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_P1_isSemipositiveRel_fs_f707688d8118
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_P1_isSemipositiveRel_fs_f707688d8118
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:02:05.249242+00:00
 -- url     : https://prove2.me/theorems/82b07ed4-c183-4678-9b93-0f5687d586db

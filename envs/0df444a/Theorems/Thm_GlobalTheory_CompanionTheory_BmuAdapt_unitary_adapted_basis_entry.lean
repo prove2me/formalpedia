@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuAdapt_unitary_adapted_basis_entry
 -- name    : GlobalTheory.CompanionTheory.BmuAdapt.unitary_adapted_basis_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:38:50.668893+00:00
 -- url     : https://prove2.me/theorems/fa9455a0-ff5c-5aeb-8d47-0e6df40dce94

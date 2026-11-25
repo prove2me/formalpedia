@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RefVol_relIndex_inf_of_le
 -- name    : GlobalTheory.RefVol.relIndex_inf_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:48:59.740317+00:00
 -- url     : https://prove2.me/theorems/4c0f4664-14e4-554f-ad7d-561a11e09d30

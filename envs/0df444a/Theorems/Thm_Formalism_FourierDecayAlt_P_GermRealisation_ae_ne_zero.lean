@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GermRealisation_ae_ne_zero
 -- name    : Formalism.FourierDecayAlt.P.GermRealisation.ae_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:57:12.593996+00:00
 -- url     : https://prove2.me/theorems/39340817-cf11-4352-a6d9-ae6ae59991aa

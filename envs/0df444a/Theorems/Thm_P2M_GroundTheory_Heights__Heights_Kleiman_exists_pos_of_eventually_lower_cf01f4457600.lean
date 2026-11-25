@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_pos_of_eventually_lower_cf01f4457600
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_pos_of_eventually_lower_cf01f4457600
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:03:46.548547+00:00
 -- url     : https://prove2.me/theorems/f92b2120-2326-59c5-ab91-62d6803d7b89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_isAlgebraic_pivotAlg_58997dd4a21b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_isAlgebraic_pivotAlg_58997dd4a21b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:22:38.403856+00:00
 -- url     : https://prove2.me/theorems/3e201204-1a4f-400c-8bdd-02ab1b306ec1

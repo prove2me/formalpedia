@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuReduce_last_letter
 -- name    : GlobalTheory.CompanionTheory.BmuReduce.last_letter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:31:22.318549+00:00
 -- url     : https://prove2.me/theorems/3c5ba263-109a-5a1d-a499-40f46dde5405

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_red_norm_natCast
 -- name    : ReciprocityTheory.ChartRestriction.L1.red_norm_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:49:01.120735+00:00
 -- url     : https://prove2.me/theorems/e6c2b1a9-58f3-5dcd-86d9-bf46a22a7c84

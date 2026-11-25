@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpecialFibreGenerator_mem_basicOpen_of_isClosed
 -- name    : GlobalTheory.SpecialFibreGenerator.mem_basicOpen_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:46:27.113397+00:00
 -- url     : https://prove2.me/theorems/860e933e-0c5e-438f-990a-b709c13ee80b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_zero_spacing
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.zero_spacing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:18:11.558881+00:00
 -- url     : https://prove2.me/theorems/348f4709-104f-4865-9e13-6de81fe1f12c

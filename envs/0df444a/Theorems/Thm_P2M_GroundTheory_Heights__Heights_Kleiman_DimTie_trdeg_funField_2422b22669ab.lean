@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_DimTie_trdeg_funField_2422b22669ab
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_DimTie_trdeg_funField_2422b22669ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:01:44.04288+00:00
 -- url     : https://prove2.me/theorems/297d37b6-ecad-489f-bbc4-c63bae22cc6b

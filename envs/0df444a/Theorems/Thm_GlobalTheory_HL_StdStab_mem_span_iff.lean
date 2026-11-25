@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StdStab_mem_span_iff
 -- name    : GlobalTheory.HL.StdStab.mem_span_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:53:29.831862+00:00
 -- url     : https://prove2.me/theorems/d5a36715-7e9b-5b22-b16a-cff486fc69c7

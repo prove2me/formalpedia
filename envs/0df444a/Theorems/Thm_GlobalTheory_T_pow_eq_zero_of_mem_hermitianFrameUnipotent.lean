@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pow_eq_zero_of_mem_hermitianFrameUnipotent
 -- name    : GlobalTheory.T.pow_eq_zero_of_mem_hermitianFrameUnipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:45:34.968628+00:00
 -- url     : https://prove2.me/theorems/9542a7f8-23a5-4fdc-a10f-51bc630b1b5d

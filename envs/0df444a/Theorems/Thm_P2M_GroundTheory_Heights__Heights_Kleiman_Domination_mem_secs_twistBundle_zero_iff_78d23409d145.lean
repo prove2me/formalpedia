@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Domination_mem_secs_twistBundle_zero_iff_78d23409d145
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Domination_mem_secs_twistBundle_zero_iff_78d23409d145
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:59:33.460896+00:00
 -- url     : https://prove2.me/theorems/99bc5c56-8b03-4e4f-a53e-67b423a87402

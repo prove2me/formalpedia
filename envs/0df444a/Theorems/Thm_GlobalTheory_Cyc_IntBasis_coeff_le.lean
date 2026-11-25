@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_IntBasis_coeff_le
 -- name    : GlobalTheory.Cyc.IntBasis.coeff_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:35:36.885798+00:00
 -- url     : https://prove2.me/theorems/7b9cca5a-8d2b-4d05-a76b-5ee812357e6c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularisedIntegral_coef_hasDerivAt_left
 -- name    : GlobalTheory.RegularisedIntegral.coef_hasDerivAt_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:11:26.720397+00:00
 -- url     : https://prove2.me/theorems/08fa002b-77bd-4d92-96be-2f4add763de6

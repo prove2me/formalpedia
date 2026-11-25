@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_segre_torus_smul_168b7b47e649
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_segre_torus_smul_168b7b47e649
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:54:36.715861+00:00
 -- url     : https://prove2.me/theorems/404ad3b1-caec-5bf3-8b23-6e20257eadd6

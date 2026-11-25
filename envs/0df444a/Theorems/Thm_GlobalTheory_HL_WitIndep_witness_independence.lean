@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_WitIndep_witness_independence
 -- name    : GlobalTheory.HL.WitIndep.witness_independence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:06:56.254346+00:00
 -- url     : https://prove2.me/theorems/649b2126-d4c1-4270-9167-7b9ce274e88a

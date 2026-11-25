@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_IsUnitriangular_eq_unitriangular
 -- name    : GroundTheory.Automorphic.Reduction.IsUnitriangular.eq_unitriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:50:34.225231+00:00
 -- url     : https://prove2.me/theorems/9a83a864-f44a-4287-8ea2-201c4ed51583

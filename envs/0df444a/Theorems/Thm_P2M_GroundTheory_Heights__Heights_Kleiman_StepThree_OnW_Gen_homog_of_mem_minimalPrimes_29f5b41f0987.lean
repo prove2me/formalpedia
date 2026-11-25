@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_OnW_Gen_homog_of_mem_minimalPrimes_29f5b41f0987
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_OnW_Gen_homog_of_mem_minimalPrimes_29f5b41f0987
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:59:21.888324+00:00
 -- url     : https://prove2.me/theorems/6dcd14ef-b2cc-44c1-9227-f5e8671fa37d

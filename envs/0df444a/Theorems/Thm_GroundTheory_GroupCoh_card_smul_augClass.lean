@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_card_smul_augClass
 -- name    : GroundTheory.GroupCoh.card_smul_augClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:52:20.789343+00:00
 -- url     : https://prove2.me/theorems/dd498b57-f689-47e0-b48d-ff5749779b53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFibre_cj_hf_self
 -- name    : GlobalTheory.MoveFibre.cj_hf_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:41:04.207126+00:00
 -- url     : https://prove2.me/theorems/4dc11ec6-45e9-48e9-8868-735e76379088

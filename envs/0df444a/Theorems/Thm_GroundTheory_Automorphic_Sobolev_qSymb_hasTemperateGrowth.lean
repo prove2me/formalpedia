@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_qSymb_hasTemperateGrowth
 -- name    : GroundTheory.Automorphic.Sobolev.qSymb_hasTemperateGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:21:15.498827+00:00
 -- url     : https://prove2.me/theorems/5a2e9ae2-1c91-4f3d-9da5-ae16d32f8d1f

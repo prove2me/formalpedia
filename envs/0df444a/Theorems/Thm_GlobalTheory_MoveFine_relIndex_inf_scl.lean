@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_relIndex_inf_scl
 -- name    : GlobalTheory.MoveFine.relIndex_inf_scl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:43:22.288997+00:00
 -- url     : https://prove2.me/theorems/7d643162-288d-4efb-b5e3-4b0a81c82731

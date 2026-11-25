@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesIdealStdIndex_full_42daaad5b08f
 -- name    : P2M_GroundTheory_Heights__Heights_LinesIdealStdIndex_full_42daaad5b08f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:15.257188+00:00
 -- url     : https://prove2.me/theorems/55489385-47ee-437b-bc67-ce811b8d4a1a

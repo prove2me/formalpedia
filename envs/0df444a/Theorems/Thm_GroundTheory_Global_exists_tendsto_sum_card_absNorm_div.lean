@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_tendsto_sum_card_absNorm_div
 -- name    : GroundTheory.Global.exists_tendsto_sum_card_absNorm_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:04:56.828976+00:00
 -- url     : https://prove2.me/theorems/8012329b-8ef2-44ac-9f59-b6152b0b8dd2

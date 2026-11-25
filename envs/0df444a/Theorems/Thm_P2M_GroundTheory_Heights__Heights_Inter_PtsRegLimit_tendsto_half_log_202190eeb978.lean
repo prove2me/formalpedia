@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PtsRegLimit_tendsto_half_log_202190eeb978
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PtsRegLimit_tendsto_half_log_202190eeb978
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:55:52.073597+00:00
 -- url     : https://prove2.me/theorems/673c9ce1-2ad6-4dd8-905a-43b6f449b212

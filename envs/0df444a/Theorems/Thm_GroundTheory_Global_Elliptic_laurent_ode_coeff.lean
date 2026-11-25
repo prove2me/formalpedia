@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_laurent_ode_coeff
 -- name    : GroundTheory.Global.Elliptic.laurent_ode_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:51:30.703884+00:00
 -- url     : https://prove2.me/theorems/a13b73ec-9563-4992-b36a-6b725ed2cf87

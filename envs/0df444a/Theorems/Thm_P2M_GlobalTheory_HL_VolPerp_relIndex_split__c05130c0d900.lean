@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HL_VolPerp_relIndex_split__c05130c0d900
 -- name    : P2M_GlobalTheory_HL_VolPerp_relIndex_split__c05130c0d900
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:56:29.382018+00:00
 -- url     : https://prove2.me/theorems/f8cabc2b-7298-4884-92f4-4b1c1600bb8c

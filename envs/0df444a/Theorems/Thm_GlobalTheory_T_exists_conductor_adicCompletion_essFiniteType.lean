@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_conductor_adicCompletion_essFiniteType
 -- name    : GlobalTheory.T.exists_conductor_adicCompletion_essFiniteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:19:12.787542+00:00
 -- url     : https://prove2.me/theorems/82cda1b3-0c33-4606-a390-0f712d7babb0

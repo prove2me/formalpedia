@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_mem_support_iff
 -- name    : GlobalTheory.QCoh.mem_support_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:07:22.540622+00:00
 -- url     : https://prove2.me/theorems/b4ab3c1c-bbff-4537-886e-10b89dc267d0

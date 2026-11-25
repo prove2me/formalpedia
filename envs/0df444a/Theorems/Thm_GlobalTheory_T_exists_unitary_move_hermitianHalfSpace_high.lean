@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unitary_move_hermitianHalfSpace_high
 -- name    : GlobalTheory.T.exists_unitary_move_hermitianHalfSpace_high
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:39:01.108032+00:00
 -- url     : https://prove2.me/theorems/8ce61bf0-1e28-4af3-a25c-949daf1d8042

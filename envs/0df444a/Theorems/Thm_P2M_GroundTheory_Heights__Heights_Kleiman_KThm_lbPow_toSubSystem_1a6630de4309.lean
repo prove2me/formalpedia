@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KThm_lbPow_toSubSystem_1a6630de4309
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KThm_lbPow_toSubSystem_1a6630de4309
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:57:05.284874+00:00
 -- url     : https://prove2.me/theorems/fed77777-d8e5-527d-b85e-4ab4974bcf7b

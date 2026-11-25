@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_g_eq_of_surjective_of_finite_ker
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.g_eq_of_surjective_of_finite_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:52:40.342079+00:00
 -- url     : https://prove2.me/theorems/320bb487-6902-4653-b614-07d432f549e3

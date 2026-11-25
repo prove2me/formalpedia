@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_IdealTwistFamily_idealMod_loc_beabb2cef896
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_IdealTwistFamily_idealMod_loc_beabb2cef896
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:55:53.812455+00:00
 -- url     : https://prove2.me/theorems/8dc4334f-7039-4f11-8da1-7f0bb0e66448

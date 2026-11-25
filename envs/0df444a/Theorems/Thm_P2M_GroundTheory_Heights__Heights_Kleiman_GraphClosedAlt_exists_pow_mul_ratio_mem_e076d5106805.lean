@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_GraphClosedAlt_exists_pow_mul_ratio_mem_e076d5106805
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_GraphClosedAlt_exists_pow_mul_ratio_mem_e076d5106805
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:57:22.264521+00:00
 -- url     : https://prove2.me/theorems/55bcf7dc-0835-59bd-b994-efe408cada9b

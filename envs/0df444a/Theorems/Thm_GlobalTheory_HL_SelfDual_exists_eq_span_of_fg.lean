@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SelfDual_exists_eq_span_of_fg
 -- name    : GlobalTheory.HL.SelfDual.exists_eq_span_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:33:54.007803+00:00
 -- url     : https://prove2.me/theorems/7ab53c78-73d1-4860-9170-ab634efe9980

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_DatMove_hermFrameMapIsometry_frameSpan
 -- name    : GlobalTheory.DegAsm.DatMove.hermFrameMapIsometry_frameSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:23:59.992194+00:00
 -- url     : https://prove2.me/theorems/d175edc2-6ee0-5c05-9e91-a94c7b0d995c

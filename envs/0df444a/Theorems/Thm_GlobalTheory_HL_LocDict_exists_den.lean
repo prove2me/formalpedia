@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocDict_exists_den
 -- name    : GlobalTheory.HL.LocDict.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:32:51.190267+00:00
 -- url     : https://prove2.me/theorems/a07e1a5d-cc9c-43c0-9dcd-29945c667e83

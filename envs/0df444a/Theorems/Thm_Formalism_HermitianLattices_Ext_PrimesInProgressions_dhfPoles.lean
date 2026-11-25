@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhfPoles
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhfPoles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:33:44.622967+00:00
 -- url     : https://prove2.me/theorems/6a966927-175f-50e4-aa98-65696e6b6429

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StrongApprox_sig_ne
 -- name    : GlobalTheory.HL.StrongApprox.sig_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:41:02.190788+00:00
 -- url     : https://prove2.me/theorems/86faf71a-b1a8-5307-9016-396edeb5606d

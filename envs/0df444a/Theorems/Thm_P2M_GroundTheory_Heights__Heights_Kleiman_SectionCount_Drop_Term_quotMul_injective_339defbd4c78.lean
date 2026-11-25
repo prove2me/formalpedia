@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_Term_quotMul_injective_339defbd4c78
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_Term_quotMul_injective_339defbd4c78
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:57:50.454608+00:00
 -- url     : https://prove2.me/theorems/9e487862-70aa-57a9-960c-69c67667c035

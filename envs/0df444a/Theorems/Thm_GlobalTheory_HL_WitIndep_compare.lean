@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_WitIndep_compare
 -- name    : GlobalTheory.HL.WitIndep.compare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:34:19.853703+00:00
 -- url     : https://prove2.me/theorems/b0c64d35-8bac-4aa8-b516-373ebc148b41

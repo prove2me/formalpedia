@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_EAux_subst_C_mul
 -- name    : Formalism.L2.Th1.D.EAux.subst_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:25:56.501587+00:00
 -- url     : https://prove2.me/theorems/78b406b6-abcc-576f-b487-f8354ecea1cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Zuck_decV
 -- name    : CompanionTheory.Zuck.decV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:21:45.808011+00:00
 -- url     : https://prove2.me/theorems/fd063594-c0b8-411e-9975-e416752ef9ce

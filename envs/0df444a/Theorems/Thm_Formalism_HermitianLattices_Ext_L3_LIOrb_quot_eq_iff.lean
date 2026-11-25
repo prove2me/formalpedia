@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_quot_eq_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.quot_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:18:26.792396+00:00
 -- url     : https://prove2.me/theorems/865de001-a0fe-44a5-952f-bc72590543ae

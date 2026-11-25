@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_AmpleAffineGen_ampleChart_eventually_fb33e86e3247
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_AmpleAffineGen_ampleChart_eventually_fb33e86e3247
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:00:04.750606+00:00
 -- url     : https://prove2.me/theorems/c5618790-1c7f-467d-a857-a1c3f680f7e1

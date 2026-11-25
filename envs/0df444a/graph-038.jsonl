@@ -59424,11 +59424,11 @@
 {"parent": "GroundTheory.LocalField.exists_zpow_mul_zpow_eq", "child": "GroundTheory_LocalFields_BrauerInductionElementary", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Brauer.AlgEquiv.exists_unit_conj", "child": "GroundTheory_Brauer_SkolemNoether", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Brauer.AlgEquiv.exists_unit_conj", "child": "GroundTheory_Brauer_TensorSimple", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.ZeroFreeComplex.zero_free_region", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LogDerivDirichletLFunctionLocalZeroSum", "via": ["statement"]}
-{"parent": "GlobalTheory.ZeroFreeComplex.zero_free_region", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_NegReLogDerivPrincipalLFunctionLe", "via": ["statement"]}
-{"parent": "GlobalTheory.ZeroFreeComplex.zero_free_region", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LFunctionConjEqZero", "via": ["statement"]}
-{"parent": "GlobalTheory.ZeroFreeComplex.zero_free_region", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_NegSumLogDerivNonneg", "via": ["statement"]}
-{"parent": "GlobalTheory.ZeroFreeComplex.zero_free_region", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LogDerivativeBound", "via": ["statement"]}
+{"parent": "GlobalTheory.ZeroFreeComplex.zero_free_region", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LogDerivDirichletLFunctionLocalZeroSum", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ZeroFreeComplex.zero_free_region", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_NegReLogDerivPrincipalLFunctionLe", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ZeroFreeComplex.zero_free_region", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LFunctionConjEqZero", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ZeroFreeComplex.zero_free_region", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_NegSumLogDerivNonneg", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ZeroFreeComplex.zero_free_region", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LogDerivativeBound", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_cubeFaceSequence___7c5bb83f318b", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_CubeComplexAcyclicIffQuasiIsoCechAug", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_cubeFaceSequence___7c5bb83f318b", "child": "Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_IsIsoTermComparisonRestrictScalars", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.GroupCoh.shiftSC_shortExact", "child": "GroundTheory_TateCohomology_DeltaMap", "via": ["solution", "statement"]}

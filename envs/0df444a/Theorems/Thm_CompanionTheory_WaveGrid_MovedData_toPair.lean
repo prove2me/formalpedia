@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_MovedData_toPair
 -- name    : CompanionTheory.WaveGrid.MovedData.toPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:40:20.862685+00:00
 -- url     : https://prove2.me/theorems/bdc18793-a995-5c52-b2cc-92c323c5eeed

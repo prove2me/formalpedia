@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_coe_tateNorm_integerUnits
 -- name    : GroundTheory.LocalField.coe_tateNorm_integerUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:02:37.483665+00:00
 -- url     : https://prove2.me/theorems/53ff564b-d309-55ef-b9a8-4cbea006ee36

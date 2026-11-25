@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CutOneGenerator_mem_chartRing_of_mem_idealMod_b0a56f85ec39
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CutOneGenerator_mem_chartRing_of_mem_idealMod_b0a56f85ec39
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:54:44.686604+00:00
 -- url     : https://prove2.me/theorems/617fd484-8cea-4290-97fd-664580f6a2bc

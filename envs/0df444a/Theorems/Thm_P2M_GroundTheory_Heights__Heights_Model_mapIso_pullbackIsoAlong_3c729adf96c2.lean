@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_mapIso_pullbackIsoAlong_3c729adf96c2
 -- name    : P2M_GroundTheory_Heights__Heights_Model_mapIso_pullbackIsoAlong_3c729adf96c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:56.200128+00:00
 -- url     : https://prove2.me/theorems/fe0af9f0-e6bf-4142-a4ed-abe5ef84a158

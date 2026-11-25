@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_pow_add_le_mul_ff1e09ec03ee
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_pow_add_le_mul_ff1e09ec03ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:58:02.993506+00:00
 -- url     : https://prove2.me/theorems/75902ad7-6dd9-50f8-8569-db2dec271aff

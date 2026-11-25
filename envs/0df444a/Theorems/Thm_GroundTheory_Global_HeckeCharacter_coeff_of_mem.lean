@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_coeff_of_mem
 -- name    : GroundTheory.Global.HeckeCharacter.coeff_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:01:08.827496+00:00
 -- url     : https://prove2.me/theorems/76144e56-ce80-57f0-b588-ae277da24276

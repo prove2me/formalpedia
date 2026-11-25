@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_Hpk_apply
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.Hpk_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:09:06.254794+00:00
 -- url     : https://prove2.me/theorems/aa3b3e78-a544-54f2-af8b-52d8bbb2a8b7

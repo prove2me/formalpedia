@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_taylor_even_theta
 -- name    : Formalism.L2.Th1.F.taylor_even_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:29:01.674429+00:00
 -- url     : https://prove2.me/theorems/bf3e9438-bc00-4965-b25f-e58e0e946aab

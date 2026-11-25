@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_split_Mof
 -- name    : GlobalTheory.MoveFine.split_Mof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:42:26.317102+00:00
 -- url     : https://prove2.me/theorems/34af9058-5e2b-455c-a0d7-78e4dabb7036

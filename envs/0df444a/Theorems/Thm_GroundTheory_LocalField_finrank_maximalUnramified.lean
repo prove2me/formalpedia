@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_finrank_maximalUnramified
 -- name    : GroundTheory.LocalField.finrank_maximalUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:51:25.456402+00:00
 -- url     : https://prove2.me/theorems/431ee63d-feb5-45a3-a94b-3958aa3008ca

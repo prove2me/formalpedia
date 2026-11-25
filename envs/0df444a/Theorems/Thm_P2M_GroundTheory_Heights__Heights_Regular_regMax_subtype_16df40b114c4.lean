@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_regMax_subtype_16df40b114c4
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_regMax_subtype_16df40b114c4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:18:46.492147+00:00
 -- url     : https://prove2.me/theorems/7dc96e72-71b0-4e77-a245-a52b085df0c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombCfBound_stair_strictAnti_db6e89d9b491
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombCfBound_stair_strictAnti_db6e89d9b491
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:05:05.632243+00:00
 -- url     : https://prove2.me/theorems/892b690e-6f12-50eb-b291-a61b22519c17

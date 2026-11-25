@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveFacts_form_zero_of_span
 -- name    : GlobalTheory.HL.MoveFacts.form_zero_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:46:19.932097+00:00
 -- url     : https://prove2.me/theorems/3582ca4a-d0b1-5a5f-b28c-4bd5114fbc47

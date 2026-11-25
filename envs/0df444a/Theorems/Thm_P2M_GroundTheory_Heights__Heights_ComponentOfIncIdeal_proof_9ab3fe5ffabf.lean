@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComponentOfIncIdeal_proof_9ab3fe5ffabf
 -- name    : P2M_GroundTheory_Heights__Heights_ComponentOfIncIdeal_proof_9ab3fe5ffabf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:02:27.320898+00:00
 -- url     : https://prove2.me/theorems/a4d95f34-04ca-4df8-a98a-2458f4862587

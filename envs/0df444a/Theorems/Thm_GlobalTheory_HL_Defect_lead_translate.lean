@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Defect_lead_translate
 -- name    : GlobalTheory.HL.Defect.lead_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:17:25.395015+00:00
 -- url     : https://prove2.me/theorems/5a6503d9-dc17-45cd-9fda-610c8ee643ad

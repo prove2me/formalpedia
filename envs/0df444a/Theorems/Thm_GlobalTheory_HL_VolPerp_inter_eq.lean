@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_VolPerp_inter_eq
 -- name    : GlobalTheory.HL.VolPerp.inter_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:34:27.655615+00:00
 -- url     : https://prove2.me/theorems/1eec48b4-09fc-4c2a-aea8-9957279cb2df

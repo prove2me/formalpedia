@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_Ia_bot
 -- name    : GlobalTheory.DegCnt.PosIso.Ia_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:24:15.581965+00:00
 -- url     : https://prove2.me/theorems/a4547bb6-f8ba-5eb0-8951-476120de7f57

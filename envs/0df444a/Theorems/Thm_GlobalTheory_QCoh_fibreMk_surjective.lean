@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_fibreMk_surjective
 -- name    : GlobalTheory.QCoh.fibreMk_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:07:19.482787+00:00
 -- url     : https://prove2.me/theorems/92fe7224-22f0-4632-84ad-de12e836fe12

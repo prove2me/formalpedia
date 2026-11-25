@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameTri_linInd
 -- name    : GlobalTheory.HL.FrameTri.linInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:31:56.959503+00:00
 -- url     : https://prove2.me/theorems/ff18bc0d-1f1a-4ea0-8e89-d1c5c706501e

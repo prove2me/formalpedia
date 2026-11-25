@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_Term_cechH0Map_injective_562dc05f7cb3
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_Term_cechH0Map_injective_562dc05f7cb3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:57:44.272055+00:00
 -- url     : https://prove2.me/theorems/da576964-8dbc-5817-b26d-3ab7e5c1f987

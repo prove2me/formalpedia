@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FibU_noLeak_add
 -- name    : GlobalTheory.HL.FibU.noLeak_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:34:41.861429+00:00
 -- url     : https://prove2.me/theorems/adad3ffb-7b15-53a7-b6a4-92b55a6d5a50

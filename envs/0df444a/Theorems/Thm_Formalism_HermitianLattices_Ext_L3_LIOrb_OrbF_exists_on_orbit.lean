@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_OrbF_exists_on_orbit
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.OrbF.exists_on_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:05:15.02626+00:00
 -- url     : https://prove2.me/theorems/f62eddb8-524e-5c33-b59d-fbf65ba10288

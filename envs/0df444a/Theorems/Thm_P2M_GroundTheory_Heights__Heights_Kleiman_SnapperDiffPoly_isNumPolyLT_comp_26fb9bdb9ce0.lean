@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperDiffPoly_isNumPolyLT_comp_26fb9bdb9ce0
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperDiffPoly_isNumPolyLT_comp_26fb9bdb9ce0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:57:40.854194+00:00
 -- url     : https://prove2.me/theorems/1cb76524-f409-45e1-9e22-087d7ea8baf6

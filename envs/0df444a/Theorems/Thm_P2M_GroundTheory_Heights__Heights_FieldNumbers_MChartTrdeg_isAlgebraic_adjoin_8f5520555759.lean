@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartTrdeg_isAlgebraic_adjoin_8f5520555759
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartTrdeg_isAlgebraic_adjoin_8f5520555759
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:52:35.862482+00:00
 -- url     : https://prove2.me/theorems/91b915aa-7242-4a59-8176-38dbe541be14

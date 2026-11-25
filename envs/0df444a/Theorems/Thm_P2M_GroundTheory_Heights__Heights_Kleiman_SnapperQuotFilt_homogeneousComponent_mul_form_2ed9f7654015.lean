@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotFilt_homogeneousComponent_mul_form_2ed9f7654015
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotFilt_homogeneousComponent_mul_form_2ed9f7654015
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:57:45.547946+00:00
 -- url     : https://prove2.me/theorems/84187e5d-1508-47d9-93ba-c2adc67bd2e9

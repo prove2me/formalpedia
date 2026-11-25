@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_lubin_tate_log_is_artin_hasse
 -- name    : Formalism.L2.Th1.D.lubin_tate_log_is_artin_hasse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:34:01.740831+00:00
 -- url     : https://prove2.me/theorems/35688598-17c3-562e-9198-8ecf09d99e83

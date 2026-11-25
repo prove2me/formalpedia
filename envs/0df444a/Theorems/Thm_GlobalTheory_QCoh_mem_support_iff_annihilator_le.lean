@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_mem_support_iff_annihilator_le
 -- name    : GlobalTheory.QCoh.mem_support_iff_annihilator_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:04:44.532388+00:00
 -- url     : https://prove2.me/theorems/beb9baea-90bf-5de0-a72c-39122b3f89c0

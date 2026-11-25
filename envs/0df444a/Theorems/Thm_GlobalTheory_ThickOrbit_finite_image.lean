@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickOrbit_finite_image
 -- name    : GlobalTheory.ThickOrbit.finite_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:46:53.711041+00:00
 -- url     : https://prove2.me/theorems/c77e9e2c-361c-4178-9f8d-35dd6d2feaeb

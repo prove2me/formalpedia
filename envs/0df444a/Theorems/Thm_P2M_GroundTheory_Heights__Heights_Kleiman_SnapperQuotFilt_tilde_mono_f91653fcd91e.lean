@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotFilt_tilde_mono_f91653fcd91e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotFilt_tilde_mono_f91653fcd91e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:57:42.055631+00:00
 -- url     : https://prove2.me/theorems/0e37024f-20aa-4e78-826c-6e276c42d63e

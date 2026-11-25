@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_natCard_units_quotient_range_normUnits
 -- name    : GroundTheory.LocalField.natCard_units_quotient_range_normUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:33:10.138802+00:00
 -- url     : https://prove2.me/theorems/32cbe810-e800-4028-98d1-3feeb621f9bf

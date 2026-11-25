@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_single_mem_TMod_de0adca7095b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_single_mem_TMod_de0adca7095b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:59:20.501695+00:00
 -- url     : https://prove2.me/theorems/ee55e17a-a777-5de2-8e19-032068ce23aa

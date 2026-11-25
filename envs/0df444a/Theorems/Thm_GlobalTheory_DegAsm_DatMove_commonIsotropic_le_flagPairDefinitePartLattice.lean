@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_DatMove_commonIsotropic_le_flagPairDefinitePartLattice
 -- name    : GlobalTheory.DegAsm.DatMove.commonIsotropic_le_flagPairDefinitePartLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:40:31.057477+00:00
 -- url     : https://prove2.me/theorems/fb0e6c0f-79d1-58bc-bc7a-1cd825c9bfe9

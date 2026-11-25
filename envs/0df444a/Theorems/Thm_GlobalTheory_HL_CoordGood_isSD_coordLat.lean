@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordGood_isSD_coordLat
 -- name    : GlobalTheory.HL.CoordGood.isSD_coordLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:29:51.672878+00:00
 -- url     : https://prove2.me/theorems/6de7a82f-e308-5e65-9db4-177754080e07

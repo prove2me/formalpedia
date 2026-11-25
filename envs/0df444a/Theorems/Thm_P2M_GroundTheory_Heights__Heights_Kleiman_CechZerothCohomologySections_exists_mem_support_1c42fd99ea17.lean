@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CechZerothCohomologySections_exists_mem_support_1c42fd99ea17
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CechZerothCohomologySections_exists_mem_support_1c42fd99ea17
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:53:11.893102+00:00
 -- url     : https://prove2.me/theorems/1f4ac512-715b-4088-afe2-95a44d086191

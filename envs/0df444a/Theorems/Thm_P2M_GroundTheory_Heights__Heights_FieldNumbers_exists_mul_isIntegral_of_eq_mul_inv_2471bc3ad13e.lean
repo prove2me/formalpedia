@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_exists_mul_isIntegral_of_eq_mul_inv_2471bc3ad13e
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_exists_mul_isIntegral_of_eq_mul_inv_2471bc3ad13e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:54:01.985251+00:00
 -- url     : https://prove2.me/theorems/22a94390-058c-4f1d-909d-5aa85b2862c2

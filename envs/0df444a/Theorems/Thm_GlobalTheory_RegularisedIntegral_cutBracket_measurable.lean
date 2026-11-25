@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularisedIntegral_cutBracket_measurable
 -- name    : GlobalTheory.RegularisedIntegral.cutBracket_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:11:10.664216+00:00
 -- url     : https://prove2.me/theorems/964e5e31-1fcb-436e-a93c-efd3c93f78fa

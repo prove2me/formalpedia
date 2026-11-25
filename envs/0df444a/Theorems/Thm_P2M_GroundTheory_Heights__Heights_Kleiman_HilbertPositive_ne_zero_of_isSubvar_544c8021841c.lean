@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPositive_ne_zero_of_isSubvar_544c8021841c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPositive_ne_zero_of_isSubvar_544c8021841c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:59:07.847944+00:00
 -- url     : https://prove2.me/theorems/3dbef0e3-e7d1-4031-ba9f-bf4c8a62a0a7

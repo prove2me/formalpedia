@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_exists_Y_le_7d0537d4eb34
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_exists_Y_le_7d0537d4eb34
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:42.335655+00:00
 -- url     : https://prove2.me/theorems/bd69fa66-fd19-4745-bb15-4e86a821aeb5

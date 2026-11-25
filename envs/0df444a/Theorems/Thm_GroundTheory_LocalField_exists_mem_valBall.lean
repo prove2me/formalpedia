@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_mem_valBall
 -- name    : GroundTheory.LocalField.exists_mem_valBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:51:39.420008+00:00
 -- url     : https://prove2.me/theorems/4dadbc96-0a71-5fad-bdb4-9ddc263352fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_exists_mem_assPoints_specializes
 -- name    : GlobalTheory.QCoh.exists_mem_assPoints_specializes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:05:52.46457+00:00
 -- url     : https://prove2.me/theorems/9f8dc57a-54a2-4452-85dc-34df605e8490

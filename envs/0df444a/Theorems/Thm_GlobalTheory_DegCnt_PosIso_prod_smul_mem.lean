@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_prod_smul_mem
 -- name    : GlobalTheory.DegCnt.PosIso.prod_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:25:01.595798+00:00
 -- url     : https://prove2.me/theorems/2490719a-1f69-5acd-b5d3-dac62b343b9c

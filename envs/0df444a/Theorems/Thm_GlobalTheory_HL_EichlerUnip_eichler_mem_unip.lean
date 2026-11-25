@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_EichlerUnip_eichler_mem_unip
 -- name    : GlobalTheory.HL.EichlerUnip.eichler_mem_unip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:14:18.089912+00:00
 -- url     : https://prove2.me/theorems/d54747e9-87e9-4804-ba76-3483cbb61e3c

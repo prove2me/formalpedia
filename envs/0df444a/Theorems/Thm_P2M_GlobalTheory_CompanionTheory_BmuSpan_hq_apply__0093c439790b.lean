@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_BmuSpan_hq_apply__0093c439790b
 -- name    : P2M_GlobalTheory_CompanionTheory_BmuSpan_hq_apply__0093c439790b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:55:13.198975+00:00
 -- url     : https://prove2.me/theorems/7560307b-3476-4e78-904b-4789b5ac0d6b

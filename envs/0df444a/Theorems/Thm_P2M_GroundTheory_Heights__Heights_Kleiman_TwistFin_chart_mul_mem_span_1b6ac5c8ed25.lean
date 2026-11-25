@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_chart_mul_mem_span_1b6ac5c8ed25
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_chart_mul_mem_span_1b6ac5c8ed25
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:59:15.096255+00:00
 -- url     : https://prove2.me/theorems/d37faf74-5ac4-4008-8ddd-b048039b526a

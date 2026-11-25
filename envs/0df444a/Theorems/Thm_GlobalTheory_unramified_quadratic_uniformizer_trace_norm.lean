@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unramified_quadratic_uniformizer_trace_norm
 -- name    : GlobalTheory.unramified_quadratic_uniformizer_trace_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:47:24.68906+00:00
 -- url     : https://prove2.me/theorems/34e0a312-e967-412c-ba27-ff3dbf13f4df

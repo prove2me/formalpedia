@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnfoldingTorus_proof_c2bfd1b3fbdd
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnfoldingTorus_proof_c2bfd1b3fbdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:06:58.531794+00:00
 -- url     : https://prove2.me/theorems/f2db436f-5a52-5f8c-a7b2-85e975def27f

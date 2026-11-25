@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuQBound_norm_le_avg
 -- name    : GlobalTheory.CompanionTheory.BmuQBound.norm_le_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:50:02.35572+00:00
 -- url     : https://prove2.me/theorems/f0112e2c-216a-483b-8e1a-7348f2f59c39

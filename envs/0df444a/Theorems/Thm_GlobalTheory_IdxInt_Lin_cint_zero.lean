@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdxInt_Lin_cint_zero
 -- name    : GlobalTheory.IdxInt.Lin.cint_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:04:23.964821+00:00
 -- url     : https://prove2.me/theorems/d7d647ec-8581-4029-8af5-22c1a46027c0

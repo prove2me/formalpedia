@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_GramFrameCompositionTwoFacts_coeff_one_lam
 -- name    : Formalism.L2.Th1.G.GramFrameCompositionTwoFacts.coeff_one_lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:18:55.119628+00:00
 -- url     : https://prove2.me/theorems/dd960cab-9531-5bde-8d03-28518218c4a3

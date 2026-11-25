@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCard_card_torsion_mul_finrank
 -- name    : GlobalTheory.TorsionCard.card_torsion_mul_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:10:25.218106+00:00
 -- url     : https://prove2.me/theorems/e1e6415c-43b7-58a2-adf6-d0a21b1b6d29

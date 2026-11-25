@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_tateIsoH_t__homology__77eebf810831
 -- name    : P2M_GroundTheory_GroupCoh_tateIsoH_t__homology__77eebf810831
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:52:10.807454+00:00
 -- url     : https://prove2.me/theorems/5b70e7af-76c4-58e7-bc5f-8d73bdd1a3c6

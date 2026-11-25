@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SubFamily_exists_pow_6e2f7e5f6f11
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SubFamily_exists_pow_6e2f7e5f6f11
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:59:05.993902+00:00
 -- url     : https://prove2.me/theorems/81b999d2-f3bd-41e8-a15a-7e77de1871dd

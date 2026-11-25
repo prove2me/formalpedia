@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_conj_natCast_cpow_neg__5ffeb6974682
 -- name    : P2M_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_conj_natCast_cpow_neg__5ffeb6974682
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:54:26.768934+00:00
 -- url     : https://prove2.me/theorems/54321a9b-6e38-4df6-a775-4191e161ad61

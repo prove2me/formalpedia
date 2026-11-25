@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_neg_one_le_meromorphicOrderAt_addDefect_neg
 -- name    : GroundTheory.Global.Elliptic.neg_one_le_meromorphicOrderAt_addDefect_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:49:58.512014+00:00
 -- url     : https://prove2.me/theorems/1e954aa1-4b9c-4b7e-842f-722ea3d19378

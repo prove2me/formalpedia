@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodClass_unit_of_lead
 -- name    : GlobalTheory.HL.GoodClass.unit_of_lead
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:32:25.690703+00:00
 -- url     : https://prove2.me/theorems/6ff4f0f0-51b7-57c8-9d6b-bc670e2d6100

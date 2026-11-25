@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_Pc_eq_of_Le_dimrev
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.Pc_eq_of_Le_dimrev
--- status  : Open
+-- status  : Proved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T19:04:34.718821+00:00
 -- url     : https://prove2.me/theorems/dc0264bc-a760-45fd-a388-966ca7f96ab0

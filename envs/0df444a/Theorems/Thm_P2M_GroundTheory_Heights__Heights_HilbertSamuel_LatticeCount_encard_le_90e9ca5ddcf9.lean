@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_LatticeCount_encard_le_90e9ca5ddcf9
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_LatticeCount_encard_le_90e9ca5ddcf9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:56:09.036587+00:00
 -- url     : https://prove2.me/theorems/29569d6c-dbf1-5d1b-8a77-fea6f6acab67

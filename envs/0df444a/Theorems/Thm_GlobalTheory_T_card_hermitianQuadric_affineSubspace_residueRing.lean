@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_hermitianQuadric_affineSubspace_residueRing
 -- name    : GlobalTheory.T.card_hermitianQuadric_affineSubspace_residueRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:47:23.916083+00:00
 -- url     : https://prove2.me/theorems/b76415b3-37ea-4b13-9207-9575a9b529e5

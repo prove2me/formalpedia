@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RefVol_th_mul
 -- name    : GlobalTheory.RefVol.th_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:43:46.509959+00:00
 -- url     : https://prove2.me/theorems/7140c27c-992d-4c34-a654-76d97446532d

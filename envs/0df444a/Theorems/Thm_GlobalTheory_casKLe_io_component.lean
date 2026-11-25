@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_casKLe_io_component
 -- name    : GlobalTheory.casKLe_io_component
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:47:44.72383+00:00
 -- url     : https://prove2.me/theorems/7a01a613-8c8c-4b88-9987-41a673488d75

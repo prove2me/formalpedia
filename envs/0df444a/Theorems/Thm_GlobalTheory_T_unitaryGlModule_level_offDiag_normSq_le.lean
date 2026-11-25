@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryGlModule_level_offDiag_normSq_le
 -- name    : GlobalTheory.T.unitaryGlModule_level_offDiag_normSq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:47:18.850794+00:00
 -- url     : https://prove2.me/theorems/c7e68a1a-0a32-5813-94a9-733af2d0efaa

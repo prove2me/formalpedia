@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_pow_mul_inj
 -- name    : GroundTheory.Global.pow_mul_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:01:23.382831+00:00
 -- url     : https://prove2.me/theorems/26eff231-9e0f-5235-ba11-63a43bdcf58b

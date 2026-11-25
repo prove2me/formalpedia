@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_smul_flag_vector_mem_reference_lattice
 -- name    : GlobalTheory.DegCnt.PosIso.smul_flag_vector_mem_reference_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:26:04.864438+00:00
 -- url     : https://prove2.me/theorems/f6e023b3-765b-4ab7-a669-28931e42699d

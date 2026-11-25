@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_sand_translate
 -- name    : Formalism.L2.S.Pv.EnergyAbs.sand_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:16:27.720804+00:00
 -- url     : https://prove2.me/theorems/fdf6db3d-137d-49bb-bd39-f9e828331555

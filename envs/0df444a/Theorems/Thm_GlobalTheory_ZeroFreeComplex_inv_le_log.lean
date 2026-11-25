@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroFreeComplex_inv_le_log
 -- name    : GlobalTheory.ZeroFreeComplex.inv_le_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:04:17.021823+00:00
 -- url     : https://prove2.me/theorems/483101d0-cea3-4f03-8339-c0ba2ac5a61f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_WeierstrassCurve_eval_Hom_ratio_surjective_5c7b75ab8910
 -- name    : P2M_GlobalTheory_WeierstrassCurve_eval_Hom_ratio_surjective_5c7b75ab8910
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:55:29.240803+00:00
 -- url     : https://prove2.me/theorems/d32df649-5caf-4861-972b-07d89c626f8f

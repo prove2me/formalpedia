@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_mem_support_iff_primeIdealOf
 -- name    : GlobalTheory.QCoh.mem_support_iff_primeIdealOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:02:57.906316+00:00
 -- url     : https://prove2.me/theorems/61148873-1cf6-5988-8adc-2b357c97384a

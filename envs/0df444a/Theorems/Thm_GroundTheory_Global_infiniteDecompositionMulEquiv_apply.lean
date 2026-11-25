@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_infiniteDecompositionMulEquiv_apply
 -- name    : GroundTheory.Global.infiniteDecompositionMulEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:08:29.861952+00:00
 -- url     : https://prove2.me/theorems/7bb5e114-e302-4826-9f27-c596cb3a465e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_forall_valued_trace_le_one_iff
 -- name    : GroundTheory.Global.forall_valued_trace_le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:16:11.900874+00:00
 -- url     : https://prove2.me/theorems/a26db884-68d2-40c3-a54b-f6a22f3b9099

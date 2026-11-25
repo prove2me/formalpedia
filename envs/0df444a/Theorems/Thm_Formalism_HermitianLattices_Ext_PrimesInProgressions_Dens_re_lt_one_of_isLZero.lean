@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_re_lt_one_of_isLZero
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.re_lt_one_of_isLZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:04:31.364055+00:00
 -- url     : https://prove2.me/theorems/a322ef44-f1c1-5e48-99dd-dac03bbe7e48

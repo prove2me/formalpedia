@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PrimVol_form_conj
 -- name    : GlobalTheory.HL.PrimVol.form_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:05:29.764952+00:00
 -- url     : https://prove2.me/theorems/bfadc798-2524-4d1f-b98e-afd06a5b33f5

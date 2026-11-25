@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_geoNum_zero_nonneg_833afa00e713
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_geoNum_zero_nonneg_833afa00e713
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:58:40.078673+00:00
 -- url     : https://prove2.me/theorems/dd6fc2c1-70d9-4720-a5a7-cf654eb0386d

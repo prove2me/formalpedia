@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameStab_mem_Nof
 -- name    : GlobalTheory.HL.FrameStab.mem_Nof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:30:18.603045+00:00
 -- url     : https://prove2.me/theorems/2a564af6-500a-4175-91e0-342a6b35c0e4

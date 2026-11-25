@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FlagDisc_Xa_succ
 -- name    : GlobalTheory.DegCnt.FlagDisc.Xa_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:46:28.745661+00:00
 -- url     : https://prove2.me/theorems/70b7ec80-aaf1-4f67-9d8c-5c9524657c02

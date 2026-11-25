@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DivisibleGauss_sq_norm_sum_mul_relIndex_le
 -- name    : GlobalTheory.HL.DivisibleGauss.sq_norm_sum_mul_relIndex_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:30:05.366561+00:00
 -- url     : https://prove2.me/theorems/c16a617b-b8e2-4358-8fad-17720f3c31c1

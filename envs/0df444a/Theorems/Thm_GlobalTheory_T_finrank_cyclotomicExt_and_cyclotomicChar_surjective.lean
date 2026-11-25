@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finrank_cyclotomicExt_and_cyclotomicChar_surjective
 -- name    : GlobalTheory.T.finrank_cyclotomicExt_and_cyclotomicChar_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:37:24.769497+00:00
 -- url     : https://prove2.me/theorems/572e2c5f-27a2-4747-96a1-d0b29235fecc

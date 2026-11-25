@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_DimTie_rehom_comp_dehom_238d65ec5abd
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_DimTie_rehom_comp_dehom_238d65ec5abd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:01:24.760653+00:00
 -- url     : https://prove2.me/theorems/b776ba60-2d46-59f2-a3a9-470ac4d9da1d

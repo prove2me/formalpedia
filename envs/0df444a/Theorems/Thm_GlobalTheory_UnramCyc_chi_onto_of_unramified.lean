@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramCyc_chi_onto_of_unramified
 -- name    : GlobalTheory.UnramCyc.chi_onto_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:13:21.867228+00:00
 -- url     : https://prove2.me/theorems/4e1822aa-c395-48bf-8112-8ba9f4ea50c1

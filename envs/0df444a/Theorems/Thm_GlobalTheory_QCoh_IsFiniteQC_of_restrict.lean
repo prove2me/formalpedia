@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_IsFiniteQC_of_restrict
 -- name    : GlobalTheory.QCoh.IsFiniteQC.of_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:06:47.665617+00:00
 -- url     : https://prove2.me/theorems/bb4c526d-60e5-4bc5-8d89-36f04455cd5d

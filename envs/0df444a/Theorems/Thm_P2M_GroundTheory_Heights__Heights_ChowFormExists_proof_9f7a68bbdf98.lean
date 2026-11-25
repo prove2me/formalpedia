@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormExists_proof_9f7a68bbdf98
 -- name    : P2M_GroundTheory_Heights__Heights_ChowFormExists_proof_9f7a68bbdf98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:01:32.035927+00:00
 -- url     : https://prove2.me/theorems/8ae35696-6c64-4c52-ad5e-a7d5f7852158

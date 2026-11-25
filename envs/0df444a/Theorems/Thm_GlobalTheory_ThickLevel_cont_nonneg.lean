@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickLevel_cont_nonneg
 -- name    : GlobalTheory.ThickLevel.cont_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:48:02.717655+00:00
 -- url     : https://prove2.me/theorems/8e5849e6-ed48-4f36-83b8-0c0cfde09096

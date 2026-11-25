@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_divSq_harm
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.divSq_harm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:36:03.382812+00:00
 -- url     : https://prove2.me/theorems/65807d14-0f37-4c91-8a8a-d2562e8ec089

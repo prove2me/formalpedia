@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_restrict_map_eq_of_pullback_52248e31ec6e
 -- name    : P2M_GroundTheory_Heights__Heights_Model_restrict_map_eq_of_pullback_52248e31ec6e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:30:11.915032+00:00
 -- url     : https://prove2.me/theorems/a69b4246-1f74-4119-bf24-e6087cd7dbc8

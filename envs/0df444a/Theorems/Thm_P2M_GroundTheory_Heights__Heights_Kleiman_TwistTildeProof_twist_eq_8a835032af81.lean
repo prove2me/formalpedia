@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TwistTildeProof_twist_eq_8a835032af81
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TwistTildeProof_twist_eq_8a835032af81
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:59:11.172199+00:00
 -- url     : https://prove2.me/theorems/ddd19711-91c3-40d0-b991-05d8a63cd624

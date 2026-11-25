@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_ofSecond_mods_63f974983985
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_ofSecond_mods_63f974983985
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:01:25.643084+00:00
 -- url     : https://prove2.me/theorems/3003fe0f-ab21-4b91-a402-1252b025c2dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_tildeSys_twist_mono_7b53b83e8b56
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_tildeSys_twist_mono_7b53b83e8b56
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:01:51.191997+00:00
 -- url     : https://prove2.me/theorems/5c867ab7-4067-497b-9d6d-27b1b2e1fd60

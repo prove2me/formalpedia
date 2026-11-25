@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_IsAlt_eq_zero_of_cf_ddde2895fcf8
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_IsAlt_eq_zero_of_cf_ddde2895fcf8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:18:26.632582+00:00
 -- url     : https://prove2.me/theorems/bf0358db-d327-53b7-a403-8f1f1cf353e7

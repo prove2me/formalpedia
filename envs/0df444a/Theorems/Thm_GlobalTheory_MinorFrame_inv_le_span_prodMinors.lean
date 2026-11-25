@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_inv_le_span_prodMinors
 -- name    : GlobalTheory.MinorFrame.inv_le_span_prodMinors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:35:55.560113+00:00
 -- url     : https://prove2.me/theorems/65d6fc49-d736-4243-9da9-a441c7f91326

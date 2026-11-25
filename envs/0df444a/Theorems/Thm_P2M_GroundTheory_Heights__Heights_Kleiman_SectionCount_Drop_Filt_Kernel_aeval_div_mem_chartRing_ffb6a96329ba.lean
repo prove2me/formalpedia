@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_Filt_Kernel_aeval_div_mem_chartRing_ffb6a96329ba
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_Filt_Kernel_aeval_div_mem_chartRing_ffb6a96329ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:57:22.606436+00:00
 -- url     : https://prove2.me/theorems/2c31ac99-d056-54dd-a532-9ff014bbd307

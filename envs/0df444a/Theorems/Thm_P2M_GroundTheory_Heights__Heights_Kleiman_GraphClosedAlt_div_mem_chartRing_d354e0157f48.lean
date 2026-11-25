@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_GraphClosedAlt_div_mem_chartRing_d354e0157f48
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_GraphClosedAlt_div_mem_chartRing_d354e0157f48
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:56:23.837799+00:00
 -- url     : https://prove2.me/theorems/4e2bb2ac-005e-49dc-808f-57e8168f720c

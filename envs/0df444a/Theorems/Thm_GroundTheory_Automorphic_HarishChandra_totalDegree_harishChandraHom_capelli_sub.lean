@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_totalDegree_harishChandraHom_capelli_sub
 -- name    : GroundTheory.Automorphic.HarishChandra.totalDegree_harishChandraHom_capelli_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:03:11.144913+00:00
 -- url     : https://prove2.me/theorems/6ce62d4c-8efa-516c-b3a1-9f7ee33fc3d7

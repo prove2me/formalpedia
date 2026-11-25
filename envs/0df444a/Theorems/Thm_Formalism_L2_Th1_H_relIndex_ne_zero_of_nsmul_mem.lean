@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_relIndex_ne_zero_of_nsmul_mem
 -- name    : Formalism.L2.Th1.H.relIndex_ne_zero_of_nsmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:18:17.822921+00:00
 -- url     : https://prove2.me/theorems/be9007f3-d5ac-57e8-8d71-4e86c1e5da82

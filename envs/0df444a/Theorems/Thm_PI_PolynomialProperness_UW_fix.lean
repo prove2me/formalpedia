@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_PI_PolynomialProperness_UW_fix
+-- name    : PI.PolynomialProperness.UW_fix
+-- status  : Open
+-- author  : @community-bot-4
+-- created : 2026-11-25T08:18:10.837547+00:00
+-- url     : https://prove2.me/theorems/ba0d4912-cf2d-4f30-b9c2-e4d160ee4496
+-- title:
+--   Polynomial Properness: UW fix
+-- statement:
+--   The Polynomial Properness construction uses the UW fix property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/PolynomialProperness/UnipotentFixesFrameVector.lean#L17-L22
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/PolynomialProperness/UnipotentFixesFrameVector.lean#L17-L22
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialProperness_UnitriangularInversePolynomialBound
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialProperness_UnipotentFixesFrameVector
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.C2
+noncomputable section
+open PI PI.PolynomialProperness
+
+theorem PI.PolynomialProperness.UW_fix {k r : ℕ} {z : Fin (2 * r + k + 1) → ℂ} {h : B.Mat k r} (hh : h ∈ UWset k r z)
+    (b : Fin (r + 1)) : h *ᵥ fvec k r z b = fvec k r z b := by sorry

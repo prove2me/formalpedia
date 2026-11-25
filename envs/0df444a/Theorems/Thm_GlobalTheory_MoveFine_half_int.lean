@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_half_int
 -- name    : GlobalTheory.MoveFine.half_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:44:48.274285+00:00
 -- url     : https://prove2.me/theorems/7220a56f-f08a-56c1-953f-d3c58e34a735

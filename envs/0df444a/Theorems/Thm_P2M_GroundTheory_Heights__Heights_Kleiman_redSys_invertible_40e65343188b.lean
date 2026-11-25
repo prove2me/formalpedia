@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_redSys_invertible_40e65343188b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_redSys_invertible_40e65343188b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:10:32.033834+00:00
 -- url     : https://prove2.me/theorems/94ca1bcc-6d47-4ae7-964a-6f6a75e55e89

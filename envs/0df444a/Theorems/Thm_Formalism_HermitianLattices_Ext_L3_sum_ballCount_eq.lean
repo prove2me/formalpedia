@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_sum_ballCount_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.sum_ballCount_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:51:17.346971+00:00
 -- url     : https://prove2.me/theorems/9507f65a-e854-4849-9aac-87a56cb27112

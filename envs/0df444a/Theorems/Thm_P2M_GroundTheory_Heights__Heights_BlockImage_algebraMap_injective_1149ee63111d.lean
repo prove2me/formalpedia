@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockImage_algebraMap_injective_1149ee63111d
 -- name    : P2M_GroundTheory_Heights__Heights_BlockImage_algebraMap_injective_1149ee63111d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:54:03.80653+00:00
 -- url     : https://prove2.me/theorems/5e478fe2-08e4-55e0-a6ca-3c3841450640

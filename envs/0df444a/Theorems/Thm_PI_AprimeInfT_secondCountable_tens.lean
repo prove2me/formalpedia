@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfT_secondCountable_tens
 -- name    : PI.AprimeInfT.secondCountable_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:09:47.511022+00:00
 -- url     : https://prove2.me/theorems/51e25f22-543e-5952-941c-8dc8a052e57e

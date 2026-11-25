@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_SepGL_main
 -- name    : GlobalTheory.WpFam.SepGL.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:42:11.89442+00:00
 -- url     : https://prove2.me/theorems/f0fcff6d-3d96-4d7f-9008-0f415fc8f486

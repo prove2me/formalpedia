@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_hermitianLattices_glued_subspace_complement
 -- name    : GlobalTheory.T.card_hermitianLattices_glued_subspace_complement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:45:26.856234+00:00
 -- url     : https://prove2.me/theorems/0b8589d8-2706-4baa-841a-1c9f9a2bb0c2

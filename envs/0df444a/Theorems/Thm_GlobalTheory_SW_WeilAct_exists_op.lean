@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAct_exists_op
 -- name    : GlobalTheory.SW.WeilAct.exists_op
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:12.21462+00:00
 -- url     : https://prove2.me/theorems/e51a7b32-bf08-4a76-b21f-9f46b5739ee3

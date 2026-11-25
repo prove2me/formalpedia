@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivBoundIntegral_wordEnd_mem
 -- name    : GlobalTheory.DerivBoundIntegral.wordEnd_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:29:19.388408+00:00
 -- url     : https://prove2.me/theorems/45e11ab9-1751-5777-a110-32b2ca40b36a

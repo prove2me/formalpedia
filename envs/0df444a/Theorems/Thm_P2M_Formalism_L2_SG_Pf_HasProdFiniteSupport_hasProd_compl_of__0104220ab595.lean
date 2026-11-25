@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_HasProdFiniteSupport_hasProd_compl_of__0104220ab595
 -- name    : P2M_Formalism_L2_SG_Pf_HasProdFiniteSupport_hasProd_compl_of__0104220ab595
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:55:26.744093+00:00
 -- url     : https://prove2.me/theorems/59375d74-8acf-47c6-9187-b9c108556202

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_WeilPV_pv_of_transS
 -- name    : GlobalTheory.Phase.WeilPV.pv_of_transS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:07:04.555295+00:00
 -- url     : https://prove2.me/theorems/5004af03-c00c-46f3-8e00-1aa1a3788b8e

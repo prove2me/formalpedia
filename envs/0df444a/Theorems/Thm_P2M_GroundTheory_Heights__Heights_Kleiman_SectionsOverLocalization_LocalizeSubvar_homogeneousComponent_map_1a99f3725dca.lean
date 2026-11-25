@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_LocalizeSubvar_homogeneousComponent_map_1a99f3725dca
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_LocalizeSubvar_homogeneousComponent_map_1a99f3725dca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:56:26.963445+00:00
 -- url     : https://prove2.me/theorems/7735d55a-a441-4eae-a310-814bc1017ad7

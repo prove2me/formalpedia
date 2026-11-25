@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_generated_twistSys_zero_69b6ba3803f8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_generated_twistSys_zero_69b6ba3803f8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:59:59.494801+00:00
 -- url     : https://prove2.me/theorems/403a3111-2a8f-4143-b82c-d3d7d0e2266b

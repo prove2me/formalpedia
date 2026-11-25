@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscOver_det_mem
 -- name    : GlobalTheory.DiscOver.det_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:45:39.245802+00:00
 -- url     : https://prove2.me/theorems/f5aff526-1e94-4daf-a65f-4e0576017ab8

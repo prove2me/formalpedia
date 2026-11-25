@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Inhab_exampleFrame_exists_isTerm
 -- name    : GlobalTheory.HL.Inhab.exampleFrame_exists_isTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:34:17.670978+00:00
 -- url     : https://prove2.me/theorems/f5beedfd-5fd6-5f88-a63c-9b384bd317c6

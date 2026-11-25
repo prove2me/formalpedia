@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_fromSpec_coordOpen_eq_ptHom
 -- name    : GlobalTheory.WeierstrassCurve.fromSpec_coordOpen_eq_ptHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:52:44.677438+00:00
 -- url     : https://prove2.me/theorems/bb78da47-fc6c-5ad8-9e2c-2e5b609cbf1a

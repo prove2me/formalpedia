@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermOrthBasis_exists_unit_norm
 -- name    : GlobalTheory.HermOrthBasis.exists_unit_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:41:08.417802+00:00
 -- url     : https://prove2.me/theorems/54248e0f-8e35-5f80-940f-8d98523bf8cb

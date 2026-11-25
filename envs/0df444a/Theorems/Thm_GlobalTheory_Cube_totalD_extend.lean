@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_totalD_extend
 -- name    : GlobalTheory.Cube.totalD_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:37:50.626404+00:00
 -- url     : https://prove2.me/theorems/a26d1873-10b0-4a80-a294-ed8294cb82e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_sOf_tr
 -- name    : GlobalTheory.MoveFine.sOf_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:58:20.750224+00:00
 -- url     : https://prove2.me/theorems/79b542f1-b6c7-43d2-a691-efc76edbf3d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_div_pow_mem_of_mem_pow_0ff2638b160f
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_div_pow_mem_of_mem_pow_0ff2638b160f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:00:15.056251+00:00
 -- url     : https://prove2.me/theorems/4f8212a6-fd03-4db3-b1c1-4ca628b17518

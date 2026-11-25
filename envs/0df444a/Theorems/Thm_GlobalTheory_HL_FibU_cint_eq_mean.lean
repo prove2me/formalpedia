@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FibU_cint_eq_mean
 -- name    : GlobalTheory.HL.FibU.cint_eq_mean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:33:13.086897+00:00
 -- url     : https://prove2.me/theorems/e9b4025e-898b-4ab7-a266-bb29382fe4eb

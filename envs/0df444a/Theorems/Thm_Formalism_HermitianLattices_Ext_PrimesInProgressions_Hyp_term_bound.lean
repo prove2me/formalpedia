@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Hyp_term_bound
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Hyp.term_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:05:08.3934+00:00
 -- url     : https://prove2.me/theorems/dbb3b92f-bf56-47e4-9f87-4b11939bb868

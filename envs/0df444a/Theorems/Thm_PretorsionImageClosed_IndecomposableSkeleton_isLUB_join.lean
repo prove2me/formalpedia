@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_isLUB_join
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.isLUB_join
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T07:32:22.132011+00:00
 -- url     : https://prove2.me/theorems/4dcb0b43-a758-5030-95de-85a95e4f50ba

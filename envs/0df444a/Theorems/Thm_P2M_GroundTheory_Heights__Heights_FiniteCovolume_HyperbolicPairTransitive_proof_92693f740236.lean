@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_HyperbolicPairTransitive_proof_92693f740236
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_HyperbolicPairTransitive_proof_92693f740236
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:51:38.159934+00:00
 -- url     : https://prove2.me/theorems/574ad77e-b608-4125-a1c3-ce6702d68f0e

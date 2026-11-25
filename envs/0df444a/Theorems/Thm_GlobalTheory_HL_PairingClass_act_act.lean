@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PairingClass_act_act
 -- name    : GlobalTheory.HL.PairingClass.act_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:33:24.638263+00:00
 -- url     : https://prove2.me/theorems/882ab014-8e94-4b7f-bfb3-aacaa75429d7

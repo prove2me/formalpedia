@@ -13723,9 +13723,9 @@
 {"parent": "GlobalTheory.isAffineHom_descendsAlong_fpqc", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.isAffineHom_descendsAlong_fpqc", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_IsAffineHomOfFlatQuotientOfAffineKernel", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.isAffineHom_descendsAlong_fpqc", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_FamMod", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.T.wQ_characterization_and_mul_relation", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_NormalisingFactorStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.T.wQ_characterization_and_mul_relation", "child": "Development_AbelianVarietyTheory_Definitions_Degenerations_SepticCharacterInjective", "via": ["statement"]}
-{"parent": "GlobalTheory.T.wQ_characterization_and_mul_relation", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_NormalisingFactor", "via": ["statement"]}
+{"parent": "GlobalTheory.T.wQ_characterization_and_mul_relation", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_NormalisingFactorStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.wQ_characterization_and_mul_relation", "child": "Development_AbelianVarietyTheory_Definitions_Degenerations_SepticCharacterInjective", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.wQ_characterization_and_mul_relation", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_NormalisingFactor", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SocleDet.coeff_eq_zero_of_mem_span_pow", "child": "Development_AbelianVarietyTheory_Proofs_ThetaLawProofs_CoeffEqZeroOfMemSpanPow", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.FD.RankOneBoostIsometries.boost_comp", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_FlowMatrixMajorants", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.FD.RankOneBoostIsometries.boost_comp", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_RankOneBoostIsometries", "via": ["statement"]}
@@ -51190,10 +51190,10 @@
 {"parent": "RH1E6S16_D058_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Formalism.CoboundaryTransfers.claim_key", "child": "Formalism_CoboundaryTransfers_GammaStableTransfers_TorsionKilledCriterionHolds", "via": ["solution", "statement"]}
 {"parent": "Formalism.CoboundaryTransfers.claim_key", "child": "Formalism_CoboundaryTransfers_StatementAPI", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.T.finrank_cyclotomicExt_and_cyclotomicChar_surjective", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_HTBasis", "via": ["statement"]}
-{"parent": "GlobalTheory.T.finrank_cyclotomicExt_and_cyclotomicChar_surjective", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_FinrankCyclotomicExtAndCyclotomicCharSurjectiveStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.T.finrank_cyclotomicExt_and_cyclotomicChar_surjective", "child": "Formalism_SharpRestriction_LevelLetterCocycles_DataNLoc", "via": ["statement"]}
-{"parent": "GlobalTheory.T.finrank_cyclotomicExt_and_cyclotomicChar_surjective", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_FinrankCyclotomicExtAndCyclotomicCharSurjective", "via": ["statement"]}
+{"parent": "GlobalTheory.T.finrank_cyclotomicExt_and_cyclotomicChar_surjective", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_HTBasis", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.finrank_cyclotomicExt_and_cyclotomicChar_surjective", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_FinrankCyclotomicExtAndCyclotomicCharSurjectiveStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.finrank_cyclotomicExt_and_cyclotomicChar_surjective", "child": "Formalism_SharpRestriction_LevelLetterCocycles_DataNLoc", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.finrank_cyclotomicExt_and_cyclotomicChar_surjective", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_FinrankCyclotomicExtAndCyclotomicCharSurjective", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormalisedPeriodAlgebraicEstimateStatement", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormalisedPeriodAlgebraicEstimate", "via": ["statement"]}
 {"parent": "Development_AutomorphicArithmetic_AutomorphicVarieties_PartsConj", "child": "ReciprocityTheory.Gal.continuous_toGS", "via": ["statement"]}
 {"parent": "Development_AutomorphicArithmetic_AutomorphicVarieties_PartsConj", "child": "ReciprocityTheory.Gal.isOpen_setOf_apply", "via": ["statement"]}
@@ -51426,11 +51426,11 @@
 {"parent": "RH1E6S16.group_059", "child": "ArdaRH65K_Probes_ArbEconomics_Sound", "via": ["statement"]}
 {"parent": "RH1E6S16.group_059", "child": "ArdaRS_Arithmetic", "via": ["statement"]}
 {"parent": "RH1E6S16.group_059", "child": "ArdaRH65K_RS_Mellin", "via": ["statement"]}
-{"parent": "GlobalTheory.Cyc.IntBasis.norm_term", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_HTBasis", "via": ["statement"]}
-{"parent": "GlobalTheory.Cyc.IntBasis.norm_term", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormMemCyclotomicLayerPrimeRpowStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Cyc.IntBasis.norm_term", "child": "Formalism_SharpRestriction_LevelLetterCocycles_DataNLoc", "via": ["statement"]}
-{"parent": "GlobalTheory.Cyc.IntBasis.norm_term", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormPrimitiveRootPrimePowSubOnePadicComplexStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Cyc.IntBasis.norm_term", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IntegersEqSumZetaPow", "via": ["statement"]}
+{"parent": "GlobalTheory.Cyc.IntBasis.norm_term", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_HTBasis", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Cyc.IntBasis.norm_term", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormMemCyclotomicLayerPrimeRpowStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Cyc.IntBasis.norm_term", "child": "Formalism_SharpRestriction_LevelLetterCocycles_DataNLoc", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Cyc.IntBasis.norm_term", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormPrimitiveRootPrimePowSubOnePadicComplexStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Cyc.IntBasis.norm_term", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IntegersEqSumZetaPow", "via": ["solution", "statement"]}
 {"parent": "DiscreteGroups.sglob.LConvKM.ray", "child": "Development_DiscreteGroups_GlobalIrreducibility_LConvKMCore", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ThetaGL.DualPair.ev_tmul", "child": "Development_AbelianVarietyTheory_Proofs_SatakeParameters_ThetaPairContragredientQuotient", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ThetaGL.DualPair.ev_tmul", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_EventuallyCompSideMulEq", "via": ["solution", "statement"]}

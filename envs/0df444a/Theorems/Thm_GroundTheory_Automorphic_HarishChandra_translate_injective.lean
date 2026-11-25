@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_translate_injective
 -- name    : GroundTheory.Automorphic.HarishChandra.translate_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:03:28.805891+00:00
 -- url     : https://prove2.me/theorems/342fb880-5959-5ef1-b158-2bb53466e317

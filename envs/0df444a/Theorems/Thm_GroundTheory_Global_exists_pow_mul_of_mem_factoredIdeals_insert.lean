@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_pow_mul_of_mem_factoredIdeals_insert
 -- name    : GroundTheory.Global.exists_pow_mul_of_mem_factoredIdeals_insert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:03:19.103031+00:00
 -- url     : https://prove2.me/theorems/3e8bf5c9-7619-5c15-885e-8956e25a0fa3

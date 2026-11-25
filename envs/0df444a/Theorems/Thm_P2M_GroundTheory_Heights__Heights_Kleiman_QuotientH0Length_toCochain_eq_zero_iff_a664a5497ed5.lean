@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_QuotientH0Length_toCochain_eq_zero_iff_a664a5497ed5
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_QuotientH0Length_toCochain_eq_zero_iff_a664a5497ed5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:56:41.099974+00:00
 -- url     : https://prove2.me/theorems/161c0f8e-3d8a-5ccd-91d5-8151ce1796aa

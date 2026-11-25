@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_EAux_thetaS_eq
 -- name    : Formalism.L2.Th1.D.EAux.thetaS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:40:30.351666+00:00
 -- url     : https://prove2.me/theorems/7cf8cfee-acfc-5db4-8d64-cbfb14218811

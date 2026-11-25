@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_not_isFiniteQC_tilde_rat
 -- name    : GlobalTheory.QCoh.not_isFiniteQC_tilde_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:06:54.233985+00:00
 -- url     : https://prove2.me/theorems/41384e6e-241a-4f51-80d0-adf164ab30ca

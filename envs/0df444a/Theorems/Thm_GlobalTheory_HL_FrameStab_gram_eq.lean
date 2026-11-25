@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameStab_gram_eq
 -- name    : GlobalTheory.HL.FrameStab.gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:30:09.923749+00:00
 -- url     : https://prove2.me/theorems/01c58a10-6242-4e60-8a40-6f4479956d67

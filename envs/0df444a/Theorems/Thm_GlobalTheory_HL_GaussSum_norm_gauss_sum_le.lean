@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GaussSum_norm_gauss_sum_le
 -- name    : GlobalTheory.HL.GaussSum.norm_gauss_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:23:47.646244+00:00
 -- url     : https://prove2.me/theorems/0151f895-bdca-588e-af9f-f64b67a4eaae

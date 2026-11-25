@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_map_idealLevel_le_standardOpenSubgroup
 -- name    : GroundTheory.Global.IdeleGroup.map_idealLevel_le_standardOpenSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:01:28.11158+00:00
 -- url     : https://prove2.me/theorems/485c03c5-676e-53cc-a8dd-f4eb728ec742

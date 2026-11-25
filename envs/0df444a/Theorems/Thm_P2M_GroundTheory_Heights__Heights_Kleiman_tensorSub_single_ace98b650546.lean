@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_tensorSub_single_ace98b650546
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_tensorSub_single_ace98b650546
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:05:31.450122+00:00
 -- url     : https://prove2.me/theorems/8a3cab0e-1e25-58af-abef-a703dd1f28f9

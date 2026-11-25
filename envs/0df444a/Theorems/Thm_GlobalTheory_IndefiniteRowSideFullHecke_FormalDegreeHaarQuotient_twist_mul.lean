@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FormalDegreeHaarQuotient_twist_mul
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FormalDegreeHaarQuotient.twist_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:01:08.547853+00:00
 -- url     : https://prove2.me/theorems/c026ad2e-489d-466c-bfdf-24a7be80dec3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_approx_OO
 -- name    : Formalism.L2.S.Pv.EnergyAbs.approx_OO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:16:14.154211+00:00
 -- url     : https://prove2.me/theorems/a006b6af-d33e-4ab8-9628-c25e8d584b7e

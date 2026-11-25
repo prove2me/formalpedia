@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_contDiff_eval_map_d0f70efe1ad7
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_contDiff_eval_map_d0f70efe1ad7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:21:42.56672+00:00
 -- url     : https://prove2.me/theorems/06e914c0-e639-4e98-9f0c-bf6df5d559ab

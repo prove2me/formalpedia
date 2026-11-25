@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_mem_Kset_mul_mem_Pset_eq
 -- name    : GlobalTheory.T.exists_mem_Kset_mul_mem_Pset_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:54:37.396337+00:00
 -- url     : https://prove2.me/theorems/b8912a4b-06c8-406c-8673-498796a72d85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_AnaSys_curveL_eq
 -- name    : Formalism.L2.Th1.E.AnaSys.curveL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:38:55.627977+00:00
 -- url     : https://prove2.me/theorems/638264cb-e53b-52ae-94ae-87c021b733bc

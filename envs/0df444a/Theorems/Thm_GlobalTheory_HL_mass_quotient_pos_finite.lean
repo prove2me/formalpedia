@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_mass_quotient_pos_finite
 -- name    : GlobalTheory.HL.mass_quotient_pos_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:38:01.174658+00:00
 -- url     : https://prove2.me/theorems/b1985c34-0cf0-562e-a891-e21c3109e88d

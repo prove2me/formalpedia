@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Inhab_isTermW_of_isSD
 -- name    : GlobalTheory.HL.Inhab.isTermW_of_isSD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:39:53.60082+00:00
 -- url     : https://prove2.me/theorems/70752fbd-d90f-4e84-9f04-e18a4d8dddbb

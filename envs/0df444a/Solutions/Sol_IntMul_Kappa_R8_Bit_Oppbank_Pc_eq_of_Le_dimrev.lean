@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R8.Bit.Oppbank.Pc_eq_of_Le_dimrev
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T19:12:55.344157+00:00
 -- url     : https://prove2.me/submissions/393d2b69-d720-47b7-8cee-af6989badd52
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_IntMul_Kappa_R8_Data_BitOppbankPnd
 import Definitions.Def_IntMul_Kappa_R8_Data_BitOppbankMoveFacts2

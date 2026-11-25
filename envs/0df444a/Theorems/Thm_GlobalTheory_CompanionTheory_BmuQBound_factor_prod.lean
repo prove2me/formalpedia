@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuQBound_factor_prod
 -- name    : GlobalTheory.CompanionTheory.BmuQBound.factor_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:48:34.171702+00:00
 -- url     : https://prove2.me/theorems/1c7e2dd9-6d56-4d32-b0f5-2f246f59e7ee

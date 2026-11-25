@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_intCast_mem_regMaxAt_f18544c58eb2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_intCast_mem_regMaxAt_f18544c58eb2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:27:31.158485+00:00
 -- url     : https://prove2.me/theorems/59918374-44d7-447b-85f9-518c1623ebf3

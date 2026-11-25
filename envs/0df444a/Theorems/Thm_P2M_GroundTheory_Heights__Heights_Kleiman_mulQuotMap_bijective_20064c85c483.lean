@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_mulQuotMap_bijective_20064c85c483
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_mulQuotMap_bijective_20064c85c483
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:02:16.52769+00:00
 -- url     : https://prove2.me/theorems/6bab2675-318c-45b4-9271-fb9e1bfbda0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_ex_phi_hasDerivAt
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.ex_phi_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:03:17.6734+00:00
 -- url     : https://prove2.me/theorems/fe76554d-42fe-5d86-9252-d6ea43577be6

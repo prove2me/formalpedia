@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongTrans_exists_solution
 -- name    : GlobalTheory.CongTrans.exists_solution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:19:09.933638+00:00
 -- url     : https://prove2.me/theorems/df3fd694-0aee-4fbb-af6c-f3889b03c845

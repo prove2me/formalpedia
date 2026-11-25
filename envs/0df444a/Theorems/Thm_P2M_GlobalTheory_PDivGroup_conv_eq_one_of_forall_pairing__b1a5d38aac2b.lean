@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_PDivGroup_conv_eq_one_of_forall_pairing__b1a5d38aac2b
 -- name    : P2M_GlobalTheory_PDivGroup_conv_eq_one_of_forall_pairing__b1a5d38aac2b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:38:23.453253+00:00
 -- url     : https://prove2.me/theorems/b2ebd9df-2c79-499b-bd7b-8f4841b6116d

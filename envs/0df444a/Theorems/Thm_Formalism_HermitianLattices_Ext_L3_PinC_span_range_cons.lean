@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinC_span_range_cons
 -- name    : Formalism.HermitianLattices.Ext.L3.PinC.span_range_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:53:58.747524+00:00
 -- url     : https://prove2.me/theorems/91d37b5e-9806-513b-8523-eec268042927

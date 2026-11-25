@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_isZero_groupCohomology_res_leftRegular
 -- name    : GroundTheory.GroupCoh.isZero_groupCohomology_res_leftRegular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:15:29.328088+00:00
 -- url     : https://prove2.me/theorems/8b503e8a-dea6-560d-965e-3f12cc15b7c3

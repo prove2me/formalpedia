@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_block_pigeon
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.block_pigeon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:26:13.800253+00:00
 -- url     : https://prove2.me/theorems/56fd410c-9e69-54ba-8d2b-dd0fd7722b71

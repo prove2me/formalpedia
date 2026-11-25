@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_isUnit_ratioOn
 -- name    : GlobalTheory.WeierstrassCurve.isUnit_ratioOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:56:25.666941+00:00
 -- url     : https://prove2.me/theorems/036a69bf-e74f-4484-ba8a-cfd3f07574bc

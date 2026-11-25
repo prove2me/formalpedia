@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocDict_lat_transfer
 -- name    : GlobalTheory.HL.LocDict.lat_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:33:08.500636+00:00
 -- url     : https://prove2.me/theorems/f89138bf-98cc-4a81-a5cb-d79ef4b245a4

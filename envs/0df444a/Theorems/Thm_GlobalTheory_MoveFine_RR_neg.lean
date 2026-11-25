@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_RR_neg
 -- name    : GlobalTheory.MoveFine.RR_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:41:13.553091+00:00
 -- url     : https://prove2.me/theorems/ba3ae046-b334-47ef-8e72-b11e22898663

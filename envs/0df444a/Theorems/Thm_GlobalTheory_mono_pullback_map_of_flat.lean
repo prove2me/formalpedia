@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mono_pullback_map_of_flat
 -- name    : GlobalTheory.mono_pullback_map_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:53:57.26785+00:00
 -- url     : https://prove2.me/theorems/b973467b-da2e-4648-a6e5-b8aae7cc38a4

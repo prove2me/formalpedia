@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Compl_idx_sup_right
 -- name    : GlobalTheory.DegCnt.Compl.idx_sup_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:49:51.806319+00:00
 -- url     : https://prove2.me/theorems/fc6b5fa3-150d-5c06-9938-db0759060591

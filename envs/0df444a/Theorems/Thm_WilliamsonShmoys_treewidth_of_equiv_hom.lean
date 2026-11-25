@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_treewidth_of_equiv_hom
 -- name    : WilliamsonShmoys.treewidth_of_equiv_hom
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-25T08:09:01.764804+00:00
 -- url     : https://prove2.me/theorems/8866924f-8ea3-4409-9a89-c584041bbdf0

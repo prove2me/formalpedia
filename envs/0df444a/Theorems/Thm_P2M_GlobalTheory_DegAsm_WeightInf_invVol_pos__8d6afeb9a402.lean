@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DegAsm_WeightInf_invVol_pos__8d6afeb9a402
 -- name    : P2M_GlobalTheory_DegAsm_WeightInf_invVol_pos__8d6afeb9a402
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:56:02.656865+00:00
 -- url     : https://prove2.me/theorems/55a157b2-2b1a-4efb-92cb-3654d2362f0d

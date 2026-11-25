@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QReflGen_step
 -- name    : GlobalTheory.HL.QReflGen.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:33:12.072166+00:00
 -- url     : https://prove2.me/theorems/a7927734-eaf6-4f1e-96e3-0f8b91c89a14

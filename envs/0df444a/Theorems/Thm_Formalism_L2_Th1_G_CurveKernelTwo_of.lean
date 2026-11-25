@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_CurveKernelTwo_of
 -- name    : Formalism.L2.Th1.G.CurveKernelTwo_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:25:57.916035+00:00
 -- url     : https://prove2.me/theorems/27efbb22-129d-439e-bc4e-68a72d811bf9

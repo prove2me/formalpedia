@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_EtaPartialSums__e_eq_aef0d302bf7a
 -- name    : P2M_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_EtaPartialSums__e_eq_aef0d302bf7a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:52:14.781882+00:00
 -- url     : https://prove2.me/theorems/7bb509ed-075e-4edd-94cf-1aa6b5ad6e60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_VLev_sqLen_eq
 -- name    : GlobalTheory.HCXi.VLev.sqLen_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:43:24.161568+00:00
 -- url     : https://prove2.me/theorems/5565148b-a19c-425e-a5a7-e10a94533092

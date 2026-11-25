@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Global_Elliptic_tendsto_E__atImInfty_b8fd613d74a6
 -- name    : P2M_GroundTheory_Global_Elliptic_tendsto_E__atImInfty_b8fd613d74a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:53:21.548523+00:00
 -- url     : https://prove2.me/theorems/dcc7a4df-196c-4208-869a-f86ee4ca10ea

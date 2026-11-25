@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_RenameHilbFn_proof_75a7cbad319e
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_RenameHilbFn_proof_75a7cbad319e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:03:15.8453+00:00
 -- url     : https://prove2.me/theorems/0afcf9fd-1cc2-511c-b033-9f008c46e7f0

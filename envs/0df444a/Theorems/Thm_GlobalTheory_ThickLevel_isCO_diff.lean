@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickLevel_isCO_diff
 -- name    : GlobalTheory.ThickLevel.isCO_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:46:50.568538+00:00
 -- url     : https://prove2.me/theorems/e8a2b219-a218-4678-9c29-794aec6b3dff

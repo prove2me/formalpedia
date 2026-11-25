@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FibU_exists_reps_refU
 -- name    : GlobalTheory.HL.FibU.exists_reps_refU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:34:35.222804+00:00
 -- url     : https://prove2.me/theorems/32bec26e-5a0b-5adb-bd95-d03b397b9590

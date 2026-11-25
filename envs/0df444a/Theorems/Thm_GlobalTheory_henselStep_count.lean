@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_henselStep_count
 -- name    : GlobalTheory.henselStep_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:46:31.364958+00:00
 -- url     : https://prove2.me/theorems/d65b01c4-e8bf-52c9-91f9-c1f0b5fd6252

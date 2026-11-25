@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_CondExp_proposition_4_4
 -- name    : KallMayerSLP.CondExp.proposition_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:10:36.111574+00:00
 -- url     : https://prove2.me/theorems/1df3659d-5aca-4a6e-ac07-6e9b26c3d372

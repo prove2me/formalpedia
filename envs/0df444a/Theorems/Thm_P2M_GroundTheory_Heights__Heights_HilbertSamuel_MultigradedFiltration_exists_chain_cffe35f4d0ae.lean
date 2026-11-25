@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_exists_chain_cffe35f4d0ae
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_exists_chain_cffe35f4d0ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:19:26.557751+00:00
 -- url     : https://prove2.me/theorems/d7965673-1fa9-49ec-8e8d-3698554e3163

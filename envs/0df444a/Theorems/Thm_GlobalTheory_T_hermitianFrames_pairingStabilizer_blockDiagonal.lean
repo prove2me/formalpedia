@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianFrames_pairingStabilizer_blockDiagonal
 -- name    : GlobalTheory.T.hermitianFrames_pairingStabilizer_blockDiagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:45:33.672771+00:00
 -- url     : https://prove2.me/theorems/9960010b-9628-4839-b33e-4e5453cfceac

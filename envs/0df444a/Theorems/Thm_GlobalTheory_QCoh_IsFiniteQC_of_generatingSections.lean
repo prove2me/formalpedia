@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_IsFiniteQC_of_generatingSections
 -- name    : GlobalTheory.QCoh.IsFiniteQC.of_generatingSections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:04:22.721316+00:00
 -- url     : https://prove2.me/theorems/696b68ce-f121-4fc5-b1c9-261ec278c580

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_IsFlatOver_restrict
 -- name    : GlobalTheory.QCoh.IsFlatOver.restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:09:59.863128+00:00
 -- url     : https://prove2.me/theorems/2fdd0828-c0ce-4db1-b8e1-0eb48a457c2d

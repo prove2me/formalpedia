@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_H2mul_toBrauer_injective
 -- name    : GroundTheory.Brauer.H2mul.toBrauer_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:15:22.490896+00:00
 -- url     : https://prove2.me/theorems/d43819d0-f1a2-4bb7-bf73-a7e5c231644a

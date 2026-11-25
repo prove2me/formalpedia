@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergyInvariance_invariantUnder_of_row_one_631ce3204412
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergyInvariance_invariantUnder_of_row_one_631ce3204412
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:18:43.008716+00:00
 -- url     : https://prove2.me/theorems/18ab8921-dabb-4d8e-a655-c3d764463f37

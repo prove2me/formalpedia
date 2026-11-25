@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuWordBd_wordBd_of_dsLin
 -- name    : GlobalTheory.CompanionTheory.BmuWordBd.wordBd_of_dsLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:36:51.126185+00:00
 -- url     : https://prove2.me/theorems/c3ea647c-3dfb-518c-b56c-bd608244cd39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitCasRes_norm_add_sq_le
 -- name    : GlobalTheory.splitCasRes_norm_add_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:54:04.270235+00:00
 -- url     : https://prove2.me/theorems/3e413634-634d-45a6-84eb-ab56fce08e05

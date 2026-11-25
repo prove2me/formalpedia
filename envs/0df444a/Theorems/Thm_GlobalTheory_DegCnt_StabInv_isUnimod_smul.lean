@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_isUnimod_smul
 -- name    : GlobalTheory.DegCnt.StabInv.isUnimod_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:58:54.398748+00:00
 -- url     : https://prove2.me/theorems/30fe6746-44bf-5d1b-b497-9eec284d21da

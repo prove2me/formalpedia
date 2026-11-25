@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepThreeOnWLift_idealGraded_kill_499fcffa6e8e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepThreeOnWLift_idealGraded_kill_499fcffa6e8e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:59:16.600234+00:00
 -- url     : https://prove2.me/theorems/1b4752c8-e782-442b-a10d-e20a544c31c6

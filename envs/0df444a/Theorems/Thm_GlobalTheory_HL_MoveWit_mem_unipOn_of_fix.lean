@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveWit_mem_unipOn_of_fix
 -- name    : GlobalTheory.HL.MoveWit.mem_unipOn_of_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:45:17.338239+00:00
 -- url     : https://prove2.me/theorems/4cb9df1c-8e0a-4009-9bf3-16c77e76d591

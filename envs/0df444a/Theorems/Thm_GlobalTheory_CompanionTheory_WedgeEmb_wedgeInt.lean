@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeEmb_wedgeInt
 -- name    : GlobalTheory.CompanionTheory.WedgeEmb.wedgeInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:23:47.257476+00:00
 -- url     : https://prove2.me/theorems/676d1f8e-b443-52ab-b1d0-ced35bcf4488

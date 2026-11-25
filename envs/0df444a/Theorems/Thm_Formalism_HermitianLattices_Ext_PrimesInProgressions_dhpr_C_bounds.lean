@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhpr_C_bounds
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhpr_C_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:27:11.949229+00:00
 -- url     : https://prove2.me/theorems/4a54fe44-cf0b-5c63-a945-fddc9252cda9

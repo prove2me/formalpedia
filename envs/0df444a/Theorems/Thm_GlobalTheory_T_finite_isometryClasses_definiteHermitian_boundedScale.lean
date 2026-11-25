@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_isometryClasses_definiteHermitian_boundedScale
 -- name    : GlobalTheory.T.finite_isometryClasses_definiteHermitian_boundedScale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:47:08.984854+00:00
 -- url     : https://prove2.me/theorems/5000af8d-d63f-4fcf-be28-6941c142c956

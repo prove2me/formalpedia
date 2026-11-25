@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TotalWeight_natCast_pow_le_pow_of_exponent_le
 -- name    : GlobalTheory.HL.TotalWeight.natCast_pow_le_pow_of_exponent_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:47:16.064154+00:00
 -- url     : https://prove2.me/theorems/6ee92991-951f-4a6e-bcfe-101180441e70

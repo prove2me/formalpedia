@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_RestrLenRestrict_toH0OfCocycle_eq_zero_iff_4b1e54951f8f
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_RestrLenRestrict_toH0OfCocycle_eq_zero_iff_4b1e54951f8f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:08:26.395289+00:00
 -- url     : https://prove2.me/theorems/98e51e30-5013-4e77-8abb-4328d1e0f223

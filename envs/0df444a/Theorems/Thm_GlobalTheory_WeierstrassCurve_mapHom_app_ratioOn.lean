@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_mapHom_app_ratioOn
 -- name    : GlobalTheory.WeierstrassCurve.mapHom_app_ratioOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:54:04.736974+00:00
 -- url     : https://prove2.me/theorems/9897320a-8875-5ce4-929e-036a9bbf278b

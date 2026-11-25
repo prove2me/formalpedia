@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_differenced_explicit_formula
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.differenced_explicit_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:16:58.114845+00:00
 -- url     : https://prove2.me/theorems/a3f77dea-5712-43be-b390-72615539e8b1

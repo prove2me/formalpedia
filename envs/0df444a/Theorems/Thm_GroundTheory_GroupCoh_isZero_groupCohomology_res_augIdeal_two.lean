@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_isZero_groupCohomology_res_augIdeal_two
 -- name    : GroundTheory.GroupCoh.isZero_groupCohomology_res_augIdeal_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:52:22.096717+00:00
 -- url     : https://prove2.me/theorems/c80ed612-1486-4525-b583-7c8b45a0d32e

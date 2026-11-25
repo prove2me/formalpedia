@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_NFUnique_wt_ist
 -- name    : GlobalTheory.DegAsm.NFUnique.wt_ist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:37:34.771061+00:00
 -- url     : https://prove2.me/theorems/107b82e1-3ff7-5801-8cf9-e1d93ea1ea5d

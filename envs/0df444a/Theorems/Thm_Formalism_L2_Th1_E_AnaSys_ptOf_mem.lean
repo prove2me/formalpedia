@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_AnaSys_ptOf_mem
 -- name    : Formalism.L2.Th1.E.AnaSys.ptOf_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:25.141536+00:00
 -- url     : https://prove2.me/theorems/e3a41a19-be42-5f84-9c13-7aeda7b4b804

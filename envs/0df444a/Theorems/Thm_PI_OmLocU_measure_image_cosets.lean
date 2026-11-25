@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmLocU_measure_image_cosets
 -- name    : PI.OmLocU.measure_image_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:05:00.985234+00:00
 -- url     : https://prove2.me/theorems/ed8aaabc-54eb-41fc-bd28-26322e9d0a8c

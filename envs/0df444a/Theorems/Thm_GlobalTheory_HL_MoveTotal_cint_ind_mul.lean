@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveTotal_cint_ind_mul
 -- name    : GlobalTheory.HL.MoveTotal.cint_ind_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:40:49.077899+00:00
 -- url     : https://prove2.me/theorems/d6d9a250-c613-5f01-a5b5-4ba2bdb21741

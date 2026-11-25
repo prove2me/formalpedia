@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_powerset_map_emb_74d7138d59bc
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_powerset_map_emb_74d7138d59bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:06:29.419797+00:00
 -- url     : https://prove2.me/theorems/a539747b-2893-52c0-ae43-ff2ed110ca44

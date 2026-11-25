@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleSecs_mem_secs_pow_twistSys_one_iff_aac9716d8ba6
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleSecs_mem_secs_pow_twistSys_one_iff_aac9716d8ba6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:59:20.769228+00:00
 -- url     : https://prove2.me/theorems/559378cf-8676-497f-b1f7-23aafdae19b8

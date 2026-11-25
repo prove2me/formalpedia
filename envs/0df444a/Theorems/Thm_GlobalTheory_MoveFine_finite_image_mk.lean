@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_finite_image_mk
 -- name    : GlobalTheory.MoveFine.finite_image_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:43:42.22873+00:00
 -- url     : https://prove2.me/theorems/278459e6-06ab-591b-9b89-d627a8254df0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_DimTie_aeval_C_mul_X_injective_c5ce1551daa7
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_DimTie_aeval_C_mul_X_injective_c5ce1551daa7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:53:52.298127+00:00
 -- url     : https://prove2.me/theorems/48513b90-375f-493b-9667-10133672fc35

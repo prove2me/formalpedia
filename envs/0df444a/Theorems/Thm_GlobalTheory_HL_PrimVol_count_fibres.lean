@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PrimVol_count_fibres
 -- name    : GlobalTheory.HL.PrimVol.count_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:03:30.50718+00:00
 -- url     : https://prove2.me/theorems/b71b3fdb-df69-4994-b293-157830e135c4

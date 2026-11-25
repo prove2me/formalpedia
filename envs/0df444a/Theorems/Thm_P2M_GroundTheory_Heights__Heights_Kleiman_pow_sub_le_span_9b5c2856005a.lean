@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_pow_sub_le_span_9b5c2856005a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_pow_sub_le_span_9b5c2856005a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:03:34.796729+00:00
 -- url     : https://prove2.me/theorems/4f85ff10-f3ad-4312-afbf-59625ba6a5b5

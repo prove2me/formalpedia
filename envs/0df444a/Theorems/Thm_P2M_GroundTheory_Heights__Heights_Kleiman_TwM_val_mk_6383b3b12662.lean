@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TwM_val_mk_6383b3b12662
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TwM_val_mk_6383b3b12662
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:58:34.849565+00:00
 -- url     : https://prove2.me/theorems/6008e5ef-eaa8-50e1-bba2-fb17c9cb70b4

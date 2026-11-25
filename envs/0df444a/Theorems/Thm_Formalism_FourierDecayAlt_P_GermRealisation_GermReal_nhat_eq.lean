@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GermRealisation_GermReal_nhat_eq
 -- name    : Formalism.FourierDecayAlt.P.GermRealisation.GermReal.nhat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:01:17.073698+00:00
 -- url     : https://prove2.me/theorems/fc371707-9600-4b0b-9b33-8cff3e5e905f

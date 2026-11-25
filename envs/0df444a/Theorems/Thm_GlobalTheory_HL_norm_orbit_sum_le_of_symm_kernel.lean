@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_norm_orbit_sum_le_of_symm_kernel
 -- name    : GlobalTheory.HL.norm_orbit_sum_le_of_symm_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:34:07.810482+00:00
 -- url     : https://prove2.me/theorems/4e013b3a-8d8e-46ea-822b-698b2ad5dca6

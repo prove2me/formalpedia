@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PlacesInt_integers_local
 -- name    : GlobalTheory.HL.PlacesInt.integers_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:06:50.084808+00:00
 -- url     : https://prove2.me/theorems/178c5c1b-ba0e-5e40-81cb-664f334ebf10

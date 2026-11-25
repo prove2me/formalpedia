@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscOver_gram_comb
 -- name    : GlobalTheory.DiscOver.gram_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:25:27.290366+00:00
 -- url     : https://prove2.me/theorems/3c09e0b3-4ddb-4079-9907-fe7af0b4b9d1

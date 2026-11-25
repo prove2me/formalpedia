@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscOver_li_of_gram
 -- name    : GlobalTheory.DiscOver.li_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:25:12.13571+00:00
 -- url     : https://prove2.me/theorems/abcee0bd-462c-52b8-b8d9-df4ac47b1629

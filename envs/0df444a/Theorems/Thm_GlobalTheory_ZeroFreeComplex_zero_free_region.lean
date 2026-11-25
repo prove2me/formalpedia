@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroFreeComplex_zero_free_region
 -- name    : GlobalTheory.ZeroFreeComplex.zero_free_region
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:50:10.484036+00:00
 -- url     : https://prove2.me/theorems/784e9635-ff78-4bcc-8a57-5b2f6d94a153

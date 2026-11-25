@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_Inhab_ok_minus
 -- name    : CompanionTheory.WaveGrid.Inhab.ok_minus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:15:41.378343+00:00
 -- url     : https://prove2.me/theorems/6dff58b8-8024-5a34-aebe-ebbe49573770

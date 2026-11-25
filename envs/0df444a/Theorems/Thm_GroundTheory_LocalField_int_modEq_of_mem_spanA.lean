@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_int_modEq_of_mem_spanA
 -- name    : GroundTheory.LocalField.int_modEq_of_mem_spanA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:35:21.620858+00:00
 -- url     : https://prove2.me/theorems/0854c39c-3ce6-50ca-9c7f-4e83d36bcb17

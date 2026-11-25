@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_QuotientH0Length_toH0OfCocycle_surjective_6b49dad77710
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_QuotientH0Length_toH0OfCocycle_surjective_6b49dad77710
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:56:34.716615+00:00
 -- url     : https://prove2.me/theorems/130ba1fd-7560-594b-a411-009e738f3f9f

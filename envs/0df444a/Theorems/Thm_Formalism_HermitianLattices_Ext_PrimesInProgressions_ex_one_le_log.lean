@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_ex_one_le_log
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.ex_one_le_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:51:53.888579+00:00
 -- url     : https://prove2.me/theorems/ed93073f-b062-53d7-836e-8fc93c4e778f

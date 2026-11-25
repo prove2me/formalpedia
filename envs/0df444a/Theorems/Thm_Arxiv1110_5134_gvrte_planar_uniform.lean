@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_gvrte_planar_uniform
 -- name    : Arxiv1110_5134.gvrte_planar_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:05:27.712208+00:00
 -- url     : https://prove2.me/theorems/c697334a-c1d2-4547-8462-1d22fcd66a52

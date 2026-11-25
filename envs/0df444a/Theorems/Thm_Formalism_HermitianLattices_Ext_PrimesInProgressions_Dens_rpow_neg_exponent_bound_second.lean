@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_rpow_neg_exponent_bound_second
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.rpow_neg_exponent_bound_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:45:22.384799+00:00
 -- url     : https://prove2.me/theorems/61ab1b30-0c9a-479d-9df7-7aef3065806f

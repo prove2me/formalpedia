@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_degProj_totalTensorEquiv
 -- name    : GlobalTheory.Cube.degProj_totalTensorEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:36:42.196033+00:00
 -- url     : https://prove2.me/theorems/4c0d2f8c-3f41-5dc6-b21b-27ccd3016798

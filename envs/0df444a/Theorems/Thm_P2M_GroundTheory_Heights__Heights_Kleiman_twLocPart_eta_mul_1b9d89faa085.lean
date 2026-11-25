@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_twLocPart_eta_mul_1b9d89faa085
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_twLocPart_eta_mul_1b9d89faa085
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:03:45.238452+00:00
 -- url     : https://prove2.me/theorems/216eca9c-5613-47cc-94f7-289aa34e6db8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepData_isUnit_D_53d41fd9d7c5
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepData_isUnit_D_53d41fd9d7c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:59:32.896956+00:00
 -- url     : https://prove2.me/theorems/d6b16690-4ded-4c0e-a2a8-914611a197ab

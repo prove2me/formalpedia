@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_continuous_unitriangularGL
 -- name    : GroundTheory.Automorphic.Reduction.continuous_unitriangularGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:49:08.756616+00:00
 -- url     : https://prove2.me/theorems/22440392-43d4-45c2-b041-2675acc76569

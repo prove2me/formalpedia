@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_QuotTrans_sgn_mul_sgn_erase_0870cbf51edb
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_QuotTrans_sgn_mul_sgn_erase_0870cbf51edb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:55:46.668066+00:00
 -- url     : https://prove2.me/theorems/71f7275b-e883-4eeb-93fd-981424fec09a

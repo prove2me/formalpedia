@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZExtend_gen_smul_e549be2950d7
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZExtend_gen_smul_e549be2950d7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:02:43.008897+00:00
 -- url     : https://prove2.me/theorems/3c3fe2e6-bd63-4637-b7ba-49c888753761

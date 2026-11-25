@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowMulMemOrder_main
 -- name    : GlobalTheory.PowMulMemOrder.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:06:35.459849+00:00
 -- url     : https://prove2.me/theorems/c5428f78-ebcf-4ddc-8831-f6fbb23b3f07

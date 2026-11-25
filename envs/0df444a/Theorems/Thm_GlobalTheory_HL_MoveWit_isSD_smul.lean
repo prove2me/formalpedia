@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveWit_isSD_smul
 -- name    : GlobalTheory.HL.MoveWit.isSD_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:44:45.584462+00:00
 -- url     : https://prove2.me/theorems/4a27024b-df51-4fcb-a09c-4957ad967947

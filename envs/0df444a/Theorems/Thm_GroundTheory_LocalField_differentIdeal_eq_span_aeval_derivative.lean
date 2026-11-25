@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_differentIdeal_eq_span_aeval_derivative
 -- name    : GroundTheory.LocalField.differentIdeal_eq_span_aeval_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:30:15.451826+00:00
 -- url     : https://prove2.me/theorems/83181de0-04a5-4e75-8dee-8930ae3fced9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_HermJacobian_mem_hermLat_iff
 -- name    : GlobalTheory.HL.HermJacobian.mem_hermLat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:33:14.473893+00:00
 -- url     : https://prove2.me/theorems/0db8c7d5-8ea6-4e5d-82cf-455d4d87fea1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickOrbit_exists_pow_le
 -- name    : GlobalTheory.ThickOrbit.exists_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:52:34.409471+00:00
 -- url     : https://prove2.me/theorems/cc2b0c3d-fc7f-5661-8e8f-a0a8491a6562

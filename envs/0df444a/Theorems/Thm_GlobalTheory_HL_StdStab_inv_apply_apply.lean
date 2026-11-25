@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StdStab_inv_apply_apply
 -- name    : GlobalTheory.HL.StdStab.inv_apply_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:38:40.927667+00:00
 -- url     : https://prove2.me/theorems/432e3875-36fc-532b-a9df-e5876cb92571

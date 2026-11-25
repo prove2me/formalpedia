@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_intGerm_pull
 -- name    : Formalism.L2.FormalSeriesBounds.intGerm_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:28:03.810245+00:00
 -- url     : https://prove2.me/theorems/18b6b077-a67a-43f9-bea1-558ce6485f36

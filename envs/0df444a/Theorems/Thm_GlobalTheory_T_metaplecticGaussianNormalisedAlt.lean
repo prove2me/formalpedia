@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_metaplecticGaussianNormalisedAlt
 -- name    : GlobalTheory.T.metaplecticGaussianNormalisedAlt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:48:47.055544+00:00
 -- url     : https://prove2.me/theorems/76c7984d-5aae-4c03-80d0-91a8e05195c9

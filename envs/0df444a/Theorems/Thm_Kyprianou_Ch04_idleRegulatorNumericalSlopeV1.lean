@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_idleRegulatorNumericalSlopeV1
 -- name    : Kyprianou.Ch04.idleRegulatorNumericalSlopeV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:25:09.270632+00:00
 -- url     : https://prove2.me/theorems/e3aa214f-d7f1-466b-b501-95e6737f1a51

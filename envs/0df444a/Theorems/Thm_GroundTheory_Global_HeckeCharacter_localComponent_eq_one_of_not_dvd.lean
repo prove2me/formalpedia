@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_localComponent_eq_one_of_not_dvd
 -- name    : GroundTheory.Global.HeckeCharacter.localComponent_eq_one_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:49:16.799156+00:00
 -- url     : https://prove2.me/theorems/ca2cfd29-cafd-5e2d-9346-077668fc8b59

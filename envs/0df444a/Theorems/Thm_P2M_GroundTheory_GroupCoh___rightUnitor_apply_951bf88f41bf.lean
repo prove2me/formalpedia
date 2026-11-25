@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh___rightUnitor_apply_951bf88f41bf
 -- name    : P2M_GroundTheory_GroupCoh___rightUnitor_apply_951bf88f41bf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:52:55.319058+00:00
 -- url     : https://prove2.me/theorems/28373113-155f-48ad-8d15-55039846db42

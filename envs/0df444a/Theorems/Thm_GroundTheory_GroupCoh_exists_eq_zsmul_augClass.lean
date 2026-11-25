@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_exists_eq_zsmul_augClass
 -- name    : GroundTheory.GroupCoh.exists_eq_zsmul_augClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:52:28.069296+00:00
 -- url     : https://prove2.me/theorems/4df2dceb-f82c-4280-a627-57c0a5be2226

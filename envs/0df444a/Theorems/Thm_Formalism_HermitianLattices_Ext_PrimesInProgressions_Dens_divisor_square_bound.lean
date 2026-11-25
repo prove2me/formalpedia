@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_divisor_square_bound
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.divisor_square_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:44:51.300628+00:00
 -- url     : https://prove2.me/theorems/5bd492d6-88a4-4400-97af-260781995c96

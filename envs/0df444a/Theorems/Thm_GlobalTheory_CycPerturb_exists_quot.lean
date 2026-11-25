@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycPerturb_exists_quot
 -- name    : GlobalTheory.CycPerturb.exists_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:23:45.209576+00:00
 -- url     : https://prove2.me/theorems/915ee044-ee16-4c25-86da-d66cc0d5365c

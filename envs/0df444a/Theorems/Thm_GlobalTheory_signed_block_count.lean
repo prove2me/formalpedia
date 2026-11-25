@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_signed_block_count
 -- name    : GlobalTheory.signed_block_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:18:11.009857+00:00
 -- url     : https://prove2.me/theorems/8f581909-061b-4fdf-b7c3-6bf70804028d

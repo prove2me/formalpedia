@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_exists_coeff
 -- name    : GlobalTheory.ModIdent.exists_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:41:07.110212+00:00
 -- url     : https://prove2.me/theorems/38875e3a-e9ac-478e-a0e7-0124d839299b

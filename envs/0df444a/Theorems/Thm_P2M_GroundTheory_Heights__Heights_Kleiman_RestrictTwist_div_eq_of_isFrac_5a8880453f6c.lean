@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_div_eq_of_isFrac_5a8880453f6c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_div_eq_of_isFrac_5a8880453f6c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:03:21.413028+00:00
 -- url     : https://prove2.me/theorems/fd08d8db-6230-40df-ba1a-c924eb212896

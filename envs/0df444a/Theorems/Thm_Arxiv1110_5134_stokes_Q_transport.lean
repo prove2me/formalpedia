@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_stokes_Q_transport
 -- name    : Arxiv1110_5134.stokes_Q_transport
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:01:24.180358+00:00
 -- url     : https://prove2.me/theorems/5fe730db-fe37-451d-b00f-5335b3afa525

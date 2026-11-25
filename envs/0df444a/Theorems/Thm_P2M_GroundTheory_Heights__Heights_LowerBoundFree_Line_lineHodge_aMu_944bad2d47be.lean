@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_lineHodge_aMu_944bad2d47be
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_lineHodge_aMu_944bad2d47be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:06:19.624744+00:00
 -- url     : https://prove2.me/theorems/a2ac1e7a-c301-5071-b4d9-61f7f3532744

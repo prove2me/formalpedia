@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_exists_unitriangular_mul_mem
 -- name    : GroundTheory.Automorphic.Reduction.exists_unitriangular_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:50:02.657073+00:00
 -- url     : https://prove2.me/theorems/4245397d-487a-43e7-aa92-24191368783a

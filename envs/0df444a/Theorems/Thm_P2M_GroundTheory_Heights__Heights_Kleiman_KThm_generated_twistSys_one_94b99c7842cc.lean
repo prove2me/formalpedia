@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KThm_generated_twistSys_one_94b99c7842cc
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KThm_generated_twistSys_one_94b99c7842cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:57:10.863702+00:00
 -- url     : https://prove2.me/theorems/a596ddad-23b2-5fef-a07d-c30670a3c04e

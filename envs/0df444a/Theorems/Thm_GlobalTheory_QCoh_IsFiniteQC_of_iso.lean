@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_IsFiniteQC_of_iso
 -- name    : GlobalTheory.QCoh.IsFiniteQC.of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:02:48.857958+00:00
 -- url     : https://prove2.me/theorems/34704308-4d72-5556-a8ae-c3a29e0b03eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Step_factor_identity
 -- name    : Formalism.HermitianLattices.Ext.L3.Step.factor_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:56:59.859359+00:00
 -- url     : https://prove2.me/theorems/fa665d31-800d-43ca-92f3-85e24907d976

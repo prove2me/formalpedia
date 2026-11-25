@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_complexUnitsHom_surjective
 -- name    : GroundTheory.Global.complexUnitsHom_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:02:58.362528+00:00
 -- url     : https://prove2.me/theorems/8a6d7084-ca2a-4a27-b1cb-c85a2de5c50b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StdStab_th_eq_one
 -- name    : GlobalTheory.HL.StdStab.th_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:35:55.831722+00:00
 -- url     : https://prove2.me/theorems/16107995-18b6-4d8d-a539-8b013b7765d6

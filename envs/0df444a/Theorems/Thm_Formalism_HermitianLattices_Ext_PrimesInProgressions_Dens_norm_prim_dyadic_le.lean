@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_norm_prim_dyadic_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.norm_prim_dyadic_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:45:05.068917+00:00
 -- url     : https://prove2.me/theorems/881ac197-c39a-4f9e-a152-4801ebe2d69c

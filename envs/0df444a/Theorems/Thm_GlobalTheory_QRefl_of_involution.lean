@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QRefl_of_involution
 -- name    : GlobalTheory.QRefl.of_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:47:06.632857+00:00
 -- url     : https://prove2.me/theorems/b16974bc-494c-5309-8363-d9b4829dd1c2

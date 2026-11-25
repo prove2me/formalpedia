@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_restrictStalkAddEquiv_germ
 -- name    : GlobalTheory.QCoh.restrictStalkAddEquiv_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:02:21.328584+00:00
 -- url     : https://prove2.me/theorems/ffc46c92-e752-545d-a7c0-e0e918f2fac4

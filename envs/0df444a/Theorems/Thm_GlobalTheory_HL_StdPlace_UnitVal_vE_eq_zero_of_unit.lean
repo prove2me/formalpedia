@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StdPlace_UnitVal_vE_eq_zero_of_unit
 -- name    : GlobalTheory.HL.StdPlace.UnitVal.vE_eq_zero_of_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:35:27.781866+00:00
 -- url     : https://prove2.me/theorems/09313cc2-f27b-4fdf-aad2-a0a0fdbbc094

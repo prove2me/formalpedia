@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalGenerators_main
 -- name    : GlobalTheory.LocalGenerators.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:39:59.115989+00:00
 -- url     : https://prove2.me/theorems/65703db4-4798-4248-ab87-3ee5851a6590

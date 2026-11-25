@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_LocalizeSubvar_quotientMap_surjective_89fc8fe2747e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_LocalizeSubvar_quotientMap_surjective_89fc8fe2747e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:57:00.888794+00:00
 -- url     : https://prove2.me/theorems/2fb3c691-53cc-41cc-86db-8a32d7d31e1a

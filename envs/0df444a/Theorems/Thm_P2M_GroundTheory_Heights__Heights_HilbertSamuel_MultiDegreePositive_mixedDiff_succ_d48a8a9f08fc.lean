@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultiDegreePositive_mixedDiff_succ_d48a8a9f08fc
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultiDegreePositive_mixedDiff_succ_d48a8a9f08fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:00:28.751728+00:00
 -- url     : https://prove2.me/theorems/2c2f5ebd-a21c-5e1d-8eae-a17318b5830d

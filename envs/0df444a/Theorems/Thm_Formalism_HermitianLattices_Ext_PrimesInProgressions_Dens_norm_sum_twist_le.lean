@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_norm_sum_twist_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.norm_sum_twist_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:44:24.564029+00:00
 -- url     : https://prove2.me/theorems/06dc4973-801f-5ef2-ae1a-f1599506d01a

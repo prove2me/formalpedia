@@ -91762,8 +91762,8 @@
 {"parent": "ScalableMARL.lemma_9_stepsize", "child": "ScalableMARL_StepSizes", "via": ["statement"]}
 {"parent": "FiniteEnergyPlane.hadamard_integral_fderiv", "child": "FiniteEnergyPlane_Asymptotics", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P40.gradedCenter_murphyM_basis", "child": "QAlgorithms_Papers_Independent_Intake100_P40", "via": ["statement"]}
-{"parent": "KallMayerSLP.CondExp.proposition_4_4", "child": "StochasticOrders_MeanResidualLife_mrl", "via": ["statement"]}
-{"parent": "KallMayerSLP.CondExp.proposition_4_4", "child": "LogConcaveOn", "via": ["statement"]}
+{"parent": "KallMayerSLP.CondExp.proposition_4_4", "child": "StochasticOrders_MeanResidualLife_mrl", "via": ["solution", "statement"]}
+{"parent": "KallMayerSLP.CondExp.proposition_4_4", "child": "LogConcaveOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Release061.NashBoundaryChart.scaling_chart", "child": "SymmetricDomains", "via": ["solution", "statement"]}
 {"parent": "OAI.Release061.NashBoundaryChart.scaling_chart", "child": "OAIQ025S001", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P34.entropy_balance", "child": "QAlgorithms_Papers_Independent_Intake100_P34", "via": ["statement"]}

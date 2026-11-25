@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_interNum_fin_congr_f8923f4ce7c1
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_interNum_fin_congr_f8923f4ce7c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:58:14.305429+00:00
 -- url     : https://prove2.me/theorems/1d6a0865-e224-53f5-b997-5a719540fe02

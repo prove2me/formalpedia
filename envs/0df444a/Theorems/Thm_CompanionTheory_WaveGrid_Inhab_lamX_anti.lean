@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_Inhab_lamX_anti
 -- name    : CompanionTheory.WaveGrid.Inhab.lamX_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:08:13.400468+00:00
 -- url     : https://prove2.me/theorems/42b9fd70-3dbf-4c93-ab6e-cb1e0b9e197f

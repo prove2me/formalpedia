@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_addVal_norm_integer
 -- name    : GroundTheory.LocalField.addVal_norm_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:52:55.137204+00:00
 -- url     : https://prove2.me/theorems/86cd79bc-723d-4ce4-8a7f-51fe9e927cb7

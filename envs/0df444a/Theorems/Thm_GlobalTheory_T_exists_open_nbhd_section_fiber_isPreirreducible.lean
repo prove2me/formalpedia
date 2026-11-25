@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_open_nbhd_section_fiber_isPreirreducible
 -- name    : GlobalTheory.T.exists_open_nbhd_section_fiber_isPreirreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:35:41.419517+00:00
 -- url     : https://prove2.me/theorems/229bf091-a1a3-4bba-bef3-9528a71a5921

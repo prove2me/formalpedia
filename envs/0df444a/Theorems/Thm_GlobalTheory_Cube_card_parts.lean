@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_card_parts
 -- name    : GlobalTheory.Cube.card_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:50:02.0102+00:00
 -- url     : https://prove2.me/theorems/528cd154-0cea-4d02-9ccd-e9a5e8db6a6c

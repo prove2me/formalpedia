@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_constOn_apply
 -- name    : GlobalTheory.WeierstrassCurve.constOn_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:04:59.301554+00:00
 -- url     : https://prove2.me/theorems/d7661b1e-87ad-414d-8583-fe1a14a72adf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycEigen_exists_quot
 -- name    : GlobalTheory.CycEigen.exists_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:27:23.037295+00:00
 -- url     : https://prove2.me/theorems/d8485620-34bc-49b7-9d75-9a2cda649fbb

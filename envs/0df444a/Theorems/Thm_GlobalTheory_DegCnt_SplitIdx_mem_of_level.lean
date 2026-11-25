@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitIdx_mem_of_level
 -- name    : GlobalTheory.DegCnt.SplitIdx.mem_of_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:27:37.258283+00:00
 -- url     : https://prove2.me/theorems/2d907fd8-49ce-4083-a813-83fae475bd56

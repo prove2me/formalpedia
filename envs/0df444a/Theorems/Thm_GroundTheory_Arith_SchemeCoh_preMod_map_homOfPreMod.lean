@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_preMod_map_homOfPreMod
 -- name    : GroundTheory.Arith.SchemeCoh.preMod_map_homOfPreMod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:48:22.238168+00:00
 -- url     : https://prove2.me/theorems/a2e45f77-da5f-4188-b6cf-37fd0a0391f0

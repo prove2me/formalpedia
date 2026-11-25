@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_integrable_chartAbsDens_cellWeight
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.integrable_chartAbsDens_cellWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:18:12.987118+00:00
 -- url     : https://prove2.me/theorems/aaea00c3-0587-5869-b42c-35d88b057cb5

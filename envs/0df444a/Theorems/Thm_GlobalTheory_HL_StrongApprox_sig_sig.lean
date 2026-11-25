@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StrongApprox_sig_sig
 -- name    : GlobalTheory.HL.StrongApprox.sig_sig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:39:13.430376+00:00
 -- url     : https://prove2.me/theorems/db154105-b956-472e-a66c-fa9ef1dfd0b8

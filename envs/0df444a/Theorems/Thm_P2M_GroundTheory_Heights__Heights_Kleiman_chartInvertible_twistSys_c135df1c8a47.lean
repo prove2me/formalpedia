@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_chartInvertible_twistSys_c135df1c8a47
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_chartInvertible_twistSys_c135df1c8a47
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:01:31.452916+00:00
 -- url     : https://prove2.me/theorems/c291ccbe-146b-400d-997c-94f4411d06c1

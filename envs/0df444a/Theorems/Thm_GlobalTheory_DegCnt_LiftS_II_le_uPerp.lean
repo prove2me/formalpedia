@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_II_le_uPerp
 -- name    : GlobalTheory.DegCnt.LiftS.II_le_uPerp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:30:26.012086+00:00
 -- url     : https://prove2.me/theorems/4d135d45-7d17-40f1-8f11-51390129e07a

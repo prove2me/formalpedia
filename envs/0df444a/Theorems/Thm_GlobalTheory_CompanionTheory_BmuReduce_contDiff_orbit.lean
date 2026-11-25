@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuReduce_contDiff_orbit
 -- name    : GlobalTheory.CompanionTheory.BmuReduce.contDiff_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:40:32.907886+00:00
 -- url     : https://prove2.me/theorems/1ac5d897-6bf6-538f-b736-c16cd6b8afed

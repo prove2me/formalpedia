@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_int_indFun_theta
 -- name    : GroundTheory.LocalField.exists_int_indFun_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:31:39.133064+00:00
 -- url     : https://prove2.me/theorems/14fac4e5-081f-4140-8499-f742ade37c70

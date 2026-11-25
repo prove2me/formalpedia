@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_exists_map_eq_C_mul_8251d5a003dc
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_exists_map_eq_C_mul_8251d5a003dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:57:35.684795+00:00
 -- url     : https://prove2.me/theorems/b3ccc65b-e4a7-477f-8f4e-580a7964c3a2

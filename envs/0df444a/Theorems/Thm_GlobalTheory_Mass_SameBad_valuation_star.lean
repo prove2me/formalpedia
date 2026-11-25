@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SameBad_valuation_star
 -- name    : GlobalTheory.Mass.SameBad.valuation_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:52:50.7941+00:00
 -- url     : https://prove2.me/theorems/21160ef0-9efe-5642-9b83-aa68873ff8a6

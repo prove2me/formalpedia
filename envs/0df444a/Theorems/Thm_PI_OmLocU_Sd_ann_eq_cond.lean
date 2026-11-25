@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmLocU_Sd_ann_eq_cond
 -- name    : PI.OmLocU.Sd.ann_eq_cond
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:06:54.93871+00:00
 -- url     : https://prove2.me/theorems/dd68e7fe-5544-59e0-9e8f-5fb79e04c5c2

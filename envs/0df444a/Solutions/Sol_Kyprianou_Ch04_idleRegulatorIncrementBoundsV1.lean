@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.idleRegulatorIncrementBoundsV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T00:27:36.762212+00:00
 -- url     : https://prove2.me/submissions/454ee2e6-1790-4c9b-b756-57df17cb4780
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.SetSemiring
 import Mathlib.Topology.MetricSpace.Lipschitz

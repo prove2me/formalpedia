@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveTotal_exists_coords
 -- name    : GlobalTheory.HL.MoveTotal.exists_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:43:14.825992+00:00
 -- url     : https://prove2.me/theorems/f4d5679d-a0bc-51fc-b1f5-0285130f1344

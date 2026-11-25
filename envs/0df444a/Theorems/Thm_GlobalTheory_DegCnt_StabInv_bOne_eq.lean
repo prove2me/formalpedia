@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_bOne_eq
 -- name    : GlobalTheory.DegCnt.StabInv.bOne_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:59:40.80281+00:00
 -- url     : https://prove2.me/theorems/24d21542-1639-4428-85b3-54816dec5ee0

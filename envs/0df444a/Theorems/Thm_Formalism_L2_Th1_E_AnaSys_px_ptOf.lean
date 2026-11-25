@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_AnaSys_px_ptOf
 -- name    : Formalism.L2.Th1.E.AnaSys.px_ptOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:34:51.996048+00:00
 -- url     : https://prove2.me/theorems/7ef31cf9-e52f-5d52-b7f2-697ff15450bf

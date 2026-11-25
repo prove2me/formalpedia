@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeDimComponent_proof_closed_0c228e09f176
 -- name    : P2M_GroundTheory_Heights__Heights_ConeDimComponent_proof_closed_0c228e09f176
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:03:15.799058+00:00
 -- url     : https://prove2.me/theorems/0f06766b-44d5-4083-96fe-e6f534b314fc

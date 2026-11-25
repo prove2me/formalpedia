@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_LIOrb_OrbF_conj_mem_autSub__b1b53b92a341
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_LIOrb_OrbF_conj_mem_autSub__b1b53b92a341
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:57:55.901127+00:00
 -- url     : https://prove2.me/theorems/ffb240f9-68a1-4748-bcc5-289a949aa71e

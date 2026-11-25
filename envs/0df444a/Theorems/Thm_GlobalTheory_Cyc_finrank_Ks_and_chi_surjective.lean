@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_finrank_Ks_and_chi_surjective
 -- name    : GlobalTheory.Cyc.finrank_Ks_and_chi_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:35:17.713928+00:00
 -- url     : https://prove2.me/theorems/7142c00f-28ac-4103-aa7d-e0949b90cdef

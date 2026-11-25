@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_exbox_round_abs_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.exbox_round_abs_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:39:26.1418+00:00
 -- url     : https://prove2.me/theorems/27fc595e-8f09-4731-9f49-c58e6a028d78

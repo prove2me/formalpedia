@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PrimPerp_equiv_of_gen
 -- name    : GlobalTheory.DegCnt.PrimPerp.equiv_of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:42:33.090557+00:00
 -- url     : https://prove2.me/theorems/88999418-5d9b-5ec2-9d8f-3235f57b9785

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPoint_coordGraded_piece_eq_8acb7bb23761
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPoint_coordGraded_piece_eq_8acb7bb23761
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:55:53.744782+00:00
 -- url     : https://prove2.me/theorems/b4e160eb-e514-48d5-a680-9f1b4be27f55

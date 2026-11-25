@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exponent_divisor_sum_le
 -- name    : GlobalTheory.T.exponent_divisor_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:45:08.748826+00:00
 -- url     : https://prove2.me/theorems/8930fd91-b11b-5416-93fa-875d9752c623

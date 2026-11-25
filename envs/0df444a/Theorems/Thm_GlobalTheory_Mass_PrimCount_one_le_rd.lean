@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_PrimCount_one_le_rd
 -- name    : GlobalTheory.Mass.PrimCount.one_le_rd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:40:13.167089+00:00
 -- url     : https://prove2.me/theorems/26edce30-58cc-5cce-aa39-1f2b6ab5fa62

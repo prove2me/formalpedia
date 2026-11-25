@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh___subgroupNormElt_34e9ca8abb2f
 -- name    : P2M_GroundTheory_GroupCoh___subgroupNormElt_34e9ca8abb2f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:53:38.119128+00:00
 -- url     : https://prove2.me/theorems/44dd5141-3b80-4be0-a12a-e439ff5ea538

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CutOneGenerator_exists_algHom_ker_eq_25d620e9f09a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CutOneGenerator_exists_algHom_ker_eq_25d620e9f09a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:54:39.95474+00:00
 -- url     : https://prove2.me/theorems/8cd916ac-7006-4b75-b937-e53675401826

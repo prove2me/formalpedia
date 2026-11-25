@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_mem_chartRing_baseChange_9dea4a8b7af9
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_mem_chartRing_baseChange_9dea4a8b7af9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:57:45.329222+00:00
 -- url     : https://prove2.me/theorems/d06236c9-9206-4617-a3a4-565ce64626d2

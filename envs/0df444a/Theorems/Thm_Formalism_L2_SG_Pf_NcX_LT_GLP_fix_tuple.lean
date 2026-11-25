@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_NcX_LT_GLP_fix_tuple
 -- name    : Formalism.L2.SG.Pf.NcX.LT.GLP.fix_tuple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:06:10.5808+00:00
 -- url     : https://prove2.me/theorems/8c74fb28-d7a3-4a18-a993-f36dd4185c75

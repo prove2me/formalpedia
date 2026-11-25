@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_recFrob_mul
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.recFrob_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:35:17.148813+00:00
 -- url     : https://prove2.me/theorems/29b456f0-c6d6-4782-979b-d4cc73330f07

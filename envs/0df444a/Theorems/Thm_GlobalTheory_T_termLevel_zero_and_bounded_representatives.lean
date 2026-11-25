@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_termLevel_zero_and_bounded_representatives
 -- name    : GlobalTheory.T.termLevel_zero_and_bounded_representatives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:15:08.537144+00:00
 -- url     : https://prove2.me/theorems/980fb379-ce89-4975-acff-1d656f935daa

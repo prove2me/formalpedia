@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_NFUnique_cmp_span_left
 -- name    : GlobalTheory.DegAsm.NFUnique.cmp_span_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:21:20.532717+00:00
 -- url     : https://prove2.me/theorems/23858b73-5211-5d69-ab2c-5c1ea399c869

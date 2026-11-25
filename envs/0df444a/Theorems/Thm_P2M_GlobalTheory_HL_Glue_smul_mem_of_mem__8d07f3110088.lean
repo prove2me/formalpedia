@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HL_Glue_smul_mem_of_mem__8d07f3110088
 -- name    : P2M_GlobalTheory_HL_Glue_smul_mem_of_mem__8d07f3110088
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:55:44.488521+00:00
 -- url     : https://prove2.me/theorems/0483cb21-985e-47a8-93f3-309e8134791d

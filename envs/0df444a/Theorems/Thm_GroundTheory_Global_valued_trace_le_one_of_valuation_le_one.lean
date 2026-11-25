@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_valued_trace_le_one_of_valuation_le_one
 -- name    : GroundTheory.Global.valued_trace_le_one_of_valuation_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:33:18.837411+00:00
 -- url     : https://prove2.me/theorems/69cd9861-8133-4c86-92b5-3d71a339b66f

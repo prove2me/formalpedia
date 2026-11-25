@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CechZerothCohomologySections_cocycle_coe_eq_7f2cd17ef32c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CechZerothCohomologySections_cocycle_coe_eq_7f2cd17ef32c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:53:35.301847+00:00
 -- url     : https://prove2.me/theorems/52c77b99-0a61-4af7-9449-1f5f606b6d1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGram_span_frames
 -- name    : GlobalTheory.FrameGram.span_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:28:19.975685+00:00
 -- url     : https://prove2.me/theorems/d7cb609a-2a8c-5abf-9bb7-6a027df9ee1a

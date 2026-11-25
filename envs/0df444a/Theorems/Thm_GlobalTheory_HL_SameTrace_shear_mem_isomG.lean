@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SameTrace_shear_mem_isomG
 -- name    : GlobalTheory.HL.SameTrace.shear_mem_isomG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:34:18.268471+00:00
 -- url     : https://prove2.me/theorems/b75b5160-07a4-46a3-8c7e-dca3f2266a3f

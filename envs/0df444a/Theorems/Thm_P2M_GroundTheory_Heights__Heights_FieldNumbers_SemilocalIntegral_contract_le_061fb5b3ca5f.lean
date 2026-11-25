@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_SemilocalIntegral_contract_le_061fb5b3ca5f
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_SemilocalIntegral_contract_le_061fb5b3ca5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:53:52.362812+00:00
 -- url     : https://prove2.me/theorems/0004b29c-a98a-4ee2-8724-016d64be09f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NonNorm_etaK_eq_neg_one
 -- name    : GlobalTheory.JR.NonNorm.etaK_eq_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:59:11.509276+00:00
 -- url     : https://prove2.me/theorems/69c62ab9-3f1f-46c5-ae2b-dbc314a6d6af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_two_curves_relation
 -- name    : Formalism.L2.Th1.A.two_curves_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:27:40.023124+00:00
 -- url     : https://prove2.me/theorems/d2630671-ae72-4192-8dac-2c6712ba4ac0

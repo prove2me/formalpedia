@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_weierstrassLaurentCoeff_recursion
 -- name    : GroundTheory.Global.Elliptic.weierstrassLaurentCoeff_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:49:04.878097+00:00
 -- url     : https://prove2.me/theorems/51b92950-0178-5b60-b802-383570a16f3a

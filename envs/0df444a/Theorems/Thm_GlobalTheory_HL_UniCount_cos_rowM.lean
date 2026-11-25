@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_UniCount_cos_rowM
 -- name    : GlobalTheory.HL.UniCount.cos_rowM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:34:17.291516+00:00
 -- url     : https://prove2.me/theorems/913da21c-8d52-4a7a-8bcc-f08ef63750ed

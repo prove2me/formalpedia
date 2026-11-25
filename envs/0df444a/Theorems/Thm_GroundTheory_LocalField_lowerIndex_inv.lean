@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_lowerIndex_inv
 -- name    : GroundTheory.LocalField.lowerIndex_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:06:34.217783+00:00
 -- url     : https://prove2.me/theorems/411cbbac-ff5f-4cd9-a14a-77c0e6ad6212

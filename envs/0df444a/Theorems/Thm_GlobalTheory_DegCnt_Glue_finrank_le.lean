@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Glue_finrank_le
 -- name    : GlobalTheory.DegCnt.Glue.finrank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:24:10.127104+00:00
 -- url     : https://prove2.me/theorems/d27dbf9c-64fd-510e-a0b6-dccf50b03488

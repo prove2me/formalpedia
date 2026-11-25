@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_upperMap_weightedHomogeneousComponent_72c8fc4c3245
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_upperMap_weightedHomogeneousComponent_72c8fc4c3245
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:41:28.50165+00:00
 -- url     : https://prove2.me/theorems/5982029e-b891-48aa-8b58-7d2a04d6ef9e

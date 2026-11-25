@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_SP_span
 -- name    : Formalism.L2.S.Pv.SchurTens.SP_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:15:58.814722+00:00
 -- url     : https://prove2.me/theorems/b3cf9434-a381-42d3-8d49-ce061372d9b3

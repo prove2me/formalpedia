@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_bump_smul_eq_self
 -- name    : GroundTheory.Automorphic.Sobolev.bump_smul_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:20:27.451555+00:00
 -- url     : https://prove2.me/theorems/a7afcd8f-1cb6-4d51-8e05-98d8b763c644

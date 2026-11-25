@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_CutBP_LimitNormalForms_ck_Rw__802bba5733f4
 -- name    : P2M_Formalism_FourierDecayAlt_P_CutBP_LimitNormalForms_ck_Rw__802bba5733f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:54:45.980324+00:00
 -- url     : https://prove2.me/theorems/5feb720d-359f-4aec-b74c-e68d81b4b964

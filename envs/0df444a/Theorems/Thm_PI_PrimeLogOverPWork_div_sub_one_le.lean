@@ -1,0 +1,29 @@
+-- Prove2me | Theorems.Thm_PI_PrimeLogOverPWork_div_sub_one_le
+-- name    : PI.PrimeLogOverPWork.div_sub_one_le
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-25T08:17:38.934555+00:00
+-- url     : https://prove2.me/theorems/c3f4dcbc-ce1e-405d-8ec8-26a6e680e523
+-- title:
+--   Prime Log Over PWork: div sub one le
+-- statement:
+--   The Prime Log Over PWork construction uses the div sub one le property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/MertensLogSum/LogFactorialEqSumLog.lean#L62-L70
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/MertensLogSum/LogFactorialEqSumLog.lean#L62-L70
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MertensLogSum_LogFactorialEqSumLog
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open PI PI.PrimeLogOverPWork
+open Finset ArithmeticFunction Nat
+
+theorem PI.PrimeLogOverPWork.div_sub_one_le (n d : ℕ) : (n : ℝ) / d - 1 ≤ ((n / d : ℕ) : ℝ) := by sorry

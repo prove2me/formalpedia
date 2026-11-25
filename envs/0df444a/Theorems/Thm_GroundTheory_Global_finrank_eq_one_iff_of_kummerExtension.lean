@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finrank_eq_one_iff_of_kummerExtension
 -- name    : GroundTheory.Global.finrank_eq_one_iff_of_kummerExtension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:16:40.558469+00:00
 -- url     : https://prove2.me/theorems/7b6dd770-ab78-4377-9c1c-cf5dbcefcca8

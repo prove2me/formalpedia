@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_symmetricMeasure_l2Norm_eq_resolutionL2
 -- name    : GlobalTheory.BesselPeriodCompare.symmetricMeasure_l2Norm_eq_resolutionL2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:19:34.196338+00:00
 -- url     : https://prove2.me/theorems/1e03fe6f-4fca-515f-9a7a-84fd5fe19d30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_coe_aeval_ratio_mul_mem_span_1d57a849979c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_coe_aeval_ratio_mul_mem_span_1d57a849979c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:05:13.622493+00:00
 -- url     : https://prove2.me/theorems/283a2cbe-420e-5867-9f32-dacf4b97bfc1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMassInvariant_proof_2729f213857b
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMassInvariant_proof_2729f213857b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:15:44.482803+00:00
 -- url     : https://prove2.me/theorems/c271a1bd-80d0-4def-90a6-21bfb95618de

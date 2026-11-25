@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RefVol_map_sumDiv
 -- name    : GlobalTheory.RefVol.map_sumDiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:48:38.285711+00:00
 -- url     : https://prove2.me/theorems/c6f29013-2805-573f-bd79-8c0c766f10d7

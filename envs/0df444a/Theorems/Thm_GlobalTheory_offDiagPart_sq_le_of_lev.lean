@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_offDiagPart_sq_le_of_lev
 -- name    : GlobalTheory.offDiagPart_sq_le_of_lev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:53:48.794748+00:00
 -- url     : https://prove2.me/theorems/097e8cdf-b5c1-5382-be89-81a1e79b539b

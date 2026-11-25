@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveTotal_fine_mul
 -- name    : GlobalTheory.HL.MoveTotal.fine_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:55:13.401508+00:00
 -- url     : https://prove2.me/theorems/85d81abc-b299-48b1-bf91-efd99e367952

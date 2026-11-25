@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombCfBound_alternantPsum_cons_28c4eecdeac9
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombCfBound_alternantPsum_cons_28c4eecdeac9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:05:25.746272+00:00
 -- url     : https://prove2.me/theorems/c538ceb0-1b1f-4dfb-b7ea-252d5121b9ad

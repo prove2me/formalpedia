@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_add_index_le_of_strictAnti_2e47e0a48638
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_add_index_le_of_strictAnti_2e47e0a48638
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:05:04.543434+00:00
 -- url     : https://prove2.me/theorems/4047ca46-f9a8-4b2d-9014-522528d115f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_mul_mem_secs_twist_idealSys_e4b32b698e8a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_mul_mem_secs_twist_idealSys_e4b32b698e8a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:57:42.71583+00:00
 -- url     : https://prove2.me/theorems/59c823c1-1205-41f0-a9c6-30c9be8b0e9b

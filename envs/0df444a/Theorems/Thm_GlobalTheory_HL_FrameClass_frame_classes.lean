@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameClass_frame_classes
 -- name    : GlobalTheory.HL.FrameClass.frame_classes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:06:17.51661+00:00
 -- url     : https://prove2.me/theorems/27d09038-6b10-4ce4-8e28-a5a17485db35

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_weil_of_symplectic__5d7707bdca5b
 -- name    : P2M_GlobalTheory_T_exists_weil_of_symplectic__5d7707bdca5b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:13:05.412405+00:00
 -- url     : https://prove2.me/theorems/ed9339d3-183a-4d64-87a2-ff6047cff40f

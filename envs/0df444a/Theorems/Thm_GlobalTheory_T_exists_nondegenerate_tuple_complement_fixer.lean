@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_nondegenerate_tuple_complement_fixer
 -- name    : GlobalTheory.T.exists_nondegenerate_tuple_complement_fixer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:45:04.787946+00:00
 -- url     : https://prove2.me/theorems/bd73dedf-f03e-476b-89e6-f71caffa40ec

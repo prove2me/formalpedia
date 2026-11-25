@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_InterNumPointDeg_oneBlock_surjective_f9b69d3dd442
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_InterNumPointDeg_oneBlock_surjective_f9b69d3dd442
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:57:11.306267+00:00
 -- url     : https://prove2.me/theorems/415ad700-a2c6-4ba6-94b1-0a25de7174a6

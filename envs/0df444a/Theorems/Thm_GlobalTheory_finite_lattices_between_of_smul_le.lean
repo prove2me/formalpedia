@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_lattices_between_of_smul_le
 -- name    : GlobalTheory.finite_lattices_between_of_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:04:12.827798+00:00
 -- url     : https://prove2.me/theorems/8b3a546f-aba4-4c48-98f1-5a530195e70e

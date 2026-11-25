@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_isUnit_coneSingle_20bc626224db
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_isUnit_coneSingle_20bc626224db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:02:01.761238+00:00
 -- url     : https://prove2.me/theorems/658a3eda-5448-5aab-9dfe-38e73c0b344b

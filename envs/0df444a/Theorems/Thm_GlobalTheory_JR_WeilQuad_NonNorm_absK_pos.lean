@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NonNorm_absK_pos
 -- name    : GlobalTheory.JR.WeilQuad.NonNorm.absK_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:04:22.78119+00:00
 -- url     : https://prove2.me/theorems/7c3e4bff-a2f2-50e7-857f-feacc95ff1e9

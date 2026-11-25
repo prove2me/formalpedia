@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitCasRes_norm_sq_le_weighted
 -- name    : GlobalTheory.splitCasRes_norm_sq_le_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:54:59.168431+00:00
 -- url     : https://prove2.me/theorems/d18c9d17-7a22-4cd8-b0ee-69afd219b7bd

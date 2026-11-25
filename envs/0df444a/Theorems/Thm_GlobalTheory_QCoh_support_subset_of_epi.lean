@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_support_subset_of_epi
 -- name    : GlobalTheory.QCoh.support_subset_of_epi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:07:03.730655+00:00
 -- url     : https://prove2.me/theorems/d88a3047-7ff0-4e1e-bee6-16b946361485

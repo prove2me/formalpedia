@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PFHoriz_exists_clear_d073348b32e3
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PFHoriz_exists_clear_d073348b32e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:49:40.170416+00:00
 -- url     : https://prove2.me/theorems/d5078f93-6b8b-5f5a-a95a-82963d0399fd

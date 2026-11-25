@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameTri_map_mem_iff
 -- name    : GlobalTheory.HL.FrameTri.map_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:12:14.371443+00:00
 -- url     : https://prove2.me/theorems/b986f037-8baa-4eea-ac26-8b5b1c406963

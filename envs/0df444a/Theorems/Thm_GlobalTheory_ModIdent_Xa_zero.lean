@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_Xa_zero
 -- name    : GlobalTheory.ModIdent.Xa_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:39:49.963806+00:00
 -- url     : https://prove2.me/theorems/f9cdb11a-4972-4c93-958e-592a2b9909dc

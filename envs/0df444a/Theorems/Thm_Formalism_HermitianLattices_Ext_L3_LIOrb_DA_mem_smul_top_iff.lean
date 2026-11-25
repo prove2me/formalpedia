@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_DA_mem_smul_top_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.DA.mem_smul_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:45:46.85556+00:00
 -- url     : https://prove2.me/theorems/bc970312-6b59-458f-b0b5-b1984f677319

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_EAux_norm_two
 -- name    : Formalism.L2.Th1.D.EAux.norm_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:07:19.918428+00:00
 -- url     : https://prove2.me/theorems/13f07e35-0b0c-58a7-83ac-8900b64df3cd

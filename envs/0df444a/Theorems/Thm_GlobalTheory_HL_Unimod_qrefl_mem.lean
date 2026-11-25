@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Unimod_qrefl_mem
 -- name    : GlobalTheory.HL.Unimod.qrefl_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:36:30.372811+00:00
 -- url     : https://prove2.me/theorems/47f718b5-0203-480f-b165-5f8b0eac5062

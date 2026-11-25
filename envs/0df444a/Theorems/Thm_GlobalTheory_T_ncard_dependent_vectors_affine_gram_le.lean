@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ncard_dependent_vectors_affine_gram_le
 -- name    : GlobalTheory.T.ncard_dependent_vectors_affine_gram_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:46:13.167008+00:00
 -- url     : https://prove2.me/theorems/3f32ee20-82da-42cb-b438-010a7afa205c

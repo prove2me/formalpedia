@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonGenericLocalCheck_isTermOver
 -- name    : GlobalTheory.NonGenericLocalCheck.isTermOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:45:27.955874+00:00
 -- url     : https://prove2.me/theorems/8b1f4284-1bd4-54ab-9806-fa14f6343361

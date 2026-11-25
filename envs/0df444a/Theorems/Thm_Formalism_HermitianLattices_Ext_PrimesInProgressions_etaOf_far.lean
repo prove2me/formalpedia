@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_etaOf_far
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.etaOf_far
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:18:20.500048+00:00
 -- url     : https://prove2.me/theorems/96ddf7af-60ea-4873-a944-3fcee6898e29

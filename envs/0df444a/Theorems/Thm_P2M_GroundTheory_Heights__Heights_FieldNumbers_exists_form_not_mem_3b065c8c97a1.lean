@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_exists_form_not_mem_3b065c8c97a1
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_exists_form_not_mem_3b065c8c97a1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:54:52.313796+00:00
 -- url     : https://prove2.me/theorems/f863934a-460f-47f4-99b5-d5392f2d45b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NonNorm_scaled_mul
 -- name    : GlobalTheory.JR.WeilQuad.NonNorm.scaled_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:08:41.307441+00:00
 -- url     : https://prove2.me/theorems/9394d6cd-699d-4ea9-8cc5-7a5145947435

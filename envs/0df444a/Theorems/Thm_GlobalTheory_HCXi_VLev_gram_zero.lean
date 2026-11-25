@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_VLev_gram_zero
 -- name    : GlobalTheory.HCXi.VLev.gram_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:46:19.58831+00:00
 -- url     : https://prove2.me/theorems/d1723e84-2dd9-4de0-bae1-f2c561f81cbe

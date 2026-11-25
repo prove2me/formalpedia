@@ -1,0 +1,51 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumIsFieldIntersection_of_intNumBase_cutRational_165f4921d410
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T08:21:38.65968+00:00
+-- url     : https://prove2.me/submissions/814c3099-7cf0-4b3f-982b-40b7b5488333
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PVocabMultiHomog
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PVocabMultiHomogIdeal
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PVocabDivCycle
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PIntNumPoint
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PIntNumRatSection
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PIntNumIsFieldIntersection
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_PIntNumBase
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_PIntNumAdd
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_PCutRational
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_AssemblyBridge
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRational_proof_c27e72dcc134
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_GradedFinite_proof_4a0254b94345
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_IntNumAdd_proof_059e7dc472f4
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_IntNumBase_proof_7031e1a11260
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumIsFieldIntersection_proof_69885316002f
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_proof_19b16af12153
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumRatSection_proof_1f2dabfb1efd
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_VocabDivCycle_proof_3cb2a32c78c1
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_VocabMultiHomogIdeal_proof_6afd59a7e16a
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_VocabMultiHomog_proof_8751c6dffe37
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.NumbersDVR
+universe u
+namespace GroundTheory.Heights₂.Heights.NumbersDVR
+namespace IntNumIsFieldIntersection
+theorem _root_.solution
+    (hBase : FieldNumbers.IntNumBase.Statement.{u})
+    (hCut : FieldNumbers.CutRational.Statement.{u}) :
+    IntNumIsFieldIntersection.Statement.{u} :=
+  IntNumIsFieldIntersection.proof VocabMultiHomog.proof
+    (VocabMultiHomogIdeal.proof VocabMultiHomog.proof) VocabDivCycle.proof
+    (IntNumPoint.proof hBase) (IntNumRatSection.proof hCut)
+end IntNumIsFieldIntersection
+end GroundTheory.Heights₂.Heights.NumbersDVR

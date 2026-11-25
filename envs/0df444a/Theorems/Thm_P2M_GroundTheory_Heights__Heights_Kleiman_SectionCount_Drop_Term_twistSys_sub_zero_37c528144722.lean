@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_Term_twistSys_sub_zero_37c528144722
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_Term_twistSys_sub_zero_37c528144722
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:59:12.615063+00:00
 -- url     : https://prove2.me/theorems/494464b8-b318-592a-869a-bdf7e78c8651

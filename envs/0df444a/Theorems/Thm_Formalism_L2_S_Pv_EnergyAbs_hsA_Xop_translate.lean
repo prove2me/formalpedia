@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_hsA_Xop_translate
 -- name    : Formalism.L2.S.Pv.EnergyAbs.hsA_Xop_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:16:30.920277+00:00
 -- url     : https://prove2.me/theorems/379fcc6b-9a86-4293-94e2-c4fa11408338

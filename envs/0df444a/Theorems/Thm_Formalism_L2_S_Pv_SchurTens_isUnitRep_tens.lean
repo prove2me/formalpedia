@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_isUnitRep_tens
 -- name    : Formalism.L2.S.Pv.SchurTens.isUnitRep_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:10:13.625909+00:00
 -- url     : https://prove2.me/theorems/063e3ef1-0968-46c6-a087-52fa81f104ba

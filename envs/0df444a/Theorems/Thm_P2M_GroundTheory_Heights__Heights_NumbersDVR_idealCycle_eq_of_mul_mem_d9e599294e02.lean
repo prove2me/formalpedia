@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_idealCycle_eq_of_mul_mem_d9e599294e02
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_idealCycle_eq_of_mul_mem_d9e599294e02
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:11:52.110801+00:00
 -- url     : https://prove2.me/theorems/0ac38f36-4c8a-4eee-8699-d00c743f14c3

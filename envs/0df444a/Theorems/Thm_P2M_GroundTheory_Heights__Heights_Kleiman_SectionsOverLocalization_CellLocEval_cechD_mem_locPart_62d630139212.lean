@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_CellLocEval_cechD_mem_locPart_62d630139212
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_CellLocEval_cechD_mem_locPart_62d630139212
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:57:00.291359+00:00
 -- url     : https://prove2.me/theorems/af7df2c6-c140-4a57-8a8a-9f034d95b162

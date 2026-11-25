@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PrimVol_exists_residues
 -- name    : GlobalTheory.HL.PrimVol.exists_residues
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:08:10.131072+00:00
 -- url     : https://prove2.me/theorems/6d7cdcf1-df38-4c8d-bca0-480d3f5bc0fd

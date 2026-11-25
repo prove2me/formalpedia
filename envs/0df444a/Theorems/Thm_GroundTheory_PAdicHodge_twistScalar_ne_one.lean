@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_twistScalar_ne_one
 -- name    : GroundTheory.PAdicHodge.twistScalar_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:11:23.340345+00:00
 -- url     : https://prove2.me/theorems/9fd47bea-e0a2-462f-bfb1-2f426bf87cba

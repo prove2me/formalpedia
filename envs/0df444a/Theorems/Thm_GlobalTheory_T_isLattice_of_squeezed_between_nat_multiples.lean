@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isLattice_of_squeezed_between_nat_multiples
 -- name    : GlobalTheory.T.isLattice_of_squeezed_between_nat_multiples
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:51:07.215273+00:00
 -- url     : https://prove2.me/theorems/1ce87fbe-a486-5869-abe9-127991bad0f4

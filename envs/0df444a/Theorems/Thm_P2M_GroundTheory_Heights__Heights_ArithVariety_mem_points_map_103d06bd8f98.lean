@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ArithVariety_mem_points_map_103d06bd8f98
 -- name    : P2M_GroundTheory_Heights__Heights_ArithVariety_mem_points_map_103d06bd8f98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:55:24.200673+00:00
 -- url     : https://prove2.me/theorems/9ab722fb-5e96-4174-9fa8-df448adaba91

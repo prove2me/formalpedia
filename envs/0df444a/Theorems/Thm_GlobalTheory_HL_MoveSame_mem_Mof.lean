@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveSame_mem_Mof
 -- name    : GlobalTheory.HL.MoveSame.mem_Mof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:33:28.045225+00:00
 -- url     : https://prove2.me/theorems/b8f87525-cabd-54e1-bdca-d9793d57a515

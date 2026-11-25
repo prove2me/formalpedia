@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumIsFieldIntersection_of_intNumBase_cutRational_165f4921d410
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumIsFieldIntersection_of_intNumBase_cutRational_165f4921d410
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:06:44.614328+00:00
 -- url     : https://prove2.me/theorems/8b12982e-fbc5-4c32-9393-c0fc8ac8876f

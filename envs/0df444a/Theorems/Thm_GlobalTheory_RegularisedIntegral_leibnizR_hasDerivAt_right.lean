@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularisedIntegral_leibnizR_hasDerivAt_right
 -- name    : GlobalTheory.RegularisedIntegral.leibnizR_hasDerivAt_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:55:30.848744+00:00
 -- url     : https://prove2.me/theorems/70189b85-1f6e-4c09-a9e5-ffc590ec17f4

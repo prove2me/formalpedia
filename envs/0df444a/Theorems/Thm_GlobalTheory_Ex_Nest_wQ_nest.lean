@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_Nest_wQ_nest
 -- name    : GlobalTheory.Ex.Nest.wQ_nest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:06:02.276428+00:00
 -- url     : https://prove2.me/theorems/82cf05c3-7646-4775-b779-07372d829315

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QuotMass_pow_smul_mono
 -- name    : GlobalTheory.HL.QuotMass.pow_smul_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:37:36.015484+00:00
 -- url     : https://prove2.me/theorems/f886031f-d17e-4dce-9fc6-29d44aa9311d

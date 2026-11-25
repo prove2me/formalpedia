@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombCfUpdateZero_proof_92738bcd87e4
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombCfUpdateZero_proof_92738bcd87e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:31:14.582286+00:00
 -- url     : https://prove2.me/theorems/99b87a53-54bd-4040-a35d-5d09f4ca5f61

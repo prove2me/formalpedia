@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_map_fibreMk_eq_top_iff
 -- name    : GlobalTheory.QCoh.map_fibreMk_eq_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:04:09.848626+00:00
 -- url     : https://prove2.me/theorems/53c3d53c-04e3-49e0-bae9-05735cf43601

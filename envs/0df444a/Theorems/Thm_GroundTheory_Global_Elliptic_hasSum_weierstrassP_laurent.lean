@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_hasSum_weierstrassP_laurent
 -- name    : GroundTheory.Global.Elliptic.hasSum_weierstrassP_laurent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:53:01.76458+00:00
 -- url     : https://prove2.me/theorems/0f3ce7f0-9637-5890-b75f-28941f8f88ef

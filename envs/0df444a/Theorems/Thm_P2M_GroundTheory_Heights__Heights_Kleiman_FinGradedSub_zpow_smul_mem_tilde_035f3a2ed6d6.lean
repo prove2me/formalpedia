@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_zpow_smul_mem_tilde_035f3a2ed6d6
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_zpow_smul_mem_tilde_035f3a2ed6d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:59:49.230132+00:00
 -- url     : https://prove2.me/theorems/36bf7af7-6289-4857-a303-5f52588bd4f7

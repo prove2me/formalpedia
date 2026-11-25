@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_nat_bound_localLattices_standard_ae
 -- name    : GlobalTheory.T.exists_nat_bound_localLattices_standard_ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:46:13.07632+00:00
 -- url     : https://prove2.me/theorems/f6acd034-53d5-4c4f-838c-0a558a8fb3a5

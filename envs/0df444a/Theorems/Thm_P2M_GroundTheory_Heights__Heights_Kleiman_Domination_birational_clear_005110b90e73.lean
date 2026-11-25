@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Domination_birational_clear_005110b90e73
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Domination_birational_clear_005110b90e73
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:56:17.871511+00:00
 -- url     : https://prove2.me/theorems/2409d46a-58d4-405e-a12f-a0a9a6de1283

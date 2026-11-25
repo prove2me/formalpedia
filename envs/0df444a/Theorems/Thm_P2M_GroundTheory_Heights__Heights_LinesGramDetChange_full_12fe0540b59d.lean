@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesGramDetChange_full_12fe0540b59d
 -- name    : P2M_GroundTheory_Heights__Heights_LinesGramDetChange_full_12fe0540b59d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:44.241912+00:00
 -- url     : https://prove2.me/theorems/56f5b154-7a68-4c71-a608-2d5f468de73c

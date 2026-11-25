@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_CutMP_JA_FFS_sum_map_smul__b88492d3884a
 -- name    : P2M_Formalism_FourierDecayAlt_P_CutMP_JA_FFS_sum_map_smul__b88492d3884a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:53:28.193008+00:00
 -- url     : https://prove2.me/theorems/1827ec1c-40bd-5b08-bc6c-bf5b7a59e818

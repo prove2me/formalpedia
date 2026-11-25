@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_Th0JetsCurve_of
 -- name    : Formalism.L2.Th1.G.Th0JetsCurve_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:40:45.086201+00:00
 -- url     : https://prove2.me/theorems/ca542563-df9d-50c7-800a-52875a729a8d

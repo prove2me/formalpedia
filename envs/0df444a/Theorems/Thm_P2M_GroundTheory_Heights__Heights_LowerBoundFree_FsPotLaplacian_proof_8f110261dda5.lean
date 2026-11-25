@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_FsPotLaplacian_proof_8f110261dda5
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_FsPotLaplacian_proof_8f110261dda5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:28:34.956976+00:00
 -- url     : https://prove2.me/theorems/b9bccb5e-d5b5-41f4-be53-bcdf9376fc0e

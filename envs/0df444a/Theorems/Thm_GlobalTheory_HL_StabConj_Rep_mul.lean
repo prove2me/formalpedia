@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StabConj_Rep_mul
 -- name    : GlobalTheory.HL.StabConj.Rep.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:08:41.335172+00:00
 -- url     : https://prove2.me/theorems/0d1dfbae-ffed-5451-9961-449bbd8a8d3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_padicLog_smul
 -- name    : GroundTheory.LocalField.padicLog_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:56:23.597582+00:00
 -- url     : https://prove2.me/theorems/c8af74ad-75c9-4668-8fdd-b032326686db

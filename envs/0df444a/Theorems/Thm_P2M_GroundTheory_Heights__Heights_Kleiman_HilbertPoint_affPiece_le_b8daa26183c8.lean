@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPoint_affPiece_le_b8daa26183c8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPoint_affPiece_le_b8daa26183c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:55:49.545818+00:00
 -- url     : https://prove2.me/theorems/bcdc98e8-ea76-4b72-b9b0-55b22f5ecc8a

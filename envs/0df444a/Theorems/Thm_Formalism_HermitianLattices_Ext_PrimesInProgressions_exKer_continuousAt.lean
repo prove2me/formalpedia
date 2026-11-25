@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_exKer_continuousAt
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.exKer_continuousAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:50:54.671091+00:00
 -- url     : https://prove2.me/theorems/b1a4e787-51a9-4548-b9b8-4200ac7dbe9a

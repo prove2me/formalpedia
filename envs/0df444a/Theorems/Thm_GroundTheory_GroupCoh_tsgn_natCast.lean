@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tsgn_natCast
 -- name    : GroundTheory.GroupCoh.tsgn_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:51:56.078169+00:00
 -- url     : https://prove2.me/theorems/8050b3ba-aa1f-46cb-8d70-6af632344100

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctionField_geomH1_rootsOfUnity_equiv_divisibleDivisors_modPow
 -- name    : FunctionField.geomH1_rootsOfUnity_equiv_divisibleDivisors_modPow
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-25T07:52:20.023719+00:00
 -- url     : https://prove2.me/theorems/0ab03020-45d8-4878-9d59-cbeb4c3e4b4d

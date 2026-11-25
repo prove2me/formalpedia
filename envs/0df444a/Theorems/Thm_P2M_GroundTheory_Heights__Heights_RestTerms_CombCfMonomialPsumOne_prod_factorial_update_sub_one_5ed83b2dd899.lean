@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombCfMonomialPsumOne_prod_factorial_update_sub_one_5ed83b2dd899
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombCfMonomialPsumOne_prod_factorial_update_sub_one_5ed83b2dd899
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:05:17.986435+00:00
 -- url     : https://prove2.me/theorems/46aca74f-15ea-5b09-9848-cc2da1ae0034

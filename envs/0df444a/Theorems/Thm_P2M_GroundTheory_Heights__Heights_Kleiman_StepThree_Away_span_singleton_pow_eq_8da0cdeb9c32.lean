@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_Away_span_singleton_pow_eq_8da0cdeb9c32
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_Away_span_singleton_pow_eq_8da0cdeb9c32
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:08:15.21274+00:00
 -- url     : https://prove2.me/theorems/b074aaec-fe76-5717-b5ba-9c162616700f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CutOneGenerator_restrict_zero_2ed7d83dda69
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CutOneGenerator_restrict_zero_2ed7d83dda69
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:53:25.31334+00:00
 -- url     : https://prove2.me/theorems/9d64119a-3cc1-57ba-a65a-3afef2568938

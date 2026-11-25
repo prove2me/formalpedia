@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_DimTie_trdeg_range_544901a4c07b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_DimTie_trdeg_range_544901a4c07b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:58:44.910347+00:00
 -- url     : https://prove2.me/theorems/35fe3710-8c6c-4ed3-a9b9-7fb467cc2f24

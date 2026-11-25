@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermOrthBasis_exists_orth
 -- name    : GlobalTheory.HermOrthBasis.exists_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:40:14.152713+00:00
 -- url     : https://prove2.me/theorems/7aee275c-fc72-586b-8697-4ed17604f4c1

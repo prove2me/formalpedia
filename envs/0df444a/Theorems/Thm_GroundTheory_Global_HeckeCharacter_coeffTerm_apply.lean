@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_coeffTerm_apply
 -- name    : GroundTheory.Global.HeckeCharacter.coeffTerm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:02:17.876607+00:00
 -- url     : https://prove2.me/theorems/07b6d831-3b8a-47f1-be15-c67de2158c21

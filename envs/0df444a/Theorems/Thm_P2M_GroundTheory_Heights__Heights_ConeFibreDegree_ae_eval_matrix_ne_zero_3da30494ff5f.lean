@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeFibreDegree_ae_eval_matrix_ne_zero_3da30494ff5f
 -- name    : P2M_GroundTheory_Heights__Heights_ConeFibreDegree_ae_eval_matrix_ne_zero_3da30494ff5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:57:58.516342+00:00
 -- url     : https://prove2.me/theorems/0d092c05-7cfc-562c-b959-e4bfd5b8661c

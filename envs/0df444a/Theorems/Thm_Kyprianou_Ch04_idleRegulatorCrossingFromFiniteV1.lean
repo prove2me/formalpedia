@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_idleRegulatorCrossingFromFiniteV1
 -- name    : Kyprianou.Ch04.idleRegulatorCrossingFromFiniteV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:25:01.667963+00:00
 -- url     : https://prove2.me/theorems/c4901491-8ea5-4258-b8a7-39a4002ef976

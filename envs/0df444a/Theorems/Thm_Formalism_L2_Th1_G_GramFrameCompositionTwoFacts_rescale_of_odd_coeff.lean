@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_GramFrameCompositionTwoFacts_rescale_of_odd_coeff
 -- name    : Formalism.L2.Th1.G.GramFrameCompositionTwoFacts.rescale_of_odd_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:32:23.133789+00:00
 -- url     : https://prove2.me/theorems/b4746ae2-7006-5baa-beab-228de869a760

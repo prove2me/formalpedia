@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_ramified_shape_holds
 -- name    : Formalism.L2.Th1.G.ramified_shape_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:29:15.448192+00:00
 -- url     : https://prove2.me/theorems/457369e9-2d43-59bc-b7ed-4c0484aadba3

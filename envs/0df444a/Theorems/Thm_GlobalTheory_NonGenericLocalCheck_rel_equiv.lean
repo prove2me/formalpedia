@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonGenericLocalCheck_rel_equiv
 -- name    : GlobalTheory.NonGenericLocalCheck.rel_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:57:07.859698+00:00
 -- url     : https://prove2.me/theorems/f9bd145d-bc46-44dc-ac33-2252aa6b4020

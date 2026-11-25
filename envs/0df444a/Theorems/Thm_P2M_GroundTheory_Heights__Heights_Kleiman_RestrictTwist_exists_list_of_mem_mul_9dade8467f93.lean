@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_exists_list_of_mem_mul_9dade8467f93
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_exists_list_of_mem_mul_9dade8467f93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:02:19.006796+00:00
 -- url     : https://prove2.me/theorems/0f97a2aa-59e8-4f71-9340-bb393deb4c32

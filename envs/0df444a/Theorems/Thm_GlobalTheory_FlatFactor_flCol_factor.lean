@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_flCol_factor
 -- name    : GlobalTheory.FlatFactor.flCol_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:46:31.07184+00:00
 -- url     : https://prove2.me/theorems/621ebc83-d069-40d8-a1f2-5f3b35f671e5

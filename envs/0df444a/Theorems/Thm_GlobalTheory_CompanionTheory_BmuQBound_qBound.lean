@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuQBound_qBound
 -- name    : GlobalTheory.CompanionTheory.BmuQBound.qBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:21:36.412961+00:00
 -- url     : https://prove2.me/theorems/77cc5b8e-1f56-5ef9-8bc0-18b3691ff50f

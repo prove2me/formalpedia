@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Glue_flat_of_submodule
 -- name    : GlobalTheory.DegCnt.Glue.flat_of_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:26:35.178388+00:00
 -- url     : https://prove2.me/theorems/c905e8ea-b919-4c1c-94af-531d01a44fbf

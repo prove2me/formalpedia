@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_norm_eq_neg_one_of_unramified_values
 -- name    : GlobalTheory.T.exists_norm_eq_neg_one_of_unramified_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:46:34.06987+00:00
 -- url     : https://prove2.me/theorems/a3d7b42c-be66-4f29-963f-6ee70fca60bd

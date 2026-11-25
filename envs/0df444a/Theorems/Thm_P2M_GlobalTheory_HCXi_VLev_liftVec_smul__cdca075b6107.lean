@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HCXi_VLev_liftVec_smul__cdca075b6107
 -- name    : P2M_GlobalTheory_HCXi_VLev_liftVec_smul__cdca075b6107
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:56:43.464056+00:00
 -- url     : https://prove2.me/theorems/023ab249-6d75-49da-8b0f-4f2276061497

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_assPoints_subset_of_mono
 -- name    : GlobalTheory.QCoh.assPoints_subset_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:09:40.116885+00:00
 -- url     : https://prove2.me/theorems/e4d2eb6d-c4cf-4897-bb1a-778b8e242c6f

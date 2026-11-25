@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_VLev_parabolic_mulVec_e0_smul
 -- name    : GlobalTheory.HCXi.VLev.parabolic_mulVec_e0_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:33:36.841348+00:00
 -- url     : https://prove2.me/theorems/14f21355-a634-4136-830e-38d1432875f1

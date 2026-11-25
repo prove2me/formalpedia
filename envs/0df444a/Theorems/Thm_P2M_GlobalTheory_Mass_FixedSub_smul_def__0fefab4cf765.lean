@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Mass_FixedSub_smul_def__0fefab4cf765
 -- name    : P2M_GlobalTheory_Mass_FixedSub_smul_def__0fefab4cf765
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:59:37.416269+00:00
 -- url     : https://prove2.me/theorems/a4042667-f053-4b3e-8780-72a01bafebc1

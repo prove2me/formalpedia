@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ProjDegreePositive_ringKrullDim_of_mem_minimalPrimes_c3b0ffc6dd58
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ProjDegreePositive_ringKrullDim_of_mem_minimalPrimes_c3b0ffc6dd58
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:58:14.233712+00:00
 -- url     : https://prove2.me/theorems/af518497-8212-4d17-9f86-33a238843c54

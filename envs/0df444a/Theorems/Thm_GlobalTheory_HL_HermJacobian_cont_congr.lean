@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_HermJacobian_cont_congr
 -- name    : GlobalTheory.HL.HermJacobian.cont_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:31:50.748832+00:00
 -- url     : https://prove2.me/theorems/ad330d21-9c30-4fcc-95d2-5146d62d55eb

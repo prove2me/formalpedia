@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_signedBlockAntidiag_with_leadingMinors_encard_le
 -- name    : GlobalTheory.T.signedBlockAntidiag_with_leadingMinors_encard_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:25:54.85663+00:00
 -- url     : https://prove2.me/theorems/135395ab-f583-416f-9455-196b090f3250

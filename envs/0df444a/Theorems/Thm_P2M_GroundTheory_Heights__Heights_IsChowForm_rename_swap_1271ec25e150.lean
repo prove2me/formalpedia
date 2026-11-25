@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IsChowForm_rename_swap_1271ec25e150
 -- name    : P2M_GroundTheory_Heights__Heights_IsChowForm_rename_swap_1271ec25e150
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:44:04.114741+00:00
 -- url     : https://prove2.me/theorems/d5439bdb-53ea-4e8d-a8d6-18b65db1082a

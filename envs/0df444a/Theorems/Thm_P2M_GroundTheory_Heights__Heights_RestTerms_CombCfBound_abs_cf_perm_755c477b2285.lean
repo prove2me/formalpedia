@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombCfBound_abs_cf_perm_755c477b2285
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombCfBound_abs_cf_perm_755c477b2285
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:04:49.931374+00:00
 -- url     : https://prove2.me/theorems/6152bf35-a7f3-45cd-805c-825aa05715b0

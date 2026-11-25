@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_redGood_twistSys_zero_86afa4105f62
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_redGood_twistSys_zero_86afa4105f62
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:03:44.289738+00:00
 -- url     : https://prove2.me/theorems/baaf1303-5062-4d1b-a9e9-874c9f8e06dd

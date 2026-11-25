@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_vaes_ampleBase_le_chartRing_c0e47ef1f2f5
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_vaes_ampleBase_le_chartRing_c0e47ef1f2f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:02:57.194172+00:00
 -- url     : https://prove2.me/theorems/48f91631-57a8-4531-a9f1-e929edc41c29

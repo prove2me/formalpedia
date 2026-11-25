@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_redGood_fb99db1a608a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_redGood_fb99db1a608a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:00:58.499002+00:00
 -- url     : https://prove2.me/theorems/76d07686-1aea-531a-b4f8-5b19ddcc61f0

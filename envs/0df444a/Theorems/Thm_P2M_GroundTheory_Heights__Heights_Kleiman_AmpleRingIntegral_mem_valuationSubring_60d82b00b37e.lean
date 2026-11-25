@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_AmpleRingIntegral_mem_valuationSubring_60d82b00b37e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_AmpleRingIntegral_mem_valuationSubring_60d82b00b37e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:53:08.425545+00:00
 -- url     : https://prove2.me/theorems/aac11b41-f3de-55df-ae5e-777729e9f122

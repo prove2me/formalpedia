@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfA_orb_inj
 -- name    : PI.AprimeInfA.orb_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:23:20.554705+00:00
 -- url     : https://prove2.me/theorems/e9f9a00f-c7fb-547c-862c-22d9056b4fd1

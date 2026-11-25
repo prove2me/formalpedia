@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_chartMonomial_not_mem_of_notMem_a3f2513e1571
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_chartMonomial_not_mem_of_notMem_a3f2513e1571
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:52:01.784521+00:00
 -- url     : https://prove2.me/theorems/347963a7-9ac5-5998-a1ed-dda51f2dbf8c

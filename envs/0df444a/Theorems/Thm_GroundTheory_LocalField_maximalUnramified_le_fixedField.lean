@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_maximalUnramified_le_fixedField
 -- name    : GroundTheory.LocalField.maximalUnramified_le_fixedField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:50:18.838399+00:00
 -- url     : https://prove2.me/theorems/544b4c5a-6e3d-5802-9768-86ba6643c333

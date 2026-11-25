@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothLocusAdd_exists_hom_of_locally_rel
 -- name    : GlobalTheory.SmoothLocusAdd.exists_hom_of_locally_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:46:21.242052+00:00
 -- url     : https://prove2.me/theorems/d276aba0-56b1-435c-ae13-460d96536b03

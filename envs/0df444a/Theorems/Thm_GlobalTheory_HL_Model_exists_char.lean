@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_exists_char
 -- name    : GlobalTheory.HL.Model.exists_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:46:37.395848+00:00
 -- url     : https://prove2.me/theorems/e7f23fe0-2f25-55cc-afae-292edd3e7992

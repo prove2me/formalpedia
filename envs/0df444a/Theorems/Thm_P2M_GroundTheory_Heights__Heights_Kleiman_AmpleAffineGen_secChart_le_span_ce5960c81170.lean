@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_AmpleAffineGen_secChart_le_span_ce5960c81170
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_AmpleAffineGen_secChart_le_span_ce5960c81170
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:58:33.044854+00:00
 -- url     : https://prove2.me/theorems/d21fc279-dac3-4568-aadc-b367e56c8e25

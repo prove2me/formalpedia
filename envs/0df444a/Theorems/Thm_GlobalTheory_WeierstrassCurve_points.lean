@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_points
 -- name    : GlobalTheory.WeierstrassCurve.points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:49:26.429075+00:00
 -- url     : https://prove2.me/theorems/d6ec3035-f4d6-5169-bf42-0445b3b752a1

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R8.Bit.Oppbank.Dm_idem_of_Le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T19:05:57.84778+00:00
 -- url     : https://prove2.me/submissions/b4c2d715-d7bf-4105-bb39-0b0752e38f5b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_IntMul_Kappa_R6_Defs4
 import Definitions.Def_IntMul_Kappa_R8_Data_BitOppbankPnd

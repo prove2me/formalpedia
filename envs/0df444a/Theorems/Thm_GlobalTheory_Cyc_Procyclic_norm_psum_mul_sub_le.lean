@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Procyclic_norm_psum_mul_sub_le
 -- name    : GlobalTheory.Cyc.Procyclic.norm_psum_mul_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:21:22.118568+00:00
 -- url     : https://prove2.me/theorems/d34086f6-868e-4565-9156-0ac60fe6a74e

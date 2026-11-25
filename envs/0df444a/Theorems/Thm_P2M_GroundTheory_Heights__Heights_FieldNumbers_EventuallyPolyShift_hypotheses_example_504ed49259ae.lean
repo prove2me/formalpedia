@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_EventuallyPolyShift_hypotheses_example_504ed49259ae
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_EventuallyPolyShift_hypotheses_example_504ed49259ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:52:06.780296+00:00
 -- url     : https://prove2.me/theorems/29f5fade-4c40-4ee6-949d-01c798918995

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_metaplectic_euclidean_gaussian
 -- name    : GlobalTheory.metaplectic_euclidean_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:54:06.291085+00:00
 -- url     : https://prove2.me/theorems/ebdfe737-4230-4964-acfe-b1fe712da387

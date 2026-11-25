@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_opBound_Rop
 -- name    : GroundTheory.Automorphic.Sobolev.opBound_Rop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:21:43.66285+00:00
 -- url     : https://prove2.me/theorems/eb071c7e-8b4e-4c44-94ca-2ae97085423a

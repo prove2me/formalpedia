@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_IntBasis_norm_term
 -- name    : GlobalTheory.Cyc.IntBasis.norm_term
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:37:14.105812+00:00
 -- url     : https://prove2.me/theorems/299649fc-3ce5-45ef-91a1-e4c8fb7265b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_prinOp_add_apply_eq
 -- name    : GroundTheory.Automorphic.Sobolev.prinOp_add_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:21:25.108942+00:00
 -- url     : https://prove2.me/theorems/f64b8cc1-ecc5-4ad7-b40e-132285c76069

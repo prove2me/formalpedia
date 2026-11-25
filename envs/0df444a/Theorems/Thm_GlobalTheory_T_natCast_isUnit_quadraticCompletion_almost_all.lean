@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_natCast_isUnit_quadraticCompletion_almost_all
 -- name    : GlobalTheory.T.natCast_isUnit_quadraticCompletion_almost_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:50:45.312095+00:00
 -- url     : https://prove2.me/theorems/f2ca0a8e-d117-5450-bbbd-9db892acc2a5

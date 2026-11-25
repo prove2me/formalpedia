@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAct_isTermW_smul
 -- name    : GlobalTheory.FrameAct.isTermW_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:27:44.859224+00:00
 -- url     : https://prove2.me/theorems/8e8d4e0b-21e5-4ee9-857f-d9954e7d80d7

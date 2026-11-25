@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_chart_ringKrullDim_add_card_c745f3fb7347
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_chart_ringKrullDim_add_card_c745f3fb7347
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:52:32.658376+00:00
 -- url     : https://prove2.me/theorems/5116de0b-7ddc-410f-b72e-7b59e263044a

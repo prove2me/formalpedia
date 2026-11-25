@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuDsDer_contDiff_dW
 -- name    : GlobalTheory.CompanionTheory.BmuDsDer.contDiff_dW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:00:58.128635+00:00
 -- url     : https://prove2.me/theorems/39d9c655-7b9e-4917-9502-a5b64306b9d8

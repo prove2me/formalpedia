@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_loc_cong_unitri
 -- name    : GlobalTheory.loc_cong_unitri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:49:45.750446+00:00
 -- url     : https://prove2.me/theorems/7751bb60-d531-404a-a800-9b6ca6d02ec5

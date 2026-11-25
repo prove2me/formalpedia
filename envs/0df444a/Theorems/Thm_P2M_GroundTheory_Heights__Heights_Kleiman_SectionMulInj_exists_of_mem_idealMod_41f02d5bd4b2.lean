@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionMulInj_exists_of_mem_idealMod_41f02d5bd4b2
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionMulInj_exists_of_mem_idealMod_41f02d5bd4b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:01:34.364669+00:00
 -- url     : https://prove2.me/theorems/d1adb36f-0246-424a-b8fd-b2457fd0dceb

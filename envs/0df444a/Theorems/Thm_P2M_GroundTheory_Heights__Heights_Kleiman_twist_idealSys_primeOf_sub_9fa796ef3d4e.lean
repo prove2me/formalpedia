@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_twist_idealSys_primeOf_sub_9fa796ef3d4e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_twist_idealSys_primeOf_sub_9fa796ef3d4e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:03:57.337544+00:00
 -- url     : https://prove2.me/theorems/1ca31758-99b2-4e75-baad-97a308754c6d

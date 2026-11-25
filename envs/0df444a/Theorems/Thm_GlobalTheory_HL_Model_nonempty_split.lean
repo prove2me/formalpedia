@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_nonempty_split
 -- name    : GlobalTheory.HL.Model.nonempty_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:39:26.113942+00:00
 -- url     : https://prove2.me/theorems/f7fd608b-ffb5-4cc5-9357-3d790f89b881

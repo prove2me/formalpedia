@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_OtherFactorBound_coeff_bound_c07558531dc0
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_OtherFactorBound_coeff_bound_c07558531dc0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:16.568485+00:00
 -- url     : https://prove2.me/theorems/daec90e3-836c-47bc-9c0e-2941de1b1808

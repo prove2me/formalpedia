@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_zuckerman_hypothesis
 -- name    : GlobalTheory.T.zuckerman_hypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:48:54.253674+00:00
 -- url     : https://prove2.me/theorems/816d999f-3616-4617-a924-e08d0f781bb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_solGFam_foldr_rightDeriv_leftTranslate
 -- name    : GlobalTheory.HCA.solGFam_foldr_rightDeriv_leftTranslate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:29:36.580853+00:00
 -- url     : https://prove2.me/theorems/daf80d1c-ce0e-5de8-bc94-336e9fac1bd5

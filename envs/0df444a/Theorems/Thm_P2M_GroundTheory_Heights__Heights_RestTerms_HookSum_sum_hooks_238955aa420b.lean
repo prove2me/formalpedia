@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_HookSum_sum_hooks_238955aa420b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_HookSum_sum_hooks_238955aa420b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:20.22201+00:00
 -- url     : https://prove2.me/theorems/bdb412a1-5a73-48c9-b214-2dbc362df8bf

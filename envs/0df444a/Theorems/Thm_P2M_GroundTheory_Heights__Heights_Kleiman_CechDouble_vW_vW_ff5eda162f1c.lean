@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CechDouble_vW_vW_ff5eda162f1c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CechDouble_vW_vW_ff5eda162f1c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:54:04.459333+00:00
 -- url     : https://prove2.me/theorems/d5c2fcb2-0057-4146-991d-b0d311d7acc7

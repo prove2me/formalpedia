@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameOver_count
 -- name    : GlobalTheory.FrameOver.count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:27:46.288318+00:00
 -- url     : https://prove2.me/theorems/28db01fa-5e4b-5023-a253-41a439e98c82

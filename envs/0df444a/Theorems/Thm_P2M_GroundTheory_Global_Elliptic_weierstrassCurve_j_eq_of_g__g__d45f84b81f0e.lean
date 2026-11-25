@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Global_Elliptic_weierstrassCurve_j_eq_of_g__g__d45f84b81f0e
 -- name    : P2M_GroundTheory_Global_Elliptic_weierstrassCurve_j_eq_of_g__g__d45f84b81f0e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:52:33.868476+00:00
 -- url     : https://prove2.me/theorems/d63da7cd-3910-47dc-b9f9-5dbac370dae2

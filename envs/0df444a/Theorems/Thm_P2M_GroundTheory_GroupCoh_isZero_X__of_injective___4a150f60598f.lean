@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_isZero_X__of_injective___4a150f60598f
 -- name    : P2M_GroundTheory_GroupCoh_isZero_X__of_injective___4a150f60598f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:53:56.233829+00:00
 -- url     : https://prove2.me/theorems/79f85de8-97fa-4219-ae18-5e18a3884362

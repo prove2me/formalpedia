@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhpr_term_le_small
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhpr_term_le_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:38:39.330992+00:00
 -- url     : https://prove2.me/theorems/6c30fdc4-b747-4b7d-9cc7-549457de4ffc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvH_conj_Nof
 -- name    : GlobalTheory.InvH.conj_Nof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:42:43.058431+00:00
 -- url     : https://prove2.me/theorems/200e007a-2d94-55c1-a5c6-6adffa11e645

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DatumStab_main
 -- name    : GlobalTheory.HL.DatumStab.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:07:33.353455+00:00
 -- url     : https://prove2.me/theorems/24bf0bfa-701d-413d-8377-132193722243

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianDoubleCosetFrames_level_le_iff_congr_flagSteps
 -- name    : GlobalTheory.T.hermitianDoubleCosetFrames_level_le_iff_congr_flagSteps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:45:45.766118+00:00
 -- url     : https://prove2.me/theorems/2a1b8b12-113e-47ce-9a3c-7563d110737d

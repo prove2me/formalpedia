@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_nat_mul_mem_integers_quadraticCompletion
 -- name    : GlobalTheory.T.exists_nat_mul_mem_integers_quadraticCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:49:24.430846+00:00
 -- url     : https://prove2.me/theorems/24c95faa-09f5-52e8-b661-b36e8dad95b6

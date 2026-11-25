@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocMaxIdeals_exists_scale_b69a487db7c3
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocMaxIdeals_exists_scale_b69a487db7c3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:44.854412+00:00
 -- url     : https://prove2.me/theorems/1672eb9e-fbf2-4e03-89a4-be8c0fd81510

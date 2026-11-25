@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealResProd_absNorm_eq_finprod
 -- name    : GlobalTheory.IdealResProd.absNorm_eq_finprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:38:27.240365+00:00
 -- url     : https://prove2.me/theorems/25e2ee4d-6946-4eb9-a6f1-d81bb53cc5d0

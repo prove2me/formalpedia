@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LevelFamilies_ncard_classes
 -- name    : GlobalTheory.HL.LevelFamilies.ncard_classes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:33:06.54867+00:00
 -- url     : https://prove2.me/theorems/46e65906-ee2f-4f56-9f39-72af01e6b292

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NonNorm_trace_algebraMap_mul
 -- name    : GlobalTheory.JR.WeilQuad.NonNorm.trace_algebraMap_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:08:41.618565+00:00
 -- url     : https://prove2.me/theorems/b5b7b110-89ed-4c78-a122-5ba4080a5e7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BesselLevi_leviQ
 -- name    : GlobalTheory.CompanionTheory.BesselLevi.leviQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:23:03.893109+00:00
 -- url     : https://prove2.me/theorems/9cbd09d9-10aa-537b-b1d8-f2b26bed703b

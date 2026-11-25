@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_restrLen_of_irrelevant_97ff5d9d626a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_restrLen_of_irrelevant_97ff5d9d626a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:02:41.940479+00:00
 -- url     : https://prove2.me/theorems/b87612b6-ed71-4097-9fd8-6465df567a7a

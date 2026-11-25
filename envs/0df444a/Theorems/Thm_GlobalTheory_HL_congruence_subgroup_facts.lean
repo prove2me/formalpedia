@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_congruence_subgroup_facts
 -- name    : GlobalTheory.HL.congruence_subgroup_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:34:04.546457+00:00
 -- url     : https://prove2.me/theorems/16f0c74e-da45-497a-811a-0f00c7f4d69b

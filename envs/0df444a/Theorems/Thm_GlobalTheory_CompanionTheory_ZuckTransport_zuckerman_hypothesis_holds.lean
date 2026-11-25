@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckTransport_zuckerman_hypothesis_holds
 -- name    : GlobalTheory.CompanionTheory.ZuckTransport.zuckerman_hypothesis_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:22:05.220531+00:00
 -- url     : https://prove2.me/theorems/94260a43-20ad-598b-84e6-92db6253da99

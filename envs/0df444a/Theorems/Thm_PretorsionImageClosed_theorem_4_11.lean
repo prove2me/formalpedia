@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_theorem_4_11
 -- name    : PretorsionImageClosed.theorem_4_11
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T07:42:46.764719+00:00
 -- url     : https://prove2.me/theorems/c4a836dd-11be-4e61-876c-921b8f04db4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionMulInj_not_mem_of_mem_monos_0bf0f5564de5
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionMulInj_not_mem_of_mem_monos_0bf0f5564de5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:01:38.710124+00:00
 -- url     : https://prove2.me/theorems/2db3a11d-38d0-5c9d-bbdb-bffc76738d1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_B4_progTwo
 -- name    : Formalism.HermitianLattices.Ext.B4.progTwo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:18.542298+00:00
 -- url     : https://prove2.me/theorems/179738e3-8d67-4afe-8bfc-12b45ca2b745

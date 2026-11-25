@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_exLF_differentiable
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.exLF_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:12:23.127372+00:00
 -- url     : https://prove2.me/theorems/899ede7b-7e71-456e-8c44-ccf2bb3d98b8

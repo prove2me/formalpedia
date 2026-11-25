@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_AmpleAffineGen_secChart_smul_c864f421735c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_AmpleAffineGen_secChart_smul_c864f421735c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:58:23.089565+00:00
 -- url     : https://prove2.me/theorems/a201ee23-fa67-5a4c-a9e8-cdabc6787e26

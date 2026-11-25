@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_prod_X_add_eq_pow_fb0dfdb72940
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_prod_X_add_eq_pow_fb0dfdb72940
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:18:34.384565+00:00
 -- url     : https://prove2.me/theorems/fb8c3c49-1b75-4bdb-b10b-93fc8336cb1b

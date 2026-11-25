@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBJ_Frz_integrable_one
 -- name    : Formalism.FourierDecayAlt.P.PBJ.Frz.integrable_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:05:39.999373+00:00
 -- url     : https://prove2.me/theorems/530fc871-c55c-41b7-ad48-8e4f9277497a

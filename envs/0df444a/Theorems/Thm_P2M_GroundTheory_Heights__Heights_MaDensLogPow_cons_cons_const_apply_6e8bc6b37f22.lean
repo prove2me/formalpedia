@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MaDensLogPow_cons_cons_const_apply_6e8bc6b37f22
 -- name    : P2M_GroundTheory_Heights__Heights_MaDensLogPow_cons_cons_const_apply_6e8bc6b37f22
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:57:08.379821+00:00
 -- url     : https://prove2.me/theorems/9dfa6141-1630-4bb2-af16-ccf50801a56e

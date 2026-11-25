@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_QuotientH0Length_sgn_mul_self__ee5e9f4cc5bb
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_QuotientH0Length_sgn_mul_self__ee5e9f4cc5bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:56:23.085852+00:00
 -- url     : https://prove2.me/theorems/3d76e5e6-4cf4-5994-ab73-290136b59b8a

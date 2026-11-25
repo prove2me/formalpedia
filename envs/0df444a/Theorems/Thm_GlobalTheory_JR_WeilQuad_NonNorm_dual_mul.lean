@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NonNorm_dual_mul
 -- name    : GlobalTheory.JR.WeilQuad.NonNorm.dual_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:09:31.54141+00:00
 -- url     : https://prove2.me/theorems/132abf27-ba4e-4db9-b958-327b0e558f9b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_wQ_characterization_and_mul_relation
 -- name    : GlobalTheory.T.wQ_characterization_and_mul_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:11:14.954811+00:00
 -- url     : https://prove2.me/theorems/c99465e9-5914-4595-a6f4-e6147b8cd3a7

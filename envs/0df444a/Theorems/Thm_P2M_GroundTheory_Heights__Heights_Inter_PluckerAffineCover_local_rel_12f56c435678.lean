@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PluckerAffineCover_local_rel_12f56c435678
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PluckerAffineCover_local_rel_12f56c435678
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:25:21.798854+00:00
 -- url     : https://prove2.me/theorems/052b5095-d5b9-4559-9e56-542242292cc5

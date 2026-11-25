@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_idleRegulatorIncrementCoreV1
 -- name    : Kyprianou.Ch04.idleRegulatorIncrementCoreV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:25:04.726813+00:00
 -- url     : https://prove2.me/theorems/72b446ad-9856-42c0-8f74-7f2dd8b8800c

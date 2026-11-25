@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_SmFn_exists_decomp_prodExp
 -- name    : GlobalTheory.HCA.SmFn.exists_decomp_prodExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:44:25.294151+00:00
 -- url     : https://prove2.me/theorems/8807aa5e-ea17-4867-97d7-64ffbe8e0768

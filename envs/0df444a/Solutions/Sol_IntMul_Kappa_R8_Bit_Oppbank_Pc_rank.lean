@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R8.Bit.Oppbank.Pc_rank
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T19:17:42.644271+00:00
 -- url     : https://prove2.me/submissions/5446c89c-e0ec-41a9-9bba-651fd34dc56a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_IntMul_Kappa_R8_Data_BitOppbankPnd
 import Definitions.Def_IntMul_Kappa_R8_Data_BitOppbankMoveFacts

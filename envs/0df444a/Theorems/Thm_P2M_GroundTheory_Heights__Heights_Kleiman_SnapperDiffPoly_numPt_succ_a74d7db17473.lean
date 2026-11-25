@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperDiffPoly_numPt_succ_a74d7db17473
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperDiffPoly_numPt_succ_a74d7db17473
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:57:50.762604+00:00
 -- url     : https://prove2.me/theorems/797462d0-eb2c-59d1-8146-6bea6eece50c

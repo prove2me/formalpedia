@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_hensel_step
 -- name    : GlobalTheory.GramCount.hensel_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:29:05.571808+00:00
 -- url     : https://prove2.me/theorems/2e93bf96-94d0-5447-9ea4-04236bfca1b0

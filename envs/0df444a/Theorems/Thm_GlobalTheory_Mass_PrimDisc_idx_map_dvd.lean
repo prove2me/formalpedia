@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_PrimDisc_idx_map_dvd
 -- name    : GlobalTheory.Mass.PrimDisc.idx_map_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:38:43.149474+00:00
 -- url     : https://prove2.me/theorems/3a3eb4fc-6cef-5d6a-8d28-92b2fb9c56bb

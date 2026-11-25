@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_hasT_const
 -- name    : ReciprocityTheory.ChartRestriction.L1.hasT_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:54:14.574975+00:00
 -- url     : https://prove2.me/theorems/790667b8-878e-4b4d-8393-509f6405b6c7

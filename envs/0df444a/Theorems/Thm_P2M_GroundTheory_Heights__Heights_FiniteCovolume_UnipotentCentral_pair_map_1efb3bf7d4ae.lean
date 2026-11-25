@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnipotentCentral_pair_map_1efb3bf7d4ae
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnipotentCentral_pair_map_1efb3bf7d4ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:06:56.137887+00:00
 -- url     : https://prove2.me/theorems/1f8645fc-cfe2-5ddc-ae7d-743bc96a2d2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_stokes_U_transport
 -- name    : Arxiv1110_5134.stokes_U_transport
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:02:47.338084+00:00
 -- url     : https://prove2.me/theorems/de018d84-3616-458b-aae6-fba58a377efc

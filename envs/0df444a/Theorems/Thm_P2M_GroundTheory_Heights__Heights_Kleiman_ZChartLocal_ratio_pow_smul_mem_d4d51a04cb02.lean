@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ZChartLocal_ratio_pow_smul_mem_d4d51a04cb02
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ZChartLocal_ratio_pow_smul_mem_d4d51a04cb02
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:00:43.201459+00:00
 -- url     : https://prove2.me/theorems/c30f654c-f6f7-4f44-a539-7db4151ea994

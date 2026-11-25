@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPointNagata_aeval_C_mul_X__435eef58e544
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPointNagata_aeval_C_mul_X__435eef58e544
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:11:39.339706+00:00
 -- url     : https://prove2.me/theorems/42f52674-6578-5616-aef3-2912819d7bc8

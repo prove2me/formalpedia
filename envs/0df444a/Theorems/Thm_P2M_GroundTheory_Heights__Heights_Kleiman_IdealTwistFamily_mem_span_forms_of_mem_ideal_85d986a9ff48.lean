@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_IdealTwistFamily_mem_span_forms_of_mem_ideal_85d986a9ff48
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_IdealTwistFamily_mem_span_forms_of_mem_ideal_85d986a9ff48
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:55:17.2776+00:00
 -- url     : https://prove2.me/theorems/df510e67-9a3f-4aea-8cb5-fe8560845ba7

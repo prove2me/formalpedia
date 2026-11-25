@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_span_singleton_eq_maximalIdeal_pow
 -- name    : GroundTheory.LocalField.span_singleton_eq_maximalIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:51:03.3131+00:00
 -- url     : https://prove2.me/theorems/38b892c6-5ef5-5125-b29a-427b164997c5

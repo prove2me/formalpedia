@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_coeff_asIdeal_of_not_dvd
 -- name    : GroundTheory.Global.HeckeCharacter.coeff_asIdeal_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:01:03.246513+00:00
 -- url     : https://prove2.me/theorems/9ef4bd30-d939-5a77-a068-a8d61c6992f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_truncatedWhittaker_weilRep_eventually
 -- name    : GlobalTheory.T.truncatedWhittaker_weilRep_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:59:54.234158+00:00
 -- url     : https://prove2.me/theorems/1db4b534-8c64-43d4-9da4-334659ae5a72

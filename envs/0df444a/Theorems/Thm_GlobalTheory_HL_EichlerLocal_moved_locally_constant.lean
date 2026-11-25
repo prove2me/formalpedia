@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_EichlerLocal_moved_locally_constant
 -- name    : GlobalTheory.HL.EichlerLocal.moved_locally_constant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:29:41.550058+00:00
 -- url     : https://prove2.me/theorems/ac83701d-ebb2-5bc9-ba83-634037f5d424

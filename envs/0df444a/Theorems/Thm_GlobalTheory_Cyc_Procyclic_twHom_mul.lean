@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Procyclic_twHom_mul
 -- name    : GlobalTheory.Cyc.Procyclic.twHom_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:21:18.094477+00:00
 -- url     : https://prove2.me/theorems/28921749-67d3-411c-864a-e2b424dc13c6

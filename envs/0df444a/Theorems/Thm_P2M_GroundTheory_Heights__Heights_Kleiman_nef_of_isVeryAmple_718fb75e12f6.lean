@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_nef_of_isVeryAmple_718fb75e12f6
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_nef_of_isVeryAmple_718fb75e12f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:03:26.174995+00:00
 -- url     : https://prove2.me/theorems/e4d8104e-f2fe-4c4c-8f04-2f5e16f49c7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_orthonormal_same_integralSpan_unimodular
 -- name    : GlobalTheory.T.exists_orthonormal_same_integralSpan_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:49:52.859578+00:00
 -- url     : https://prove2.me/theorems/ab0af86b-020c-5f77-be8c-f9eddc61396a

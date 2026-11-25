@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitIdx_idx_scal
 -- name    : GlobalTheory.DegCnt.SplitIdx.idx_scal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:26:19.339581+00:00
 -- url     : https://prove2.me/theorems/777fd659-6c60-463b-ba15-26012ea00109

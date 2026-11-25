@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_IsFiniteQC_isFinitePresentation
 -- name    : GlobalTheory.QCoh.IsFiniteQC.isFinitePresentation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:02:17.855224+00:00
 -- url     : https://prove2.me/theorems/e5913b06-0ce3-5b97-b37d-54977f96239c

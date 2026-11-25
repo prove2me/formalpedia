@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PluckerRelations_key_71b309e14059
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PluckerRelations_key_71b309e14059
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:23:32.031956+00:00
 -- url     : https://prove2.me/theorems/701ca101-f136-499d-a154-65b964290c29

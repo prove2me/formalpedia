@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_Partition_onSet_pair_9415c9c7ff83
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Cech_Partition_onSet_pair_9415c9c7ff83
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:53:19.956795+00:00
 -- url     : https://prove2.me/theorems/ce165f00-e34f-53d3-b9b0-c67e2dd2bd41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_isIntegral_of_forall_mem_O
 -- name    : GlobalTheory.HL.isIntegral_of_forall_mem_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:33:59.921865+00:00
 -- url     : https://prove2.me/theorems/6ffba4da-d8e9-4d18-bd8e-0f744b073a48

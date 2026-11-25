@@ -33042,8 +33042,8 @@
 {"parent": "row23_rh_supp_RHLowSlabEighthCell15", "child": "row23_rh_supp_RHLowSlabEighthPilot", "via": ["statement"]}
 {"parent": "Kyprianou.Ch04.exercise44CompensatedJumpL2Isometry", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["statement"]}
 {"parent": "Kyprianou.Ch04.exercise44CompensatedJumpL2Isometry", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42SupremumChangeOfVariables", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42SupremumChangeOfVariables", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42SupremumChangeOfVariables", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42SupremumChangeOfVariables", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb_phys90e_original_nojump_contact_positive_quadrature_gap", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb_phys90e_original_nojump_contact_positive_quadrature_gap", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
 {"parent": "RPLib_S4_SwanLocQc", "child": "RPLib_S4_SwanRepQ", "via": ["statement"]}
@@ -53273,7 +53273,7 @@
 {"parent": "Kyprianou.Ch05.exercise51ProveTheorem57", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.exercise51ProveTheorem57", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.exercise51ProveTheorem57", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.exercise_4_7_iii_goalV2", "child": "Kyprianou_Ch04_Exercise4_7Certification", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise_4_7_iii_goalV2", "child": "Kyprianou_Ch04_Exercise4_7Certification", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.CoarseBook.coarse_score", "child": "APFPaper1.Source.each_private_excludes_riding", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.CoarseBook.coarse_score", "child": "APFPaper1.Source.sum_needed_le_bill", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.CoarseBook.coarse_score", "child": "APFPaper1.Source.marginal_ge_of_private_record", "via": ["solution", "statement"]}

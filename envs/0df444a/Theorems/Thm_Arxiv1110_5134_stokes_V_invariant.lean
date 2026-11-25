@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_stokes_V_invariant
 -- name    : Arxiv1110_5134.stokes_V_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:00:01.14853+00:00
 -- url     : https://prove2.me/theorems/1fe61bd3-6c2a-4387-8046-735edbc05bdd

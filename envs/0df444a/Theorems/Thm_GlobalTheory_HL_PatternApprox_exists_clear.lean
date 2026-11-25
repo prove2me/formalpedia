@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PatternApprox_exists_clear
 -- name    : GlobalTheory.HL.PatternApprox.exists_clear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:43:48.046796+00:00
 -- url     : https://prove2.me/theorems/9c45f1fe-1aba-4731-8277-db29550ac1db

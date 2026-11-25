@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_IntBasis_term_le
 -- name    : GlobalTheory.Cyc.IntBasis.term_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:34:48.909801+00:00
 -- url     : https://prove2.me/theorems/4d7a8aa1-7f48-40a9-81c6-15afb45f4dda

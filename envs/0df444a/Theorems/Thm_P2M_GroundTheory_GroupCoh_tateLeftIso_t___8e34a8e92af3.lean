@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_tateLeftIso_t___8e34a8e92af3
 -- name    : P2M_GroundTheory_GroupCoh_tateLeftIso_t___8e34a8e92af3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:55:12.024686+00:00
 -- url     : https://prove2.me/theorems/6c9eb84a-0aef-4bcb-9240-8aa2e572a945

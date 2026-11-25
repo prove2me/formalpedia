@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_integral_liftedRankOneKernel
 -- name    : Formalism.L2.S.Pv.EnergyAbs.integral_liftedRankOneKernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:16:39.482802+00:00
 -- url     : https://prove2.me/theorems/37736112-077f-421a-b9e5-f8230f4df6f4

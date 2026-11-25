@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_idleRegulatorDyadicDerivativeLimitV1
 -- name    : Kyprianou.Ch04.idleRegulatorDyadicDerivativeLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:33:45.136014+00:00
 -- url     : https://prove2.me/theorems/d1f4eac2-3d23-4757-86f0-afccc425d48b

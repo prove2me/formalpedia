@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_cxHessian_comp_holo_687153abf862
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_cxHessian_comp_holo_687153abf862
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:18:09.046034+00:00
 -- url     : https://prove2.me/theorems/e5850eac-bb01-4cc7-86c1-f8fdad79c8c4

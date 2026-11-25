@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BesselCutLim_tendsto_dsW
 -- name    : GlobalTheory.CompanionTheory.BesselCutLim.tendsto_dsW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:22:21.794943+00:00
 -- url     : https://prove2.me/theorems/1621bdc9-6d4a-57a9-aa83-d752c9bace61

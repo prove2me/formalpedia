@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_hermFramePairNormalForm_anisotropic_mem_referenceLattice
 -- name    : GlobalTheory.DegCnt.LiftS.hermFramePairNormalForm_anisotropic_mem_referenceLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:22:48.308858+00:00
 -- url     : https://prove2.me/theorems/e4f794ef-5f2c-5e89-b4ad-a3aa40f05ef5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LevelRep_Good_add
 -- name    : GlobalTheory.HL.LevelRep.Good.add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:12:43.127054+00:00
 -- url     : https://prove2.me/theorems/c5844774-4f76-42be-9189-1565426f9053

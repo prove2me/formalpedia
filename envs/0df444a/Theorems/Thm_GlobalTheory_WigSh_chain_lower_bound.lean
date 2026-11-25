@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_chain_lower_bound
 -- name    : GlobalTheory.WigSh.chain_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:47:23.260904+00:00
 -- url     : https://prove2.me/theorems/24dad70c-43fe-45cf-a039-deb7fe1a5948

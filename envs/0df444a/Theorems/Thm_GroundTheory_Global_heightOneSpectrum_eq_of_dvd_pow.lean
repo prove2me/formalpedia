@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_heightOneSpectrum_eq_of_dvd_pow
 -- name    : GroundTheory.Global.heightOneSpectrum_eq_of_dvd_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:03:43.325681+00:00
 -- url     : https://prove2.me/theorems/12082224-7b8b-41b0-b995-506643e7173d

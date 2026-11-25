@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotFilt_twist_twist_a941cbd44f76
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotFilt_twist_twist_a941cbd44f76
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:08:45.290802+00:00
 -- url     : https://prove2.me/theorems/38740f39-0dfa-4a7d-857e-f9dcf16022bf

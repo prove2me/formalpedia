@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_GramFrameCompositionTwoFacts_negY_two
 -- name    : Formalism.L2.Th1.G.GramFrameCompositionTwoFacts.negY_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:29:20.5498+00:00
 -- url     : https://prove2.me/theorems/9d1c262d-8b83-58dc-81dc-46dcd1b904b6

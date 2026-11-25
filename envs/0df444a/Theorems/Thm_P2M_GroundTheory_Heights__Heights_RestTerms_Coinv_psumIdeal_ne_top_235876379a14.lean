@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_psumIdeal_ne_top_235876379a14
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_psumIdeal_ne_top_235876379a14
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:18:45.879413+00:00
 -- url     : https://prove2.me/theorems/1a90a109-968b-45d5-ad4c-a78a9a00dd2d

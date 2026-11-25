@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_finsum_nonpos__f0098eb00e49
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_finsum_nonpos__f0098eb00e49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:58:35.637051+00:00
 -- url     : https://prove2.me/theorems/11b7f8e0-6a96-445e-8380-9947c2e1f4b5

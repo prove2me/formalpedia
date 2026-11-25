@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FibU_exists_pow_smul
 -- name    : GlobalTheory.HL.FibU.exists_pow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:29:46.392225+00:00
 -- url     : https://prove2.me/theorems/afd33b43-28f6-5b8b-89a4-79c6ebe1feec

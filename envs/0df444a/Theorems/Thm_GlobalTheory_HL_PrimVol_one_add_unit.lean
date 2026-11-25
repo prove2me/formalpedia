@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PrimVol_one_add_unit
 -- name    : GlobalTheory.HL.PrimVol.one_add_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:04:54.506455+00:00
 -- url     : https://prove2.me/theorems/c21c9549-17ae-5f92-b83c-1ec049def004

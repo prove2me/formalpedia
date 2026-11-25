@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Domination_mem_chartRing_base_of_mem_04507d5011a3
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Domination_mem_chartRing_base_of_mem_04507d5011a3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:00:10.079862+00:00
 -- url     : https://prove2.me/theorems/01944ac4-a988-533e-aa76-c4344b9406e1

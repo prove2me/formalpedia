@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_IdealTwistFamily_exists_finset_forms_7e62cb2b7e9a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_IdealTwistFamily_exists_finset_forms_7e62cb2b7e9a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:55:35.185125+00:00
 -- url     : https://prove2.me/theorems/3bd13e42-cd1a-4a1d-a0f3-78fe22de7d99

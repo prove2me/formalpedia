@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhPos_hasSum
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhPos_hasSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:13:51.368887+00:00
 -- url     : https://prove2.me/theorems/746005f6-c798-5467-a2fe-c3de5434d2be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_exists_qSymb_small
 -- name    : GroundTheory.Automorphic.Sobolev.exists_qSymb_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:21:33.478442+00:00
 -- url     : https://prove2.me/theorems/e5f73ec3-574d-4939-ab80-c351e0d873fb

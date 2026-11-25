@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHPrimeFilt_exists_seq_eq_top_3b904fd29028
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHPrimeFilt_exists_seq_eq_top_3b904fd29028
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:40:47.677794+00:00
 -- url     : https://prove2.me/theorems/7be80d12-583c-57a6-a182-bd70f055015f

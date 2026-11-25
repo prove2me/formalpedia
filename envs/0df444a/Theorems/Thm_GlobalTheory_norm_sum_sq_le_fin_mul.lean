@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_sum_sq_le_fin_mul
 -- name    : GlobalTheory.norm_sum_sq_le_fin_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:49:50.81064+00:00
 -- url     : https://prove2.me/theorems/7e691309-5005-500d-8fbc-0984859154a5

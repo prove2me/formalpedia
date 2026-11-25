@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperSubquotientFinite_chartRing_fg_1c4b759fa1c8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperSubquotientFinite_chartRing_fg_1c4b759fa1c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:57:14.960276+00:00
 -- url     : https://prove2.me/theorems/bfcd0d0c-fbc4-4072-9fc9-31b1eab16533

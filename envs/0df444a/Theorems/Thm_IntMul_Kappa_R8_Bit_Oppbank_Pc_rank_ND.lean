@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_Pc_rank_ND
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.Pc_rank_ND
--- status  : Open
+-- status  : Proved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T19:16:09.428896+00:00
 -- url     : https://prove2.me/theorems/590a9ee0-cecb-41be-b425-cdf41014939d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_countGL_eq_sum_orbits
 -- name    : GlobalTheory.UnitLemma.countGL_eq_sum_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:48:54.39173+00:00
 -- url     : https://prove2.me/theorems/16873790-76be-5b3b-870d-1bf990c24bc1

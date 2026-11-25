@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PrimTerm_Mof_le_swap
 -- name    : GlobalTheory.HL.PrimTerm.Mof_le_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:33:14.875526+00:00
 -- url     : https://prove2.me/theorems/01c627e3-0217-4257-aaf8-66556714a121

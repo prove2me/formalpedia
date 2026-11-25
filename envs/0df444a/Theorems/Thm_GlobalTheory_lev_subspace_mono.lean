@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lev_subspace_mono
 -- name    : GlobalTheory.lev_subspace_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:50:07.092842+00:00
 -- url     : https://prove2.me/theorems/ecbcedb6-701d-4e4c-a754-ead01436ec25

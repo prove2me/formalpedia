@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_NcX_LT_GLP_trans_tuple
 -- name    : Formalism.L2.SG.Pf.NcX.LT.GLP.trans_tuple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:05:45.661651+00:00
 -- url     : https://prove2.me/theorems/984dcdda-0e4e-502d-8d01-af1e5297938b

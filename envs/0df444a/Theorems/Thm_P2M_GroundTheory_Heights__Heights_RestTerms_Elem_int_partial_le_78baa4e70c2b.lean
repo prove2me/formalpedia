@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Elem_int_partial_le_78baa4e70c2b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Elem_int_partial_le_78baa4e70c2b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:18:45.614703+00:00
 -- url     : https://prove2.me/theorems/0efa90bd-2328-53a6-87b2-6308bc335c75

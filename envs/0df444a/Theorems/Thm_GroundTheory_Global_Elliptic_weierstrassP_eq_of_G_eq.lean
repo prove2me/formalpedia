@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_weierstrassP_eq_of_G_eq
 -- name    : GroundTheory.Global.Elliptic.weierstrassP_eq_of_G_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:50:38.326386+00:00
 -- url     : https://prove2.me/theorems/a1632fd6-05fe-4b96-a11c-06aa74410b7c

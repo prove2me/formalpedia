@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_cubeSign_inlEmb
 -- name    : GlobalTheory.Cube.cubeSign_inlEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:36:46.244869+00:00
 -- url     : https://prove2.me/theorems/b48d5bec-f550-48ab-9f2c-67b0db543e04

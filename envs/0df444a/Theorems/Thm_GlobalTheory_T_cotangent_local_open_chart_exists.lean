@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cotangent_local_open_chart_exists
 -- name    : GlobalTheory.T.cotangent_local_open_chart_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:35:22.548512+00:00
 -- url     : https://prove2.me/theorems/4287ca0d-d2c5-41b0-a135-9dbf0261c216

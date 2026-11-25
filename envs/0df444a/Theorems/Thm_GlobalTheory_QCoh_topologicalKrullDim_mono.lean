@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_topologicalKrullDim_mono
 -- name    : GlobalTheory.QCoh.topologicalKrullDim_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:02:24.545178+00:00
 -- url     : https://prove2.me/theorems/75164c74-d66a-59d9-b445-55ac651f13d7

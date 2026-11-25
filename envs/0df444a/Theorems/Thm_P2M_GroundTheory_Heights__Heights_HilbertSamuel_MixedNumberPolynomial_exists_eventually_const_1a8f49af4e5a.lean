@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MixedNumberPolynomial_exists_eventually_const_1a8f49af4e5a
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MixedNumberPolynomial_exists_eventually_const_1a8f49af4e5a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:18:39.103155+00:00
 -- url     : https://prove2.me/theorems/14f5b64e-e4d2-486c-b9ef-e65ead4199d5

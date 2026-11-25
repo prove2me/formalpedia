@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_pullN_mul
 -- name    : Formalism.L2.FormalSeriesBounds.VP.pullN_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:17:33.567499+00:00
 -- url     : https://prove2.me/theorems/66a94395-1c25-4e1c-9003-8e9e7e7782db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_quad_count
 -- name    : GlobalTheory.GramCount.quad_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:28:34.981363+00:00
 -- url     : https://prove2.me/theorems/27b1bec2-b98a-55af-9905-0f12b977e057

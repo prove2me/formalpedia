@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_GramFrameCompositionTwoFacts_coeff_zero_lam
 -- name    : Formalism.L2.Th1.G.GramFrameCompositionTwoFacts.coeff_zero_lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:45:37.092479+00:00
 -- url     : https://prove2.me/theorems/5f77a9b8-66b8-424b-8e7c-4a5477a7452f

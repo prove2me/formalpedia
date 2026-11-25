@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_DimTie_trdeg_polynomial_a210957d600c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_DimTie_trdeg_polynomial_a210957d600c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:56:02.064027+00:00
 -- url     : https://prove2.me/theorems/29387f24-0b15-4c93-907c-ee3b7587ddb1

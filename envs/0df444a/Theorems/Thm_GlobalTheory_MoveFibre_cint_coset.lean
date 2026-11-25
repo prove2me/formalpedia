@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFibre_cint_coset
 -- name    : GlobalTheory.MoveFibre.cint_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:56:27.302323+00:00
 -- url     : https://prove2.me/theorems/9a73df5d-4935-5832-9ac9-a6a7b5d38cad

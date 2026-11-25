@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tsum_inv_stabilizer_eq_tsum_mul_fiber
 -- name    : GlobalTheory.tsum_inv_stabilizer_eq_tsum_mul_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:52:51.408218+00:00
 -- url     : https://prove2.me/theorems/da0cb292-744d-5679-a727-f92ac9a4b548

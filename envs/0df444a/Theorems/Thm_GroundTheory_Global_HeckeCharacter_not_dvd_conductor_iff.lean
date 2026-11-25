@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_not_dvd_conductor_iff
 -- name    : GroundTheory.Global.HeckeCharacter.not_dvd_conductor_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:49:24.60981+00:00
 -- url     : https://prove2.me/theorems/04d1b082-1a99-5958-8690-08b424d902d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_topologicalKrullDim_eq_bot_iff
 -- name    : GlobalTheory.QCoh.topologicalKrullDim_eq_bot_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:06:28.83221+00:00
 -- url     : https://prove2.me/theorems/eaeea243-a45a-4cd5-9257-6d8ba2955fb5

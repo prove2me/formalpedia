@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_split__augClass_80c011573ab3
 -- name    : P2M_GroundTheory_GroupCoh_split__augClass_80c011573ab3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:18:02.414083+00:00
 -- url     : https://prove2.me/theorems/1578cd33-ff25-5406-9f26-3b503e1344e7

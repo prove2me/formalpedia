@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMassCompact_integrable_ball_09c7bd6a1abc
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMassCompact_integrable_ball_09c7bd6a1abc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:15:43.485503+00:00
 -- url     : https://prove2.me/theorems/0b3d78fa-9a06-562d-862b-f65db5e085ec

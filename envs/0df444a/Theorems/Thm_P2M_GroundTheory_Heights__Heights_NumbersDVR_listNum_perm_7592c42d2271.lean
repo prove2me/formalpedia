@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_listNum_perm_7592c42d2271
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_listNum_perm_7592c42d2271
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:11:23.732273+00:00
 -- url     : https://prove2.me/theorems/6e8961cf-1cd1-45c3-a611-3fc69e05f2d0

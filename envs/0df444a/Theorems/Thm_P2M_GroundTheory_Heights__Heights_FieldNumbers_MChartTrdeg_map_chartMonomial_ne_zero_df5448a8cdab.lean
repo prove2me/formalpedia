@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartTrdeg_map_chartMonomial_ne_zero_df5448a8cdab
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartTrdeg_map_chartMonomial_ne_zero_df5448a8cdab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:51:42.452802+00:00
 -- url     : https://prove2.me/theorems/5c6a77c2-328a-50e6-afa2-5a730fd644d4

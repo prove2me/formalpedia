@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerDatumAct_exists_mulAction
 -- name    : GlobalTheory.InnerDatumAct.exists_mulAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:35:50.987802+00:00
 -- url     : https://prove2.me/theorems/d48aac47-78d2-47aa-a7ca-529d35c456d2

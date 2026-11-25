@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealResProd_vE_eq_count
 -- name    : GlobalTheory.IdealResProd.vE_eq_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:40:35.776656+00:00
 -- url     : https://prove2.me/theorems/90341161-2b98-540c-b1a4-4b5861f9f79a

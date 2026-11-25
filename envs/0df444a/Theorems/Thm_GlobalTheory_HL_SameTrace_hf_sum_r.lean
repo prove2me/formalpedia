@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SameTrace_hf_sum_r
 -- name    : GlobalTheory.HL.SameTrace.hf_sum_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:18:54.094803+00:00
 -- url     : https://prove2.me/theorems/f6ea2a32-9b31-4e85-9647-c7e38fc67808

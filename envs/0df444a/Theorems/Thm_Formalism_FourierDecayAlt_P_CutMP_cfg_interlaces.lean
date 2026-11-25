@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_cfg_interlaces
 -- name    : Formalism.FourierDecayAlt.P.CutMP.cfg_interlaces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:21:15.947798+00:00
 -- url     : https://prove2.me/theorems/6c990f51-73a8-4d2b-9db9-fb46b3fd2d5a

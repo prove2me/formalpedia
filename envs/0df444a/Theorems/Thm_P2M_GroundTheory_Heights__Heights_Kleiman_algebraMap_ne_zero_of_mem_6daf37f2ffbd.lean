@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_algebraMap_ne_zero_of_mem_6daf37f2ffbd
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_algebraMap_ne_zero_of_mem_6daf37f2ffbd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:03:42.448932+00:00
 -- url     : https://prove2.me/theorems/6ebf11aa-7f65-52ab-a1a7-cfdb49904076

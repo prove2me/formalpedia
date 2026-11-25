@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_OrbF_extOf_res
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.OrbF.extOf_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:37:09.482149+00:00
 -- url     : https://prove2.me/theorems/f07b1f0a-c8ad-4f52-8183-d3a71b47ad94

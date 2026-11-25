@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerRead_mem_perp_iff
 -- name    : GlobalTheory.InnerRead.mem_perp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:11:24.592443+00:00
 -- url     : https://prove2.me/theorems/358dcca1-f5b6-5aa7-89c7-4410ea9fd754

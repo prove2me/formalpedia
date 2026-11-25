@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_jet_iter
 -- name    : Formalism.L2.FormalSeriesBounds.VP.jet_iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:40:26.28362+00:00
 -- url     : https://prove2.me/theorems/6ba3a7b6-fe41-4574-914a-5ed7a5802237

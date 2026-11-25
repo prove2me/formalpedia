@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CompanionTheory_WaveGrid_hypType__bc1b63aaa92d
 -- name    : P2M_CompanionTheory_WaveGrid_hypType__bc1b63aaa92d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:08:15.545885+00:00
 -- url     : https://prove2.me/theorems/cff73551-4ffa-5b52-a8ae-af804abc6976

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepThreeOnWLift_piece_le_idealGraded_85f2dd901128
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepThreeOnWLift_piece_le_idealGraded_85f2dd901128
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:59:34.170999+00:00
 -- url     : https://prove2.me/theorems/e6d23641-aceb-4323-9d75-a90d0ddc074e

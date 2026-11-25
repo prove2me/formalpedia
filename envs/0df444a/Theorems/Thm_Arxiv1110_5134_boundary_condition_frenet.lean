@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_boundary_condition_frenet
 -- name    : Arxiv1110_5134.boundary_condition_frenet
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:14:57.034558+00:00
 -- url     : https://prove2.me/theorems/92b0301c-cd78-4473-9663-8c10c9c7101f

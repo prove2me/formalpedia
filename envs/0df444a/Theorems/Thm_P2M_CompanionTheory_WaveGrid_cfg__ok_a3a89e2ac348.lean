@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CompanionTheory_WaveGrid_cfg__ok_a3a89e2ac348
 -- name    : P2M_CompanionTheory_WaveGrid_cfg__ok_a3a89e2ac348
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:58:11.543284+00:00
 -- url     : https://prove2.me/theorems/62d34ba9-7758-4854-8fef-6baa5f0f839a

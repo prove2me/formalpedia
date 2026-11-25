@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleDim_le_funField_1d98adab0225
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleDim_le_funField_1d98adab0225
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:03:49.431803+00:00
 -- url     : https://prove2.me/theorems/a3e0e717-566f-588e-ae89-9c53248d67b4

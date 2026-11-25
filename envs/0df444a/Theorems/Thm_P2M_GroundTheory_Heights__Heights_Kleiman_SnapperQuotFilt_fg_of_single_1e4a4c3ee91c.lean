@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotFilt_fg_of_single_1e4a4c3ee91c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotFilt_fg_of_single_1e4a4c3ee91c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:57:46.552044+00:00
 -- url     : https://prove2.me/theorems/5048d660-afc1-42d5-a541-05ad791d642f

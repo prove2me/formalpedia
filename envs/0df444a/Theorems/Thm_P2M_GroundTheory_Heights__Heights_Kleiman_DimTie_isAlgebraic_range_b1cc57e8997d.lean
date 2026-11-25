@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_DimTie_isAlgebraic_range_b1cc57e8997d
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_DimTie_isAlgebraic_range_b1cc57e8997d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:58:28.99705+00:00
 -- url     : https://prove2.me/theorems/1c66813f-b6d5-5b9b-9a00-8fe649e4b6d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ProjDegreePositive_le_ker_constantCoeff_bce59831045c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ProjDegreePositive_le_ker_constantCoeff_bce59831045c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:59:16.969592+00:00
 -- url     : https://prove2.me/theorems/dc62de75-6ff5-56e9-967e-9e1b8a14ebcd

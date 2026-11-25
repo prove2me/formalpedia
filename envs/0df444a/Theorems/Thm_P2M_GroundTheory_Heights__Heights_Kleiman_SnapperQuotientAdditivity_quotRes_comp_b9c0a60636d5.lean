@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotientAdditivity_quotRes_comp_b9c0a60636d5
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotientAdditivity_quotRes_comp_b9c0a60636d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:58:16.285122+00:00
 -- url     : https://prove2.me/theorems/e1c97bb6-624a-4e9c-836e-e72471a9f54a

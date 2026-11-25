@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_QuotTrans_subsingleton_H_one_iff_d33e1da7ed0b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_QuotTrans_subsingleton_H_one_iff_d33e1da7ed0b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:55:32.419234+00:00
 -- url     : https://prove2.me/theorems/3a4d7377-e980-480a-bf0f-cb3d27a5ba36

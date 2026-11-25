@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_OrbF_through_smul
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.OrbF.through_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:05:16.888819+00:00
 -- url     : https://prove2.me/theorems/0d3b1a31-5aca-5fed-9128-f36a23aed836

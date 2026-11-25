@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperHyperplaneMid_exists_eq_of_mem_idealMod_3bbfd4d1f565
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperHyperplaneMid_exists_eq_of_mem_idealMod_3bbfd4d1f565
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:58:18.398605+00:00
 -- url     : https://prove2.me/theorems/8d51a63a-252c-4a0b-b10e-be90179bacf3

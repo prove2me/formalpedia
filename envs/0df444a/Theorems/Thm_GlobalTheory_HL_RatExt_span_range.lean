@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RatExt_span_range
 -- name    : GlobalTheory.HL.RatExt.span_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:34:04.345419+00:00
 -- url     : https://prove2.me/theorems/5dcb02c7-a49f-4d58-87c5-fc52040c8802

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_isCoef_of_J
 -- name    : CompanionTheory.LimBd.Main.isCoef_of_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:57:09.924441+00:00
 -- url     : https://prove2.me/theorems/32c820eb-8462-444c-b9e4-2d46c24452ad

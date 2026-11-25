@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Glue_exists_gens
 -- name    : GlobalTheory.DegCnt.Glue.exists_gens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:21:46.530853+00:00
 -- url     : https://prove2.me/theorems/bbca1bab-a7b3-5c61-842e-5468a3000ed5

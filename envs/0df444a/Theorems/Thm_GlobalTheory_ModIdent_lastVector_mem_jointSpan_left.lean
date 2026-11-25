@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_lastVector_mem_jointSpan_left
 -- name    : GlobalTheory.ModIdent.lastVector_mem_jointSpan_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:43:41.626313+00:00
 -- url     : https://prove2.me/theorems/0d93b556-b28a-46b4-94ee-bfec967760fd

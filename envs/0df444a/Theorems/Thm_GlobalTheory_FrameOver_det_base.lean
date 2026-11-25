@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameOver_det_base
 -- name    : GlobalTheory.FrameOver.det_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:27:34.922971+00:00
 -- url     : https://prove2.me/theorems/b4d14c74-6d46-581d-85d6-37306a7f15f4

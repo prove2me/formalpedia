@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassFibre_wt_of_mem_orbit
 -- name    : GlobalTheory.MassFibre.wt_of_mem_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:39:04.140645+00:00
 -- url     : https://prove2.me/theorems/dbde0271-f00a-4c5b-b65d-707c531cd31d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGram_lead_lower_mul
 -- name    : GlobalTheory.FrameGram.lead_lower_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:28:21.060934+00:00
 -- url     : https://prove2.me/theorems/92659055-9978-4bdd-ba01-a6d0c46453ec

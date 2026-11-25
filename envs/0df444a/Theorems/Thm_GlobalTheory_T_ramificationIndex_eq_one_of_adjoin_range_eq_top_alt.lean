@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ramificationIndex_eq_one_of_adjoin_range_eq_top_alt
 -- name    : GlobalTheory.T.ramificationIndex_eq_one_of_adjoin_range_eq_top_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:47:11.820851+00:00
 -- url     : https://prove2.me/theorems/1b388bb4-01c5-48d3-80a2-08660b197290

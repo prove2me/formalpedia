@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DegCnt_LiftS_q_X__232d051c03ce
 -- name    : P2M_GlobalTheory_DegCnt_LiftS_q_X__232d051c03ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:21:56.652639+00:00
 -- url     : https://prove2.me/theorems/cb7f1fcf-d588-4b02-8be5-79b8bd20a437

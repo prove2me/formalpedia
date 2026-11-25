@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_CharDet_char_prod
 -- name    : GlobalTheory.UTrans.CharDet.char_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:12:18.347954+00:00
 -- url     : https://prove2.me/theorems/c4d9da6d-ae90-5b9c-b693-72e8ac43dc34

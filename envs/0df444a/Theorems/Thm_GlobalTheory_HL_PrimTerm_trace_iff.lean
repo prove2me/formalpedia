@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PrimTerm_trace_iff
 -- name    : GlobalTheory.HL.PrimTerm.trace_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:36:10.411926+00:00
 -- url     : https://prove2.me/theorems/40c4a47d-0416-5c71-8d57-12de1b8e82ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_differentExponent_eq_iff
 -- name    : GroundTheory.LocalField.differentExponent_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:19:07.474701+00:00
 -- url     : https://prove2.me/theorems/b6c17e47-ee32-479d-a517-072106682d4e

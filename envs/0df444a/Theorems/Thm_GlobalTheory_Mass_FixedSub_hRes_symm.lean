@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_FixedSub_hRes_symm
 -- name    : GlobalTheory.Mass.FixedSub.hRes_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:42:29.495846+00:00
 -- url     : https://prove2.me/theorems/224bcd84-a91c-4b40-9854-bb6fd2a0b29d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SelfDual_exists_orthonormal
 -- name    : GlobalTheory.HL.SelfDual.exists_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:14:14.604799+00:00
 -- url     : https://prove2.me/theorems/a464d04d-dbe3-5bbc-a2d8-0d858f18909c

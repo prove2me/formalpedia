@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Global_Elliptic_g__latticeOfTau_ea6d51c2ccc7
 -- name    : P2M_GroundTheory_Global_Elliptic_g__latticeOfTau_ea6d51c2ccc7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:52:18.149177+00:00
 -- url     : https://prove2.me/theorems/191f72e1-3cd3-4d89-ac93-215333e69950

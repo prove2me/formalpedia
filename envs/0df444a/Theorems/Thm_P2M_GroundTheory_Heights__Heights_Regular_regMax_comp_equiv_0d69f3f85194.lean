@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_regMax_comp_equiv_0d69f3f85194
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_regMax_comp_equiv_0d69f3f85194
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:18:34.911873+00:00
 -- url     : https://prove2.me/theorems/371bcd87-41b4-4bc6-91e3-e100c83560a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NonNorm_stable_unique
 -- name    : GlobalTheory.JR.WeilQuad.NonNorm.stable_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:23.296863+00:00
 -- url     : https://prove2.me/theorems/595280a2-c0a8-4294-8f40-9fb6c37d6eb7

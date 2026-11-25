@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_dim_of_isSubvar_6285aee0eebb
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_dim_of_isSubvar_6285aee0eebb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:59:57.547556+00:00
 -- url     : https://prove2.me/theorems/33cf00c9-4b6d-4ace-8423-35efde3ec22e

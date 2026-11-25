@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_charBar_apply
 -- name    : GroundTheory.ProfCoh.charBar_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:52:45.370975+00:00
 -- url     : https://prove2.me/theorems/6f7b86f7-3bde-4a9e-a1b5-c56a23b8a74a

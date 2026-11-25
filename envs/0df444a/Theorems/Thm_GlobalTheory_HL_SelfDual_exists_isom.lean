@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SelfDual_exists_isom
 -- name    : GlobalTheory.HL.SelfDual.exists_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:33:46.626942+00:00
 -- url     : https://prove2.me/theorems/75fe105e-d74f-4dbf-bd19-324198911e04

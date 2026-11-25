@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_AdmissibleCompactSupport_crd_projV
 -- name    : PI.VolStabW.AdmissibleCompactSupport.crd_projV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:42:51.358811+00:00
 -- url     : https://prove2.me/theorems/81d3d8f4-7e51-4cb2-b646-6f204a8431fd

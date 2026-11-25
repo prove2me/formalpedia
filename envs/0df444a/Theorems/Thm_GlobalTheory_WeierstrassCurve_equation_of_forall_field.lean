@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_equation_of_forall_field
 -- name    : GlobalTheory.WeierstrassCurve.equation_of_forall_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:25:32.275832+00:00
 -- url     : https://prove2.me/theorems/5eccf91a-b34a-4c7e-8a4f-8a943867a8b5

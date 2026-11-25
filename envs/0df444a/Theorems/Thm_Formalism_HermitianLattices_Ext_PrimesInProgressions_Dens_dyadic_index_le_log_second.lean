@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_dyadic_index_le_log_second
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.dyadic_index_le_log_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:31:00.733893+00:00
 -- url     : https://prove2.me/theorems/9f3dbfac-ad26-493e-b60c-6b58261df566

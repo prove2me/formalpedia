@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_PrimDisc_dual_latIn
 -- name    : GlobalTheory.Mass.PrimDisc.dual_latIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:40:07.951897+00:00
 -- url     : https://prove2.me/theorems/6660fc26-7521-4cee-9122-d66899df0af9

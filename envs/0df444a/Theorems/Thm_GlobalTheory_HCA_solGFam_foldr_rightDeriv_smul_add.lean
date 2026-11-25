@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_solGFam_foldr_rightDeriv_smul_add
 -- name    : GlobalTheory.HCA.solGFam_foldr_rightDeriv_smul_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:29:33.515659+00:00
 -- url     : https://prove2.me/theorems/960a35c4-8f8e-5b96-a448-2d0857a69a8e

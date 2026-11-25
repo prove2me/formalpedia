@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodSub_count_eq_of_le
 -- name    : GlobalTheory.HL.GoodSub.count_eq_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:31:02.18462+00:00
 -- url     : https://prove2.me/theorems/19f7fa3b-f271-4872-a133-c0c0c65a3f78

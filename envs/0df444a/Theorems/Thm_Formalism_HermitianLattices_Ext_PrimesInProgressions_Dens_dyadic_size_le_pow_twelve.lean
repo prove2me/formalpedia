@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_dyadic_size_le_pow_twelve
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.dyadic_size_le_pow_twelve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:18:26.195811+00:00
 -- url     : https://prove2.me/theorems/fcd295b9-b145-50dd-83de-92b29c6983bd

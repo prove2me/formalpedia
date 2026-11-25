@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_SymLift_normalising_factor
 -- name    : GlobalTheory.Ex.SymLift.normalising_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:06:34.324612+00:00
 -- url     : https://prove2.me/theorems/c33c6c2d-26a0-408c-921b-66feaf06bb20

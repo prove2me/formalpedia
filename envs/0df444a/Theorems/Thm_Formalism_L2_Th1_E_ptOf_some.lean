@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_ptOf_some
 -- name    : Formalism.L2.Th1.E.ptOf_some
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:22:32.445174+00:00
 -- url     : https://prove2.me/theorems/d27efa99-0ac8-4714-ad7e-39ef969b5975

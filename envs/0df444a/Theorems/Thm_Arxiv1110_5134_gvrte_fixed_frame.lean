@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_gvrte_fixed_frame
 -- name    : Arxiv1110_5134.gvrte_fixed_frame
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:16:06.075799+00:00
 -- url     : https://prove2.me/theorems/ee6b7de3-dcc1-4847-9b9d-249febe8f96d

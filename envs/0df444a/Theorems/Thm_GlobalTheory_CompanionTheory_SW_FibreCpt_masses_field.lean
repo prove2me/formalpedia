@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreCpt_masses_field
 -- name    : GlobalTheory.CompanionTheory.SW.FibreCpt.masses_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:04:18.193963+00:00
 -- url     : https://prove2.me/theorems/b4c808d6-0397-4153-983a-b03eb1625f58

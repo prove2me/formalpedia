@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_form_chart_1de3df5576aa
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_form_chart_1de3df5576aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:00:09.724529+00:00
 -- url     : https://prove2.me/theorems/5981e241-8895-4f5e-bb6a-47ea06a31e56

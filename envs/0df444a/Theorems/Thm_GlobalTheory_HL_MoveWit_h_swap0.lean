@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveWit_h_swap0
 -- name    : GlobalTheory.HL.MoveWit.h_swap0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:33:30.143319+00:00
 -- url     : https://prove2.me/theorems/1d73079b-e9f3-4b41-a683-ecd10231950f

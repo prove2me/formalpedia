@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_module_finite_of_forall_mem_span_0fcf8b912263
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_module_finite_of_forall_mem_span_0fcf8b912263
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:56:04.674971+00:00
 -- url     : https://prove2.me/theorems/c07c0991-9ed3-4cea-8a42-47156079dfbc

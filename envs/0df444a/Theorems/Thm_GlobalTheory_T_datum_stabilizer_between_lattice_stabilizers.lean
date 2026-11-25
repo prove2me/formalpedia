@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_datum_stabilizer_between_lattice_stabilizers
 -- name    : GlobalTheory.T.datum_stabilizer_between_lattice_stabilizers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:47:55.975023+00:00
 -- url     : https://prove2.me/theorems/f9ff2faa-de62-400c-ad6e-cf6adbedf2d9

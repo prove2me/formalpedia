@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_sum_exponents_lt_of_mem_support_53993d495681
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_sum_exponents_lt_of_mem_support_53993d495681
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:01:42.190103+00:00
 -- url     : https://prove2.me/theorems/b40f6736-04f5-4287-bcdf-4c4551fb0d0e

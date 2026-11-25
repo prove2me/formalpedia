@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpecialFibreGenerator_mem_nonzeroLocus_secAlong
 -- name    : GlobalTheory.SpecialFibreGenerator.mem_nonzeroLocus_secAlong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:48:18.280784+00:00
 -- url     : https://prove2.me/theorems/b5e7b360-6134-4363-bffc-1c8c3148ec3f

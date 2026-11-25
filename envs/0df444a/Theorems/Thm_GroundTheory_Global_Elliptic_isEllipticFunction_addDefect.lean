@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_isEllipticFunction_addDefect
 -- name    : GroundTheory.Global.Elliptic.isEllipticFunction_addDefect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:14:55.739583+00:00
 -- url     : https://prove2.me/theorems/96e94cbb-af96-51d9-a247-c5240045a00e

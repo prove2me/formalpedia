@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_int_brauerFun
 -- name    : GroundTheory.LocalField.exists_int_brauerFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:30:36.029815+00:00
 -- url     : https://prove2.me/theorems/fb8b2ed5-e2bb-5240-9221-386abf1c748e

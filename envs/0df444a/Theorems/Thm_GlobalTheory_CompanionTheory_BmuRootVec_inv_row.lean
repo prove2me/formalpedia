@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuRootVec_inv_row
 -- name    : GlobalTheory.CompanionTheory.BmuRootVec.inv_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:39:13.126096+00:00
 -- url     : https://prove2.me/theorems/6e70c8a7-d8b9-4a52-b1f0-86102503ca2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_AmpleAffineGen_mem_secChart_of_mem_b8e5b6bc3283
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_AmpleAffineGen_mem_secChart_of_mem_b8e5b6bc3283
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:59:14.671859+00:00
 -- url     : https://prove2.me/theorems/cafd0de2-73dd-44d1-8333-96cbbde5c41d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_omg_equivariant
 -- name    : GlobalTheory.WigSh.omg_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:34:46.268426+00:00
 -- url     : https://prove2.me/theorems/8181c576-b51f-43a0-b58d-9775bf070c3e

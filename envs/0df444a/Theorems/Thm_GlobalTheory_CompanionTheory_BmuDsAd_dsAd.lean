@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuDsAd_dsAd
 -- name    : GlobalTheory.CompanionTheory.BmuDsAd.dsAd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:20:03.475105+00:00
 -- url     : https://prove2.me/theorems/1e5453f0-0f96-572a-bec1-47604f6222bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EffectiveHS_EffectiveHilbertSamuelJetLemmas_exists_unit_dd50c86e45ea
 -- name    : P2M_GroundTheory_Heights__Heights_EffectiveHS_EffectiveHilbertSamuelJetLemmas_exists_unit_dd50c86e45ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:55:04.071801+00:00
 -- url     : https://prove2.me/theorems/5eb48498-235c-42e8-ac1e-99f78bcad361

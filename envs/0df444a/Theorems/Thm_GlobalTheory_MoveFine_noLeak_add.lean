@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_noLeak_add
 -- name    : GlobalTheory.MoveFine.noLeak_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:45:14.962826+00:00
 -- url     : https://prove2.me/theorems/b627d78e-621e-5b8d-8856-399a7f8f17b0

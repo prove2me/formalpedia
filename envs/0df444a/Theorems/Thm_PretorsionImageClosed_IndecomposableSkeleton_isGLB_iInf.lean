@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_isGLB_iInf
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.isGLB_iInf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T07:46:25.604717+00:00
 -- url     : https://prove2.me/theorems/058f4a62-b902-4060-ae21-f9db2d388a7d

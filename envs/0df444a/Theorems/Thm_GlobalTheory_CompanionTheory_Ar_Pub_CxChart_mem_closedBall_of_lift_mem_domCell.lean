@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_mem_closedBall_of_lift_mem_domCell
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.mem_closedBall_of_lift_mem_domCell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:58:44.126243+00:00
 -- url     : https://prove2.me/theorems/cf4a7e0b-3852-4255-bebd-560e57db2ec8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockImage_birational_of_block_ab8106bdde24
 -- name    : P2M_GroundTheory_Heights__Heights_BlockImage_birational_of_block_ab8106bdde24
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:55:12.815583+00:00
 -- url     : https://prove2.me/theorems/745be7d9-8924-40f8-99f8-751bb1d064db

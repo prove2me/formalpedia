@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_intCast_smul
 -- name    : GroundTheory.LocalField.intCast_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:04:55.441853+00:00
 -- url     : https://prove2.me/theorems/40c71507-a968-470d-84b2-c027fc68efb9

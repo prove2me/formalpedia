@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_SemilocalIntegral_relDim_lt_of_lt_7832e8c64fa7
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_SemilocalIntegral_relDim_lt_of_lt_7832e8c64fa7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:52:24.094251+00:00
 -- url     : https://prove2.me/theorems/881d6193-73a8-5c56-a2a2-7d2a068d056c

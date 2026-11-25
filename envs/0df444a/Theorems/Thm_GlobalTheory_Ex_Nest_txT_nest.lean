@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_Nest_txT_nest
 -- name    : GlobalTheory.Ex.Nest.txT_nest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:05:42.493517+00:00
 -- url     : https://prove2.me/theorems/b34d4a0e-0f9f-45bf-a71c-44888ee02bf5

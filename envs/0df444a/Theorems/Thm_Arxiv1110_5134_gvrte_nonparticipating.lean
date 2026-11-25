@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_gvrte_nonparticipating
 -- name    : Arxiv1110_5134.gvrte_nonparticipating
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:04:14.3349+00:00
 -- url     : https://prove2.me/theorems/56638272-a307-4dfb-8da5-9196c815b7f1
