@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_coeff_mono
 -- name    : ChromaticReconstruction.coeff_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:26:48.242728+00:00
 -- url     : https://prove2.me/theorems/80f3aa3e-9995-4d46-b856-d9c637644bf4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_entire_sub_one_mul_euler_exp_ne_zero_one
 -- name    : GlobalTheory.T.exists_entire_sub_one_mul_euler_exp_ne_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:35:27.338176+00:00
 -- url     : https://prove2.me/theorems/289a7871-66a7-4ab5-8251-784eb486e887

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_teichmullerAdicTopology_eq
 -- name    : GroundTheory.PAdicHodge.AInf.teichmullerAdicTopology_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:46:21.353376+00:00
 -- url     : https://prove2.me/theorems/7b83cb55-7183-4924-b15e-4cba0ba9e1c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_nf_sum
 -- name    : NFOne.nf_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:25.787688+00:00
 -- url     : https://prove2.me/theorems/60574dd2-0731-4f91-a38b-9a2890283849

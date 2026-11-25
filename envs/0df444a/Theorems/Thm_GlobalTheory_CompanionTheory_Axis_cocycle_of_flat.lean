@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_cocycle_of_flat
 -- name    : GlobalTheory.CompanionTheory.Axis.cocycle_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:16:55.309501+00:00
 -- url     : https://prove2.me/theorems/d4c1b7aa-25f2-4f9c-a665-06d7c57fa1fb

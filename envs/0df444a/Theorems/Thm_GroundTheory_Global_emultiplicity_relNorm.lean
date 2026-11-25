@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_emultiplicity_relNorm
 -- name    : GroundTheory.Global.emultiplicity_relNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:40:07.1+00:00
 -- url     : https://prove2.me/theorems/7c5d2b27-fcd4-47fe-acc7-5c9a2c47bcb1

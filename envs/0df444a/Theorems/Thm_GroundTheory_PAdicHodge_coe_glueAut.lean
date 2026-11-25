@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_coe_glueAut
 -- name    : GroundTheory.PAdicHodge.coe_glueAut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:46:54.546279+00:00
 -- url     : https://prove2.me/theorems/cb3a918d-7771-430e-91f6-fa739dbef70a

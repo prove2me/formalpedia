@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_IsIrreducible_isEquivalent_of_mem_intertwiners
 -- name    : GroundTheory.Automorphic.UnitaryRep.IsIrreducible.isEquivalent_of_mem_intertwiners
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:33:50.570744+00:00
 -- url     : https://prove2.me/theorems/cb8207c6-59b8-4a0b-801d-754c48df2ae1

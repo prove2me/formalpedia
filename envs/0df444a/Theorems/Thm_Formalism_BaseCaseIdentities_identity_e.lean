@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_identity_e
 -- name    : Formalism.BaseCaseIdentities.identity_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:23:33.131473+00:00
 -- url     : https://prove2.me/theorems/a333a6f7-bade-4bf7-a8b4-7f5a9cfc6cea

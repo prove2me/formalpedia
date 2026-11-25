@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__Tame_rat_princ_898da29e513d
 -- name    : P2M_Formalism_BasicNotions_Examples__Tame_rat_princ_898da29e513d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:53:40.302949+00:00
 -- url     : https://prove2.me/theorems/650c9662-d0e4-4a68-9d20-cc3e9cdd2e35

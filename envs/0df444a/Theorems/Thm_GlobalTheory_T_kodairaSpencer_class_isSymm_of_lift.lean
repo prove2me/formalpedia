@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_kodairaSpencer_class_isSymm_of_lift
 -- name    : GlobalTheory.T.kodairaSpencer_class_isSymm_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:51:33.144686+00:00
 -- url     : https://prove2.me/theorems/fc814380-6da4-4446-b795-6778c1384bb6

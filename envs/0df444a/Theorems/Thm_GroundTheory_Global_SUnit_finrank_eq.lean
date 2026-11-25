@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SUnit_finrank_eq
 -- name    : GroundTheory.Global.SUnit.finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:28:26.780262+00:00
 -- url     : https://prove2.me/theorems/7fec3ddb-854b-451c-80b4-8c4f6d62c595

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_IndefR_Fin_Four_finsum_add__7757e6fab932
 -- name    : P2M_Formalism_IndefR_Fin_Four_finsum_add__7757e6fab932
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:56:32.256003+00:00
 -- url     : https://prove2.me/theorems/0d5a0de3-acfa-424b-b691-3550efd36f94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_reindex_gl
 -- name    : MassDataIdxCore.reindex_gl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:51:55.576097+00:00
 -- url     : https://prove2.me/theorems/02c60be3-f8fd-4942-9a91-35139d64ecea

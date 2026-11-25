@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_AdU_apply_inv
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.AdU_apply_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:08:35.894459+00:00
 -- url     : https://prove2.me/theorems/c76c6531-64c3-4333-b27e-cd3a264b4c05

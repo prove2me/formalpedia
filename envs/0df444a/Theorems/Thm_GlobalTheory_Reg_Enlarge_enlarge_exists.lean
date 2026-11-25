@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Enlarge_enlarge_exists
 -- name    : GlobalTheory.Reg.Enlarge.enlarge_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:13:57.611629+00:00
 -- url     : https://prove2.me/theorems/a99fbeec-127a-470e-a4fb-10bef25db6ac

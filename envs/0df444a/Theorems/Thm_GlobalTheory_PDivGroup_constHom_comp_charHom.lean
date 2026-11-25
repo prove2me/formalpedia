@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_constHom_comp_charHom
 -- name    : GlobalTheory.PDivGroup.constHom_comp_charHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:09.695774+00:00
 -- url     : https://prove2.me/theorems/e99254db-b2de-483c-a35d-c2048853ceb1

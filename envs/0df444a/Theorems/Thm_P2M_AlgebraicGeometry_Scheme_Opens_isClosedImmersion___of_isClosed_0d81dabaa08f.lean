@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_AlgebraicGeometry_Scheme_Opens_isClosedImmersion___of_isClosed_0d81dabaa08f
 -- name    : P2M_AlgebraicGeometry_Scheme_Opens_isClosedImmersion___of_isClosed_0d81dabaa08f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:52:17.801116+00:00
 -- url     : https://prove2.me/theorems/5683f1c4-caec-467e-87f4-4f58bfea5874

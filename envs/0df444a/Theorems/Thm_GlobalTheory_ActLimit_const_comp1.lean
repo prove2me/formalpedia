@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActLimit_const_comp1
 -- name    : GlobalTheory.ActLimit.const_comp1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:16:51.415529+00:00
 -- url     : https://prove2.me/theorems/275206a7-847f-4bfd-a754-4d4beb57dbef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_VecSplit_isUnimodularAt_adjoin_iff__b76ec24e3c29
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_VecSplit_isUnimodularAt_adjoin_iff__b76ec24e3c29
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:56:46.050294+00:00
 -- url     : https://prove2.me/theorems/d4458f10-8e6f-4b3e-807c-4d801ed2df7e

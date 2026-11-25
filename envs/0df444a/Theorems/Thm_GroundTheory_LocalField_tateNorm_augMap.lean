@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_tateNorm_augMap
 -- name    : GroundTheory.LocalField.tateNorm_augMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:51.572558+00:00
 -- url     : https://prove2.me/theorems/2972877a-6de5-439c-a462-627f625fe090

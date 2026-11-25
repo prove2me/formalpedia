@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Wd2_det_lift0__294f3c3e11fc
 -- name    : P2M_Formalism_FourierDecayAlt_P_Wd2_det_lift0__294f3c3e11fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:55:31.634809+00:00
 -- url     : https://prove2.me/theorems/e86dfd96-56cf-4fb6-b9d0-1c6055d2b3e4

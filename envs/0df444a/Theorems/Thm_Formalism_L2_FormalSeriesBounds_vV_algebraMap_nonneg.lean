@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_vV_algebraMap_nonneg
 -- name    : Formalism.L2.FormalSeriesBounds.vV_algebraMap_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:24:51.218823+00:00
 -- url     : https://prove2.me/theorems/64e7c6ec-10c0-4a78-a181-0620ae007e1b

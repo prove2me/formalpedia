@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SUnit_finrank_range_valuationVector
 -- name    : GroundTheory.Global.SUnit.finrank_range_valuationVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:39:20.272709+00:00
 -- url     : https://prove2.me/theorems/27b1c973-0da7-4cbb-ae35-20d8d1aefb86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_two_mul_chainStartIndex_add_one_of_odd
 -- name    : GlobalTheory.MainTerm.two_mul_chainStartIndex_add_one_of_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:25:37.383632+00:00
 -- url     : https://prove2.me/theorems/6c7e550b-cf3a-49d0-a96b-8e16eb8f250e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__iotaSub_injective_c0b49dbbe3d8
 -- name    : P2M_Formalism_BasicNotions_Examples__iotaSub_injective_c0b49dbbe3d8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:53:20.898717+00:00
 -- url     : https://prove2.me/theorems/35558398-2c23-4a08-a38d-990d65ad6b80

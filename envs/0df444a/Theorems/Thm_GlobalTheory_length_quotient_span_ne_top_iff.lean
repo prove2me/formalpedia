@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_quotient_span_ne_top_iff
 -- name    : GlobalTheory.length_quotient_span_ne_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:11:58.209662+00:00
 -- url     : https://prove2.me/theorems/d10177d6-582e-4d18-88b8-e51233ec6bdf

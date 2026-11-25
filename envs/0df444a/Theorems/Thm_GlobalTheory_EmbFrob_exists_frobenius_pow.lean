@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EmbFrob_exists_frobenius_pow
 -- name    : GlobalTheory.EmbFrob.exists_frobenius_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:26:38.067447+00:00
 -- url     : https://prove2.me/theorems/64535a1a-2d9b-4af3-93ef-405fdfe14222

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_mem_placeJ_8e5da26ccc5a
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_mem_placeJ_8e5da26ccc5a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:52:37.434451+00:00
 -- url     : https://prove2.me/theorems/407daca8-b6d7-4379-b35c-2943c424c4ad

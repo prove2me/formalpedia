@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_L4_resL_fix__6bb06ae02750
 -- name    : P2M_Formalism_InvariantFactorPaths_L4_resL_fix__6bb06ae02750
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:58:06.21608+00:00
 -- url     : https://prove2.me/theorems/8834b838-03c1-4c28-a079-7ac08aa99a08

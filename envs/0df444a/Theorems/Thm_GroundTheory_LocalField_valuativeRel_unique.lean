@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_valuativeRel_unique
 -- name    : GroundTheory.LocalField.valuativeRel_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:00:54.838379+00:00
 -- url     : https://prove2.me/theorems/7cdfb4ca-05ba-4a28-8b30-0f8e0aa0fd08

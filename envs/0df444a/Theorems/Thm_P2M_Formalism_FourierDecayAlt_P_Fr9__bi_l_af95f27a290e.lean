@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Fr9__bi_l_af95f27a290e
 -- name    : P2M_Formalism_FourierDecayAlt_P_Fr9__bi_l_af95f27a290e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:56:37.876032+00:00
 -- url     : https://prove2.me/theorems/c0002f51-8604-4f7d-8a48-f3fe7c876d2c

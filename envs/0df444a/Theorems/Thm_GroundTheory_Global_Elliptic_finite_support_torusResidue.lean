@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_finite_support_torusResidue
 -- name    : GroundTheory.Global.Elliptic.finite_support_torusResidue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:38:48.447358+00:00
 -- url     : https://prove2.me/theorems/74b3edff-ff1f-4029-9aff-29b48d9d0858

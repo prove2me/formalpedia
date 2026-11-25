@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_exp_cont_6ec931771609
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_exp_cont_6ec931771609
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:52:32.254019+00:00
 -- url     : https://prove2.me/theorems/075b1beb-6dd2-499c-9808-7346b9c9d5e3

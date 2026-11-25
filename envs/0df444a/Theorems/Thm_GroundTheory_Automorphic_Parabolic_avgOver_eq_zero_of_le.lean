@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_avgOver_eq_zero_of_le
 -- name    : GroundTheory.Automorphic.Parabolic.avgOver_eq_zero_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:33:08.302163+00:00
 -- url     : https://prove2.me/theorems/5316ca65-22b3-4fce-8e27-33e62677dba5

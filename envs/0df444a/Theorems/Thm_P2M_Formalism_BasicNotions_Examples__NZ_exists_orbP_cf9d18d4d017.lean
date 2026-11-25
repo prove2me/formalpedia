@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_exists_orbP_cf9d18d4d017
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_exists_orbP_cf9d18d4d017
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:54:00.048707+00:00
 -- url     : https://prove2.me/theorems/58b0611b-81cb-41e7-93cf-93afad425a0d

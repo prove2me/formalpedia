@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CohenRegular_exists_coefficientField_of_charZero
 -- name    : GlobalTheory.CohenRegular.exists_coefficientField_of_charZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:13:16.848671+00:00
 -- url     : https://prove2.me/theorems/389998a3-08c4-488c-9f75-f65991d5de3c

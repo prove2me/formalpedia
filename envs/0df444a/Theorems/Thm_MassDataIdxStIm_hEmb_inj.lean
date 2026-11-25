@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxStIm_hEmb_inj
 -- name    : MassDataIdxStIm.hEmb_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:19:49.263804+00:00
 -- url     : https://prove2.me/theorems/1e835c4d-e526-4260-8148-5f0e8dd1b648

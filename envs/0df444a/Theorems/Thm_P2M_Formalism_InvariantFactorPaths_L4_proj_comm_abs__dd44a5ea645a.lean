@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_L4_proj_comm_abs__dd44a5ea645a
 -- name    : P2M_Formalism_InvariantFactorPaths_L4_proj_comm_abs__dd44a5ea645a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:57:53.796725+00:00
 -- url     : https://prove2.me/theorems/c6968734-721b-4f88-932a-8edff9c94e01

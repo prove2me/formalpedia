@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataLevelSSteps_toReal_eq_relIndex_mul
 -- name    : MassDataLevelSSteps.toReal_eq_relIndex_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:51:55.36856+00:00
 -- url     : https://prove2.me/theorems/3a9c9a7d-f357-45f7-8ee2-29c5d3617b19

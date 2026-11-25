@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainToRows_killCompl_subst
 -- name    : GlobalTheory.MainToRows.killCompl_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:26:15.536069+00:00
 -- url     : https://prove2.me/theorems/c0171a72-bd4c-4b87-957a-72efc6d7b54f

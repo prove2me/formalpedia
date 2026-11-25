@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowChartCounterexample_em_int_holds
 -- name    : GlobalTheory.RowChartCounterexample.em_int_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:26:08.993337+00:00
 -- url     : https://prove2.me/theorems/69732f4d-16df-44c2-86eb-3c110189ff58

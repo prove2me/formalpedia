@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Jx7_t_ProductLemma__cbaa48e0fe14
 -- name    : P2M_Formalism_FourierDecayAlt_P_Jx7_t_ProductLemma__cbaa48e0fe14
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:55:45.849806+00:00
 -- url     : https://prove2.me/theorems/4fb2d552-1723-4da9-b1d9-9d129b9db8cd

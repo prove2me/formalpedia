@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainToRows_coeff_row
 -- name    : GlobalTheory.MainToRows.coeff_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:26:06.86992+00:00
 -- url     : https://prove2.me/theorems/749ea2aa-64cb-43cf-a57c-55e9100fd03f

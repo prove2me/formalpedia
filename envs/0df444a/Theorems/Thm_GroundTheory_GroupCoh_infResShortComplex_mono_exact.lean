@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_infResShortComplex_mono_exact
 -- name    : GroundTheory.GroupCoh.infResShortComplex_mono_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:58:58.445619+00:00
 -- url     : https://prove2.me/theorems/d0c342f3-d89d-4d9c-bc75-0a6841d49e4b

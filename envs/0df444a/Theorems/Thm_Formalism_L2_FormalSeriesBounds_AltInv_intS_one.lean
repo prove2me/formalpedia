@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_AltInv_intS_one
 -- name    : Formalism.L2.FormalSeriesBounds.AltInv.intS_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:19:22.845809+00:00
 -- url     : https://prove2.me/theorems/76989a08-6397-4119-b1e7-9ba671a6c29a

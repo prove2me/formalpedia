@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Ux6_wMat_mul_apply__b0bdc8c54c6d
 -- name    : P2M_Formalism_FourierDecayAlt_P_Ux6_wMat_mul_apply__b0bdc8c54c6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:56:00.057569+00:00
 -- url     : https://prove2.me/theorems/950bfbe3-a225-47f5-b7da-63e95cfd7bf4

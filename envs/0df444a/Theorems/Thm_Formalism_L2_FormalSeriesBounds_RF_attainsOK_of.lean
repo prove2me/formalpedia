@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_attainsOK_of
 -- name    : Formalism.L2.FormalSeriesBounds.RF.attainsOK_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:14:48.284568+00:00
 -- url     : https://prove2.me/theorems/29ecd0d8-e371-4618-8431-b17d53da5faf

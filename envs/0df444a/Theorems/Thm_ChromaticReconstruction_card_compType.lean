@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_compType
 -- name    : ChromaticReconstruction.card_compType
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:22:21.372827+00:00
 -- url     : https://prove2.me/theorems/13496538-3270-4f43-bb7b-3a7135d9b7ee

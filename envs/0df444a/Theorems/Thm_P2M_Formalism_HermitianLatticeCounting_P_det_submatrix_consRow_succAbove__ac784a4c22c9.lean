@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLatticeCounting_P_det_submatrix_consRow_succAbove__ac784a4c22c9
 -- name    : P2M_Formalism_HermitianLatticeCounting_P_det_submatrix_consRow_succAbove__ac784a4c22c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:56:31.860681+00:00
 -- url     : https://prove2.me/theorems/e990a21f-1d42-4bee-8a95-05fbd4c5b063

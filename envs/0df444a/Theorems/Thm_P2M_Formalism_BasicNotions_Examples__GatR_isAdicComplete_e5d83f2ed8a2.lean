@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__GatR_isAdicComplete_e5d83f2ed8a2
 -- name    : P2M_Formalism_BasicNotions_Examples__GatR_isAdicComplete_e5d83f2ed8a2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:13:39.027477+00:00
 -- url     : https://prove2.me/theorems/bfa8d704-1a75-4da8-9756-fb49254f9e27

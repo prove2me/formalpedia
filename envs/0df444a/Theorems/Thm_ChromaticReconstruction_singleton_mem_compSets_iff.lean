@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_singleton_mem_compSets_iff
 -- name    : ChromaticReconstruction.singleton_mem_compSets_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:25:14.250054+00:00
 -- url     : https://prove2.me/theorems/1abc261d-ae0f-4dce-968f-12598d803619

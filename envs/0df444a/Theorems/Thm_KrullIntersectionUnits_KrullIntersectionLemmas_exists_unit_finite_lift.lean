@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KrullIntersectionUnits_KrullIntersectionLemmas_exists_unit_finite_lift
 -- name    : KrullIntersectionUnits.KrullIntersectionLemmas.exists_unit_finite_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:51:26.186345+00:00
 -- url     : https://prove2.me/theorems/37c806d9-59be-484d-8e96-b6766801509d

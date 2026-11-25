@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_E2_lim_sum__192f31adbb3d
 -- name    : P2M_Formalism_FourierDecayAlt_P_E2_lim_sum__192f31adbb3d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:56:00.689764+00:00
 -- url     : https://prove2.me/theorems/823db0d0-361e-4a98-b385-b850aa8d8b44

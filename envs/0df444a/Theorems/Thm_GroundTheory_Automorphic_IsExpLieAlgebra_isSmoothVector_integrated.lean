@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_isSmoothVector_integrated
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.isSmoothVector_integrated
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:59:57.317247+00:00
 -- url     : https://prove2.me/theorems/f9a00d58-8501-4345-a30f-b01d580e43ca

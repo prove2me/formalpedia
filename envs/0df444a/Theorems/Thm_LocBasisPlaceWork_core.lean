@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocBasisPlaceWork_core
 -- name    : LocBasisPlaceWork.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:51:34.581192+00:00
 -- url     : https://prove2.me/theorems/96b494af-5f58-45ff-bd4a-a7a9538a2805

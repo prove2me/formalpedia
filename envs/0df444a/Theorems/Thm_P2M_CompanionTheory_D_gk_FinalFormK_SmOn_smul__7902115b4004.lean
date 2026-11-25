@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CompanionTheory_D_gk_FinalFormK_SmOn_smul__7902115b4004
 -- name    : P2M_CompanionTheory_D_gk_FinalFormK_SmOn_smul__7902115b4004
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:52:23.908437+00:00
 -- url     : https://prove2.me/theorems/c0862638-c0b3-4382-9865-d8b1f9a27432

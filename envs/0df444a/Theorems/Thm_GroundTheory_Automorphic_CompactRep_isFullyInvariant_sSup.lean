@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactRep_isFullyInvariant_sSup
 -- name    : GroundTheory.Automorphic.CompactRep.isFullyInvariant_sSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:29:14.2126+00:00
 -- url     : https://prove2.me/theorems/6c0a8437-c430-4c8a-a32a-c070a7233623

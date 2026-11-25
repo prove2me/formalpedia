@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_hasHerbrandQuotient_iff
 -- name    : GroundTheory.LocalField.hasHerbrandQuotient_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:54.58949+00:00
 -- url     : https://prove2.me/theorems/3f403d40-692a-457c-9a0c-5c6e508467db

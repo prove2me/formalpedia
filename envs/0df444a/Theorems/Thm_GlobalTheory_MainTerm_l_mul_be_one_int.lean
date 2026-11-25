@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_l_mul_be_one_int
 -- name    : GlobalTheory.MainTerm.l_mul_be_one_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:08.702823+00:00
 -- url     : https://prove2.me/theorems/f6291195-d7c3-49eb-b52e-2ea55a8c9dce

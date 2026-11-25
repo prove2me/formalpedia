@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedChain_elim_frob
 -- name    : GlobalTheory.AdaptedChain.elim_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:24:41.238844+00:00
 -- url     : https://prove2.me/theorems/a08da235-7353-4dee-a481-74b57834c6ac

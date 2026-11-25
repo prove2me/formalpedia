@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_isAdmissible_genQuotRep
 -- name    : GroundTheory.Automorphic.RestrictedTensor.isAdmissible_genQuotRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:33:45.285027+00:00
 -- url     : https://prove2.me/theorems/892eead1-5ce6-4fcf-a5c2-5db7b56b614a

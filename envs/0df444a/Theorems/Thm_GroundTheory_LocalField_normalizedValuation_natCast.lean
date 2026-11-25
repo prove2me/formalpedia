@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_normalizedValuation_natCast
 -- name    : GroundTheory.LocalField.normalizedValuation_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:45:52.5298+00:00
 -- url     : https://prove2.me/theorems/2193a101-aff9-4280-abec-c30090d66056

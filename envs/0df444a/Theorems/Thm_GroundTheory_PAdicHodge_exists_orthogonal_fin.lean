@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_orthogonal_fin
 -- name    : GroundTheory.PAdicHodge.exists_orthogonal_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:46:35.665187+00:00
 -- url     : https://prove2.me/theorems/3b41e276-2cb2-4a56-b1ec-eeb2f17baa65

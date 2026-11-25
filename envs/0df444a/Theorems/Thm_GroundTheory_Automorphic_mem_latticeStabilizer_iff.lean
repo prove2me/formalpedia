@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mem_latticeStabilizer_iff
 -- name    : GroundTheory.Automorphic.mem_latticeStabilizer_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:37:20.806307+00:00
 -- url     : https://prove2.me/theorems/03a85afb-ba3c-4513-b1db-f1ff3b4e02a8

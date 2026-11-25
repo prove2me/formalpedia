@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_maxMinor_mul_left
 -- name    : GroundTheory.PAdicHodge.maxMinor_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:46:42.47526+00:00
 -- url     : https://prove2.me/theorems/b1fff267-798a-4acb-812c-0409df5bec63

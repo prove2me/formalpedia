@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_psWeight_mul
 -- name    : GlobalTheory.psWeight_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:29:02.332068+00:00
 -- url     : https://prove2.me/theorems/9762a52a-f724-42f6-b868-1db741fee356

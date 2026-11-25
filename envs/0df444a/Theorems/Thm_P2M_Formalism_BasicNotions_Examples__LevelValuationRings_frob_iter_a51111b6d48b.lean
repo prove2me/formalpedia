@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LevelValuationRings_frob_iter_a51111b6d48b
 -- name    : P2M_Formalism_BasicNotions_Examples__LevelValuationRings_frob_iter_a51111b6d48b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:53:02.350219+00:00
 -- url     : https://prove2.me/theorems/10db62a6-dd2d-4b48-9eab-8fd8a51f2a5d

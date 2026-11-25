@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrrPi_exists_irr_pair_ne
 -- name    : GlobalTheory.IrrPi.exists_irr_pair_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:22:17.782339+00:00
 -- url     : https://prove2.me/theorems/5726d7bc-94a1-4c7d-bdbc-d80491639407

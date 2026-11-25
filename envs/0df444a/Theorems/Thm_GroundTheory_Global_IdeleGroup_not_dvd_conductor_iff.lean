@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_not_dvd_conductor_iff
 -- name    : GroundTheory.Global.IdeleGroup.not_dvd_conductor_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:19:52.66558+00:00
 -- url     : https://prove2.me/theorems/d868564b-e78d-4bc6-9b90-d21c1eab9342

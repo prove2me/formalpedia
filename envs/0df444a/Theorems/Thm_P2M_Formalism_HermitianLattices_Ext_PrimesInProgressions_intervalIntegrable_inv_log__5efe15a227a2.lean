@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_PrimesInProgressions_intervalIntegrable_inv_log__5efe15a227a2
 -- name    : P2M_Formalism_HermitianLattices_Ext_PrimesInProgressions_intervalIntegrable_inv_log__5efe15a227a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:56:41.065277+00:00
 -- url     : https://prove2.me/theorems/5796f422-6543-4fad-8f73-7408590cbdd1

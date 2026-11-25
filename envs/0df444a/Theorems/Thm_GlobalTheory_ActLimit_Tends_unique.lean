@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActLimit_Tends_unique
 -- name    : GlobalTheory.ActLimit.Tends.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:14:13.603499+00:00
 -- url     : https://prove2.me/theorems/76f1167b-6af7-478a-9644-d17e6eb936bc

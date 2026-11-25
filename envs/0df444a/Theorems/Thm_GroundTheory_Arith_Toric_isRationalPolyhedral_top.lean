@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_isRationalPolyhedral_top
 -- name    : GroundTheory.Arith.Toric.isRationalPolyhedral_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:26:51.111816+00:00
 -- url     : https://prove2.me/theorems/07b4afca-f3b9-4769-8d5e-f1dd29e1b493

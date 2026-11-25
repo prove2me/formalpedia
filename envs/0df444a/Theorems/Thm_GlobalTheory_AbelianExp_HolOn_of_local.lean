@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbelianExp_HolOn_of_local
 -- name    : GlobalTheory.AbelianExp.HolOn.of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:29:52.550702+00:00
 -- url     : https://prove2.me/theorems/50699a7d-feb9-4735-bb9b-67ef1379f2cd

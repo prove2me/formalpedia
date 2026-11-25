@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_primeClass_eq_splitK_iff__e0d20d268f0e
 -- name    : P2M_Formalism_BasicNotions_primeClass_eq_splitK_iff__e0d20d268f0e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:53:38.57383+00:00
 -- url     : https://prove2.me/theorems/f8dfdf8e-91f2-4bc8-b91b-80360602de91

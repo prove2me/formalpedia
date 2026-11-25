@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_B7_norm_pi__le_53d20754f3c3
 -- name    : P2M_Formalism_FourierDecayAlt_P_B7_norm_pi__le_53d20754f3c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:55:32.920801+00:00
 -- url     : https://prove2.me/theorems/3cd3f60c-1f83-4650-b7f1-28a6698fabc6

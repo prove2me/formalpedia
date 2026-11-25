@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eigenvector_mem_span_block_of_basis
 -- name    : GlobalTheory.eigenvector_mem_span_block_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:13:12.112378+00:00
 -- url     : https://prove2.me/theorems/b543e3f5-3be5-4866-9e81-70f0acde78dd

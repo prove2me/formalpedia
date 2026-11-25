@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_approx_of_pow_sub
 -- name    : GroundTheory.PAdicHodge.exists_approx_of_pow_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:43.072911+00:00
 -- url     : https://prove2.me/theorems/1a18ee0a-81be-4894-b581-af305c8ac4be

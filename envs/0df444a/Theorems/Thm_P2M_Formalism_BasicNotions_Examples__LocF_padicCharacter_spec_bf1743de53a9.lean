@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LocF_padicCharacter_spec_bf1743de53a9
 -- name    : P2M_Formalism_BasicNotions_Examples__LocF_padicCharacter_spec_bf1743de53a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:53:09.294798+00:00
 -- url     : https://prove2.me/theorems/41452b7a-e246-45e3-a7eb-f34a033482d8

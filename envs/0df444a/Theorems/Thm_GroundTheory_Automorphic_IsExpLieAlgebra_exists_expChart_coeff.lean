@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_exists_expChart_coeff
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.exists_expChart_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:31:27.153462+00:00
 -- url     : https://prove2.me/theorems/d2f054b9-b0d5-490d-bcc9-bba626e8ce7f

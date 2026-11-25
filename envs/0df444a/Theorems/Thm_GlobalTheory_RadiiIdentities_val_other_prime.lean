@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RadiiIdentities_val_other_prime
 -- name    : GlobalTheory.RadiiIdentities.val_other_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:25:55.724777+00:00
 -- url     : https://prove2.me/theorems/339f6887-8ce7-406d-9d0b-20ae661667bb

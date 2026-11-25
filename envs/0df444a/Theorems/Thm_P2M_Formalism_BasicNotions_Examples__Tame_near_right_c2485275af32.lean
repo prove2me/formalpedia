@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__Tame_near_right_c2485275af32
 -- name    : P2M_Formalism_BasicNotions_Examples__Tame_near_right_c2485275af32
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:53:31.326802+00:00
 -- url     : https://prove2.me/theorems/0712f102-ed9a-4d84-93db-cd4088713bd8

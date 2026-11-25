@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexEmbedding_mk_le_continuum_of_countable_residueField
 -- name    : GlobalTheory.ComplexEmbedding.mk_le_continuum_of_countable_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:13:49.873379+00:00
 -- url     : https://prove2.me/theorems/aff89dc2-9b37-46ee-a1ee-9958acf2c301

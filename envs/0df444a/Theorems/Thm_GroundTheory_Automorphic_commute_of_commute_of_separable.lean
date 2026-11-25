@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_commute_of_commute_of_separable
 -- name    : GroundTheory.Automorphic.commute_of_commute_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:34:48.215252+00:00
 -- url     : https://prove2.me/theorems/1d81cfe2-a051-4920-8e9e-ac96a141a4b7

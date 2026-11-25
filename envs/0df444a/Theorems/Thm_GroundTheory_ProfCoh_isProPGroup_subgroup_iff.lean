@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isProPGroup_subgroup_iff
 -- name    : GroundTheory.ProfCoh.isProPGroup_subgroup_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:46:06.279991+00:00
 -- url     : https://prove2.me/theorems/19e725ac-b9e8-42b8-8870-f4f8623af581

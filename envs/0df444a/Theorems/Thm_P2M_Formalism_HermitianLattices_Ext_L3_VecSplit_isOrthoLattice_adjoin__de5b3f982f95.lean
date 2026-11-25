@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_VecSplit_isOrthoLattice_adjoin__de5b3f982f95
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_VecSplit_isOrthoLattice_adjoin__de5b3f982f95
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:57:55.891471+00:00
 -- url     : https://prove2.me/theorems/105c87cd-8983-4907-a121-34f430ab8e51

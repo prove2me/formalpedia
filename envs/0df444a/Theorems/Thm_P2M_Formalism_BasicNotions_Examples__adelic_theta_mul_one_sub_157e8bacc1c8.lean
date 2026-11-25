@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__adelic_theta_mul_one_sub_157e8bacc1c8
 -- name    : P2M_Formalism_BasicNotions_Examples__adelic_theta_mul_one_sub_157e8bacc1c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:53:25.769152+00:00
 -- url     : https://prove2.me/theorems/634cece0-061d-4491-99fe-ff92b7eaa685

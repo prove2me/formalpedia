@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_drift_function_orthFrames
 -- name    : GlobalTheory.exists_drift_function_orthFrames
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:37:47.817174+00:00
 -- url     : https://prove2.me/theorems/1d1a2582-0785-4f6b-a934-b4e1beb1b3cf

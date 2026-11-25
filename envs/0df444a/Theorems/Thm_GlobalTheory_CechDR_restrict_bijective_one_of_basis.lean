@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_restrict_bijective_one_of_basis
 -- name    : GlobalTheory.CechDR.restrict_bijective_one_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:25:06.292375+00:00
 -- url     : https://prove2.me/theorems/1e011225-da1f-469b-90ce-2b86a240cbc1

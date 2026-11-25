@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BranchingDeterminantCap_bmA_prod_update_zero__a3a3001d3055
 -- name    : P2M_Formalism_BranchingDeterminantCap_bmA_prod_update_zero__a3a3001d3055
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:53:40.689549+00:00
 -- url     : https://prove2.me/theorems/203ea3a5-328a-4061-84fa-42b1f92e3e81

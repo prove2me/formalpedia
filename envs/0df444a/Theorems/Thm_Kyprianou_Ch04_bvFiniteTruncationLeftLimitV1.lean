@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvFiniteTruncationLeftLimitV1
 -- name    : Kyprianou.Ch04.bvFiniteTruncationLeftLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:28:06.090852+00:00
 -- url     : https://prove2.me/theorems/0cd9626f-07e9-4582-80a2-94c53fb3c58c

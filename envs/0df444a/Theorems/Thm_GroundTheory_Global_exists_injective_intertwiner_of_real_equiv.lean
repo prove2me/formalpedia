@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_injective_intertwiner_of_real_equiv
 -- name    : GroundTheory.Global.exists_injective_intertwiner_of_real_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:43:19.246383+00:00
 -- url     : https://prove2.me/theorems/d7d7ce30-8b3a-4f1f-9fb9-7256ca69783b

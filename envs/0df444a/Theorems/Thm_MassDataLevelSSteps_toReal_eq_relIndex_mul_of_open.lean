@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataLevelSSteps_toReal_eq_relIndex_mul_of_open
 -- name    : MassDataLevelSSteps.toReal_eq_relIndex_mul_of_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:52:07.022684+00:00
 -- url     : https://prove2.me/theorems/55d397c8-e56a-4c7d-a39c-4d2eb5c6c3c9

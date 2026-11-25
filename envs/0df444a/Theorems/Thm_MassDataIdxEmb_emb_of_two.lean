@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxEmb_emb_of_two
 -- name    : MassDataIdxEmb.emb_of_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:51:33.900137+00:00
 -- url     : https://prove2.me/theorems/d4b06502-7e98-4341-95ca-ba60de8d38c8

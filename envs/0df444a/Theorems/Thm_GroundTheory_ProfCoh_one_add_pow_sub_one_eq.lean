@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_one_add_pow_sub_one_eq
 -- name    : GroundTheory.ProfCoh.one_add_pow_sub_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:01:41.181557+00:00
 -- url     : https://prove2.me/theorems/8459c2ea-7b5e-48e3-8ccc-ec40a5d3125f

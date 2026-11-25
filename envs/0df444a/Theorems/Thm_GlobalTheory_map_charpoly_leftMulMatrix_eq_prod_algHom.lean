@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_charpoly_leftMulMatrix_eq_prod_algHom
 -- name    : GlobalTheory.map_charpoly_leftMulMatrix_eq_prod_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:16:59.065052+00:00
 -- url     : https://prove2.me/theorems/ada424ba-e069-4693-b7b4-453d9d9e4e17

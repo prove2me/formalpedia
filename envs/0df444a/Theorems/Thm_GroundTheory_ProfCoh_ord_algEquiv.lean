@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_ord_algEquiv
 -- name    : GroundTheory.ProfCoh.ord_algEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:31.464538+00:00
 -- url     : https://prove2.me/theorems/878948c4-67bd-4ef6-a75f-085ca23cfb3a

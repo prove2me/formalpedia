@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_alt_odd_of_big
 -- name    : Formalism.L2.FormalSeriesBounds.RF.alt_odd_of_big
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:14:07.572023+00:00
 -- url     : https://prove2.me/theorems/dc2744e5-cc56-4dc2-8eda-b9d6a6dd0d32

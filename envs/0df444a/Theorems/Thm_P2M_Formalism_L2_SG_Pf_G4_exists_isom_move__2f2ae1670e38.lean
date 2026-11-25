@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_G4_exists_isom_move__2f2ae1670e38
 -- name    : P2M_Formalism_L2_SG_Pf_G4_exists_isom_move__2f2ae1670e38
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:57:49.198448+00:00
 -- url     : https://prove2.me/theorems/5a35061f-de0b-4046-b832-62799732c2d7

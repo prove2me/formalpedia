@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_L4_initPart_zero__547e6636a8f5
 -- name    : P2M_Formalism_InvariantFactorPaths_L4_initPart_zero__547e6636a8f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:57:39.79459+00:00
 -- url     : https://prove2.me/theorems/4b671583-45cc-48e8-b5c5-7bbab397db58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocBasisPlaceWork_span_clear
 -- name    : LocBasisPlaceWork.span_clear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:51:43.527802+00:00
 -- url     : https://prove2.me/theorems/cf326876-e30d-4848-9a9c-6c627b144718

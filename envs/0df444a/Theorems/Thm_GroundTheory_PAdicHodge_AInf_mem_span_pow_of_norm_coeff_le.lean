@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_mem_span_pow_of_norm_coeff_le
 -- name    : GroundTheory.PAdicHodge.AInf.mem_span_pow_of_norm_coeff_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:51.591279+00:00
 -- url     : https://prove2.me/theorems/6e8b3eb0-e766-456c-9a51-c48fc7c2f3f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_coindHomotopy_identity_apply
 -- name    : GroundTheory.ProfCoh.coindHomotopy_identity_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:48:26.738557+00:00
 -- url     : https://prove2.me/theorems/9ac6a7ba-1217-4134-82a6-01af9fe015da

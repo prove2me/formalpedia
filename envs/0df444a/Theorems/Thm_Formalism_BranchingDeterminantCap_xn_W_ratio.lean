@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_xn_W_ratio
 -- name    : Formalism.BranchingDeterminantCap.xn_W_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:30:18.185355+00:00
 -- url     : https://prove2.me/theorems/7de3f409-f426-43c5-9c19-355b644be0e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_exc_same_e360c4d3ec9d
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_exc_same_e360c4d3ec9d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:52:36.208464+00:00
 -- url     : https://prove2.me/theorems/129adea8-fe85-4296-88b3-a1584850e981

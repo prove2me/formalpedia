@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_idealLattice_traceDualIdeal_iff
 -- name    : GroundTheory.Global.mem_idealLattice_traceDualIdeal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:57:51.883255+00:00
 -- url     : https://prove2.me/theorems/4d05ca92-6d5a-44f6-bde0-a861da260a2b

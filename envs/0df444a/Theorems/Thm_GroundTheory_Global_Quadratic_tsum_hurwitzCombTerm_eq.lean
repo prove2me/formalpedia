@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Quadratic_tsum_hurwitzCombTerm_eq
 -- name    : GroundTheory.Global.Quadratic.tsum_hurwitzCombTerm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:39:28.661991+00:00
 -- url     : https://prove2.me/theorems/c0db4a00-0cc0-4f96-94fd-c169490e85ec

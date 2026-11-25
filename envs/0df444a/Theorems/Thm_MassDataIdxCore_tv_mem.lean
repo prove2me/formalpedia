@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_tv_mem
 -- name    : MassDataIdxCore.tv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:51:47.831976+00:00
 -- url     : https://prove2.me/theorems/02c1268d-b007-4847-bc51-fd6a8a359fcf

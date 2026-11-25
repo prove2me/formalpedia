@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_rtj_mvExp_zero
 -- name    : Formalism.L2.FormalSeriesBounds.rtj_mvExp_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:25:21.483609+00:00
 -- url     : https://prove2.me/theorems/b179229b-8f28-4345-9f72-e5154e92fb75

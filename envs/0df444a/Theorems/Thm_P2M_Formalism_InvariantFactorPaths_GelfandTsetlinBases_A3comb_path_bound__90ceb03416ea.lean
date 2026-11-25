@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3comb_path_bound__90ceb03416ea
 -- name    : P2M_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3comb_path_bound__90ceb03416ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:57:36.027841+00:00
 -- url     : https://prove2.me/theorems/ca9132b9-9ce8-42e1-9bc3-d478451476ea

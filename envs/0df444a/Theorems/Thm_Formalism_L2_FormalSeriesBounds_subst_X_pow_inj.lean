@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_subst_X_pow_inj
 -- name    : Formalism.L2.FormalSeriesBounds.subst_X_pow_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:25:26.5471+00:00
 -- url     : https://prove2.me/theorems/02013cc8-26a5-4dd1-8195-b66a4dbd7311

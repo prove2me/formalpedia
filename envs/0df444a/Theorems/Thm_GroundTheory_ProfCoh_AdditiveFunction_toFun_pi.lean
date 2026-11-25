@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_toFun_pi
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.toFun_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:48:19.822172+00:00
 -- url     : https://prove2.me/theorems/010ce20d-bd58-406c-bc42-dac2c5a523c3

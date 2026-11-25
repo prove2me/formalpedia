@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mem_hermPart
 -- name    : GroundTheory.Automorphic.mem_hermPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:25:09.414825+00:00
 -- url     : https://prove2.me/theorems/fe7961e5-c2e2-4964-be8e-b46a7643fa89

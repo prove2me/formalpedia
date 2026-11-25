@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CountingSumsFrames_TO_phi_mem__0ab8febbb6ce
 -- name    : P2M_Formalism_CountingSumsFrames_TO_phi_mem__0ab8febbb6ce
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:34:32.57481+00:00
 -- url     : https://prove2.me/theorems/8b5bcf9f-c921-4d85-b1ab-7ff02cae136b

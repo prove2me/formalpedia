@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FG_CongrVAux_norm_sub_le_max__2892e70044d6
 -- name    : P2M_Formalism_FG_CongrVAux_norm_sub_le_max__2892e70044d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:54:48.544319+00:00
 -- url     : https://prove2.me/theorems/d552cf96-e539-46d0-9444-fd19dadad8f7

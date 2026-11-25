@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_topologicalSpace_unique
 -- name    : GroundTheory.LocalField.topologicalSpace_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:45.886396+00:00
 -- url     : https://prove2.me/theorems/1e0570f0-dc08-48ff-aff3-6768f6e23eef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tau_basis_unit_determinant_exists_basis_isUnit_det
 -- name    : GlobalTheory.tau_basis_unit_determinant.exists_basis_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:49.456033+00:00
 -- url     : https://prove2.me/theorems/b3a56efe-7adc-4c05-a9b6-8efbe85d62cf

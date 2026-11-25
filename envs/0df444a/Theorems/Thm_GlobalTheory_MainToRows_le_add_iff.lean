@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainToRows_le_add_iff
 -- name    : GlobalTheory.MainToRows.le_add_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:26:02.99172+00:00
 -- url     : https://prove2.me/theorems/80665492-f743-4550-8bef-2b5c38f843ee

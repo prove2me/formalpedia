@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_IsPeriodic_residue_add
 -- name    : GroundTheory.Global.Elliptic.IsPeriodic.residue_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:37:53.979114+00:00
 -- url     : https://prove2.me/theorems/5e7056d8-3ac0-4504-a106-4e62f59396a5

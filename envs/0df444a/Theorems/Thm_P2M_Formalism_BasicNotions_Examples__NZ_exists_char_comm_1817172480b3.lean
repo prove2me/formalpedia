@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_exists_char_comm_1817172480b3
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_exists_char_comm_1817172480b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:52:28.172686+00:00
 -- url     : https://prove2.me/theorems/512e0744-bd33-426d-8167-a9413ba0d66a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxFrA_clause_iff
 -- name    : MassDataIdxFrA.clause_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:51:59.445622+00:00
 -- url     : https://prove2.me/theorems/5632a57f-569d-48aa-ba25-734a317ddd90

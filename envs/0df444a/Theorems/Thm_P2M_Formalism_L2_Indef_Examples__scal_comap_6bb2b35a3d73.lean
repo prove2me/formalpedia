@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Indef_Examples__scal_comap_6bb2b35a3d73
 -- name    : P2M_Formalism_L2_Indef_Examples__scal_comap_6bb2b35a3d73
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:58:46.540799+00:00
 -- url     : https://prove2.me/theorems/58171bbd-7d7e-4e8d-8dc8-407f2a209042

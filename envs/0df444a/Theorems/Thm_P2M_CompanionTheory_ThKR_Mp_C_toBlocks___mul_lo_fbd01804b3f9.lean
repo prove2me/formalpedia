@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CompanionTheory_ThKR_Mp_C_toBlocks___mul_lo_fbd01804b3f9
 -- name    : P2M_CompanionTheory_ThKR_Mp_C_toBlocks___mul_lo_fbd01804b3f9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:54:36.686237+00:00
 -- url     : https://prove2.me/theorems/4afa4fd8-4c5a-4757-9ab5-84337297ac6e

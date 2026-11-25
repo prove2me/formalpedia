@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlowScaling_thetaConst
 -- name    : GlobalTheory.FlowScaling.thetaConst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:25:28.400948+00:00
 -- url     : https://prove2.me/theorems/2b02c650-2874-49c2-8276-d7db2f675805

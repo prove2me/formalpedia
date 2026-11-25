@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_setOf_forall_smul_eq_eq_closure
 -- name    : GroundTheory.PAdicHodge.setOf_forall_smul_eq_eq_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:28:51.09804+00:00
 -- url     : https://prove2.me/theorems/f705abff-67da-449b-886d-d3a677374681

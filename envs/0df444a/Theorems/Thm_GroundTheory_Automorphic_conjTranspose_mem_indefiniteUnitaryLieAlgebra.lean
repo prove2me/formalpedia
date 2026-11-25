@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_conjTranspose_mem_indefiniteUnitaryLieAlgebra
 -- name    : GroundTheory.Automorphic.conjTranspose_mem_indefiniteUnitaryLieAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:26:37.294267+00:00
 -- url     : https://prove2.me/theorems/05fe8f7c-a310-405a-a756-d0c6d1f3f193

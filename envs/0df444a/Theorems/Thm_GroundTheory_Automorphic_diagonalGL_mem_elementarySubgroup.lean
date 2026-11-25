@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_diagonalGL_mem_elementarySubgroup
 -- name    : GroundTheory.Automorphic.diagonalGL_mem_elementarySubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:34:23.047428+00:00
 -- url     : https://prove2.me/theorems/631d2c30-c102-434c-9716-853c2c04aa29

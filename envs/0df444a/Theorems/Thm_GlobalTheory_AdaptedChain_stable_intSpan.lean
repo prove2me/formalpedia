@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedChain_stable_intSpan
 -- name    : GlobalTheory.AdaptedChain.stable_intSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:25:40.143419+00:00
 -- url     : https://prove2.me/theorems/4095da56-e500-40d4-b3be-49610eb338cb

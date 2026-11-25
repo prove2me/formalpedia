@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_pow_mem_unitFiltration
 -- name    : GroundTheory.ProfCoh.pow_mem_unitFiltration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:52:01.724642+00:00
 -- url     : https://prove2.me/theorems/6c448803-1b9b-46ca-a9a8-f5a8a5156f42

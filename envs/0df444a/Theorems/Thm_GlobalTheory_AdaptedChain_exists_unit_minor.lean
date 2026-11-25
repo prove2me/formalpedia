@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedChain_exists_unit_minor
 -- name    : GlobalTheory.AdaptedChain.exists_unit_minor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:24:43.620025+00:00
 -- url     : https://prove2.me/theorems/4f26593e-8b3b-44e6-a243-65d238635803

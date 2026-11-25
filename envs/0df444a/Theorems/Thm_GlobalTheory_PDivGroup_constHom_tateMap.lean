@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_constHom_tateMap
 -- name    : GlobalTheory.PDivGroup.constHom_tateMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:25:57.947798+00:00
 -- url     : https://prove2.me/theorems/60b3f93e-8680-423e-a72b-a2d17b5409d9

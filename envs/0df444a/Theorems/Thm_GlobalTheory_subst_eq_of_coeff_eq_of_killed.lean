@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_subst_eq_of_coeff_eq_of_killed
 -- name    : GlobalTheory.subst_eq_of_coeff_eq_of_killed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:49.623984+00:00
 -- url     : https://prove2.me/theorems/b89962e5-ccdc-47e5-b4c2-11b651c4c3c8

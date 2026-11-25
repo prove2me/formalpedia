@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_tens_central_cbb464e8d5bd
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_tens_central_cbb464e8d5bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:53:08.517535+00:00
 -- url     : https://prove2.me/theorems/39fecc98-f297-4cd0-9d4d-c5d530d01e09

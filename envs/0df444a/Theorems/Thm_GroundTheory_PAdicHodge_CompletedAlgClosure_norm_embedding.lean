@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_CompletedAlgClosure_norm_embedding
 -- name    : GroundTheory.PAdicHodge.CompletedAlgClosure.norm_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:45:52.764662+00:00
 -- url     : https://prove2.me/theorems/db5a6135-3ec0-45a5-b24b-5227e8fa42d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvSummableDominatedFiniteTailV1
 -- name    : Kyprianou.Ch04.bvSummableDominatedFiniteTailV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:28:05.142913+00:00
 -- url     : https://prove2.me/theorems/8683e475-2e20-471a-b331-6a64571ba945

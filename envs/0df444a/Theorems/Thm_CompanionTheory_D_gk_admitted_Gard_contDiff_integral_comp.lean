@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_Gard_contDiff_integral_comp
 -- name    : CompanionTheory.D.gk.admitted.Gard.contDiff_integral_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:50:53.409895+00:00
 -- url     : https://prove2.me/theorems/e55470c4-28d3-4ff1-a9b6-86e13d4cd3ff

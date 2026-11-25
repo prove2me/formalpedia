@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_coe_derivative_reverse_charpoly
 -- name    : GroundTheory.Global.coe_derivative_reverse_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:56:08.324906+00:00
 -- url     : https://prove2.me/theorems/ef3b9506-1ee1-4fd1-bf95-fa20cc07e5f7

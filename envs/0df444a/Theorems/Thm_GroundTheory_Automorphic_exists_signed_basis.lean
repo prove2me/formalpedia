@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_signed_basis
 -- name    : GroundTheory.Automorphic.exists_signed_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:26:48.029808+00:00
 -- url     : https://prove2.me/theorems/beef263d-7c05-4847-ab95-0fa11a3f9103

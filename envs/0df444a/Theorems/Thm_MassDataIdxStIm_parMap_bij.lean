@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxStIm_parMap_bij
 -- name    : MassDataIdxStIm.parMap_bij
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:52:19.183322+00:00
 -- url     : https://prove2.me/theorems/95fd3566-23cd-4c26-81ef-a4c973f0f009

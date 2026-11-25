@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_CharZero_padicHom_vle_iff
 -- name    : GroundTheory.LocalField.CharZero.padicHom_vle_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:02.004656+00:00
 -- url     : https://prove2.me/theorems/51de9cdf-1b65-401e-9f62-023d64f15f2d

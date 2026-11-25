@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OfPeriod_exists_compl
 -- name    : GlobalTheory.OfPeriod.exists_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:08:53.768024+00:00
 -- url     : https://prove2.me/theorems/b9d90b62-e8e4-4fdb-ba2a-edbef64591b2

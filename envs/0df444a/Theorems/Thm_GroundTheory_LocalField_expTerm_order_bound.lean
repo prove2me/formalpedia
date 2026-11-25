@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_expTerm_order_bound
 -- name    : GroundTheory.LocalField.expTerm_order_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:10:37.473523+00:00
 -- url     : https://prove2.me/theorems/b596f880-2aad-4693-9243-746ead5ba56a

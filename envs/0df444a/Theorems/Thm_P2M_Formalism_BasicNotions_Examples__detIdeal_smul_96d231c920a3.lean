@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__detIdeal_smul_96d231c920a3
 -- name    : P2M_Formalism_BasicNotions_Examples__detIdeal_smul_96d231c920a3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:53:07.585259+00:00
 -- url     : https://prove2.me/theorems/298e4a51-5cb3-4168-9058-cab8d05cfc8a

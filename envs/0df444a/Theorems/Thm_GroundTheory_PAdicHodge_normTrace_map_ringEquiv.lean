@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_normTrace_map_ringEquiv
 -- name    : GroundTheory.PAdicHodge.normTrace_map_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:47:27.851129+00:00
 -- url     : https://prove2.me/theorems/aa1860e3-d852-48a7-88d0-48260edfecaa

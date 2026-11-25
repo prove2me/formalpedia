@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_residue_eq_zero_of_analyticAt
 -- name    : GroundTheory.Global.Elliptic.residue_eq_zero_of_analyticAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:17:26.730638+00:00
 -- url     : https://prove2.me/theorems/855e14fc-6d7a-4c4a-99ed-702ce3157cc6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_smul_normalSubOfCoeff
 -- name    : GroundTheory.ProfCoh.smul_normalSubOfCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:51:11.969431+00:00
 -- url     : https://prove2.me/theorems/8bbe18b5-8c10-4dde-94ad-4826c73ff8a2

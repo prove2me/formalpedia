@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__adelic_theta_conj_c64eb5f92f34
 -- name    : P2M_Formalism_BasicNotions_Examples__adelic_theta_conj_c64eb5f92f34
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:54:09.702898+00:00
 -- url     : https://prove2.me/theorems/e35a66cf-015a-472f-b298-df55c9f0b4d5

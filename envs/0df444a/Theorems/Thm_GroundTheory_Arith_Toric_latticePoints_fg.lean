@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_latticePoints_fg
 -- name    : GroundTheory.Arith.Toric.latticePoints_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:26:54.624818+00:00
 -- url     : https://prove2.me/theorems/a6ee6da6-6eeb-47c9-b686-c05331e9bb7b

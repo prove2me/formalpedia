@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_tendsto_ofReal_pow_606256ea091f
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_tendsto_ofReal_pow_606256ea091f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:52:42.147069+00:00
 -- url     : https://prove2.me/theorems/93ae15a6-e14c-417f-b376-f6e18dd5eef8

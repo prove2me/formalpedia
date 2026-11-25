@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedChain_frob_sum
 -- name    : GlobalTheory.AdaptedChain.frob_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:24:33.92636+00:00
 -- url     : https://prove2.me/theorems/8dcfb792-f838-4778-a455-f48acbd883a8

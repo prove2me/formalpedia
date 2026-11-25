@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_dualSubmodule_idealLattice
 -- name    : GroundTheory.Global.dualSubmodule_idealLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:40:30.9629+00:00
 -- url     : https://prove2.me/theorems/d0dd7c89-e816-4bbf-a4d0-7a54e1a0c342

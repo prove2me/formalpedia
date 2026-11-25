@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_entry_le_sum_6938a3ded12d
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_entry_le_sum_6938a3ded12d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:52:38.621524+00:00
 -- url     : https://prove2.me/theorems/af01b6fc-6f48-4eba-982d-9f22cc47ff33

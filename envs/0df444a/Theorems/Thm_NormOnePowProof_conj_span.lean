@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NormOnePowProof_conj_span
 -- name    : NormOnePowProof.conj_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:52:38.680052+00:00
 -- url     : https://prove2.me/theorems/7c48b262-4c3b-4c79-b0ee-e817fd404d62

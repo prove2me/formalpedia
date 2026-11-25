@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_B6_integrable_of_isTest__50145a5ef79c
 -- name    : P2M_Formalism_FourierDecayAlt_P_B6_integrable_of_isTest__50145a5ef79c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:55:00.532602+00:00
 -- url     : https://prove2.me/theorems/178a0609-b6f8-46b3-9b07-73590ec1bcd9

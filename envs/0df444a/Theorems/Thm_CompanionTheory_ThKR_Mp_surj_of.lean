@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_surj_of
 -- name    : CompanionTheory.ThKR.Mp.surj_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:19:47.564113+00:00
 -- url     : https://prove2.me/theorems/bdf3d2b6-9ff8-4e7c-b777-3eb7c6adf447

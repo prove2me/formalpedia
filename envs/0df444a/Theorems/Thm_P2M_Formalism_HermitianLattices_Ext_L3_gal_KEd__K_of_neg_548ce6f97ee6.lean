@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_gal_KEd__K_of_neg_548ce6f97ee6
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_gal_KEd__K_of_neg_548ce6f97ee6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:56:49.04387+00:00
 -- url     : https://prove2.me/theorems/a0f9c398-9cb0-4bed-a40c-cbf3d01b50a5

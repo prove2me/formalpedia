@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_analyticAt_regularPart
 -- name    : GroundTheory.Global.Elliptic.analyticAt_regularPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:37:33.170208+00:00
 -- url     : https://prove2.me/theorems/8bbae66b-d06a-4b3e-9efa-f398b19c0b55

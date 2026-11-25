@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_finrank_DBK
 -- name    : GroundTheory.PAdicHodge.finrank_DBK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:05.662395+00:00
 -- url     : https://prove2.me/theorems/bf4afa86-506e-4650-863e-8a7ff278ad3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainToRows_sum_inr_eps
 -- name    : GlobalTheory.MainToRows.sum_inr_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:26:25.644741+00:00
 -- url     : https://prove2.me/theorems/107c6574-88a2-47eb-8e45-ab77d7f7e33c

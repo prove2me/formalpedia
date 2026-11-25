@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlowParameters_flowVal_le_maxFlow
 -- name    : GlobalTheory.FlowParameters.flowVal_le_maxFlow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:25:25.615112+00:00
 -- url     : https://prove2.me/theorems/14320ff7-6102-4b18-9ad7-70d451230810

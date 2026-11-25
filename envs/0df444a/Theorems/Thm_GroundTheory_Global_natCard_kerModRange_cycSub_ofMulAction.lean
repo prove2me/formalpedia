@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_natCard_kerModRange_cycSub_ofMulAction
 -- name    : GroundTheory.Global.natCard_kerModRange_cycSub_ofMulAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:42:03.490805+00:00
 -- url     : https://prove2.me/theorems/c0eeb436-c4d0-4efa-8800-99490781bf2a

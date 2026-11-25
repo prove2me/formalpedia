@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_degree_pos_of_connected
 -- name    : ChromaticReconstruction.degree_pos_of_connected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:35:05.451086+00:00
 -- url     : https://prove2.me/theorems/4297162f-1c9b-4384-9eaa-ae1e8f10b457

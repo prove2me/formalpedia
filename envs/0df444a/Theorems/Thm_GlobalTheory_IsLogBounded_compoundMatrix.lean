@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLogBounded_compoundMatrix
 -- name    : GlobalTheory.IsLogBounded.compoundMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:55:21.083152+00:00
 -- url     : https://prove2.me/theorems/4962ead1-6ede-4179-9260-ffbe03c89740

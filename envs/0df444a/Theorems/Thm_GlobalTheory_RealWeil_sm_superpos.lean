@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_sm_superpos
 -- name    : GlobalTheory.RealWeil.sm_superpos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:48:58.813275+00:00
 -- url     : https://prove2.me/theorems/aca424a0-2f90-42cc-942e-acd43599b9df

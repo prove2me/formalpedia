@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_tateModule_basis
 -- name    : GroundTheory.Arith.Abelian.tateModule_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:18:02.815347+00:00
 -- url     : https://prove2.me/theorems/2352ac94-697f-4133-8953-01548fc71142

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PiSimple_simpleOver_piKer
 -- name    : GlobalTheory.PiSimple.simpleOver_piKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:04:19.569669+00:00
 -- url     : https://prove2.me/theorems/d2a555b9-68dd-4ac1-87dd-0312bc007a47

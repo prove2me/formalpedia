@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_FrozenVariableComponents_coeff_coeff__74c68bcb778a
 -- name    : P2M_Formalism_GM_FrozenVariableComponents_coeff_coeff__74c68bcb778a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:56:33.042801+00:00
 -- url     : https://prove2.me/theorems/7c0662aa-a091-464d-9b78-e5a9baa5a3b8

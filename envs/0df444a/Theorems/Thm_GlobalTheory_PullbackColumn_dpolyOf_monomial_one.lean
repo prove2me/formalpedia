@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PullbackColumn_dpolyOf_monomial_one
 -- name    : GlobalTheory.PullbackColumn.dpolyOf_monomial_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:27:08.253801+00:00
 -- url     : https://prove2.me/theorems/803edfca-410c-4140-9b24-954da35861ce

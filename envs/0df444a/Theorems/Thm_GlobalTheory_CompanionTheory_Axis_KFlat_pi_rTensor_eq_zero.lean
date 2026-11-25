@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_KFlat_pi_rTensor_eq_zero
 -- name    : GlobalTheory.CompanionTheory.Axis.KFlat.pi_rTensor_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:15:54.729044+00:00
 -- url     : https://prove2.me/theorems/1b79f0ff-1363-4747-8df2-35bc1343d7f7

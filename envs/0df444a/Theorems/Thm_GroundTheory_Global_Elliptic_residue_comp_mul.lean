@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_residue_comp_mul
 -- name    : GroundTheory.Global.Elliptic.residue_comp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:38:29.547646+00:00
 -- url     : https://prove2.me/theorems/d195efa1-83b8-4e82-8b71-c38b6fb69dbd

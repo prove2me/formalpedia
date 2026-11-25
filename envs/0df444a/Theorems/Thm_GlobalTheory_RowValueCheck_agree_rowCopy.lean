@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowValueCheck_agree_rowCopy
 -- name    : GlobalTheory.RowValueCheck.agree_rowCopy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:14:16.274581+00:00
 -- url     : https://prove2.me/theorems/9eef158a-da1d-4161-b04d-4e01b2b8f9b9

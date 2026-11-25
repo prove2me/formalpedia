@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isWeaklyRegular_mvPowerSeries_of_finite_colength
 -- name    : GlobalTheory.T.isWeaklyRegular_mvPowerSeries_of_finite_colength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:11:17.288951+00:00
 -- url     : https://prove2.me/theorems/20abf389-c435-44de-9dff-ebd4f08cee62

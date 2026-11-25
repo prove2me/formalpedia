@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NormOnePowProof_conj_mul
 -- name    : NormOnePowProof.conj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:52:35.31899+00:00
 -- url     : https://prove2.me/theorems/d38f7a83-0a3b-452f-b8ed-1e81b82762ca

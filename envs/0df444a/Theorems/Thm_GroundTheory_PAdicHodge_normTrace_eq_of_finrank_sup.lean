@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_normTrace_eq_of_finrank_sup
 -- name    : GroundTheory.PAdicHodge.normTrace_eq_of_finrank_sup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:32:54.181184+00:00
 -- url     : https://prove2.me/theorems/fc1da1f2-e538-4a89-8546-7a607ef509aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_epsteinZeta_shifted_continuation
 -- name    : GlobalTheory.epsteinZeta_shifted_continuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:17:24.508065+00:00
 -- url     : https://prove2.me/theorems/43269942-6552-4a4f-b06d-48b4bbc206b1

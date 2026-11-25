@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_dense_smoothVectors
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.dense_smoothVectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:30:49.530072+00:00
 -- url     : https://prove2.me/theorems/78bcdf98-ecd6-4d6d-9d85-e523158bd50c

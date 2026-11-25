@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_LamCM_IsLocGen_inv__6d6a889473de
 -- name    : P2M_Formalism_L2_LamCM_IsLocGen_inv__6d6a889473de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:57:02.193725+00:00
 -- url     : https://prove2.me/theorems/65a68f71-1f97-4225-80bf-937be53fe1b1

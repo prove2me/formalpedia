@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NormOnePowProof_map_mem_one
 -- name    : NormOnePowProof.map_mem_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:52:35.206586+00:00
 -- url     : https://prove2.me/theorems/d5d3f0cd-d8f4-4c55-bf8c-0e6fccefa8fb

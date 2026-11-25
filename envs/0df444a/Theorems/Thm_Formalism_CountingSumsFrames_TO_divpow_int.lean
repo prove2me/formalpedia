@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_TO_divpow_int
 -- name    : Formalism.CountingSumsFrames.TO.divpow_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:38:40.106723+00:00
 -- url     : https://prove2.me/theorems/b06c72ec-6201-433e-a9e6-846dcb1834c9

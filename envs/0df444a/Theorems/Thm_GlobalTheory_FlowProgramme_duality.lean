@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlowProgramme_duality
 -- name    : GlobalTheory.FlowProgramme.duality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:15:01.530789+00:00
 -- url     : https://prove2.me/theorems/3ce04fa1-8a28-4a1e-aa30-97c75ee632e5

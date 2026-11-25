@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_omegaDualMap_apply
 -- name    : GlobalTheory.PDivGroup.omegaDualMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:27:56.586799+00:00
 -- url     : https://prove2.me/theorems/7eba8bb5-5802-497a-98e5-908bb5e0c9e0

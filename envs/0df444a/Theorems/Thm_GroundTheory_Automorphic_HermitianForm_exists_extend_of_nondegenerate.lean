@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_exists_extend_of_nondegenerate
 -- name    : GroundTheory.Automorphic.HermitianForm.exists_extend_of_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:30:48.15168+00:00
 -- url     : https://prove2.me/theorems/6b377895-4945-400d-aa98-4b44626c4dc9

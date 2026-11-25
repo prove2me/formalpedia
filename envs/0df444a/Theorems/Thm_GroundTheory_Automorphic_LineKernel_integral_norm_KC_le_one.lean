@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_integral_norm_KC_le_one
 -- name    : GroundTheory.Automorphic.LineKernel.integral_norm_KC_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:32:26.473944+00:00
 -- url     : https://prove2.me/theorems/0df33cda-c94e-4343-b24b-8f221027efa2

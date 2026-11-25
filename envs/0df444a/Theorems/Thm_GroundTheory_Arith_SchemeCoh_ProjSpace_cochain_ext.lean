@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_cochain_ext
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.cochain_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:11:32.321934+00:00
 -- url     : https://prove2.me/theorems/a8f7aeab-fb7f-4b4e-ad80-678dd887b705

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_PFlagDeg_coeff_pow
 -- name    : Formalism.DegreeFormula.PFlagDeg.coeff_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:06:20.066074+00:00
 -- url     : https://prove2.me/theorems/f949c7ea-2c65-47ec-af2e-d6044aa383f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_G7_TwoS_integral_posW__09bbc0735fe1
 -- name    : P2M_Formalism_InvariantFactorPaths_G7_TwoS_integral_posW__09bbc0735fe1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:56:41.936554+00:00
 -- url     : https://prove2.me/theorems/8a1b96a2-7d55-47e1-aad3-700f405aca5f

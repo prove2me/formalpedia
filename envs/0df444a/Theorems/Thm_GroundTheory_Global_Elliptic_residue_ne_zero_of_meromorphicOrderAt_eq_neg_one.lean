@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_residue_ne_zero_of_meromorphicOrderAt_eq_neg_one
 -- name    : GroundTheory.Global.Elliptic.residue_ne_zero_of_meromorphicOrderAt_eq_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:38:44.886205+00:00
 -- url     : https://prove2.me/theorems/9def3a6e-f888-4b80-b953-f8189458fe03

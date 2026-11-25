@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_card_nsmul_pow_eq_zero
 -- name    : GroundTheory.Arith.Abelian.card_nsmul_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:27:06.083444+00:00
 -- url     : https://prove2.me/theorems/104e492d-8218-4af8-a759-0abae9e90fa7

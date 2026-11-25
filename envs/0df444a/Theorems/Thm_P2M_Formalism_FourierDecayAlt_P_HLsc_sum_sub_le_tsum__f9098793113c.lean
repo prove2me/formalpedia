@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_HLsc_sum_sub_le_tsum__f9098793113c
 -- name    : P2M_Formalism_FourierDecayAlt_P_HLsc_sum_sub_le_tsum__f9098793113c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:55:28.639152+00:00
 -- url     : https://prove2.me/theorems/b088a7b4-07fd-46cf-a296-64adff48505c

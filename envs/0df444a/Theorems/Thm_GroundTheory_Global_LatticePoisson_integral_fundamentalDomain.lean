@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_LatticePoisson_integral_fundamentalDomain
 -- name    : GroundTheory.Global.LatticePoisson.integral_fundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:27:55.302621+00:00
 -- url     : https://prove2.me/theorems/4da28ed1-4f70-4c9f-9d95-2bc9c583737e

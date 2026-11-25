@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_re_trace_conjTranspose_mul_self_pos
 -- name    : GroundTheory.Automorphic.re_trace_conjTranspose_mul_self_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:25:33.72408+00:00
 -- url     : https://prove2.me/theorems/8b44d4d4-fa61-46cc-85e6-a4cbf4c1304a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_etale_mulN_torsion_dvr
 -- name    : GlobalTheory.etale_mulN_torsion_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:18:45.802802+00:00
 -- url     : https://prove2.me/theorems/8056cba7-bddf-4027-91d1-2bfcc6f12d6e

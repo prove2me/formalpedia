@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_EigenvalueLevelCeiling_localization_map__dea12fd01409
 -- name    : P2M_Formalism_EigenvalueLevelCeiling_localization_map__dea12fd01409
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:55:04.048394+00:00
 -- url     : https://prove2.me/theorems/49812026-fd66-4ff8-8af2-c4b571501e8f

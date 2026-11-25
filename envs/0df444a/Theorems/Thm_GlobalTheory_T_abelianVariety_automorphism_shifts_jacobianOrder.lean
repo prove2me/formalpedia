@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_abelianVariety_automorphism_shifts_jacobianOrder
 -- name    : GlobalTheory.T.abelianVariety_automorphism_shifts_jacobianOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:27:40.580151+00:00
 -- url     : https://prove2.me/theorems/5c87fb11-ca45-4469-8994-abb32e6222fc

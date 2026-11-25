@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_boxCoef_left
 -- name    : GlobalTheory.CompanionTheory.Axis.boxCoef_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:17:51.551675+00:00
 -- url     : https://prove2.me/theorems/7e6569bd-8cea-4822-979f-0b74fdd84398

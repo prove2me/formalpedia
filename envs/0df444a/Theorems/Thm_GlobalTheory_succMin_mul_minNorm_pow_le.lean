@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_succMin_mul_minNorm_pow_le
 -- name    : GlobalTheory.succMin_mul_minNorm_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:22:37.006813+00:00
 -- url     : https://prove2.me/theorems/48383378-6e40-49e4-ab7f-98893a731ca2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RadiiIdentities_slope_identity
 -- name    : GlobalTheory.RadiiIdentities.slope_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:26:41.424803+00:00
 -- url     : https://prove2.me/theorems/11b198ac-e93f-4e9e-9991-395382e7e22f

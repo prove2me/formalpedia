@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCharacterOverSubfield_of_virtual_and_character
 -- name    : GlobalTheory.T.isCharacterOverSubfield_of_virtual_and_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:48:58.387484+00:00
 -- url     : https://prove2.me/theorems/3a6c25ed-c32b-40a8-9cb7-25d1c83680e5

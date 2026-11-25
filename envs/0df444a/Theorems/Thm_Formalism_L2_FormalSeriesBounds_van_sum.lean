@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_van_sum
 -- name    : Formalism.L2.FormalSeriesBounds.van_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:03.197557+00:00
 -- url     : https://prove2.me/theorems/02c6d76f-0b6e-46a3-8f6b-f1abb915ebee

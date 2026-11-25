@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_adjoin_nthRoots_eq_top
 -- name    : GroundTheory.ProfCoh.adjoin_nthRoots_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:48:25.951703+00:00
 -- url     : https://prove2.me/theorems/04180995-9379-45a3-97c7-635c8f0f8822

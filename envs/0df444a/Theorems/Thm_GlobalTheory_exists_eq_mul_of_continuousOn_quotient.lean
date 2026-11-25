@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_eq_mul_of_continuousOn_quotient
 -- name    : GlobalTheory.exists_eq_mul_of_continuousOn_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:32:10.465353+00:00
 -- url     : https://prove2.me/theorems/900c35ba-2444-4775-bcd0-9d1e07c8c588

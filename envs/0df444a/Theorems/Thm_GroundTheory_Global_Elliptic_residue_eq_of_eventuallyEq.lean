@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_residue_eq_of_eventuallyEq
 -- name    : GroundTheory.Global.Elliptic.residue_eq_of_eventuallyEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:19:11.613799+00:00
 -- url     : https://prove2.me/theorems/9447c5d9-da2f-4c35-aaf2-424262881fa1

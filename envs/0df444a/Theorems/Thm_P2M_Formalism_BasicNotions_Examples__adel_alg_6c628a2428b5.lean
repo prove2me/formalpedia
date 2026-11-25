@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__adel_alg_6c628a2428b5
 -- name    : P2M_Formalism_BasicNotions_Examples__adel_alg_6c628a2428b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:53:37.734101+00:00
 -- url     : https://prove2.me/theorems/eac242e3-7da1-4024-a6fc-1b3508ed94e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_ExtensionFiltration_sumComponents__a8bffc346fad
 -- name    : P2M_Formalism_ExtensionFiltration_sumComponents__a8bffc346fad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:55:14.895138+00:00
 -- url     : https://prove2.me/theorems/e15e21dc-32fd-40ca-9e64-0cdd096ffea4

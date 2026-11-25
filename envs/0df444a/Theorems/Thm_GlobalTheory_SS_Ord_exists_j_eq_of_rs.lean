@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_exists_j_eq_of_rs
 -- name    : GlobalTheory.SS.Ord.exists_j_eq_of_rs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:17:32.799321+00:00
 -- url     : https://prove2.me/theorems/5b349214-c3b5-494a-9c76-19da39c9d3e7

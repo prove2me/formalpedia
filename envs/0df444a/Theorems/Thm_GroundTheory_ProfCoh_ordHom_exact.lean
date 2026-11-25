@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_ordHom_exact
 -- name    : GroundTheory.ProfCoh.ordHom_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:50:53.956271+00:00
 -- url     : https://prove2.me/theorems/70d41c7c-7a2f-45b9-ac07-4241a8ea1dfa

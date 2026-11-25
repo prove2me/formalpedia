@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HostParam_Seam_nonempty_choices
 -- name    : HostParam.Seam.nonempty_choices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:52:00.161325+00:00
 -- url     : https://prove2.me/theorems/b9f1ab0e-8be4-42bd-8ac2-15ebd157e1f5

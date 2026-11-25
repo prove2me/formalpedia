@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_existsUnique_realUnits_circle
 -- name    : GroundTheory.Global.existsUnique_realUnits_circle
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:56:50.234328+00:00
 -- url     : https://prove2.me/theorems/45963054-4bbc-4d48-88d7-7e8d1f7283dc

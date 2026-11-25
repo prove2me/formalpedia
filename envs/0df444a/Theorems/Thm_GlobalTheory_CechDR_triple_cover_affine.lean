@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_triple_cover_affine
 -- name    : GlobalTheory.CechDR.triple_cover_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:29:07.27831+00:00
 -- url     : https://prove2.me/theorems/ea7d0feb-97c0-4512-b553-74f2ff99f687

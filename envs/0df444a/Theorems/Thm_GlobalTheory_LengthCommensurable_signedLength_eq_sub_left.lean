@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_signedLength_eq_sub_left
 -- name    : GlobalTheory.LengthCommensurable.signedLength_eq_sub_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:58:55.332262+00:00
 -- url     : https://prove2.me/theorems/e82fa0d0-2938-47ac-8691-b058114a8ffe

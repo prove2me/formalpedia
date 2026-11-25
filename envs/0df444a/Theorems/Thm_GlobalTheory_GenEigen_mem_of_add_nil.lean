@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenEigen_mem_of_add_nil
 -- name    : GlobalTheory.GenEigen.mem_of_add_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:25:45.488084+00:00
 -- url     : https://prove2.me/theorems/57248dcc-e99d-4c61-9677-43d566c35d8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_single_li_fe187fefdf1c
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_single_li_fe187fefdf1c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:52:59.071797+00:00
 -- url     : https://prove2.me/theorems/cf6ef81d-396f-4a14-b34e-c278f3e3db95

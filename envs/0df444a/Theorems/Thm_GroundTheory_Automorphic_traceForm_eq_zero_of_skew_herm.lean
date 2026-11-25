@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_traceForm_eq_zero_of_skew_herm
 -- name    : GroundTheory.Automorphic.traceForm_eq_zero_of_skew_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:27:01.428408+00:00
 -- url     : https://prove2.me/theorems/2cbda927-2cb1-40d7-a01e-24607f69ade8

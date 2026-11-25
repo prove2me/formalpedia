@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_limit_normalLattice
 -- name    : GroundTheory.LocalField.exists_limit_normalLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:11.263789+00:00
 -- url     : https://prove2.me/theorems/801cdc87-e895-41c4-bb19-96f24a58d972

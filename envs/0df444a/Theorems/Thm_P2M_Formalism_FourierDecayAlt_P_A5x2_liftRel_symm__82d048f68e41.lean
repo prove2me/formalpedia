@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_A5x2_liftRel_symm__82d048f68e41
 -- name    : P2M_Formalism_FourierDecayAlt_P_A5x2_liftRel_symm__82d048f68e41
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:54:55.473944+00:00
 -- url     : https://prove2.me/theorems/e3f1b127-9cd5-4e42-b94d-3f58222ef671

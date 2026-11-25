@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_G7_TwoS_norm_wE__43050fc77372
 -- name    : P2M_Formalism_InvariantFactorPaths_G7_TwoS_norm_wE__43050fc77372
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:56:59.861624+00:00
 -- url     : https://prove2.me/theorems/6fe3137d-8813-4ab2-bb8f-4ae15f6a7897

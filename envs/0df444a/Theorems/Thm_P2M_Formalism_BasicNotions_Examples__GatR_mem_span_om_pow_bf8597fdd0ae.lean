@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__GatR_mem_span_om_pow_bf8597fdd0ae
 -- name    : P2M_Formalism_BasicNotions_Examples__GatR_mem_span_om_pow_bf8597fdd0ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:52:14.829905+00:00
 -- url     : https://prove2.me/theorems/57873b6c-3523-4f49-8133-ebccbb8abd5c

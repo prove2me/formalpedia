@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_residue_logDeriv_eq_untopD
 -- name    : GroundTheory.Global.Elliptic.residue_logDeriv_eq_untopD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:38:34.901464+00:00
 -- url     : https://prove2.me/theorems/dd00a840-4ed2-4a52-ac91-22f9cc5752e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CountingSumsFrames_TO_glAct_C__b6e3a9844982
 -- name    : P2M_Formalism_CountingSumsFrames_TO_glAct_C__b6e3a9844982
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:53:09.510372+00:00
 -- url     : https://prove2.me/theorems/9334f90e-b493-4236-a75d-5d2b52e775dd

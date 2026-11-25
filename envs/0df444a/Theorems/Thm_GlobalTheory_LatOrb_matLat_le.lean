@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatOrb_matLat_le
 -- name    : GlobalTheory.LatOrb.matLat_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:29:20.976601+00:00
 -- url     : https://prove2.me/theorems/63d23070-1453-4997-bf32-230b020bd947

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_ELL_CubeThreeAlt_weq_iff__f07a8575c07b
 -- name    : P2M_Formalism_ELL_CubeThreeAlt_weq_iff__f07a8575c07b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:54:50.572951+00:00
 -- url     : https://prove2.me/theorems/8fd72ef4-42ce-46c6-9d1f-bd47ec3b8278

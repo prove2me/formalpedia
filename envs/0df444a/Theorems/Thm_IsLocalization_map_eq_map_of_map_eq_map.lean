@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsLocalization_map_eq_map_of_map_eq_map
 -- name    : IsLocalization.map_eq_map_of_map_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:29.100855+00:00
 -- url     : https://prove2.me/theorems/2638e8d2-d94a-4da3-b6de-2904ef642cc2

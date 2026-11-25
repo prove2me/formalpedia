@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_dvd_of_dvd_rs
 -- name    : GlobalTheory.SS.Ord.dvd_of_dvd_rs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:17:28.486097+00:00
 -- url     : https://prove2.me/theorems/af9a1245-2ff9-43b4-bead-9892db34ab07

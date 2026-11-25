@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_realEmb_mul_hermTrace_pos
 -- name    : GroundTheory.Automorphic.realEmb_mul_hermTrace_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:35:48.348706+00:00
 -- url     : https://prove2.me/theorems/06186f66-6f27-4647-a907-495e6d47fc22

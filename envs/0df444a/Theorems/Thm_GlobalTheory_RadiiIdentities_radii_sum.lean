@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RadiiIdentities_radii_sum
 -- name    : GlobalTheory.RadiiIdentities.radii_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:25:46.217662+00:00
 -- url     : https://prove2.me/theorems/314c7247-e706-4b84-9509-ccc4b4028d17

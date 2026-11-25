@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_IsRationalPolyhedral_predual
 -- name    : GroundTheory.Arith.Toric.IsRationalPolyhedral.predual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:56.205809+00:00
 -- url     : https://prove2.me/theorems/4be66246-974d-4d0f-8181-f8af427391f3

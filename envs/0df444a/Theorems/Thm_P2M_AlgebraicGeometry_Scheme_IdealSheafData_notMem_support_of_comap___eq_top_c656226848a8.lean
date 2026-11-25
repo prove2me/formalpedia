@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_AlgebraicGeometry_Scheme_IdealSheafData_notMem_support_of_comap___eq_top_c656226848a8
 -- name    : P2M_AlgebraicGeometry_Scheme_IdealSheafData_notMem_support_of_comap___eq_top_c656226848a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:52:19.787801+00:00
 -- url     : https://prove2.me/theorems/6ae1969c-6b46-4037-8b1d-7733963dc193

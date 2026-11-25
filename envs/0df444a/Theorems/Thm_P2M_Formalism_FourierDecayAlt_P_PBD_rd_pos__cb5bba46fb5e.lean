@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_PBD_rd_pos__cb5bba46fb5e
 -- name    : P2M_Formalism_FourierDecayAlt_P_PBD_rd_pos__cb5bba46fb5e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:56:40.110805+00:00
 -- url     : https://prove2.me/theorems/64f70f10-a5e1-4dc0-970d-36bafcaa578a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_LangOnto_exists_sub_eq_inv
 -- name    : GlobalTheory.PMonE.LangOnto.exists_sub_eq_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:38:41.713776+00:00
 -- url     : https://prove2.me/theorems/3a525c8c-0238-434c-ac10-a34b29923774

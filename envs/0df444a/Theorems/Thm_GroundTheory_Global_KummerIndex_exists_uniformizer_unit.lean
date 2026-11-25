@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_KummerIndex_exists_uniformizer_unit
 -- name    : GroundTheory.Global.KummerIndex.exists_uniformizer_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:56:28.744038+00:00
 -- url     : https://prove2.me/theorems/42bc727b-a71e-4a31-8b46-fe19dc013aee

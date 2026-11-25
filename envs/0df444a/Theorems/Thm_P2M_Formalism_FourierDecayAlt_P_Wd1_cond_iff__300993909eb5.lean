@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Wd1_cond_iff__300993909eb5
 -- name    : P2M_Formalism_FourierDecayAlt_P_Wd1_cond_iff__300993909eb5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:55:31.236839+00:00
 -- url     : https://prove2.me/theorems/7ac986a2-1522-4ea3-9b63-a7ae06601c35

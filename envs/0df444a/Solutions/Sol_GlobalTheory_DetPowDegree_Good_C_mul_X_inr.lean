@@ -1,0 +1,38 @@
+-- Prove2me | solution 1 for GlobalTheory.DetPowDegree.Good.C_mul_X_inr
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T00:34:56.544896+00:00
+-- url     : https://prove2.me/submissions/de5fcef2-249e-4032-b956-a4c53ce9d545
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_DualLattices_DetPolyMulCayleyOmegaPow
+import Definitions.Def_ReciprocityTheory_DualLattices_VEqZeroOfPowEqOne
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_WeightedSumBounds_PeriodValuation
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_DetFrobeniusSubPowSupport
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory.PGsh MvPolynomial
+open GlobalTheory GlobalTheory.DetPowDegree
+variable {α : Type} [Fintype α]
+variable {l : ℤ} {L E : ℕ}
+namespace GlobalTheory.DetPowDegree
+namespace Good
+theorem _root_.solution (a : α) :
+    Good l L E 1 L 0 (MvPolynomial.C (l ^ E) * X (Sum.inr a) : MvPolynomial (α ⊕ α) ℤ) := by
+  classical
+  intro m hm
+  rw [coeff_C_mul, coeff_X'] at hm ⊢
+  have h : Finsupp.single (Sum.inr a) 1 = m := by
+    by_contra h
+    simp [h] at hm
+  subst h
+  simp [Finsupp.single_apply]
+end Good
+end GlobalTheory.DetPowDegree

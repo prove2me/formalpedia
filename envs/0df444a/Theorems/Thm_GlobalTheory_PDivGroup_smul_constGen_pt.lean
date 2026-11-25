@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_smul_constGen_pt
 -- name    : GlobalTheory.PDivGroup.smul_constGen_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:27:27.363575+00:00
 -- url     : https://prove2.me/theorems/74d76085-dcb2-4bac-97a2-defbb58c0fac

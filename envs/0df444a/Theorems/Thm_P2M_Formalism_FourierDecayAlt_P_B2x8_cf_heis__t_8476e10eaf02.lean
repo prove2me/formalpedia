@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_B2x8_cf_heis__t_8476e10eaf02
 -- name    : P2M_Formalism_FourierDecayAlt_P_B2x8_cf_heis__t_8476e10eaf02
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:55:17.197927+00:00
 -- url     : https://prove2.me/theorems/88137666-f674-41da-998c-a89e8f4cfc6b

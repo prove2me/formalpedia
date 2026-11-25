@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowChartCounterexample_embOK_eOf
 -- name    : GlobalTheory.RowChartCounterexample.embOK_eOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:18:35.105496+00:00
 -- url     : https://prove2.me/theorems/f6f4b394-7bf0-4848-9679-93cd0bc2c607

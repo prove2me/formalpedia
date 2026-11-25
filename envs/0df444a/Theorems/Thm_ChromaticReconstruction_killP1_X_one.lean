@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_killP1_X_one
 -- name    : ChromaticReconstruction.killP1_X_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:14:43.206333+00:00
 -- url     : https://prove2.me/theorems/03c2f237-db20-4eca-9e2b-a22c692ed2ce

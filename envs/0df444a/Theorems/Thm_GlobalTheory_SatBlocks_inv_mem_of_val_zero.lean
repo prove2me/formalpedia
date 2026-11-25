@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatBlocks_inv_mem_of_val_zero
 -- name    : GlobalTheory.SatBlocks.inv_mem_of_val_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:14:58.653121+00:00
 -- url     : https://prove2.me/theorems/be5534ad-9c95-400d-882d-aa1c73224098

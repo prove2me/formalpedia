@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_star_dW
 -- name    : NFOne.star_dW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:52:42.57285+00:00
 -- url     : https://prove2.me/theorems/c3b891a6-2293-4e88-b381-c726eb299eea

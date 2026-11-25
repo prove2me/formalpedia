@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_continuous_cellMinor
 -- name    : GroundTheory.Automorphic.Whittaker.continuous_cellMinor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:29:01.253804+00:00
 -- url     : https://prove2.me/theorems/fc7fdfd4-faa2-453d-ad93-53f91d2fcced

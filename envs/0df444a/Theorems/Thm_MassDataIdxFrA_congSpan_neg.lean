@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxFrA_congSpan_neg
 -- name    : MassDataIdxFrA.congSpan_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:51:37.645677+00:00
 -- url     : https://prove2.me/theorems/166ce2e4-89e2-45a5-9f1b-9ac496c1a748

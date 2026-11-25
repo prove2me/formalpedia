@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActLimit_exists_tends
 -- name    : GlobalTheory.ActLimit.exists_tends
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:14:02.19794+00:00
 -- url     : https://prove2.me/theorems/46da2175-4469-4a5e-877a-3e941aabdecb

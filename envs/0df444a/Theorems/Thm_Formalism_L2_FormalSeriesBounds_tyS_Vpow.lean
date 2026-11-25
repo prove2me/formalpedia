@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_tyS_Vpow
 -- name    : Formalism.L2.FormalSeriesBounds.tyS_Vpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:25:01.726036+00:00
 -- url     : https://prove2.me/theorems/c33bd825-7cd6-4242-8150-8134551df91a

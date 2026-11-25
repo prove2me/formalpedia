@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_unitsIncl_toAdditive_smul
 -- name    : GroundTheory.ProfCoh.unitsIncl_toAdditive_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:52:55.222814+00:00
 -- url     : https://prove2.me/theorems/b7ba0ea9-74a8-4fd1-879b-2e09dc78d6e5

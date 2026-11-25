@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_MinorPolynomials_hasDerivAt_invpow__0b9fd55a1697
 -- name    : P2M_Formalism_FourierDecayAlt_P_MinorPolynomials_hasDerivAt_invpow__0b9fd55a1697
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:56:33.789084+00:00
 -- url     : https://prove2.me/theorems/3062279e-3e06-4d88-8083-2e88b9cb38c7

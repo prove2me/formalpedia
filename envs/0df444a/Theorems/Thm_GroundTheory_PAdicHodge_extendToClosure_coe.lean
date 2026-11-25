@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_extendToClosure_coe
 -- name    : GroundTheory.PAdicHodge.extendToClosure_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:28:51.810731+00:00
 -- url     : https://prove2.me/theorems/fd03b14e-98a6-4470-be43-3ee89dcedd35

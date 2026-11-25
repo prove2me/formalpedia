@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__mem_primeToSub_e38917aa181c
 -- name    : P2M_Formalism_BasicNotions_Examples__mem_primeToSub_e38917aa181c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:53:33.111544+00:00
 -- url     : https://prove2.me/theorems/5dc92238-b8ba-4c99-bd30-ae7a065c735b

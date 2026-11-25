@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_nonempty_equiv_of_character_eq
 -- name    : GroundTheory.ProfCoh.nonempty_equiv_of_character_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:50:58.083741+00:00
 -- url     : https://prove2.me/theorems/6e37cf98-c141-41c4-bcb4-307d72b4b417

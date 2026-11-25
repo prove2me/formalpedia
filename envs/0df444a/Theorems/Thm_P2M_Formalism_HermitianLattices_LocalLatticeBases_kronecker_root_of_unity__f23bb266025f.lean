@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_LocalLatticeBases_kronecker_root_of_unity__f23bb266025f
 -- name    : P2M_Formalism_HermitianLattices_LocalLatticeBases_kronecker_root_of_unity__f23bb266025f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:56:34.771371+00:00
 -- url     : https://prove2.me/theorems/91e6e165-3fae-44d8-9821-b5821c393c5f

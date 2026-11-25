@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NormHilbertSchmidtBlocks_hSBlocks_main
 -- name    : NormHilbertSchmidtBlocks.hSBlocks_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:52:47.283559+00:00
 -- url     : https://prove2.me/theorems/9dbef333-80b9-4426-b964-01d3f5f76d1c

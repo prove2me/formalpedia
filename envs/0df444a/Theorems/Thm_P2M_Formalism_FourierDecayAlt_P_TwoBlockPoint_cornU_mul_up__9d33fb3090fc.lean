@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_TwoBlockPoint_cornU_mul_up__9d33fb3090fc
 -- name    : P2M_Formalism_FourierDecayAlt_P_TwoBlockPoint_cornU_mul_up__9d33fb3090fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:56:01.153168+00:00
 -- url     : https://prove2.me/theorems/6b2a607c-1221-46c0-9d0a-08a7e5d21b3d

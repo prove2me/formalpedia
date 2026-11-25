@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_bottomRows_injective
 -- name    : GroundTheory.Automorphic.Whittaker.bottomRows_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:29:24.335312+00:00
 -- url     : https://prove2.me/theorems/d4851ae8-7bff-4d95-85bf-471e4fe3869a

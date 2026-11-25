@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_existsUnique_cpow_of_pos
 -- name    : GroundTheory.Global.existsUnique_cpow_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:40:41.458263+00:00
 -- url     : https://prove2.me/theorems/23af1859-2517-4fcf-9b72-1be619710f5a

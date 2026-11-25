@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatBlocks_exists_projector
 -- name    : GlobalTheory.SatBlocks.exists_projector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:14:09.340452+00:00
 -- url     : https://prove2.me/theorems/8bb8caaf-bc22-4f59-817c-9bb7f68453c3

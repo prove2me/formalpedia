@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_uniformContinuous_coe_comp
 -- name    : GroundTheory.PAdicHodge.uniformContinuous_coe_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:09.739796+00:00
 -- url     : https://prove2.me/theorems/ad9debcf-5dc9-4420-93ec-e50e87126ac1

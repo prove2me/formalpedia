@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_existsUnique_realUnits
 -- name    : GroundTheory.Global.existsUnique_realUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:40:44.766262+00:00
 -- url     : https://prove2.me/theorems/ae402dfb-4c5f-4f52-98d1-9913268ad6a3

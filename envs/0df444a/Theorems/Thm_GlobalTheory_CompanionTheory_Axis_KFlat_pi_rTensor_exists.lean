@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_KFlat_pi_rTensor_exists
 -- name    : GlobalTheory.CompanionTheory.Axis.KFlat.pi_rTensor_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:16:55.127703+00:00
 -- url     : https://prove2.me/theorems/c00ca7fa-19c5-411d-a991-378cbc1a7aa5

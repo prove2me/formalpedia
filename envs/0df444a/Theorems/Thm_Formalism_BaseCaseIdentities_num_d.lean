@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_num_d
 -- name    : Formalism.BaseCaseIdentities.num_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:23:44.330854+00:00
 -- url     : https://prove2.me/theorems/0bbb6db4-9666-4798-b238-e56f0e54ee7d

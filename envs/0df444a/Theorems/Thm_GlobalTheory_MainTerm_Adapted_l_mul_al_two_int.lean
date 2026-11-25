@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_Adapted_l_mul_al_two_int
 -- name    : GlobalTheory.MainTerm.Adapted.l_mul_al_two_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:17.258482+00:00
 -- url     : https://prove2.me/theorems/ff474c09-9f48-49fd-9e8c-14a7fd86f5d9

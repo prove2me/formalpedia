@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Enlarge_catches_enlarge
 -- name    : GlobalTheory.Reg.Enlarge.catches_enlarge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:13:57.506913+00:00
 -- url     : https://prove2.me/theorems/b8c1f9e7-4dd3-4aec-a53c-b0757b82d481

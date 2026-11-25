@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_noWindowOf_holds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.noWindowOf_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:59:48.083231+00:00
 -- url     : https://prove2.me/theorems/4d61a870-874f-48f7-afd7-ef640b58f4cc

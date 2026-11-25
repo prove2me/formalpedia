@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_laplacian_linearSubst
 -- name    : Formalism.CountingSumsFrames.laplacian_linearSubst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:47.19381+00:00
 -- url     : https://prove2.me/theorems/18768b05-2c36-4429-a26b-7fac9b2abf15

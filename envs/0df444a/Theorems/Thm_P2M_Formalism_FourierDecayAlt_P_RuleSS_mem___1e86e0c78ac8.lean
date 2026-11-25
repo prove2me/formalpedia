@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_RuleSS_mem___1e86e0c78ac8
 -- name    : P2M_Formalism_FourierDecayAlt_P_RuleSS_mem___1e86e0c78ac8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:55:36.225232+00:00
 -- url     : https://prove2.me/theorems/3ff3d1f8-0ea4-4ac4-bc39-eb0d3bd59493

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_existsUnique_complexUnits
 -- name    : GroundTheory.Global.existsUnique_complexUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:40:57.439728+00:00
 -- url     : https://prove2.me/theorems/f6f455b0-e6d9-4b67-b5c1-4c2f2fc9ccc7

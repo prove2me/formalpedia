@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_LatticePoisson_coe_dualEquiv
 -- name    : GroundTheory.Global.LatticePoisson.coe_dualEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:27:32.390855+00:00
 -- url     : https://prove2.me/theorems/df0166f9-33a9-4a32-aab9-1472b5540032

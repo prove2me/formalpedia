@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_lt_norm_sum_smul_tiltSharp
 -- name    : GroundTheory.PAdicHodge.lt_norm_sum_smul_tiltSharp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:47:09.167583+00:00
 -- url     : https://prove2.me/theorems/2ec9cbd2-c6ce-4a79-b049-03d5f7ce8f5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_gauge_axes
 -- name    : Formalism.L2.FormalSeriesBounds.gauge_axes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:24:43.591834+00:00
 -- url     : https://prove2.me/theorems/5a0a6533-ae0b-435d-9bf8-0ff8c3e08433

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__exists_adelic_neg_one_387b409f59b6
 -- name    : P2M_Formalism_BasicNotions_Examples__exists_adelic_neg_one_387b409f59b6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:35:38.656209+00:00
 -- url     : https://prove2.me/theorems/05890890-2c47-4e73-938a-4c383b5b37f4

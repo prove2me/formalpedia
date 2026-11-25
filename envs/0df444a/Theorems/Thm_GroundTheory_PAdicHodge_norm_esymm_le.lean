@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_esymm_le
 -- name    : GroundTheory.PAdicHodge.norm_esymm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:29:01.225085+00:00
 -- url     : https://prove2.me/theorems/ab8e049c-6b30-4b2b-b7c1-ba050a08f8b7

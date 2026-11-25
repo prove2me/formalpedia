@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__exc_dvd_d9a51d8e164a
 -- name    : P2M_Formalism_BasicNotions_Examples__exc_dvd_d9a51d8e164a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:53:10.626746+00:00
 -- url     : https://prove2.me/theorems/90f17182-145f-4770-98b0-37f9b4d8ff83

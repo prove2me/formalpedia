@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisConv_norm_embAll_sq_le
 -- name    : GlobalTheory.SW.EisConv.norm_embAll_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:27:03.868795+00:00
 -- url     : https://prove2.me/theorems/689a1676-9605-46fc-99a6-ef90e1ce1140

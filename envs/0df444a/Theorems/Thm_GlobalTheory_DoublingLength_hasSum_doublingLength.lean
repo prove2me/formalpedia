@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoublingLength_hasSum_doublingLength
 -- name    : GlobalTheory.DoublingLength.hasSum_doublingLength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:52:45.940288+00:00
 -- url     : https://prove2.me/theorems/513e826f-e116-44ba-b2f6-15b2495a130a

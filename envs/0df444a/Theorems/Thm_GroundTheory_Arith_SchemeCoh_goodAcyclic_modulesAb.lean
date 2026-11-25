@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_goodAcyclic_modulesAb
 -- name    : GroundTheory.Arith.SchemeCoh.goodAcyclic_modulesAb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:59:27.874042+00:00
 -- url     : https://prove2.me/theorems/505c776e-4ea1-4eef-a039-f8f817a29fb1

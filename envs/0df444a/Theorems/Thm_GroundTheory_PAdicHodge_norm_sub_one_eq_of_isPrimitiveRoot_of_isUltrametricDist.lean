@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_sub_one_eq_of_isPrimitiveRoot_of_isUltrametricDist
 -- name    : GroundTheory.PAdicHodge.norm_sub_one_eq_of_isPrimitiveRoot_of_isUltrametricDist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:47:17.739978+00:00
 -- url     : https://prove2.me/theorems/76011634-327c-49f0-8ce9-f5fbc9978376

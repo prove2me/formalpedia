@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxStIm_block13_of_blocks
 -- name    : MassDataIdxStIm.block13_of_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:51:57.668593+00:00
 -- url     : https://prove2.me/theorems/08981633-49e4-4a21-bb82-6e5905caa52c

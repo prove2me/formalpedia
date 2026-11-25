@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_LocAinf__2_prim_5d93beb9df99
 -- name    : P2M_Formalism_BasicNotions_LocAinf__2_prim_5d93beb9df99
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:57:24.830532+00:00
 -- url     : https://prove2.me/theorems/842fb573-6f62-4088-ae6b-1c0c3a34329a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_norm_jB_63d3a4e60aa1
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_norm_jB_63d3a4e60aa1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:54:04.037715+00:00
 -- url     : https://prove2.me/theorems/a3047d91-d234-4f88-9b78-39b102921f25

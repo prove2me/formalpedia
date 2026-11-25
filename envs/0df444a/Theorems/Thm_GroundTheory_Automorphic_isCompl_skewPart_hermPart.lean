@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isCompl_skewPart_hermPart
 -- name    : GroundTheory.Automorphic.isCompl_skewPart_hermPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:26:59.914257+00:00
 -- url     : https://prove2.me/theorems/23ab907d-47e9-438a-bbcc-d8580cd99b3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_EigenvalueLevelCeiling_unit_change__00be1471adca
 -- name    : P2M_Formalism_EigenvalueLevelCeiling_unit_change__00be1471adca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:54:58.853437+00:00
 -- url     : https://prove2.me/theorems/6f0f60d0-c051-4880-a75f-eedcdf27067b

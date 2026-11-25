@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_untiltField_mono
 -- name    : GroundTheory.PAdicHodge.untiltField_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:04:13.478579+00:00
 -- url     : https://prove2.me/theorems/702f205c-6295-404f-b93f-abc59e60b1db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_mem_extEdges_inl_inr
 -- name    : ChromaticReconstruction.mem_extEdges_inl_inr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:26:23.664679+00:00
 -- url     : https://prove2.me/theorems/ed290d5f-4811-4f24-9765-23b473152d41

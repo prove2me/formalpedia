@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_mem_hull_image_finset_iff
 -- name    : GroundTheory.Arith.Toric.mem_hull_image_finset_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:27:39.728107+00:00
 -- url     : https://prove2.me/theorems/16dfdc30-3f12-489c-a324-854498573b76

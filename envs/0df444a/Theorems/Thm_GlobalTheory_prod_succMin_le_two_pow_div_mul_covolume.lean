@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_succMin_le_two_pow_div_mul_covolume
 -- name    : GlobalTheory.prod_succMin_le_two_pow_div_mul_covolume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:15:18.5048+00:00
 -- url     : https://prove2.me/theorems/34acbc00-b715-48d1-8f31-fa38b469e3a4

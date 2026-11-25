@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_pairing_tateMap
 -- name    : GlobalTheory.PDivGroup.pairing_tateMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:27.426732+00:00
 -- url     : https://prove2.me/theorems/e42fd58f-93bc-4147-a7e7-b3f1081aa52f

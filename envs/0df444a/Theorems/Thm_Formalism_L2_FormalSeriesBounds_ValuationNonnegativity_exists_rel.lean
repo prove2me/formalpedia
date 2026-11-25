@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ValuationNonnegativity_exists_rel
 -- name    : Formalism.L2.FormalSeriesBounds.ValuationNonnegativity.exists_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:23:23.731615+00:00
 -- url     : https://prove2.me/theorems/1acfd606-6dd0-46d8-8c54-2078a9f4909c

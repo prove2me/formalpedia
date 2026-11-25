@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_isWeaklyRegular_of_isLocalHom
 -- name    : GlobalTheory.flat_of_isWeaklyRegular_of_isLocalHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:56:34.924814+00:00
 -- url     : https://prove2.me/theorems/a54f38ce-1fcd-4896-8ac2-6b09d54736e4

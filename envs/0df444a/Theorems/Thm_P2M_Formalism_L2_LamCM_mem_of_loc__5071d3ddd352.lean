@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_LamCM_mem_of_loc__5071d3ddd352
 -- name    : P2M_Formalism_L2_LamCM_mem_of_loc__5071d3ddd352
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:57:18.672261+00:00
 -- url     : https://prove2.me/theorems/ddbaf717-61a2-4e2d-8bf0-329cc0355ecf

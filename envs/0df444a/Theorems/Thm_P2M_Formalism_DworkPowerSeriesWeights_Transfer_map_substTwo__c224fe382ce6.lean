@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_DworkPowerSeriesWeights_Transfer_map_substTwo__c224fe382ce6
 -- name    : P2M_Formalism_DworkPowerSeriesWeights_Transfer_map_substTwo__c224fe382ce6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:54:43.142901+00:00
 -- url     : https://prove2.me/theorems/bc3453ee-19f0-428f-9025-5adcaddc25ee

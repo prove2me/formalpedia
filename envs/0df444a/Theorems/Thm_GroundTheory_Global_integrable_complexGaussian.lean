@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_integrable_complexGaussian
 -- name    : GroundTheory.Global.integrable_complexGaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:41:29.271102+00:00
 -- url     : https://prove2.me/theorems/232b7000-d943-471f-9ff2-2901c897256f

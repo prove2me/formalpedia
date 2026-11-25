@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cocycle_on_product_from_second_factor
 -- name    : GlobalTheory.T.cocycle_on_product_from_second_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:28:58.173825+00:00
 -- url     : https://prove2.me/theorems/81f57117-2da3-470b-a8b0-afd8f11d7264

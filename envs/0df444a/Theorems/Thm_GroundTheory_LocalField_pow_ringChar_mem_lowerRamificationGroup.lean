@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_pow_ringChar_mem_lowerRamificationGroup
 -- name    : GroundTheory.LocalField.pow_ringChar_mem_lowerRamificationGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:46:27.676833+00:00
 -- url     : https://prove2.me/theorems/5b258af7-bc4f-4354-bc98-d26e3b978d92

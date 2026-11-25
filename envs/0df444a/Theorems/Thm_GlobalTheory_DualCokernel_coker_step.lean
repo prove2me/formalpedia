@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualCokernel_coker_step
 -- name    : GlobalTheory.DualCokernel.coker_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:08:26.847912+00:00
 -- url     : https://prove2.me/theorems/417f184d-1298-4d7f-aadd-979c56413dd5

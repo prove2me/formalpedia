@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_holomorphic_periodic_cocycle_coboundary
 -- name    : GlobalTheory.holomorphic_periodic_cocycle_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:47.768135+00:00
 -- url     : https://prove2.me/theorems/5f086a56-3a6a-495b-b563-a8eecf420b22

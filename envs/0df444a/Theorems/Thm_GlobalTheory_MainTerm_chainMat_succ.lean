@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_chainMat_succ
 -- name    : GlobalTheory.MainTerm.chainMat_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:25:43.881882+00:00
 -- url     : https://prove2.me/theorems/f47414b4-0c8e-4619-adcc-ee8ec6cb1dfc

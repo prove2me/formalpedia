@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_succMin_le_rpow_mul_covolume
 -- name    : GlobalTheory.prod_succMin_le_rpow_mul_covolume
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:52:03.410645+00:00
 -- url     : https://prove2.me/theorems/f220fd05-f4d6-4d6a-a78f-607f70e9d061

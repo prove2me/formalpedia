@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_DimensionMonotonicity_aeval_isWH__16e475c86f62
 -- name    : P2M_Formalism_GM_DimensionMonotonicity_aeval_isWH__16e475c86f62
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:57:40.982728+00:00
 -- url     : https://prove2.me/theorems/14c50c01-787e-40f6-a65b-6030fab4c3c5

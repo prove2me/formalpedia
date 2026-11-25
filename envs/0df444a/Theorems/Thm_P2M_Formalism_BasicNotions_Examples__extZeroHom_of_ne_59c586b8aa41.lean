@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__extZeroHom_of_ne_59c586b8aa41
 -- name    : P2M_Formalism_BasicNotions_Examples__extZeroHom_of_ne_59c586b8aa41
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:53:20.424872+00:00
 -- url     : https://prove2.me/theorems/65e0af97-2db0-43e8-9155-c6538065cb7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_hasDerivAt_B
 -- name    : CompanionTheory.D.Upq.Sm.hasDerivAt_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:42:41.10083+00:00
 -- url     : https://prove2.me/theorems/526b20ab-9170-42f5-9199-05953c16a7d8

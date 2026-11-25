@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_not_dvd_superIndex_iff
 -- name    : GroundTheory.ProfCoh.not_dvd_superIndex_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:50:52.858962+00:00
 -- url     : https://prove2.me/theorems/865629f4-eba9-47ba-bc2d-8d3d11904150

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLatticeCounting_P_block_end_minor_fibre_finite__f8185a474196
 -- name    : P2M_Formalism_HermitianLatticeCounting_P_block_end_minor_fibre_finite__f8185a474196
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:56:36.110502+00:00
 -- url     : https://prove2.me/theorems/402d173d-735b-4c50-a9c9-d27948ac9158

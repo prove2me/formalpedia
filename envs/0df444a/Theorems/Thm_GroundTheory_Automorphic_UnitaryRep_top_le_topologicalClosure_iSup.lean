@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_top_le_topologicalClosure_iSup
 -- name    : GroundTheory.Automorphic.UnitaryRep.top_le_topologicalClosure_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:24:17.671334+00:00
 -- url     : https://prove2.me/theorems/0bffeca6-8c9f-4dbd-9d86-450d77aca2d0

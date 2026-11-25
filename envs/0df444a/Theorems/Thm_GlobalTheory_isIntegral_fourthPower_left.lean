@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_fourthPower_left
 -- name    : GlobalTheory.isIntegral_fourthPower_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:57:10.902703+00:00
 -- url     : https://prove2.me/theorems/5a49be94-44e6-4709-9d3d-3bebf3897a2e

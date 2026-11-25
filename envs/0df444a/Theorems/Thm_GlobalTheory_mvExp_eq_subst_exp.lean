@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mvExp_eq_subst_exp
 -- name    : GlobalTheory.mvExp_eq_subst_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:14:47.278244+00:00
 -- url     : https://prove2.me/theorems/18c7cdf6-90c9-425e-95c6-bf7a8fd21e6d

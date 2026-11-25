@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_G0_TopsChoiceProbabilityLemmas_prob_and_eq_mul_of_disjoint__d38c33bc61b6
 -- name    : P2M_Formalism_G0_TopsChoiceProbabilityLemmas_prob_and_eq_mul_of_disjoint__d38c33bc61b6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:56:49.448988+00:00
 -- url     : https://prove2.me/theorems/527f0ed2-b06d-435a-b95f-95fa37e44bb8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbelianExp_HolOn_analyticAt
 -- name    : GlobalTheory.AbelianExp.HolOn.analyticAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:29:33.790873+00:00
 -- url     : https://prove2.me/theorems/1e13f873-6f5f-458b-87c3-f6999fc4e846

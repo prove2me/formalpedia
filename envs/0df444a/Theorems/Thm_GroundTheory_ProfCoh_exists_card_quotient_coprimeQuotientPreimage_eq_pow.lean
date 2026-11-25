@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_card_quotient_coprimeQuotientPreimage_eq_pow
 -- name    : GroundTheory.ProfCoh.exists_card_quotient_coprimeQuotientPreimage_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:50:46.430202+00:00
 -- url     : https://prove2.me/theorems/e2a841f6-151b-4938-84b9-8b4b650ff6e3

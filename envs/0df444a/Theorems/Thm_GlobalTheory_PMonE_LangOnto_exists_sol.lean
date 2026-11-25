@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_LangOnto_exists_sol
 -- name    : GlobalTheory.PMonE.LangOnto.exists_sol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:38:37.108708+00:00
 -- url     : https://prove2.me/theorems/99bada88-acbc-445d-9b8b-f3083f6d3c13

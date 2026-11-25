@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_phi_iso
 -- name    : ChromaticReconstruction.phi_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:58:01.58283+00:00
 -- url     : https://prove2.me/theorems/e392a38d-2850-48f0-bea9-086d08969892

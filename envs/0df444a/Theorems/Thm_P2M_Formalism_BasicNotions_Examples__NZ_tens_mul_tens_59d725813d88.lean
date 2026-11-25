@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_tens_mul_tens_59d725813d88
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_tens_mul_tens_59d725813d88
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:53:03.682391+00:00
 -- url     : https://prove2.me/theorems/ff9db977-56ee-45e6-ac48-4bcc0e143bc2

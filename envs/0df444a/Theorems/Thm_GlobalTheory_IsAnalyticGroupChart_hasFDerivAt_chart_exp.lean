@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAnalyticGroupChart_hasFDerivAt_chart_exp
 -- name    : GlobalTheory.IsAnalyticGroupChart.hasFDerivAt_chart_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:17:43.540464+00:00
 -- url     : https://prove2.me/theorems/d8086e19-4b5b-45b2-a93d-9f6bd59f7f8f

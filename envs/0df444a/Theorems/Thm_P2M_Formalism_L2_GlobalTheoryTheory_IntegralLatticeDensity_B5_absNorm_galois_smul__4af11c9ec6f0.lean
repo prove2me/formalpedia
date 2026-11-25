@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_absNorm_galois_smul__4af11c9ec6f0
 -- name    : P2M_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_absNorm_galois_smul__4af11c9ec6f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:57:39.236729+00:00
 -- url     : https://prove2.me/theorems/b8c87bb5-aaac-4cdf-9bb4-bb764c8cdc25

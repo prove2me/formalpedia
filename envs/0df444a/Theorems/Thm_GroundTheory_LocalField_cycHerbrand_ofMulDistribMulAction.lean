@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_cycHerbrand_ofMulDistribMulAction
 -- name    : GroundTheory.LocalField.cycHerbrand_ofMulDistribMulAction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:20:01.456097+00:00
 -- url     : https://prove2.me/theorems/ec99b7e9-73d3-419e-9899-a110d7ac9c99

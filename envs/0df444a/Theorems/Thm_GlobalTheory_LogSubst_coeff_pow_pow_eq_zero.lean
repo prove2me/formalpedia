@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogSubst_coeff_pow_pow_eq_zero
 -- name    : GlobalTheory.LogSubst.coeff_pow_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:25:29.565269+00:00
 -- url     : https://prove2.me/theorems/07d5e90a-a92a-41a6-9a6d-6c09ad935610

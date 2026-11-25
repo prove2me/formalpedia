@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CompanionTheory_D_Upq_Sm_continuous_orbit__18ceb79e4f38
 -- name    : P2M_CompanionTheory_D_Upq_Sm_continuous_orbit__18ceb79e4f38
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:52:29.841443+00:00
 -- url     : https://prove2.me/theorems/e09f7dd1-5370-4a03-9417-ea87468e9bf7

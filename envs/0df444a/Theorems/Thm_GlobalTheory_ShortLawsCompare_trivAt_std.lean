@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortLawsCompare_trivAt_std
 -- name    : GlobalTheory.ShortLawsCompare.trivAt_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:27:18.218817+00:00
 -- url     : https://prove2.me/theorems/864cf149-1562-4511-9fde-d7aaa77a2efe

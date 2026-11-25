@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_secondSplit_mulVec
 -- name    : MassDataIdxCore.secondSplit_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:51:43.352901+00:00
 -- url     : https://prove2.me/theorems/0092226b-2c6c-4e09-920e-764342674aad

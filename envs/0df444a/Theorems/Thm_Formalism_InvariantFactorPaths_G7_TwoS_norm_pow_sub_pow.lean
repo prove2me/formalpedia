@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_norm_pow_sub_pow
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.norm_pow_sub_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:31.142621+00:00
 -- url     : https://prove2.me/theorems/f09d3822-13d5-4251-817f-b57c2da73804

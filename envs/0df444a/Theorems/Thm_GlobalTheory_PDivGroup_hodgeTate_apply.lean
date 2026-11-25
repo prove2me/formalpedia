@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_hodgeTate_apply
 -- name    : GlobalTheory.PDivGroup.hodgeTate_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:21.510668+00:00
 -- url     : https://prove2.me/theorems/9249125a-2b84-4b59-aa5e-f65e9a02b61d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvLeftTruncationTailBoundV1
 -- name    : Kyprianou.Ch04.bvLeftTruncationTailBoundV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:28:26.744383+00:00
 -- url     : https://prove2.me/theorems/95b9347e-dc7f-4ca4-b36b-98bdffa3d841

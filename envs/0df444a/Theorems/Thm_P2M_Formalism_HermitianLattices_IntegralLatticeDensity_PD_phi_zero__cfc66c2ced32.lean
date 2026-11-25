@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_IntegralLatticeDensity_PD_phi_zero__cfc66c2ced32
 -- name    : P2M_Formalism_HermitianLattices_IntegralLatticeDensity_PD_phi_zero__cfc66c2ced32
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:56:36.4057+00:00
 -- url     : https://prove2.me/theorems/4f1df054-9c70-45b3-a97a-722656eaf7f0

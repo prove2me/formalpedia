@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlowProgramme_cyclic_solvable
 -- name    : GlobalTheory.FlowProgramme.cyclic_solvable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:15:29.062461+00:00
 -- url     : https://prove2.me/theorems/6b315e9f-5ba7-45e7-976d-a05f7addb91d

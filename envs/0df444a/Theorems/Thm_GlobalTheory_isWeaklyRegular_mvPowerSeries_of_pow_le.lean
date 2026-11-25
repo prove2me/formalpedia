@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isWeaklyRegular_mvPowerSeries_of_pow_le
 -- name    : GlobalTheory.isWeaklyRegular_mvPowerSeries_of_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:06:15.97366+00:00
 -- url     : https://prove2.me/theorems/767eaae3-6825-4ee7-b085-dff94b8f899e

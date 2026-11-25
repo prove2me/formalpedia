@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowValueCheck_Agree_exp
 -- name    : GlobalTheory.RowValueCheck.Agree.exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:14:27.703864+00:00
 -- url     : https://prove2.me/theorems/2406530c-f6c1-4a44-9dc2-0a4467ebe419

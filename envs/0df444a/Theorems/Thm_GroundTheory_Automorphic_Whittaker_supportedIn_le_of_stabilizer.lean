@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_supportedIn_le_of_stabilizer
 -- name    : GroundTheory.Automorphic.Whittaker.supportedIn_le_of_stabilizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:35:02.317653+00:00
 -- url     : https://prove2.me/theorems/3976f745-ef05-4787-b633-c3d08156711f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_sub_one_pow_eq_norm_p
 -- name    : GroundTheory.PAdicHodge.norm_sub_one_pow_eq_norm_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:48:19.711298+00:00
 -- url     : https://prove2.me/theorems/4bc700f0-6dda-48ee-89a4-1c8263c02d64

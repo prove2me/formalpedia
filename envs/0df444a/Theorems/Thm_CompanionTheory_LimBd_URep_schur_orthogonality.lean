@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_schur_orthogonality
 -- name    : CompanionTheory.LimBd.URep.schur_orthogonality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:32:25.537949+00:00
 -- url     : https://prove2.me/theorems/2da9a903-a287-4081-97f4-7a15258372f8

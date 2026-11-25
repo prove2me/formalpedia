@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetPowPairing_pair_monomial
 -- name    : GlobalTheory.DetPowPairing.pair_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:29:54.110494+00:00
 -- url     : https://prove2.me/theorems/e8be6427-aac4-455a-bac7-88ed18e95a15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymplecticLevelLift_exists_symplectic_equiv_congr
 -- name    : GlobalTheory.SymplecticLevelLift.exists_symplectic_equiv_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:26:06.281668+00:00
 -- url     : https://prove2.me/theorems/241ea4df-d05b-4937-b8a7-6893457e66b2

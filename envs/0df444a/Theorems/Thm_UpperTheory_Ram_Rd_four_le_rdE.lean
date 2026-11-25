@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Rd_four_le_rdE
 -- name    : UpperTheory.Ram.Rd.four_le_rdE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:46:07.300811+00:00
 -- url     : https://prove2.me/theorems/cf6b3c9f-b893-4822-bda3-10f83d2ccf85

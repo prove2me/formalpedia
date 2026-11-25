@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_character_eq_sum_irrChars
 -- name    : GroundTheory.LocalField.character_eq_sum_irrChars
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:24.954584+00:00
 -- url     : https://prove2.me/theorems/cc540691-c76f-48b1-bcda-3404389b285c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedChain_modify
 -- name    : GlobalTheory.AdaptedChain.modify
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:24:53.164904+00:00
 -- url     : https://prove2.me/theorems/55ea6655-4624-4105-b09a-778e83f815f6

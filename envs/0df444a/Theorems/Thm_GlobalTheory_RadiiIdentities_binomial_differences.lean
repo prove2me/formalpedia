@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RadiiIdentities_binomial_differences
 -- name    : GlobalTheory.RadiiIdentities.binomial_differences
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:26:29.085926+00:00
 -- url     : https://prove2.me/theorems/da698a62-9223-4cc7-b92c-0463047e5238

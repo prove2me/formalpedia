@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_PrincipalLat_eq_mulLat_of_isPrincipalIdealRing
 -- name    : GlobalTheory.UnitLemma.PrincipalLat.eq_mulLat_of_isPrincipalIdealRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:05:56.710747+00:00
 -- url     : https://prove2.me/theorems/a870940d-a900-497b-9c97-a4c847e0afe1

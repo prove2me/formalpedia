@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_finite_support_conductorExponentAt
 -- name    : GroundTheory.Global.IdeleGroup.finite_support_conductorExponentAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:17:57.90595+00:00
 -- url     : https://prove2.me/theorems/14558edb-85b3-45a8-886c-c266f8941d11

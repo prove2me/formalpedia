@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_CapelliWordSumExpansion_top_apply__d377369294b5
 -- name    : P2M_Formalism_FourierDecayAlt_P_CapelliWordSumExpansion_top_apply__d377369294b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:56:23.973711+00:00
 -- url     : https://prove2.me/theorems/0442aa76-efac-4bb1-bf22-f5fd52cc048b

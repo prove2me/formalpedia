@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_sum_coeff_one_add_X_pow_sub_one_pow
 -- name    : GroundTheory.PAdicHodge.sum_coeff_one_add_X_pow_sub_one_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:47:10.450256+00:00
 -- url     : https://prove2.me/theorems/6d1aa7ce-e882-42ac-a539-7aa9be6c3241

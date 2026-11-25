@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CoboundaryTransfers_chase_Q___f9ab1d245c0a
 -- name    : P2M_Formalism_CoboundaryTransfers_chase_Q___f9ab1d245c0a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:53:00.185804+00:00
 -- url     : https://prove2.me/theorems/1088276b-0f90-416f-aa20-9acf2938510b

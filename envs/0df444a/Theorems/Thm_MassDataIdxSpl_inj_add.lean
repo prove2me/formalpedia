@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxSpl_inj_add
 -- name    : MassDataIdxSpl.inj_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:51:37.242102+00:00
 -- url     : https://prove2.me/theorems/11c5538c-dacb-4ddd-a4b9-7461d69e00a4

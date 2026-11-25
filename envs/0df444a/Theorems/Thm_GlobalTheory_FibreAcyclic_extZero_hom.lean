@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreAcyclic_extZero_hom
 -- name    : GlobalTheory.FibreAcyclic.extZero_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:12:29.522478+00:00
 -- url     : https://prove2.me/theorems/e53b2acd-5a3e-469b-9d34-6c44e1ed228a

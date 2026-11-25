@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_rtj_degree_embDomain
 -- name    : Formalism.L2.FormalSeriesBounds.rtj_degree_embDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:24:34.879871+00:00
 -- url     : https://prove2.me/theorems/e11c0f10-8e66-49bb-a100-dfce760ae5e0

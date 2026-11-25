@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisConv_span_rows_mul
 -- name    : GlobalTheory.SW.EisConv.span_rows_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:26:29.000807+00:00
 -- url     : https://prove2.me/theorems/eaf473b5-4ce6-453d-b854-f6999fbabfcc

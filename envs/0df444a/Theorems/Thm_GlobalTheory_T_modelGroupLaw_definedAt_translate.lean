@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_modelGroupLaw_definedAt_translate
 -- name    : GlobalTheory.T.modelGroupLaw_definedAt_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:53:27.979868+00:00
 -- url     : https://prove2.me/theorems/4880687d-17a3-49c9-8b04-8c7447ebdcfd

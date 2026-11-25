@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_LineKernel_contDiff___70b804dc509f
 -- name    : P2M_GroundTheory_Automorphic_LineKernel_contDiff___70b804dc509f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:19:53.287452+00:00
 -- url     : https://prove2.me/theorems/7318cfc9-2c80-4507-954c-3781be8bcfc0

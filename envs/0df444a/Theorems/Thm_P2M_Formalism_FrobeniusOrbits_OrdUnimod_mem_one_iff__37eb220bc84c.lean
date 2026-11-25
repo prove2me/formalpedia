@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FrobeniusOrbits_OrdUnimod_mem_one_iff__37eb220bc84c
 -- name    : P2M_Formalism_FrobeniusOrbits_OrdUnimod_mem_one_iff__37eb220bc84c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:56:35.948967+00:00
 -- url     : https://prove2.me/theorems/9568daff-1b85-4312-870c-a7b2eece3e6d

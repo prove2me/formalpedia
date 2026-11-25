@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_exists_equiv_of_wts_eq
 -- name    : ChromaticReconstruction.exists_equiv_of_wts_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:34:39.552727+00:00
 -- url     : https://prove2.me/theorems/46f270a0-2caf-4fce-91ed-56d1dddb1357

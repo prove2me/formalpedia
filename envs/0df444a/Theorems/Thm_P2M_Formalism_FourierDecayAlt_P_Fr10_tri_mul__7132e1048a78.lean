@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Fr10_tri_mul__7132e1048a78
 -- name    : P2M_Formalism_FourierDecayAlt_P_Fr10_tri_mul__7132e1048a78
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:56:04.945003+00:00
 -- url     : https://prove2.me/theorems/1c18c9b8-014e-4d8d-815f-23d09f418600

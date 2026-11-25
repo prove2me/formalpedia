@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_M_intPol_prod__f889d80e71c9
 -- name    : P2M_Formalism_GM_M_intPol_prod__f889d80e71c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:56:35.665906+00:00
 -- url     : https://prove2.me/theorems/e3bbd307-4ebb-486c-84df-88f5e5009177

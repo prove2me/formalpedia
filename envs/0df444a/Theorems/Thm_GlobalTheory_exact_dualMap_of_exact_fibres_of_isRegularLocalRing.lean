@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exact_dualMap_of_exact_fibres_of_isRegularLocalRing
 -- name    : GlobalTheory.exact_dualMap_of_exact_fibres_of_isRegularLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:11:25.300889+00:00
 -- url     : https://prove2.me/theorems/c916e54a-4f89-4440-8990-94a5fe33010a

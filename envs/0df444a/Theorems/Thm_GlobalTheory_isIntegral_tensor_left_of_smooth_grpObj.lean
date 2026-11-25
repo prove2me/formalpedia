@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_tensor_left_of_smooth_grpObj
 -- name    : GlobalTheory.isIntegral_tensor_left_of_smooth_grpObj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:41:49.62037+00:00
 -- url     : https://prove2.me/theorems/cdad81d0-e47f-4822-9108-dff7c43ffdb7

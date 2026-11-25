@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortLawsCompare_isUnit_idealAt
 -- name    : GlobalTheory.ShortLawsCompare.isUnit_idealAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:24:44.735985+00:00
 -- url     : https://prove2.me/theorems/e2856222-dcee-4a03-953c-c78d6a1375bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_denseRange_units_prod_pi
 -- name    : GroundTheory.Global.denseRange_units_prod_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:40:22.538678+00:00
 -- url     : https://prove2.me/theorems/15a03800-1a19-4007-8a22-251dbe541383

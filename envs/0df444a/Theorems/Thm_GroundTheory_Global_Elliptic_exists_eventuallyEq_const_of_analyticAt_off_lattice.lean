@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_exists_eventuallyEq_const_of_analyticAt_off_lattice
 -- name    : GroundTheory.Global.Elliptic.exists_eventuallyEq_const_of_analyticAt_off_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:38:44.328296+00:00
 -- url     : https://prove2.me/theorems/29066698-5de1-4a08-b20e-b3b1e2bf2871

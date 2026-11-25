@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_Vv_zero
 -- name    : NFOne.Vv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:27.644904+00:00
 -- url     : https://prove2.me/theorems/338a8945-429a-4385-aed9-48f8be96921d

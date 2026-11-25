@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isExpLieAlgebra_top
 -- name    : GroundTheory.Automorphic.isExpLieAlgebra_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:24:58.421204+00:00
 -- url     : https://prove2.me/theorems/0aaf8b8a-bdb3-4344-be63-7fe6fdcea7b6

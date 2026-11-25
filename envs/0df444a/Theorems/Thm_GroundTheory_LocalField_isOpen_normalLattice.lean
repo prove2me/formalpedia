@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isOpen_normalLattice
 -- name    : GroundTheory.LocalField.isOpen_normalLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:41.121914+00:00
 -- url     : https://prove2.me/theorems/f234010d-8b68-4dde-a8a7-d8e126f84e61

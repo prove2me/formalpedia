@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_tens_eq_zero_39ca149e5dc3
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_tens_eq_zero_39ca149e5dc3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:52:59.512953+00:00
 -- url     : https://prove2.me/theorems/13e519fd-f98a-4df9-8a1a-d3ea7368f9f9

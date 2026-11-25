@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_ExtensionFiltration_period_bound__2065990858fe
 -- name    : P2M_Formalism_ExtensionFiltration_period_bound__2065990858fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:55:46.018186+00:00
 -- url     : https://prove2.me/theorems/8335a105-ef7d-4137-9b0a-2121b1c35341

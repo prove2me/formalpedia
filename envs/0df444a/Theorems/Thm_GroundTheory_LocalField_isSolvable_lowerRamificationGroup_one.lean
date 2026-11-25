@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isSolvable_lowerRamificationGroup_one
 -- name    : GroundTheory.LocalField.isSolvable_lowerRamificationGroup_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:46:42.428099+00:00
 -- url     : https://prove2.me/theorems/9fc1d469-d09d-4845-b86e-c695251adc1b

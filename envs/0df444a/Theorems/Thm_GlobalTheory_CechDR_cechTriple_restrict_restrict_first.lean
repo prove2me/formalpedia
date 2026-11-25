@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_cechTriple_restrict_restrict_first
 -- name    : GlobalTheory.CechDR.cechTriple_restrict_restrict_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:26:24.121594+00:00
 -- url     : https://prove2.me/theorems/0023a269-773d-4b93-8eaf-b839c9842113

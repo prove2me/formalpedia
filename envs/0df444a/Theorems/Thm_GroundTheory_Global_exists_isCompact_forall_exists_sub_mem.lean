@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_isCompact_forall_exists_sub_mem
 -- name    : GroundTheory.Global.exists_isCompact_forall_exists_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:37:23.496608+00:00
 -- url     : https://prove2.me/theorems/35d9ad1c-f184-4947-84c8-6a8373b4306c

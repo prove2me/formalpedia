@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_charHom_tateMap
 -- name    : GlobalTheory.PDivGroup.charHom_tateMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:27:11.937377+00:00
 -- url     : https://prove2.me/theorems/5c518d88-9e8f-4b4e-a5e6-0911f7900e13

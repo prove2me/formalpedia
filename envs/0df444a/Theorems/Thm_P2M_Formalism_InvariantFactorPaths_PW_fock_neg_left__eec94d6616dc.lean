@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_PW_fock_neg_left__eec94d6616dc
 -- name    : P2M_Formalism_InvariantFactorPaths_PW_fock_neg_left__eec94d6616dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:58:08.399537+00:00
 -- url     : https://prove2.me/theorems/25a49f7e-8b82-4955-b150-3d723511d533

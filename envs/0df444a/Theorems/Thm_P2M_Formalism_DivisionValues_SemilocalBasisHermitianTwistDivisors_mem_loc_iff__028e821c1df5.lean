@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_DivisionValues_SemilocalBasisHermitianTwistDivisors_mem_loc_iff__028e821c1df5
 -- name    : P2M_Formalism_DivisionValues_SemilocalBasisHermitianTwistDivisors_mem_loc_iff__028e821c1df5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:58.333901+00:00
 -- url     : https://prove2.me/theorems/12c3c268-8325-40d9-bc4d-334831ca5522

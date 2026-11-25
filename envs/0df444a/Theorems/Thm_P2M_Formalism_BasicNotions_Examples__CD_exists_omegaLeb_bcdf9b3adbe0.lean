@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_exists_omegaLeb_bcdf9b3adbe0
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_exists_omegaLeb_bcdf9b3adbe0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:52:50.381804+00:00
 -- url     : https://prove2.me/theorems/76f6259c-a31f-4b4f-910d-7a718d60dd34

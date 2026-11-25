@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_FrozenVariableComponents_coeff__kill_e9f2b61ea33a
 -- name    : P2M_Formalism_GM_FrozenVariableComponents_coeff__kill_e9f2b61ea33a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:56:28.723471+00:00
 -- url     : https://prove2.me/theorems/5d1885f3-04f7-4b0d-9c59-d7686e2d47e8

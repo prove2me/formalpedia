@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvDyadicDeficitZeroAeTimeV1
 -- name    : Kyprianou.Ch04.bvDyadicDeficitZeroAeTimeV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:14:33.859795+00:00
 -- url     : https://prove2.me/theorems/e9bd5e1d-9a65-4089-b346-0be20f7769a4

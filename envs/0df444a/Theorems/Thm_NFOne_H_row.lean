@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_H_row
 -- name    : NFOne.H_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:07:50.632927+00:00
 -- url     : https://prove2.me/theorems/433e3708-06c2-42d8-a09d-71144338acec

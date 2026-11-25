@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ProfiniteInteger_ker_proj
 -- name    : GroundTheory.LocalField.Abstract.ProfiniteInteger.ker_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:43:59.61703+00:00
 -- url     : https://prove2.me/theorems/38a397dd-1257-464a-a1ac-ab37d826c0ae

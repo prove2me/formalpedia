@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_KerInert_VC_intPS_subst__f54d4fdeff52
 -- name    : P2M_Formalism_L2_KerInert_VC_intPS_subst__f54d4fdeff52
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:57:30.465526+00:00
 -- url     : https://prove2.me/theorems/f59f994e-4cb7-467b-8436-c8841dfbae8a

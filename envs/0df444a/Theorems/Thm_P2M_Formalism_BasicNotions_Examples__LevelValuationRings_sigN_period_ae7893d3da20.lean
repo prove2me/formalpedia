@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LevelValuationRings_sigN_period_ae7893d3da20
 -- name    : P2M_Formalism_BasicNotions_Examples__LevelValuationRings_sigN_period_ae7893d3da20
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:53:21.852729+00:00
 -- url     : https://prove2.me/theorems/fe78bbcc-225e-4372-a5dd-89addd33a468

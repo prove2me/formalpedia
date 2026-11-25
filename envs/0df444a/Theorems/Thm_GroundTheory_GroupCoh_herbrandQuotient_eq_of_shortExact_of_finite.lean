@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_herbrandQuotient_eq_of_shortExact_of_finite
 -- name    : GroundTheory.GroupCoh.herbrandQuotient_eq_of_shortExact_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:43:08.233741+00:00
 -- url     : https://prove2.me/theorems/01c73717-03ba-49b0-9d20-f649c1b505fa

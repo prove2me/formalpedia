@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__teichIota_inj_2f136bef1054
 -- name    : P2M_Formalism_BasicNotions_Examples__teichIota_inj_2f136bef1054
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:02:04.633299+00:00
 -- url     : https://prove2.me/theorems/fef01d56-edfe-4a59-90cb-bbf112c555e4

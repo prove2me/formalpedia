@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxSpl_inr_snd_alt
 -- name    : MassDataIdxSpl.inr_snd_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:51:38.104475+00:00
 -- url     : https://prove2.me/theorems/87aa4ce0-af41-4810-a1b5-5c06342b62eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__Tame_closed_of_sat_fdb838e20b19
 -- name    : P2M_Formalism_BasicNotions_Examples__Tame_closed_of_sat_fdb838e20b19
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:53:20.450958+00:00
 -- url     : https://prove2.me/theorems/7bab2ee8-9ed2-4864-b8f9-917eaf445496

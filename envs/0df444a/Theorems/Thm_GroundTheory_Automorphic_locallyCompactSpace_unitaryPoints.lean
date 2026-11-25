@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_locallyCompactSpace_unitaryPoints
 -- name    : GroundTheory.Automorphic.locallyCompactSpace_unitaryPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:36:55.704957+00:00
 -- url     : https://prove2.me/theorems/5c63dd22-d890-49ec-a42f-e9edb8eb5552

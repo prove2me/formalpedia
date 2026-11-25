@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_div_natCast_mem_valBall
 -- name    : GroundTheory.LocalField.div_natCast_mem_valBall
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:10:01.083044+00:00
 -- url     : https://prove2.me/theorems/14e63902-070e-4d9f-9c6d-d9a00da08a00

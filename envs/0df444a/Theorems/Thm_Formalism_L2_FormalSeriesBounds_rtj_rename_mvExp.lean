@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_rtj_rename_mvExp
 -- name    : Formalism.L2.FormalSeriesBounds.rtj_rename_mvExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:25:34.606264+00:00
 -- url     : https://prove2.me/theorems/7becb8cc-1b97-4325-9c78-9cf56303a0b9

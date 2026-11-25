@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_WachMod_coboundaries_le_cocycles
 -- name    : Formalism.CoboundaryTransfers.WachMod.coboundaries_le_cocycles
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:28.791811+00:00
 -- url     : https://prove2.me/theorems/2251c65e-55e7-406b-b2d4-487cf2fd9699

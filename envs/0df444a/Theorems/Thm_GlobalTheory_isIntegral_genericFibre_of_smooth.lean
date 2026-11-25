@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_genericFibre_of_smooth
 -- name    : GlobalTheory.isIntegral_genericFibre_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:56:51.193191+00:00
 -- url     : https://prove2.me/theorems/3550f6eb-7768-4b9d-aefb-dcbfffff97af

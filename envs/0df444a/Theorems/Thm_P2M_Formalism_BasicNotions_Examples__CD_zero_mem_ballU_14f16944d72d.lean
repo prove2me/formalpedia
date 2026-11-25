@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_zero_mem_ballU_14f16944d72d
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_zero_mem_ballU_14f16944d72d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:52:37.168734+00:00
 -- url     : https://prove2.me/theorems/48359c5d-9f77-416e-87a3-d8db008b8038

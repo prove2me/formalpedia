@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisConv_det_gram_bot
 -- name    : GlobalTheory.SW.EisConv.det_gram_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:27:08.767955+00:00
 -- url     : https://prove2.me/theorems/bf53c35d-b95c-4f6a-aecf-66a4ae1f260a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_basis_of_basis_e9a25ae5a81f
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_basis_of_basis_e9a25ae5a81f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:55:20.517073+00:00
 -- url     : https://prove2.me/theorems/225f51c8-4cec-4e5a-a5a0-fe54bd641161

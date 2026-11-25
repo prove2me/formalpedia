@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SenTateChar_pow_prime_pow_mem_not_mem
 -- name    : GroundTheory.PAdicHodge.SenTateChar.pow_prime_pow_mem_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:47.54481+00:00
 -- url     : https://prove2.me/theorems/aa5ee547-851b-4d6f-b231-f34602c5f22e

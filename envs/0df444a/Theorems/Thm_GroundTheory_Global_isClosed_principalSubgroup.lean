@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_isClosed_principalSubgroup
 -- name    : GroundTheory.Global.isClosed_principalSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:29:04.695011+00:00
 -- url     : https://prove2.me/theorems/3eb4186b-79ac-4653-955e-edbb7dc07d49

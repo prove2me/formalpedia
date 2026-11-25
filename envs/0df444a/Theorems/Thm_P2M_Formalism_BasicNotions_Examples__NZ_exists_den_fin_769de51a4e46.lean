@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_exists_den_fin_769de51a4e46
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_exists_den_fin_769de51a4e46
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:53:00.031438+00:00
 -- url     : https://prove2.me/theorems/29344ab5-8e44-43ce-b745-2d2514220adb

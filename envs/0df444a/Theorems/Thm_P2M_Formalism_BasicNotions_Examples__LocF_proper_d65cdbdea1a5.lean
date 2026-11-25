@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LocF_proper_d65cdbdea1a5
 -- name    : P2M_Formalism_BasicNotions_Examples__LocF_proper_d65cdbdea1a5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:48:25.658533+00:00
 -- url     : https://prove2.me/theorems/71ea2dc1-8958-452a-bcdc-cdbb92966573

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxSpl_fst_mem_span_alt
 -- name    : MassDataIdxSpl.fst_mem_span_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:51:42.853931+00:00
 -- url     : https://prove2.me/theorems/a1f3feae-47f5-412e-ae64-47d5f6836065

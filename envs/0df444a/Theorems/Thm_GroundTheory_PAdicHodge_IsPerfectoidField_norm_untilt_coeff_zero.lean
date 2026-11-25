@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_norm_untilt_coeff_zero
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.norm_untilt_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:21.894144+00:00
 -- url     : https://prove2.me/theorems/bedb7942-fe87-4994-ae2d-4f617ac1f1c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_GoodPiece_up
 -- name    : GroundTheory.Automorphic.Whittaker.GoodPiece.up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:34:34.281715+00:00
 -- url     : https://prove2.me/theorems/5b5ad5ec-76c6-4d0c-adbb-f2ebdc19fe81

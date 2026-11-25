@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_continuous_ideleModule
 -- name    : GroundTheory.Global.IdeleGroup.continuous_ideleModule
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:14:17.347888+00:00
 -- url     : https://prove2.me/theorems/90560477-555b-40eb-9d6c-9c17111339b3

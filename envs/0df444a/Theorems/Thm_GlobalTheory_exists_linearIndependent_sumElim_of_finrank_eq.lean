@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_linearIndependent_sumElim_of_finrank_eq
 -- name    : GlobalTheory.exists_linearIndependent_sumElim_of_finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:52.171437+00:00
 -- url     : https://prove2.me/theorems/7aa86256-e17b-49de-80d8-9c0882bb14fe

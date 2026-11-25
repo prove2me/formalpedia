@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_DIV_tpComap_proof__c8ee3d5f22ca
 -- name    : P2M_Formalism_L2_DIV_tpComap_proof__c8ee3d5f22ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:57:33.404867+00:00
 -- url     : https://prove2.me/theorems/1c910c53-76fd-4576-a994-cfb21ee4c452

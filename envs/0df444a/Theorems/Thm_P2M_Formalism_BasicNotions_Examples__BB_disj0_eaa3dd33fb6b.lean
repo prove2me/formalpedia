@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__BB_disj0_eaa3dd33fb6b
 -- name    : P2M_Formalism_BasicNotions_Examples__BB_disj0_eaa3dd33fb6b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:52:30.319692+00:00
 -- url     : https://prove2.me/theorems/19af3c58-11c4-4cba-b7a0-acaecb056e08

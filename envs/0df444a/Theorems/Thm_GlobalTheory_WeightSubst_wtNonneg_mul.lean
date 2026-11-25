@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightSubst_wtNonneg_mul
 -- name    : GlobalTheory.WeightSubst.wtNonneg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:30:05.874874+00:00
 -- url     : https://prove2.me/theorems/e390538f-489a-4a57-b128-ad83bff68407

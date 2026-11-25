@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortLawsCompare_isBeta_ratio
 -- name    : GlobalTheory.ShortLawsCompare.isBeta_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:26:41.721005+00:00
 -- url     : https://prove2.me/theorems/a0db74ec-a959-47bb-9378-930d8d47a157

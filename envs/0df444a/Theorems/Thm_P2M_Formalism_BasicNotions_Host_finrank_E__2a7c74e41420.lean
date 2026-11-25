@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Host_finrank_E__2a7c74e41420
 -- name    : P2M_Formalism_BasicNotions_Host_finrank_E__2a7c74e41420
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:53:29.422744+00:00
 -- url     : https://prove2.me/theorems/d2d6fb22-4459-4a28-8a4a-a1dcbf1e9a76

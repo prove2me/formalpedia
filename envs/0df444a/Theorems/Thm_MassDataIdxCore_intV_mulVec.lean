@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_intV_mulVec
 -- name    : MassDataIdxCore.intV_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:52:03.885661+00:00
 -- url     : https://prove2.me/theorems/6bbe1aba-8f55-45ef-82c4-f7b2d3d5cc26

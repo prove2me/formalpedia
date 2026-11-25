@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_herbrandQuotient_eq_mul_of_shortExact
 -- name    : GroundTheory.GroupCoh.herbrandQuotient_eq_mul_of_shortExact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:19:39.115224+00:00
 -- url     : https://prove2.me/theorems/1fd0c0b7-acc1-435d-bcd2-7175b3eb0dc6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_periodic_dbar_solution
 -- name    : GlobalTheory.T.exists_periodic_dbar_solution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:36:36.262181+00:00
 -- url     : https://prove2.me/theorems/ba0aaf7a-fd9b-4de4-a359-652f8a3debde

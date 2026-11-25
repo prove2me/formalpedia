@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_rfv_rfv
 -- name    : ChromaticReconstruction.rfv_rfv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:51:20.063284+00:00
 -- url     : https://prove2.me/theorems/c5446f58-b9a6-47c9-bbe2-739545ce422c

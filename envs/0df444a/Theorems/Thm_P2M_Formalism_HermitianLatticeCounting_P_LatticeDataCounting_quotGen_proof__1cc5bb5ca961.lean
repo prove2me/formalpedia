@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLatticeCounting_P_LatticeDataCounting_quotGen_proof__1cc5bb5ca961
 -- name    : P2M_Formalism_HermitianLatticeCounting_P_LatticeDataCounting_quotGen_proof__1cc5bb5ca961
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:56:24.055959+00:00
 -- url     : https://prove2.me/theorems/8670dae3-494d-482e-9962-89cdcf806b3f

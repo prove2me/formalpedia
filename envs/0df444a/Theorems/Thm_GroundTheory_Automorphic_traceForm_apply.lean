@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_traceForm_apply
 -- name    : GroundTheory.Automorphic.traceForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:25:03.895108+00:00
 -- url     : https://prove2.me/theorems/8e3d8217-485c-4bf2-b3af-3a76b1c76381

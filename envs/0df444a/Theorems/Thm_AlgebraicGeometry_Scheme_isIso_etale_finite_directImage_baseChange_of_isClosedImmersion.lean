@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_isIso_etale_finite_directImage_baseChange_of_isClosedImmersion
 -- name    : AlgebraicGeometry.Scheme.isIso_etale_finite_directImage_baseChange_of_isClosedImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-25T00:29:51.481887+00:00
 -- url     : https://prove2.me/theorems/28322e66-ade4-457e-a03f-01b9dde92562

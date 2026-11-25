@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_ker_normHom_le_range_cycSub_ofMulAction
 -- name    : GroundTheory.Global.ker_normHom_le_range_cycSub_ofMulAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:42:18.221498+00:00
 -- url     : https://prove2.me/theorems/f5950f21-8fb2-47e7-8a94-2430d2867d80

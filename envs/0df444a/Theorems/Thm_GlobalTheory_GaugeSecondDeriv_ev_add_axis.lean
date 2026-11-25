@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeSecondDeriv_ev_add_axis
 -- name    : GlobalTheory.GaugeSecondDeriv.ev_add_axis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:12:37.171956+00:00
 -- url     : https://prove2.me/theorems/aa5f85bd-dec1-4ecf-a9b9-462483888349

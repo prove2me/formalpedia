@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_exists_independent_torsion_prime
 -- name    : GroundTheory.Arith.Abelian.exists_independent_torsion_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:27:11.849874+00:00
 -- url     : https://prove2.me/theorems/ec3addf8-43ce-4af0-b037-44cc6f69e19d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_projection_vector_coordinate
 -- name    : NFOne.projection_vector_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:42.534382+00:00
 -- url     : https://prove2.me/theorems/56bb7daa-24d6-4c4c-8be8-8c68bab17a1a

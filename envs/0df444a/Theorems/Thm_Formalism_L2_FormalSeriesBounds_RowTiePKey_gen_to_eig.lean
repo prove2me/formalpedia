@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RowTiePKey_gen_to_eig
 -- name    : Formalism.L2.FormalSeriesBounds.RowTiePKey.gen_to_eig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:28:40.947827+00:00
 -- url     : https://prove2.me/theorems/62e502f3-99b6-4f1e-b25d-971b6e652124

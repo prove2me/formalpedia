@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ValuationNonnegativity_valuation_nonneg_of_pow
 -- name    : Formalism.L2.FormalSeriesBounds.ValuationNonnegativity.valuation_nonneg_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:19:29.716985+00:00
 -- url     : https://prove2.me/theorems/b2c255c5-055e-4213-bc47-1b33db783426

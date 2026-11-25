@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CuspidalSpectrum_exists_natCast_mul_integral_of_isCompact
 -- name    : GroundTheory.Automorphic.CuspidalSpectrum.exists_natCast_mul_integral_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:55:18.546476+00:00
 -- url     : https://prove2.me/theorems/06678f7b-8171-45a3-8231-54a0e91950f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BranchingDeterminantCap_xn_R__615355f130ba
 -- name    : P2M_Formalism_BranchingDeterminantCap_xn_R__615355f130ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:53:12.284078+00:00
 -- url     : https://prove2.me/theorems/8f55e070-67cc-4533-9cbf-725d3a704a0b

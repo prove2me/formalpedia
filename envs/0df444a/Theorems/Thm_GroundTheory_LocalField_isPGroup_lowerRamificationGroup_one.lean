@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isPGroup_lowerRamificationGroup_one
 -- name    : GroundTheory.LocalField.isPGroup_lowerRamificationGroup_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:21:21.523102+00:00
 -- url     : https://prove2.me/theorems/4dbd89a4-d03d-4962-82ed-783f2d96b510

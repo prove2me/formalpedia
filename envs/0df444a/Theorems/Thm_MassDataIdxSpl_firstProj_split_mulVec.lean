@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxSpl_firstProj_split_mulVec
 -- name    : MassDataIdxSpl.firstProj_split_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:52:20.879379+00:00
 -- url     : https://prove2.me/theorems/d1c973dc-f5f8-4236-87fb-065c26737d3d

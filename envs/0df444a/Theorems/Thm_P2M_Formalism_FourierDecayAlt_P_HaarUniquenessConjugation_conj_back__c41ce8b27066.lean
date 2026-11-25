@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_conj_back__c41ce8b27066
 -- name    : P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_conj_back__c41ce8b27066
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:56:13.150935+00:00
 -- url     : https://prove2.me/theorems/54de7c2e-e5b9-4fb4-8e39-8371b13095b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedChain_stepA
 -- name    : GlobalTheory.AdaptedChain.stepA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:25:28.502318+00:00
 -- url     : https://prove2.me/theorems/6a4cd4b5-590d-4502-a038-f89a60b08f44

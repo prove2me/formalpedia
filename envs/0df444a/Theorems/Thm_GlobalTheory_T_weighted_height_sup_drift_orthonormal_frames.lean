@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weighted_height_sup_drift_orthonormal_frames
 -- name    : GlobalTheory.T.weighted_height_sup_drift_orthonormal_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:02:03.081508+00:00
 -- url     : https://prove2.me/theorems/77e49ac2-6bd9-45c8-b370-d2408c53bd1a

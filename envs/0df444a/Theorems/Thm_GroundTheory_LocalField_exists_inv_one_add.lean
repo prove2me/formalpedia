@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_inv_one_add
 -- name    : GroundTheory.LocalField.exists_inv_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:43:47.175664+00:00
 -- url     : https://prove2.me/theorems/f75f1b98-0a3f-4c0a-9912-def15c07db0b

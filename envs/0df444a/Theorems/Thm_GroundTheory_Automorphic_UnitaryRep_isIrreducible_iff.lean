@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_isIrreducible_iff
 -- name    : GroundTheory.Automorphic.UnitaryRep.isIrreducible_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:15:54.405326+00:00
 -- url     : https://prove2.me/theorems/aa9634ac-6df2-40fe-8282-d00dca75eaba

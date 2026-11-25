@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsRegular_finiteDimensional_DBK
 -- name    : GroundTheory.PAdicHodge.IsRegular.finiteDimensional_DBK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:07.45216+00:00
 -- url     : https://prove2.me/theorems/f0d76dee-dc73-4f4e-97e9-c245660cf2a7

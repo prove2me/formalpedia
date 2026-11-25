@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_prod_mem_of_span_6204472a580c
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_prod_mem_of_span_6204472a580c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:53:50.125806+00:00
 -- url     : https://prove2.me/theorems/06141a73-fc4e-47ee-9215-0e4fb51bd1f1

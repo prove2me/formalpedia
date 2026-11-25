@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacSer_exists_matrix
 -- name    : GlobalTheory.JacSer.exists_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:07:44.717556+00:00
 -- url     : https://prove2.me/theorems/6eef9692-1ed2-4579-828e-8c219800e164

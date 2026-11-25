@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Tree_nuOf_pos_of_res
 -- name    : KStar.Tree.nuOf_pos_of_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:51:57.069459+00:00
 -- url     : https://prove2.me/theorems/0c41cc04-e488-4347-83d9-247daf1544e7

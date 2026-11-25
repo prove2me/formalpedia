@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_isArithFrobAt_restrictNormal_iff
 -- name    : GroundTheory.Global.Cyclotomic.isArithFrobAt_restrictNormal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:36:48.300911+00:00
 -- url     : https://prove2.me/theorems/f5cc5d8a-01ec-498f-aae5-ace77fbe5229

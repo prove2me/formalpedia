@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_ringKrullDim_quotient_map_etaleChartCoordIdeal_add_card
 -- name    : FunctorialResolution.EmbeddedResolution.ringKrullDim_quotient_map_etaleChartCoordIdeal_add_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:58:27.125258+00:00
 -- url     : https://prove2.me/theorems/d3f94521-8e51-4c23-82dc-0514562e7285

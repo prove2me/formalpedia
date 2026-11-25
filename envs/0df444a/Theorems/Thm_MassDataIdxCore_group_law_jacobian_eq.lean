@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_group_law_jacobian_eq
 -- name    : MassDataIdxCore.group_law_jacobian_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:51:51.483368+00:00
 -- url     : https://prove2.me/theorems/1f2e6069-b6a5-47c9-9263-f245b00c6976

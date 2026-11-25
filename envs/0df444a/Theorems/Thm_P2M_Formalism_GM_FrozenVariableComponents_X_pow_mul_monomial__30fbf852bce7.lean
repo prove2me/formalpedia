@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_FrozenVariableComponents_X_pow_mul_monomial__30fbf852bce7
 -- name    : P2M_Formalism_GM_FrozenVariableComponents_X_pow_mul_monomial__30fbf852bce7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:56:15.605685+00:00
 -- url     : https://prove2.me/theorems/60e9f2e6-1f53-4ff9-9eac-206c1ed10587

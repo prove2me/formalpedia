@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_close_of_hasseDeriv
 -- name    : GroundTheory.PAdicHodge.exists_close_of_hasseDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:49.468965+00:00
 -- url     : https://prove2.me/theorems/84c6aeef-9d90-4cff-8c44-8bbedb36f268

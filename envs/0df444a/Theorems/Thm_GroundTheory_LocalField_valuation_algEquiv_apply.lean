@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_valuation_algEquiv_apply
 -- name    : GroundTheory.LocalField.valuation_algEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:20:12.212541+00:00
 -- url     : https://prove2.me/theorems/715b59ce-d8dc-4bc3-ab97-dde24a6b5cc0

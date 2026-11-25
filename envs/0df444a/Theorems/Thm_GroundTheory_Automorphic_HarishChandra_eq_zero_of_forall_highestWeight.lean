@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_eq_zero_of_forall_highestWeight
 -- name    : GroundTheory.Automorphic.HarishChandra.eq_zero_of_forall_highestWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:30:16.480207+00:00
 -- url     : https://prove2.me/theorems/efa2e082-e7dc-4eb1-8b28-29e082bcfb75

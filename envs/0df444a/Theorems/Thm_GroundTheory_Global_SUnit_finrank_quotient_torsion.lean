@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SUnit_finrank_quotient_torsion
 -- name    : GroundTheory.Global.SUnit.finrank_quotient_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:40:20.654876+00:00
 -- url     : https://prove2.me/theorems/bfd4a9f4-48f3-4756-9d16-ebc219ff8e12

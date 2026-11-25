@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_bijective_tens
 -- name    : GlobalTheory.CompanionTheory.Axis.bijective_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:17:58.621025+00:00
 -- url     : https://prove2.me/theorems/06349e5b-91a6-46b0-b92c-8f5558edf117

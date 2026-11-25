@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_abelian_scheme_base_change_exists
 -- name    : GlobalTheory.T.abelian_scheme_base_change_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:26:50.500294+00:00
 -- url     : https://prove2.me/theorems/570aa4d3-b8b0-42fd-b1cf-d9b46680b14d

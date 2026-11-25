@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_KummerIndex_ordMod_surjective
 -- name    : GroundTheory.Global.KummerIndex.ordMod_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:40:31.967735+00:00
 -- url     : https://prove2.me/theorems/d70d6226-77cb-4d07-b15d-26c992e2c095

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_exists_vecSplit_ortho__bdb24f9c611b
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_exists_vecSplit_ortho__bdb24f9c611b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:57:44.647904+00:00
 -- url     : https://prove2.me/theorems/fb1633e2-6790-4fe7-9b56-de7696120a76

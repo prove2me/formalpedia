@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_RecursionWithDensities_A1_axK__dd0248578f9d
 -- name    : P2M_Formalism_FourierDecayAlt_P_RecursionWithDensities_A1_axK__dd0248578f9d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:55:51.728829+00:00
 -- url     : https://prove2.me/theorems/027b75b7-23be-4a60-8a8b-a615bbe8dae3

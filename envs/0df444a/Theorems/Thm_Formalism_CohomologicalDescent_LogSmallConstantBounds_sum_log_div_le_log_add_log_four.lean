@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_sum_log_div_le_log_add_log_four
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.sum_log_div_le_log_add_log_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:44:56.312429+00:00
 -- url     : https://prove2.me/theorems/771a26f1-df04-4583-91d0-7e72896ec6ce

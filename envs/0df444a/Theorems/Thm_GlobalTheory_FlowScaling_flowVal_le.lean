@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlowScaling_flowVal_le
 -- name    : GlobalTheory.FlowScaling.flowVal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:23:29.880678+00:00
 -- url     : https://prove2.me/theorems/c77176c7-d91e-46bf-bafc-dcfaedde569b

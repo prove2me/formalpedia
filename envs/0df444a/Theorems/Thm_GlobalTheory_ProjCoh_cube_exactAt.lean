@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCoh_cube_exactAt
 -- name    : GlobalTheory.ProjCoh.cube_exactAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:29:32.5956+00:00
 -- url     : https://prove2.me/theorems/d8d90a77-c7d6-4317-8851-032abe71fcdb

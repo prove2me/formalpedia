@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLatticeCounting_P_prod_max_inv_le_prod_max__76aced230095
 -- name    : P2M_Formalism_HermitianLatticeCounting_P_prod_max_inv_le_prod_max__76aced230095
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:56:43.734997+00:00
 -- url     : https://prove2.me/theorems/4ff6c30b-5b56-4931-ad8b-433beca140e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_LatticePoisson_mFourier_toTorus
 -- name    : GroundTheory.Global.LatticePoisson.mFourier_toTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:28:07.540419+00:00
 -- url     : https://prove2.me/theorems/c0c2662e-b893-41d0-ad45-d9887fe49533

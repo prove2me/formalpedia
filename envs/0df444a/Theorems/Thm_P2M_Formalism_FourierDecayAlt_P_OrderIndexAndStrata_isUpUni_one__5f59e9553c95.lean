@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_OrderIndexAndStrata_isUpUni_one__5f59e9553c95
 -- name    : P2M_Formalism_FourierDecayAlt_P_OrderIndexAndStrata_isUpUni_one__5f59e9553c95
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:57:29.976265+00:00
 -- url     : https://prove2.me/theorems/92abd131-7055-46ee-9309-de03daa0b25c

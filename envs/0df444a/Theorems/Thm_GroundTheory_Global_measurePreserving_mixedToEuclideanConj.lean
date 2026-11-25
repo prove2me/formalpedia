@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_measurePreserving_mixedToEuclideanConj
 -- name    : GroundTheory.Global.measurePreserving_mixedToEuclideanConj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:57:38.737804+00:00
 -- url     : https://prove2.me/theorems/892d4cf1-d6d1-4a12-aaf0-a7795f7380e8

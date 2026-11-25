@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HC_Landau_integral_real__9be9cb33e88c
 -- name    : P2M_Formalism_HC_Landau_integral_real__9be9cb33e88c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:57:08.913008+00:00
 -- url     : https://prove2.me/theorems/3c9add96-92ea-48f2-b747-7704a5553fd7

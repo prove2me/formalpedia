@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxEmb_quad_root
 -- name    : MassDataIdxEmb.quad_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:51:50.392807+00:00
 -- url     : https://prove2.me/theorems/807ec29f-87bd-4765-b270-018da6772ca5

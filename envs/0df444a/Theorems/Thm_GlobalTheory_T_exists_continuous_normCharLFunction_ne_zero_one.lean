@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_continuous_normCharLFunction_ne_zero_one
 -- name    : GlobalTheory.T.exists_continuous_normCharLFunction_ne_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:35:08.871368+00:00
 -- url     : https://prove2.me/theorems/9c3db6d3-06ef-46d0-af23-ccb5cf1a2096

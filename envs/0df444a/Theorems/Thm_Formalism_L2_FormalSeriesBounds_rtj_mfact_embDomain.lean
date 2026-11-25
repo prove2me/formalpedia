@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_rtj_mfact_embDomain
 -- name    : Formalism.L2.FormalSeriesBounds.rtj_mfact_embDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:25:14.266966+00:00
 -- url     : https://prove2.me/theorems/40257840-bcd6-495b-b0e4-86e277c7f715

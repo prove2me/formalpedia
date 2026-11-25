@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_relIndex_sup_normal_eq
 -- name    : GroundTheory.ProfCoh.relIndex_sup_normal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:15.111538+00:00
 -- url     : https://prove2.me/theorems/5aa85db2-501d-4cde-beac-ee26b2b5fe91

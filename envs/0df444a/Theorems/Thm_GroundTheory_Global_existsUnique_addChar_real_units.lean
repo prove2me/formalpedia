@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_existsUnique_addChar_real_units
 -- name    : GroundTheory.Global.existsUnique_addChar_real_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:40:49.139234+00:00
 -- url     : https://prove2.me/theorems/3861000a-b4f5-48fc-8041-66504d568e25

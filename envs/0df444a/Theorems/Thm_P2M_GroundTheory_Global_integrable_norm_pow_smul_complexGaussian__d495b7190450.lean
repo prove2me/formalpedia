@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Global_integrable_norm_pow_smul_complexGaussian__d495b7190450
 -- name    : P2M_GroundTheory_Global_integrable_norm_pow_smul_complexGaussian__d495b7190450
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:49.670484+00:00
 -- url     : https://prove2.me/theorems/79795ba1-bef4-4423-82b6-08eec124f103

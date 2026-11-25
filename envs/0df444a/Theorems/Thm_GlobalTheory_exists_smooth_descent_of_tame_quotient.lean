@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smooth_descent_of_tame_quotient
 -- name    : GlobalTheory.exists_smooth_descent_of_tame_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:43:20.624359+00:00
 -- url     : https://prove2.me/theorems/cb2ae4e7-632a-4857-807b-5471535a45a5

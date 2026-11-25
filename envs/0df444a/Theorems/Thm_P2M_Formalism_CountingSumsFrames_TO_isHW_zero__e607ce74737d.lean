@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CountingSumsFrames_TO_isHW_zero__e607ce74737d
 -- name    : P2M_Formalism_CountingSumsFrames_TO_isHW_zero__e607ce74737d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:53:21.875071+00:00
 -- url     : https://prove2.me/theorems/4200ae59-1ec5-4967-9f53-6045b5fe7162

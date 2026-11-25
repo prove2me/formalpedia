@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_rtj_serIn_mul
 -- name    : Formalism.L2.FormalSeriesBounds.rtj_serIn_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:24:38.471973+00:00
 -- url     : https://prove2.me/theorems/f669e1b5-bbbc-4f62-9000-9715000f1cc2

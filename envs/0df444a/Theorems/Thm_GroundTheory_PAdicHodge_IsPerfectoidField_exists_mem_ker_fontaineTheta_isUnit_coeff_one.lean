@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_exists_mem_ker_fontaineTheta_isUnit_coeff_one
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.exists_mem_ker_fontaineTheta_isUnit_coeff_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:52.217794+00:00
 -- url     : https://prove2.me/theorems/53920598-1fc2-4826-90e5-569f4493a55b

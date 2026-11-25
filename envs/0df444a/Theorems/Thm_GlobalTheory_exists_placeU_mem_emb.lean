@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_placeU_mem_emb
 -- name    : GlobalTheory.exists_placeU_mem_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:51.01933+00:00
 -- url     : https://prove2.me/theorems/71bace2e-0af8-4767-a60c-5d82e275aceb

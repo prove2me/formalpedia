@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_secondSplit_tensor_vector
 -- name    : MassDataIdxCore.secondSplit_tensor_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:51:34.485159+00:00
 -- url     : https://prove2.me/theorems/a75b3124-6776-40ed-b8e4-32db007aad43

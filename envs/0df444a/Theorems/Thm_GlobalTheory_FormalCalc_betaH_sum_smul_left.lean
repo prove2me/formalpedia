@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_betaH_sum_smul_left
 -- name    : GlobalTheory.FormalCalc.betaH_sum_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:13:40.246685+00:00
 -- url     : https://prove2.me/theorems/e97ac10f-dffb-4368-ab25-4d5a9517f3f0

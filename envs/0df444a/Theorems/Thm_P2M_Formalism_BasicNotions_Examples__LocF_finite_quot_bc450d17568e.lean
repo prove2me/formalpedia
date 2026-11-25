@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LocF_finite_quot_bc450d17568e
 -- name    : P2M_Formalism_BasicNotions_Examples__LocF_finite_quot_bc450d17568e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:54:05.115627+00:00
 -- url     : https://prove2.me/theorems/977f8bc1-d102-4602-8ba3-ffe30d46a462

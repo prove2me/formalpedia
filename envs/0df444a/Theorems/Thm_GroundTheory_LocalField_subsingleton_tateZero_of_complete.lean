@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_subsingleton_tateZero_of_complete
 -- name    : GroundTheory.LocalField.subsingleton_tateZero_of_complete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:44:43.74161+00:00
 -- url     : https://prove2.me/theorems/18ef5aad-68f3-43a7-91c2-2af36e163200

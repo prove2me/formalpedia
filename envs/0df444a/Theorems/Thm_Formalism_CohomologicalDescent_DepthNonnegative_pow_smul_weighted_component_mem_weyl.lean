@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_pow_smul_weighted_component_mem_weyl
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.pow_smul_weighted_component_mem_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:11:11.250107+00:00
 -- url     : https://prove2.me/theorems/ec98c860-4df8-4b43-a716-5a7034aa8be5

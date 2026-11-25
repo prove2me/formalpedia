@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_LamCM_bind__eq_self_of_27fe4921ee16
 -- name    : P2M_Formalism_L2_LamCM_bind__eq_self_of_27fe4921ee16
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:57:21.1709+00:00
 -- url     : https://prove2.me/theorems/a2ddc775-8ab3-470e-9430-b69519378002

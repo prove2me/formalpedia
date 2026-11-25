@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_dual_dual_eq_self
 -- name    : GroundTheory.Arith.Toric.dual_dual_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:26:47.223259+00:00
 -- url     : https://prove2.me/theorems/894e9e50-77c4-4f98-b355-0513b1ec7d81

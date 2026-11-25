@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasHerbrandQuotient_cycSubOne_of_finite
 -- name    : GroundTheory.Global.hasHerbrandQuotient_cycSubOne_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:28:03.849289+00:00
 -- url     : https://prove2.me/theorems/433a237d-c54b-4ff1-bb02-567b5c25068e

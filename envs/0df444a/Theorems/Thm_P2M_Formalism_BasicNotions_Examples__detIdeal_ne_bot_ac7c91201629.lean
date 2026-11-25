@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__detIdeal_ne_bot_ac7c91201629
 -- name    : P2M_Formalism_BasicNotions_Examples__detIdeal_ne_bot_ac7c91201629
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:53:01.585455+00:00
 -- url     : https://prove2.me/theorems/47f8e448-896a-427c-a454-95cb63915b5c

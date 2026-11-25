@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_res_theta
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.res_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:11:31.844035+00:00
 -- url     : https://prove2.me/theorems/34048e49-d950-424e-b795-a5fc1624c25e

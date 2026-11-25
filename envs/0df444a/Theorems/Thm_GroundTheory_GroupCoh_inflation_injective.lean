@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_inflation_injective
 -- name    : GroundTheory.GroupCoh.inflation_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:43:19.139942+00:00
 -- url     : https://prove2.me/theorems/5534fd6a-01fb-484f-95f8-b08846ab5904

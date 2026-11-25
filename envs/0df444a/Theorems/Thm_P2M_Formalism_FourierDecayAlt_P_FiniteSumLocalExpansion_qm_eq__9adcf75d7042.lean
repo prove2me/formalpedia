@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_FiniteSumLocalExpansion_qm_eq__9adcf75d7042
 -- name    : P2M_Formalism_FourierDecayAlt_P_FiniteSumLocalExpansion_qm_eq__9adcf75d7042
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:57:03.966663+00:00
 -- url     : https://prove2.me/theorems/8df7814f-d01f-42bf-b94a-533c8bd0d7ca

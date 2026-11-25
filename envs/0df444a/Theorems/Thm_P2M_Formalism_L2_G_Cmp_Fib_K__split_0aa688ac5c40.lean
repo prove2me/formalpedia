@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_G_Cmp_Fib_K__split_0aa688ac5c40
 -- name    : P2M_Formalism_L2_G_Cmp_Fib_K__split_0aa688ac5c40
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:57:48.900343+00:00
 -- url     : https://prove2.me/theorems/f4102ed1-b4f2-4e94-856e-62111590a748

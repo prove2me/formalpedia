@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_nonempty_equiv_of_matrixCoeff_eq
 -- name    : GroundTheory.Automorphic.RestrictedTensor.nonempty_equiv_of_matrixCoeff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:41.603918+00:00
 -- url     : https://prove2.me/theorems/06d45a63-2977-4414-ae8e-18d8279b37ed

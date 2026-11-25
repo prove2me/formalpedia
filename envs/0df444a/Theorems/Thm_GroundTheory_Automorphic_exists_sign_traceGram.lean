@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_sign_traceGram
 -- name    : GroundTheory.Automorphic.exists_sign_traceGram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:35:07.399225+00:00
 -- url     : https://prove2.me/theorems/ea013d69-af07-469e-be34-9bb682231114

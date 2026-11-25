@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BasicFlow_splitLarge
 -- name    : GlobalTheory.BasicFlow.splitLarge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:25:46.437058+00:00
 -- url     : https://prove2.me/theorems/7cc9fc29-0064-4b24-8d43-8f44843a16bc

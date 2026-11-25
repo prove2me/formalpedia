@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Bl_general_b_fact_second_________goal1_6bfa6f8fec37
 -- name    : P2M_Bl_general_b_fact_second_________goal1_6bfa6f8fec37
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:52:32.942519+00:00
 -- url     : https://prove2.me/theorems/a53efcec-725e-40a8-be1d-132d3319af41

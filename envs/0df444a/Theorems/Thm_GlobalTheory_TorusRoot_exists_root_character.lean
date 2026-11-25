@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusRoot_exists_root_character
 -- name    : GlobalTheory.TorusRoot.exists_root_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:13:08.932701+00:00
 -- url     : https://prove2.me/theorems/85388d7d-48aa-4bf7-b522-282bec83b731

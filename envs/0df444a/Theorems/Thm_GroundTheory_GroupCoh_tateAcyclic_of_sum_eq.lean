@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateAcyclic_of_sum_eq
 -- name    : GroundTheory.GroupCoh.tateAcyclic_of_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:02:23.975829+00:00
 -- url     : https://prove2.me/theorems/25571e84-4639-467b-9289-5dbcbf1ab3cc

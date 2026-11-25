@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_IsIrreducible_eq_zero_of_not_isEquivalent
 -- name    : GroundTheory.Automorphic.UnitaryRep.IsIrreducible.eq_zero_of_not_isEquivalent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:33:46.647277+00:00
 -- url     : https://prove2.me/theorems/b5eab679-7020-410b-bdd1-32d3dabef7ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_valued_sum_eq
 -- name    : GroundTheory.Global.SemiLocal.valued_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:39:29.3322+00:00
 -- url     : https://prove2.me/theorems/f75bb918-87ad-48f5-a97c-7d35dd5be7c5

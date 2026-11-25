@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ValuationNonnegativity_mm_sum
 -- name    : Formalism.L2.FormalSeriesBounds.ValuationNonnegativity.mm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:19:23.157696+00:00
 -- url     : https://prove2.me/theorems/20df3e14-380d-40b9-b25e-79e44ed7357a

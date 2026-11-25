@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exp_mem_unitaryGroup
 -- name    : GroundTheory.Automorphic.exp_mem_unitaryGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:25:21.179842+00:00
 -- url     : https://prove2.me/theorems/94c51030-e856-4f11-8eb7-ca378ff83227

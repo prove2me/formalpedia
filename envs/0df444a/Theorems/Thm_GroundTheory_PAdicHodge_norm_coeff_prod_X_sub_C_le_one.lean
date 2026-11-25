@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_coeff_prod_X_sub_C_le_one
 -- name    : GroundTheory.PAdicHodge.norm_coeff_prod_X_sub_C_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:47:29.444616+00:00
 -- url     : https://prove2.me/theorems/eaf3ba80-0e40-4ea0-93c7-74c2e48fda23

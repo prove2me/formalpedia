@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_pe_ne_lf
 -- name    : ChromaticReconstruction.pe_ne_lf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:25:46.805888+00:00
 -- url     : https://prove2.me/theorems/12908828-219d-4193-aa70-157d435cc060

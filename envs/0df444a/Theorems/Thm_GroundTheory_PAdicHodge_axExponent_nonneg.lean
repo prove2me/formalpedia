@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_axExponent_nonneg
 -- name    : GroundTheory.PAdicHodge.axExponent_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:45:43.835186+00:00
 -- url     : https://prove2.me/theorems/65992084-c700-4bc2-b05b-1f76c6abc963

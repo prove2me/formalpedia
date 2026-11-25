@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_exc_cross_9752624ee39d
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_exc_cross_9752624ee39d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:52:35.628714+00:00
 -- url     : https://prove2.me/theorems/67702ec6-24cb-4f94-9ce0-0fa7b9b74cd7

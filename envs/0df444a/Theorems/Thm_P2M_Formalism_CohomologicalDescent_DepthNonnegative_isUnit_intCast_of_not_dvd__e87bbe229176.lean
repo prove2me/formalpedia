@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CohomologicalDescent_DepthNonnegative_isUnit_intCast_of_not_dvd__e87bbe229176
 -- name    : P2M_Formalism_CohomologicalDescent_DepthNonnegative_isUnit_intCast_of_not_dvd__e87bbe229176
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:53:46.323878+00:00
 -- url     : https://prove2.me/theorems/6e1b80ec-0602-4ffc-a60b-b032711e1cd7

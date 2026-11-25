@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_isChar_of_abByP
 -- name    : GlobalTheory.BI.isChar_of_abByP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:00:39.841244+00:00
 -- url     : https://prove2.me/theorems/d77dd60e-30ac-4ae8-af5f-638cef4dedd6

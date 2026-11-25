@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_orthogonal_of_linearIndependent
 -- name    : GroundTheory.PAdicHodge.exists_orthogonal_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:46:44.215017+00:00
 -- url     : https://prove2.me/theorems/25bbb9bf-cc99-4c4f-8b0a-3bfaba4e708a

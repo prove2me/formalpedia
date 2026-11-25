@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_logOf_inv_reverse_charpoly
 -- name    : GroundTheory.Global.logOf_inv_reverse_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:42:32.877263+00:00
 -- url     : https://prove2.me/theorems/8a87aca1-d113-44c5-a8b0-f12d4d17c989

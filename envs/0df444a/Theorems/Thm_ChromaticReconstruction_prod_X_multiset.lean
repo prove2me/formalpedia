@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_prod_X_multiset
 -- name    : ChromaticReconstruction.prod_X_multiset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:25:48.037311+00:00
 -- url     : https://prove2.me/theorems/3e432056-a3c1-43e3-9286-a1079d40419f

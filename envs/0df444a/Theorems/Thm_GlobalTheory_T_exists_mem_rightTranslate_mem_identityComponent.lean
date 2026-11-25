@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_mem_rightTranslate_mem_identityComponent
 -- name    : GlobalTheory.T.exists_mem_rightTranslate_mem_identityComponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:07:51.235786+00:00
 -- url     : https://prove2.me/theorems/e9c13e33-f3ca-4b97-9e99-562a4c76034b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_unitFiltrationUnits_le
 -- name    : GroundTheory.LocalField.exists_unitFiltrationUnits_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:46.290946+00:00
 -- url     : https://prove2.me/theorems/a641c777-5f2f-4708-a317-a853ad864728

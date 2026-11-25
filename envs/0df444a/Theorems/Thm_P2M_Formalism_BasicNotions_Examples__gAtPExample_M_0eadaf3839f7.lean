@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__gAtPExample_M_0eadaf3839f7
 -- name    : P2M_Formalism_BasicNotions_Examples__gAtPExample_M_0eadaf3839f7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:53:33.187983+00:00
 -- url     : https://prove2.me/theorems/481d394c-e3c5-43b7-b58a-a1359844a4c5

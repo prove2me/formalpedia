@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_orbit_inj_7a2eb0016b77
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_orbit_inj_7a2eb0016b77
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:54:04.830286+00:00
 -- url     : https://prove2.me/theorems/b1af74d1-6848-46f8-9d0d-29843973d1b6

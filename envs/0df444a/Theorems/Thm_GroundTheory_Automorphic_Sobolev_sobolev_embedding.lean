@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_sobolev_embedding
 -- name    : GroundTheory.Automorphic.Sobolev.sobolev_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:33:36.425799+00:00
 -- url     : https://prove2.me/theorems/f4e485eb-5080-4b15-9fb2-065b44b5503f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_isBrauerEquivalent_iff_nonempty_algEquiv
 -- name    : GroundTheory.Brauer.isBrauerEquivalent_iff_nonempty_algEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:55:25.348786+00:00
 -- url     : https://prove2.me/theorems/85d59ece-fca8-4c6b-b25e-030df73242fa

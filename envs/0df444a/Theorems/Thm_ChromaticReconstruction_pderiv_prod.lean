@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_pderiv_prod
 -- name    : ChromaticReconstruction.pderiv_prod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:28:38.227771+00:00
 -- url     : https://prove2.me/theorems/d3a53820-b793-4a66-abe8-f8bd232ba1d4

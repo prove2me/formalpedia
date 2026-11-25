@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_unipotent_le_borel
 -- name    : GroundTheory.Automorphic.Whittaker.unipotent_le_borel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:29:00.8638+00:00
 -- url     : https://prove2.me/theorems/fec34e31-5f52-41a9-a313-676c855638f0

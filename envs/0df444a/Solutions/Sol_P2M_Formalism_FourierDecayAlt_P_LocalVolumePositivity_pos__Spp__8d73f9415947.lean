@@ -1,0 +1,27 @@
+-- Prove2me | solution 1 for P2M_Formalism_FourierDecayAlt_P_LocalVolumePositivity_pos__Spp__8d73f9415947
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T00:38:07.200889+00:00
+-- url     : https://prove2.me/submissions/57f30221-0425-4f4b-9eb0-259912fc687a
+
+import Definitions.Def_Formalism_HermitianCurvature_MemParahoricTimesPrincipalCongruenceIff
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LocalVolumePositivity
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+open Finset Formalism.FourierDecayAlt.S3
+open Formalism.FourierDecayAlt.P.LocalVolumePositivity
+variable {P : Type} [Fintype P] {B : MassData P}
+namespace Formalism.FourierDecayAlt.P.LocalVolumePositivity
+theorem _root_.solution (hP : B.Pos) : 0 < B.μSpp' := by
+  obtain ⟨hp, xKo, xSo, xSo', xMo, xU0, xH, xH', xHpp, xHpp', xN, xN', xZZ, xPP, xal, xG, xHa, xHa', xNa, xNa', xB, xvH, xvH', xvN, xvN', xC, xdeg, xpi, xpi', xr, xr', xd, xd', xn0, xsd, xδ⟩ := hP
+  unfold MassData.μSpp'
+  exact mul_pos xSo' (prod_pos fun p _ => (hp p).2.2.2.2.2.2.2.2.2.2.2.1)
+end Formalism.FourierDecayAlt.P.LocalVolumePositivity

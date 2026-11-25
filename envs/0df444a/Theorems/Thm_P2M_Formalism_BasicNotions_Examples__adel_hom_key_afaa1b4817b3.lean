@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__adel_hom_key_afaa1b4817b3
 -- name    : P2M_Formalism_BasicNotions_Examples__adel_hom_key_afaa1b4817b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:54:06.403987+00:00
 -- url     : https://prove2.me/theorems/76d20687-301a-4fc8-a3e8-9c7dc975f685

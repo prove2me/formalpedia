@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactRep_exists_subrep_compl
 -- name    : GroundTheory.Automorphic.CompactRep.exists_subrep_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:28:58.166955+00:00
 -- url     : https://prove2.me/theorems/ec8dec3d-f433-4334-a8f0-aa61535d7280

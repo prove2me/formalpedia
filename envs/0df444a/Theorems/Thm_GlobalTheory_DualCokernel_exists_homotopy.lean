@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualCokernel_exists_homotopy
 -- name    : GlobalTheory.DualCokernel.exists_homotopy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:06:36.542707+00:00
 -- url     : https://prove2.me/theorems/68ca426e-e55c-4be0-ad79-2be11f2d52e6

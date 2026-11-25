@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_ProjS_mix_w__f4375b1a0220
 -- name    : P2M_Formalism_GM_ProjS_mix_w__f4375b1a0220
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:56:19.436811+00:00
 -- url     : https://prove2.me/theorems/58d1b66b-aaff-49ac-9c8e-8584811c4438

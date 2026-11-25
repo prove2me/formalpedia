@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_mem_doubleCoset_bruhatCell
 -- name    : GroundTheory.Automorphic.Whittaker.mem_doubleCoset_bruhatCell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:29:44.997787+00:00
 -- url     : https://prove2.me/theorems/6f4dfe04-7e34-4df1-8118-758d36ec7fd5

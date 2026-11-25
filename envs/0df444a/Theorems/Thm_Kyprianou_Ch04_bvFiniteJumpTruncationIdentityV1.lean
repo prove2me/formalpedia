@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvFiniteJumpTruncationIdentityV1
 -- name    : Kyprianou.Ch04.bvFiniteJumpTruncationIdentityV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:12:06.228656+00:00
 -- url     : https://prove2.me/theorems/526f1a85-3971-458e-878c-fcd21c708b61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_stdH_good_97378cacea4e
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_stdH_good_97378cacea4e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:49:01.419768+00:00
 -- url     : https://prove2.me/theorems/375a0f33-921a-4ac4-ab3e-263de8a348f3

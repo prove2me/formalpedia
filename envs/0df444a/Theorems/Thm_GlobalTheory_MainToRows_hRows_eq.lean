@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainToRows_hRows_eq
 -- name    : GlobalTheory.MainToRows.hRows_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:26:35.679797+00:00
 -- url     : https://prove2.me/theorems/94b314f0-1040-4cc2-a385-8067daddeeb9

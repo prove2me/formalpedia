@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_restrict_bijective_two_of_basis
 -- name    : GlobalTheory.CechDR.restrict_bijective_two_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:27:15.577041+00:00
 -- url     : https://prove2.me/theorems/57d686f1-96fa-4e6c-9ebe-2d74441523c6

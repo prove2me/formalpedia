@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_HasWt_zero
 -- name    : Formalism.BaseCaseIdentities.HasWt.zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:30:06.169542+00:00
 -- url     : https://prove2.me/theorems/ffa41c91-7be1-4f0f-80bc-ca720b89afa9

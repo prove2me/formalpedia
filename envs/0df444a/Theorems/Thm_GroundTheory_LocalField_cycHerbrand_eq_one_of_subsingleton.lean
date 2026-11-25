@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_cycHerbrand_eq_one_of_subsingleton
 -- name    : GroundTheory.LocalField.cycHerbrand_eq_one_of_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:43:50.693958+00:00
 -- url     : https://prove2.me/theorems/79be0da2-34e0-4d4d-add2-ca733a34368a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_DegreeFormula_PFlagDeg_permExp_sum__8b8ff68e0568
 -- name    : P2M_Formalism_DegreeFormula_PFlagDeg_permExp_sum__8b8ff68e0568
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:51.374343+00:00
 -- url     : https://prove2.me/theorems/72db7329-cdf5-4bc0-a437-85ced94555ef

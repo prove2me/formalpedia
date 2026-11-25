@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_PowerSeries_log_subst_one_add_X_pow_sub_one
 -- name    : GroundTheory.PAdicHodge.PowerSeries.log_subst_one_add_X_pow_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:45:24.266631+00:00
 -- url     : https://prove2.me/theorems/b93a1d4c-94c1-448e-9754-c7db95e212f4

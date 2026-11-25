@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_fontaineTheta_xi
 -- name    : GroundTheory.PAdicHodge.AInf.fontaineTheta_xi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:58.345346+00:00
 -- url     : https://prove2.me/theorems/b4f92bdc-a199-4ddb-903d-d02ec72729ad

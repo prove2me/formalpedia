@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_bruhatCell_eq_iff
 -- name    : GroundTheory.Automorphic.Whittaker.bruhatCell_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:29:45.892192+00:00
 -- url     : https://prove2.me/theorems/4ad8f668-37c3-479d-964d-71bbb2393529

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ContinuousQuotient_dense_preimage
 -- name    : GlobalTheory.ContinuousQuotient.dense_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:58:52.747092+00:00
 -- url     : https://prove2.me/theorems/6d45edc5-a9c8-45dd-9a39-634c99dc86c3

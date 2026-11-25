@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__toySignLevel_M_345e95b890e8
 -- name    : P2M_Formalism_BasicNotions_Examples__toySignLevel_M_345e95b890e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:53:27.201357+00:00
 -- url     : https://prove2.me/theorems/9b67b72f-d0e0-4bc7-8b7d-77c15cdaedc1

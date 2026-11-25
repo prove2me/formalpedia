@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_dualLattice_summable_norm
 -- name    : GroundTheory.Global.dualLattice_summable_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:28:25.84411+00:00
 -- url     : https://prove2.me/theorems/74e6016b-be60-4b55-835f-0b9c27bcc7ce

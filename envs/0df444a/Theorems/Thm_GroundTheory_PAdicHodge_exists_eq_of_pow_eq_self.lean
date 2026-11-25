@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_eq_of_pow_eq_self
 -- name    : GroundTheory.PAdicHodge.exists_eq_of_pow_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:32.314467+00:00
 -- url     : https://prove2.me/theorems/5e25d3f3-daa6-4058-9873-02a7ac8a361c

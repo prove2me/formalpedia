@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_FormalSeriesBounds_Cart_Good_c0__int_185a1ab43a5f
 -- name    : P2M_Formalism_L2_FormalSeriesBounds_Cart_Good_c0__int_185a1ab43a5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:14:43.941848+00:00
 -- url     : https://prove2.me/theorems/52c9445f-2f4c-40dc-9cee-f97088a54089

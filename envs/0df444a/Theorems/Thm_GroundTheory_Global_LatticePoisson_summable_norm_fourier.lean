@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_LatticePoisson_summable_norm_fourier
 -- name    : GroundTheory.Global.LatticePoisson.summable_norm_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:27:59.427805+00:00
 -- url     : https://prove2.me/theorems/786ba5b3-7def-4d54-a021-47b63a3441f1

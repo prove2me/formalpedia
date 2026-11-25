@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_symplectic_zmod_lift
 -- name    : GlobalTheory.symplectic_zmod_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:22:41.6179+00:00
 -- url     : https://prove2.me/theorems/6c27ce68-022d-4f7a-be3a-4cb215e2ac0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_A6x7_Hess_mem_mulLat__081cc429fc9c
 -- name    : P2M_Formalism_FourierDecayAlt_P_A6x7_Hess_mem_mulLat__081cc429fc9c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:54:39.89485+00:00
 -- url     : https://prove2.me/theorems/81397701-40ee-48a5-a174-d518a3d1c2da

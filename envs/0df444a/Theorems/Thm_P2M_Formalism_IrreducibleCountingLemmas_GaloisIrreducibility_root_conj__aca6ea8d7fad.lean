@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_root_conj__aca6ea8d7fad
 -- name    : P2M_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_root_conj__aca6ea8d7fad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:57:47.702247+00:00
 -- url     : https://prove2.me/theorems/dd9702ef-4044-4c4b-9d07-cebf1b1bde35

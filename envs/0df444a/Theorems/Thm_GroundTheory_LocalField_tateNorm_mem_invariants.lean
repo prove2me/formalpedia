@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_tateNorm_mem_invariants
 -- name    : GroundTheory.LocalField.tateNorm_mem_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:51.072363+00:00
 -- url     : https://prove2.me/theorems/c9f17794-3670-4574-bdd2-8a5fb9a8b5b4

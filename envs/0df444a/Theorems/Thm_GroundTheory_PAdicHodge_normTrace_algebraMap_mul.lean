@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_normTrace_algebraMap_mul
 -- name    : GroundTheory.PAdicHodge.normTrace_algebraMap_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:47:08.0448+00:00
 -- url     : https://prove2.me/theorems/aace519f-398c-44bb-8adc-b4d6a760935d

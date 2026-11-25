@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_psiE_coe_5c9cc3374899
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_psiE_coe_5c9cc3374899
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:52:46.149434+00:00
 -- url     : https://prove2.me/theorems/99740740-0c07-423e-a8ff-8f816f2b0ed0

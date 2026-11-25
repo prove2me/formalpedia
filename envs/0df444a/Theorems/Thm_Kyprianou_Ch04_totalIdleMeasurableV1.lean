@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_totalIdleMeasurableV1
 -- name    : Kyprianou.Ch04.totalIdleMeasurableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:14:27.526296+00:00
 -- url     : https://prove2.me/theorems/144d86c3-786b-4614-a12e-e9bac5407f87

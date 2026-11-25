@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_few_roots_small_disc
 -- name    : GlobalTheory.few_roots_small_disc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:47:18.866612+00:00
 -- url     : https://prove2.me/theorems/ec3b65f6-9658-4ab8-b2c7-fa23dc995fe0

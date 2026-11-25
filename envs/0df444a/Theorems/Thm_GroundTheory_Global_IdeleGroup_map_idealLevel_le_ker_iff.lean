@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_map_idealLevel_le_ker_iff
 -- name    : GroundTheory.Global.IdeleGroup.map_idealLevel_le_ker_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:40:10.561792+00:00
 -- url     : https://prove2.me/theorems/e26b2794-d6a1-4a72-89eb-4a0e7b59f659

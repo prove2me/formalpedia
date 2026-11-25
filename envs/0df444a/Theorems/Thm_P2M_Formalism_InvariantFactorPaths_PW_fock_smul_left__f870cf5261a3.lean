@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_PW_fock_smul_left__f870cf5261a3
 -- name    : P2M_Formalism_InvariantFactorPaths_PW_fock_smul_left__f870cf5261a3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:58:19.819906+00:00
 -- url     : https://prove2.me/theorems/08e3a451-5a8f-4491-a37d-d340c285ef9d

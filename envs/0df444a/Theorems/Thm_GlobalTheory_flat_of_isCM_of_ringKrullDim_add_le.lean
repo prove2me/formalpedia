@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_isCM_of_ringKrullDim_add_le
 -- name    : GlobalTheory.flat_of_isCM_of_ringKrullDim_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:56:13.049255+00:00
 -- url     : https://prove2.me/theorems/d3d5c3c4-839a-44e0-af93-a20b5f054661

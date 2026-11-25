@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_LatticePoisson_perTorus_toTorus
 -- name    : GroundTheory.Global.LatticePoisson.perTorus_toTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:28:21.542834+00:00
 -- url     : https://prove2.me/theorems/e4ed23ee-c9ea-4071-9704-6b6b1cae96b9

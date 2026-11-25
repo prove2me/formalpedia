@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_BranchingDimensions_fT__anti_c3dd9c16a389
 -- name    : P2M_Formalism_InvariantFactorPaths_BranchingDimensions_fT__anti_c3dd9c16a389
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:56:56.485662+00:00
 -- url     : https://prove2.me/theorems/8b6324fb-e271-4a32-9436-4ce734298300

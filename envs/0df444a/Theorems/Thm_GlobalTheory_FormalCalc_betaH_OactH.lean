@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_betaH_OactH
 -- name    : GlobalTheory.FormalCalc.betaH_OactH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:13:36.958187+00:00
 -- url     : https://prove2.me/theorems/6bc10eb4-25c0-4435-9e2a-b01bc543fef6

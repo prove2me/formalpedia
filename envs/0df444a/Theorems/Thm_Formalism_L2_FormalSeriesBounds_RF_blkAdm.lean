@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_blkAdm
 -- name    : Formalism.L2.FormalSeriesBounds.RF.blkAdm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:14:35.792628+00:00
 -- url     : https://prove2.me/theorems/e4229793-36d3-4a07-a0b1-efec153ab001

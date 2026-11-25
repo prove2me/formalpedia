@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_bottomRows_eq
 -- name    : GroundTheory.Automorphic.Whittaker.exists_bottomRows_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:29:28.133101+00:00
 -- url     : https://prove2.me/theorems/9723ed01-c272-4cf1-bb44-4c8b1e186554

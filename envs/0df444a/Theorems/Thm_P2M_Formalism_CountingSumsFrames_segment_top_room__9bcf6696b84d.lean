@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CountingSumsFrames_segment_top_room__9bcf6696b84d
 -- name    : P2M_Formalism_CountingSumsFrames_segment_top_room__9bcf6696b84d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:54:28.770719+00:00
 -- url     : https://prove2.me/theorems/f26dfeb3-a2a2-4d76-b8a2-521586466f7c

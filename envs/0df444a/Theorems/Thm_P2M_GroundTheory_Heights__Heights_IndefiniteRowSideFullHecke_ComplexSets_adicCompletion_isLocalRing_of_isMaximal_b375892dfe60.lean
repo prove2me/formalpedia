@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_adicCompletion_isLocalRing_of_isMaximal_b375892dfe60
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_adicCompletion_isLocalRing_of_isMaximal_b375892dfe60
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:29:16.802492+00:00
 -- url     : https://prove2.me/theorems/622eced6-e3eb-4c6f-92ab-ade6e927bb25

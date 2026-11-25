@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_subsingleton_tateNegOne_of_complete
 -- name    : GroundTheory.LocalField.subsingleton_tateNegOne_of_complete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:45:01.117363+00:00
 -- url     : https://prove2.me/theorems/c3534984-23d8-4f88-8c04-31f6b9dcd0ef

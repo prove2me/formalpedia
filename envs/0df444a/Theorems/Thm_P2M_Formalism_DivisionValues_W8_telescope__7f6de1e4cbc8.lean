@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_DivisionValues_W8_telescope__7f6de1e4cbc8
 -- name    : P2M_Formalism_DivisionValues_W8_telescope__7f6de1e4cbc8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:54:23.437806+00:00
 -- url     : https://prove2.me/theorems/f1ac2cbb-cc39-461a-acff-0f670918a38e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_compOf_eq_iff
 -- name    : ChromaticReconstruction.compOf_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:26:23.27365+00:00
 -- url     : https://prove2.me/theorems/bfb2945d-fcbd-46cb-813a-6311a684b781

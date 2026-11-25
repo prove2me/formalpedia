@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_StationaryPhaseModel_E_Pe_sym__647cdd861ec3
 -- name    : P2M_Formalism_FourierDecayAlt_P_StationaryPhaseModel_E_Pe_sym__647cdd861ec3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:55:46.866266+00:00
 -- url     : https://prove2.me/theorems/10e66c69-78c5-4ad3-8918-a2a6369e9ec1

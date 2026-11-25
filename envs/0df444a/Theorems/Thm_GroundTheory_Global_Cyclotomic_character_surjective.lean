@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_character_surjective
 -- name    : GroundTheory.Global.Cyclotomic.character_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:55:58.318126+00:00
 -- url     : https://prove2.me/theorems/7657ac7b-fe3d-4535-9264-09bbe16d3745

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_IntegralLatticeDensity_PD_cob_sum_left__8bececcd4c7e
 -- name    : P2M_Formalism_HermitianLattices_IntegralLatticeDensity_PD_cob_sum_left__8bececcd4c7e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:56:49.647596+00:00
 -- url     : https://prove2.me/theorems/82e672e3-3d8d-4923-9db9-de320b5c069e

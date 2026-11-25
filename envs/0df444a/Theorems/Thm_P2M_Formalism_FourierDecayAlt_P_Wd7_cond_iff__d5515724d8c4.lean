@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Wd7_cond_iff__d5515724d8c4
 -- name    : P2M_Formalism_FourierDecayAlt_P_Wd7_cond_iff__d5515724d8c4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:55:29.15626+00:00
 -- url     : https://prove2.me/theorems/35883b0f-49b0-44b2-99e7-46fe19b421c1

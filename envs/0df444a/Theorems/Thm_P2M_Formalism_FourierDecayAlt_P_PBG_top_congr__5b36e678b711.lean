@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_PBG_top_congr__5b36e678b711
 -- name    : P2M_Formalism_FourierDecayAlt_P_PBG_top_congr__5b36e678b711
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:01:57.933725+00:00
 -- url     : https://prove2.me/theorems/2f110b4c-4f68-481a-a854-e28192a74b8d

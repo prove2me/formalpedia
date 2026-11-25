@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeafTerm_Adapted_good
 -- name    : GlobalTheory.LeafTerm.Adapted.good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:25:53.406211+00:00
 -- url     : https://prove2.me/theorems/14b6ec0d-aee5-4528-9d64-87f37ac5cfa5

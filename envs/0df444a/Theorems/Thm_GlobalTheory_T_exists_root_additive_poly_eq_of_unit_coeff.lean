@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_root_additive_poly_eq_of_unit_coeff
 -- name    : GlobalTheory.T.exists_root_additive_poly_eq_of_unit_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:38:53.409843+00:00
 -- url     : https://prove2.me/theorems/94ecb1be-5784-4bc8-8c33-816cd76223e4

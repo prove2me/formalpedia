@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLatticeCounting_P_coveringO__of_transference_9aab640b96fd
 -- name    : P2M_Formalism_HermitianLatticeCounting_P_coveringO__of_transference_9aab640b96fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:56:40.230406+00:00
 -- url     : https://prove2.me/theorems/c0de26d0-4ed7-473b-8eb6-96fe18c6811f

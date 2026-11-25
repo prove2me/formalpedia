@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_sub_one_eq_cyclRadius
 -- name    : GroundTheory.PAdicHodge.norm_sub_one_eq_cyclRadius
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:41:47.868985+00:00
 -- url     : https://prove2.me/theorems/d54607f9-b86b-4c54-b5f2-5dbe69525f8e

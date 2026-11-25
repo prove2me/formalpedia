@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_pow_primeToPart_f231a455406b
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_pow_primeToPart_f231a455406b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:45.231779+00:00
 -- url     : https://prove2.me/theorems/86c834b1-d517-4120-a990-0e85cf446c7a

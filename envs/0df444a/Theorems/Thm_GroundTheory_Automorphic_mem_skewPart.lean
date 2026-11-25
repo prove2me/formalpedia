@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mem_skewPart
 -- name    : GroundTheory.Automorphic.mem_skewPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:25:24.295141+00:00
 -- url     : https://prove2.me/theorems/a4d2e35c-2961-4547-96b5-fabfcd826e68

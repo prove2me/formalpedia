@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_character_eq_sum_irrChars_of_finrank
 -- name    : GroundTheory.LocalField.character_eq_sum_irrChars_of_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:43:57.856535+00:00
 -- url     : https://prove2.me/theorems/9c963d3d-1a6e-404e-90a6-50fc5af1d351

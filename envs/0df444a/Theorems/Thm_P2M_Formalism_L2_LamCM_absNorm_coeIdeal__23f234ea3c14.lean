@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_LamCM_absNorm_coeIdeal__23f234ea3c14
 -- name    : P2M_Formalism_L2_LamCM_absNorm_coeIdeal__23f234ea3c14
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:57:32.63811+00:00
 -- url     : https://prove2.me/theorems/0f246c8e-2a48-4817-8826-d63a8ad02a5a

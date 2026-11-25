@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_superRelIndex_eq_iSup
 -- name    : GroundTheory.ProfCoh.superRelIndex_eq_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:51:07.430848+00:00
 -- url     : https://prove2.me/theorems/a0eab67d-cf36-44da-b20e-232b32895730

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCharacterOverSubfield_abelianByPrimePower
 -- name    : GlobalTheory.T.isCharacterOverSubfield_abelianByPrimePower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:50:37.626635+00:00
 -- url     : https://prove2.me/theorems/0ec80b25-ddc0-464e-9114-e741a54e6a9d

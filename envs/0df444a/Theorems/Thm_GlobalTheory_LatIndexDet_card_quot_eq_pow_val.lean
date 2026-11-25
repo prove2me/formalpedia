@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatIndexDet_card_quot_eq_pow_val
 -- name    : GlobalTheory.LatIndexDet.card_quot_eq_pow_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:28:23.253652+00:00
 -- url     : https://prove2.me/theorems/ab28761f-034f-4b44-bd04-a4ebe5f1f90a

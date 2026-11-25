@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_span_canon_eq_top
 -- name    : GroundTheory.Automorphic.HarishChandra.span_canon_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:44:59.906836+00:00
 -- url     : https://prove2.me/theorems/ceaf9b2e-1211-4d02-b8a8-4487994b57ca

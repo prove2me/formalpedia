@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAnalyticGroupChart_exp_surjective
 -- name    : GlobalTheory.IsAnalyticGroupChart.exp_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:17:37.828088+00:00
 -- url     : https://prove2.me/theorems/402cae33-4202-4d0a-9f54-ab2f32d4faa9

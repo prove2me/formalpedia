@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_eq_latticePoint_mul
 -- name    : GlobalTheory.exists_eq_latticePoint_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:06:57.051034+00:00
 -- url     : https://prove2.me/theorems/5283fef8-fc7a-4b14-bef1-eeec826ec07c

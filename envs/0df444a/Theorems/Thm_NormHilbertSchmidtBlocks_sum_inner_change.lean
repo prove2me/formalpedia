@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NormHilbertSchmidtBlocks_sum_inner_change
 -- name    : NormHilbertSchmidtBlocks.sum_inner_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:52:41.820699+00:00
 -- url     : https://prove2.me/theorems/e0084c82-f6e1-44af-920a-101d52802cd2

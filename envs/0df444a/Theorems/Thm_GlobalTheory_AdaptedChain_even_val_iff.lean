@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedChain_even_val_iff
 -- name    : GlobalTheory.AdaptedChain.even_val_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:24:37.464108+00:00
 -- url     : https://prove2.me/theorems/ca932aff-f61d-463c-bdae-55c4d4e696b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mfact_mul_coeff_mvExp_linear
 -- name    : GlobalTheory.mfact_mul_coeff_mvExp_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:14:52.192799+00:00
 -- url     : https://prove2.me/theorems/890f71d1-814f-4bc3-acb6-0377764b48e0

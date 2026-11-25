@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_SplitPrimeIdeals_fix___a1978d3a570f
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_SplitPrimeIdeals_fix___a1978d3a570f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:56:49.940252+00:00
 -- url     : https://prove2.me/theorems/e1ca325f-abf6-41a9-b806-523a45b4703d

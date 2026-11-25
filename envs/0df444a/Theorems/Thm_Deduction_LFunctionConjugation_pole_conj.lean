@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_LFunctionConjugation_pole_conj
 -- name    : Deduction.LFunctionConjugation.pole_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:34:36.152324+00:00
 -- url     : https://prove2.me/theorems/16b59767-4917-4040-94f3-d282d6b1bd4f

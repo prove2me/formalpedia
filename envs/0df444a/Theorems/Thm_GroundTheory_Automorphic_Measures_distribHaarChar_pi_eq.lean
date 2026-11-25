@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_distribHaarChar_pi_eq
 -- name    : GroundTheory.Automorphic.Measures.distribHaarChar_pi_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:23.352942+00:00
 -- url     : https://prove2.me/theorems/ad3e870f-94d7-4173-8ba6-64176ade7512

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NormOnePowProof_pow_principal
 -- name    : NormOnePowProof.pow_principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:52:27.802659+00:00
 -- url     : https://prove2.me/theorems/6f62a966-dd26-415f-9826-3da583564566

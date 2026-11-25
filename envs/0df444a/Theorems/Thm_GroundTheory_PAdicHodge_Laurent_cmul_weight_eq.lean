@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_Laurent_cmul_weight_eq
 -- name    : GroundTheory.PAdicHodge.Laurent.cmul_weight_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:34:42.996485+00:00
 -- url     : https://prove2.me/theorems/f11ef23e-c65a-4af3-b644-7e661da7b801

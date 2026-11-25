@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_Hpk_eq
 -- name    : NFOne.Hpk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:52:24.517465+00:00
 -- url     : https://prove2.me/theorems/b14a9d1e-2f17-4ede-a035-9b1e7b87f923

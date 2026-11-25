@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Quadratic_differentiableOn_tsum_hurwitzCombTerm
 -- name    : GroundTheory.Global.Quadratic.differentiableOn_tsum_hurwitzCombTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:39:45.573419+00:00
 -- url     : https://prove2.me/theorems/68624577-7a8a-4cc2-8bcf-1ccb43ce06cb

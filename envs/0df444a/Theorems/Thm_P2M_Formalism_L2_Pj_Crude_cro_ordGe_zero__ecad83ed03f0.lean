@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Pj_Crude_cro_ordGe_zero__ecad83ed03f0
 -- name    : P2M_Formalism_L2_Pj_Crude_cro_ordGe_zero__ecad83ed03f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:57:29.981476+00:00
 -- url     : https://prove2.me/theorems/804c80cf-95b7-4306-8b7c-d28d91ee8655

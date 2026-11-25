@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ext_restrictAb
 -- name    : GroundTheory.LocalField.ext_restrictAb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:44:39.902939+00:00
 -- url     : https://prove2.me/theorems/abf7109c-dfea-4229-b360-5cd35bc71e2e

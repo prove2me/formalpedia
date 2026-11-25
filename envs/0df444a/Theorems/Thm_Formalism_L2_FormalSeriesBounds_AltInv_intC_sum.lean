@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_AltInv_intC_sum
 -- name    : Formalism.L2.FormalSeriesBounds.AltInv.intC_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:19:37.658664+00:00
 -- url     : https://prove2.me/theorems/cee86872-fac8-45ad-957c-1b1fddb0a01f

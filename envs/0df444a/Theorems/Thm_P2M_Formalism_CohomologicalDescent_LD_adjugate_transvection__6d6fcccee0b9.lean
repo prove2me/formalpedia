@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CohomologicalDescent_LD_adjugate_transvection__6d6fcccee0b9
 -- name    : P2M_Formalism_CohomologicalDescent_LD_adjugate_transvection__6d6fcccee0b9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:53:35.704712+00:00
 -- url     : https://prove2.me/theorems/22873719-4e86-45a1-aa4f-41ec080920c5

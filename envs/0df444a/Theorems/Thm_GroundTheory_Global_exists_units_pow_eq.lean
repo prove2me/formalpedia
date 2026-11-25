@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_units_pow_eq
 -- name    : GroundTheory.Global.exists_units_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:19:08.961524+00:00
 -- url     : https://prove2.me/theorems/c3e9e0bd-b7cf-499a-abb6-77dbf4a3f365

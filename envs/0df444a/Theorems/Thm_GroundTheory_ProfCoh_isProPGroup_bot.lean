@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isProPGroup_bot
 -- name    : GroundTheory.ProfCoh.isProPGroup_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:51:14.349846+00:00
 -- url     : https://prove2.me/theorems/b3b61f73-a127-4b71-aa96-d00bd28a92bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HC_Landau_natOrder_ne_zero__cbc415af1e91
 -- name    : P2M_Formalism_HC_Landau_natOrder_ne_zero__cbc415af1e91
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:57:17.678555+00:00
 -- url     : https://prove2.me/theorems/cad908d4-8c29-462a-97da-fd3805eacdc3

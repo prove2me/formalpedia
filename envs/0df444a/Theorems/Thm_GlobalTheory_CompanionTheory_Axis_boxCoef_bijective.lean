@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_boxCoef_bijective
 -- name    : GlobalTheory.CompanionTheory.Axis.boxCoef_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:18:16.218801+00:00
 -- url     : https://prove2.me/theorems/a13013ac-be15-4c39-8143-168dd4f2d542

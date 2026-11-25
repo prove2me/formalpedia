@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mixedFourierSchwartz_apply
 -- name    : GroundTheory.Global.mixedFourierSchwartz_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:42:21.626611+00:00
 -- url     : https://prove2.me/theorems/4938c079-4c9a-4dbb-8a40-6bc10a7cb11e

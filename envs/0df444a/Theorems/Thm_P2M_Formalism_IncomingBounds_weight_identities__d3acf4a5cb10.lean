@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_IncomingBounds_weight_identities__d3acf4a5cb10
 -- name    : P2M_Formalism_IncomingBounds_weight_identities__d3acf4a5cb10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:56:36.917736+00:00
 -- url     : https://prove2.me/theorems/412a074b-dba0-4d1b-b67e-94bebefffc61

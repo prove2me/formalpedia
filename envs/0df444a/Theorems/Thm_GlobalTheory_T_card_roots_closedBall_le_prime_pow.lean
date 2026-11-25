@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_roots_closedBall_le_prime_pow
 -- name    : GlobalTheory.T.card_roots_closedBall_le_prime_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:27:56.046188+00:00
 -- url     : https://prove2.me/theorems/bb327608-14b6-4c39-b202-c4fc9cd824d1

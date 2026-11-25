@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_first_input_of_link
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.first_input_of_link
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:30:07.28212+00:00
 -- url     : https://prove2.me/theorems/7a38873e-a081-4aa3-a2f7-3068909d3002

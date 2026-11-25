@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_traceForm_pos_of_mem_hermPart
 -- name    : GroundTheory.Automorphic.traceForm_pos_of_mem_hermPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:26:31.195355+00:00
 -- url     : https://prove2.me/theorems/2c4a67ec-5d76-47ac-b9bb-8afe62a59430

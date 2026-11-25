@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_supportedIn_le_of_base
 -- name    : GroundTheory.Automorphic.Whittaker.supportedIn_le_of_base
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:10:21.146823+00:00
 -- url     : https://prove2.me/theorems/d22969aa-e65c-4892-bf1d-fcdd84de8a59

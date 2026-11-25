@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_OactH_mul
 -- name    : GlobalTheory.FormalCalc.OactH_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:13:48.631557+00:00
 -- url     : https://prove2.me/theorems/e6ec1a4c-0b15-46e9-b7f1-7ded701f5834

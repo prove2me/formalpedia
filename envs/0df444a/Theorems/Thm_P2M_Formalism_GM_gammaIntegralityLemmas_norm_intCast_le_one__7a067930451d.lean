@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_gammaIntegralityLemmas_norm_intCast_le_one__7a067930451d
 -- name    : P2M_Formalism_GM_gammaIntegralityLemmas_norm_intCast_le_one__7a067930451d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:56:23.492183+00:00
 -- url     : https://prove2.me/theorems/b4594d38-8f05-4bfb-b3bd-766500872382

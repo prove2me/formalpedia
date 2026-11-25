@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_traceForm_neg_of_mem_skewPart
 -- name    : GroundTheory.Automorphic.traceForm_neg_of_mem_skewPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:26:25.771733+00:00
 -- url     : https://prove2.me/theorems/a4551ca7-7993-4480-baeb-8adbf35f5395

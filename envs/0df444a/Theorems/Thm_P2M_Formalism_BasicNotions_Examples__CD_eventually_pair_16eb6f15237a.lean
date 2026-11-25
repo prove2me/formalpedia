@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_eventually_pair_16eb6f15237a
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_eventually_pair_16eb6f15237a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:52:46.514845+00:00
 -- url     : https://prove2.me/theorems/9b7baaa0-5a1e-4d78-a840-84662534c33f

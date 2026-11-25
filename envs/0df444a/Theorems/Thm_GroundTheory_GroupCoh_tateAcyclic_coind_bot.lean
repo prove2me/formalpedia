@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateAcyclic_coind_bot
 -- name    : GroundTheory.GroupCoh.tateAcyclic_coind_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:03:56.639584+00:00
 -- url     : https://prove2.me/theorems/8a4d6457-55e8-4708-9180-27ff934a1984

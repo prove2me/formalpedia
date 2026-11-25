@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_modNEquivOfSurjective_apply_modNRep
 -- name    : GroundTheory.ProfCoh.modNEquivOfSurjective_apply_modNRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:45:21.184488+00:00
 -- url     : https://prove2.me/theorems/cc3f1ffe-1915-431d-b306-5a11126ca796

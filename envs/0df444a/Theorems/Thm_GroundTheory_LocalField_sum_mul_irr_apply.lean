@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_sum_mul_irr_apply
 -- name    : GroundTheory.LocalField.sum_mul_irr_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:57.757994+00:00
 -- url     : https://prove2.me/theorems/e21a70dc-d370-4b45-992c-fc317f6c79f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_theta_asymptotics
 -- name    : GlobalTheory.T.lattice_theta_asymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:50:59.249154+00:00
 -- url     : https://prove2.me/theorems/2d9c37ad-081b-42ef-84ca-1250dd86176c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_Laurent_ConvergesAt_sub
 -- name    : GroundTheory.PAdicHodge.Laurent.ConvergesAt.sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:49:23.854962+00:00
 -- url     : https://prove2.me/theorems/fd2bcfe7-fd32-4872-85a4-18e5115eb36c

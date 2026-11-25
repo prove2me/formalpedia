@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_M_intPol_pow__7258d14ed956
 -- name    : P2M_Formalism_GM_M_intPol_pow__7258d14ed956
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:56:37.954565+00:00
 -- url     : https://prove2.me/theorems/149c2f11-dfe8-4882-843e-e47b754cad01

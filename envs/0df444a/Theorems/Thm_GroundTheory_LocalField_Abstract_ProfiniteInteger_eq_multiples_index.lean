@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ProfiniteInteger_eq_multiples_index
 -- name    : GroundTheory.LocalField.Abstract.ProfiniteInteger.eq_multiples_index
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:09.696287+00:00
 -- url     : https://prove2.me/theorems/423e309f-f48b-479f-9a3a-6a045c00adea

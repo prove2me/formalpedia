@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_normTrace_cycl_eq_of_mem
 -- name    : GroundTheory.PAdicHodge.normTrace_cycl_eq_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:47:59.055432+00:00
 -- url     : https://prove2.me/theorems/d0f8d635-4875-494b-aacb-5958c4f5ebe7

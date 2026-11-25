@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_geometric_kernel_of_pow_eq_one
 -- name    : GlobalTheory.finite_geometric_kernel_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:08:11.988801+00:00
 -- url     : https://prove2.me/theorems/a755d5ea-b002-4868-9a42-efea59d301b9

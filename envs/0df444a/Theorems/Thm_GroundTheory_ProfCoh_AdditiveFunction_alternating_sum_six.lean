@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_alternating_sum_six
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.alternating_sum_six
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:48:03.179802+00:00
 -- url     : https://prove2.me/theorems/42f56fb5-b6d7-4993-ba83-28de4a3c8b58

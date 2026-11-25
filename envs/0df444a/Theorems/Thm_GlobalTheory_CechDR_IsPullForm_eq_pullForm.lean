@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_IsPullForm_eq_pullForm
 -- name    : GlobalTheory.CechDR.IsPullForm.eq_pullForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:10:47.106627+00:00
 -- url     : https://prove2.me/theorems/1090aa64-972c-43ca-8e68-395d02eab696

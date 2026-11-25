@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisConv_summable_prod_tuple
 -- name    : GlobalTheory.SW.EisConv.summable_prod_tuple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:27:11.880341+00:00
 -- url     : https://prove2.me/theorems/622bf83b-2bc9-4d44-b938-99fe0791ed3a

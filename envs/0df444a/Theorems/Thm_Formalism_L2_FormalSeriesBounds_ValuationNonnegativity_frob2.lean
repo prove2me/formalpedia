@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ValuationNonnegativity_frob2
 -- name    : Formalism.L2.FormalSeriesBounds.ValuationNonnegativity.frob2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:19:46.468442+00:00
 -- url     : https://prove2.me/theorems/78a5efda-26de-4558-be71-ba62c6bee003

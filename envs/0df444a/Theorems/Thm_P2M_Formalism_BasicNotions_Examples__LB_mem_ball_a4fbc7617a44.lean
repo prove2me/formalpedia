@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_mem_ball_a4fbc7617a44
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_mem_ball_a4fbc7617a44
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:52:30.731477+00:00
 -- url     : https://prove2.me/theorems/a050439b-1c9b-4524-bc03-62f01558056f

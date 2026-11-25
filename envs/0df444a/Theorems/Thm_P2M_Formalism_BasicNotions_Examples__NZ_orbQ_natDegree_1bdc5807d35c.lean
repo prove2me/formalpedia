@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_orbQ_natDegree_1bdc5807d35c
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_orbQ_natDegree_1bdc5807d35c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:23.992805+00:00
 -- url     : https://prove2.me/theorems/18fed146-3f74-4b5b-bc6c-f0f2a88e5c6a

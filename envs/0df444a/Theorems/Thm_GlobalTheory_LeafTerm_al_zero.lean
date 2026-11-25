@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeafTerm_al_zero
 -- name    : GlobalTheory.LeafTerm.al_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:25:32.380617+00:00
 -- url     : https://prove2.me/theorems/c0fba1c4-f47c-4d5f-b73b-4e0304b33a89

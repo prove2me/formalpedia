@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_asIdeal_dvd_finprod_iff
 -- name    : GroundTheory.Global.asIdeal_dvd_finprod_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:40:39.323196+00:00
 -- url     : https://prove2.me/theorems/d57e06e5-df11-4a23-a6a7-67731b76374f

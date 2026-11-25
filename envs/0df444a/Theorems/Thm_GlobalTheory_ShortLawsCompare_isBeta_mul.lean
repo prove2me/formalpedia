@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortLawsCompare_isBeta_mul
 -- name    : GlobalTheory.ShortLawsCompare.isBeta_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:26:21.851108+00:00
 -- url     : https://prove2.me/theorems/146a77f4-5c34-4ca9-9297-7186f4ea07c7

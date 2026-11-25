@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_H_inner__isSymm_d7d5f164fe07
 -- name    : P2M_Formalism_H_inner__isSymm_d7d5f164fe07
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:56:20.916804+00:00
 -- url     : https://prove2.me/theorems/515a54f4-60f7-4180-a954-453ce3a71dae

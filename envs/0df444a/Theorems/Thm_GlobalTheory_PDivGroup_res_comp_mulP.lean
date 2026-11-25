@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_res_comp_mulP
 -- name    : GlobalTheory.PDivGroup.res_comp_mulP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:28:16.197776+00:00
 -- url     : https://prove2.me/theorems/dc31b354-3971-4820-9e08-97e66950fd11

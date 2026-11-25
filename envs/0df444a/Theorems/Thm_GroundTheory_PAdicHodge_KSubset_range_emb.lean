@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_KSubset_range_emb
 -- name    : GroundTheory.PAdicHodge.KSubset.range_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:13.670878+00:00
 -- url     : https://prove2.me/theorems/19bb5a2d-d25b-4ceb-818b-9b9b2d54840f

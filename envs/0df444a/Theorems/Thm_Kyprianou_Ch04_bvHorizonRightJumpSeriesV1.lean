@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvHorizonRightJumpSeriesV1
 -- name    : Kyprianou.Ch04.bvHorizonRightJumpSeriesV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:28:14.46195+00:00
 -- url     : https://prove2.me/theorems/7822d0de-bc85-4f8d-906d-e5be9d8a1f1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_pow_prime_pow_fix_and_move
 -- name    : GroundTheory.PAdicHodge.pow_prime_pow_fix_and_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:48:27.498356+00:00
 -- url     : https://prove2.me/theorems/49bbdad6-50d4-489c-b496-3eea6df57ba0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_eventually_isUnit_localizationAt
 -- name    : GroundTheory.Global.eventually_isUnit_localizationAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:40:31.076518+00:00
 -- url     : https://prove2.me/theorems/33119e5c-0295-4a96-b561-7767c477e155

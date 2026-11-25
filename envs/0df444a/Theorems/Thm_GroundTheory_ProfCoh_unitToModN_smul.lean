@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_unitToModN_smul
 -- name    : GroundTheory.ProfCoh.unitToModN_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:52:24.893948+00:00
 -- url     : https://prove2.me/theorems/87f0ec7f-a7bf-4a30-8997-03776fe56001

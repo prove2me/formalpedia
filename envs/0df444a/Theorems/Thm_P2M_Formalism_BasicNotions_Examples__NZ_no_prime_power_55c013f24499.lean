@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_no_prime_power_55c013f24499
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_no_prime_power_55c013f24499
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:47.874945+00:00
 -- url     : https://prove2.me/theorems/01436477-8167-4063-b23c-d121defd30f8

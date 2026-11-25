@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_FrozenVariableComponents_coeff__pderiv_last_343f0ca2bb3b
 -- name    : P2M_Formalism_GM_FrozenVariableComponents_coeff__pderiv_last_343f0ca2bb3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:56:25.583385+00:00
 -- url     : https://prove2.me/theorems/7a77bacc-f4ba-4ece-ad03-4692643977b6

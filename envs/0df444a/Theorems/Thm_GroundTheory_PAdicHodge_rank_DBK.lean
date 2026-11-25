@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_rank_DBK
 -- name    : GroundTheory.PAdicHodge.rank_DBK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:16.33017+00:00
 -- url     : https://prove2.me/theorems/4c780b30-f14b-4fd2-a969-72bf9498ae9e

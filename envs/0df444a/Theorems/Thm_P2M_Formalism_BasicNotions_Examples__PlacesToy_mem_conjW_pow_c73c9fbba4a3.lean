@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__PlacesToy_mem_conjW_pow_c73c9fbba4a3
 -- name    : P2M_Formalism_BasicNotions_Examples__PlacesToy_mem_conjW_pow_c73c9fbba4a3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:02:39.868867+00:00
 -- url     : https://prove2.me/theorems/14a30edf-1b32-4c11-9329-1f038c565bf1

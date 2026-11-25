@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_pow_mem_unitFiltration_succ_iff
 -- name    : GroundTheory.ProfCoh.pow_mem_unitFiltration_succ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:01:28.610142+00:00
 -- url     : https://prove2.me/theorems/a897890f-a2fe-4ecf-a5ce-5b30775d661e

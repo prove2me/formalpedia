@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_garding_finite_smooth_vectors
 -- name    : CompanionTheory.D.gk.admitted.garding_finite_smooth_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:51:02.308811+00:00
 -- url     : https://prove2.me/theorems/1c53f7a8-9533-4440-95a2-50197deed2cf

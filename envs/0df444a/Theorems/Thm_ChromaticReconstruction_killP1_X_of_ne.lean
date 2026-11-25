@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_killP1_X_of_ne
 -- name    : ChromaticReconstruction.killP1_X_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:15:41.540828+00:00
 -- url     : https://prove2.me/theorems/ffd3529d-c6ef-4378-8b22-b1dc68663452

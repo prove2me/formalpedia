@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_relIndex_smul_avgOver_eq
 -- name    : GroundTheory.Automorphic.Parabolic.relIndex_smul_avgOver_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:32:48.643218+00:00
 -- url     : https://prove2.me/theorems/11865ce8-b71e-4074-82d8-ee60983b8e60

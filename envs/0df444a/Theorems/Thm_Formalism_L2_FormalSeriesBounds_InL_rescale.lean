@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_InL_rescale
 -- name    : Formalism.L2.FormalSeriesBounds.InL.rescale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:24:05.438542+00:00
 -- url     : https://prove2.me/theorems/c52dc172-2978-4829-b061-571b1f1104a6

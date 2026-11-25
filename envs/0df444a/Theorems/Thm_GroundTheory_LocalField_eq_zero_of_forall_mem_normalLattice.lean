@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_eq_zero_of_forall_mem_normalLattice
 -- name    : GroundTheory.LocalField.eq_zero_of_forall_mem_normalLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:13.974895+00:00
 -- url     : https://prove2.me/theorems/837386c3-f7b7-4696-99aa-3317846042ca

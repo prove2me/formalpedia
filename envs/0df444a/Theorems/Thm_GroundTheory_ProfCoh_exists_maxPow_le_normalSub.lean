@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_maxPow_le_normalSub
 -- name    : GroundTheory.ProfCoh.exists_maxPow_le_normalSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:51:46.80249+00:00
 -- url     : https://prove2.me/theorems/2a88fbdf-3bfd-4ca1-a308-bae19a2a21bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_signedLength_eq_add
 -- name    : GlobalTheory.LengthCommensurable.signedLength_eq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:59:19.253596+00:00
 -- url     : https://prove2.me/theorems/3a2a6539-7689-4e8e-b018-bc737089b4c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_subsingleton_of_coinvariantsKer_eq_top
 -- name    : GroundTheory.GroupCoh.subsingleton_of_coinvariantsKer_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:43:11.581512+00:00
 -- url     : https://prove2.me/theorems/7561b84a-94d4-42cc-85ff-9fe07da49bea

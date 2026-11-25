@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_det_mul_eq_sum_minors
 -- name    : GroundTheory.PAdicHodge.det_mul_eq_sum_minors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:21:15.376106+00:00
 -- url     : https://prove2.me/theorems/d858d271-38f5-4d93-8633-9b469d994966

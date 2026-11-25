@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_filt_le_canonSpan
 -- name    : GroundTheory.Automorphic.HarishChandra.filt_le_canonSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:30:14.338649+00:00
 -- url     : https://prove2.me/theorems/ec5d196e-a409-4a03-9279-a9c126c71135

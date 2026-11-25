@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_Chart_img_eq_2b325c8b99f9
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_Chart_img_eq_2b325c8b99f9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:52:43.401831+00:00
 -- url     : https://prove2.me/theorems/83ff00d6-5d41-449f-8c9c-7dd9335f5f92

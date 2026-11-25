@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_IsInvariant_iSup
 -- name    : GroundTheory.Automorphic.UnitaryRep.IsInvariant.iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:26:19.629636+00:00
 -- url     : https://prove2.me/theorems/9170d52d-52cb-4fd5-ab2d-e0a109645033

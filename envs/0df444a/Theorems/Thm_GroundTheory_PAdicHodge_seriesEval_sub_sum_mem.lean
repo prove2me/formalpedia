@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_seriesEval_sub_sum_mem
 -- name    : GroundTheory.PAdicHodge.seriesEval_sub_sum_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:24:41.965486+00:00
 -- url     : https://prove2.me/theorems/7e346680-92e3-4399-bc46-5e8f74bcff8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LegendreBounds_digitSum_le
 -- name    : GlobalTheory.LegendreBounds.digitSum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:29:55.154168+00:00
 -- url     : https://prove2.me/theorems/ca345ae1-cfe7-4c92-9ffe-3d5466b6dbab

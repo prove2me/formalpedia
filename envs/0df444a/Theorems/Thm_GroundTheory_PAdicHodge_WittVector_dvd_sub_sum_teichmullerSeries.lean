@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittVector_dvd_sub_sum_teichmullerSeries
 -- name    : GroundTheory.PAdicHodge.WittVector.dvd_sub_sum_teichmullerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:32.509903+00:00
 -- url     : https://prove2.me/theorems/bed3d44f-f1d7-4beb-8eca-05b246e8fba3

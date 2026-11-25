@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CoboundaryTransfers_WachMod_mem_cocycles__3712a15bf5f6
 -- name    : P2M_Formalism_CoboundaryTransfers_WachMod_mem_cocycles__3712a15bf5f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:53:13.84893+00:00
 -- url     : https://prove2.me/theorems/de2efbc7-ddab-40c4-b0bd-1135ce3eed6f

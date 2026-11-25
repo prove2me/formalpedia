@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__of_mulVec_eq_ac3453965221
 -- name    : P2M_Formalism_BasicNotions_Examples__of_mulVec_eq_ac3453965221
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:53:12.556012+00:00
 -- url     : https://prove2.me/theorems/fbf54586-14e2-4cf8-b86f-c1aed87447fc

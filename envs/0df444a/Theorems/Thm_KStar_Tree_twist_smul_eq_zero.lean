@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Tree_twist_smul_eq_zero
 -- name    : KStar.Tree.twist_smul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:52:07.982816+00:00
 -- url     : https://prove2.me/theorems/a31e2283-1271-4bd6-ba4a-c03ffdd297f1

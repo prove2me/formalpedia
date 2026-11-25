@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacSer_snd_eq_sum
 -- name    : GlobalTheory.JacSer.snd_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:07:50.196092+00:00
 -- url     : https://prove2.me/theorems/7ed09232-a7ee-47b7-b1c5-8e690fc29e14

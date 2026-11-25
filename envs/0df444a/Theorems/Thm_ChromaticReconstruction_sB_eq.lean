@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_sB_eq
 -- name    : ChromaticReconstruction.sB_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:04:59.748931+00:00
 -- url     : https://prove2.me/theorems/3d9a0857-eddc-4752-ad65-9559d36c2dea

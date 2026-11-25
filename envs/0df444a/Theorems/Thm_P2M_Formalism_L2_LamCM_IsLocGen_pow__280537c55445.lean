@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_LamCM_IsLocGen_pow__280537c55445
 -- name    : P2M_Formalism_L2_LamCM_IsLocGen_pow__280537c55445
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:57:08.505778+00:00
 -- url     : https://prove2.me/theorems/2abd6e86-460e-4f19-a439-52e4d9192597

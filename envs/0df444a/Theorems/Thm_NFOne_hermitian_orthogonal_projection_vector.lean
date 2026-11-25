@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_hermitian_orthogonal_projection_vector
 -- name    : NFOne.hermitian_orthogonal_projection_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:21.046738+00:00
 -- url     : https://prove2.me/theorems/0d8b4721-7e96-4415-bb68-764e8a24a383

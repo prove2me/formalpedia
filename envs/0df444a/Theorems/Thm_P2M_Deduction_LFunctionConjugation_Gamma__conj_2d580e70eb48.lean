@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Deduction_LFunctionConjugation_Gamma__conj_2d580e70eb48
 -- name    : P2M_Deduction_LFunctionConjugation_Gamma__conj_2d580e70eb48
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:52:35.250612+00:00
 -- url     : https://prove2.me/theorems/e7a9f783-1925-469b-8e39-3834de6983f4

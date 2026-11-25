@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CountingSumsFrames_laplacian_apply__7d05e53cfbcb
 -- name    : P2M_Formalism_CountingSumsFrames_laplacian_apply__7d05e53cfbcb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:44.714799+00:00
 -- url     : https://prove2.me/theorems/fdff4694-4a32-43d7-9bed-8eaeaff6460d

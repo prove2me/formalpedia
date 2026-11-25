@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_discr_eq_basis_det_sq_mul
 -- name    : GlobalTheory.discr_eq_basis_det_sq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:17:45.339798+00:00
 -- url     : https://prove2.me/theorems/61be229b-f84a-4267-81b3-e4d38d601bbd

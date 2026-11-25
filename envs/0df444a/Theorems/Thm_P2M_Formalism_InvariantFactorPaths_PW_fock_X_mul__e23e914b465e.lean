@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_PW_fock_X_mul__e23e914b465e
 -- name    : P2M_Formalism_InvariantFactorPaths_PW_fock_X_mul__e23e914b465e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:58:00.912806+00:00
 -- url     : https://prove2.me/theorems/b7387e48-bc87-4b0e-987a-54139efc61a7

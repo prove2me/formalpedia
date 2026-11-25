@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BasicFlow_low_optimum
 -- name    : GlobalTheory.BasicFlow.low_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:24:41.467999+00:00
 -- url     : https://prove2.me/theorems/9bd28ae5-58b1-44bf-be4d-b3b7cfa14d5b

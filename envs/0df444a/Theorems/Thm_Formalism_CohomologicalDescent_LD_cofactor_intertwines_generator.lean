@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_cofactor_intertwines_generator
 -- name    : Formalism.CohomologicalDescent.LD.cofactor_intertwines_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:14:04.04662+00:00
 -- url     : https://prove2.me/theorems/09adc898-3c6c-48ac-b602-23e1dd156164

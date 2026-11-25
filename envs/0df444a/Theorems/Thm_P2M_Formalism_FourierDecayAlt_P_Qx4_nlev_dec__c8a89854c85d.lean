@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Qx4_nlev_dec__c8a89854c85d
 -- name    : P2M_Formalism_FourierDecayAlt_P_Qx4_nlev_dec__c8a89854c85d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:56:22.582994+00:00
 -- url     : https://prove2.me/theorems/4b7fc484-8128-4b98-8866-8f0467b35ac8

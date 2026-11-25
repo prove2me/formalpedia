@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_rowAct_hw_ed98cf931f05
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_rowAct_hw_ed98cf931f05
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:53:43.081434+00:00
 -- url     : https://prove2.me/theorems/0f91f31a-b0e3-46bc-8b68-3b196c4f33e8

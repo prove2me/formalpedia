@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_mem_Z1_iff_cocycle
 -- name    : Neutral.B1.mem_Z1_iff_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:52:17.370195+00:00
 -- url     : https://prove2.me/theorems/59ab27b9-b938-4a60-8ab0-b20e25f012cc

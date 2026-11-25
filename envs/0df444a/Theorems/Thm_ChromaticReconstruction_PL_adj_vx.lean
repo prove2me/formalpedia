@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_PL_adj_vx
 -- name    : ChromaticReconstruction.PL_adj_vx
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:23:55.393572+00:00
 -- url     : https://prove2.me/theorems/7c8463ab-0cae-48c1-adfd-dea005b5aae4

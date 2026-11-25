@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_separated_roots_additive_poly
 -- name    : GlobalTheory.separated_roots_additive_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:22:13.245317+00:00
 -- url     : https://prove2.me/theorems/cc6c8a75-c02c-4827-adda-01bef699ae71

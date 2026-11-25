@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_DworkPowerSeriesWeights_min_sum_le__5cb92c65a056
 -- name    : P2M_Formalism_DworkPowerSeriesWeights_min_sum_le__5cb92c65a056
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:56:15.391928+00:00
 -- url     : https://prove2.me/theorems/ca961831-8703-449b-8010-55015577bf3b

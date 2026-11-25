@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_nonempty_torsionBy_addEquiv
 -- name    : GroundTheory.Arith.Abelian.nonempty_torsionBy_addEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:25:45.273321+00:00
 -- url     : https://prove2.me/theorems/40b44d17-e53d-42fd-ab94-2c4549df7f41

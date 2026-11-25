@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_linearIndependent_uniformizer_pow_mul
 -- name    : GroundTheory.Global.SemiLocal.linearIndependent_uniformizer_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:39:28.527553+00:00
 -- url     : https://prove2.me/theorems/1e0035b7-af8b-4792-959b-ebd3355db21c

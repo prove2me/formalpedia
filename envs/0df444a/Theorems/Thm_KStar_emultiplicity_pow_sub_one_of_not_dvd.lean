@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_emultiplicity_pow_sub_one_of_not_dvd
 -- name    : KStar.emultiplicity_pow_sub_one_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:52:00.924668+00:00
 -- url     : https://prove2.me/theorems/469c17f2-5185-432e-9cbc-8e95524d2321

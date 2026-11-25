@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__adel_key_82da0ac38b2f
 -- name    : P2M_Formalism_BasicNotions_Examples__adel_key_82da0ac38b2f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:53:40.229196+00:00
 -- url     : https://prove2.me/theorems/9f3c85d2-3e55-41c6-b032-764923e9167d

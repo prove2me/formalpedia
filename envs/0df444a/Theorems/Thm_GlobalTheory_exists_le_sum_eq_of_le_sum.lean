@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_le_sum_eq_of_le_sum
 -- name    : GlobalTheory.exists_le_sum_eq_of_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:36.040655+00:00
 -- url     : https://prove2.me/theorems/57720f8e-c6ce-4074-9b62-5037f8641e8b

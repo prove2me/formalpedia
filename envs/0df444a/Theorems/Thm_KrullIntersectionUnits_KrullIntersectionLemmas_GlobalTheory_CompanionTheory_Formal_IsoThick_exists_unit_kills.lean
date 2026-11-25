@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KrullIntersectionUnits_KrullIntersectionLemmas_GlobalTheory_CompanionTheory_Formal_IsoThick_exists_unit_kills
 -- name    : KrullIntersectionUnits.KrullIntersectionLemmas.GlobalTheory.CompanionTheory.Formal.IsoThick.exists_unit_kills
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:19:57.645769+00:00
 -- url     : https://prove2.me/theorems/c7cea05a-c832-4894-badf-1921443c040c

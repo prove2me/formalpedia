@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_Chart_nu_finite_542036c95c54
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_Chart_nu_finite_542036c95c54
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:52:31.149857+00:00
 -- url     : https://prove2.me/theorems/0e3ca33d-f761-4fa2-bd81-1f8bec13167b

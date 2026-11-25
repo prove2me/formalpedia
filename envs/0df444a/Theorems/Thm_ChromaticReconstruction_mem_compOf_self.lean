@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_mem_compOf_self
 -- name    : ChromaticReconstruction.mem_compOf_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:22:40.736283+00:00
 -- url     : https://prove2.me/theorems/af9dab8e-70df-4ad5-a8da-d0cb649f19c2

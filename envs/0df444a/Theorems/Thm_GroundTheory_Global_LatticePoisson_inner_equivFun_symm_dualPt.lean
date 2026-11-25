@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_LatticePoisson_inner_equivFun_symm_dualPt
 -- name    : GroundTheory.Global.LatticePoisson.inner_equivFun_symm_dualPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:28:07.023981+00:00
 -- url     : https://prove2.me/theorems/fb442145-dfc5-4507-b153-45635489ec98

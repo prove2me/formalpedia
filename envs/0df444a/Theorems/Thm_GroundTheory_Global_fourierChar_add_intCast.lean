@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_fourierChar_add_intCast
 -- name    : GroundTheory.Global.fourierChar_add_intCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:27:53.725268+00:00
 -- url     : https://prove2.me/theorems/740327a8-1255-4cb5-89f6-f8a1fd6956ca

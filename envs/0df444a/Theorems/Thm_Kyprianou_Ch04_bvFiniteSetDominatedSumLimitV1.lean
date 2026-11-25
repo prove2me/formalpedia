@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvFiniteSetDominatedSumLimitV1
 -- name    : Kyprianou.Ch04.bvFiniteSetDominatedSumLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:28:09.495939+00:00
 -- url     : https://prove2.me/theorems/c9908332-e969-41b9-80c3-20992053d5c6

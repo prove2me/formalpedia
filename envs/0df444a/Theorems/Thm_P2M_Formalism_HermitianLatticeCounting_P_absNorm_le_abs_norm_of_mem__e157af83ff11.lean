@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLatticeCounting_P_absNorm_le_abs_norm_of_mem__e157af83ff11
 -- name    : P2M_Formalism_HermitianLatticeCounting_P_absNorm_le_abs_norm_of_mem__e157af83ff11
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:56:34.301013+00:00
 -- url     : https://prove2.me/theorems/1c3b02bf-20d6-455c-b33a-6140faccdff2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_normTrace_cyclotomicLayer_eq_of_mem
 -- name    : GroundTheory.PAdicHodge.normTrace_cyclotomicLayer_eq_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:48:07.660888+00:00
 -- url     : https://prove2.me/theorems/5110c329-b885-45dc-8318-43e4553ddb32

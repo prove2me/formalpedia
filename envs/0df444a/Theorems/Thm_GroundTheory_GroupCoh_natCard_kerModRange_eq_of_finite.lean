@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_natCard_kerModRange_eq_of_finite
 -- name    : GroundTheory.GroupCoh.natCard_kerModRange_eq_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:08.0958+00:00
 -- url     : https://prove2.me/theorems/43dd6c5a-280e-4be3-bbb1-7dff7e43976b

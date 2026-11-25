@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_normTrace_normTrace
 -- name    : GroundTheory.PAdicHodge.normTrace_normTrace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:47:23.611298+00:00
 -- url     : https://prove2.me/theorems/4d548d53-2905-4e17-acad-442d4f7bdbb8

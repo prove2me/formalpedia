@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isZero_groupCohomology
 -- name    : GroundTheory.ProfCoh.isZero_groupCohomology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:50:42.074826+00:00
 -- url     : https://prove2.me/theorems/221d5a99-7642-40fb-ae8e-86fafb3008d5

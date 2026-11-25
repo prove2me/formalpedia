@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_LEx2_iterDeriv_const__3ac0ab85af40
 -- name    : P2M_Formalism_FourierDecayAlt_P_LEx2_iterDeriv_const__3ac0ab85af40
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:55:50.689096+00:00
 -- url     : https://prove2.me/theorems/f07b6365-64be-4711-a309-7e65da1ec01d

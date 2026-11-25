@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_valuation_eq_of_isEquiv
 -- name    : GroundTheory.FunctionField.valuation_eq_of_isEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:29:30.600792+00:00
 -- url     : https://prove2.me/theorems/b76647b0-8557-45ab-934a-221890d5a962

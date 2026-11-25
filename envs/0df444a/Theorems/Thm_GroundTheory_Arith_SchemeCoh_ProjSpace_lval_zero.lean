@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_lval_zero
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.lval_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:12:28.863562+00:00
 -- url     : https://prove2.me/theorems/a72633af-9ccd-4789-8d04-82bce7bf0437

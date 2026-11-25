@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_summable_absNorm_rpow_neg_of_not_prime
 -- name    : GroundTheory.Global.summable_absNorm_rpow_neg_of_not_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:43:06.740412+00:00
 -- url     : https://prove2.me/theorems/96e5b4bd-2189-40d7-8511-229addd7dcf6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_LocalVolumePositivity_pos__S_22dd14f18b19
 -- name    : P2M_Formalism_FourierDecayAlt_P_LocalVolumePositivity_pos__S_22dd14f18b19
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:55:57.741804+00:00
 -- url     : https://prove2.me/theorems/6873b5ab-29e1-446b-8c52-3da6bd76a3af

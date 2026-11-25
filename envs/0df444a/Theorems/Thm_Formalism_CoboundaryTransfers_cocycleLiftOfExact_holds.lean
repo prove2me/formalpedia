@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_cocycleLiftOfExact_holds
 -- name    : Formalism.CoboundaryTransfers.cocycleLiftOfExact_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:33:12.686963+00:00
 -- url     : https://prove2.me/theorems/98926b51-6082-44d3-9871-057fe856ad1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenEigen_step
 -- name    : GlobalTheory.GenEigen.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:25:41.20538+00:00
 -- url     : https://prove2.me/theorems/25880f28-e306-4df0-8e55-32af8017ed0e

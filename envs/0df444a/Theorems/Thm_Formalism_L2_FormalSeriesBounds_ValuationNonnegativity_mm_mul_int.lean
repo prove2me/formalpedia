@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ValuationNonnegativity_mm_mul_int
 -- name    : Formalism.L2.FormalSeriesBounds.ValuationNonnegativity.mm_mul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:23:29.049029+00:00
 -- url     : https://prove2.me/theorems/a6c93ff4-1269-46b0-9cb6-7ab57ec38824

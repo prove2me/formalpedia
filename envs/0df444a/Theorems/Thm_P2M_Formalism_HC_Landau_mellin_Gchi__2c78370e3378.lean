@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HC_Landau_mellin_Gchi__2c78370e3378
 -- name    : P2M_Formalism_HC_Landau_mellin_Gchi__2c78370e3378
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:57:26.188909+00:00
 -- url     : https://prove2.me/theorems/c8982c65-6178-47a3-b05a-e63ad23f5f52

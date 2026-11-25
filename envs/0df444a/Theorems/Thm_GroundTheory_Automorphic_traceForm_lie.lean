@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_traceForm_lie
 -- name    : GroundTheory.Automorphic.traceForm_lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:28:03.03114+00:00
 -- url     : https://prove2.me/theorems/cac1543b-e2f1-43d7-b574-3ee3d02988ac

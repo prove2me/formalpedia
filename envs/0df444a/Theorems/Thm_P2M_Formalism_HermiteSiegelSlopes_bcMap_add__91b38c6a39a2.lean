@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermiteSiegelSlopes_bcMap_add__91b38c6a39a2
 -- name    : P2M_Formalism_HermiteSiegelSlopes_bcMap_add__91b38c6a39a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:56:28.135782+00:00
 -- url     : https://prove2.me/theorems/4d321450-5089-4b23-a383-e223f10a1b9c

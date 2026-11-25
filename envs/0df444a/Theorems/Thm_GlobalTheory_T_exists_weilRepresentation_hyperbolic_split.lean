@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_weilRepresentation_hyperbolic_split
 -- name    : GlobalTheory.T.exists_weilRepresentation_hyperbolic_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:40:25.510677+00:00
 -- url     : https://prove2.me/theorems/8b502a50-ef48-4f2f-93a3-f5891a6363e4

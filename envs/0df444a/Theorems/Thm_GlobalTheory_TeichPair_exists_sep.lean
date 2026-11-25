@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TeichPair_exists_sep
 -- name    : GlobalTheory.TeichPair.exists_sep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:15:35.65042+00:00
 -- url     : https://prove2.me/theorems/85a5cc1a-1ee9-48a3-b982-00ce28f07e2b

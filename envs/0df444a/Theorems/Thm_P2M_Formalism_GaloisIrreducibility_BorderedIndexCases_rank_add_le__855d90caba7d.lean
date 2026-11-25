@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GaloisIrreducibility_BorderedIndexCases_rank_add_le__855d90caba7d
 -- name    : P2M_Formalism_GaloisIrreducibility_BorderedIndexCases_rank_add_le__855d90caba7d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:56:15.522216+00:00
 -- url     : https://prove2.me/theorems/1c4e660a-3cf1-41c7-9a8a-e7ed15761c2c

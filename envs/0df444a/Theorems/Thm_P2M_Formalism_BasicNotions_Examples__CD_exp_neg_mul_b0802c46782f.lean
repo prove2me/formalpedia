@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_exp_neg_mul_b0802c46782f
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_exp_neg_mul_b0802c46782f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:52:47.010552+00:00
 -- url     : https://prove2.me/theorems/148d61a9-60c9-4680-aece-85f3feb2466a

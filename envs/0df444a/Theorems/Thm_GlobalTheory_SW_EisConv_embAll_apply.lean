@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisConv_embAll_apply
 -- name    : GlobalTheory.SW.EisConv.embAll_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:27:05.386743+00:00
 -- url     : https://prove2.me/theorems/cfbae605-22af-4c14-be16-19b73bce8437

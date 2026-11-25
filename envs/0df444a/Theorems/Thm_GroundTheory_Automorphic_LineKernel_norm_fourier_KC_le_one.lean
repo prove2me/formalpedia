@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_norm_fourier_KC_le_one
 -- name    : GroundTheory.Automorphic.LineKernel.norm_fourier_KC_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:19:58.362804+00:00
 -- url     : https://prove2.me/theorems/363e47d8-ff62-4de3-894a-e5d4bfd2f2ed

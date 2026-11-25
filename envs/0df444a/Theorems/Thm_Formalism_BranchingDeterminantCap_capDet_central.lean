@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_capDet_central
 -- name    : Formalism.BranchingDeterminantCap.capDet_central
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:26.746455+00:00
 -- url     : https://prove2.me/theorems/1b9cb7ef-1999-4337-addb-ee693b432689

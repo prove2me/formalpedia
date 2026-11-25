@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mem_maxCompact
 -- name    : GroundTheory.Automorphic.mem_maxCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:25:40.931802+00:00
 -- url     : https://prove2.me/theorems/50b71994-1bca-470b-a86d-0c44d5e41d32

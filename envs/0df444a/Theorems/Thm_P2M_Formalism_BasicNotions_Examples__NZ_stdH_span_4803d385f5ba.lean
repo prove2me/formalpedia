@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_stdH_span_4803d385f5ba
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_stdH_span_4803d385f5ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:53:11.146072+00:00
 -- url     : https://prove2.me/theorems/c8ca0b88-0732-4987-8ebf-804141a0f4a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactRep_hasContinuousCoeff_subrep
 -- name    : GroundTheory.Automorphic.CompactRep.hasContinuousCoeff_subrep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:26:37.402873+00:00
 -- url     : https://prove2.me/theorems/3b96c4ff-ce3d-4f20-b0ed-127680332a04

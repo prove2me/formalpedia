@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_embIntSt_holds
 -- name    : Formalism.L2.FormalSeriesBounds.embIntSt_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:24:32.531557+00:00
 -- url     : https://prove2.me/theorems/19371b94-c6f2-4e06-ae07-5ca35a34d20a

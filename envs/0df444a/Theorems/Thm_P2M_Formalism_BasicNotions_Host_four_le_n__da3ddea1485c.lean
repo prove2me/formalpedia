@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Host_four_le_n__da3ddea1485c
 -- name    : P2M_Formalism_BasicNotions_Host_four_le_n__da3ddea1485c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:53:07.796525+00:00
 -- url     : https://prove2.me/theorems/649d305a-bdab-45c9-bf93-dffc3436d514

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_SobolevSpace_toDistribution_convolutionCLM
 -- name    : GroundTheory.Automorphic.Sobolev.SobolevSpace.toDistribution_convolutionCLM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:59:07.342424+00:00
 -- url     : https://prove2.me/theorems/341f8b58-cbcb-4172-a4d2-566688dff1bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_sum_smul_eq_of_support
 -- name    : GroundTheory.Global.sum_smul_eq_of_support
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:58:27.385078+00:00
 -- url     : https://prove2.me/theorems/98d7bc14-a7a6-4407-bf6e-9b2a7233cf73

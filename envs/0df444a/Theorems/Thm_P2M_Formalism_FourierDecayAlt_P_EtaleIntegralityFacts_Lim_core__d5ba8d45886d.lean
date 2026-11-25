@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_Lim_core__d5ba8d45886d
 -- name    : P2M_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_Lim_core__d5ba8d45886d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:56:26.878076+00:00
 -- url     : https://prove2.me/theorems/05208131-42b7-47e6-931e-2b21a9dcc7c8

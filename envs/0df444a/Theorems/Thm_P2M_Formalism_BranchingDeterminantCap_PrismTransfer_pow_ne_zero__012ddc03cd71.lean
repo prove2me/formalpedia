@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BranchingDeterminantCap_PrismTransfer_pow_ne_zero__012ddc03cd71
 -- name    : P2M_Formalism_BranchingDeterminantCap_PrismTransfer_pow_ne_zero__012ddc03cd71
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:54:04.115442+00:00
 -- url     : https://prove2.me/theorems/34783f38-1c9d-4293-ab3d-536750e27401

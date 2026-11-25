@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_sum_rpow_neg_le_exp_tsum
 -- name    : GroundTheory.Global.sum_rpow_neg_le_exp_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:43:21.152198+00:00
 -- url     : https://prove2.me/theorems/93f0b4c5-164a-4e86-8d2d-22a9a464ad8f

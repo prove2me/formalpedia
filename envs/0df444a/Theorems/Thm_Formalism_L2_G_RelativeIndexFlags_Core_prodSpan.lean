@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_RelativeIndexFlags_Core_prodSpan
 -- name    : Formalism.L2.G.RelativeIndexFlags.Core.prodSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:34:56.235327+00:00
 -- url     : https://prove2.me/theorems/0a7d2d09-c0ec-46a8-a00a-774ba2dfb9b2

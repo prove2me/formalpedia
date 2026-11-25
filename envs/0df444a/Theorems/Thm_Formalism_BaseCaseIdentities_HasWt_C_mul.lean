@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_HasWt_C_mul
 -- name    : Formalism.BaseCaseIdentities.HasWt.C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:30:02.013396+00:00
 -- url     : https://prove2.me/theorems/c5787b4c-5c55-4f25-84a6-f649e56cde11

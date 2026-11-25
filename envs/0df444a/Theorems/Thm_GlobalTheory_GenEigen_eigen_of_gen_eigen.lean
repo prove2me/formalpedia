@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenEigen_eigen_of_gen_eigen
 -- name    : GlobalTheory.GenEigen.eigen_of_gen_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:25:21.539205+00:00
 -- url     : https://prove2.me/theorems/fd4f0693-85c2-4f80-9b1e-f6776e4594cf

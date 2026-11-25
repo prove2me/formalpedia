@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowValueCheck_Agree_prod
 -- name    : GlobalTheory.RowValueCheck.Agree.prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:15:36.015802+00:00
 -- url     : https://prove2.me/theorems/c0cbd75b-7bb8-4d58-8c9b-ba94d58efb6c

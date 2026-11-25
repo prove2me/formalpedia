@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_DimensionMonotonicity_glAct_wh__8320259c7632
 -- name    : P2M_Formalism_GM_DimensionMonotonicity_glAct_wh__8320259c7632
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:56:44.243266+00:00
 -- url     : https://prove2.me/theorems/eef72339-ba16-4bca-a2dc-3cab50ffca37

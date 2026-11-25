@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlowParameters_flowVal_le_sum
 -- name    : GlobalTheory.FlowParameters.flowVal_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:23:25.141015+00:00
 -- url     : https://prove2.me/theorems/abb7f74d-3bfa-420b-a081-0a8ff4965248

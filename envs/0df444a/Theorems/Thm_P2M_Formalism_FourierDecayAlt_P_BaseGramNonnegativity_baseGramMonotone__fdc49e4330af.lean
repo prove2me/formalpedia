@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_BaseGramNonnegativity_baseGramMonotone__fdc49e4330af
 -- name    : P2M_Formalism_FourierDecayAlt_P_BaseGramNonnegativity_baseGramMonotone__fdc49e4330af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:54:34.350832+00:00
 -- url     : https://prove2.me/theorems/68ce6e69-ccc7-4d0d-97a5-eff64e8bc303

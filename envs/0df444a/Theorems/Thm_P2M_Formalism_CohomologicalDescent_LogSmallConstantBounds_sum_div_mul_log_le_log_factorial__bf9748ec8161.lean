@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CohomologicalDescent_LogSmallConstantBounds_sum_div_mul_log_le_log_factorial__bf9748ec8161
 -- name    : P2M_Formalism_CohomologicalDescent_LogSmallConstantBounds_sum_div_mul_log_le_log_factorial__bf9748ec8161
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:53:02.723075+00:00
 -- url     : https://prove2.me/theorems/a9e4f5cf-779c-493d-90eb-221395cf7665

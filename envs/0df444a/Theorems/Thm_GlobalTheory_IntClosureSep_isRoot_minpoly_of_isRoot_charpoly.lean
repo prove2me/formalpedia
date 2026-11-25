@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntClosureSep_isRoot_minpoly_of_isRoot_charpoly
 -- name    : GlobalTheory.IntClosureSep.isRoot_minpoly_of_isRoot_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:26:05.299439+00:00
 -- url     : https://prove2.me/theorems/992b0425-3f11-4ebb-a805-efbfe8495d6e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_not_le_of_prod_10e9f6327452
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_not_le_of_prod_10e9f6327452
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:19.348859+00:00
 -- url     : https://prove2.me/theorems/07ad19fe-4aad-4551-ac1e-36f8375d8523

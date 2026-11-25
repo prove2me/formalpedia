@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_ballU_pos_9cb43a7a02ab
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_ballU_pos_9cb43a7a02ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:52:44.619051+00:00
 -- url     : https://prove2.me/theorems/815dd408-79d5-49ac-a35a-21de43025dc3

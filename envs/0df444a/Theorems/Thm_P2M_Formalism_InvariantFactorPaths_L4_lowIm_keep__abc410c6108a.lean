@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_L4_lowIm_keep__abc410c6108a
 -- name    : P2M_Formalism_InvariantFactorPaths_L4_lowIm_keep__abc410c6108a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:57:45.718016+00:00
 -- url     : https://prove2.me/theorems/c08d5748-3905-4ce7-9144-96fa957b1ec8

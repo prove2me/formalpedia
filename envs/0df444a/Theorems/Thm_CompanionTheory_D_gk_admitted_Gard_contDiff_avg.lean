@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_Gard_contDiff_avg
 -- name    : CompanionTheory.D.gk.admitted.Gard.contDiff_avg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:31:03.277822+00:00
 -- url     : https://prove2.me/theorems/5b7a1fe2-c545-4876-9802-7e3ca733adb0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_tan_int
 -- name    : GlobalTheory.MainTerm.tan_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:25:55.403906+00:00
 -- url     : https://prove2.me/theorems/3dbee9fd-b58d-4093-8484-ef1d289797f6

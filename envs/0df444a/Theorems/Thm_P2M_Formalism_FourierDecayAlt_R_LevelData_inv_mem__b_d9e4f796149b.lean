@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_R_LevelData_inv_mem__b_d9e4f796149b
 -- name    : P2M_Formalism_FourierDecayAlt_R_LevelData_inv_mem__b_d9e4f796149b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:55:52.932822+00:00
 -- url     : https://prove2.me/theorems/737f27cb-2b6a-4bdb-b058-5772dd32d9aa

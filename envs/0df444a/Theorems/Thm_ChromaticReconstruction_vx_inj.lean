@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_vx_inj
 -- name    : ChromaticReconstruction.vx_inj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:27:21.308058+00:00
 -- url     : https://prove2.me/theorems/41cf42e9-556b-41ed-8a59-2c9516e5d465

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetCompare_comb_mem
 -- name    : GlobalTheory.DetCompare.comb_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:05:49.951197+00:00
 -- url     : https://prove2.me/theorems/9175503d-70e1-4c9f-a422-bc983ca659fc

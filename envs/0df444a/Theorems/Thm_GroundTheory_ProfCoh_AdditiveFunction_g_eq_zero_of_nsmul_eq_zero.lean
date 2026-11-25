@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_g_eq_zero_of_nsmul_eq_zero
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.g_eq_zero_of_nsmul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:48:07.947576+00:00
 -- url     : https://prove2.me/theorems/0ed6add1-6425-44e3-b2ab-433301a0386e

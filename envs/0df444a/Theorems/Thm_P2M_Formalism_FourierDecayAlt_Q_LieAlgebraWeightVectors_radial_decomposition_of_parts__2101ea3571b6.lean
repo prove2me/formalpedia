@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_radial_decomposition_of_parts__2101ea3571b6
 -- name    : P2M_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_radial_decomposition_of_parts__2101ea3571b6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:56:25.866861+00:00
 -- url     : https://prove2.me/theorems/56e9ed48-10a7-47fa-9433-f13a129f1fa5

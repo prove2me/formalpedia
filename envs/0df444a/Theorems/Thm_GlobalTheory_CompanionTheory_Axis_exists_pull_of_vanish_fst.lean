@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_exists_pull_of_vanish_fst
 -- name    : GlobalTheory.CompanionTheory.Axis.exists_pull_of_vanish_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:17:51.936253+00:00
 -- url     : https://prove2.me/theorems/8225b27c-d481-450e-9adb-554fcdec9ff8

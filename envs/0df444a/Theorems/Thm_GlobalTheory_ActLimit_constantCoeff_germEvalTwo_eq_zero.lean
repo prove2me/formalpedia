@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActLimit_constantCoeff_germEvalTwo_eq_zero
 -- name    : GlobalTheory.ActLimit.constantCoeff_germEvalTwo_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:13:52.741683+00:00
 -- url     : https://prove2.me/theorems/505f7be3-e96a-4260-af3b-5376441e6299

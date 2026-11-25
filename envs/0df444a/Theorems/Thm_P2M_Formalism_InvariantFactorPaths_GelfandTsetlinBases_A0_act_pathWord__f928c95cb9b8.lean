@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A0_act_pathWord__f928c95cb9b8
 -- name    : P2M_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A0_act_pathWord__f928c95cb9b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:57:03.91215+00:00
 -- url     : https://prove2.me/theorems/ba4194bc-a98a-4af3-9220-f40a3549cb9b

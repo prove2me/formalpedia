@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_UpFBr_Pl_char_indep
 -- name    : Formalism.L2.FormalSeriesBounds.UpFBr.Pl.char_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:29:04.265448+00:00
 -- url     : https://prove2.me/theorems/57c550c3-4408-4f2f-b6fe-0a57eb119c25

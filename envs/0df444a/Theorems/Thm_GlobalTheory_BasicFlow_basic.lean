@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BasicFlow_basic
 -- name    : GlobalTheory.BasicFlow.basic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:24:50.829791+00:00
 -- url     : https://prove2.me/theorems/b87a9f6f-a9f9-46a6-bf78-9be43675b080

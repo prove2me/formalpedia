@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_regularSystemOfParameters_containing_etaleChartCoords
 -- name    : FunctorialResolution.EmbeddedResolution.exists_regularSystemOfParameters_containing_etaleChartCoords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:35:42.539384+00:00
 -- url     : https://prove2.me/theorems/166db7ef-a7aa-4a7c-847e-fd16605b2bc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_rtj_rename_congr
 -- name    : Formalism.L2.FormalSeriesBounds.rtj_rename_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:24:49.316643+00:00
 -- url     : https://prove2.me/theorems/52238353-25db-4e5f-b75e-31d4e1bf805e

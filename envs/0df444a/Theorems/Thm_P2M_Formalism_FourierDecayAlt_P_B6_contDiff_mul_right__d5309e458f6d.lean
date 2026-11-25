@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_B6_contDiff_mul_right__d5309e458f6d
 -- name    : P2M_Formalism_FourierDecayAlt_P_B6_contDiff_mul_right__d5309e458f6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:55:00.76005+00:00
 -- url     : https://prove2.me/theorems/61c9df4e-bbdd-46db-a72e-ac434afe8acc

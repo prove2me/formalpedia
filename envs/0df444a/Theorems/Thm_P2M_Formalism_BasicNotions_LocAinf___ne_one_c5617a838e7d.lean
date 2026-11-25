@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_LocAinf___ne_one_c5617a838e7d
 -- name    : P2M_Formalism_BasicNotions_LocAinf___ne_one_c5617a838e7d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:23:20.848812+00:00
 -- url     : https://prove2.me/theorems/805b82c2-caf6-4577-92fa-80cd00eeff81

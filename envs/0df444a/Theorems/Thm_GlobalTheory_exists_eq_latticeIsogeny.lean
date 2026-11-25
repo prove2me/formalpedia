@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_eq_latticeIsogeny
 -- name    : GlobalTheory.exists_eq_latticeIsogeny
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:07:51.388813+00:00
 -- url     : https://prove2.me/theorems/5d46fa53-1137-4bf8-b525-cec1b1498467

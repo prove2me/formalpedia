@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_Poul_isSm_avg
 -- name    : CompanionTheory.D.gk.Poul.isSm_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:33:00.360795+00:00
 -- url     : https://prove2.me/theorems/e90b9c20-9852-4e69-902f-379bbbfcae2b

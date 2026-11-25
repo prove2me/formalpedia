@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_nuLocC_le_nval
 -- name    : Formalism.L2.FormalSeriesBounds.nuLocC_le_nval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:25:39.302281+00:00
 -- url     : https://prove2.me/theorems/f5c6d205-d86a-4265-9868-c0c89a104904

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_teich_sub_pow_mem
 -- name    : GroundTheory.PAdicHodge.TeichLift.teich_sub_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:05.019373+00:00
 -- url     : https://prove2.me/theorems/11e3b744-49b7-4f14-a3d1-aee5d69133ed

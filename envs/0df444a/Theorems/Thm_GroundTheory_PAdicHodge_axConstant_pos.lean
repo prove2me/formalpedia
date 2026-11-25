@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_axConstant_pos
 -- name    : GroundTheory.PAdicHodge.axConstant_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:29:29.35013+00:00
 -- url     : https://prove2.me/theorems/15691bf0-0591-4e43-87fb-a378df2e56ff

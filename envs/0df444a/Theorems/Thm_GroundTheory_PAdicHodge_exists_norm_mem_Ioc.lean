@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_norm_mem_Ioc
 -- name    : GroundTheory.PAdicHodge.exists_norm_mem_Ioc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:52:46.093949+00:00
 -- url     : https://prove2.me/theorems/0bd853ae-158f-4efb-ab0f-432f5f5b3718

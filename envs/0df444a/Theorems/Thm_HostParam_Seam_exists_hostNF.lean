@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HostParam_Seam_exists_hostNF
 -- name    : HostParam.Seam.exists_hostNF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:52:35.607433+00:00
 -- url     : https://prove2.me/theorems/1531d39a-6e4b-495a-b2fe-4ba6935556cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NormHilbertSchmidtBlocks_parseval_single
 -- name    : NormHilbertSchmidtBlocks.parseval_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:52:54.504676+00:00
 -- url     : https://prove2.me/theorems/236aed12-5252-49fb-8d6d-ceca516712b6

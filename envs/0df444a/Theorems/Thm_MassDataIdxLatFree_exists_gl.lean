@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxLatFree_exists_gl
 -- name    : MassDataIdxLatFree.exists_gl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:51:38.095083+00:00
 -- url     : https://prove2.me/theorems/ca444e99-2ff5-4fee-9021-08188c311d5c

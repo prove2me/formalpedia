@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_DimensionMonotonicity__F_inj_224398c1e583
 -- name    : P2M_Formalism_GM_DimensionMonotonicity__F_inj_224398c1e583
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:56:26.11642+00:00
 -- url     : https://prove2.me/theorems/0cf1d01d-f26e-4499-833b-4438fd24f521

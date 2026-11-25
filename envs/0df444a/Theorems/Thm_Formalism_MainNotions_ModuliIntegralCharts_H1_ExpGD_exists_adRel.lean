@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGD_exists_adRel
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGD.exists_adRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:25:02.868326+00:00
 -- url     : https://prove2.me/theorems/e8421b3e-e99c-496f-96b5-f09d34690833

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatIndexDet_val_algebraMap
 -- name    : GlobalTheory.LatIndexDet.val_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:28:35.051535+00:00
 -- url     : https://prove2.me/theorems/33351c3c-f77a-4ba0-bbc0-44a1d863cc07

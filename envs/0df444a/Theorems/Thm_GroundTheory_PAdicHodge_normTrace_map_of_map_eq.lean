@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_normTrace_map_of_map_eq
 -- name    : GroundTheory.PAdicHodge.normTrace_map_of_map_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:33:33.171797+00:00
 -- url     : https://prove2.me/theorems/ce63edc4-bdf1-4480-ab5e-2d7e2c650ad2

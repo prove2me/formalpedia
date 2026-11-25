@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_isNonarchimedeanLocalField_valuativeExtension
 -- name    : GroundTheory.LocalField.exists_isNonarchimedeanLocalField_valuativeExtension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:08.700566+00:00
 -- url     : https://prove2.me/theorems/76d9127a-b26e-48c9-9da3-6cc4bc26aa7c

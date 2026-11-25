@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisConv_linearIndependent_bot
 -- name    : GlobalTheory.SW.EisConv.linearIndependent_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:27:03.118174+00:00
 -- url     : https://prove2.me/theorems/55586aef-5df6-4279-94e8-695bcbb45b93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_G0_TopsChoiceProbabilityLemmas_tile_sub__fbbb87d340ca
 -- name    : P2M_Formalism_G0_TopsChoiceProbabilityLemmas_tile_sub__fbbb87d340ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:56:32.249528+00:00
 -- url     : https://prove2.me/theorems/67719c02-33b7-4297-924f-e091918ada10

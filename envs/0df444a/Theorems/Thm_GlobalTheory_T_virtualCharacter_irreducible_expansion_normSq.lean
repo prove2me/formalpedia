@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_virtualCharacter_irreducible_expansion_normSq
 -- name    : GlobalTheory.T.virtualCharacter_irreducible_expansion_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:02:53.631365+00:00
 -- url     : https://prove2.me/theorems/fb8b5d6a-5fd9-464d-80bb-fc8cdc96a610

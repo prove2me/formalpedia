@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsRegular_isAdmissible_iff_bijective
 -- name    : GroundTheory.PAdicHodge.IsRegular.isAdmissible_iff_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:09.986439+00:00
 -- url     : https://prove2.me/theorems/25e1045c-eda0-4579-93da-f6c30990d69a

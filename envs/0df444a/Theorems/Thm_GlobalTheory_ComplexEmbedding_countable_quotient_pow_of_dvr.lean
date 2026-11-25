@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexEmbedding_countable_quotient_pow_of_dvr
 -- name    : GlobalTheory.ComplexEmbedding.countable_quotient_pow_of_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:14:04.584977+00:00
 -- url     : https://prove2.me/theorems/b34ae567-c0c3-43c1-bd68-10d3fb3ae06b

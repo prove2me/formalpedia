@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_betaH_sum_right
 -- name    : GlobalTheory.FormalCalc.betaH_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:13:47.749806+00:00
 -- url     : https://prove2.me/theorems/8e4af24f-2cc9-4685-84da-3fa7f8cf2a57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_le_of_eventually_up_99e470a03a01
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_le_of_eventually_up_99e470a03a01
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:53:05.015254+00:00
 -- url     : https://prove2.me/theorems/a5c687d6-b32d-4032-b409-c4cf2e718e08

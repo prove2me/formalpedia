@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_mem_roots_orbQ_fb5a8218368f
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_mem_roots_orbQ_fb5a8218368f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:13.155485+00:00
 -- url     : https://prove2.me/theorems/6657ddc8-10f7-4f88-ae8f-652708c2f0c9

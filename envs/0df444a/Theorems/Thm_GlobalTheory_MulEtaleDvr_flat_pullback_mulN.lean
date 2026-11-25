@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulEtaleDvr_flat_pullback_mulN
 -- name    : GlobalTheory.MulEtaleDvr.flat_pullback_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:28:37.840593+00:00
 -- url     : https://prove2.me/theorems/efd3758d-8f0e-4a73-a3ad-7f9661a82765

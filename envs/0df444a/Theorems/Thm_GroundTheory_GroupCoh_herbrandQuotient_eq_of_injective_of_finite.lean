@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_herbrandQuotient_eq_of_injective_of_finite
 -- name    : GroundTheory.GroupCoh.herbrandQuotient_eq_of_injective_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:45:41.267448+00:00
 -- url     : https://prove2.me/theorems/ac341e91-33f4-44da-b771-854b43d6b0fb

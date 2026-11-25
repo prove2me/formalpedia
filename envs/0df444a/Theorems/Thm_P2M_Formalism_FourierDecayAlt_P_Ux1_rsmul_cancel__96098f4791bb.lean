@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Ux1_rsmul_cancel__96098f4791bb
 -- name    : P2M_Formalism_FourierDecayAlt_P_Ux1_rsmul_cancel__96098f4791bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:56:47.245492+00:00
 -- url     : https://prove2.me/theorems/f1a42467-b19e-4d5b-8f89-55a1c729a230

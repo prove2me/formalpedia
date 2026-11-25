@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_F_linearIndependent_coe_basis__a76a956f08cf
 -- name    : P2M_Formalism_F_linearIndependent_coe_basis__a76a956f08cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:54:25.639668+00:00
 -- url     : https://prove2.me/theorems/5ad2daaf-8b8e-414c-9094-5f6b5da97737

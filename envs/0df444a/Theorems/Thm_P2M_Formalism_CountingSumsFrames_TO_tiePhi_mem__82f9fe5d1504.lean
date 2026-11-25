@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CountingSumsFrames_TO_tiePhi_mem__82f9fe5d1504
 -- name    : P2M_Formalism_CountingSumsFrames_TO_tiePhi_mem__82f9fe5d1504
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:53:32.460033+00:00
 -- url     : https://prove2.me/theorems/89d88160-a1aa-4b10-b352-b96ffd1db936

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_exists_gen_pow_3b8b2f5fe473
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_exists_gen_pow_3b8b2f5fe473
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:53:25.219333+00:00
 -- url     : https://prove2.me/theorems/8a512249-d04a-46a2-a2d2-ad3ec50da230

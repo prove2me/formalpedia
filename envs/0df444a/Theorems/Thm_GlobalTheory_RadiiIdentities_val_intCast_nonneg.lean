@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RadiiIdentities_val_intCast_nonneg
 -- name    : GlobalTheory.RadiiIdentities.val_intCast_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:25:36.118785+00:00
 -- url     : https://prove2.me/theorems/a5a8d456-0c91-43a8-962c-6fe8a2afdc78

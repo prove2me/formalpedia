@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_Laurent_gaussNorm_cmul
 -- name    : GroundTheory.PAdicHodge.Laurent.gaussNorm_cmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:12.956634+00:00
 -- url     : https://prove2.me/theorems/4b7576a9-f732-4311-86c7-99cf98441d0a

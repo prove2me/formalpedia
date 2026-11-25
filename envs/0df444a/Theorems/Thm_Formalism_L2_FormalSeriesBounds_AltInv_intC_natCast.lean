@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_AltInv_intC_natCast
 -- name    : Formalism.L2.FormalSeriesBounds.AltInv.intC_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:19:30.399539+00:00
 -- url     : https://prove2.me/theorems/c0dbe265-1eda-488c-b6c7-767df7af6e0d

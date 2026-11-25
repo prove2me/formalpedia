@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_LongWeylElement_fin_cases__0856e4f673a2
 -- name    : P2M_Formalism_FourierDecayAlt_P_LongWeylElement_fin_cases__0856e4f673a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:56:06.865494+00:00
 -- url     : https://prove2.me/theorems/36d7e86a-2067-4e0f-a9a8-8b62df395a4b

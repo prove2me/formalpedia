@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_rtj_antidiag_split
 -- name    : Formalism.L2.FormalSeriesBounds.rtj_antidiag_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:27:32.474077+00:00
 -- url     : https://prove2.me/theorems/03bb66b0-aecd-4e30-81bd-9723b88488d9

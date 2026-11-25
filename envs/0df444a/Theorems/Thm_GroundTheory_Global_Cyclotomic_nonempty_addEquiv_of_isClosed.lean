@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_nonempty_addEquiv_of_isClosed
 -- name    : GroundTheory.Global.Cyclotomic.nonempty_addEquiv_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:38:23.416603+00:00
 -- url     : https://prove2.me/theorems/bc5085a4-d176-4158-bb53-603aeaac7a8f

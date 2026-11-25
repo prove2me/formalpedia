@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_mem_rayUnits_of_isSupportedAt
 -- name    : Neutral.B1.mem_rayUnits_of_isSupportedAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:52:19.149783+00:00
 -- url     : https://prove2.me/theorems/68a655a3-5cfd-4bda-a9f1-dfee9d36d72c

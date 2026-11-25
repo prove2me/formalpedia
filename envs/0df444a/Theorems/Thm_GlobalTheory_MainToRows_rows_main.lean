@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainToRows_rows_main
 -- name    : GlobalTheory.MainToRows.rows_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:26:11.460387+00:00
 -- url     : https://prove2.me/theorems/23d11faa-292f-4728-b59d-3d4220c6e7a7

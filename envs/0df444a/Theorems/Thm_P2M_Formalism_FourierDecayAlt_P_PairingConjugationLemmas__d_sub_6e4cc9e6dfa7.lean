@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_PairingConjugationLemmas__d_sub_6e4cc9e6dfa7
 -- name    : P2M_Formalism_FourierDecayAlt_P_PairingConjugationLemmas__d_sub_6e4cc9e6dfa7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:55:32.845421+00:00
 -- url     : https://prove2.me/theorems/4ce9eddf-3169-445f-bf3a-50688db4dd20

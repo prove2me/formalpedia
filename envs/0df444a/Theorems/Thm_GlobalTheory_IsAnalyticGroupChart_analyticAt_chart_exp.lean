@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAnalyticGroupChart_analyticAt_chart_exp
 -- name    : GlobalTheory.IsAnalyticGroupChart.analyticAt_chart_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:17:24.831129+00:00
 -- url     : https://prove2.me/theorems/ac6bb90e-4565-4be6-bf45-46603861fd29

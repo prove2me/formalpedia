@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_expG_smul_mem_maxCompact_real
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.expG_smul_mem_maxCompact_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:27:45.999444+00:00
 -- url     : https://prove2.me/theorems/c08de53b-eb34-46f0-a81b-df73b296e39d

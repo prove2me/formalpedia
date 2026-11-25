@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_constantCoeff_inCol
 -- name    : Formalism.L2.FormalSeriesBounds.constantCoeff_inCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:24:41.214199+00:00
 -- url     : https://prove2.me/theorems/8afbaf57-a7c4-4a33-8185-dc2ba7f5223c

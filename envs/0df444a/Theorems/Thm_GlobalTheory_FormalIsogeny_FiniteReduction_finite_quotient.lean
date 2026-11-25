@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalIsogeny_FiniteReduction_finite_quotient
 -- name    : GlobalTheory.FormalIsogeny.FiniteReduction.finite_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:02:06.392478+00:00
 -- url     : https://prove2.me/theorems/40886570-5d39-40db-9e15-833f3137f997

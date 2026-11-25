@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_orbQ_frob_bb6236d36b98
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_orbQ_frob_bb6236d36b98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:32.453068+00:00
 -- url     : https://prove2.me/theorems/75affc96-27cd-42fa-acb1-5d8d0ec7cfb6

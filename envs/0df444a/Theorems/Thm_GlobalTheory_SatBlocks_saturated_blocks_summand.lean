@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatBlocks_saturated_blocks_summand
 -- name    : GlobalTheory.SatBlocks.saturated_blocks_summand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:15:13.1715+00:00
 -- url     : https://prove2.me/theorems/ab18273d-d41a-43cc-9d52-6075935f8dc6

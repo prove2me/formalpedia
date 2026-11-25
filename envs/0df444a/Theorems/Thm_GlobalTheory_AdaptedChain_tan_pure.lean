@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedChain_tan_pure
 -- name    : GlobalTheory.AdaptedChain.tan_pure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:24:40.573207+00:00
 -- url     : https://prove2.me/theorems/82b40498-2a9a-412e-b68a-c077b7c53aab

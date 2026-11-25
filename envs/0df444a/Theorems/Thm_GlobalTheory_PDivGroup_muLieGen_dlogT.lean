@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_muLieGen_dlogT
 -- name    : GlobalTheory.PDivGroup.muLieGen_dlogT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:28:32.68552+00:00
 -- url     : https://prove2.me/theorems/9466710a-ced6-4a4e-806a-cc143353a214

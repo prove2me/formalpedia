@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_hasStrict_mul_b9d1a3e90d30
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_hasStrict_mul_b9d1a3e90d30
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:01:43.833136+00:00
 -- url     : https://prove2.me/theorems/892357b5-0a71-439d-802b-2823bb85f8be

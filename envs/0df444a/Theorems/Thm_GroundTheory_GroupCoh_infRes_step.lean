@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_infRes_step
 -- name    : GroundTheory.GroupCoh.infRes_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:43:42.143798+00:00
 -- url     : https://prove2.me/theorems/83c9f2af-b0f5-411a-939e-c4e6f0cf6ea3

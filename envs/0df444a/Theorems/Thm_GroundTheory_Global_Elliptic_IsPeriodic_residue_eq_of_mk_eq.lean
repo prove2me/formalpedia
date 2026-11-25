@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_IsPeriodic_residue_eq_of_mk_eq
 -- name    : GroundTheory.Global.Elliptic.IsPeriodic.residue_eq_of_mk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:37:22.548805+00:00
 -- url     : https://prove2.me/theorems/0aed424a-934e-486f-99f0-0495f8694736

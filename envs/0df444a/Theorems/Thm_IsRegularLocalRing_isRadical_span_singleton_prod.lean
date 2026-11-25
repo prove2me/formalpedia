@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsRegularLocalRing_isRadical_span_singleton_prod
 -- name    : IsRegularLocalRing.isRadical_span_singleton_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:22.74993+00:00
 -- url     : https://prove2.me/theorems/2bd8acc4-d64f-47e6-a763-999c47357cd0

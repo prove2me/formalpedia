@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_KummerIndex_ker_ordMod
 -- name    : GroundTheory.Global.KummerIndex.ker_ordMod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:40:44.548113+00:00
 -- url     : https://prove2.me/theorems/9359370f-8c65-4555-9bdf-49765d719df5

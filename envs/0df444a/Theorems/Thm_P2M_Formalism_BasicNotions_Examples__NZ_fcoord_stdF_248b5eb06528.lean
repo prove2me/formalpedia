@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_fcoord_stdF_248b5eb06528
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_fcoord_stdF_248b5eb06528
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:54:29.976733+00:00
 -- url     : https://prove2.me/theorems/a287428b-3903-4576-bc20-9fe61f5d7537

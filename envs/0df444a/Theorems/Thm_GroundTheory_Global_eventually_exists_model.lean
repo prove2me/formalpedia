@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_eventually_exists_model
 -- name    : GroundTheory.Global.eventually_exists_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:40:31.160866+00:00
 -- url     : https://prove2.me/theorems/8e4ec524-dee5-482f-b00a-310387f867be

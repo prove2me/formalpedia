@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvTruncatedPathsUniformV1
 -- name    : Kyprianou.Ch04.bvTruncatedPathsUniformV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:28:29.285249+00:00
 -- url     : https://prove2.me/theorems/c8c8df22-e6df-4c17-a3af-72855e4da59a

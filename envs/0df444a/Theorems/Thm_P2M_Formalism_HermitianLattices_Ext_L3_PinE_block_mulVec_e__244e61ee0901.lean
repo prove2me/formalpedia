@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_PinE_block_mulVec_e__244e61ee0901
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_PinE_block_mulVec_e__244e61ee0901
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:57:06.475536+00:00
 -- url     : https://prove2.me/theorems/b11f38cf-2904-4651-a8a0-abe122a7a9ef

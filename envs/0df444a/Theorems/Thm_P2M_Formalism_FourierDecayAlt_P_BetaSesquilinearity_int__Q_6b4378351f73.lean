@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_BetaSesquilinearity_int__Q_6b4378351f73
 -- name    : P2M_Formalism_FourierDecayAlt_P_BetaSesquilinearity_int__Q_6b4378351f73
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:55:03.963426+00:00
 -- url     : https://prove2.me/theorems/5e3d08dd-42a6-4af8-a6a9-e465b78bd5f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_exists_natCast_p_eq
 -- name    : GroundTheory.PAdicHodge.TeichLift.exists_natCast_p_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:45:27.943588+00:00
 -- url     : https://prove2.me/theorems/5a1e2db4-c244-4008-ae10-03e376b1230c

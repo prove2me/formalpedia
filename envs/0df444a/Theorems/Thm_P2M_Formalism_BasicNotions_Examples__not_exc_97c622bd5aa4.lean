@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__not_exc_97c622bd5aa4
 -- name    : P2M_Formalism_BasicNotions_Examples__not_exc_97c622bd5aa4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:53:23.899088+00:00
 -- url     : https://prove2.me/theorems/517e435a-d069-4089-b4c1-012f5169f68b

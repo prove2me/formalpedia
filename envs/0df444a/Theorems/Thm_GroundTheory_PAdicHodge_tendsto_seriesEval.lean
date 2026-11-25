@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_tendsto_seriesEval
 -- name    : GroundTheory.PAdicHodge.tendsto_seriesEval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:47:11.306555+00:00
 -- url     : https://prove2.me/theorems/7cddef6a-3c1a-458b-be70-2e7ef96bcda2

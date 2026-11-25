@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ringHom_ext_wittVector_preTilt
 -- name    : GroundTheory.PAdicHodge.ringHom_ext_wittVector_preTilt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:48:37.555342+00:00
 -- url     : https://prove2.me/theorems/6ea90998-62e9-47ed-82d5-91b2212f9e9f

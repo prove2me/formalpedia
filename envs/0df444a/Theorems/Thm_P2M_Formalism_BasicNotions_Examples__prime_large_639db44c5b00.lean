@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__prime_large_639db44c5b00
 -- name    : P2M_Formalism_BasicNotions_Examples__prime_large_639db44c5b00
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:53:11.37162+00:00
 -- url     : https://prove2.me/theorems/9a7cb3b0-e31c-4a12-a72b-6f0ede58ff84

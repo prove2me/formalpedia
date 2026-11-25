@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FG_SolveVAux_low_pow_sub__02c94c820c08
 -- name    : P2M_Formalism_FG_SolveVAux_low_pow_sub__02c94c820c08
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:54:56.362984+00:00
 -- url     : https://prove2.me/theorems/fbbb8204-40eb-4df1-9449-eb5185a42e03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_exists_density_03e233a4d5e1
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_exists_density_03e233a4d5e1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:13:28.916785+00:00
 -- url     : https://prove2.me/theorems/b282af54-e1e9-49b9-92bb-0462e9be8ec5

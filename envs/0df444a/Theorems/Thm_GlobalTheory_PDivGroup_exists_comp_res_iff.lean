@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_exists_comp_res_iff
 -- name    : GlobalTheory.PDivGroup.exists_comp_res_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:15.672834+00:00
 -- url     : https://prove2.me/theorems/2ffe513e-74e6-4295-8dd5-a30299a48528

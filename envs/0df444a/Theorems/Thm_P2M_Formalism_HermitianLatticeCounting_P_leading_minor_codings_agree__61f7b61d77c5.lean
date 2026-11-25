@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLatticeCounting_P_leading_minor_codings_agree__61f7b61d77c5
 -- name    : P2M_Formalism_HermitianLatticeCounting_P_leading_minor_codings_agree__61f7b61d77c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:56:29.954515+00:00
 -- url     : https://prove2.me/theorems/0b16b7ae-a65d-4c68-a3f0-994dca5fd76d

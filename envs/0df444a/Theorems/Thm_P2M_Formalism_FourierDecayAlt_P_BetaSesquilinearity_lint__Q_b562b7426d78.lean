@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_BetaSesquilinearity_lint__Q_b562b7426d78
 -- name    : P2M_Formalism_FourierDecayAlt_P_BetaSesquilinearity_lint__Q_b562b7426d78
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:54:55.779809+00:00
 -- url     : https://prove2.me/theorems/53878ce6-32e4-4185-aea0-bff180e4d54b
