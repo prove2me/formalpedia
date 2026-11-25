@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GFrames_Zh_inv_mul
 -- name    : GlobalTheory.HL.GFrames.Zh_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:25:39.252142+00:00
 -- url     : https://prove2.me/theorems/e8c4f087-e45e-52ed-a7d9-863e41b85681

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_NFUnique_exists_isometry
 -- name    : GlobalTheory.DegAsm.NFUnique.exists_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:20:53.475621+00:00
 -- url     : https://prove2.me/theorems/d34b65d4-c0b3-5b99-a72a-8bde5a16b998

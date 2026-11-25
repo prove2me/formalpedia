@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TypeRep_iso_of
 -- name    : GlobalTheory.HL.TypeRep.iso_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:36:21.055496+00:00
 -- url     : https://prove2.me/theorems/55a17d79-f4cd-46fa-9703-bf6c40ffb87a

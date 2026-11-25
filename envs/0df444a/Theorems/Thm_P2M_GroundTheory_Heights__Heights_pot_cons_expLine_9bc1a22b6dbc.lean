@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_pot_cons_expLine_9bc1a22b6dbc
 -- name    : P2M_GroundTheory_Heights__Heights_pot_cons_expLine_9bc1a22b6dbc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:49:51.842853+00:00
 -- url     : https://prove2.me/theorems/cc827332-3057-4d95-837d-8534b09f2935

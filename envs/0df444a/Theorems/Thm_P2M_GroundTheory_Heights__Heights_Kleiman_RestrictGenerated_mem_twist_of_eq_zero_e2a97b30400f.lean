@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_RestrictGenerated_mem_twist_of_eq_zero_e2a97b30400f
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_RestrictGenerated_mem_twist_of_eq_zero_e2a97b30400f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:12:08.450447+00:00
 -- url     : https://prove2.me/theorems/7aa28a79-9407-5242-a239-154564ae9fef

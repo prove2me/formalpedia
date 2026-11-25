@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_psum_isHomogeneous_alt_cf5b2b7cf173
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_psum_isHomogeneous_alt_cf5b2b7cf173
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:36:09.368386+00:00
 -- url     : https://prove2.me/theorems/f3f54d7d-3d95-4378-84ee-6bd755c431c5

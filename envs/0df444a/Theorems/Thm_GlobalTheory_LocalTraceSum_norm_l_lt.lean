@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalTraceSum_norm_l_lt
 -- name    : GlobalTheory.LocalTraceSum.norm_l_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:26:45.676494+00:00
 -- url     : https://prove2.me/theorems/140a51b3-764c-4cc9-a1ee-819b84620683

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DegAsm_NFUnique_wt_e__17fb0a146c66
 -- name    : P2M_GlobalTheory_DegAsm_NFUnique_wt_e__17fb0a146c66
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:01:26.717468+00:00
 -- url     : https://prove2.me/theorems/62e6dac2-a5a1-59e4-bb85-5b25da1134f9

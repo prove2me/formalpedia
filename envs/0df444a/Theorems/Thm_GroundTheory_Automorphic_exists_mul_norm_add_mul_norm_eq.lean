@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_mul_norm_add_mul_norm_eq
 -- name    : GroundTheory.Automorphic.exists_mul_norm_add_mul_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:13:57.034443+00:00
 -- url     : https://prove2.me/theorems/3cb8b91a-5579-5340-97c4-ed3218e2d692

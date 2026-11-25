@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_integral_Ioi_pow_div_add_pow_16caf08408db
 -- name    : P2M_GroundTheory_Heights__Heights_integral_Ioi_pow_div_add_pow_16caf08408db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:46:59.972797+00:00
 -- url     : https://prove2.me/theorems/d7a40594-52a7-4f09-8a9c-2ef887a11375

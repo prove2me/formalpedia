@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_gen_dense
 -- name    : GlobalTheory.Cyc.gen_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:03:48.594152+00:00
 -- url     : https://prove2.me/theorems/8afd3e9f-68db-49ac-bfac-2b80cf77499a

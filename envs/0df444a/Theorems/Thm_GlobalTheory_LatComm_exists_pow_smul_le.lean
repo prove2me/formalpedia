@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatComm_exists_pow_smul_le
 -- name    : GlobalTheory.LatComm.exists_pow_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:40:26.047227+00:00
 -- url     : https://prove2.me/theorems/9092a461-14d7-426c-b1a8-e10cc21786d8

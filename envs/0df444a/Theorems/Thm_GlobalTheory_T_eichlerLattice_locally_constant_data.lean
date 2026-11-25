@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eichlerLattice_locally_constant_data
 -- name    : GlobalTheory.T.eichlerLattice_locally_constant_data
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:52:48.112733+00:00
 -- url     : https://prove2.me/theorems/f1fd4017-d6b6-5ca8-9cb2-39abef99805e

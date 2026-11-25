@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirabolicIndex__card_nonzero_92fe098ea246
 -- name    : P2M_PI_MirabolicIndex__card_nonzero_92fe098ea246
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:56:53.505409+00:00
 -- url     : https://prove2.me/theorems/4e2165a8-ea0d-4e83-8dbc-3bb4d9c6bced

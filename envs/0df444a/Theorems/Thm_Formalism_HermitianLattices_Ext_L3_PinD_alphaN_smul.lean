@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinD_alphaN_smul
 -- name    : Formalism.HermitianLattices.Ext.L3.PinD.alphaN_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:24:48.919188+00:00
 -- url     : https://prove2.me/theorems/8248c9a2-f7b6-45ef-b7f6-39a814d1c722

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_spanFinrank_maximalIdeal_le_quotient_of_le_sq_c23dc5f32007
 -- name    : P2M_GroundTheory_Heights__Heights_spanFinrank_maximalIdeal_le_quotient_of_le_sq_c23dc5f32007
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:50:26.863317+00:00
 -- url     : https://prove2.me/theorems/958c51bb-366e-4198-a44e-9431bcc100ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_length_self_eq_of_ringEquiv_a79d4441b24a
 -- name    : P2M_GroundTheory_Heights__Heights_length_self_eq_of_ringEquiv_a79d4441b24a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:47:54.341947+00:00
 -- url     : https://prove2.me/theorems/86dcf611-5d70-45fe-b9d0-8c9719cb3b7d

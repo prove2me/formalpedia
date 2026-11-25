@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_reducedWignerCoefficient_lowering
 -- name    : GlobalTheory.T.reducedWignerCoefficient_lowering
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:46:18.956283+00:00
 -- url     : https://prove2.me/theorems/f24e097f-c64e-5548-b226-aa71fbacb26b

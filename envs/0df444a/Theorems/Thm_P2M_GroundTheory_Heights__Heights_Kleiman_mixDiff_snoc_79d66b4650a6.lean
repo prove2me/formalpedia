@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_mixDiff_snoc_79d66b4650a6
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_mixDiff_snoc_79d66b4650a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:24:14.419902+00:00
 -- url     : https://prove2.me/theorems/588dcc15-eac7-4b70-aa43-8322fba1a5a0

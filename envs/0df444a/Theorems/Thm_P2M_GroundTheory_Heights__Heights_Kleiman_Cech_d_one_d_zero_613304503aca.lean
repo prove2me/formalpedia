@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_d_one_d_zero_613304503aca
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Cech_d_one_d_zero_613304503aca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:21:54.211805+00:00
 -- url     : https://prove2.me/theorems/24545abf-b596-4735-91a7-d0806aa116e1

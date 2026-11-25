@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ClassCount_stab_le
 -- name    : GlobalTheory.HL.ClassCount.stab_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:32:18.89428+00:00
 -- url     : https://prove2.me/theorems/a88f061f-d060-4ec0-bbfe-3b6bb47a41e3

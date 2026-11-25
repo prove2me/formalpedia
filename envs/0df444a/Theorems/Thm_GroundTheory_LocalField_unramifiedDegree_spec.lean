@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_unramifiedDegree_spec
 -- name    : GroundTheory.LocalField.unramifiedDegree_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:21:18.479838+00:00
 -- url     : https://prove2.me/theorems/29b25a65-b81d-5fab-bbd9-72b45018fb1f

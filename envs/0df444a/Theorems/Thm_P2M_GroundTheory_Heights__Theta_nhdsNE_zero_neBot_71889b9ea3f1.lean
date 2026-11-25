@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_nhdsNE_zero_neBot_71889b9ea3f1
 -- name    : P2M_GroundTheory_Heights__Theta_nhdsNE_zero_neBot_71889b9ea3f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:54:01.547089+00:00
 -- url     : https://prove2.me/theorems/da20d095-8eb3-5254-9c93-c3d34688b3a6

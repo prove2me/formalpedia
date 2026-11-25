@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_of_mem_ker_fibreMap_c7c611ab7d4e
 -- name    : P2M_GroundTheory_Heights__Heights_exists_of_mem_ker_fibreMap_c7c611ab7d4e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:45:59.288798+00:00
 -- url     : https://prove2.me/theorems/514638bb-5fde-4d89-be2b-1167b13e64ff

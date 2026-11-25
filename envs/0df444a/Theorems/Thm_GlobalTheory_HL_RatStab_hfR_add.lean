@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RatStab_hfR_add
 -- name    : GlobalTheory.HL.RatStab.hfR_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:24:05.606378+00:00
 -- url     : https://prove2.me/theorems/c4f28717-f1e3-4a44-8355-ee0fb8f49099

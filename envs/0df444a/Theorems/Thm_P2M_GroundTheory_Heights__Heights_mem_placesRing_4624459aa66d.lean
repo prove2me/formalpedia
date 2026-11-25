@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_placesRing_4624459aa66d
 -- name    : P2M_GroundTheory_Heights__Heights_mem_placesRing_4624459aa66d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:49:04.026132+00:00
 -- url     : https://prove2.me/theorems/76067b02-5f7b-429f-9f65-3d34d70a93cb

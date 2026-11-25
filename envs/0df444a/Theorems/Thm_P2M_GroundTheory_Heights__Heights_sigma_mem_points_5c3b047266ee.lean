@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_sigma_mem_points_5c3b047266ee
 -- name    : P2M_GroundTheory_Heights__Heights_sigma_mem_points_5c3b047266ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:49:58.581985+00:00
 -- url     : https://prove2.me/theorems/ef71f735-55d6-40b0-9804-babf7b49992b

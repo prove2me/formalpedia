@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TraceRep_mof_transport
 -- name    : GlobalTheory.HL.TraceRep.mof_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:50:37.957454+00:00
 -- url     : https://prove2.me/theorems/cb82e4f1-4174-46a3-ba8a-e8347fb7791c

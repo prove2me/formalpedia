@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_primitive_hermitian_sublattice_discriminant_generators
 -- name    : GlobalTheory.T.primitive_hermitian_sublattice_discriminant_generators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:46:39.306357+00:00
 -- url     : https://prove2.me/theorems/fe208066-532c-4c1d-a02a-8d7987e07f9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_MainStatements_Hodge_Pf_AXO_isPullO_id__c9a67d2b14ee
 -- name    : P2M_MainStatements_Hodge_Pf_AXO_isPullO_id__c9a67d2b14ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:56:59.76981+00:00
 -- url     : https://prove2.me/theorems/d79b81fc-176c-46a3-b881-ffc4bf282fc0

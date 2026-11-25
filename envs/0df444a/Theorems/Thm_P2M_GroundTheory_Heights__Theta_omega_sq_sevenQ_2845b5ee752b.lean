@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_omega_sq_sevenQ_2845b5ee752b
 -- name    : P2M_GroundTheory_Heights__Theta_omega_sq_sevenQ_2845b5ee752b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:54:06.47979+00:00
 -- url     : https://prove2.me/theorems/cb0f20f5-c8d7-402d-8cb7-b462dda9990c

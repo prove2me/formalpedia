@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_twist_idealSys_of_irrelevant_6754bd39d524
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_twist_idealSys_of_irrelevant_6754bd39d524
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:05:03.738827+00:00
 -- url     : https://prove2.me/theorems/9e367bf5-81a0-5253-8bc5-c435ae29425e

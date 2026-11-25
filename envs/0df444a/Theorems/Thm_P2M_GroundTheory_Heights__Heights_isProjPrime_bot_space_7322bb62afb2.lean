@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isProjPrime_bot_space_7322bb62afb2
 -- name    : P2M_GroundTheory_Heights__Heights_isProjPrime_bot_space_7322bb62afb2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:47:15.231716+00:00
 -- url     : https://prove2.me/theorems/89305c71-8c37-4ae5-a9c0-1b2c86220661

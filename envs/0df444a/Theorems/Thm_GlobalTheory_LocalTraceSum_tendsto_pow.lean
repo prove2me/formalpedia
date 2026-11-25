@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalTraceSum_tendsto_pow
 -- name    : GlobalTheory.LocalTraceSum.tendsto_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:27:23.947437+00:00
 -- url     : https://prove2.me/theorems/71831c45-8ab9-4625-806b-5e94ae33b55b

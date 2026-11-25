@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LatCard_relIndex_tupLat_hermLat
 -- name    : GlobalTheory.HL.LatCard.relIndex_tupLat_hermLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:31:39.272929+00:00
 -- url     : https://prove2.me/theorems/6d35c83c-7317-4171-80d9-f409ffba9d9f

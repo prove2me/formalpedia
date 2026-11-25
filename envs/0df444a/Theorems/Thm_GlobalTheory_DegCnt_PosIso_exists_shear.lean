@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_exists_shear
 -- name    : GlobalTheory.DegCnt.PosIso.exists_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:26:03.419487+00:00
 -- url     : https://prove2.me/theorems/432d74c6-4b3b-410d-8cce-0212729ce225

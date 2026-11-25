@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DegenerateSiegelWeil_Scale_mulTup_one
 -- name    : PI.DegenerateSiegelWeil.Scale.mulTup_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:16:35.137467+00:00
 -- url     : https://prove2.me/theorems/712c9263-2aaf-5829-ba2c-035a5cf3cfe9

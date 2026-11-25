@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OffLeak_coset_eq_iff
 -- name    : GlobalTheory.HL.OffLeak.coset_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:11:04.290878+00:00
 -- url     : https://prove2.me/theorems/56045055-8424-51af-b6b3-a6d62fba95d9

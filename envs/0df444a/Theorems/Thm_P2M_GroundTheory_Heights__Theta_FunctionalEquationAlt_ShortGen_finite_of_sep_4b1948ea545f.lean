@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_finite_of_sep_4b1948ea545f
 -- name    : P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_finite_of_sep_4b1948ea545f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:07:36.267418+00:00
 -- url     : https://prove2.me/theorems/f9687801-7999-4771-98c0-aeaeb61dcf2b

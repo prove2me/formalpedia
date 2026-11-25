@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_quotient_mk_mem_maximalIdeal_d58999d4cb17
 -- name    : P2M_GroundTheory_Heights__Heights_quotient_mk_mem_maximalIdeal_d58999d4cb17
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:49:55.904833+00:00
 -- url     : https://prove2.me/theorems/f88182b8-2f6c-446d-876b-e7d2d345b12d

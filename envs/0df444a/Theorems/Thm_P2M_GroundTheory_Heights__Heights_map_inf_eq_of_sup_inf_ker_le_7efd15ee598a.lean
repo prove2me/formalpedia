@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_map_inf_eq_of_sup_inf_ker_le_7efd15ee598a
 -- name    : P2M_GroundTheory_Heights__Heights_map_inf_eq_of_sup_inf_ker_le_7efd15ee598a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:48:35.650398+00:00
 -- url     : https://prove2.me/theorems/5bb82d28-bf43-5397-86d0-fdb6e2059056

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_tangentGauss_indicator_eq_3ffb47ec0d7b
 -- name    : P2M_GroundTheory_Heights__Heights_tangentGauss_indicator_eq_3ffb47ec0d7b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:34:07.58522+00:00
 -- url     : https://prove2.me/theorems/e01252b2-ff9b-4e22-a979-f64d2b711b78

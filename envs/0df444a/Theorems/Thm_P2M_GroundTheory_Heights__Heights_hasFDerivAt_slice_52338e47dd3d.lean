@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_hasFDerivAt_slice_52338e47dd3d
 -- name    : P2M_GroundTheory_Heights__Heights_hasFDerivAt_slice_52338e47dd3d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:46:23.834807+00:00
 -- url     : https://prove2.me/theorems/8fd9b8c5-5664-515e-8c2a-8a7df7ff2440

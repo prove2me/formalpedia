@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_mul_mem_chartRing_29135794d49d
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_mul_mem_chartRing_29135794d49d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:02:15.366517+00:00
 -- url     : https://prove2.me/theorems/85a255f0-40bb-4b77-a0d8-d9912f5e96d7

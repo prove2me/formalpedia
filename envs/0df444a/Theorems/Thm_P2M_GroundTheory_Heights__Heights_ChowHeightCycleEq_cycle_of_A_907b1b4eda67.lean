@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightCycleEq_cycle_of_A_907b1b4eda67
 -- name    : P2M_GroundTheory_Heights__Heights_ChowHeightCycleEq_cycle_of_A_907b1b4eda67
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:23:11.571664+00:00
 -- url     : https://prove2.me/theorems/cd72afa0-a154-5adc-ab3d-85182d27701a

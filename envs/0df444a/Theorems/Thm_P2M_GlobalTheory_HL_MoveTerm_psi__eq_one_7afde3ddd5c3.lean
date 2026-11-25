@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HL_MoveTerm_psi__eq_one_7afde3ddd5c3
 -- name    : P2M_GlobalTheory_HL_MoveTerm_psi__eq_one_7afde3ddd5c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:27:54.536893+00:00
 -- url     : https://prove2.me/theorems/2012471e-7456-43f5-a1d3-10c569828369

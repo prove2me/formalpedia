@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OffLeak_relIndex_eq_of_reps
 -- name    : GlobalTheory.HL.OffLeak.relIndex_eq_of_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:22:18.120848+00:00
 -- url     : https://prove2.me/theorems/c02a396e-1bf2-44bf-8b28-4ca7e87f1ac3

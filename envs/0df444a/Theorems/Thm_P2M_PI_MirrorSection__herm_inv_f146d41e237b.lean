@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirrorSection__herm_inv_f146d41e237b
 -- name    : P2M_PI_MirrorSection__herm_inv_f146d41e237b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:57:19.892794+00:00
 -- url     : https://prove2.me/theorems/d68cdcff-de8d-49e6-85a8-4e41a17d6fb1

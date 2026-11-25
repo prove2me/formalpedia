@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootArithmeticVariety_isIntegral_rootCoord_fd120b423998
 -- name    : P2M_GroundTheory_Heights__Heights_RootArithmeticVariety_isIntegral_rootCoord_fd120b423998
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:36:51.916082+00:00
 -- url     : https://prove2.me/theorems/3fe5a404-4f0e-4ba2-8764-0f7790f460e9

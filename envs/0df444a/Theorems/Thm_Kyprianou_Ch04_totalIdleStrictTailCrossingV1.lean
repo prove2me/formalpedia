@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_totalIdleStrictTailCrossingV1
 -- name    : Kyprianou.Ch04.totalIdleStrictTailCrossingV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:58:20.990297+00:00
 -- url     : https://prove2.me/theorems/1900c001-25ab-45c4-8c8f-ccb8c8bdbc88

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_nat_of_add_natCast_eq_f07c20395f14
 -- name    : P2M_GroundTheory_Heights__Heights_exists_nat_of_add_natCast_eq_f07c20395f14
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:46:21.116985+00:00
 -- url     : https://prove2.me/theorems/d5d11ee5-5fd4-4d14-aa78-b908fbb1bcf5

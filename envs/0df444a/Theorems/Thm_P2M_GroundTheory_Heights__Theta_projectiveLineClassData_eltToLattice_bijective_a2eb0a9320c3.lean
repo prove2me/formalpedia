@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_projectiveLineClassData_eltToLattice_bijective_a2eb0a9320c3
 -- name    : P2M_GroundTheory_Heights__Theta_projectiveLineClassData_eltToLattice_bijective_a2eb0a9320c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:05.513899+00:00
 -- url     : https://prove2.me/theorems/bf965aee-8c23-4aab-8c90-7971223f7e56

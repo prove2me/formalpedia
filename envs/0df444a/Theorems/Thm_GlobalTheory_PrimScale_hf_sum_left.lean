@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimScale_hf_sum_left
 -- name    : GlobalTheory.PrimScale.hf_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:27:39.110804+00:00
 -- url     : https://prove2.me/theorems/ed5a39b9-9ab4-424e-a0e8-e69765a66a8f

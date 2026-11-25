@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_homogeneousComponent_aeval_coordPlaneSubst_6be6f2ef863d
 -- name    : P2M_GroundTheory_Heights__Heights_homogeneousComponent_aeval_coordPlaneSubst_6be6f2ef863d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:46:53.463047+00:00
 -- url     : https://prove2.me/theorems/06de5bae-853c-42cd-aefb-503548a1a611

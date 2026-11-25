@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_isVeryAmpleBy_twistSys_one_0b95c573b325
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_isVeryAmpleBy_twistSys_one_0b95c573b325
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:04:24.315858+00:00
 -- url     : https://prove2.me/theorems/e66fac3b-2048-5473-8511-b8bd083299d1

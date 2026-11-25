@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_weierstrassP_add_of_two_mul_notMem
 -- name    : GroundTheory.Global.Elliptic.weierstrassP_add_of_two_mul_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:49:10.006353+00:00
 -- url     : https://prove2.me/theorems/0c4495ef-26f3-5477-a47a-51c9f47672ca

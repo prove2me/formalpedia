@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_idleRegulatorFiniteIdentityV1
 -- name    : Kyprianou.Ch04.idleRegulatorFiniteIdentityV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:14:28.222875+00:00
 -- url     : https://prove2.me/theorems/1b231161-ddc9-4eda-98ee-5cecb6a488d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_frozenOperator_comp_parametrix
 -- name    : GroundTheory.Automorphic.Sobolev.frozenOperator_comp_parametrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:20:02.165596+00:00
 -- url     : https://prove2.me/theorems/9c9a3f66-5f68-5eff-a5cb-24f43c3b25c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_uSpace_le_vSpace_rankTwo_25fcee178a13
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_uSpace_le_vSpace_rankTwo_25fcee178a13
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:41:17.581825+00:00
 -- url     : https://prove2.me/theorems/f00781f2-66d4-5d59-8721-612f816c3444

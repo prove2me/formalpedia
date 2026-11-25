@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryGlModule_level_sum_norm_sq_le
 -- name    : GlobalTheory.T.unitaryGlModule_level_sum_norm_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:49:34.932+00:00
 -- url     : https://prove2.me/theorems/afb6a77d-ce1b-4b07-8f3e-00fd54c44561

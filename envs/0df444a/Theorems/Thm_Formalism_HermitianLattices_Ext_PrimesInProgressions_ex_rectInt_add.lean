@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_ex_rectInt_add
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.ex_rectInt_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:49:32.406574+00:00
 -- url     : https://prove2.me/theorems/d386ccd9-32ce-5b7b-87d2-59fe960aaeec

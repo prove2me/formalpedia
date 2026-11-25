@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_map_linForm_9ef493b744da
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_map_linForm_9ef493b744da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:06:51.254569+00:00
 -- url     : https://prove2.me/theorems/69f0639f-fc86-4863-937c-e6dc2d979073

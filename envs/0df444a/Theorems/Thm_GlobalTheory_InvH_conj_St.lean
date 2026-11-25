@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvH_conj_St
 -- name    : GlobalTheory.InvH.conj_St
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:42:21.907636+00:00
 -- url     : https://prove2.me/theorems/c589edf3-fbdf-55bb-90a3-c0a1cbb1a7d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_logCardLength_length_loc_add_dd1c77339ebc
 -- name    : P2M_GroundTheory_Heights__Heights_logCardLength_length_loc_add_dd1c77339ebc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:48:32.791533+00:00
 -- url     : https://prove2.me/theorems/c9551353-4592-48c6-85fc-2ad75402af99

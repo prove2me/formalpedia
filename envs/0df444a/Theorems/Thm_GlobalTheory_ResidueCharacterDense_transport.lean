@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueCharacterDense_transport
 -- name    : GlobalTheory.ResidueCharacterDense.transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:29:38.155599+00:00
 -- url     : https://prove2.me/theorems/504d589f-0131-5603-a75b-4d4580bfa877

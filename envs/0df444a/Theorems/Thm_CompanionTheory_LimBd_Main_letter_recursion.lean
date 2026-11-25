@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_letter_recursion
 -- name    : CompanionTheory.LimBd.Main.letter_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:56:59.72704+00:00
 -- url     : https://prove2.me/theorems/ae6504f7-5073-4d7d-a0b2-ee943f476034

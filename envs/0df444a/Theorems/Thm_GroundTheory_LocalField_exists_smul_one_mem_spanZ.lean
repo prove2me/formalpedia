@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_smul_one_mem_spanZ
 -- name    : GroundTheory.LocalField.exists_smul_one_mem_spanZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:30:38.053104+00:00
 -- url     : https://prove2.me/theorems/7db89a0d-edec-592d-8611-440c23d3833b

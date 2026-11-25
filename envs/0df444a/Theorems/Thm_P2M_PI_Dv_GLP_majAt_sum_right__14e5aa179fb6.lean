@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_GLP_majAt_sum_right__14e5aa179fb6
 -- name    : P2M_PI_Dv_GLP_majAt_sum_right__14e5aa179fb6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:56:25.08553+00:00
 -- url     : https://prove2.me/theorems/64aa4186-ace3-487b-bf9b-402705b02cb6

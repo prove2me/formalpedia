@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_LogCoverDescent_eq_of_exp_eq_d620f9f7ef1f
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_LogCoverDescent_eq_of_exp_eq_d620f9f7ef1f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:17:33.179827+00:00
 -- url     : https://prove2.me/theorems/4a29ed27-f7c1-41ac-a898-1c28a4b78bb3

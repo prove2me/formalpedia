@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_hsymm_isHomogeneous_fa4efb84373b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_hsymm_isHomogeneous_fa4efb84373b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:36:35.116799+00:00
 -- url     : https://prove2.me/theorems/56f702bc-a159-5541-b478-aad79bfc3e33

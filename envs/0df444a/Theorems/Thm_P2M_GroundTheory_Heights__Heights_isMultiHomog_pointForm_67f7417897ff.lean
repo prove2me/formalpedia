@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isMultiHomog_pointForm_67f7417897ff
 -- name    : P2M_GroundTheory_Heights__Heights_isMultiHomog_pointForm_67f7417897ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:48:52.589207+00:00
 -- url     : https://prove2.me/theorems/1fb01bfa-ac76-52ae-84e5-1ccd72be1e7e

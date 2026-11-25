@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_det_one_add_adjoint_comp_self_pos_7ff02534c3e6
 -- name    : P2M_GroundTheory_Heights__Heights_det_one_add_adjoint_comp_self_pos_7ff02534c3e6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:36.3598+00:00
 -- url     : https://prove2.me/theorems/425c608c-8b43-439a-a2fe-3d36dd0d80b6

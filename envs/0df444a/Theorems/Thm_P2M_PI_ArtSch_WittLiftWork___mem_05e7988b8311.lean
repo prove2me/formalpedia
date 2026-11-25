@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ArtSch_WittLiftWork___mem_05e7988b8311
 -- name    : P2M_PI_ArtSch_WittLiftWork___mem_05e7988b8311
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:34.557273+00:00
 -- url     : https://prove2.me/theorems/8131558e-aacf-4ea9-9946-cbb0b51ab9a1

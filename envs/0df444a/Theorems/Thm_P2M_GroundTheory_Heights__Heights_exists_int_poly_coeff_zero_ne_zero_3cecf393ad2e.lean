@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_int_poly_coeff_zero_ne_zero_3cecf393ad2e
 -- name    : P2M_GroundTheory_Heights__Heights_exists_int_poly_coeff_zero_ne_zero_3cecf393ad2e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:46:23.591154+00:00
 -- url     : https://prove2.me/theorems/07ead2bd-1566-46b4-ae20-e560ac0efd0b

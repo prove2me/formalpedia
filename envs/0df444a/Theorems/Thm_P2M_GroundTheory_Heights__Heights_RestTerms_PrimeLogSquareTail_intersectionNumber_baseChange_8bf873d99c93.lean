@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_PrimeLogSquareTail_intersectionNumber_baseChange_8bf873d99c93
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_PrimeLogSquareTail_intersectionNumber_baseChange_8bf873d99c93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:05:50.392645+00:00
 -- url     : https://prove2.me/theorems/9749cd00-cb46-4282-947d-0430d6476cda

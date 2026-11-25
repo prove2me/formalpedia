@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormDimLe_exists_ne_zero_common_zero_32ad9558f68b
 -- name    : P2M_GroundTheory_Heights__Heights_ChowFormDimLe_exists_ne_zero_common_zero_32ad9558f68b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:38:19.830024+00:00
 -- url     : https://prove2.me/theorems/825f5add-cbe6-4962-bb5e-a993f22b3faa

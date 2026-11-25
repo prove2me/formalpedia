@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_relabelRingEquiv_symm_apply_679901b5bc6a
 -- name    : P2M_GroundTheory_Heights__Heights_relabelRingEquiv_symm_apply_679901b5bc6a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:49:41.702494+00:00
 -- url     : https://prove2.me/theorems/9471c793-dba0-4e70-8d92-61d614b8a9af

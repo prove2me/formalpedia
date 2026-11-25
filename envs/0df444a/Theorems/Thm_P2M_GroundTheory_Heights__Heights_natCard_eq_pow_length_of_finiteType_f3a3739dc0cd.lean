@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_natCard_eq_pow_length_of_finiteType_f3a3739dc0cd
 -- name    : P2M_GroundTheory_Heights__Heights_natCard_eq_pow_length_of_finiteType_f3a3739dc0cd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:32.631811+00:00
 -- url     : https://prove2.me/theorems/53910414-0ea1-49f8-993c-da24d64416e9

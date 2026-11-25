@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_lengthTerm_eq_13258b0bf097
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_lengthTerm_eq_13258b0bf097
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:18:06.754826+00:00
 -- url     : https://prove2.me/theorems/73477441-76b3-5a7d-9f4d-6c43719caa81

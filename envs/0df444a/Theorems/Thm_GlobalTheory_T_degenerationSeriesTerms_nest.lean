@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_degenerationSeriesTerms_nest
 -- name    : GlobalTheory.T.degenerationSeriesTerms_nest
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:06.929432+00:00
 -- url     : https://prove2.me/theorems/7522da84-8775-490c-819c-d63dba75089d

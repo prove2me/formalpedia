@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nonempty_cubeHomology_equiv_of_homotopy
 -- name    : GlobalTheory.nonempty_cubeHomology_equiv_of_homotopy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:51:00.356208+00:00
 -- url     : https://prove2.me/theorems/c7836101-578f-4241-922c-51a6152f349d

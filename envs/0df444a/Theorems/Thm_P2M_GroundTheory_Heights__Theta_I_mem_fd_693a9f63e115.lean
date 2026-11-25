@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_I_mem_fd_693a9f63e115
 -- name    : P2M_GroundTheory_Heights__Theta_I_mem_fd_693a9f63e115
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:51:05.572209+00:00
 -- url     : https://prove2.me/theorems/762277ca-96bd-4190-a68d-51a0484771c8

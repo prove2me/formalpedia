@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Modulus_mem_idelesOneMod
 -- name    : GroundTheory.Global.Modulus.mem_idelesOneMod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:13:41.731122+00:00
 -- url     : https://prove2.me/theorems/77544593-d145-40c2-9800-9e542de46181

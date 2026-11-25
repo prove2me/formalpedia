@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_rabinowitschIdeal_map_994460cd29d0
 -- name    : P2M_GroundTheory_Heights__Heights_rabinowitschIdeal_map_994460cd29d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:49:48.14935+00:00
 -- url     : https://prove2.me/theorems/44eead96-f11e-4166-8a9c-5984d485116c

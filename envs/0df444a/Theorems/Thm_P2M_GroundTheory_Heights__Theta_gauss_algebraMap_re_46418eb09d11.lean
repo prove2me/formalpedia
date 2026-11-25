@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_gauss_algebraMap_re_46418eb09d11
 -- name    : P2M_GroundTheory_Heights__Theta_gauss_algebraMap_re_46418eb09d11
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:53:35.619802+00:00
 -- url     : https://prove2.me/theorems/e30bc095-6883-592e-bae7-7b2dcf61ecd3

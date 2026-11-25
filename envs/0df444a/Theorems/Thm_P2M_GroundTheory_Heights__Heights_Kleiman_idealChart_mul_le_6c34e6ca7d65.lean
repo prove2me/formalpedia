@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_idealChart_mul_le_6c34e6ca7d65
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_idealChart_mul_le_6c34e6ca7d65
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:08:36.901098+00:00
 -- url     : https://prove2.me/theorems/99926b4b-ae4c-5e96-b372-aed19da06114

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_projectiveLineClassData_summable_eisTerm_c032e00307cd
 -- name    : P2M_GroundTheory_Heights__Theta_projectiveLineClassData_summable_eisTerm_c032e00307cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:55:13.531003+00:00
 -- url     : https://prove2.me/theorems/a703eb67-1507-4f96-b52b-dad054bfe923

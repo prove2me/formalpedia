@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_sliceCMUnmixed_local_c3dc3ab32cc1
 -- name    : P2M_GroundTheory_Heights__Heights_sliceCMUnmixed_local_c3dc3ab32cc1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:50:41.051457+00:00
 -- url     : https://prove2.me/theorems/3dfaca71-e5cb-4dcc-941a-8fffc5eb03f7

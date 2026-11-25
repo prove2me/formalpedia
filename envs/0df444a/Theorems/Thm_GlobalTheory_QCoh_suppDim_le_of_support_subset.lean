@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_suppDim_le_of_support_subset
 -- name    : GlobalTheory.QCoh.suppDim_le_of_support_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:04:17.739922+00:00
 -- url     : https://prove2.me/theorems/6bfd7faf-30db-4e76-b69b-8b0ed984c21b

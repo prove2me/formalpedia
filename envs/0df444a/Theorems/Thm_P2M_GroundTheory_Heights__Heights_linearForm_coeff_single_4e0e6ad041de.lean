@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_linearForm_coeff_single_4e0e6ad041de
 -- name    : P2M_GroundTheory_Heights__Heights_linearForm_coeff_single_4e0e6ad041de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:48:06.091829+00:00
 -- url     : https://prove2.me/theorems/bf5c2ee6-9f23-4035-992c-0cf05ad0dd8d

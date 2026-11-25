@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TraceRep_frame_perp
 -- name    : GlobalTheory.HL.TraceRep.frame_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:37:42.101441+00:00
 -- url     : https://prove2.me/theorems/d957b685-3068-4141-8931-d30fca39ceb7

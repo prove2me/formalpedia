@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_prod_snoc_snoc_pow_384266ffe3e3
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_prod_snoc_snoc_pow_384266ffe3e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:07:04.527415+00:00
 -- url     : https://prove2.me/theorems/7c7ef919-0d50-528d-9af1-b8ef3f233f2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveVerticalPointInjective_coord_ne_zero_28a40751c75c
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveVerticalPointInjective_coord_ne_zero_28a40751c75c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:15:22.988772+00:00
 -- url     : https://prove2.me/theorems/48b07e27-7d47-43ff-8343-42a0d2074755

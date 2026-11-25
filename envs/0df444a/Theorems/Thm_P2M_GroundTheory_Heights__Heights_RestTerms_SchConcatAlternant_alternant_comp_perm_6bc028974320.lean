@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchConcatAlternant_alternant_comp_perm_6bc028974320
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchConcatAlternant_alternant_comp_perm_6bc028974320
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:56:52.059303+00:00
 -- url     : https://prove2.me/theorems/1ce8a9d6-d7e0-5709-aa41-3a1fb3076b08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasSum_indicator_factoredIdeals
 -- name    : GroundTheory.Global.hasSum_indicator_factoredIdeals
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:02:40.478811+00:00
 -- url     : https://prove2.me/theorems/d8076e68-38a2-5333-947b-b5b2ffb8c654

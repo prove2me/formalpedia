@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_isOpen_positiveAt
 -- name    : GroundTheory.Global.IdeleGroup.isOpen_positiveAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:11:55.560556+00:00
 -- url     : https://prove2.me/theorems/52bc4aa6-c6e4-5d71-a739-b0a788ea8a63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_card_latticeWords_zero_of_eq_zero_ae88b6fd3ba2
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_card_latticeWords_zero_of_eq_zero_ae88b6fd3ba2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:05:02.065274+00:00
 -- url     : https://prove2.me/theorems/57c7bb24-a8c8-59f9-95bf-2b2f9eadd343

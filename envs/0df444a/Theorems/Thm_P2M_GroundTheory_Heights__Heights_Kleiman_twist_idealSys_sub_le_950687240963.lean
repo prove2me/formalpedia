@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_twist_idealSys_sub_le_950687240963
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_twist_idealSys_sub_le_950687240963
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:02:23.488142+00:00
 -- url     : https://prove2.me/theorems/07bf40e7-bc3d-4b68-830e-4fe32d2f6c90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_Partition_exact_of_partition_751a789b2856
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Cech_Partition_exact_of_partition_751a789b2856
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:06:40.353902+00:00
 -- url     : https://prove2.me/theorems/93b6001f-56f1-473a-8e31-f33e4af1989b

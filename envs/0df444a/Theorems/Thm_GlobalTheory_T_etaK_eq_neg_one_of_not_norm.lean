@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_etaK_eq_neg_one_of_not_norm
 -- name    : GlobalTheory.T.etaK_eq_neg_one_of_not_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:45:03.917815+00:00
 -- url     : https://prove2.me/theorems/09cc7954-9c91-53bf-84f9-db9e55a70954

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HL_MoveWit_f__perp_4f16c2e0247f
 -- name    : P2M_GlobalTheory_HL_MoveWit_f__perp_4f16c2e0247f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:05:55.150231+00:00
 -- url     : https://prove2.me/theorems/266bbac3-cb80-4ee0-bf72-f8d3da455393

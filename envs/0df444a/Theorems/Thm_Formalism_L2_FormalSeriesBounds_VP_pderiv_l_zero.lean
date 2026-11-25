@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_pderiv_l_zero
 -- name    : Formalism.L2.FormalSeriesBounds.VP.pderiv_l_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:12:28.868676+00:00
 -- url     : https://prove2.me/theorems/214d2c44-c41c-50a5-95a8-dc39d3bcf0d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_eq_const_of_mem_zeroSetIn_lineDiagonal_2595c2d97644
 -- name    : P2M_GroundTheory_Heights__Heights_eq_const_of_mem_zeroSetIn_lineDiagonal_2595c2d97644
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:45:51.020135+00:00
 -- url     : https://prove2.me/theorems/f7b3c0ee-7b9c-4b58-bfb3-a6833520a322

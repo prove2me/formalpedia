@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_maximalIdeal_quotient_eq_span_94118f2bcac6
 -- name    : P2M_GroundTheory_Heights__Heights_maximalIdeal_quotient_eq_span_94118f2bcac6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:49:18.752116+00:00
 -- url     : https://prove2.me/theorems/ddf91024-a88c-47a7-ad1e-0e4e545dcb7b

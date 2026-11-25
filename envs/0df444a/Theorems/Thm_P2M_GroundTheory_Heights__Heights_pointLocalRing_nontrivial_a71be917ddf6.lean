@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_pointLocalRing_nontrivial_a71be917ddf6
 -- name    : P2M_GroundTheory_Heights__Heights_pointLocalRing_nontrivial_a71be917ddf6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:49:28.97245+00:00
 -- url     : https://prove2.me/theorems/f51fd74b-86a6-49ae-bc0d-4f1a6f9851c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianMatrix_congruence_content_jacobian
 -- name    : GlobalTheory.T.hermitianMatrix_congruence_content_jacobian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:24:07.946041+00:00
 -- url     : https://prove2.me/theorems/8ee03d1e-ae1d-5b69-abda-fb04798b29ff

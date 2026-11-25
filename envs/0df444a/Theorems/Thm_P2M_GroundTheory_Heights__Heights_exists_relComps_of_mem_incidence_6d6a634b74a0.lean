@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_relComps_of_mem_incidence_6d6a634b74a0
 -- name    : P2M_GroundTheory_Heights__Heights_exists_relComps_of_mem_incidence_6d6a634b74a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:48:05.197117+00:00
 -- url     : https://prove2.me/theorems/a56aeb67-f127-55e6-b9dd-947ce8910767

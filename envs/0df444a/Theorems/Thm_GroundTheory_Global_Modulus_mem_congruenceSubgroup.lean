@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Modulus_mem_congruenceSubgroup
 -- name    : GroundTheory.Global.Modulus.mem_congruenceSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:22:51.038584+00:00
 -- url     : https://prove2.me/theorems/2aed6add-fb82-4da3-b5dd-5b4d7f352379

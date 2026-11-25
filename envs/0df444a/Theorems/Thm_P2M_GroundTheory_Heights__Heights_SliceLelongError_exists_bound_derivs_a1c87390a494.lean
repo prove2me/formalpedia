@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceLelongError_exists_bound_derivs_a1c87390a494
 -- name    : P2M_GroundTheory_Heights__Heights_SliceLelongError_exists_bound_derivs_a1c87390a494
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:38:18.239822+00:00
 -- url     : https://prove2.me/theorems/378d12e3-9906-4d62-aec3-e6c38cf06eec

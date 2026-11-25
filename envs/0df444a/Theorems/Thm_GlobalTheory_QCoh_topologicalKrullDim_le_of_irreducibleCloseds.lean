@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_topologicalKrullDim_le_of_irreducibleCloseds
 -- name    : GlobalTheory.QCoh.topologicalKrullDim_le_of_irreducibleCloseds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:04:43.254155+00:00
 -- url     : https://prove2.me/theorems/bc3318cf-0972-4128-9d03-7259c7b89081

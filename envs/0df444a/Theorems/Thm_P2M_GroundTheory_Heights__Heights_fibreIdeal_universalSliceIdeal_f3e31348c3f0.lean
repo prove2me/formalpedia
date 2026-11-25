@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_fibreIdeal_universalSliceIdeal_f3e31348c3f0
 -- name    : P2M_GroundTheory_Heights__Heights_fibreIdeal_universalSliceIdeal_f3e31348c3f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:46:36.847441+00:00
 -- url     : https://prove2.me/theorems/4ca10166-da02-428c-bce6-f9c9bfd16bc4

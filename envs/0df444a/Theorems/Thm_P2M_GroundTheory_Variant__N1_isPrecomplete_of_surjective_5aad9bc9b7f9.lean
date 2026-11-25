@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_isPrecomplete_of_surjective_5aad9bc9b7f9
 -- name    : P2M_GroundTheory_Variant__N1_isPrecomplete_of_surjective_5aad9bc9b7f9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:54:49.662096+00:00
 -- url     : https://prove2.me/theorems/e548fa4d-40da-5ed3-ba54-87269b246026

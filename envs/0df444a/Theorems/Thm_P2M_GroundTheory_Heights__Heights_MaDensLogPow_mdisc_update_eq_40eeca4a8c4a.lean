@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MaDensLogPow_mdisc_update_eq_40eeca4a8c4a
 -- name    : P2M_GroundTheory_Heights__Heights_MaDensLogPow_mdisc_update_eq_40eeca4a8c4a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:28:09.871567+00:00
 -- url     : https://prove2.me/theorems/8f340472-8445-46cd-a201-6be3b6bf5650

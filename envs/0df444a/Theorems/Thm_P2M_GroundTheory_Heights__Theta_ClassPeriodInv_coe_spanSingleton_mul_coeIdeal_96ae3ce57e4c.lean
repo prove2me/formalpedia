@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ClassPeriodInv_coe_spanSingleton_mul_coeIdeal_96ae3ce57e4c
 -- name    : P2M_GroundTheory_Heights__Theta_ClassPeriodInv_coe_spanSingleton_mul_coeIdeal_96ae3ce57e4c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:51:23.967+00:00
 -- url     : https://prove2.me/theorems/46337bb6-5d8e-46fb-bd70-27b8ae0f0d86

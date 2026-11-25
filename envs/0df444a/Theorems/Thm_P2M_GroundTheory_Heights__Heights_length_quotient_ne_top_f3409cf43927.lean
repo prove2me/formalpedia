@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_length_quotient_ne_top_f3409cf43927
 -- name    : P2M_GroundTheory_Heights__Heights_length_quotient_ne_top_f3409cf43927
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:47:52.71483+00:00
 -- url     : https://prove2.me/theorems/c619633a-76aa-44cb-b0d4-eb2b3c6bb2cc

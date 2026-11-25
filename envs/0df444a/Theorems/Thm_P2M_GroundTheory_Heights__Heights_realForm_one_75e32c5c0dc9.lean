@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_realForm_one_75e32c5c0dc9
 -- name    : P2M_GroundTheory_Heights__Heights_realForm_one_75e32c5c0dc9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:49:49.565598+00:00
 -- url     : https://prove2.me/theorems/efc23f55-1855-453f-a4da-0acf883adf72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_cont_independent_pos
 -- name    : GlobalTheory.HL.cont_independent_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:34:03.131056+00:00
 -- url     : https://prove2.me/theorems/dc57968d-b55f-450f-95b1-0ffbb1d517cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_weightedHomogeneousComponent_mem_of_mem_divSupp_e3089701197a
 -- name    : P2M_GroundTheory_Heights__Heights_weightedHomogeneousComponent_mem_of_mem_divSupp_e3089701197a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:52:05.886807+00:00
 -- url     : https://prove2.me/theorems/33a64aeb-e9f0-4b19-8938-7bdc5616ffb1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ringKrullDim_quotient_le_sup_span_add_50e3c8207bac
 -- name    : P2M_GroundTheory_Heights__Heights_ringKrullDim_quotient_le_sup_span_add_50e3c8207bac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:50:50.409068+00:00
 -- url     : https://prove2.me/theorems/1f69f4c6-ffa0-4ac2-b48a-bd9e291f23fa

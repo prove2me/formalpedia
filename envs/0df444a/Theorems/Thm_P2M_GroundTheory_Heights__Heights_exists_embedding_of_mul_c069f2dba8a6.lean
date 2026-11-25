@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_embedding_of_mul_c069f2dba8a6
 -- name    : P2M_GroundTheory_Heights__Heights_exists_embedding_of_mul_c069f2dba8a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:50:05.585675+00:00
 -- url     : https://prove2.me/theorems/7dfb0757-ba6d-5813-9b85-e9c60370fae7

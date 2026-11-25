@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_coneTangent_self_8b2ec418ba5d
 -- name    : P2M_GroundTheory_Heights__Heights_mem_coneTangent_self_8b2ec418ba5d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:48:55.946555+00:00
 -- url     : https://prove2.me/theorems/8c7811a8-1c05-4d57-95c7-828af5f56102

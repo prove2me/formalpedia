@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SpecChart_Q_le_comap_5dabf6160a8d
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SpecChart_Q_le_comap_5dabf6160a8d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:07:42.446903+00:00
 -- url     : https://prove2.me/theorems/b0e32cb0-a20a-5acd-96ba-02f6784ff166

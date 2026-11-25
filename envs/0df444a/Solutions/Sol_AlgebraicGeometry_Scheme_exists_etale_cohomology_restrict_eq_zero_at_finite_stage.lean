@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AlgebraicGeometry.Scheme.exists_etale_cohomology_restrict_eq_zero_at_finite_stage
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-11-25T06:35:34.552149+00:00
 -- url     : https://prove2.me/submissions/b05d7759-d37f-46b7-be30-e799704525ea
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AlgebraicGeometry_EtaleCohomologyRestrictionComposition
 import Mathlib.AlgebraicGeometry.AffineTransitionLimit

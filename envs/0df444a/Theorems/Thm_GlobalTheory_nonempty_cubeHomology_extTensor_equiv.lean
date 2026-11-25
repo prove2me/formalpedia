@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nonempty_cubeHomology_extTensor_equiv
 -- name    : GlobalTheory.nonempty_cubeHomology_extTensor_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:49:54.063988+00:00
 -- url     : https://prove2.me/theorems/429ffa78-bfcf-51b2-99ec-62f888afde16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagAltTopDegree_proof_2392ccb4ee88
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagAltTopDegree_proof_2392ccb4ee88
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:01:59.979107+00:00
 -- url     : https://prove2.me/theorems/9e2d8f50-e519-48ff-b9a1-3e4d28e5f865

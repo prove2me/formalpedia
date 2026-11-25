@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isFlagIntegral_one_1b5265d8358b
 -- name    : P2M_GroundTheory_Heights__Heights_isFlagIntegral_one_1b5265d8358b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:47:04.574835+00:00
 -- url     : https://prove2.me/theorems/5701c679-f0c3-434d-913b-2bc93fe6b7f8

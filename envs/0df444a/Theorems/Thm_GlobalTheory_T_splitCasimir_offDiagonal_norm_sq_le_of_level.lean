@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_splitCasimir_offDiagonal_norm_sq_le_of_level
 -- name    : GlobalTheory.T.splitCasimir_offDiagonal_norm_sq_le_of_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:16:20.375888+00:00
 -- url     : https://prove2.me/theorems/256aeb66-23ea-47e7-8a87-55c428a26f9c

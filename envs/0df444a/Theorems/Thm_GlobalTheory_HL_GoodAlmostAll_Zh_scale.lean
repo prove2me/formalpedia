@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodAlmostAll_Zh_scale
 -- name    : GlobalTheory.HL.GoodAlmostAll.Zh_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:45:45.351882+00:00
 -- url     : https://prove2.me/theorems/0b47c885-a57d-56e4-a4e6-446551b9ca33

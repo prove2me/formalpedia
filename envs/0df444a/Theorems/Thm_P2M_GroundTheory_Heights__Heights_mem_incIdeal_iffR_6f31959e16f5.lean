@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_incIdeal_iffR_6f31959e16f5
 -- name    : P2M_GroundTheory_Heights__Heights_mem_incIdeal_iffR_6f31959e16f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:49:16.163426+00:00
 -- url     : https://prove2.me/theorems/ab1209b8-1a09-4ca7-8eca-d4e9d0602acc

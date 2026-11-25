@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_RestrLenRestrict_d_mk_cd742c972719
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_RestrLenRestrict_d_mk_cd742c972719
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:11:11.527817+00:00
 -- url     : https://prove2.me/theorems/62ef3b86-5ce5-559c-b223-cede6fcc1008

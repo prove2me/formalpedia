@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_exists_reduction_02442a102c9c
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_exists_reduction_02442a102c9c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:18:31.4988+00:00
 -- url     : https://prove2.me/theorems/faac35f4-4ff2-469b-991d-1c9d34cac775

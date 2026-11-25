@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_annWeight_zero_of_le_8acb87258ad7
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_annWeight_zero_of_le_8acb87258ad7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:16:20.230454+00:00
 -- url     : https://prove2.me/theorems/872b70d8-cb66-4a17-9124-ead5483f21ac

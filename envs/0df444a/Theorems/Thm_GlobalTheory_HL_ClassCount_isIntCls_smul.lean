@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ClassCount_isIntCls_smul
 -- name    : GlobalTheory.HL.ClassCount.isIntCls_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:30:30.212212+00:00
 -- url     : https://prove2.me/theorems/fd645948-a48e-464a-943b-f53f278ae4eb

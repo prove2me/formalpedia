@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlaceCentredSum_centred_iff_dd0781008482
 -- name    : P2M_GroundTheory_Heights__Heights_PlaceCentredSum_centred_iff_dd0781008482
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:22:05.608565+00:00
 -- url     : https://prove2.me/theorems/911c7352-592b-5a06-a6f9-114267b8bc7e

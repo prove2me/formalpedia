@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_latticeForm_single_8e16640cd985
 -- name    : P2M_GroundTheory_Heights__Heights_latticeForm_single_8e16640cd985
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:47:34.862576+00:00
 -- url     : https://prove2.me/theorems/a51d6747-a769-4a41-9a7a-ad0c88b18b8a

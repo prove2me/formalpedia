@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpperDensBounds_ball_scale
 -- name    : GlobalTheory.UpperDensBounds.ball_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:24:02.283896+00:00
 -- url     : https://prove2.me/theorems/445ab3f3-202d-41a5-914d-d112fd9ecf43

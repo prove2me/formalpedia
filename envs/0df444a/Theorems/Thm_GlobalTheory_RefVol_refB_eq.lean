@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RefVol_refB_eq
 -- name    : GlobalTheory.RefVol.refB_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:48:46.023505+00:00
 -- url     : https://prove2.me/theorems/ba4e750b-f55b-5b74-8720-5e0773d5b172

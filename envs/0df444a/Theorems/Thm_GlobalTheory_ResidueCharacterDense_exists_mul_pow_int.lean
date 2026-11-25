@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueCharacterDense_exists_mul_pow_int
 -- name    : GlobalTheory.ResidueCharacterDense.exists_mul_pow_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:26:27.150818+00:00
 -- url     : https://prove2.me/theorems/c6aa780a-242c-4d0e-a22a-ac7a699cf3dd

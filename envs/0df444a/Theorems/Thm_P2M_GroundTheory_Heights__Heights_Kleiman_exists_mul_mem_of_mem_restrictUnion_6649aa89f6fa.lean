@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_mul_mem_of_mem_restrictUnion_6649aa89f6fa
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_mul_mem_of_mem_restrictUnion_6649aa89f6fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:11:12.139224+00:00
 -- url     : https://prove2.me/theorems/9e320130-0054-451b-8668-9d128ba108c6

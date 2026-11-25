@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_LengthDecomp_length_eq_sum_d4330b1b5c31
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_LengthDecomp_length_eq_sum_d4330b1b5c31
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:42:33.955237+00:00
 -- url     : https://prove2.me/theorems/ce26da6d-c023-40d4-a8f5-f01bc8173ee7

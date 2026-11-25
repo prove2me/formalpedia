@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_mem_unitBall_iff
 -- name    : Formalism.L2.Th1.C.mem_unitBall_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:42:58.934119+00:00
 -- url     : https://prove2.me/theorems/8af11f71-6728-5101-9292-4b305caaca12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_rangeA_excZeros_single
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.rangeA_excZeros_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:17:39.408905+00:00
 -- url     : https://prove2.me/theorems/1dd98b31-b8a5-43b1-8cc0-51057d495514

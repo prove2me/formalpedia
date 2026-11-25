@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_LevelKSplit_W_NCL_h_e_pX__b554c032a98d
 -- name    : P2M_PI_LevelKSplit_W_NCL_h_e_pX__b554c032a98d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:57:02.17437+00:00
 -- url     : https://prove2.me/theorems/6482ecad-3c4b-44c2-97ce-33e4c62f8e62

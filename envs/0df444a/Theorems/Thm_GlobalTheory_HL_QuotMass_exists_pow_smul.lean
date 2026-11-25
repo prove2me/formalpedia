@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QuotMass_exists_pow_smul
 -- name    : GlobalTheory.HL.QuotMass.exists_pow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:27:40.075987+00:00
 -- url     : https://prove2.me/theorems/d019471a-f2db-4c7c-bc72-50e8a9a73627

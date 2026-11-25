@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_compactCasimirBound_projection_dualTensor
 -- name    : GlobalTheory.T.compactCasimirBound_projection_dualTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:56:43.203014+00:00
 -- url     : https://prove2.me/theorems/94c208f4-2305-5a9d-aab0-267d0bbf15f6

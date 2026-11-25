@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_not_dvd_pderiv_of_degreeOf_pos_961cad1c5a74
 -- name    : P2M_GroundTheory_Heights__Heights_not_dvd_pderiv_of_degreeOf_pos_961cad1c5a74
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:49:13.849795+00:00
 -- url     : https://prove2.me/theorems/e03a6928-138c-4e09-92c7-cff542f96876

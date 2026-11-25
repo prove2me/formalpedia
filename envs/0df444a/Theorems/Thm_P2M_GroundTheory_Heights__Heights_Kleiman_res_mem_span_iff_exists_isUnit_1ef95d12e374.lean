@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_res_mem_span_iff_exists_isUnit_1ef95d12e374
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_res_mem_span_iff_exists_isUnit_1ef95d12e374
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:03:58.263056+00:00
 -- url     : https://prove2.me/theorems/93f28a0f-78c4-53a9-a44c-90d868ad679a

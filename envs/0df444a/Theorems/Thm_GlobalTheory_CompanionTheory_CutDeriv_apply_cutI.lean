@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CutDeriv_apply_cutI
 -- name    : GlobalTheory.CompanionTheory.CutDeriv.apply_cutI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:22:08.993684+00:00
 -- url     : https://prove2.me/theorems/dba324ed-91ea-48c1-839b-e7225aee9bef

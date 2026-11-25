@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_segre_pblk_smul_500f4e0514cf
 -- name    : P2M_GroundTheory_Heights__Heights_segre_pblk_smul_500f4e0514cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:55:55.787873+00:00
 -- url     : https://prove2.me/theorems/90aa0a99-1cfd-51aa-ab52-b689b19111be

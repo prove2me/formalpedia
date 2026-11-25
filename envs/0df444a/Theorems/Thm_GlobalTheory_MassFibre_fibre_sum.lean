@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassFibre_fibre_sum
 -- name    : GlobalTheory.MassFibre.fibre_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:38:34.501578+00:00
 -- url     : https://prove2.me/theorems/769ad417-5737-4924-9fc7-fa4f169c98f3

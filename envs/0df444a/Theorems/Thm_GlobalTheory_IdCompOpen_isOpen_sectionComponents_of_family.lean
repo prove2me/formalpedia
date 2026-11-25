@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdCompOpen_isOpen_sectionComponents_of_family
 -- name    : GlobalTheory.IdCompOpen.isOpen_sectionComponents_of_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:52:02.345061+00:00
 -- url     : https://prove2.me/theorems/aa933cc8-c5d3-40e7-9c42-09fb0a13e0ed

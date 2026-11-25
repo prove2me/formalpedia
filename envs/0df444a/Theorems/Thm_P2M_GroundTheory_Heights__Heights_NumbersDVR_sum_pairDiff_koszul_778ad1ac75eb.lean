@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_sum_pairDiff_koszul_778ad1ac75eb
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_sum_pairDiff_koszul_778ad1ac75eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:07:34.981542+00:00
 -- url     : https://prove2.me/theorems/a83d2356-18f9-4af4-b62f-dc7768774a02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Domination_mem_ampleChart_single_iff_f5349f989973
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Domination_mem_ampleChart_single_iff_f5349f989973
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:09:56.434233+00:00
 -- url     : https://prove2.me/theorems/830bdfcf-4096-4982-9088-5bd7f023bdce

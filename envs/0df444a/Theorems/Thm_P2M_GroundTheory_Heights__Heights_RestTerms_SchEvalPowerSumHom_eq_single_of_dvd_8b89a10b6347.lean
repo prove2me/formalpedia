@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchEvalPowerSumHom_eq_single_of_dvd_8b89a10b6347
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchEvalPowerSumHom_eq_single_of_dvd_8b89a10b6347
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:21:09.823572+00:00
 -- url     : https://prove2.me/theorems/9d53d408-75aa-41aa-b2ca-e068d11e1328

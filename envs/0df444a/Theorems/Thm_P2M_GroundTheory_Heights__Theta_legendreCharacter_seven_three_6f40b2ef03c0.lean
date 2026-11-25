@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_legendreCharacter_seven_three_6f40b2ef03c0
 -- name    : P2M_GroundTheory_Heights__Theta_legendreCharacter_seven_three_6f40b2ef03c0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:53:49.065225+00:00
 -- url     : https://prove2.me/theorems/974632b2-3ae5-4e3e-921b-38aba3ea3b7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperHyperplaneMid_eulerCharQuot_eq_of_mul_006227a8d564
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperHyperplaneMid_eulerCharQuot_eq_of_mul_006227a8d564
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:08:43.28192+00:00
 -- url     : https://prove2.me/theorems/2e0c963d-d8fe-45a8-ad43-c86e824ab93d

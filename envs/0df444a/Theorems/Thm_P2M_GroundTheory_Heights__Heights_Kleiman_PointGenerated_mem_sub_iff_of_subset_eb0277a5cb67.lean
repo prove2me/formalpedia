@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_PointGenerated_mem_sub_iff_of_subset_eb0277a5cb67
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_PointGenerated_mem_sub_iff_of_subset_eb0277a5cb67
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:55:26.096667+00:00
 -- url     : https://prove2.me/theorems/7300f84a-0029-4f3f-a29d-f7b363fc8b47

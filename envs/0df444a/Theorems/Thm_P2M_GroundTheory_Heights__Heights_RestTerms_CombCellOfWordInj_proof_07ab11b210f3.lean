@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombCellOfWordInj_proof_07ab11b210f3
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombCellOfWordInj_proof_07ab11b210f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:31:16.898725+00:00
 -- url     : https://prove2.me/theorems/16696605-febb-53ce-9689-2d2a7088301b

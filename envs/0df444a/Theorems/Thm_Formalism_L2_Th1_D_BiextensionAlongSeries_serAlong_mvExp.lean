@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_BiextensionAlongSeries_serAlong_mvExp
 -- name    : Formalism.L2.Th1.D.BiextensionAlongSeries.serAlong_mvExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:49:19.346408+00:00
 -- url     : https://prove2.me/theorems/8bdca5c8-dacd-4cb6-81d5-a43d02de91ac

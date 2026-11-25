@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_ddConst_monomial_rho_bbfe7514f1e2
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_ddConst_monomial_rho_bbfe7514f1e2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:39.446432+00:00
 -- url     : https://prove2.me/theorems/89e8140e-aaae-52f4-8afb-26f9ce066cf0

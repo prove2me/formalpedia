@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_not_dvd_brauerFun
 -- name    : GroundTheory.LocalField.not_dvd_brauerFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:32:49.449873+00:00
 -- url     : https://prove2.me/theorems/fcd3ca45-5873-4d54-84f0-153070a76851

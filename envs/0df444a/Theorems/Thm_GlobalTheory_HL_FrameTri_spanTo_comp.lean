@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameTri_spanTo_comp
 -- name    : GlobalTheory.HL.FrameTri.spanTo_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:34:37.1603+00:00
 -- url     : https://prove2.me/theorems/9b6b42e6-b026-566a-8469-8ab9b7c1b0f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPointNagata_comp_mem_69b2299180fb
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPointNagata_comp_mem_69b2299180fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:11:27.152537+00:00
 -- url     : https://prove2.me/theorems/31f66bfe-f90e-5a82-9555-9130568f1846

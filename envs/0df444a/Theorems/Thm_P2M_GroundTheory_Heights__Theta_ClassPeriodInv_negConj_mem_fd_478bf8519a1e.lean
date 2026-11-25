@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ClassPeriodInv_negConj_mem_fd_478bf8519a1e
 -- name    : P2M_GroundTheory_Heights__Theta_ClassPeriodInv_negConj_mem_fd_478bf8519a1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:51:38.56146+00:00
 -- url     : https://prove2.me/theorems/89a844d4-59ba-482a-8483-9968ee1f31b9

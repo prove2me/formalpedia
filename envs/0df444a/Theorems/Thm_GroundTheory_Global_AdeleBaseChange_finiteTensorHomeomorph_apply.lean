@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_finiteTensorHomeomorph_apply
 -- name    : GroundTheory.Global.AdeleBaseChange.finiteTensorHomeomorph_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:25:54.37651+00:00
 -- url     : https://prove2.me/theorems/0e83d306-e841-44b3-88f7-2aaa1ff026e8

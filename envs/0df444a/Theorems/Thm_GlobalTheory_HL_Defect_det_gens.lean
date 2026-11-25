@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Defect_det_gens
 -- name    : GlobalTheory.HL.Defect.det_gens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:19:26.992996+00:00
 -- url     : https://prove2.me/theorems/eb7972ec-83c3-5af3-9a7c-3b229515ef8c

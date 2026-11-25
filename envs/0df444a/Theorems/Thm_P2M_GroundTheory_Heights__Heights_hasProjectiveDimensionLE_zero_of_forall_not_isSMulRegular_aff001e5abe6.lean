@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_hasProjectiveDimensionLE_zero_of_forall_not_isSMulRegular_aff001e5abe6
 -- name    : P2M_GroundTheory_Heights__Heights_hasProjectiveDimensionLE_zero_of_forall_not_isSMulRegular_aff001e5abe6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:46:56.411585+00:00
 -- url     : https://prove2.me/theorems/f22d1e57-7950-44fa-9677-7a1930ae5c7f

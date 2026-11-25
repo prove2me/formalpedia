@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_eq_zero_of_secCoord_pow_mul_277c229bec77
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_eq_zero_of_secCoord_pow_mul_277c229bec77
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:44:42.350792+00:00
 -- url     : https://prove2.me/theorems/921290aa-47d7-5987-9274-81d0457f8d55

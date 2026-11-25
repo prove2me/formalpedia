@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_realForm_conjTranspose_41c2e7eb6733
 -- name    : P2M_GroundTheory_Heights__Heights_realForm_conjTranspose_41c2e7eb6733
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:50:29.10927+00:00
 -- url     : https://prove2.me/theorems/b9fc4f14-87dc-59c8-b6e8-831665f572a9

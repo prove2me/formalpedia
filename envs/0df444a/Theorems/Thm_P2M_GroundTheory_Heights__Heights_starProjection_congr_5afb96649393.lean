@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_starProjection_congr_5afb96649393
 -- name    : P2M_GroundTheory_Heights__Heights_starProjection_congr_5afb96649393
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:50:42.496473+00:00
 -- url     : https://prove2.me/theorems/f08101ed-d360-4856-8a08-db9571a050cc

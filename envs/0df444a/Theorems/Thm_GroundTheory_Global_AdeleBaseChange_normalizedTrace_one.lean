@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_normalizedTrace_one
 -- name    : GroundTheory.Global.AdeleBaseChange.normalizedTrace_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:25:20.81765+00:00
 -- url     : https://prove2.me/theorems/0578b639-cf5a-5f5f-be6d-7b1bcf79d041

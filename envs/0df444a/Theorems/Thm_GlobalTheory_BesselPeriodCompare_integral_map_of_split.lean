@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_integral_map_of_split
 -- name    : GlobalTheory.BesselPeriodCompare.integral_map_of_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:18:53.588294+00:00
 -- url     : https://prove2.me/theorems/ac50385f-69cd-54ef-a69b-743479a227a0

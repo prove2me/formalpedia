@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_map_ren_symm_map_9f3989ca8802
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_map_ren_symm_map_9f3989ca8802
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:42:24.992792+00:00
 -- url     : https://prove2.me/theorems/1ed3d5eb-a621-4b62-bcc2-e49030c4bf75

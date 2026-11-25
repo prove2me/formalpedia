@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SmallSetBallCover_proof_35cb474ad1cd
 -- name    : P2M_GroundTheory_Heights__Heights_SmallSetBallCover_proof_35cb474ad1cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:38:12.762866+00:00
 -- url     : https://prove2.me/theorems/6a3ae6c6-bf7e-4187-baa6-6cdd936ea16c

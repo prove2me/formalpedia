@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_hensel_iter
 -- name    : GlobalTheory.GramCount.hensel_iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:29:00.856444+00:00
 -- url     : https://prove2.me/theorems/0ae91206-ac44-5e5f-951e-7112f6b0d927

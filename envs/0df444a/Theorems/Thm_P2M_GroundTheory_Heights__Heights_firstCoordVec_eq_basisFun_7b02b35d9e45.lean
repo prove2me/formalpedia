@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_firstCoordVec_eq_basisFun_7b02b35d9e45
 -- name    : P2M_GroundTheory_Heights__Heights_firstCoordVec_eq_basisFun_7b02b35d9e45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:46:33.488771+00:00
 -- url     : https://prove2.me/theorems/c0f816e7-7c62-4150-9472-097b329ccca2

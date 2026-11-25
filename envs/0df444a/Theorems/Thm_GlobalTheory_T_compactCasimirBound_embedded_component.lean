@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_compactCasimirBound_embedded_component
 -- name    : GlobalTheory.T.compactCasimirBound_embedded_component
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:49:55.210801+00:00
 -- url     : https://prove2.me/theorems/716d826c-9ca0-4057-9eb2-0413547954d7

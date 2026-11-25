@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_hilbFn_map_c5a78f77fece
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_hilbFn_map_c5a78f77fece
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:06:35.593334+00:00
 -- url     : https://prove2.me/theorems/19733083-439b-43a6-b0da-172ccefeb38b

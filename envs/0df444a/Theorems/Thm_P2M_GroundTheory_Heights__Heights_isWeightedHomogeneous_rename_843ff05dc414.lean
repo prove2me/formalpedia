@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isWeightedHomogeneous_rename_843ff05dc414
 -- name    : P2M_GroundTheory_Heights__Heights_isWeightedHomogeneous_rename_843ff05dc414
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:47:19.559411+00:00
 -- url     : https://prove2.me/theorems/23aaf3a0-f680-40e6-904f-f7159d97cc8c

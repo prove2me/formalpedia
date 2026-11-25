@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_incidence_point_247b5a18c1c3
 -- name    : P2M_GroundTheory_Heights__Heights_mem_incidence_point_247b5a18c1c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:49:40.965826+00:00
 -- url     : https://prove2.me/theorems/35f2efa0-34eb-4eba-b08c-c04b24704011

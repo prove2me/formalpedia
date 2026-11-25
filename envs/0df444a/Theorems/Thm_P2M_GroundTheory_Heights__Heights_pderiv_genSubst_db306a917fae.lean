@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_pderiv_genSubst_db306a917fae
 -- name    : P2M_GroundTheory_Heights__Heights_pderiv_genSubst_db306a917fae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:49:30.061793+00:00
 -- url     : https://prove2.me/theorems/a814e401-fd01-4bec-9a0d-a6af69457216

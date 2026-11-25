@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_specFirstVar_isWeightedHomogeneous_3ddffe640504
 -- name    : P2M_GroundTheory_Heights__Heights_specFirstVar_isWeightedHomogeneous_3ddffe640504
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:50:55.588567+00:00
 -- url     : https://prove2.me/theorems/e0d19399-6334-531b-a048-57f263e608b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_unitary_apply_eq_sum_91eb8adc78bc
 -- name    : P2M_GroundTheory_Heights__Heights_unitary_apply_eq_sum_91eb8adc78bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:50:54.23626+00:00
 -- url     : https://prove2.me/theorems/83bd7500-e531-4f29-83ac-c136404e6c2c

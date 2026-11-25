@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isPrime_map_quotient_localization_e8b632bf4d4d
 -- name    : P2M_GroundTheory_Heights__Heights_isPrime_map_quotient_localization_e8b632bf4d4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:47:07.304072+00:00
 -- url     : https://prove2.me/theorems/bf8c3b6b-ca18-41a3-a0f7-45d63150fba2

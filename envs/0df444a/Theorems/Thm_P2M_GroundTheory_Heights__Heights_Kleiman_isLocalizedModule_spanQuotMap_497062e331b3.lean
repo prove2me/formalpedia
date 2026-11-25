@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_isLocalizedModule_spanQuotMap_497062e331b3
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_isLocalizedModule_spanQuotMap_497062e331b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:11:01.437545+00:00
 -- url     : https://prove2.me/theorems/44aab757-2b16-41c3-8240-fe5d070102bc

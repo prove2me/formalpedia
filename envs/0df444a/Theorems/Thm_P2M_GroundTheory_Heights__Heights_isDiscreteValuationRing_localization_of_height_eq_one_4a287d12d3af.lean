@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isDiscreteValuationRing_localization_of_height_eq_one_4a287d12d3af
 -- name    : P2M_GroundTheory_Heights__Heights_isDiscreteValuationRing_localization_of_height_eq_one_4a287d12d3af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:47:41.893094+00:00
 -- url     : https://prove2.me/theorems/a3b47784-30da-432a-9022-b87c3a7b196f

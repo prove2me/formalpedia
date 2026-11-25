@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootDenseAlt_aeval_rootCoord_6e44347b3baf
 -- name    : P2M_GroundTheory_Heights__Heights_RootDenseAlt_aeval_rootCoord_6e44347b3baf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:36:41.546292+00:00
 -- url     : https://prove2.me/theorems/5c41264c-1444-401a-a297-7398eea91db9

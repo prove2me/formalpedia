@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroGapNearOne_exists_gap
 -- name    : GlobalTheory.ZeroGapNearOne.exists_gap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:04:26.65731+00:00
 -- url     : https://prove2.me/theorems/9a8e5263-c0dc-4701-9bbc-3713003f1870

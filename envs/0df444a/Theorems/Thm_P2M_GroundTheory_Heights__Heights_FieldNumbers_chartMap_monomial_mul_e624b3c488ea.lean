@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_chartMap_monomial_mul_e624b3c488ea
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_chartMap_monomial_mul_e624b3c488ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:52:48.655704+00:00
 -- url     : https://prove2.me/theorems/6ac6a3bd-648b-4bf3-b83c-6073e68a8302

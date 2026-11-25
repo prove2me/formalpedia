@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_differentiableAt_graphPt_1c88044ce855
 -- name    : P2M_GroundTheory_Heights__Heights_differentiableAt_graphPt_1c88044ce855
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:46:17.923288+00:00
 -- url     : https://prove2.me/theorems/550c0931-858b-4d49-b9af-f64ca87b7db4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_opBound_Qop
 -- name    : GroundTheory.Automorphic.Sobolev.opBound_Qop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:19:45.79104+00:00
 -- url     : https://prove2.me/theorems/512f634c-b708-4d01-9329-7cb4d4c988f8

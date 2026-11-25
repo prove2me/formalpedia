@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_swap_mem_d8794d20a831
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_swap_mem_d8794d20a831
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:38:36.565799+00:00
 -- url     : https://prove2.me/theorems/0a7608d4-7512-514d-8faf-d823f4efbd93

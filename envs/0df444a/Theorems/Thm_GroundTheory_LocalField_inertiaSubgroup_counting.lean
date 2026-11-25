@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_inertiaSubgroup_counting
 -- name    : GroundTheory.LocalField.inertiaSubgroup_counting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:49:59.645362+00:00
 -- url     : https://prove2.me/theorems/57061119-2352-5f21-8d9d-67932c17b920

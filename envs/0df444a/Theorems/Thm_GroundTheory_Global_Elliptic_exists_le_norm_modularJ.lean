@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_exists_le_norm_modularJ
 -- name    : GroundTheory.Global.Elliptic.exists_le_norm_modularJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:05:12.536257+00:00
 -- url     : https://prove2.me/theorems/855ff59b-fc1d-5f28-9500-6811c7a04671

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_hasDD_schur_sum_ee2bd3fc8234
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_hasDD_schur_sum_ee2bd3fc8234
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:21:30.198196+00:00
 -- url     : https://prove2.me/theorems/61d0a227-a721-54d8-9e32-579e9588ad27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_gaussNorm_pos_bb97aa748038
 -- name    : P2M_GroundTheory_Heights__Heights_gaussNorm_pos_bb97aa748038
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:46:24.637401+00:00
 -- url     : https://prove2.me/theorems/d4299c6c-7543-4113-be5d-45e6a61b1765

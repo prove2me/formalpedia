@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_finitePlace_sum_le_d7c4c106976e
 -- name    : P2M_GroundTheory_Heights__Heights_finitePlace_sum_le_d7c4c106976e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:50:53.262735+00:00
 -- url     : https://prove2.me/theorems/150491ba-f974-591f-87f1-8d15b79a4a67

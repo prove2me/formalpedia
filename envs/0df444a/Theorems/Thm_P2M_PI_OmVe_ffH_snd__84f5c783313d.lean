@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_OmVe_ffH_snd__84f5c783313d
 -- name    : P2M_PI_OmVe_ffH_snd__84f5c783313d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:28:20.98501+00:00
 -- url     : https://prove2.me/theorems/00314c0a-36f0-5f80-a129-830ca11a3bf7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_isUnit_twistMod_cc1f7a09138b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_isUnit_twistMod_cc1f7a09138b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:04:31.60449+00:00
 -- url     : https://prove2.me/theorems/40dbe3ab-4c02-504a-9035-dae159aa19ea

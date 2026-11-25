@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveTerm_cj_mem_O
 -- name    : GlobalTheory.HL.MoveTerm.cj_mem_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:28:02.241262+00:00
 -- url     : https://prove2.me/theorems/5c645ea6-c6e7-4731-8213-b6e99b834973

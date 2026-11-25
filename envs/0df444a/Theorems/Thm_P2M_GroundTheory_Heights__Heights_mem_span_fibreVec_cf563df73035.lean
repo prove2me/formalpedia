@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_span_fibreVec_cf563df73035
 -- name    : P2M_GroundTheory_Heights__Heights_mem_span_fibreVec_cf563df73035
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:48:53.801354+00:00
 -- url     : https://prove2.me/theorems/f528f471-332e-527e-82b3-2bc9f23c974b

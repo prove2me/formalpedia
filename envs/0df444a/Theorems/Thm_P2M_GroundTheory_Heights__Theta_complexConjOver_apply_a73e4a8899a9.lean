@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_complexConjOver_apply_a73e4a8899a9
 -- name    : P2M_GroundTheory_Heights__Theta_complexConjOver_apply_a73e4a8899a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:53:30.286127+00:00
 -- url     : https://prove2.me/theorems/483e5841-c1cb-4385-86b3-525f6b46bd6f

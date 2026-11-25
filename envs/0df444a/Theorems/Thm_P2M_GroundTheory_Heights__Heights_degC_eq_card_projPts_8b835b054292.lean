@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_degC_eq_card_projPts_8b835b054292
 -- name    : P2M_GroundTheory_Heights__Heights_degC_eq_card_projPts_8b835b054292
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:46:01.357534+00:00
 -- url     : https://prove2.me/theorems/4815049e-d7c2-4c6b-9a0b-f1f6788bc733

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_BasicIneq_amp_le_mass
 -- name    : GlobalTheory.HL.BasicIneq.amp_le_mass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:29:33.214706+00:00
 -- url     : https://prove2.me/theorems/45edd776-4d21-416b-a0dc-f78c2782be3d

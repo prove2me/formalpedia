@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodAlmostAll_D_scale
 -- name    : GlobalTheory.HL.GoodAlmostAll.D_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:17:01.887897+00:00
 -- url     : https://prove2.me/theorems/df4287b8-fc9b-4bf9-9cf2-3568d822ecd0

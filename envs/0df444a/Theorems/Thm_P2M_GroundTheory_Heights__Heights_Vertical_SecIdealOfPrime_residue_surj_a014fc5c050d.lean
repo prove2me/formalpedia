@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecIdealOfPrime_residue_surj_a014fc5c050d
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecIdealOfPrime_residue_surj_a014fc5c050d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:43:18.278466+00:00
 -- url     : https://prove2.me/theorems/3ea5947c-2a3d-4c41-8c3c-962cc85aae0e

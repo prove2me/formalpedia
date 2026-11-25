@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_gram_fiber_rank_one_set_formula
 -- name    : GlobalTheory.T.local_gram_fiber_rank_one_set_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:03:45.173799+00:00
 -- url     : https://prove2.me/theorems/180a2436-4415-4f33-badb-c0bc87039096

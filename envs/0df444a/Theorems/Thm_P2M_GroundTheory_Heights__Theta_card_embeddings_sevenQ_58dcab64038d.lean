@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_card_embeddings_sevenQ_58dcab64038d
 -- name    : P2M_GroundTheory_Heights__Theta_card_embeddings_sevenQ_58dcab64038d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:53:27.733335+00:00
 -- url     : https://prove2.me/theorems/d3860667-41c8-4460-848e-7db57459a796

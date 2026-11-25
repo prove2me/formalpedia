@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isBounded_ballProd_f634cf668f3e
 -- name    : P2M_GroundTheory_Heights__Heights_isBounded_ballProd_f634cf668f3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:47:11.074305+00:00
 -- url     : https://prove2.me/theorems/f93efa6f-8799-4f70-a767-e8756a80589b

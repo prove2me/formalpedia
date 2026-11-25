@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_vertTerm_nonneg_4d532362fa73
 -- name    : P2M_GroundTheory_Heights__Heights_vertTerm_nonneg_4d532362fa73
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:51:26.752056+00:00
 -- url     : https://prove2.me/theorems/ddd3c26a-3bb4-54be-bc1a-491a06b8dbaa

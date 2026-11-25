@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_length_le_of_isWeaklyRegular_quotient_span_singleton_aecea1ce41b2
 -- name    : P2M_GroundTheory_Heights__Heights_length_le_of_isWeaklyRegular_quotient_span_singleton_aecea1ce41b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:47:52.955888+00:00
 -- url     : https://prove2.me/theorems/4a8ec903-e245-4aad-9649-82e6bd79ea91

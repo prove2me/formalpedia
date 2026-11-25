@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RatStab_f_scale
 -- name    : GlobalTheory.HL.RatStab.f_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:23:31.764002+00:00
 -- url     : https://prove2.me/theorems/24adf581-6107-5abe-944d-761e1199a1e5

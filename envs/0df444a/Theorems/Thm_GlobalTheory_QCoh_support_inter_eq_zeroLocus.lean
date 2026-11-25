@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_support_inter_eq_zeroLocus
 -- name    : GlobalTheory.QCoh.support_inter_eq_zeroLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:02:30.713866+00:00
 -- url     : https://prove2.me/theorems/6edfb66b-c75e-522b-b800-e3b915acca17

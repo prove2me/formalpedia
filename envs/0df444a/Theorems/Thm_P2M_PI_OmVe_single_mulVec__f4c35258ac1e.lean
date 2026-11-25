@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_OmVe_single_mulVec__f4c35258ac1e
 -- name    : P2M_PI_OmVe_single_mulVec__f4c35258ac1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:06:06.138864+00:00
 -- url     : https://prove2.me/theorems/a2cd46ee-08aa-4a59-8542-6a154edc0d5a

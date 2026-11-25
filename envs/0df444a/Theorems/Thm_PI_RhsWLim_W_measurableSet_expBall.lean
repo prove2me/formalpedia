@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_measurableSet_expBall
 -- name    : PI.RhsWLim.W.measurableSet_expBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:26:57.785566+00:00
 -- url     : https://prove2.me/theorems/92c5b8be-0192-4dd0-b535-b05312961326

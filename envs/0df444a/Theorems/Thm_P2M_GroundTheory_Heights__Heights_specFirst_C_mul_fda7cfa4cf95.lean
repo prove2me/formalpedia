@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_specFirst_C_mul_fda7cfa4cf95
 -- name    : P2M_GroundTheory_Heights__Heights_specFirst_C_mul_fda7cfa4cf95
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:51:03.503051+00:00
 -- url     : https://prove2.me/theorems/bf0ec250-4fdd-5e08-b700-5987045284c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_EcRep_lin
 -- name    : Formalism.FourierDecayAlt.P.Qx8.EcRep_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:30:24.758238+00:00
 -- url     : https://prove2.me/theorems/12b21530-64e3-4708-85ca-8c532a05199d

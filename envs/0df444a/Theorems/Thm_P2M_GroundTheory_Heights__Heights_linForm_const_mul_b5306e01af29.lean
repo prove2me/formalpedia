@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_linForm_const_mul_b5306e01af29
 -- name    : P2M_GroundTheory_Heights__Heights_linForm_const_mul_b5306e01af29
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:47:53.039408+00:00
 -- url     : https://prove2.me/theorems/347a724a-6fa5-4fb1-96a7-2454b51d6c30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_prod_map_filter_043c3da86e4d
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_prod_map_filter_043c3da86e4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:04:21.879348+00:00
 -- url     : https://prove2.me/theorems/effc98ba-7dbe-4d39-84ef-8e7736bac916

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RatStab_bc_sum
 -- name    : GlobalTheory.HL.RatStab.bc_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:20:06.389989+00:00
 -- url     : https://prove2.me/theorems/7943e2d2-34b9-4da2-9961-0bbace5a31cf

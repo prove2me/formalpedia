@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_incidence_mono_64f19830bda4
 -- name    : P2M_GroundTheory_Heights__Heights_incidence_mono_64f19830bda4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:47:09.04746+00:00
 -- url     : https://prove2.me/theorems/217b775a-325f-4f2f-b3a2-52d81fe1630f

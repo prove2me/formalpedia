@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocMaxIdeals_le_of_semiMaxIdeal_le_1e782bbf5444
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocMaxIdeals_le_of_semiMaxIdeal_le_1e782bbf5444
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:44:07.378539+00:00
 -- url     : https://prove2.me/theorems/a2653d20-b77c-49c6-b1fa-efcdb8c48879

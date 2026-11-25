@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_OneCosetSharp_W_Nums_n__ge_f7fc7b2f5918
 -- name    : P2M_PI_OneCosetSharp_W_Nums_n__ge_f7fc7b2f5918
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:56:56.771941+00:00
 -- url     : https://prove2.me/theorems/3c38e5c5-8715-5b25-aaf8-74f532b641fd

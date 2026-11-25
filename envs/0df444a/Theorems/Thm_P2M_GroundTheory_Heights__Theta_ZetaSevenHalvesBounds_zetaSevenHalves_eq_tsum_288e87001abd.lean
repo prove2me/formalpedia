@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ZetaSevenHalvesBounds_zetaSevenHalves_eq_tsum_288e87001abd
 -- name    : P2M_GroundTheory_Heights__Theta_ZetaSevenHalvesBounds_zetaSevenHalves_eq_tsum_288e87001abd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:53:35.407787+00:00
 -- url     : https://prove2.me/theorems/96d13b78-8119-4175-a51f-750c6563fd8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscOver_disc_fin
 -- name    : GlobalTheory.DiscOver.disc_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:25:34.913413+00:00
 -- url     : https://prove2.me/theorems/557c3957-eacc-49ec-b5da-c29291147e49

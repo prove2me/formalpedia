@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_HU_lmulM_cont
 -- name    : PI.RhsWLim.W.HU.lmulM_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:27:05.285434+00:00
 -- url     : https://prove2.me/theorems/eb45ce52-804d-5d55-99a3-fc31be5f4d4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_Tau0Holomorphic_proof_f5a6b6c21e9e
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_Tau0Holomorphic_proof_f5a6b6c21e9e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:45:47.057961+00:00
 -- url     : https://prove2.me/theorems/19a88397-f449-4640-9542-0179e21b9fd0

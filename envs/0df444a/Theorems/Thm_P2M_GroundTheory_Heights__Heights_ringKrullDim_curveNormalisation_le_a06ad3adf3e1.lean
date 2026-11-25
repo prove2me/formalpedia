@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ringKrullDim_curveNormalisation_le_a06ad3adf3e1
 -- name    : P2M_GroundTheory_Heights__Heights_ringKrullDim_curveNormalisation_le_a06ad3adf3e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:50:28.46163+00:00
 -- url     : https://prove2.me/theorems/960e73d9-98f8-4df3-bd8a-eb52f7b045e1

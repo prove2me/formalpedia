@@ -60360,7 +60360,7 @@
 {"parent": "LIPAlgorithm_Supplement_qProb", "child": "ExponomialAssortment_FPTAS_Machine", "via": ["statement"]}
 {"parent": "DetTerminalEmbedding1373.Real.Supplement.claim_7_3", "child": "DetTerminalEmbedding1373_Real_Supplement_chd", "via": ["solution", "statement"]}
 {"parent": "MinimaxInterventions1429_Separable_Supplement_Numerical", "child": "MinimaxInterventions1429_Separable_Supplement_Groups", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise_4_7_i_goalV2", "child": "Kyprianou_Ch04_Exercise4_7Certification", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise_4_7_i_goalV2", "child": "Kyprianou_Ch04_Exercise4_7Certification", "via": ["solution", "statement"]}
 {"parent": "PelagicFF_Supplement_LevelMessage", "child": "TeleportGates_Ck_cliffordLevel", "via": ["statement"]}
 {"parent": "PelagicFF_Supplement_LevelMessage", "child": "ShadowTomography_QuantumLB_POVM", "via": ["statement"]}
 {"parent": "UniformADProbes.Trace.Supplement.basis_first_positions", "child": "UniformADProbes_Trace_Supplement_rank_condensation", "via": ["statement"]}

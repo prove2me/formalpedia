@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_idealMod_le_idealMod_0664d1e72b9b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_idealMod_le_idealMod_0664d1e72b9b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:04:54.474331+00:00
 -- url     : https://prove2.me/theorems/a389f08f-7903-5778-a40c-90f114f72e07

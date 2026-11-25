@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_integrable_fibreSum_degZero_510e47a67880
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_integrable_fibreSum_degZero_510e47a67880
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:09:56.011515+00:00
 -- url     : https://prove2.me/theorems/4f88dccc-5523-43cb-b133-f6c3183a9417

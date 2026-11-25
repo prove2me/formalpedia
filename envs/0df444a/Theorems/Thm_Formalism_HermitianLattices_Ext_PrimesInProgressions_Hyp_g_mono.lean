@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Hyp_g_mono
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Hyp.g_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:17:09.616386+00:00
 -- url     : https://prove2.me/theorems/a2bc323e-40e6-488b-b9f4-20ac44fb6715

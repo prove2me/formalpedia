@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_logLogCut_mem_Icc_93e196c3aba0
 -- name    : P2M_GroundTheory_Heights__Heights_logLogCut_mem_Icc_93e196c3aba0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:49:05.731093+00:00
 -- url     : https://prove2.me/theorems/486b959e-4804-42d9-8fa1-76c7c2236f78

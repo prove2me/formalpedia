@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_expand_blocks_7e6ac51297a3
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_expand_blocks_7e6ac51297a3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:21:37.898816+00:00
 -- url     : https://prove2.me/theorems/32694439-4ece-4b77-b944-25e69ed64e38

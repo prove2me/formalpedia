@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_mixedDiff_map_ae37bf432065
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_mixedDiff_map_ae37bf432065
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:07:01.977033+00:00
 -- url     : https://prove2.me/theorems/783fd867-b32f-4b6a-a9c0-6eee4497dfd9

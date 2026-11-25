@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodClass_one_class
 -- name    : GlobalTheory.HL.GoodClass.one_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:39:50.303952+00:00
 -- url     : https://prove2.me/theorems/731c0811-4fe1-4a9a-9585-b39bead7795a

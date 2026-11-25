@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QReflGen_fixG_le_closure
 -- name    : GlobalTheory.HL.QReflGen.fixG_le_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:32:52.361432+00:00
 -- url     : https://prove2.me/theorems/0f806cee-a1e0-4d4a-b14e-bb266625b077

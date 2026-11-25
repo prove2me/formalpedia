@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_length_localization_maximalIdeal_74d266e6d224
 -- name    : P2M_GroundTheory_Heights__Heights_length_localization_maximalIdeal_74d266e6d224
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:48:52.9108+00:00
 -- url     : https://prove2.me/theorems/bab48b62-6f8d-4b28-b896-16b069088689

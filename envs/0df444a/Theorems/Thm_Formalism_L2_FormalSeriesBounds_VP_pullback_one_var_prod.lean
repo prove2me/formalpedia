@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_pullback_one_var_prod
 -- name    : Formalism.L2.FormalSeriesBounds.VP.pullback_one_var_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:00:28.726416+00:00
 -- url     : https://prove2.me/theorems/d07da6c1-f171-40e6-8718-b2d5ab24970c

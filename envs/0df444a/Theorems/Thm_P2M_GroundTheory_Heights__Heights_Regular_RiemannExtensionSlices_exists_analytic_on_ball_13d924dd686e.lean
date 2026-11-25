@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_RiemannExtensionSlices_exists_analytic_on_ball_13d924dd686e
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_RiemannExtensionSlices_exists_analytic_on_ball_13d924dd686e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:17:52.706929+00:00
 -- url     : https://prove2.me/theorems/68b021ba-c83d-401b-a7e4-a79811769056

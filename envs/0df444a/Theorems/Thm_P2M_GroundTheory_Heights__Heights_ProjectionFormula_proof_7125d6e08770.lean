@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjectionFormula_proof_7125d6e08770
 -- name    : P2M_GroundTheory_Heights__Heights_ProjectionFormula_proof_7125d6e08770
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:34:36.950289+00:00
 -- url     : https://prove2.me/theorems/734f2989-7061-4695-b50c-22c6579f6684

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_twist_sub_le_b74da22da760
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_twist_sub_le_b74da22da760
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:59:26.056751+00:00
 -- url     : https://prove2.me/theorems/f4bdb87a-e4bd-515e-bf4a-f7e6ba8c3032

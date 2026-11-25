@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_PlueckerCauchyBinet_intersectionNumber_baseChange_577c916731df
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_PlueckerCauchyBinet_intersectionNumber_baseChange_577c916731df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:02:05.319428+00:00
 -- url     : https://prove2.me/theorems/d20418d7-59ec-40a8-85c5-b4c95b152d60

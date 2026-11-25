@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_conductor_one
 -- name    : GroundTheory.Global.HeckeCharacter.conductor_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:10:51.777152+00:00
 -- url     : https://prove2.me/theorems/38f7e91c-e7f3-5e38-8886-580a6a86a606

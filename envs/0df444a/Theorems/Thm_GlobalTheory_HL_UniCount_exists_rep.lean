@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_UniCount_exists_rep
 -- name    : GlobalTheory.HL.UniCount.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:34:10.844156+00:00
 -- url     : https://prove2.me/theorems/f9a11d41-3f32-4673-bd11-87a65c2a0ad4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_birational_latticeCoord_528f8b6c0df6
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_birational_latticeCoord_528f8b6c0df6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:28:45.694666+00:00
 -- url     : https://prove2.me/theorems/be854e0c-0d1a-43cf-b851-329992453c3a

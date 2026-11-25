@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_Gm_injective
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.Gm_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:25:23.670094+00:00
 -- url     : https://prove2.me/theorems/919fd6b4-b48d-5828-bfcd-ed123276eb69

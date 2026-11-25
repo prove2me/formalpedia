@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_GLP_majAt_self__8841b9ff969c
 -- name    : P2M_PI_Dv_GLP_majAt_self__8841b9ff969c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:56:10.570843+00:00
 -- url     : https://prove2.me/theorems/e9e6e7b9-1de4-411c-8f8d-ca4ea4168494

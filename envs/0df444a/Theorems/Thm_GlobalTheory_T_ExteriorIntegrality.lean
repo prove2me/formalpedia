@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ExteriorIntegrality
 -- name    : GlobalTheory.T.ExteriorIntegrality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:25:02.072073+00:00
 -- url     : https://prove2.me/theorems/b7515d6c-ac8f-438f-9dac-b3706c434bdc

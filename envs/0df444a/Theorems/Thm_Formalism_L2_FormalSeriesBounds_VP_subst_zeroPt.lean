@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_subst_zeroPt
 -- name    : Formalism.L2.FormalSeriesBounds.VP.subst_zeroPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:15:56.786786+00:00
 -- url     : https://prove2.me/theorems/d20586b6-3091-4688-a405-215ec39dd961

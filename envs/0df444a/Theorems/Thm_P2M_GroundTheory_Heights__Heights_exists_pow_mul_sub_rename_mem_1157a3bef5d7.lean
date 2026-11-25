@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_pow_mul_sub_rename_mem_1157a3bef5d7
 -- name    : P2M_GroundTheory_Heights__Heights_exists_pow_mul_sub_rename_mem_1157a3bef5d7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:46:06.068312+00:00
 -- url     : https://prove2.me/theorems/a91376c3-6e94-40c5-9e86-ae9dcb8c6186

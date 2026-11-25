@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_dvd_of_forall_emultiplicity_le_e0492f3f8d14
 -- name    : P2M_GroundTheory_Heights__Heights_dvd_of_forall_emultiplicity_le_e0492f3f8d14
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:45:54.067503+00:00
 -- url     : https://prove2.me/theorems/c72ee6cb-800c-4651-bfad-e58acfc08248

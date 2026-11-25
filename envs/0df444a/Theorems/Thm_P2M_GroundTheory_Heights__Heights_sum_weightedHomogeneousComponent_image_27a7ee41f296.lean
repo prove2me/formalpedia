@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_sum_weightedHomogeneousComponent_image_27a7ee41f296
 -- name    : P2M_GroundTheory_Heights__Heights_sum_weightedHomogeneousComponent_image_27a7ee41f296
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:57:10.697785+00:00
 -- url     : https://prove2.me/theorems/492c18a7-0d69-55b7-9722-6923adb595a7

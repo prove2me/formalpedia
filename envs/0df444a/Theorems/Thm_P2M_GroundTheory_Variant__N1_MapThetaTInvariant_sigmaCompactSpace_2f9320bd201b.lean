@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_MapThetaTInvariant_sigmaCompactSpace_2f9320bd201b
 -- name    : P2M_GroundTheory_Variant__N1_MapThetaTInvariant_sigmaCompactSpace_2f9320bd201b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:55:32.803013+00:00
 -- url     : https://prove2.me/theorems/c136bcde-d4bb-4963-a6eb-a8c8e758141f

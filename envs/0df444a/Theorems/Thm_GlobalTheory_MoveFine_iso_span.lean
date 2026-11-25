@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_iso_span
 -- name    : GlobalTheory.MoveFine.iso_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:42:41.739488+00:00
 -- url     : https://prove2.me/theorems/27d5a31c-bf62-4fb8-a7c2-bd980f2f6407

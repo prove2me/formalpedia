@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_det_gram_eq_of_span_eq_a780c4a08928
 -- name    : P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_det_gram_eq_of_span_eq_a780c4a08928
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:05:44.724797+00:00
 -- url     : https://prove2.me/theorems/6aafa093-7b1d-4af8-8668-920434f2f7d5

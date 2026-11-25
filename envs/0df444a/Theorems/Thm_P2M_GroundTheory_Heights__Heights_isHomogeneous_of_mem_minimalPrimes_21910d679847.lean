@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isHomogeneous_of_mem_minimalPrimes_21910d679847
 -- name    : P2M_GroundTheory_Heights__Heights_isHomogeneous_of_mem_minimalPrimes_21910d679847
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:47:21.912788+00:00
 -- url     : https://prove2.me/theorems/447f1428-9484-4e3e-9c47-b905f26150f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermitianExtension_gramDet_sumElim_53ef361e1449
 -- name    : P2M_GroundTheory_Heights__Heights_HermitianExtension_gramDet_sumElim_53ef361e1449
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:17:51.058301+00:00
 -- url     : https://prove2.me/theorems/42fa5f8e-dc6c-553d-9ea8-7e2652d83679

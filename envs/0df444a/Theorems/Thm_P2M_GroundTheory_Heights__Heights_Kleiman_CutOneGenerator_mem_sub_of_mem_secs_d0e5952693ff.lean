@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CutOneGenerator_mem_sub_of_mem_secs_d0e5952693ff
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CutOneGenerator_mem_sub_of_mem_secs_d0e5952693ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:54:35.490785+00:00
 -- url     : https://prove2.me/theorems/da17724b-17f8-4b6d-9081-e364cf388394

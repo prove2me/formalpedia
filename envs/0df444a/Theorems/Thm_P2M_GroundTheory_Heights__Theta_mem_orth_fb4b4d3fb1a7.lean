@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_mem_orth_fb4b4d3fb1a7
 -- name    : P2M_GroundTheory_Heights__Theta_mem_orth_fb4b4d3fb1a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:54:13.897117+00:00
 -- url     : https://prove2.me/theorems/5cdd15c1-ff18-4ea8-952e-2c1939a69977

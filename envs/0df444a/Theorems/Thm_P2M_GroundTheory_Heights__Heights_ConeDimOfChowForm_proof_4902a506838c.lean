@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeDimOfChowForm_proof_4902a506838c
 -- name    : P2M_GroundTheory_Heights__Heights_ConeDimOfChowForm_proof_4902a506838c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:01:32.459207+00:00
 -- url     : https://prove2.me/theorems/df711d14-7716-4671-8844-1c9804f5789f

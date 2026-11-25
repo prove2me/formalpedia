@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscOver_dual_iff
 -- name    : GlobalTheory.DiscOver.dual_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:25:21.553853+00:00
 -- url     : https://prove2.me/theorems/d13c4264-8d00-4bb5-8cea-bf7bf56f40dd

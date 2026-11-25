@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_g_eq_add_of_exact_of_finite_cokernel
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.g_eq_add_of_exact_of_finite_cokernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:53:05.382233+00:00
 -- url     : https://prove2.me/theorems/dac8f511-4747-40c9-92e4-7ed2c19af7df

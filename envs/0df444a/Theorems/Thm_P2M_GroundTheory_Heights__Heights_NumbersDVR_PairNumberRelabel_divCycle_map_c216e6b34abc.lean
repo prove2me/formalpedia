@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberRelabel_divCycle_map_c216e6b34abc
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberRelabel_divCycle_map_c216e6b34abc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:16:51.389841+00:00
 -- url     : https://prove2.me/theorems/be23897b-980b-5105-a0d5-35c91962120c

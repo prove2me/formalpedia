@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_exLF_analyticAt
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.exLF_analyticAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:12:07.916257+00:00
 -- url     : https://prove2.me/theorems/5c0f7b5e-2370-4557-8066-05479713b9b4

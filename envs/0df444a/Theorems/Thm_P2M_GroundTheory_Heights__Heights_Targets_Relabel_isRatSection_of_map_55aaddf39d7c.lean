@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_Relabel_isRatSection_of_map_55aaddf39d7c
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_Relabel_isRatSection_of_map_55aaddf39d7c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:41:47.370214+00:00
 -- url     : https://prove2.me/theorems/72450913-ed01-5416-8603-d658ee04a09d

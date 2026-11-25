@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_primeOf_le_primeOf_of_algHom_fbeaa6bb09ff
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_primeOf_le_primeOf_of_algHom_fbeaa6bb09ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:04:34.500319+00:00
 -- url     : https://prove2.me/theorems/5ec6818d-8295-5d1c-a354-f6c52cc81ca0

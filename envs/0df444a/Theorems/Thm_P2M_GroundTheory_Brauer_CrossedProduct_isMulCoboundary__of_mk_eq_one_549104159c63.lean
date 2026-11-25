@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Brauer_CrossedProduct_isMulCoboundary__of_mk_eq_one_549104159c63
 -- name    : P2M_GroundTheory_Brauer_CrossedProduct_isMulCoboundary__of_mk_eq_one_549104159c63
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:55:19.569006+00:00
 -- url     : https://prove2.me/theorems/17241a15-618b-4060-9c2a-1a60cb8b1e5d

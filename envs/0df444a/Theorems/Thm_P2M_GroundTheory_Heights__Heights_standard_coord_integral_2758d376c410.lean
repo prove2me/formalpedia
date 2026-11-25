@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_standard_coord_integral_2758d376c410
 -- name    : P2M_GroundTheory_Heights__Heights_standard_coord_integral_2758d376c410
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:56:45.97642+00:00
 -- url     : https://prove2.me/theorems/d0a89007-c434-57f7-bc69-be33be271ab6

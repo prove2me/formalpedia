@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombHookShapeFacts_proof_717752feee10
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombHookShapeFacts_proof_717752feee10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:33:16.714366+00:00
 -- url     : https://prove2.me/theorems/187ee0a2-c9e6-4ad0-8ea8-e6b1bfaf1469

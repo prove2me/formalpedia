@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_res_span_chart_le_fc9294251641
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_res_span_chart_le_fc9294251641
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:02:21.72825+00:00
 -- url     : https://prove2.me/theorems/723d6d21-423c-440d-a08d-842427fb2bec

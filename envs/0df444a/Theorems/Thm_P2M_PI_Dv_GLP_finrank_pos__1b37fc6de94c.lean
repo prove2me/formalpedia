@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_GLP_finrank_pos__1b37fc6de94c
 -- name    : P2M_PI_Dv_GLP_finrank_pos__1b37fc6de94c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:56:04.418606+00:00
 -- url     : https://prove2.me/theorems/df40c17d-524c-46d2-b917-8680fad8b0ad

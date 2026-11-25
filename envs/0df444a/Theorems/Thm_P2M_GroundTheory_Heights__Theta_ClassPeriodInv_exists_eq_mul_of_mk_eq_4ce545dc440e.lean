@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ClassPeriodInv_exists_eq_mul_of_mk_eq_4ce545dc440e
 -- name    : P2M_GroundTheory_Heights__Theta_ClassPeriodInv_exists_eq_mul_of_mk_eq_4ce545dc440e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:51:28.037504+00:00
 -- url     : https://prove2.me/theorems/443b7d7f-d025-41ef-b369-02f6baea3c10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_length_localizedModule_self_754de89026ea
 -- name    : P2M_GroundTheory_Heights__Heights_length_localizedModule_self_754de89026ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:47:56.934809+00:00
 -- url     : https://prove2.me/theorems/8714e5d3-8af9-4418-a2df-2d6570ae5268

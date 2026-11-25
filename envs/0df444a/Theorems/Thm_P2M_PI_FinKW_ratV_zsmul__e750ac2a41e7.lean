@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FinKW_ratV_zsmul__e750ac2a41e7
 -- name    : P2M_PI_FinKW_ratV_zsmul__e750ac2a41e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:55:57.757428+00:00
 -- url     : https://prove2.me/theorems/e02d113d-d1b7-59bf-a68c-868ccabdb1ba

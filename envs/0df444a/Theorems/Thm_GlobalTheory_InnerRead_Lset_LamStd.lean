@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerRead_Lset_LamStd
 -- name    : GlobalTheory.InnerRead.Lset_LamStd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:38:31.783215+00:00
 -- url     : https://prove2.me/theorems/a86f74ed-5465-549e-b858-9e9161d1899f

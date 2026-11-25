@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_length_int_quotient_map_5647412ff0d4
 -- name    : P2M_GroundTheory_Heights__Heights_length_int_quotient_map_5647412ff0d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:49:24.964617+00:00
 -- url     : https://prove2.me/theorems/bc7879d3-0328-4b6c-8bf3-dd4447712723

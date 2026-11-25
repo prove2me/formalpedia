@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_lowerIndex_mul_eq_min
 -- name    : GroundTheory.LocalField.exists_lowerIndex_mul_eq_min
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:06:16.07447+00:00
 -- url     : https://prove2.me/theorems/205657cf-3c91-4a61-b655-00c4e1eea958

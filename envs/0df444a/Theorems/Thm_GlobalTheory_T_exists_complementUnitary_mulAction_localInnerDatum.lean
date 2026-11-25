@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_complementUnitary_mulAction_localInnerDatum
 -- name    : GlobalTheory.T.exists_complementUnitary_mulAction_localInnerDatum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:19:41.507404+00:00
 -- url     : https://prove2.me/theorems/bbc49823-ab1c-5342-af4e-f6e41da0c49c

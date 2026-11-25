@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_exists_simple_root_data_bdff81d3faa4
 -- name    : P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_exists_simple_root_data_bdff81d3faa4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:43:32.001807+00:00
 -- url     : https://prove2.me/theorems/baac949a-0d9b-4aae-a9bd-f2d0f388355e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameOver_encard_overlattices_le
 -- name    : GlobalTheory.FrameOver.encard_overlattices_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:28:13.886354+00:00
 -- url     : https://prove2.me/theorems/cadd7960-54d6-455b-8a0d-6174b9997f8f

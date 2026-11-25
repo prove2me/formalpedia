@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_exLF_eq_zero_iff
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.exLF_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:13:08.263424+00:00
 -- url     : https://prove2.me/theorems/846e48d3-fb99-4374-8686-43c6d4537891

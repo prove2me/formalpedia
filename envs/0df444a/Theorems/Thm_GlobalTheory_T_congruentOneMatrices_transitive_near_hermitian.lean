@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_congruentOneMatrices_transitive_near_hermitian
 -- name    : GlobalTheory.T.congruentOneMatrices_transitive_near_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:14:44.214901+00:00
 -- url     : https://prove2.me/theorems/3d6095b9-c7e3-5f5b-8a60-17cfbb0d16ab

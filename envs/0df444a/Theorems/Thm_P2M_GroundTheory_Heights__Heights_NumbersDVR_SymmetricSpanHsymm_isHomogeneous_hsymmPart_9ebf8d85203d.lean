@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SymmetricSpanHsymm_isHomogeneous_hsymmPart_9ebf8d85203d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SymmetricSpanHsymm_isHomogeneous_hsymmPart_9ebf8d85203d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:08:53.40773+00:00
 -- url     : https://prove2.me/theorems/11d76c53-1e11-49dc-967f-4566a7d3abaa

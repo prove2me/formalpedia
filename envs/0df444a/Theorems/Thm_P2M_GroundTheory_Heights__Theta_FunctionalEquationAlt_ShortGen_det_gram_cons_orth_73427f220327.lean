@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_det_gram_cons_orth_73427f220327
 -- name    : P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_det_gram_cons_orth_73427f220327
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:05:50.050527+00:00
 -- url     : https://prove2.me/theorems/4f246db9-0a16-40c4-bac2-e78a69e07a6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_point_lower
 -- name    : Formalism.L2.S.Pv.EnergyAbs.point_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:15:40.624129+00:00
 -- url     : https://prove2.me/theorems/d91d0cd1-c39c-5186-af38-74b068443b4a

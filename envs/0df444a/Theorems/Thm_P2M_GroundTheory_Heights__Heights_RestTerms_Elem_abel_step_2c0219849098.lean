@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Elem_abel_step_2c0219849098
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Elem_abel_step_2c0219849098
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:18:56.171847+00:00
 -- url     : https://prove2.me/theorems/15f6fa02-6989-4b95-aec1-a838fd5e13dc

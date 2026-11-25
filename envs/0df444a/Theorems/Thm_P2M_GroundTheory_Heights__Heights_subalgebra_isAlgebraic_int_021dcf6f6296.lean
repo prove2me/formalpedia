@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_subalgebra_isAlgebraic_int_021dcf6f6296
 -- name    : P2M_GroundTheory_Heights__Heights_subalgebra_isAlgebraic_int_021dcf6f6296
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:50:27.40996+00:00
 -- url     : https://prove2.me/theorems/c982419e-64f6-436d-bcc1-62894a8e4e90

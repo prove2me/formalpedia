@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_finite_surjective_effacing_unit_on_closed_fiber
 -- name    : AlgebraicGeometry.Scheme.exists_finite_surjective_effacing_unit_on_closed_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T23:59:03.837104+00:00
 -- url     : https://prove2.me/theorems/52fbbbea-cb6b-4803-8b35-55dae9dca020

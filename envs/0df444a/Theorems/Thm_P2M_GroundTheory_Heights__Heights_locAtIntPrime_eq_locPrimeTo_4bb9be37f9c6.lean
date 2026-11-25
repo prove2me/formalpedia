@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_locAtIntPrime_eq_locPrimeTo_4bb9be37f9c6
 -- name    : P2M_GroundTheory_Heights__Heights_locAtIntPrime_eq_locPrimeTo_4bb9be37f9c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:48:30.188512+00:00
 -- url     : https://prove2.me/theorems/d45c3665-5e80-43c3-a46c-358fc9765d69

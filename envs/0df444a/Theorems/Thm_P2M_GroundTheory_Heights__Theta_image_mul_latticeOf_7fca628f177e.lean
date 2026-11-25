@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_image_mul_latticeOf_7fca628f177e
 -- name    : P2M_GroundTheory_Heights__Theta_image_mul_latticeOf_7fca628f177e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:54:02.988661+00:00
 -- url     : https://prove2.me/theorems/8fb404bc-c2b9-48f5-be7b-8273b4361aa5

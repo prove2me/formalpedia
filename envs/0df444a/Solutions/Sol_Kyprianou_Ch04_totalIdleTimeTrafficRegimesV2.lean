@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.totalIdleTimeTrafficRegimesV2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T13:03:59.050055+00:00
 -- url     : https://prove2.me/submissions/f7401d60-6729-4be4-a0e2-cc13f97d5808
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

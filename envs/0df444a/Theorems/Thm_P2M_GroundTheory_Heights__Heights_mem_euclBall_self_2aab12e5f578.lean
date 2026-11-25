@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_euclBall_self_2aab12e5f578
 -- name    : P2M_GroundTheory_Heights__Heights_mem_euclBall_self_2aab12e5f578
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:48:32.267432+00:00
 -- url     : https://prove2.me/theorems/e4b1958d-991e-46e8-b547-1c730b6d0eb5

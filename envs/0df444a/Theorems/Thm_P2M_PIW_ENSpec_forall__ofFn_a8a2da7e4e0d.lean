@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PIW_ENSpec_forall__ofFn_a8a2da7e4e0d
 -- name    : P2M_PIW_ENSpec_forall__ofFn_a8a2da7e4e0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:46.170845+00:00
 -- url     : https://prove2.me/theorems/3b6ef3ce-dd0b-4e57-8675-22b6a1ca6f47

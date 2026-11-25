@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ExpQuadMonomial_proof_22b86a7bc476
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ExpQuadMonomial_proof_22b86a7bc476
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:45:39.365885+00:00
 -- url     : https://prove2.me/theorems/c129b61d-c9a6-4c82-a62e-fb8ea3d1129d

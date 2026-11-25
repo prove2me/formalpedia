@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_isSchur_tens
 -- name    : Formalism.L2.S.Pv.SchurTens.isSchur_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:16:23.78793+00:00
 -- url     : https://prove2.me/theorems/15e8002c-e90e-4229-bbe9-04cca93ad7e5

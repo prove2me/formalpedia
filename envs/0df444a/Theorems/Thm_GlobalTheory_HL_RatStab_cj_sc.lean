@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RatStab_cj_sc
 -- name    : GlobalTheory.HL.RatStab.cj_sc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:19:57.979288+00:00
 -- url     : https://prove2.me/theorems/4e394c79-e0f9-49df-ac15-422d7fcd97fe

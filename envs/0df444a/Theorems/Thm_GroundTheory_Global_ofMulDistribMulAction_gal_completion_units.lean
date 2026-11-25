@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_ofMulDistribMulAction_gal_completion_units
 -- name    : GroundTheory.Global.ofMulDistribMulAction_gal_completion_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:58:07.707262+00:00
 -- url     : https://prove2.me/theorems/e4ee81ca-8468-41b5-bc81-8569bbcee931

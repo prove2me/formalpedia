@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_height_mul_d6ec3c0c69a5
 -- name    : P2M_GroundTheory_Heights__Heights_height_mul_d6ec3c0c69a5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:46:52.870253+00:00
 -- url     : https://prove2.me/theorems/0ad12182-2e1d-46c3-88f1-ac3eac26e767

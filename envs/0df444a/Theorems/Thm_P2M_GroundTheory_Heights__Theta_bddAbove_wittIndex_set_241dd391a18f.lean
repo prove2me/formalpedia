@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_bddAbove_wittIndex_set_241dd391a18f
 -- name    : P2M_GroundTheory_Heights__Theta_bddAbove_wittIndex_set_241dd391a18f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:53:36.673284+00:00
 -- url     : https://prove2.me/theorems/7f512263-7ce6-45af-b76d-10f357c30c06

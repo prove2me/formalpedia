@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Modulus_finite_support_exponent
 -- name    : GroundTheory.Global.Modulus.finite_support_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:20:09.10703+00:00
 -- url     : https://prove2.me/theorems/e2b4fe1f-3dcc-511d-8735-6a35ebab16ee

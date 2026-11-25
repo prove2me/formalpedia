@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_det_gram_sumElim_sub_a3ffef1fbd7a
 -- name    : P2M_GroundTheory_Heights__Heights_det_gram_sumElim_sub_a3ffef1fbd7a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:42.006187+00:00
 -- url     : https://prove2.me/theorems/335838fb-7b7a-4f2a-87fa-b216a36ca709

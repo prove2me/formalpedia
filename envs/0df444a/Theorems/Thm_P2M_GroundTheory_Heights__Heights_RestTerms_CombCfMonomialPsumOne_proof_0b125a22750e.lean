@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombCfMonomialPsumOne_proof_0b125a22750e
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombCfMonomialPsumOne_proof_0b125a22750e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:33:04.664811+00:00
 -- url     : https://prove2.me/theorems/85b646a0-f09c-55e8-a023-b79b0fafc21b

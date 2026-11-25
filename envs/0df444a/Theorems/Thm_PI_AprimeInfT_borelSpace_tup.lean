@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfT_borelSpace_tup
 -- name    : PI.AprimeInfT.borelSpace_tup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:10:06.814329+00:00
 -- url     : https://prove2.me/theorems/f16241d3-af04-5bfc-95d6-2d4f8c86b5b6

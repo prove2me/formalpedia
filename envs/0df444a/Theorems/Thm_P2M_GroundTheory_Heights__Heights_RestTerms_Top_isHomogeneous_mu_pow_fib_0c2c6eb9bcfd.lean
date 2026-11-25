@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_isHomogeneous_mu_pow_fib_0c2c6eb9bcfd
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_isHomogeneous_mu_pow_fib_0c2c6eb9bcfd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:21:40.176715+00:00
 -- url     : https://prove2.me/theorems/f128d84d-fe3f-4fb7-bf5c-563a425bc2fe

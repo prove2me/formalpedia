@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mk_ker_eval_eq_7d4f06cbd06a
 -- name    : P2M_GroundTheory_Heights__Heights_mk_ker_eval_eq_7d4f06cbd06a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:49:07.218439+00:00
 -- url     : https://prove2.me/theorems/0be358b2-f1ad-498d-8d60-bd1f417c76d0

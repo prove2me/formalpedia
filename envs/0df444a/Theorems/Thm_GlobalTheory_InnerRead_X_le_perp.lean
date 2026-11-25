@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerRead_X_le_perp
 -- name    : GlobalTheory.InnerRead.X_le_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:26:45.17094+00:00
 -- url     : https://prove2.me/theorems/b0dcdeaa-cb7d-533c-aaf3-1bae3e8a0095

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_norm_le_one_of_aeval_eq_zero
 -- name    : GroundTheory.LocalField.norm_le_one_of_aeval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:29:52.303805+00:00
 -- url     : https://prove2.me/theorems/66c12726-ab3e-56fa-9dec-f4ef3004e125

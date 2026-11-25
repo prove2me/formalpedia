@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_uniform_coeff_bound_56e632b89056
 -- name    : P2M_GroundTheory_Heights__Heights_exists_uniform_coeff_bound_56e632b89056
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:45:53.515457+00:00
 -- url     : https://prove2.me/theorems/3fa06db6-a7d8-4131-87d6-daad43f65f41

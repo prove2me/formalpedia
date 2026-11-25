@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_GLP_majAt_swap__72bde34d257d
 -- name    : P2M_PI_Dv_GLP_majAt_swap__72bde34d257d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:56:18.784318+00:00
 -- url     : https://prove2.me/theorems/aa69cb79-0795-43f3-ab9a-7df994c77e1f

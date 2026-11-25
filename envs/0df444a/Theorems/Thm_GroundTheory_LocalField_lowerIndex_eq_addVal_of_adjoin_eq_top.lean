@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_lowerIndex_eq_addVal_of_adjoin_eq_top
 -- name    : GroundTheory.LocalField.lowerIndex_eq_addVal_of_adjoin_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:51:44.620747+00:00
 -- url     : https://prove2.me/theorems/7ce6d593-cdd8-4c86-b22f-f0e8ec068a38

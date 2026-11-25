@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPartGauss_genericIdeal_isHomog_b53edbad69d1
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPartGauss_genericIdeal_isHomog_b53edbad69d1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:42:20.731513+00:00
 -- url     : https://prove2.me/theorems/6471e4e2-401d-4b7a-b301-03abd621889b

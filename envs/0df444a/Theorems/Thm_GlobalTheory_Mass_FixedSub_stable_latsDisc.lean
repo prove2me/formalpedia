@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_FixedSub_stable_latsDisc
 -- name    : GlobalTheory.Mass.FixedSub.stable_latsDisc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:40:50.549822+00:00
 -- url     : https://prove2.me/theorems/91a5638c-f998-42e5-b7e6-82d80e4e992a

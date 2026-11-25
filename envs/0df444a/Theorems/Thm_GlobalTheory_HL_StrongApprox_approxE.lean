@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StrongApprox_approxE
 -- name    : GlobalTheory.HL.StrongApprox.approxE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:42:49.124036+00:00
 -- url     : https://prove2.me/theorems/8ea45684-67f1-5b17-875c-19c0e46c49a4

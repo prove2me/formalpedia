@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TypeRep_frame_split
 -- name    : GlobalTheory.HL.TypeRep.frame_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:39:12.578149+00:00
 -- url     : https://prove2.me/theorems/cc8793e3-8f5b-59d8-a725-561b7c96b566

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_TotalIdentity_proof_bb35e2091cf3
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_TotalIdentity_proof_bb35e2091cf3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:31:46.839804+00:00
 -- url     : https://prove2.me/theorems/756431c9-5b56-54d6-bb9a-28efdb971428

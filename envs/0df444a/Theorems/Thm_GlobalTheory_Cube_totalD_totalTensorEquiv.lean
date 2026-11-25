@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_totalD_totalTensorEquiv
 -- name    : GlobalTheory.Cube.totalD_totalTensorEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:37:27.212666+00:00
 -- url     : https://prove2.me/theorems/8a9611e3-8c8b-46f8-b8fb-7847c5c16a26

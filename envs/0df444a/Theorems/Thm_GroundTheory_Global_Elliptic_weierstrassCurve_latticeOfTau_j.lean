@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_weierstrassCurve_latticeOfTau_j
 -- name    : GroundTheory.Global.Elliptic.weierstrassCurve_latticeOfTau_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:05:18.151944+00:00
 -- url     : https://prove2.me/theorems/7bfd62a8-43b0-537e-845d-ac80055aac4f

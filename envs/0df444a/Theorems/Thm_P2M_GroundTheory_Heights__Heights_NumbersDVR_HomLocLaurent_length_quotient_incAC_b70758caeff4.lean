@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocLaurent_length_quotient_incAC_b70758caeff4
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocLaurent_length_quotient_incAC_b70758caeff4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:32:16.819818+00:00
 -- url     : https://prove2.me/theorems/0c908872-0b82-4fd5-84e2-718904ee5698

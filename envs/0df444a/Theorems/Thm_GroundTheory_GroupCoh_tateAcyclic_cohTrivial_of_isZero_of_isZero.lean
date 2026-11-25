@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateAcyclic_cohTrivial_of_isZero_of_isZero
 -- name    : GroundTheory.GroupCoh.tateAcyclic_cohTrivial_of_isZero_of_isZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:19:00.191392+00:00
 -- url     : https://prove2.me/theorems/b2bb235f-82e4-43f3-8c9d-eac1d5ea9c67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_support_cycleSection_iff_139ed4531e1a
 -- name    : P2M_GroundTheory_Heights__Heights_mem_support_cycleSection_iff_139ed4531e1a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:49:43.495728+00:00
 -- url     : https://prove2.me/theorems/81a9a567-7f92-4d08-9600-307656e0c0fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_tilde_eq_twist_d4135c6a21c0
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_tilde_eq_twist_d4135c6a21c0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:01:45.730393+00:00
 -- url     : https://prove2.me/theorems/5fb75419-f492-4fe6-90de-83608bc6b7e5

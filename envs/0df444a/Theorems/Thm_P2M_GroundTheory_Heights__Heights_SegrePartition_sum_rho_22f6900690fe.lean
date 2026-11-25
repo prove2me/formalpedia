@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SegrePartition_sum_rho_22f6900690fe
 -- name    : P2M_GroundTheory_Heights__Heights_SegrePartition_sum_rho_22f6900690fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:38:20.317388+00:00
 -- url     : https://prove2.me/theorems/c2134dc2-5f43-407f-925d-e621657e98de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_ofFinite_mul_ofInfinite
 -- name    : GroundTheory.Global.IdeleGroup.ofFinite_mul_ofInfinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:12:35.970546+00:00
 -- url     : https://prove2.me/theorems/f98a7817-1b2f-40fe-aede-52893d08528b

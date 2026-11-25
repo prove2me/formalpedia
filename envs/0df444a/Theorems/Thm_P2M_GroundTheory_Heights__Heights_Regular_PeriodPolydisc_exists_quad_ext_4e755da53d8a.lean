@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_PeriodPolydisc_exists_quad_ext_4e755da53d8a
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_PeriodPolydisc_exists_quad_ext_4e755da53d8a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:17:53.309796+00:00
 -- url     : https://prove2.me/theorems/2f7b7026-3f89-4810-a9b3-5042ffd811bb

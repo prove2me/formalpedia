@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockImage_comap_mCoordIdeal_4807f0e9d38a
 -- name    : P2M_GroundTheory_Heights__Heights_BlockImage_comap_mCoordIdeal_4807f0e9d38a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:54:01.773781+00:00
 -- url     : https://prove2.me/theorems/1cfefdf3-1268-5821-a0d0-4acdb8dd6274

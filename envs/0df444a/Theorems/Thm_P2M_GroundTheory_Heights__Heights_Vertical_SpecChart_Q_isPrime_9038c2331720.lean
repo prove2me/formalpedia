@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SpecChart_Q_isPrime_9038c2331720
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SpecChart_Q_isPrime_9038c2331720
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:45:21.51949+00:00
 -- url     : https://prove2.me/theorems/b6e45493-1a49-5a8c-b768-78d2de8c637b

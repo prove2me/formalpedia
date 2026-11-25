@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eichler_map_mem_unipotent_character
 -- name    : GlobalTheory.T.eichler_map_mem_unipotent_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:47:14.689837+00:00
 -- url     : https://prove2.me/theorems/7d8e1742-42d9-4b82-941a-873dde62b300

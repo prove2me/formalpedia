@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_topologicalKrullDim_le_of_isIrreducible
 -- name    : GlobalTheory.QCoh.topologicalKrullDim_le_of_isIrreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:04:45.407298+00:00
 -- url     : https://prove2.me/theorems/c6a825ec-802e-5f4f-8cc1-1f7b3c81d884

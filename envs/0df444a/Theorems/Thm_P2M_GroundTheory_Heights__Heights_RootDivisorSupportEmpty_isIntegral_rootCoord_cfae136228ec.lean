@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootDivisorSupportEmpty_isIntegral_rootCoord_cfae136228ec
 -- name    : P2M_GroundTheory_Heights__Heights_RootDivisorSupportEmpty_isIntegral_rootCoord_cfae136228ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:36:33.297972+00:00
 -- url     : https://prove2.me/theorems/a3fc8247-3cce-4918-a84d-ebfb782d1f1e

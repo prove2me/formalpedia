@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OffLeak_th_ne_zero
 -- name    : GlobalTheory.HL.OffLeak.th_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:19:49.285727+00:00
 -- url     : https://prove2.me/theorems/1366b7d0-56c3-4365-af97-5e85536aa008

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frames_commonStabiliser_eq_pairingMatrix_stabiliser
 -- name    : GlobalTheory.T.frames_commonStabiliser_eq_pairingMatrix_stabiliser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:45:26.278253+00:00
 -- url     : https://prove2.me/theorems/6a96e84f-8f4a-45ae-8b6f-36fdfd491ecf

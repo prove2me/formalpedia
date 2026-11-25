@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_zero_not_mem_normalModelSubmonoid_47a2efab4a46
 -- name    : P2M_GroundTheory_Heights__Heights_zero_not_mem_normalModelSubmonoid_47a2efab4a46
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:52:23.478363+00:00
 -- url     : https://prove2.me/theorems/00ac3c28-60d7-51c1-b8e2-956a5cb8673d

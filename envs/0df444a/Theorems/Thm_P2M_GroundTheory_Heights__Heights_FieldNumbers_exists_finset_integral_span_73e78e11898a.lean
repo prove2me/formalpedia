@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_exists_finset_integral_span_73e78e11898a
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_exists_finset_integral_span_73e78e11898a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:06:07.864296+00:00
 -- url     : https://prove2.me/theorems/806e67ae-2d82-4e65-a2fc-052eff987ca5

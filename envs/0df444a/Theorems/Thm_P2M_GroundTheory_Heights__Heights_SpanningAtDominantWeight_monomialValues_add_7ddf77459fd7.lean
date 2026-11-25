@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SpanningAtDominantWeight_monomialValues_add_7ddf77459fd7
 -- name    : P2M_GroundTheory_Heights__Heights_SpanningAtDominantWeight_monomialValues_add_7ddf77459fd7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:38:23.17389+00:00
 -- url     : https://prove2.me/theorems/7ed96262-7f2a-429a-9484-9c150ec9716f

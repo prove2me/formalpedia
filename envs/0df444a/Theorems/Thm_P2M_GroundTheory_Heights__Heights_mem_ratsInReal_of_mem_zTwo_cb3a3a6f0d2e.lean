@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_ratsInReal_of_mem_zTwo_cb3a3a6f0d2e
 -- name    : P2M_GroundTheory_Heights__Heights_mem_ratsInReal_of_mem_zTwo_cb3a3a6f0d2e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:49:23.926296+00:00
 -- url     : https://prove2.me/theorems/7a37c9f9-39c9-4cb8-a973-279c3daf8a16

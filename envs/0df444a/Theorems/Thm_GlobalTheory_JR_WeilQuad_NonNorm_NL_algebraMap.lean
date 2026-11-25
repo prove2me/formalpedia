@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NonNorm_NL_algebraMap
 -- name    : GlobalTheory.JR.WeilQuad.NonNorm.NL_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:03:14.626833+00:00
 -- url     : https://prove2.me/theorems/a0a75691-79b6-5021-a418-37fb8e4187bb

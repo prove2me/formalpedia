@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_realEisenstein_nonneg_23a9db672901
 -- name    : P2M_GroundTheory_Heights__Theta_realEisenstein_nonneg_23a9db672901
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:54:38.736034+00:00
 -- url     : https://prove2.me/theorems/96f49865-b621-40f0-9eaa-3bfbe258fceb

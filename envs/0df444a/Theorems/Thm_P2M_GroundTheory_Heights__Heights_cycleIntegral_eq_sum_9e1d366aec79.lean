@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_cycleIntegral_eq_sum_9e1d366aec79
 -- name    : P2M_GroundTheory_Heights__Heights_cycleIntegral_eq_sum_9e1d366aec79
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:45:37.974471+00:00
 -- url     : https://prove2.me/theorems/637a0eef-ab77-4846-9784-064069df1916

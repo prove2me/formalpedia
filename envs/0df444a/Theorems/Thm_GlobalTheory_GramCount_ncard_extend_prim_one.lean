@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_ncard_extend_prim_one
 -- name    : GlobalTheory.GramCount.ncard_extend_prim_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:28:33.288854+00:00
 -- url     : https://prove2.me/theorems/f2ce9b37-d4b5-44e6-9e15-e93a7ee2362a

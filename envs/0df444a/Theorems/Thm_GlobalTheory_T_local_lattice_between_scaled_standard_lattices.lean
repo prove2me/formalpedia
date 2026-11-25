@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_lattice_between_scaled_standard_lattices
 -- name    : GlobalTheory.T.local_lattice_between_scaled_standard_lattices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:46:18.126952+00:00
 -- url     : https://prove2.me/theorems/ccce744e-b82d-4809-b82b-050f1d2d0842

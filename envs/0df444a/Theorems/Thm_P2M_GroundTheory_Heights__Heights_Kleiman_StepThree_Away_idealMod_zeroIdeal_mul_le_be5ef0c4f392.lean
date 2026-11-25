@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_Away_idealMod_zeroIdeal_mul_le_be5ef0c4f392
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_Away_idealMod_zeroIdeal_mul_le_be5ef0c4f392
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:08:04.766612+00:00
 -- url     : https://prove2.me/theorems/3cacde8e-1e22-5acd-9cc0-581465db546b

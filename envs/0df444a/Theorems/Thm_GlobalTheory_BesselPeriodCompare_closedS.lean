@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_closedS
 -- name    : GlobalTheory.BesselPeriodCompare.closedS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:10:41.823726+00:00
 -- url     : https://prove2.me/theorems/b94179e0-f828-5ab5-ac92-e92269f5af3d

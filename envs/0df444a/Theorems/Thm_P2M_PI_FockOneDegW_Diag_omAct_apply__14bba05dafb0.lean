@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FockOneDegW_Diag_omAct_apply__14bba05dafb0
 -- name    : P2M_PI_FockOneDegW_Diag_omAct_apply__14bba05dafb0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:56:20.343467+00:00
 -- url     : https://prove2.me/theorems/072de09d-fc7d-4b16-a162-295023d088d5

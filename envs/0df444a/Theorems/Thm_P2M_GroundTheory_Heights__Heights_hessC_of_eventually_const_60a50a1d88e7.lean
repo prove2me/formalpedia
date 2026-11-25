@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_hessC_of_eventually_const_60a50a1d88e7
 -- name    : P2M_GroundTheory_Heights__Heights_hessC_of_eventually_const_60a50a1d88e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:47:24.823459+00:00
 -- url     : https://prove2.me/theorems/ae15e165-57b2-49e1-90b9-b837f2e0bd1c

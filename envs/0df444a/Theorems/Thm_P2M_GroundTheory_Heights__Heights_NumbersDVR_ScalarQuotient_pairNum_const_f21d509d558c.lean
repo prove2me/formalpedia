@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_pairNum_const_f21d509d558c
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_pairNum_const_f21d509d558c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:09:17.621511+00:00
 -- url     : https://prove2.me/theorems/8996d751-ffc8-4381-9b32-30d755a1a450

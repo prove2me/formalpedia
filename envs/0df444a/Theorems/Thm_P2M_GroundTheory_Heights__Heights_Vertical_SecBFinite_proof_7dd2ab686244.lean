@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_proof_7dd2ab686244
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_proof_7dd2ab686244
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:42:08.512952+00:00
 -- url     : https://prove2.me/theorems/c85688f7-20cd-4b4e-b347-c50e74799946

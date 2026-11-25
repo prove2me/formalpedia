@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_gaussBasis_zero_859cbc10225b
 -- name    : P2M_GroundTheory_Heights__Theta_gaussBasis_zero_859cbc10225b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:53:44.065111+00:00
 -- url     : https://prove2.me/theorems/28acfdd5-a64c-43a3-be4a-a78d74f669ac

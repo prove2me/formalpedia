@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_isSubvar_primeOf_150c48c899b8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_isSubvar_primeOf_150c48c899b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:00:28.889353+00:00
 -- url     : https://prove2.me/theorems/2f93a2be-d381-4aa5-89d9-820da913b00d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_coordGraded_tildeSys_twist_dbe5ec796d37
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_coordGraded_tildeSys_twist_dbe5ec796d37
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:07:47.333902+00:00
 -- url     : https://prove2.me/theorems/a1900b86-5e91-4158-9344-2717ebc26cac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_eq_one_of_posDef_of_bounded_b6f9a55710a2
 -- name    : P2M_GroundTheory_Heights__Theta_eq_one_of_posDef_of_bounded_b6f9a55710a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:54:39.291216+00:00
 -- url     : https://prove2.me/theorems/66a5385e-bd9b-4ca5-8b81-fb215755d357

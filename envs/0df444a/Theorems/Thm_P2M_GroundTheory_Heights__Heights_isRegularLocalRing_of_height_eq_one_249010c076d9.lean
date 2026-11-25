@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isRegularLocalRing_of_height_eq_one_249010c076d9
 -- name    : P2M_GroundTheory_Heights__Heights_isRegularLocalRing_of_height_eq_one_249010c076d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:47:31.538095+00:00
 -- url     : https://prove2.me/theorems/5dcd6308-10be-4c58-9193-de0b49fcc57a

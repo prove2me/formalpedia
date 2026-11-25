@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_unramifiedDegree_maximalUnramifiedExtensionFrobenius
 -- name    : GroundTheory.LocalField.unramifiedDegree_maximalUnramifiedExtensionFrobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:22:43.919453+00:00
 -- url     : https://prove2.me/theorems/30e901de-5bea-4e60-ae0d-dfc67cf32de4

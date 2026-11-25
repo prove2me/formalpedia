@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ringKrullDim_le_add_one_of_quotient_le_783e1e3aab90
 -- name    : P2M_GroundTheory_Heights__Heights_ringKrullDim_le_add_one_of_quotient_le_783e1e3aab90
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:50:20.275784+00:00
 -- url     : https://prove2.me/theorems/545804b3-432f-4c82-8463-7e4a8e6ad4f9

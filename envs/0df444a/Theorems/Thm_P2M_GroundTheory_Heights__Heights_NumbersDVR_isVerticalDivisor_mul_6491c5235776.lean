@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_isVerticalDivisor_mul_6491c5235776
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_isVerticalDivisor_mul_6491c5235776
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:11:33.860714+00:00
 -- url     : https://prove2.me/theorems/96bdd5a1-f7cf-4735-984e-3b68b6dd1f3e

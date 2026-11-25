@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_pcnt_lt_of_lt_of_eq_cf8434a17462
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_pcnt_lt_of_lt_of_eq_cf8434a17462
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:05:10.471834+00:00
 -- url     : https://prove2.me/theorems/71343f40-6747-4ce1-860c-5ad2fcd98e73

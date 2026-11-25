@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isMaximal_of_zeroLocus_finite_23a88a8a154b
 -- name    : P2M_GroundTheory_Heights__Heights_isMaximal_of_zeroLocus_finite_23a88a8a154b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:47:25.761668+00:00
 -- url     : https://prove2.me/theorems/4bf05555-449d-4ffb-aea9-be7a5de2f798

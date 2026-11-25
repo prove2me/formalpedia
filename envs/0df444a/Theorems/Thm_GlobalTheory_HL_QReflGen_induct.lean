@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QReflGen_induct
 -- name    : GlobalTheory.HL.QReflGen.induct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:44:16.878828+00:00
 -- url     : https://prove2.me/theorems/a91c94c9-e676-4d41-9722-a4b717a5346e

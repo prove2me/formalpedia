@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_eval_tanLinPoly_ed1f22825e97
 -- name    : P2M_GroundTheory_Heights__Heights_eval_tanLinPoly_ed1f22825e97
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:47:38.765622+00:00
 -- url     : https://prove2.me/theorems/aef2dbb7-92f4-5645-9cbf-b34ec9a790c0

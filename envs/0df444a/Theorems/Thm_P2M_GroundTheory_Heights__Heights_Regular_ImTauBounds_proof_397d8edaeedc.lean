@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ImTauBounds_proof_397d8edaeedc
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ImTauBounds_proof_397d8edaeedc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:44:43.93546+00:00
 -- url     : https://prove2.me/theorems/f79a13d9-cecf-415d-bef4-1540518fb6ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_evalPt_constOn
 -- name    : GlobalTheory.WeierstrassCurve.evalPt_constOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:00:14.259229+00:00
 -- url     : https://prove2.me/theorems/297c88e6-dd18-4525-af3b-43f22cf5d84a

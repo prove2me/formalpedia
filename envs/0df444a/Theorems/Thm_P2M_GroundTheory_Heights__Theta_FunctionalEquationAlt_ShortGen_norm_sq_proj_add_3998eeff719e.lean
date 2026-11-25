@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_norm_sq_proj_add_3998eeff719e
 -- name    : P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_norm_sq_proj_add_3998eeff719e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:07:27.338465+00:00
 -- url     : https://prove2.me/theorems/9eecc64b-d47c-578e-a66c-d27e4ea16bc2

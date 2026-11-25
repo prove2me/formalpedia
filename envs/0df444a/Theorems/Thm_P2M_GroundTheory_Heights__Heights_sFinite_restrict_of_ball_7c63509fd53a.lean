@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_sFinite_restrict_of_ball_7c63509fd53a
 -- name    : P2M_GroundTheory_Heights__Heights_sFinite_restrict_of_ball_7c63509fd53a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:50:30.005878+00:00
 -- url     : https://prove2.me/theorems/31e0d3f1-0333-4d64-912e-8e618658a4c5

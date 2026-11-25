@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isReduced_tensorProduct_field_of_perfectField_9cfa4a0469a9
 -- name    : P2M_GroundTheory_Heights__Heights_isReduced_tensorProduct_field_of_perfectField_9cfa4a0469a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:47:06.747401+00:00
 -- url     : https://prove2.me/theorems/6601b0d9-f2b6-5dd9-a053-7565f6b7af4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_RestrLenRestrict_eq_sing_332db549bcef
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_RestrLenRestrict_eq_sing_332db549bcef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:11:21.607155+00:00
 -- url     : https://prove2.me/theorems/92c4863f-53f1-5695-b5eb-26d57a6cf844

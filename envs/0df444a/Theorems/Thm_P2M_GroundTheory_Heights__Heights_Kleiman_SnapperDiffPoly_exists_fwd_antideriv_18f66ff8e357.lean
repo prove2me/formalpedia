@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperDiffPoly_exists_fwd_antideriv_18f66ff8e357
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperDiffPoly_exists_fwd_antideriv_18f66ff8e357
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:57:31.93872+00:00
 -- url     : https://prove2.me/theorems/f7dce7a6-8b7e-4e5a-a3a4-d2b6ecd60d10

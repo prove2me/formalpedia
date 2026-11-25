@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionComponents_ringKrullDim_quotient_add_one_eq_4d0eaf04e3ea
 -- name    : P2M_GroundTheory_Heights__Heights_SectionComponents_ringKrullDim_quotient_add_one_eq_4d0eaf04e3ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:18:58.850101+00:00
 -- url     : https://prove2.me/theorems/e347e52a-2040-482f-a5cf-faf6c548efe1

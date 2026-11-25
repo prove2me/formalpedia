@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_differentExponent_eq_addVal
 -- name    : GroundTheory.LocalField.differentExponent_eq_addVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:51:59.694062+00:00
 -- url     : https://prove2.me/theorems/782f1dbe-3b92-4589-bdfd-1d91060645aa

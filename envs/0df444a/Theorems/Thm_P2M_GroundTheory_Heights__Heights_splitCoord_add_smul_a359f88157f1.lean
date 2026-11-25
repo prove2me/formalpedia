@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_splitCoord_add_smul_a359f88157f1
 -- name    : P2M_GroundTheory_Heights__Heights_splitCoord_add_smul_a359f88157f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:50:47.448503+00:00
 -- url     : https://prove2.me/theorems/a0294589-013b-4c84-8646-ebe97d7b07a6

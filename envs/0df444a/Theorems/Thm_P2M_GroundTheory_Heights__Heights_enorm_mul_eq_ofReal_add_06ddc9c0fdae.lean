@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_enorm_mul_eq_ofReal_add_06ddc9c0fdae
 -- name    : P2M_GroundTheory_Heights__Heights_enorm_mul_eq_ofReal_add_06ddc9c0fdae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:47:28.467592+00:00
 -- url     : https://prove2.me/theorems/b44f1dad-d762-44f8-8526-e1ea6a69d687

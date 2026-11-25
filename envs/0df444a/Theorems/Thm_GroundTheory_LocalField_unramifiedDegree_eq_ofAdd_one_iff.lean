@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_unramifiedDegree_eq_ofAdd_one_iff
 -- name    : GroundTheory.LocalField.unramifiedDegree_eq_ofAdd_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:21:11.737514+00:00
 -- url     : https://prove2.me/theorems/d7b7d262-cff4-55f7-9114-45925f5a5675

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_lau_watson_consistency
 -- name    : Arxiv1110_5134.lau_watson_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:20:22.81781+00:00
 -- url     : https://prove2.me/theorems/f9ccb8b3-bb51-45f6-aeab-2ab6d4083ca5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MahlerInhabit_line_data_e3a3d31f3424
 -- name    : P2M_GroundTheory_Heights__Heights_MahlerInhabit_line_data_e3a3d31f3424
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:48:11.062641+00:00
 -- url     : https://prove2.me/theorems/131d3149-1acd-4eb4-a257-bd47186c9aa6

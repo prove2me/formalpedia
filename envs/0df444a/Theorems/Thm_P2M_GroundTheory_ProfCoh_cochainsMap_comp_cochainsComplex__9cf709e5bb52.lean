@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_cochainsMap_comp_cochainsComplex__9cf709e5bb52
 -- name    : P2M_GroundTheory_ProfCoh_cochainsMap_comp_cochainsComplex__9cf709e5bb52
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:55:53.5851+00:00
 -- url     : https://prove2.me/theorems/e31d9a5e-6310-41c6-b412-42c101385685

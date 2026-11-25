@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_withBot_natCast_le_of_add_one_le_3cfdfc22d150
 -- name    : P2M_GroundTheory_Heights__Heights_withBot_natCast_le_of_add_one_le_3cfdfc22d150
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:51:15.733892+00:00
 -- url     : https://prove2.me/theorems/9e3ebcbb-4a3b-4c1e-a24f-59b67e9971fe

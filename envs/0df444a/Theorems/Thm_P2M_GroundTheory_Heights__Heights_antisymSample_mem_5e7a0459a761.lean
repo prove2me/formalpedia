@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_antisymSample_mem_5e7a0459a761
 -- name    : P2M_GroundTheory_Heights__Heights_antisymSample_mem_5e7a0459a761
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:44:05.644814+00:00
 -- url     : https://prove2.me/theorems/625e8cd1-dc6c-4b90-8606-1ffbbf48b2de

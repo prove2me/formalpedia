@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GamInv_hf_add_right
 -- name    : GlobalTheory.HL.GamInv.hf_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:29:10.462846+00:00
 -- url     : https://prove2.me/theorems/d71ed7c4-717e-4aec-9ccd-150f6dfa05ea

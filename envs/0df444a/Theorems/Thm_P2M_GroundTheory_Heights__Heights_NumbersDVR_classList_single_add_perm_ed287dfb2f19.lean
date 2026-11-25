@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_classList_single_add_perm_ed287dfb2f19
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_classList_single_add_perm_ed287dfb2f19
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:10:16.533799+00:00
 -- url     : https://prove2.me/theorems/07dbe5f7-4f16-520d-8b35-583413169e3f

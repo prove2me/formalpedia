@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PrimeQuasiFiniteSheets_sheets_of_not_injective_d59186b2379e
 -- name    : P2M_GroundTheory_Heights__Heights_PrimeQuasiFiniteSheets_sheets_of_not_injective_d59186b2379e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:15:44.411166+00:00
 -- url     : https://prove2.me/theorems/587286dc-e0c8-4780-8e33-57f0bbc3da99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothLocusAdd_exists_sum_near_prime
 -- name    : GlobalTheory.SmoothLocusAdd.exists_sum_near_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:47:13.677798+00:00
 -- url     : https://prove2.me/theorems/e6edab3e-5429-41c3-8057-992e500686b1

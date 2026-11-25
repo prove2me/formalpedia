@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_primitiveTuple_extensions_le
 -- name    : GlobalTheory.T.card_primitiveTuple_extensions_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:47:41.118799+00:00
 -- url     : https://prove2.me/theorems/6fe1eefd-5847-4a3c-9e35-971a597f5137

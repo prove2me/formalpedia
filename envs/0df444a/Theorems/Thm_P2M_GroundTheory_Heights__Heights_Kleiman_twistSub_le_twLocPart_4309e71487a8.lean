@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_twistSub_le_twLocPart_4309e71487a8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_twistSub_le_twLocPart_4309e71487a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:34:26.575634+00:00
 -- url     : https://prove2.me/theorems/c38952c0-db29-4a30-b814-3efd9de47a0e

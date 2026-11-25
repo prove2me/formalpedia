@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartBounds_proof_40793fde9b4d
 -- name    : P2M_GroundTheory_Heights__Heights_ChartBounds_proof_40793fde9b4d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:45:04.74127+00:00
 -- url     : https://prove2.me/theorems/3fe73267-245d-4f2d-babf-2321f349a82d

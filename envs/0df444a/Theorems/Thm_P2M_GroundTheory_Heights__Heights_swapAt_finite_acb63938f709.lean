@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_swapAt_finite_acb63938f709
 -- name    : P2M_GroundTheory_Heights__Heights_swapAt_finite_acb63938f709
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:50:53.448524+00:00
 -- url     : https://prove2.me/theorems/2e554131-f17c-507b-91d9-937ae93a99ae

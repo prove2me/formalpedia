@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_YoungDiagramCombinatorics_numSYT_hookShape_4cc1d79bbf5a
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_YoungDiagramCombinatorics_numSYT_hookShape_4cc1d79bbf5a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:36:20.092855+00:00
 -- url     : https://prove2.me/theorems/ee49e35c-1cf5-4a5f-a637-3c4ecd1f435b

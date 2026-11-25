@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Schur_coeff_omitProduct_eq_zero_d1cd08c82e98
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Schur_coeff_omitProduct_eq_zero_d1cd08c82e98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:20:43.701869+00:00
 -- url     : https://prove2.me/theorems/c739edf7-cebe-5aa5-a71a-b5a673fc214f

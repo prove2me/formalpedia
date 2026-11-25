@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_measurable_fsLogReg_f4332e7b3091
 -- name    : P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_measurable_fsLogReg_f4332e7b3091
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:38:52.297203+00:00
 -- url     : https://prove2.me/theorems/6e0376fe-c571-4847-9f4c-b41a55698d8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootPointConjugation_homog_vanish_73dd4aea5fe2
 -- name    : P2M_GroundTheory_Heights__Heights_RootPointConjugation_homog_vanish_73dd4aea5fe2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:37:42.646904+00:00
 -- url     : https://prove2.me/theorems/43d27824-5900-5459-8744-0a1eebf2a8fa

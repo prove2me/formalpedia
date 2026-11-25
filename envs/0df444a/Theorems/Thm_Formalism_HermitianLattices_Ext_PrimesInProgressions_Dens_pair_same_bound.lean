@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_pair_same_bound
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.pair_same_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:22:06.346534+00:00
 -- url     : https://prove2.me/theorems/c1c45d7b-4595-4118-848d-53a913c119e2

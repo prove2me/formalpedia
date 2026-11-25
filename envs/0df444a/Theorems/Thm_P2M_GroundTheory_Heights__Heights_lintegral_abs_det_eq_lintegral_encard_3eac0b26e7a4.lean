@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_lintegral_abs_det_eq_lintegral_encard_3eac0b26e7a4
 -- name    : P2M_GroundTheory_Heights__Heights_lintegral_abs_det_eq_lintegral_encard_3eac0b26e7a4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:48:00.356804+00:00
 -- url     : https://prove2.me/theorems/a7e84e44-df06-4812-ab4e-79c41fd176ef

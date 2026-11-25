@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_local_antilipschitz_ab32a154bc26
 -- name    : P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_local_antilipschitz_ab32a154bc26
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:43:43.887927+00:00
 -- url     : https://prove2.me/theorems/e404d837-ac93-4ec1-8dcf-b23294421bb1

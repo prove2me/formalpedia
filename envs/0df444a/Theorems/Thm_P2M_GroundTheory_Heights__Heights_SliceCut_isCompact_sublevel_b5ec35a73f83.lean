@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceCut_isCompact_sublevel_b5ec35a73f83
 -- name    : P2M_GroundTheory_Heights__Heights_SliceCut_isCompact_sublevel_b5ec35a73f83
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:38:24.248893+00:00
 -- url     : https://prove2.me/theorems/2c1b7e03-df22-4cda-9215-421f1982cd76

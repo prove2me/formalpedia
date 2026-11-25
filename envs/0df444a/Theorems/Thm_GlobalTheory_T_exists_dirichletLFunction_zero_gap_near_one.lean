@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_dirichletLFunction_zero_gap_near_one
 -- name    : GlobalTheory.T.exists_dirichletLFunction_zero_gap_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:13.254639+00:00
 -- url     : https://prove2.me/theorems/fe710413-fe7d-445c-875c-630a59700f29

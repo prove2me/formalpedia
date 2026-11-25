@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjContract_finsum_mul_eq_sum_d96e0dfcb2b8
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjContract_finsum_mul_eq_sum_d96e0dfcb2b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:06:25.793728+00:00
 -- url     : https://prove2.me/theorems/384f9b14-9376-414c-95c4-68d9d1633384

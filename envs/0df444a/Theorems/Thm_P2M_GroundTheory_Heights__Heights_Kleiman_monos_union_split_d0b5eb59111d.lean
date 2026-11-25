@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_monos_union_split_d0b5eb59111d
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_monos_union_split_d0b5eb59111d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:02:06.346497+00:00
 -- url     : https://prove2.me/theorems/8c35e469-524f-40f7-a527-521eb70282b3

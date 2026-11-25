@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_PCountEx_clear
 -- name    : Formalism.L2.SG.Pf.PCountEx.clear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:28:44.654804+00:00
 -- url     : https://prove2.me/theorems/5abead72-20a2-41f6-9f34-8197cc2921cf

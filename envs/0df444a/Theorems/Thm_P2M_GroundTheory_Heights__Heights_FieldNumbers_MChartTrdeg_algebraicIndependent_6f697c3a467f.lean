@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartTrdeg_algebraicIndependent_6f697c3a467f
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartTrdeg_algebraicIndependent_6f697c3a467f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:51:36.109156+00:00
 -- url     : https://prove2.me/theorems/de0915fc-f68c-5d94-81fb-2951ad4f17ff

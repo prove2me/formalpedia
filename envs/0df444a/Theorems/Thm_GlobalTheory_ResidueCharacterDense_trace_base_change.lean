@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueCharacterDense_trace_base_change
 -- name    : GlobalTheory.ResidueCharacterDense.trace_base_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:26:39.884383+00:00
 -- url     : https://prove2.me/theorems/4a745977-7fe6-4d0f-8186-bad9fd79ed88

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SurjectiveClosed_sum_sgn_sum_sgn_548ea4db533a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SurjectiveClosed_sum_sgn_sum_sgn_548ea4db533a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:23:27.391863+00:00
 -- url     : https://prove2.me/theorems/8a120bdf-cb8b-4bef-9e32-4fbc2492db1d

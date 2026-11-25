@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_ne_zero_mul_eq_zero_of_forall_not_isSMulRegular_d0c61a5979dd
 -- name    : P2M_GroundTheory_Heights__Heights_exists_ne_zero_mul_eq_zero_of_forall_not_isSMulRegular_d0c61a5979dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:46:28.792909+00:00
 -- url     : https://prove2.me/theorems/94f491d3-2a4b-4bd1-80fc-1fd3b3b765af

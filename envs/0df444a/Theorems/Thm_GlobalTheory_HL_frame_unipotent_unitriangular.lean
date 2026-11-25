@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_frame_unipotent_unitriangular
 -- name    : GlobalTheory.HL.frame_unipotent_unitriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:14:57.700323+00:00
 -- url     : https://prove2.me/theorems/bdc463b4-2e5e-4aab-a550-6a5b2d752257

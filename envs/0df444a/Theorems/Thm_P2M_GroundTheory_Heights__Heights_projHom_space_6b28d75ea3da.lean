@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_projHom_space_6b28d75ea3da
 -- name    : P2M_GroundTheory_Heights__Heights_projHom_space_6b28d75ea3da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:49:35.942629+00:00
 -- url     : https://prove2.me/theorems/a877a52e-5630-4ea6-8152-c07d71dd982e

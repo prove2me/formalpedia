@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_polyDiff_basis_5ea53f5caf5a
 -- name    : P2M_GroundTheory_Heights__Heights_exists_polyDiff_basis_5ea53f5caf5a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:49:11.183845+00:00
 -- url     : https://prove2.me/theorems/9c47d919-6062-56e4-9e04-b21e39787d80

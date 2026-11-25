@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_det_gram_sumElim_eq_dfad27be450d
 -- name    : P2M_GroundTheory_Heights__Heights_det_gram_sumElim_eq_dfad27be450d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:44.266534+00:00
 -- url     : https://prove2.me/theorems/ccc3dcd2-b8b7-41f2-bd6b-6fd8d3bd6ae9

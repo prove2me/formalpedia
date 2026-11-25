@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_integral_hk_of_one_le_9db6071f5f8f
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_integral_hk_of_one_le_9db6071f5f8f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:17:17.168431+00:00
 -- url     : https://prove2.me/theorems/d9809dbf-e037-5863-b8ac-95c0e2bfcf02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_sum_expand_positions_04d69ef1efbf
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_sum_expand_positions_04d69ef1efbf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:12:40.234889+00:00
 -- url     : https://prove2.me/theorems/468b29d7-6fd2-5d86-b9b1-2e4617ddba4a

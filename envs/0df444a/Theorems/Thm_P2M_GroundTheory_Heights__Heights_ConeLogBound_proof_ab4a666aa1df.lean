@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeLogBound_proof_ab4a666aa1df
 -- name    : P2M_GroundTheory_Heights__Heights_ConeLogBound_proof_ab4a666aa1df
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:53:48.337993+00:00
 -- url     : https://prove2.me/theorems/a4647a06-cd3e-4f43-a0fb-ec20cefb28cd

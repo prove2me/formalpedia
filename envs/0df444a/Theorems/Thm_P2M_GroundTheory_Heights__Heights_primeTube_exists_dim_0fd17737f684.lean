@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_primeTube_exists_dim_0fd17737f684
 -- name    : P2M_GroundTheory_Heights__Heights_primeTube_exists_dim_0fd17737f684
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:50:26.461538+00:00
 -- url     : https://prove2.me/theorems/edcde957-9894-4d4b-8d76-3c9767982c13

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_YoungDiagramCombinatorics_numSYT_eq_5bfc4600f427
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_YoungDiagramCombinatorics_numSYT_eq_5bfc4600f427
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:36:09.343401+00:00
 -- url     : https://prove2.me/theorems/8e1a155b-20c5-5514-83b2-94a7f5762dac

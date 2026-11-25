@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilEtProof_weilAt_of_isField
 -- name    : GlobalTheory.JR.WeilEtProof.weilAt_of_isField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:58:21.000282+00:00
 -- url     : https://prove2.me/theorems/a98c0736-f446-50b8-b125-b2587435f94f

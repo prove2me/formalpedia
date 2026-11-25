@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_qLine_mem_incIdeal_b37e658e70cf
 -- name    : P2M_GroundTheory_Heights__Heights_qLine_mem_incIdeal_b37e658e70cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:49:36.313424+00:00
 -- url     : https://prove2.me/theorems/8da65fe1-7280-4c77-8bb7-a0c5af73991d

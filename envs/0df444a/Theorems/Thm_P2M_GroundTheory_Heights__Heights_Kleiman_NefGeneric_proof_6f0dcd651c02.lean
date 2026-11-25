@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_NefGeneric_proof_6f0dcd651c02
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_NefGeneric_proof_6f0dcd651c02
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:56:48.273664+00:00
 -- url     : https://prove2.me/theorems/ed57cf03-d7aa-4a79-b0fa-50a34a0d73fb

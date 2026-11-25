@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_locL_injective_0670b52721eb
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_locL_injective_0670b52721eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:01:06.109446+00:00
 -- url     : https://prove2.me/theorems/b6367151-112e-53e8-9692-cefdb5be1e94

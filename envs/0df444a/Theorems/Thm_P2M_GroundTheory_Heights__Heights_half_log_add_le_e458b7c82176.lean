@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_half_log_add_le_e458b7c82176
 -- name    : P2M_GroundTheory_Heights__Heights_half_log_add_le_e458b7c82176
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:46:24.811608+00:00
 -- url     : https://prove2.me/theorems/e91f9e93-271c-40d4-b00a-8054288d8824

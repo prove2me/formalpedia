@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_qParam_neg_conj_e3e5999e3544
 -- name    : P2M_GroundTheory_Heights__Theta_qParam_neg_conj_e3e5999e3544
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:54:01.591722+00:00
 -- url     : https://prove2.me/theorems/8bdeb4ab-f7cf-5a06-abe8-41c5cbf10926

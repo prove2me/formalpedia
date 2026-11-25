@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GermRealisation_GermReal_germD
 -- name    : Formalism.FourierDecayAlt.P.GermRealisation.GermReal.germD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:12:04.978664+00:00
 -- url     : https://prove2.me/theorems/36db9676-9c1f-5e31-8677-22229ec83d6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_integral_chosenSheet_eq_6c401d343d67
 -- name    : P2M_GroundTheory_Heights__Heights_integral_chosenSheet_eq_6c401d343d67
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:47:04.30489+00:00
 -- url     : https://prove2.me/theorems/13e8b779-e822-464c-9504-f97e2a1d8f02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_gvrte_cartesian
 -- name    : Arxiv1110_5134.gvrte_cartesian
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:18:09.405181+00:00
 -- url     : https://prove2.me/theorems/a368a754-cc70-4fb1-8536-51eaafa6c8f8

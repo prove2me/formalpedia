@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ofReal_mul_poincareDeepWeight_le_a0152c518374
 -- name    : P2M_GroundTheory_Heights__Heights_ofReal_mul_poincareDeepWeight_le_a0152c518374
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:49:11.446719+00:00
 -- url     : https://prove2.me/theorems/b5163116-bf5f-44b7-a1ba-096b6ead8370

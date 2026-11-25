@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_dotForm_apply_14b583c97b83
 -- name    : P2M_GroundTheory_Heights__Heights_dotForm_apply_14b583c97b83
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:46:10.481171+00:00
 -- url     : https://prove2.me/theorems/0ae31ec9-6e1b-40f2-bc17-90a5f2a2f928

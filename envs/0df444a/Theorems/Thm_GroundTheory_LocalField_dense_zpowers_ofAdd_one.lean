@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_dense_zpowers_ofAdd_one
 -- name    : GroundTheory.LocalField.dense_zpowers_ofAdd_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:24:29.510218+00:00
 -- url     : https://prove2.me/theorems/f9bf58e6-1913-4dbe-b7c7-a26fa690ad98

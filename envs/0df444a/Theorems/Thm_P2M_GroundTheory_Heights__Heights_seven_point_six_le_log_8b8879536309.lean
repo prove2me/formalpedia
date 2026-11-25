@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_seven_point_six_le_log_8b8879536309
 -- name    : P2M_GroundTheory_Heights__Heights_seven_point_six_le_log_8b8879536309
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:50:03.36143+00:00
 -- url     : https://prove2.me/theorems/ac32f969-8b2e-43bf-bae4-402c2d7d9750

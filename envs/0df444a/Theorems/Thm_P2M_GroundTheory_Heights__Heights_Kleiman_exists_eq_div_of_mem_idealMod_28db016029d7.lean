@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_eq_div_of_mem_idealMod_28db016029d7
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_eq_div_of_mem_idealMod_28db016029d7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:01:32.187511+00:00
 -- url     : https://prove2.me/theorems/43cfe01f-f3b3-5df8-8068-11beb8822a55

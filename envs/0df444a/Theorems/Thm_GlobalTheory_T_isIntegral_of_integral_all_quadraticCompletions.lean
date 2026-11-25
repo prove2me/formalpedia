@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIntegral_of_integral_all_quadraticCompletions
 -- name    : GlobalTheory.T.isIntegral_of_integral_all_quadraticCompletions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:46:20.98955+00:00
 -- url     : https://prove2.me/theorems/c08dd804-f962-4fc9-80ba-75fed42eced6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_metricDefect_standard_888ef6a52a7a
 -- name    : P2M_GroundTheory_Heights__Heights_metricDefect_standard_888ef6a52a7a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:48:57.7078+00:00
 -- url     : https://prove2.me/theorems/661addbe-d66d-4ac7-aa1e-324b1ba56b28

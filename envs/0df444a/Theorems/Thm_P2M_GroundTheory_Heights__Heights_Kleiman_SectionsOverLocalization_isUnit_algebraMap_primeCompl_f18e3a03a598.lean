@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_isUnit_algebraMap_primeCompl_f18e3a03a598
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_isUnit_algebraMap_primeCompl_f18e3a03a598
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:01:15.310631+00:00
 -- url     : https://prove2.me/theorems/5f74d102-f0fd-4e49-827a-0a2b5604ede8

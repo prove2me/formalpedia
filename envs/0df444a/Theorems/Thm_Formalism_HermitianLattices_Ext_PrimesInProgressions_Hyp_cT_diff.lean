@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Hyp_cT_diff
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Hyp.cT_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:23:15.076388+00:00
 -- url     : https://prove2.me/theorems/748af82e-e8a7-54f4-8592-9ddde1876fdf

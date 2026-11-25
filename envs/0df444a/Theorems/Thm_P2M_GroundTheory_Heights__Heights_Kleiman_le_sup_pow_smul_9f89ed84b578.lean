@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_le_sup_pow_smul_9f89ed84b578
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_le_sup_pow_smul_9f89ed84b578
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:10:16.227476+00:00
 -- url     : https://prove2.me/theorems/698aa68b-d1af-48b0-b722-290df6324076

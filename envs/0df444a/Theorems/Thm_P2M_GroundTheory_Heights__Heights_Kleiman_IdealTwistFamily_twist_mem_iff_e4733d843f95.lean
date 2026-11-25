@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_IdealTwistFamily_twist_mem_iff_e4733d843f95
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_IdealTwistFamily_twist_mem_iff_e4733d843f95
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:15:53.562361+00:00
 -- url     : https://prove2.me/theorems/6faa3f71-fb46-5eb4-b966-28717f01835e

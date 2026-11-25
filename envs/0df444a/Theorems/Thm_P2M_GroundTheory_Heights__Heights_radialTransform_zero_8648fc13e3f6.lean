@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_radialTransform_zero_8648fc13e3f6
 -- name    : P2M_GroundTheory_Heights__Heights_radialTransform_zero_8648fc13e3f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:50:29.137798+00:00
 -- url     : https://prove2.me/theorems/77993b75-68c8-4c93-8215-22c5a114b7ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_incidenceIdeal_pointZeroOne_le_span_43596e420577
 -- name    : P2M_GroundTheory_Heights__Heights_incidenceIdeal_pointZeroOne_le_span_43596e420577
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:48:19.364732+00:00
 -- url     : https://prove2.me/theorems/31b7a89b-68dd-5a21-aaea-96fe1a262ed5

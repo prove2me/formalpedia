@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuTorConj_torConj
 -- name    : GlobalTheory.CompanionTheory.BmuTorConj.torConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:21:53.716331+00:00
 -- url     : https://prove2.me/theorems/0f048ebe-5a0d-57c8-a091-d7dc66a32e28

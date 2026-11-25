@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_tendsto_of_forall_local_on_tsupport_b40b82da17eb
 -- name    : P2M_GroundTheory_Heights__Heights_tendsto_of_forall_local_on_tsupport_b40b82da17eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:50:35.68761+00:00
 -- url     : https://prove2.me/theorems/3849fdcf-fdf1-4c68-a934-508a62580737

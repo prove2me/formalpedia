@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isRelevant_comap_map_iff_ce9d308ab38f
 -- name    : P2M_GroundTheory_Heights__Heights_isRelevant_comap_map_iff_ce9d308ab38f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:47:35.286626+00:00
 -- url     : https://prove2.me/theorems/f19ce2cd-fbfa-49a1-a41f-f7c4162fd6c0

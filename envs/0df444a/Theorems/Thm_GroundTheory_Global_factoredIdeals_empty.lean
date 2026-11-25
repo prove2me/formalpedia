@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_factoredIdeals_empty
 -- name    : GroundTheory.Global.factoredIdeals_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:06:17.344114+00:00
 -- url     : https://prove2.me/theorems/9cf8c3a7-7265-4c96-9f0a-698e3a067a46

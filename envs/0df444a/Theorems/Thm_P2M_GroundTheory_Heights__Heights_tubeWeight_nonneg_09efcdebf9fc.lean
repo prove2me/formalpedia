@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_tubeWeight_nonneg_09efcdebf9fc
 -- name    : P2M_GroundTheory_Heights__Heights_tubeWeight_nonneg_09efcdebf9fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:52:15.865747+00:00
 -- url     : https://prove2.me/theorems/7564898c-fffe-5f40-81f4-d6c3091b6378

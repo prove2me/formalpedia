@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_smul_mem_of_pairing
 -- name    : GlobalTheory.DegCnt.PosIso.smul_mem_of_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:25:09.037918+00:00
 -- url     : https://prove2.me/theorems/773c92c6-90cc-5da7-8ada-3e1d1b80bbb6

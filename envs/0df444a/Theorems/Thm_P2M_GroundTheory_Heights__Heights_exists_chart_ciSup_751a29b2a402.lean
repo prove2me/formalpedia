@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_chart_ciSup_751a29b2a402
 -- name    : P2M_GroundTheory_Heights__Heights_exists_chart_ciSup_751a29b2a402
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:46:20.924799+00:00
 -- url     : https://prove2.me/theorems/04820a2e-c4f5-4720-9a68-3aeb32699d92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Step_normD_pos
 -- name    : Formalism.HermitianLattices.Ext.L3.Step.normD_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:21:35.704599+00:00
 -- url     : https://prove2.me/theorems/49af36b1-2d3b-5e92-970b-4cdf8df4ffaa

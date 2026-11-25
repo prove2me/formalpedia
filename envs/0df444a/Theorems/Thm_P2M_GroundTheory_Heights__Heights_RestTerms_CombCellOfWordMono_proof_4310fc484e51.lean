@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombCellOfWordMono_proof_4310fc484e51
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombCellOfWordMono_proof_4310fc484e51
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:30:47.254298+00:00
 -- url     : https://prove2.me/theorems/4191314a-97b6-5d59-81dd-2ddb457c67bc

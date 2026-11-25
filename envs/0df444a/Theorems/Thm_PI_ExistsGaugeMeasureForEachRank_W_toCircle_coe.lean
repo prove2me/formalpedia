@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_toCircle_coe
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.toCircle_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:25:40.573827+00:00
 -- url     : https://prove2.me/theorems/5deb77f2-d1b2-4bcd-84df-045b9e2969e5

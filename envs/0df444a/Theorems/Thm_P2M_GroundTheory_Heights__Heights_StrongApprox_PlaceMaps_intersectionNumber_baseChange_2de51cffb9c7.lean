@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_PlaceMaps_intersectionNumber_baseChange_2de51cffb9c7
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_PlaceMaps_intersectionNumber_baseChange_2de51cffb9c7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:40:54.276198+00:00
 -- url     : https://prove2.me/theorems/057e4329-e0e3-4e8d-980e-09aabe4c6b40

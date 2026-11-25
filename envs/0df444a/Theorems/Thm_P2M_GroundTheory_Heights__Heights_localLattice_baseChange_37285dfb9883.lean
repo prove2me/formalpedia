@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_localLattice_baseChange_37285dfb9883
 -- name    : P2M_GroundTheory_Heights__Heights_localLattice_baseChange_37285dfb9883
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:48:59.805385+00:00
 -- url     : https://prove2.me/theorems/fb4e9f66-a1f4-4728-bdc1-67cb0d86de33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_pointLocalRing_exists_mul_eq_04799598eeba
 -- name    : P2M_GroundTheory_Heights__Heights_pointLocalRing_exists_mul_eq_04799598eeba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:49:45.762811+00:00
 -- url     : https://prove2.me/theorems/143525eb-77e7-4567-8094-cb3be4bb326f

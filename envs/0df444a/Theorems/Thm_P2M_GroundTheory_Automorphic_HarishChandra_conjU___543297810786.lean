@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_HarishChandra_conjU___543297810786
 -- name    : P2M_GroundTheory_Automorphic_HarishChandra_conjU___543297810786
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:54:51.253028+00:00
 -- url     : https://prove2.me/theorems/dbc87b4e-c648-4c93-89fd-c8c5994e1f03

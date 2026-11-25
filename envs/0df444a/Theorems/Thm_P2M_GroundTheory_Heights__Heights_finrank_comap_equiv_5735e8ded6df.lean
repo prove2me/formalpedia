@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_finrank_comap_equiv_5735e8ded6df
 -- name    : P2M_GroundTheory_Heights__Heights_finrank_comap_equiv_5735e8ded6df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:46:23.697542+00:00
 -- url     : https://prove2.me/theorems/58989ec2-e31c-4a77-adeb-ad188eece78c

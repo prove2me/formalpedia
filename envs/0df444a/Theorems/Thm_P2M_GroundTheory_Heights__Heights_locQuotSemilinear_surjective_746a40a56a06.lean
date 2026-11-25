@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_locQuotSemilinear_surjective_746a40a56a06
 -- name    : P2M_GroundTheory_Heights__Heights_locQuotSemilinear_surjective_746a40a56a06
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:48:48.961741+00:00
 -- url     : https://prove2.me/theorems/94d3ee5e-d04a-488c-b007-f903ff6f6f6c

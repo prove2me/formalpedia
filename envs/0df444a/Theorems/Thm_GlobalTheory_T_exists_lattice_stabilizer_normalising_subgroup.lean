@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lattice_stabilizer_normalising_subgroup
 -- name    : GlobalTheory.T.exists_lattice_stabilizer_normalising_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:45:15.210529+00:00
 -- url     : https://prove2.me/theorems/b9ed818a-5f2d-4fd6-a6ce-155d69bfa735

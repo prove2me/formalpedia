@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isCohenMacaulayLocalRing_atPrime_of_mem_minimalPrimes_a5d964dc9852
 -- name    : P2M_GroundTheory_Heights__Heights_isCohenMacaulayLocalRing_atPrime_of_mem_minimalPrimes_a5d964dc9852
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:47:55.909751+00:00
 -- url     : https://prove2.me/theorems/ee3ec00a-fa4f-48ce-9491-7850818d3213

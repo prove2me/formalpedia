@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirrorSection__n_on_Wb_19802610ecc0
 -- name    : P2M_PI_MirrorSection__n_on_Wb_19802610ecc0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:57:12.529344+00:00
 -- url     : https://prove2.me/theorems/c210b86b-8014-428b-b550-9aa9027ef92d

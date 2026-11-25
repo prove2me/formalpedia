@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_continuous_expChart
 -- name    : PI.RhsWLim.W.continuous_expChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:26:12.066346+00:00
 -- url     : https://prove2.me/theorems/8207745b-2db2-5605-b1df-02e2b4b09d60

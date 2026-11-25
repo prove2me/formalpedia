@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleDegree_proof_8023612bf403
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleDegree_proof_8023612bf403
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:07:51.928412+00:00
 -- url     : https://prove2.me/theorems/72a33021-2b4c-5e3f-8838-fe9113924a3d

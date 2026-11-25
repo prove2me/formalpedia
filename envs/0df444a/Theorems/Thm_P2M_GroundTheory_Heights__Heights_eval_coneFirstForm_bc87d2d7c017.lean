@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_eval_coneFirstForm_bc87d2d7c017
 -- name    : P2M_GroundTheory_Heights__Heights_eval_coneFirstForm_bc87d2d7c017
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:46:10.461163+00:00
 -- url     : https://prove2.me/theorems/a0a9c224-eea2-42ea-89e8-7ea403584390

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_exists_norm_sub_pow_le
 -- name    : GlobalTheory.Cyc.exists_norm_sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:04:59.21848+00:00
 -- url     : https://prove2.me/theorems/413c9d8f-ece5-478f-8115-65969c5e7f69

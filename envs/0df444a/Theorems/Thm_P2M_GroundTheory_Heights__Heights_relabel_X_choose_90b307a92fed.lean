@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_relabel_X_choose_90b307a92fed
 -- name    : P2M_GroundTheory_Heights__Heights_relabel_X_choose_90b307a92fed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:49:53.197898+00:00
 -- url     : https://prove2.me/theorems/beafaa55-e5db-4411-9fa8-773861ec4415

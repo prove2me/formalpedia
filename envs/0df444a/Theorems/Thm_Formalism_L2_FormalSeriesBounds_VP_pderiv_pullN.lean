@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_pderiv_pullN
 -- name    : Formalism.L2.FormalSeriesBounds.VP.pderiv_pullN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:22:40.331413+00:00
 -- url     : https://prove2.me/theorems/1ac89c45-7486-4710-a1ab-a201b59c342a

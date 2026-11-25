@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_integrable_chartDens_b4865e99a51f
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_integrable_chartDens_b4865e99a51f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:16:10.090851+00:00
 -- url     : https://prove2.me/theorems/a40a0a74-ede9-4977-9a96-9da8ca8b9e2a

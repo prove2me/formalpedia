@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_lintegral_comp_mul_left
 -- name    : GroundTheory.LocalField.lintegral_comp_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:32:58.235413+00:00
 -- url     : https://prove2.me/theorems/db29a487-940f-4e88-a186-effa71bc7421

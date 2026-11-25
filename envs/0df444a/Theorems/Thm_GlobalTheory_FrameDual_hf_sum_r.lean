@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameDual_hf_sum_r
 -- name    : GlobalTheory.FrameDual.hf_sum_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:23:01.002251+00:00
 -- url     : https://prove2.me/theorems/9377b259-edc5-4458-8c1a-c4370ac23a72

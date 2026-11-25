@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LowerBoundFree_LineFlag_basis_det_comp_6ef76de755bd
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LowerBoundFree_LineFlag_basis_det_comp_6ef76de755bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:28:54.246093+00:00
 -- url     : https://prove2.me/theorems/cd026e87-e7c8-4015-bf95-1026235fecc2

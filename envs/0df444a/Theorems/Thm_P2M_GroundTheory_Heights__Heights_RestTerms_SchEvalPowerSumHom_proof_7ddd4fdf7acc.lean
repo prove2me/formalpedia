@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchEvalPowerSumHom_proof_7ddd4fdf7acc
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchEvalPowerSumHom_proof_7ddd4fdf7acc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:01:30.521899+00:00
 -- url     : https://prove2.me/theorems/6577e2e6-042c-4517-bdc3-ecc1f928c382

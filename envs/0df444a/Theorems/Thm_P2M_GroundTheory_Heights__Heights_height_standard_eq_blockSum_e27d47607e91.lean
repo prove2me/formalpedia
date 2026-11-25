@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_height_standard_eq_blockSum_e27d47607e91
 -- name    : P2M_GroundTheory_Heights__Heights_height_standard_eq_blockSum_e27d47607e91
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:46:49.151928+00:00
 -- url     : https://prove2.me/theorems/ca449d16-f674-4a32-9c8b-aee14c847947

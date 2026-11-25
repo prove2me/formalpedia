@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_ram_best_copy_select
 -- name    : WilliamsonShmoys.ram_best_copy_select
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-25T08:22:53.773845+00:00
 -- url     : https://prove2.me/theorems/a82d06f6-b45c-5660-84b4-f02d8b257961

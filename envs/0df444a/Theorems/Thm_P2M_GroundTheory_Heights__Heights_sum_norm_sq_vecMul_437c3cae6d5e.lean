@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_sum_norm_sq_vecMul_437c3cae6d5e
 -- name    : P2M_GroundTheory_Heights__Heights_sum_norm_sq_vecMul_437c3cae6d5e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:50:45.352502+00:00
 -- url     : https://prove2.me/theorems/871bf373-7034-4252-b1ae-20304ff1e8f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_locQuotSemilinear_injective_33b0e5b56582
 -- name    : P2M_GroundTheory_Heights__Heights_locQuotSemilinear_injective_33b0e5b56582
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:48:26.322477+00:00
 -- url     : https://prove2.me/theorems/98cb367c-61f7-42d7-af1b-420970b3aa8e

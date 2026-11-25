@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Subgroup_subset_of_isPreconnected
 -- name    : GroundTheory.Global.Subgroup.subset_of_isPreconnected
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:23:11.185691+00:00
 -- url     : https://prove2.me/theorems/10d87cab-1f82-42fc-9423-0293858ba12d

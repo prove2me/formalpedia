@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_ord_eq_ord_polynomial_bd5f17fea660
 -- name    : P2M_GroundTheory_Heights__Heights_exists_ord_eq_ord_polynomial_bd5f17fea660
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:46:34.076181+00:00
 -- url     : https://prove2.me/theorems/92e74f66-e326-4213-82a1-32abc82b0f65

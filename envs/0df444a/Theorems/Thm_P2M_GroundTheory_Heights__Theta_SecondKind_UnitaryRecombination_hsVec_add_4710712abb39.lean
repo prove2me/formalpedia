@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_hsVec_add_4710712abb39
 -- name    : P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_hsVec_add_4710712abb39
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:51:47.404879+00:00
 -- url     : https://prove2.me/theorems/6a8737ae-ee1d-4ebb-88ce-a066e8060e20

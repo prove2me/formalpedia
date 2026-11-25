@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_term_invariants_independent_of_witnesses
 -- name    : GlobalTheory.T.term_invariants_independent_of_witnesses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:10:38.487802+00:00
 -- url     : https://prove2.me/theorems/cc4d69a4-accf-5a8c-a633-274d2b8ab303

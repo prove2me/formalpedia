@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_PrimDisc_main
 -- name    : GlobalTheory.Mass.PrimDisc.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:39:18.252704+00:00
 -- url     : https://prove2.me/theorems/b8900c52-084b-5e4d-abf4-0070839766b0

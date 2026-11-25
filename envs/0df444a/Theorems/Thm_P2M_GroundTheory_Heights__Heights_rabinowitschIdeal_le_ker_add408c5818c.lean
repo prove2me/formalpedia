@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_rabinowitschIdeal_le_ker_add408c5818c
 -- name    : P2M_GroundTheory_Heights__Heights_rabinowitschIdeal_le_ker_add408c5818c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:49:31.323613+00:00
 -- url     : https://prove2.me/theorems/011f6073-29dc-55c4-982c-d10bd3a4ad60

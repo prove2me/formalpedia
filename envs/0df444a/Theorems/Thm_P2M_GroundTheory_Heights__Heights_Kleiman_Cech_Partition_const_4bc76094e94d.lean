@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_Partition_const_4bc76094e94d
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Cech_Partition_const_4bc76094e94d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:53:23.831944+00:00
 -- url     : https://prove2.me/theorems/a7c8d590-f1f9-49d3-bc4c-77a1dffbe877

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_mulLeftAddEquiv_mul_a4f80d01f319
 -- name    : P2M_GroundTheory_Heights__Theta_mulLeftAddEquiv_mul_a4f80d01f319
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:54:02.262807+00:00
 -- url     : https://prove2.me/theorems/a7b14495-e5b1-58f8-92a1-a5005b782d40

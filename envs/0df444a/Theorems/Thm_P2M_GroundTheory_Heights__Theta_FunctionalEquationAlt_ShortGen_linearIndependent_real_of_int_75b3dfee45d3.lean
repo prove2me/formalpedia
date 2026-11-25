@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_linearIndependent_real_of_int_75b3dfee45d3
 -- name    : P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_linearIndependent_real_of_int_75b3dfee45d3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:07:38.999341+00:00
 -- url     : https://prove2.me/theorems/9a2b5791-4c77-4722-bf8e-49ae1ea474dd

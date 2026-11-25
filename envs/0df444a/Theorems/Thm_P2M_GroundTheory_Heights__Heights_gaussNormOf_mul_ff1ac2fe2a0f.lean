@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_gaussNormOf_mul_ff1ac2fe2a0f
 -- name    : P2M_GroundTheory_Heights__Heights_gaussNormOf_mul_ff1ac2fe2a0f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:46:11.023244+00:00
 -- url     : https://prove2.me/theorems/fad98699-93a8-44e8-afc0-4d73aabad472

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_AENeighbourhoods_nhds_of_sep_e7517c82270c
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_AENeighbourhoods_nhds_of_sep_e7517c82270c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:38:49.277389+00:00
 -- url     : https://prove2.me/theorems/36e6ef8c-f943-5a8a-8152-b195bcbb2059

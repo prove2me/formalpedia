@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotAdd_proof_a5f303e24f00
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotAdd_proof_a5f303e24f00
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:57:58.754385+00:00
 -- url     : https://prove2.me/theorems/3fbefbae-40e0-437d-8030-7b0fb9dff639

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_weight_groupWeight_apply_bef25cb93b13
 -- name    : P2M_GroundTheory_Heights__Heights_weight_groupWeight_apply_bef25cb93b13
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:51:32.915788+00:00
 -- url     : https://prove2.me/theorems/3b2774d2-ea44-5f6b-b0fc-c53d2fdb2453

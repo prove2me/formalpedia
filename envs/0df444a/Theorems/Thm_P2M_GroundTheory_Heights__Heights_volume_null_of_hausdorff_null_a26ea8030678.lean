@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_volume_null_of_hausdorff_null_a26ea8030678
 -- name    : P2M_GroundTheory_Heights__Heights_volume_null_of_hausdorff_null_a26ea8030678
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:52:22.4768+00:00
 -- url     : https://prove2.me/theorems/0d779c36-090b-44bc-9629-a30ffbf3380e

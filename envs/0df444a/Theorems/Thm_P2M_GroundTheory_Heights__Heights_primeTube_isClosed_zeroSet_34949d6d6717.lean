@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_primeTube_isClosed_zeroSet_34949d6d6717
 -- name    : P2M_GroundTheory_Heights__Heights_primeTube_isClosed_zeroSet_34949d6d6717
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:49:59.863108+00:00
 -- url     : https://prove2.me/theorems/6f4e74ec-7897-4c87-96f3-b54a3d382c67

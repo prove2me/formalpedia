@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_exists_norm_untilt_eq_norm_of_norm_le_one_ecbe03a01da8
 -- name    : P2M_GroundTheory_Variant__N1_exists_norm_untilt_eq_norm_of_norm_le_one_ecbe03a01da8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:54:59.524902+00:00
 -- url     : https://prove2.me/theorems/7c36ae2c-f601-48d1-9484-fe05b185ff0b

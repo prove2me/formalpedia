@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_algebraMap_adeleRing
 -- name    : GroundTheory.Global.AdeleBaseChange.algebraMap_adeleRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:24:30.602674+00:00
 -- url     : https://prove2.me/theorems/19d3578b-c11c-5334-9031-b6ea3d618e1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_sum_log_norm_embeddings_2fdebfa8404c
 -- name    : P2M_GroundTheory_Heights__Heights_sum_log_norm_embeddings_2fdebfa8404c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:56:31.424859+00:00
 -- url     : https://prove2.me/theorems/d0c42a9a-b84b-4916-903b-34a212b1ec32

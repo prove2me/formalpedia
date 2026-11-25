@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocDict_exists_dual
 -- name    : GlobalTheory.HL.LocDict.exists_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:35:30.040995+00:00
 -- url     : https://prove2.me/theorems/f5185545-3e8c-55da-9029-ba38a69de40b

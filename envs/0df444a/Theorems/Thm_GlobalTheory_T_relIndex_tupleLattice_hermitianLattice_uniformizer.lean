@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndex_tupleLattice_hermitianLattice_uniformizer
 -- name    : GlobalTheory.T.relIndex_tupleLattice_hermitianLattice_uniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:46:12.190049+00:00
 -- url     : https://prove2.me/theorems/2f845cbc-8feb-4e54-9c02-19916fa3d266

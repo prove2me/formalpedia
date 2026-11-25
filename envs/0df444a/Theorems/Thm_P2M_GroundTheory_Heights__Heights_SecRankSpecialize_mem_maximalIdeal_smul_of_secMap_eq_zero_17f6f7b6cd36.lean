@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SecRankSpecialize_mem_maximalIdeal_smul_of_secMap_eq_zero_17f6f7b6cd36
 -- name    : P2M_GroundTheory_Heights__Heights_SecRankSpecialize_mem_maximalIdeal_smul_of_secMap_eq_zero_17f6f7b6cd36
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:08:55.163545+00:00
 -- url     : https://prove2.me/theorems/7583d968-1d0c-5373-94cd-2e39d819d8f6

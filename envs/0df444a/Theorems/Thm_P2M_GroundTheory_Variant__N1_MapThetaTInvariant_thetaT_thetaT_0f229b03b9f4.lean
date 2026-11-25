@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_MapThetaTInvariant_thetaT_thetaT_0f229b03b9f4
 -- name    : P2M_GroundTheory_Variant__N1_MapThetaTInvariant_thetaT_thetaT_0f229b03b9f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:26.303269+00:00
 -- url     : https://prove2.me/theorems/6ebcf313-67a6-4b34-9442-b65574ed2f24

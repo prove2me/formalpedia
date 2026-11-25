@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_ker_coneJacMat_f32e4b3739d8
 -- name    : P2M_GroundTheory_Heights__Heights_mem_ker_coneJacMat_f32e4b3739d8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:50:19.0968+00:00
 -- url     : https://prove2.me/theorems/8a13fbdd-93e5-5179-9c57-5748cba56ab3

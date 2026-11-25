@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_encard_biUnion_finset_le_8a3bd962f7b6
 -- name    : P2M_GroundTheory_Heights__Heights_encard_biUnion_finset_le_8a3bd962f7b6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:45:56.502407+00:00
 -- url     : https://prove2.me/theorems/01f89f27-3bd4-4604-8501-122b04961b10

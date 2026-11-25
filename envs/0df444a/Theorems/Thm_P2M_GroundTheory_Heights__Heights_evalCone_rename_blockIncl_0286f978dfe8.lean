@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_evalCone_rename_blockIncl_0286f978dfe8
 -- name    : P2M_GroundTheory_Heights__Heights_evalCone_rename_blockIncl_0286f978dfe8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:50:16.831154+00:00
 -- url     : https://prove2.me/theorems/d6d1a5e7-97c9-5ea6-87ea-26352001123d

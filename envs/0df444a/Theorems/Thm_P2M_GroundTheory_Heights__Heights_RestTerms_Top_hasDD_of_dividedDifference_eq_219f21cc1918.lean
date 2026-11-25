@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_hasDD_of_dividedDifference_eq_219f21cc1918
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_hasDD_of_dividedDifference_eq_219f21cc1918
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:21:41.705614+00:00
 -- url     : https://prove2.me/theorems/d908b9fe-a29b-5cdf-93df-ed3020da4bd5

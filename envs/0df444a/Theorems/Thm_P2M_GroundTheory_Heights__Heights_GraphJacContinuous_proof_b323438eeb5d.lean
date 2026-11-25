@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GraphJacContinuous_proof_b323438eeb5d
 -- name    : P2M_GroundTheory_Heights__Heights_GraphJacContinuous_proof_b323438eeb5d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:31:56.039503+00:00
 -- url     : https://prove2.me/theorems/e1634bd6-c980-49c8-85ae-c63ee2bb0d04

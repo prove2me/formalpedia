@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_level_ind
 -- name    : GlobalTheory.DegCnt.PosIso.level_ind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:26:12.898007+00:00
 -- url     : https://prove2.me/theorems/bf809346-9e7c-4bd1-94ea-62f262701fab

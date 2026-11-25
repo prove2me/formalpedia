@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isProjPrime_coordPlaneIdeal_519c239025b6
 -- name    : P2M_GroundTheory_Heights__Heights_isProjPrime_coordPlaneIdeal_519c239025b6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:04.854442+00:00
 -- url     : https://prove2.me/theorems/52e13a90-88de-47a5-b704-9489c76d58c4

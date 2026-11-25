@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isRadicalAt_of_associatedPrimes_7c015fdc89c3
 -- name    : P2M_GroundTheory_Heights__Heights_isRadicalAt_of_associatedPrimes_7c015fdc89c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:47:40.065218+00:00
 -- url     : https://prove2.me/theorems/cbfce254-94ec-4259-b9bf-83f0413a22a8

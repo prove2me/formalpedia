@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrderBasis_order_basis
 -- name    : GlobalTheory.OrderBasis.order_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:09:23.480082+00:00
 -- url     : https://prove2.me/theorems/6b65e8ef-3c9c-40e8-ad3e-11073c3529c7

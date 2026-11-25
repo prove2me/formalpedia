@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integers_eq_sum_zeta_pow_unique
 -- name    : GlobalTheory.T.integers_eq_sum_zeta_pow_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:16:47.18862+00:00
 -- url     : https://prove2.me/theorems/0e097a24-57bb-479a-99dc-f709f5cc0066

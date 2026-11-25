@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_projectiveLineClassData_normSq_mul_det_2844130a5510
 -- name    : P2M_GroundTheory_Heights__Theta_projectiveLineClassData_normSq_mul_det_2844130a5510
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:54:38.93638+00:00
 -- url     : https://prove2.me/theorems/d2c319a3-ffd0-4e5d-afc5-477020c09fb8

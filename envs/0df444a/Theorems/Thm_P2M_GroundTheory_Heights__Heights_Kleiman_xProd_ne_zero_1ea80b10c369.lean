@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_xProd_ne_zero_1ea80b10c369
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_xProd_ne_zero_1ea80b10c369
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:02:01.396053+00:00
 -- url     : https://prove2.me/theorems/78fbb054-825a-4f71-9b90-4e1ecdde4355

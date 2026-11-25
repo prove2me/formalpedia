@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_nestedHomeomorph___apply_068446922cac
 -- name    : P2M_GroundTheory_ProfCoh_nestedHomeomorph___apply_068446922cac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:54:32.439049+00:00
 -- url     : https://prove2.me/theorems/1d89f566-f1f8-5a28-8443-3a07729085e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_algHom_ratio_self_39a1530ef58d
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_algHom_ratio_self_39a1530ef58d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:03:30.132563+00:00
 -- url     : https://prove2.me/theorems/19c91d32-b1a6-5775-abc5-4f419c2fb5fe

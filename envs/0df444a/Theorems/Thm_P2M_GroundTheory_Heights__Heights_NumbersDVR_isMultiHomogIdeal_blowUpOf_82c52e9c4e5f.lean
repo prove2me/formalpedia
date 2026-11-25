@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_isMultiHomogIdeal_blowUpOf_82c52e9c4e5f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_isMultiHomogIdeal_blowUpOf_82c52e9c4e5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:11:27.066262+00:00
 -- url     : https://prove2.me/theorems/d764e2e3-40cf-4671-bff2-883d357f3c94

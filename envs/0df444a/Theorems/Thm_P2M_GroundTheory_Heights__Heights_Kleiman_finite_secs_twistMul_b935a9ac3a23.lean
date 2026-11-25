@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_finite_secs_twistMul_b935a9ac3a23
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_finite_secs_twistMul_b935a9ac3a23
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:00:14.989888+00:00
 -- url     : https://prove2.me/theorems/9aef1648-927a-4231-8b01-86e304e4c657

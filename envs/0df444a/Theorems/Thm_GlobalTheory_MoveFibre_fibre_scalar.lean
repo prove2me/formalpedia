@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFibre_fibre_scalar
 -- name    : GlobalTheory.MoveFibre.fibre_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:43:36.800587+00:00
 -- url     : https://prove2.me/theorems/c9ab7db0-9fbc-5b6f-acb3-1f2a05facecd

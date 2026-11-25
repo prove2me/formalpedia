@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ReducedNormalisationPlace_eq_zero_of_forall_num_mem_d33df6b8804f
 -- name    : P2M_GroundTheory_Heights__Heights_ReducedNormalisationPlace_eq_zero_of_forall_num_mem_d33df6b8804f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:06:26.560933+00:00
 -- url     : https://prove2.me/theorems/433338e0-e9ae-4c98-8066-8e17f4b2bae0

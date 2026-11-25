@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Procyclic_exists_cocycle
 -- name    : GlobalTheory.Cyc.Procyclic.exists_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:26:23.384023+00:00
 -- url     : https://prove2.me/theorems/231b58fe-fad3-57d8-8645-b7f8621f42be

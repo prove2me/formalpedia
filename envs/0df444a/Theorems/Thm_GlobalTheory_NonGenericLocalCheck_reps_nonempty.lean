@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonGenericLocalCheck_reps_nonempty
 -- name    : GlobalTheory.NonGenericLocalCheck.reps_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:45:33.788639+00:00
 -- url     : https://prove2.me/theorems/91fd13a7-d07d-5dd2-9a4f-49931728c088

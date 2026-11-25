@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_localLattice_isLocalLattice_dcaf16a6988c
 -- name    : P2M_GroundTheory_Heights__Heights_localLattice_isLocalLattice_dcaf16a6988c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:36.036491+00:00
 -- url     : https://prove2.me/theorems/db8437b6-e9dc-40a3-839c-5bffc5ce84de

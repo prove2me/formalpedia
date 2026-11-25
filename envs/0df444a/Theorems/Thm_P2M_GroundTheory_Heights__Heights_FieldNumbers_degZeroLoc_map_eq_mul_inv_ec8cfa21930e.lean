@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_degZeroLoc_map_eq_mul_inv_ec8cfa21930e
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_degZeroLoc_map_eq_mul_inv_ec8cfa21930e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:54:30.976492+00:00
 -- url     : https://prove2.me/theorems/9776bff1-dab2-4066-9b72-f83c72225834

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_evalCone_ne_zero_of_notMem_orbitIdeal_a02cd0c741c7
 -- name    : P2M_GroundTheory_Heights__Heights_evalCone_ne_zero_of_notMem_orbitIdeal_a02cd0c741c7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:46:04.645274+00:00
 -- url     : https://prove2.me/theorems/bde3922c-4895-467b-b48b-5edce4ef0ebd

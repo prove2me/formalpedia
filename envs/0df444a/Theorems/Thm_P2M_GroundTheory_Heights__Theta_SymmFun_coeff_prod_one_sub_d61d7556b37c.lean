@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SymmFun_coeff_prod_one_sub_d61d7556b37c
 -- name    : P2M_GroundTheory_Heights__Theta_SymmFun_coeff_prod_one_sub_d61d7556b37c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:52:57.348092+00:00
 -- url     : https://prove2.me/theorems/b86ea374-da91-4f29-9d84-86489c01cca7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_integral_infinitePlaceUnitsMeasure_of_isReal
 -- name    : GroundTheory.Global.integral_infinitePlaceUnitsMeasure_of_isReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:11:22.444422+00:00
 -- url     : https://prove2.me/theorems/27335c3a-13aa-5521-be49-8fb26141f565

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_MB_bvec_apply
 -- name    : PI.RhsWLim.W.MB.bvec_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:27:12.899734+00:00
 -- url     : https://prove2.me/theorems/5f616b55-fe3d-4804-8132-3ad512d86e25

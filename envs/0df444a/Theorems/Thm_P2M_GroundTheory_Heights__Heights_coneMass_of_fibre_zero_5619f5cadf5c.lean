@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_coneMass_of_fibre_zero_5619f5cadf5c
 -- name    : P2M_GroundTheory_Heights__Heights_coneMass_of_fibre_zero_5619f5cadf5c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:44:36.305492+00:00
 -- url     : https://prove2.me/theorems/f086651f-b324-4372-be44-56d8b897af85

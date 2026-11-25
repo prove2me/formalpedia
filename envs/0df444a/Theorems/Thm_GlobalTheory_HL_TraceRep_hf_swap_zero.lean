@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TraceRep_hf_swap_zero
 -- name    : GlobalTheory.HL.TraceRep.hf_swap_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:38:46.208834+00:00
 -- url     : https://prove2.me/theorems/e5ed1e08-8dc6-4cbc-aa00-452f7733fdf5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ker_fibreMap_fecc3aecf518
 -- name    : P2M_GroundTheory_Heights__Heights_ker_fibreMap_fecc3aecf518
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:47:18.428127+00:00
 -- url     : https://prove2.me/theorems/e9f1c9c0-f8c3-498b-8b9e-2c373df05200

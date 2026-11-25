@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_VLev_gram_succ
 -- name    : GlobalTheory.HCXi.VLev.gram_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:47:08.086854+00:00
 -- url     : https://prove2.me/theorems/c081ea44-f77a-4756-baab-4c9b7c46ed24

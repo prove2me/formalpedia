@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_infinitePlaceMeasure_zero
 -- name    : GroundTheory.Global.infinitePlaceMeasure_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:20:52.154127+00:00
 -- url     : https://prove2.me/theorems/7d977d88-3cfa-5d76-8d4b-9b768e34bff4

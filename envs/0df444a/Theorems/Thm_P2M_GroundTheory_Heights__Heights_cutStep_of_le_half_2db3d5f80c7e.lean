@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_cutStep_of_le_half_2db3d5f80c7e
 -- name    : P2M_GroundTheory_Heights__Heights_cutStep_of_le_half_2db3d5f80c7e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:45:37.166554+00:00
 -- url     : https://prove2.me/theorems/71bddd8d-918a-4027-a723-ecb437bef861

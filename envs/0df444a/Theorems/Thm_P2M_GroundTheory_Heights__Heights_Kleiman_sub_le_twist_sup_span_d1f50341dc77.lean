@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_sub_le_twist_sup_span_d1f50341dc77
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_sub_le_twist_sup_span_d1f50341dc77
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:02:42.417958+00:00
 -- url     : https://prove2.me/theorems/d1ecba53-463c-4661-80b1-fcf47d0f884f

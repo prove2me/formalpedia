@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_cdp_le_of_forall_primary
 -- name    : GroundTheory.ProfCoh.cdp_le_of_forall_primary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:45:37.263621+00:00
 -- url     : https://prove2.me/theorems/ab4d0efa-3c2c-59ef-b31a-b0548a36d050

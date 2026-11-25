@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveFacts_iso_spanTo
 -- name    : GlobalTheory.HL.MoveFacts.iso_spanTo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:38:21.096523+00:00
 -- url     : https://prove2.me/theorems/c21004ec-db0b-5f81-9c1e-5c84dc64b674

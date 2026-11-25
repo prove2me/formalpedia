@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_cartesian_streaming_forms
 -- name    : Arxiv1110_5134.cartesian_streaming_forms
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:17:35.050223+00:00
 -- url     : https://prove2.me/theorems/97fc809f-e936-409c-9529-68bcfa177ea3

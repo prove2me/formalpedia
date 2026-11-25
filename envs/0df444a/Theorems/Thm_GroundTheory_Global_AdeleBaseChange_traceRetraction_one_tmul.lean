@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_traceRetraction_one_tmul
 -- name    : GroundTheory.Global.AdeleBaseChange.traceRetraction_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:25:54.323227+00:00
 -- url     : https://prove2.me/theorems/7a3de5c0-ec01-4c3d-8e67-9adde5fc6cfe

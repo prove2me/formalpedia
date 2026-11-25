@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SmallSections_plusMetric_joinPt_ee8b088ced98
 -- name    : P2M_GroundTheory_Heights__Heights_SmallSections_plusMetric_joinPt_ee8b088ced98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:38:12.40846+00:00
 -- url     : https://prove2.me/theorems/4abdb07f-9188-47a0-9514-8f336284b96b

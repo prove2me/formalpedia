@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ClassMass_M_eq_Mof
 -- name    : GlobalTheory.HL.ClassMass.M_eq_Mof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:32:33.075709+00:00
 -- url     : https://prove2.me/theorems/d498b5da-0463-542f-acb4-2b17e8d65426

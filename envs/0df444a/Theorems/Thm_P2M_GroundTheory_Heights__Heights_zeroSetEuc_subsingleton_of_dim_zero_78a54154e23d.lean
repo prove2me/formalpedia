@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_zeroSetEuc_subsingleton_of_dim_zero_78a54154e23d
 -- name    : P2M_GroundTheory_Heights__Heights_zeroSetEuc_subsingleton_of_dim_zero_78a54154e23d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:51:38.174802+00:00
 -- url     : https://prove2.me/theorems/bc0e0904-82bd-48b6-a668-ff8375dd6eb0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_prod_norm_embeddings_9bcca348aca7
 -- name    : P2M_GroundTheory_Heights__Heights_prod_norm_embeddings_9bcca348aca7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:49:37.532458+00:00
 -- url     : https://prove2.me/theorems/5054c609-4f63-490a-bb6b-df5a8d704d13

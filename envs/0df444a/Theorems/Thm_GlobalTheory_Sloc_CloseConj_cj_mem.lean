@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Sloc_CloseConj_cj_mem
 -- name    : GlobalTheory.Sloc.CloseConj.cj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:28:33.518786+00:00
 -- url     : https://prove2.me/theorems/43036179-5203-58e5-9a46-cd7c722f43fe

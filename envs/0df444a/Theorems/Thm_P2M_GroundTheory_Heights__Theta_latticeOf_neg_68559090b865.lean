@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_latticeOf_neg_68559090b865
 -- name    : P2M_GroundTheory_Heights__Theta_latticeOf_neg_68559090b865
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:54:13.333158+00:00
 -- url     : https://prove2.me/theorems/3b6dc9e7-2d5a-4526-b972-2b8c6fef24f7

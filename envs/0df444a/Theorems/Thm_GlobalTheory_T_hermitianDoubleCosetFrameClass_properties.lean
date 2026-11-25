@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianDoubleCosetFrameClass_properties
 -- name    : GlobalTheory.T.hermitianDoubleCosetFrameClass_properties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:09:39.791719+00:00
 -- url     : https://prove2.me/theorems/c4614a8a-3235-48d4-bb74-2722052ea3e2

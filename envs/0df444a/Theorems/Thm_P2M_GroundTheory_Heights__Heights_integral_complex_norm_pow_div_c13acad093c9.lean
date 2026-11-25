@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_integral_complex_norm_pow_div_c13acad093c9
 -- name    : P2M_GroundTheory_Heights__Heights_integral_complex_norm_pow_div_c13acad093c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:46:47.071435+00:00
 -- url     : https://prove2.me/theorems/c20d5433-160f-5976-b92e-071f93688f51

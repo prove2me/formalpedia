@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_pointOf_std_30aaec238417
 -- name    : P2M_GroundTheory_Heights__Heights_pointOf_std_30aaec238417
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:50:22.208604+00:00
 -- url     : https://prove2.me/theorems/830e9a49-2c22-5d06-b61c-0af83f77f65e

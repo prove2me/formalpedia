@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SpecLength_proof_5a3f61a13b5b
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SpecLength_proof_5a3f61a13b5b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:54:02.59193+00:00
 -- url     : https://prove2.me/theorems/3eedcf52-a699-4d5a-a4bf-ac1bb2366c71

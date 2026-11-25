@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FockOneDegW_HwC_sameBlock_refl__e443bea13906
 -- name    : P2M_PI_FockOneDegW_HwC_sameBlock_refl__e443bea13906
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:57:16.732122+00:00
 -- url     : https://prove2.me/theorems/6d616cfe-4256-4945-b266-2c522f656aa6

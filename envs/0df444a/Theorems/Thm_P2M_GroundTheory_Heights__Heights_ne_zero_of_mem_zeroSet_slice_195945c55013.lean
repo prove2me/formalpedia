@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ne_zero_of_mem_zeroSet_slice_195945c55013
 -- name    : P2M_GroundTheory_Heights__Heights_ne_zero_of_mem_zeroSet_slice_195945c55013
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:49:46.823689+00:00
 -- url     : https://prove2.me/theorems/a0048ea8-a6e4-4357-add4-3cc6b9023013

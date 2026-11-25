@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TangentJacComp_areaJacobian_eq_d7276c711add
 -- name    : P2M_GroundTheory_Heights__Heights_TangentJacComp_areaJacobian_eq_d7276c711add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:39:54.577291+00:00
 -- url     : https://prove2.me/theorems/033da047-8146-4565-9e3a-6257d970ee72

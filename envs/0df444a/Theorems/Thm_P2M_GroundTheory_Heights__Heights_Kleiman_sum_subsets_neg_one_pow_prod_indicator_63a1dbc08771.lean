@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_sum_subsets_neg_one_pow_prod_indicator_63a1dbc08771
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_sum_subsets_neg_one_pow_prod_indicator_63a1dbc08771
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:02:09.537779+00:00
 -- url     : https://prove2.me/theorems/adc043fb-545a-4706-b1cb-dbcea7c9d7aa

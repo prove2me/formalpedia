@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCSchur_hermValue_isLeast_2b30b119e286
 -- name    : P2M_GroundTheory_Heights__Heights_MCSchur_hermValue_isLeast_2b30b119e286
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:47:37.686804+00:00
 -- url     : https://prove2.me/theorems/03367762-2048-41e0-ade0-ba6d8f9223e1

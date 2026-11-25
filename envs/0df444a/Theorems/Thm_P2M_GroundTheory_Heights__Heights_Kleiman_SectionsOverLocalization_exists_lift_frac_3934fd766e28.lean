@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_exists_lift_frac_3934fd766e28
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_exists_lift_frac_3934fd766e28
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:07:53.935802+00:00
 -- url     : https://prove2.me/theorems/7879da40-90ae-57d2-a60e-2e547a997eda

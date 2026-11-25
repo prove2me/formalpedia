@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_one_mem_spanZ_of_mono
 -- name    : GroundTheory.LocalField.one_mem_spanZ_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:33:19.299966+00:00
 -- url     : https://prove2.me/theorems/23e383a7-1f74-4cc0-9d2c-c7e4d3515c94

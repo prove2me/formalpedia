@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_mul_sub_mem_of_mem_twist_fibre_1e33c631d6b1
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_mul_sub_mem_of_mem_twist_fibre_1e33c631d6b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:02:33.163439+00:00
 -- url     : https://prove2.me/theorems/7ea83506-d33d-4713-8348-94c40c677999

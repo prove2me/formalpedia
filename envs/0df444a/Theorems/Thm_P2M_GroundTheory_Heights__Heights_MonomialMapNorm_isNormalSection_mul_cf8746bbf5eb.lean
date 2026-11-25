@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MonomialMapNorm_isNormalSection_mul_cf8746bbf5eb
 -- name    : P2M_GroundTheory_Heights__Heights_MonomialMapNorm_isNormalSection_mul_cf8746bbf5eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:50:35.305273+00:00
 -- url     : https://prove2.me/theorems/1db0537c-14e5-417e-bc22-2f3e7c52a6b9

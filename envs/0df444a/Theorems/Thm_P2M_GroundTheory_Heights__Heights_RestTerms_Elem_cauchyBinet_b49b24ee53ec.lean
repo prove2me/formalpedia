@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Elem_cauchyBinet_b49b24ee53ec
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Elem_cauchyBinet_b49b24ee53ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:18:59.635966+00:00
 -- url     : https://prove2.me/theorems/117d05a3-b964-49e4-9c8c-b2c6d4adbd33

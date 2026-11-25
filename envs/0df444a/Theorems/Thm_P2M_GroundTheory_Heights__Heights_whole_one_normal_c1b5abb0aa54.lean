@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_whole_one_normal_c1b5abb0aa54
 -- name    : P2M_GroundTheory_Heights__Heights_whole_one_normal_c1b5abb0aa54
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:50:50.300657+00:00
 -- url     : https://prove2.me/theorems/0851e574-b7d3-4a1e-83f9-2653979c23c0

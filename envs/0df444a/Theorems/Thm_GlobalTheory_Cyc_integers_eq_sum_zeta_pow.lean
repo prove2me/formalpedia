@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_integers_eq_sum_zeta_pow
 -- name    : GlobalTheory.Cyc.integers_eq_sum_zeta_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:34:56.669838+00:00
 -- url     : https://prove2.me/theorems/9096569d-cd67-4191-a57e-7eb3a2f26d07

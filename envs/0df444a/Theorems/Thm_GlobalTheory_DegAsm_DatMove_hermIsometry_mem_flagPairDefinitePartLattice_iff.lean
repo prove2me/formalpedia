@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_DatMove_hermIsometry_mem_flagPairDefinitePartLattice_iff
 -- name    : GlobalTheory.DegAsm.DatMove.hermIsometry_mem_flagPairDefinitePartLattice_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:22:04.711719+00:00
 -- url     : https://prove2.me/theorems/2d72f0e3-2397-430c-8482-9096c690c698

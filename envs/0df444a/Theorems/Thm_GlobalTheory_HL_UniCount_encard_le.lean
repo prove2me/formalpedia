@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_UniCount_encard_le
 -- name    : GlobalTheory.HL.UniCount.encard_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:34:29.459842+00:00
 -- url     : https://prove2.me/theorems/b16c6416-feea-417f-9030-eaf92b855c23

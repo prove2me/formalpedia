@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Glue_exists_nat_between
 -- name    : GlobalTheory.HL.Glue.exists_nat_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:44:24.994835+00:00
 -- url     : https://prove2.me/theorems/61e145bd-acb8-55be-90e1-6e5a4e4ca7c1

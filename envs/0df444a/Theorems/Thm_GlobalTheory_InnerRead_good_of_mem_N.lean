@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerRead_good_of_mem_N
 -- name    : GlobalTheory.InnerRead.good_of_mem_N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:39:29.208228+00:00
 -- url     : https://prove2.me/theorems/c4a735a9-4980-49cd-a89e-af3f4f016251

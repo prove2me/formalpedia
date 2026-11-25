@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueCharacterDense_algHom_ext_dense
 -- name    : GlobalTheory.ResidueCharacterDense.algHom_ext_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:28:09.452053+00:00
 -- url     : https://prove2.me/theorems/2a09590f-841b-5d58-b005-fd1c4c522c52

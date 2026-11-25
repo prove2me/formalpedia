@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_card_inertiaSubgroup
 -- name    : GroundTheory.LocalField.card_inertiaSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:51:29.778139+00:00
 -- url     : https://prove2.me/theorems/911a8eeb-3b2e-4f8e-bc7b-ecde5efa12ec

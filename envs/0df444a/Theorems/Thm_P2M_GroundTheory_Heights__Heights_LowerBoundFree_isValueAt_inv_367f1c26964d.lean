@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_isValueAt_inv_367f1c26964d
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_isValueAt_inv_367f1c26964d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:14:01.452267+00:00
 -- url     : https://prove2.me/theorems/33a03983-7b61-4a21-a76a-5da928c4e6d1

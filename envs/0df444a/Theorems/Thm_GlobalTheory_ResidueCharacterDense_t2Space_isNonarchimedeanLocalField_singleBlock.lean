@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueCharacterDense_t2Space_isNonarchimedeanLocalField_singleBlock
 -- name    : GlobalTheory.ResidueCharacterDense.t2Space_isNonarchimedeanLocalField_singleBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:26:34.871518+00:00
 -- url     : https://prove2.me/theorems/13ed312d-34bc-4ff2-b0da-2e89c1aec34d

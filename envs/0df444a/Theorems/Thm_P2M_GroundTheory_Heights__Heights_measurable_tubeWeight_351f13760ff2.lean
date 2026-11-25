@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_measurable_tubeWeight_351f13760ff2
 -- name    : P2M_GroundTheory_Heights__Heights_measurable_tubeWeight_351f13760ff2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:48:56.420695+00:00
 -- url     : https://prove2.me/theorems/722172d1-d156-4a17-ac41-66767d15ae31

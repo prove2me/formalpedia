@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesGramFischerBound_full_1469f2c017cd
 -- name    : P2M_GroundTheory_Heights__Heights_LinesGramFischerBound_full_1469f2c017cd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:25:07.002966+00:00
 -- url     : https://prove2.me/theorems/6a48f392-d3b7-4194-bb44-85b59034a2f6

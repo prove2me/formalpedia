@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_encard_iUnion_disjoint_nat_d23692977ca6
 -- name    : P2M_GroundTheory_Heights__Heights_encard_iUnion_disjoint_nat_d23692977ca6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:46:24.850196+00:00
 -- url     : https://prove2.me/theorems/6f227559-be63-40fe-8316-6f5bc3141947

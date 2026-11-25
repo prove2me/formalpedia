@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_orbitCenter_le_of_le_ddb16ad53eae
 -- name    : P2M_GroundTheory_Heights__Heights_orbitCenter_le_of_le_ddb16ad53eae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:49:32.197852+00:00
 -- url     : https://prove2.me/theorems/926c00d1-9b66-4125-968b-eff763efa6b1

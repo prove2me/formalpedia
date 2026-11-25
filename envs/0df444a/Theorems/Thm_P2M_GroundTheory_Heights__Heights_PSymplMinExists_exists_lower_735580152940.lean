@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplMinExists_exists_lower_735580152940
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplMinExists_exists_lower_735580152940
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:21.240799+00:00
 -- url     : https://prove2.me/theorems/47df3b5f-293b-4d20-87fa-0e8a4773802e

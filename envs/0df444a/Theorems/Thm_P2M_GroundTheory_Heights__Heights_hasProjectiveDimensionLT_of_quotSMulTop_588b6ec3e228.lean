@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_hasProjectiveDimensionLT_of_quotSMulTop_588b6ec3e228
 -- name    : P2M_GroundTheory_Heights__Heights_hasProjectiveDimensionLT_of_quotSMulTop_588b6ec3e228
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:46:57.35017+00:00
 -- url     : https://prove2.me/theorems/8a9baf3d-60e3-4e7e-a104-59356cc88f3c

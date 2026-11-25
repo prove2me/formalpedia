@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_JetsPhW_Ch_subst_one__be9486c9456e
 -- name    : P2M_PI_JetsPhW_Ch_subst_one__be9486c9456e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:56:40.34685+00:00
 -- url     : https://prove2.me/theorems/28b3c66c-08f1-4053-bb16-ab7a0c633fa4

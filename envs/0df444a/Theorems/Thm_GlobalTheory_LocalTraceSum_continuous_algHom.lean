@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalTraceSum_continuous_algHom
 -- name    : GlobalTheory.LocalTraceSum.continuous_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:26:45.265062+00:00
 -- url     : https://prove2.me/theorems/d413d310-97e0-4cee-8d99-aa1c10951148

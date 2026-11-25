@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Landherr__unitNormLoc_add_lt_ceb1586227f0
 -- name    : P2M_PI_Landherr__unitNormLoc_add_lt_ceb1586227f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:07:15.675595+00:00
 -- url     : https://prove2.me/theorems/482187b0-e2da-52f8-bbfd-a52a062249a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ZChartLocal_prod_mem_pow_0b58dec346df
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ZChartLocal_prod_mem_pow_0b58dec346df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:00:52.691642+00:00
 -- url     : https://prove2.me/theorems/112deca0-6564-56aa-b093-524bb95e21f4

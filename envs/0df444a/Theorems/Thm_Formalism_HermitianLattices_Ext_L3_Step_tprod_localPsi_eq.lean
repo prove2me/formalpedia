@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Step_tprod_localPsi_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.Step.tprod_localPsi_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:56:18.187094+00:00
 -- url     : https://prove2.me/theorems/abd8322c-09d9-401b-88f4-cf53fcd023df

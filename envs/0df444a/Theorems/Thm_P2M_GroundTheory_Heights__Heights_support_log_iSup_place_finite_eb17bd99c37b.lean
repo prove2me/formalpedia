@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_support_log_iSup_place_finite_eb17bd99c37b
 -- name    : P2M_GroundTheory_Heights__Heights_support_log_iSup_place_finite_eb17bd99c37b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:50:49.590552+00:00
 -- url     : https://prove2.me/theorems/2b19e652-fea6-4eef-8ff1-191e83417cd1

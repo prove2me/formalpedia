@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_refinement_kills_etale_system_class
 -- name    : AlgebraicGeometry.Scheme.exists_refinement_kills_etale_system_class
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-25T08:20:15.545821+00:00
 -- url     : https://prove2.me/theorems/669a3d0b-dde6-5f1e-9641-0506252b5b90

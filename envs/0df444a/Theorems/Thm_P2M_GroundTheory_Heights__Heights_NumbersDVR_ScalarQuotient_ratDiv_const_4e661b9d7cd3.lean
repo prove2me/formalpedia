@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_ratDiv_const_4e661b9d7cd3
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_ratDiv_const_4e661b9d7cd3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:08:28.44781+00:00
 -- url     : https://prove2.me/theorems/268bd519-a64b-4466-908b-618488709586

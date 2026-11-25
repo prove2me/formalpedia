@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_zero_in_region
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.zero_in_region
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:32:06.087991+00:00
 -- url     : https://prove2.me/theorems/bca7a066-809f-53a6-bb30-8255856abd4a

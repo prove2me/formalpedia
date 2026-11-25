@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Modulus_congruenceSubgroup_le_standardOpenSubgroup
 -- name    : GroundTheory.Global.Modulus.congruenceSubgroup_le_standardOpenSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:13:02.557818+00:00
 -- url     : https://prove2.me/theorems/d9e8a5b6-9c0d-4b40-8822-9c9cf19083c1

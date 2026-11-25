@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_infiniteComponent_eq
 -- name    : GroundTheory.Global.HeckeCharacter.infiniteComponent_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:23:23.984022+00:00
 -- url     : https://prove2.me/theorems/9cf2d88a-cc3f-41a6-925b-7dde0413885b

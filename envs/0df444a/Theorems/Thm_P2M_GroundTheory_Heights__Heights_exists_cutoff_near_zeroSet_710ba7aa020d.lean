@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_cutoff_near_zeroSet_710ba7aa020d
 -- name    : P2M_GroundTheory_Heights__Heights_exists_cutoff_near_zeroSet_710ba7aa020d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:46:02.099135+00:00
 -- url     : https://prove2.me/theorems/8ed575b2-c8e9-4dec-93b4-5087e8df920e

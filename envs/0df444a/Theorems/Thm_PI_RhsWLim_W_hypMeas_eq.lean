@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_hypMeas_eq
 -- name    : PI.RhsWLim.W.hypMeas_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:26:48.76386+00:00
 -- url     : https://prove2.me/theorems/ab73d8bb-78ea-41ef-a93c-b5b521180b82

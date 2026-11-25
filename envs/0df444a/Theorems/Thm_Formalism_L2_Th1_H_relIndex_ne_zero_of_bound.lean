@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_relIndex_ne_zero_of_bound
 -- name    : Formalism.L2.Th1.H.relIndex_ne_zero_of_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:18:12.229115+00:00
 -- url     : https://prove2.me/theorems/ba06643b-814e-5669-9357-cead21b9bb72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_metaplectic_cover_weil_representation
 -- name    : GlobalTheory.T.metaplectic_cover_weil_representation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:00:39.722534+00:00
 -- url     : https://prove2.me/theorems/0bffb85d-75aa-4aae-9312-e6f74320b6bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_forget__homologyMap_comp_forget_HomologyIso_83a1bdaab274
 -- name    : P2M_GroundTheory_ProfCoh_forget__homologyMap_comp_forget_HomologyIso_83a1bdaab274
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:54:35.666803+00:00
 -- url     : https://prove2.me/theorems/612366f5-f507-4559-a581-c7fa25f76f74

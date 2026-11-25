@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_eval_map_firstGroup_ab2dc9606675
 -- name    : P2M_GroundTheory_Heights__Heights_eval_map_firstGroup_ab2dc9606675
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:46:21.298215+00:00
 -- url     : https://prove2.me/theorems/54e6bdf7-b290-4b2b-b5dc-7a99b62716bc

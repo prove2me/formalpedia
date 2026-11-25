@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ptX_ne_zero_891cc935a1a3
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ptX_ne_zero_891cc935a1a3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:03:30.933328+00:00
 -- url     : https://prove2.me/theorems/51d95567-3767-4f2b-a127-a4c21114a94a

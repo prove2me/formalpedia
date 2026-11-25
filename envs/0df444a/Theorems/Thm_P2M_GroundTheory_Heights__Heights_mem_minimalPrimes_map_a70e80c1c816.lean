@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_minimalPrimes_map_a70e80c1c816
 -- name    : P2M_GroundTheory_Heights__Heights_mem_minimalPrimes_map_a70e80c1c816
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:49:10.745933+00:00
 -- url     : https://prove2.me/theorems/2ffd80d4-5c77-403a-8cb0-fed3157cb73a

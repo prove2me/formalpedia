@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceCut_hasCompactSupport_bc9ece2fd11b
 -- name    : P2M_GroundTheory_Heights__Heights_SliceCut_hasCompactSupport_bc9ece2fd11b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:37:46.631803+00:00
 -- url     : https://prove2.me/theorems/80697390-27a3-4f48-bfc7-16c7b1db06b9

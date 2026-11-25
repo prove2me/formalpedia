@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ringHom_ext_of_not_mem_a2804716ddc4
 -- name    : P2M_GroundTheory_Heights__Theta_ringHom_ext_of_not_mem_a2804716ddc4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:54:20.317094+00:00
 -- url     : https://prove2.me/theorems/267ec78f-cdd2-4b93-8236-e3f9e55be0b1

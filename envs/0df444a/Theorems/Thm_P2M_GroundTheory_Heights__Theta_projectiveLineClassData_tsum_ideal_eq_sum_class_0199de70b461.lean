@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_projectiveLineClassData_tsum_ideal_eq_sum_class_0199de70b461
 -- name    : P2M_GroundTheory_Heights__Theta_projectiveLineClassData_tsum_ideal_eq_sum_class_0199de70b461
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:54:51.469546+00:00
 -- url     : https://prove2.me/theorems/75be3792-edbc-4a91-83d4-4b7187673973

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_realGraphPt_continuousOn_acf3943910ee
 -- name    : P2M_GroundTheory_Heights__Heights_realGraphPt_continuousOn_acf3943910ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:49:58.52533+00:00
 -- url     : https://prove2.me/theorems/c08f19db-cccb-423c-98ca-fb1351d4b213

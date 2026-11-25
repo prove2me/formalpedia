@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_LPI_prV_tmul__102d804e89fa
 -- name    : P2M_PI_LPI_prV_tmul__102d804e89fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:56:27.469516+00:00
 -- url     : https://prove2.me/theorems/52c0a732-05e4-531e-80f9-7522e2e3e69e

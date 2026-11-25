@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exterior_differential_matrix_unit_formula
 -- name    : GlobalTheory.T.exterior_differential_matrix_unit_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:58:16.094104+00:00
 -- url     : https://prove2.me/theorems/ede855cc-0bab-5f00-9d25-d54516248ab1

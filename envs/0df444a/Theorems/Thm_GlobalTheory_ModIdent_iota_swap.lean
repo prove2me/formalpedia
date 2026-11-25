@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_iota_swap
 -- name    : GlobalTheory.ModIdent.iota_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:40:19.319122+00:00
 -- url     : https://prove2.me/theorems/076c7535-28a1-4b34-8dc1-bcc983386348

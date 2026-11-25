@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_NefExtendIso_span_coe_submodule_a526c011a29f
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_NefExtendIso_span_coe_submodule_a526c011a29f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:07:57.912698+00:00
 -- url     : https://prove2.me/theorems/3c75d547-dcb5-4317-bc6d-256220e8a373

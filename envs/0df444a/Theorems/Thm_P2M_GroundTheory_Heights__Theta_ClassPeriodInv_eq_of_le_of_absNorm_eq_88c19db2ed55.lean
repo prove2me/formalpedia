@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ClassPeriodInv_eq_of_le_of_absNorm_eq_88c19db2ed55
 -- name    : P2M_GroundTheory_Heights__Theta_ClassPeriodInv_eq_of_le_of_absNorm_eq_88c19db2ed55
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:51:35.659886+00:00
 -- url     : https://prove2.me/theorems/1e6285d9-e2a2-4ffd-a003-179d2db7cc88

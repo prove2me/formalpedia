@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FinGL_Flag_not_isProper_one_fa331fd698d9
 -- name    : P2M_GroundTheory_Heights__Theta_FinGL_Flag_not_isProper_one_fa331fd698d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:51:16.153387+00:00
 -- url     : https://prove2.me/theorems/e846bb82-7640-4df0-9e9e-98ffffd3ea4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocPattern_ab_one
 -- name    : GlobalTheory.HL.LocPattern.ab_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:18:41.546796+00:00
 -- url     : https://prove2.me/theorems/39cea8f8-232a-45aa-a5b0-151ff5a6650d

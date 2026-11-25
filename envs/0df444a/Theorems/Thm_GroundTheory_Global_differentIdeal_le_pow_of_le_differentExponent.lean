@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_differentIdeal_le_pow_of_le_differentExponent
 -- name    : GroundTheory.Global.differentIdeal_le_pow_of_le_differentExponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:49:43.313119+00:00
 -- url     : https://prove2.me/theorems/ed6ae89b-d1b3-444b-8948-1c8ee51a38b4

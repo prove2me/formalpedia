@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_degPolynomial_isHomogeneous_6d40f6c1a032
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_degPolynomial_isHomogeneous_6d40f6c1a032
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:32.917743+00:00
 -- url     : https://prove2.me/theorems/0089bb31-d1be-50e5-b514-c8b580b2c5ea

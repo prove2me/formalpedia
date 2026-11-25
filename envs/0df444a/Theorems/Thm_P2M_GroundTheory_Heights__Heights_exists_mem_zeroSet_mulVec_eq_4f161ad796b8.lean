@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_mem_zeroSet_mulVec_eq_4f161ad796b8
 -- name    : P2M_GroundTheory_Heights__Heights_exists_mem_zeroSet_mulVec_eq_4f161ad796b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:47:17.7078+00:00
 -- url     : https://prove2.me/theorems/902a9212-63bb-4efe-846e-f9efc491ece2

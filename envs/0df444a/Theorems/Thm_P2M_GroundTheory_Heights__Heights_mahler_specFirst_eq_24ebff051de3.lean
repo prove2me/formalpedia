@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mahler_specFirst_eq_24ebff051de3
 -- name    : P2M_GroundTheory_Heights__Heights_mahler_specFirst_eq_24ebff051de3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:48:43.401687+00:00
 -- url     : https://prove2.me/theorems/215532d9-45db-48f3-87d2-71faba49e05e

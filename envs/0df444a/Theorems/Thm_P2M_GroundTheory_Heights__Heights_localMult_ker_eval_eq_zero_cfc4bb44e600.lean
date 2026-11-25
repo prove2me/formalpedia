@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_localMult_ker_eval_eq_zero_cfc4bb44e600
 -- name    : P2M_GroundTheory_Heights__Heights_localMult_ker_eval_eq_zero_cfc4bb44e600
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:48:36.238299+00:00
 -- url     : https://prove2.me/theorems/11fadbe8-9491-4376-b13f-bc2f0d2d2f92

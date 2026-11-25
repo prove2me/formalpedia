@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RatStab_locM_unitri
 -- name    : GlobalTheory.HL.RatStab.locM_unitri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:26:34.697244+00:00
 -- url     : https://prove2.me/theorems/ba9f9558-925a-5039-9534-1dfa60c4e686

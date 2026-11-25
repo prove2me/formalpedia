@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimScale_hf_cj
 -- name    : GlobalTheory.PrimScale.hf_cj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:29:03.427857+00:00
 -- url     : https://prove2.me/theorems/f2f3a0f7-4fe1-4974-b127-9fc6a05f3fc9

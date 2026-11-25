@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_exists_eq_unit_mul_pow_adicCompletion_4e23160a211e
 -- name    : P2M_GroundTheory_Variant__N1_exists_eq_unit_mul_pow_adicCompletion_4e23160a211e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:54:57.81402+00:00
 -- url     : https://prove2.me/theorems/e4917196-d751-4e4c-a870-a073afe2c78c

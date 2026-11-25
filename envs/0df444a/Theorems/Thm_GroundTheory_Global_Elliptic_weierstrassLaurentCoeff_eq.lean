@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_weierstrassLaurentCoeff_eq
 -- name    : GroundTheory.Global.Elliptic.weierstrassLaurentCoeff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:49:01.773639+00:00
 -- url     : https://prove2.me/theorems/7696ad99-014d-5cc5-b0b7-9cc53e89ce72

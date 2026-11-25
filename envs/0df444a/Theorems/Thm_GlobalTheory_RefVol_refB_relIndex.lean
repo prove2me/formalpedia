@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RefVol_refB_relIndex
 -- name    : GlobalTheory.RefVol.refB_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:45:30.460305+00:00
 -- url     : https://prove2.me/theorems/48594a0c-14f5-498d-b92d-1884ba86f4a5

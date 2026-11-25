@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjContract_blockIncl_blockEquiv_e7de0e0007e0
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjContract_blockIncl_blockEquiv_e7de0e0007e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:08:52.066338+00:00
 -- url     : https://prove2.me/theorems/7d1dfb8a-80d2-4665-b7dd-6d4253b92612

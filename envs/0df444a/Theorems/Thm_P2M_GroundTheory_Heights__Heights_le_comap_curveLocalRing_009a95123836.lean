@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_le_comap_curveLocalRing_009a95123836
 -- name    : P2M_GroundTheory_Heights__Heights_le_comap_curveLocalRing_009a95123836
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:48:00.877648+00:00
 -- url     : https://prove2.me/theorems/1e019e24-aae7-47d6-83e5-93f68c605244

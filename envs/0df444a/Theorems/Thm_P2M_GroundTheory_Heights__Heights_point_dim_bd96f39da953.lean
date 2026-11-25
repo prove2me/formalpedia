@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_point_dim_bd96f39da953
 -- name    : P2M_GroundTheory_Heights__Heights_point_dim_bd96f39da953
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:49:23.075893+00:00
 -- url     : https://prove2.me/theorems/10ec315d-edc8-4c47-94d1-40cfa1bde180

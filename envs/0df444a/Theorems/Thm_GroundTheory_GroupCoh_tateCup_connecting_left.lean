@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateCup_connecting_left
 -- name    : GroundTheory.GroupCoh.tateCup_connecting_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:52:16.375358+00:00
 -- url     : https://prove2.me/theorems/8ce9c39d-46d4-486c-bfdf-fcfb50399f87

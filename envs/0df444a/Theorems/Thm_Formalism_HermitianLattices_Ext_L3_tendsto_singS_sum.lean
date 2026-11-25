@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_tendsto_singS_sum
 -- name    : Formalism.HermitianLattices.Ext.L3.tendsto_singS_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:18:29.317792+00:00
 -- url     : https://prove2.me/theorems/7c74580e-51e9-404d-b319-485c9a10a760

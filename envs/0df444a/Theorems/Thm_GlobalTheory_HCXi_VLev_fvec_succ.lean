@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_VLev_fvec_succ
 -- name    : GlobalTheory.HCXi.VLev.fvec_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:31:03.551238+00:00
 -- url     : https://prove2.me/theorems/1ad2c521-7690-42a1-a44d-31a1604a883d

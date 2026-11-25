@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FockWtDegWork_X_mul_monomial__8f48671e9716
 -- name    : P2M_PI_FockWtDegWork_X_mul_monomial__8f48671e9716
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:56:08.66623+00:00
 -- url     : https://prove2.me/theorems/12ee1d8c-cec8-5017-a3d6-ccc8c7bf00c7

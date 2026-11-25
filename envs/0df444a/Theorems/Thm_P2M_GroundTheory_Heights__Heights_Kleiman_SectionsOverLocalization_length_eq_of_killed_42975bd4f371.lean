@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_length_eq_of_killed_42975bd4f371
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_length_eq_of_killed_42975bd4f371
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:57:38.643582+00:00
 -- url     : https://prove2.me/theorems/a6cba167-e7db-41da-ae70-76bc51dff418

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPoint_div_mem_affRing_of_mem_twistMod_32809b3bdbde
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPoint_div_mem_affRing_of_mem_twistMod_32809b3bdbde
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:58:26.436531+00:00
 -- url     : https://prove2.me/theorems/6d750b45-e8fd-4b5a-a02b-4d73a485714f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassFibre_mass_fibre
 -- name    : GlobalTheory.MassFibre.mass_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:40:53.366705+00:00
 -- url     : https://prove2.me/theorems/8af9035f-3895-53a0-a8ac-10611789d1ef

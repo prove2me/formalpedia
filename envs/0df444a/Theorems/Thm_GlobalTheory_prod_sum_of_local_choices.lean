@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_sum_of_local_choices
 -- name    : GlobalTheory.prod_sum_of_local_choices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:23:40.84873+00:00
 -- url     : https://prove2.me/theorems/e6ef6386-365b-58f5-b299-b0d8fece2fea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isRadicalAt_of_isRadical_90f13697c733
 -- name    : P2M_GroundTheory_Heights__Heights_isRadicalAt_of_isRadical_90f13697c733
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:47:15.111357+00:00
 -- url     : https://prove2.me/theorems/e5ff017c-88c3-46a2-987e-4eb3bba355e8

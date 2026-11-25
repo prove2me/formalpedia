@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_conjU_conjU_inv
 -- name    : GroundTheory.Automorphic.HarishChandra.conjU_conjU_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:15:24.089731+00:00
 -- url     : https://prove2.me/theorems/ee3ea030-fa4f-48ee-ab90-4d2a543122f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LatClose_hf_add_right
 -- name    : GlobalTheory.HL.LatClose.hf_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:24:02.363862+00:00
 -- url     : https://prove2.me/theorems/c2608e03-98cf-52b4-9b6a-44f4f20b9748

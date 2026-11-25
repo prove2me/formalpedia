@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_Numbers_isIntersectionTheory_d018b70458fb
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_Numbers_isIntersectionTheory_d018b70458fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:08:56.236281+00:00
 -- url     : https://prove2.me/theorems/5b186636-3633-40b4-908c-8efd6486955c

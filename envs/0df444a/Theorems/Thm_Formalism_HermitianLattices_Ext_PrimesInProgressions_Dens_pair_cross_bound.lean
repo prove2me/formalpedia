@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_pair_cross_bound
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.pair_cross_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:19:18.270435+00:00
 -- url     : https://prove2.me/theorems/38c7d84c-e0f2-5c3b-9b22-c5e6945ba29b

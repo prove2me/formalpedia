@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckToRaw_smMap_coord
 -- name    : GlobalTheory.CompanionTheory.ZuckToRaw.smMap_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:59:33.245038+00:00
 -- url     : https://prove2.me/theorems/3a83d1ce-e6fb-5e95-98db-622fe1307284

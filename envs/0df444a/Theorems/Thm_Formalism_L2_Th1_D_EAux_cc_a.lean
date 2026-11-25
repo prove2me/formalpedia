@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_EAux_cc_a
 -- name    : Formalism.L2.Th1.D.EAux.cc_a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:53:37.834792+00:00
 -- url     : https://prove2.me/theorems/4be11b26-74de-4c40-a920-bc32121a27a4

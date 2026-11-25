@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_continuous_adeleRetraction
 -- name    : GroundTheory.Global.AdeleBaseChange.continuous_adeleRetraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:25:26.752289+00:00
 -- url     : https://prove2.me/theorems/095e8eb7-6be4-56d2-b621-d8dc0d9e1c29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_mem_range_of_conj_eq_538bfdb9709d
 -- name    : P2M_GroundTheory_Heights__Theta_mem_range_of_conj_eq_538bfdb9709d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:54:14.996098+00:00
 -- url     : https://prove2.me/theorems/18300bb0-d378-40d0-a8d8-962095e9e799

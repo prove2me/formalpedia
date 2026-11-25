@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.totalIdleStrictTailCrossingV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T08:12:35.828298+00:00
 -- url     : https://prove2.me/submissions/236341f9-d8cf-48d7-babd-cafe4e8c4f1c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

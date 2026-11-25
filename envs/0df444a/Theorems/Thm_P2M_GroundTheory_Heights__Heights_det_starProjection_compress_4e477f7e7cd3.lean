@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_det_starProjection_compress_4e477f7e7cd3
 -- name    : P2M_GroundTheory_Heights__Heights_det_starProjection_compress_4e477f7e7cd3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:49:01.100196+00:00
 -- url     : https://prove2.me/theorems/0d09f1f4-930d-596e-8d2b-393b15289ae9

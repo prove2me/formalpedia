@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_continuous_hypPar
 -- name    : PI.RhsWLim.W.continuous_hypPar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:27:04.204383+00:00
 -- url     : https://prove2.me/theorems/c72cf863-1fe8-41d7-9769-cb1a315be87a

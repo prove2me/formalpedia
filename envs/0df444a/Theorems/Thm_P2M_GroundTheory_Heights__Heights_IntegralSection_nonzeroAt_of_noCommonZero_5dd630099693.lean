@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IntegralSection_nonzeroAt_of_noCommonZero_5dd630099693
 -- name    : P2M_GroundTheory_Heights__Heights_IntegralSection_nonzeroAt_of_noCommonZero_5dd630099693
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:55:25.859837+00:00
 -- url     : https://prove2.me/theorems/52e499cf-0512-4d26-9066-e357a56aad47

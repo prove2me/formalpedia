@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_sublat_count
 -- name    : GlobalTheory.DegCnt.sublat_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:30:25.745829+00:00
 -- url     : https://prove2.me/theorems/3911b6ee-3013-4886-b21c-583be19b551d

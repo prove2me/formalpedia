@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ord_zero_eq_top_of_dvr_6748b86cf7d9
 -- name    : P2M_GroundTheory_Heights__Heights_ord_zero_eq_top_of_dvr_6748b86cf7d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:49:32.343874+00:00
 -- url     : https://prove2.me/theorems/a8974970-45ca-41dd-8df7-a38cfd40067d

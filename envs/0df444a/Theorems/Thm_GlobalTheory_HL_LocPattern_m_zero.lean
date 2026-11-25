@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocPattern_m_zero
 -- name    : GlobalTheory.HL.LocPattern.m_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:18:39.84637+00:00
 -- url     : https://prove2.me/theorems/eda4c32b-328f-445a-b052-3a744fe70d8a

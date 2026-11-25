@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_realGraphPt_injective_e476b3e7ecac
 -- name    : P2M_GroundTheory_Heights__Heights_realGraphPt_injective_e476b3e7ecac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:50:08.07419+00:00
 -- url     : https://prove2.me/theorems/6ac16dc6-da01-43fe-b3f5-9bf4fcda0d69

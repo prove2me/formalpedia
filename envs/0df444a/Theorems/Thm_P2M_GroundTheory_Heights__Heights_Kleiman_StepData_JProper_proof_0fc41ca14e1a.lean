@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepData_JProper_proof_0fc41ca14e1a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepData_JProper_proof_0fc41ca14e1a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:38:23.31424+00:00
 -- url     : https://prove2.me/theorems/a93641ac-6004-4da3-9e96-2d894e5b8bf0

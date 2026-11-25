@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_log_two_pi_le_d42f64adb1d2
 -- name    : P2M_GroundTheory_Heights__Heights_log_two_pi_le_d42f64adb1d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:48:30.061517+00:00
 -- url     : https://prove2.me/theorems/57cf63a4-7fa4-408d-90d7-17cb3dd653e3

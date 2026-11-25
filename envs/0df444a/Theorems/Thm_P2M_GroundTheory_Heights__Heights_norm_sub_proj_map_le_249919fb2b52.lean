@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_norm_sub_proj_map_le_249919fb2b52
 -- name    : P2M_GroundTheory_Heights__Heights_norm_sub_proj_map_le_249919fb2b52
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:49:13.170215+00:00
 -- url     : https://prove2.me/theorems/2d194dc3-3687-4270-a99b-93bd55fe8036

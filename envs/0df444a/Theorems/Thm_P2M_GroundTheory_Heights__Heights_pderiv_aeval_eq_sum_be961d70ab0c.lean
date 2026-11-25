@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_pderiv_aeval_eq_sum_be961d70ab0c
 -- name    : P2M_GroundTheory_Heights__Heights_pderiv_aeval_eq_sum_be961d70ab0c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:50:14.408592+00:00
 -- url     : https://prove2.me/theorems/ed859ad5-82b4-4776-9375-f5deeda4a1fc

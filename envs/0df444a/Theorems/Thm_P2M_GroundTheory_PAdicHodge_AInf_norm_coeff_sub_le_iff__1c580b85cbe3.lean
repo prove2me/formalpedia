@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_PAdicHodge_AInf_norm_coeff_sub_le_iff__1c580b85cbe3
 -- name    : P2M_GroundTheory_PAdicHodge_AInf_norm_coeff_sub_le_iff__1c580b85cbe3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:54:44.937168+00:00
 -- url     : https://prove2.me/theorems/ee3b3997-d268-4b42-8b5a-cf6520e48fff

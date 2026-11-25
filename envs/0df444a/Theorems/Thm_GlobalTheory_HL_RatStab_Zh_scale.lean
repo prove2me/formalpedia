@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RatStab_Zh_scale
 -- name    : GlobalTheory.HL.RatStab.Zh_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:20:18.115954+00:00
 -- url     : https://prove2.me/theorems/a411d40e-d865-4d5a-87b6-e9e7279b697d

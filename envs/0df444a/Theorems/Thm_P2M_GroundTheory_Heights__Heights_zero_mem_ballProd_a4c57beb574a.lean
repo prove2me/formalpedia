@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_zero_mem_ballProd_a4c57beb574a
 -- name    : P2M_GroundTheory_Heights__Heights_zero_mem_ballProd_a4c57beb574a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:51:32.044808+00:00
 -- url     : https://prove2.me/theorems/8c062928-6b15-4bce-a3d5-2be46a5751e5

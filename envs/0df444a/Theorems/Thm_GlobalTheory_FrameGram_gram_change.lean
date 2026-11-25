@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGram_gram_change
 -- name    : GlobalTheory.FrameGram.gram_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:27:55.241801+00:00
 -- url     : https://prove2.me/theorems/f917b93a-6878-413e-ace3-77b7a586b801

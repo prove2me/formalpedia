@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_incIdeal_le_map_cbf637ec4a9e
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_incIdeal_le_map_cbf637ec4a9e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:43:30.684637+00:00
 -- url     : https://prove2.me/theorems/6f00e7dd-dba1-4b09-9746-dc62f45b8279

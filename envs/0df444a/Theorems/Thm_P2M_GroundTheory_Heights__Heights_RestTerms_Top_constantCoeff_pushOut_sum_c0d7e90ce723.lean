@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_constantCoeff_pushOut_sum_c0d7e90ce723
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_constantCoeff_pushOut_sum_c0d7e90ce723
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:21:28.837223+00:00
 -- url     : https://prove2.me/theorems/e4f325dc-3748-4998-b675-1033e1cbcfad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalTraceSum_exists_ext
 -- name    : GlobalTheory.LocalTraceSum.exists_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:27:11.187795+00:00
 -- url     : https://prove2.me/theorems/f47d234e-0fc8-4d6e-be51-591ef531dc34

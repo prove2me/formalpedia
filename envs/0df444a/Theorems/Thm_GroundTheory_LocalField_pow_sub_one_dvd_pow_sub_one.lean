@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_pow_sub_one_dvd_pow_sub_one
 -- name    : GroundTheory.LocalField.pow_sub_one_dvd_pow_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:23:07.202795+00:00
 -- url     : https://prove2.me/theorems/627de2c6-357d-4a1b-b290-b3ffb9a73896

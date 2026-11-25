@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_sheetDensity_finset_sum_d5cf2f6d1e1f
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_sheetDensity_finset_sum_d5cf2f6d1e1f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:14.062146+00:00
 -- url     : https://prove2.me/theorems/d789406e-b145-4d40-959d-8b24a7ba5d84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_subsingleton_cohomology_of_cdp_le
 -- name    : GroundTheory.ProfCoh.subsingleton_cohomology_of_cdp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:44:12.581306+00:00
 -- url     : https://prove2.me/theorems/1b37737e-834f-5fe9-bfc3-866b82d9f0f2

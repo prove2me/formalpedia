@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_GenSecDomain_exists_point_c551114588d5
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_GenSecDomain_exists_point_c551114588d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:42:42.563667+00:00
 -- url     : https://prove2.me/theorems/cb134958-2d07-4d42-8fbb-65de619d53a4

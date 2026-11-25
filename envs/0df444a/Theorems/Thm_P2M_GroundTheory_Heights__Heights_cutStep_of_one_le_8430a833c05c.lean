@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_cutStep_of_one_le_8430a833c05c
 -- name    : P2M_GroundTheory_Heights__Heights_cutStep_of_one_le_8430a833c05c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:46:26.819719+00:00
 -- url     : https://prove2.me/theorems/cc94b7b8-4d1f-4e6c-9d59-31211ce4e4f0

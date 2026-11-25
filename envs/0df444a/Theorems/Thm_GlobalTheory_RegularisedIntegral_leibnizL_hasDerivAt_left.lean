@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularisedIntegral_leibnizL_hasDerivAt_left
 -- name    : GlobalTheory.RegularisedIntegral.leibnizL_hasDerivAt_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:50:26.866453+00:00
 -- url     : https://prove2.me/theorems/78483032-cdcf-5762-aecb-74ad425023a8

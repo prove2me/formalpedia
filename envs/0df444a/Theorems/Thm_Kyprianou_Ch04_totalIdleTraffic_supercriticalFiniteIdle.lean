@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_totalIdleTraffic_supercriticalFiniteIdle
 -- name    : Kyprianou.Ch04.totalIdleTraffic_supercriticalFiniteIdle
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T13:03:17.517779+00:00
 -- url     : https://prove2.me/theorems/b30d1c74-aea0-45d4-b73a-ead68dfeda8c

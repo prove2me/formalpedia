@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_exists_limit_sum_pow_mul_b1bf9280078e
 -- name    : P2M_GroundTheory_Variant__N1_exists_limit_sum_pow_mul_b1bf9280078e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:54:54.098889+00:00
 -- url     : https://prove2.me/theorems/8939954e-d27e-4a69-8116-cab8b9472064

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameDual_exists_unip_change_dual
 -- name    : GlobalTheory.FrameDual.exists_unip_change_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:23:05.147393+00:00
 -- url     : https://prove2.me/theorems/0f0159bf-44b8-4a4b-8306-fa8d91b89413

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_hilbW_ne_zero_0045b71f9b51
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_hilbW_ne_zero_0045b71f9b51
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:02:21.035921+00:00
 -- url     : https://prove2.me/theorems/07eb70a4-f87e-5062-867d-236d18ea2880

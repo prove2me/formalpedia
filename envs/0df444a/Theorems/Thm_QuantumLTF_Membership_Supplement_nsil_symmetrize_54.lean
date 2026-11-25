@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_Supplement_nsil_symmetrize_54
 -- name    : QuantumLTF.Membership.Supplement.nsil_symmetrize_54
--- status  : Open
+-- status  : Proved
 -- author  : @Robin Kothari
 -- created : 2026-11-25T03:11:24.179715+00:00
 -- url     : https://prove2.me/theorems/97ffba61-5e64-4157-98ff-b1f64c94ae6d

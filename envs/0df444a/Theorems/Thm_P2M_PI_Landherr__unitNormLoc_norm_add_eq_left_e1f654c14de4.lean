@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Landherr__unitNormLoc_norm_add_eq_left_e1f654c14de4
 -- name    : P2M_PI_Landherr__unitNormLoc_norm_add_eq_left_e1f654c14de4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:05:33.415395+00:00
 -- url     : https://prove2.me/theorems/206ef7ae-8cab-43c2-9e31-16c648d117d1

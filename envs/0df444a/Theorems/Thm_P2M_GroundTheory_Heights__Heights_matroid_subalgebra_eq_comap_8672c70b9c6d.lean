@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_matroid_subalgebra_eq_comap_8672c70b9c6d
 -- name    : P2M_GroundTheory_Heights__Heights_matroid_subalgebra_eq_comap_8672c70b9c6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:48:56.989012+00:00
 -- url     : https://prove2.me/theorems/0aacd251-01d7-4918-8d80-4225efa25eae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_LFunction_one
 -- name    : GroundTheory.Global.HeckeCharacter.LFunction_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:12:28.276941+00:00
 -- url     : https://prove2.me/theorems/ed8273b4-b30b-4e57-a1ae-064eb5955646

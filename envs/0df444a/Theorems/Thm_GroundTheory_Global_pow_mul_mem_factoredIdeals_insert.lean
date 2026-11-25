@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_pow_mul_mem_factoredIdeals_insert
 -- name    : GroundTheory.Global.pow_mul_mem_factoredIdeals_insert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:03:18.360199+00:00
 -- url     : https://prove2.me/theorems/f9109e75-5b88-4a63-b44a-8d920e5baa99

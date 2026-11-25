@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QuantumLTF.Membership.Supplement.theorem_5_4
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Robin Kothari
 -- created : 2026-11-25T04:08:01.829602+00:00
 -- url     : https://prove2.me/submissions/7438dca1-5c43-404d-ab11-e4a5502eb774
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_QAlgorithms_Defs_Basic

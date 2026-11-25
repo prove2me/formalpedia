@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZChartSpan_prod_mem_pow_1dbdeee6f1d5
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZChartSpan_prod_mem_pow_1dbdeee6f1d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:59:50.941795+00:00
 -- url     : https://prove2.me/theorems/1c3f2b8e-76a4-4177-a133-11386a8e5aab

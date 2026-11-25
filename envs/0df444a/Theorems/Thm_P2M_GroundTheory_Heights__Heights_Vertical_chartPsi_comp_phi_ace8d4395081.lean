@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_chartPsi_comp_phi_ace8d4395081
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_chartPsi_comp_phi_ace8d4395081
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:44:49.921266+00:00
 -- url     : https://prove2.me/theorems/b21c5783-4dad-586c-bc8b-d48ea9d14f86

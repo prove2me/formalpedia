@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PrimeQuasiFiniteSheets_sheets_of_parametrisation_e159ba74b0c7
 -- name    : P2M_GroundTheory_Heights__Heights_PrimeQuasiFiniteSheets_sheets_of_parametrisation_e159ba74b0c7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:16:02.039875+00:00
 -- url     : https://prove2.me/theorems/dfdf7506-17c6-4771-be4f-a7403d0ee8fd

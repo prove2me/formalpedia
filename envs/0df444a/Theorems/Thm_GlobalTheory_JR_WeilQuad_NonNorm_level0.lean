@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NonNorm_level0
 -- name    : GlobalTheory.JR.WeilQuad.NonNorm.level0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:07:05.498125+00:00
 -- url     : https://prove2.me/theorems/d1526f37-a5ff-5607-bb2c-50f1f651c05d

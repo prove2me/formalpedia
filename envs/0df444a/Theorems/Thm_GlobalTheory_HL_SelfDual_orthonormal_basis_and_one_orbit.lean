@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SelfDual_orthonormal_basis_and_one_orbit
 -- name    : GlobalTheory.HL.SelfDual.orthonormal_basis_and_one_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:08:13.709849+00:00
 -- url     : https://prove2.me/theorems/c6bdfd31-a95e-44e9-b80b-c3757344fb3e

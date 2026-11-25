@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_MulQuotEq_proof_72f7cf59d3e9
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_MulQuotEq_proof_72f7cf59d3e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:56:01.529893+00:00
 -- url     : https://prove2.me/theorems/af684ce9-54d6-4344-a1c7-60e71b0f2676

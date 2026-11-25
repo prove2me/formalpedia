@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Brauer_CrossedProduct_isMulCoboundary__of_isBrauerEquivalent_one_ced97fe3d382
 -- name    : P2M_GroundTheory_Brauer_CrossedProduct_isMulCoboundary__of_isBrauerEquivalent_one_ced97fe3d382
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:55:05.162884+00:00
 -- url     : https://prove2.me/theorems/b8220bf7-7980-4758-a242-8107b5a97877

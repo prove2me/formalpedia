@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_fibreIdeal_map_C_e0f3e21e5aef
 -- name    : P2M_GroundTheory_Heights__Heights_fibreIdeal_map_C_e0f3e21e5aef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:45:53.893173+00:00
 -- url     : https://prove2.me/theorems/d824c10e-5804-59f3-b481-bfe94b73f4b5

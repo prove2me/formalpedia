@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_SimpleRecourse_theorem_2_8
 -- name    : KallMayerSLP.SimpleRecourse.theorem_2_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:14:01.92045+00:00
 -- url     : https://prove2.me/theorems/e7da6727-20e7-4612-88dd-85b2837d8de2

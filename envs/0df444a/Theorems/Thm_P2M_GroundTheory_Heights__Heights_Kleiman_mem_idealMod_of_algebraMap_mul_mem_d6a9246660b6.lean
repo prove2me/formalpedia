@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_mem_idealMod_of_algebraMap_mul_mem_d6a9246660b6
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_mem_idealMod_of_algebraMap_mul_mem_d6a9246660b6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:14:03.120512+00:00
 -- url     : https://prove2.me/theorems/248f1ad0-5401-45a2-834e-39cb03811389

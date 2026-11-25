@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormReduced_proof_f8e587a11564
 -- name    : P2M_GroundTheory_Heights__Heights_ChowFormReduced_proof_f8e587a11564
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:30:09.564515+00:00
 -- url     : https://prove2.me/theorems/f7f98bd3-4e55-4589-9300-e49ad7b0b43d

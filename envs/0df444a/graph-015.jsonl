@@ -4399,11 +4399,11 @@
 {"parent": "ScholtesStab.theorem_1", "child": "ScholtesStab_MPCC_IsKKT", "via": ["statement"]}
 {"parent": "ScholtesStab.theorem_1", "child": "ScholtesStab_MPCC_IsNondegCStationary", "via": ["statement"]}
 {"parent": "ScholtesStab.theorem_1", "child": "ScholtesStab_MPCC_IsCStationary", "via": ["statement"]}
-{"parent": "KallMayerSLP.SimpleRecourse.theorem_2_8", "child": "KallMayerSLP_SimpleRecourse_mixtureConst", "via": ["statement"]}
-{"parent": "KallMayerSLP.SimpleRecourse.theorem_2_8", "child": "KallMayerSLP_SimpleRecourse_IsMSRTData", "via": ["statement"]}
-{"parent": "KallMayerSLP.SimpleRecourse.theorem_2_8", "child": "KallMayerSLP_SimpleRecourse_mixtureCdf", "via": ["statement"]}
-{"parent": "KallMayerSLP.SimpleRecourse.theorem_2_8", "child": "KallMayerSLP_SimpleRecourse_expectedMSRT", "via": ["statement"]}
-{"parent": "KallMayerSLP.SimpleRecourse.theorem_2_8", "child": "KallMayerSLP_SimpleRecourse_IsOptimal259", "via": ["statement"]}
+{"parent": "KallMayerSLP.SimpleRecourse.theorem_2_8", "child": "KallMayerSLP_SimpleRecourse_mixtureConst", "via": ["solution", "statement"]}
+{"parent": "KallMayerSLP.SimpleRecourse.theorem_2_8", "child": "KallMayerSLP_SimpleRecourse_IsMSRTData", "via": ["solution", "statement"]}
+{"parent": "KallMayerSLP.SimpleRecourse.theorem_2_8", "child": "KallMayerSLP_SimpleRecourse_mixtureCdf", "via": ["solution", "statement"]}
+{"parent": "KallMayerSLP.SimpleRecourse.theorem_2_8", "child": "KallMayerSLP_SimpleRecourse_expectedMSRT", "via": ["solution", "statement"]}
+{"parent": "KallMayerSLP.SimpleRecourse.theorem_2_8", "child": "KallMayerSLP_SimpleRecourse_IsOptimal259", "via": ["solution", "statement"]}
 {"parent": "LimitedPersuasion.lemma_3", "child": "LimitedPersuasion_Model", "via": ["statement"]}
 {"parent": "OAI.CycleClique.patterns_13_6_1_verified", "child": "OAIQ107D007", "via": ["statement"]}
 {"parent": "OAI.CycleClique.patterns_13_6_1_verified", "child": "OAIQ107D000", "via": ["statement"]}

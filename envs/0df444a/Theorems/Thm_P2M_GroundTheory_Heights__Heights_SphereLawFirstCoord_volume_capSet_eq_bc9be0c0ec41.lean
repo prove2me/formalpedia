@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereLawFirstCoord_volume_capSet_eq_bc9be0c0ec41
 -- name    : P2M_GroundTheory_Heights__Heights_SphereLawFirstCoord_volume_capSet_eq_bc9be0c0ec41
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:39:08.375191+00:00
 -- url     : https://prove2.me/theorems/cabf1b72-23a7-5052-b13f-873de1a46d8c

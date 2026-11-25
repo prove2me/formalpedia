@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CharacterAtIdentity_proof_4a2c3065c78c
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CharacterAtIdentity_proof_4a2c3065c78c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:31:10.393786+00:00
 -- url     : https://prove2.me/theorems/aabbd8fd-8220-5470-8b5d-80f504c2939c

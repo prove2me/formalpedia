@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_FixedSub_gens_smul
 -- name    : GlobalTheory.Mass.FixedSub.gens_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:40:50.250382+00:00
 -- url     : https://prove2.me/theorems/018ff0ec-a3a4-5533-a430-eb9c4820abf7

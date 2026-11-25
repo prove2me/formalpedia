@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CompLat_main
 -- name    : GlobalTheory.HL.CompLat.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:09:37.91584+00:00
 -- url     : https://prove2.me/theorems/2d667ead-99e1-54b1-b380-49387479c93f

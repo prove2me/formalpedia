@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_finite_surjective_effacing_constant_closed_fiber
 -- name    : AlgebraicGeometry.Scheme.exists_finite_surjective_effacing_constant_closed_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-25T00:30:12.624508+00:00
 -- url     : https://prove2.me/theorems/712dfbdf-bda5-4cb2-b556-f48531184f47

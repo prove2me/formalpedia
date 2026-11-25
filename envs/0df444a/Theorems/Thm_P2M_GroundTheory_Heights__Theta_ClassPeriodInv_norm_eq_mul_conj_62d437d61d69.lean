@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ClassPeriodInv_norm_eq_mul_conj_62d437d61d69
 -- name    : P2M_GroundTheory_Heights__Theta_ClassPeriodInv_norm_eq_mul_conj_62d437d61d69
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:51:37.132964+00:00
 -- url     : https://prove2.me/theorems/b10c7c96-60f8-4fc5-b904-0326dfe9e2a7

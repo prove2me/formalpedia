@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_AddIntG_Wk_constantCoeff_flog__b4b5d000a5ef
 -- name    : P2M_PI_AddIntG_Wk_constantCoeff_flog__b4b5d000a5ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:35.913631+00:00
 -- url     : https://prove2.me/theorems/dee238ee-ef96-489a-aaf5-5b319958e7f7

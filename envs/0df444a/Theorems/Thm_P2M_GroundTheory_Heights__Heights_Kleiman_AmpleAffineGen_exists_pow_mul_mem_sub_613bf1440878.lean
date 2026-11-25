@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_AmpleAffineGen_exists_pow_mul_mem_sub_613bf1440878
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_AmpleAffineGen_exists_pow_mul_mem_sub_613bf1440878
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:02:15.368083+00:00
 -- url     : https://prove2.me/theorems/b6014ae9-db30-5dad-be3e-6559fb259b49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RatStab_loc_of_glob
 -- name    : GlobalTheory.HL.RatStab.loc_of_glob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:21:05.782691+00:00
 -- url     : https://prove2.me/theorems/c897f91d-a82c-4d7a-8344-38f0d6150f47

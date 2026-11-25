@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_logCoord_of_dpull
 -- name    : Formalism.L2.FormalSeriesBounds.logCoord_of_dpull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:37:16.323309+00:00
 -- url     : https://prove2.me/theorems/98ab850f-bfab-5a33-99ca-474b158ccd97

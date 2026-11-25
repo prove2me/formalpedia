@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_commensurableCosetUnionContent_independent_nonneg
 -- name    : GlobalTheory.T.commensurableCosetUnionContent_independent_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:08:20.677683+00:00
 -- url     : https://prove2.me/theorems/15b85980-f27e-4a9e-8e34-66be2ccc9574

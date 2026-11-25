@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_local_character_sum
 -- name    : GlobalTheory.T.hermitian_local_character_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:45:52.813821+00:00
 -- url     : https://prove2.me/theorems/db189c92-6b0a-45f2-950b-a8f06485f047

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_polyTangent_eq_of_subset_bc9afe14a4f4
 -- name    : P2M_GroundTheory_Heights__Heights_polyTangent_eq_of_subset_bc9afe14a4f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:49:29.737431+00:00
 -- url     : https://prove2.me/theorems/fecaa58e-2430-472b-a41c-fd7af5219fec

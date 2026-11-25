@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OrthCompl_exists_norm_one_orth_triple
 -- name    : GlobalTheory.HL.OrthCompl.exists_norm_one_orth_triple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:35:53.20624+00:00
 -- url     : https://prove2.me/theorems/08b8c5d7-23da-52b3-96a6-4f547f2fc566

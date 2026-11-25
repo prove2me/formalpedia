@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LatClose_bc_add
 -- name    : GlobalTheory.HL.LatClose.bc_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:22:40.843248+00:00
 -- url     : https://prove2.me/theorems/572d9935-9304-4ff7-a005-11e557df0a86

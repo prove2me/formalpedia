@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_subsingleton_tateZero_integerUnits
 -- name    : GroundTheory.LocalField.subsingleton_tateZero_integerUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:51:11.051791+00:00
 -- url     : https://prove2.me/theorems/8d95855a-2c0f-584e-bee5-56acb7df1f38

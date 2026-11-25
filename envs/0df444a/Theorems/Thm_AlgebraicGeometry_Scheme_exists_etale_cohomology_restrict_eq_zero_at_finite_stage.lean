@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_etale_cohomology_restrict_eq_zero_at_finite_stage
 -- name    : AlgebraicGeometry.Scheme.exists_etale_cohomology_restrict_eq_zero_at_finite_stage
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-25T01:14:41.248818+00:00
 -- url     : https://prove2.me/theorems/0ba99e69-35fe-47a9-875f-2ddf2fae8e69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_isHomogeneous_pairDiff_7f3a95024044
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_isHomogeneous_pairDiff_7f3a95024044
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:06:35.465587+00:00
 -- url     : https://prove2.me/theorems/3011902d-8ffe-525f-81bb-eea98c76c9b0

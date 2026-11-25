@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_gaussNorm_nonneg_6ba4fe626cee
 -- name    : P2M_GroundTheory_Heights__Heights_gaussNorm_nonneg_6ba4fe626cee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:46:37.938155+00:00
 -- url     : https://prove2.me/theorems/8f681861-4473-4d55-9198-33ea8d99c1e5

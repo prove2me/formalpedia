@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_MixedTwistShiftAlt_prod_map_filter_3bb7a2c79544
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_MixedTwistShiftAlt_prod_map_filter_3bb7a2c79544
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:14:46.890812+00:00
 -- url     : https://prove2.me/theorems/68b55032-43b7-561c-a79e-242588b4876b

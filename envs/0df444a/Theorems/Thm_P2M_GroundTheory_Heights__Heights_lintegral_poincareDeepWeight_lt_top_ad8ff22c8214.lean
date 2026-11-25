@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_lintegral_poincareDeepWeight_lt_top_ad8ff22c8214
 -- name    : P2M_GroundTheory_Heights__Heights_lintegral_poincareDeepWeight_lt_top_ad8ff22c8214
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:48:27.469519+00:00
 -- url     : https://prove2.me/theorems/d3b46c9b-5573-43dc-aec4-1332dece6085

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_cover_le_volume_thickening_5b3271255eb1
 -- name    : P2M_GroundTheory_Heights__Heights_exists_cover_le_volume_thickening_5b3271255eb1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:46:33.265002+00:00
 -- url     : https://prove2.me/theorems/eaff8af5-99da-413f-b25b-ef0efc5cee98

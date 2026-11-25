@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_congruence_subgroup_lattice_stabilizer
 -- name    : GlobalTheory.T.congruence_subgroup_lattice_stabilizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:10:10.730448+00:00
 -- url     : https://prove2.me/theorems/673770bb-c4ce-4e80-bff7-1a2f670a6fcd

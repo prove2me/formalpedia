@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_Inhab_hypTypeX
 -- name    : CompanionTheory.WaveGrid.Inhab.hypTypeX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:08:38.798988+00:00
 -- url     : https://prove2.me/theorems/e4320088-629e-4933-9e4a-930e4cf2f8c9

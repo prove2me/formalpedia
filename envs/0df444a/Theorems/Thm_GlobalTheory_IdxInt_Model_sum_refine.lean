@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdxInt_Model_sum_refine
 -- name    : GlobalTheory.IdxInt.Model.sum_refine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:23:41.549973+00:00
 -- url     : https://prove2.me/theorems/8f6d6ba0-4271-5821-b1f1-e85e18c4481d

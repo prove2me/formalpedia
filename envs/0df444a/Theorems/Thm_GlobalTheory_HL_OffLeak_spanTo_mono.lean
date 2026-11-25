@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OffLeak_spanTo_mono
 -- name    : GlobalTheory.HL.OffLeak.spanTo_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:20:30.248605+00:00
 -- url     : https://prove2.me/theorems/3b4001d9-2eeb-4d07-915c-3a6aa1b44336

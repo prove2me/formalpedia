@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZFamily_exists_mul_xProd_pow_mem_fd9a69082dcf
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZFamily_exists_mul_xProd_pow_mem_fd9a69082dcf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:05:49.274939+00:00
 -- url     : https://prove2.me/theorems/81c799ac-62f1-53fe-b37a-24373b6cdc93

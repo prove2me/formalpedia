@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_exists_maxMinor_ne_zero_of_linearIndependent_alt_969c684934e8
 -- name    : P2M_GroundTheory_Variant__N1_exists_maxMinor_ne_zero_of_linearIndependent_alt_969c684934e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:54:44.478806+00:00
 -- url     : https://prove2.me/theorems/391af18a-1f20-45b7-8988-ee3c45a13802

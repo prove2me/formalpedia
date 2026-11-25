@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombExtendWord_snoc_mem_52aadcb06899
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombExtendWord_snoc_mem_52aadcb06899
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:04:55.200686+00:00
 -- url     : https://prove2.me/theorems/30f99bc7-59f4-4690-ac1f-4fd0901ea3e9

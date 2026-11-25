@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AreaMultiplicity_proof_4785096b3bf5
 -- name    : P2M_GroundTheory_Heights__Heights_AreaMultiplicity_proof_4785096b3bf5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:49:27.496026+00:00
 -- url     : https://prove2.me/theorems/9738780a-7db5-42f9-8945-884046aa69dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinTwoModels_exists_ne_zero_6aec105870c0
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinTwoModels_exists_ne_zero_6aec105870c0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:13:43.33878+00:00
 -- url     : https://prove2.me/theorems/3a9752dc-9626-56f3-b93d-dab97d442cd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_nrm_mem_fibre_55d042252cc5
 -- name    : P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_nrm_mem_fibre_55d042252cc5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:16:34.828307+00:00
 -- url     : https://prove2.me/theorems/23d82a18-6a8e-4aa7-a8c3-ae914f105e39

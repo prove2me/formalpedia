@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_ord_norm_eq_length_b38d6a2def59
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_ord_norm_eq_length_b38d6a2def59
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:44:06.024801+00:00
 -- url     : https://prove2.me/theorems/22103840-a668-434c-a006-0dbefb44b835

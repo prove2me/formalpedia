@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_eval_antisymDelta_eq_zero_2ab9ab7fe6fa
 -- name    : P2M_GroundTheory_Heights__Heights_eval_antisymDelta_eq_zero_2ab9ab7fe6fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:52.523652+00:00
 -- url     : https://prove2.me/theorems/57b2e6bf-58b8-49e5-869f-886b938aeae3

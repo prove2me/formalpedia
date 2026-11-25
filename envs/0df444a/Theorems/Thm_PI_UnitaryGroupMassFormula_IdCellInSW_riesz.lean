@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_IdCellInSW_riesz
 -- name    : PI.UnitaryGroupMassFormula.IdCellInSW.riesz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:39:06.709499+00:00
 -- url     : https://prove2.me/theorems/f410fcaf-b17f-4e0b-ba46-2f7397c0b403

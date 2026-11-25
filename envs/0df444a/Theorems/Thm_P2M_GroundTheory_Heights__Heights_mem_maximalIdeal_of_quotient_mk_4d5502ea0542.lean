@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_maximalIdeal_of_quotient_mk_4d5502ea0542
 -- name    : P2M_GroundTheory_Heights__Heights_mem_maximalIdeal_of_quotient_mk_4d5502ea0542
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:49:25.630852+00:00
 -- url     : https://prove2.me/theorems/aba04211-9f96-4af4-970b-cf31c7d899ce

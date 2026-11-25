@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_minimalPrime_mem_zeroSet_eb01412e6298
 -- name    : P2M_GroundTheory_Heights__Heights_exists_minimalPrime_mem_zeroSet_eb01412e6298
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:46:41.560933+00:00
 -- url     : https://prove2.me/theorems/d2cdf252-1ac6-49cf-b0f0-ccd406a355e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MahlerInhabit_line_pair_448a64dfacca
 -- name    : P2M_GroundTheory_Heights__Heights_MahlerInhabit_line_pair_448a64dfacca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:47:55.698459+00:00
 -- url     : https://prove2.me/theorems/23ab3332-1b2a-574e-852a-7391cf42450f

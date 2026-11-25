@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_isOpen_saturate_bdd42cb5cc08
 -- name    : P2M_GroundTheory_Heights__Theta_isOpen_saturate_bdd42cb5cc08
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:53:54.117857+00:00
 -- url     : https://prove2.me/theorems/1a397940-721d-43a6-b154-6acee4b4321b

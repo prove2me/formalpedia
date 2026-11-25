@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntMulIntegerSmulMemLattice_exists_int_smul_mem_lattice
 -- name    : GlobalTheory.IntMulIntegerSmulMemLattice.exists_int_smul_mem_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:20:54.04885+00:00
 -- url     : https://prove2.me/theorems/10bcdd88-5723-435c-b0cb-0209caa777ad

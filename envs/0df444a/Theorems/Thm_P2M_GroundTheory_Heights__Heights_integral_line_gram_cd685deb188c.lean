@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_integral_line_gram_cd685deb188c
 -- name    : P2M_GroundTheory_Heights__Heights_integral_line_gram_cd685deb188c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:47:15.560416+00:00
 -- url     : https://prove2.me/theorems/e7ccec71-d8a6-4ee6-bac8-edd95ec6a867

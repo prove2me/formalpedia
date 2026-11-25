@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unramified_quadratic_norm_trace_surjective
 -- name    : GlobalTheory.T.unramified_quadratic_norm_trace_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:48:26.728666+00:00
 -- url     : https://prove2.me/theorems/5b9d9cbf-84f9-47ea-af73-47263fb1a82d

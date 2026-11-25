@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_lowerIndex_mul_of_lt
 -- name    : GroundTheory.LocalField.lowerIndex_mul_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:50:09.3684+00:00
 -- url     : https://prove2.me/theorems/5927fbc6-4259-4b7f-a0f0-5a5ae624165f

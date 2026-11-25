@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ParamPieceInt_exists_sheet_964cabc34eb6
 -- name    : P2M_GroundTheory_Heights__Heights_ParamPieceInt_exists_sheet_964cabc34eb6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:14:32.829774+00:00
 -- url     : https://prove2.me/theorems/fb46b626-b7f2-4365-858d-d0bda03e0328

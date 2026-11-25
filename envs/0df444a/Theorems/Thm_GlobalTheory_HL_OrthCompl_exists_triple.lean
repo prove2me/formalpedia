@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OrthCompl_exists_triple
 -- name    : GlobalTheory.HL.OrthCompl.exists_triple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:35:54.34851+00:00
 -- url     : https://prove2.me/theorems/3b62ae39-1240-5f3c-9a6e-51d742becf15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_finrank_eq_add_of_exact_5e4bdf738ebe
 -- name    : P2M_GroundTheory_Heights__Heights_finrank_eq_add_of_exact_5e4bdf738ebe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:46:14.454819+00:00
 -- url     : https://prove2.me/theorems/41a8abee-469f-566a-8dd2-e72b1ec51883

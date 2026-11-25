@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_linearIndependent_sumElim_of_exact_f502d26d1f91
 -- name    : P2M_GroundTheory_Heights__Heights_linearIndependent_sumElim_of_exact_f502d26d1f91
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:48:44.640094+00:00
 -- url     : https://prove2.me/theorems/6851aef5-b88c-4d37-9966-f4d8321eb5b2

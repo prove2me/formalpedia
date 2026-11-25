@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperHyperplaneMid_idealMod_sup_le_53cef066e13b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperHyperplaneMid_idealMod_sup_le_53cef066e13b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:58:57.631304+00:00
 -- url     : https://prove2.me/theorems/20104460-f5df-43a8-9a48-02f65cf84580

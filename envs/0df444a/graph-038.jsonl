@@ -57080,9 +57080,9 @@
 {"parent": "RH1E6S14.part_091_0", "child": "ArdaRH65K_Probes_ArbEconomics_Sound", "via": ["statement"]}
 {"parent": "LargeCongestion.Poisson.Supplement.proposition_2", "child": "LargeCongestion_Poisson_Supplement_Norms", "via": ["statement"]}
 {"parent": "LargeCongestion.Poisson.Supplement.proposition_2", "child": "LargeCongestion_Poisson_Supplement_Approximation", "via": ["statement"]}
-{"parent": "GlobalTheory.T.exists_dirichletLFunction_zero_gap_near_one", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ExistsDirichletLFunctionZeroGapNearOne", "via": ["statement"]}
-{"parent": "GlobalTheory.T.exists_dirichletLFunction_zero_gap_near_one", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_ZerosDisc", "via": ["statement"]}
-{"parent": "GlobalTheory.T.exists_dirichletLFunction_zero_gap_near_one", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ExistsDirichletLFunctionZeroGapNearOneStatement", "via": ["statement"]}
+{"parent": "GlobalTheory.T.exists_dirichletLFunction_zero_gap_near_one", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ExistsDirichletLFunctionZeroGapNearOne", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.exists_dirichletLFunction_zero_gap_near_one", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_ZerosDisc", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.exists_dirichletLFunction_zero_gap_near_one", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ExistsDirichletLFunctionZeroGapNearOneStatement", "via": ["solution", "statement"]}
 {"parent": "NoHair_staticSliceADM", "child": "NoHair_regularStaticVacuumSlice", "via": ["statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.ScaleCont.continuous_inv_val", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_GramFiberMeasuresIntegralFormula", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.ScaleCont.continuous_inv_val", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_GramRightActionIdentitiesStatement", "via": ["solution", "statement"]}

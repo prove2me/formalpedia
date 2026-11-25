@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_IsAlt_eq_sum_alt_e9ab5ff86474
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_IsAlt_eq_sum_alt_e9ab5ff86474
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:18:52.717795+00:00
 -- url     : https://prove2.me/theorems/98a88d33-f2d7-4090-b561-d95e7f98c875

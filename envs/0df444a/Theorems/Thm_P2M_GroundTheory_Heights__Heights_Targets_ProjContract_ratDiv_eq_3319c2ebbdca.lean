@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjContract_ratDiv_eq_3319c2ebbdca
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjContract_ratDiv_eq_3319c2ebbdca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:24.020806+00:00
 -- url     : https://prove2.me/theorems/ad2d6c06-c35d-5478-8f81-96493b94973d

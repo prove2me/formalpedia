@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_eval_surjective_d304bca1931e
 -- name    : P2M_GroundTheory_Heights__Heights_eval_surjective_d304bca1931e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:52.94373+00:00
 -- url     : https://prove2.me/theorems/7a38f7ba-fb40-4121-a71d-4e845f3e2d9a

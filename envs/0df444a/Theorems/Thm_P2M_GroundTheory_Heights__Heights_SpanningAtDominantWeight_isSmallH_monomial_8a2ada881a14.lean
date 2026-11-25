@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SpanningAtDominantWeight_isSmallH_monomial_8a2ada881a14
 -- name    : P2M_GroundTheory_Heights__Heights_SpanningAtDominantWeight_isSmallH_monomial_8a2ada881a14
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:38:36.377319+00:00
 -- url     : https://prove2.me/theorems/a21702f8-5d8d-4ff7-bc57-cb72aa6c076a

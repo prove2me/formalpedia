@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_det_gram_sumElim_of_orthogonal_30fcb0026ad7
 -- name    : P2M_GroundTheory_Heights__Heights_det_gram_sumElim_of_orthogonal_30fcb0026ad7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:42.99255+00:00
 -- url     : https://prove2.me/theorems/99e2c694-da69-4be6-978f-dd8c33ccbb36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_integrableOn_log_mahler_2b6fa8e526b5
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_integrableOn_log_mahler_2b6fa8e526b5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:06:45.760254+00:00
 -- url     : https://prove2.me/theorems/5d5d7669-21cd-4812-ae70-7df6acf58a74

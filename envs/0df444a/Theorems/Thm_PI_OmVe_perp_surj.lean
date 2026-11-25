@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmVe_perp_surj
 -- name    : PI.OmVe.perp_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:29:01.20286+00:00
 -- url     : https://prove2.me/theorems/397408fe-62b2-46c0-b769-de74948b7612

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_split__injective_819166473dcc
 -- name    : P2M_GroundTheory_GroupCoh_split__injective_819166473dcc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:53:13.868042+00:00
 -- url     : https://prove2.me/theorems/1680b3f7-c892-4373-8f1e-aae3ec095a90

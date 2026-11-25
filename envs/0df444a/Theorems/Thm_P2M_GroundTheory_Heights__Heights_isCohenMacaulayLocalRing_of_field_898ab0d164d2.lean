@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isCohenMacaulayLocalRing_of_field_898ab0d164d2
 -- name    : P2M_GroundTheory_Heights__Heights_isCohenMacaulayLocalRing_of_field_898ab0d164d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:46:56.344051+00:00
 -- url     : https://prove2.me/theorems/11917220-dae3-41ac-a426-9464c0b8f35a

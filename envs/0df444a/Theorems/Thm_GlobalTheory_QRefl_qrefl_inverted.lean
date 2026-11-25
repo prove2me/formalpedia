@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QRefl_qrefl_inverted
 -- name    : GlobalTheory.QRefl.qrefl_inverted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:43:35.758987+00:00
 -- url     : https://prove2.me/theorems/b511b324-b2fe-4e93-a2eb-b5c8db94e101

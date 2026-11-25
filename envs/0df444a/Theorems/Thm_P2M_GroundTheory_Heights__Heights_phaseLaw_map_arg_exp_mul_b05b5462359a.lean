@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_phaseLaw_map_arg_exp_mul_b05b5462359a
 -- name    : P2M_GroundTheory_Heights__Heights_phaseLaw_map_arg_exp_mul_b05b5462359a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:50:35.279746+00:00
 -- url     : https://prove2.me/theorems/2bc499b5-8b89-4037-acf6-55ffa26618f5

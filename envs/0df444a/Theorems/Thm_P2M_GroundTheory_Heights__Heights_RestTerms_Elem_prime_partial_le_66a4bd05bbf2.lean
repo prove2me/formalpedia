@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Elem_prime_partial_le_66a4bd05bbf2
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Elem_prime_partial_le_66a4bd05bbf2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:32:47.322978+00:00
 -- url     : https://prove2.me/theorems/7cc3449e-ef4a-4c82-9616-7bf09ca13df3

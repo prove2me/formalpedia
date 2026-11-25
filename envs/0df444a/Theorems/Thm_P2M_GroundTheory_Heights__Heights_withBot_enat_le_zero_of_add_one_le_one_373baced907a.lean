@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_withBot_enat_le_zero_of_add_one_le_one_373baced907a
 -- name    : P2M_GroundTheory_Heights__Heights_withBot_enat_le_zero_of_add_one_le_one_373baced907a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:51:37.978814+00:00
 -- url     : https://prove2.me/theorems/07de3b5d-2a3d-4d88-9a8e-5a95fc6d2742

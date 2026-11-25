@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_AENeighbourhoods_of_placeMaps_c4be2c416734
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_AENeighbourhoods_of_placeMaps_c4be2c416734
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:40:31.478804+00:00
 -- url     : https://prove2.me/theorems/3a90e7a6-72f5-449e-a587-99183d2331d5

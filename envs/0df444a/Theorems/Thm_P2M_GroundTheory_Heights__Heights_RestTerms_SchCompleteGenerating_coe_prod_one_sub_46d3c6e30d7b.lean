@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchCompleteGenerating_coe_prod_one_sub_46d3c6e30d7b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchCompleteGenerating_coe_prod_one_sub_46d3c6e30d7b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:56:43.03137+00:00
 -- url     : https://prove2.me/theorems/ff6887e3-e366-5e12-a96e-fc97ac1ecaad

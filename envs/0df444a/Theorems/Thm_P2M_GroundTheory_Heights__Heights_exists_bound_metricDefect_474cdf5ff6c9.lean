@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_bound_metricDefect_474cdf5ff6c9
 -- name    : P2M_GroundTheory_Heights__Heights_exists_bound_metricDefect_474cdf5ff6c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:45:44.398748+00:00
 -- url     : https://prove2.me/theorems/ba53369a-c95a-53e1-bd07-9f467bb10e46

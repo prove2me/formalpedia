@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mem_unramifiedRoots_iff
 -- name    : GroundTheory.LocalField.mem_unramifiedRoots_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:23:16.98198+00:00
 -- url     : https://prove2.me/theorems/f07a08ff-d61d-4c09-9dcc-69d82512aae2

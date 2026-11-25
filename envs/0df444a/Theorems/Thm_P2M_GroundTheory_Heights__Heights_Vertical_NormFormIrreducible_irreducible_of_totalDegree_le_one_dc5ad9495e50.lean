@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_irreducible_of_totalDegree_le_one_dc5ad9495e50
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_irreducible_of_totalDegree_le_one_dc5ad9495e50
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:43:30.223902+00:00
 -- url     : https://prove2.me/theorems/10524b61-389b-5cff-9551-2ed2cf9adb95

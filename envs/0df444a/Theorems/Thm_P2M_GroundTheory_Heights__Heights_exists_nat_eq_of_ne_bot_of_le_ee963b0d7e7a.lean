@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_nat_eq_of_ne_bot_of_le_ee963b0d7e7a
 -- name    : P2M_GroundTheory_Heights__Heights_exists_nat_eq_of_ne_bot_of_le_ee963b0d7e7a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:47:53.956803+00:00
 -- url     : https://prove2.me/theorems/10ec57fc-2092-52c2-bb85-b5d4ceeaa869

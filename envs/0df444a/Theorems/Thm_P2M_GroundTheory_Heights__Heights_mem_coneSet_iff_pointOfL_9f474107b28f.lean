@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_coneSet_iff_pointOfL_9f474107b28f
 -- name    : P2M_GroundTheory_Heights__Heights_mem_coneSet_iff_pointOfL_9f474107b28f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:49:53.811783+00:00
 -- url     : https://prove2.me/theorems/3a3dd34e-356f-4859-ac5f-097f72fbb82c

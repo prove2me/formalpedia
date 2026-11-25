@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodSub_cont_eq
 -- name    : GlobalTheory.HL.GoodSub.cont_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:31:55.338788+00:00
 -- url     : https://prove2.me/theorems/a2c81f11-6ae0-44bd-86cb-cd2174e49ba0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_det_linProj_comp_zeroExt_133519947d4f
 -- name    : P2M_GroundTheory_Heights__Heights_det_linProj_comp_zeroExt_133519947d4f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:59.863989+00:00
 -- url     : https://prove2.me/theorems/f48f1e79-08d2-4a9a-b33f-21bc4da828cc

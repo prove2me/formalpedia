@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_withBot_le_one_of_le_two_20da161cf909
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_withBot_le_one_of_le_two_20da161cf909
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:03:26.174715+00:00
 -- url     : https://prove2.me/theorems/fdd36b99-ea00-538b-b40f-5eba482492aa

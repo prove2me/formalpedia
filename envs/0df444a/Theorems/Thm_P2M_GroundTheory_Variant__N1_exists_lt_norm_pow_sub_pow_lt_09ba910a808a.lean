@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_exists_lt_norm_pow_sub_pow_lt_09ba910a808a
 -- name    : P2M_GroundTheory_Variant__N1_exists_lt_norm_pow_sub_pow_lt_09ba910a808a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:54:54.815841+00:00
 -- url     : https://prove2.me/theorems/5aee6b8b-458d-483c-8d24-dd8fe38a5c96

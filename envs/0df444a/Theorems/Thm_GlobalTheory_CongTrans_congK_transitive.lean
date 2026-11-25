@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongTrans_congK_transitive
 -- name    : GlobalTheory.CongTrans.congK_transitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:18:49.711211+00:00
 -- url     : https://prove2.me/theorems/4c5874e1-829f-46f8-a7ef-36c2c790c9ee

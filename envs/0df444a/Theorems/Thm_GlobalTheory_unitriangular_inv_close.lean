@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitriangular_inv_close
 -- name    : GlobalTheory.unitriangular_inv_close
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:24:25.659867+00:00
 -- url     : https://prove2.me/theorems/9ffa8662-e1b1-4a26-a09d-de6226f17671

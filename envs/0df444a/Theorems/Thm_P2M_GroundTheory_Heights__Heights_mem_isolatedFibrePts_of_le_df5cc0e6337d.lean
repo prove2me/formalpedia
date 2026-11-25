@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_isolatedFibrePts_of_le_df5cc0e6337d
 -- name    : P2M_GroundTheory_Heights__Heights_mem_isolatedFibrePts_of_le_df5cc0e6337d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:49:17.379639+00:00
 -- url     : https://prove2.me/theorems/9d69dc4c-4e13-4b37-bfb6-bc492007778b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_mem_divSupp_map_iff_5ba5be09b67e
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_mem_divSupp_map_iff_5ba5be09b67e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:41:35.146124+00:00
 -- url     : https://prove2.me/theorems/51b20d57-a26b-52a8-a395-a7d02577bcdd

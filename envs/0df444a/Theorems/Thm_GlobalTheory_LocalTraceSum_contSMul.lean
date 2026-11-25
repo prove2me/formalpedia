@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalTraceSum_contSMul
 -- name    : GlobalTheory.LocalTraceSum.contSMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:29:13.059372+00:00
 -- url     : https://prove2.me/theorems/8d310236-0c9b-5709-833f-40d155257d60

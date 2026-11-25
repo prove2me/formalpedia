@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FinGL_genericChar_upperTwo_67efdcaf75fa
 -- name    : P2M_GroundTheory_Heights__Theta_FinGL_genericChar_upperTwo_67efdcaf75fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:50:57.763125+00:00
 -- url     : https://prove2.me/theorems/3b58170b-55c4-5cfe-ba1a-ee52fb1c7ed5

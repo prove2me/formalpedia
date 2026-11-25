@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_hausdorffMeasure_pointOf_preimage_null_ba67b396a7c2
 -- name    : P2M_GroundTheory_Heights__Heights_hausdorffMeasure_pointOf_preimage_null_ba67b396a7c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:46:54.208622+00:00
 -- url     : https://prove2.me/theorems/4f201d93-913f-4bc8-bbe3-b014f592a192

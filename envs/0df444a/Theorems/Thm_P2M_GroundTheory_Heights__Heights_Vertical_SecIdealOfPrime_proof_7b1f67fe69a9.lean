@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecIdealOfPrime_proof_7b1f67fe69a9
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecIdealOfPrime_proof_7b1f67fe69a9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:53:28.551741+00:00
 -- url     : https://prove2.me/theorems/c1e60f61-3ce3-43f4-a6b8-86f8fc975fbc

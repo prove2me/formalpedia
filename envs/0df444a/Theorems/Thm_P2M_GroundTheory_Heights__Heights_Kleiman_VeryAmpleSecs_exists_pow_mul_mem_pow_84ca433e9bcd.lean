@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleSecs_exists_pow_mul_mem_pow_84ca433e9bcd
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleSecs_exists_pow_mul_mem_pow_84ca433e9bcd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:03:11.704422+00:00
 -- url     : https://prove2.me/theorems/e18bef25-4d7a-5cf0-ae67-510e49101959

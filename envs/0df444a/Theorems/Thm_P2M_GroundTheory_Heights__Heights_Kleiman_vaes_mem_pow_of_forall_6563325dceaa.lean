@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_vaes_mem_pow_of_forall_6563325dceaa
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_vaes_mem_pow_of_forall_6563325dceaa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:02:52.30898+00:00
 -- url     : https://prove2.me/theorems/bb06b87f-b916-43d1-b0f5-f453a87007e4

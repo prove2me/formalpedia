@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_mul_mem_lattice_of_G_eq
 -- name    : GroundTheory.Global.Elliptic.mul_mem_lattice_of_G_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:49:33.379587+00:00
 -- url     : https://prove2.me/theorems/9cf99fd0-1fb1-4ec5-a6fe-ce2bd83c6012

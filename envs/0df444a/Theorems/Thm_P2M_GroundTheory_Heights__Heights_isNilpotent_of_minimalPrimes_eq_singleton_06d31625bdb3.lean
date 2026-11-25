@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isNilpotent_of_minimalPrimes_eq_singleton_06d31625bdb3
 -- name    : P2M_GroundTheory_Heights__Heights_isNilpotent_of_minimalPrimes_eq_singleton_06d31625bdb3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:52:28.53057+00:00
 -- url     : https://prove2.me/theorems/77c4000d-d2cc-5789-a678-bbd53f09e8d9

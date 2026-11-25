@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_projectiveLineClassData_isComplex_mk_14edc12b1c27
 -- name    : P2M_GroundTheory_Heights__Theta_projectiveLineClassData_isComplex_mk_14edc12b1c27
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:54:16.885805+00:00
 -- url     : https://prove2.me/theorems/da844109-dd5a-45e9-893a-00b8e382af34

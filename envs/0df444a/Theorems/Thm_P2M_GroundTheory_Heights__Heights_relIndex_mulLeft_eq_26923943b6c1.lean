@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_relIndex_mulLeft_eq_26923943b6c1
 -- name    : P2M_GroundTheory_Heights__Heights_relIndex_mulLeft_eq_26923943b6c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:50:23.681547+00:00
 -- url     : https://prove2.me/theorems/badb43f4-3afe-4188-87db-a0dba46cf010

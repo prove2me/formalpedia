@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Schur_sum_hsymm_mul_coeff_omitProduct_8c99bd9e1f3f
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Schur_sum_hsymm_mul_coeff_omitProduct_8c99bd9e1f3f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:47.449227+00:00
 -- url     : https://prove2.me/theorems/520a9309-8d8c-4bd6-9737-b7178f9a243f

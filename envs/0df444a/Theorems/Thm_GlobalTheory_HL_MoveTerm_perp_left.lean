@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveTerm_perp_left
 -- name    : GlobalTheory.HL.MoveTerm.perp_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:27:06.815898+00:00
 -- url     : https://prove2.me/theorems/e38c9892-e383-5762-976e-c08fe6312ec9

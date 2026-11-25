@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_eq_zero_of_forall_twistScalar_mul_smul_eq
 -- name    : GroundTheory.PAdicHodge.eq_zero_of_forall_twistScalar_mul_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:11:35.849796+00:00
 -- url     : https://prove2.me/theorems/c1e46763-8bfd-4556-aecf-3c91ccc43d83

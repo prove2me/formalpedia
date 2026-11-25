@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_ofMulDistribMulAction_infiniteDecomposition_units
 -- name    : GroundTheory.Global.ofMulDistribMulAction_infiniteDecomposition_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:54:08.961715+00:00
 -- url     : https://prove2.me/theorems/111bbb65-5356-4d1c-b087-d4b8854043ba

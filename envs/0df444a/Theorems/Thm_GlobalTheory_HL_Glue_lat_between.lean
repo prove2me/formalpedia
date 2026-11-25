@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Glue_lat_between
 -- name    : GlobalTheory.HL.Glue.lat_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:30:56.705364+00:00
 -- url     : https://prove2.me/theorems/1cbcf334-54a0-4de7-af92-1bffdd1916fb

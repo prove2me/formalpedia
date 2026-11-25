@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_TwistFinite_equiv_ne_95f509a2a8e9
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_TwistFinite_equiv_ne_95f509a2a8e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:33:33.561373+00:00
 -- url     : https://prove2.me/theorems/ed764bce-d2af-4a08-a74a-11cea61b34e2

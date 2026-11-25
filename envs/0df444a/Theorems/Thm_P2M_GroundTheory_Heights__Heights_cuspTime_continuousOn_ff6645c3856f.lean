@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_cuspTime_continuousOn_ff6645c3856f
 -- name    : P2M_GroundTheory_Heights__Heights_cuspTime_continuousOn_ff6645c3856f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:45:24.464085+00:00
 -- url     : https://prove2.me/theorems/38e0bb78-b132-5ca4-916c-9a1418bc980c

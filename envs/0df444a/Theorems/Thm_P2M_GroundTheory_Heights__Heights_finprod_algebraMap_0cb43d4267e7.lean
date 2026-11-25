@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_finprod_algebraMap_0cb43d4267e7
 -- name    : P2M_GroundTheory_Heights__Heights_finprod_algebraMap_0cb43d4267e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:46:41.242825+00:00
 -- url     : https://prove2.me/theorems/e97f78f6-576b-4da3-b00c-a0afabaeb110

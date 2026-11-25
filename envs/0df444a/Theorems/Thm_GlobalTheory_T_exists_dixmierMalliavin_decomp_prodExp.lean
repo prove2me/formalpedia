@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_dixmierMalliavin_decomp_prodExp
 -- name    : GlobalTheory.T.exists_dixmierMalliavin_decomp_prodExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:43:43.357053+00:00
 -- url     : https://prove2.me/theorems/914de5e9-f8ed-481c-b79d-f7eef1d61911

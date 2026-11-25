@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_tubeDeep_term_0355a045511e
 -- name    : P2M_GroundTheory_Heights__Heights_tubeDeep_term_0355a045511e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:52:01.071886+00:00
 -- url     : https://prove2.me/theorems/f3f426e5-6521-40e2-a060-7e273199018e

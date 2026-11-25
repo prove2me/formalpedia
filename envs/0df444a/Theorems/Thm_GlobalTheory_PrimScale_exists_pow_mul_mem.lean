@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimScale_exists_pow_mul_mem
 -- name    : GlobalTheory.PrimScale.exists_pow_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:26:54.071696+00:00
 -- url     : https://prove2.me/theorems/90d2a7fa-dc82-4898-9495-7f3e3c297633

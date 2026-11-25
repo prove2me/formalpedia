@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueCharacterDense_tendsto_pow_zero
 -- name    : GlobalTheory.ResidueCharacterDense.tendsto_pow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:26:26.623784+00:00
 -- url     : https://prove2.me/theorems/45089519-ceb6-47f9-96f4-031f647ab0a1

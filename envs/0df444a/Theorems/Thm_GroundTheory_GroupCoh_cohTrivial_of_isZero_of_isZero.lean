@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_cohTrivial_of_isZero_of_isZero
 -- name    : GroundTheory.GroupCoh.cohTrivial_of_isZero_of_isZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:25.83789+00:00
 -- url     : https://prove2.me/theorems/daffd818-9b7f-587f-b737-d4ceb3c97d16

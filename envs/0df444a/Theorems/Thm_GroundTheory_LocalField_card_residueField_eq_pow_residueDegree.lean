@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_card_residueField_eq_pow_residueDegree
 -- name    : GroundTheory.LocalField.card_residueField_eq_pow_residueDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:23:08.510882+00:00
 -- url     : https://prove2.me/theorems/32359f47-15f9-4b91-991b-36972eb9a5c7

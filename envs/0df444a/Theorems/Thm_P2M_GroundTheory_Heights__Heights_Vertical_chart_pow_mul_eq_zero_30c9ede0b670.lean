@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_chart_pow_mul_eq_zero_30c9ede0b670
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_chart_pow_mul_eq_zero_30c9ede0b670
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:44:27.075962+00:00
 -- url     : https://prove2.me/theorems/2aca4ae5-3e4a-4817-a928-f2b68dabd49d

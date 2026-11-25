@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_height_map_add_one_le_of_mem_nonZeroDivisors_57a541d5cf05
 -- name    : P2M_GroundTheory_Heights__Heights_height_map_add_one_le_of_mem_nonZeroDivisors_57a541d5cf05
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:46:36.910144+00:00
 -- url     : https://prove2.me/theorems/38675524-3b59-58fb-8717-bb4272d67044

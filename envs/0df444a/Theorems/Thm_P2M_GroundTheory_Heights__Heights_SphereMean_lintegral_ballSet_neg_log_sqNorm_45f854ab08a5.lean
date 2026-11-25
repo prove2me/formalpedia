@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_lintegral_ballSet_neg_log_sqNorm_45f854ab08a5
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_lintegral_ballSet_neg_log_sqNorm_45f854ab08a5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:39:41.112952+00:00
 -- url     : https://prove2.me/theorems/8ce516b9-bd10-547a-8ec4-8cff7b29b30b

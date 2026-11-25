@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_TIW_theta_eq__d06abe871319
 -- name    : P2M_PI_Dv_TIW_theta_eq__d06abe871319
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:55:46.651271+00:00
 -- url     : https://prove2.me/theorems/80682a4b-60df-50f9-b111-b80b7d9da1b7

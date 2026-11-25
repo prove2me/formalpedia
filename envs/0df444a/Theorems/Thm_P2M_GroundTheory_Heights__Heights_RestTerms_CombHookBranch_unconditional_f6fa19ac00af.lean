@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombHookBranch_unconditional_f6fa19ac00af
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombHookBranch_unconditional_f6fa19ac00af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:04:09.475554+00:00
 -- url     : https://prove2.me/theorems/a1e01b85-4d15-5f79-ba07-7c0a52cbafea

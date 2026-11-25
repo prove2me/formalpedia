@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_ker_inf_ker_le
 -- name    : GroundTheory.Global.IdeleGroup.ker_inf_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:01:22.701433+00:00
 -- url     : https://prove2.me/theorems/63fb3799-1e39-5f9a-8d95-ac51b309ce74

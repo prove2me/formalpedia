@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_reverse_ofFn_prod_15f453f2e0cb
 -- name    : P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_reverse_ofFn_prod_15f453f2e0cb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:52:08.155073+00:00
 -- url     : https://prove2.me/theorems/2dab05f0-009e-4736-840a-bc5832d1c955

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AlgebraicGeometry.Scheme.exists_finite_surjective_effacing_constant_closed_fiber
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-11-25T01:15:46.365863+00:00
 -- url     : https://prove2.me/submissions/cba92d4d-0dbd-48be-ac5b-8c57569bad9e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AlgebraicGeometry_EtaleCohomologyRestriction
 import Definitions.Def_AlgebraicGeometry_EtaleFiniteSectionLifts

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodAlmostAll_unitIn_alg
 -- name    : GlobalTheory.HL.GoodAlmostAll.unitIn_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:07:30.331494+00:00
 -- url     : https://prove2.me/theorems/941168cc-12bb-4b67-94d6-b1197292cfdd

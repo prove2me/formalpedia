@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_pair_int
 -- name    : GlobalTheory.MoveFine.pair_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:46:13.023883+00:00
 -- url     : https://prove2.me/theorems/abc463be-0899-5dec-95c8-7e04dddea93f

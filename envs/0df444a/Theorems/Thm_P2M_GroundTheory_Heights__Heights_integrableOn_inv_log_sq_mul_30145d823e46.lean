@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_integrableOn_inv_log_sq_mul_30145d823e46
 -- name    : P2M_GroundTheory_Heights__Heights_integrableOn_inv_log_sq_mul_30145d823e46
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:46:59.949988+00:00
 -- url     : https://prove2.me/theorems/90c0bc34-33bd-4056-9824-b6cbbdb27b43

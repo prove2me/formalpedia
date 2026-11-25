@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_linearFormX0_mem_incidence_dd7f1d807185
 -- name    : P2M_GroundTheory_Heights__Heights_linearFormX0_mem_incidence_dd7f1d807185
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:47:53.369288+00:00
 -- url     : https://prove2.me/theorems/ef00326f-39e7-4d30-ae3b-0ef7cf8ca5c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_Filt_Kernel_idealMod_le_e980b8caa17f
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_Filt_Kernel_idealMod_le_e980b8caa17f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:57:16.286302+00:00
 -- url     : https://prove2.me/theorems/145cea9c-6cfd-5787-a2f9-14f70968f6be

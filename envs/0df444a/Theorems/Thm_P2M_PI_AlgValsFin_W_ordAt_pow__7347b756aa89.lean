@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_AlgValsFin_W_ordAt_pow__7347b756aa89
 -- name    : P2M_PI_AlgValsFin_W_ordAt_pow__7347b756aa89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:39.188019+00:00
 -- url     : https://prove2.me/theorems/c293d644-f835-46a3-96f9-6d57402cad8c

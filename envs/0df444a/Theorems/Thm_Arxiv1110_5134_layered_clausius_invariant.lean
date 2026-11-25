@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_layered_clausius_invariant
 -- name    : Arxiv1110_5134.layered_clausius_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:59:09.9706+00:00
 -- url     : https://prove2.me/theorems/454534ed-47a2-4217-8e90-0f6c1c81fad9

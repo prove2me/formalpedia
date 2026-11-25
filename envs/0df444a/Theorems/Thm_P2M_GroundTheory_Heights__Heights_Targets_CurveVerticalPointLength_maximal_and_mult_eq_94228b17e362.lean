@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveVerticalPointLength_maximal_and_mult_eq_94228b17e362
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveVerticalPointLength_maximal_and_mult_eq_94228b17e362
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:12:10.736568+00:00
 -- url     : https://prove2.me/theorems/cc865930-cfc0-4d69-bd4a-d4f7dc660281

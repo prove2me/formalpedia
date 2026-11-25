@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_logReg_zero_ca923fd2cacc
 -- name    : P2M_GroundTheory_Heights__Heights_logReg_zero_ca923fd2cacc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:49:42.165051+00:00
 -- url     : https://prove2.me/theorems/814c4eac-3813-5392-8535-87ba3420cc1a

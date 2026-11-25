@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_integral_infinitePlaceUnitsMeasure_of_isComplex
 -- name    : GroundTheory.Global.integral_infinitePlaceUnitsMeasure_of_isComplex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:12:59.010208+00:00
 -- url     : https://prove2.me/theorems/5049ae67-3a2b-5649-a8eb-5fd57a51dec6

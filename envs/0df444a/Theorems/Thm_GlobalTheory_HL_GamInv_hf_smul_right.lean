@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GamInv_hf_smul_right
 -- name    : GlobalTheory.HL.GamInv.hf_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:29:19.297154+00:00
 -- url     : https://prove2.me/theorems/2c43bba2-7909-5e17-97a6-1eb9aa82e8b0

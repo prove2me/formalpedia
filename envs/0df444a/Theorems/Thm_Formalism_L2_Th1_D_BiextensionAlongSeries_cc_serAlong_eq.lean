@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_BiextensionAlongSeries_cc_serAlong_eq
 -- name    : Formalism.L2.Th1.D.BiextensionAlongSeries.cc_serAlong_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:19:43.672952+00:00
 -- url     : https://prove2.me/theorems/bae841cf-19e2-52d1-b2c2-a26c029d50d3

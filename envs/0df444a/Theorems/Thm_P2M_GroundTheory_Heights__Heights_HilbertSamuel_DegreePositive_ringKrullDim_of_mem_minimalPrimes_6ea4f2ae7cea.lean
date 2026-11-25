@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_DegreePositive_ringKrullDim_of_mem_minimalPrimes_6ea4f2ae7cea
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_DegreePositive_ringKrullDim_of_mem_minimalPrimes_6ea4f2ae7cea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:58:52.382801+00:00
 -- url     : https://prove2.me/theorems/7569a758-718f-4cc1-83de-05fb0eaca047

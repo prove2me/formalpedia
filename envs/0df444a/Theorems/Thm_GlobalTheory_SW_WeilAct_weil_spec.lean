@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAct_weil_spec
 -- name    : GlobalTheory.SW.WeilAct.weil_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:44:53.183155+00:00
 -- url     : https://prove2.me/theorems/b0e6255f-e87f-41f6-a965-9c02cfe317bb

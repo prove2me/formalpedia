@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RatStab_herm_bc
 -- name    : GlobalTheory.HL.RatStab.herm_bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:22:19.190227+00:00
 -- url     : https://prove2.me/theorems/19b96e71-7ff6-53a9-9ec3-bedf4cf27c4c

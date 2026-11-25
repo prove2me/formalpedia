@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_mem_quotField_f112b4739b83
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_mem_quotField_f112b4739b83
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:28:40.576247+00:00
 -- url     : https://prove2.me/theorems/cd05fee2-ac42-4855-960b-2e64974e1f93

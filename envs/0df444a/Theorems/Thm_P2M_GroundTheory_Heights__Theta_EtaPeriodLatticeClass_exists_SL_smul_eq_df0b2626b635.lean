@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_EtaPeriodLatticeClass_exists_SL_smul_eq_df0b2626b635
 -- name    : P2M_GroundTheory_Heights__Theta_EtaPeriodLatticeClass_exists_SL_smul_eq_df0b2626b635
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:51:26.625852+00:00
 -- url     : https://prove2.me/theorems/569cfcb1-410e-42d2-bdab-3775daf69718

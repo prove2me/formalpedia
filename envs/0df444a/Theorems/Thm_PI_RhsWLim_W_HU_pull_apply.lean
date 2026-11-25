@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_HU_pull_apply
 -- name    : PI.RhsWLim.W.HU.pull_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:26:36.182805+00:00
 -- url     : https://prove2.me/theorems/fd133814-cfcf-51b8-abc1-c4d4175957b9

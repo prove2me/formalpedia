@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chartLin_eq_sum_608fd642ec52
 -- name    : P2M_GroundTheory_Heights__Heights_chartLin_eq_sum_608fd642ec52
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:22.883969+00:00
 -- url     : https://prove2.me/theorems/2ef73679-59d7-4605-b582-e8606b3b3f95

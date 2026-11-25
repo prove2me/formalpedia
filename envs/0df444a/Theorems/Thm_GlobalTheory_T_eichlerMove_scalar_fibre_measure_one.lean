@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eichlerMove_scalar_fibre_measure_one
 -- name    : GlobalTheory.T.eichlerMove_scalar_fibre_measure_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:52:13.789118+00:00
 -- url     : https://prove2.me/theorems/94f87fde-bfe8-5e0c-871c-3d28a3e1f479

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_projectiveLineClassData_psi_surjective_84800f6dd64e
 -- name    : P2M_GroundTheory_Heights__Theta_projectiveLineClassData_psi_surjective_84800f6dd64e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:54:55.697231+00:00
 -- url     : https://prove2.me/theorems/ac883f4f-1117-4f3e-a936-33f9ef761868

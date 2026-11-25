@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_maximalIdeal_le_span_of_le_sup_sq_ffe074678903
 -- name    : P2M_GroundTheory_Heights__Heights_maximalIdeal_le_span_of_le_sup_sq_ffe074678903
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:50:00.985247+00:00
 -- url     : https://prove2.me/theorems/c27871e8-e3d6-54e5-9d67-db4e7016b4b2

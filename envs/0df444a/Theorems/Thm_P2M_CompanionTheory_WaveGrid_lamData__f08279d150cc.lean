@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CompanionTheory_WaveGrid_lamData__f08279d150cc
 -- name    : P2M_CompanionTheory_WaveGrid_lamData__f08279d150cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:17:26.429711+00:00
 -- url     : https://prove2.me/theorems/03663a4a-9bf2-4240-8a97-2a98f43b4fb7

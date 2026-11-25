@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_MainStatements_Hodge_Pf_WedgeProjections_theta__Multi_85cb7f90be53
 -- name    : P2M_MainStatements_Hodge_Pf_WedgeProjections_theta__Multi_85cb7f90be53
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:12.501187+00:00
 -- url     : https://prove2.me/theorems/954f4233-c843-4694-afb7-1fb4fbbeef93

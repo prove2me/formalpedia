@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PrimVol_gram_herm
 -- name    : GlobalTheory.HL.PrimVol.gram_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:04:17.700914+00:00
 -- url     : https://prove2.me/theorems/0a57e7f1-b911-5ecc-9451-063330b6ec81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_MapThetaTInvariant_nhds_zero_isCountablyGenerated_3334bf54e6c5
 -- name    : P2M_GroundTheory_Variant__N1_MapThetaTInvariant_nhds_zero_isCountablyGenerated_3334bf54e6c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:56:36.738798+00:00
 -- url     : https://prove2.me/theorems/94ed383b-8843-40b2-82d4-d4a9570e10b6

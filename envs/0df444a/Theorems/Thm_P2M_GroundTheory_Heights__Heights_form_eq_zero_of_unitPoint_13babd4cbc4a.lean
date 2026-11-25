@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_form_eq_zero_of_unitPoint_13babd4cbc4a
 -- name    : P2M_GroundTheory_Heights__Heights_form_eq_zero_of_unitPoint_13babd4cbc4a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:46:39.633096+00:00
 -- url     : https://prove2.me/theorems/b8b5a2a5-e312-4208-97ca-239417630b35

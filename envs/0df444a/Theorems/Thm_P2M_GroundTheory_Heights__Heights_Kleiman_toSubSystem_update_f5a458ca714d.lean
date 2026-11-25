@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_toSubSystem_update_f5a458ca714d
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_toSubSystem_update_f5a458ca714d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:01:44.933835+00:00
 -- url     : https://prove2.me/theorems/98f4b407-34aa-406d-984f-e025543a7385

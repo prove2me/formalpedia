@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_eval_complexFibreIdeal_of_forall_e9fcbb433878
 -- name    : P2M_GroundTheory_Heights__Heights_eval_complexFibreIdeal_of_forall_e9fcbb433878
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:47:07.019005+00:00
 -- url     : https://prove2.me/theorems/0e2996a6-2af4-4f62-9ece-491343f96642

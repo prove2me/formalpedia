@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PrimVol_exists_level
 -- name    : GlobalTheory.HL.PrimVol.exists_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:14:04.361743+00:00
 -- url     : https://prove2.me/theorems/d3eebbd4-25df-539d-a482-5ddd7539e7c6

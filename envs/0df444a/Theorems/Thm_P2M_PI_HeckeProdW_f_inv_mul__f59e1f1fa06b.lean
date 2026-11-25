@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_HeckeProdW_f_inv_mul__f59e1f1fa06b
 -- name    : P2M_PI_HeckeProdW_f_inv_mul__f59e1f1fa06b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:56:40.597831+00:00
 -- url     : https://prove2.me/theorems/5caee07f-cea4-438e-9edc-ea69f6f34cc1

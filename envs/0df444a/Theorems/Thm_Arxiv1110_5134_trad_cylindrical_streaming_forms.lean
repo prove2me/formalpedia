@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_trad_cylindrical_streaming_forms
 -- name    : Arxiv1110_5134.trad_cylindrical_streaming_forms
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:19:03.474801+00:00
 -- url     : https://prove2.me/theorems/dd659d87-4d6c-48b1-b8a5-097b402f207a

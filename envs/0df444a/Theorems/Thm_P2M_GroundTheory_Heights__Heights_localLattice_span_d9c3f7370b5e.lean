@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_localLattice_span_d9c3f7370b5e
 -- name    : P2M_GroundTheory_Heights__Heights_localLattice_span_d9c3f7370b5e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:48:44.253099+00:00
 -- url     : https://prove2.me/theorems/4c9c44f1-08de-4729-a2fe-384bde7a565f

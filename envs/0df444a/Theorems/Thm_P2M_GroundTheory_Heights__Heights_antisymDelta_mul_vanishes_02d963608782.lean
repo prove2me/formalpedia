@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_antisymDelta_mul_vanishes_02d963608782
 -- name    : P2M_GroundTheory_Heights__Heights_antisymDelta_mul_vanishes_02d963608782
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:44:02.908803+00:00
 -- url     : https://prove2.me/theorems/a7936c7c-0159-40d8-aa8e-9cf9986a4d09

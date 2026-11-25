@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_localFourier_mem_schwartzBruhat
 -- name    : GroundTheory.LocalField.localFourier_mem_schwartzBruhat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:08:33.458719+00:00
 -- url     : https://prove2.me/theorems/aa654e70-a71c-50c3-ad1e-abb56cf8de0b

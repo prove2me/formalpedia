@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_eq_div_of_mem_locAtIntPrime_2a4c0a166d77
 -- name    : P2M_GroundTheory_Heights__Heights_exists_eq_div_of_mem_locAtIntPrime_2a4c0a166d77
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:45:47.659694+00:00
 -- url     : https://prove2.me/theorems/2956c5dd-ad8a-4705-89a6-1cb9b7ef69fa

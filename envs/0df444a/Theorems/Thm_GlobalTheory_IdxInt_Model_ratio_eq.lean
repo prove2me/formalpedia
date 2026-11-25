@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdxInt_Model_ratio_eq
 -- name    : GlobalTheory.IdxInt.Model.ratio_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:34:56.575866+00:00
 -- url     : https://prove2.me/theorems/23b072cb-73e0-40bd-b685-01a174e0d7eb

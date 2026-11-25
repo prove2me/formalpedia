@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_logLogStep_arith_994d7a824460
 -- name    : P2M_GroundTheory_Heights__Heights_logLogStep_arith_994d7a824460
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:48:34.80333+00:00
 -- url     : https://prove2.me/theorems/a3e9ea27-76fc-4b52-9152-3032a4b56624

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SegreFlagDegreeZero_flag_eq_zero_8c6be5b03164
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SegreFlagDegreeZero_flag_eq_zero_8c6be5b03164
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:08:44.654842+00:00
 -- url     : https://prove2.me/theorems/cbadb8ad-4ef1-45ed-b919-6d6deefd5d8f

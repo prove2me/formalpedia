@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveWit_spanTo_le_perp
 -- name    : GlobalTheory.HL.MoveWit.spanTo_le_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:34:02.830656+00:00
 -- url     : https://prove2.me/theorems/b9229481-7dda-46ea-bfa4-00c92191596f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_QuotientH0Length_length_quotient_eq_length_H0_043239cd666a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_QuotientH0Length_length_quotient_eq_length_H0_043239cd666a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:56:28.657623+00:00
 -- url     : https://prove2.me/theorems/97621cd1-220c-5a07-a914-303ff0cbce7e

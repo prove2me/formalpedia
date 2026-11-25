@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_smoothTransition_eventually_const_a4054d9cca03
 -- name    : P2M_GroundTheory_Heights__Heights_smoothTransition_eventually_const_a4054d9cca03
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:50:52.528845+00:00
 -- url     : https://prove2.me/theorems/a19601a5-d841-550c-b98b-609b4a3c473e

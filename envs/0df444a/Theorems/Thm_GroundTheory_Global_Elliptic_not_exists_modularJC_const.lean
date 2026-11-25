@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_not_exists_modularJC_const
 -- name    : GroundTheory.Global.Elliptic.not_exists_modularJC_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:49:00.773056+00:00
 -- url     : https://prove2.me/theorems/65dbf43d-5125-4b42-ad45-a750e71f0d9c

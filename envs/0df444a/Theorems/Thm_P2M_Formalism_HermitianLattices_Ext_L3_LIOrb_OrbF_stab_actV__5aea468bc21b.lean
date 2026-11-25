@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_LIOrb_OrbF_stab_actV__5aea468bc21b
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_LIOrb_OrbF_stab_actV__5aea468bc21b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:52:35.193367+00:00
 -- url     : https://prove2.me/theorems/3721c307-30d3-5977-8b3e-6309b9b3372f

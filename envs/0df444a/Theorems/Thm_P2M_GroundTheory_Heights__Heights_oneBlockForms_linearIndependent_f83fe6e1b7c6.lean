@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_oneBlockForms_linearIndependent_f83fe6e1b7c6
 -- name    : P2M_GroundTheory_Heights__Heights_oneBlockForms_linearIndependent_f83fe6e1b7c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:49:34.85161+00:00
 -- url     : https://prove2.me/theorems/ffd9d532-c7cb-4e01-9329-581abe043b53

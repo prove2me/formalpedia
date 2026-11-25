@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_coneFibreAverage_zero_628f6f8200cc
 -- name    : P2M_GroundTheory_Heights__Heights_coneFibreAverage_zero_628f6f8200cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:44:59.47733+00:00
 -- url     : https://prove2.me/theorems/e3fe1a2f-2e3f-47e3-9296-840560b4cbc8

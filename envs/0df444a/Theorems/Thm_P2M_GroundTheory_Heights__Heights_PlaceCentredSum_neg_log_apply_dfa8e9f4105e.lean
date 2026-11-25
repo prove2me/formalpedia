@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlaceCentredSum_neg_log_apply_dfa8e9f4105e
 -- name    : P2M_GroundTheory_Heights__Heights_PlaceCentredSum_neg_log_apply_dfa8e9f4105e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:15:59.008156+00:00
 -- url     : https://prove2.me/theorems/22e5ed99-8579-4d9b-82a1-5edd198fd8fe

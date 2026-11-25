@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_gvrte_eulerian_ray
 -- name    : Arxiv1110_5134.gvrte_eulerian_ray
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:17:16.925865+00:00
 -- url     : https://prove2.me/theorems/bafec5ee-759c-4183-8fc2-e54f5eb97f13

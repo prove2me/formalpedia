@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_measure_ball_eq_lintegral_upperDens
 -- name    : GlobalTheory.measure_ball_eq_lintegral_upperDens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:24:07.357385+00:00
 -- url     : https://prove2.me/theorems/bedd586e-3589-51d0-ad8c-52963020d6a6

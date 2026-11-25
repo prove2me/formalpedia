@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpperDensBounds_mul_div_scale
 -- name    : GlobalTheory.UpperDensBounds.mul_div_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:23:15.557411+00:00
 -- url     : https://prove2.me/theorems/bdd62e53-da08-4370-b97b-923ade0043f5

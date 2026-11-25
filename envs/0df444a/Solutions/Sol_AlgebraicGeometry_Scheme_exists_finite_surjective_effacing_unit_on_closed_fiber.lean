@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AlgebraicGeometry.Scheme.exists_finite_surjective_effacing_unit_on_closed_fiber
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-11-25T00:31:15.728902+00:00
 -- url     : https://prove2.me/submissions/c158b4d6-b102-4432-985e-234183a64aa6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AlgebraicGeometry_EtaleFiniteSectionLifts
 import Definitions.Def_AlgebraicGeometry_EtalePullbackAcyclicResolution

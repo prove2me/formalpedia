@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_map_list_sum_of_d239f93787f6
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_map_list_sum_of_d239f93787f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:00:14.601869+00:00
 -- url     : https://prove2.me/theorems/e70dd212-390c-4da2-831f-9a803db5059d

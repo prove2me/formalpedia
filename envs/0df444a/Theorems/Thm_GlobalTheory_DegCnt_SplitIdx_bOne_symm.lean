@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitIdx_bOne_symm
 -- name    : GlobalTheory.DegCnt.SplitIdx.bOne_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:38:51.117361+00:00
 -- url     : https://prove2.me/theorems/20f443c8-cbb8-40fb-822f-2e0532a78b2b

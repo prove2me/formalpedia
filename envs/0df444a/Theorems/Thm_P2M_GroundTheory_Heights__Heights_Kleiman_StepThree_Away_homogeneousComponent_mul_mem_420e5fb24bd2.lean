@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_Away_homogeneousComponent_mul_mem_420e5fb24bd2
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_Away_homogeneousComponent_mul_mem_420e5fb24bd2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:08:06.228247+00:00
 -- url     : https://prove2.me/theorems/73f8c112-33c7-41bf-85d1-b21bd9818107

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_trdeg_lt_of_surjective_of_ker_ne_bot_e46280f334dc
 -- name    : P2M_GroundTheory_Heights__Heights_trdeg_lt_of_surjective_of_ker_ne_bot_e46280f334dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:50:43.974972+00:00
 -- url     : https://prove2.me/theorems/75d8c922-b188-4fcc-9f21-a7b44a408287

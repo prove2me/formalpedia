@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_exists_form_not_mem_587f4c48195d
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_exists_form_not_mem_587f4c48195d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:36:55.63585+00:00
 -- url     : https://prove2.me/theorems/6f358cd1-e0b8-45e6-b2b4-fab0dba3cea0

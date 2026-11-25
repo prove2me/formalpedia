@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_HU_range_inc
 -- name    : PI.RhsWLim.W.HU.range_inc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:26:53.719717+00:00
 -- url     : https://prove2.me/theorems/77efdb30-d043-546f-a4f3-a1d26e9a0c13

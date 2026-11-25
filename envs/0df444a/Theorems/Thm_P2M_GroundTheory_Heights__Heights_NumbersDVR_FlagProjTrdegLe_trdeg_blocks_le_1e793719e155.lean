@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagProjTrdegLe_trdeg_blocks_le_1e793719e155
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagProjTrdegLe_trdeg_blocks_le_1e793719e155
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:08:10.841176+00:00
 -- url     : https://prove2.me/theorems/8ac42bc5-d290-4257-8c4a-3b6cb01c0abf

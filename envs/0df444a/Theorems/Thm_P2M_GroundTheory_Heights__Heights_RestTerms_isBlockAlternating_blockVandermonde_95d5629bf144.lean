@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_isBlockAlternating_blockVandermonde_95d5629bf144
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_isBlockAlternating_blockVandermonde_95d5629bf144
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:36:41.65942+00:00
 -- url     : https://prove2.me/theorems/1bf6bab6-e041-5677-8842-6d6a534e1fd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalTraceSum_mem_ker
 -- name    : GlobalTheory.LocalTraceSum.mem_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:29:57.147819+00:00
 -- url     : https://prove2.me/theorems/3bb9e2d5-02d1-5b26-b310-5f3b063b56a8

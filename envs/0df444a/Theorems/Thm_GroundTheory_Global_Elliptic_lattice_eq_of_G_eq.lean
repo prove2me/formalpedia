@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_lattice_eq_of_G_eq
 -- name    : GroundTheory.Global.Elliptic.lattice_eq_of_G_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:02:32.388275+00:00
 -- url     : https://prove2.me/theorems/ebcc0660-fa8e-4a33-873e-4a62cb1f86a0

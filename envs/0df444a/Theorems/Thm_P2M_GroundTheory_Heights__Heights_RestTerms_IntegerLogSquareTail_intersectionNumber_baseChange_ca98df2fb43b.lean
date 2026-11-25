@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_IntegerLogSquareTail_intersectionNumber_baseChange_ca98df2fb43b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_IntegerLogSquareTail_intersectionNumber_baseChange_ca98df2fb43b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:05:16.044431+00:00
 -- url     : https://prove2.me/theorems/97b02517-644b-56c8-817b-a41f15248ac8

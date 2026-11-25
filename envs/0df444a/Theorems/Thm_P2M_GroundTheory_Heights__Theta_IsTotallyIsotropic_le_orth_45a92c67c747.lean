@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_IsTotallyIsotropic_le_orth_45a92c67c747
 -- name    : P2M_GroundTheory_Heights__Theta_IsTotallyIsotropic_le_orth_45a92c67c747
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:51:25.506262+00:00
 -- url     : https://prove2.me/theorems/951b4c00-d796-45bb-8748-caeff949227a

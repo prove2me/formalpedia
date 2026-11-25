@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1110_5134_spherical_streaming_forms
 -- name    : Arxiv1110_5134.spherical_streaming_forms
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:19:56.33144+00:00
 -- url     : https://prove2.me/theorems/7085f36f-b121-4a29-b1ff-5aca810498ab

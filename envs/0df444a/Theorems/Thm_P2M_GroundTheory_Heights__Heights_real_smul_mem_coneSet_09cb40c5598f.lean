@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_real_smul_mem_coneSet_09cb40c5598f
 -- name    : P2M_GroundTheory_Heights__Heights_real_smul_mem_coneSet_09cb40c5598f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:49:58.382011+00:00
 -- url     : https://prove2.me/theorems/b972f24b-10cb-44dc-8173-fa2fd9fa73ad
