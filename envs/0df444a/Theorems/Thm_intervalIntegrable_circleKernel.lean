@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_intervalIntegrable_circleKernel
 -- name    : intervalIntegrable_circleKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:31:52.343864+00:00
 -- url     : https://prove2.me/theorems/b9b2fb4d-266f-5b2c-badc-ac31a2e659d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyEvolution_mem_torus
 -- name    : Eden.frequencyEvolution_mem_torus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:55:37.06762+00:00
 -- url     : https://prove2.me/theorems/e729903f-5133-5404-b749-ccf901bd905a

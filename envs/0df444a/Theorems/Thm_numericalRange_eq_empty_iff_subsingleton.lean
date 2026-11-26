@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRange_eq_empty_iff_subsingleton
 -- name    : numericalRange_eq_empty_iff_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:57:25.545731+00:00
 -- url     : https://prove2.me/theorems/63af32f1-d09f-5cd7-a5d6-3777b187243a

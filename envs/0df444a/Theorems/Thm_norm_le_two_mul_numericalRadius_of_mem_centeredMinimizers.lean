@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_le_two_mul_numericalRadius_of_mem_centeredMinimizers
 -- name    : norm_le_two_mul_numericalRadius_of_mem_centeredMinimizers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:25:35.70888+00:00
 -- url     : https://prove2.me/theorems/528d1cf2-a8e7-4626-a1da-d3c4a547ed2e

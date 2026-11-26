@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_primitiveDirectionExec_eq
 -- name    : TunnellMap.primitiveDirectionExec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:27:52.770005+00:00
 -- url     : https://prove2.me/theorems/f00e6191-60e2-5a0c-b645-85467fb19037

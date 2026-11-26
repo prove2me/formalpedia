@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_reconstructedTarget_same_norm
 -- name    : TunnellMap.reconstructedTarget_same_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:14.79104+00:00
 -- url     : https://prove2.me/theorems/bccacfcc-247a-51aa-86e6-dab93364fc67

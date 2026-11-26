@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_OrderedGenerator_orderedIndexList_key_strict
 -- name    : TunnellMap.OrderedGenerator.orderedIndexList_key_strict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:54:12.59256+00:00
 -- url     : https://prove2.me/theorems/8178eb1d-179c-4e7b-8b8d-72eb29294929

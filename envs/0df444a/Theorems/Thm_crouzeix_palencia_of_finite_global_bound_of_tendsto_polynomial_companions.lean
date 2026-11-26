@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_finite_global_bound_of_tendsto_polynomial_companions
 -- name    : crouzeix_palencia_of_finite_global_bound_of_tendsto_polynomial_companions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:35:40.827628+00:00
 -- url     : https://prove2.me/theorems/0b3b8535-9830-5461-84ae-cc381aae501e

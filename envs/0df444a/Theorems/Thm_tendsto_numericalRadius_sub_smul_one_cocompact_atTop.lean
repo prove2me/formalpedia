@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_tendsto_numericalRadius_sub_smul_one_cocompact_atTop
 -- name    : tendsto_numericalRadius_sub_smul_one_cocompact_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:27:01.085803+00:00
 -- url     : https://prove2.me/theorems/accba9ad-52fc-5ce5-963c-58188bb0e8df

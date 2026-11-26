@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_directionKey_vsmul
 -- name    : TunnellMap.directionKey_vsmul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:30:56.234698+00:00
 -- url     : https://prove2.me/theorems/ae5d98b4-f370-4c41-b916-4ef491c73a64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_OrderedGenerator_representativeEdgeKey_preferredTarget
 -- name    : TunnellMap.OrderedGenerator.representativeEdgeKey_preferredTarget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:53:32.122363+00:00
 -- url     : https://prove2.me/theorems/8601062c-4288-5d13-af56-f5993839b67b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_polytopeSoftSupport_add_deriv_deriv_nonneg
 -- name    : polytopeSoftSupport_add_deriv_deriv_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:23:05.763065+00:00
 -- url     : https://prove2.me/theorems/c1b6e30c-273f-5c0a-9c5a-198b131e35d7

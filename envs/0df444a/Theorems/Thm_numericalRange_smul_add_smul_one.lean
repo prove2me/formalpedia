@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRange_smul_add_smul_one
 -- name    : numericalRange_smul_add_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:27:07.515893+00:00
 -- url     : https://prove2.me/theorems/aefe8a61-67fa-5ee3-8676-4cd0b4db79c7

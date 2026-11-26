@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalGrowthIndex_eq_four
 -- name    : Eden.globalGrowthIndex_eq_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:51.578785+00:00
 -- url     : https://prove2.me/theorems/f07f08f8-2637-5508-8d89-24cd79715419

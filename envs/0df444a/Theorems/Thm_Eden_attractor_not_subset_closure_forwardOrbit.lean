@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_attractor_not_subset_closure_forwardOrbit
 -- name    : Eden.attractor_not_subset_closure_forwardOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:45:21.553264+00:00
 -- url     : https://prove2.me/theorems/bbbfd9d6-8ddb-4f3e-99c9-68d60219c67f

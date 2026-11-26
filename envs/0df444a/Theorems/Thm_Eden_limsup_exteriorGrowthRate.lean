@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_limsup_exteriorGrowthRate
 -- name    : Eden.limsup_exteriorGrowthRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:42:02.771243+00:00
 -- url     : https://prove2.me/theorems/d87a28fd-d668-52bf-a39f-b9255ebbc9e8

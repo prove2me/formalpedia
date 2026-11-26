@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_image_starRingEnd_centeredNumericalRadiusMinimizers_eq
 -- name    : image_starRingEnd_centeredNumericalRadiusMinimizers_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:25:54.562217+00:00
 -- url     : https://prove2.me/theorems/31662937-b054-5898-8891-5abf6ef92317

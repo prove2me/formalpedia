@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_adjoint_schaefferEmbedding_apply
 -- name    : adjoint_schaefferEmbedding_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:57.771114+00:00
 -- url     : https://prove2.me/theorems/43d9b02a-69eb-52c6-86f2-c0d837a2c8bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_evolution_image_outerRadialRegion
 -- name    : Eden.evolution_image_outerRadialRegion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:44:30.673359+00:00
 -- url     : https://prove2.me/theorems/aeabbb98-8ca7-4a23-82dd-1925e8a5c2c0

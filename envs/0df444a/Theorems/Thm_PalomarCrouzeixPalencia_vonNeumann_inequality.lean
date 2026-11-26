@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalomarCrouzeixPalencia_vonNeumann_inequality
 -- name    : PalomarCrouzeixPalencia.vonNeumann_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:50:52.443539+00:00
 -- url     : https://prove2.me/theorems/8ce26b57-8c68-4683-bf7b-ded28ae71a38

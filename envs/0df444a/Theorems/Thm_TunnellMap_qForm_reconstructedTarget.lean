@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_qForm_reconstructedTarget
 -- name    : TunnellMap.qForm_reconstructedTarget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:07.091686+00:00
 -- url     : https://prove2.me/theorems/9243c3bd-b4e2-5ad6-847b-ac640c9ed372

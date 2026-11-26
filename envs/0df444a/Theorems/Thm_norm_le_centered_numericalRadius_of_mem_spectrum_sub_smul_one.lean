@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_le_centered_numericalRadius_of_mem_spectrum_sub_smul_one
 -- name    : norm_le_centered_numericalRadius_of_mem_spectrum_sub_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:56:33.296929+00:00
 -- url     : https://prove2.me/theorems/c1c729b0-9846-415a-a40d-abb695008d76

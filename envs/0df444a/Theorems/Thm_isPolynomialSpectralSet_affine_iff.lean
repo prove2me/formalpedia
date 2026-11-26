@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isPolynomialSpectralSet_affine_iff
 -- name    : isPolynomialSpectralSet_affine_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:34.52837+00:00
 -- url     : https://prove2.me/theorems/7f2cd1d8-4097-5372-9d4e-cb8df8d736f5

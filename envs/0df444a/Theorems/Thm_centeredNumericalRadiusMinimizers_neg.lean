@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_centeredNumericalRadiusMinimizers_neg
 -- name    : centeredNumericalRadiusMinimizers_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:25:21.902088+00:00
 -- url     : https://prove2.me/theorems/22b1e557-749b-42b4-9b19-415782b34c8f

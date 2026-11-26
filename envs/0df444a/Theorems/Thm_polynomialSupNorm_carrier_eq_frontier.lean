@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_polynomialSupNorm_carrier_eq_frontier
 -- name    : polynomialSupNorm_carrier_eq_frontier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:39:28.282574+00:00
 -- url     : https://prove2.me/theorems/cf6f8839-a387-42da-ab69-825a3b094bfc

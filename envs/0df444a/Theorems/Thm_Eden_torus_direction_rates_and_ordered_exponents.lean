@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_torus_direction_rates_and_ordered_exponents
 -- name    : Eden.torus_direction_rates_and_ordered_exponents
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:53:43.678381+00:00
 -- url     : https://prove2.me/theorems/14f52704-9ee5-4e94-9e97-3cd6835cbdd5

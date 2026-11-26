@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_exists_convexThickening_smoothJordanRealization
 -- name    : crouzeix_palencia_of_exists_convexThickening_smoothJordanRealization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:15:05.161649+00:00
 -- url     : https://prove2.me/theorems/ebdf47e6-e709-41b1-87f6-355016b1ed1d

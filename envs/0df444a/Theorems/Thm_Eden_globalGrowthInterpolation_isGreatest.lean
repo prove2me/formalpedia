@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalGrowthInterpolation_isGreatest
 -- name    : Eden.globalGrowthInterpolation_isGreatest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:41:46.780802+00:00
 -- url     : https://prove2.me/theorems/ad68e536-24c9-48bf-8530-7c017347713e

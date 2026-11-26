@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_evolution_image_unitRadialLevel
 -- name    : Eden.evolution_image_unitRadialLevel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:44:44.929924+00:00
 -- url     : https://prove2.me/theorems/393aae69-0272-5522-a9cb-fd11e8c41006

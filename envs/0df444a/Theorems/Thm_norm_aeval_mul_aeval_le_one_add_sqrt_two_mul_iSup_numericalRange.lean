@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_mul_aeval_le_one_add_sqrt_two_mul_iSup_numericalRange
 -- name    : norm_aeval_mul_aeval_le_one_add_sqrt_two_mul_iSup_numericalRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:55:31.711358+00:00
 -- url     : https://prove2.me/theorems/f2e363a1-c994-5168-89a3-d134907e8cd0

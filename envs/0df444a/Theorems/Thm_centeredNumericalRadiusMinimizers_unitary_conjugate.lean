@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_centeredNumericalRadiusMinimizers_unitary_conjugate
 -- name    : centeredNumericalRadiusMinimizers_unitary_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:27:07.65293+00:00
 -- url     : https://prove2.me/theorems/0a8c6f4f-6e65-4b18-b2f3-1d59807034ac

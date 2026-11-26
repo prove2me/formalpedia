@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_OrderedGenerator_targetOfValid_key
 -- name    : TunnellMap.OrderedGenerator.targetOfValid_key
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:52:25.313106+00:00
 -- url     : https://prove2.me/theorems/4ab79d72-56d2-5bb2-aaf2-1c7403316400

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_directTargetUsed_iff
 -- name    : TunnellMap.directTargetUsed_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:45:59.826772+00:00
 -- url     : https://prove2.me/theorems/27bf162c-a6e2-47eb-b988-1cc2ac112964

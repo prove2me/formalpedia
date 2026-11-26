@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_residualEquivOfOrbitCard_representative
 -- name    : TunnellMap.residualEquivOfOrbitCard_representative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:03:20.792669+00:00
 -- url     : https://prove2.me/theorems/926dc286-73e2-4ba7-b490-b45314f304b6

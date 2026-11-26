@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_radialOrthonormalBasis_on_torus
 -- name    : Eden.radialOrthonormalBasis_on_torus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:52:40.703394+00:00
 -- url     : https://prove2.me/theorems/5461b7be-64a0-5983-859e-959ddf6619ec

@@ -56562,7 +56562,7 @@
 {"parent": "FullFormalization.d_mul_c_le", "child": "FunctionClass", "via": ["solution", "statement"]}
 {"parent": "AKS.introspective_closure", "child": "AKS_poly", "via": ["solution", "statement"]}
 {"parent": "AKS.introspective_closure", "child": "AKS_alg", "via": ["solution", "statement"]}
-{"parent": "Richstein2001.segmented_sieve_block_witnesses_chunk_1_range_1_part_1_upper_grp01_c0021", "child": "GoldbachSieve", "via": ["statement"]}
+{"parent": "Richstein2001.segmented_sieve_block_witnesses_chunk_1_range_1_part_1_upper_grp01_c0021", "child": "GoldbachSieve", "via": ["solution", "statement"]}
 {"parent": "MazurTransfer.original_cyclic_character_conjugation", "child": "MazurTransfer_OriginalCyclicCharacterConjugationData20261020", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case142_blockers0", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case142_blockers0", "child": "HardyCapsetCertificate14220261021", "via": ["solution", "statement"]}

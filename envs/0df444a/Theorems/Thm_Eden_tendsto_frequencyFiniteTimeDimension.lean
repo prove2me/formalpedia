@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_tendsto_frequencyFiniteTimeDimension
 -- name    : Eden.tendsto_frequencyFiniteTimeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:56:42.727402+00:00
 -- url     : https://prove2.me/theorems/b6d42d2d-2dff-5081-aaea-8d4e14ff3de7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_commonIndexLocalDimension_eq_target_iff
 -- name    : Eden.commonIndexLocalDimension_eq_target_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:32:06.797326+00:00
 -- url     : https://prove2.me/theorems/06ebdd5f-c454-57b8-a8db-f339da7720cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_two_smul_remainder_add_adjoint_eq_main_sub_symmetric_sq_add_skew_sq
 -- name    : two_smul_remainder_add_adjoint_eq_main_sub_symmetric_sq_add_skew_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:35:46.422417+00:00
 -- url     : https://prove2.me/theorems/9c432f69-9155-584e-874b-9d470c700fd7

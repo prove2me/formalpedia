@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_directionKeyExec_eq
 -- name    : TunnellMap.directionKeyExec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:27:54.220836+00:00
 -- url     : https://prove2.me/theorems/29169dd4-8045-565a-ab57-a35ae9140858

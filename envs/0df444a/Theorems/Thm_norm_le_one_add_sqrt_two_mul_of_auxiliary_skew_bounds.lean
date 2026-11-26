@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_le_one_add_sqrt_two_mul_of_auxiliary_skew_bounds
 -- name    : norm_le_one_add_sqrt_two_mul_of_auxiliary_skew_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:36:07.609641+00:00
 -- url     : https://prove2.me/theorems/9a2d2502-2d07-4655-9546-378a1af673bc

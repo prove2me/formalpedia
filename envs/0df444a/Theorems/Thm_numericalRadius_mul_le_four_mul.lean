@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_mul_le_four_mul
 -- name    : numericalRadius_mul_le_four_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:22:42.298684+00:00
 -- url     : https://prove2.me/theorems/bf0b54b6-d851-41e0-9ad9-5a425c5395f8

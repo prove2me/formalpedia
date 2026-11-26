@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_circleIntegral_eval_smul_resolvent_eq_two_pi_I_smul_aeval
 -- name    : circleIntegral_eval_smul_resolvent_eq_two_pi_I_smul_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:37:56.780309+00:00
 -- url     : https://prove2.me/theorems/f8c8a4f5-0e3f-56b3-b212-d3c47be40abe

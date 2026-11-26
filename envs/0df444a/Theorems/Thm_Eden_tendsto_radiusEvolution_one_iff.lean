@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_tendsto_radiusEvolution_one_iff
 -- name    : Eden.tendsto_radiusEvolution_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:29:16.367597+00:00
 -- url     : https://prove2.me/theorems/0d898c19-8e17-5765-b275-bb7300c5a022

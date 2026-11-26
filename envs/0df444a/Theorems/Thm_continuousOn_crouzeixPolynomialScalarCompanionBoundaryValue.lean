@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_continuousOn_crouzeixPolynomialScalarCompanionBoundaryValue
 -- name    : continuousOn_crouzeixPolynomialScalarCompanionBoundaryValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:44:49.080879+00:00
 -- url     : https://prove2.me/theorems/1cc1d924-d32b-5d12-b4d3-27deccd7a142

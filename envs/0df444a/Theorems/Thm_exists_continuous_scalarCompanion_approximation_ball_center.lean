@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_continuous_scalarCompanion_approximation_ball_center
 -- name    : exists_continuous_scalarCompanion_approximation_ball_center
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:53:40.99345+00:00
 -- url     : https://prove2.me/theorems/39ca425e-5985-44c3-8f60-fcc69b062429

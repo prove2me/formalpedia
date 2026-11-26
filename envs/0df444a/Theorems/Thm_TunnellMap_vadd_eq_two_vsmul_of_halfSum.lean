@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_vadd_eq_two_vsmul_of_halfSum
 -- name    : TunnellMap.vadd_eq_two_vsmul_of_halfSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:47:07.171267+00:00
 -- url     : https://prove2.me/theorems/25f7b42a-4d33-42b8-8a2d-fff2fd151fc8

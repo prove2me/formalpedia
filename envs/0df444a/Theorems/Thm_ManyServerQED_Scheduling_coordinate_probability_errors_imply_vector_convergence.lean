@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_coordinate_probability_errors_imply_vector_convergence
 -- name    : ManyServerQED.Scheduling.coordinate_probability_errors_imply_vector_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T04:00:34.458049+00:00
 -- url     : https://prove2.me/theorems/1c07afdb-1351-5939-9663-e9b1c0faaec9

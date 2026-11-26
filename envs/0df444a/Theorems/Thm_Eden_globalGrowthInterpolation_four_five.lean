@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalGrowthInterpolation_four_five
 -- name    : Eden.globalGrowthInterpolation_four_five
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:41:33.948443+00:00
 -- url     : https://prove2.me/theorems/76699949-f850-44c1-a7ef-e7ae7ffd1d64

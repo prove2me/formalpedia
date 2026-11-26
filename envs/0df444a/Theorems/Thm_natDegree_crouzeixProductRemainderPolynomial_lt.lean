@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_natDegree_crouzeixProductRemainderPolynomial_lt
 -- name    : natDegree_crouzeixProductRemainderPolynomial_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:33:57.484924+00:00
 -- url     : https://prove2.me/theorems/d4bd9b25-3a67-4f83-ba83-a42f1df6b1c5

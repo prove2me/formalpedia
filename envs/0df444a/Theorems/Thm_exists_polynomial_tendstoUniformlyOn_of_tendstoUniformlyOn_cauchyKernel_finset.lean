@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_polynomial_tendstoUniformlyOn_of_tendstoUniformlyOn_cauchyKernel_finset
 -- name    : exists_polynomial_tendstoUniformlyOn_of_tendstoUniformlyOn_cauchyKernel_finset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:38:20.773624+00:00
 -- url     : https://prove2.me/theorems/32003e95-32bb-5f80-a8ea-60f2fb2a5f9a

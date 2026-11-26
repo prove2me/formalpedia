@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_le_squareAux_add_remainder
 -- name    : norm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_le_squareAux_add_remainder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:34:09.2042+00:00
 -- url     : https://prove2.me/theorems/dc6187e3-405e-5be8-9fd4-868ccb18f113

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionBoundaryValue_eq_divByMonic
 -- name    : crouzeixPolynomialScalarCompanionBoundaryValue_eq_divByMonic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:42:43.479442+00:00
 -- url     : https://prove2.me/theorems/649909a5-9c64-4df6-8b21-fe55f5890267

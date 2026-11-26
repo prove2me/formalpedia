@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_analyticOn_crouzeixPolynomialScalarCompanion_frontier_compl
 -- name    : analyticOn_crouzeixPolynomialScalarCompanion_frontier_compl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:03:31.015368+00:00
 -- url     : https://prove2.me/theorems/7efc1c2a-b6b9-4d9e-b550-a29a7ad477bb

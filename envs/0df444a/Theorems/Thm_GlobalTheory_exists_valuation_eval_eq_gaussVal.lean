@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_valuation_eval_eq_gaussVal
 -- name    : GlobalTheory.exists_valuation_eval_eq_gaussVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:12.980922+00:00
 -- url     : https://prove2.me/theorems/4930bd9d-e838-4422-bb10-1e9a5a7277bf

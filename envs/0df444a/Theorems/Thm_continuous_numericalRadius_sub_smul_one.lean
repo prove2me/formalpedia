@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_continuous_numericalRadius_sub_smul_one
 -- name    : continuous_numericalRadius_sub_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:25:43.538479+00:00
 -- url     : https://prove2.me/theorems/37fd2412-8463-5ca8-a2e6-58e7d5ce3a55

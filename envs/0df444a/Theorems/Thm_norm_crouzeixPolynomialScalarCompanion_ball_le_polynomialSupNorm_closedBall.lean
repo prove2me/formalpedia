@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_crouzeixPolynomialScalarCompanion_ball_le_polynomialSupNorm_closedBall
 -- name    : norm_crouzeixPolynomialScalarCompanion_ball_le_polynomialSupNorm_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:52:22.693951+00:00
 -- url     : https://prove2.me/theorems/c2c6af93-3a54-44a5-89af-89b2bdce88df

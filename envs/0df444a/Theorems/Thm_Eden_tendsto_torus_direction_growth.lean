@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_tendsto_torus_direction_growth
 -- name    : Eden.tendsto_torus_direction_growth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:53:41.216875+00:00
 -- url     : https://prove2.me/theorems/3d1b5da0-a091-457c-9d52-74f078d5ae80

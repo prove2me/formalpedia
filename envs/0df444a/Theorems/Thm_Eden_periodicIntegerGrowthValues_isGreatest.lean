@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_periodicIntegerGrowthValues_isGreatest
 -- name    : Eden.periodicIntegerGrowthValues_isGreatest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:02.117414+00:00
 -- url     : https://prove2.me/theorems/cc4f5c50-5d07-56e4-a5e7-4c6c4b8fa1ce

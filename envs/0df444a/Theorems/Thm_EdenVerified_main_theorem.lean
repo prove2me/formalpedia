@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_main_theorem
 -- name    : EdenVerified.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:07:50.048345+00:00
 -- url     : https://prove2.me/theorems/e003141d-36a6-575d-82ee-5f8e3cb56ff3

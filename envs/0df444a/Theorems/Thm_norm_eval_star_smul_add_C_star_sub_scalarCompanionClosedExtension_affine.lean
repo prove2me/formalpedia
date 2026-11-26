@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_eval_star_smul_add_C_star_sub_scalarCompanionClosedExtension_affine
 -- name    : norm_eval_star_smul_add_C_star_sub_scalarCompanionClosedExtension_affine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:48:12.795828+00:00
 -- url     : https://prove2.me/theorems/cc1cf2ff-1ce9-4aff-af14-0f1ab388d80e

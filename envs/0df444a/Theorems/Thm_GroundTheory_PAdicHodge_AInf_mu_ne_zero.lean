@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_mu_ne_zero
 -- name    : GroundTheory.PAdicHodge.AInf.mu_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:01:37.083058+00:00
 -- url     : https://prove2.me/theorems/135fd9b9-41d0-4290-af0c-dd1047eae321

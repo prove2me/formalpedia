@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_closure_numericalRange_eq_closedBall
 -- name    : crouzeix_palencia_of_closure_numericalRange_eq_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:53:53.81521+00:00
 -- url     : https://prove2.me/theorems/b03c687a-e4c5-4640-bc60-904fd8046562

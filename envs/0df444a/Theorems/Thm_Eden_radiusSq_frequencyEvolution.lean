@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_radiusSq_frequencyEvolution
 -- name    : Eden.radiusSq_frequencyEvolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:54:44.821198+00:00
 -- url     : https://prove2.me/theorems/92cffbfc-75fb-468f-bc01-7753d868732c

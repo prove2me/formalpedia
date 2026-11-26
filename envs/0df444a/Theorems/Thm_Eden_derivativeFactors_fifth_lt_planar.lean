@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_derivativeFactors_fifth_lt_planar
 -- name    : Eden.derivativeFactors_fifth_lt_planar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:29:49.722006+00:00
 -- url     : https://prove2.me/theorems/20534bc0-e7f7-5ea1-a4aa-76ada4db4d91

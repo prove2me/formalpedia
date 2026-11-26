@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_approximate_auxiliary_bounds
 -- name    : crouzeix_palencia_of_approximate_auxiliary_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:36:58.506461+00:00
 -- url     : https://prove2.me/theorems/2128dc41-5622-4bf1-8a0d-d2d34a0713d8

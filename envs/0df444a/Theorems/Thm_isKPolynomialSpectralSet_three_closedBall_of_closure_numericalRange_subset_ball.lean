@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isKPolynomialSpectralSet_three_closedBall_of_closure_numericalRange_subset_ball
 -- name    : isKPolynomialSpectralSet_three_closedBall_of_closure_numericalRange_subset_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:51:20.045544+00:00
 -- url     : https://prove2.me/theorems/bfaf8e0b-d2e7-53ad-9de1-b8d47bcd774c

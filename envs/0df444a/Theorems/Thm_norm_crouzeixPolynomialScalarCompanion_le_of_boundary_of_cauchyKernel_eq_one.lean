@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_crouzeixPolynomialScalarCompanion_le_of_boundary_of_cauchyKernel_eq_one
 -- name    : norm_crouzeixPolynomialScalarCompanion_le_of_boundary_of_cauchyKernel_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:45:14.660099+00:00
 -- url     : https://prove2.me/theorems/e938af13-3901-5b9a-81b8-9f3374bc30b0

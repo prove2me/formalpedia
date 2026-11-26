@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequency_attractor_minimal
 -- name    : Eden.frequency_attractor_minimal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:56:05.358797+00:00
 -- url     : https://prove2.me/theorems/0b3b4646-62b5-490d-8695-08cbdda926ee

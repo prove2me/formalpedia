@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_generatorWitness_with_frame
 -- name    : TunnellMap.generatorWitness_with_frame
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:47:48.451424+00:00
 -- url     : https://prove2.me/theorems/bece7ae5-54bb-5164-ae46-521d6fdc88b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_tendsto_periodicGlobalLogGrowth_div
 -- name    : Eden.tendsto_periodicGlobalLogGrowth_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:04.700975+00:00
 -- url     : https://prove2.me/theorems/370aec9b-4990-5baa-9463-a7457043e876

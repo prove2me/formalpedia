@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_tendsto_polynomialSupNorm_frontier_convexThickeningApprox_atTop
 -- name    : tendsto_polynomialSupNorm_frontier_convexThickeningApprox_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:42:10.135106+00:00
 -- url     : https://prove2.me/theorems/51ad01cd-8bb4-4d61-a28f-181a0f124a46

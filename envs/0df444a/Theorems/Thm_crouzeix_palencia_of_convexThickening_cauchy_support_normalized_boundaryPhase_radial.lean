@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_convexThickening_cauchy_support_normalized_boundaryPhase_radial
 -- name    : crouzeix_palencia_of_convexThickening_cauchy_support_normalized_boundaryPhase_radial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:14:15.415944+00:00
 -- url     : https://prove2.me/theorems/8502f626-ee2a-55bf-8b2d-a38bbd11ff65

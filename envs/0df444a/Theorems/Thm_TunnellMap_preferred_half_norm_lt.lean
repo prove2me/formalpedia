@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_preferred_half_norm_lt
 -- name    : TunnellMap.preferred_half_norm_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:50:04.066891+00:00
 -- url     : https://prove2.me/theorems/168d9a74-9ad9-40b9-8fff-6d305ceb4f89

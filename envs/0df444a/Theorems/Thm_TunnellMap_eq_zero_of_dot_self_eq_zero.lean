@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_eq_zero_of_dot_self_eq_zero
 -- name    : TunnellMap.eq_zero_of_dot_self_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:57:05.702229+00:00
 -- url     : https://prove2.me/theorems/2875a821-e859-51bc-8635-33bd1fa54a74

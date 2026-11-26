@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_DAState_oneStepCost_bounds
 -- name    : TunnellMap.GloballyRanked.DAState.oneStepCost_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:02:11.777957+00:00
 -- url     : https://prove2.me/theorems/83b03b47-98e5-44bb-91d0-d04b4956995d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isUnit_one_sub_of_numericalRadius_lt_one
 -- name    : isUnit_one_sub_of_numericalRadius_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:56:48.973741+00:00
 -- url     : https://prove2.me/theorems/64e8a3c8-1223-5b3a-8507-cde82f0ef36f

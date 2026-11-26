@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isCompact_setOf_numericalRadius_sub_smul_one_le
 -- name    : isCompact_setOf_numericalRadius_sub_smul_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:27:04.71363+00:00
 -- url     : https://prove2.me/theorems/d185427a-37d8-416a-841b-4ad8c6e37069

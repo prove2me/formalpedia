@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixAuxiliaryOperator_congr_closure
 -- name    : crouzeixAuxiliaryOperator_congr_closure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:01:55.654798+00:00
 -- url     : https://prove2.me/theorems/031a5831-a88a-555e-bcd6-1be3df617b8d

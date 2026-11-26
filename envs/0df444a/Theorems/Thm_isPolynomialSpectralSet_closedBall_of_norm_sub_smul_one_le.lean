@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isPolynomialSpectralSet_closedBall_of_norm_sub_smul_one_le
 -- name    : isPolynomialSpectralSet_closedBall_of_norm_sub_smul_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:31:52.423243+00:00
 -- url     : https://prove2.me/theorems/ab0d8cb3-4df6-473f-923d-e8f2cdd2ef25

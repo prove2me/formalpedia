@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_eq_xi_of_mul_eq
 -- name    : GroundTheory.PAdicHodge.AInf.eq_xi_of_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:36.987649+00:00
 -- url     : https://prove2.me/theorems/f6470ebe-4021-5394-9b62-5375592d49c4

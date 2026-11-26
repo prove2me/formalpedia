@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_exists_odd_two_mul_iff
 -- name    : TunnellMap.exists_odd_two_mul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:45:57.535648+00:00
 -- url     : https://prove2.me/theorems/ae2d5f28-e988-42d5-91c1-a8b0fb325fc7

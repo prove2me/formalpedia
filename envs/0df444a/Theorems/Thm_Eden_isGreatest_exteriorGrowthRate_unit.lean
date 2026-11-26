@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_isGreatest_exteriorGrowthRate_unit
 -- name    : Eden.isGreatest_exteriorGrowthRate_unit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:42:28.583059+00:00
 -- url     : https://prove2.me/theorems/c3cab768-ff94-4d65-8d23-148dcc241de5

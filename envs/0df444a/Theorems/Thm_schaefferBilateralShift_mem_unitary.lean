@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_schaefferBilateralShift_mem_unitary
 -- name    : schaefferBilateralShift_mem_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:18.432797+00:00
 -- url     : https://prove2.me/theorems/6b56eec7-d9fe-4a4e-b186-76a11a113f6d

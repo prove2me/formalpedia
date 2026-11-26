@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_le_iff_numericalRange_subset_closedBall
 -- name    : numericalRadius_le_iff_numericalRange_subset_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:27:32.416831+00:00
 -- url     : https://prove2.me/theorems/c3135917-5e36-482a-9d04-122223fed7b6

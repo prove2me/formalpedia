@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_fderiv_frequencyEvolution_bijective
 -- name    : Eden.fderiv_frequencyEvolution_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:56:12.004625+00:00
 -- url     : https://prove2.me/theorems/0f6e8023-9806-5c4f-bc94-57b022170f93

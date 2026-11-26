@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_generatorWitness_reconstructs_target
 -- name    : TunnellMap.generatorWitness_reconstructs_target
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:22.033803+00:00
 -- url     : https://prove2.me/theorems/b6d839bb-a1d6-5e47-8a28-1809d52c8c52

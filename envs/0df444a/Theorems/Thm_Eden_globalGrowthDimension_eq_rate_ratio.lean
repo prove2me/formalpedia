@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalGrowthDimension_eq_rate_ratio
 -- name    : Eden.globalGrowthDimension_eq_rate_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:55.410721+00:00
 -- url     : https://prove2.me/theorems/948ecc47-9ad1-59f2-bc1d-33a403768d14

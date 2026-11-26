@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionBoundaryValue_eq_add_normalized
 -- name    : crouzeixPolynomialScalarCompanionBoundaryValue_eq_add_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:03:47.1112+00:00
 -- url     : https://prove2.me/theorems/470c51ff-b9fb-4c40-abba-f69b777d9791

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_centeredNumericalRadiusMinimizers_zero
 -- name    : centeredNumericalRadiusMinimizers_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:25:13.499247+00:00
 -- url     : https://prove2.me/theorems/2f4c2a58-e114-5a21-ab88-44b9b9646693

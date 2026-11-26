@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_dist_le_centered_numericalRadius_of_mem_closure_numericalRange
 -- name    : dist_le_centered_numericalRadius_of_mem_closure_numericalRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:56:26.447913+00:00
 -- url     : https://prove2.me/theorems/6bacaf35-b2f2-479f-ad96-1c60cd7fc7a3

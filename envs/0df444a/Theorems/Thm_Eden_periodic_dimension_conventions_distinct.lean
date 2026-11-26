@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_periodic_dimension_conventions_distinct
 -- name    : Eden.periodic_dimension_conventions_distinct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:43:31.343386+00:00
 -- url     : https://prove2.me/theorems/c697b4bd-aa94-5e4d-918d-0f05206b9a8e

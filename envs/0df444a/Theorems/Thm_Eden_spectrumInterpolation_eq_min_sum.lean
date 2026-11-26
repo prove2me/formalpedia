@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_spectrumInterpolation_eq_min_sum
 -- name    : Eden.spectrumInterpolation_eq_min_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:28:25.088052+00:00
 -- url     : https://prove2.me/theorems/2f5de25d-7b69-4589-bf17-855cac196c5e

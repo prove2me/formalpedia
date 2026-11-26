@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyVectorField_sqrt_two
 -- name    : Eden.frequencyVectorField_sqrt_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:54:24.375272+00:00
 -- url     : https://prove2.me/theorems/272e72e9-bf7f-42f2-a76b-9f09fa80b92a

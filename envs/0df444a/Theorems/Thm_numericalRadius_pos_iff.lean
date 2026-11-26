@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_pos_iff
 -- name    : numericalRadius_pos_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:55:18.127693+00:00
 -- url     : https://prove2.me/theorems/6b78334b-f1bf-5482-8f4d-fef638c6475e

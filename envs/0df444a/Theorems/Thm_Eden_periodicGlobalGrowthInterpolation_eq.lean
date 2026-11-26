@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_periodicGlobalGrowthInterpolation_eq
 -- name    : Eden.periodicGlobalGrowthInterpolation_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:37:46.035507+00:00
 -- url     : https://prove2.me/theorems/67f651a8-a574-5a01-a7c2-65adb318126c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1552bL72Small_recip_totient_sum_le
 -- name    : LL_Decomp1552bL72Small.recip_totient_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-24T15:02:15.426264+00:00
 -- url     : https://prove2.me/theorems/371982f3-06f2-4553-ac65-38e155bb86d5

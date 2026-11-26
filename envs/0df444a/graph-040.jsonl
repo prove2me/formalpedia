@@ -67326,7 +67326,7 @@
 {"parent": "ULHC.typeIII_classes", "child": "ULHC_L57", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_DualPointsOnPlane_mulMat_sum_8087c294b09b", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_DualProjApply", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_DualPointsOnPlane_mulMat_sum_8087c294b09b", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PDualPtsOnPlane", "via": ["solution", "statement"]}
-{"parent": "RoughSurfaceScattering.dipole_tsp_exists", "child": "RoughSurfaceScattering_Basic", "via": ["statement"]}
+{"parent": "RoughSurfaceScattering.dipole_tsp_exists", "child": "RoughSurfaceScattering_Basic", "via": ["solution", "statement"]}
 {"parent": "ULHC.darkened", "child": "ULHC_Chain", "via": ["solution", "statement"]}
 {"parent": "ULHC.darkened", "child": "ULHC_L57", "via": ["solution", "statement"]}
 {"parent": "ULHC.chainOKB_iff", "child": "ULHC_ChainLinks", "via": ["solution", "statement"]}
@@ -86964,7 +86964,7 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FibreDiscriminantHolomorphic_exists_enum_8b9a428901b3", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PRiemannExtensionAnalytic", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FibreDiscriminantHolomorphic_exists_enum_8b9a428901b3", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StFibreDiscriminantHolomorphic", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FibreDiscriminantHolomorphic_exists_enum_8b9a428901b3", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PFibreDiscriminantHolomorphic", "via": ["solution", "statement"]}
-{"parent": "RoughSurfaceScattering.tsp_halfplane_uniqueness", "child": "RoughSurfaceScattering_Basic", "via": ["statement"]}
+{"parent": "RoughSurfaceScattering.tsp_halfplane_uniqueness", "child": "RoughSurfaceScattering_Basic", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.MI.continuous_coord", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_OrthonormalFlagTranslateHolds", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.MI.continuous_coord", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_OrthogonalFrameDomain", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.MI.continuous_coord", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_MeasInvStatementPfH", "via": ["solution", "statement"]}

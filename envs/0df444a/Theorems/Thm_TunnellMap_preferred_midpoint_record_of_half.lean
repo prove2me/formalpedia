@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_preferred_midpoint_record_of_half
 -- name    : TunnellMap.preferred_midpoint_record_of_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:48:24.006802+00:00
 -- url     : https://prove2.me/theorems/f1832482-edb8-4064-a7e5-4820c97121aa

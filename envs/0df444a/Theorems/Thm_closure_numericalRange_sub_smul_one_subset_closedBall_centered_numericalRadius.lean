@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_closure_numericalRange_sub_smul_one_subset_closedBall_centered_numericalRadius
 -- name    : closure_numericalRange_sub_smul_one_subset_closedBall_centered_numericalRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:55:47.451891+00:00
 -- url     : https://prove2.me/theorems/54a55cad-7f9d-5eef-8a2e-bd3d16412497

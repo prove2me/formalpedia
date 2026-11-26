@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_continuous_numericalRadius
 -- name    : continuous_numericalRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:55:45.707598+00:00
 -- url     : https://prove2.me/theorems/50026504-de8e-5120-bae2-987c099dc2cd

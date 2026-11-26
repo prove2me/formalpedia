@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRange_compression_subset
 -- name    : numericalRange_compression_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:27:11.297125+00:00
 -- url     : https://prove2.me/theorems/63ee83bf-4542-534c-b423-369b5a9d2356

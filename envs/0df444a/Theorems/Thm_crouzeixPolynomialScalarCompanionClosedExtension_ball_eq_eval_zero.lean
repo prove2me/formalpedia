@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionClosedExtension_ball_eq_eval_zero
 -- name    : crouzeixPolynomialScalarCompanionClosedExtension_ball_eq_eval_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:52:47.378893+00:00
 -- url     : https://prove2.me/theorems/7b3fc135-1d57-4811-ac06-5a21097c8c4a

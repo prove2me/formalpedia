@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_concaveOn_log_singularValueFunction
 -- name    : Eden.concaveOn_log_singularValueFunction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:05:45.891329+00:00
 -- url     : https://prove2.me/theorems/26f04c94-a0e5-4bf7-8b49-918c0b628864

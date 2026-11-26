@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_isStarNormal
 -- name    : crouzeix_palencia_of_isStarNormal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:36:33.344697+00:00
 -- url     : https://prove2.me/theorems/b735ee6f-66ea-57d1-88a0-8cc8a9371db8

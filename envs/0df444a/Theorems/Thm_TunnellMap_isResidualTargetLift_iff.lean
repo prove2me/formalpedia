@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_isResidualTargetLift_iff
 -- name    : TunnellMap.isResidualTargetLift_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:46:09.832861+00:00
 -- url     : https://prove2.me/theorems/c135be4d-75c6-44e6-8b9a-aa24c22958e2

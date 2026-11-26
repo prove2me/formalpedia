@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_finite_global_bound_of_uniform_fourth_power_improvement
 -- name    : crouzeix_palencia_of_finite_global_bound_of_uniform_fourth_power_improvement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:35:34.542711+00:00
 -- url     : https://prove2.me/theorems/ed7b70a9-4a27-53b4-98fd-29454925c6d0

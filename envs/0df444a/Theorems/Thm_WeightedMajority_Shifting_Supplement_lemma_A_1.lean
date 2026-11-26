@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedMajority_Shifting_Supplement_lemma_A_1
 -- name    : WeightedMajority.Shifting.Supplement.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T13:01:17.969675+00:00
 -- url     : https://prove2.me/theorems/d8610543-5ebd-419a-81c1-98a7685f9715

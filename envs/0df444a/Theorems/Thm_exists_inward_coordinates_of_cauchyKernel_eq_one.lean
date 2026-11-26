@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_inward_coordinates_of_cauchyKernel_eq_one
 -- name    : exists_inward_coordinates_of_cauchyKernel_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:44:44.316075+00:00
 -- url     : https://prove2.me/theorems/ad89b37c-08f4-5842-acf4-d1324160ea49

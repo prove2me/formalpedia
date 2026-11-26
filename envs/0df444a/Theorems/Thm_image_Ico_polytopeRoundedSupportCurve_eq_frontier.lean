@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_image_Ico_polytopeRoundedSupportCurve_eq_frontier
 -- name    : image_Ico_polytopeRoundedSupportCurve_eq_frontier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:30:49.718914+00:00
 -- url     : https://prove2.me/theorems/cbceec15-a046-53fa-a687-0b54997eefbf

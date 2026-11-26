@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalomarCrouzeixPalencia_crouzeix_palencia
 -- name    : PalomarCrouzeixPalencia.crouzeix_palencia
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:58:05.50683+00:00
 -- url     : https://prove2.me/theorems/bb55de1e-38ae-5a87-9834-1230bb38045d

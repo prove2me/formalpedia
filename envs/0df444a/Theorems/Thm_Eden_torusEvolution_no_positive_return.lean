@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_torusEvolution_no_positive_return
 -- name    : Eden.torusEvolution_no_positive_return
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:54:18.113966+00:00
 -- url     : https://prove2.me/theorems/d88cd823-f187-5617-9cb8-45c652d8c78d

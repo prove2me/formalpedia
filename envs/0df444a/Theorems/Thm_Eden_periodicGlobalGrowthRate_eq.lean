@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_periodicGlobalGrowthRate_eq
 -- name    : Eden.periodicGlobalGrowthRate_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:37:12.85438+00:00
 -- url     : https://prove2.me/theorems/f581d09a-f14d-5ccd-89e8-87e35941b680

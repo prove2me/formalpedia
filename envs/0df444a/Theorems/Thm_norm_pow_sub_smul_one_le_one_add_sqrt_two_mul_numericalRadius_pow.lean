@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_pow_sub_smul_one_le_one_add_sqrt_two_mul_numericalRadius_pow
 -- name    : norm_pow_sub_smul_one_le_one_add_sqrt_two_mul_numericalRadius_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:54:37.409783+00:00
 -- url     : https://prove2.me/theorems/99c04bd3-4b8a-582d-ac02-d3fe4169e947

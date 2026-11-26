@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_volumeDefect_integrand_nonneg
 -- name    : Eden.volumeDefect_integrand_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:29:54.957533+00:00
 -- url     : https://prove2.me/theorems/d32871ed-3280-5502-a165-e44d1dc12db2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_crouzeixSquareAuxiliaryOperator_smul
 -- name    : norm_crouzeixSquareAuxiliaryOperator_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:33:49.47041+00:00
 -- url     : https://prove2.me/theorems/faed2f3e-e77c-5126-bc7f-0ffb157ca533

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_polynomial_eq_zero_of_polynomialSupNorm_closedBall_eq_zero
 -- name    : polynomial_eq_zero_of_polynomialSupNorm_closedBall_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:37:10.967029+00:00
 -- url     : https://prove2.me/theorems/d4be87bb-d209-4a4c-9914-1bcd900c1b7e

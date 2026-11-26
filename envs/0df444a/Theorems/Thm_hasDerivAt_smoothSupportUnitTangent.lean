@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hasDerivAt_smoothSupportUnitTangent
 -- name    : hasDerivAt_smoothSupportUnitTangent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:24:02.839813+00:00
 -- url     : https://prove2.me/theorems/90ed7d5c-a34f-5095-b5f4-5df067cee16a

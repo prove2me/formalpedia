@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_polynomialSupNorm_crouzeixProductRemainderPolynomial_smul
 -- name    : polynomialSupNorm_crouzeixProductRemainderPolynomial_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:33:36.41297+00:00
 -- url     : https://prove2.me/theorems/50d92d52-23d2-5687-928e-cce8dcf91366

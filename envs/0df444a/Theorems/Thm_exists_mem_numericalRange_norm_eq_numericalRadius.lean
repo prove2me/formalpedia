@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_mem_numericalRange_norm_eq_numericalRadius
 -- name    : exists_mem_numericalRange_norm_eq_numericalRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:27:29.528316+00:00
 -- url     : https://prove2.me/theorems/1ac7d9b1-faf2-533f-b6db-cbdca563ef2e

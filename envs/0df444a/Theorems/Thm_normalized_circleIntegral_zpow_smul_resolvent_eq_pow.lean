@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_normalized_circleIntegral_zpow_smul_resolvent_eq_pow
 -- name    : normalized_circleIntegral_zpow_smul_resolvent_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:37:52.345617+00:00
 -- url     : https://prove2.me/theorems/aef6177e-7a6f-5c01-b215-c0b1211fe400

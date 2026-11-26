@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_uniform_norm_crouzeixPolynomialBoundaryPhaseTransform_le
 -- name    : exists_uniform_norm_crouzeixPolynomialBoundaryPhaseTransform_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:43:33.669357+00:00
 -- url     : https://prove2.me/theorems/3a049c89-7c2b-578c-b4ab-ac84924453f5

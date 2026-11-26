@@ -46796,7 +46796,7 @@
 {"parent": "GlobalTheory.T.test_function_exists", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_TestFunctionExists", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.test_function_exists", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_BinaryMassMeans_MeanVal", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.test_function_exists", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_TestFunctionExistsStatement", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.exists_valuation_eval_eq_gaussVal", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_TensorContentEqPolyContentScalarCoeffs", "via": ["statement"]}
+{"parent": "GlobalTheory.exists_valuation_eval_eq_gaussVal", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_TensorContentEqPolyContentScalarCoeffs", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Spherical.satake_coeff", "child": "GroundTheory_AutomorphicForms_SphericalTriangular", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Spherical.satake_coeff", "child": "GroundTheory_AutomorphicForms_SphericalSatake", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.finite_support_convolution_triple", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SmoothPartStable", "via": ["solution", "statement"]}
@@ -65660,8 +65660,8 @@
 {"parent": "GroundTheory.Global.Artin.isArithFrobAt_fixedFieldMulEquiv_iff", "child": "GroundTheory_GlobalFields_Artin_PlacesInfinite", "via": ["statement"]}
 {"parent": "GroundTheory.Arith.Toric.topologicalKrullDim_affineToricVariety", "child": "GroundTheory_ArithmeticGeometry_ToricVarieties_Dimension", "via": ["statement"]}
 {"parent": "GroundTheory.Arith.Toric.topologicalKrullDim_affineToricVariety", "child": "GroundTheory_ArithmeticGeometry_ToricVarieties_Normal", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.mu_ne_zero", "child": "GroundTheory_PAdicHodge_AInfXi", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.mu_ne_zero", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.mu_ne_zero", "child": "GroundTheory_PAdicHodge_AInfXi", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.mu_ne_zero", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.Artin.cosetAvg_indFun", "child": "GroundTheory_GlobalFields_Artin_Mackey", "via": ["statement"]}
 {"parent": "GroundTheory.Global.Artin.cosetAvg_indFun", "child": "GroundTheory_GlobalFields_Artin_MackeyFrobenius", "via": ["statement"]}
 {"parent": "GroundTheory.Global.ker_toLocalQuotients", "child": "GroundTheory_GlobalFields_Adele_Approximation", "via": ["statement"]}
@@ -66385,8 +66385,8 @@
 {"parent": "GroundTheory.Global.finiteIdeleMeasure_eq_inv_relindex", "child": "GroundTheory_GlobalFields_Adele_Discrete", "via": ["statement"]}
 {"parent": "GroundTheory.Global.finiteIdeleMeasure_eq_inv_relindex", "child": "GroundTheory_GlobalFields_TateThesis_IdeleMeasureCosets", "via": ["statement"]}
 {"parent": "GroundTheory.Global.finiteIdeleMeasure_eq_inv_relindex", "child": "GroundTheory_GlobalFields_TateThesis_IdeleMeasureQuotient", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.isAdicComplete_p", "child": "GroundTheory_PAdicHodge_AInfTopology", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.isAdicComplete_p", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.isAdicComplete_p", "child": "GroundTheory_PAdicHodge_AInfTopology", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.isAdicComplete_p", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_L2_Th1_A_More_map_subst__08a15fd92527", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_FglInvariant", "via": ["statement"]}
 {"parent": "P2M_Formalism_L2_Th1_A_More_map_subst__08a15fd92527", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_StatementM", "via": ["statement"]}
 {"parent": "P2M_Formalism_L2_Th1_A_More_map_subst__08a15fd92527", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_ChainRuleFormalGroupVar", "via": ["statement"]}
@@ -67733,8 +67733,8 @@
 {"parent": "GroundTheory.ProfCoh.exists_map_units_eq_mul_pow", "child": "GroundTheory_LocalFields_UnitsBasic", "via": ["statement"]}
 {"parent": "P2M_GlobalTheory_Published_BernsteinUnitaryProductIrreducible_ind__stdSum_ee64510dd378", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_BernsteinUnitaryProductIrreducible", "via": ["statement"]}
 {"parent": "P2M_GlobalTheory_Published_BernsteinUnitaryProductIrreducible_ind__stdSum_ee64510dd378", "child": "Development_AbelianVarietyTheory_Definitions_TwistedInnerProducts_IsSubquotientDetRepParInd", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.frobeniusEquiv_mu", "child": "GroundTheory_PAdicHodge_AInfXi", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.frobeniusEquiv_mu", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.frobeniusEquiv_mu", "child": "GroundTheory_PAdicHodge_AInfXi", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.frobeniusEquiv_mu", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.RgExhHecke.cminor_tensE_apply", "child": "Formalism_RealPlaceAnalysis_StatementE", "via": ["statement"]}
 {"parent": "GlobalTheory.CompanionTheory.RgExhHecke.cminor_tensE_apply", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_WhittakerZeroStatement", "via": ["statement"]}
 {"parent": "GlobalTheory.CompanionTheory.RgExhHecke.cminor_tensE_apply", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_StableLattices_QuantumDeterminantEquality", "via": ["statement"]}
@@ -70267,8 +70267,8 @@
 {"parent": "GroundTheory.Global.IdeleGroup.smul_le_smul_iff", "child": "GroundTheory_GlobalFields_IdeleGroups_ClassGroup", "via": ["statement"]}
 {"parent": "GlobalTheory.pow_mul_re_det_le_of_smul_le", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_OneLeDetOneAdd", "via": ["statement"]}
 {"parent": "GlobalTheory.pow_mul_re_det_le_of_smul_le", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_StarInvMulVecDotProductMulVecInvMulVec", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.eq_xi_of_mul_eq", "child": "GroundTheory_PAdicHodge_AInfXi", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.eq_xi_of_mul_eq", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.eq_xi_of_mul_eq", "child": "GroundTheory_PAdicHodge_AInfXi", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.eq_xi_of_mul_eq", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["solution", "statement"]}
 {"parent": "KStar.TotallyRealRoots.mem_twistInv", "child": "Development_AutomorphicArithmetic_CyclotomicBounds_ClassNumberBounds_TotallyRealRoots_LeNuIffPowMemPrinc", "via": ["statement"]}
 {"parent": "KStar.TotallyRealRoots.mem_twistInv", "child": "Development_AutomorphicArithmetic_CyclotomicBounds_ClassNumberBounds_TotallyRealRoots", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.GL2Classical.integral_vadd_eq_zero", "child": "GroundTheory_AutomorphicForms_GL2Classical_Periodic", "via": ["statement"]}

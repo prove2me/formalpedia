@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalGrowthDimension_eq_target
 -- name    : Eden.globalGrowthDimension_eq_target
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:41:42.194802+00:00
 -- url     : https://prove2.me/theorems/d23dc298-e808-49a1-b85f-6de9082f2ce8

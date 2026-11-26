@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyEvolution_sqrt_two
 -- name    : Eden.frequencyEvolution_sqrt_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:54:27.433835+00:00
 -- url     : https://prove2.me/theorems/f0785223-313b-49d5-93cc-4797ea96f5ec

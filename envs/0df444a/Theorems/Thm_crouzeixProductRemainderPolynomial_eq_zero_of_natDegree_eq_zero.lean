@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixProductRemainderPolynomial_eq_zero_of_natDegree_eq_zero
 -- name    : crouzeixProductRemainderPolynomial_eq_zero_of_natDegree_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:34:00.809276+00:00
 -- url     : https://prove2.me/theorems/36f87734-a19c-498c-8bd4-18d8d9a38795

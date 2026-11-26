@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_isGreatest_exteriorGrowthRate_nonzero
 -- name    : Eden.isGreatest_exteriorGrowthRate_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:42:31.031745+00:00
 -- url     : https://prove2.me/theorems/408a326f-6492-542e-aced-8ac5a1a253b2

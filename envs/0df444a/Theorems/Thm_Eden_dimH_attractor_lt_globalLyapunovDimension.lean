@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_dimH_attractor_lt_globalLyapunovDimension
 -- name    : Eden.dimH_attractor_lt_globalLyapunovDimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:53:29.784513+00:00
 -- url     : https://prove2.me/theorems/d8a858a2-f555-4672-826b-626a773ec583

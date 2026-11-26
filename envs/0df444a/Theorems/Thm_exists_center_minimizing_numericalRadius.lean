@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_center_minimizing_numericalRadius
 -- name    : exists_center_minimizing_numericalRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:25:34.3916+00:00
 -- url     : https://prove2.me/theorems/36513e81-28f7-538a-a925-248c4d173f7c

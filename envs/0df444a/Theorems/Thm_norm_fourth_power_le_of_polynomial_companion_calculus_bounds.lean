@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_fourth_power_le_of_polynomial_companion_calculus_bounds
 -- name    : norm_fourth_power_le_of_polynomial_companion_calculus_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:35:17.374366+00:00
 -- url     : https://prove2.me/theorems/1839bbff-9636-5cda-8600-3bb64135068d

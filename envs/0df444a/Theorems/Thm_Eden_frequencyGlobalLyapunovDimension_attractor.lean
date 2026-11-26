@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyGlobalLyapunovDimension_attractor
 -- name    : Eden.frequencyGlobalLyapunovDimension_attractor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:57:17.754244+00:00
 -- url     : https://prove2.me/theorems/12a56df8-955a-4c97-886f-50ab422961d3

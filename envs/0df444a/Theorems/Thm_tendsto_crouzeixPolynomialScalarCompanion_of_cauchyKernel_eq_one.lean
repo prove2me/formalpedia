@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_tendsto_crouzeixPolynomialScalarCompanion_of_cauchyKernel_eq_one
 -- name    : tendsto_crouzeixPolynomialScalarCompanion_of_cauchyKernel_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:45:23.228202+00:00
 -- url     : https://prove2.me/theorems/8fc61dfd-15ea-4fd7-9abb-317945eb75f3

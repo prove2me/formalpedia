@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixScalarCauchyKernel_eq_zero_of_not_mem_closure_carrier
 -- name    : crouzeixScalarCauchyKernel_eq_zero_of_not_mem_closure_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:13.188802+00:00
 -- url     : https://prove2.me/theorems/95aabf67-0ac4-47f2-8f8f-394bf149909d

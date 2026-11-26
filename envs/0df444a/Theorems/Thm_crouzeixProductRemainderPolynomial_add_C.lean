@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixProductRemainderPolynomial_add_C
 -- name    : crouzeixProductRemainderPolynomial_add_C
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:33:10.676114+00:00
 -- url     : https://prove2.me/theorems/6740e201-d303-441d-b2aa-0d98b93f3b55

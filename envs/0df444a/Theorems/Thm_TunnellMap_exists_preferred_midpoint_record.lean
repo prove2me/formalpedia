@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_exists_preferred_midpoint_record
 -- name    : TunnellMap.exists_preferred_midpoint_record
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:46:36.411184+00:00
 -- url     : https://prove2.me/theorems/b7d770c7-1c54-5728-a23a-317357d02047

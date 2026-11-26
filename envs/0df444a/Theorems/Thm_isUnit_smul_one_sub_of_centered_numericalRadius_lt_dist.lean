@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isUnit_smul_one_sub_of_centered_numericalRadius_lt_dist
 -- name    : isUnit_smul_one_sub_of_centered_numericalRadius_lt_dist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:56:45.184328+00:00
 -- url     : https://prove2.me/theorems/d602dbc9-9d4d-5d47-a0b4-646f502980e7

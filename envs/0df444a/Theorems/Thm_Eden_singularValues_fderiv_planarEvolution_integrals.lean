@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_singularValues_fderiv_planarEvolution_integrals
 -- name    : Eden.singularValues_fderiv_planarEvolution_integrals
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:30:41.182733+00:00
 -- url     : https://prove2.me/theorems/70c516b6-0fca-44fd-8bd9-7a7d9143efba

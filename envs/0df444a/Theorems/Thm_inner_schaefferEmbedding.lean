@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_inner_schaefferEmbedding
 -- name    : inner_schaefferEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:31:17.655642+00:00
 -- url     : https://prove2.me/theorems/50fbaeb4-b7e3-5294-af4b-e5548ffabc8d

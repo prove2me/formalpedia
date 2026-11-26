@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_fderiv_planarEvolution_origin
 -- name    : Eden.fderiv_planarEvolution_origin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:30:41.784153+00:00
 -- url     : https://prove2.me/theorems/f4c1d047-71d4-530e-8274-c287a5a4dda5

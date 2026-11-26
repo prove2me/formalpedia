@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixAuxiliaryOperator_scalarCompanionClosedExtension_affine_of_cauchyKernel_eq_one
 -- name    : crouzeixAuxiliaryOperator_scalarCompanionClosedExtension_affine_of_cauchyKernel_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:13:43.339724+00:00
 -- url     : https://prove2.me/theorems/98d25b5f-82a7-4b2c-9a4f-ced95be5b7e4

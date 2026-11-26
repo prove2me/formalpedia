@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_convexThickening_canonicalOrientation_nested_scalarCompanion_radial_vanishingAtZero
 -- name    : crouzeix_palencia_of_convexThickening_canonicalOrientation_nested_scalarCompanion_radial_vanishingAtZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:14:43.675259+00:00
 -- url     : https://prove2.me/theorems/0408f6d4-1016-53ae-911a-2977ce58e7d9

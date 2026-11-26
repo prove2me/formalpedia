@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_tendsto_crouzeixPolynomialScalarCompanionRegularized_sub_C_eval_iff
 -- name    : tendsto_crouzeixPolynomialScalarCompanionRegularized_sub_C_eval_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:03:40.223016+00:00
 -- url     : https://prove2.me/theorems/8329e6b5-a699-4504-8b11-3bba71d3c15e

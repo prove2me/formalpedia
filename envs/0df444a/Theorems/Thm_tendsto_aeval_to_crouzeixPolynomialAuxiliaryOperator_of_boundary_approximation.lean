@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_tendsto_aeval_to_crouzeixPolynomialAuxiliaryOperator_of_boundary_approximation
 -- name    : tendsto_aeval_to_crouzeixPolynomialAuxiliaryOperator_of_boundary_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:36:57.082591+00:00
 -- url     : https://prove2.me/theorems/b4d4f05b-ed98-4ba4-b043-e76d7564ec90

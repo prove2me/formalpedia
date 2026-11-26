@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_commonIndex_periodic_gap
 -- name    : Eden.commonIndex_periodic_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:43:38.568343+00:00
 -- url     : https://prove2.me/theorems/8c0848dc-3e51-4095-9fc1-f92fd541f96a

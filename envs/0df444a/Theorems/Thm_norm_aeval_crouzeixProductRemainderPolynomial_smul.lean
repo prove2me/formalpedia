@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_crouzeixProductRemainderPolynomial_smul
 -- name    : norm_aeval_crouzeixProductRemainderPolynomial_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:33:27.19426+00:00
 -- url     : https://prove2.me/theorems/118c53a8-0625-5d98-a260-4609c517d152

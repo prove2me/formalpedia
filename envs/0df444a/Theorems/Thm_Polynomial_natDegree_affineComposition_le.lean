@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Polynomial_natDegree_affineComposition_le
 -- name    : Polynomial.natDegree_affineComposition_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:31:11.371691+00:00
 -- url     : https://prove2.me/theorems/233cabc4-23f5-4ebb-a794-e6d9c2158ec6

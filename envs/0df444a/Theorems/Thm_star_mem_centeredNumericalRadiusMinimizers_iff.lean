@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_star_mem_centeredNumericalRadiusMinimizers_iff
 -- name    : star_mem_centeredNumericalRadiusMinimizers_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:25:30.746827+00:00
 -- url     : https://prove2.me/theorems/9724acb8-abec-5ee6-973e-1ad29abb47e8

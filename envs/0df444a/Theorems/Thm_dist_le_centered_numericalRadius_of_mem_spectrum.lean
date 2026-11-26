@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_dist_le_centered_numericalRadius_of_mem_spectrum
 -- name    : dist_le_centered_numericalRadius_of_mem_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:56:35.454424+00:00
 -- url     : https://prove2.me/theorems/c34f3c34-783f-5658-bcea-09db0de9b454

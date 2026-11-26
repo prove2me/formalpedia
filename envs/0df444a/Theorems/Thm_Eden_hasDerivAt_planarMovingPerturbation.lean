@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_hasDerivAt_planarMovingPerturbation
 -- name    : Eden.hasDerivAt_planarMovingPerturbation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:31:18.486109+00:00
 -- url     : https://prove2.me/theorems/d7dbede0-5675-4934-b768-60115a2e09d1

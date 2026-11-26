@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyAsymptoticDimension_isGreatest
 -- name    : Eden.frequencyAsymptoticDimension_isGreatest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:57:04.162837+00:00
 -- url     : https://prove2.me/theorems/f77fdfe2-896d-501b-9200-d19d1b99dad2

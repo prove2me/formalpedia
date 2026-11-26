@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_OrderedGenerator_q_mem_search_bounds
 -- name    : TunnellMap.OrderedGenerator.q_mem_search_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:51:50.648151+00:00
 -- url     : https://prove2.me/theorems/20eec25c-04ae-52a6-9dde-b90c9b54c2d0

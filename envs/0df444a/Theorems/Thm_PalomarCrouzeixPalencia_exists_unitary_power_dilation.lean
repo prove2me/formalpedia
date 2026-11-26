@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalomarCrouzeixPalencia_exists_unitary_power_dilation
 -- name    : PalomarCrouzeixPalencia.exists_unitary_power_dilation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:50:45.563851+00:00
 -- url     : https://prove2.me/theorems/f09b051e-0433-4212-9de7-fb1d3c6a42b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_uniform_norm_crouzeixPolynomialScalarCompanion_le_infDist
 -- name    : exists_uniform_norm_crouzeixPolynomialScalarCompanion_le_infDist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:42:08.834794+00:00
 -- url     : https://prove2.me/theorems/25c8768b-3d0b-5d85-8d38-92439703d141

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalGrowthInterpolation_integer
 -- name    : Eden.globalGrowthInterpolation_integer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:37.036052+00:00
 -- url     : https://prove2.me/theorems/66fc9be8-5b7c-5ae7-85aa-94f3f145b027

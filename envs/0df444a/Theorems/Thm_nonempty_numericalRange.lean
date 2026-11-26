@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_nonempty_numericalRange
 -- name    : nonempty_numericalRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:57:20.567853+00:00
 -- url     : https://prove2.me/theorems/9322eed6-de8a-5d61-868b-5462187d2897

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_polynomial_auxiliary_bounds
 -- name    : crouzeix_palencia_of_polynomial_auxiliary_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:36:34.908359+00:00
 -- url     : https://prove2.me/theorems/8b39940d-ef34-47ac-8ce3-94f9d483e9fc

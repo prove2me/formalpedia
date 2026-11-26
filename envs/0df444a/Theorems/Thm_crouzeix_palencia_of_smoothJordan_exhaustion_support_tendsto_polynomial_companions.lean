@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_smoothJordan_exhaustion_support_tendsto_polynomial_companions
 -- name    : crouzeix_palencia_of_smoothJordan_exhaustion_support_tendsto_polynomial_companions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:14:28.052395+00:00
 -- url     : https://prove2.me/theorems/b69093d3-41f1-5125-ad5f-c1ba1f874336

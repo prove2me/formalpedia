@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_neg_I_mul_deriv_smoothSupportCurve
 -- name    : neg_I_mul_deriv_smoothSupportCurve
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:26:26.044374+00:00
 -- url     : https://prove2.me/theorems/18e4e2f3-74bb-4538-9258-4b751a6ee098

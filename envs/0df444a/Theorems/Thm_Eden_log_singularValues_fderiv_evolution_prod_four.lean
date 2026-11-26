@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_log_singularValues_fderiv_evolution_prod_four
 -- name    : Eden.log_singularValues_fderiv_evolution_prod_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:30:04.226287+00:00
 -- url     : https://prove2.me/theorems/7f37792d-547d-401b-990a-56c039333b7d

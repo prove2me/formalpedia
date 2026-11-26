@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_convex_centeredNumericalRadiusMinimizers
 -- name    : convex_centeredNumericalRadiusMinimizers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:27:05.40061+00:00
 -- url     : https://prove2.me/theorems/d96b02a3-f78f-5f74-b9b6-0db2d94b6dbb

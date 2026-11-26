@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixAuxiliaryOperator_scalarCompanionClosedExtension_affine_eq_iff
 -- name    : crouzeixAuxiliaryOperator_scalarCompanionClosedExtension_affine_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:13:34.464347+00:00
 -- url     : https://prove2.me/theorems/9bdf6d21-994a-58f6-b738-0a4384ecf171

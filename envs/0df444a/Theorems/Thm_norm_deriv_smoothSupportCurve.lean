@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_deriv_smoothSupportCurve
 -- name    : norm_deriv_smoothSupportCurve
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:26:16.638421+00:00
 -- url     : https://prove2.me/theorems/3c11f035-f704-401f-b9bd-27714988e852

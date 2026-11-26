@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_mem_numericalRange_norm_sub_le_norm_sub
 -- name    : exists_mem_numericalRange_norm_sub_le_norm_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:27:30.34573+00:00
 -- url     : https://prove2.me/theorems/1d6fbc93-2a46-5e73-91f0-15c4e641afea

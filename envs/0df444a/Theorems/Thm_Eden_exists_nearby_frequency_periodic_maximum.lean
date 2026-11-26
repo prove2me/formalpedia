@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_exists_nearby_frequency_periodic_maximum
 -- name    : Eden.exists_nearby_frequency_periodic_maximum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:57:58.640244+00:00
 -- url     : https://prove2.me/theorems/9eb0575f-ee28-45cf-8b8b-66a3f0bef4fe

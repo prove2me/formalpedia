@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_tripleLexKey_residualTargetLift_lt_iff
 -- name    : TunnellMap.tripleLexKey_residualTargetLift_lt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:48:37.833856+00:00
 -- url     : https://prove2.me/theorems/e421d2c4-3ee3-47b2-9d6e-5e7dab8c20f5

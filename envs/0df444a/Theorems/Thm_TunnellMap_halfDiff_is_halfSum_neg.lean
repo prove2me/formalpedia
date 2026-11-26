@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_halfDiff_is_halfSum_neg
 -- name    : TunnellMap.halfDiff_is_halfSum_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:46:35.00658+00:00
 -- url     : https://prove2.me/theorems/d6eb5ee1-73a5-53ea-a37a-b479229d2429

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_commonIndexLocalDimension_isGreatest
 -- name    : Eden.commonIndexLocalDimension_isGreatest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:32:19.286704+00:00
 -- url     : https://prove2.me/theorems/dd1c2efe-9ccb-40ff-af0a-7fd38bf7871e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyFiniteTimeDimension_isGreatest
 -- name    : Eden.frequencyFiniteTimeDimension_isGreatest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:56:57.239165+00:00
 -- url     : https://prove2.me/theorems/15386966-cd64-4148-adee-7d240f03ee45

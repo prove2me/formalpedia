@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_not_openSet_transitive_attractor
 -- name    : Eden.not_openSet_transitive_attractor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:45:17.017544+00:00
 -- url     : https://prove2.me/theorems/456c8058-e4d5-51de-bd21-c2d63cdfd7cf

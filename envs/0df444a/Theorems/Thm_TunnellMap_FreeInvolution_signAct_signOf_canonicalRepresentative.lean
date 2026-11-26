@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_FreeInvolution_signAct_signOf_canonicalRepresentative
 -- name    : TunnellMap.FreeInvolution.signAct_signOf_canonicalRepresentative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:06:50.134848+00:00
 -- url     : https://prove2.me/theorems/f4db0f55-92b7-5961-9b6a-600fb53874f8

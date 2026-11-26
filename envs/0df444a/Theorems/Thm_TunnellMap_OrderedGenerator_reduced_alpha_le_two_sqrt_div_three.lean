@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_OrderedGenerator_reduced_alpha_le_two_sqrt_div_three
 -- name    : TunnellMap.OrderedGenerator.reduced_alpha_le_two_sqrt_div_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:55:09.437649+00:00
 -- url     : https://prove2.me/theorems/e5c51945-7e7e-5b1f-b9d5-b7ca3ee389ba

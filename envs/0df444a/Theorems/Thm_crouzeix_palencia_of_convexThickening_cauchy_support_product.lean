@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_convexThickening_cauchy_support_product
 -- name    : crouzeix_palencia_of_convexThickening_cauchy_support_product
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:37:37.761854+00:00
 -- url     : https://prove2.me/theorems/fa56eb19-950a-4d65-9999-7379b1aadd31

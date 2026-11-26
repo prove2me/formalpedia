@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_concaveOn_lyapunovExponent_interpolation
 -- name    : Eden.concaveOn_lyapunovExponent_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:05:48.37728+00:00
 -- url     : https://prove2.me/theorems/7c7d3a43-0e6e-4dbb-86f1-27d813b02fd5

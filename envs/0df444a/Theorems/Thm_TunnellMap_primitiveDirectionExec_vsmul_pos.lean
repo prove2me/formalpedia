@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_primitiveDirectionExec_vsmul_pos
 -- name    : TunnellMap.primitiveDirectionExec_vsmul_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:28:24.331734+00:00
 -- url     : https://prove2.me/theorems/fa472f83-eae7-5e14-bf9a-91b76694236b

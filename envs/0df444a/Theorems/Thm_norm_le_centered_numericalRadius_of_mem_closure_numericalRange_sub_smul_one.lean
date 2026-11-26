@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_le_centered_numericalRadius_of_mem_closure_numericalRange_sub_smul_one
 -- name    : norm_le_centered_numericalRadius_of_mem_closure_numericalRange_sub_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:56:10.149861+00:00
 -- url     : https://prove2.me/theorems/210a7ec9-2ccb-5bf3-9219-0e421b3a710e

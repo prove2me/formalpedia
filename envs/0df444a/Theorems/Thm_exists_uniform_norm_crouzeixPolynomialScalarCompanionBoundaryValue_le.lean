@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_uniform_norm_crouzeixPolynomialScalarCompanionBoundaryValue_le
 -- name    : exists_uniform_norm_crouzeixPolynomialScalarCompanionBoundaryValue_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:43:40.265818+00:00
 -- url     : https://prove2.me/theorems/4c39d9c5-0da1-58eb-a46a-aa42ec7be30d

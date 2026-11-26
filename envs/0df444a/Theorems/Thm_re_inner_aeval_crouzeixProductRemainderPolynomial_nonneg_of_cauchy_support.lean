@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_re_inner_aeval_crouzeixProductRemainderPolynomial_nonneg_of_cauchy_support
 -- name    : re_inner_aeval_crouzeixProductRemainderPolynomial_nonneg_of_cauchy_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:34:51.727614+00:00
 -- url     : https://prove2.me/theorems/5ee9e65d-3d30-43b6-9fa4-a6868fa79ff5

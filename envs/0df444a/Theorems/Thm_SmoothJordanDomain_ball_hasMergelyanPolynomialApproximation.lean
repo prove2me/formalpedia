@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothJordanDomain_ball_hasMergelyanPolynomialApproximation
 -- name    : SmoothJordanDomain.ball_hasMergelyanPolynomialApproximation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:53:51.009558+00:00
 -- url     : https://prove2.me/theorems/0a5942c6-59c0-5548-93af-36f3fc2e70d3

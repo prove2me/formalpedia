@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_attractor_isFrequencyGlobalAttractor
 -- name    : Eden.attractor_isFrequencyGlobalAttractor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:55:48.201984+00:00
 -- url     : https://prove2.me/theorems/62a17a91-bdf5-5af4-87ae-e421931818e9

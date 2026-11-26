@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_WeakAPT_Supplement_projector_expansion_bounds
 -- name    : StochApproxDyn.WeakAPT.Supplement.projector_expansion_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T19:16:23.644236+00:00
 -- url     : https://prove2.me/theorems/d79ec03c-cdbf-4c05-a8a0-325fd7788076

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_periodicGlobalGrowthDimension_eq_three
 -- name    : Eden.periodicGlobalGrowthDimension_eq_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:05:26.610412+00:00
 -- url     : https://prove2.me/theorems/8f3c5c43-6b9b-5ea0-9d81-4ecc48c12e08

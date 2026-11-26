@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_tendsto_crouzeixPolynomialScalarCompanion_inward
 -- name    : tendsto_crouzeixPolynomialScalarCompanion_inward
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:44:43.442279+00:00
 -- url     : https://prove2.me/theorems/6289bf55-39cb-5f53-9a4b-5f8dc88205c8

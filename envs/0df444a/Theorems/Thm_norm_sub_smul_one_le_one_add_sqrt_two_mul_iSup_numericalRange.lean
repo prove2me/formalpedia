@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_sub_smul_one_le_one_add_sqrt_two_mul_iSup_numericalRange
 -- name    : norm_sub_smul_one_le_one_add_sqrt_two_mul_iSup_numericalRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:54:54.180247+00:00
 -- url     : https://prove2.me/theorems/ca4c4bc1-5bbb-5b21-8b1b-5537ffcec629

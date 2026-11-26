@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_concaveOn_spectrumInterpolation
 -- name    : Eden.concaveOn_spectrumInterpolation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:28:24.151614+00:00
 -- url     : https://prove2.me/theorems/82a1d4dc-6bc7-4190-8fdc-8550c6f5c0bf

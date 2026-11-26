@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_uniform_norm_crouzeixPolynomialScalarCompanionRegularized_self_le
 -- name    : exists_uniform_norm_crouzeixPolynomialScalarCompanionRegularized_self_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:43:28.455081+00:00
 -- url     : https://prove2.me/theorems/ac71eb11-8607-44cb-b6cf-611ac045a3fe

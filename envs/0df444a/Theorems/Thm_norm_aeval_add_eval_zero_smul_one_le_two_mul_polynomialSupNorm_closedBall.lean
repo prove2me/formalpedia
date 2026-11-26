@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_add_eval_zero_smul_one_le_two_mul_polynomialSupNorm_closedBall
 -- name    : norm_aeval_add_eval_zero_smul_one_le_two_mul_polynomialSupNorm_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:51:12.075595+00:00
 -- url     : https://prove2.me/theorems/3f1e8499-6ccc-5395-854f-066ac60e695b

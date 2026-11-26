@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_polytopeDirectionalValue_le_roundedSupportCurve_self
 -- name    : polytopeDirectionalValue_le_roundedSupportCurve_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:26:25.218228+00:00
 -- url     : https://prove2.me/theorems/07680949-a895-46ba-bcbf-c3d24846e2db

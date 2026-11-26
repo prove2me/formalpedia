@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_smoothJordan_exhaustion_support_scalarCompanion_radial_vanishingAtZero
 -- name    : crouzeix_palencia_of_smoothJordan_exhaustion_support_scalarCompanion_radial_vanishingAtZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:14:33.068301+00:00
 -- url     : https://prove2.me/theorems/871e94b9-2232-5c73-b36c-ab3bb75a0c76

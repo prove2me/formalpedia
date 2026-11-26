@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_const_mul_resolvent_sq_eq_zero_of_numericalRange
 -- name    : contourIntegral_const_mul_resolvent_sq_eq_zero_of_numericalRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:34.260153+00:00
 -- url     : https://prove2.me/theorems/106e0cf5-a1d4-46b4-92b6-d2e7ac40b568

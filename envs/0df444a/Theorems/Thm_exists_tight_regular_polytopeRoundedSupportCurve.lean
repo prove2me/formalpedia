@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_tight_regular_polytopeRoundedSupportCurve
 -- name    : exists_tight_regular_polytopeRoundedSupportCurve
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:31:23.572166+00:00
 -- url     : https://prove2.me/theorems/fc6cc29c-0b7a-5cc5-8ca4-952b6daf9d99

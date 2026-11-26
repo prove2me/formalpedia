@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_global_polynomial_bound_of_fourth_power
 -- name    : crouzeix_palencia_of_global_polynomial_bound_of_fourth_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:35:29.285569+00:00
 -- url     : https://prove2.me/theorems/7986bafb-3aee-4be0-bd14-8cfca62a41b3

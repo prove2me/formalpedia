@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_auxiliary_re_inner_lower_bounds
 -- name    : crouzeix_palencia_of_auxiliary_re_inner_lower_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:36:08.914575+00:00
 -- url     : https://prove2.me/theorems/d29a2a87-bb59-440f-baa2-916445eb81f1

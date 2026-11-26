@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_dimH_torus_lt_finiteTimeDimension
 -- name    : Eden.dimH_torus_lt_finiteTimeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:53:34.21215+00:00
 -- url     : https://prove2.me/theorems/80df71dd-b104-558e-884f-5e73398f5640

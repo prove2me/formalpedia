@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_FreeInvolution_exists_unique_sign
 -- name    : TunnellMap.FreeInvolution.exists_unique_sign
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:06:54.492543+00:00
 -- url     : https://prove2.me/theorems/1ffe9603-e8a8-524e-8a26-842bb97b2c1a

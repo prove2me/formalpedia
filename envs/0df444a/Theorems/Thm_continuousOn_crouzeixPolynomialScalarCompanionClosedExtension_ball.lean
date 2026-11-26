@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_continuousOn_crouzeixPolynomialScalarCompanionClosedExtension_ball
 -- name    : continuousOn_crouzeixPolynomialScalarCompanionClosedExtension_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:52:22.185719+00:00
 -- url     : https://prove2.me/theorems/2718d13b-1384-55f0-9dda-29c4652cd2f4

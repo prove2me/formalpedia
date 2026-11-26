@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_neg_re_inner_aeval_crouzeixProductRemainderPolynomial_le_re_inner_product
 -- name    : neg_re_inner_aeval_crouzeixProductRemainderPolynomial_le_re_inner_product
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:34:45.852285+00:00
 -- url     : https://prove2.me/theorems/dbf79ef2-d4cc-42ca-b59f-34ce5f246f14

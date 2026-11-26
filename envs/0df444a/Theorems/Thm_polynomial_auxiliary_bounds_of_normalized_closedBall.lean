@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_polynomial_auxiliary_bounds_of_normalized_closedBall
 -- name    : polynomial_auxiliary_bounds_of_normalized_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:37:20.035305+00:00
 -- url     : https://prove2.me/theorems/ffb13a81-b956-5670-abe6-bbe516efacdd

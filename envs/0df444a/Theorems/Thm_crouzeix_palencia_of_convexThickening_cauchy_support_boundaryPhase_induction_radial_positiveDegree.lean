@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_convexThickening_cauchy_support_boundaryPhase_induction_radial_positiveDegree
 -- name    : crouzeix_palencia_of_convexThickening_cauchy_support_boundaryPhase_induction_radial_positiveDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:14:15.064443+00:00
 -- url     : https://prove2.me/theorems/f3dda715-9521-4fbf-8ae0-d844b1a6d422

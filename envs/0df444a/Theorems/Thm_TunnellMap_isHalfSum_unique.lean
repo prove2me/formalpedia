@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_isHalfSum_unique
 -- name    : TunnellMap.isHalfSum_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:47:57.868131+00:00
 -- url     : https://prove2.me/theorems/7f5c2758-10fb-545e-8034-e5a48d8be117

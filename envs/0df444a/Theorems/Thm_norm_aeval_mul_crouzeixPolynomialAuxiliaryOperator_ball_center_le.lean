@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_ball_center_le
 -- name    : norm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_ball_center_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:49.163031+00:00
 -- url     : https://prove2.me/theorems/e482b0ac-c51d-56e1-96bd-31c40dacd3d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isBounded_smoothSupportOpenEnvelope_polytopeRoundedSupport
 -- name    : isBounded_smoothSupportOpenEnvelope_polytopeRoundedSupport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:27:00.832293+00:00
 -- url     : https://prove2.me/theorems/2d440f8b-bee9-5c6f-8f9c-ac1b93b311be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_OrderedGenerator_validIndex_key_eq_orbitEdgeKey
 -- name    : TunnellMap.OrderedGenerator.validIndex_key_eq_orbitEdgeKey
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:50:09.53939+00:00
 -- url     : https://prove2.me/theorems/88e83e9c-989e-5f57-9208-7f4079e8e5e9

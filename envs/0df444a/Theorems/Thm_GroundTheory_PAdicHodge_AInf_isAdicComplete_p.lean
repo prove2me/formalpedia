@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_isAdicComplete_p
 -- name    : GroundTheory.PAdicHodge.AInf.isAdicComplete_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:49.066955+00:00
 -- url     : https://prove2.me/theorems/28938957-5ee3-5751-b089-ce9776b24998

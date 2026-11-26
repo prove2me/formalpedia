@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_tendsto_polynomial_companions_ball_center
 -- name    : exists_tendsto_polynomial_companions_ball_center
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:53:17.956774+00:00
 -- url     : https://prove2.me/theorems/cf539958-529e-5966-bfed-012959b5b625

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_OrderedGenerator_orbit_preferredTarget
 -- name    : TunnellMap.OrderedGenerator.orbit_preferredTarget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:55:24.387688+00:00
 -- url     : https://prove2.me/theorems/960b1bdf-9b72-4ae4-9385-e6b174f98cfe

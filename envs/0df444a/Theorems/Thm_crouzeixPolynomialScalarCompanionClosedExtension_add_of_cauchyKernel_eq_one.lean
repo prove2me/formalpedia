@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionClosedExtension_add_of_cauchyKernel_eq_one
 -- name    : crouzeixPolynomialScalarCompanionClosedExtension_add_of_cauchyKernel_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:45:16.416722+00:00
 -- url     : https://prove2.me/theorems/85d14794-2ee3-4299-81af-0e87d300fd1b

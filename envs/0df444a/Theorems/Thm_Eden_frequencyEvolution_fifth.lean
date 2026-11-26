@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyEvolution_fifth
 -- name    : Eden.frequencyEvolution_fifth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:55:38.175663+00:00
 -- url     : https://prove2.me/theorems/6bde9679-96f9-4855-806a-f32dff5f1fc0

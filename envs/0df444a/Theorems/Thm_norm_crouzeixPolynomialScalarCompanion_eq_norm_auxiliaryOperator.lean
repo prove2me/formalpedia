@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_crouzeixPolynomialScalarCompanion_eq_norm_auxiliaryOperator
 -- name    : norm_crouzeixPolynomialScalarCompanion_eq_norm_auxiliaryOperator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:03:29.202498+00:00
 -- url     : https://prove2.me/theorems/07bd612e-d5a5-5dba-8386-4ec892e64540

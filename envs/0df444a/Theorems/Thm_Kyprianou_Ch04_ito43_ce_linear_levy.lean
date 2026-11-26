@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_ce_linear_levy
 -- name    : Kyprianou.Ch04.ito43_ce_linear_levy
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:09:43.698822+00:00
 -- url     : https://prove2.me/theorems/f29afa9b-b386-5710-9be8-e55eabe866c9
