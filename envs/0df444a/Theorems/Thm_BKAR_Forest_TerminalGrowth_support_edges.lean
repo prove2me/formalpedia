@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_support_edges
 -- name    : BKAR.Forest.TerminalGrowth.support_edges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:42:53.171473+00:00
 -- url     : https://prove2.me/theorems/a81ab5fc-03e3-5f8c-ace3-648046c0f891

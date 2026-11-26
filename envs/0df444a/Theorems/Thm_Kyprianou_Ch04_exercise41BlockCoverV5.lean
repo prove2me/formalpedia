@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41BlockCoverV5
 -- name    : Kyprianou.Ch04.exercise41BlockCoverV5
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T08:44:30.505904+00:00
 -- url     : https://prove2.me/theorems/d3d0709c-1ff0-4c0a-862c-aab9145ec5d9

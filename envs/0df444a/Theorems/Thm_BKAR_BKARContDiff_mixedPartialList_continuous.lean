@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_mixedPartialList_continuous
 -- name    : BKAR.BKARContDiff.mixedPartialList_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:25:34.569797+00:00
 -- url     : https://prove2.me/theorems/0f1a608c-9df6-47ec-bceb-bb907860fee4

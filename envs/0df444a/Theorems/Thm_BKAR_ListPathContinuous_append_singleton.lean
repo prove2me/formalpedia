@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_ListPathContinuous_append_singleton
 -- name    : BKAR.ListPathContinuous.append_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:25:47.897807+00:00
 -- url     : https://prove2.me/theorems/19f5bcef-4ce6-522e-b027-fbaa821b7db8

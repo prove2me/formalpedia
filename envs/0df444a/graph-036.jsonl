@@ -91474,7 +91474,7 @@
 {"parent": "RH1E6S08.part_081_2", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S08.part_081_2", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "RH1E6S10_D001_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "MasulloRH.cofinal_exact_theta_gram_margin", "child": "MasulloRH_GaussianThetaApproximation", "via": ["statement"]}
+{"parent": "MasulloRH.cofinal_exact_theta_gram_margin", "child": "MasulloRH_GaussianThetaApproximation", "via": ["solution", "statement"]}
 {"parent": "RH1E6S10.part_031_2", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S10.part_031_2", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
 {"parent": "RH1E6S10.part_031_2", "child": "ArdaRH65K_XiLineZeros", "via": ["statement"]}

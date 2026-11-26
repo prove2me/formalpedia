@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_params_emptyStart_eq_paramsOfOrder_of_length
 -- name    : BKAR.Forest.OrderedGrowth.params_emptyStart_eq_paramsOfOrder_of_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:48:31.355791+00:00
 -- url     : https://prove2.me/theorems/1b62aebf-44ae-477b-894f-7dac62318176

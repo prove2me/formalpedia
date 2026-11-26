@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OCTKernel_Main_lemma_3_2
 -- name    : OCTKernel.Main.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:24:08.829119+00:00
 -- url     : https://prove2.me/theorems/a5453ed5-fdd5-4f4d-91b7-d25cbf3f0cfa

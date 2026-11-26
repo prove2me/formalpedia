@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_DeferredReadout_Plain_certificateBatch1
 -- name    : IntMul.Kappa.DeferredReadout.Plain.certificateBatch1
--- status  : Open
+-- status  : Proved
 -- author  : @scuba8684
 -- created : 2026-11-26T08:47:10.737665+00:00
 -- url     : https://prove2.me/theorems/41acecaf-3436-41a5-af93-7561ebb5377a

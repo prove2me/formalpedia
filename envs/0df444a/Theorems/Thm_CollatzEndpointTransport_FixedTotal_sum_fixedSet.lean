@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sum_fixedSet
 -- name    : CollatzEndpointTransport.FixedTotal.sum_fixedSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:32:16.048055+00:00
 -- url     : https://prove2.me/theorems/83e45a25-32fc-4acd-87da-e92cf3080851

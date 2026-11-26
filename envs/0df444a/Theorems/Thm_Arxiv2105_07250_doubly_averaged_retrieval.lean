@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2105_07250_doubly_averaged_retrieval
 -- name    : Arxiv2105_07250.doubly_averaged_retrieval
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:33:40.94832+00:00
 -- url     : https://prove2.me/theorems/a6129a86-3fa7-5e04-949d-455deb72ec70

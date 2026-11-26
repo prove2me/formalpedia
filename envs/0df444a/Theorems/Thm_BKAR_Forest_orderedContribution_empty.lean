@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedContribution_empty
 -- name    : BKAR.Forest.orderedContribution_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:48:28.242295+00:00
 -- url     : https://prove2.me/theorems/1974b757-7ac4-5382-9d75-fde11248e9ad

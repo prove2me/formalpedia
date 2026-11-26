@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_orderedSimplexIntegral_congr_of_length
 -- name    : BKAR.orderedSimplexIntegral_congr_of_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:37:24.815347+00:00
 -- url     : https://prove2.me/theorems/d60c8568-aa6c-5fdc-812f-13944b5260e6

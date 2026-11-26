@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_branchIntegralAux_eq_standardInterp_of_order_eq_nil
 -- name    : BKAR.Forest.TerminalGrowth.branchIntegralAux_eq_standardInterp_of_order_eq_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:43:14.54262+00:00
 -- url     : https://prove2.me/theorems/8233fd2c-2cff-46de-a159-61ef5e48bfd4

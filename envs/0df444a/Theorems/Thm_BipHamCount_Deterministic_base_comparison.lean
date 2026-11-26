@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BipHamCount_Deterministic_base_comparison
 -- name    : BipHamCount.Deterministic.base_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:47:44.524686+00:00
 -- url     : https://prove2.me/theorems/9b3fa2ac-72ad-4146-b591-188fdfcb3be3

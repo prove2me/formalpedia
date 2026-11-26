@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedSourceWeight_mul_fixedRenyiMoment_le
 -- name    : CollatzEndpointTransport.FixedTotal.fixedSourceWeight_mul_fixedRenyiMoment_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:38:38.781797+00:00
 -- url     : https://prove2.me/theorems/ee1771d1-a984-442f-b387-4cc074b6f49b

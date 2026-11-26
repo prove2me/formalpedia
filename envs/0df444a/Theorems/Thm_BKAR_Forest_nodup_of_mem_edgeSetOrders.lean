@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_nodup_of_mem_edgeSetOrders
 -- name    : BKAR.Forest.nodup_of_mem_edgeSetOrders
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:46:31.800052+00:00
 -- url     : https://prove2.me/theorems/e01b1482-5051-5cdf-b099-2a8d773c64bc

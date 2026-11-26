@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_params_eq_paramsOfOrder_append_of_length
 -- name    : BKAR.Forest.OrderedGrowth.params_eq_paramsOfOrder_append_of_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:45:35.37464+00:00
 -- url     : https://prove2.me/theorems/5e527831-c0fd-4427-ab0a-51393a22c0b4

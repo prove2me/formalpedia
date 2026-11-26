@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41BlockZeroFiniteV5
 -- name    : Kyprianou.Ch04.exercise41BlockZeroFiniteV5
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T08:44:37.854297+00:00
 -- url     : https://prove2.me/theorems/ed045fbc-fb5d-5094-98b2-d9d6f969a7f0

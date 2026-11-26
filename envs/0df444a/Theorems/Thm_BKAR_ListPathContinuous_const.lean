@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_ListPathContinuous_const
 -- name    : BKAR.ListPathContinuous.const
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:25:46.775904+00:00
 -- url     : https://prove2.me/theorems/fe35d281-cb5e-5919-ab93-c2869e115554

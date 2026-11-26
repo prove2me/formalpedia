@@ -78386,7 +78386,7 @@
 {"parent": "QEC.Semantics.hasDerivAt_adjoint_lindbladNoJumpPropagatorContinuous", "child": "QEC_Semantics_Channels_TraceNorm", "via": ["solution", "statement"]}
 {"parent": "OAI.SevenEighths.CubicDyadicDecay.poisson_small_power_identity", "child": "OAI_NumberTheory_DirichletL_CubicDyadicDecay", "via": ["solution", "statement"]}
 {"parent": "HMBinPacking.lemma_4", "child": "HMBinPacking_Instance", "via": ["statement"]}
-{"parent": "HMBinPacking.lemma_4", "child": "HMBinPacking_ILP", "via": ["statement"]}
+{"parent": "HMBinPacking.lemma_4", "child": "HMBinPacking_ILP", "via": ["solution", "statement"]}
 {"parent": "OAI.IdealGaussCRT.leftAddChar_traceProd", "child": "OAI_NumberTheory_DirichletL_Arithmetic_EisensteinCoordinates", "via": ["solution", "statement"]}
 {"parent": "OAI.IdealGaussCRT.leftAddChar_traceProd", "child": "OAI_NumberTheory_DirichletL_GaussSum_ChineseRemainder", "via": ["solution", "statement"]}
 {"parent": "RH.Transport.TunedCandidate.buffered_upper_scale_lt_one", "child": "Transport_SupportedMass", "via": ["solution", "statement"]}
@@ -93810,7 +93810,7 @@
 {"parent": "KawasakiSOS_Threshold_IsZState", "child": "KawasakiSOS_Threshold_zVec", "via": ["statement"]}
 {"parent": "KawasakiSOS_Threshold_IsZState", "child": "KawasakiSOS_Threshold_Stage", "via": ["statement"]}
 {"parent": "HMBinPacking.lemma_2", "child": "HMBinPacking_Casts", "via": ["statement"]}
-{"parent": "HMBinPacking.lemma_2", "child": "HMBinPacking_LatticePolytope", "via": ["statement"]}
+{"parent": "HMBinPacking.lemma_2", "child": "HMBinPacking_LatticePolytope", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.agWordStar_apply", "child": "QEC_Coding_AlgebraicGeometry_Codes_Evaluation", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.agWordStar_apply", "child": "QEC_Coding_HypergraphProduct_Distance", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.agWordStar_apply", "child": "QEC_Coding_AlgebraicGeometry_Codes_Code", "via": ["solution", "statement"]}

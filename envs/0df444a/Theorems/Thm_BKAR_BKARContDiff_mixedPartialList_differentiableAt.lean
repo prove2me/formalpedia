@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_mixedPartialList_differentiableAt
 -- name    : BKAR.BKARContDiff.mixedPartialList_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:25:45.858842+00:00
 -- url     : https://prove2.me/theorems/44616909-436d-4176-a03d-144450550f7a

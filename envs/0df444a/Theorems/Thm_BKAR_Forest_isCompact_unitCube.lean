@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_isCompact_unitCube
 -- name    : BKAR.Forest.isCompact_unitCube
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:49:35.035017+00:00
 -- url     : https://prove2.me/theorems/5d33045e-b720-558f-8e57-5064bf501943

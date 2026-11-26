@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntConeFPT_lemma_9
 -- name    : IntConeFPT.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T00:44:08.801681+00:00
 -- url     : https://prove2.me/theorems/bffe7336-e8c2-4789-b215-fa6c36e8126b

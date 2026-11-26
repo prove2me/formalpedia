@@ -30026,7 +30026,7 @@
 {"parent": "DistributedMIS.LocalLowerBound.randomized_local_mis_lower_bound", "child": "DistributedMIS_LocalLowerBound_LocalPrograms", "via": ["statement"]}
 {"parent": "BatchMaxService.Metric.mst_steiner_bound", "child": "BatchMaxService_Metric_Trees", "via": ["statement"]}
 {"parent": "HindsightGain.Uniform.lemma_3_1", "child": "HindsightGain_Uniform_tensors", "via": ["solution", "statement"]}
-{"parent": "OCTKernel.Main.lemma_3_4", "child": "OCTKernel_Main_Polynomials", "via": ["statement"]}
+{"parent": "OCTKernel.Main.lemma_3_4", "child": "OCTKernel_Main_Polynomials", "via": ["solution", "statement"]}
 {"parent": "ThreshRankBIS_IsRegular", "child": "HiddenPartition_bip", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm12_0_0_11.s4_eq_g", "child": "OAIQ098G783", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm12_0_0_11.s4_eq_g", "child": "OAIQ098G787", "via": ["solution", "statement"]}
@@ -36923,7 +36923,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm3_0_0_5.atomContains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm3_0_0_5.atomContains_g", "child": "OAIQ098G1680", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm3_0_0_5.atomContains_g", "child": "OAIQ098G1209", "via": ["solution", "statement"]}
-{"parent": "OCTKernel.Main.lemma_3_2", "child": "OCTKernel_Main_Polynomials", "via": ["statement"]}
+{"parent": "OCTKernel.Main.lemma_3_2", "child": "OCTKernel_Main_Polynomials", "via": ["solution", "statement"]}
 {"parent": "HypergraphUnreliability.FPRAS.proposition_6_2", "child": "HypergraphUnreliability_FPRAS_JumpChain", "via": ["statement"]}
 {"parent": "HypergraphUnreliability.FPRAS.proposition_6_2", "child": "HypergraphUnreliability_FPRAS_Hypergraph", "via": ["statement"]}
 {"parent": "HypergraphUnreliability.FPRAS.proposition_6_2", "child": "HypergraphUnreliability_FPRAS_Contraction", "via": ["statement"]}
@@ -38659,7 +38659,7 @@
 {"parent": "TestingEstimation.Dense.counting", "child": "TestingEstimation_Dense_Labels", "via": ["statement"]}
 {"parent": "MLAMaxDelay_RandomizedTimer_Offline", "child": "MLAMaxDelay_RandomizedTimer_Model", "via": ["statement"]}
 {"parent": "SSNonExt_TV", "child": "IsingLTL_BeliefProp_TVDist", "via": ["statement"]}
-{"parent": "BipHamCount.Deterministic.base_comparison", "child": "BipHamCount_Deterministic_Core", "via": ["statement"]}
+{"parent": "BipHamCount.Deterministic.base_comparison", "child": "BipHamCount_Deterministic_Core", "via": ["solution", "statement"]}
 {"parent": "CollectiveTreeExploration.Async.theorem_2_1", "child": "CollectiveTreeExploration_Async_Exploration", "via": ["statement"]}
 {"parent": "CollectiveTreeExploration.Async.theorem_2_1", "child": "CollectiveTreeExploration_Async_TreeMining", "via": ["statement"]}
 {"parent": "OAIQ098G090", "child": "OAIQ098G079", "via": ["statement"]}

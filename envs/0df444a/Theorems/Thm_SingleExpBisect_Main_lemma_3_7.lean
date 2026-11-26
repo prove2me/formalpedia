@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleExpBisect_Main_lemma_3_7
 -- name    : SingleExpBisect.Main.lemma_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T17:40:38.185934+00:00
 -- url     : https://prove2.me/theorems/37dec473-5192-4039-b556-5884dcba3523

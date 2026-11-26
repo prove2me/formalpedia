@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_cons_branchIntegralAux_eq_integral_tail_partialDeriv
 -- name    : BKAR.Forest.TerminalGrowth.cons_branchIntegralAux_eq_integral_tail_partialDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:43:31.479799+00:00
 -- url     : https://prove2.me/theorems/5fe1167f-67de-4afd-a0cf-8bf45c60fb92

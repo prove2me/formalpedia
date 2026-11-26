@@ -6127,15 +6127,15 @@
 {"parent": "QEC.Locality.coordinateSubspace_le_coordinateSubspace_compl", "child": "QEC_Coding_Stabilizer_Parameters", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.coordinateSubspace_le_coordinateSubspace_compl", "child": "QEC_Semantics_ErrorCorrection_QuditNoInformation", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.coordinateSubspace_le_coordinateSubspace_compl", "child": "QEC_Locality_CorrectableRegions_SemanticDistanceErasure", "via": ["solution", "statement"]}
-{"parent": "IntConeFPT.lemma_9", "child": "OnlineCRS_Combine_encInt", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_9", "child": "OnlineCRS_Combine_encVec", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_9", "child": "IntConeFPT_Problem", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_9", "child": "OnlineCRS_Combine_Sym", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_9", "child": "IntConeFPT_Formulation", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_9", "child": "OnlineCRS_Combine_encRat", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_9", "child": "IntConeFPT_Instance", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_9", "child": "IntConeFPT_Residue", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_9", "child": "OnlineCRS_Combine_encNat", "via": ["statement"]}
+{"parent": "IntConeFPT.lemma_9", "child": "OnlineCRS_Combine_encInt", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_9", "child": "OnlineCRS_Combine_encVec", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_9", "child": "IntConeFPT_Problem", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_9", "child": "OnlineCRS_Combine_Sym", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_9", "child": "IntConeFPT_Formulation", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_9", "child": "OnlineCRS_Combine_encRat", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_9", "child": "IntConeFPT_Instance", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_9", "child": "IntConeFPT_Residue", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_9", "child": "OnlineCRS_Combine_encNat", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.Qubit.localZ_localX_commute_of_ne", "child": "QEC_Semantics_Core_Qubit", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.Qubit.localZ_localX_commute_of_ne", "child": "QEC_Semantics_Core_Definitions", "via": ["solution", "statement"]}
 {"parent": "OAIQ106E159", "child": "OAIQ106E140", "via": ["statement"]}

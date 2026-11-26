@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_DeferredReadout_Staircase_nesting
 -- name    : IntMul.Kappa.DeferredReadout.Staircase.nesting
--- status  : Open
+-- status  : Proved
 -- author  : @scuba8684
 -- created : 2026-11-26T08:09:07.205011+00:00
 -- url     : https://prove2.me/theorems/f478b1e5-f8ff-5a57-aee5-e5da3fe554c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_DeferredReadout_Plain_nesting
 -- name    : IntMul.Kappa.DeferredReadout.Plain.nesting
--- status  : Open
+-- status  : Proved
 -- author  : @scuba8684
 -- created : 2026-11-26T08:08:59.837797+00:00
 -- url     : https://prove2.me/theorems/782aeb6b-af3e-58e5-b226-13299a5af589

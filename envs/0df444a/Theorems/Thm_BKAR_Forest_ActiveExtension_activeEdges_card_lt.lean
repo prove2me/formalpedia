@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveExtension_activeEdges_card_lt
 -- name    : BKAR.Forest.ActiveExtension.activeEdges_card_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:34:12.585424+00:00
 -- url     : https://prove2.me/theorems/d75c787c-ed8f-5332-bcd6-3b62dc1a6428

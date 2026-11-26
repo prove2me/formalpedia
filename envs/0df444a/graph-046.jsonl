@@ -67493,7 +67493,7 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.HW.pPlus_card_eq_one", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_HighestWeights_PieriRules_PPlusPWtInjective", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Xi.HermitianLiftIdentities.pm_left", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TailIntegrals_HpkMulVecMulVec", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Xi.HermitianLiftIdentities.pm_left", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TailIntegrals_ProdIicCastLE", "via": ["solution", "statement"]}
-{"parent": "Arxiv2105_07250.doubly_averaged_retrieval", "child": "Arxiv2105_07250_Basic", "via": ["statement"]}
+{"parent": "Arxiv2105_07250.doubly_averaged_retrieval", "child": "Arxiv2105_07250_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartFinite_natDegree_coeff_prod_pow_fd7bed4b50a0", "child": "GroundTheory_HeightsAndTheta_Heights_ChowForms_PFGNullstellensatz", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartFinite_natDegree_coeff_prod_pow_fd7bed4b50a0", "child": "GroundTheory_HeightsAndTheta_Heights_ChowForms_StatementsSectionOrder", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartFinite_natDegree_coeff_prod_pow_fd7bed4b50a0", "child": "GroundTheory_HeightsAndTheta_Heights_ChowForms_PChartFinite", "via": ["solution", "statement"]}

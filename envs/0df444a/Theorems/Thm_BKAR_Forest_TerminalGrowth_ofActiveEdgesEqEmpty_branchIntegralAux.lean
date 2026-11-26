@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_ofActiveEdgesEqEmpty_branchIntegralAux
 -- name    : BKAR.Forest.TerminalGrowth.ofActiveEdgesEqEmpty_branchIntegralAux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:42:43.663355+00:00
 -- url     : https://prove2.me/theorems/ad2a4ce9-b984-554d-8610-62d495300dcc

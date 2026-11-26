@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_length_eq_card_of_mem_edgeSetOrders
 -- name    : BKAR.Forest.length_eq_card_of_mem_edgeSetOrders
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:46:42.261263+00:00
 -- url     : https://prove2.me/theorems/9e5bce44-bef3-416c-919d-2a5670f6b1cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_DeferredReadout_Staircase_certificateBatch1
 -- name    : IntMul.Kappa.DeferredReadout.Staircase.certificateBatch1
--- status  : Open
+-- status  : Proved
 -- author  : @scuba8684
 -- created : 2026-11-26T08:47:12.731448+00:00
 -- url     : https://prove2.me/theorems/810ae26b-fc59-40f9-9e55-6a3ad682ef66

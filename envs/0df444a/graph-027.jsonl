@@ -52477,7 +52477,7 @@
 {"parent": "QEC.Coding.BDL26LogicalDefectStorage.observable_reference", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_LogicalDefectStorage", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26LogicalDefectStorage.observable_reference", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_LogicalDefectProtection", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26LogicalDefectStorage.observable_reference", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_PairedDecoderGibbs", "via": ["solution", "statement"]}
-{"parent": "SingleExpBisect.Main.lemma_3_7", "child": "SingleExpBisect_Main_NodeData", "via": ["statement"]}
+{"parent": "SingleExpBisect.Main.lemma_3_7", "child": "SingleExpBisect_Main_NodeData", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ConnectedSyndromeMass.actual_zero", "child": "QEC_Coding_FiniteAlternatingConstruction_ConnectedSetCounting", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ConnectedSyndromeMass.actual_zero", "child": "QEC_Locality_Graph_WeightedConnectedSetMass", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ConnectedSyndromeMass.actual_zero", "child": "QEC_Coding_FiniteAlternatingConstruction_ConnectedSyndromeMass", "via": ["solution", "statement"]}
