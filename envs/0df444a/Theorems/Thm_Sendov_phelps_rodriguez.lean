@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_phelps_rodriguez
 -- name    : Sendov.phelps_rodriguez
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T20:05:44.622098+00:00
 -- url     : https://prove2.me/theorems/d55a2e08-6d7f-47cf-a2ef-9f34ccce07dd

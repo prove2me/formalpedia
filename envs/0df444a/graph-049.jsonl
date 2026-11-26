@@ -14121,11 +14121,11 @@
 {"parent": "Kyprianou.Ch05.exercise54QuadrupleKernelUnfold", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.exercise54QuadrupleKernelUnfold", "child": "Kyprianou_Ch05_BivariateKilledSubordinator", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.exercise54QuadrupleKernelUnfold", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedLaplaceExponent_nonneg", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedLaplaceExponent_nonneg", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedLaplaceExponent_nonneg", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
@@ -14165,8 +14165,6 @@
 {"parent": "Kyprianou.Ch05.tailLaplaceAsymptotics", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.tailLaplaceAsymptotics", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.tailLaplaceAsymptotics", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.potentialScalingLimits", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.potentialScalingLimits", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
 {"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_path_identities", "child": "ManyServerQED_Scheduling_HJBCostLimit", "via": ["solution", "statement"]}
 {"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_path_identities", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["solution", "statement"]}
 {"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_path_identities", "child": "ManyServerQED_Scheduling_Policy", "via": ["solution", "statement"]}
@@ -14186,11 +14184,11 @@
 {"parent": "Kyprianou.Ch05.killedSubordinator_fixedTime_noAtoms_of_infiniteActivity", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedSubordinator_fixedTime_noAtoms_of_infiniteActivity", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
 {"parent": "RPLib_FX_EtPBC_211", "child": "RPLib_FX_EtPBC_206", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedPotential_laplaceTransform", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedPotential_laplaceTransform", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedPotential_laplaceTransform", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
@@ -14232,9 +14230,6 @@
 {"parent": "Kyprianou.Ch05.killedSubordinator_path_latticeSupport_of_latticePi_driftZero", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedSubordinator_path_latticeSupport_of_latticePi_driftZero", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedSubordinator_path_latticeSupport_of_latticePi_driftZero", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.potentialLaplaceAsymptotics", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.potentialLaplaceAsymptotics", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.potentialLaplaceAsymptotics", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
 {"parent": "ManyServerQED.Scheduling.queue_hjb_joint_path_subsequence", "child": "ManyServerQED_Scheduling_HJBCostLimit", "via": ["solution", "statement"]}
 {"parent": "ManyServerQED.Scheduling.queue_hjb_joint_path_subsequence", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["solution", "statement"]}
 {"parent": "ManyServerQED.Scheduling.queue_hjb_joint_path_subsequence", "child": "ManyServerQED_Scheduling_Policy", "via": ["solution", "statement"]}
@@ -14252,18 +14247,9 @@
 {"parent": "Kyprianou.Ch05.killedSubordinatorPotentialLattice", "child": "Kyprianou.Ch05.killedPotential_latticeSupport_iff", "via": ["solution"]}
 {"parent": "Kyprianou.Ch05.killedSubordinatorPotentialLattice", "child": "Kyprianou.Ch05.killedPotential_nonLattice_of_finiteActivity", "via": ["solution"]}
 {"parent": "Kyprianou.Ch05.killedSubordinatorPotentialLattice", "child": "Kyprianou.Ch05.killedPotential_atomless_of_infiniteActivity", "via": ["solution"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.potentialScalingLimits", "via": ["solution"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.potentialSupportNonnegative", "via": ["solution"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.potentialLaplaceAsymptotics", "via": ["solution"]}
 {"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "via": ["solution"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.tailLaplaceAsymptotics", "via": ["solution"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.tailScalingLimits", "via": ["solution"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.karamataTauberianZero", "via": ["solution"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["solution"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.karamataMonotoneDensityInfinity", "via": ["solution"]}
 {"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.regularVariationTailLimitAtZero", "via": ["solution"]}
 {"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "via": ["solution"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.karamataTauberianInfinity", "via": ["solution"]}
 {"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.regularVariationTailLimitAtInfinity", "via": ["solution"]}
 {"parent": "Kyprianou.Ch05.exercise54CorrelatedBivariateQuadrupleLaw", "child": "Kyprianou.Ch05.exercise54QuadrupleKernelUnfold", "via": ["solution"]}
 {"parent": "Kyprianou.Ch05.exercise54CorrelatedBivariateQuadrupleLaw", "child": "Kyprianou.Ch05.exercise54BivariateCompensationIntegral", "via": ["solution"]}

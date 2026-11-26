@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MuirheadMST_wishart_density
 -- name    : MuirheadMST.wishart_density
--- status  : Open
+-- status  : Proved
 -- author  : @domodus
 -- created : 2026-11-26T17:38:00.647792+00:00
 -- url     : https://prove2.me/theorems/8da08678-7e5d-5d40-99b8-1527478ff814

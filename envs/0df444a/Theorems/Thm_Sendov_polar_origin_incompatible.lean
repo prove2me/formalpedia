@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_polar_origin_incompatible
 -- name    : Sendov.polar_origin_incompatible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T20:04:36.274798+00:00
 -- url     : https://prove2.me/theorems/554406b5-6984-4066-804d-4f6457955cd8

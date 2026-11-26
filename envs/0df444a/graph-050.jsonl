@@ -7281,7 +7281,7 @@
 {"parent": "TunnellMap.Examples41.residual_inverse_sign_example", "child": "TunnellMap_Examples41Generator", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.Examples41.residual_inverse_sign_example", "child": "TunnellMap_Sharpness", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.Examples41.residual_inverse_sign_example", "child": "TunnellMap_Examples41Matching", "via": ["solution", "statement"]}
-{"parent": "MuirheadMST.wishart_density", "child": "MuirheadMST_Wishart", "via": ["statement"]}
+{"parent": "MuirheadMST.wishart_density", "child": "MuirheadMST_Wishart", "via": ["solution", "statement"]}
 {"parent": "GRH.character_moment_first_and_covered_grids", "child": "GRH_CharacterMoment", "via": ["statement"]}
 {"parent": "GRH.character_moment_first_and_covered_grids", "child": "GRH_DirichletGrid", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.positiveAntitoneMultiplicativeExponential", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
@@ -13666,13 +13666,13 @@
 {"parent": "MasulloRH.fixed_gaussian_half_tolerance_eleven_translates", "child": "MasulloRH_HeightTwoWitness", "via": ["statement"]}
 {"parent": "Sendov.one_le_of_origin", "child": "Sendov_Reduction_Stat", "via": ["solution", "statement"]}
 {"parent": "Sendov.one_le_of_origin", "child": "Sendov_Reduction_Simplified", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
 {"parent": "Aux_w54_arith.cswapRegCircuit_implements", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
 {"parent": "Aux_w54_arith.cswapRegCircuit_implements", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
 {"parent": "Aux_w54_arith.cswapRegCircuit_implements", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
@@ -14017,7 +14017,7 @@
 {"parent": "Sendov.sumEraseProd_norm_le_one", "child": "Sendov_Analytic_Jsum", "via": ["solution", "statement"]}
 {"parent": "RPLib_FX_EtPBCC1_002", "child": "RPLib_FX_EtPBCB_004", "via": ["statement"]}
 {"parent": "MasulloRH.fixed_gaussian_approximation_above_mertens_boundary", "child": "MasulloRH_GaussianThetaApproximation", "via": ["statement"]}
-{"parent": "FiniteEnergyPlane.ofReal_loopAction_le_diskArea", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.ofReal_loopAction_le_diskArea", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.baseListTable_0_2_0_left", "child": "Hadamard668_ListCorrelationProof", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.baseListTable_0_2_0_left", "child": "Hadamard668_CorrelationData", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.baseListTable_0_2_0_left", "child": "Hadamard668_CertificateData", "via": ["solution", "statement"]}
@@ -19466,9 +19466,9 @@
 {"parent": "Section5DecoderLayout.decoder_gate_bound_polynomial", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
 {"parent": "Section5DecoderLayout.decoder_gate_bound_polynomial", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
 {"parent": "Section5DecoderLayout.decoder_gate_bound_polynomial", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
-{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov_Reduction_Alpha17", "via": ["statement"]}
-{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov_Main", "via": ["statement"]}
-{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov_Reduction_Main", "via": ["statement"]}
+{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov_Reduction_Alpha17", "via": ["solution", "statement"]}
+{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov_Main", "via": ["solution", "statement"]}
+{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov_Reduction_Main", "via": ["solution", "statement"]}
 {"parent": "Section5PowerCode.tilted_batch_polynomial_match", "child": "Section5SignMoments.tensor_polynomial_mean_match", "via": ["solution", "statement"]}
 {"parent": "Section5PowerCode.tilted_batch_polynomial_match", "child": "Section5PowerCode.codeSign_tilted_polynomial_mean", "via": ["solution", "statement"]}
 {"parent": "Section5PowerCode.tilted_batch_polynomial_match", "child": "Section5Verified_Section5SignMomentTransfer", "via": ["solution", "statement"]}
@@ -19599,9 +19599,9 @@
 {"parent": "section5_three_qex_weighted_measurement", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
 {"parent": "section5_three_qex_weighted_measurement", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
 {"parent": "section5_three_qex_weighted_measurement", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
-{"parent": "Sendov.sendov", "child": "Sendov_Boundary", "via": ["statement"]}
-{"parent": "Sendov.sendov", "child": "Sendov_Conjecture", "via": ["statement"]}
-{"parent": "Sendov.sendov", "child": "Sendov_Interior", "via": ["statement"]}
+{"parent": "Sendov.sendov", "child": "Sendov_Boundary", "via": ["solution", "statement"]}
+{"parent": "Sendov.sendov", "child": "Sendov_Conjecture", "via": ["solution", "statement"]}
+{"parent": "Sendov.sendov", "child": "Sendov_Interior", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.positiveStripShrinkingLeftIntersectionV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.positiveStripShrinkingLeftIntersectionV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.positiveStripShrinkingLeftIntersectionV1", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["solution", "statement"]}
@@ -19738,7 +19738,7 @@
 {"parent": "Sendov.natDegree_rotate", "child": "Sendov_Boundary", "via": ["solution", "statement"]}
 {"parent": "Sendov.natDegree_rotate", "child": "Sendov_Conjecture", "via": ["solution", "statement"]}
 {"parent": "Sendov.natDegree_rotate", "child": "Sendov_Interior", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_locmoll_generator_convolution_hjb", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_generator_convolution_hjb", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "section5_integer_power_operator", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
 {"parent": "section5_integer_power_operator", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
 {"parent": "section5_integer_power_operator", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
@@ -20383,13 +20383,13 @@
 {"parent": "Hadamard668.topListTable_3_2_1", "child": "Hadamard668_ListCorrelationProof", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.topListTable_3_2_1", "child": "Hadamard668_CertificateData", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.topListTable_3_2_1", "child": "Hadamard668_CorrelationData", "via": ["solution", "statement"]}
-{"parent": "Sendov.sendov_interior_real", "child": "Sendov_Counterexample_Factor", "via": ["statement"]}
-{"parent": "Sendov.sendov_interior_real", "child": "Sendov_Analytic_Jsum", "via": ["statement"]}
-{"parent": "Sendov.sendov_interior_real", "child": "Sendov_Interior", "via": ["statement"]}
-{"parent": "Sendov.sendov_interior_real", "child": "Sendov_Analytic_LowDegree", "via": ["statement"]}
-{"parent": "Sendov.sendov_interior_real", "child": "Sendov_Analytic_Polar", "via": ["statement"]}
-{"parent": "Sendov.sendov_interior_real", "child": "Sendov_Reduction_Main", "via": ["statement"]}
-{"parent": "Sendov.sendov_interior_real", "child": "Sendov_Analytic_OriginExact", "via": ["statement"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov_Counterexample_Factor", "via": ["solution", "statement"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov_Analytic_Jsum", "via": ["solution", "statement"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov_Interior", "via": ["solution", "statement"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov_Analytic_LowDegree", "via": ["solution", "statement"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov_Analytic_Polar", "via": ["solution", "statement"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov_Reduction_Main", "via": ["solution", "statement"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov_Analytic_OriginExact", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.baseListTable_3_3_0_right", "child": "Hadamard668_ListCorrelationProof", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.baseListTable_3_3_0_right", "child": "Hadamard668_CertificateData", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.baseListTable_3_3_0_right", "child": "Hadamard668_CorrelationData", "via": ["solution", "statement"]}
@@ -21080,13 +21080,13 @@
 {"parent": "Hadamard668.topListTable_1_0_3", "child": "Hadamard668_ListCorrelationProof", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.topListTable_1_0_3", "child": "Hadamard668_CertificateData", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.topListTable_1_0_3", "child": "Hadamard668_CorrelationData", "via": ["solution", "statement"]}
-{"parent": "Sendov.sendov_interior", "child": "Sendov_Counterexample_Factor", "via": ["statement"]}
-{"parent": "Sendov.sendov_interior", "child": "Sendov_Analytic_Jsum", "via": ["statement"]}
-{"parent": "Sendov.sendov_interior", "child": "Sendov_Interior", "via": ["statement"]}
-{"parent": "Sendov.sendov_interior", "child": "Sendov_Analytic_LowDegree", "via": ["statement"]}
-{"parent": "Sendov.sendov_interior", "child": "Sendov_Analytic_Polar", "via": ["statement"]}
-{"parent": "Sendov.sendov_interior", "child": "Sendov_Reduction_Main", "via": ["statement"]}
-{"parent": "Sendov.sendov_interior", "child": "Sendov_Analytic_OriginExact", "via": ["statement"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov_Counterexample_Factor", "via": ["solution", "statement"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov_Analytic_Jsum", "via": ["solution", "statement"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov_Interior", "via": ["solution", "statement"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov_Analytic_LowDegree", "via": ["solution", "statement"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov_Analytic_Polar", "via": ["solution", "statement"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov_Reduction_Main", "via": ["solution", "statement"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov_Analytic_OriginExact", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.topListTable_1_2_2", "child": "Hadamard668_ListCorrelationProof", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.topListTable_1_2_2", "child": "Hadamard668_CertificateData", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.topListTable_1_2_2", "child": "Hadamard668_CorrelationData", "via": ["solution", "statement"]}
@@ -21372,9 +21372,9 @@
 {"parent": "Hadamard668.topListTable_3_2_3", "child": "Hadamard668_ListCorrelationProof", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.topListTable_3_2_3", "child": "Hadamard668_CertificateData", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.topListTable_3_2_3", "child": "Hadamard668_CorrelationData", "via": ["solution", "statement"]}
-{"parent": "Sendov.phelps_rodriguez", "child": "Sendov_Boundary", "via": ["statement"]}
-{"parent": "Sendov.phelps_rodriguez", "child": "Sendov_Conjecture", "via": ["statement"]}
-{"parent": "Sendov.phelps_rodriguez", "child": "Sendov_Interior", "via": ["statement"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov_Boundary", "via": ["solution", "statement"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov_Conjecture", "via": ["solution", "statement"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov_Interior", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.topListTable_2_2_1", "child": "Hadamard668_ListCorrelationProof", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.topListTable_2_2_1", "child": "Hadamard668_CertificateData", "via": ["solution", "statement"]}
 {"parent": "Hadamard668.topListTable_2_2_1", "child": "Hadamard668_CorrelationData", "via": ["solution", "statement"]}
@@ -21527,9 +21527,9 @@
 {"parent": "section5_wave_sum_integrable_product", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
 {"parent": "section5_wave_sum_integrable_product", "child": "Section5Verified_Section5HermiteWavefunctions", "via": ["solution", "statement"]}
 {"parent": "section5_wave_sum_integrable_product", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
-{"parent": "Sendov.stat_contradiction", "child": "Sendov_LargeDegree_Endgame", "via": ["statement"]}
-{"parent": "Sendov.stat_contradiction", "child": "Sendov_Main", "via": ["statement"]}
-{"parent": "Sendov.stat_contradiction", "child": "Sendov_FiniteRange_Cover", "via": ["statement"]}
+{"parent": "Sendov.stat_contradiction", "child": "Sendov_LargeDegree_Endgame", "via": ["solution", "statement"]}
+{"parent": "Sendov.stat_contradiction", "child": "Sendov_Main", "via": ["solution", "statement"]}
+{"parent": "Sendov.stat_contradiction", "child": "Sendov_FiniteRange_Cover", "via": ["solution", "statement"]}
 {"parent": "Sendov.B80_100.M_hi", "child": "Sendov_FiniteRange_Degree80_100", "via": ["solution", "statement"]}
 {"parent": "Sendov.B80_100.M_hi", "child": "Sendov_FiniteRange_Batch", "via": ["solution", "statement"]}
 {"parent": "Sendov.B80_100.M_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
@@ -21644,40 +21644,40 @@
 {"parent": "Section5Verified_Section5FiniteCoefficientTransfer", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["statement"]}
 {"parent": "Section5Verified_Section5FiniteCoefficientTransfer", "child": "QuantumLTF_Example_HermiteModel", "via": ["statement"]}
 {"parent": "Section5Verified_Section5FiniteCoefficientTransfer", "child": "Section5Verified_Section5L2Synthesis", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree6_6", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree20_22", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree70_79", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree48_49", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree36_37", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree10_11", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree52_53", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree46_47", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree26_27", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree60_63", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree24_26", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree18_20", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree50_51", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree28_29", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree12_13", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree16_18", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree14_15", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree8_9", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree38_39", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree64_69", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree34_35", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree22_24", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree32_33", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Cover", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree40_41", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree30_31", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree56_58", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree44_45", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree5", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree7", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree42_43", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree54_55", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree58_60", "via": ["statement"]}
-{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree80_100", "via": ["statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree6_6", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree20_22", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree70_79", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree48_49", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree36_37", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree10_11", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree52_53", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree46_47", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree26_27", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree60_63", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree24_26", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree18_20", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree50_51", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree28_29", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree12_13", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree16_18", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree14_15", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree8_9", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree38_39", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree64_69", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree34_35", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree22_24", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree32_33", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Cover", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree40_41", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree30_31", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree56_58", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree44_45", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree5", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree7", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree42_43", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree54_55", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree58_60", "via": ["solution", "statement"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov_FiniteRange_Degree80_100", "via": ["solution", "statement"]}
 {"parent": "Sendov.B80_100.c_lo", "child": "Sendov_FiniteRange_Degree80_100", "via": ["solution", "statement"]}
 {"parent": "Sendov.B80_100.c_lo", "child": "Sendov_FiniteRange_Batch", "via": ["solution", "statement"]}
 {"parent": "Sendov.B80_100.c_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
@@ -22668,38 +22668,38 @@
 {"parent": "section5_normalized_phase_error", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
 {"parent": "section5_normalized_phase_error", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
 {"parent": "section5_normalized_phase_error", "child": "Section5Verified_Section5GaussianSampling", "via": ["solution", "statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Example_HermiteModel", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "Section5Verified_Section5IntegerMatrixBounds", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "Section5Verified_Section5RealCandidateCircuit", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "Section5Verified_Section5SignedDotCircuit", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QAlgorithms_Defs_Gates", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_disagree", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_fpVal", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_gatesRev", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_ltf", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "section5_dyadic_decoder_output_circuit", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_readFp", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QAlgorithms_Defs_Classical", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QAlgorithms_Defs_Basic", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_gates12", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "Section5Verified_Section5PhaseRecovery", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "section5_real_candidate_circuit", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_splitReg", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "Section5Verified_Section5TwosComplement", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Example_qex", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_flatReg", "via": ["statement"]}
-{"parent": "section5_column_direction_circuit", "child": "Section5Verified_Section5IntegerSpectralBridge", "via": ["statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "Section5Verified_Section5IntegerMatrixBounds", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "Section5Verified_Section5RealCandidateCircuit", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "Section5Verified_Section5SignedDotCircuit", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "section5_dyadic_decoder_output_circuit", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_readFp", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "Section5Verified_Section5PhaseRecovery", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "section5_real_candidate_circuit", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "Section5Verified_Section5TwosComplement", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_column_direction_circuit", "child": "Section5Verified_Section5IntegerSpectralBridge", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.uniqueCrossingReindexENNRealV1", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.uniqueCrossingReindexENNRealV1", "child": "LeanLevy_RandomMeasure_PoissonFiltration", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.uniqueCrossingReindexENNRealV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
@@ -23535,3 +23535,942 @@
 {"parent": "Kyprianou.Ch04.ito43_mark_integral_series", "child": "Kyprianou.Ch04.bvRestrictedDiracIntegralV1", "via": ["solution"]}
 {"parent": "Kyprianou.Ch04.ito43_mark_integral_series", "child": "Kyprianou.Ch04.exercise41CadlagPhysicalJumpsCountableV17", "via": ["solution"]}
 {"parent": "Kyprianou.Ch04.ito43_mark_integral_series", "child": "Kyprianou.Ch04.bvPathJumpMeasureAtomicV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.markedPositiveCrossingAmbientMeasurableV1", "child": "LeanLevy_RandomMeasure_PoissonFiltration", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.markedPositiveCrossingAmbientMeasurableV1", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.markedPositiveCrossingAmbientMeasurableV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.markedPositiveCrossingAmbientMeasurableV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.markedPositiveCrossingAmbientMeasurableV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.markedPositiveCrossingAmbientMeasurableV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "LeanLevy_RandomMeasure_PoissonFiltration", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonJumpHasActiveMarkV1", "child": "LeanLevy_RandomMeasure_PoissonFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonJumpHasActiveMarkV1", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonJumpHasActiveMarkV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonJumpHasActiveMarkV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonJumpHasActiveMarkV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonJumpHasActiveMarkV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.potentialLaplaceNormalizedExact", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.potentialLaplaceNormalizedExact", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.potentialLaplaceNormalizedExact", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["solution", "statement"]}
+{"parent": "SierpinskiSeparates.separates", "child": "KnotsInsideFractals_fractals", "via": ["statement"]}
+{"parent": "SierpinskiSeparates.separates", "child": "KnotsInsideFractals_knots", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.potentialScalingFilter", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.potentialScalingFilter", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.potentialScalingFilter", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["solution", "statement"]}
+{"parent": "section5_qex_discretization_half_budget", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_qex_discretization_half_budget", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_qex_discretization_half_budget", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_qex_discretization_half_budget", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_qex_discretization_half_budget", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_qex_discretization_half_budget", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_qex_discretization_half_budget", "child": "section5_lemma_5_1", "via": ["solution", "statement"]}
+{"parent": "section5_qex_discretization_half_budget", "child": "section5_hermite_discretization_budget", "via": ["solution", "statement"]}
+{"parent": "section5_qex_discretization_half_budget", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_qex_discretization_half_budget", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_qex_discretization_half_budget", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_qex_discretization_half_budget", "child": "Section5Verified_Section5DiscretizationLemma", "via": ["solution", "statement"]}
+{"parent": "section5_qex_discretization_half_budget", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_qex_discretization_half_budget", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.potentialLaplaceAsymptoticsV2", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.potentialLaplaceAsymptoticsV2", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.potentialLaplaceAsymptoticsV2", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "Section5Verified_Section5OrientationAmplification", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "section5_qex_negative_orientation_vote_quarter", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "section5_qex_orientation_vote_quarter", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "section5_three_independent_errors", "via": ["solution", "statement"]}
+{"parent": "section5_three_qex_orientation_error", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_hermite_coefficient_error_51", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_hermite_coefficient_error_51", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_hermite_coefficient_error_51", "child": "section5_phase_coefficient_error_51", "via": ["solution", "statement"]}
+{"parent": "section5_hermite_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_hermite_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_hermite_coefficient_error_51", "child": "Section5Verified_Section5CoefficientDiscretization", "via": ["solution", "statement"]}
+{"parent": "section5_hermite_coefficient_error_51", "child": "section5_continuous_coefficient_eq_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_hermite_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_hermite_coefficient_error_51", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_hermite_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_hermite_coefficient_error_51", "child": "Section5Verified_Section5PhaseStateError", "via": ["solution", "statement"]}
+{"parent": "section5_hermite_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_hermite_coefficient_error_51", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "Section5Verified_Section5IntegerMatrixBounds", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "Section5Verified_Section5IntegerSpectralBridge", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "Section5Verified_Section5RealCandidateCircuit", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "Section5Verified_Section5PoweredMatrixDecoder", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_readFp", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "Section5Verified_Section5PhaseRecovery", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "section5_column_direction_circuit", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "Section5Verified_Section5ScoredColumnMatrix", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "section5_scored_column_matrix_circuit", "via": ["solution", "statement"]}
+{"parent": "section5_powered_matrix_decoder_circuit", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "section5_orientation_phase_error_small", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "section5_qex_phase_disagreement", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "Section5Verified_Section5PhaseStateError", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "Section5Verified_Section5DiscretizationLemma", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "section5_ideal_phase_distance_sq", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "section5_normalized_phase_distance_eq_qex", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "section5_gaussian_disagreement_proved", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_margin", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "Section5Verified_Section5PhaseStateError", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "section5_normalized_phase_error", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "section5_hermite_discretization_budget", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_phase_error_small", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "Section5Verified_Section5GridIsometry", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "Section5Verified_Section5FiniteCoefficientTransfer", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "section5_grid_lift_inner", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "Section5Verified_Section5GaussianTail", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "section5_hermite_coefficient_error_51", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "section5_tensor_grid_vector_bits", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "Section5Verified_Section5HermiteWavefunctions", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "Section5Verified_Section5HermiteFoundations", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "Section5Verified_Section5PhaseStateError", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "Section5Verified_Section5GaussianSampling", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "Section5Verified_Section5L2Synthesis", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "section5_grid_lift_norm", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "Section5Verified_Section5PhysicalHermiteGrid", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "Section5Verified_Section5ProductSampling", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "Section5Verified_Section5MultivariateSampling", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "Section5Verified_Section5CoefficientDiscretization", "via": ["solution", "statement"]}
+{"parent": "section5_bit_coefficient_error_51", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "Section5Verified_Section5GridIsometry", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "section5_middle_window_scales", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "Section5Verified_Section5BoundedWindow", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "section5_window_precision_bounds", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "section5_qex_window_label_error", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "Section5Verified_Section5RealWindow", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "section5_finite_window_error_budget", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "section5_large_grid_fits_window", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "SierpinskiSeparates.exists_embeddable", "child": "KnotsInsideFractals_fractals", "via": ["statement"]}
+{"parent": "SierpinskiSeparates.exists_embeddable", "child": "KnotsInsideFractals_knots", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "LeanLevy_RandomMeasure_PoissonFiltration", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "Section5Verified_Section5IntegerMatrixBounds", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "Section5Verified_Section5IntegerSpectralBridge", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "section5_decoder_parameters_sufficient", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "section5_exact_integer_matrix_power_circuit", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_readFp", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "Section5Verified_Section5PhaseRecovery", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "Section5Verified_Section5ExactMatrixPowerCircuit", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "Section5Verified_Section5ReconstructionPrecision", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "section5_dyadic_entry_bound", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "section5_decoder_power_gate_bound", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "section5_uniform_matrix_power_circuit", "child": "Section5Verified_Section5DyadicDecoderParameters", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "section5_orientation_phase_error_small", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "section5_normalized_phase_sum_eq_qex", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "Section5Verified_Section5PhaseStateError", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "Section5Verified_Section5DiscretizationLemma", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "section5_ideal_phase_distance_sq", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "section5_ideal_phase_neg", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "section5_gaussian_disagreement_proved", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "section5_qex_phase_agreement", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_quarter", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Example_HermiteModel", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QAlgorithms_Defs_Basic", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "Section5Verified_Section5OrientationAmplification", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "section5_uniform_qex_window_error", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "section5_qex_negative_orientation_vote_margin", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Example_qex", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "section5_qex_orientation_vote_margin", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_ltf", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_splitReg", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "Section5Verified_Section5BoundedWindow", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_disagree", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QAlgorithms_Defs_Gates", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QAlgorithms_Defs_Classical", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_gatesRev", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "Section5Verified_Section5RealWindow", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "Section5Verified_Section5QuantizedOrientation", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "section5_large_grid_fits_window", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_fpVal", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_gates12", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_flatReg", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_high_frequency", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_high_frequency", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_high_frequency", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_high_frequency", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_high_frequency", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_high_frequency", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_high_frequency", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "section5_orientation_phase_error_small", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "section5_normalized_phase_sum_eq_qex", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "Section5Verified_Section5PhaseStateError", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "Section5Verified_Section5DiscretizationLemma", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "section5_ideal_phase_distance_sq", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "section5_ideal_phase_neg", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "section5_gaussian_disagreement_proved", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "section5_qex_phase_agreement", "via": ["solution", "statement"]}
+{"parent": "section5_qex_negative_orientation_vote_margin", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "section5_adjoint_supported_state_error", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "section5_complex_series_integral_sq", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "Section5Verified_Section5GaussianTail", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "Section5Verified_Section5HermiteWavefunctions", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "section5_hermite_roundCoord_error", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "section5_tensor_synthesis_error", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "Section5Verified_Section5PhaseStateError", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "section5_normalized_phase_error", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "Section5Verified_Section5GaussianSampling", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "section5_l2_norm_sq", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "section5_tensor_synthesis_bound", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "Section5Verified_Section5L2Synthesis", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "section5_sampled_phase_toLp_ne_zero", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "Section5Verified_Section5ProductSampling", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "section5_hybrid_linear_bound", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "Section5Verified_Section5MultivariateSampling", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "Section5Verified_Section5CoefficientDiscretization", "via": ["solution", "statement"]}
+{"parent": "section5_phase_coefficient_error_51", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "Section5Verified_Section5GridIsometry", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "section5_gaussian_inner_strip", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "section5_roundCoord_error", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "Section5Verified_Section5SignedWindow", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "section5_coordinate_approximation_norm", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "section5_rounding_label_probability", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "section5_qex_gaussian_probability_transfer", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "section5_gaussian_cube_tail", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "Section5Verified_Section5RealWindow", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "section5_real_window_error", "via": ["solution", "statement"]}
+{"parent": "section5_qex_window_label_error", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_readFp", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "section5_clean_batch_all", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "Section5Verified_Section5BoundedWindow", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "Section5Verified_Section5OrientationDecision", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "section5_single_qex_vote_circuit", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "Section5Verified_Section5ThreeVoteCircuit", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "Section5Verified_Section5QuantizedOrientation", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "section5_three_vote_circuit", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "section5_orientation_phase_error_small", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "section5_qex_phase_disagreement", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "Section5Verified_Section5PhaseStateError", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "Section5Verified_Section5DiscretizationLemma", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "section5_ideal_phase_distance_sq", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "section5_normalized_phase_distance_eq_qex", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "section5_gaussian_disagreement_proved", "via": ["solution", "statement"]}
+{"parent": "section5_qex_orientation_vote_quarter", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "section5_replace_wires_eq_update", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "Section5Verified_Section5ReversibleBooleanCompiler", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_readFp", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "Section5Verified_Section5ClassicalGateFoundation", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "Section5Verified_Section5BoundedWindow", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "Section5Verified_Section5OrientationDecision", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "section5_uniform_window_comparator", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "Section5Verified_Section5QuantizedOrientation", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "section5_single_qex_vote_circuit", "child": "section5_embed_classical_gate_action", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "Section5Verified_Section5IntegerMatrixBounds", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "Section5Verified_Section5IntegerDirectionCircuit", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "Section5Verified_Section5DecoderLayout", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "Section5Verified_Section5IntegerSpectralBridge", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "section5_exact_integer_matrix_power_circuit", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_readFp", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "Section5Verified_Section5PhaseRecovery", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "Section5Verified_Section5ExactMatrixPowerCircuit", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "section5_dyadic_entry_bound", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "Section5DecoderLayout.canonical_powered_decoder", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "Section5Verified_Section5CanonicalPoweredDecoder", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_circuit", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "SendovConjecture.phelps_rodriguez", "child": "Sendov.phelps_rodriguez", "via": ["solution", "statement"]}
+{"parent": "SendovConjecture.phelps_rodriguez", "child": "Sendov_Conjecture", "via": ["solution", "statement"]}
+{"parent": "SendovConjecture.phelps_rodriguez", "child": "Sendov_Solution", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.activePositivePoissonMarkIsJumpV1", "child": "LeanLevy_RandomMeasure_PoissonFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.activePositivePoissonMarkIsJumpV1", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.activePositivePoissonMarkIsJumpV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.activePositivePoissonMarkIsJumpV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.activePositivePoissonMarkIsJumpV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.activePositivePoissonMarkIsJumpV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
+{"parent": "SierpinskiSeparates.exists_not_embeddable", "child": "KnotsInsideFractals_fractals", "via": ["statement"]}
+{"parent": "SierpinskiSeparates.exists_not_embeddable", "child": "KnotsInsideFractals_knots", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_measurable", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_measurable", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_measurable", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_measurable", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_measurable", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_measurable", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_measurable", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_normalised_exponent_limit", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_normalised_exponent_limit", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_normalised_exponent_limit", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_normalised_exponent_limit", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_normalised_exponent_limit", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_normalised_exponent_limit", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_normalised_exponent_limit", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "Section5Verified_Section5IntegerMatrixBounds", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "Section5Verified_Section5ComplexMatrixCircuit", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "Section5Verified_Section5ModularMatrixPowers", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "section5_twos_complement_decode_mod", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "Section5Verified_Section5ExactMatrixPowerCircuit", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "Section5Verified_Section5TwosComplement", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "Section5Verified_Section5SignedDotCircuit", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "section5_integer_matrix_bit_bound", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "section5_fixed_width_matrix_power_circuit", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "section5_integer_matrix_residue_power", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "section5_exact_integer_matrix_power_circuit", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.karamataTauberianZeroCumulativeFinite", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.karamataTauberianZeroCumulativeFinite", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.karamataTauberianZeroCumulativeFinite", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.ofReal_integral_liouville_le_diskArea", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_exponent_identity", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_exponent_identity", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_exponent_identity", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_exponent_identity", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_exponent_identity", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_exponent_identity", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_exponent_identity", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "Section5Verified_Section5IntegerMatrixBounds", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "Section5Verified_Section5DecoderLayout", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "Section5Verified_Section5IntegerSpectralBridge", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "Section5Verified_Section5DecoderLayoutLaws", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "Section5DecoderLayout.record_matrix_read", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "Section5Verified_Section5PoweredMatrixDecoder", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "Section5DecoderLayout.records_disjoint", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_readFp", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "Section5Verified_Section5PhaseRecovery", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "Section5Verified_Section5ExactMatrixPowerCircuit", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "Section5Verified_Section5ScoredColumnMatrix", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "Section5DecoderLayout.records_columnLabel", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "section5_powered_matrix_decoder_circuit", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "Section5Verified_Section5CanonicalPoweredDecoder", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.canonical_powered_decoder", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.reciprocalRegularVariationFactor", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.reciprocalRegularVariationFactor", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.reciprocalRegularVariationFactor", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_pathwise", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_pathwise", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_pathwise", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_pathwise", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_pathwise", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_pathwise", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_pathwise", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "Section5Verified_Section5GridIsometry", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "Section5Verified_Section5FiniteCoefficientTransfer", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "Section5Verified_Section5GridPhaseMatchesQEX", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "Section5Verified_Section5GaussianProbabilityTransfer", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "Section5Verified_Section5GaussianTail", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "Section5Verified_Section5HermiteFoundations", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "Section5Verified_Section5PhaseStateError", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "Section5Verified_Section5GaussianSampling", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "section5_l2_norm_sq", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "section5_grid_exp_sum", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "section5_gaussian_event_probability_transfer", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "section5_grid_lift_norm", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "Section5Verified_Section5PhysicalHermiteGrid", "via": ["solution", "statement"]}
+{"parent": "section5_qex_gaussian_probability_transfer", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_readFp", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "Section5Verified_Section5BoundedWindow", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "section5_majority_sign_circuit", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "Section5Verified_Section5OrientationDecision", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "Section5Verified_Section5FixedPointOutputCircuit", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "Section5Verified_Section5QuantizedOrientation", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "Section5Verified_Section5OrientationPostprocessor", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "section5_three_vote_circuit", "via": ["solution", "statement"]}
+{"parent": "section5_orientation_postprocessor", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "LL_Decomp1555b.ramare_mu_phi", "child": "LL_Decomp1555b_muPhi", "via": ["statement"]}
+{"parent": "SendovConjecture.sendov", "child": "Sendov.sendov", "via": ["solution", "statement"]}
+{"parent": "SendovConjecture.sendov", "child": "Sendov_Conjecture", "via": ["solution", "statement"]}
+{"parent": "SendovConjecture.sendov", "child": "Sendov_Solution", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_residual_exact", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_residual_exact", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_residual_exact", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_residual_exact", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_residual_exact", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_residual_exact", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_residual_exact", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_high_frequency", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_high_frequency", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_high_frequency", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_high_frequency", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_high_frequency", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_high_frequency", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_high_frequency", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_levy_intensity_limit", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_levy_intensity_limit", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_levy_intensity_limit", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_levy_intensity_limit", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_levy_intensity_limit", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_levy_intensity_limit", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_levy_intensity_limit", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "Section5Verified_Section5GridPhaseMatchesQEX", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "section5_bit_phase_state_eq_qex_phase", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "Section5Verified_Section5DiscretizationLemma", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "section5_bit_coefficient_error_51", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "Section5Verified_Section5PhysicalHermiteGrid", "via": ["solution", "statement"]}
+{"parent": "section5_lemma_5_1", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.potentialScalingLimitsV2", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.potentialScalingLimitsV2", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou.Ch05.karamataTauberianZeroCumulativeFinite", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou.Ch05.potentialSupportNonnegative", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou.Ch05.potentialLaplaceAsymptoticsV2", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou.Ch05.killedPotential_laplaceTransform", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou.Ch05.potentialScalingLimitsV2", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou.Ch05.potentialSupportNonnegative", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou.Ch05.potentialLaplaceAsymptoticsV2", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou.Ch05.karamataTauberianInfinity", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou.Ch05.potentialScalingLimitsV2", "via": ["solution"]}
+{"parent": "MuirheadMST.wishart_density", "child": "PI.AprimeInfG.lintegral_fintype_prod", "via": ["solution"]}
+{"parent": "MuirheadMST.wishart_density", "child": "DbarRegularity.lintegral_fun_norm_eq", "via": ["solution"]}
+{"parent": "MuirheadMST.wishart_density", "child": "MuirheadMST.bartlett_decomposition", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "Kyprianou.Ch04.ito43_cosine_residual_exact", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "Kyprianou.Ch04.ito43_cosine_jump_high_frequency", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_qv_cosine_residual_small", "child": "Kyprianou.Ch04.ito43_cosine_grid_high_frequency", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.ofReal_loopAction_le_diskArea", "child": "FiniteEnergyPlane.aCoord_neg_and_boundary_pos_of_isDiskCurve", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.ofReal_loopAction_le_diskArea", "child": "FiniteEnergyPlane.contDiffOn_of_apply_eq_of_injective_fderiv", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.ofReal_loopAction_le_diskArea", "child": "FiniteEnergyPlane.ofReal_integral_liouville_le_diskArea", "via": ["solution"]}
+{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov.stat_of_one_le", "via": ["solution"]}
+{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov.alpha_le_seventeen", "via": ["solution"]}
+{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov.one_le_of_origin", "via": ["solution"]}
+{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov.beta_le", "via": ["solution"]}
+{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov.QQ_nonneg", "via": ["solution"]}
+{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov.log_le_alpha_mul", "via": ["solution"]}
+{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov.stat_lt_one", "via": ["solution"]}
+{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov.alpha_pos", "via": ["solution"]}
+{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov.polar_exp", "via": ["solution"]}
+{"parent": "Sendov.polar_origin_incompatible", "child": "Sendov.feasible_of_beta", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.wsumZ_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.wsumZ_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.phelps_rodriguez", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.l1row_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.Fprod_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.eval_rotate", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.l1_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.l1row_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.sumEraseProdC_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.sumEraseProd_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.wsum_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.l1_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.qrow_length", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.rscale_length", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.wsum_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_generator_convolution_hjb", "child": "AvramDividend.Classical.avram_locmoll_interior_jet_interchange", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_generator_convolution_hjb", "child": "AvramDividend.Classical.avram_locmoll_jump_integral_interchange", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_generator_convolution_hjb", "child": "AvramDividend.Classical.avram_locmoll_generator_sign_assembly", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.sendov_center", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.wsumZ_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.wsumZ_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.l1row_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.Fprod_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.l1_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.sendov_interior", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.l1row_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.sumEraseProdC_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.sumEraseProd_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.wsum_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.l1_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.qrow_length", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.rscale_length", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.wsum_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior_real", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.origin_exact", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.wsum_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.wsumZ_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.wsumZ_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.xy_bounds", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.low_degree_contradiction", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.l1row_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.first_origin_identity", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.Fprod_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.centroid_identity", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.l1_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.one_le_integral_prod_norm", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.polar_identity", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.second_origin_identity", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.polar_origin_incompatible", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.one_le_integral_Ppolar", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.l1row_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.exists_crit_multiset", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.sumEraseProdC_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.sumEraseProd_zero", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.wsum_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.l1_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.qrow_length", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.rscale_length", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.exists_root_multiset", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.prod_sub_mul_prod", "via": ["solution"]}
+{"parent": "Sendov.sendov_interior", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.rubinstein_one", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.sendov_center", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.rotate_rotate_inv", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.wsumZ_nil", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.natDegree_rotate", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.eval_derivative_rotate", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.wsumZ_cons", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.sendov_interior_real", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.l1row_cons", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.Fprod_zero", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.eval_rotate", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.l1_nil", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.l1row_nil", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.sumEraseProdC_zero", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.sumEraseProd_zero", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.wsum_cons", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.l1_cons", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.qrow_length", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.rscale_length", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.roots_rotate", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.wsum_nil", "via": ["solution"]}
+{"parent": "Sendov.phelps_rodriguez", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.stat_contradiction", "child": "Sendov.stat_lt_one", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B22_24.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B32_33.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B40_41.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B24_26.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B8_9.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B54_55.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B70_79.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B6_6.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B52_53.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B50_51.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B18_20.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B28_29.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B48_49.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B26_27.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B34_35.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B58_60.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B46_47.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B64_69.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B16_18.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B56_58.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B80_100.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B42_43.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B38_39.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B44_45.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B14_15.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B30_31.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B20_22.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B60_63.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B36_37.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B10_11.finite_range", "via": ["solution"]}
+{"parent": "Sendov.finite_range_contradiction", "child": "Sendov.B12_13.finite_range", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.positivePoissonJumpHasActiveMarkV1", "child": "Kyprianou.Ch05.pointFamilyPositiveFibreExistsV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.positivePoissonJumpHasActiveMarkV1", "child": "Kyprianou.Ch05.pointFamilyPositiveFibreMassV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.potentialLaplaceAsymptoticsV2", "child": "Kyprianou.Ch05.potentialLaplaceNormalizedExact", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.potentialLaplaceAsymptoticsV2", "child": "Kyprianou.Ch05.killedPotential_laplaceTransform", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.potentialLaplaceAsymptoticsV2", "child": "Kyprianou.Ch05.reciprocalRegularVariationFactor", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_deficit_frequency_limit", "child": "Kyprianou.Ch04.ito43_qv_cosine_bounds", "via": ["solution"]}
+{"parent": "NullConeGravity.finite_spectrum_gaussian_trace", "child": "NullConeGravity.gaussian_area_window_normalization", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45MaskedDominatedUCPV5", "child": "Kyprianou.Ch04.exercise45MaskedLimitRegularV5", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45MaskedDominatedUCPV5", "child": "Kyprianou.Ch04.exercise45DyadicDominatedUCPV5", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_high_frequency", "child": "Kyprianou.Ch04.ito43_ucp_countable_envelope", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_high_frequency", "child": "Kyprianou.Ch04.ito43_cosine_jump_envelope_pathwise", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_high_frequency", "child": "Kyprianou.Ch04.ito43_cosine_jump_envelope_measurable", "via": ["solution"]}
+{"parent": "NullConeGravity.gaussian_area_window_normalization", "child": "NullConeGravity.schwarzschild_mass_area_change_of_variables", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.activePositivePoissonMarkIsJumpV1", "child": "Kyprianou.Ch05.pointFamilyPositiveFibreMassV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_normalised_exponent_limit", "child": "Kyprianou.Ch04.ito43_cosine_exponent_identity", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_normalised_exponent_limit", "child": "Kyprianou.Ch04.ito43_cosine_levy_intensity_limit", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_exponent_identity", "child": "ProbabilityTheory.levyCompensatedIntegrand_def", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_exponent_identity", "child": "ProbabilityTheory.integrable_levyCompensatedIntegrand", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_pathwise", "child": "Kyprianou.Ch04.ito43_cosine_deficit_square_bound", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_pathwise", "child": "Kyprianou.Ch04.ito43_path_jump_kernel_energy_bound", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_pathwise", "child": "Kyprianou.Ch04.exercise41CadlagPhysicalJumpsCountableV17", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_pathwise", "child": "Kyprianou.Ch04.ito43_levy_jump_energy_localisation", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_jump_envelope_pathwise", "child": "Kyprianou.Ch04.ito43_cosine_deficit_frequency_limit", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_residual_exact", "child": "Kyprianou.Ch04.exercise41CadlagPhysicalJumpsCountableV17", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_residual_exact", "child": "Kyprianou.Ch04.ito43_cosine_deficit_square_bound", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_residual_exact", "child": "Kyprianou.Ch04.ito43_levy_jump_energy_localisation", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_residual_exact", "child": "Kyprianou.Ch04.ito43_path_jump_kernel_energy_bound", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_deficit_square_bound", "child": "Kyprianou.Ch04.ito43_qv_cosine_bounds", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_levy_intensity_limit", "child": "Kyprianou.Ch04.ito43_cosine_deficit_square_bound", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_levy_intensity_limit", "child": "Kyprianou.Ch04.ito43_cosine_deficit_frequency_limit", "via": ["solution"]}

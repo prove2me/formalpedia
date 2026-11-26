@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_finite_range_contradiction
 -- name    : Sendov.finite_range_contradiction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T20:01:53.445678+00:00
 -- url     : https://prove2.me/theorems/cc857757-91d2-5879-8c9c-12ce73eb0a28
