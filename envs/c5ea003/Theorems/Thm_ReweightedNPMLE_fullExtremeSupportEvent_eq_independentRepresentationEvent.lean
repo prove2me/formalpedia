@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_fullExtremeSupportEvent_eq_independentRepresentationEvent
 -- name    : ReweightedNPMLE.fullExtremeSupportEvent_eq_independentRepresentationEvent
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:40:11.845086+00:00
 -- url     : https://prove2.me/theorems/a38c40ce-5d0f-5177-9f7f-507c49ceb008
 -- title:

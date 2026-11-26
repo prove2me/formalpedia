@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_normalized_card_shellMultiplicativeHit_quarter_le
 -- name    : FirstPassageLinearTransport.normalized_card_shellMultiplicativeHit_quarter_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:29:14.365995+00:00
 -- url     : https://prove2.me/theorems/a97745e2-31a9-446e-85dd-fbbd8452f232

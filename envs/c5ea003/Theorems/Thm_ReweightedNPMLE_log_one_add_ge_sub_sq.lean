@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_log_one_add_ge_sub_sq
 -- name    : ReweightedNPMLE.log_one_add_ge_sub_sq
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:23.987652+00:00
 -- url     : https://prove2.me/theorems/9774210a-fe84-5b4d-862b-dcf78e66754e
 -- title:

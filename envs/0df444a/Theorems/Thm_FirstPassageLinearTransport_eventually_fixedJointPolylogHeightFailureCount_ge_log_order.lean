@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_fixedJointPolylogHeightFailureCount_ge_log_order
 -- name    : FirstPassageLinearTransport.eventually_fixedJointPolylogHeightFailureCount_ge_log_order
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:39.660908+00:00
 -- url     : https://prove2.me/theorems/4c46e18c-3b02-43ff-b624-10025247649b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_brownianPurePowerIntegral_mem_brownianHomogeneousChaos
 -- name    : Malliavin.BrownianIteratedConstruction.brownianPurePowerIntegral_mem_brownianHomogeneousChaos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:09:29.781396+00:00
 -- url     : https://prove2.me/theorems/e998092d-92a8-5fab-86e9-97267576ab2d

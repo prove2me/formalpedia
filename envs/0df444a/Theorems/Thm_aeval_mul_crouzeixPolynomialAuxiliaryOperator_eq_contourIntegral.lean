@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_eq_contourIntegral
 -- name    : aeval_mul_crouzeixPolynomialAuxiliaryOperator_eq_contourIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:35.566504+00:00
 -- url     : https://prove2.me/theorems/d04fea40-f69a-5e71-870c-6daf0417c12e

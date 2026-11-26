@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianLocationMixtureLaw_id_eq_convolution
 -- name    : ReweightedNPMLE.gaussianLocationMixtureLaw_id_eq_convolution
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:45.683666+00:00
 -- url     : https://prove2.me/theorems/c9177d61-99b7-5b8a-ae9e-8059d657ad78
 -- title:

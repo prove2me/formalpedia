@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_finiteProbabilityMeasure_extreme_of_linearIndependent
 -- name    : ReweightedNPMLE.finiteProbabilityMeasure_extreme_of_linearIndependent
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:38:41.563581+00:00
 -- url     : https://prove2.me/theorems/db3c49f3-665a-5ada-af0c-33eb8c6505ba
 -- title:

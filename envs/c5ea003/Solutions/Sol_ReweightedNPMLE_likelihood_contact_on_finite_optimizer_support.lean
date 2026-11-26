@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.likelihood_contact_on_finite_optimizer_support
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:59:55.996618+00:00
 -- url     : https://prove2.me/submissions/ffa5fc6c-90c9-49d7-8080-87844b12f55d
 

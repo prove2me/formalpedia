@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianMixtureMeasure
 -- name    : ReweightedNPMLE_GaussianMixtureMeasure
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:23:52.972286+00:00
 -- url     : https://prove2.me/theorems/21df027c-057f-4657-a7ce-a0c9499f6a98
 -- title:

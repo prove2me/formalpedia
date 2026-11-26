@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_exists_half_sphere_net
 -- name    : ReweightedNPMLE.exists_half_sphere_net
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:37.357102+00:00
 -- url     : https://prove2.me/theorems/752c4828-029f-46f4-adf6-5874fad7688c
 -- title:

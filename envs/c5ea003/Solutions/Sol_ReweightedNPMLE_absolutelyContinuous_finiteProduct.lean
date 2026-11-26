@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.absolutelyContinuous_finiteProduct
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:52:44.376705+00:00
 -- url     : https://prove2.me/submissions/b820e153-f02f-4bb7-bc0d-d194d23aa62e
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_re_inner_apply_self_eq_norm_cfcSqrt_sq_of_nonneg
 -- name    : re_inner_apply_self_eq_norm_cfcSqrt_sq_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:40.011615+00:00
 -- url     : https://prove2.me/theorems/95343cc5-d5be-43e2-8007-86319c6e123f

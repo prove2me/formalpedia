@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_orbit_le_root_of_stageClock_of_le_rpow
 -- name    : FirstPassageLinearTransport.orbit_le_root_of_stageClock_of_le_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:00.412121+00:00
 -- url     : https://prove2.me/theorems/2a6a4b9d-2464-4300-b25b-b45190c6c449

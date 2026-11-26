@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_brownianPurePowerIntegral_eq_integralCLM
 -- name    : Malliavin.BrownianIteratedConstruction.brownianPurePowerIntegral_eq_integralCLM
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:08:30.197115+00:00
 -- url     : https://prove2.me/theorems/a4cb441a-671b-5229-bbc0-602c84c68ccc

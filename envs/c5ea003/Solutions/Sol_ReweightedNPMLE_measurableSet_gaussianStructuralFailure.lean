@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.measurableSet_gaussianStructuralFailure
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:17:22.027914+00:00
 -- url     : https://prove2.me/submissions/b53635bf-37de-4ce2-afa4-0e462e577daa
 

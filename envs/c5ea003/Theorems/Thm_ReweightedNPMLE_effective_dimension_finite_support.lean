@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_effective_dimension_finite_support
 -- name    : ReweightedNPMLE.effective_dimension_finite_support
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:03.393479+00:00
 -- url     : https://prove2.me/theorems/9e6adfb5-90dc-5bae-b2c6-2cb779ffef7f
 -- title:

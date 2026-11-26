@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_const_mul_log_log_le_log_rpow
 -- name    : ReweightedNPMLE.eventually_const_mul_log_log_le_log_rpow
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:42:46.926894+00:00
 -- url     : https://prove2.me/theorems/1481380a-b1b8-5e23-a16b-116877314f34
 -- title:

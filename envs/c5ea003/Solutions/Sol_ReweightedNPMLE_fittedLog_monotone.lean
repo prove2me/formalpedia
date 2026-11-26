@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.fittedLog_monotone
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:01:46.761472+00:00
 -- url     : https://prove2.me/submissions/78a00ab8-192f-46f2-a5dc-e82cff692e94
 

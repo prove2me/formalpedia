@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_finiteGaussianMixture_coefficients_zero_of_eq_zero
 -- name    : ReweightedNPMLE.finiteGaussianMixture_coefficients_zero_of_eq_zero
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:36.743601+00:00
 -- url     : https://prove2.me/theorems/4cc13310-be9d-5820-85fa-791fcaef369a
 -- title:

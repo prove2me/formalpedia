@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.half_separated_sphere_card_le_five_pow
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:08:45.889817+00:00
 -- url     : https://prove2.me/submissions/37bf6eaa-b373-4c0a-80f5-4bf2ab26d503
 

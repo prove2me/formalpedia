@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_global_polynomial_calculus_bound_frontier_of_cauchy
 -- name    : exists_global_polynomial_calculus_bound_frontier_of_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:51:30.756454+00:00
 -- url     : https://prove2.me/theorems/d6c726de-8412-4589-8239-6841e12482c9

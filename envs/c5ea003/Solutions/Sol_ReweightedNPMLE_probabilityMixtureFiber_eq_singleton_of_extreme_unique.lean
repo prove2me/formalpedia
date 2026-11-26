@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.probabilityMixtureFiber_eq_singleton_of_extreme_unique
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:14:43.133539+00:00
 -- url     : https://prove2.me/submissions/b8c81e00-8929-4de1-a86a-ca44f3289dfb
 

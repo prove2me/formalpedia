@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_Laurent_lowIndex_le_highIndex
 -- name    : GroundTheory.PAdicHodge.Laurent.lowIndex_le_highIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:01:13.180421+00:00
 -- url     : https://prove2.me/theorems/e42e0897-3e2d-5d1f-a732-aefd7ff0495f

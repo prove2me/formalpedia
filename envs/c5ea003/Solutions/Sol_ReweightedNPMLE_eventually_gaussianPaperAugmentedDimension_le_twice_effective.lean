@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianPaperAugmentedDimension_le_twice_effective
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:10:10.083003+00:00
 -- url     : https://prove2.me/submissions/60aef443-660b-4e52-a1d4-4d59c0c39713
 

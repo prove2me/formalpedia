@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_isLittleO_gaussianPaperBalancedShape_rpow
 -- name    : ReweightedNPMLE.isLittleO_gaussianPaperBalancedShape_rpow
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:44.697799+00:00
 -- url     : https://prove2.me/theorems/7d7e1adc-015d-59ab-b0ed-539a753ff729
 -- title:

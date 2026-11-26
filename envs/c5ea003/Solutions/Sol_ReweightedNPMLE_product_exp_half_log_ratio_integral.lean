@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.product_exp_half_log_ratio_integral
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:05:21.703218+00:00
 -- url     : https://prove2.me/submissions/57910142-ec2a-42f2-a6c5-b9e798c8f8dc
 

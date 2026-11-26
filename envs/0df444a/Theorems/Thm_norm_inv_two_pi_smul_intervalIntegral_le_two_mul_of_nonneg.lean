@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_inv_two_pi_smul_intervalIntegral_le_two_mul_of_nonneg
 -- name    : norm_inv_two_pi_smul_intervalIntegral_le_two_mul_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:04.16615+00:00
 -- url     : https://prove2.me/theorems/5a5a701f-e2da-5447-a3e0-b158f31b8c06

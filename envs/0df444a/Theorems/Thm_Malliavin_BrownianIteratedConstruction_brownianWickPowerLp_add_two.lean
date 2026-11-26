@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_brownianWickPowerLp_add_two
 -- name    : Malliavin.BrownianIteratedConstruction.brownianWickPowerLp_add_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:09:25.552887+00:00
 -- url     : https://prove2.me/theorems/f1ba3b82-62c7-5cde-9e78-6cc3245d4b85

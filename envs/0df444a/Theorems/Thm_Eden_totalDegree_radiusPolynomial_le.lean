@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_totalDegree_radiusPolynomial_le
 -- name    : Eden.totalDegree_radiusPolynomial_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:01:09.875786+00:00
 -- url     : https://prove2.me/theorems/301e23b7-9e06-4558-8eb4-6fc83cc9b00e

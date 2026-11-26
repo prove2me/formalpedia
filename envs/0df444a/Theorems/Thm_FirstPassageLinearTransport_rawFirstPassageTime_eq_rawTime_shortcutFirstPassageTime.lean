@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rawFirstPassageTime_eq_rawTime_shortcutFirstPassageTime
 -- name    : FirstPassageLinearTransport.rawFirstPassageTime_eq_rawTime_shortcutFirstPassageTime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:32:27.617446+00:00
 -- url     : https://prove2.me/theorems/b60845ed-2b95-48fd-9f6b-917f842f9016

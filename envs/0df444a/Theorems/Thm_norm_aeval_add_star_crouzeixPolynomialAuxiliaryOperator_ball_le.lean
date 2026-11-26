@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_add_star_crouzeixPolynomialAuxiliaryOperator_ball_le
 -- name    : norm_aeval_add_star_crouzeixPolynomialAuxiliaryOperator_ball_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:01:25.21914+00:00
 -- url     : https://prove2.me/theorems/0a6930b8-c146-5022-a177-9252fd7b1fb3

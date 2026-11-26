@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianApproxRegularization
 -- name    : ReweightedNPMLE_GaussianApproxRegularization
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:35:31.596355+00:00
 -- url     : https://prove2.me/theorems/28becf99-deaa-534d-9117-9d475d0faec1
 -- title:

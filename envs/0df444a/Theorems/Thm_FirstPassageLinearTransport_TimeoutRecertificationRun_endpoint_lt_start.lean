@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_TimeoutRecertificationRun_endpoint_lt_start
 -- name    : FirstPassageLinearTransport.TimeoutRecertificationRun.endpoint_lt_start
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:25:37.104817+00:00
 -- url     : https://prove2.me/theorems/75793d6f-f1bf-5d7a-bbbc-0ef70ae130a5

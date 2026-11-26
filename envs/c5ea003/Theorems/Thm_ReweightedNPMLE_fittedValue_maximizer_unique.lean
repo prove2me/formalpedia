@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_fittedValue_maximizer_unique
 -- name    : ReweightedNPMLE.fittedValue_maximizer_unique
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:31.912948+00:00
 -- url     : https://prove2.me/theorems/4db02f8d-4947-5af9-abf1-98bdb57264ce
 -- title:

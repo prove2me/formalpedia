@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.coordinateGaussianScore_isMonomialCombination
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:02:41.554246+00:00
 -- url     : https://prove2.me/submissions/1a793a55-ad15-4e04-af09-6cf1128cc963
 

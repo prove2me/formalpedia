@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_tendsto_div_time_of_hasDerivAt
 -- name    : Eden.tendsto_div_time_of_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:00:01.221826+00:00
 -- url     : https://prove2.me/theorems/e736b497-3f57-52d0-a97a-3dd151bb095a

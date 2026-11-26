@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_finiteCore_eq_closedCore
 -- name    : FourierJacobi.Algebra.finiteCore_eq_closedCore
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:17:13.954151+00:00
 -- url     : https://prove2.me/theorems/19d9ca43-5da4-4048-a7d0-5063af5c8f58

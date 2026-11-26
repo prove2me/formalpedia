@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianPaperTiny_conditions
 -- name    : ReweightedNPMLE.eventually_gaussianPaperTiny_conditions
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:49:32.401402+00:00
 -- url     : https://prove2.me/theorems/0e718ed8-99f5-4c8b-97b6-46885b12d1b4
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.measurableSet_exists_compactOptimizer_outside_closed
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:15:47.848803+00:00
 -- url     : https://prove2.me/submissions/b9d1d58c-97fb-46ed-9b65-5ecc6acb5cde
 

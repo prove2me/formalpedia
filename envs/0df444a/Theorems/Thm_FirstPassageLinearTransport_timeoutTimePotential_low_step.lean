@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutTimePotential_low_step
 -- name    : FirstPassageLinearTransport.timeoutTimePotential_low_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:42.436868+00:00
 -- url     : https://prove2.me/theorems/521eef2e-717c-5509-b3f9-923401493e48

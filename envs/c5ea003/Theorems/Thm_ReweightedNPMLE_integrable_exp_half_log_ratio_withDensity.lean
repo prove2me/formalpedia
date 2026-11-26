@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_integrable_exp_half_log_ratio_withDensity
 -- name    : ReweightedNPMLE.integrable_exp_half_log_ratio_withDensity
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:42:07.187181+00:00
 -- url     : https://prove2.me/theorems/362771f1-5488-5565-9931-4ed6038091f4
 -- title:

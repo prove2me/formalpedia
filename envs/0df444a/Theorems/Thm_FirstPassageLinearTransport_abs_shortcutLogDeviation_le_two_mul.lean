@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_abs_shortcutLogDeviation_le_two_mul
 -- name    : FirstPassageLinearTransport.abs_shortcutLogDeviation_le_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:32:46.506345+00:00
 -- url     : https://prove2.me/theorems/6059fc05-efcf-4b36-ad8d-0655a3b28b77

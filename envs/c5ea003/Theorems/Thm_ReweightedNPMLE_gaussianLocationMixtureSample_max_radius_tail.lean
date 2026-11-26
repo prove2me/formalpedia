@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianLocationMixtureSample_max_radius_tail
 -- name    : ReweightedNPMLE.gaussianLocationMixtureSample_max_radius_tail
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:44.842147+00:00
 -- url     : https://prove2.me/theorems/38588c09-21c7-4854-9c28-ace2bdda3059
 -- title:

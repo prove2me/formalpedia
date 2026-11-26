@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_fixed_density_likelihood_ratio_test_bound
 -- name    : ReweightedNPMLE.fixed_density_likelihood_ratio_test_bound
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:42:44.620188+00:00
 -- url     : https://prove2.me/theorems/19f5651d-e80f-4ed9-899b-abf0889dd09e
 -- title:

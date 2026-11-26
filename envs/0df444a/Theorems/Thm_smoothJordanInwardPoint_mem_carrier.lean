@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_smoothJordanInwardPoint_mem_carrier
 -- name    : smoothJordanInwardPoint_mem_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:06:43.848377+00:00
 -- url     : https://prove2.me/theorems/9a06e1db-c4ca-4eac-8fb0-3da13bd57c7e

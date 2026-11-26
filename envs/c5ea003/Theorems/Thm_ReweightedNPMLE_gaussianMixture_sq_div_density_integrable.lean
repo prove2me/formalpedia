@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianMixture_sq_div_density_integrable
 -- name    : ReweightedNPMLE.gaussianMixture_sq_div_density_integrable
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:42:27.052018+00:00
 -- url     : https://prove2.me/theorems/cc405728-67b0-55ec-8c65-d421c63bddfd
 -- title:

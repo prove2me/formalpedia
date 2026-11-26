@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_le_one_add_sqrt_two_mul_of_tendsto_auxiliary_bounds
 -- name    : norm_le_one_add_sqrt_two_mul_of_tendsto_auxiliary_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:51:17.858944+00:00
 -- url     : https://prove2.me/theorems/871bf36c-2618-41c6-9cd1-fe942124543f

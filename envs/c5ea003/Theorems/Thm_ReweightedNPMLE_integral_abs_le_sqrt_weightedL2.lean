@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_integral_abs_le_sqrt_weightedL2
 -- name    : ReweightedNPMLE.integral_abs_le_sqrt_weightedL2
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:40:44.921109+00:00
 -- url     : https://prove2.me/theorems/d0ddb05a-891e-5b7d-8ace-2cb3f2dd2386
 -- title:

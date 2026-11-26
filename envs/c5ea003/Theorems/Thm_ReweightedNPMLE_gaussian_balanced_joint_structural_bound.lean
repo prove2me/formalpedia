@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_balanced_joint_structural_bound
 -- name    : ReweightedNPMLE.gaussian_balanced_joint_structural_bound
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:50:49.520797+00:00
 -- url     : https://prove2.me/theorems/3777bd84-1909-51dc-85e6-0cc29ef27d0c
 -- title:

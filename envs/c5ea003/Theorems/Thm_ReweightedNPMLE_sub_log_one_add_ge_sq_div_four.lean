@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_sub_log_one_add_ge_sq_div_four
 -- name    : ReweightedNPMLE.sub_log_one_add_ge_sq_div_four
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:24.066425+00:00
 -- url     : https://prove2.me/theorems/8c087eca-98de-4d05-92a2-31ecbac00b50
 -- title:

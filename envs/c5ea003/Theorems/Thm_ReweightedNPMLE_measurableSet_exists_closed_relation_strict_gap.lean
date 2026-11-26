@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_measurableSet_exists_closed_relation_strict_gap
 -- name    : ReweightedNPMLE.measurableSet_exists_closed_relation_strict_gap
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:00.764421+00:00
 -- url     : https://prove2.me/theorems/bbb1b8c5-61e3-533d-a960-1bda2e809bfb
 -- title:

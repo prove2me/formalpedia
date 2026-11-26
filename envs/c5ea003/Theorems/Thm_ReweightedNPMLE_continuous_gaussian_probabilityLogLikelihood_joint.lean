@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_continuous_gaussian_probabilityLogLikelihood_joint
 -- name    : ReweightedNPMLE.continuous_gaussian_probabilityLogLikelihood_joint
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:55.851805+00:00
 -- url     : https://prove2.me/theorems/24440db4-95ec-48da-aa78-b03deb94fb7d
 -- title:

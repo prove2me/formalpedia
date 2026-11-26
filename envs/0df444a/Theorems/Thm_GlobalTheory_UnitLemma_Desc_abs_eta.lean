@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_abs_eta
 -- name    : GlobalTheory.UnitLemma.Desc.abs_eta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:07.948536+00:00
 -- url     : https://prove2.me/theorems/e6c1ec8e-a88f-55af-b55a-a778f99f91f6

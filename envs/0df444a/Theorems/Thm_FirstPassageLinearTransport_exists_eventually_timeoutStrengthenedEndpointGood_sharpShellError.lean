@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_eventually_timeoutStrengthenedEndpointGood_sharpShellError
 -- name    : FirstPassageLinearTransport.exists_eventually_timeoutStrengthenedEndpointGood_sharpShellError
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:22.922867+00:00
 -- url     : https://prove2.me/theorems/fbd13a20-270b-4de8-a0c2-3c0941bd7ce5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_heightCertifiedShellRatioLeStretched
 -- name    : FirstPassageLinearTransport.eventually_heightCertifiedShellRatioLeStretched
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:08.66778+00:00
 -- url     : https://prove2.me/theorems/72174c3a-0161-4948-9964-f3e5637d7275

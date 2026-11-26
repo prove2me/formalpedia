@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_evolution_mem_attractor
 -- name    : Eden.evolution_mem_attractor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:08:25.009679+00:00
 -- url     : https://prove2.me/theorems/f7b6724e-4abe-4e55-a8ad-18c608ced50f

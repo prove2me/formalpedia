@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_abs_log_sub_log_le_div
 -- name    : ReweightedNPMLE.abs_log_sub_log_le_div
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:27.205799+00:00
 -- url     : https://prove2.me/theorems/4cfe6a52-08a0-4189-8850-274021d121c6
 -- title:

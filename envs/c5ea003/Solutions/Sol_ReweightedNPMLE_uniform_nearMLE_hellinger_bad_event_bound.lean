@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.uniform_nearMLE_hellinger_bad_event_bound
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:08:07.233433+00:00
 -- url     : https://prove2.me/submissions/5a2d26f4-0958-40b0-980d-db49d11e3e17
 

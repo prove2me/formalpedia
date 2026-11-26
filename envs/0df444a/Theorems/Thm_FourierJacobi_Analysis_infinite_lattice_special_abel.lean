@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_infinite_lattice_special_abel
 -- name    : FourierJacobi.Analysis.infinite_lattice_special_abel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:11:24.688234+00:00
 -- url     : https://prove2.me/theorems/4e857d0f-9fd6-5fd2-a834-98ede97100ff

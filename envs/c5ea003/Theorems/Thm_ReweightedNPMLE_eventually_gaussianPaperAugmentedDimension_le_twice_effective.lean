@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianPaperAugmentedDimension_le_twice_effective
 -- name    : ReweightedNPMLE.eventually_gaussianPaperAugmentedDimension_le_twice_effective
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:22.586526+00:00
 -- url     : https://prove2.me/theorems/ab9fbbb1-f4dc-4e62-849e-c1715a11fc78
 -- title:

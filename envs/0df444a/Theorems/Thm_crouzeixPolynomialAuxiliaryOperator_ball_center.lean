@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialAuxiliaryOperator_ball_center
 -- name    : crouzeixPolynomialAuxiliaryOperator_ball_center
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:59:23.093186+00:00
 -- url     : https://prove2.me/theorems/d3e6f735-3472-5c98-9590-a933b5fe835a

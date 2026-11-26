@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_crouzeixPolynomialScalarCompanion_le_of_boundary_separation
 -- name    : norm_crouzeixPolynomialScalarCompanion_le_of_boundary_separation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:13.328298+00:00
 -- url     : https://prove2.me/theorems/2ba68b86-c202-50e0-849d-b30dadc55584

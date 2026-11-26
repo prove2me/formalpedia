@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i1r4_value_eq
 -- name    : FourierJacobi.Analysis.i1r4_value_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:57:00.675395+00:00
 -- url     : https://prove2.me/theorems/353be40b-e46f-473f-8ac4-9e3f1d6d3738

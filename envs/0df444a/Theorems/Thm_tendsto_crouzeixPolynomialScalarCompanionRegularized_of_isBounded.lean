@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_tendsto_crouzeixPolynomialScalarCompanionRegularized_of_isBounded
 -- name    : tendsto_crouzeixPolynomialScalarCompanionRegularized_of_isBounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:06:29.654814+00:00
 -- url     : https://prove2.me/theorems/ae5d3180-a971-4fcf-8f38-733328a0c78b

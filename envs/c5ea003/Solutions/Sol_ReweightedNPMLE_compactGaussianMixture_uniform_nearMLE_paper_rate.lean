@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.compactGaussianMixture_uniform_nearMLE_paper_rate
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:17:56.169582+00:00
 -- url     : https://prove2.me/submissions/598f0a3d-f8dd-4a88-a666-ee49d1d5996c
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.canonical_maximumIndependentSupport_gamma_tail
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:08:44.220684+00:00
 -- url     : https://prove2.me/submissions/7ee44148-87f8-4d8b-9866-89da57804877
 

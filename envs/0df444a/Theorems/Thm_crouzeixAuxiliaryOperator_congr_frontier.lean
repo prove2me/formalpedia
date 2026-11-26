@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixAuxiliaryOperator_congr_frontier
 -- name    : crouzeixAuxiliaryOperator_congr_frontier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:09:22.556922+00:00
 -- url     : https://prove2.me/theorems/8b767732-de63-557f-9aac-5b255fda8320

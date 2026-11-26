@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_re_inner_mul_lower_iff_norm_adjoint_sub_sq_le
 -- name    : re_inner_mul_lower_iff_norm_adjoint_sub_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:50:48.566488+00:00
 -- url     : https://prove2.me/theorems/951131be-800e-5b2b-bb45-21140c9244ca

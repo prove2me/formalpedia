@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gammaEffectiveEvent_localization_bounds
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:10:40.567181+00:00
 -- url     : https://prove2.me/submissions/729b5769-bc18-4a1d-9948-7091db98a5cf
 

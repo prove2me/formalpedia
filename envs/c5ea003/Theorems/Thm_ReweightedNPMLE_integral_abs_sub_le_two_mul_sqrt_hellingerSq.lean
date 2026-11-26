@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_integral_abs_sub_le_two_mul_sqrt_hellingerSq
 -- name    : ReweightedNPMLE.integral_abs_sub_le_two_mul_sqrt_hellingerSq
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:43.670644+00:00
 -- url     : https://prove2.me/theorems/882d12ae-01fa-563e-946f-5542111bb58b
 -- title:

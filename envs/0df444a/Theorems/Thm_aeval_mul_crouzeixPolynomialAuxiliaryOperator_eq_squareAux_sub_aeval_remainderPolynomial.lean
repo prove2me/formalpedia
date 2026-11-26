@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_eq_squareAux_sub_aeval_remainderPolynomial
 -- name    : aeval_mul_crouzeixPolynomialAuxiliaryOperator_eq_squareAux_sub_aeval_remainderPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:42.987615+00:00
 -- url     : https://prove2.me/theorems/63abb5b5-4da0-4134-af58-217d08fc9795

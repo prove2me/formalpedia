@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_nonneg_bound_crouzeixPolynomialScalarCompanionNumerator
 -- name    : exists_nonneg_bound_crouzeixPolynomialScalarCompanionNumerator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:12.345644+00:00
 -- url     : https://prove2.me/theorems/ce6755ae-84fa-5b3a-8c6c-b1fa1a20f7db

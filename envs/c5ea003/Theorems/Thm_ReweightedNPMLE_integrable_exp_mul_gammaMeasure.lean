@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_integrable_exp_mul_gammaMeasure
 -- name    : ReweightedNPMLE.integrable_exp_mul_gammaMeasure
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:35.682862+00:00
 -- url     : https://prove2.me/theorems/426cd36d-7c65-499e-8965-a8134cae21a4
 -- title:

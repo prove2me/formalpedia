@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.abs_general_finite_remainder_quadratic_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:53:14.293829+00:00
 -- url     : https://prove2.me/submissions/e2fcdcd5-398d-4856-bc03-c5e44387e220
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.isLittleO_gaussianPaperBalancedShape_rpow
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:58.185296+00:00
 -- url     : https://prove2.me/submissions/51c376b5-aef5-4c28-a0c7-0e7a226477e8
 

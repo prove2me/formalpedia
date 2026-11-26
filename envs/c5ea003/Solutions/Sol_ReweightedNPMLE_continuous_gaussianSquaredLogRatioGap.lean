@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.continuous_gaussianSquaredLogRatioGap
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:08:52.439194+00:00
 -- url     : https://prove2.me/submissions/f138f223-d475-416f-ab83-62ae84329df9
 

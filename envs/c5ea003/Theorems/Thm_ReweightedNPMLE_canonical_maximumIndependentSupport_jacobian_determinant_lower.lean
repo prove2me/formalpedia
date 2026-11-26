@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_canonical_maximumIndependentSupport_jacobian_determinant_lower
 -- name    : ReweightedNPMLE.canonical_maximumIndependentSupport_jacobian_determinant_lower
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:42:30.664227+00:00
 -- url     : https://prove2.me/theorems/1de3b63d-a2fc-5521-b257-0a7fe5aa9742
 -- title:

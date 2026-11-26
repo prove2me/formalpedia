@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hasDerivAt_resolvent_affineOperator
 -- name    : hasDerivAt_resolvent_affineOperator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:01.729812+00:00
 -- url     : https://prove2.me/theorems/5fe7eba7-f521-569a-9750-8dee3c1d2ef9

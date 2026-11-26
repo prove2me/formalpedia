@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_le_polynomialSupNorm_of_isStarNormal_aeval
 -- name    : norm_aeval_le_polynomialSupNorm_of_isStarNormal_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:45:36.224057+00:00
 -- url     : https://prove2.me/theorems/25c64048-e05c-43e3-b887-f51e8777c715

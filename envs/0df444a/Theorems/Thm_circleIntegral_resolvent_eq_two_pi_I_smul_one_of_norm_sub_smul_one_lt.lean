@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_circleIntegral_resolvent_eq_two_pi_I_smul_one_of_norm_sub_smul_one_lt
 -- name    : circleIntegral_resolvent_eq_two_pi_I_smul_one_of_norm_sub_smul_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:56.12382+00:00
 -- url     : https://prove2.me/theorems/bfc991a6-935a-50ea-aa2e-c50f933d4689

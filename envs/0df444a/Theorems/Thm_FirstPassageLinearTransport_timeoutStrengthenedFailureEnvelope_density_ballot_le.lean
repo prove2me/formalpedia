@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutStrengthenedFailureEnvelope_density_ballot_le
 -- name    : FirstPassageLinearTransport.timeoutStrengthenedFailureEnvelope_density_ballot_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:46:17.162134+00:00
 -- url     : https://prove2.me/theorems/10126d62-1875-58f9-95b7-40c7e4bc812f

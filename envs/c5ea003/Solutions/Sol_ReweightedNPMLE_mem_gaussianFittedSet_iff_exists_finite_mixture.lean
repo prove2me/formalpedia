@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.mem_gaussianFittedSet_iff_exists_finite_mixture
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:33.062902+00:00
 -- url     : https://prove2.me/submissions/d6b7083b-e62e-4d63-8b5a-e6e5c69973cb
 

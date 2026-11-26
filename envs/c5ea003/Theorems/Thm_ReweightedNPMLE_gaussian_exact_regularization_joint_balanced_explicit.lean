@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_exact_regularization_joint_balanced_explicit
 -- name    : ReweightedNPMLE.gaussian_exact_regularization_joint_balanced_explicit
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:51:15.233397+00:00
 -- url     : https://prove2.me/theorems/8f11ed7a-b327-515d-af52-17911c94bc8e
 -- title:

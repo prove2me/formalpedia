@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isKPolynomialSpectralSet_of_finite_global_bound_of_tendsto_polynomial_companions
 -- name    : isKPolynomialSpectralSet_of_finite_global_bound_of_tendsto_polynomial_companions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:37.986692+00:00
 -- url     : https://prove2.me/theorems/e025e105-0131-50f6-91b0-19dd92a38063

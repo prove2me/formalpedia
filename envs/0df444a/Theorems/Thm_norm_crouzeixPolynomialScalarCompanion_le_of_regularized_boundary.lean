@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_crouzeixPolynomialScalarCompanion_le_of_regularized_boundary
 -- name    : norm_crouzeixPolynomialScalarCompanion_le_of_regularized_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:55:21.707945+00:00
 -- url     : https://prove2.me/theorems/e44bcf9a-9dc8-474d-9cc0-698a836890e8

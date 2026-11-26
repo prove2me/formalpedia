@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianLocationMixtureLaw_radius_tail
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:09:12.673991+00:00
 -- url     : https://prove2.me/submissions/d844f5c3-1497-47ed-b447-5a8d48e577a6
 

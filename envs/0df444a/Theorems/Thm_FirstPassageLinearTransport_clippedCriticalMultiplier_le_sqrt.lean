@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_clippedCriticalMultiplier_le_sqrt
 -- name    : FirstPassageLinearTransport.clippedCriticalMultiplier_le_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:52:58.318125+00:00
 -- url     : https://prove2.me/theorems/c4d2bb7a-d6a1-5cf4-b79d-246805d17116

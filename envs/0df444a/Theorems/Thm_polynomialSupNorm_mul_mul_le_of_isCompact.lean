@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_polynomialSupNorm_mul_mul_le_of_isCompact
 -- name    : polynomialSupNorm_mul_mul_le_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:46:23.999982+00:00
 -- url     : https://prove2.me/theorems/e7d5e60d-1e9d-467f-a848-b37f631b2382

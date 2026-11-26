@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_abs_general_finite_remainder_quadratic_le
 -- name    : ReweightedNPMLE.abs_general_finite_remainder_quadratic_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:13.148915+00:00
 -- url     : https://prove2.me/theorems/fb303933-d1ab-584d-83d5-1e734e5ba0b9
 -- title:

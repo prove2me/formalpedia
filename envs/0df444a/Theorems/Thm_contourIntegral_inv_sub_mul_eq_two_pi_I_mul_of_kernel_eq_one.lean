@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_inv_sub_mul_eq_two_pi_I_mul_of_kernel_eq_one
 -- name    : contourIntegral_inv_sub_mul_eq_two_pi_I_mul_of_kernel_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:54.728011+00:00
 -- url     : https://prove2.me/theorems/4b08023e-5625-4067-811a-d99e807e68bd

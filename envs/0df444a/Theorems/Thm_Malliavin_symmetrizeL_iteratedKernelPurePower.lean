@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_symmetrizeL_iteratedKernelPurePower
 -- name    : Malliavin.symmetrizeL_iteratedKernelPurePower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:06:32.777349+00:00
 -- url     : https://prove2.me/theorems/87f210e5-b5d8-5de9-839e-183d5682cbd2

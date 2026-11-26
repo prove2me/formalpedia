@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_exp_inner_comp_integrable
 -- name    : ReweightedNPMLE.exp_inner_comp_integrable
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:59.204711+00:00
 -- url     : https://prove2.me/theorems/ff00c5f4-b175-47c5-8e69-f7db48c2a5e7
 -- title:

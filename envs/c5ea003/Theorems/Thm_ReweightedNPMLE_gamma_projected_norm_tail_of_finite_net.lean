@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gamma_projected_norm_tail_of_finite_net
 -- name    : ReweightedNPMLE.gamma_projected_norm_tail_of_finite_net
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:32.887785+00:00
 -- url     : https://prove2.me/theorems/3ace2394-9f62-5c92-b806-0331c1210da0
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gamma_product_rpow_exp_lower
 -- name    : ReweightedNPMLE.gamma_product_rpow_exp_lower
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:49.269386+00:00
 -- url     : https://prove2.me/theorems/0a70005b-f58b-52f6-9d4d-bbbd1da8711d
 -- title:

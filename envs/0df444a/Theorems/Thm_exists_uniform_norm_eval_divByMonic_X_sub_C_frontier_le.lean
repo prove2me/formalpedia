@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_uniform_norm_eval_divByMonic_X_sub_C_frontier_le
 -- name    : exists_uniform_norm_eval_divByMonic_X_sub_C_frontier_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:07:05.06037+00:00
 -- url     : https://prove2.me/theorems/531df8ae-3d19-53b3-8e1d-fea1327c3f1a

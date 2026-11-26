@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_log_one_add_le_sub_sq_third
 -- name    : ReweightedNPMLE.log_one_add_le_sub_sq_third
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:41.392083+00:00
 -- url     : https://prove2.me/theorems/05fa91ae-7782-4c6b-914d-a46176a97c2c
 -- title:

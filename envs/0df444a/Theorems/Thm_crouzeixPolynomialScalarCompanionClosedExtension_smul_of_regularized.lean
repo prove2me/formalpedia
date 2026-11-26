@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionClosedExtension_smul_of_regularized
 -- name    : crouzeixPolynomialScalarCompanionClosedExtension_smul_of_regularized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:11.539845+00:00
 -- url     : https://prove2.me/theorems/e2f61a36-71c5-47e5-87d7-e4c028bee767

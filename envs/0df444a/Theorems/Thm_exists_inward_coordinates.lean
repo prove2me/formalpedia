@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_inward_coordinates
 -- name    : exists_inward_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:07:05.584198+00:00
 -- url     : https://prove2.me/theorems/a0898c83-05aa-56c8-81d4-73cc2655c5c0

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_boundedLocationCellCount_cast_le
 -- name    : ReweightedNPMLE.boundedLocationCellCount_cast_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:38.37591+00:00
 -- url     : https://prove2.me/theorems/8d2eb512-55f2-5e6a-953e-771155956214
 -- title:

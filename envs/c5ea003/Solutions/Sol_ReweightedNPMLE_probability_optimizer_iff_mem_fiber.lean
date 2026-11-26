@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.probability_optimizer_iff_mem_fiber
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:14:41.248797+00:00
 -- url     : https://prove2.me/submissions/cfc8b679-1e53-411f-b2cd-f43dd1bd0afd
 

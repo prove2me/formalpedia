@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_latticeCore_eq_paperE
 -- name    : FourierJacobi.Analysis.latticeCore_eq_paperE
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:10:14.844935+00:00
 -- url     : https://prove2.me/theorems/52b10c76-b3e1-5696-8854-877bf384af5b

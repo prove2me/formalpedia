@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_variableTargetHeightFailureCount_ge_of_lastCompleteShellRatio
 -- name    : FirstPassageLinearTransport.variableTargetHeightFailureCount_ge_of_lastCompleteShellRatio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:55:42.490034+00:00
 -- url     : https://prove2.me/theorems/93d0569c-d638-4b1d-a217-ddebbf017046

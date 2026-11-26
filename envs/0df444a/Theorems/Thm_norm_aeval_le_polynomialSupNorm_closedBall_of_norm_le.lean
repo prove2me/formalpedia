@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_le_polynomialSupNorm_closedBall_of_norm_le
 -- name    : norm_aeval_le_polynomialSupNorm_closedBall_of_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:00:18.553662+00:00
 -- url     : https://prove2.me/theorems/f4ce9ea9-d06a-4593-b82f-3a864238df2e

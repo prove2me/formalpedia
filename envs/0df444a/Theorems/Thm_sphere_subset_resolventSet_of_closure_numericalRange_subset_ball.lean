@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_sphere_subset_resolventSet_of_closure_numericalRange_subset_ball
 -- name    : sphere_subset_resolventSet_of_closure_numericalRange_subset_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:59:50.094818+00:00
 -- url     : https://prove2.me/theorems/9f1d4ff8-ae63-459f-b8fe-d157990fe785

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_finite_extreme_optimizer_weighted_tangent_finrank
 -- name    : ReweightedNPMLE.finite_extreme_optimizer_weighted_tangent_finrank
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:38:49.316025+00:00
 -- url     : https://prove2.me/theorems/412e9111-0c29-4a28-84cc-5d7966cff275
 -- title:

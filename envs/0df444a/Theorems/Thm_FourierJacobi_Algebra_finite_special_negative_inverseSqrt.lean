@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_finite_special_negative_inverseSqrt
 -- name    : FourierJacobi.Algebra.finite_special_negative_inverseSqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:20:22.576381+00:00
 -- url     : https://prove2.me/theorems/94308dfe-830c-5077-a525-efa9cba07e69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_le_numericalRadius
 -- name    : norm_le_numericalRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:02:26.916813+00:00
 -- url     : https://prove2.me/theorems/cbf08833-17b2-5595-8a72-d21f81f43a4a

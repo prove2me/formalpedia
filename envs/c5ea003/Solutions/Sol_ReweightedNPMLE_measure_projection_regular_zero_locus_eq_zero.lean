@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.measure_projection_regular_zero_locus_eq_zero
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:14:19.688795+00:00
 -- url     : https://prove2.me/submissions/2073fb82-a545-4a02-b455-eef34ff3f770
 

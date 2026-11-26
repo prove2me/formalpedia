@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_approximate_optimizer_joint_robustness
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:21:34.586787+00:00
 -- url     : https://prove2.me/submissions/c633cf4c-a5e5-4f20-be5d-f538f087e650
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_projection_mulVec_dot_self_eq
 -- name    : ReweightedNPMLE.projection_mulVec_dot_self_eq
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:12.182774+00:00
 -- url     : https://prove2.me/theorems/81fce0c0-8226-4c4f-81ce-73ed55cd76a3
 -- title:

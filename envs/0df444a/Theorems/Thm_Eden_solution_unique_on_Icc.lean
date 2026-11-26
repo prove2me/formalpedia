@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_solution_unique_on_Icc
 -- name    : Eden.solution_unique_on_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:14.236531+00:00
 -- url     : https://prove2.me/theorems/721e6c0e-800e-5039-97cf-608822d111bb

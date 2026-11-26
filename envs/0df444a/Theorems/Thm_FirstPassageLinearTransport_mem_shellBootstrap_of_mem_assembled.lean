@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_mem_shellBootstrap_of_mem_assembled
 -- name    : FirstPassageLinearTransport.mem_shellBootstrap_of_mem_assembled
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:06.899991+00:00
 -- url     : https://prove2.me/theorems/734e7e4d-2537-4904-9911-2aa67155f887

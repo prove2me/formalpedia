@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_firstPassageEntropyGap_mul_timeSupportCriticalExponent
 -- name    : FirstPassageLinearTransport.firstPassageEntropyGap_mul_timeSupportCriticalExponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:53:30.955305+00:00
 -- url     : https://prove2.me/theorems/37e38951-1690-4af4-ac13-042d4ab3835a

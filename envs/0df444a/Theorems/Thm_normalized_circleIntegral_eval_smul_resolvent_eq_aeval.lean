@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_normalized_circleIntegral_eval_smul_resolvent_eq_aeval
 -- name    : normalized_circleIntegral_eval_smul_resolvent_eq_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:04.122481+00:00
 -- url     : https://prove2.me/theorems/74865117-abbe-5a72-acaa-7bcffa935ec1

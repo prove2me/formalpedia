@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianPaperMomentOrder_le
 -- name    : ReweightedNPMLE.eventually_gaussianPaperMomentOrder_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:53.912381+00:00
 -- url     : https://prove2.me/theorems/d518b6c0-c1e9-4b7d-8aab-5324a95e9dca
 -- title:

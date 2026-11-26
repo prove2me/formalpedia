@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_fixedJointPolylogHeight_eq_on_shell
 -- name    : FirstPassageLinearTransport.fixedJointPolylogHeight_eq_on_shell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:56:41.657066+00:00
 -- url     : https://prove2.me/theorems/e0278dd2-ebbc-4f94-a0bd-926a707d4c02

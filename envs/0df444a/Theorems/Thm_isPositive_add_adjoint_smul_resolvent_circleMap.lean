@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isPositive_add_adjoint_smul_resolvent_circleMap
 -- name    : isPositive_add_adjoint_smul_resolvent_circleMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:58:52.772823+00:00
 -- url     : https://prove2.me/theorems/72c2cfa0-0824-41bb-bd76-2d5023ec0bce

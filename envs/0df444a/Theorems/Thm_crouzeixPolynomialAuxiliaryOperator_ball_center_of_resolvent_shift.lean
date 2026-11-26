@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialAuxiliaryOperator_ball_center_of_resolvent_shift
 -- name    : crouzeixPolynomialAuxiliaryOperator_ball_center_of_resolvent_shift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:59:28.279606+00:00
 -- url     : https://prove2.me/theorems/f712a4c3-0835-4639-84f8-56c3366f896b

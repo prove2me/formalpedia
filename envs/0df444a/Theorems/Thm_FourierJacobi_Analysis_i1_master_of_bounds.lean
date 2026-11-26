@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i1_master_of_bounds
 -- name    : FourierJacobi.Analysis.i1_master_of_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:29:51.657383+00:00
 -- url     : https://prove2.me/theorems/811a170b-9de3-5daf-b84a-2b63b3e345db

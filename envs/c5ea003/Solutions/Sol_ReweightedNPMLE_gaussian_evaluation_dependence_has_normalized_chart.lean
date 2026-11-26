@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_evaluation_dependence_has_normalized_chart
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:14:11.687333+00:00
 -- url     : https://prove2.me/submissions/0c5784d8-1f47-47a0-8180-085dd4a10623
 

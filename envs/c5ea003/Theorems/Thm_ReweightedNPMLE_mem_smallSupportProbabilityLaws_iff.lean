@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_mem_smallSupportProbabilityLaws_iff
 -- name    : ReweightedNPMLE.mem_smallSupportProbabilityLaws_iff
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:19.396122+00:00
 -- url     : https://prove2.me/theorems/5c20a0b1-e8ea-520c-9422-5d4a59de2df0
 -- title:

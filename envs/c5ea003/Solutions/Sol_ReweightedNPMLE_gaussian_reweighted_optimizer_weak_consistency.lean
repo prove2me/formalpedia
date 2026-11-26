@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_reweighted_optimizer_weak_consistency
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:23:13.707151+00:00
 -- url     : https://prove2.me/submissions/b135fac9-4f3b-4ca6-9b9e-f1c81c7dc6f9
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.integral_abs_sub_le_two_mul_sqrt_hellingerSq
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:12:08.170292+00:00
 -- url     : https://prove2.me/submissions/be8a8a5b-0295-435f-a67f-af105bdf8dca
 

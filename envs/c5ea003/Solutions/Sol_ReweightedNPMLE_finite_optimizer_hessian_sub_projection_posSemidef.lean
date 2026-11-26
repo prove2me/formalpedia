@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.finite_optimizer_hessian_sub_projection_posSemidef
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:05:06.644084+00:00
 -- url     : https://prove2.me/submissions/c27c9554-42f2-4868-9240-24df853dc97d
 

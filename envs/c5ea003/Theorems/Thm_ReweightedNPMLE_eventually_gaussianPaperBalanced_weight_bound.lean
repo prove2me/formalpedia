@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianPaperBalanced_weight_bound
 -- name    : ReweightedNPMLE.eventually_gaussianPaperBalanced_weight_bound
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:59.265228+00:00
 -- url     : https://prove2.me/theorems/7001e31e-2b81-4658-b483-6337deb35609
 -- title:

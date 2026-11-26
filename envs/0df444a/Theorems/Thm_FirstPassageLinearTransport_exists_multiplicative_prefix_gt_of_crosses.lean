@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_multiplicative_prefix_gt_of_crosses
 -- name    : FirstPassageLinearTransport.exists_multiplicative_prefix_gt_of_crosses
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:22:22.397572+00:00
 -- url     : https://prove2.me/theorems/7f4c0802-d204-4455-b9d3-b627aeac1930

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.tendsto_id_div_log_atTop
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:06:32.545943+00:00
 -- url     : https://prove2.me/submissions/a9a5cf70-dc53-4c24-adef-900f7e51d9ee
 

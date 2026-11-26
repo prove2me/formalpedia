@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i1r6b_value_eq
 -- name    : FourierJacobi.Analysis.i1r6b_value_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:55:46.135453+00:00
 -- url     : https://prove2.me/theorems/f5c60b66-3757-409a-ac67-8a6d51af9e31

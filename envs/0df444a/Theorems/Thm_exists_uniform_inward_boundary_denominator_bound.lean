@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_uniform_inward_boundary_denominator_bound
 -- name    : exists_uniform_inward_boundary_denominator_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:06:49.723355+00:00
 -- url     : https://prove2.me/theorems/cea18211-005c-49db-bc77-4c14f2addc34

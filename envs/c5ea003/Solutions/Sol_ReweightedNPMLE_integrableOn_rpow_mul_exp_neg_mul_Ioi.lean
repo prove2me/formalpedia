@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.integrableOn_rpow_mul_exp_neg_mul_Ioi
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:09:06.689573+00:00
 -- url     : https://prove2.me/submissions/18bf0381-a98f-4a44-a064-f786c5ca9a3e
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_log_gaussianNetCardBound_paper_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:10:31.396114+00:00
 -- url     : https://prove2.me/submissions/a68a9259-c6d1-40a4-ac73-07a96d32cfb6
 

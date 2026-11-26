@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianMomentHellingerError_256_le_inv
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:09:30.331802+00:00
 -- url     : https://prove2.me/submissions/3aae4bb7-c3db-464e-ae11-ca7163144cea
 

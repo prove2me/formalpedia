@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.abs_log_sub_log_le_div
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:52:42.606833+00:00
 -- url     : https://prove2.me/submissions/69e7d639-31c6-4b73-bea3-82eb7b45d2a6
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stageMap_le_self
 -- name    : FirstPassageLinearTransport.stageMap_le_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:56:46.570066+00:00
 -- url     : https://prove2.me/theorems/b9d15c08-0c63-4d23-90e5-12dd19d6843c

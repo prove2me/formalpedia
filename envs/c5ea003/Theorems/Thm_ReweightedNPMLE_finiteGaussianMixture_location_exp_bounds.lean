@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_finiteGaussianMixture_location_exp_bounds
 -- name    : ReweightedNPMLE.finiteGaussianMixture_location_exp_bounds
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:01.295271+00:00
 -- url     : https://prove2.me/theorems/ad3c7a83-afe6-53b5-9904-b1d05b599e1a
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_structural_conclusions_of_notMem_failure
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:17:23.931878+00:00
 -- url     : https://prove2.me/submissions/f7a784a5-a0a2-4a40-8bea-8ab63339640d
 

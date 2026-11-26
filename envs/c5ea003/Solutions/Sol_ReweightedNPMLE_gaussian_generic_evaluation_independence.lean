@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_generic_evaluation_independence
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:15:14.419471+00:00
 -- url     : https://prove2.me/submissions/d90a1d58-7b1a-4750-909e-0d362720cc39
 

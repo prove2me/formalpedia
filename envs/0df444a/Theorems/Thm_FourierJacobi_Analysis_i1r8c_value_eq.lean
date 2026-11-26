@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i1r8c_value_eq
 -- name    : FourierJacobi.Analysis.i1r8c_value_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:56:18.822701+00:00
 -- url     : https://prove2.me/theorems/d82288e0-e1d8-52a2-b8bb-01bc3df4b3f7

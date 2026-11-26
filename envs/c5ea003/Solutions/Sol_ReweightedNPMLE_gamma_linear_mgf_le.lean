@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gamma_linear_mgf_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:10:35.086935+00:00
 -- url     : https://prove2.me/submissions/1b4a2be6-dbcb-47e1-93a6-6525e6568c83
 

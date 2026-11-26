@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_polynomial_auxiliary_bounds_of_normalized
 -- name    : polynomial_auxiliary_bounds_of_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:48:15.179024+00:00
 -- url     : https://prove2.me/theorems/6568d1d3-a8f3-59e2-bc93-616ffeb0268b

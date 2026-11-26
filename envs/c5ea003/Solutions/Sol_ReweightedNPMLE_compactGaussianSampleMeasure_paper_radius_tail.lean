@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.compactGaussianSampleMeasure_paper_radius_tail
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:11:11.006067+00:00
 -- url     : https://prove2.me/submissions/b39f17df-f69f-46e4-a99a-1a55ed7e5de2
 

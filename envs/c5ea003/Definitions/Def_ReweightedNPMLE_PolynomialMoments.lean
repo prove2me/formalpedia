@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_PolynomialMoments
 -- name    : ReweightedNPMLE_PolynomialMoments
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:18:38.202554+00:00
 -- url     : https://prove2.me/theorems/0469a52c-a67c-5603-86d7-688e84119f5b
 -- title:

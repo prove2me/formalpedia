@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_likelihoodContactNumerator_le_total_of_isMaxOn
 -- name    : ReweightedNPMLE.likelihoodContactNumerator_le_total_of_isMaxOn
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:39.046195+00:00
 -- url     : https://prove2.me/theorems/94c29a5c-b66b-42b2-aa4d-a473e3e32989
 -- title:

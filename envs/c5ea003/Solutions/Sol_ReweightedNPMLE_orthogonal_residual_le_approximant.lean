@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.orthogonal_residual_le_approximant
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:28.183+00:00
 -- url     : https://prove2.me/submissions/a73540ea-2e0e-478a-ab67-88da25ca95f5
 

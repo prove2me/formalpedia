@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_compactGaussianMixture_measurable_uniform_nearMLE_event
 -- name    : ReweightedNPMLE.compactGaussianMixture_measurable_uniform_nearMLE_event
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:23.616155+00:00
 -- url     : https://prove2.me/theorems/6aef9454-060d-5e24-97e8-296e5a2a1739
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanion_add
 -- name    : crouzeixPolynomialScalarCompanion_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:12.361225+00:00
 -- url     : https://prove2.me/theorems/86ce9833-a1b5-468c-9f54-749ed3494a07

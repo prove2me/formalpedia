@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hasDerivAt_contourIntegral_resolvent_affineOperator_of_boundary_subset_resolventSet
 -- name    : hasDerivAt_contourIntegral_resolvent_affineOperator_of_boundary_subset_resolventSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:27.256845+00:00
 -- url     : https://prove2.me/theorems/c8d04e9d-ed21-5c10-9fc5-f8b86ccd4acf

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_probabilityMixtureFiber_unique_of_supported_independent_range
 -- name    : ReweightedNPMLE.probabilityMixtureFiber_unique_of_supported_independent_range
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:38:27.391096+00:00
 -- url     : https://prove2.me/theorems/a4173fab-b3ce-4e1d-a3d3-a2a5eaf4b17d
 -- title:

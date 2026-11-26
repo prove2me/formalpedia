@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_finiteProbabilityMeasure_support
 -- name    : ReweightedNPMLE.finiteProbabilityMeasure_support
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:15.950872+00:00
 -- url     : https://prove2.me/theorems/e1dd56f9-a7f8-5934-b5a0-0c7fe0a78ebf
 -- title:

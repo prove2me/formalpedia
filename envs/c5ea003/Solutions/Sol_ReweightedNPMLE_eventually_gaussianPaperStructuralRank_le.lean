@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianPaperStructuralRank_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:10:24.711165+00:00
 -- url     : https://prove2.me/submissions/de2b1c96-a0a2-4a37-80d1-d93aab8ea036
 

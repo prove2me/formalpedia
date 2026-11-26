@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_tendsto_id_div_log_atTop
 -- name    : ReweightedNPMLE.tendsto_id_div_log_atTop
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:43:39.430879+00:00
 -- url     : https://prove2.me/theorems/6560f975-26a8-4ce6-8e56-0811037503f0
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_SupportSensitivity
 -- name    : ReweightedNPMLE_SupportSensitivity
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:22:58.437643+00:00
 -- url     : https://prove2.me/theorems/006c5430-6cb8-5fd9-b732-3c7a9f3ce183
 -- title:

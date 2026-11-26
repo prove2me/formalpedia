@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shellPrefixMultiplicativeHit_crosses
 -- name    : FirstPassageLinearTransport.shellPrefixMultiplicativeHit_crosses
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:53:54.603102+00:00
 -- url     : https://prove2.me/theorems/0d24b223-7149-5d45-8a6c-1f46cf994778

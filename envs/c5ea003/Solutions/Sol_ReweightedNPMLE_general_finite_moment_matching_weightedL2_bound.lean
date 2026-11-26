@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.general_finite_moment_matching_weightedL2_bound
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:09:18.324344+00:00
 -- url     : https://prove2.me/submissions/5e559a5a-bc69-4f37-ba41-3d24807cd150
 

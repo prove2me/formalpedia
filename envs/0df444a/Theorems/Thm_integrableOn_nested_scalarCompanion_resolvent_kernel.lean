@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_integrableOn_nested_scalarCompanion_resolvent_kernel
 -- name    : integrableOn_nested_scalarCompanion_resolvent_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:56:27.880088+00:00
 -- url     : https://prove2.me/theorems/6c38fe85-9f66-51bc-a102-2d54b03b98d0

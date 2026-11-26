@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.probability_optimizer_likelihood_contact_ae
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:59:58.058712+00:00
 -- url     : https://prove2.me/submissions/c08bdd95-84fa-4647-ac87-b33f20375131
 

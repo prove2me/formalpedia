@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_finite_special_negative_unitary
 -- name    : FourierJacobi.Algebra.finite_special_negative_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:20:07.542795+00:00
 -- url     : https://prove2.me/theorems/5e9284a2-8ecc-4c6f-984d-78f5d71f6266

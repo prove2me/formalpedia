@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.measurableSet_exists_compactOptimizer_strict_gap
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:15:06.270817+00:00
 -- url     : https://prove2.me/submissions/b2e5c5d6-3b1a-4440-9a8e-6d712dcbd787
 

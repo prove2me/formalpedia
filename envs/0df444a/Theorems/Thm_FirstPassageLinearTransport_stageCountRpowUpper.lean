@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stageCountRpowUpper
 -- name    : FirstPassageLinearTransport.stageCountRpowUpper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:36.200898+00:00
 -- url     : https://prove2.me/theorems/2254d195-d0c1-509a-a638-1ab0b329f614

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for MasulloRH.height_two_theta_energy_certificate
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @scuba8684
 -- created : 2026-11-26T12:37:22.474345+00:00
 -- url     : https://prove2.me/submissions/ce66cc8f-3620-4b2e-a8e6-664a24f7cffe
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_MasulloRH_height_two_outer_strip_density_bound
 import Theorems.Thm_MasulloRH_scalar_curvature_endpoint_bound

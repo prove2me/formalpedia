@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_exists_submodule_directional_net
 -- name    : ReweightedNPMLE.exists_submodule_directional_net
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:18.324406+00:00
 -- url     : https://prove2.me/theorems/ce0f03f2-56d2-5bf9-9025-e1dc284045af
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_cauchyFormula_canonicalOrientation
 -- name    : cauchyFormula_canonicalOrientation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:34.799077+00:00
 -- url     : https://prove2.me/theorems/2d91523c-7ec6-43f8-a0b8-28fff56bae45

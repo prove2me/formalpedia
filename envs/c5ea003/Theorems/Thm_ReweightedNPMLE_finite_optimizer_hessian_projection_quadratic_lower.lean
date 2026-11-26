@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_finite_optimizer_hessian_projection_quadratic_lower
 -- name    : ReweightedNPMLE.finite_optimizer_hessian_projection_quadratic_lower
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:17.050915+00:00
 -- url     : https://prove2.me/theorems/f42ec65c-c26c-4166-84ad-2e3082ed0195
 -- title:

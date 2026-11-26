@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_full_extreme_optimizer_support_finite_card_le
 -- name    : ReweightedNPMLE.full_extreme_optimizer_support_finite_card_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:19.516796+00:00
 -- url     : https://prove2.me/theorems/8a962c55-457d-5e78-beb3-2b855e6040cb
 -- title:

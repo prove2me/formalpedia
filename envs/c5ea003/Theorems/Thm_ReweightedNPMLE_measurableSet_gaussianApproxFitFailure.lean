@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_measurableSet_gaussianApproxFitFailure
 -- name    : ReweightedNPMLE.measurableSet_gaussianApproxFitFailure
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:30.999866+00:00
 -- url     : https://prove2.me/theorems/67caa48e-373f-5e54-877f-7ff5847a04d1
 -- title:

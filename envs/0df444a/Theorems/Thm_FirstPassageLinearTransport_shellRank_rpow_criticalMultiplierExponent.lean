@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shellRank_rpow_criticalMultiplierExponent
 -- name    : FirstPassageLinearTransport.shellRank_rpow_criticalMultiplierExponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:53:20.468919+00:00
 -- url     : https://prove2.me/theorems/2e19e61d-5b29-4689-b1ba-8aacb338945d

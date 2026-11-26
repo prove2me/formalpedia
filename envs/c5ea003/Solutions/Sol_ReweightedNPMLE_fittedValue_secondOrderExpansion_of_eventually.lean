@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.fittedValue_secondOrderExpansion_of_eventually
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:00:14.940704+00:00
 -- url     : https://prove2.me/submissions/746432e1-40e1-4910-8b64-532c18b33b0a
 

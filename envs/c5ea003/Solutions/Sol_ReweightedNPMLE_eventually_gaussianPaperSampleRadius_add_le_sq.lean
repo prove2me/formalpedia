@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianPaperSampleRadius_add_le_sq
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:07:06.619554+00:00
 -- url     : https://prove2.me/submissions/5695d763-76d3-4257-b129-0b0c51e04254
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.exists_uniform_positive_coordinate_bounds
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:53:15.852071+00:00
 -- url     : https://prove2.me/submissions/7a3f364c-8760-4d3b-a9fc-8de9cf3e2245
 

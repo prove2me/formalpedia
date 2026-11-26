@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_finite_density_net_likelihood_test_bound
 -- name    : ReweightedNPMLE.finite_density_net_likelihood_test_bound
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:43:10.024908+00:00
 -- url     : https://prove2.me/theorems/ee9f9668-9d9e-51ba-b15e-ac75779cda19
 -- title:

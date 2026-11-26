@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_canonicalFittedLog_ae_differentiableAt
 -- name    : ReweightedNPMLE.canonicalFittedLog_ae_differentiableAt
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:32.856851+00:00
 -- url     : https://prove2.me/theorems/fab12bab-51d3-57af-afdc-4e2c4b729ed1
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_secondOrderCoefficient_le
 -- name    : ReweightedNPMLE.secondOrderCoefficient_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:38:46.235874+00:00
 -- url     : https://prove2.me/theorems/20f0a923-b3db-575a-a14d-692ab457fc92
 -- title:

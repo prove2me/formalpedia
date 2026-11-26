@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutRun_terminal_or_failure
 -- name    : FirstPassageLinearTransport.timeoutRun_terminal_or_failure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:25.646254+00:00
 -- url     : https://prove2.me/theorems/fb5d287c-2c7d-4ae6-85c0-d632c772d2bd

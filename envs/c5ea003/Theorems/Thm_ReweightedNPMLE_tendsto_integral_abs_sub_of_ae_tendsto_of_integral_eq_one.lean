@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_tendsto_integral_abs_sub_of_ae_tendsto_of_integral_eq_one
 -- name    : ReweightedNPMLE.tendsto_integral_abs_sub_of_ae_tendsto_of_integral_eq_one
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:51.116333+00:00
 -- url     : https://prove2.me/theorems/502c334e-ba7f-449f-8643-91bddd3b0b89
 -- title:

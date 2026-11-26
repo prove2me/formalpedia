@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.norm_sub_lt_of_boundedLocationCellCode_eq
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:05:36.767523+00:00
 -- url     : https://prove2.me/submissions/f038deff-e5f9-41ff-a64b-f22edcf3af76
 

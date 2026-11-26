@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_uniform_nearMLE_paper_theorem
 -- name    : ReweightedNPMLE.gaussian_uniform_nearMLE_paper_theorem
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:49:21.017925+00:00
 -- url     : https://prove2.me/theorems/46f4fa4a-1604-4285-8d89-d35db96f976d
 -- title:

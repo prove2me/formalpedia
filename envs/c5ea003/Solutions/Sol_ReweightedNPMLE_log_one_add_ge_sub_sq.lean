@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.log_one_add_ge_sub_sq
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:01:51.670571+00:00
 -- url     : https://prove2.me/submissions/ee7bedb0-9087-41a1-a3a8-c59389bc0a9e
 

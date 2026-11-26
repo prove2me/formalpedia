@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.positive_iff_exists_nat_mul_ge_one
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:14:04.049082+00:00
 -- url     : https://prove2.me/submissions/41e75110-4b19-46e9-a3b5-74cd91e84f5b
 

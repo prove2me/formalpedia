@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.exists_submodule_directional_net
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:11:12.896955+00:00
 -- url     : https://prove2.me/submissions/9c81f243-195d-4319-a7c0-e8c958fef7b8
 

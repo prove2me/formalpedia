@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.finiteProbabilityMeasure_support
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:53:56.743951+00:00
 -- url     : https://prove2.me/submissions/59f55aad-c42c-4a70-8173-6ab7d04cbfc5
 

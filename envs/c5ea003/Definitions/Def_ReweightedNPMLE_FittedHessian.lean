@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_FittedHessian
 -- name    : ReweightedNPMLE_FittedHessian
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:23:55.056903+00:00
 -- url     : https://prove2.me/theorems/06aa44c6-b833-48a2-919b-89948785d0c3
 -- title:

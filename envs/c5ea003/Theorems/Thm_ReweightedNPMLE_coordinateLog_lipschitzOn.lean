@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_coordinateLog_lipschitzOn
 -- name    : ReweightedNPMLE.coordinateLog_lipschitzOn
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:14.565021+00:00
 -- url     : https://prove2.me/theorems/5c7bb39b-2c8b-4226-af1d-b5ded33a6788
 -- title:

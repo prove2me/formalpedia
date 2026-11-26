@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_abs_shortcutLogDeviation_le_of_initialWindowGood
 -- name    : FirstPassageLinearTransport.abs_shortcutLogDeviation_le_of_initialWindowGood
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:49:40.51103+00:00
 -- url     : https://prove2.me/theorems/db523f5c-6187-4034-8dd8-45c4e1126c40

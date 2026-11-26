@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensorContent_add_le
 -- name    : GlobalTheory.tensorContent_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:57.527371+00:00
 -- url     : https://prove2.me/theorems/ae62e371-90d7-44f0-94e8-6e896a8e8096

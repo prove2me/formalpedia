@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.coordinateGaussianTruncatedScoreExp_isMonomialCombination
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:03:19.259664+00:00
 -- url     : https://prove2.me/submissions/69220c07-1cb5-44c3-b1d1-92195448d55f
 

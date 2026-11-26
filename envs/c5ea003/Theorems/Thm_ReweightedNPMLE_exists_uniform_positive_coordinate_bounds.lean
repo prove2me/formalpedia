@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_exists_uniform_positive_coordinate_bounds
 -- name    : ReweightedNPMLE.exists_uniform_positive_coordinate_bounds
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:37.056023+00:00
 -- url     : https://prove2.me/theorems/bd5fc533-2aa1-463d-a452-41420d737a8b
 -- title:

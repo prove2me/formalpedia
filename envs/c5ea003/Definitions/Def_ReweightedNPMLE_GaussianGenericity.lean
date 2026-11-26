@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianGenericity
 -- name    : ReweightedNPMLE_GaussianGenericity
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:29:26.718804+00:00
 -- url     : https://prove2.me/theorems/1b1b63e3-969f-481b-8ffb-1f23f355cfca
 -- title:

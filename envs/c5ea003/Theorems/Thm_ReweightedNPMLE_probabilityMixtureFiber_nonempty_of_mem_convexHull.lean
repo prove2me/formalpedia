@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_probabilityMixtureFiber_nonempty_of_mem_convexHull
 -- name    : ReweightedNPMLE.probabilityMixtureFiber_nonempty_of_mem_convexHull
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:40.715166+00:00
 -- url     : https://prove2.me/theorems/9e3e7425-c0f7-551c-9394-2df9cbca1363
 -- title:

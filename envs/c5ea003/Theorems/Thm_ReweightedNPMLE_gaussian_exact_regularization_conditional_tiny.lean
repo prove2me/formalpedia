@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_exact_regularization_conditional_tiny
 -- name    : ReweightedNPMLE.gaussian_exact_regularization_conditional_tiny
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:49:56.799111+00:00
 -- url     : https://prove2.me/theorems/8f4a0165-5754-57f2-83b6-70ee518e33cb
 -- title:

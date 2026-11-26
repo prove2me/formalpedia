@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_centered_gamma_mgf
 -- name    : ReweightedNPMLE.centered_gamma_mgf
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:52.246114+00:00
 -- url     : https://prove2.me/theorems/d9d9658a-c42d-4e07-8a46-3d9eabfce4ba
 -- title:

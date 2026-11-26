@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_measureReal_prod_le_of_uniform_section_bound
 -- name    : ReweightedNPMLE.measureReal_prod_le_of_uniform_section_bound
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:39.951389+00:00
 -- url     : https://prove2.me/theorems/5b84399c-82bd-4b01-94c6-e6eda0128dbf
 -- title:

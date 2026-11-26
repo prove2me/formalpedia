@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.det_one_add_posSemidef_ge_one
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:59:25.042205+00:00
 -- url     : https://prove2.me/submissions/8854929d-2bda-4563-9643-5eb892d92c24
 

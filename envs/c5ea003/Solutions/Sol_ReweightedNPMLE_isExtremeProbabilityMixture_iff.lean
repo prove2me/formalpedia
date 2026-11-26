@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.isExtremeProbabilityMixture_iff
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:53:33.219089+00:00
 -- url     : https://prove2.me/submissions/380b517a-013b-4d06-b510-41af43ec8c9d
 

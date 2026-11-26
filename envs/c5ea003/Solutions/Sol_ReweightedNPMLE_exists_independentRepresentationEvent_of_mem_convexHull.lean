@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.exists_independentRepresentationEvent_of_mem_convexHull
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:00:44.523183+00:00
 -- url     : https://prove2.me/submissions/3eb3787a-13d1-4844-8cf7-c3dbf08087c3
 

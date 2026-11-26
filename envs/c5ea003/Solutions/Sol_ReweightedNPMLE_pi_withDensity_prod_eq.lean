@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.pi_withDensity_prod_eq
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:03:03.422979+00:00
 -- url     : https://prove2.me/submissions/3a866e6d-767a-4b8e-89ae-bf8eb3941abc
 

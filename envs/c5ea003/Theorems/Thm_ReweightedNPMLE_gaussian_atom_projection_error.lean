@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_atom_projection_error
 -- name    : ReweightedNPMLE.gaussian_atom_projection_error
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:09.227776+00:00
 -- url     : https://prove2.me/theorems/7f07bbd9-aa7c-4fd4-b74d-e58bdf64d545
 -- title:

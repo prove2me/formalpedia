@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stageMap_le_rpow_of_large
 -- name    : FirstPassageLinearTransport.stageMap_le_rpow_of_large
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:56:39.913465+00:00
 -- url     : https://prove2.me/theorems/ac2a9edc-0959-52ac-85a3-a9e3829dc0cb

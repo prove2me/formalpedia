@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_timeoutStrengthenedRawProfile_le_sharpShellError
 -- name    : FirstPassageLinearTransport.eventually_timeoutStrengthenedRawProfile_le_sharpShellError
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:46:46.172902+00:00
 -- url     : https://prove2.me/theorems/fbd7dc08-e4a5-5faa-bfa5-653fbf07248d

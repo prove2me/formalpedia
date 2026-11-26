@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_shellVariableTargetHeightFailure_le_failureCount
 -- name    : FirstPassageLinearTransport.card_shellVariableTargetHeightFailure_le_failureCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:49.643719+00:00
 -- url     : https://prove2.me/theorems/db51d92d-6fdb-5384-8b3f-aec4f361a957

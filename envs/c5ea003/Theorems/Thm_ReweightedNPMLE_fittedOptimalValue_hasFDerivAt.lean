@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_fittedOptimalValue_hasFDerivAt
 -- name    : ReweightedNPMLE.fittedOptimalValue_hasFDerivAt
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:38.821191+00:00
 -- url     : https://prove2.me/theorems/17a88335-1a75-45a2-a671-d91af7494a1b
 -- title:

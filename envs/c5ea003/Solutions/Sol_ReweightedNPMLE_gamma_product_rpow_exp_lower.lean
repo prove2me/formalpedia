@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gamma_product_rpow_exp_lower
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:02:17.3739+00:00
 -- url     : https://prove2.me/submissions/61f5a1fd-352c-4592-97c6-aed11ff2111c
 

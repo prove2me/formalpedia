@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stageRawClock_le
 -- name    : FirstPassageLinearTransport.stageRawClock_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:56:28.148106+00:00
 -- url     : https://prove2.me/theorems/a875c511-a272-4365-a6e5-2420faf00c80

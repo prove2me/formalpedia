@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianPaperMomentOrder_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:07:45.281827+00:00
 -- url     : https://prove2.me/submissions/f3c5081a-c323-4a23-88e7-086ee2a542ce
 

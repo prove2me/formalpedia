@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gamma_linear_mgf_le
 -- name    : ReweightedNPMLE.gamma_linear_mgf_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:16.073803+00:00
 -- url     : https://prove2.me/theorems/fcac75bf-3b5b-49f6-ac27-73f71adae5a2
 -- title:

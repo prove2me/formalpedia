@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.effective_dimension_finite_support
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:15:33.272428+00:00
 -- url     : https://prove2.me/submissions/46ae077c-1b1d-4bad-afe5-024799164b4c
 

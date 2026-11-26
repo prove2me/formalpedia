@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_tendsto_squaredRadiusEvolution_of_lt_one
 -- name    : Eden.tendsto_squaredRadiusEvolution_of_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:09:59.337004+00:00
 -- url     : https://prove2.me/theorems/b31c585a-88ed-464d-aee5-419817eb084f

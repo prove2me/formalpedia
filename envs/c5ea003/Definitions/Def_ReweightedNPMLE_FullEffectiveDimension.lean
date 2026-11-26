@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_FullEffectiveDimension
 -- name    : ReweightedNPMLE_FullEffectiveDimension
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:26:09.428664+00:00
 -- url     : https://prove2.me/theorems/c0d7c9f6-ea64-4722-96a8-c8660751408e
 -- title:

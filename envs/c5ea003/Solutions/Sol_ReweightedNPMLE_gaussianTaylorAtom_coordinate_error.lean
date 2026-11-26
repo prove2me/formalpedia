@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianTaylorAtom_coordinate_error
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:54.622303+00:00
 -- url     : https://prove2.me/submissions/b952a32b-2ca2-44ee-a77b-aae10ac45949
 

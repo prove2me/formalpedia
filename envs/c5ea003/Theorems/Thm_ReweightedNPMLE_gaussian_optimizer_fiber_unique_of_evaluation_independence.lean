@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_optimizer_fiber_unique_of_evaluation_independence
 -- name    : ReweightedNPMLE.gaussian_optimizer_fiber_unique_of_evaluation_independence
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:49:26.171242+00:00
 -- url     : https://prove2.me/theorems/fe3d0305-8268-5f52-b5da-9654b5aecda6
 -- title:

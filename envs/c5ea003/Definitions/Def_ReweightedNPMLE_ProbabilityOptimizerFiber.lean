@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_ProbabilityOptimizerFiber
 -- name    : ReweightedNPMLE_ProbabilityOptimizerFiber
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:18:52.064571+00:00
 -- url     : https://prove2.me/theorems/a5f976b1-fdd1-595f-b1fb-e4cb3c30cd7f
 -- title:

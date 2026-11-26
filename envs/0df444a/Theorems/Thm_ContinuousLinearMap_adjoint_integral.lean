@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuousLinearMap_adjoint_integral
 -- name    : ContinuousLinearMap.adjoint_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:36:44.060169+00:00
 -- url     : https://prove2.me/theorems/51bf448d-afc3-4e2b-b3d6-d330e3fbd6ee

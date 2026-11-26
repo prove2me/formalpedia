@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_fittedLog_monotone
 -- name    : ReweightedNPMLE.fittedLog_monotone
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:13.216917+00:00
 -- url     : https://prove2.me/theorems/31c99cca-d6c1-5eab-942c-c059c1c69a9d
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.submodule_projection_mulVec_mem
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:01:03.846289+00:00
 -- url     : https://prove2.me/submissions/72aa59df-5881-4f9f-8799-fb90d6504951
 

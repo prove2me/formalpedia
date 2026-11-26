@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_atom_projection_error
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:15:02.789685+00:00
 -- url     : https://prove2.me/submissions/2f43f660-537f-4936-8c4a-81a37c591eef
 

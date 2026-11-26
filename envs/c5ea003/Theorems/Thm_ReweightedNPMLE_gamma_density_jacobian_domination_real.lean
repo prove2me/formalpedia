@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gamma_density_jacobian_domination_real
 -- name    : ReweightedNPMLE.gamma_density_jacobian_domination_real
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:40:17.261849+00:00
 -- url     : https://prove2.me/theorems/05b05bb2-3185-4ae7-b3b5-3c03fab2a4a5
 -- title:

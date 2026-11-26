@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixScalarCauchyKernel_eq_one_of_oriented_carrier
 -- name    : crouzeixScalarCauchyKernel_eq_one_of_oriented_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:40.33738+00:00
 -- url     : https://prove2.me/theorems/0b4d17a9-a508-48d2-b726-f304785a9a1c

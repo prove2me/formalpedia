@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixBoundaryPhaseContractive_of_natDegree_eq_zero
 -- name    : crouzeixBoundaryPhaseContractive_of_natDegree_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:40.601964+00:00
 -- url     : https://prove2.me/theorems/6fc795b5-15ed-501f-9ddf-d67a2cd70be3

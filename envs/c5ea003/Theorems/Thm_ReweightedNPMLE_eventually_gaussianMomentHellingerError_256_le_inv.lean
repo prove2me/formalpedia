@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianMomentHellingerError_256_le_inv
 -- name    : ReweightedNPMLE.eventually_gaussianMomentHellingerError_256_le_inv
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:35.873854+00:00
 -- url     : https://prove2.me/theorems/96c2b57d-4ffa-449c-a63b-8b86d27dfde8
 -- title:

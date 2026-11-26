@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_evaluation_dependence_has_normalized_chart
 -- name    : ReweightedNPMLE.gaussian_evaluation_dependence_has_normalized_chart
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:23.688884+00:00
 -- url     : https://prove2.me/theorems/263570f6-6f35-4791-a11b-ff1aaeadea81
 -- title:

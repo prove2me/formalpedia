@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.abs_log_sub_log_le_two_mul_of_relative_error
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:52:39.437799+00:00
 -- url     : https://prove2.me/submissions/3b070b67-5d6d-44cd-9b09-db2ae1d903c1
 

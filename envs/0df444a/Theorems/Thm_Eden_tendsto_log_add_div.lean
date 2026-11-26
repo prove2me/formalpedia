@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_tendsto_log_add_div
 -- name    : Eden.tendsto_log_add_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:32.842663+00:00
 -- url     : https://prove2.me/theorems/e87ff98e-969a-500e-9b3d-1626b8f8cac1

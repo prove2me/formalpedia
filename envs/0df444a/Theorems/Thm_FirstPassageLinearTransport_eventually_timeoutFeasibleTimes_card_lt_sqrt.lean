@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_timeoutFeasibleTimes_card_lt_sqrt
 -- name    : FirstPassageLinearTransport.eventually_timeoutFeasibleTimes_card_lt_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:25:57.792004+00:00
 -- url     : https://prove2.me/theorems/8a0fd439-1177-5535-a6d9-66a9031605de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_brownianOrderedChainSpan_closure_eq_chaosClosure
 -- name    : Malliavin.BrownianIteratedConstruction.brownianOrderedChainSpan_closure_eq_chaosClosure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:58:48.795792+00:00
 -- url     : https://prove2.me/theorems/c910dd75-d29d-58cf-a12f-7663d06a6c1f

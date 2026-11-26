@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianTinyJoint
 -- name    : ReweightedNPMLE_GaussianTinyJoint
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:32:15.997906+00:00
 -- url     : https://prove2.me/theorems/41b59845-dcc3-56b4-a237-44088a10a32d
 -- title:

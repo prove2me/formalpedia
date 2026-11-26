@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.fittedValue_lipschitzOn
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:00:27.968923+00:00
 -- url     : https://prove2.me/submissions/0c97d32d-8bcd-4615-83b6-c46445eb6f4c
 

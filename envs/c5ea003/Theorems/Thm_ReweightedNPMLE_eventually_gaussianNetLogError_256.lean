@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianNetLogError_256
 -- name    : ReweightedNPMLE.eventually_gaussianNetLogError_256
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:24.084427+00:00
 -- url     : https://prove2.me/theorems/b59d8df2-d660-4d68-a614-2e4719afe5af
 -- title:

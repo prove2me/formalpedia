@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_isLittleO_gaussianPaperAugmentedDimension_rpow
 -- name    : ReweightedNPMLE.isLittleO_gaussianPaperAugmentedDimension_rpow
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:41.444044+00:00
 -- url     : https://prove2.me/theorems/a4d9a459-0739-5717-a472-2c6ebbc994e4
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_crouzeixProductRemainder_eq_sum
 -- name    : contourIntegral_crouzeixProductRemainder_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:14.319475+00:00
 -- url     : https://prove2.me/theorems/0af76002-acbf-5c34-b2d0-11f8d60ceef8

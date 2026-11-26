@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianProduct_max_coordinate_tail
 -- name    : ReweightedNPMLE.gaussianProduct_max_coordinate_tail
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:07.898264+00:00
 -- url     : https://prove2.me/theorems/b1716209-75d3-5ffa-92b7-09edaa10f919
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_range_brownianPositiveTowerLI
 -- name    : Malliavin.BrownianIteratedConstruction.range_brownianPositiveTowerLI
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:02:38.416783+00:00
 -- url     : https://prove2.me/theorems/aa41d91e-978a-4317-a953-9cbcfa31d353

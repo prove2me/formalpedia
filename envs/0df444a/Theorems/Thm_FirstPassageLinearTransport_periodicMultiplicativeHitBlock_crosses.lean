@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_periodicMultiplicativeHitBlock_crosses
 -- name    : FirstPassageLinearTransport.periodicMultiplicativeHitBlock_crosses
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:17.062445+00:00
 -- url     : https://prove2.me/theorems/b062f5ec-5045-500c-a2da-5788b7dea184

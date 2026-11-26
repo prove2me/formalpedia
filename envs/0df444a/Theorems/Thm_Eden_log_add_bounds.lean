@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_log_add_bounds
 -- name    : Eden.log_add_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:00:49.663211+00:00
 -- url     : https://prove2.me/theorems/f249573a-93a3-5067-8e1f-a9e7bb246c02

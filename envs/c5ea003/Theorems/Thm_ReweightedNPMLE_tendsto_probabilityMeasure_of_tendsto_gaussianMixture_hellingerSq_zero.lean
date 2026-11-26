@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_tendsto_probabilityMeasure_of_tendsto_gaussianMixture_hellingerSq_zero
 -- name    : ReweightedNPMLE.tendsto_probabilityMeasure_of_tendsto_gaussianMixture_hellingerSq_zero
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:00.698864+00:00
 -- url     : https://prove2.me/theorems/10f3e1ee-2196-5759-9e9e-8f52df7f2f0e
 -- title:

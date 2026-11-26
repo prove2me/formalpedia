@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_resolvent_affineOperator_eq_of_boundary_subset_resolventSet
 -- name    : contourIntegral_resolvent_affineOperator_eq_of_boundary_subset_resolventSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:34.710418+00:00
 -- url     : https://prove2.me/theorems/b82168c1-4539-578e-b97f-14fc672e0d5b

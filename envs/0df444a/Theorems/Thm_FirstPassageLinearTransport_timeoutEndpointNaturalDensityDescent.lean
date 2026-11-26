@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutEndpointNaturalDensityDescent
 -- name    : FirstPassageLinearTransport.timeoutEndpointNaturalDensityDescent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:51:06.334963+00:00
 -- url     : https://prove2.me/theorems/d1798c7f-be53-431b-9137-eae00e5d0332

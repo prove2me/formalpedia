@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianNearMLE_threshold_256_le
 -- name    : ReweightedNPMLE.eventually_gaussianNearMLE_threshold_256_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:34.645094+00:00
 -- url     : https://prove2.me/theorems/3a32929c-42a1-4048-bbb0-8423ddc07d91
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_abs_finiteGaussianMixture_weight_relative_error_le
 -- name    : ReweightedNPMLE.abs_finiteGaussianMixture_weight_relative_error_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:25.2438+00:00
 -- url     : https://prove2.me/theorems/f616387d-1568-591c-9485-b6691d6adea7
 -- title:

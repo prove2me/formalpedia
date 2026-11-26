@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_resolvent_affineOperator_neighborhood_bound
 -- name    : exists_resolvent_affineOperator_neighborhood_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:50.854852+00:00
 -- url     : https://prove2.me/theorems/8ecf8f23-4d86-4b20-826d-2a76ab01f1df

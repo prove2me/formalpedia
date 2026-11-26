@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.relativeDictionary_weighted_sum_eq_zero_of_contact
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:00:16.705743+00:00
 -- url     : https://prove2.me/submissions/4f4e410c-011b-48fd-a17a-fa9efeaf9387
 

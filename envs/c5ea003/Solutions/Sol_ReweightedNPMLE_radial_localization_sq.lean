@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.radial_localization_sq
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:09:04.89437+00:00
 -- url     : https://prove2.me/submissions/327b19a9-cf22-4667-9a28-4f135304b4fa
 

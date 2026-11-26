@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_polynomialSupNorm_closure_of_isBounded
 -- name    : polynomialSupNorm_closure_of_isBounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:58:35.540866+00:00
 -- url     : https://prove2.me/theorems/457dd4be-e313-4395-b6c0-996407049f1e

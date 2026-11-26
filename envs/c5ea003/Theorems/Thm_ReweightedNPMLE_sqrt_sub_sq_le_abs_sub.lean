@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_sqrt_sub_sq_le_abs_sub
 -- name    : ReweightedNPMLE.sqrt_sub_sq_le_abs_sub
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:40:50.549811+00:00
 -- url     : https://prove2.me/theorems/7bbe7bc1-3928-4bc1-a681-db145202e90e
 -- title:

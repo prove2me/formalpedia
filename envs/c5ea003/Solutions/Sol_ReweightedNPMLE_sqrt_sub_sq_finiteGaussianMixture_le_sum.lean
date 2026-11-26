@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.sqrt_sub_sq_finiteGaussianMixture_le_sum
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:04:18.18259+00:00
 -- url     : https://prove2.me/submissions/c31c1414-b9c1-4d04-87a5-eebe36fe5268
 

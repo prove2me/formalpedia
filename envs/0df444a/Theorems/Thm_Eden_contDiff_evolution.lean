@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_contDiff_evolution
 -- name    : Eden.contDiff_evolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:51.02537+00:00
 -- url     : https://prove2.me/theorems/b427e956-806c-4ed4-a8b5-ccb43d5bf46a

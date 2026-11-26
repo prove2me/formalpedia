@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gamma_determinant_moment_of_monotone_ae_deriv
 -- name    : ReweightedNPMLE.gamma_determinant_moment_of_monotone_ae_deriv
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:10.821212+00:00
 -- url     : https://prove2.me/theorems/a8e165ed-9d5d-51f7-8d8d-7c4030ed58c3
 -- title:

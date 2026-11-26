@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianTaylorApproximant_apply
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:12.969193+00:00
 -- url     : https://prove2.me/submissions/1fdf597c-030f-496c-8461-3215e1b8c144
 

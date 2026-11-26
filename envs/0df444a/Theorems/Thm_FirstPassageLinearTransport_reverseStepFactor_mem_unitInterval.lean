@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_reverseStepFactor_mem_unitInterval
 -- name    : FirstPassageLinearTransport.reverseStepFactor_mem_unitInterval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:49:45.110744+00:00
 -- url     : https://prove2.me/theorems/724e509e-4b95-4e1c-aa0a-894e9758ae60

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.simplexGridRound_nonneg
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:04:34.651631+00:00
 -- url     : https://prove2.me/submissions/aef8ecce-8b7f-4c80-82ae-63d3c635244a
 

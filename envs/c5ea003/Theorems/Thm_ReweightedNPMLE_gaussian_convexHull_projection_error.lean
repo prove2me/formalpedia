@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_convexHull_projection_error
 -- name    : ReweightedNPMLE.gaussian_convexHull_projection_error
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:28.4815+00:00
 -- url     : https://prove2.me/theorems/fa509735-330d-49c3-b875-4ff1193caf2f
 -- title:

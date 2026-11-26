@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_structural_conclusions_of_notMem_failure
 -- name    : ReweightedNPMLE.gaussian_structural_conclusions_of_notMem_failure
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:49:57.690697+00:00
 -- url     : https://prove2.me/theorems/cefcee00-718b-4c7c-a622-74a1bf80d36d
 -- title:

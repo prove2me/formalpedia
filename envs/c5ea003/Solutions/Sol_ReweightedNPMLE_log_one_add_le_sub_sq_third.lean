@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.log_one_add_le_sub_sq_third
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:08:38.239733+00:00
 -- url     : https://prove2.me/submissions/61bdc7d3-d906-491f-9a72-08c8dd874eb2
 

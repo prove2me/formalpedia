@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_reweighted_optimizer_weak_consistency
 -- name    : ReweightedNPMLE.gaussian_reweighted_optimizer_weak_consistency
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:52:24.375063+00:00
 -- url     : https://prove2.me/theorems/43a724ba-5750-4f95-9f74-482bee3ad906
 -- title:

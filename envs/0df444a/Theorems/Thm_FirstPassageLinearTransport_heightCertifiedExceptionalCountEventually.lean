@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_heightCertifiedExceptionalCountEventually
 -- name    : FirstPassageLinearTransport.heightCertifiedExceptionalCountEventually
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:13.828213+00:00
 -- url     : https://prove2.me/theorems/9f4bf4a0-6e45-4035-af27-40726a42a118

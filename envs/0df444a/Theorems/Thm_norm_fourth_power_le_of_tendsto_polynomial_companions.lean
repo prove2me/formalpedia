@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_fourth_power_le_of_tendsto_polynomial_companions
 -- name    : norm_fourth_power_le_of_tendsto_polynomial_companions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:48:45.160639+00:00
 -- url     : https://prove2.me/theorems/01c45d1d-a715-5e9d-aa38-ba7337c1d6e0

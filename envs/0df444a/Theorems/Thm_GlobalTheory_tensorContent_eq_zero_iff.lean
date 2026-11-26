@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensorContent_eq_zero_iff
 -- name    : GlobalTheory.tensorContent_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:27.226935+00:00
 -- url     : https://prove2.me/theorems/fa9ec75d-4760-5bc7-a4fe-8367561fd501

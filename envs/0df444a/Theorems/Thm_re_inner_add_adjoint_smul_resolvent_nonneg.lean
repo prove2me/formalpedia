@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_re_inner_add_adjoint_smul_resolvent_nonneg
 -- name    : re_inner_add_adjoint_smul_resolvent_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:36:42.980276+00:00
 -- url     : https://prove2.me/theorems/0ec6a8a1-b91c-4cd4-b7ad-09c52a7ad90b

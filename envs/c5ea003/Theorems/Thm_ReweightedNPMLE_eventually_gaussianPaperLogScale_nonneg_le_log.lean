@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianPaperLogScale_nonneg_le_log
 -- name    : ReweightedNPMLE.eventually_gaussianPaperLogScale_nonneg_le_log
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:15.477401+00:00
 -- url     : https://prove2.me/theorems/2e029398-9190-47bb-8b06-3f398853af64
 -- title:

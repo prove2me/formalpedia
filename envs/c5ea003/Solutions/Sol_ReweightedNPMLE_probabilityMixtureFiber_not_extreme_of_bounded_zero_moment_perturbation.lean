@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.probabilityMixtureFiber_not_extreme_of_bounded_zero_moment_perturbation
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:59:18.796536+00:00
 -- url     : https://prove2.me/submissions/0403add6-fe3c-4ae9-b5a4-1c33c0b07e01
 

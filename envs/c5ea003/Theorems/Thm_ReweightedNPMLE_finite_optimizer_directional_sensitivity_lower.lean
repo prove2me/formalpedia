@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_finite_optimizer_directional_sensitivity_lower
 -- name    : ReweightedNPMLE.finite_optimizer_directional_sensitivity_lower
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:40:12.15998+00:00
 -- url     : https://prove2.me/theorems/fc49ee18-3a7f-5a68-86eb-8e085c01ea73
 -- title:

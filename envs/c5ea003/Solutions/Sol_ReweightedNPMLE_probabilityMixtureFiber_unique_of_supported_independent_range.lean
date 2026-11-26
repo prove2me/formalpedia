@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.probabilityMixtureFiber_unique_of_supported_independent_range
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:59:17.076044+00:00
 -- url     : https://prove2.me/submissions/4f15e840-ab86-45a4-a560-91ea27eba7b8
 

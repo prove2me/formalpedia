@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_uniform_nearMLE_hellinger_bad_event_bound
 -- name    : ReweightedNPMLE.uniform_nearMLE_hellinger_bad_event_bound
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:43:51.437262+00:00
 -- url     : https://prove2.me/theorems/32d446ac-047c-4fda-99d1-f22d07afa135
 -- title:

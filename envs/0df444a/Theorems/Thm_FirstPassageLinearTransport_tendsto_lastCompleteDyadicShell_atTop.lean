@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tendsto_lastCompleteDyadicShell_atTop
 -- name    : FirstPassageLinearTransport.tendsto_lastCompleteDyadicShell_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:55:57.172377+00:00
 -- url     : https://prove2.me/theorems/31e9d961-c5d2-54ac-915a-04fa315577d6

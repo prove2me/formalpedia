@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.analyticAt_gaussianKernel_joint
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:52:46.652392+00:00
 -- url     : https://prove2.me/submissions/20110e9c-14cc-4e02-8b4a-391a99d29925
 

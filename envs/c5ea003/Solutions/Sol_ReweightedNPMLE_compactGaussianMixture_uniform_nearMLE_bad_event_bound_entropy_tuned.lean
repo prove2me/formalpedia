@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.compactGaussianMixture_uniform_nearMLE_bad_event_bound_entropy_tuned
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:17:09.233451+00:00
 -- url     : https://prove2.me/submissions/6df15a9e-19b8-420f-8a89-95f706ec7baa
 

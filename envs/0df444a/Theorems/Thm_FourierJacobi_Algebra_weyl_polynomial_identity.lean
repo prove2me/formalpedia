@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_weyl_polynomial_identity
 -- name    : FourierJacobi.Algebra.weyl_polynomial_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:14:03.207125+00:00
 -- url     : https://prove2.me/theorems/10fce0e6-cb67-5ee4-b36a-d5ce51c76846

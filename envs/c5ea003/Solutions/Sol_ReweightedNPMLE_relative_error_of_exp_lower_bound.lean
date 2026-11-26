@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.relative_error_of_exp_lower_bound
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:04:06.322568+00:00
 -- url     : https://prove2.me/submissions/cf7f8e89-ef9e-4d1d-83ef-6c1ada6f0533
 

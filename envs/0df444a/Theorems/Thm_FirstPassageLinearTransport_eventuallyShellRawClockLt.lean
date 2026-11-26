@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventuallyShellRawClockLt
 -- name    : FirstPassageLinearTransport.eventuallyShellRawClockLt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:22:08.81035+00:00
 -- url     : https://prove2.me/theorems/e2ee4e71-b0bc-5799-b988-8ea8c3736df0

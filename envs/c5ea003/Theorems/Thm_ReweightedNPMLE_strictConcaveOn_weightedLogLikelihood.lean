@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_strictConcaveOn_weightedLogLikelihood
 -- name    : ReweightedNPMLE.strictConcaveOn_weightedLogLikelihood
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:14.972049+00:00
 -- url     : https://prove2.me/theorems/cf2c7cb8-8763-415b-a9b8-71ef07289f1c
 -- title:

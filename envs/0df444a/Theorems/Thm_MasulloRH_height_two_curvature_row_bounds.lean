@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloRH_height_two_curvature_row_bounds
 -- name    : MasulloRH.height_two_curvature_row_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @scuba8684
 -- created : 2026-11-26T12:34:59.347086+00:00
 -- url     : https://prove2.me/theorems/680e75e0-46e9-4f05-b70c-7f7de8530930

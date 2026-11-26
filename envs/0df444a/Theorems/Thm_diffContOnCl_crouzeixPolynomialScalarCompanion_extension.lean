@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_diffContOnCl_crouzeixPolynomialScalarCompanion_extension
 -- name    : diffContOnCl_crouzeixPolynomialScalarCompanion_extension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:36:07.892908+00:00
 -- url     : https://prove2.me/theorems/c26a45d6-4b62-57a5-bfde-164fd202fbc1

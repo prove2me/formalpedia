@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_timeoutRun_completed_centered
 -- name    : FirstPassageLinearTransport.eventually_timeoutRun_completed_centered
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:39.063963+00:00
 -- url     : https://prove2.me/theorems/a73085e6-af74-45bc-9410-b9c4dba872d6

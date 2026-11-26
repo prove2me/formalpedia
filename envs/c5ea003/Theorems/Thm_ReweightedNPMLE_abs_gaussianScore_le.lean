@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_abs_gaussianScore_le
 -- name    : ReweightedNPMLE.abs_gaussianScore_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:02.642202+00:00
 -- url     : https://prove2.me/theorems/99747b9f-4d33-4893-8040-df004f8a2289
 -- title:

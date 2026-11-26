@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_inner_iteratedKernelPurePower
 -- name    : Malliavin.inner_iteratedKernelPurePower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:07:08.829013+00:00
 -- url     : https://prove2.me/theorems/2bc6d22a-2e51-4e08-b3a7-9df5df2c212e

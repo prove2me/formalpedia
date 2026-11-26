@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Eden_radiusSq__evolution_ce05ee2f5645
 -- name    : P2M_Eden_radiusSq__evolution_ce05ee2f5645
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:07:35.332569+00:00
 -- url     : https://prove2.me/theorems/b323496d-916a-4d18-b1a1-3d7de5a70b51

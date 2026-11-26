@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_not_hasTargetHeightWitness_of_prefix_crossing
 -- name    : FirstPassageLinearTransport.not_hasTargetHeightWitness_of_prefix_crossing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:30.246127+00:00
 -- url     : https://prove2.me/theorems/75692b89-9619-4bb6-9860-58bd8e744a33

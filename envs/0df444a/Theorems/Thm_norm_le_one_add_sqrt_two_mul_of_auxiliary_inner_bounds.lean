@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_le_one_add_sqrt_two_mul_of_auxiliary_inner_bounds
 -- name    : norm_le_one_add_sqrt_two_mul_of_auxiliary_inner_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:50:21.051457+00:00
 -- url     : https://prove2.me/theorems/52d0df00-df3a-5846-bb77-28683f00d667

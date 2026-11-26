@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_euclidean_norm_le_sqrt_card_mul_of_abs_coord_le
 -- name    : ReweightedNPMLE.euclidean_norm_le_sqrt_card_mul_of_abs_coord_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:42:45.010375+00:00
 -- url     : https://prove2.me/theorems/30a34304-6e5c-4a69-be5f-fb32d1f7e620
 -- title:

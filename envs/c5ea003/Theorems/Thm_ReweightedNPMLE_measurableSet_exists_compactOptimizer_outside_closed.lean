@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_measurableSet_exists_compactOptimizer_outside_closed
 -- name    : ReweightedNPMLE.measurableSet_exists_compactOptimizer_outside_closed
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:33.722907+00:00
 -- url     : https://prove2.me/theorems/cf974b14-af8b-5796-825c-1c5a273db382
 -- title:

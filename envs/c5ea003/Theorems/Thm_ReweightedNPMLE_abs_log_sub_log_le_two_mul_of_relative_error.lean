@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_abs_log_sub_log_le_two_mul_of_relative_error
 -- name    : ReweightedNPMLE.abs_log_sub_log_le_two_mul_of_relative_error
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:35:47.948922+00:00
 -- url     : https://prove2.me/theorems/1ce54756-1c89-5b25-b2ef-12a059f4420b
 -- title:

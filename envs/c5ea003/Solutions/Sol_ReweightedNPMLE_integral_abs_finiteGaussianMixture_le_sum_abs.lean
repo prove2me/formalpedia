@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.integral_abs_finiteGaussianMixture_le_sum_abs
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:04:15.946631+00:00
 -- url     : https://prove2.me/submissions/137ab518-e4bd-4322-b63b-997196e596bb
 

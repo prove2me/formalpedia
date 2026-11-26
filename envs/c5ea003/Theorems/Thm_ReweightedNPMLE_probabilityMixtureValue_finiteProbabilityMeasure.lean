@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_probabilityMixtureValue_finiteProbabilityMeasure
 -- name    : ReweightedNPMLE.probabilityMixtureValue_finiteProbabilityMeasure
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:36.307469+00:00
 -- url     : https://prove2.me/theorems/3a82d182-b180-457e-8828-f849c6a64e0f
 -- title:

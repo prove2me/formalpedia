@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.centered_gamma_mgf
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:03:10.89311+00:00
 -- url     : https://prove2.me/submissions/251d4433-540a-4955-b1c1-8f0792ce644f
 

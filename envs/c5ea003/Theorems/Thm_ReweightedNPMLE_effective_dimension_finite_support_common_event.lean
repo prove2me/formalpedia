@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_effective_dimension_finite_support_common_event
 -- name    : ReweightedNPMLE.effective_dimension_finite_support_common_event
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:33.259547+00:00
 -- url     : https://prove2.me/theorems/76f2f297-d892-5655-98f7-0090167e7926
 -- title:

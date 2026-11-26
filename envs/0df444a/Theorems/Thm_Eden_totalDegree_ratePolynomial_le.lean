@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_totalDegree_ratePolynomial_le
 -- name    : Eden.totalDegree_ratePolynomial_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:01:15.687475+00:00
 -- url     : https://prove2.me/theorems/1e45137e-e61e-4691-98c5-9881e176dc01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_abs_term
 -- name    : GlobalTheory.UnitLemma.Desc.abs_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:19.425284+00:00
 -- url     : https://prove2.me/theorems/b49103c1-48a0-5fbd-b90c-1f9ba2f30ef2

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.contact_eq_one_on_coefficientSupport
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:53:31.616807+00:00
 -- url     : https://prove2.me/submissions/a39a6aac-a10a-401d-964f-7cb8750a1641
 

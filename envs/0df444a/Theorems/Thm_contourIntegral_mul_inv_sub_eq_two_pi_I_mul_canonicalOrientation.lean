@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_mul_inv_sub_eq_two_pi_I_mul_canonicalOrientation
 -- name    : contourIntegral_mul_inv_sub_eq_two_pi_I_mul_canonicalOrientation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:54.948016+00:00
 -- url     : https://prove2.me/theorems/9308f392-1e87-52bd-bfe8-931a5015d3e9

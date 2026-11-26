@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianMomentDimension_add_two_le
 -- name    : ReweightedNPMLE.eventually_gaussianMomentDimension_add_two_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:45.989798+00:00
 -- url     : https://prove2.me/theorems/6d41f96d-47dd-47fc-8896-a6329f527955
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_MeasureFiberPerturbation
 -- name    : ReweightedNPMLE_MeasureFiberPerturbation
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:24:30.236261+00:00
 -- url     : https://prove2.me/theorems/d914a440-e2ff-53e8-a014-3ada3e2a81b7
 -- title:

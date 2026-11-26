@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.notMem_gaussianStructuralFailure_of_unique_optimizer
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:15:27.49738+00:00
 -- url     : https://prove2.me/submissions/f303b3dd-6849-496b-9e9e-8f4c4a582ea0
 

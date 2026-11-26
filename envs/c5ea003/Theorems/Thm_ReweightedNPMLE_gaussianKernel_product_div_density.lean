@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianKernel_product_div_density
 -- name    : ReweightedNPMLE.gaussianKernel_product_div_density
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:57.543294+00:00
 -- url     : https://prove2.me/theorems/890ef827-f229-5751-9f76-c5bac449e0f3
 -- title:

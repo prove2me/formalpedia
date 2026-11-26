@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianNearMLERate
 -- name    : ReweightedNPMLE_GaussianNearMLERate
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:25:30.364006+00:00
 -- url     : https://prove2.me/theorems/eaaf6173-262c-52dd-b058-b4dfd165bd87
 -- title:

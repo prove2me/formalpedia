@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_mem_finiteSimplex_add_smul_zeroSum
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:59:30.098933+00:00
 -- url     : https://prove2.me/submissions/b96c437d-788f-4958-b160-bdf43dfb220b
 

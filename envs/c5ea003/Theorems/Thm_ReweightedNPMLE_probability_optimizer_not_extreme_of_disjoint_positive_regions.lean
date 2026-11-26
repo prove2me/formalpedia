@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_probability_optimizer_not_extreme_of_disjoint_positive_regions
 -- name    : ReweightedNPMLE.probability_optimizer_not_extreme_of_disjoint_positive_regions
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:38:54.788216+00:00
 -- url     : https://prove2.me/theorems/442086ac-7630-42f4-8e20-21695bde6b2a
 -- title:

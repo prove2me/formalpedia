@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_pi_withDensity_prod_eq
 -- name    : ReweightedNPMLE.pi_withDensity_prod_eq
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:40:47.084282+00:00
 -- url     : https://prove2.me/theorems/b391a075-2b07-4975-89ed-76573b2e1349
 -- title:

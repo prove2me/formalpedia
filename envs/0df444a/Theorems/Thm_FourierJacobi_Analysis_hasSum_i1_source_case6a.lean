@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i1_source_case6a
 -- name    : FourierJacobi.Analysis.hasSum_i1_source_case6a
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:40:55.235596+00:00
 -- url     : https://prove2.me/theorems/bb41a6e2-0370-4f54-b38e-aeac7d3615c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_re_inner_smul_resolvent_circleMap_nonneg
 -- name    : re_inner_smul_resolvent_circleMap_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:36:35.862994+00:00
 -- url     : https://prove2.me/theorems/3fa04d91-4e0c-52f9-9829-42e23f5368cd

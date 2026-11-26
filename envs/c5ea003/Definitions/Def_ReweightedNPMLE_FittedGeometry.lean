@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_FittedGeometry
 -- name    : ReweightedNPMLE_FittedGeometry
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:18:18.319225+00:00
 -- url     : https://prove2.me/theorems/19a7ee9a-9bd1-50d6-af4f-ec2238899aab
 -- title:

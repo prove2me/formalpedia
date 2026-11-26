@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_IsMonomialCombination_weighted_sum_eq_integral
 -- name    : ReweightedNPMLE.IsMonomialCombination.weighted_sum_eq_integral
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:35:53.833845+00:00
 -- url     : https://prove2.me/theorems/5bd15689-30b3-4f6c-a206-0e30a2016c4a
 -- title:

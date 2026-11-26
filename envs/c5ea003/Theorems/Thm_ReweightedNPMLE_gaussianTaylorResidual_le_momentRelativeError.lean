@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianTaylorResidual_le_momentRelativeError
 -- name    : ReweightedNPMLE.gaussianTaylorResidual_le_momentRelativeError
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:11.3319+00:00
 -- url     : https://prove2.me/theorems/fe2bd77c-22cc-41e1-af84-82714426a860
 -- title:

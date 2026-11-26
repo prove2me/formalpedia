@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianLocationMixtureLaw_radius_tail
 -- name    : ReweightedNPMLE.gaussianLocationMixtureLaw_radius_tail
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:23.230423+00:00
 -- url     : https://prove2.me/theorems/4f1f7a03-6150-56c8-b8f2-3a0d1b60b385
 -- title:

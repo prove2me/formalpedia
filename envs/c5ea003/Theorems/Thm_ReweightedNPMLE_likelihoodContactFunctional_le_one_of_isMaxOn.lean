@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_likelihoodContactFunctional_le_one_of_isMaxOn
 -- name    : ReweightedNPMLE.likelihoodContactFunctional_le_one_of_isMaxOn
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:22.085261+00:00
 -- url     : https://prove2.me/theorems/c7d8e27f-7344-44df-aeac-0b7e1597027a
 -- title:

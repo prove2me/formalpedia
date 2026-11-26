@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_probabilityMixtureFiber_not_extreme_of_bounded_zero_moment_perturbation
 -- name    : ReweightedNPMLE.probabilityMixtureFiber_not_extreme_of_bounded_zero_moment_perturbation
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:42.828638+00:00
 -- url     : https://prove2.me/theorems/44e47420-94a5-578a-a5cd-273de094672d
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_measurableSet_independentRepresentationEvent
 -- name    : ReweightedNPMLE.measurableSet_independentRepresentationEvent
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:44.160741+00:00
 -- url     : https://prove2.me/theorems/af46a727-7ad4-4092-9bba-e258ce48cfe9
 -- title:

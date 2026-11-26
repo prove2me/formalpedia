@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_general_finite_moment_matching_weightedL2_bound
 -- name    : ReweightedNPMLE.general_finite_moment_matching_weightedL2_bound
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:43:34.873826+00:00
 -- url     : https://prove2.me/theorems/e04aae6e-98ad-4b3d-b268-fa83ae878e72
 -- title:

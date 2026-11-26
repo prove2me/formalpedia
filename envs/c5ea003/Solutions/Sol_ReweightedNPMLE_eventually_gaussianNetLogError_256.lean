@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianNetLogError_256
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:09:03.200325+00:00
 -- url     : https://prove2.me/submissions/8223c32f-bbd6-4020-8dea-702ad4381da7
 

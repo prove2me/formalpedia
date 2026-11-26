@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixBoundaryPhaseContractive_of_normalized
 -- name    : crouzeixBoundaryPhaseContractive_of_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:59:37.990285+00:00
 -- url     : https://prove2.me/theorems/ebf57516-c1b1-47d7-98d5-15f29e163dba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_movingTerminalRank_criticalMultiplierExponent
 -- name    : FirstPassageLinearTransport.movingTerminalRank_criticalMultiplierExponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:51:44.944618+00:00
 -- url     : https://prove2.me/theorems/d22c7098-ce08-5f88-8ef7-1997b75ccbd2

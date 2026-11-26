@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.finite_coordinate_union_bound_real
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:08:56.830687+00:00
 -- url     : https://prove2.me/submissions/c3dbd6a1-78b3-4a4e-9a5c-af8a32afdf4e
 

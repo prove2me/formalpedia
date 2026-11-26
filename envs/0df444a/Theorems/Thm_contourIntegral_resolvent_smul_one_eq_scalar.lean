@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_resolvent_smul_one_eq_scalar
 -- name    : contourIntegral_resolvent_smul_one_eq_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:44.836672+00:00
 -- url     : https://prove2.me/theorems/0897c5a1-7ff7-417c-a139-71fdf77d4e99

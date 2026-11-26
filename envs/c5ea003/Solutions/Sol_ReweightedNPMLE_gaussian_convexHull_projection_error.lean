@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_convexHull_projection_error
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:15:54.059078+00:00
 -- url     : https://prove2.me/submissions/8c651d1e-0aad-4a83-99a5-47d1b4bb4be5
 

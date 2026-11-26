@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_aeval_divByMonic_X_sub_C_eq_zero
 -- name    : contourIntegral_aeval_divByMonic_X_sub_C_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:53:51.858003+00:00
 -- url     : https://prove2.me/theorems/40e4bd83-de43-4179-92a6-bf12ba418e65

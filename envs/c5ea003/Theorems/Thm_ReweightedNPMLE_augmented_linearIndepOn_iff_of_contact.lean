@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_augmented_linearIndepOn_iff_of_contact
 -- name    : ReweightedNPMLE.augmented_linearIndepOn_iff_of_contact
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:25.009802+00:00
 -- url     : https://prove2.me/theorems/788e241c-2c51-41d4-adf4-bc95043a2f3f
 -- title:

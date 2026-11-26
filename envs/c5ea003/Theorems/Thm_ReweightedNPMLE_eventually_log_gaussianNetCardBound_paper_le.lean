@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_log_gaussianNetCardBound_paper_le
 -- name    : ReweightedNPMLE.eventually_log_gaussianNetCardBound_paper_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:14.131858+00:00
 -- url     : https://prove2.me/theorems/1469133f-0e3b-59cb-b47b-d3ac437899a3
 -- title:

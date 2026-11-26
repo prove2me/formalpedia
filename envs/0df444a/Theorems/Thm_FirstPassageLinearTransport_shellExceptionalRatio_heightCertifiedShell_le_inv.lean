@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shellExceptionalRatio_heightCertifiedShell_le_inv
 -- name    : FirstPassageLinearTransport.shellExceptionalRatio_heightCertifiedShell_le_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:34:22.60496+00:00
 -- url     : https://prove2.me/theorems/98e96219-5733-58a5-87b9-95c4c52bca62

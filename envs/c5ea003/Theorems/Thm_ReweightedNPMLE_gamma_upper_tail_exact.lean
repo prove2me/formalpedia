@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gamma_upper_tail_exact
 -- name    : ReweightedNPMLE.gamma_upper_tail_exact
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:54.79241+00:00
 -- url     : https://prove2.me/theorems/2316acca-422e-52ae-bb16-ba2dfc975886
 -- title:

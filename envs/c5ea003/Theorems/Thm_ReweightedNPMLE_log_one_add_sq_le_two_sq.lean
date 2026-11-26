@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_log_one_add_sq_le_two_sq
 -- name    : ReweightedNPMLE.log_one_add_sq_le_two_sq
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:38.721139+00:00
 -- url     : https://prove2.me/theorems/c743f260-a2fa-4539-8c25-0560af9aa161
 -- title:

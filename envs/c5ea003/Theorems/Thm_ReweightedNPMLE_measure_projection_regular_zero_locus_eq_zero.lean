@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_measure_projection_regular_zero_locus_eq_zero
 -- name    : ReweightedNPMLE.measure_projection_regular_zero_locus_eq_zero
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:59.128166+00:00
 -- url     : https://prove2.me/theorems/5893f706-3b2b-5dfb-82b7-37a9968138e7
 -- title:

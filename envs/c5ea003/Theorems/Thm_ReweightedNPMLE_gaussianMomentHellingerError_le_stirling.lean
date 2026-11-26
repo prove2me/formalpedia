@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianMomentHellingerError_le_stirling
 -- name    : ReweightedNPMLE.gaussianMomentHellingerError_le_stirling
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:40.984923+00:00
 -- url     : https://prove2.me/theorems/2b7efb86-6424-4214-8e0f-c02623be45ad
 -- title:

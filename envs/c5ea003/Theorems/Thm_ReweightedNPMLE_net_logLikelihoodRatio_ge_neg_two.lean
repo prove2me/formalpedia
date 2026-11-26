@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_net_logLikelihoodRatio_ge_neg_two
 -- name    : ReweightedNPMLE.net_logLikelihoodRatio_ge_neg_two
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:53.4506+00:00
 -- url     : https://prove2.me/theorems/d0f00f6d-0184-4189-b053-a85776b5494c
 -- title:

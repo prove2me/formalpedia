@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shell_log_le_rank_add_two
 -- name    : FirstPassageLinearTransport.shell_log_le_rank_add_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:55:54.525302+00:00
 -- url     : https://prove2.me/theorems/022b1baa-7e31-43b2-8038-c8f1e49ef07e

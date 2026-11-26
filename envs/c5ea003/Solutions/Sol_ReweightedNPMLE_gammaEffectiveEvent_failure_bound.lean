@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gammaEffectiveEvent_failure_bound
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:44.210713+00:00
 -- url     : https://prove2.me/submissions/f89b30d6-38bb-42e3-8bee-4977e128b286
 

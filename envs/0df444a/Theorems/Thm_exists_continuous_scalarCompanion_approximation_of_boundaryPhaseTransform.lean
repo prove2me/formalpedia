@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_continuous_scalarCompanion_approximation_of_boundaryPhaseTransform
 -- name    : exists_continuous_scalarCompanion_approximation_of_boundaryPhaseTransform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:58:56.850091+00:00
 -- url     : https://prove2.me/theorems/679fb4ae-c120-59f2-ab54-b26a38e87157

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_coeff_vectorFieldPolynomial_first
 -- name    : Eden.coeff_vectorFieldPolynomial_first
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:30.676881+00:00
 -- url     : https://prove2.me/theorems/28ab9d80-5e73-52bb-98ae-c109e284272b

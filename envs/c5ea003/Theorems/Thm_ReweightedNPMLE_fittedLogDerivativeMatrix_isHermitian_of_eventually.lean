@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_fittedLogDerivativeMatrix_isHermitian_of_eventually
 -- name    : ReweightedNPMLE.fittedLogDerivativeMatrix_isHermitian_of_eventually
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:13.420443+00:00
 -- url     : https://prove2.me/theorems/2e1bc229-e0a4-4815-8081-1192d6f27595
 -- title:

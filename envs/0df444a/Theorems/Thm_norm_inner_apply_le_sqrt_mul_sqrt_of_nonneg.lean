@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_inner_apply_le_sqrt_mul_sqrt_of_nonneg
 -- name    : norm_inner_apply_le_sqrt_mul_sqrt_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:45.518542+00:00
 -- url     : https://prove2.me/theorems/5a19baf6-9494-4412-8955-793e55c970c8

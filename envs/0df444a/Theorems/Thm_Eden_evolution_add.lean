@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_evolution_add
 -- name    : Eden.evolution_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:06:27.04026+00:00
 -- url     : https://prove2.me/theorems/18c7c9dc-63d5-44bd-b59e-ece6e36acdaa

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.finite_density_net_likelihood_test_bound
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:07:24.484863+00:00
 -- url     : https://prove2.me/submissions/a25d3be0-a72f-4485-a507-852230a9d733
 

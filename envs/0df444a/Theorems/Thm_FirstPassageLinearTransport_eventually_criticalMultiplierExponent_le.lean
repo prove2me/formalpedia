@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_criticalMultiplierExponent_le
 -- name    : FirstPassageLinearTransport.eventually_criticalMultiplierExponent_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:52:07.799224+00:00
 -- url     : https://prove2.me/theorems/4d1756e4-f7bd-4452-b844-f02cb28a255c

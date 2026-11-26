@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.exp_inner_comp_comp_integrable
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:03:27.006599+00:00
 -- url     : https://prove2.me/submissions/fde45856-a16d-4ac8-9fda-8e8102c63a28
 

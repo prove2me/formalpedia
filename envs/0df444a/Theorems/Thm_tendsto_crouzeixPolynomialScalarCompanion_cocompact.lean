@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_tendsto_crouzeixPolynomialScalarCompanion_cocompact
 -- name    : tendsto_crouzeixPolynomialScalarCompanion_cocompact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:31.964816+00:00
 -- url     : https://prove2.me/theorems/1b6b6cc9-ff44-5336-ae44-86da56cd6551

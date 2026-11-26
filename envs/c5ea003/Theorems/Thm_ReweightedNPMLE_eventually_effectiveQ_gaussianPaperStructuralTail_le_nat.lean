@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_effectiveQ_gaussianPaperStructuralTail_le_nat
 -- name    : ReweightedNPMLE.eventually_effectiveQ_gaussianPaperStructuralTail_le_nat
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:54.886375+00:00
 -- url     : https://prove2.me/theorems/183af099-bdaa-5ea3-9382-d80dc278338c
 -- title:

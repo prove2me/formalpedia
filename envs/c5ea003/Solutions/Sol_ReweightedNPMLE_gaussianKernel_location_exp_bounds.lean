@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianKernel_location_exp_bounds
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:53:26.747313+00:00
 -- url     : https://prove2.me/submissions/1a2b11e8-a16d-4b81-837f-128d012810df
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i2_rowTerm
 -- name    : FourierJacobi.Analysis.hasSum_i2_rowTerm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:09.500062+00:00
 -- url     : https://prove2.me/theorems/f311ff12-9199-5736-bbbb-69a3c6dcbe16

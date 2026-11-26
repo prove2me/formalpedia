@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_ballotMultiplier_boolParityWord_zero
 -- name    : FirstPassageLinearTransport.ballotMultiplier_boolParityWord_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:29:04.671978+00:00
 -- url     : https://prove2.me/theorems/f1facb10-f9a2-4403-ba65-1f54ff133177

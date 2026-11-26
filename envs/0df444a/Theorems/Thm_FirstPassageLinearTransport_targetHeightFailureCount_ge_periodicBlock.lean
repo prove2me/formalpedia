@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_targetHeightFailureCount_ge_periodicBlock
 -- name    : FirstPassageLinearTransport.targetHeightFailureCount_ge_periodicBlock
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:30.573984+00:00
 -- url     : https://prove2.me/theorems/3640dc8f-0cfa-5d6c-8ccf-a3b13b36ad38

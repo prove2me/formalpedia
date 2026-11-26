@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_full_probability_optimizer_extreme_iff
 -- name    : ReweightedNPMLE.full_probability_optimizer_extreme_iff
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:45.621491+00:00
 -- url     : https://prove2.me/theorems/506d27f7-ed08-4c16-baf5-67a24367465f
 -- title:

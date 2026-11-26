@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianProduct_max_coordinate_tail
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:08:17.237865+00:00
 -- url     : https://prove2.me/submissions/f0597cbe-f4f2-492b-a7bf-4b8c39240496
 

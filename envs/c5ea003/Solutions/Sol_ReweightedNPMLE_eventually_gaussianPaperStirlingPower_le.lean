@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianPaperStirlingPower_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:06:19.58321+00:00
 -- url     : https://prove2.me/submissions/4ddf43d8-491d-4297-a6b5-d22dc2a549f5
 

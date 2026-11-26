@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_IncidenceJacobian
 -- name    : ReweightedNPMLE_IncidenceJacobian
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:25:04.993936+00:00
 -- url     : https://prove2.me/theorems/665802cf-8879-407a-b698-0f9bad69a37f
 -- title:

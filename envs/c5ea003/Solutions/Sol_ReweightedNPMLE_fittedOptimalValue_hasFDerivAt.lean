@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.fittedOptimalValue_hasFDerivAt
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:01:49.032611+00:00
 -- url     : https://prove2.me/submissions/d2d33161-250c-4f42-a066-ce1d7fe04638
 

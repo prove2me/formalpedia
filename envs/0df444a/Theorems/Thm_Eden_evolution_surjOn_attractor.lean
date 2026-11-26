@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_evolution_surjOn_attractor
 -- name    : Eden.evolution_surjOn_attractor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:09:22.279305+00:00
 -- url     : https://prove2.me/theorems/3cd2dab8-b10e-482b-936d-0e8dd1f47fa9

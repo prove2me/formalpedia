@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_hasDerivAt_sqrt_radialDiscriminant
 -- name    : Eden.hasDerivAt_sqrt_radialDiscriminant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:07:20.86003+00:00
 -- url     : https://prove2.me/theorems/c47e5d15-58e3-580c-ba50-579f0f9ebc3e

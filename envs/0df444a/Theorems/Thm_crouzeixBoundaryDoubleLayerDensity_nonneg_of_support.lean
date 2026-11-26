@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixBoundaryDoubleLayerDensity_nonneg_of_support
 -- name    : crouzeixBoundaryDoubleLayerDensity_nonneg_of_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:10:00.918136+00:00
 -- url     : https://prove2.me/theorems/adfd6fd1-9f7a-4b10-915f-1539fec5ba88

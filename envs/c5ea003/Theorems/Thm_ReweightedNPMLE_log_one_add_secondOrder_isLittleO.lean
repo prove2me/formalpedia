@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_log_one_add_secondOrder_isLittleO
 -- name    : ReweightedNPMLE.log_one_add_secondOrder_isLittleO
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:20.22989+00:00
 -- url     : https://prove2.me/theorems/6898c530-a911-4a9f-a6bc-60f17314b92f
 -- title:

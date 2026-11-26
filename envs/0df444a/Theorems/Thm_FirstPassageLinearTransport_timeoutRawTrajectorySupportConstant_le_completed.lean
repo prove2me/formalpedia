@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutRawTrajectorySupportConstant_le_completed
 -- name    : FirstPassageLinearTransport.timeoutRawTrajectorySupportConstant_le_completed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:51:09.338095+00:00
 -- url     : https://prove2.me/theorems/66514e11-4123-41b8-9080-f897c3b6a1f6

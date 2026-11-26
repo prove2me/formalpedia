@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_timeoutRun_prefix_oddCount_centered
 -- name    : FirstPassageLinearTransport.eventually_timeoutRun_prefix_oddCount_centered
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:27:54.850194+00:00
 -- url     : https://prove2.me/theorems/375f6bf1-44ba-5396-b39d-57402c18a098

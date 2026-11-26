@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_FittedLocalization
 -- name    : ReweightedNPMLE_FittedLocalization
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:23:01.99078+00:00
 -- url     : https://prove2.me/theorems/48650b65-c0ae-54bc-ae58-a694da9b1ca9
 -- title:

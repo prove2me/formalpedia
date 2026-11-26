@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensorContent_eq_polyContent_scalarCoeffs
 -- name    : GlobalTheory.tensorContent_eq_polyContent_scalarCoeffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:30.73254+00:00
 -- url     : https://prove2.me/theorems/238d564d-c27f-4a48-a814-3bd4f4fc8f15

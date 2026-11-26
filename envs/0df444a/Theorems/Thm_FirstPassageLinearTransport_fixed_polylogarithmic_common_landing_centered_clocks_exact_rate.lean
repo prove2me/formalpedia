@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_fixed_polylogarithmic_common_landing_centered_clocks_exact_rate
 -- name    : FirstPassageLinearTransport.fixed_polylogarithmic_common_landing_centered_clocks_exact_rate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:34:50.962092+00:00
 -- url     : https://prove2.me/theorems/1cc2b69e-0580-44e9-83fb-dbe032207ac4

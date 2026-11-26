@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_norm_bound_crouzeixPolynomialAuxiliaryOperator
 -- name    : exists_norm_bound_crouzeixPolynomialAuxiliaryOperator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:50.931504+00:00
 -- url     : https://prove2.me/theorems/10f9319a-61ff-5f25-b377-0613f38bf5da

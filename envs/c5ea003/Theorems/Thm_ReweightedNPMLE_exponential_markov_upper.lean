@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_exponential_markov_upper
 -- name    : ReweightedNPMLE.exponential_markov_upper
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:42:15.072047+00:00
 -- url     : https://prove2.me/theorems/27fb65e5-62dc-4e8e-8395-ed0a6633fa2f
 -- title:

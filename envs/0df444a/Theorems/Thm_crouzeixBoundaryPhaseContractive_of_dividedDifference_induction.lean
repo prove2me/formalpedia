@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixBoundaryPhaseContractive_of_dividedDifference_induction
 -- name    : crouzeixBoundaryPhaseContractive_of_dividedDifference_induction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:59:16.884796+00:00
 -- url     : https://prove2.me/theorems/54a6e449-0d16-531b-b076-b791ce31194a

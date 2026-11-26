@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_hellingerSq_finiteGaussianMixture_rounding
 -- name    : ReweightedNPMLE.hellingerSq_finiteGaussianMixture_rounding
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:42:34.557464+00:00
 -- url     : https://prove2.me/theorems/1e14587d-6abe-4132-a7fc-7cb51fcf36ad
 -- title:

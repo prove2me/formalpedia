@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_triple_le_of_tendsto_polynomial_companions
 -- name    : norm_triple_le_of_tendsto_polynomial_companions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:48:56.311073+00:00
 -- url     : https://prove2.me/theorems/58d075dc-7b2a-4b98-a54c-915a8dab1b0f

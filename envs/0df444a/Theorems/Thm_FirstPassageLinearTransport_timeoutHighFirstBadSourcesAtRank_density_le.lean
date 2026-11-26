@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutHighFirstBadSourcesAtRank_density_le
 -- name    : FirstPassageLinearTransport.timeoutHighFirstBadSourcesAtRank_density_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:26:22.122179+00:00
 -- url     : https://prove2.me/theorems/83e26407-35db-58ce-85aa-becc2f2aa38b

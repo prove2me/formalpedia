@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_probabilityMeasure_finiteRepresentation_of_ae_mem_range
 -- name    : ReweightedNPMLE.probabilityMeasure_finiteRepresentation_of_ae_mem_range
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:35.169095+00:00
 -- url     : https://prove2.me/theorems/b7902e2d-d018-4e8d-90f8-f133de02a6a2
 -- title:

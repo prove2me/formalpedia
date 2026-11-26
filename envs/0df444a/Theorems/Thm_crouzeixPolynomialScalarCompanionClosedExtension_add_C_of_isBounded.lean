@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionClosedExtension_add_C_of_isBounded
 -- name    : crouzeixPolynomialScalarCompanionClosedExtension_add_C_of_isBounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:08:47.042782+00:00
 -- url     : https://prove2.me/theorems/e11258ba-7d75-4c20-8b04-51c79a4a9867

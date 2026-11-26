@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_abs_log_finiteGaussianMixture_rounding_le
 -- name    : ReweightedNPMLE.abs_log_finiteGaussianMixture_rounding_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:34.770568+00:00
 -- url     : https://prove2.me/theorems/62bcc687-569c-49fd-b847-08e99e92c9c5
 -- title:

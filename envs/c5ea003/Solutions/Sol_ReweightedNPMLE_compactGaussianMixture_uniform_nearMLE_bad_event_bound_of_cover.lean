@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.compactGaussianMixture_uniform_nearMLE_bad_event_bound_of_cover
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:18.796293+00:00
 -- url     : https://prove2.me/submissions/57c51c10-897a-4592-a4b7-cf48044c421c
 

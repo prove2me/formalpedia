@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.probabilityMeasure_finiteRepresentation_of_ae_mem_range
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:53:39.155133+00:00
 -- url     : https://prove2.me/submissions/8b1ef9d4-6a2d-41f0-b9ee-3ca8781661a6
 

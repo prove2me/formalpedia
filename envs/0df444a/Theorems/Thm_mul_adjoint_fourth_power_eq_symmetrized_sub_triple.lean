@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mul_adjoint_fourth_power_eq_symmetrized_sub_triple
 -- name    : mul_adjoint_fourth_power_eq_symmetrized_sub_triple
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:48:00.969501+00:00
 -- url     : https://prove2.me/theorems/feda8f3e-ff02-49b6-8928-53a9769f6050

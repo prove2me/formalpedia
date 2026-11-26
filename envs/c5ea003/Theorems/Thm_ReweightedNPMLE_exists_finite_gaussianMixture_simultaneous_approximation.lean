@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_exists_finite_gaussianMixture_simultaneous_approximation
 -- name    : ReweightedNPMLE.exists_finite_gaussianMixture_simultaneous_approximation
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:17.779044+00:00
 -- url     : https://prove2.me/theorems/c0e4be04-6bb5-4d1d-aeb2-f2b0bd55aed6
 -- title:

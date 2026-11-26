@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_exists_independentRepresentationEvent_of_mem_convexHull
 -- name    : ReweightedNPMLE.exists_independentRepresentationEvent_of_mem_convexHull
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:38:11.842066+00:00
 -- url     : https://prove2.me/theorems/c9850b96-29d9-5745-81e0-ab82dfd219b6
 -- title:

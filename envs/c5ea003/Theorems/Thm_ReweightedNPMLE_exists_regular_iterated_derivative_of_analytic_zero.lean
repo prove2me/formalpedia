@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_exists_regular_iterated_derivative_of_analytic_zero
 -- name    : ReweightedNPMLE.exists_regular_iterated_derivative_of_analytic_zero
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:47.337621+00:00
 -- url     : https://prove2.me/theorems/7fee1d5f-82bc-5c33-a309-1bcf5fc87952
 -- title:

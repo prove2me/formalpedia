@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.fitted_maximizer_firstOrder_nonpos
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:59:13.898223+00:00
 -- url     : https://prove2.me/submissions/e1c03c76-32c0-497f-84d6-91bee25e3b46
 

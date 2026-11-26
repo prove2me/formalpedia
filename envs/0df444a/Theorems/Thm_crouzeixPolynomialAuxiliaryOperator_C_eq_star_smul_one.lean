@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialAuxiliaryOperator_C_eq_star_smul_one
 -- name    : crouzeixPolynomialAuxiliaryOperator_C_eq_star_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:48:08.037678+00:00
 -- url     : https://prove2.me/theorems/e4663c9d-e82e-58b9-bab3-c8a6eda9b16e

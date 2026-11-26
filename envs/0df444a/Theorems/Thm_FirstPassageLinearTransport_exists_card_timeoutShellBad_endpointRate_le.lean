@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_card_timeoutShellBad_endpointRate_le
 -- name    : FirstPassageLinearTransport.exists_card_timeoutShellBad_endpointRate_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:49.275844+00:00
 -- url     : https://prove2.me/theorems/2aabfa7e-6c6c-5196-ba56-d7072e12e7e2

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianJointTheorems
 -- name    : ReweightedNPMLE_GaussianJointTheorems
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:31:26.241165+00:00
 -- url     : https://prove2.me/theorems/c547ddc1-4169-565a-a713-013daa75b556
 -- title:

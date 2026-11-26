@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_oddCount_stageClock_le
 -- name    : FirstPassageLinearTransport.oddCount_stageClock_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:56:23.146163+00:00
 -- url     : https://prove2.me/theorems/d71499c9-69e1-5c94-a7e4-595f1102b910

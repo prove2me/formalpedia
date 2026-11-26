@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_finite_principal_inverseSqrt
 -- name    : FourierJacobi.Algebra.finite_principal_inverseSqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:19:23.011941+00:00
 -- url     : https://prove2.me/theorems/b1b5612e-0827-4587-9df2-1d028fffacf4

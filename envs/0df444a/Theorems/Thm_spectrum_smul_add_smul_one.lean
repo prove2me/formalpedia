@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_spectrum_smul_add_smul_one
 -- name    : spectrum_smul_add_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:02:03.405657+00:00
 -- url     : https://prove2.me/theorems/f82c9f00-4457-566d-93c8-666712478d72

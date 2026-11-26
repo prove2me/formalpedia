@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.exists_regular_iterated_derivative_of_analytic_zero
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:12:42.568514+00:00
 -- url     : https://prove2.me/submissions/70be6579-0fb2-495e-8e2e-53c9a23ebe8a
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_approx_regularization_conditional_balanced
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:19:08.729189+00:00
 -- url     : https://prove2.me/submissions/fed6d096-3609-425a-9d80-2e8184cbf19f
 

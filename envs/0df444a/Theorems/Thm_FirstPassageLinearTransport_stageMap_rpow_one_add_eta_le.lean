@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stageMap_rpow_one_add_eta_le
 -- name    : FirstPassageLinearTransport.stageMap_rpow_one_add_eta_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:45:38.429977+00:00
 -- url     : https://prove2.me/theorems/622023e8-857d-5253-bddd-3c62379ac9f2

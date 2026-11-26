@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_optimizer_nearMLE_of_likelihood_bound
 -- name    : ReweightedNPMLE.gaussian_optimizer_nearMLE_of_likelihood_bound
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:49:23.91691+00:00
 -- url     : https://prove2.me/theorems/5b5bb9da-bd50-5ef3-a7a7-b5b12c36f79d
 -- title:

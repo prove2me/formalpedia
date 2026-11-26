@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.measurableSet_gaussian_optimizer_support_failure
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:16:27.613805+00:00
 -- url     : https://prove2.me/submissions/890d6a40-17bd-4839-a41b-6dfe7a2cc142
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_log_shellRankRpow_le_halfShell
 -- name    : FirstPassageLinearTransport.eventually_log_shellRankRpow_le_halfShell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:56:16.1784+00:00
 -- url     : https://prove2.me/theorems/ef24f127-77c1-48cc-a839-e4f65782d0e4

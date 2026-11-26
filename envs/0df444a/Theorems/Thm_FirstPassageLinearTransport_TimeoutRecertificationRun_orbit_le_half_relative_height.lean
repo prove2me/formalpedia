@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_TimeoutRecertificationRun_orbit_le_half_relative_height
 -- name    : FirstPassageLinearTransport.TimeoutRecertificationRun.orbit_le_half_relative_height
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:33.470859+00:00
 -- url     : https://prove2.me/theorems/14c60c24-51cc-41a5-a606-e7a72aa364f0

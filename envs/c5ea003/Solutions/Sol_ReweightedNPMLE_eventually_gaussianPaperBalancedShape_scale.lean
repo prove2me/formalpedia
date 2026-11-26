@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianPaperBalancedShape_scale
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:12:22.23479+00:00
 -- url     : https://prove2.me/submissions/c5ff1477-1cc6-4499-9fed-be33b117e8c8
 

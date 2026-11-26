@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventuallyShellOrbitCeiling
 -- name    : FirstPassageLinearTransport.eventuallyShellOrbitCeiling
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:45:58.842697+00:00
 -- url     : https://prove2.me/theorems/1ff0ccb0-482b-4851-97f3-85811e28d1fe

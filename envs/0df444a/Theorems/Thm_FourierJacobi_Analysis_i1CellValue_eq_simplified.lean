@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i1CellValue_eq_simplified
 -- name    : FourierJacobi.Analysis.i1CellValue_eq_simplified
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:07.521898+00:00
 -- url     : https://prove2.me/theorems/37a7922d-fa0d-5805-9d12-e5391e237c71

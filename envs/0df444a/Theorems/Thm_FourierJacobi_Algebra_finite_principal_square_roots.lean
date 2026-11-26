@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_finite_principal_square_roots
 -- name    : FourierJacobi.Algebra.finite_principal_square_roots
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:20:04.674898+00:00
 -- url     : https://prove2.me/theorems/7026158f-4e24-50e0-8ac6-78313a2a7769

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_inv_sub_smul_resolvent_eq_resolvent_mul_resolvent_add
 -- name    : inv_sub_smul_resolvent_eq_resolvent_mul_resolvent_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:17.211812+00:00
 -- url     : https://prove2.me/theorems/dd3898db-a2aa-5e09-b8a5-ce667f810e56

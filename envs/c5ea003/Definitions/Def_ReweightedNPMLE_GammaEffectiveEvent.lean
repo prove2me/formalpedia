@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GammaEffectiveEvent
 -- name    : ReweightedNPMLE_GammaEffectiveEvent
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:23:48.006121+00:00
 -- url     : https://prove2.me/theorems/da199ca5-78a0-4b09-bbe0-e27e6933db49
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gamma_projected_norm_tail_of_finite_net
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:11:26.921488+00:00
 -- url     : https://prove2.me/submissions/a66be251-d827-47c8-9401-a594fafa905c
 

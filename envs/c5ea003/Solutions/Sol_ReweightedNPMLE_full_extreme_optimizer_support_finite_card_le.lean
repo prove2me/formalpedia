@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.full_extreme_optimizer_support_finite_card_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:02:06.131891+00:00
 -- url     : https://prove2.me/submissions/c73cef66-f360-4231-9761-7ddc97cbf2fb
 

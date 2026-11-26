@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.log_one_add_secondOrder_isLittleO
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:01:23.372808+00:00
 -- url     : https://prove2.me/submissions/e735f9cf-d8e5-4831-b711-09cd390f91d8
 

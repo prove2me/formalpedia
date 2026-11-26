@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_unit_smul_embZ
 -- name    : ReciprocityTheory.Cheb.unit_smul_embZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:49:04.762878+00:00
 -- url     : https://prove2.me/theorems/d3983328-8cff-462e-a6f4-3c04cb92d3f8

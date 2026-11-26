@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.finite_probability_optimizer_extreme_iff_linearIndependent
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:01:12.102961+00:00
 -- url     : https://prove2.me/submissions/eedc8958-0f26-4a3b-bdd6-0e1d62e62a9d
 

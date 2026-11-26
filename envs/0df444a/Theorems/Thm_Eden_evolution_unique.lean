@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_evolution_unique
 -- name    : Eden.evolution_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:28.168304+00:00
 -- url     : https://prove2.me/theorems/1548961a-7cc5-5498-a710-db62f1f7967b

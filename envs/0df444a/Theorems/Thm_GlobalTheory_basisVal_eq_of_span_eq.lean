@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_basisVal_eq_of_span_eq
 -- name    : GlobalTheory.basisVal_eq_of_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:40.639789+00:00
 -- url     : https://prove2.me/theorems/5f068ec6-8fdd-4eed-ba3a-d7d4aa5e63ca

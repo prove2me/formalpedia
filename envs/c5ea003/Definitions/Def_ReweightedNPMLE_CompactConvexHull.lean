@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_CompactConvexHull
 -- name    : ReweightedNPMLE_CompactConvexHull
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:12:28.325227+00:00
 -- url     : https://prove2.me/theorems/c00258fb-8d42-5f02-b56e-bcb7c559aa36
 -- title:

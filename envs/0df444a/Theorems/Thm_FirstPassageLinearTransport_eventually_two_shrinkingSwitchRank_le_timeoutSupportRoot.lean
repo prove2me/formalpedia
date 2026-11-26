@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_two_shrinkingSwitchRank_le_timeoutSupportRoot
 -- name    : FirstPassageLinearTransport.eventually_two_shrinkingSwitchRank_le_timeoutSupportRoot
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:50:12.360303+00:00
 -- url     : https://prove2.me/theorems/2442fc5c-226d-54ed-9751-31061978ec94

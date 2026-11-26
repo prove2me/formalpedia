@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_measureReal_finset_test_union_le_card_mul
 -- name    : ReweightedNPMLE.measureReal_finset_test_union_le_card_mul
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:46.372861+00:00
 -- url     : https://prove2.me/theorems/50a97122-8219-4442-abec-0476548ed88a
 -- title:

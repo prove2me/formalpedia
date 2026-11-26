@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_antitone_compact_auxiliary_bounds
 -- name    : crouzeix_palencia_of_antitone_compact_auxiliary_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:52:49.459322+00:00
 -- url     : https://prove2.me/theorems/2fd2167e-8411-41cf-9a2b-6ba496c0bdcf

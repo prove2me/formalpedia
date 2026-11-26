@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_le_one_add_sqrt_two_mul_polynomialSupNorm_closedBall_of_aux_eq
 -- name    : norm_aeval_le_one_add_sqrt_two_mul_polynomialSupNorm_closedBall_of_aux_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:01:55.459478+00:00
 -- url     : https://prove2.me/theorems/bfc28552-459a-416d-a5b4-4fb3a97f887b

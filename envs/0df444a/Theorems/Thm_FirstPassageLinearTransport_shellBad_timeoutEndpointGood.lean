@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shellBad_timeoutEndpointGood
 -- name    : FirstPassageLinearTransport.shellBad_timeoutEndpointGood
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:46:28.952386+00:00
 -- url     : https://prove2.me/theorems/d18b1945-ba30-48c8-b363-e2af9f377560

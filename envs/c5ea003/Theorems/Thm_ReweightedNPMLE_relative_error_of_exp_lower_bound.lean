@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_relative_error_of_exp_lower_bound
 -- name    : ReweightedNPMLE.relative_error_of_exp_lower_bound
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:01.836357+00:00
 -- url     : https://prove2.me/theorems/f6b6bc8f-62b6-4ccf-a659-b8f103c7fe65
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianTaylorAtom_coordinate_error
 -- name    : ReweightedNPMLE.gaussianTaylorAtom_coordinate_error
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:48.631387+00:00
 -- url     : https://prove2.me/theorems/27e8de9c-91bb-4405-bfad-a595fd9ee982
 -- title:

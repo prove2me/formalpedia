@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gammaEffectiveEvent_failure_bound
 -- name    : ReweightedNPMLE.gammaEffectiveEvent_failure_bound
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:13.678798+00:00
 -- url     : https://prove2.me/theorems/89378aed-b802-4060-b0c8-9b35dbdfbc4f
 -- title:

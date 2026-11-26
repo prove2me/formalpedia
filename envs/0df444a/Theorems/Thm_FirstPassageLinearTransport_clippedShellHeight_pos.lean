@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_clippedShellHeight_pos
 -- name    : FirstPassageLinearTransport.clippedShellHeight_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:53:17.089708+00:00
 -- url     : https://prove2.me/theorems/c5da5128-25fa-4f61-9470-2b40ebed01aa

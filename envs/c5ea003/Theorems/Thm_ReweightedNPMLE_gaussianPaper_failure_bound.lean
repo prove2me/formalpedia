@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianPaper_failure_bound
 -- name    : ReweightedNPMLE.gaussianPaper_failure_bound
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:07.738927+00:00
 -- url     : https://prove2.me/theorems/2a47d6c0-da35-47f0-a991-25b288d6b790
 -- title:

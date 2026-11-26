@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.probability_optimizer_not_extreme_of_disjoint_positive_regions
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:00:57.048006+00:00
 -- url     : https://prove2.me/submissions/fabf5216-96c8-4b95-9c9d-00d5138c0075
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_probability_optimizer_iff_score_fiber
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:15:22.847565+00:00
 -- url     : https://prove2.me/submissions/a6f8c731-7a52-4190-9157-d911adba6daa
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_normalized_contourIntegral_inv_sub_smul_resolvent_eq_resolvent
 -- name    : normalized_contourIntegral_inv_sub_smul_resolvent_eq_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:36.79051+00:00
 -- url     : https://prove2.me/theorems/86f13946-329e-4faa-96c7-896dbe9853cd

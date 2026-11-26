@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianFiniteNet
 -- name    : ReweightedNPMLE_GaussianFiniteNet
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:24:51.193221+00:00
 -- url     : https://prove2.me/theorems/5e3622f3-f03c-53ce-9524-8321eb54a05d
 -- title:

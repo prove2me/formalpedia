@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_intervalIntegrable_eval_smul_circleKernel_add_adjoint
 -- name    : intervalIntegrable_eval_smul_circleKernel_add_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:00:07.784959+00:00
 -- url     : https://prove2.me/theorems/723fb20f-45f1-4e70-8e5d-019f635ee656

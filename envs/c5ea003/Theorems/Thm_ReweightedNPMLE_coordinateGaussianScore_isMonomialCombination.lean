@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_coordinateGaussianScore_isMonomialCombination
 -- name    : ReweightedNPMLE.coordinateGaussianScore_isMonomialCombination
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:48.84345+00:00
 -- url     : https://prove2.me/theorems/6b538161-dd3e-5563-8870-e6c8b727f942
 -- title:

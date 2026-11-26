@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianPaperTiny_conditions
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:15:00.733331+00:00
 -- url     : https://prove2.me/submissions/c2740ec6-cebe-4f3d-8f84-97343f5d0c74
 

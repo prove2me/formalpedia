@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.fittedValue_maximizer_unique
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:45.750235+00:00
 -- url     : https://prove2.me/submissions/92cdda3c-8266-4459-9ce5-8e8092782663
 

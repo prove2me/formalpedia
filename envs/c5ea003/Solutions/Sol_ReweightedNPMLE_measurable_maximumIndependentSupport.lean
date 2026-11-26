@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.measurable_maximumIndependentSupport
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:03:09.319361+00:00
 -- url     : https://prove2.me/submissions/bde3c3ff-9091-4345-b443-9356778c9d43
 

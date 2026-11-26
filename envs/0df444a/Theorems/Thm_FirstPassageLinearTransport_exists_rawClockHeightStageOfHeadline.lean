@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_rawClockHeightStageOfHeadline
 -- name    : FirstPassageLinearTransport.exists_rawClockHeightStageOfHeadline
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:24.192827+00:00
 -- url     : https://prove2.me/theorems/41f87fc1-462a-4036-b235-27c041a8d743

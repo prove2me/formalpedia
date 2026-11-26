@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_polynomial_approximation_scalarCompanionClosedExtension_add_C
 -- name    : exists_polynomial_approximation_scalarCompanionClosedExtension_add_C
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:09:22.258372+00:00
 -- url     : https://prove2.me/theorems/74f15fd1-ea7d-495e-a9d0-5592d6af095b

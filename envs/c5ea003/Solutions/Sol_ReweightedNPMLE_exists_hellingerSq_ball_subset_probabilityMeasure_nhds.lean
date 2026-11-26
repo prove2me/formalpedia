@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.exists_hellingerSq_ball_subset_probabilityMeasure_nhds
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:15:21.216351+00:00
 -- url     : https://prove2.me/submissions/64561c88-2a10-41cb-80ef-f0ab13d7544b
 

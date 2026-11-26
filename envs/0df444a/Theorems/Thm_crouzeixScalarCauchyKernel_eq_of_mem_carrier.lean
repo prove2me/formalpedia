@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixScalarCauchyKernel_eq_of_mem_carrier
 -- name    : crouzeixScalarCauchyKernel_eq_of_mem_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:17.27529+00:00
 -- url     : https://prove2.me/theorems/5b614230-6269-42a1-8eff-3105495019df

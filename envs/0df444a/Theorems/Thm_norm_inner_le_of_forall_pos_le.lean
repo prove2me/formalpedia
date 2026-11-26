@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_inner_le_of_forall_pos_le
 -- name    : norm_inner_le_of_forall_pos_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:49.88337+00:00
 -- url     : https://prove2.me/theorems/3f1bb242-7838-59bd-a3de-0caddd301155

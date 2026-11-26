@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.continuous_gaussian_probabilityLogLikelihood_joint
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:08:54.966819+00:00
 -- url     : https://prove2.me/submissions/3b5a3db5-af49-418c-a0f8-aa0bbe38b998
 

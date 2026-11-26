@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_fittedLogDerivative_quadratic_nonneg
 -- name    : ReweightedNPMLE.fittedLogDerivative_quadratic_nonneg
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:40:07.908723+00:00
 -- url     : https://prove2.me/theorems/f831536a-1c08-4dbb-86b4-9b8ca9b7198b
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_tendsto_lattice_special_negative
 -- name    : FourierJacobi.Analysis.tendsto_lattice_special_negative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:10:52.535485+00:00
 -- url     : https://prove2.me/theorems/a8fa89a3-0d03-495c-8f31-92b9b937b128

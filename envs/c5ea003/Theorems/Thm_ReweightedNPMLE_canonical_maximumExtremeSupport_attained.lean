@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_canonical_maximumExtremeSupport_attained
 -- name    : ReweightedNPMLE.canonical_maximumExtremeSupport_attained
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:40:39.588627+00:00
 -- url     : https://prove2.me/theorems/e55a3397-c56d-52b0-8fb6-ec6f6b705689
 -- title:

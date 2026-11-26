@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.real_exp_taylor_remainder_bound
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:52:37.8949+00:00
 -- url     : https://prove2.me/submissions/680194c5-01eb-4d77-b99b-7756642ab51a
 

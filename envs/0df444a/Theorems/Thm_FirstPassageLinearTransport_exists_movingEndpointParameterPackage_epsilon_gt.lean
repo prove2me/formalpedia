@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_movingEndpointParameterPackage_epsilon_gt
 -- name    : FirstPassageLinearTransport.exists_movingEndpointParameterPackage_epsilon_gt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:29.33942+00:00
 -- url     : https://prove2.me/theorems/59b0cb67-ae9f-5fe7-b12a-de14524561a5

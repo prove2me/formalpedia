@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventuallyShellBootstrapRatioLeStretched
 -- name    : FirstPassageLinearTransport.eventuallyShellBootstrapRatioLeStretched
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:35.355496+00:00
 -- url     : https://prove2.me/theorems/f1e1aae7-e4f3-5e8c-8674-20f19192976d

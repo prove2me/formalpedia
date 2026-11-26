@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_timeoutEndpointRawProfile_le_shellError
 -- name    : FirstPassageLinearTransport.eventually_timeoutEndpointRawProfile_le_shellError
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:10.455369+00:00
 -- url     : https://prove2.me/theorems/3888bc7c-db69-4558-ba08-f7080746960d

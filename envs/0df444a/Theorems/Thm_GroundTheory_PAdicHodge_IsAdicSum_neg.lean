@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsAdicSum_neg
 -- name    : GroundTheory.PAdicHodge.IsAdicSum.neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:08:56.018542+00:00
 -- url     : https://prove2.me/theorems/2d3c2588-171e-5a8e-85b1-8cdeff0d1c97

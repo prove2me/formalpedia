@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_generic_evaluation_independence
 -- name    : ReweightedNPMLE.gaussian_generic_evaluation_independence
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:49:10.180689+00:00
 -- url     : https://prove2.me/theorems/e673b84e-304c-433e-ad0f-96776b1cbf6c
 -- title:

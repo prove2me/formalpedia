@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_euclidean_norm_le_sqrt_card_mul
 -- name    : ReweightedNPMLE.euclidean_norm_le_sqrt_card_mul
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:42.418723+00:00
 -- url     : https://prove2.me/theorems/e1b7f23e-0c02-469f-a304-75622f051768
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_TimeoutRecertificationRun_prefix_log_deviation_add_potential_le
 -- name    : FirstPassageLinearTransport.TimeoutRecertificationRun.prefix_log_deviation_add_potential_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:50:08.774462+00:00
 -- url     : https://prove2.me/theorems/9e250a7d-4e4b-550c-a3b3-68fc9c25ce2b

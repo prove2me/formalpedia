@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_orbit_lt_two_mul_of_not_mem_shellMultiplicativeHit
 -- name    : FirstPassageLinearTransport.orbit_lt_two_mul_of_not_mem_shellMultiplicativeHit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:45:33.548352+00:00
 -- url     : https://prove2.me/theorems/66cb283b-24b8-538a-a997-ea0f8de4894b

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_FiniteOptimizerFiber
 -- name    : ReweightedNPMLE_FiniteOptimizerFiber
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:14:46.768936+00:00
 -- url     : https://prove2.me/theorems/1d9863b8-169f-4a70-aff4-f6987768869b
 -- title:

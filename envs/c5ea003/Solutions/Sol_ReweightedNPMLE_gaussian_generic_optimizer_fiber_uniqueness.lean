@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_generic_optimizer_fiber_uniqueness
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:18:12.206275+00:00
 -- url     : https://prove2.me/submissions/af0d8cc7-ba90-460c-b009-a5fdfa8083e9
 

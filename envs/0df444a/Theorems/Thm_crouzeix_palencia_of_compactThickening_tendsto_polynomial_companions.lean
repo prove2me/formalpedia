@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_compactThickening_tendsto_polynomial_companions
 -- name    : crouzeix_palencia_of_compactThickening_tendsto_polynomial_companions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:51:43.177713+00:00
 -- url     : https://prove2.me/theorems/ad5f6020-4994-5b83-a87b-5bb580e9a582

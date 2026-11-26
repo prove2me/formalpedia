@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_infinite_lattice_core_evaluation
 -- name    : FourierJacobi.Analysis.infinite_lattice_core_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:11:20.220828+00:00
 -- url     : https://prove2.me/theorems/c42455e5-f35d-52e3-8661-eff593cd5900

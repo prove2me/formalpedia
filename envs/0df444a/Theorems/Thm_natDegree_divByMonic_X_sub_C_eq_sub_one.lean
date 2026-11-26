@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_natDegree_divByMonic_X_sub_C_eq_sub_one
 -- name    : natDegree_divByMonic_X_sub_C_eq_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:58:25.860844+00:00
 -- url     : https://prove2.me/theorems/b545fafd-d578-4413-86bb-272d71d43629

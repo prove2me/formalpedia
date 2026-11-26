@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_corrected_special_lattice_comparison
 -- name    : FourierJacobi.Analysis.corrected_special_lattice_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:10:54.072455+00:00
 -- url     : https://prove2.me/theorems/88451808-9207-5b75-a481-2f1e63db9cc4

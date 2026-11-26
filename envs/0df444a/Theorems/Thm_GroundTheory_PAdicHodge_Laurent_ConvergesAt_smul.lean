@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_Laurent_ConvergesAt_smul
 -- name    : GroundTheory.PAdicHodge.Laurent.ConvergesAt.smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:01:13.350245+00:00
 -- url     : https://prove2.me/theorems/bafc7eed-7172-4a33-b29a-20c4cb0c1db7

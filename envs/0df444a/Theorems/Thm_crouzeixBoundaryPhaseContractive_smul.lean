@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixBoundaryPhaseContractive_smul
 -- name    : crouzeixBoundaryPhaseContractive_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:36.704025+00:00
 -- url     : https://prove2.me/theorems/b59ea855-dd24-484d-afc9-823b7393d880

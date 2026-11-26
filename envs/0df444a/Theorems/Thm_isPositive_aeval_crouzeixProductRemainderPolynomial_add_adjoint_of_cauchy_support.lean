@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isPositive_aeval_crouzeixProductRemainderPolynomial_add_adjoint_of_cauchy_support
 -- name    : isPositive_aeval_crouzeixProductRemainderPolynomial_add_adjoint_of_cauchy_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:48:57.1658+00:00
 -- url     : https://prove2.me/theorems/650df485-e888-453e-863a-4abde1f6bf73

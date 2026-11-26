@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_oddCount_upper_of_initialWindowGood
 -- name    : FirstPassageLinearTransport.oddCount_upper_of_initialWindowGood
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:56:17.423048+00:00
 -- url     : https://prove2.me/theorems/b5babfad-2cd4-5c5b-8152-58b10d867a1b

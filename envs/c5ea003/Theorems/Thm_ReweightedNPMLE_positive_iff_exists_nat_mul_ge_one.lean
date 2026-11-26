@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_positive_iff_exists_nat_mul_ge_one
 -- name    : ReweightedNPMLE.positive_iff_exists_nat_mul_ge_one
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:36.286257+00:00
 -- url     : https://prove2.me/theorems/0814349f-605f-52aa-a1cb-89e3529f4f3c
 -- title:

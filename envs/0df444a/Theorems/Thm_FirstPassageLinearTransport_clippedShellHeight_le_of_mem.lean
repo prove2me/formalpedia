@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_clippedShellHeight_le_of_mem
 -- name    : FirstPassageLinearTransport.clippedShellHeight_le_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:53:04.52184+00:00
 -- url     : https://prove2.me/theorems/b6a86240-9537-5c9c-a14a-e1022a8a424d

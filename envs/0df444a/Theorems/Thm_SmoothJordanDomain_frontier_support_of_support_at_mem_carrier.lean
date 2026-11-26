@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothJordanDomain_frontier_support_of_support_at_mem_carrier
 -- name    : SmoothJordanDomain.frontier_support_of_support_at_mem_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:33.657967+00:00
 -- url     : https://prove2.me/theorems/48224c6a-9a09-4d7a-9db3-1ee203d596a9

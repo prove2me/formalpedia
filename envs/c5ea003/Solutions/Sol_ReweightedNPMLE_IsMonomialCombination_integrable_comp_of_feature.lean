@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.IsMonomialCombination.integrable_comp_of_feature
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:52:31.60966+00:00
 -- url     : https://prove2.me/submissions/e584fa3b-f3ef-4e49-a022-d0abce283b5e
 

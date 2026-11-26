@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianReal_two_sided_tail
 -- name    : ReweightedNPMLE.gaussianReal_two_sided_tail
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:43:50.417825+00:00
 -- url     : https://prove2.me/theorems/887d9593-2ddd-42eb-a766-7f2b1382b717
 -- title:

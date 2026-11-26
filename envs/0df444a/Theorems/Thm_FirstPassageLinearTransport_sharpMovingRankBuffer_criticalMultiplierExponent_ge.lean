@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_sharpMovingRankBuffer_criticalMultiplierExponent_ge
 -- name    : FirstPassageLinearTransport.sharpMovingRankBuffer_criticalMultiplierExponent_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:51:50.300611+00:00
 -- url     : https://prove2.me/theorems/b9992f68-4996-5ec2-a1ea-4a472da3a3f2

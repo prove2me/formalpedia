@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianPaperLogScale_nonneg_le_log
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:07:00.858322+00:00
 -- url     : https://prove2.me/submissions/91cb80f8-4114-42bb-b65a-f01c773edd07
 

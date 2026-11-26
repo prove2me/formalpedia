@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixScalarCauchyKernel_eq_one_of_basepoint
 -- name    : crouzeixScalarCauchyKernel_eq_one_of_basepoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:23.058286+00:00
 -- url     : https://prove2.me/theorems/0d0fcd23-61f1-5851-93ff-ad5a68fe85c9

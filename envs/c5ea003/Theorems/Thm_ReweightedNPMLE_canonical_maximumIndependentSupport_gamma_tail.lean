@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_canonical_maximumIndependentSupport_gamma_tail
 -- name    : ReweightedNPMLE.canonical_maximumIndependentSupport_gamma_tail
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:28.063799+00:00
 -- url     : https://prove2.me/theorems/f7411cb6-018a-45d0-bcf0-01ba01e1e5bd
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_eval_add_crouzeixPolynomialBoundaryPhaseTransform_le_of_natDegree_eq_zero
 -- name    : norm_eval_add_crouzeixPolynomialBoundaryPhaseTransform_le_of_natDegree_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:58:29.264804+00:00
 -- url     : https://prove2.me/theorems/a275c7ad-9ffa-46b6-9630-41f4fdbfc5db

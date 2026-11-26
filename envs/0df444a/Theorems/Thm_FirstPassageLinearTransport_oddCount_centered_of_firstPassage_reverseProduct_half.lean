@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_oddCount_centered_of_firstPassage_reverseProduct_half
 -- name    : FirstPassageLinearTransport.oddCount_centered_of_firstPassage_reverseProduct_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:34.670242+00:00
 -- url     : https://prove2.me/theorems/ece22774-1ce7-4bcd-bf82-fac245103443

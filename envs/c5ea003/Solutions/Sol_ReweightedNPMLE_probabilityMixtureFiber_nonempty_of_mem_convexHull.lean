@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.probabilityMixtureFiber_nonempty_of_mem_convexHull
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:56.373625+00:00
 -- url     : https://prove2.me/submissions/5ddc6f7f-5972-49ec-93a7-751958ef63da
 

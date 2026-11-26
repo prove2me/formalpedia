@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.integral_abs_le_sqrt_weightedL2
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:03:51.132982+00:00
 -- url     : https://prove2.me/submissions/eb75fa33-a70c-4e1f-b2bd-b77be6af562b
 

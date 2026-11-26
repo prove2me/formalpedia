@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuousLinearMap_intervalIntegral_add_adjoint
 -- name    : ContinuousLinearMap.intervalIntegral_add_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:36:45.114772+00:00
 -- url     : https://prove2.me/theorems/0273749b-ba25-5334-8060-14022a8618c8

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.hellingerSq_finiteGaussianMixture_same_locations_le_weight_l1
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:04:57.4485+00:00
 -- url     : https://prove2.me/submissions/4972dd99-dc6b-44f6-a66b-a91569f57c74
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_tendsto_log_one_add_sub_linear_div_sq
 -- name    : ReweightedNPMLE.tendsto_log_one_add_sub_linear_div_sq
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:38:47.117009+00:00
 -- url     : https://prove2.me/theorems/d6d400ac-8282-568d-8e88-5d5e47115323
 -- title:

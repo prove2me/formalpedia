@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_sum_simplexGridRound
 -- name    : ReweightedNPMLE.sum_simplexGridRound
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:32.310044+00:00
 -- url     : https://prove2.me/theorems/fef20339-02f3-44db-9dfb-d0e13066225b
 -- title:

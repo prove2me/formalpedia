@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.probabilityMixtureFiber_eq_singleton_of_small_extreme_supports
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:15:25.992508+00:00
 -- url     : https://prove2.me/submissions/dc1b2910-a22d-44cc-a3c2-5ff991031c13
 

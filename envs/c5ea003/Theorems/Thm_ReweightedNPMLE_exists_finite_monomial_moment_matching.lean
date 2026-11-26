@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_exists_finite_monomial_moment_matching
 -- name    : ReweightedNPMLE.exists_finite_monomial_moment_matching
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:40:17.344586+00:00
 -- url     : https://prove2.me/theorems/bb148d4c-6767-4a78-8bbc-ac7a5c01d994
 -- title:

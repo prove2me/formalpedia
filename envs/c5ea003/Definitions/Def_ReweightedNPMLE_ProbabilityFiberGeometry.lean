@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_ProbabilityFiberGeometry
 -- name    : ReweightedNPMLE_ProbabilityFiberGeometry
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:24:05.826713+00:00
 -- url     : https://prove2.me/theorems/a2c8c8ec-68f4-42d7-98b9-0d01c2d07dd2
 -- title:

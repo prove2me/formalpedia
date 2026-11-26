@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_score_exp_average_error_of_moment_match
 -- name    : ReweightedNPMLE.gaussian_score_exp_average_error_of_moment_match
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:40:45.21608+00:00
 -- url     : https://prove2.me/theorems/abd50bd3-c1ab-50ce-a22f-6a71965c1d5b
 -- title:

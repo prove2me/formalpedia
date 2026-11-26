@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_absolutelyContinuous_finiteProduct
 -- name    : ReweightedNPMLE.absolutelyContinuous_finiteProduct
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:07.109298+00:00
 -- url     : https://prove2.me/theorems/a8fe21f4-5b59-4d84-9f16-272711890287
 -- title:

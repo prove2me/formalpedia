@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialAuxiliaryOperator_ball_center_eq_eval_center_smul_one
 -- name    : crouzeixPolynomialAuxiliaryOperator_ball_center_eq_eval_center_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:02:05.682109+00:00
 -- url     : https://prove2.me/theorems/2a7a9a3f-3632-4351-8f50-749967c36a76

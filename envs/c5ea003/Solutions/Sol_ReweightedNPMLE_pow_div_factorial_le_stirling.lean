@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.pow_div_factorial_le_stirling
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:06:30.745602+00:00
 -- url     : https://prove2.me/submissions/c70649c0-fee5-4329-b66c-fbd44b2b2bde
 

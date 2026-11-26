@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.continuous_monomialFeature
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:02:27.952845+00:00
 -- url     : https://prove2.me/submissions/fd95f403-8070-4997-8170-e28114a8afa0
 

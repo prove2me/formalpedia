@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_fderiv_planarX_apply
 -- name    : Eden.fderiv_planarX_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:05:20.136996+00:00
 -- url     : https://prove2.me/theorems/8bbe8e2d-de2d-53d0-8e66-385b9d87f5aa

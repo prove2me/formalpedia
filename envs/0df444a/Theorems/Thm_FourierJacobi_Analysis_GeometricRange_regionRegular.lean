@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_GeometricRange_regionRegular
 -- name    : FourierJacobi.Analysis.GeometricRange.regionRegular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:59:58.684414+00:00
 -- url     : https://prove2.me/theorems/db48a8a6-274f-4f5c-aebb-1911fd6ff36f

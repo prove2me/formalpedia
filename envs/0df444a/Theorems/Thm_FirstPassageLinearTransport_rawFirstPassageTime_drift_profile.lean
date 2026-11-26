@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rawFirstPassageTime_drift_profile
 -- name    : FirstPassageLinearTransport.rawFirstPassageTime_drift_profile
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:49:29.610094+00:00
 -- url     : https://prove2.me/theorems/6ff3893a-76a7-4bf7-bcdc-7916e179a5e3

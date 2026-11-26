@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_exists_mem_finiteGaussianMixtureGrid_simultaneous_approximation_of_cover
 -- name    : ReweightedNPMLE.exists_mem_finiteGaussianMixtureGrid_simultaneous_approximation_of_cover
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:41.00231+00:00
 -- url     : https://prove2.me/theorems/5dae9aa3-54e3-41b5-95c7-9a5ad397a1fc
 -- title:

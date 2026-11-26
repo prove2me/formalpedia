@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianMixture_pos
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:52:41.066277+00:00
 -- url     : https://prove2.me/submissions/26032a16-e061-4013-8fbf-7b3d686cda33
 

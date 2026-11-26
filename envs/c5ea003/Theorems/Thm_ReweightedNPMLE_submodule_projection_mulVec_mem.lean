@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_submodule_projection_mulVec_mem
 -- name    : ReweightedNPMLE.submodule_projection_mulVec_mem
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:10.03824+00:00
 -- url     : https://prove2.me/theorems/bbb8295a-64b9-51b3-a2f9-878a8e9dbcaf
 -- title:

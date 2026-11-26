@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_probabilityMixtureValue_pos
 -- name    : ReweightedNPMLE.gaussian_probabilityMixtureValue_pos
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:36.772059+00:00
 -- url     : https://prove2.me/theorems/2a4cddbe-a306-4eaf-afb9-5c228449e718
 -- title:

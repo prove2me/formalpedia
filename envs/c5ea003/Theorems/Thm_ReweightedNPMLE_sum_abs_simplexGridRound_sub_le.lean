@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_sum_abs_simplexGridRound_sub_le
 -- name    : ReweightedNPMLE.sum_abs_simplexGridRound_sub_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:22.869036+00:00
 -- url     : https://prove2.me/theorems/ee51d05b-42c7-5684-9857-b43b1ded0035
 -- title:

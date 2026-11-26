@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rawPrefix_log_deviation_le
 -- name    : FirstPassageLinearTransport.rawPrefix_log_deviation_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:30:25.093539+00:00
 -- url     : https://prove2.me/theorems/77cb4d63-b39f-5b8b-b978-1a560d64ea8f

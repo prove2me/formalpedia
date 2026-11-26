@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_periodicMultiplicativeHitBlock
 -- name    : FirstPassageLinearTransport.card_periodicMultiplicativeHitBlock
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:17.06974+00:00
 -- url     : https://prove2.me/theorems/32a5b687-1f92-5fb4-ae07-5f66b96a9148

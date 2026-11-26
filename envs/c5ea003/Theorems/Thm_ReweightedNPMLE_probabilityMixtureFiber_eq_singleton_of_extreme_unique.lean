@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_probabilityMixtureFiber_eq_singleton_of_extreme_unique
 -- name    : ReweightedNPMLE.probabilityMixtureFiber_eq_singleton_of_extreme_unique
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:05.124925+00:00
 -- url     : https://prove2.me/theorems/46a1f4c0-d3e0-4057-9e12-90865bc16472
 -- title:

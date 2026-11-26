@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_fittedValue_lipschitzOn
 -- name    : ReweightedNPMLE.fittedValue_lipschitzOn
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:12.846825+00:00
 -- url     : https://prove2.me/theorems/788da35e-e558-5b82-b32d-e675faa1d0d9
 -- title:

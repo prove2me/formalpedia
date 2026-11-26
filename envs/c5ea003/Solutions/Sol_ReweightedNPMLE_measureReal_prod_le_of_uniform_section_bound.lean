@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.measureReal_prod_le_of_uniform_section_bound
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:14:10.088233+00:00
 -- url     : https://prove2.me/submissions/b0d971e9-3a89-471f-abc5-69784cdd805c
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_assembledBootstrapTimedDescentEventually
 -- name    : FirstPassageLinearTransport.assembledBootstrapTimedDescentEventually
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:59.740424+00:00
 -- url     : https://prove2.me/theorems/79afa270-82e4-454f-8e19-bb162c4dba40

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianMomentRelativeError_paper_le
 -- name    : ReweightedNPMLE.eventually_gaussianMomentRelativeError_paper_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:43.393866+00:00
 -- url     : https://prove2.me/theorems/c509294a-b8ef-4d11-a47d-4537c17b3ce4
 -- title:

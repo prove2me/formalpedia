@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_planarAmplitude_parameter_identity
 -- name    : Eden.planarAmplitude_parameter_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:07:32.323178+00:00
 -- url     : https://prove2.me/theorems/f048b7eb-9521-46a8-a8f5-140676d47546

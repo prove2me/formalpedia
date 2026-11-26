@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rawTime_strictMono
 -- name    : FirstPassageLinearTransport.rawTime_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:59.165921+00:00
 -- url     : https://prove2.me/theorems/53084a41-4c7d-5dcb-b7bc-7af26d634a4e

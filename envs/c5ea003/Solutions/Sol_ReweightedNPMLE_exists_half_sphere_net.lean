@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.exists_half_sphere_net
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:09:41.53341+00:00
 -- url     : https://prove2.me/submissions/87a36ae8-637d-481f-a0bf-51461d2f8512
 

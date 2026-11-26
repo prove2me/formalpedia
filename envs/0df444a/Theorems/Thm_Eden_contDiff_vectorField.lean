@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_contDiff_vectorField
 -- name    : Eden.contDiff_vectorField
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:22.169203+00:00
 -- url     : https://prove2.me/theorems/6f5660e5-8168-46dd-9a2d-8bb0f6ea5f16

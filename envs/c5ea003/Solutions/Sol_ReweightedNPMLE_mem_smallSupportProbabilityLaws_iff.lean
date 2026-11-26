@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.mem_smallSupportProbabilityLaws_iff
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:14:21.433537+00:00
 -- url     : https://prove2.me/submissions/34f2fdc1-d09f-447f-97b0-f462146e3e3f
 

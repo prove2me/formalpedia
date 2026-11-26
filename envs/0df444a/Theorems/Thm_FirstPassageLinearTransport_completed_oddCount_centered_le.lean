@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_completed_oddCount_centered_le
 -- name    : FirstPassageLinearTransport.completed_oddCount_centered_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:48:26.27987+00:00
 -- url     : https://prove2.me/theorems/b50e638b-b62e-55d1-9592-69e395d41017

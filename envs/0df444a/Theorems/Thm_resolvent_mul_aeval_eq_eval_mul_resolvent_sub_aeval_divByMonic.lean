@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_resolvent_mul_aeval_eq_eval_mul_resolvent_sub_aeval_divByMonic
 -- name    : resolvent_mul_aeval_eq_eval_mul_resolvent_sub_aeval_divByMonic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:34.954284+00:00
 -- url     : https://prove2.me/theorems/672261b6-65b9-4166-9202-73ae18064f69

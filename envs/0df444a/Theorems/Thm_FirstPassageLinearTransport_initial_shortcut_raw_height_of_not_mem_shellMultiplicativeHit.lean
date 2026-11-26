@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_initial_shortcut_raw_height_of_not_mem_shellMultiplicativeHit
 -- name    : FirstPassageLinearTransport.initial_shortcut_raw_height_of_not_mem_shellMultiplicativeHit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:29:21.884299+00:00
 -- url     : https://prove2.me/theorems/9f179fa8-4523-4de4-aadd-f875456fe1c0

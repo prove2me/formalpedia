@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_finite_sum_principal_formula
 -- name    : FourierJacobi.Algebra.finite_sum_principal_formula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:19:15.375847+00:00
 -- url     : https://prove2.me/theorems/c5761176-65bb-439e-a1ed-080102c1ad7a

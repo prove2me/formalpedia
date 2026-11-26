@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_tendsto_crouzeixPolynomialScalarCompanionRegularized_add
 -- name    : tendsto_crouzeixPolynomialScalarCompanionRegularized_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:05.090699+00:00
 -- url     : https://prove2.me/theorems/9cf65271-f11d-483c-b27d-bfc44b4c795a

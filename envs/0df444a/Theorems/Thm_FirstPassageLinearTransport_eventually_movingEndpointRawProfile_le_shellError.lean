@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_movingEndpointRawProfile_le_shellError
 -- name    : FirstPassageLinearTransport.eventually_movingEndpointRawProfile_le_shellError
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:02.409843+00:00
 -- url     : https://prove2.me/theorems/5fd460ea-3fa8-5f1e-a164-7fe61f4142e3

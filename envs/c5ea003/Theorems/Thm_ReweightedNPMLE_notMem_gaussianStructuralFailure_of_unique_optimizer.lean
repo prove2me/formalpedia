@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_notMem_gaussianStructuralFailure_of_unique_optimizer
 -- name    : ReweightedNPMLE.notMem_gaussianStructuralFailure_of_unique_optimizer
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:29.905606+00:00
 -- url     : https://prove2.me/theorems/926ebcda-d987-5cc6-a1c5-b794098b5447
 -- title:

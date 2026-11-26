@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_shellPrefixResidueSet
 -- name    : FirstPassageLinearTransport.card_shellPrefixResidueSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:53:57.884394+00:00
 -- url     : https://prove2.me/theorems/5a0f2a06-883f-4b64-944f-116b503ba8a9

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_DirichletIndependence
 -- name    : ReweightedNPMLE_DirichletIndependence
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:16:35.347989+00:00
 -- url     : https://prove2.me/theorems/fb38439b-b26e-4c0b-9ddf-31cc4449ddf8
 -- title:

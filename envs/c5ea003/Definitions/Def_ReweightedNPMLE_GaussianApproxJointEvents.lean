@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianApproxJointEvents
 -- name    : ReweightedNPMLE_GaussianApproxJointEvents
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:34:54.351817+00:00
 -- url     : https://prove2.me/theorems/e458dcb3-23c2-55ff-b9cb-a19048663cf0
 -- title:

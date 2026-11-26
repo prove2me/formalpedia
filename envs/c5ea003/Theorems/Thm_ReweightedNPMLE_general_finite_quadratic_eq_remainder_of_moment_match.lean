@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_general_finite_quadratic_eq_remainder_of_moment_match
 -- name    : ReweightedNPMLE.general_finite_quadratic_eq_remainder_of_moment_match
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:47.60857+00:00
 -- url     : https://prove2.me/theorems/4fbd11a9-effa-4f00-856d-d1b7d2d015e6
 -- title:

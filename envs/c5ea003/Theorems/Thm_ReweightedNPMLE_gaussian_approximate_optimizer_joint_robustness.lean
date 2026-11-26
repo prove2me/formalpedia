@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_approximate_optimizer_joint_robustness
 -- name    : ReweightedNPMLE.gaussian_approximate_optimizer_joint_robustness
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:51:04.865535+00:00
 -- url     : https://prove2.me/theorems/ccdacb13-198f-4939-8914-3f808106fd0e
 -- title:

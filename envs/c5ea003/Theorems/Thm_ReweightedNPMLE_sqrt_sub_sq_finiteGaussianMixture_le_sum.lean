@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_sqrt_sub_sq_finiteGaussianMixture_le_sum
 -- name    : ReweightedNPMLE.sqrt_sub_sq_finiteGaussianMixture_le_sum
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:10.453618+00:00
 -- url     : https://prove2.me/theorems/fd9249c1-2a65-53b9-9f30-ddf316d34564
 -- title:

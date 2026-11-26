@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.full_probability_optimizer_extreme_iff
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:02:54.356601+00:00
 -- url     : https://prove2.me/submissions/2e1d3c71-e334-41a7-9e58-35dd810f3290
 

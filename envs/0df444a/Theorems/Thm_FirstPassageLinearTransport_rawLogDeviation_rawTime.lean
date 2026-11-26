@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rawLogDeviation_rawTime
 -- name    : FirstPassageLinearTransport.rawLogDeviation_rawTime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:47.2646+00:00
 -- url     : https://prove2.me/theorems/413da80d-662d-5d31-b439-7085f76460a9

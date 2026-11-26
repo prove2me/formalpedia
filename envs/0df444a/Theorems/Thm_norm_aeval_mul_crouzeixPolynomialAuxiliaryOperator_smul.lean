@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_smul
 -- name    : norm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:51.556176+00:00
 -- url     : https://prove2.me/theorems/76793d7b-5bf8-54f2-9bf2-0e8e286ef836

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.integral_gaussianMixture_sq_div_density
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:07:22.839921+00:00
 -- url     : https://prove2.me/submissions/84a3dac5-f097-44d4-bcbb-1ae3761a8586
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_exact_regularization_conditional_tiny
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:19:13.388423+00:00
 -- url     : https://prove2.me/submissions/5694e6fb-dd2f-4afc-b3eb-feb50cfb7426
 

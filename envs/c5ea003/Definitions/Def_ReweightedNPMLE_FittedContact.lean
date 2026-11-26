@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_FittedContact
 -- name    : ReweightedNPMLE_FittedContact
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:17:08.296262+00:00
 -- url     : https://prove2.me/theorems/9f9be214-43c1-5507-8878-fea6d6cf5210
 -- title:

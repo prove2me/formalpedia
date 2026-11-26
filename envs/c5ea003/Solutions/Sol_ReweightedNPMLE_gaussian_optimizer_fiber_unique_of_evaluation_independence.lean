@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_optimizer_fiber_unique_of_evaluation_independence
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:17:20.346612+00:00
 -- url     : https://prove2.me/submissions/c48b5c2f-d7e7-4a8e-a5bf-af2b75bab1f2
 

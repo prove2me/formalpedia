@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_quantitativeHeadlineScalars
 -- name    : FirstPassageLinearTransport.exists_quantitativeHeadlineScalars
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:56.885051+00:00
 -- url     : https://prove2.me/theorems/179817c4-8d9f-4a78-93ef-bc09fae3b5d2

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.measurableSet_gaussianApproxFitFailure
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:15:24.411082+00:00
 -- url     : https://prove2.me/submissions/5c97a4dd-e9c8-4c7d-9f3d-980af227d337
 

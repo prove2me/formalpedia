@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gamma_upper_tail_exact
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:11:14.688172+00:00
 -- url     : https://prove2.me/submissions/94f8415b-7b1f-41ac-a198-abb430cab7b1
 

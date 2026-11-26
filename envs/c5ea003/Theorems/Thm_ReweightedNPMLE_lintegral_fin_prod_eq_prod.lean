@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_lintegral_fin_prod_eq_prod
 -- name    : ReweightedNPMLE.lintegral_fin_prod_eq_prod
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:40:04.264038+00:00
 -- url     : https://prove2.me/theorems/4e30881f-66ba-44f0-a11b-88088edbd0d7
 -- title:

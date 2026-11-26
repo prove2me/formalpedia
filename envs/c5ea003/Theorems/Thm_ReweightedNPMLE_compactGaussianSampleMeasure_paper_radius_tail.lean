@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_compactGaussianSampleMeasure_paper_radius_tail
 -- name    : ReweightedNPMLE.compactGaussianSampleMeasure_paper_radius_tail
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:32.197037+00:00
 -- url     : https://prove2.me/theorems/f62a3cb2-436e-48c6-a055-eadf7199611a
 -- title:

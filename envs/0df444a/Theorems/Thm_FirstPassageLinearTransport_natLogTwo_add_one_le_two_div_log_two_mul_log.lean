@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_natLogTwo_add_one_le_two_div_log_two_mul_log
 -- name    : FirstPassageLinearTransport.natLogTwo_add_one_le_two_div_log_two_mul_log
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:56:31.247272+00:00
 -- url     : https://prove2.me/theorems/924c5d34-a1fd-5919-9897-af5b746558f9

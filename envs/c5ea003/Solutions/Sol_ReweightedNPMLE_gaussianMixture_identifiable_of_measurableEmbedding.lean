@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianMixture_identifiable_of_measurableEmbedding
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:23.088217+00:00
 -- url     : https://prove2.me/submissions/f3b581b5-d2ac-4f9e-8e52-8234247b8474
 

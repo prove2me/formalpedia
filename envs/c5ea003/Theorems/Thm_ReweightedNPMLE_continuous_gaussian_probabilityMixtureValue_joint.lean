@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_continuous_gaussian_probabilityMixtureValue_joint
 -- name    : ReweightedNPMLE.continuous_gaussian_probabilityMixtureValue_joint
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:33.952841+00:00
 -- url     : https://prove2.me/theorems/28bd7c94-c389-420f-b1f3-cc41e714afe4
 -- title:

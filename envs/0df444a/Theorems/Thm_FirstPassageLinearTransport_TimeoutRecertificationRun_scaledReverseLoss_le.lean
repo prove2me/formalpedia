@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_TimeoutRecertificationRun_scaledReverseLoss_le
 -- name    : FirstPassageLinearTransport.TimeoutRecertificationRun.scaledReverseLoss_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:21:07.011318+00:00
 -- url     : https://prove2.me/theorems/18b9caed-c972-5fc8-870d-dd211d462fa6

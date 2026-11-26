@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_timeoutRun_prefix_log_deviation_le_sqrt
 -- name    : FirstPassageLinearTransport.eventually_timeoutRun_prefix_log_deviation_le_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:27:52.390801+00:00
 -- url     : https://prove2.me/theorems/1f83c9f2-c18c-5e62-b5d0-d7b713c8a5b1

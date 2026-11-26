@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianNetHellingerSqError_256_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:10:21.461228+00:00
 -- url     : https://prove2.me/submissions/28e75daf-d5cd-4ffc-bf6d-b2a2b936fdd5
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_augmented_linearIndepOn_of_finiteMixtureFiber_extreme
 -- name    : ReweightedNPMLE.augmented_linearIndepOn_of_finiteMixtureFiber_extreme
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:44.874701+00:00
 -- url     : https://prove2.me/theorems/945b89fc-973b-419b-b57a-697971dfee16
 -- title:

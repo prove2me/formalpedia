@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianLocationMixtureLaw_injective
 -- name    : ReweightedNPMLE.gaussianLocationMixtureLaw_injective
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:10.369747+00:00
 -- url     : https://prove2.me/theorems/4009362b-32c7-4c0e-9539-b6869cebc446
 -- title:

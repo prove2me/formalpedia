@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gamma_max_coordinate_concentration
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:12:55.669807+00:00
 -- url     : https://prove2.me/submissions/d4f20b63-38d8-4355-9490-156efaf9a3d4
 

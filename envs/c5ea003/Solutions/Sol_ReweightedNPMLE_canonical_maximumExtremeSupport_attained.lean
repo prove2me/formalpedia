@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.canonical_maximumExtremeSupport_attained
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:04:24.84662+00:00
 -- url     : https://prove2.me/submissions/e2c98026-0da6-48fe-90ef-898fe0d217a6
 

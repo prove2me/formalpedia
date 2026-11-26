@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_critical_polylogarithmic_descent_with_arbitrary_multipliers
 -- name    : FirstPassageLinearTransport.critical_polylogarithmic_descent_with_arbitrary_multipliers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:33:40.651522+00:00
 -- url     : https://prove2.me/theorems/60b4d6e3-a4a6-5aca-9257-1f706adb0629

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rawTime_add_exact_halving
 -- name    : FirstPassageLinearTransport.rawTime_add_exact_halving
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:41.82286+00:00
 -- url     : https://prove2.me/theorems/c7b1b349-cc38-5300-a1de-3ecdbfff8708

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_polynomial_calculus_triple_le
 -- name    : norm_polynomial_calculus_triple_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:46:06.31583+00:00
 -- url     : https://prove2.me/theorems/31c9391b-7bd7-409b-a7b7-50d6639900d6

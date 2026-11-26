@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_resolvent_eq_two_pi_I_smul_one_of_oriented_convex_carrier_of_nontrivial
 -- name    : contourIntegral_resolvent_eq_two_pi_I_smul_one_of_oriented_convex_carrier_of_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:58.142073+00:00
 -- url     : https://prove2.me/theorems/1d75dd83-4ea1-42ee-a704-ccf222a0384f

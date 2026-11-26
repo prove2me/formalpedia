@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.measurableSet_independentRepresentationEvent
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:02:21.367565+00:00
 -- url     : https://prove2.me/submissions/7f1b088c-04ab-4363-babf-93022ac59b30
 

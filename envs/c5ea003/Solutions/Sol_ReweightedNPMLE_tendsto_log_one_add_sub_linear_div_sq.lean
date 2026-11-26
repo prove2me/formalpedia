@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.tendsto_log_one_add_sub_linear_div_sq
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:00:20.522498+00:00
 -- url     : https://prove2.me/submissions/ece72348-9da4-49ff-9845-431b3ed63d45
 

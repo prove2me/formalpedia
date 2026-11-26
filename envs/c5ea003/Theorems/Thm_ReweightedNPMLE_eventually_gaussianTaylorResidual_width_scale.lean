@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianTaylorResidual_width_scale
 -- name    : ReweightedNPMLE.eventually_gaussianTaylorResidual_width_scale
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:28.14081+00:00
 -- url     : https://prove2.me/theorems/21cf64da-de8d-43d9-9e98-b33da100762b
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianTaylorResidual_width_scale
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:52.166269+00:00
 -- url     : https://prove2.me/submissions/741e08d6-8e3e-456e-be9c-fde5ef6268f0
 

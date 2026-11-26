@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.determinant_diagonal_add_projection_lower
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:01:21.26296+00:00
 -- url     : https://prove2.me/submissions/f10f1f0c-7c97-4a09-85c4-2131cfd1b2e7
 

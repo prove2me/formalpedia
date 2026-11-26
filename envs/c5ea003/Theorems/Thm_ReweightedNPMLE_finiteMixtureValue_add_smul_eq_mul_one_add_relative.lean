@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_finiteMixtureValue_add_smul_eq_mul_one_add_relative
 -- name    : ReweightedNPMLE.finiteMixtureValue_add_smul_eq_mul_one_add_relative
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:06.593571+00:00
 -- url     : https://prove2.me/theorems/77ec6d9b-a753-4050-b016-4253d2b80b40
 -- title:

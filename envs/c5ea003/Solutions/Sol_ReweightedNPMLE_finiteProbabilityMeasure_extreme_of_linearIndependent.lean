@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.finiteProbabilityMeasure_extreme_of_linearIndependent
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:00:10.90812+00:00
 -- url     : https://prove2.me/submissions/1d62e4fe-8939-4505-a5ba-6f309d7c5560
 

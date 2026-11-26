@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gamma_density_jacobian_domination_real
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:03:00.370415+00:00
 -- url     : https://prove2.me/submissions/84f91f62-5a7e-4e2a-b0f6-47325c2c0a2e
 

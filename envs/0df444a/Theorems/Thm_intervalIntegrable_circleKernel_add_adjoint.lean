@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_intervalIntegrable_circleKernel_add_adjoint
 -- name    : intervalIntegrable_circleKernel_add_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:00:09.839868+00:00
 -- url     : https://prove2.me/theorems/ce2ab78e-2ffc-4da3-866a-4f84c8845c6a

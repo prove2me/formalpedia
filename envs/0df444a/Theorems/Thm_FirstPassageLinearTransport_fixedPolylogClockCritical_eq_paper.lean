@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_fixedPolylogClockCritical_eq_paper
 -- name    : FirstPassageLinearTransport.fixedPolylogClockCritical_eq_paper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:58:29.159501+00:00
 -- url     : https://prove2.me/theorems/9b0bc110-a26c-4d44-af50-4003f5ac537d

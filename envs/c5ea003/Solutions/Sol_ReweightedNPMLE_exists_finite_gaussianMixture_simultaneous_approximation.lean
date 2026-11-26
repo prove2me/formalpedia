@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.exists_finite_gaussianMixture_simultaneous_approximation
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:11:09.168716+00:00
 -- url     : https://prove2.me/submissions/4b51eabb-0c56-43b9-a8ac-a66fa22839b7
 

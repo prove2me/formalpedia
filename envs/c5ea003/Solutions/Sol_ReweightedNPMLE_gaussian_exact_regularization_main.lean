@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_exact_regularization_main
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:23:11.875362+00:00
 -- url     : https://prove2.me/submissions/1c040f9b-af53-47a5-83b8-a4bc748133e1
 

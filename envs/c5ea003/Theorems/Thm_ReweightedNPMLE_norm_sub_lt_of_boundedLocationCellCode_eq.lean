@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_norm_sub_lt_of_boundedLocationCellCode_eq
 -- name    : ReweightedNPMLE.norm_sub_lt_of_boundedLocationCellCode_eq
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:42:08.806408+00:00
 -- url     : https://prove2.me/theorems/e7b578ca-cc9b-4c29-856c-df0c1e9abdb0
 -- title:

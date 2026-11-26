@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_generic_optimizer_fiber_uniqueness
 -- name    : ReweightedNPMLE.gaussian_generic_optimizer_fiber_uniqueness
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:49:45.811731+00:00
 -- url     : https://prove2.me/theorems/32b1eae3-8721-5a99-bfc5-8b7eb0c0b1d6
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_span_range_polynomialFamilyLinearMap_of_span_eq_top
 -- name    : Malliavin.BrownianIteratedConstruction.span_range_polynomialFamilyLinearMap_of_span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:09:19.354835+00:00
 -- url     : https://prove2.me/theorems/a03b68be-9e2e-4612-988a-277404e4d53b

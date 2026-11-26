@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_pow_div_factorial_le_stirling
 -- name    : ReweightedNPMLE.pow_div_factorial_le_stirling
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:43:44.999736+00:00
 -- url     : https://prove2.me/theorems/47ce6e60-b110-4111-93a7-39d7bdcfcfaa
 -- title:

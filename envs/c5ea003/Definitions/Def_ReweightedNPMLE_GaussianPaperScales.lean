@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianPaperScales
 -- name    : ReweightedNPMLE_GaussianPaperScales
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:28:53.755116+00:00
 -- url     : https://prove2.me/theorems/f4e4f4d5-c681-554f-a183-78822359ce7f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_orthogonal_residual_le_approximant
 -- name    : ReweightedNPMLE.orthogonal_residual_le_approximant
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:14.383914+00:00
 -- url     : https://prove2.me/theorems/0d13fccf-d5ee-5007-9eca-0ff58adf06a4
 -- title:

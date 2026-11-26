@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.fittedLogDerivative_quadratic_nonneg
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:02:35.444808+00:00
 -- url     : https://prove2.me/submissions/5305dcc4-d0f3-4acc-9a48-f5903de0e24c
 

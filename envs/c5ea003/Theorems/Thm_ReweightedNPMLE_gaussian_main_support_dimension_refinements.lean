@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_main_support_dimension_refinements
 -- name    : ReweightedNPMLE.gaussian_main_support_dimension_refinements
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:52:11.834431+00:00
 -- url     : https://prove2.me/theorems/7e3ddaf5-84ad-5b05-a56c-d34e456d09e9
 -- title:

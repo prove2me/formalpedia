@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_coeFn_polynomialFamilyLinearMap
 -- name    : Malliavin.BrownianIteratedConstruction.coeFn_polynomialFamilyLinearMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:09:29.788717+00:00
 -- url     : https://prove2.me/theorems/2a5b1628-b796-483a-9b45-37eb24f7c413

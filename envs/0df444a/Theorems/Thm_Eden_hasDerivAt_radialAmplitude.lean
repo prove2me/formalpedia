@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_hasDerivAt_radialAmplitude
 -- name    : Eden.hasDerivAt_radialAmplitude
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:07:18.991647+00:00
 -- url     : https://prove2.me/theorems/2d1bf54b-896e-4469-a3b1-8cd7608cc8d3

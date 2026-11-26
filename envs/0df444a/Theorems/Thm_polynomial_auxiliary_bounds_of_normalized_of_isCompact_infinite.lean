@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_polynomial_auxiliary_bounds_of_normalized_of_isCompact_infinite
 -- name    : polynomial_auxiliary_bounds_of_normalized_of_isCompact_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:51:52.933031+00:00
 -- url     : https://prove2.me/theorems/1b3dd182-d85b-5781-a057-b3ff1d14f2b7

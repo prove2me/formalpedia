@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_compactGaussianMixture_uniform_nearMLE_bad_event_bound_explicit_tuned
 -- name    : ReweightedNPMLE.compactGaussianMixture_uniform_nearMLE_bad_event_bound_explicit_tuned
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:46.419965+00:00
 -- url     : https://prove2.me/theorems/d7e80949-a27e-422d-a638-c482c5154143
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_exact_regularization_joint_tiny_explicit
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:20:10.0779+00:00
 -- url     : https://prove2.me/submissions/2f62ae4a-2a32-4ce0-8705-0537b29d2dab
 

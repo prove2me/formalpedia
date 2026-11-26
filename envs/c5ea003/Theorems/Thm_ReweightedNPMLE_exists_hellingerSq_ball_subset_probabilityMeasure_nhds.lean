@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_exists_hellingerSq_ball_subset_probabilityMeasure_nhds
 -- name    : ReweightedNPMLE.exists_hellingerSq_ball_subset_probabilityMeasure_nhds
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:18.698867+00:00
 -- url     : https://prove2.me/theorems/b76ce25f-0801-57fa-a422-d1178bd5c0f9
 -- title:

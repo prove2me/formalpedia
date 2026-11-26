@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_SmallSupportProbability
 -- name    : ReweightedNPMLE_SmallSupportProbability
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:25:20.948854+00:00
 -- url     : https://prove2.me/theorems/ad0440e1-504e-58d0-a2b8-65fa25c2c10d
 -- title:

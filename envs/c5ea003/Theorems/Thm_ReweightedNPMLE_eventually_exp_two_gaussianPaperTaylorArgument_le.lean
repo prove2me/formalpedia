@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_exp_two_gaussianPaperTaylorArgument_le
 -- name    : ReweightedNPMLE.eventually_exp_two_gaussianPaperTaylorArgument_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:43:58.72882+00:00
 -- url     : https://prove2.me/theorems/719bdc63-007b-4a51-8ba3-5cffdc992f9b
 -- title:

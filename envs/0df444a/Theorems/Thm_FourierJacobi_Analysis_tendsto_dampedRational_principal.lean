@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_tendsto_dampedRational_principal
 -- name    : FourierJacobi.Analysis.tendsto_dampedRational_principal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:33.955648+00:00
 -- url     : https://prove2.me/theorems/0465e0c8-1d0a-4051-a1e1-f765c048d1fb

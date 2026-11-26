@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutCompletedOddTrajectorySupportConstant_pos
 -- name    : FirstPassageLinearTransport.timeoutCompletedOddTrajectorySupportConstant_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:31:42.694038+00:00
 -- url     : https://prove2.me/theorems/8f8ead1f-dde9-5da8-a6c7-fa817d10c818

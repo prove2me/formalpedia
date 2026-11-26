@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tendsto_clippedShellHeight_atTop
 -- name    : FirstPassageLinearTransport.tendsto_clippedShellHeight_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:51:45.499608+00:00
 -- url     : https://prove2.me/theorems/95077fd9-e037-4d73-8434-a98c7939b3b7

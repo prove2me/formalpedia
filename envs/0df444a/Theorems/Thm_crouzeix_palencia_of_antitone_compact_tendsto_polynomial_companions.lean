@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_antitone_compact_tendsto_polynomial_companions
 -- name    : crouzeix_palencia_of_antitone_compact_tendsto_polynomial_companions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:51:21.562307+00:00
 -- url     : https://prove2.me/theorems/c7a6f84b-455a-5f1b-b220-15d808392cd8

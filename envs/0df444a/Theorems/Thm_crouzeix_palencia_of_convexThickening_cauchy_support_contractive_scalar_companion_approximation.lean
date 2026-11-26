@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_convexThickening_cauchy_support_contractive_scalar_companion_approximation
 -- name    : crouzeix_palencia_of_convexThickening_cauchy_support_contractive_scalar_companion_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:53:39.348848+00:00
 -- url     : https://prove2.me/theorems/ab0f4380-2026-4d3b-895b-190e9d95159d

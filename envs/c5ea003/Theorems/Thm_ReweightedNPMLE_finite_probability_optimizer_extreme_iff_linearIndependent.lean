@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_finite_probability_optimizer_extreme_iff_linearIndependent
 -- name    : ReweightedNPMLE.finite_probability_optimizer_extreme_iff_linearIndependent
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:03.942299+00:00
 -- url     : https://prove2.me/theorems/efc2ec39-4716-4e55-9ef6-b419d6f69873
 -- title:

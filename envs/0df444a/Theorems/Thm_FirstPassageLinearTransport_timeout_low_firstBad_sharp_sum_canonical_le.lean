@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeout_low_firstBad_sharp_sum_canonical_le
 -- name    : FirstPassageLinearTransport.timeout_low_firstBad_sharp_sum_canonical_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:25.4482+00:00
 -- url     : https://prove2.me/theorems/c964b816-5157-40e7-a22d-cd26068951c1

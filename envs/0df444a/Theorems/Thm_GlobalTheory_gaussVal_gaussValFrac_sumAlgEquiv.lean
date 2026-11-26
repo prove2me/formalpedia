@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussVal_gaussValFrac_sumAlgEquiv
 -- name    : GlobalTheory.gaussVal_gaussValFrac_sumAlgEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:46:57.62111+00:00
 -- url     : https://prove2.me/theorems/0e7f3c06-66b6-430d-a2ec-6b29850c6dec

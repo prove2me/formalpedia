@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_fittedValue_secondOrderExpansion_of_eventually
 -- name    : ReweightedNPMLE.fittedValue_secondOrderExpansion_of_eventually
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:38:59.46682+00:00
 -- url     : https://prove2.me/theorems/571b7671-b393-4b39-8708-07b41ab4383c
 -- title:

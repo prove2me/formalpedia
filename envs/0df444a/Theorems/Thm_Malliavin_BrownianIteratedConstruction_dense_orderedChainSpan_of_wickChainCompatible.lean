@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_dense_orderedChainSpan_of_wickChainCompatible
 -- name    : Malliavin.BrownianIteratedConstruction.dense_orderedChainSpan_of_wickChainCompatible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:08:48.643798+00:00
 -- url     : https://prove2.me/theorems/81446f1d-9988-5960-b69e-1f2b76afc9f5

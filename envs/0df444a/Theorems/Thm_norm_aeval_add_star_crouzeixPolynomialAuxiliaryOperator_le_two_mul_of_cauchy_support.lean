@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_add_star_crouzeixPolynomialAuxiliaryOperator_le_two_mul_of_cauchy_support
 -- name    : norm_aeval_add_star_crouzeixPolynomialAuxiliaryOperator_le_two_mul_of_cauchy_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:50:13.279146+00:00
 -- url     : https://prove2.me/theorems/8134272c-3061-4d90-b84c-4b0e87862277

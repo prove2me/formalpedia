@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.integrable_exp_half_log_ratio_withDensity
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:05:35.112997+00:00
 -- url     : https://prove2.me/submissions/ff97cd1e-219a-4c5e-afb0-bc93e7850ac0
 

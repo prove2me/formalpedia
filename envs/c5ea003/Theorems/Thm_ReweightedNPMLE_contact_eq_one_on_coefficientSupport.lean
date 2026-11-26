@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_contact_eq_one_on_coefficientSupport
 -- name    : ReweightedNPMLE.contact_eq_one_on_coefficientSupport
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:54.934856+00:00
 -- url     : https://prove2.me/theorems/df0d777f-84f4-52f2-9a15-60642a0df852
 -- title:

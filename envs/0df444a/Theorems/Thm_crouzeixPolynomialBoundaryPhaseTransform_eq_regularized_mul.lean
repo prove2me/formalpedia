@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialBoundaryPhaseTransform_eq_regularized_mul
 -- name    : crouzeixPolynomialBoundaryPhaseTransform_eq_regularized_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:58:37.848811+00:00
 -- url     : https://prove2.me/theorems/691c6571-35ee-4276-a7e2-2a85ea573f3e

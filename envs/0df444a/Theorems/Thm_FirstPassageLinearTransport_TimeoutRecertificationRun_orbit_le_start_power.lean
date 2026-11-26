@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_TimeoutRecertificationRun_orbit_le_start_power
 -- name    : FirstPassageLinearTransport.TimeoutRecertificationRun.orbit_le_start_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:29.466784+00:00
 -- url     : https://prove2.me/theorems/a0972037-52bf-4d3d-99cc-15b0cec1dbf8

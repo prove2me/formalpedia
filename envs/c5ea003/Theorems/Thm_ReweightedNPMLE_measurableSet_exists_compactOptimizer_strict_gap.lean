@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_measurableSet_exists_compactOptimizer_strict_gap
 -- name    : ReweightedNPMLE.measurableSet_exists_compactOptimizer_strict_gap
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:16.249397+00:00
 -- url     : https://prove2.me/theorems/d549be64-6597-4f99-bdde-58d6054ea0e8
 -- title:

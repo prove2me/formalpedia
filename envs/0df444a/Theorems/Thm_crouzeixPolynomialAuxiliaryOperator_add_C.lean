@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialAuxiliaryOperator_add_C
 -- name    : crouzeixPolynomialAuxiliaryOperator_add_C
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:52:47.879942+00:00
 -- url     : https://prove2.me/theorems/6955ec7a-7a1d-4e14-b1f3-39cf1ea13bd4

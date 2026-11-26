@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_opNorm_le_of_forall_norm_inner_le
 -- name    : opNorm_le_of_forall_norm_inner_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:49.128286+00:00
 -- url     : https://prove2.me/theorems/d287c829-b83f-4c71-bee6-ffe23f7c442d

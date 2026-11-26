@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianPaper_sparse_uniqueness_threshold
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:01.398105+00:00
 -- url     : https://prove2.me/submissions/c0d14ef8-39bc-4e87-81df-56b1f3b2d113
 

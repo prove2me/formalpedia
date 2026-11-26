@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_integral_abs_finiteGaussianMixture_le_sum_abs
 -- name    : ReweightedNPMLE.integral_abs_finiteGaussianMixture_le_sum_abs
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:03.033707+00:00
 -- url     : https://prove2.me/theorems/50542640-0600-56e1-bcff-0ae97a720801
 -- title:

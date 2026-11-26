@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gamma_coordinate_concentration_of_lt_one
 -- name    : ReweightedNPMLE.gamma_coordinate_concentration_of_lt_one
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:11.30731+00:00
 -- url     : https://prove2.me/theorems/cac4ee4c-7841-5f75-a418-8105068ca997
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_finite_principal_unitary
 -- name    : FourierJacobi.Algebra.finite_principal_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:19:20.348368+00:00
 -- url     : https://prove2.me/theorems/bdb2276c-7534-57e7-8d30-b5497be70dc2

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.exponential_markov_upper
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:06:04.415844+00:00
 -- url     : https://prove2.me/submissions/afc3f50b-3837-4b2a-9a2b-46660fa7aca0
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_add_star_le_two_mul_polynomialSupNorm_of_representation
 -- name    : norm_aeval_add_star_le_two_mul_polynomialSupNorm_of_representation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:00:56.008964+00:00
 -- url     : https://prove2.me/theorems/e88e6806-b42a-535f-b677-27c5ebb00aaa

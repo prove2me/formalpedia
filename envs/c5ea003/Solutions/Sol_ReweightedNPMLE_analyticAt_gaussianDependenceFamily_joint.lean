@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.analyticAt_gaussianDependenceFamily_joint
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:53:28.314379+00:00
 -- url     : https://prove2.me/submissions/33d44d1e-ced8-4ea3-a5ab-3f6a1108bf77
 

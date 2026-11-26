@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutFeasibleTimes_card_le_potential
 -- name    : FirstPassageLinearTransport.timeoutFeasibleTimes_card_le_potential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:51.276844+00:00
 -- url     : https://prove2.me/theorems/864437d9-5990-4436-9c42-a847a6a2390a

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.likelihoodContactFunctional_le_one_of_isMaxOn
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:59:15.485848+00:00
 -- url     : https://prove2.me/submissions/17428181-7943-4868-89b9-388cbc40a8d0
 

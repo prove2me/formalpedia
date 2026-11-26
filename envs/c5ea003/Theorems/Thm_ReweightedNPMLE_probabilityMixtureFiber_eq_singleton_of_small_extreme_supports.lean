@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_probabilityMixtureFiber_eq_singleton_of_small_extreme_supports
 -- name    : ReweightedNPMLE.probabilityMixtureFiber_eq_singleton_of_small_extreme_supports
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:49:04.653074+00:00
 -- url     : https://prove2.me/theorems/a7c52b8e-e369-409b-a362-f06cca09a521
 -- title:

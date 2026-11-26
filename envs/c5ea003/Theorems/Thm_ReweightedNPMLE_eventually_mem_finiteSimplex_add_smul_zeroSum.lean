@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_mem_finiteSimplex_add_smul_zeroSum
 -- name    : ReweightedNPMLE.eventually_mem_finiteSimplex_add_smul_zeroSum
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:38:38.010505+00:00
 -- url     : https://prove2.me/theorems/f5641380-3f0b-57e6-8b86-6482af7ab83d
 -- title:

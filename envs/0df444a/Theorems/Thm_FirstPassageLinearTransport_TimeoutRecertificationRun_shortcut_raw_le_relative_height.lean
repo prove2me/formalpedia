@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_TimeoutRecertificationRun_shortcut_raw_le_relative_height
 -- name    : FirstPassageLinearTransport.TimeoutRecertificationRun.shortcut_raw_le_relative_height
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:13.90647+00:00
 -- url     : https://prove2.me/theorems/749100d0-9cf8-5b14-9fcc-ee6123e6c385

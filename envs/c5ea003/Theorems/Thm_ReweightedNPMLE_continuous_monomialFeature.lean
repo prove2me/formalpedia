@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_continuous_monomialFeature
 -- name    : ReweightedNPMLE.continuous_monomialFeature
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:37.403459+00:00
 -- url     : https://prove2.me/theorems/d6532638-f943-45e5-8c09-5699c612562c
 -- title:

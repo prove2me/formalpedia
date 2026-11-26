@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_polynomial_induction_on_boundaryPhaseDividedDifferences
 -- name    : polynomial_induction_on_boundaryPhaseDividedDifferences
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:59:10.613632+00:00
 -- url     : https://prove2.me/theorems/5048a38d-4c83-540a-9145-37538a9c84aa

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_relativeDictionary_weighted_sum_eq_zero_of_contact
 -- name    : ReweightedNPMLE.relativeDictionary_weighted_sum_eq_zero_of_contact
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:38:53.068804+00:00
 -- url     : https://prove2.me/theorems/dde81884-138f-48b9-9c70-fb7bc5154581
 -- title:

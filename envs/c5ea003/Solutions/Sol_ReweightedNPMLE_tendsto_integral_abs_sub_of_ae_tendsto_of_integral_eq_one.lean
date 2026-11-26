@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.tendsto_integral_abs_sub_of_ae_tendsto_of_integral_eq_one
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:12:39.866059+00:00
 -- url     : https://prove2.me/submissions/659fa7c5-9d2e-4a80-87fd-b55eda4a5e77
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.measurableSet_compactOptimizer_nonunique
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:15:04.54044+00:00
 -- url     : https://prove2.me/submissions/56457f90-b4c0-4e5e-8a04-2545242a90d7
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_basisVal_gaussValFrac
 -- name    : GlobalTheory.basisVal_gaussValFrac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:43:35.373653+00:00
 -- url     : https://prove2.me/theorems/b6a1b807-6e22-40ed-b1d5-ba2762139c03

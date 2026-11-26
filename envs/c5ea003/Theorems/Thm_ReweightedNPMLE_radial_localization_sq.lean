@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_radial_localization_sq
 -- name    : ReweightedNPMLE.radial_localization_sq
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:04.075843+00:00
 -- url     : https://prove2.me/theorems/93cf76e5-7941-5a34-bc35-93493082d6da
 -- title:

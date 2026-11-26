@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianLocationMixtureLaw_id_eq_convolution
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:12:02.205809+00:00
 -- url     : https://prove2.me/submissions/44274529-4406-46d8-9183-aa8dcac7607d
 

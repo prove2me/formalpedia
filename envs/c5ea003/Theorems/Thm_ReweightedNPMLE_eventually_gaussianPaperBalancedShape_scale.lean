@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianPaperBalancedShape_scale
 -- name    : ReweightedNPMLE.eventually_gaussianPaperBalancedShape_scale
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:51.384349+00:00
 -- url     : https://prove2.me/theorems/7fd4c01a-9678-43a2-818c-e6cd6c800edb
 -- title:

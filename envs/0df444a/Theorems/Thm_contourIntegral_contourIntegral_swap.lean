@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_contourIntegral_swap
 -- name    : contourIntegral_contourIntegral_swap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:37.408175+00:00
 -- url     : https://prove2.me/theorems/bd8f46b2-d724-5a10-93a3-14962eb9003f

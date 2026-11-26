@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianPaperStructuralRank_le
 -- name    : ReweightedNPMLE.eventually_gaussianPaperStructuralRank_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:05.521801+00:00
 -- url     : https://prove2.me/theorems/3a78d02b-e0c2-52d0-91db-b8d530f5e672
 -- title:

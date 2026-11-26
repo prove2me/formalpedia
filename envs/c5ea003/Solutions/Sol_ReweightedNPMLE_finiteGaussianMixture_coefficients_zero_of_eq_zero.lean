@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.finiteGaussianMixture_coefficients_zero_of_eq_zero
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:26.522358+00:00
 -- url     : https://prove2.me/submissions/d9ff7ba5-ca51-406a-a5c1-8fb0ac118fbe
 

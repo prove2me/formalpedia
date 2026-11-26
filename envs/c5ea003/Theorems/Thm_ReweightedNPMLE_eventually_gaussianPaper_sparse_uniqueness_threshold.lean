@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianPaper_sparse_uniqueness_threshold
 -- name    : ReweightedNPMLE.eventually_gaussianPaper_sparse_uniqueness_threshold
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:06.984609+00:00
 -- url     : https://prove2.me/theorems/4a6adbef-b093-5f81-8a8e-77eccfb48413
 -- title:

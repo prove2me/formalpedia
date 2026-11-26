@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.weightedLogLikelihood_multiplicative_secondOrder
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:02:33.832637+00:00
 -- url     : https://prove2.me/submissions/6109a469-5c79-4a8f-8ec7-3196214a1635
 

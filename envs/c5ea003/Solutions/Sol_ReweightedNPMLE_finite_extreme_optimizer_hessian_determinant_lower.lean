@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.finite_extreme_optimizer_hessian_determinant_lower
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:06:14.604595+00:00
 -- url     : https://prove2.me/submissions/e29e3fdb-40a0-4a74-87f2-9530f7e5a470
 

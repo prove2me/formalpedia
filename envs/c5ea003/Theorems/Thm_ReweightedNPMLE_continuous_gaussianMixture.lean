@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_continuous_gaussianMixture
 -- name    : ReweightedNPMLE.continuous_gaussianMixture
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:35.674936+00:00
 -- url     : https://prove2.me/theorems/06bf8280-5c99-59d6-94b4-62c919fc3b11
 -- title:

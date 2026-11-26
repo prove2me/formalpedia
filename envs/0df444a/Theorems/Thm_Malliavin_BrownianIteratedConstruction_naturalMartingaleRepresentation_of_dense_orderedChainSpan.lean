@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_naturalMartingaleRepresentation_of_dense_orderedChainSpan
 -- name    : Malliavin.BrownianIteratedConstruction.naturalMartingaleRepresentation_of_dense_orderedChainSpan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:59:01.790726+00:00
 -- url     : https://prove2.me/theorems/eed116e2-bf96-5865-b716-4065f7dd4a34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_eventually_timeoutEndpointGood_shellError
 -- name    : FirstPassageLinearTransport.exists_eventually_timeoutEndpointGood_shellError
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:13.857509+00:00
 -- url     : https://prove2.me/theorems/0e8de241-c68f-47d0-9830-954ac79a9b29

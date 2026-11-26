@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_fourth_power_le_symmetrized_mul_cube_add_triple_mul
 -- name    : norm_fourth_power_le_symmetrized_mul_cube_add_triple_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:44.162646+00:00
 -- url     : https://prove2.me/theorems/886e16aa-bef4-4120-985f-81764712a730

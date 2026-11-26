@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_measurableSet_compactOptimizer_nonunique
 -- name    : ReweightedNPMLE.measurableSet_compactOptimizer_nonunique
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:07.448184+00:00
 -- url     : https://prove2.me/theorems/5763c8f6-c044-4c27-b976-203c6964f312
 -- title:

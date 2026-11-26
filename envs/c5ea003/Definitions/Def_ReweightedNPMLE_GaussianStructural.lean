@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianStructural
 -- name    : ReweightedNPMLE_GaussianStructural
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:28:27.243466+00:00
 -- url     : https://prove2.me/theorems/52843153-e13b-50d5-b5fa-159bf25c01f5
 -- title:

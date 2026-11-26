@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_isExtremeProbabilityMixture_iff
 -- name    : ReweightedNPMLE.isExtremeProbabilityMixture_iff
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:19.940938+00:00
 -- url     : https://prove2.me/theorems/92c7f14b-1125-487c-8c2e-0c26a9070506
 -- title:

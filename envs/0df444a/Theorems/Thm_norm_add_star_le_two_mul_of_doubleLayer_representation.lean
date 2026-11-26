@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_add_star_le_two_mul_of_doubleLayer_representation
 -- name    : norm_add_star_le_two_mul_of_doubleLayer_representation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:45:22.388217+00:00
 -- url     : https://prove2.me/theorems/ebbd4e0c-da03-45e7-a1bd-2eb299dd0e17

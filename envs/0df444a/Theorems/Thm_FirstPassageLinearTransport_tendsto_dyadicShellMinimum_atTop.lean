@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tendsto_dyadicShellMinimum_atTop
 -- name    : FirstPassageLinearTransport.tendsto_dyadicShellMinimum_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:32:48.671079+00:00
 -- url     : https://prove2.me/theorems/bae982c6-b142-53e6-8389-43f33bf2df8b

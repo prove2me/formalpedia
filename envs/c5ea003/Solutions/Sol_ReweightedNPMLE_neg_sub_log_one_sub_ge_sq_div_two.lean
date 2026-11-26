@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.neg_sub_log_one_sub_ge_sq_div_two
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:09:35.228418+00:00
 -- url     : https://prove2.me/submissions/6617eac5-9d5f-4e01-909c-6716e2b6cfcd
 

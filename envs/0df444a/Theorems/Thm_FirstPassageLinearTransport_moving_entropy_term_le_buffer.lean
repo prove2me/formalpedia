@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_moving_entropy_term_le_buffer
 -- name    : FirstPassageLinearTransport.moving_entropy_term_le_buffer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:11.602531+00:00
 -- url     : https://prove2.me/theorems/2438b996-d446-4a9e-9c9b-33f3333ce5ee

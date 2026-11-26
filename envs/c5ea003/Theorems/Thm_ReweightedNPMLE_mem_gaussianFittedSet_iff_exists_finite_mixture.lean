@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_mem_gaussianFittedSet_iff_exists_finite_mixture
 -- name    : ReweightedNPMLE.mem_gaussianFittedSet_iff_exists_finite_mixture
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:16.224197+00:00
 -- url     : https://prove2.me/theorems/310e9aa9-45ec-56ff-8182-72df716fc2bc
 -- title:

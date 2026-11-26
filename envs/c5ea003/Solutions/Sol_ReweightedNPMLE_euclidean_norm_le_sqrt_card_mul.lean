@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.euclidean_norm_le_sqrt_card_mul
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:10:05.734805+00:00
 -- url     : https://prove2.me/submissions/f0579614-6421-492e-a860-b64e2b60f5b5
 

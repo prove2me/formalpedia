@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_hellingerSq_finiteGaussianMixture_same_locations_le_weight_l1
 -- name    : ReweightedNPMLE.hellingerSq_finiteGaussianMixture_same_locations_le_weight_l1
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:22.098806+00:00
 -- url     : https://prove2.me/theorems/37f39852-9776-471d-afe2-d35ddbf6e053
 -- title:

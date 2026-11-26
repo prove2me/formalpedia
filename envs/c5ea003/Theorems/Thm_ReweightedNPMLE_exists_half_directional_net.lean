@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_exists_half_directional_net
 -- name    : ReweightedNPMLE.exists_half_directional_net
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:58.181203+00:00
 -- url     : https://prove2.me/theorems/8b8480ad-9eff-4f94-96bb-90c91deeaf57
 -- title:

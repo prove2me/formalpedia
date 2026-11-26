@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_log_radialAmplitude_eq_integral
 -- name    : Eden.log_radialAmplitude_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:08:12.728395+00:00
 -- url     : https://prove2.me/theorems/5a3f424d-d226-509c-9960-89b687aa1fe1

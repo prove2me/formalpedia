@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_dyadic_rank_term_le_endpoint_entropy_term
 -- name    : FirstPassageLinearTransport.eventually_dyadic_rank_term_le_endpoint_entropy_term
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:57.109531+00:00
 -- url     : https://prove2.me/theorems/07ccd4c4-00b4-5724-b047-3392a883ef8d

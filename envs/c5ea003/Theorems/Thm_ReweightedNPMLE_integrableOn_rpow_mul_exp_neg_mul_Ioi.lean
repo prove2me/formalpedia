@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_integrableOn_rpow_mul_exp_neg_mul_Ioi
 -- name    : ReweightedNPMLE.integrableOn_rpow_mul_exp_neg_mul_Ioi
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:06.419832+00:00
 -- url     : https://prove2.me/theorems/ffa24072-a25a-4e20-b2e5-c7c10ecb1dc7
 -- title:

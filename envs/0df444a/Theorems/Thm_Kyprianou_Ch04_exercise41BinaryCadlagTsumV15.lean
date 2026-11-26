@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41BinaryCadlagTsumV15
 -- name    : Kyprianou.Ch04.exercise41BinaryCadlagTsumV15
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T13:08:55.532066+00:00
 -- url     : https://prove2.me/theorems/766da072-8bf7-499e-ab30-6b9fba8e79d2

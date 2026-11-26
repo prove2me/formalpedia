@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_tendsto_polynomialSupNorm_atTop_of_antitone_isCompact
 -- name    : tendsto_polynomialSupNorm_atTop_of_antitone_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:28.667236+00:00
 -- url     : https://prove2.me/theorems/6b26c04c-04bf-5c63-b7fb-81a45a0250e6

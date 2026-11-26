@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_brownianPurePowerIntegral_one_step
 -- name    : Malliavin.BrownianIteratedConstruction.brownianPurePowerIntegral_one_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:08:34.724394+00:00
 -- url     : https://prove2.me/theorems/94a82ce6-cd21-5202-b3f0-ff59fa9ff85a

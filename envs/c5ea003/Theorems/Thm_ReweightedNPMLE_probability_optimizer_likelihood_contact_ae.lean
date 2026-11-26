@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_probability_optimizer_likelihood_contact_ae
 -- name    : ReweightedNPMLE.probability_optimizer_likelihood_contact_ae
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:38:00.508895+00:00
 -- url     : https://prove2.me/theorems/3f7b5a73-8eaf-4285-b514-7a2563b0ca4d
 -- title:

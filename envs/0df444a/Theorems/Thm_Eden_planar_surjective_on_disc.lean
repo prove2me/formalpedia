@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_planar_surjective_on_disc
 -- name    : Eden.planar_surjective_on_disc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:09:15.8521+00:00
 -- url     : https://prove2.me/theorems/06e2e8d9-0c54-4050-a894-0e8c6d5f347d

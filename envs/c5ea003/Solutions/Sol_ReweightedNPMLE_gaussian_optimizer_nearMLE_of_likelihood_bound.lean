@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_optimizer_nearMLE_of_likelihood_bound
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:17:18.61534+00:00
 -- url     : https://prove2.me/submissions/5c0be85a-b7f0-42f9-82ad-c1ba5a86018c
 

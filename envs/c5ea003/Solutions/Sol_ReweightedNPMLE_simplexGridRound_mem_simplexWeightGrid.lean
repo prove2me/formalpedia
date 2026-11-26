@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.simplexGridRound_mem_simplexWeightGrid
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:04:28.184932+00:00
 -- url     : https://prove2.me/submissions/370aa725-5e7c-4dcc-90a9-f1f61fc1da7a
 

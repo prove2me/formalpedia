@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_assembledBootstrap_timed_descent_of_scalar_bounds
 -- name    : FirstPassageLinearTransport.assembledBootstrap_timed_descent_of_scalar_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:20.033413+00:00
 -- url     : https://prove2.me/theorems/e63bf0d2-3e92-5dcb-8fb1-73337586e53b

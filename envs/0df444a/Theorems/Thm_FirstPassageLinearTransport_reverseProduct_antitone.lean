@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_reverseProduct_antitone
 -- name    : FirstPassageLinearTransport.reverseProduct_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:49:39.636532+00:00
 -- url     : https://prove2.me/theorems/5cf54ab0-99e4-4e39-b7bc-853f8f197064

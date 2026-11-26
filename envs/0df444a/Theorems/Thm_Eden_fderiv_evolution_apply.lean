@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_fderiv_evolution_apply
 -- name    : Eden.fderiv_evolution_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:08:50.371843+00:00
 -- url     : https://prove2.me/theorems/32730ee3-e36b-5911-97cd-f45cc1d3a55b

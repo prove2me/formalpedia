@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_probabilityMeasure_positive_finiteRepresentation_of_finite_support
 -- name    : ReweightedNPMLE.probabilityMeasure_positive_finiteRepresentation_of_finite_support
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:38:02.944982+00:00
 -- url     : https://prove2.me/theorems/5aaa25ba-6a86-427b-a22e-ee1b86f88266
 -- title:

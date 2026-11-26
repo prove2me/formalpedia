@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.det_diagonal_add_weight_mul_eq_sqrt_conj
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:59:23.403071+00:00
 -- url     : https://prove2.me/submissions/937776a5-d447-4f07-b5a5-63e93fab5604
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_eq_split
 -- name    : aeval_mul_crouzeixPolynomialAuxiliaryOperator_eq_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:15.822707+00:00
 -- url     : https://prove2.me/theorems/e48524ec-4a2a-4f94-8a66-fc639bc4f1ba

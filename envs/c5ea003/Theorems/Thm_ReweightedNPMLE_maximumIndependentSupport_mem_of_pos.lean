@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_maximumIndependentSupport_mem_of_pos
 -- name    : ReweightedNPMLE.maximumIndependentSupport_mem_of_pos
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:37.216561+00:00
 -- url     : https://prove2.me/theorems/8559fcfe-261e-50a6-86e8-920cf58e61c0
 -- title:

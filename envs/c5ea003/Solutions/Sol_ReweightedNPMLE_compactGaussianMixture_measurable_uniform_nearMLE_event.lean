@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.compactGaussianMixture_measurable_uniform_nearMLE_event
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:18:42.077938+00:00
 -- url     : https://prove2.me/submissions/2a1f818b-d562-4ecb-ae98-303e5f73d9a2
 

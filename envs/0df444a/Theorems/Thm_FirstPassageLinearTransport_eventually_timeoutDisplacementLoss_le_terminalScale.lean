@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_timeoutDisplacementLoss_le_terminalScale
 -- name    : FirstPassageLinearTransport.eventually_timeoutDisplacementLoss_le_terminalScale
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:46:32.690965+00:00
 -- url     : https://prove2.me/theorems/3b9782a7-f4f8-56dd-959f-9952c5abb12e

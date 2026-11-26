@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_multiplicativeChangeDeriv_toMatrix
 -- name    : ReweightedNPMLE.multiplicativeChangeDeriv_toMatrix
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:38.562098+00:00
 -- url     : https://prove2.me/theorems/638a60e5-5d17-45c9-8b28-d04a0aabc6ea
 -- title:

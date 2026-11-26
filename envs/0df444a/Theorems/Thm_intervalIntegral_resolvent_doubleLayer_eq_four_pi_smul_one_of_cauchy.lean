@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_intervalIntegral_resolvent_doubleLayer_eq_four_pi_smul_one_of_cauchy
 -- name    : intervalIntegral_resolvent_doubleLayer_eq_four_pi_smul_one_of_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:57.928893+00:00
 -- url     : https://prove2.me/theorems/0cf5dae9-1206-55a3-9d99-3ed04b4666df

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_fitted_maximizer_firstOrder_nonpos
 -- name    : ReweightedNPMLE.fitted_maximizer_firstOrder_nonpos
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:52.007638+00:00
 -- url     : https://prove2.me/theorems/4e6f5645-5c24-585a-9e3b-633f359de786
 -- title:

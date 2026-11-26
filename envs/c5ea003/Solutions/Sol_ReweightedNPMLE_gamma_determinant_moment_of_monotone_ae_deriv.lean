@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gamma_determinant_moment_of_monotone_ae_deriv
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:03:49.537926+00:00
 -- url     : https://prove2.me/submissions/fa99d6f2-81f0-42aa-be1e-b55f6ede75b5
 

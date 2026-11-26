@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_norm_sq_phaseSpace
 -- name    : Eden.norm_sq_phaseSpace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:08:39.535162+00:00
 -- url     : https://prove2.me/theorems/d7b0190b-6208-5d01-8f88-00183b003c53

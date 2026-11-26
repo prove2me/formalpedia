@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianPaperSampleRadius_add_le_sq
 -- name    : ReweightedNPMLE.eventually_gaussianPaperSampleRadius_add_le_sq
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:28.837671+00:00
 -- url     : https://prove2.me/theorems/4b21955f-2b2b-4e86-abb2-c17d83cdec58
 -- title:

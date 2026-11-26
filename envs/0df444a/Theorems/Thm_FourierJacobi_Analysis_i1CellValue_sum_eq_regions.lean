@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i1CellValue_sum_eq_regions
 -- name    : FourierJacobi.Analysis.i1CellValue_sum_eq_regions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:09:21.150775+00:00
 -- url     : https://prove2.me/theorems/266044e5-4ba4-42af-816e-c9a265b481cf

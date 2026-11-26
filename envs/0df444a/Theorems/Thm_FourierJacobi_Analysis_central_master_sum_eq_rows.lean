@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_central_master_sum_eq_rows
 -- name    : FourierJacobi.Analysis.central_master_sum_eq_rows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:09:38.139348+00:00
 -- url     : https://prove2.me/theorems/04cff5a8-336f-462a-8182-7ed0ed256d10

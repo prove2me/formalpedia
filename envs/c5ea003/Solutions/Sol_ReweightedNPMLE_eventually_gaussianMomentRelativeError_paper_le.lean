@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianMomentRelativeError_paper_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:08:09.275425+00:00
 -- url     : https://prove2.me/submissions/f8076eb6-23f3-4ba6-90e4-63a99bba7377
 

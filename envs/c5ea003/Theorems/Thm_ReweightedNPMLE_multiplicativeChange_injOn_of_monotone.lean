@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_multiplicativeChange_injOn_of_monotone
 -- name    : ReweightedNPMLE.multiplicativeChange_injOn_of_monotone
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:30.938101+00:00
 -- url     : https://prove2.me/theorems/e415b483-4de8-572c-bcc5-339f5cd1d785
 -- title:

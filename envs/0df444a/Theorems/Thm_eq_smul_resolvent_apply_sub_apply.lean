@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_eq_smul_resolvent_apply_sub_apply
 -- name    : eq_smul_resolvent_apply_sub_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:36:36.391845+00:00
 -- url     : https://prove2.me/theorems/ae260777-cc93-434e-8edb-e45b4cd86116

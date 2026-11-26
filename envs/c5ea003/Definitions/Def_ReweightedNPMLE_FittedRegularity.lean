@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_FittedRegularity
 -- name    : ReweightedNPMLE_FittedRegularity
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:18:02.624802+00:00
 -- url     : https://prove2.me/theorems/a64b0a7b-cff0-5359-bd5c-41a3315859cc
 -- title:

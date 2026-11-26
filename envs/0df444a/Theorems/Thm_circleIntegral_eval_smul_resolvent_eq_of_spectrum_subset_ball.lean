@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_circleIntegral_eval_smul_resolvent_eq_of_spectrum_subset_ball
 -- name    : circleIntegral_eval_smul_resolvent_eq_of_spectrum_subset_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:06:23.871706+00:00
 -- url     : https://prove2.me/theorems/0051838f-2309-4174-84ee-7aa3c8d30a98

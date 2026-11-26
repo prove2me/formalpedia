@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianMixture_mul_finiteGaussianMixture_div_density_integrable
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:06:25.985475+00:00
 -- url     : https://prove2.me/submissions/edb4a5fc-833b-4faf-8029-cc4a8cf7470a
 

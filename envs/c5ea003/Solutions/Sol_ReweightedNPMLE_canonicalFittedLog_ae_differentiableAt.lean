@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.canonicalFittedLog_ae_differentiableAt
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:01:18.481456+00:00
 -- url     : https://prove2.me/submissions/1df3498f-9939-41ad-9011-4d39b72c904f
 

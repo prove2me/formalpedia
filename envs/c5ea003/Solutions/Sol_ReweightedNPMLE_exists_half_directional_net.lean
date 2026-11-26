@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.exists_half_directional_net
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:10:23.075709+00:00
 -- url     : https://prove2.me/submissions/a7043a6a-6da1-463d-a7b8-1ebecfab37cf
 

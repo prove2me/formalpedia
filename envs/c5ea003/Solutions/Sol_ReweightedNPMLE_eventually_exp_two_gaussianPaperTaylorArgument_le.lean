@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_exp_two_gaussianPaperTaylorArgument_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:07:12.619318+00:00
 -- url     : https://prove2.me/submissions/9236038a-7429-448a-83b3-906462616e7c
 

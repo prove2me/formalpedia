@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_heightCertifiedShellRatioTendstoZero
 -- name    : FirstPassageLinearTransport.heightCertifiedShellRatioTendstoZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:21.249883+00:00
 -- url     : https://prove2.me/theorems/0e1cf2cb-c125-45a1-8c57-87dc6afd2982

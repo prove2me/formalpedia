@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_det_one_add_posSemidef_ge_one
 -- name    : ReweightedNPMLE.det_one_add_posSemidef_ge_one
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:56.845588+00:00
 -- url     : https://prove2.me/theorems/0040727e-3c5d-47e3-bcff-06dd76ed0682
 -- title:

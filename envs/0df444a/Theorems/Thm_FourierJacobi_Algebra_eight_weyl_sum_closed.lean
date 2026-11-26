@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_eight_weyl_sum_closed
 -- name    : FourierJacobi.Algebra.eight_weyl_sum_closed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:14:46.216569+00:00
 -- url     : https://prove2.me/theorems/d9c0533e-f640-5cc4-91c7-004dd2d4ed08

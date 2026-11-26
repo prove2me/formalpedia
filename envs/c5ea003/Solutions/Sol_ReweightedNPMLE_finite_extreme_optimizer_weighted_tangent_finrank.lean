@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.finite_extreme_optimizer_weighted_tangent_finrank
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:01:00.613877+00:00
 -- url     : https://prove2.me/submissions/9288331d-196e-4acf-84f0-60db0b68c828
 

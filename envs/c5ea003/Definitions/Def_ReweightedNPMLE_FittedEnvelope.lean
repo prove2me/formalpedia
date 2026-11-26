@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_FittedEnvelope
 -- name    : ReweightedNPMLE_FittedEnvelope
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:23:12.145994+00:00
 -- url     : https://prove2.me/theorems/6170807d-bc77-428b-8238-3e009111193f
 -- title:

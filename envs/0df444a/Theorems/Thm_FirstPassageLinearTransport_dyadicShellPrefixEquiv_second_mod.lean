@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_dyadicShellPrefixEquiv_second_mod
 -- name    : FirstPassageLinearTransport.dyadicShellPrefixEquiv_second_mod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:13.603053+00:00
 -- url     : https://prove2.me/theorems/ab93e24a-1380-4d7b-b734-9c25a2d7d82c

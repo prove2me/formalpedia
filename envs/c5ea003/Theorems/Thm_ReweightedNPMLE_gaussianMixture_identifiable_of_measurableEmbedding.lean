@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianMixture_identifiable_of_measurableEmbedding
 -- name    : ReweightedNPMLE.gaussianMixture_identifiable_of_measurableEmbedding
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:40.427244+00:00
 -- url     : https://prove2.me/theorems/44188839-7b5c-4f2a-b0e2-732dc56cb88b
 -- title:

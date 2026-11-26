@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.fullExtremeSupportEvent_eq_independentRepresentationEvent
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:03:41.774727+00:00
 -- url     : https://prove2.me/submissions/c907371e-b3e5-4e2d-bce9-c16cadf45ab3
 

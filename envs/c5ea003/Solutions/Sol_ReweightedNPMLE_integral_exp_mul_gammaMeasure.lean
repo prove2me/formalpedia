@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.integral_exp_mul_gammaMeasure
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:02:24.788905+00:00
 -- url     : https://prove2.me/submissions/4bcbc584-d5ca-4a4c-989e-dcb6c07d3a55
 

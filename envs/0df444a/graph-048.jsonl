@@ -7621,8 +7621,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_nat_of_two_le_dim_le", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_CardPieceIrrelevantIdeal", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_nat_of_two_le_dim_le", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArithmeticIntersection_LengthCokerEqKerAddDimOneOrderSum", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_nat_of_two_le_dim_le", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_TwoLeKrullDimOfRelevantPrime", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.coeff_subst_gap", "child": "ReciprocityTheory_DualLattices_VEqZeroOfPowEqOne", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.coeff_subst_gap", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_WeightedSumBounds_PeriodValuation", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.coeff_subst_gap", "child": "ReciprocityTheory_DualLattices_VEqZeroOfPowEqOne", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.coeff_subst_gap", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_WeightedSumBounds_PeriodValuation", "via": ["solution", "statement"]}
 {"parent": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_StableLattices_OmegaScalar", "child": "CompanionTheory_RealGroups_DiscreteSeries_DiscreteSeriesClassification_DiscreteSeriesExhaustion_HeckeAlgebraActions_BackStable", "via": ["statement"]}
 {"parent": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_StableLattices_OmegaScalar", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_StableLattices_QuantumDeterminantTensorStatement", "via": ["statement"]}
 {"parent": "GlobalTheory.PowAlongIso.isGen_germ", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_WeightedChartPullback_CancelSecAct", "via": ["solution", "statement"]}
@@ -9857,8 +9857,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.T0.Data.fZ_eq_const_mul_irreducible_pow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_FZEqConstMulIrreduciblePow", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.T0.Data.fZ_eq_const_mul_irreducible_pow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_BlockSphereProbIsProbabilityMeasure", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.T0.Data.fZ_eq_const_mul_irreducible_pow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_HtDefs", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.coeff_eq_zero_of_symm", "child": "ReciprocityTheory_DualLattices_VEqZeroOfPowEqOne", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.coeff_eq_zero_of_symm", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_WeightedSumBounds_PeriodValuation", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.coeff_eq_zero_of_symm", "child": "ReciprocityTheory_DualLattices_VEqZeroOfPowEqOne", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.coeff_eq_zero_of_symm", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_WeightedSumBounds_PeriodValuation", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dict.ker_theta", "child": "Development_AutomorphicSpectrum_Proofs_MetricProofs_AffineChartIdealPrimeAndSaturated", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dict.ker_theta", "child": "Development_AutomorphicSpectrum_Proofs_MetricProofs_ChPrime", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dict.ker_theta", "child": "Development_AutomorphicSpectrum_Proofs_MetricProofs_FiniteMinimalPrimes", "via": ["solution", "statement"]}
@@ -9870,8 +9870,8 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ProjectiveRepresentationPullbackCoordinatesStatement", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HeckeKer", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ProjectiveRepresentationPullbackCoordinatesStatement", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_UniformisationConclusion", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ProjectiveRepresentationPullbackCoordinatesStatement", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.coeff_expComp_gap", "child": "ReciprocityTheory_DualLattices_VEqZeroOfPowEqOne", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.coeff_expComp_gap", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_WeightedSumBounds_PeriodValuation", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.coeff_expComp_gap", "child": "ReciprocityTheory_DualLattices_VEqZeroOfPowEqOne", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.coeff_expComp_gap", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_WeightedSumBounds_PeriodValuation", "via": ["solution", "statement"]}
 {"parent": "syracuse_descent_coprime_to_six_1103101952_to_1115684864", "child": "syracuseStep", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dict.isMultiHomog_chartMonomial", "child": "Development_AutomorphicSpectrum_Proofs_MetricProofs_AffineChartIdealPrimeAndSaturated", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dict.isMultiHomog_chartMonomial", "child": "Development_AutomorphicSpectrum_Proofs_MetricProofs_ChPrime", "via": ["solution", "statement"]}

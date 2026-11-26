@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.fittedLogDerivativeMatrix_isHermitian_of_eventually
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:01:25.098038+00:00
 -- url     : https://prove2.me/submissions/df9f8431-92d5-4631-add0-fe4d30fbdbb2
 

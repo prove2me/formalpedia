@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_Weights
 -- name    : ReweightedNPMLE_Weights
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:14:23.534239+00:00
 -- url     : https://prove2.me/theorems/96fbe76d-10e8-4c4f-827f-3c4c16cbe71b
 -- title:

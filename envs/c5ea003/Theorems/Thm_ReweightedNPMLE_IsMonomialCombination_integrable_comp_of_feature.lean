@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_IsMonomialCombination_integrable_comp_of_feature
 -- name    : ReweightedNPMLE.IsMonomialCombination.integrable_comp_of_feature
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:10.781133+00:00
 -- url     : https://prove2.me/theorems/ec9922fa-bb9b-4b30-a029-6227d3d852db
 -- title:

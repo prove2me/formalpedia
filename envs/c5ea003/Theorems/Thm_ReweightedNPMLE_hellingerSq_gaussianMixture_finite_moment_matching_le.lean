@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_hellingerSq_gaussianMixture_finite_moment_matching_le
 -- name    : ReweightedNPMLE.hellingerSq_gaussianMixture_finite_moment_matching_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:43:58.341006+00:00
 -- url     : https://prove2.me/theorems/1ebb6dbf-35eb-5726-b6f0-d932e7f86ed3
 -- title:

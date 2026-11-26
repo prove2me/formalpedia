@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_timeoutEndpointGood_has_shellWitness
 -- name    : FirstPassageLinearTransport.eventually_timeoutEndpointGood_has_shellWitness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:50:55.44036+00:00
 -- url     : https://prove2.me/theorems/420301cb-4654-489f-ab61-7c2c10b6ac97

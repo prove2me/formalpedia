@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_convexThickening_cauchy_support_tendsto_polynomial_companions
 -- name    : crouzeix_palencia_of_convexThickening_cauchy_support_tendsto_polynomial_companions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:51.229944+00:00
 -- url     : https://prove2.me/theorems/ab548e6d-9ca2-423f-8da6-e76d755360c4

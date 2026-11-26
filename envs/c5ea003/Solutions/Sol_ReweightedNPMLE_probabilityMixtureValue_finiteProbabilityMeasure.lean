@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.probabilityMixtureValue_finiteProbabilityMeasure
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:53:54.911771+00:00
 -- url     : https://prove2.me/submissions/73eecd6c-4107-488d-b3e2-f2fe9b5ac45f
 

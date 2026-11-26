@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_tendsto_latticeCore_paperE
 -- name    : FourierJacobi.Analysis.tendsto_latticeCore_paperE
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:10:35.018801+00:00
 -- url     : https://prove2.me/theorems/522e9812-14c9-425e-97d5-64e657853b87

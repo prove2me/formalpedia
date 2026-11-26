@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.tendsto_probabilityMeasure_of_tendsto_gaussianMixture_hellingerSq_zero
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:14:18.15748+00:00
 -- url     : https://prove2.me/submissions/739e5d7f-f7a0-4746-a7ed-030d4ce7f97d
 

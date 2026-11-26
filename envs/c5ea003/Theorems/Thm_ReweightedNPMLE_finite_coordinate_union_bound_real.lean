@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_finite_coordinate_union_bound_real
 -- name    : ReweightedNPMLE.finite_coordinate_union_bound_real
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:51.046314+00:00
 -- url     : https://prove2.me/theorems/fd722fcb-3bb9-5bcd-9e67-5f66bbf6950b
 -- title:

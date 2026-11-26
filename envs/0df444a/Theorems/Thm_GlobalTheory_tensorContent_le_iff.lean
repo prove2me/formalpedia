@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensorContent_le_iff
 -- name    : GlobalTheory.tensorContent_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:28.096532+00:00
 -- url     : https://prove2.me/theorems/5ca80526-ba2a-5d54-b111-6b36043f8797

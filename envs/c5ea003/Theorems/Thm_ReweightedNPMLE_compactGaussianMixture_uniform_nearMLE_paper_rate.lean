@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_compactGaussianMixture_uniform_nearMLE_paper_rate
 -- name    : ReweightedNPMLE.compactGaussianMixture_uniform_nearMLE_paper_rate
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:58.396226+00:00
 -- url     : https://prove2.me/theorems/1a49ea5e-ea06-53b7-aa17-0e1601b678c1
 -- title:

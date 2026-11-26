@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_exists_local_positive_weight_lower_bound
 -- name    : ReweightedNPMLE.exists_local_positive_weight_lower_bound
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:38:03.268238+00:00
 -- url     : https://prove2.me/theorems/f5f20448-9dfd-5406-abd9-45d1b7b76b47
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_criticalMultiplierExponent_nonneg
 -- name    : FirstPassageLinearTransport.criticalMultiplierExponent_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:52:22.516417+00:00
 -- url     : https://prove2.me/theorems/0851bd9c-8715-56f2-b46f-ce03b2924a1a

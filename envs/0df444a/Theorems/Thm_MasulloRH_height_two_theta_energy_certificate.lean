@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloRH_height_two_theta_energy_certificate
 -- name    : MasulloRH.height_two_theta_energy_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @scuba8684
 -- created : 2026-11-26T09:20:52.748002+00:00
 -- url     : https://prove2.me/theorems/cc487734-5ed4-5457-b10a-df505d0aef9e

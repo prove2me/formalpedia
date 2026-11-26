@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_canonical_maximumIndependentSupport_gamma_moment
 -- name    : ReweightedNPMLE.canonical_maximumIndependentSupport_gamma_moment
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:43:27.148261+00:00
 -- url     : https://prove2.me/theorems/21678491-8a24-4cef-a005-1a04fa361f44
 -- title:

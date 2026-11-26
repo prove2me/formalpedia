@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.finite_optimizer_directional_sensitivity_lower
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:03:16.037648+00:00
 -- url     : https://prove2.me/submissions/f0e58fae-5e88-4410-93e2-5584ab131bd2
 

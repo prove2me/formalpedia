@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_mul_inv_sub_eq_two_pi_I_mul_of_oriented_carrier
 -- name    : contourIntegral_mul_inv_sub_eq_two_pi_I_mul_of_oriented_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:16.455843+00:00
 -- url     : https://prove2.me/theorems/096b1ae8-d55b-41e0-8f18-29e374265be6

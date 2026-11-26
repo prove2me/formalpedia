@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.net_logLikelihoodRatio_ge_neg_two
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:05:29.163853+00:00
 -- url     : https://prove2.me/submissions/dfb08a96-a643-4915-ad43-991aa02cec6b
 

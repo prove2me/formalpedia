@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_intervalIntegral_smul_le_of_nonneg
 -- name    : norm_intervalIntegral_smul_le_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:59.587017+00:00
 -- url     : https://prove2.me/theorems/e2e60215-7867-478f-af22-a6b0230723c7

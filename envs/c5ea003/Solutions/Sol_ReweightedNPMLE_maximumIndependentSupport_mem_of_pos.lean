@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.maximumIndependentSupport_mem_of_pos
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:53:58.643562+00:00
 -- url     : https://prove2.me/submissions/f8c632df-a934-4ce9-b7a3-b33f604c6af2
 

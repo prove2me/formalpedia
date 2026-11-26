@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianTaylorApproximant_apply
 -- name    : ReweightedNPMLE.gaussianTaylorApproximant_apply
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:47:12.004785+00:00
 -- url     : https://prove2.me/theorems/bc6b36bf-4f0f-47aa-a94f-1e6fa6ea164c
 -- title:

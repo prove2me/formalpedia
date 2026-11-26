@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_continuousOn_evolution
 -- name    : Eden.continuousOn_evolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:38.999438+00:00
 -- url     : https://prove2.me/theorems/9535fbe5-f7a5-4290-9039-cf341a3740d7

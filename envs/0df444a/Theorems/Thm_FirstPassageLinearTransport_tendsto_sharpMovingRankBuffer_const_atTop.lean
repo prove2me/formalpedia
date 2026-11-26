@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tendsto_sharpMovingRankBuffer_const_atTop
 -- name    : FirstPassageLinearTransport.tendsto_sharpMovingRankBuffer_const_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:53:17.893794+00:00
 -- url     : https://prove2.me/theorems/8fd73399-ba58-584a-aae7-dcd62b4a31c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialBoundaryPhaseTransform_zero
 -- name    : crouzeixPolynomialBoundaryPhaseTransform_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:27.066255+00:00
 -- url     : https://prove2.me/theorems/05d12c67-4954-46a5-95ea-eb32fe7160da

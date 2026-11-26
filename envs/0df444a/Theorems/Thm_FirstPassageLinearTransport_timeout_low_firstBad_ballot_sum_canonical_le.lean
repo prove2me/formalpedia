@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeout_low_firstBad_ballot_sum_canonical_le
 -- name    : FirstPassageLinearTransport.timeout_low_firstBad_ballot_sum_canonical_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:26:02.300092+00:00
 -- url     : https://prove2.me/theorems/b9c20137-1e32-5a3b-8eb4-7a5e689e24a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rawLogDeviation_intermediate
 -- name    : FirstPassageLinearTransport.rawLogDeviation_intermediate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:49:14.056892+00:00
 -- url     : https://prove2.me/theorems/719843a4-e5d0-4e57-8ffa-98b80f50c1a5

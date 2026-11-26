@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_half_le_reciprocalMaximum_halfShell_correction
 -- name    : FirstPassageLinearTransport.eventually_half_le_reciprocalMaximum_halfShell_correction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:56:20.082528+00:00
 -- url     : https://prove2.me/theorems/8f8854e9-01be-4494-819d-ae7ff67820e4

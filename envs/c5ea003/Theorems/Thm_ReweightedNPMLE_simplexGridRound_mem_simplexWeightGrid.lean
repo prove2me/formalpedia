@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_simplexGridRound_mem_simplexWeightGrid
 -- name    : ReweightedNPMLE.simplexGridRound_mem_simplexWeightGrid
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:12.979337+00:00
 -- url     : https://prove2.me/theorems/c7de5afb-68db-495d-8f6c-2afbd8827bc4
 -- title:

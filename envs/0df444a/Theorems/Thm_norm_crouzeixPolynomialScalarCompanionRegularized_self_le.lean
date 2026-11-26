@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_crouzeixPolynomialScalarCompanionRegularized_self_le
 -- name    : norm_crouzeixPolynomialScalarCompanionRegularized_self_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:49.995798+00:00
 -- url     : https://prove2.me/theorems/3cdebc3a-21cb-4a1c-ad5e-d18235270d25

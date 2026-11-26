@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_neg_sub_log_one_sub_ge_sq_div_two
 -- name    : ReweightedNPMLE.neg_sub_log_one_sub_ge_sq_div_two
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:09.00382+00:00
 -- url     : https://prove2.me/theorems/8554f5f0-1792-43c6-abdd-2875089f3b4c
 -- title:

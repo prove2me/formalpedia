@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_tendsto_infDist_frontier_cocompact_atTop
 -- name    : tendsto_infDist_frontier_cocompact_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:58:00.123938+00:00
 -- url     : https://prove2.me/theorems/f99a2ce4-ed7d-5bc6-a7eb-a482372dbca7

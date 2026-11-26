@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_convexThickening_cauchy_support_boundaryPhase_approximation
 -- name    : crouzeix_palencia_of_convexThickening_cauchy_support_boundaryPhase_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:01.146151+00:00
 -- url     : https://prove2.me/theorems/6fccc78b-ed93-517f-b12b-3384f713fea8

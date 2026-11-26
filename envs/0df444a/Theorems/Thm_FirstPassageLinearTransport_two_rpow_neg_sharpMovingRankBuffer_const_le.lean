@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_two_rpow_neg_sharpMovingRankBuffer_const_le
 -- name    : FirstPassageLinearTransport.two_rpow_neg_sharpMovingRankBuffer_const_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:53:32.976461+00:00
 -- url     : https://prove2.me/theorems/3011b25e-e9b3-54ad-bf3c-ae72f7234863

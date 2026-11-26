@@ -82197,16 +82197,16 @@
 {"parent": "QEC.Bounds.BPTEntropy.normalizedFullCodeProjector_entropy_eq_encodedQubits", "child": "QEC_Bounds_GeometricLocalityTradeoff_Entropy", "via": ["solution", "statement"]}
 {"parent": "QuerySampleRev_InFamily", "child": "QuerySampleRev_rStar", "via": ["statement"]}
 {"parent": "QuerySampleRev_InFamily", "child": "QuerySampleRev_IsQuasiMHR", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_5", "child": "OnlineCRS_Combine_encInt", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_5", "child": "OnlineCRS_Combine_encVec", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_5", "child": "IntConeFPT_Problem", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_5", "child": "OnlineCRS_Combine_Sym", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_5", "child": "IntConeFPT_Formulation", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_5", "child": "OnlineCRS_Combine_encRat", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_5", "child": "IntConeFPT_Machine", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_5", "child": "IntConeFPT_Instance", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_5", "child": "IntConeFPT_Residue", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_5", "child": "OnlineCRS_Combine_encNat", "via": ["statement"]}
+{"parent": "IntConeFPT.lemma_5", "child": "OnlineCRS_Combine_encInt", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_5", "child": "OnlineCRS_Combine_encVec", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_5", "child": "IntConeFPT_Problem", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_5", "child": "OnlineCRS_Combine_Sym", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_5", "child": "IntConeFPT_Formulation", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_5", "child": "OnlineCRS_Combine_encRat", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_5", "child": "IntConeFPT_Machine", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_5", "child": "IntConeFPT_Instance", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_5", "child": "IntConeFPT_Residue", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_5", "child": "OnlineCRS_Combine_encNat", "via": ["solution", "statement"]}
 {"parent": "ConstrSOSP_ValidBox", "child": "ConstrSOSP_IsApproxKKT", "via": ["statement"]}
 {"parent": "ConstrSOSP_ValidBox", "child": "ConstrSOSP_NoViolation", "via": ["statement"]}
 {"parent": "ConstrSOSP_ValidBox", "child": "ConstrSOSP_boxB", "via": ["statement"]}

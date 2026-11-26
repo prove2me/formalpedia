@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_radialAmplitude_zero_time
 -- name    : Eden.radialAmplitude_zero_time
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:07:14.336313+00:00
 -- url     : https://prove2.me/theorems/2c0dff57-b50f-4539-801f-c1a12f80c208

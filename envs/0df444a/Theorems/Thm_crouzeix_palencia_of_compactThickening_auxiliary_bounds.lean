@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_compactThickening_auxiliary_bounds
 -- name    : crouzeix_palencia_of_compactThickening_auxiliary_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:51:59.423998+00:00
 -- url     : https://prove2.me/theorems/fc224702-2ab6-4b03-9c32-c99a4b1c59f3

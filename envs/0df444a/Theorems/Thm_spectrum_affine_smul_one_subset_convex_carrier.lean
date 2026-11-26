@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_spectrum_affine_smul_one_subset_convex_carrier
 -- name    : spectrum_affine_smul_one_subset_convex_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:53.547137+00:00
 -- url     : https://prove2.me/theorems/05000986-9958-4fa0-aed3-77c773e433a7

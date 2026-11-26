@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polyContent_eq_of_le_one
 -- name    : GlobalTheory.polyContent_eq_of_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:49:34.828559+00:00
 -- url     : https://prove2.me/theorems/ecb23aa2-b41f-5a5c-b5ff-e4635054e094

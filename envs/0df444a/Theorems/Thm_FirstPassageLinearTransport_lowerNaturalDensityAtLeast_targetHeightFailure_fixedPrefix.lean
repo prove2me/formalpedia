@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_lowerNaturalDensityAtLeast_targetHeightFailure_fixedPrefix
 -- name    : FirstPassageLinearTransport.lowerNaturalDensityAtLeast_targetHeightFailure_fixedPrefix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:35.787823+00:00
 -- url     : https://prove2.me/theorems/96f4f5d9-3081-5aad-b9cb-d329f780e8e9

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_real_exp_taylor_remainder_bound
 -- name    : ReweightedNPMLE.real_exp_taylor_remainder_bound
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:35:55.909468+00:00
 -- url     : https://prove2.me/theorems/fb9b5c4b-0ff9-44ba-a43a-4cc61165b30e
 -- title:

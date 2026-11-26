@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianSampling
 -- name    : ReweightedNPMLE_GaussianSampling
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:26:00.963822+00:00
 -- url     : https://prove2.me/theorems/b17504a2-2d0a-5f0a-82f7-ee3457873af5
 -- title:

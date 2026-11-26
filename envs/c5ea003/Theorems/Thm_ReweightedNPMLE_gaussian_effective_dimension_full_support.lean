@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_effective_dimension_full_support
 -- name    : ReweightedNPMLE.gaussian_effective_dimension_full_support
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:51.871085+00:00
 -- url     : https://prove2.me/theorems/0576c00e-d345-55cc-98b7-3b1be6fdcb8f
 -- title:

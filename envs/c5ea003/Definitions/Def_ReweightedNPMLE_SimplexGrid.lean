@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_SimplexGrid
 -- name    : ReweightedNPMLE_SimplexGrid
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:24:34.320131+00:00
 -- url     : https://prove2.me/theorems/8c569796-e6af-4a2f-89be-84838f597861
 -- title:

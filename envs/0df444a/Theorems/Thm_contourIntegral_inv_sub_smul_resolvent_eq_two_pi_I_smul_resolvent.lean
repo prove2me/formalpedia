@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_inv_sub_smul_resolvent_eq_two_pi_I_smul_resolvent
 -- name    : contourIntegral_inv_sub_smul_resolvent_eq_two_pi_I_smul_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:27.716461+00:00
 -- url     : https://prove2.me/theorems/7d070d8c-fc13-5b3d-97bc-082ae685ce4c

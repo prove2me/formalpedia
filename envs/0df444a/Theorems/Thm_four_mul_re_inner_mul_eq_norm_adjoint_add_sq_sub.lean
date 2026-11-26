@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_four_mul_re_inner_mul_eq_norm_adjoint_add_sq_sub
 -- name    : four_mul_re_inner_mul_eq_norm_adjoint_add_sq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:50:46.680075+00:00
 -- url     : https://prove2.me/theorems/cfef5454-bd29-4e3d-b656-a38a2f2c6580

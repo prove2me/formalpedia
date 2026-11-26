@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_periodicMultiplicativeHitBlock_subset_targetHeightFailure
 -- name    : FirstPassageLinearTransport.periodicMultiplicativeHitBlock_subset_targetHeightFailure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:38.629116+00:00
 -- url     : https://prove2.me/theorems/49f08db2-200c-4153-b974-992f0374fd34

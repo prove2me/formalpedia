@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.sum_abs_simplexGridRound_sub_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:04:40.272817+00:00
 -- url     : https://prove2.me/submissions/a88b6319-c978-486f-a897-3a42c1ef3b73
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_MeasureExtremeSupport
 -- name    : ReweightedNPMLE_MeasureExtremeSupport
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:25:18.86806+00:00
 -- url     : https://prove2.me/theorems/4c54c7c9-110f-5e08-9baa-85359ef8300f
 -- title:

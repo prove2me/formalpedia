@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PowerSeriesCoeffGaps_coeff_eq_zero_of_symm
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.coeff_eq_zero_of_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:25:32.513086+00:00
 -- url     : https://prove2.me/theorems/caaf5957-e1a7-5904-8dbe-af98512a99fa

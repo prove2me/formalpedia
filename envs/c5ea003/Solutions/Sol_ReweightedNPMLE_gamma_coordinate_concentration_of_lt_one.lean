@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gamma_coordinate_concentration_of_lt_one
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:11:52.190549+00:00
 -- url     : https://prove2.me/submissions/ce502638-70dd-4a7d-a475-19c63751ad2f
 

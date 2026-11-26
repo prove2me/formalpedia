@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianNetHellingerSqError_256_le
 -- name    : ReweightedNPMLE.eventually_gaussianNetHellingerSqError_256_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:45:55.319611+00:00
 -- url     : https://prove2.me/theorems/3d7433f1-3f40-4c48-9e27-bf0c9c2e0a4a
 -- title:

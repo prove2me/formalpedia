@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_measurableSet_gaussian_optimizer_support_failure
 -- name    : ReweightedNPMLE.measurableSet_gaussian_optimizer_support_failure
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:49:17.121965+00:00
 -- url     : https://prove2.me/theorems/637ddb37-c54c-4447-a05d-23666d70dcc2
 -- title:

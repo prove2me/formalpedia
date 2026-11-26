@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutSeparatedFailureEnvelope_density_sharp_le
 -- name    : FirstPassageLinearTransport.timeoutSeparatedFailureEnvelope_density_sharp_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:46:31.984958+00:00
 -- url     : https://prove2.me/theorems/bca86c84-edc7-49f0-97a7-ac06bd5b9931

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_clearedExpansion
 -- name    : FourierJacobi.Algebra.clearedExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:13:40.283556+00:00
 -- url     : https://prove2.me/theorems/4b88923a-cf00-4293-aece-2427d76b0ae4

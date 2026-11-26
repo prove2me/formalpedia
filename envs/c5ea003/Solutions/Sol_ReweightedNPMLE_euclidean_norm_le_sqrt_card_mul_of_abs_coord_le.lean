@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.euclidean_norm_le_sqrt_card_mul_of_abs_coord_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:06:02.650997+00:00
 -- url     : https://prove2.me/submissions/1e3e7603-13d1-405a-a96f-360f21a9a63d
 

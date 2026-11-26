@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_orbit_gt_mul_of_mem_shellPrefixMultiplicativeHit
 -- name    : FirstPassageLinearTransport.exists_orbit_gt_mul_of_mem_shellPrefixMultiplicativeHit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:53:57.816842+00:00
 -- url     : https://prove2.me/theorems/df86dc32-1d16-51a3-8b5e-3d80fd7dcc88

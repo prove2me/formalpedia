@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.moment_matching_truncated_quadratic_zero
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:03:43.375163+00:00
 -- url     : https://prove2.me/submissions/f58f7738-cf39-4d4c-9537-ba4db65d72c6
 

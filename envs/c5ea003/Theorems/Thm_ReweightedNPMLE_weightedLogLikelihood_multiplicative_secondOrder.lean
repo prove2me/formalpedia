@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_weightedLogLikelihood_multiplicative_secondOrder
 -- name    : ReweightedNPMLE.weightedLogLikelihood_multiplicative_secondOrder
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:46.193032+00:00
 -- url     : https://prove2.me/theorems/1ab6226f-d359-5e45-88d4-ca0ce0ce1013
 -- title:

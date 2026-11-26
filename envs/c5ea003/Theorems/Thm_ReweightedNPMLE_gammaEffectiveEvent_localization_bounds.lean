@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gammaEffectiveEvent_localization_bounds
 -- name    : ReweightedNPMLE.gammaEffectiveEvent_localization_bounds
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:26.76175+00:00
 -- url     : https://prove2.me/theorems/035435c1-0ea5-47de-bfca-54ddc194e94c
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_uniform_nearMLE_paper_theorem
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:20:00.83742+00:00
 -- url     : https://prove2.me/submissions/bf76c700-a75e-47d3-8465-a8f2fd5df859
 

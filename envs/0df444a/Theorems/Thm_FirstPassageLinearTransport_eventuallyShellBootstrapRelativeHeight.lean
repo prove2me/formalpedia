@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventuallyShellBootstrapRelativeHeight
 -- name    : FirstPassageLinearTransport.eventuallyShellBootstrapRelativeHeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:34:13.813048+00:00
 -- url     : https://prove2.me/theorems/713c4d3c-13b1-58fe-99c0-f282ada136ed

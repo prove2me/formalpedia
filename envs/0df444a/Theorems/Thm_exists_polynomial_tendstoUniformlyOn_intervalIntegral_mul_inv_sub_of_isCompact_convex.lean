@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_polynomial_tendstoUniformlyOn_intervalIntegral_mul_inv_sub_of_isCompact_convex
 -- name    : exists_polynomial_tendstoUniformlyOn_intervalIntegral_mul_inv_sub_of_isCompact_convex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:21.801311+00:00
 -- url     : https://prove2.me/theorems/74de5564-7fbb-4509-a1ee-4c93d80e9638

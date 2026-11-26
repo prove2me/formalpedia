@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_smoothJordanDomain_norm_bound_crouzeixPolynomialAuxiliaryOperator
 -- name    : exists_smoothJordanDomain_norm_bound_crouzeixPolynomialAuxiliaryOperator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:03:18.256739+00:00
 -- url     : https://prove2.me/theorems/e30bca02-c3cf-530d-992d-e561ef9e357a

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.measurableSet_exists_closed_relation_strict_gap
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:14:35.405802+00:00
 -- url     : https://prove2.me/submissions/c893e63b-0c0c-4d5a-9569-1e63b95473da
 

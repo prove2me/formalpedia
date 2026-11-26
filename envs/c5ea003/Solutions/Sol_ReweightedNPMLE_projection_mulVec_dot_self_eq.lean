@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.projection_mulVec_dot_self_eq
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:00:22.181541+00:00
 -- url     : https://prove2.me/submissions/9bf3037b-6565-4b01-a78c-99f46ca31a75
 

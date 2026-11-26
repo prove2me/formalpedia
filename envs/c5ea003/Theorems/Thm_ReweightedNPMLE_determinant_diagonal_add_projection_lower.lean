@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_determinant_diagonal_add_projection_lower
 -- name    : ReweightedNPMLE.determinant_diagonal_add_projection_lower
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:39:02.172221+00:00
 -- url     : https://prove2.me/theorems/b9bc2659-ec8d-40af-8e0d-f01a874806b1
 -- title:

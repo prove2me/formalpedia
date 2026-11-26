@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.coordinateLog_lipschitzOn
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:53:29.892918+00:00
 -- url     : https://prove2.me/submissions/4b04e113-4993-4b06-a58c-bbbab6527b1b
 

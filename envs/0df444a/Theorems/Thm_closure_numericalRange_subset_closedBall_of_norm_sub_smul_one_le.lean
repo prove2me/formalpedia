@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_closure_numericalRange_subset_closedBall_of_norm_sub_smul_one_le
 -- name    : closure_numericalRange_subset_closedBall_of_norm_sub_smul_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:59:42.285713+00:00
 -- url     : https://prove2.me/theorems/b27b4315-cc21-5294-9c1f-7cdfb7e629aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialBoundaryPhaseTransform_smul
 -- name    : crouzeixPolynomialBoundaryPhaseTransform_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:58:33.418884+00:00
 -- url     : https://prove2.me/theorems/070a4cde-54f4-4aee-aff3-f090231365cd

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_analyticAt_gaussianDependenceFamily_joint
 -- name    : ReweightedNPMLE.analyticAt_gaussianDependenceFamily_joint
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:34.373068+00:00
 -- url     : https://prove2.me/theorems/261c8d0c-626b-5773-a39f-6b32be980462
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianMomentHellingerError_le_stirling
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:07:43.524556+00:00
 -- url     : https://prove2.me/submissions/b92c5a2a-5cf3-43c5-b836-21993be2ec61
 

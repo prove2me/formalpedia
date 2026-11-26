@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_sqrt_mul_sqrt_le_of_pos
 -- name    : sqrt_mul_sqrt_le_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:48.8488+00:00
 -- url     : https://prove2.me/theorems/bb66f187-9c41-516c-a748-d6f7de6ce9d9

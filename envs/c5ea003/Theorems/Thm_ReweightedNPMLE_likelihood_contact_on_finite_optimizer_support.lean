@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_likelihood_contact_on_finite_optimizer_support
 -- name    : ReweightedNPMLE.likelihood_contact_on_finite_optimizer_support
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:42.432842+00:00
 -- url     : https://prove2.me/theorems/ea1d3f2a-1841-5396-94ea-d5ba04aa7a53
 -- title:

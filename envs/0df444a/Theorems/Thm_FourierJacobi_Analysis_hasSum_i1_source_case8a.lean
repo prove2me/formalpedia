@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i1_source_case8a
 -- name    : FourierJacobi.Analysis.hasSum_i1_source_case8a
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:49:39.483041+00:00
 -- url     : https://prove2.me/theorems/ac39ff64-5491-5e36-828d-4453519e486f

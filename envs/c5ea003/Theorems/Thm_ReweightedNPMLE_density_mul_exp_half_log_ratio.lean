@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_density_mul_exp_half_log_ratio
 -- name    : ReweightedNPMLE.density_mul_exp_half_log_ratio
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:42.357014+00:00
 -- url     : https://prove2.me/theorems/3457ca0e-351e-47fa-be5c-ee1e0232fdec
 -- title:

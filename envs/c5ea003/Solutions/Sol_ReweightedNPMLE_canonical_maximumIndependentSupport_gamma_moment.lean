@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.canonical_maximumIndependentSupport_gamma_moment
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:07:54.294433+00:00
 -- url     : https://prove2.me/submissions/c2922358-2840-4763-b79e-3f21bd5a5069
 

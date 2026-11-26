@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_ballotMultiplier_finTwoEquiv
 -- name    : FirstPassageLinearTransport.ballotMultiplier_finTwoEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:45:34.644618+00:00
 -- url     : https://prove2.me/theorems/c4939b8f-2fb2-401a-8310-bbe8d82d6214

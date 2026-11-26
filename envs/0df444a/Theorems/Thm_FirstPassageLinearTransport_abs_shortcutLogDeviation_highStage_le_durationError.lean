@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_abs_shortcutLogDeviation_highStage_le_durationError
 -- name    : FirstPassageLinearTransport.abs_shortcutLogDeviation_highStage_le_durationError
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:49:52.356304+00:00
 -- url     : https://prove2.me/theorems/dd720cae-2ff7-5990-8a16-487cd6956bf3

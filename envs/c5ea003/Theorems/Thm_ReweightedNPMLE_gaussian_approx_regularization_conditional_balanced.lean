@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_approx_regularization_conditional_balanced
 -- name    : ReweightedNPMLE.gaussian_approx_regularization_conditional_balanced
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:49:58.438235+00:00
 -- url     : https://prove2.me/theorems/fd469a4b-e9d3-48ce-9f33-fd3b69a40972
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_tendsto_dampedRational_special_negative
 -- name    : FourierJacobi.Analysis.tendsto_dampedRational_special_negative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:36.416574+00:00
 -- url     : https://prove2.me/theorems/0fd7abf9-6ce8-4155-a9cd-82e9d9fee354

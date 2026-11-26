@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_Hellinger
 -- name    : ReweightedNPMLE_Hellinger
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:15:32.411077+00:00
 -- url     : https://prove2.me/theorems/32db0771-4c24-4d82-af94-1bb13c72044b
 -- title:

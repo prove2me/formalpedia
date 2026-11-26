@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_brownianWickChainCompatible_of_hermiteMultipleIntegralIdentity
 -- name    : Malliavin.BrownianIteratedConstruction.brownianWickChainCompatible_of_hermiteMultipleIntegralIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:09:53.996551+00:00
 -- url     : https://prove2.me/theorems/256d9f1c-cb3f-53d1-978a-46f73888e5a8

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_finite_extreme_optimizer_hessian_determinant_lower
 -- name    : ReweightedNPMLE.finite_extreme_optimizer_hessian_determinant_lower
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:42:01.296087+00:00
 -- url     : https://prove2.me/theorems/bd7debaa-282b-455d-b486-0a7eddd505d3
 -- title:

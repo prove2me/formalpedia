@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i1_master_of_geometricRange
 -- name    : FourierJacobi.Analysis.hasSum_i1_master_of_geometricRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:30.632535+00:00
 -- url     : https://prove2.me/theorems/9b39c3b9-ba8c-5a7c-8220-0636bb3aa7aa

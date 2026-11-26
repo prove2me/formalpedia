@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_product_exp_half_log_ratio_integral
 -- name    : ReweightedNPMLE.product_exp_half_log_ratio_integral
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:42:13.340571+00:00
 -- url     : https://prove2.me/theorems/3b5079f9-06cd-40ea-9d36-12d33fbfb586
 -- title:

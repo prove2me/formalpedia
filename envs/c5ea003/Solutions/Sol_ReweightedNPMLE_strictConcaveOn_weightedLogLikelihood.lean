@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.strictConcaveOn_weightedLogLikelihood
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:03.9757+00:00
 -- url     : https://prove2.me/submissions/7b45251a-706e-4c5f-ba8e-0774c95e931a
 

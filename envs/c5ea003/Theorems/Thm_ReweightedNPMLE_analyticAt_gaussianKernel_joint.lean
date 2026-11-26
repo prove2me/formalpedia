@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_analyticAt_gaussianKernel_joint
 -- name    : ReweightedNPMLE.analyticAt_gaussianKernel_joint
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:15.082719+00:00
 -- url     : https://prove2.me/theorems/8f0aefb0-cfc2-513c-bcb9-f261e753da79
 -- title:

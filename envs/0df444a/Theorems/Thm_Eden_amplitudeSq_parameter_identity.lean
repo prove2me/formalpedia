@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_amplitudeSq_parameter_identity
 -- name    : Eden.amplitudeSq_parameter_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:18.959352+00:00
 -- url     : https://prove2.me/theorems/00cfbaa3-1bb3-45b0-92d5-aa2881d63fc7

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianMomentDimension_le_logScale_pow
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:08:32.650504+00:00
 -- url     : https://prove2.me/submissions/df3d47b8-c836-4adf-b49c-3c6d3c4f8a62
 

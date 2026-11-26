@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianKernel_location_exp_bounds
 -- name    : ReweightedNPMLE.gaussianKernel_location_exp_bounds
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:36:36.815067+00:00
 -- url     : https://prove2.me/theorems/e82cff4e-2b83-4037-b4a5-6874c03a769a
 -- title:

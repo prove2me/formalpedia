@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.general_finite_quadratic_eq_remainder_of_moment_match
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:04:26.461085+00:00
 -- url     : https://prove2.me/submissions/7e4de4df-bf25-4dc2-ae2e-d1c25911367a
 

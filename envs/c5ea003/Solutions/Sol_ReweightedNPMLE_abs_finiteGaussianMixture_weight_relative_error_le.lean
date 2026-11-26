@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.abs_finiteGaussianMixture_weight_relative_error_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:53:12.810865+00:00
 -- url     : https://prove2.me/submissions/26689aef-6710-4606-a2c2-d396b277ca38
 

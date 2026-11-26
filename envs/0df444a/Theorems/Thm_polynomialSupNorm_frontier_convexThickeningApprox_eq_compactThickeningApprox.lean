@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_polynomialSupNorm_frontier_convexThickeningApprox_eq_compactThickeningApprox
 -- name    : polynomialSupNorm_frontier_convexThickeningApprox_eq_compactThickeningApprox
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:07.688864+00:00
 -- url     : https://prove2.me/theorems/c50d8229-108a-41ef-945b-c9b8f22eadb3

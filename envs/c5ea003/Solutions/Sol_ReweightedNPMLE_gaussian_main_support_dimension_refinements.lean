@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_main_support_dimension_refinements
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:24:04.699306+00:00
 -- url     : https://prove2.me/submissions/5c3e9f75-ac39-4968-bd25-dce74ed1de6c
 

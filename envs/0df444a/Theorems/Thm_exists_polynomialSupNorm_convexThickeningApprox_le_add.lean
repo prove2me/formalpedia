@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_polynomialSupNorm_convexThickeningApprox_le_add
 -- name    : exists_polynomialSupNorm_convexThickeningApprox_le_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:22.096386+00:00
 -- url     : https://prove2.me/theorems/fb3dabf9-c527-458c-a5af-d37e3f9d57dd

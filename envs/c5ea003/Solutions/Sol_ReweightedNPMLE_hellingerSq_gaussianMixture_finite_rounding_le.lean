@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.hellingerSq_gaussianMixture_finite_rounding_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:07:41.820277+00:00
 -- url     : https://prove2.me/submissions/73d97c4a-56c7-496b-b743-3d7bf2bae052
 

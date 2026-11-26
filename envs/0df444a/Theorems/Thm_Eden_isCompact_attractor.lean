@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_isCompact_attractor
 -- name    : Eden.isCompact_attractor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:08:52.045835+00:00
 -- url     : https://prove2.me/theorems/2c3b213f-056a-5a6b-9a23-9ff514fa41c1

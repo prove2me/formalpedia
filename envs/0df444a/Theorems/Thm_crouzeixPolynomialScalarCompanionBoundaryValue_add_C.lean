@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionBoundaryValue_add_C
 -- name    : crouzeixPolynomialScalarCompanionBoundaryValue_add_C
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:03:49.870155+00:00
 -- url     : https://prove2.me/theorems/765ac028-4ffe-501e-b083-495c13c45ec3

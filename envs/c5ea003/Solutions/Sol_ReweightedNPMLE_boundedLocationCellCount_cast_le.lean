@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.boundedLocationCellCount_cast_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:53:06.060988+00:00
 -- url     : https://prove2.me/submissions/9339dbec-6579-4031-8186-353487543999
 

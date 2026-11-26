@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_norm_le_two_of_mem_attractor
 -- name    : Eden.norm_le_two_of_mem_attractor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:08:47.425011+00:00
 -- url     : https://prove2.me/theorems/1906fb18-71df-453b-89fe-fa131b436226

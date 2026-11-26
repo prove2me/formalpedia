@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.abs_log_rounded_finiteGaussianMixture_sub_gaussianMixture_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:00:54.020931+00:00
 -- url     : https://prove2.me/submissions/cee748ff-ac66-4a22-85ce-acbb5a9a60f7
 

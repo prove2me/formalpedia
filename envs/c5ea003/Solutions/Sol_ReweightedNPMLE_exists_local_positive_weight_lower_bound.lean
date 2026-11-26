@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.exists_local_positive_weight_lower_bound
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:59:26.600797+00:00
 -- url     : https://prove2.me/submissions/6f55e322-9b0e-4440-8c06-59d907c0c83f
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gamma_max_coordinate_concentration
 -- name    : ReweightedNPMLE.gamma_max_coordinate_concentration
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:46:38.920801+00:00
 -- url     : https://prove2.me/theorems/9f04491e-713e-4366-b799-e3eb6c798c8a
 -- title:

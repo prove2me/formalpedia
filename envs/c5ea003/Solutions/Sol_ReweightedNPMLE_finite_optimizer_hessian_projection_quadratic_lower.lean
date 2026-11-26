@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.finite_optimizer_hessian_projection_quadratic_lower
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:04:14.223789+00:00
 -- url     : https://prove2.me/submissions/ee0095fe-727a-49fd-987e-3f48b3a23e0e
 

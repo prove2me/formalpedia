@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_normalized_card_shellMultiplicativeHit_le_inv
 -- name    : FirstPassageLinearTransport.normalized_card_shellMultiplicativeHit_le_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:45:31.65616+00:00
 -- url     : https://prove2.me/theorems/c6184967-2a62-4606-b7dc-3563448607ef

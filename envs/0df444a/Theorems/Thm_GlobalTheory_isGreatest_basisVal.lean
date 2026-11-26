@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isGreatest_basisVal
 -- name    : GlobalTheory.isGreatest_basisVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:08.392175+00:00
 -- url     : https://prove2.me/theorems/c5c71357-8581-53d1-a15a-fea7291f3c01

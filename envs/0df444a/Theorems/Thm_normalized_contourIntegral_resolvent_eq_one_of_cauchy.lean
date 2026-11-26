@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_normalized_contourIntegral_resolvent_eq_one_of_cauchy
 -- name    : normalized_contourIntegral_resolvent_eq_one_of_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:52:36.594795+00:00
 -- url     : https://prove2.me/theorems/47bc1f4d-f559-55fa-abd1-948ff8809ab0

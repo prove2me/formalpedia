@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianKernel_product_div_density_comp_integrable_prod
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:04:53.247719+00:00
 -- url     : https://prove2.me/submissions/83d7e8f2-e505-4c55-85ef-43c698e35dd5
 

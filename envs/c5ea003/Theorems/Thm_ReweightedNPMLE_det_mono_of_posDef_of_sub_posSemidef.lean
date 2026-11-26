@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_det_mono_of_posDef_of_sub_posSemidef
 -- name    : ReweightedNPMLE.det_mono_of_posDef_of_sub_posSemidef
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:38:32.617489+00:00
 -- url     : https://prove2.me/theorems/147908b4-9940-5020-a781-1c6d0bab9db5
 -- title:

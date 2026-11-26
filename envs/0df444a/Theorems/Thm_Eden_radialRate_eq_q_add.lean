@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_radialRate_eq_q_add
 -- name    : Eden.radialRate_eq_q_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:48.781508+00:00
 -- url     : https://prove2.me/theorems/bf937439-14b4-5b53-b4bd-dd3709274890

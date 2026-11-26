@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutSource_terminal_or_failure
 -- name    : FirstPassageLinearTransport.timeoutSource_terminal_or_failure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:26:49.731659+00:00
 -- url     : https://prove2.me/theorems/5d9b5a7d-2719-4003-afa3-34ed6b0eb0b9

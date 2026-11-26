@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_det_diagonal_add_weight_mul_eq_sqrt_conj
 -- name    : ReweightedNPMLE.det_diagonal_add_weight_mul_eq_sqrt_conj
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:37:32.454313+00:00
 -- url     : https://prove2.me/theorems/7e8d3736-7d61-5708-9429-53814b132f6f
 -- title:

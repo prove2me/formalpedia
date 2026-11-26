@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_hellingerSq_eq_integrals
 -- name    : ReweightedNPMLE.hellingerSq_eq_integrals
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:40:56.473104+00:00
 -- url     : https://prove2.me/theorems/5183cf5b-a1b1-40f4-bdf4-a099e7eb4fa6
 -- title:

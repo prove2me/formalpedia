@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rawFirstPassageTime_centered_profile
 -- name    : FirstPassageLinearTransport.rawFirstPassageTime_centered_profile
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:49:46.528097+00:00
 -- url     : https://prove2.me/theorems/42268d35-78cc-4778-bf01-29d02631801c

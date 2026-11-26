@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianFittedSet_lower_bound
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:13:09.695317+00:00
 -- url     : https://prove2.me/submissions/7f6a1d79-3908-431d-a37e-da932ad41097
 

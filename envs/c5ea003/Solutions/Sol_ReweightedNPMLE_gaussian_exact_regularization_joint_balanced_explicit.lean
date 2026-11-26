@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_exact_regularization_joint_balanced_explicit
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:22:03.464442+00:00
 -- url     : https://prove2.me/submissions/06e29fc0-2b79-4c7c-990a-99d4edf2ab3b
 

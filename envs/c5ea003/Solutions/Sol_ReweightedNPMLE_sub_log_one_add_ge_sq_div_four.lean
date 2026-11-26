@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.sub_log_one_add_ge_sq_div_four
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:09:43.101082+00:00
 -- url     : https://prove2.me/submissions/d3abba4f-87fa-437b-9d1b-4bc9bd6b4984
 

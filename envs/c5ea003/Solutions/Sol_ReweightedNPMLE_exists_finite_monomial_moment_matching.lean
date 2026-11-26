@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.exists_finite_monomial_moment_matching
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:03:17.711845+00:00
 -- url     : https://prove2.me/submissions/cfdd0a5a-9ae2-483b-87f7-81bcc9cf8f9a
 

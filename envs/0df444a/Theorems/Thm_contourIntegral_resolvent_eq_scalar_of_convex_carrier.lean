@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_resolvent_eq_scalar_of_convex_carrier
 -- name    : contourIntegral_resolvent_eq_scalar_of_convex_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:49.117123+00:00
 -- url     : https://prove2.me/theorems/36f16cdc-f553-4e24-a5c9-326a86044250

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_commute_aeval_resolvent
 -- name    : commute_aeval_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:34.117245+00:00
 -- url     : https://prove2.me/theorems/b899e28e-ac51-5926-b806-e9e1f57297c7

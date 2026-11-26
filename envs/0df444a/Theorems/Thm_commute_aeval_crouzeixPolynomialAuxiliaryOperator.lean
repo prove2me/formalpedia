@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_commute_aeval_crouzeixPolynomialAuxiliaryOperator
 -- name    : commute_aeval_crouzeixPolynomialAuxiliaryOperator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:59.954905+00:00
 -- url     : https://prove2.me/theorems/5afc2854-cf0a-4eea-9ac3-747a07e99ac8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_normalized_card_shellTargetHeightFailure_ge_reciprocal
 -- name    : FirstPassageLinearTransport.normalized_card_shellTargetHeightFailure_ge_reciprocal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:29.710061+00:00
 -- url     : https://prove2.me/theorems/1d7d9f2e-18d0-443a-ae4d-c54cdfeca184

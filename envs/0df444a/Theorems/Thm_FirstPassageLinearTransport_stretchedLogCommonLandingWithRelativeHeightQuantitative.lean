@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stretchedLogCommonLandingWithRelativeHeightQuantitative
 -- name    : FirstPassageLinearTransport.stretchedLogCommonLandingWithRelativeHeightQuantitative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:05.974469+00:00
 -- url     : https://prove2.me/theorems/fb8f1e91-9fb8-4d9d-ad5c-865001ddd457

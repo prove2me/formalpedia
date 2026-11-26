@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_integral_gaussianMixture_sub_finite_sq_div_density
 -- name    : ReweightedNPMLE.integral_gaussianMixture_sub_finite_sq_div_density
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:43:01.7412+00:00
 -- url     : https://prove2.me/theorems/61b9cd2e-12f7-5ee0-a98e-00ccbf51c685
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_finiteRegular_special_negative
 -- name    : FourierJacobi.Algebra.finiteRegular_special_negative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:19:52.018843+00:00
 -- url     : https://prove2.me/theorems/747be4e3-7895-4325-97bc-e63c97acc6c7

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_effectiveQ_gaussianPaperStructuralTail_le_nat
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:10:07.707878+00:00
 -- url     : https://prove2.me/submissions/ce323353-b1d6-4e4e-b8a4-87b12ce69aaf
 

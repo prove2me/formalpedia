@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_multiplicative_prefix_le_of_not_crosses
 -- name    : FirstPassageLinearTransport.multiplicative_prefix_le_of_not_crosses
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:45:14.864425+00:00
 -- url     : https://prove2.me/theorems/c9568f52-e45a-4acf-b3db-d589ce0b3a70

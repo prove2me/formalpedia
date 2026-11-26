@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_eval_sub_C_eval_eq_zero
 -- name    : eval_sub_C_eval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:26.938012+00:00
 -- url     : https://prove2.me/theorems/d7a277be-827e-46a5-88a3-b6018cf3d1dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_compactThickeningApprox_infinite
 -- name    : compactThickeningApprox_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:49:43.64693+00:00
 -- url     : https://prove2.me/theorems/c1ea9e97-0237-5a5f-b55c-5e04331bc28c

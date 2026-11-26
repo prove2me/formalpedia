@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_hasDerivAt_log_planarAmplitude
 -- name    : Eden.hasDerivAt_log_planarAmplitude
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:07:21.35422+00:00
 -- url     : https://prove2.me/theorems/4a313b14-3797-53d7-acef-5f29cd0059ce

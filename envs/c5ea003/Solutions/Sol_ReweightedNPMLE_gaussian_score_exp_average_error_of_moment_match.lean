@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_score_exp_average_error_of_moment_match
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:03:59.466147+00:00
 -- url     : https://prove2.me/submissions/9dea0328-7b0c-4cbf-bc8a-3506081b450c
 

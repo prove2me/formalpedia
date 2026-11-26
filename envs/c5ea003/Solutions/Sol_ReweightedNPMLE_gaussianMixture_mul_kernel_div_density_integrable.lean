@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianMixture_mul_kernel_div_density_integrable
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:05:42.675838+00:00
 -- url     : https://prove2.me/submissions/d060b70d-aa85-431d-9f51-e9848a7da1a3
 

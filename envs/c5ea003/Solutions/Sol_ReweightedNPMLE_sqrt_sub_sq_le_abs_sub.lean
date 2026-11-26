@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.sqrt_sub_sq_le_abs_sub
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:04:04.606783+00:00
 -- url     : https://prove2.me/submissions/7ded26ca-d66d-43e8-bec4-3ecf81258e6b
 

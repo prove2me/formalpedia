@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_half_separated_sphere_card_le_five_pow
 -- name    : ReweightedNPMLE.half_separated_sphere_card_le_five_pow
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:56.793319+00:00
 -- url     : https://prove2.me/theorems/c3707f59-212c-4a32-86df-d76692435916
 -- title:

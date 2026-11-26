@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_finite_optimizer_hessian_sub_projection_posSemidef
 -- name    : ReweightedNPMLE.finite_optimizer_hessian_sub_projection_posSemidef
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:35.793936+00:00
 -- url     : https://prove2.me/theorems/3ca85edd-c48f-5422-8c57-1dd4c240da45
 -- title:

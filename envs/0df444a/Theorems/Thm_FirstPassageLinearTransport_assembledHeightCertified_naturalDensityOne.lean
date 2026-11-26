@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_assembledHeightCertified_naturalDensityOne
 -- name    : FirstPassageLinearTransport.assembledHeightCertified_naturalDensityOne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:15.641811+00:00
 -- url     : https://prove2.me/theorems/6b82f63c-87b0-5148-ba59-186acb86e85f

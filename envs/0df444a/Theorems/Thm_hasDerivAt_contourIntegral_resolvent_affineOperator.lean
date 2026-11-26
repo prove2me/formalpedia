@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hasDerivAt_contourIntegral_resolvent_affineOperator
 -- name    : hasDerivAt_contourIntegral_resolvent_affineOperator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:04.268324+00:00
 -- url     : https://prove2.me/theorems/06a1bf61-abd0-464c-b866-cfeff4683e27

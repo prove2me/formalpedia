@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianLocationMixtureSample_max_radius_tail
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:10:19.740583+00:00
 -- url     : https://prove2.me/submissions/799776cf-5044-4604-9a91-963e90b24a76
 

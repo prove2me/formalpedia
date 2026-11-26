@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isPositive_add_adjoint_smul_resolvent
 -- name    : isPositive_add_adjoint_smul_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:50.193217+00:00
 -- url     : https://prove2.me/theorems/f701df7e-9539-4977-90d3-fbd7585c081e

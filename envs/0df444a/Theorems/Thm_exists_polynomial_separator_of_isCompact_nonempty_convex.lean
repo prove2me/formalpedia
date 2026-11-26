@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_polynomial_separator_of_isCompact_nonempty_convex
 -- name    : exists_polynomial_separator_of_isCompact_nonempty_convex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:29:48.881586+00:00
 -- url     : https://prove2.me/theorems/b6b43668-e71a-408f-ae43-11fd14fab0d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_inv_sub_mul_eq_contourIntegral_inv_sub_mul_value
 -- name    : contourIntegral_inv_sub_mul_eq_contourIntegral_inv_sub_mul_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:34.756194+00:00
 -- url     : https://prove2.me/theorems/4d03b8a2-33c0-5f5a-b867-b7f95200d590

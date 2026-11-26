@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianReal_two_sided_tail
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:07:26.256392+00:00
 -- url     : https://prove2.me/submissions/bc6210bd-5c29-4fdb-a931-7a6e13f46215
 

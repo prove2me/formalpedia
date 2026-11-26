@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.abs_gaussianScore_sub_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:52:36.411198+00:00
 -- url     : https://prove2.me/submissions/910e39fc-74ab-4d54-aa88-7f1ffadd345d
 

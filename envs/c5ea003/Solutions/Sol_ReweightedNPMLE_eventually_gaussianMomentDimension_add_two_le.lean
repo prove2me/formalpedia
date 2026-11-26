@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.eventually_gaussianMomentDimension_add_two_le
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:09:31.872666+00:00
 -- url     : https://prove2.me/submissions/f9585015-3fef-44e2-bd03-ba75b858d930
 

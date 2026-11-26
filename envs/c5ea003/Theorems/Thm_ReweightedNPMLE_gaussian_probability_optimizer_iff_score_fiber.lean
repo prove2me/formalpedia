@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussian_probability_optimizer_iff_score_fiber
 -- name    : ReweightedNPMLE.gaussian_probability_optimizer_iff_score_fiber
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:57.945282+00:00
 -- url     : https://prove2.me/theorems/8c5f156c-a8fd-492e-afda-f659104ba626
 -- title:

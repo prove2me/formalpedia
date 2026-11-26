@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_squaredRadiusEvolution_surjOn
 -- name    : Eden.squaredRadiusEvolution_surjOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:09:05.35982+00:00
 -- url     : https://prove2.me/theorems/34edf81f-9d2a-446a-8b3b-07cbc3f90cc0

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianJointConsistency
 -- name    : ReweightedNPMLE_GaussianJointConsistency
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:34:27.573127+00:00
 -- url     : https://prove2.me/theorems/a0dcb5c1-e5ac-5046-a55e-0c96402045d6
 -- title:

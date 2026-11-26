@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothJordanDomain_isBounded_carrier_of_cauchyKernel_eq_one
 -- name    : SmoothJordanDomain.isBounded_carrier_of_cauchyKernel_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:06:24.359301+00:00
 -- url     : https://prove2.me/theorems/a08005f8-ec2f-5b81-aaad-185a02dceaf8

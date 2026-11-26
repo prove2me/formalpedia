@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rawFirstPassageTime_mem
 -- name    : FirstPassageLinearTransport.rawFirstPassageTime_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:49:00.525797+00:00
 -- url     : https://prove2.me/theorems/e9e380a6-833c-40cd-bf76-dcbfde8b3bd1

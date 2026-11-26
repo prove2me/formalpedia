@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.det_mono_of_posDef_of_sub_posSemidef
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:00:13.045068+00:00
 -- url     : https://prove2.me/submissions/8e7b3d84-8b0b-4b81-b66d-faecd8ef3f79
 

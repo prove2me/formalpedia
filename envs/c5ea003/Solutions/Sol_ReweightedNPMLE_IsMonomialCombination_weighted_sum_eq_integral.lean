@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.IsMonomialCombination.weighted_sum_eq_integral
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:52:33.255454+00:00
 -- url     : https://prove2.me/submissions/de6495b8-c297-478f-acda-379b5448db95
 

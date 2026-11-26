@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shellBad_heightCertifiedShell_subset
 -- name    : FirstPassageLinearTransport.shellBad_heightCertifiedShell_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:57:04.231513+00:00
 -- url     : https://prove2.me/theorems/52e2a8d0-c004-4f9c-b0f9-24118730d24c

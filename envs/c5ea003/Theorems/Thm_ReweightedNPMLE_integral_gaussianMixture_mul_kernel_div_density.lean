@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_integral_gaussianMixture_mul_kernel_div_density
 -- name    : ReweightedNPMLE.integral_gaussianMixture_mul_kernel_div_density
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:37.25438+00:00
 -- url     : https://prove2.me/theorems/9e613613-f7c8-5eca-849b-e5206a376ab2
 -- title:

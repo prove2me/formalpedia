@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_normalized_crouzeixProductRemainderContour_eq_aeval
 -- name    : normalized_crouzeixProductRemainderContour_eq_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:23.189814+00:00
 -- url     : https://prove2.me/theorems/6bc1bbcc-19b1-5929-986d-b01f7e5c7c33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_aeval_add_star_crouzeixPolynomialAuxiliaryOperator_eq_doubleLayerIntegral_of_cauchy
 -- name    : aeval_add_star_crouzeixPolynomialAuxiliaryOperator_eq_doubleLayerIntegral_of_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:45:03.91522+00:00
 -- url     : https://prove2.me/theorems/6787477a-0567-542e-ba17-c96a6abf0a4b

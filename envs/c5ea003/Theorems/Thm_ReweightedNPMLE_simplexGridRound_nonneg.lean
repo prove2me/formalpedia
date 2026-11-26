@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_simplexGridRound_nonneg
 -- name    : ReweightedNPMLE.simplexGridRound_nonneg
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:41:19.259095+00:00
 -- url     : https://prove2.me/theorems/2c5c168b-0e51-5d46-8398-440b27cae4f3
 -- title:

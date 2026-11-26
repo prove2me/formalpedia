@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_timeoutRun_elapsed_add_switch_lt_shellClock
 -- name    : FirstPassageLinearTransport.eventually_timeoutRun_elapsed_add_switch_lt_shellClock
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:30:33.339004+00:00
 -- url     : https://prove2.me/theorems/48b51961-7558-44a3-b985-fb8c61f3a7cb

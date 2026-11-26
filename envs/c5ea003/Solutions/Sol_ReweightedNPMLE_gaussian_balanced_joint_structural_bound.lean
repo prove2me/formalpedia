@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussian_balanced_joint_structural_bound
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:20:19.125998+00:00
 -- url     : https://prove2.me/submissions/963f21a1-6c6e-48e4-bf1b-29500d6973e9
 

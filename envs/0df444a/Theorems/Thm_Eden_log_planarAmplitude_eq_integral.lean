@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_log_planarAmplitude_eq_integral
 -- name    : Eden.log_planarAmplitude_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:07:51.162818+00:00
 -- url     : https://prove2.me/theorems/c7d267c3-8da9-43c9-bc82-d9a0651129f9

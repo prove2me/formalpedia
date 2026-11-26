@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianMixture_mul_finiteGaussianMixture_div_density_integrable
 -- name    : ReweightedNPMLE.gaussianMixture_mul_finiteGaussianMixture_div_density_integrable
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:42:03.337551+00:00
 -- url     : https://prove2.me/theorems/d6900f3e-c05b-57ca-99fa-649fa679b24d
 -- title:

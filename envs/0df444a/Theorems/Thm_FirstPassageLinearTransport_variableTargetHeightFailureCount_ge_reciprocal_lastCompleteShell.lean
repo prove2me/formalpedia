@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_variableTargetHeightFailureCount_ge_reciprocal_lastCompleteShell
 -- name    : FirstPassageLinearTransport.variableTargetHeightFailureCount_ge_reciprocal_lastCompleteShell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:55:19.410144+00:00
 -- url     : https://prove2.me/theorems/49152a31-fbaf-5239-bbb5-eee6d3d47a90

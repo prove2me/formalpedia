@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_brownianChaosTotal_iff_dense_orderedChainSpan
 -- name    : Malliavin.BrownianIteratedConstruction.brownianChaosTotal_iff_dense_orderedChainSpan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:58:59.144809+00:00
 -- url     : https://prove2.me/theorems/77800e96-d2bc-5a4b-acbb-f026ba2fd894

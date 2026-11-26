@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i1_source_case4
 -- name    : FourierJacobi.Analysis.hasSum_i1_source_case4
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:40:38.427324+00:00
 -- url     : https://prove2.me/theorems/d0377969-57b8-5425-8143-5f405e24654c

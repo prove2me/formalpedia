@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_uniform_inward_boundary_cross_bound
 -- name    : exists_uniform_inward_boundary_cross_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:07:46.072181+00:00
 -- url     : https://prove2.me/theorems/9634b404-4bf1-41d5-be18-11d9c82cb09a

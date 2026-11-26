@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianWidth
 -- name    : ReweightedNPMLE_GaussianWidth
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:22:58.489206+00:00
 -- url     : https://prove2.me/theorems/1aec63b6-bafc-5673-85ed-2a61e8af345f
 -- title:

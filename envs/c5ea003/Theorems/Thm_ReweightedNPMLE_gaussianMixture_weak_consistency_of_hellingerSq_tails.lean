@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_gaussianMixture_weak_consistency_of_hellingerSq_tails
 -- name    : ReweightedNPMLE.gaussianMixture_weak_consistency_of_hellingerSq_tails
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:48:34.163243+00:00
 -- url     : https://prove2.me/theorems/4f620e55-7d5b-5c68-8985-7e961a11c77a
 -- title:

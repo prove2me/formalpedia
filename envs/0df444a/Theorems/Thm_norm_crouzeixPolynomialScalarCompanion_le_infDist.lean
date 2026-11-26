@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_crouzeixPolynomialScalarCompanion_le_infDist
 -- name    : norm_crouzeixPolynomialScalarCompanion_le_infDist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:54:11.687225+00:00
 -- url     : https://prove2.me/theorems/44599595-59c5-5fc0-af11-d1fbacc7fd57

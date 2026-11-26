@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_finiteRegular_interior
 -- name    : FourierJacobi.Analysis.finiteRegular_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:23:52.007241+00:00
 -- url     : https://prove2.me/theorems/36869da9-30ba-435a-b505-7d2620efb814

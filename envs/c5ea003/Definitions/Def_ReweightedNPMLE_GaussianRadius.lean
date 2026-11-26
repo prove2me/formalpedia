@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianRadius
 -- name    : ReweightedNPMLE_GaussianRadius
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:24:36.350407+00:00
 -- url     : https://prove2.me/theorems/637c7933-882e-5c5b-b7ad-1d685a6d2841
 -- title:

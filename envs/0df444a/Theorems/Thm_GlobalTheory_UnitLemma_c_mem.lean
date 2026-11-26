@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_c_mem
 -- name    : GlobalTheory.UnitLemma.c_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:21.626466+00:00
 -- url     : https://prove2.me/theorems/1cdc3b77-9b46-42a4-a324-b1a8a3035676

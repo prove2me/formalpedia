@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.fixed_density_likelihood_ratio_test_bound
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:06:38.606803+00:00
 -- url     : https://prove2.me/submissions/9bb9c0b1-2572-4c18-9add-9bbd106a340c
 

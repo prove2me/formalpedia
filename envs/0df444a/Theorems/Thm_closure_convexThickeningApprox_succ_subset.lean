@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_closure_convexThickeningApprox_succ_subset
 -- name    : closure_convexThickeningApprox_succ_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:17.445058+00:00
 -- url     : https://prove2.me/theorems/659b3d5c-714e-539c-b23a-2700008acc41

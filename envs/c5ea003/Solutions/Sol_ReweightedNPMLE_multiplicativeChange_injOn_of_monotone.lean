@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.multiplicativeChange_injOn_of_monotone
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:02:10.220667+00:00
 -- url     : https://prove2.me/submissions/a38884b3-a2ea-48b8-a31d-5a6dbec7d4a9
 

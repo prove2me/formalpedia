@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_intervalIntegrable_deriv_circleMap_smul_resolvent
 -- name    : intervalIntegrable_deriv_circleMap_smul_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:00:50.691021+00:00
 -- url     : https://prove2.me/theorems/d8d06d1a-09bb-5675-9072-c1063168f488

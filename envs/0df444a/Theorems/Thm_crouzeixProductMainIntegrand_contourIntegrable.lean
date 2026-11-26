@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixProductMainIntegrand_contourIntegrable
 -- name    : crouzeixProductMainIntegrand_contourIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:02.076773+00:00
 -- url     : https://prove2.me/theorems/025fdc8d-28f3-528b-9fd8-a4ca8651ed7a

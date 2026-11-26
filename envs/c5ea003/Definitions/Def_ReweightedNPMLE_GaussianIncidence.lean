@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianIncidence
 -- name    : ReweightedNPMLE_GaussianIncidence
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:25:24.178016+00:00
 -- url     : https://prove2.me/theorems/ab16064c-5dd2-4cbe-bbd0-d77d48fdd1b6
 -- title:

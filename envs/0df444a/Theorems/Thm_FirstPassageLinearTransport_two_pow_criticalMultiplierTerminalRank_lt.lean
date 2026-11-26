@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_two_pow_criticalMultiplierTerminalRank_lt
 -- name    : FirstPassageLinearTransport.two_pow_criticalMultiplierTerminalRank_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:53:20.607584+00:00
 -- url     : https://prove2.me/theorems/ec587ea8-3aff-46a9-a5bf-83ed2cb26d01

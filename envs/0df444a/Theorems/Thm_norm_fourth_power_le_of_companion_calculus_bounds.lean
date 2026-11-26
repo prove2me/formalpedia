@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_fourth_power_le_of_companion_calculus_bounds
 -- name    : norm_fourth_power_le_of_companion_calculus_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:18.348797+00:00
 -- url     : https://prove2.me/theorems/96939da9-ef42-4956-a284-c3dccb90d249

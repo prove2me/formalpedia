@@ -76320,8 +76320,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.nfw_contAt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_PoinStatementPfD", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.nfw_contAt", "child": "ReciprocityTheory_L2DbarEstimates_WeakHolomorphy_MeasurableEmbeddingRotAbout", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.nfw_contAt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_PoinStatementPfC", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.IsAdicSum.neg", "child": "GroundTheory_PAdicHodge_ACrisLog", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.IsAdicSum.neg", "child": "GroundTheory_PAdicHodge_FactorizationFactorialLe", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.IsAdicSum.neg", "child": "GroundTheory_PAdicHodge_ACrisLog", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.IsAdicSum.neg", "child": "GroundTheory_PAdicHodge_FactorizationFactorialLe", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartChoice_hypotheses_inhabited_7b473aa4310c", "child": "P2M_GroundTheory_Heights__Heights_ChowFormSectionVertical_hypotheses_inhabited_25f0794614ab", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartChoice_hypotheses_inhabited_7b473aa4310c", "child": "P2M_GroundTheory_Heights__Heights_MahlerSection_hypotheses_inhabited_066629c10381", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartChoice_hypotheses_inhabited_7b473aa4310c", "child": "P2M_GroundTheory_Heights__Heights_OrdPolynomialLocalization_hypotheses_inhabited_9d39a36238cc", "via": ["statement"]}
@@ -88336,8 +88336,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.PT.integrableOn_fd", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_ContDiffOfDifferentiableFd", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.PT.integrableOn_fd", "child": "ReciprocityTheory_AnalyticForms_AnalyticCharts_Osgood", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.PT.integrableOn_fd", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_GCauchyStatement", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.PAdicHodge.IsAdicSum.sub", "child": "GroundTheory_PAdicHodge_FactorizationFactorialLe", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.IsAdicSum.sub", "child": "GroundTheory_PAdicHodge_ACrisLog", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.IsAdicSum.sub", "child": "GroundTheory_PAdicHodge_FactorizationFactorialLe", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.IsAdicSum.sub", "child": "GroundTheory_PAdicHodge_ACrisLog", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.IdeleNorm.finiteLocalNorm_mem_integers", "child": "GroundTheory_GlobalFields_CompletionAtPlace_Integers", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.IdeleNorm.finiteLocalNorm_mem_integers", "child": "GroundTheory_LocalFields_ExistsUnitFiltrationUnitsLeRangeNormUnits", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.IdeleNorm.finiteLocalNorm_mem_integers", "child": "GroundTheory_GlobalFields_IdeleGroups_LocalNorms", "via": ["solution", "statement"]}
@@ -97419,8 +97419,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.T0.FractionFieldVariableLift.toFracY_injective", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_FiniteDimensionalOfLiftY", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SymSupport.typeFrame_val", "child": "Development_AbelianVarietyTheory_Definitions_LatticeFrames_OnesRepresent", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SymSupport.typeFrame_val", "child": "Development_AbelianVarietyTheory_Proofs_DecoratedLatticeProofs_SymmetricChainSupportOneOfPattern", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.Cheb.unit_smul_embZ", "child": "ReciprocityTheory_Chebotarev_Ucoord", "via": ["statement"]}
-{"parent": "ReciprocityTheory.Cheb.unit_smul_embZ", "child": "ReciprocityTheory_Chebotarev_DiscreteTopologyLatOf", "via": ["statement"]}
+{"parent": "ReciprocityTheory.Cheb.unit_smul_embZ", "child": "ReciprocityTheory_Chebotarev_Ucoord", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.Cheb.unit_smul_embZ", "child": "ReciprocityTheory_Chebotarev_DiscreteTopologyLatOf", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.LocalField.ord_neg_eq", "child": "GroundTheory_LocalFields_LocalZeta", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.LocalField.ord_neg_eq", "child": "GroundTheory_LocalFields_LocalZetaGauss", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.le_of_forall_pos_div_sq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_SplitO", "via": ["solution", "statement"]}

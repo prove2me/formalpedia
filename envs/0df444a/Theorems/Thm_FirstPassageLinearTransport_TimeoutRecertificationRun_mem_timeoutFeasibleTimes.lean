@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_TimeoutRecertificationRun_mem_timeoutFeasibleTimes
 -- name    : FirstPassageLinearTransport.TimeoutRecertificationRun.mem_timeoutFeasibleTimes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:26:12.957298+00:00
 -- url     : https://prove2.me/theorems/20479fcb-7f12-4f84-879a-d9e02c40e3a1

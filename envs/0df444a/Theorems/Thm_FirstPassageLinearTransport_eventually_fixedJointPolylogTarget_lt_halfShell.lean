@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_fixedJointPolylogTarget_lt_halfShell
 -- name    : FirstPassageLinearTransport.eventually_fixedJointPolylogTarget_lt_halfShell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:56:07.710894+00:00
 -- url     : https://prove2.me/theorems/8fdffb23-462d-4399-8493-884d5644a2e1

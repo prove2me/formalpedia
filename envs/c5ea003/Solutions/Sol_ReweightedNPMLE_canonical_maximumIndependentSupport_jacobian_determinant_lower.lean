@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.canonical_maximumIndependentSupport_jacobian_determinant_lower
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:06:59.329818+00:00
 -- url     : https://prove2.me/submissions/b4e5949b-fae7-4a67-8310-515077f36466
 

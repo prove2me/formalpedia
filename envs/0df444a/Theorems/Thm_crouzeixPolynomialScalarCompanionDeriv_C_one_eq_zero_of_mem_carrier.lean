@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionDeriv_C_one_eq_zero_of_mem_carrier
 -- name    : crouzeixPolynomialScalarCompanionDeriv_C_one_eq_zero_of_mem_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:16.32459+00:00
 -- url     : https://prove2.me/theorems/b2bfcf1a-2d90-52bb-905f-99eecbd2e090

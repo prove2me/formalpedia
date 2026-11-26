@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isBounded_numericalRange
 -- name    : isBounded_numericalRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:45:34.838934+00:00
 -- url     : https://prove2.me/theorems/5c6c283e-f421-4f37-a5dd-7b1545242af5

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.measureReal_finset_test_union_le_card_mul
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:05:27.605451+00:00
 -- url     : https://prove2.me/submissions/16260b3b-59ec-46bc-9cfc-02c2a2e54a51
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_CompactOptimizerEvents
 -- name    : ReweightedNPMLE_CompactOptimizerEvents
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:16:10.322381+00:00
 -- url     : https://prove2.me/theorems/d5ab903b-8eda-5886-ba79-c54983a0345e
 -- title:

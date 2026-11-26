@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_EuclideanLocationNet
 -- name    : ReweightedNPMLE_EuclideanLocationNet
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:17:07.637281+00:00
 -- url     : https://prove2.me/theorems/04a63fc7-027f-41c4-984c-a69a3ba37326
 -- title:

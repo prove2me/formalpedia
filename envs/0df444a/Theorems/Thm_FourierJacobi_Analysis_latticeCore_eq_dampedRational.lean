@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_latticeCore_eq_dampedRational
 -- name    : FourierJacobi.Analysis.latticeCore_eq_dampedRational
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:09:31.455035+00:00
 -- url     : https://prove2.me/theorems/d90bbb34-66c7-5daf-82a5-9379145589d6

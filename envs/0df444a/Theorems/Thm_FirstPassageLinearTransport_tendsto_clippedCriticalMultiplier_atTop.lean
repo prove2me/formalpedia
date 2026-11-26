@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tendsto_clippedCriticalMultiplier_atTop
 -- name    : FirstPassageLinearTransport.tendsto_clippedCriticalMultiplier_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:32:03.799931+00:00
 -- url     : https://prove2.me/theorems/6791bc16-c030-4829-8d45-87fa06ff97c3

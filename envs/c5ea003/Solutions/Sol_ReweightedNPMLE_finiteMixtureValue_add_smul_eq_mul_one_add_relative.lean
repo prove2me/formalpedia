@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.finiteMixtureValue_add_smul_eq_mul_one_add_relative
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:59:31.640782+00:00
 -- url     : https://prove2.me/submissions/98cba005-1faa-4e8b-88b7-b738fa5d9fa8
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_X_lt_four_mul_pow_lastCompleteDyadicShell
 -- name    : FirstPassageLinearTransport.X_lt_four_mul_pow_lastCompleteDyadicShell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:55:35.949865+00:00
 -- url     : https://prove2.me/theorems/1fb588cc-5b15-445d-abf4-93aac8b8158f

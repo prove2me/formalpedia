@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReweightedNPMLE_GaussianMixtureHellinger
 -- name    : ReweightedNPMLE_GaussianMixtureHellinger
 -- status  : Definition
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:24:16.912931+00:00
 -- url     : https://prove2.me/theorems/ca61127b-503b-5a03-82f2-a6302fea423d
 -- title:

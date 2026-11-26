@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shellTargetHeightFailure_subset_shellVariableTargetHeightFailure
 -- name    : FirstPassageLinearTransport.shellTargetHeightFailure_subset_shellVariableTargetHeightFailure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:55:02.137726+00:00
 -- url     : https://prove2.me/theorems/224afb22-fb2a-485a-bc4d-3a9c085a1e02

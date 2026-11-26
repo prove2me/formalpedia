@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.gaussianMixture_weak_consistency_of_hellingerSq_tails
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:16:12.417817+00:00
 -- url     : https://prove2.me/submissions/82530e67-92e8-46bb-a5f3-8e5acdeb2939
 

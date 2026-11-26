@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_crouzeixPolynomialScalarCompanion_le_of_boundary_tendsto
 -- name    : norm_crouzeixPolynomialScalarCompanion_le_of_boundary_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:10.417472+00:00
 -- url     : https://prove2.me/theorems/d7ef35db-c3fe-460c-9d03-4ce45ad6166c

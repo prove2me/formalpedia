@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_crouzeixPolynomialScalarCompanion_le_of_boundaryPhaseTransform
 -- name    : norm_crouzeixPolynomialScalarCompanion_le_of_boundaryPhaseTransform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:53.297917+00:00
 -- url     : https://prove2.me/theorems/bc3fe796-a501-4a89-a242-ba8ed7b051d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_re_inner_crouzeixSquareAuxiliaryOperator_nonneg_of_support
 -- name    : re_inner_crouzeixSquareAuxiliaryOperator_nonneg_of_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:51:25.877296+00:00
 -- url     : https://prove2.me/theorems/5e973394-af8c-46f5-a4e6-37cfdc48706b

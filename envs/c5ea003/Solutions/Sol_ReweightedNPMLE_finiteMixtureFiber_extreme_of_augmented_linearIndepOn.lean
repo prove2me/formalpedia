@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.finiteMixtureFiber_extreme_of_augmented_linearIndepOn
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:53:19.118854+00:00
 -- url     : https://prove2.me/submissions/24103a24-2c33-43c9-9d80-716e5dbe508d
 

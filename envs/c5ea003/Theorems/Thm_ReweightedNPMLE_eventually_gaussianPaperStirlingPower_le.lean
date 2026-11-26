@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_eventually_gaussianPaperStirlingPower_le
 -- name    : ReweightedNPMLE.eventually_gaussianPaperStirlingPower_le
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:42:49.674435+00:00
 -- url     : https://prove2.me/theorems/f957b043-b88c-5904-8975-7fcce93d50dd
 -- title:

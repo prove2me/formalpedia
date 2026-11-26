@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_eval_circleMap_le_polynomialSupNorm_closedBall
 -- name    : norm_eval_circleMap_le_polynomialSupNorm_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:02:43.5468+00:00
 -- url     : https://prove2.me/theorems/82291b2d-363f-4f08-b0d6-b1e9a493c023

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReweightedNPMLE_continuous_gaussianSquaredLogRatioGap
 -- name    : ReweightedNPMLE.continuous_gaussianSquaredLogRatioGap
 -- status  : Proved
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:44:55.766211+00:00
 -- url     : https://prove2.me/theorems/741494d3-79cb-553a-ba75-d15a50df64ab
 -- title:

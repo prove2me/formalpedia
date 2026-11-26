@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivcond_mat_0004049_mean_delay_time_localized_vs_diffusive
 -- name    : Arxivcond_mat_0004049.mean_delay_time_localized_vs_diffusive
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T20:12:17.833912+00:00
 -- url     : https://prove2.me/theorems/4815ed43-cf6f-4927-b6b0-8ee8894b301b

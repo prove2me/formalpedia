@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41BinaryCadlagFlatV15
 -- name    : Kyprianou.Ch04.exercise41BinaryCadlagFlatV15
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T13:08:57.393044+00:00
 -- url     : https://prove2.me/theorems/f0243a54-b52b-43a1-968f-f124d8c708a5

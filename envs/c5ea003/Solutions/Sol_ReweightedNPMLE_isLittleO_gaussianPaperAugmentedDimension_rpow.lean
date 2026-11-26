@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.isLittleO_gaussianPaperAugmentedDimension_rpow
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T04:11:37.574837+00:00
 -- url     : https://prove2.me/submissions/e051d479-e2ee-4b26-be41-dc038ee1cf6d
 

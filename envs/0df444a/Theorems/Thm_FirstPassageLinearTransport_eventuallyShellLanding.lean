@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventuallyShellLanding
 -- name    : FirstPassageLinearTransport.eventuallyShellLanding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:16:41.566825+00:00
 -- url     : https://prove2.me/theorems/e3c24e03-2385-514a-a787-244f89bc0a2b

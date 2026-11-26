@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_eventually_timeoutEndpointGood_rawProfile
 -- name    : FirstPassageLinearTransport.exists_eventually_timeoutEndpointGood_rawProfile
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:46:35.475013+00:00
 -- url     : https://prove2.me/theorems/e573c616-b489-4baa-9c64-8f18d5573fb2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_re_inner_smul_resolvent_nonneg
 -- name    : re_inner_smul_resolvent_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:33:49.869805+00:00
 -- url     : https://prove2.me/theorems/ca3cf65b-77ea-59f4-a8bd-9717bd145bc2

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReweightedNPMLE.augmented_linearIndepOn_iff_of_contact
 -- status  : ACCEPTED   (prove)
--- author  : @hansheng.jiang
+-- author  : @Hansheng Jiang
 -- created : 2026-11-26T03:52:48.276367+00:00
 -- url     : https://prove2.me/submissions/13c4952f-04d5-465e-876e-8857c3022f28
 

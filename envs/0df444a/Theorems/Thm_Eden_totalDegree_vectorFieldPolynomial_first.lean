@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_totalDegree_vectorFieldPolynomial_first
 -- name    : Eden.totalDegree_vectorFieldPolynomial_first
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:04:29.902531+00:00
 -- url     : https://prove2.me/theorems/9395ee8a-4d51-58c1-bac2-c399c5d8cd71
