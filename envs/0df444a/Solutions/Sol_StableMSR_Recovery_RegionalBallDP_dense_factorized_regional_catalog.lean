@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.RegionalBallDP.dense_factorized_regional_catalog
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-21T13:15:45.724408+00:00
 -- url     : https://prove2.me/submissions/39ddf0f3-9ac1-44ab-805d-4098c9e85d52
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_StableMSR_Recovery_RegionalBallDP_disjoint_local_menus_certify_terminal
 import Theorems.Thm_StableMSR_Recovery_RegionalBallDP_dense_local_region_menu_generator

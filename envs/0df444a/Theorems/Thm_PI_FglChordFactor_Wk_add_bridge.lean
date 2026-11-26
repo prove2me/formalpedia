@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_add_bridge
 -- name    : PI.FglChordFactor.Wk.add_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:45:13.543721+00:00
 -- url     : https://prove2.me/theorems/841433f3-2e27-5caa-9a6f-cea5cfc212eb

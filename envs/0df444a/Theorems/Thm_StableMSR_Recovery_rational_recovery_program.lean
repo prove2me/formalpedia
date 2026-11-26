@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_rational_recovery_program
 -- name    : StableMSR.Recovery.rational_recovery_program
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-13T14:30:58.633893+00:00
 -- url     : https://prove2.me/theorems/c2468a82-f9f1-431f-bb25-e0e414912c4f

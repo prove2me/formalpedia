@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_adapted_brownian_coordinate_at_monotone_times_is_martingale
 -- name    : ManyServerQED.Scheduling.adapted_brownian_coordinate_at_monotone_times_is_martingale
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T03:13:24.058027+00:00
 -- url     : https://prove2.me/theorems/530424ca-7d7d-5ebc-940f-18db7ca816c9

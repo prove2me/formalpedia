@@ -49864,9 +49864,9 @@
 {"parent": "GaussianSweep_Supplement_bisectionWidth", "child": "GaussianSweep_Supplement_edgeBoundary", "via": ["statement"]}
 {"parent": "GradedReserve_Supplement_expRevenue", "child": "GradedReserve_Supplement_interimM", "via": ["statement"]}
 {"parent": "GradedReserve_Supplement_expRevenue", "child": "GradedReserve_typeMeasure", "via": ["statement"]}
-{"parent": "QNoiseStab.Supplement.theorem_4_3", "child": "QNoiseStab_Supplement_IsStronglyUniversal", "via": ["statement"]}
-{"parent": "QNoiseStab.Supplement.theorem_4_3", "child": "QNoiseStab_Supplement_SpaceBoundedAlg_FitsInSpace", "via": ["statement"]}
-{"parent": "QNoiseStab.Supplement.theorem_4_3", "child": "QNoiseStab_Supplement_SpaceBoundedAlg_successProb", "via": ["statement"]}
+{"parent": "QNoiseStab.Supplement.theorem_4_3", "child": "QNoiseStab_Supplement_IsStronglyUniversal", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.Supplement.theorem_4_3", "child": "QNoiseStab_Supplement_SpaceBoundedAlg_FitsInSpace", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.Supplement.theorem_4_3", "child": "QNoiseStab_Supplement_SpaceBoundedAlg_successProb", "via": ["solution", "statement"]}
 {"parent": "FasterPrimeEnum.Supplement.theorem_9_1", "child": "FasterPrimeEnum_IsSquarePrime", "via": ["statement"]}
 {"parent": "FasterPrimeEnum.Supplement.theorem_9_1", "child": "APSPSource_ThreeSumApsp_Util_Log", "via": ["statement"]}
 {"parent": "FasterPrimeEnum.Supplement.theorem_9_1", "child": "FasterPrimeEnum_Supplement_kappa", "via": ["statement"]}
@@ -55216,9 +55216,9 @@
 {"parent": "FairShareAlmostAll.Slack.Supplement.proportional_aps_with_slack", "child": "AnyPriceShare_Bidding_Basic", "via": ["statement"]}
 {"parent": "FairShareAlmostAll.Slack.Supplement.proportional_aps_with_slack", "child": "FairShareAlmostAll_Slack_FiniteAllocation", "via": ["statement"]}
 {"parent": "FairShareAlmostAll.Slack.Supplement.proportional_aps_with_slack", "child": "FairShareAlmostAll_Slack_Instance", "via": ["statement"]}
-{"parent": "QNoiseStab.Supplement.theorem_5_1", "child": "QNoiseStab_Supplement_SpaceBoundedAlg_successProb", "via": ["statement"]}
-{"parent": "QNoiseStab.Supplement.theorem_5_1", "child": "QNoiseStab_Supplement_SpaceBoundedAlg_FitsInSpace", "via": ["statement"]}
-{"parent": "QNoiseStab.Supplement.theorem_5_1", "child": "QNoiseStab_Supplement_sortFun", "via": ["statement"]}
+{"parent": "QNoiseStab.Supplement.theorem_5_1", "child": "QNoiseStab_Supplement_SpaceBoundedAlg_successProb", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.Supplement.theorem_5_1", "child": "QNoiseStab_Supplement_SpaceBoundedAlg_FitsInSpace", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.Supplement.theorem_5_1", "child": "QNoiseStab_Supplement_sortFun", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K3.erasing_is_not_undone", "child": "APFB01.every_object_comes_to_return", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K3.erasing_is_not_undone", "child": "APFPaper5.K3.finite_of_separating_family", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K3.erasing_is_not_undone", "child": "APFPaper5.K3.occupant_settles", "via": ["solution", "statement"]}
@@ -59743,9 +59743,9 @@
 {"parent": "APFPaper5_K1_ledger_bridge_Vocabulary", "child": "APFPaper5.K1.interface_sharedCost_families", "via": ["statement"]}
 {"parent": "ComputableDistributionsWaveMission.sphere_normalization", "child": "liuyao_ca_fd889115_k1_Distributions_MissionTargets", "via": ["statement"]}
 {"parent": "SubspaceEvasion312.Explicit.Supplement.explicit_list_recoverable_codes", "child": "SubspaceEvasion312_Explicit_Supplement_codes", "via": ["statement"]}
-{"parent": "QNoiseStab.Supplement.theorem_6_6", "child": "QNoiseStab_Supplement_SpaceBoundedAlg_successProb", "via": ["statement"]}
-{"parent": "QNoiseStab.Supplement.theorem_6_6", "child": "QNoiseStab_Supplement_SpaceBoundedAlg_FitsInSpace", "via": ["statement"]}
-{"parent": "QNoiseStab.Supplement.theorem_6_6", "child": "QNoiseStab_Supplement_IsRigid", "via": ["statement"]}
+{"parent": "QNoiseStab.Supplement.theorem_6_6", "child": "QNoiseStab_Supplement_SpaceBoundedAlg_successProb", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.Supplement.theorem_6_6", "child": "QNoiseStab_Supplement_SpaceBoundedAlg_FitsInSpace", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.Supplement.theorem_6_6", "child": "QNoiseStab_Supplement_IsRigid", "via": ["solution", "statement"]}
 {"parent": "CliffordCert.Optimal.Supplement.reference_preserving_support_channel", "child": "CliffordCert_Optimal_Supplement_support_model", "via": ["statement"]}
 {"parent": "CliffordCert.Optimal.Supplement.reference_preserving_support_channel", "child": "CliffordCert_Optimal_pauli_compression", "via": ["statement"]}
 {"parent": "ElimAgree.Supplement.theorem_6_9", "child": "ElimAgree_Supplement_SignOp", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_queue_hjb_joint_limit_moments_and_cost
 -- name    : ManyServerQED.Scheduling.queue_hjb_joint_limit_moments_and_cost
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T03:19:57.686547+00:00
 -- url     : https://prove2.me/theorems/4baa67bd-ddef-4169-a362-8e41cbd49b00

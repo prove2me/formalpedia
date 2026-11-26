@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKOwn_mulL_pow_apply
 -- name    : PositivityTheory.ThKOwn.mulL_pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:01:34.574367+00:00
 -- url     : https://prove2.me/theorems/ecd1eb6d-f5bb-4285-9a3e-00a09ac495c0

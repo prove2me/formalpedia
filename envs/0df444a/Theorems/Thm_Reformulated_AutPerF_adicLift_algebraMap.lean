@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_adicLift_algebraMap
 -- name    : Reformulated.AutPerF.adicLift_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:38:06.728919+00:00
 -- url     : https://prove2.me/theorems/7ddd3612-6dbd-4dd5-ae1c-e3a5672c42ab

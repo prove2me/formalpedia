@@ -44904,7 +44904,7 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_TorusSplitting_NearestPlaneRounding", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_AbsTwoMulInnerLeOfNormSubEqInfDist", "via": ["statement"]}
 {"parent": "GroundTheory.PAdicHodge.NormTower.N_inv", "child": "GroundTheory_LocalFields_SeparableClosure", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.PAdicHodge.NormTower.N_inv", "child": "GroundTheory_PAdicHodge_FieldOfNormsTower", "via": ["solution", "statement"]}
-{"parent": "Arxiv1706_02824.eq7_temporal_coherent_limit", "child": "Arxiv1706_02824_Basic", "via": ["statement"]}
+{"parent": "Arxiv1706_02824.eq7_temporal_coherent_limit", "child": "Arxiv1706_02824_Basic", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_AutomorphicForms_ArchimedeanWhittaker_Frechet", "child": "GroundTheory.Automorphic.IsExpLieAlgebra.Ad_one", "via": ["statement"]}
 {"parent": "GroundTheory_AutomorphicForms_ArchimedeanWhittaker_Frechet", "child": "P2M_GroundTheory_Automorphic_IsExpLieAlgebra_rightUAction___d9062316eb7b", "via": ["statement"]}
 {"parent": "GroundTheory_AutomorphicForms_ArchimedeanWhittaker_Frechet", "child": "GroundTheory.Automorphic.IsExpLieAlgebra.coe_rightTranslateEnd", "via": ["statement"]}

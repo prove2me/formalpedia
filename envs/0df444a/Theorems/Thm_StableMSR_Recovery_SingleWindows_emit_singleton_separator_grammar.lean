@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleWindows_emit_singleton_separator_grammar
 -- name    : StableMSR.Recovery.SingleWindows.emit_singleton_separator_grammar
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-23T00:03:26.095902+00:00
 -- url     : https://prove2.me/theorems/6deb6492-8944-41d4-b2ff-ecede0ed1584

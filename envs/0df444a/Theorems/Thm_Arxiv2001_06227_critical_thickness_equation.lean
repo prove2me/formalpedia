@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2001_06227_critical_thickness_equation
 -- name    : Arxiv2001_06227.critical_thickness_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T08:33:56.706784+00:00
 -- url     : https://prove2.me/theorems/42653768-a520-51ca-bc22-1ac1a2943ed2

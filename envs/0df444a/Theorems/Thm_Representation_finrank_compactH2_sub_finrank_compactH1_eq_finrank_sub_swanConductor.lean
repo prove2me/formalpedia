@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Representation_finrank_compactH2_sub_finrank_compactH1_eq_finrank_sub_swanConductor
 -- name    : Representation.finrank_compactH2_sub_finrank_compactH1_eq_finrank_sub_swanConductor
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-25T21:44:27.201631+00:00
 -- url     : https://prove2.me/theorems/74a719d8-9072-4d99-9915-1e79e9cb3d44

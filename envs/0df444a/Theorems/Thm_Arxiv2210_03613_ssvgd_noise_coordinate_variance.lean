@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2210_03613_ssvgd_noise_coordinate_variance
 -- name    : Arxiv2210_03613.ssvgd_noise_coordinate_variance
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T16:35:00.588676+00:00
 -- url     : https://prove2.me/theorems/32979285-afd7-52bc-903a-c74f87aecfd9

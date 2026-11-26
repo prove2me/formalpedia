@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1706_02824_eq7_temporal_coherent_limit
 -- name    : Arxiv1706_02824.eq7_temporal_coherent_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T00:52:57.744015+00:00
 -- url     : https://prove2.me/theorems/6160a3d5-9d07-4dc4-877a-8fd3f7bc3dbb

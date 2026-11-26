@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_joinPt_eq_segreJoin_527892d5b87e
 -- name    : P2M_GroundTheory_Heights__Heights_joinPt_eq_segreJoin_527892d5b87e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:41:33.940435+00:00
 -- url     : https://prove2.me/theorems/f9b74cb3-dba9-485c-87c8-16cf472c1b7c

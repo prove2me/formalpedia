@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_FewBallRows_dense_ball_cover_catalog
 -- name    : StableMSR.Recovery.FewBallRows.dense_ball_cover_catalog
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-20T23:17:03.491652+00:00
 -- url     : https://prove2.me/theorems/a8f25099-08ee-4f83-a488-da4e074dd8b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowMasks_native_regional_block_incidences
 -- name    : StableMSR.Recovery.WindowMasks.native_regional_block_incidences
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T23:25:33.659129+00:00
 -- url     : https://prove2.me/theorems/fb867983-5d9e-48d6-8f4d-22822e4df7c4

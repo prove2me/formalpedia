@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09234_fourier_metric_derivative_order
 -- name    : Arxiv2205_09234.fourier_metric_derivative_order
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T15:50:53.969167+00:00
 -- url     : https://prove2.me/theorems/342ad55c-80bc-4ae5-961e-2ffce724107b

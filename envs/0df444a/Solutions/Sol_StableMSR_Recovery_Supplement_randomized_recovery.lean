@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.Supplement.randomized_recovery
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-19T01:00:59.593388+00:00
 -- url     : https://prove2.me/submissions/ca8777d9-788d-4d19-bed3-c097b82325ca
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_StableMSR_Recovery_Supplement_rational_single_run_program
 import Theorems.Thm_StableMSR_Recovery_parameterEnvelope_bound

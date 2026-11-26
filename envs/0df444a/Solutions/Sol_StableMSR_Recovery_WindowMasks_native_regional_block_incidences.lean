@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.WindowMasks.native_regional_block_incidences
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-23T00:12:17.84786+00:00
 -- url     : https://prove2.me/submissions/d3f9af5c-249f-408c-a586-750c9010b5e7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_StableMSR_SingleWindowGrammar
 import Theorems.Thm_StableMSR_Recovery_SingleWindows_emit_singleton_separator_grammar

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.CartesianBallRows.interior_ball_cover_catalog
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-20T23:35:02.341168+00:00
 -- url     : https://prove2.me/submissions/9b764216-9098-496a-8956-1ac1f442f5a0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_StableMSR_Recovery_FewBallRows_append_few_large_recovery
 import Theorems.Thm_StableMSR_Recovery_FewBallRows_dense_ball_cover_catalog

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_charPowPrimeOrder_embeddings_differ_by_coprime_power
 -- name    : GlobalTheory.charPowPrimeOrder_embeddings_differ_by_coprime_power
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:43:53.983557+00:00
 -- url     : https://prove2.me/theorems/197988d6-5310-5ede-b5de-7489c2885f0d

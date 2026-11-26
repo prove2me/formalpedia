@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_SingleRAM_native_dense_window_circuits
 -- name    : StableMSR.Recovery.SingleRAM.native_dense_window_circuits
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-23T00:15:26.573772+00:00
 -- url     : https://prove2.me/theorems/b5465d77-777c-4035-a12d-41cb954ce9b5

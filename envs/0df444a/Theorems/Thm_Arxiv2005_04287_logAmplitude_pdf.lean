@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2005_04287_logAmplitude_pdf
 -- name    : Arxiv2005_04287.logAmplitude_pdf
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:10:46.5088+00:00
 -- url     : https://prove2.me/theorems/5f8f8928-d2a5-59f0-95b8-3d3178efec23

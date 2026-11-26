@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_CrossedProduct_coeff_one
 -- name    : GroundTheory.Brauer.CrossedProduct.coeff_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:34.791995+00:00
 -- url     : https://prove2.me/theorems/88906a7b-7bd1-4a21-9ed9-5176d5a7315c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ClassFinD_Icf_mem_latI
 -- name    : PIW.ClassFinD.Icf.mem_latI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:49:29.264054+00:00
 -- url     : https://prove2.me/theorems/e9fda542-4794-548b-b74c-5888a9d91a4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_CandidateRAM_Logical_Root_emit_feasible_trials_and_seal
 -- name    : StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Root.emit_feasible_trials_and_seal
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-26T00:58:22.851076+00:00
 -- url     : https://prove2.me/theorems/358e96d8-d374-5003-b5a2-b7a6cc6a8f3d

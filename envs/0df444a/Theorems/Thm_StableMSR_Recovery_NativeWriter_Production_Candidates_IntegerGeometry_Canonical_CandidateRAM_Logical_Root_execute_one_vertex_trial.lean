@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_CandidateRAM_Logical_Root_execute_one_vertex_trial
 -- name    : StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Root.execute_one_vertex_trial
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-26T03:03:48.074057+00:00
 -- url     : https://prove2.me/theorems/d541eb1c-34e2-5103-8ba5-3a0a818712ea

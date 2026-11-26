@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_CandidateRAM_Logical_Root_write_one_boundary_ordinal
 -- name    : StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Root.write_one_boundary_ordinal
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-26T00:53:59.29343+00:00
 -- url     : https://prove2.me/theorems/0d8f8081-25ae-4030-bff8-e7dc94dc832f

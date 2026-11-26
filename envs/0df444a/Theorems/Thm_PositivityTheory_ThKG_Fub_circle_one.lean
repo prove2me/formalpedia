@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Fub_circle_one
 -- name    : PositivityTheory.ThKG.Fub.circle_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:00:44.884287+00:00
 -- url     : https://prove2.me/theorems/89b6ebdd-fc1d-47d9-ac73-cf61efc2319e

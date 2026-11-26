@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_deterministic_exact_recovery
 -- name    : StableMSR.Recovery.deterministic_exact_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:00:20.848148+00:00
 -- url     : https://prove2.me/theorems/6a8c0ab2-0fdc-46c1-beac-599a693f15ee

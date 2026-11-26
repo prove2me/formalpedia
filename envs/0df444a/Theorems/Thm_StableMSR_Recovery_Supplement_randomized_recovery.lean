@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_Supplement_randomized_recovery
 -- name    : StableMSR.Recovery.Supplement.randomized_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T03:15:11.871773+00:00
 -- url     : https://prove2.me/theorems/aff88e2e-2c0b-4177-bd97-8cc2c59f7a4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QNoiseStab_corollary_2_9
 -- name    : QNoiseStab.corollary_2_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T20:22:58.140319+00:00
 -- url     : https://prove2.me/theorems/676330cf-55bc-4e3a-9fba-45c0673866be

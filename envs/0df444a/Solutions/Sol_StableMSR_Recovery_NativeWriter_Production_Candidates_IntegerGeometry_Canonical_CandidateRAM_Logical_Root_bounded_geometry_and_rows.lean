@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Root.bounded_geometry_and_rows
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-24T16:34:41.947845+00:00
 -- url     : https://prove2.me/submissions/b6a18bf4-0901-4e2e-a94c-c79c45862db0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_CandidateRAM_Logical_Root_rows_and_two_tables
 import Definitions.Def_StableMSR_RootComponentRequests

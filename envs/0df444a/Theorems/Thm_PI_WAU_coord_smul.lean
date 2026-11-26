@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_coord_smul
 -- name    : PI.WAU.coord_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:49:00.019808+00:00
 -- url     : https://prove2.me/theorems/a9cf2e0c-6c62-4749-83b7-875a1df8c2b4

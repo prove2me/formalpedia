@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_queue_hjb_joint_limit_filtered_brownian
 -- name    : ManyServerQED.Scheduling.queue_hjb_joint_limit_filtered_brownian
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T03:19:48.792939+00:00
 -- url     : https://prove2.me/theorems/2dccbdd3-3f68-4540-ba32-1ef2628b8e74

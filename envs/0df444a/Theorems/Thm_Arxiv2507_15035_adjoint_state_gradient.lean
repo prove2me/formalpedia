@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2507_15035_adjoint_state_gradient
 -- name    : Arxiv2507_15035.adjoint_state_gradient
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:35:54.563978+00:00
 -- url     : https://prove2.me/theorems/46abd67d-e659-467d-922b-f7ba22d6aeca

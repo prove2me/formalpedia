@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_WeightPf_pullU_val
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.WeightPf.pullU_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:24:47.691467+00:00
 -- url     : https://prove2.me/theorems/c7819932-d7e6-579d-b064-cea78d567c1c

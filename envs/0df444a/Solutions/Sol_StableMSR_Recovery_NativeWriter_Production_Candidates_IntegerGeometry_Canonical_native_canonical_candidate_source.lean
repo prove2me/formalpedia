@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.native_canonical_candidate_source
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-24T01:24:45.11896+00:00
 -- url     : https://prove2.me/submissions/00c87b57-d61d-477d-8e4c-1b950bfc4697
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_StableMSR_CandidateInterpreter
 import Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_CandidateRAM_bounded_tape_evaluation

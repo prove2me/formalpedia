@@ -10704,7 +10704,7 @@
 {"parent": "BookProof.SecondQuantizationCore.isGraphCore_fockSectorCore", "child": "ChapterDirectSumEsa", "via": ["solution", "statement"]}
 {"parent": "BookProof.SecondQuantizationCore.isGraphCore_fockSectorCore", "child": "ChapterGraphCoreTransfer", "via": ["solution", "statement"]}
 {"parent": "NLogN.KIL.mid_run", "child": "IntMul_Kappa_K_Defs18", "via": ["solution", "statement"]}
-{"parent": "ClassNumberFormula.quadratic_dedekindZeta_eq_zeta_mul_L", "child": "ClassNumberFormula_Kronecker", "via": ["statement"]}
+{"parent": "ClassNumberFormula.quadratic_dedekindZeta_eq_zeta_mul_L", "child": "ClassNumberFormula_Kronecker", "via": ["solution", "statement"]}
 {"parent": "NLogN.KFG.gate_iruns", "child": "IntMul_Kappa_K_Defs18", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Nannicini.reducedDensity_prob", "child": "QAlgorithms_Defs_Measurement", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms_Defs_CompressedOracle", "child": "QAlgorithms_Defs_Polynomial", "via": ["statement"]}

@@ -59124,10 +59124,10 @@
 {"parent": "OAI.CubicEisenstein.ramifiedFrequencyChar_mk", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ResidualFourierSeries", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.ramifiedFrequencyChar_mk", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ScatteringResidues", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.ramifiedFrequencyChar_mk", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SourceProjection", "via": ["solution", "statement"]}
-{"parent": "QNoiseStab.theorem_3_4", "child": "QAlgorithms_Defs_Basic", "via": ["statement"]}
-{"parent": "QNoiseStab.theorem_3_4", "child": "QNoiseStab_noiseProb", "via": ["statement"]}
-{"parent": "QNoiseStab.theorem_3_4", "child": "QNoiseStab_projLowDeg", "via": ["statement"]}
-{"parent": "QNoiseStab.theorem_3_4", "child": "QNoiseStab_projEvent", "via": ["statement"]}
+{"parent": "QNoiseStab.theorem_3_4", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.theorem_3_4", "child": "QNoiseStab_noiseProb", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.theorem_3_4", "child": "QNoiseStab_projLowDeg", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.theorem_3_4", "child": "QNoiseStab_projEvent", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.reopenedCanonicalRow_twoPassage_uniform_height", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ReopenedFibers", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.reopenedCanonicalRow_twoPassage_uniform_height", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ReopeningSeparation", "via": ["solution", "statement"]}
 {"parent": "UnitalMIP.theorem_5_5", "child": "MIPRE_Foundations_ClassMIPStarComputable", "via": ["statement"]}
@@ -67001,10 +67001,10 @@
 {"parent": "OAI.ShortDraftCusp.A3_ramified_fixed_factor_congr", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ResidualCuspDecay", "via": ["solution", "statement"]}
 {"parent": "OAI.ShortDraftCusp.A3_ramified_fixed_factor_congr", "child": "OAI_NumberTheory_DirichletL_Eisenstein_BesselMellinTransform", "via": ["solution", "statement"]}
 {"parent": "OAI.ShortDraftCusp.A3_ramified_fixed_factor_congr", "child": "OAI_NumberTheory_DirichletL_Eisenstein_TranslatedFourierResidues", "via": ["solution", "statement"]}
-{"parent": "QNoiseStab.corollary_2_9", "child": "QNoiseStab_fourierWeight", "via": ["statement"]}
-{"parent": "QNoiseStab.corollary_2_9", "child": "QAlgorithms_Defs_Query", "via": ["statement"]}
-{"parent": "QNoiseStab.corollary_2_9", "child": "QNoiseStab_phaseQuery", "via": ["statement"]}
-{"parent": "QNoiseStab.corollary_2_9", "child": "QNoiseStab_fourierVec", "via": ["statement"]}
+{"parent": "QNoiseStab.corollary_2_9", "child": "QNoiseStab_fourierWeight", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.corollary_2_9", "child": "QAlgorithms_Defs_Query", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.corollary_2_9", "child": "QNoiseStab_phaseQuery", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.corollary_2_9", "child": "QNoiseStab_fourierVec", "via": ["solution", "statement"]}
 {"parent": "Q226II011", "child": "Q226II009", "via": ["statement"]}
 {"parent": "Q226II011", "child": "IsometricImmersion", "via": ["statement"]}
 {"parent": "Q226II011", "child": "Q226II007", "via": ["statement"]}
@@ -68392,8 +68392,8 @@
 {"parent": "DepthOptQC.Synth.lemma_4", "child": "DepthOptQC_Synth_bmax", "via": ["statement"]}
 {"parent": "GrothendieckPD.Digits.lemma_3_3", "child": "GrothendieckPD_Digits_GradedSpace", "via": ["statement"]}
 {"parent": "TestableSanitization_Robust_Params", "child": "TestableSanitization_Robust_Boundary", "via": ["statement"]}
-{"parent": "QNoiseStab.proposition_3_2", "child": "QNoiseStab_noiseKernel", "via": ["statement"]}
-{"parent": "QNoiseStab.proposition_3_2", "child": "QNoiseStab_noiseOp", "via": ["statement"]}
+{"parent": "QNoiseStab.proposition_3_2", "child": "QNoiseStab_noiseKernel", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.proposition_3_2", "child": "QNoiseStab_noiseOp", "via": ["solution", "statement"]}
 {"parent": "Q226II012", "child": "Q226II009", "via": ["statement"]}
 {"parent": "Q226II012", "child": "IsometricImmersion", "via": ["statement"]}
 {"parent": "Q226II012", "child": "Q226II007", "via": ["statement"]}
@@ -72866,8 +72866,8 @@
 {"parent": "QuantumSepPoly_Frobenius_Quartic", "child": "QuantumSepPoly_Frobenius_SeparableStates", "via": ["statement"]}
 {"parent": "DetSpectralSparsify.Dense.lemma_11", "child": "DetSpectralSparsify_Dense_Machine", "via": ["statement"]}
 {"parent": "BatchStabilizer.Learning.lemma_7_3", "child": "BatchStabilizer_Learning_Bell", "via": ["statement"]}
-{"parent": "QNoiseStab.proposition_3_1", "child": "QNoiseStab_singleNoiseOp", "via": ["statement"]}
-{"parent": "QNoiseStab.proposition_3_1", "child": "QNoiseStab_coordNoise", "via": ["statement"]}
+{"parent": "QNoiseStab.proposition_3_1", "child": "QNoiseStab_singleNoiseOp", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.proposition_3_1", "child": "QNoiseStab_coordNoise", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.sourceEisenstein_four_cusps", "child": "OAI_NumberTheory_DirichletL_Eisenstein_RationalTranslations", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.sourceEisenstein_four_cusps", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ResidualFourierExpansion", "via": ["solution", "statement"]}
 {"parent": "OCEClocks_DisplayAds_Algorithm", "child": "OCEClocks_DisplayAds_Potential", "via": ["statement"]}
@@ -76659,8 +76659,8 @@
 {"parent": "QEC.Coding.BDL26NativeTriangleKeys.atlas_original_row", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeTriangleKeys", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.periodVector_eq_lattice", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SourceQuotient", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.periodVector_eq_lattice", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SourceProjection", "via": ["solution", "statement"]}
-{"parent": "QNoiseStab.lemma_3_3", "child": "QNoiseStab_projLowDeg", "via": ["statement"]}
-{"parent": "QNoiseStab.lemma_3_3", "child": "QNoiseStab_noiseOp", "via": ["statement"]}
+{"parent": "QNoiseStab.lemma_3_3", "child": "QNoiseStab_projLowDeg", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.lemma_3_3", "child": "QNoiseStab_noiseOp", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26FirstReplacementSparseExactness.ScaleDependent.exists_zero_slice", "child": "QEC_Coding_FiniteAlternatingConstruction_LevelTwoDecoderZero", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26FirstReplacementSparseExactness.ScaleDependent.exists_zero_slice", "child": "QEC_Coding_FiniteAlternatingConstruction_RXCohomology_Equivalence", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26FirstReplacementSparseExactness.ScaleDependent.exists_zero_slice", "child": "QEC_Coding_FiniteAlternatingConstruction_BottomLocalFirstMinWeightComparison", "via": ["solution", "statement"]}
@@ -81162,10 +81162,10 @@
 {"parent": "QEC.Coding.BDL26RandomPerturbation.orderedInsertQuery_map_pair", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_ActualExecutionCost", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.orderedInsertQuery_map_pair", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_CountedCostMeasurability", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.orderedInsertQuery_map_pair", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_JointExecution", "via": ["solution", "statement"]}
-{"parent": "QNoiseStab.theorem_3_5", "child": "QNoiseStab_eventSet", "via": ["statement"]}
-{"parent": "QNoiseStab.theorem_3_5", "child": "QAlgorithms_Defs_Query", "via": ["statement"]}
-{"parent": "QNoiseStab.theorem_3_5", "child": "QNoiseStab_noiseProb", "via": ["statement"]}
-{"parent": "QNoiseStab.theorem_3_5", "child": "QNoiseStab_successProb", "via": ["statement"]}
+{"parent": "QNoiseStab.theorem_3_5", "child": "QNoiseStab_eventSet", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.theorem_3_5", "child": "QAlgorithms_Defs_Query", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.theorem_3_5", "child": "QNoiseStab_noiseProb", "via": ["solution", "statement"]}
+{"parent": "QNoiseStab.theorem_3_5", "child": "QNoiseStab_successProb", "via": ["solution", "statement"]}
 {"parent": "EarlyStoppingEIG.Exact.theorem_26", "child": "EarlyStoppingEIG_Exact_StatementContext", "via": ["statement"]}
 {"parent": "OAIQ231Rr002", "child": "OAIQ231Rr000", "via": ["statement"]}
 {"parent": "FullForesight.Randomized.lemma_2", "child": "FullForesight_Randomized_AdditionRobust", "via": ["solution", "statement"]}

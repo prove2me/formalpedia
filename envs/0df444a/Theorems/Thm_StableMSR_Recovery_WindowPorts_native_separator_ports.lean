@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowPorts_native_separator_ports
 -- name    : StableMSR.Recovery.WindowPorts.native_separator_ports
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T23:18:24.055413+00:00
 -- url     : https://prove2.me/theorems/2301bbed-0665-446f-a523-ff50ed19d6c6

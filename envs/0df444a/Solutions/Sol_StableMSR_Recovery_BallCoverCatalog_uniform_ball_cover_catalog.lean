@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.BallCoverCatalog.uniform_ball_cover_catalog
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-20T20:34:10.979874+00:00
 -- url     : https://prove2.me/submissions/89b95ff7-dbdf-4eb2-9093-32d79144cfb2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_StableMSR_Recovery_CartesianBallRows_cartesian_row_machine
 import Theorems.Thm_StableMSR_Recovery_CartesianBallRows_cartesian_rows_certify_partitions

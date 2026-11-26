@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2005_04287_intensity_pdf_lomax
 -- name    : Arxiv2005_04287.intensity_pdf_lomax
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:10:26.053904+00:00
 -- url     : https://prove2.me/theorems/52e8f5a0-d78f-5eb6-957b-fc23eb1ece4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_coeff_zero_teichmuller_add_mul_p
 -- name    : GroundTheory.PAdicHodge.coeff_zero_teichmuller_add_mul_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:01:06.146798+00:00
 -- url     : https://prove2.me/theorems/9aa1d840-467f-504f-9322-ccf10ad24af2

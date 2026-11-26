@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_RegionalBallDP_dense_local_region_menu_generator
 -- name    : StableMSR.Recovery.RegionalBallDP.dense_local_region_menu_generator
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-21T13:13:43.296324+00:00
 -- url     : https://prove2.me/theorems/d7b21840-6701-4f78-8793-1f21b839dfa8

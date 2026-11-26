@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.SingleWindows.emit_singleton_separator_grammar
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-23T00:13:47.168777+00:00
 -- url     : https://prove2.me/submissions/619d15d1-dc30-4261-abd6-97a8152c010f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_StableMSR_DenseSingletonCompilation
 import Theorems.Thm_StableMSR_Recovery_SingleRAM_native_dense_window_circuits

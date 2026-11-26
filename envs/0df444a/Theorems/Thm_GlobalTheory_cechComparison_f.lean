@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechComparison_f
 -- name    : GlobalTheory.cechComparison_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:43:09.201243+00:00
 -- url     : https://prove2.me/theorems/10c0f55f-2966-5552-b007-327f4ce68f7a

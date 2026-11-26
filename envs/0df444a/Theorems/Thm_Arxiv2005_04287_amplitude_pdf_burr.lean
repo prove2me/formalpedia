@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2005_04287_amplitude_pdf_burr
 -- name    : Arxiv2005_04287.amplitude_pdf_burr
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:09:08.162608+00:00
 -- url     : https://prove2.me/theorems/df30744d-2829-5665-9968-49d2bdf94849

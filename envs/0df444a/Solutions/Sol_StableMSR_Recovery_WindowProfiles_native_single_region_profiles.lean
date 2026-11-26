@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.WindowProfiles.native_single_region_profiles
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-22T22:47:07.594803+00:00
 -- url     : https://prove2.me/submissions/a69029ee-86b1-4056-8d5a-f9f60122e687
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_StableMSR_Recovery_WindowJoins_native_window_join_records
 import Theorems.Thm_StableMSR_Recovery_WindowJoins_native_join_decoder

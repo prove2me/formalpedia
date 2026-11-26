@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowCSP_bounded_width_window_search_program
 -- name    : StableMSR.Recovery.WindowCSP.bounded_width_window_search_program
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-21T16:04:14.6073+00:00
 -- url     : https://prove2.me/theorems/305b164a-bfc8-43ef-9d64-99d7435efca8

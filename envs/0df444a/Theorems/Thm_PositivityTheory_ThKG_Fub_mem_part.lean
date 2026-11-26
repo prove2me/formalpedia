@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Fub_mem_part
 -- name    : PositivityTheory.ThKG.Fub.mem_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:00:44.500188+00:00
 -- url     : https://prove2.me/theorems/5129feba-30d5-4758-a209-0f80f1945045

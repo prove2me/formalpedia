@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.FewBallRows.dense_ball_cover_catalog
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-21T13:13:34.519182+00:00
 -- url     : https://prove2.me/submissions/f116206f-e457-4c41-81ee-42be6c2d9962
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_StableMSR_Recovery_RegionalBallDP_dense_factorized_regional_catalog
 import Theorems.Thm_StableMSR_Recovery_RegionalBallDP_decode_regional_menus

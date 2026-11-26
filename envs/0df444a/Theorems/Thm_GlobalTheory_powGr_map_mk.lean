@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_powGr_map_mk
 -- name    : GlobalTheory.powGr.map_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:49:21.530488+00:00
 -- url     : https://prove2.me/theorems/0489f2bc-26e4-5630-8592-72a79d063015

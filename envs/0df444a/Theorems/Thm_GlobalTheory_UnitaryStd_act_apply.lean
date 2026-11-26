@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryStd_act_apply
 -- name    : GlobalTheory.UnitaryStd.act_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:42:02.800504+00:00
 -- url     : https://prove2.me/theorems/0216aad7-c167-48d6-9239-277790ac4494

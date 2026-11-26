@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2012_05254_polygon_closure_phase_fan_sum
 -- name    : Arxiv2012_05254.polygon_closure_phase_fan_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T04:46:48.106321+00:00
 -- url     : https://prove2.me/theorems/5ea3cb8f-643f-4a84-a9b3-f9e0f9665755

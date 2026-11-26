@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for StableMSR.Recovery.SingleRAM.native_dense_window_circuits
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-24T01:10:27.024572+00:00
 -- url     : https://prove2.me/submissions/3f338248-e4b1-4896-94d6-5af691523a61
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_StableMSR_CanonicalRegionalCompiler
 import Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_ordered_production_replay

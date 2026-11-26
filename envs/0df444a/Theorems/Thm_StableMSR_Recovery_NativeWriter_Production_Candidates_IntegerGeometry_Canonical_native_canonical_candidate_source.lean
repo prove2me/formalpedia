@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_native_canonical_candidate_source
 -- name    : StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.native_canonical_candidate_source
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-24T01:03:10.630325+00:00
 -- url     : https://prove2.me/theorems/96982b12-39e9-4727-82ba-ab800b56b1eb

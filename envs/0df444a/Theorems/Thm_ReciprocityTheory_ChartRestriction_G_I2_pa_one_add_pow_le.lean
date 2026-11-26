@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_pa_one_add_pow_le
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.pa_one_add_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:31:33.398237+00:00
 -- url     : https://prove2.me/theorems/89095bab-794e-5182-8059-40d75033e1e3

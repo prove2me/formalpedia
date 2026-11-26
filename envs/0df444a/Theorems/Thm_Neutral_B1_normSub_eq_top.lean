@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_normSub_eq_top
 -- name    : Neutral.B1.normSub_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:04:15.134649+00:00
 -- url     : https://prove2.me/theorems/ef25ea24-f05f-4ec1-9f31-599f3381bac4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_permGL_injective
 -- name    : GroundTheory.Automorphic.permGL_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:54:00.00613+00:00
 -- url     : https://prove2.me/theorems/6d138d08-2c3a-4a66-b967-349320aad510

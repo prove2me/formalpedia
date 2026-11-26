@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_star_ne
 -- name    : GlobalTheory.exists_star_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:01.896359+00:00
 -- url     : https://prove2.me/theorems/6b743d4a-1384-4cfa-9629-946eec013d9a

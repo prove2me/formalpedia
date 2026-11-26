@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairW_mem_lam
 -- name    : PI.SqPairW.mem_lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:48:01.620927+00:00
 -- url     : https://prove2.me/theorems/2233cf5e-9f95-4ad1-a676-4d497276670e

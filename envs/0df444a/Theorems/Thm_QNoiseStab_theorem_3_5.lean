@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QNoiseStab_theorem_3_5
 -- name    : QNoiseStab.theorem_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T20:23:48.347491+00:00
 -- url     : https://prove2.me/theorems/da2da167-86c9-41d1-882f-8123ea789508

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_reimL_apply
 -- name    : PI.AprimeInfW.reimL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:44:07.046363+00:00
 -- url     : https://prove2.me/theorems/068c844e-2385-5469-bfb2-e6d981150335

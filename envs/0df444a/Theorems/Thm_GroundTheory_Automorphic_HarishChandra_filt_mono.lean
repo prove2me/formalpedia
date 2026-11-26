@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_filt_mono
 -- name    : GroundTheory.Automorphic.HarishChandra.filt_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:53:28.294436+00:00
 -- url     : https://prove2.me/theorems/83b74439-7361-496c-87df-b2faa2737ef2

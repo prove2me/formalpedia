@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_fixedSubalgebra_iff
 -- name    : GlobalTheory.mem_fixedSubalgebra_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:24.582566+00:00
 -- url     : https://prove2.me/theorems/e227d959-229e-4954-a377-2d5c9442978f

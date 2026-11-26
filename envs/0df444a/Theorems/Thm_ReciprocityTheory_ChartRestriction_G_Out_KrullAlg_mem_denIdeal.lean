@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_KrullAlg_mem_denIdeal
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.KrullAlg.mem_denIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:19:46.84715+00:00
 -- url     : https://prove2.me/theorems/b6ef4810-cb19-50f4-b760-2ae067d9289f

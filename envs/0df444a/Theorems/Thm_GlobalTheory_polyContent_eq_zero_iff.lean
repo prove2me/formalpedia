@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polyContent_eq_zero_iff
 -- name    : GlobalTheory.polyContent_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:49:31.819919+00:00
 -- url     : https://prove2.me/theorems/0fff1a9f-f057-47c0-8f34-c48f9d3cf309

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSub_isDVR
 -- name    : GlobalTheory.UnramSub.isDVR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:42:30.103583+00:00
 -- url     : https://prove2.me/theorems/535877ec-cd09-5bbf-bd27-8cd30dfb74e0

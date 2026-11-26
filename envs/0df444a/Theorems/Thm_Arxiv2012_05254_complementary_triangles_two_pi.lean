@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2012_05254_complementary_triangles_two_pi
 -- name    : Arxiv2012_05254.complementary_triangles_two_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T04:23:40.132386+00:00
 -- url     : https://prove2.me/theorems/af3b8137-966e-4340-95fe-36577e187fae

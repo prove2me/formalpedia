@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_polyContent_eq
 -- name    : GlobalTheory.exists_polyContent_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:11.531907+00:00
 -- url     : https://prove2.me/theorems/2a90362a-4ed7-42fc-b522-0322bf1d7093

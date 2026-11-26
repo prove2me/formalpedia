@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_CartesianBallRows_interior_ball_cover_catalog
 -- name    : StableMSR.Recovery.CartesianBallRows.interior_ball_cover_catalog
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-20T20:28:47.385403+00:00
 -- url     : https://prove2.me/theorems/d84b36c0-8e45-4273-8b01-216fdb0179f5

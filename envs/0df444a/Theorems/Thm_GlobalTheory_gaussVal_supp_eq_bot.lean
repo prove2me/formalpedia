@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussVal_supp_eq_bot
 -- name    : GlobalTheory.gaussVal_supp_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:02.618804+00:00
 -- url     : https://prove2.me/theorems/769cb39d-9942-44b7-b562-c6628ed10dc9

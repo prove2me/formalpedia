@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for StableMSR.Recovery.deterministic_exact_recovery
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-24T16:40:57.431535+00:00
 -- url     : https://prove2.me/submissions/5fd55c39-47a2-406e-833f-426046d10bfa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_StableMSR_Recovery_exact_recovery_of_initialized_separator_traversal
 import Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_CandidateRAM_Logical_Root_root_requests_exact

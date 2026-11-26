@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BesselDerivW_liftA_apply
 -- name    : PI.BesselDerivW.liftA_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:44:09.472436+00:00
 -- url     : https://prove2.me/theorems/28767383-39a1-5b05-865d-524fc21179d4

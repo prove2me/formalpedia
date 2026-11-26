@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryStd_zero_apply
 -- name    : GlobalTheory.UnitaryStd.zero_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:42:06.745496+00:00
 -- url     : https://prove2.me/theorems/1c697131-b43e-5eaf-a126-77e50fc9b929

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechFunctor_eq
 -- name    : GlobalTheory.cechFunctor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:35.298645+00:00
 -- url     : https://prove2.me/theorems/2f024194-463b-5606-bb43-334d806e41ed

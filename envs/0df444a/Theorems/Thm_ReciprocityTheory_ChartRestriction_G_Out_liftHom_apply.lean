@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_liftHom_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.liftHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:24:47.055697+00:00
 -- url     : https://prove2.me/theorems/4961ad30-a543-51c1-9f17-43b952a55c95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_Supplement_rational_single_run_program
 -- name    : StableMSR.Recovery.Supplement.rational_single_run_program
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-19T01:00:52.794581+00:00
 -- url     : https://prove2.me/theorems/d8c30720-a01c-479d-9872-06a7b7e14570

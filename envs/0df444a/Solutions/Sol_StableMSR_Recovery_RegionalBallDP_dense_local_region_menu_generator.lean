@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.RegionalBallDP.dense_local_region_menu_generator
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-21T16:10:54.148163+00:00
 -- url     : https://prove2.me/submissions/aa5db9f6-00b6-4935-b078-56ac40122e6e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_StableMSR_Recovery_WindowCSP_dense_aligned_scenario_program
 import Theorems.Thm_StableMSR_Recovery_WindowCSP_bounded_width_window_search_program

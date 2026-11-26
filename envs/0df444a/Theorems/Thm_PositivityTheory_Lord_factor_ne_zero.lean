@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lord_factor_ne_zero
 -- name    : PositivityTheory.Lord.factor_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:54:13.336355+00:00
 -- url     : https://prove2.me/theorems/72967c85-1eec-5ee8-af0c-be0ff7ad0583

@@ -1,0 +1,147 @@
+-- Prove2me | Definitions.Def_RPLib_FX_EtPBC_219
+-- name    : RPLib_FX_EtPBC_219
+-- status  : Definition
+-- author  : @Nickrobbins95
+-- created : 2026-11-26T04:08:38.734575+00:00
+-- url     : https://prove2.me/theorems/ea44dd33-c62d-5da9-a4e2-c462ca661a81
+-- title:
+--   Proper base change for the projective line, library file 219
+-- statement:
+--   File 219 of the proper base change library for the projective line: declarations re-hosted from the following library modules, in dependency order.
+--
+--   * `S4.Def_RP_EtPBC_A_PBCP1`: S4-EtPBC-A, G0': base change in degrees `≥ 3`, and proper base change for `P¹_S` modulo degrees `1, 2`
+--   * `S4.Def_RP_EtPBC_A_O2Gen2`: S4-EtPBC-A, O2 Gen2: one-point classes on `P¹` are sums of point classes
+--
+--   **Formalization note.** One file of a library formalizing proper base change for the projective line: for a noetherian scheme $S$ locally of finite type over an algebraically closed field $K$, the projection $\pi : \mathbf P^1_S \to S$ and a $K$-point $s$ of $S$, the stalk of $R^q \pi_* F$ at $s$ is the étale cohomology $H^q(\mathbf P^1_s, F|_{\mathbf P^1_s})$ of the fibre, for sheaves of $\Lambda$-modules with $\ell^m \Lambda = 0$ and $\ell$ invertible in $K$. The declarations of each library module are re-hosted verbatim (with that module's own `namespace` / `open` / `variable` lines) inside one `section` ... `end` per module, in dependency order; declarations no later result uses are left out. They are definitions together with proved lemmas (no `sorry`), so that later files and solution files can import them.
+-- source:
+--   SGA 4, Exposé XII (M. Artin, théorème de changement de base pour un morphisme propre), Lecture Notes in Math. 305, Springer (1973); J. S. Milne, Étale Cohomology, Princeton University Press (1980), Chapter VI, §2 (the proper base change theorem) and §1 (cohomology of curves); P. Deligne, Cohomologie étale (SGA 4½), « Arcata », Chapter IV
+
+import Mathlib
+import Definitions.Def_RPLib_FX_EtPBC_218
+
+/-!
+# Proper base change for the projective line, library file 219
+
+Declarations of the formalization of proper base change for the étale cohomology of the projective
+line over a base (geometric stalks of the higher direct images of P¹_S → S are the étale cohomology of
+the geometric fibres), re-hosted declaration by declaration from the library modules below. Each module
+contributes the declarations assigned to this file, copied verbatim with the module's own `namespace` /
+`open` / `variable` lines, inside its own `section` ... `end`:
+
+* `S4.Def_RP_EtPBC_A_PBCP1`: S4-EtPBC-A, G0': base change in degrees `≥ 3`, and proper base change for `P¹_S` modulo degrees `1, 2`
+* `S4.Def_RP_EtPBC_A_O2Gen2`: S4-EtPBC-A, O2 Gen2: one-point classes on `P¹` are sums of point classes
+-/
+
+set_option autoImplicit false
+
+-- ===== S4.Def_RP_EtPBC_A_PBCP1 =====
+section
+
+/-!
+# S4-EtPBC-A, G0': base change in degrees `≥ 3`, and proper base change for `P¹_S` modulo degrees `1, 2`
+
+For `g = pullback.snd : P¹_K ×_K S ⟶ S` (`K = K̄`, `ℓ ≠ char K`, `ℓ^m Λ = 0`) and a `K`-rational geometric point `s`:
+* **`p1Bundle_bcSurj_add_three`**: base change is surjective on germs in degrees `q + 3` for every sheaf
+  (`H^(q+3)(P¹_K, -) = 0`);
+* **`pbc_p1_of_surj`**: if base change is surjective on germs in degrees `1` and `2` for every sheaf, then
+  `(R^q g_* F)_s ≃ H^q(P_s, F|P_s)` for every sheaf `F` and every `q` (`S` noetherian of finite type over `K`).
+-/
+
+set_option autoImplicit false
+
+open AlgebraicGeometry CategoryTheory Limits Opposite Abelian
+
+noncomputable section
+
+namespace RamanujanPetersson.EtPBC
+
+open RamanujanPetersson.EtSheaves RamanujanPetersson.EtCompact RamanujanPetersson.EtPBC.Z3
+
+section P1Vanish3
+
+variable (K : Type) [Field K] [IsAlgClosed K] {Λ : Type} [CommRing Λ] (l : ℕ) [Fact l.Prime]
+  (hl : (l : K) ≠ 0) (m : ℕ) (hΛ : ((l ^ m : ℕ) : Λ) = 0)
+  {S : Scheme.{0}} (gS : S ⟶ Spec (CommRingCat.of K)) (s : GeomPt S) [IsIso (s.pt ≫ gS)]
+
+include hl hΛ
+
+/-- **Proper base change for `P¹_S`, given surjectivity on germs in degrees `1` and `2`.** -/
+theorem pbc_p1_of_surj (p : ℕ) [ExpChar K p] [PerfectRing K p] [IsNoetherianRing Λ] [IsNoetherian S]
+    [LocallyOfFiniteType gS]
+    (h1 : ∀ G, BCSurj Λ (qV K gS) s 1 G) (h2 : ∀ G, BCSurj Λ (qV K gS) s 2 G) (F : EtSh Λ (PV K gS)) (q : ℕ) :
+    Nonempty (ToType ((s.stalkF Λ).obj (((push (qV K gS) Λ).rightDerived q).obj F)) ≃+
+      H Λ ((pull (fibι (qV K gS) s) Λ).obj F) q) := by
+  have : IsNoetherian (PV K gS) := {}
+  refine pbc_of_germs Λ (qV K gS) s (fun G => bcInj_zero Λ (qV K gS) s G) (fun q G => ?_) F q
+  match q with
+  | 0 => exact GenGeo.bcSurj_zero_qV K p gS s G
+  | 1 => exact h1 G
+  | 2 => exact h2 G
+  | n + 3 => exact p1Bundle_bcSurj_add_three K l hl m hΛ gS s n G
+
+end P1Vanish3
+
+end RamanujanPetersson.EtPBC
+
+end
+
+end
+
+-- ===== S4.Def_RP_EtPBC_A_O2Gen2 =====
+section
+
+/-!
+# S4-EtPBC-A, O2 Gen2: one-point classes on `P¹` are sums of point classes
+
+* `genT Λ hN hΛ T`: the subgroup generated by point classes `PtCls Λ c hN hΛ T` over all charts `c : A¹ ⟶ P¹`;
+* `comp_mem_genT`: `genT` is stable under `x ↦ x ∘ Λ[r]`;
+* `good_mem_genT`: an `IsLoc` class at a point of generic degree lies in `genT` (`isLoc_free_good`);
+* `isLoc_comp_mem`: for `R` affine, every `IsLoc` class `β'` of `Λ[R]` has `β' ∘ Λ[r] ∈ genT` (`pp_isLoc` over a
+  moved chart `chartM c₀` missing a generic-degree point);
+* `isLoc_mem_genT`: every `IsLoc` class of `Λ[T]` lies in `genT` (`isLoc_free_res`);
+* **`gen_free`**: with `N = l ^ m`, every class in `Ext² (Λ, Λ[T])` lies in `genT` (`mem_locSpan_P1`).
+-/
+
+set_option autoImplicit false
+set_option linter.unusedSectionVars false
+
+open AlgebraicGeometry CategoryTheory Limits Opposite Abelian Polynomial
+
+noncomputable section
+
+namespace RamanujanPetersson.EtPBC.EtKum
+
+open RamanujanPetersson.EtSheaves RamanujanPetersson.EtPBC RamanujanPetersson.EtCompact
+  RamanujanPetersson.EtCompact.Cech RamanujanPetersson.EtPBC.GenGeo RamanujanPetersson.EtPBC.EtMV
+  RamanujanPetersson.EtPBC.EtShap RamanujanPetersson.EtPBC.EtDeg RamanujanPetersson.EtCompact.Pur
+  RamanujanPetersson.EtPi1 RamanujanPetersson.Kummer RamanujanPetersson.EtCompact.GalTrE
+  RamanujanPetersson.EtCompact.CurveHn RamanujanPetersson.EtCompact.PushStk RamanujanPetersson.EtCompact.PushBC
+
+section Gen
+
+end Gen
+
+section Free
+
+variable (k : Type) [Field k] [IsAlgClosed k] {Λ : Type} [CommRing Λ] (l : ℕ) [Fact l.Prime] (hl : (l : k) ≠ 0)
+  (m : ℕ) [NeZero (l ^ m)] (hN : ((l ^ m : ℕ) : k) ≠ 0) (hΛ : ∀ x : Λ, (l ^ m) • x = 0)
+
+include hl in
+/-- **`H²(P¹, Λ[T])` is generated by point classes** (`N = l ^ m`, `T` affine, separated, finite fibres). -/
+theorem gen_free (T : (P1 k).Etale) [IsSeparated T.hom] (hTa : IsAffineHom T.hom)
+    (hTf : ∀ x : P1 k, Finite ((geomPtAt x).point.fiber.obj T))
+    (β : Ext.{0} (freeSh Λ (etId (P1 k))) (freeSh Λ T) 2) : β ∈ genT Λ hN hΛ T := by
+  have hΛ' : ((l ^ m : ℕ) : Λ) = 0 := (nsmul_one (l ^ m)).symm.trans (hΛ 1)
+  refine (AddSubgroup.closure_le _).2 ?_ (mem_locSpan_P1 k l hl m hΛ' (freeSh Λ T) β)
+  rintro γ ⟨z, hγ⟩
+  exact isLoc_mem_genT Λ hN hΛ T hTa hTf z γ hγ
+
+end Free
+
+end RamanujanPetersson.EtPBC.EtKum
+
+end
+
+end
+
+

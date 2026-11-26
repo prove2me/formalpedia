@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_real_smul_le_real_smul_of_le
 -- name    : GlobalTheory.real_smul_le_real_smul_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:58.51444+00:00
 -- url     : https://prove2.me/theorems/8dbf7920-59a1-4f99-a812-2a6fa01a8d04

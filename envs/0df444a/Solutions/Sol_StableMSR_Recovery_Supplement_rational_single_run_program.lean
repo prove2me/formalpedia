@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.Supplement.rational_single_run_program
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-20T18:09:29.640156+00:00
 -- url     : https://prove2.me/submissions/d4cb6354-f9a4-46d4-888d-b9f5c1069863
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_StableMSR_Recovery_rational_recovery_program
 import Theorems.Thm_StableMSR_Recovery_validLabels_feasible

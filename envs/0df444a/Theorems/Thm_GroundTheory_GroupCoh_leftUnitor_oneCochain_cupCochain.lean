@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_leftUnitor_oneCochain_cupCochain
 -- name    : GroundTheory.GroupCoh.leftUnitor_oneCochain_cupCochain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:58:33.576054+00:00
 -- url     : https://prove2.me/theorems/2fac721e-ab9c-4e99-976f-4b16439be5fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2001_06227_single_scattering_reflection_transmission
 -- name    : Arxiv2001_06227.single_scattering_reflection_transmission
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T08:28:03.018709+00:00
 -- url     : https://prove2.me/theorems/bff935b8-3ea3-542c-9fca-0d37a3376f6c

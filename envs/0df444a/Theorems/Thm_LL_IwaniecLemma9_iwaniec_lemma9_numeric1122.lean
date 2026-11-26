@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_IwaniecLemma9_iwaniec_lemma9_numeric1122
 -- name    : LL_IwaniecLemma9.iwaniec_lemma9_numeric1122
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-25T13:03:06.706585+00:00
 -- url     : https://prove2.me/theorems/f68af4f8-c022-5eb0-b736-bde332964ee1

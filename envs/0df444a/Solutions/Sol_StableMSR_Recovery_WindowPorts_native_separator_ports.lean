@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.WindowPorts.native_separator_ports
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-22T23:26:25.196734+00:00
 -- url     : https://prove2.me/submissions/eae89390-435e-4af0-969b-260ed07ea43a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_StableMSR_WindowBlockMasks
 import Theorems.Thm_StableMSR_Recovery_WindowMasks_native_regional_block_incidences

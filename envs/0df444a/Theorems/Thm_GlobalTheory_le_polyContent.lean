@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_le_polyContent
 -- name    : GlobalTheory.le_polyContent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:48:32.866186+00:00
 -- url     : https://prove2.me/theorems/f265d2fd-7b35-4dee-8080-d385c5bf620b

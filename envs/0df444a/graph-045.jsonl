@@ -21085,7 +21085,7 @@
 {"parent": "Development_AbelianVarietyTheory_BlockTheory_JetGauges_FormalDegreeHaarQuotient", "child": "Formalism_FormalDegreeBessel_StatementBF", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_BlockTheory_JetGauges_FormalDegreeHaarQuotient", "child": "GlobalTheory.IndefiniteRowSideFullHecke.DecreasingNodeGaps.param_node", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_BlockTheory_JetGauges_FormalDegreeHaarQuotient", "child": "GlobalTheory.IndefiniteRowSideFullHecke.DecreasingNodeGaps.param_cloud", "via": ["statement"]}
-{"parent": "Arxiv2012_05254.complementary_triangles_two_pi", "child": "Arxiv2012_05254_Basic", "via": ["statement"]}
+{"parent": "Arxiv2012_05254.complementary_triangles_two_pi", "child": "Arxiv2012_05254_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_ringKrullDim_quotient_le_sub_height_808b740a2d61", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_StatementsComponentDim", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_ringKrullDim_quotient_le_sub_height_808b740a2d61", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArithmeticIntersection_MultihomogeneousIdeals_CycDim", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_ringKrullDim_quotient_le_sub_height_808b740a2d61", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterDivSuppAB", "via": ["statement"]}
@@ -27553,7 +27553,7 @@
 {"parent": "GlobalTheory.DegCnt.Unimod.exists_mul_mem", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_ImportsBisTer", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DegCnt.Unimod.exists_mul_mem", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_InvVolMulPosLeConj", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DegCnt.Unimod.exists_mul_mem", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_NormalFormDualOrthogonalLast", "via": ["solution", "statement"]}
-{"parent": "Arxiv2012_05254.polygon_closure_phase_fan_sum", "child": "Arxiv2012_05254_Basic", "via": ["statement"]}
+{"parent": "Arxiv2012_05254.polygon_closure_phase_fan_sum", "child": "Arxiv2012_05254_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Targets_LelongWeightDiff_measurable_chartDens_039b8fbc9b8f", "child": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_PLelongWeightDiffLemmas", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Targets_LelongWeightDiff_measurable_chartDens_039b8fbc9b8f", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PCutOffDominated", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Targets_LelongWeightDiff_measurable_chartDens_039b8fbc9b8f", "child": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_StLelongWeightDiff", "via": ["solution", "statement"]}
@@ -48043,11 +48043,11 @@
 {"parent": "PI.exp_mem_UH", "child": "Formalism_PeriodIntegrals_ContinuousExpLie", "via": ["solution", "statement"]}
 {"parent": "PI.exp_mem_UH", "child": "Formalism_PeriodIntegrals_HaarDefs", "via": ["solution", "statement"]}
 {"parent": "PI.exp_mem_UH", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.UnimodLocStd.rep_H_smul_right", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnimodularLocalStandard_RepRepModl", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.UnimodLocStd.rep_H_smul_right", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnimodularLocalStandard_RepPrimPair", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.UnimodLocStd.rep_H_smul_right", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnimodularLocalStandard_RepRamDef", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.UnimodLocStd.rep_H_smul_right", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnimodularLocalStandard_RepHSmulRight", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.UnimodLocStd.rep_H_smul_right", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnimodularLocalStandard_RepNewton", "via": ["statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.UnimodLocStd.rep_H_smul_right", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnimodularLocalStandard_RepRepModl", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.UnimodLocStd.rep_H_smul_right", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnimodularLocalStandard_RepPrimPair", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.UnimodLocStd.rep_H_smul_right", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnimodularLocalStandard_RepRamDef", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.UnimodLocStd.rep_H_smul_right", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnimodularLocalStandard_RepHSmulRight", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.UnimodLocStd.rep_H_smul_right", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnimodularLocalStandard_RepNewton", "via": ["solution", "statement"]}
 {"parent": "PI.UnitaryGroupMassFormula.ClassNumImQInt.adjoin_top", "child": "Formalism_PeriodIntegrals_ClassNumImQ", "via": ["solution", "statement"]}
 {"parent": "PI.UnitaryGroupMassFormula.ClassNumImQInt.adjoin_top", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ClassNumberIntegrality_HalfIntegral", "via": ["solution", "statement"]}
 {"parent": "PI.UnitaryGroupMassFormula.ClassNumImQInt.adjoin_top", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_QuadraticDifference_QuadraticDifferenceForm", "via": ["solution", "statement"]}
@@ -51172,10 +51172,10 @@
 {"parent": "PositivityTheory.Rg.Sw.LC.NullS.mom_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PolyExpBound", "via": ["statement"]}
 {"parent": "PositivityTheory.RgUd.Form.U.Asm.mem_fixed_iff_irr", "child": "Development_WeilBound_RepresentationTheoryGL_UnitaryDualProof_HermitianForms_UnitaryLattices_UnitaryHypotheses_ExistsOrthOfFinset", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.RgUd.Form.U.Asm.mem_fixed_iff_irr", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SmoothPartStable", "via": ["solution", "statement"]}
-{"parent": "PI.PhNormUnits.UnitaryGroupMassFormula.PAdicPowerSeriesCoefficients.sum_eq_degree", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PowerSeriesNormUnits_NormUnitsSubstitution", "via": ["statement"]}
-{"parent": "PI.PhNormUnits.UnitaryGroupMassFormula.PAdicPowerSeriesCoefficients.sum_eq_degree", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_ImportsTerBis", "via": ["statement"]}
-{"parent": "PI.PhNormUnits.UnitaryGroupMassFormula.PAdicPowerSeriesCoefficients.sum_eq_degree", "child": "Formalism_PeriodIntegrals_PhNormUnits", "via": ["statement"]}
-{"parent": "PI.PhNormUnits.UnitaryGroupMassFormula.PAdicPowerSeriesCoefficients.sum_eq_degree", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PowerSeriesNormUnits_Development", "via": ["statement"]}
+{"parent": "PI.PhNormUnits.UnitaryGroupMassFormula.PAdicPowerSeriesCoefficients.sum_eq_degree", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PowerSeriesNormUnits_NormUnitsSubstitution", "via": ["solution", "statement"]}
+{"parent": "PI.PhNormUnits.UnitaryGroupMassFormula.PAdicPowerSeriesCoefficients.sum_eq_degree", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_ImportsTerBis", "via": ["solution", "statement"]}
+{"parent": "PI.PhNormUnits.UnitaryGroupMassFormula.PAdicPowerSeriesCoefficients.sum_eq_degree", "child": "Formalism_PeriodIntegrals_PhNormUnits", "via": ["solution", "statement"]}
+{"parent": "PI.PhNormUnits.UnitaryGroupMassFormula.PAdicPowerSeriesCoefficients.sum_eq_degree", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PowerSeriesNormUnits_Development", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.coeff_Dsrc", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PairSym", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.coeff_Dsrc", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_TransvectionInv", "via": ["solution", "statement"]}
 {"parent": "PIQnLT.hpart1_lev", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelTransfer_ExpLz", "via": ["solution", "statement"]}
@@ -75906,7 +75906,7 @@
 {"parent": "Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.SSPh.phase_exists", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CutGCoreGTSSCut", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.SSPh.phase_exists", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_EulerZetaGammaInvIdentity", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.SSPh.phase_exists", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CutGCoreGTSSPhaseA", "via": ["solution", "statement"]}
-{"parent": "Arxiv1906_02603.amplitude_histogram", "child": "Arxiv1906_02603_Basic", "via": ["statement"]}
+{"parent": "Arxiv1906_02603.amplitude_histogram", "child": "Arxiv1906_02603_Basic", "via": ["solution", "statement"]}
 {"parent": "Arxiv1906_02603.histogram_normalization", "child": "Arxiv1906_02603_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_PNTRangeA", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_PNTEOf", "via": ["statement"]}
 {"parent": "GlobalTheory.Mass.FixedSub.pd_nondeg", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianGenusMassEqOrbitStabilizerMassStatement", "via": ["statement"]}
@@ -76082,7 +76082,7 @@
 {"parent": "GlobalTheory.T.hermFramePair_innerLattices_unimodular_primitive", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_DiscreteSeriesUnitary__MaxMass_96db7412d6455637", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_proof_16e6dc336e3c", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_StatementsStepTwo", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_proof_16e6dc336e3c", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_PRestrictTwist", "via": ["solution", "statement"]}
-{"parent": "Arxiv1906_02603.appendix_envelope_histogram", "child": "Arxiv1906_02603_Basic", "via": ["statement"]}
+{"parent": "Arxiv1906_02603.appendix_envelope_histogram", "child": "Arxiv1906_02603_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.VP.subst_exp", "child": "Formalism.L2.FormalSeriesBounds.EqOn.mvExp", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.VP.subst_exp", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTieCartAdd", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.VP.subst_exp", "child": "Formalism.L2.FormalSeriesBounds.Van.subst", "via": ["solution", "statement"]}

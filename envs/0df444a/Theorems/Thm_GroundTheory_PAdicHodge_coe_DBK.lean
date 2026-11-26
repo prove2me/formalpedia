@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_coe_DBK
 -- name    : GroundTheory.PAdicHodge.coe_DBK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:01:00.291119+00:00
 -- url     : https://prove2.me/theorems/cf3a9a12-ec26-56a6-b31c-9084a728f500

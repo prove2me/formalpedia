@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lord_two_le_absNorm
 -- name    : PositivityTheory.Lord.two_le_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:50:25.0801+00:00
 -- url     : https://prove2.me/theorems/d46e1b3f-7143-401c-b249-9c7ad5c275e2

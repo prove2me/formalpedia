@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_RegionalBallDP_dense_factorized_regional_catalog
 -- name    : StableMSR.Recovery.RegionalBallDP.dense_factorized_regional_catalog
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-21T13:12:43.989283+00:00
 -- url     : https://prove2.me/theorems/e01917ae-33d7-4be0-917b-2d9e081b1707

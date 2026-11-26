@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_sqrt_exp_neg_div_eight
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.sqrt_exp_neg_div_eight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:18:26.274054+00:00
 -- url     : https://prove2.me/theorems/f6655037-b5ad-51af-8d81-5f63957b3d5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_BallCoverCatalog_uniform_ball_cover_catalog
 -- name    : StableMSR.Recovery.BallCoverCatalog.uniform_ball_cover_catalog
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-20T20:23:44.752621+00:00
 -- url     : https://prove2.me/theorems/b52c1366-e0b0-43a1-9fba-a4a752b87f21

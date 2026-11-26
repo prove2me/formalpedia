@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.WindowCSP.bounded_width_window_search_program
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-22T22:13:43.508655+00:00
 -- url     : https://prove2.me/submissions/6cda1f4c-9f6c-4677-82a0-f3b58034300f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_StableMSR_Recovery_WindowProfiles_native_single_region_profiles
 import Theorems.Thm_StableMSR_Recovery_WindowProfiles_native_count_graph

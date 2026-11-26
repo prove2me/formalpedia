@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Hi_Frame_ra_apply
 -- name    : UpperTheory.V.Hi.Frame.ra_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:40:44.153426+00:00
 -- url     : https://prove2.me/theorems/ecad5c8c-afaa-4af2-a4ca-83f94cc58fec

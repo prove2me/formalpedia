@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QNoiseStab_Supplement_theorem_5_1
 -- name    : QNoiseStab.Supplement.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T00:22:29.628986+00:00
 -- url     : https://prove2.me/theorems/8c6887f3-396a-4380-b215-d69eae0fcb52

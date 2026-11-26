@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_Laurent_cmul_zero
 -- name    : GroundTheory.PAdicHodge.Laurent.cmul_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:01:18.576413+00:00
 -- url     : https://prove2.me/theorems/5493a98f-0d81-4c9f-b11b-e04f199faea9

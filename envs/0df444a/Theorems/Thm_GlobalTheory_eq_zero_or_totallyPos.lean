@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_or_totallyPos
 -- name    : GlobalTheory.eq_zero_or_totallyPos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:45:06.559869+00:00
 -- url     : https://prove2.me/theorems/2dfb336a-5d2e-4d53-a381-f97edfea940f

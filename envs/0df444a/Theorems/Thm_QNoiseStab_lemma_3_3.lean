@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QNoiseStab_lemma_3_3
 -- name    : QNoiseStab.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T20:24:51.079194+00:00
 -- url     : https://prove2.me/theorems/c3cb8e18-d685-478f-98f3-e791dda3d8d8

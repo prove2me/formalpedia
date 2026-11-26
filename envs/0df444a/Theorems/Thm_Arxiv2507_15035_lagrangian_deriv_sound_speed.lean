@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2507_15035_lagrangian_deriv_sound_speed
 -- name    : Arxiv2507_15035.lagrangian_deriv_sound_speed
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:35:09.567157+00:00
 -- url     : https://prove2.me/theorems/914bcfed-5fe9-5d98-bbfc-c191d8fafbb5

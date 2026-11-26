@@ -67325,66 +67325,66 @@
 {"parent": "RH1E6S16.part_079_3", "child": "ArdaRH65K_XiLineZeros", "via": ["statement"]}
 {"parent": "RH1E6S16.part_079_3", "child": "ArdaRH65K_RS_Mellin", "via": ["statement"]}
 {"parent": "RH1E6S16.part_079_3", "child": "ArdaRS_Evaluator", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk14", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk16", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk20", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk10", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk6", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk18", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk6", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk7", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk21", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk6", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk11", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk9", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk12", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk3", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk7", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk8", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk10", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk27", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk29", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk5", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk8", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk9", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk17", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk7", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk4", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syracuseStep", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk15", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk5", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk12", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk25", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk13", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk2", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk26", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk22", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk1", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk10", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk23", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk31", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk4", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk2", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk1", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk28", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk13", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk24", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk8", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk3", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk2", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk32", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syracuseBudgetDescent", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk3", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk15", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk5", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk19", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk1", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk4", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk30", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk9", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk11", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk14", "via": ["statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk16", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk14", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk16", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk20", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk10", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk6", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk18", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk6", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk7", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk21", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk6", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk11", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk9", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk12", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk3", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk7", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk8", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk10", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk27", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk29", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk5", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk8", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk9", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk17", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk7", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk4", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syracuseStep", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk15", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk5", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk12", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk25", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk13", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk2", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk26", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk22", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk1", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk10", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk23", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk31", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk4", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk2", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk1", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk28", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk13", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk24", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk8", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep17Chunk3", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk2", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk32", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syracuseBudgetDescent", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk3", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk15", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk5", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk19", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk1", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk4", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep16Chunk30", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk9", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk11", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk14", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod1048576_after_step17_mod134217728", "child": "syrFifteenStep15Chunk16", "via": ["solution", "statement"]}
 {"parent": "RH1E6S16.part_075_2", "child": "ArdaRS_Config64", "via": ["statement"]}
 {"parent": "RH1E6S16.part_075_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S16.part_075_2", "child": "ArdaRS_Band", "via": ["statement"]}

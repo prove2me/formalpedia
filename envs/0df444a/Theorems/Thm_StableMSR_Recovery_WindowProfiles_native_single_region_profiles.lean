@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowProfiles_native_single_region_profiles
 -- name    : StableMSR.Recovery.WindowProfiles.native_single_region_profiles
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T21:56:46.456779+00:00
 -- url     : https://prove2.me/theorems/b80d089a-e04d-4f66-82ba-a08a7990cb2e

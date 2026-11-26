@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_measurable_polygonal_approximation_on_unit_interval
 -- name    : ManyServerQED.Scheduling.measurable_polygonal_approximation_on_unit_interval
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T03:13:18.349187+00:00
 -- url     : https://prove2.me/theorems/8ec8f5f0-4e78-4883-b462-304cfb710c6c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_dp_zero
 -- name    : Reformulated.AutPerF.dp_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:32:45.924032+00:00
 -- url     : https://prove2.me/theorems/250e27e1-bd7c-4cf6-a8c2-5ede4e702413
