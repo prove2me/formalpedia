@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_setIntegral_timeSection_eq_condExp_ae
 -- name    : Malliavin.setIntegral_timeSection_eq_condExp_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:27:10.947229+00:00
 -- url     : https://prove2.me/theorems/559be16a-7a19-4a9f-ad0f-da82e20ed008

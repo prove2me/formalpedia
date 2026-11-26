@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_aestronglyMeasurable_brownian_filtrationPred
 -- name    : Malliavin.aestronglyMeasurable_brownian_filtrationPred
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:28:11.54471+00:00
 -- url     : https://prove2.me/theorems/a2f470c1-75b7-5795-b839-456c66edca14

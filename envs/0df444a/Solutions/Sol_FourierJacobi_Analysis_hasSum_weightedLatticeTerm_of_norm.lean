@@ -1,0 +1,304 @@
+-- Prove2me | solution 1 for FourierJacobi.Analysis.hasSum_weightedLatticeTerm_of_norm
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-26T12:09:36.278791+00:00
+-- url     : https://prove2.me/submissions/3eeaf251-acf3-48fa-95fa-ec14e1309198
+
+import Definitions.Def_FourierJacobi_Analysis_I0Master
+import Definitions.Def_FourierJacobi_Analysis_I1Assembly
+import Definitions.Def_FourierJacobi_Analysis_I2Master
+import Definitions.Def_FourierJacobi_Analysis_MasterDamping
+import Definitions.Def_FourierJacobi_Analysis_RationalLimits
+import Mathlib.Algebra.BigOperators.Field
+import Definitions.Def_FourierJacobi_Analysis_LatticeCore
+import Theorems.Thm_FourierJacobi_Analysis_dampedRational_one
+import Theorems.Thm_FourierJacobi_Analysis_i0NegativeRowEquiv_val
+import Theorems.Thm_FourierJacobi_Analysis_i1r10DepthEquiv_val
+import Theorems.Thm_FourierJacobi_Analysis_i1r10Equiv_val
+import Theorems.Thm_FourierJacobi_Analysis_i2Case10Equiv_val
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row0
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row1
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row10
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row11
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row12
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row13
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row14
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row15
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row16
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row17
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row18
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row19
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row2
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row20
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row21
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row22
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row23
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row24
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row3
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row4
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row5
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row6
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row7
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row8
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthAt_row9
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row0
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row1
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row10
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row11
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row12
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row13
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row14
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row15
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row16
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row17
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row18
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row19
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row2
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row20
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row21
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row22
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row23
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row24
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row3
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row4
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row5
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row6
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row7
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row8
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_row9
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row0
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row1
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row10
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row11
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row12
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row13
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row14
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row15
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row16
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row17
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row18
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row19
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row2
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row20
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row21
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row22
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row23
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row24
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row3
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row4
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row5
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row6
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row7
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row8
+import Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row9
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row0
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row1
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row10
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row11
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row12
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row13
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row14
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row15
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row16
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row17
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row18
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row19
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row2
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row20
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row21
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row22
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row23
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row24
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row3
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row4
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row5
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row6
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row7
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row8
+import Theorems.Thm_FourierJacobi_Analysis_i2RegionTerm_row9
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row0
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row1
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row10
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row11
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row12
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row13
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row14
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row15
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row16
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row17
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row18
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row19
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row2
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row20
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row21
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row22
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row23
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row24
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row3
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row4
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row5
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row6
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row7
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row8
+import Theorems.Thm_FourierJacobi_Analysis_i2SpatialPredicate_row9
+import Theorems.Thm_FourierJacobi_Analysis_masterTerm_zero
+import Theorems.Thm_FourierJacobi_Analysis_shellMonomial_zero
+attribute [local simp] FourierJacobi.Analysis.dampedRational_one
+attribute [local simp] FourierJacobi.Analysis.i0NegativeRowEquiv_val
+attribute [local simp] FourierJacobi.Analysis.i1r10DepthEquiv_val
+attribute [local simp] FourierJacobi.Analysis.i1r10Equiv_val
+attribute [local simp] FourierJacobi.Analysis.i2Case10Equiv_val
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row0
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row1
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row10
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row11
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row12
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row13
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row14
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row15
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row16
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row17
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row18
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row19
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row2
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row20
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row21
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row22
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row23
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row24
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row3
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row4
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row5
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row6
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row7
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row8
+attribute [local simp] FourierJacobi.Analysis.i2DepthAt_row9
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row0
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row1
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row10
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row11
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row12
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row13
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row14
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row15
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row16
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row17
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row18
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row19
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row2
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row20
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row21
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row22
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row23
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row24
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row3
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row4
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row5
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row6
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row7
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row8
+attribute [local simp] FourierJacobi.Analysis.i2DepthMass_row9
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row0
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row1
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row10
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row11
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row12
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row13
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row14
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row15
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row16
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row17
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row18
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row19
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row2
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row20
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row21
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row22
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row23
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row24
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row3
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row4
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row5
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row6
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row7
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row8
+attribute [local simp] FourierJacobi.Analysis.i2DepthPredicate_row9
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row0
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row1
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row10
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row11
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row12
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row13
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row14
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row15
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row16
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row17
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row18
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row19
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row2
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row20
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row21
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row22
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row23
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row24
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row3
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row4
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row5
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row6
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row7
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row8
+attribute [local simp] FourierJacobi.Analysis.i2RegionTerm_row9
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row0
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row1
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row10
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row11
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row12
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row13
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row14
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row15
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row16
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row17
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row18
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row19
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row2
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row20
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row21
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row22
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row23
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row24
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row3
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row4
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row5
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row6
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row7
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row8
+attribute [local simp] FourierJacobi.Analysis.i2SpatialPredicate_row9
+attribute [local simp] FourierJacobi.Analysis.masterTerm_zero
+attribute [local simp] FourierJacobi.Analysis.shellMonomial_zero
+
+
+
+set_option autoImplicit false
+noncomputable section
+open FourierJacobi FourierJacobi.Analysis
+open FourierJacobi.Algebra Filter
+open scoped Topology
+set_option maxHeartbeats 4000000
+namespace FourierJacobi.Analysis
+theorem _root_.solution (q T : ℝ) (a b d : ℂ)
+    (hn : Summable (fun p : Fin 8 × Fin 3 × LatticeIndex =>
+      ‖weightedLatticeTerm q a b d T p‖)) :
+    HasSum (weightedLatticeTerm q a b d T) (latticeCore q a b d T) := by
+  have hs := hn.of_norm
+  have he : (∑' p, weightedLatticeTerm q a b d T p) = latticeCore q a b d T := by
+    rw [hs.tsum_prod, tsum_fintype]
+    unfold latticeCore
+    rw [Finset.sum_div]
+    apply Finset.sum_congr rfl
+    intro i _
+    rw [(hs.prod_factor i).tsum_prod, tsum_fintype]
+    simp only [weightedLatticeTerm, tsum_mul_left]
+    rw [← Finset.mul_sum]
+    ring
+  exact he ▸ hs.hasSum
+end FourierJacobi.Analysis

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_normalized_binomialUpperTail_le_binaryBarrierRate
 -- name    : FirstPassageLinearTransport.exists_normalized_binomialUpperTail_le_binaryBarrierRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:30:33.235939+00:00
 -- url     : https://prove2.me/theorems/51dc2b3c-ca59-4fa1-a89d-6580d7f102e1

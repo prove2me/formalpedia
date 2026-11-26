@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_binomialUpperTail_le_sqrt_exp
 -- name    : FirstPassageLinearTransport.exists_binomialUpperTail_le_sqrt_exp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:21:03.675802+00:00
 -- url     : https://prove2.me/theorems/a63ce3cb-effe-5176-8b37-66a1988c107b

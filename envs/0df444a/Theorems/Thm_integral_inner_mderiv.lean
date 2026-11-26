@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_integral_inner_mderiv
 -- name    : integral_inner_mderiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:41.012284+00:00
 -- url     : https://prove2.me/theorems/dd33233e-605d-4c47-9654-2410c8afa3fd

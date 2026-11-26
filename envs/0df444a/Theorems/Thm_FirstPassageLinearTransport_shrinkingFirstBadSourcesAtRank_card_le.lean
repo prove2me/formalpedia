@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shrinkingFirstBadSourcesAtRank_card_le
 -- name    : FirstPassageLinearTransport.shrinkingFirstBadSourcesAtRank_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:09.524089+00:00
 -- url     : https://prove2.me/theorems/dae61547-b196-440c-955a-89f405ef01f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_integrable_hasSum_of_countable_fibers
 -- name    : FourierJacobi.Analysis.integrable_hasSum_of_countable_fibers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:40:17.046955+00:00
 -- url     : https://prove2.me/theorems/29676f37-0c3f-4ce3-ab75-e845632c357f

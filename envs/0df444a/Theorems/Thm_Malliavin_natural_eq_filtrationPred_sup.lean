@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_natural_eq_filtrationPred_sup
 -- name    : Malliavin.natural_eq_filtrationPred_sup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:27:42.682897+00:00
 -- url     : https://prove2.me/theorems/d52e0f9f-9b6d-4606-80d6-f184dc2379ad

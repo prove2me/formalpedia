@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_wienerChaosEquiv_apply
 -- name    : Malliavin.wienerChaosEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:10:06.862327+00:00
 -- url     : https://prove2.me/theorems/9d27b2da-8743-4eb9-ab72-e27f4b074505

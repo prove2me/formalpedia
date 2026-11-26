@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_IteratedIntegralFamily_IsBrownian_norm_sq_integral_two_boxKernel
 -- name    : Malliavin.IteratedIntegralFamily.IsBrownian.norm_sq_integral_two_boxKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:03:28.596428+00:00
 -- url     : https://prove2.me/theorems/5338be9f-5a25-521d-9472-1ceee81073af

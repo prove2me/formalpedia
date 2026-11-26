@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_collatzMiddleIntervalMass_le_sqrt
 -- name    : FirstPassageLinearTransport.exists_collatzMiddleIntervalMass_le_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:34:39.194737+00:00
 -- url     : https://prove2.me/theorems/f35133cb-9ba3-44a2-a33d-6ddf8e4aef05

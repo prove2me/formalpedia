@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_timeDerivativeEquiv_apply
 -- name    : Malliavin.timeDerivativeEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:29:04.62601+00:00
 -- url     : https://prove2.me/theorems/efa4eaec-1948-5995-ac0c-da858236ff8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_wordSurvivalIndicator_nonneg
 -- name    : FirstPassageLinearTransport.wordSurvivalIndicator_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:33:30.814658+00:00
 -- url     : https://prove2.me/theorems/85c9cb70-b662-50a6-981c-fb6a7ec356ea

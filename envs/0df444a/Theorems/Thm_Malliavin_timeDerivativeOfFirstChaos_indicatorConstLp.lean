@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_timeDerivativeOfFirstChaos_indicatorConstLp
 -- name    : Malliavin.timeDerivativeOfFirstChaos_indicatorConstLp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:28:50.487749+00:00
 -- url     : https://prove2.me/theorems/6bfbd5f1-4903-4821-9ab4-b460a6162041

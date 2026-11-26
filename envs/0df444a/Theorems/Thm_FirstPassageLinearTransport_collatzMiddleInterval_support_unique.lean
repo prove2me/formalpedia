@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzMiddleInterval_support_unique
 -- name    : FirstPassageLinearTransport.collatzMiddleInterval_support_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:32:43.671582+00:00
 -- url     : https://prove2.me/theorems/5a362ecf-455a-5037-baec-1492523fb81e

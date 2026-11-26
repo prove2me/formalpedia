@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_binomial_log_mass_le_zero
 -- name    : FirstPassageLinearTransport.binomial_log_mass_le_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:31:30.942705+00:00
 -- url     : https://prove2.me/theorems/34349720-41ac-5c0b-8907-ca30f7b6937e

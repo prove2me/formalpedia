@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_natCast_mem_of_liesOver
 -- name    : ReciprocityTheory.Cheb.natCast_mem_of_liesOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:48:09.885601+00:00
 -- url     : https://prove2.me/theorems/d99a1fa3-611d-46ae-bde5-d3605c87674d

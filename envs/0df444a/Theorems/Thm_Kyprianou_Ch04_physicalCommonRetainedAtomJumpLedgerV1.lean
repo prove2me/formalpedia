@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_physicalCommonRetainedAtomJumpLedgerV1
 -- name    : Kyprianou.Ch04.physicalCommonRetainedAtomJumpLedgerV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T10:47:41.465928+00:00
 -- url     : https://prove2.me/theorems/e4b388b8-6e1a-4ee2-9c19-aeb1c2145ea1

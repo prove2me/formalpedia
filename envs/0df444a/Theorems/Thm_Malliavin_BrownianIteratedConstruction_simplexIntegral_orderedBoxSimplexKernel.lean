@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_simplexIntegral_orderedBoxSimplexKernel
 -- name    : Malliavin.BrownianIteratedConstruction.simplexIntegral_orderedBoxSimplexKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:49:26.808638+00:00
 -- url     : https://prove2.me/theorems/ee7c7e01-916b-51e0-af25-c66ec3ea8c0a

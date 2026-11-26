@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_integral_stepIntegral
 -- name    : Malliavin.integral_stepIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:58:07.387288+00:00
 -- url     : https://prove2.me/theorems/bdd121b9-7f88-5587-9194-c3830cebe9a9

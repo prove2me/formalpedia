@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_fair_three_word_weight_le
 -- name    : FirstPassageLinearTransport.fair_three_word_weight_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:35:15.1028+00:00
 -- url     : https://prove2.me/theorems/df1ae3d8-416f-4253-841f-1224b21ad524

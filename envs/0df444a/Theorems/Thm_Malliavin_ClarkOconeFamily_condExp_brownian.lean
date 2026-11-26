@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ClarkOconeFamily_condExp_brownian
 -- name    : Malliavin.ClarkOconeFamily.condExp_brownian
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:27:52.068789+00:00
 -- url     : https://prove2.me/theorems/c5372df8-27ea-5772-9ed8-54ace0453643

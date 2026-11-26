@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_hasGaussianLaw_of_mem_firstChaos
 -- name    : Malliavin.hasGaussianLaw_of_mem_firstChaos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:02:56.176158+00:00
 -- url     : https://prove2.me/theorems/eabfb173-5ca7-4673-8132-39bccb78ba33

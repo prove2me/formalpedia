@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_timeDerivative_mderivLp_cylinder
 -- name    : Malliavin.timeDerivative_mderivLp_cylinder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:29:12.040853+00:00
 -- url     : https://prove2.me/theorems/4456eb52-7a4f-551d-a53d-201d9eff5f36

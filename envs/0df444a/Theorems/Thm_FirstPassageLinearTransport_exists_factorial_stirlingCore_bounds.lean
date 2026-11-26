@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_factorial_stirlingCore_bounds
 -- name    : FirstPassageLinearTransport.exists_factorial_stirlingCore_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:20:57.28439+00:00
 -- url     : https://prove2.me/theorems/54534b09-78b1-413e-91ac-fac8f0bd0921

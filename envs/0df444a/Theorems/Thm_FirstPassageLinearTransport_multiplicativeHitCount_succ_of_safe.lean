@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_multiplicativeHitCount_succ_of_safe
 -- name    : FirstPassageLinearTransport.multiplicativeHitCount_succ_of_safe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:36:47.104808+00:00
 -- url     : https://prove2.me/theorems/0984bd80-9406-4089-8f1f-8f8e28ddef06

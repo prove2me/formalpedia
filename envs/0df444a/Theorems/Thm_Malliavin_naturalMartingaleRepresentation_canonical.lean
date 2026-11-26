@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_naturalMartingaleRepresentation_canonical
 -- name    : Malliavin.naturalMartingaleRepresentation_canonical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:50:08.227806+00:00
 -- url     : https://prove2.me/theorems/6bc02234-25ad-400b-90ca-3bf2c61662fc

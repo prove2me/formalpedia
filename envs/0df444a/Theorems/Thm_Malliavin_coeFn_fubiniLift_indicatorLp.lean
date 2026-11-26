@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_coeFn_fubiniLift_indicatorLp
 -- name    : Malliavin.coeFn_fubiniLift_indicatorLp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:04:05.240704+00:00
 -- url     : https://prove2.me/theorems/cd7fdb7e-ce3a-4541-80d3-40332c19d12a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_inner_tensor_iocIndicator
 -- name    : Malliavin.inner_tensor_iocIndicator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:28:09.827429+00:00
 -- url     : https://prove2.me/theorems/f15b7711-09d9-4ebc-8d32-be9eafdcf359

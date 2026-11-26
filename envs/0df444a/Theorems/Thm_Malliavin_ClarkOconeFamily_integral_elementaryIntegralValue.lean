@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ClarkOconeFamily_integral_elementaryIntegralValue
 -- name    : Malliavin.ClarkOconeFamily.integral_elementaryIntegralValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:29:39.47483+00:00
 -- url     : https://prove2.me/theorems/458c6fa8-5db7-5940-b14b-f3a0f85a3df0

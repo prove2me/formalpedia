@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_aestronglyMeasurable_symmetrize
 -- name    : Malliavin.aestronglyMeasurable_symmetrize
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:55:28.456807+00:00
 -- url     : https://prove2.me/theorems/c3d835b4-f0fd-4d25-b96f-8298ba6f79e2

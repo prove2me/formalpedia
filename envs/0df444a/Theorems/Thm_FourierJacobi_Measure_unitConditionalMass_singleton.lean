@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_unitConditionalMass_singleton
 -- name    : FourierJacobi.Measure.unitConditionalMass_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:48:20.415053+00:00
 -- url     : https://prove2.me/theorems/8bd501f1-575a-44fe-b9af-c6a50c192f4f

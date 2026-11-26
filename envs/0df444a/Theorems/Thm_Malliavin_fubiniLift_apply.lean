@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_fubiniLift_apply
 -- name    : Malliavin.fubiniLift_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:03:49.473064+00:00
 -- url     : https://prove2.me/theorems/c543202d-baf7-52ea-a3ea-dfa6324f21d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_shellConditionalMass_singleton
 -- name    : FourierJacobi.Measure.shellConditionalMass_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:49:29.056595+00:00
 -- url     : https://prove2.me/theorems/720c3c98-4aca-40ba-8602-0aa07f310382

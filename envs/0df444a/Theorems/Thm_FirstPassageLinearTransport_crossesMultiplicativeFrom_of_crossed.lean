@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_crossesMultiplicativeFrom_of_crossed
 -- name    : FirstPassageLinearTransport.crossesMultiplicativeFrom_of_crossed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:36:33.372539+00:00
 -- url     : https://prove2.me/theorems/238e8877-d2ab-5dad-a483-f4842350afc9

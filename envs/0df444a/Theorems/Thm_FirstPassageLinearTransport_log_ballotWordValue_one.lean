@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_log_ballotWordValue_one
 -- name    : FirstPassageLinearTransport.log_ballotWordValue_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:33.431424+00:00
 -- url     : https://prove2.me/theorems/e87b97a0-3c9c-4a13-a116-bc468147ff52

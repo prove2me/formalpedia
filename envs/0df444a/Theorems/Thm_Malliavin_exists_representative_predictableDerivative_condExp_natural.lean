@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_exists_representative_predictableDerivative_condExp_natural
 -- name    : Malliavin.exists_representative_predictableDerivative_condExp_natural
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:27:42.282412+00:00
 -- url     : https://prove2.me/theorems/ea08b71e-7b06-549d-a445-a12c4a98c4ed

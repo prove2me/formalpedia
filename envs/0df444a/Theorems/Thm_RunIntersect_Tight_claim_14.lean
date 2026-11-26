@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RunIntersect_Tight_claim_14
 -- name    : RunIntersect.Tight.claim_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T15:35:36.316553+00:00
 -- url     : https://prove2.me/theorems/5dc51db3-bcb2-48a9-8bc9-1ab369846677

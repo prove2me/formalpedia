@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shrinkingFeasibleTimes_card_lt_sqrt
 -- name    : FirstPassageLinearTransport.shrinkingFeasibleTimes_card_lt_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:49:55.157592+00:00
 -- url     : https://prove2.me/theorems/0f7a55d5-8281-5c9b-bd93-783183fba6ae

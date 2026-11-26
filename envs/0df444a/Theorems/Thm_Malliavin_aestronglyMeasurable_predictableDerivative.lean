@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_aestronglyMeasurable_predictableDerivative
 -- name    : Malliavin.aestronglyMeasurable_predictableDerivative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:31:07.440728+00:00
 -- url     : https://prove2.me/theorems/f8ab0133-8a16-4919-82cf-bc3733bf47d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_abs_factorial_mul_eval_sub_top_le
 -- name    : GlobalTheory.abs_factorial_mul_eval_sub_top_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:42.347507+00:00
 -- url     : https://prove2.me/theorems/95fb3e18-e137-5aae-8b31-0cc17ba2b992

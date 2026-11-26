@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepQOperator_eq_41_42
 -- name    : DeepQOperator.eq_41_42
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:03:25.048688+00:00
 -- url     : https://prove2.me/theorems/29a84fdf-4640-471a-a1a5-e5af6664e59f

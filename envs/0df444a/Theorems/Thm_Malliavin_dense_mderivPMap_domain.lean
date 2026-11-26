@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_dense_mderivPMap_domain
 -- name    : Malliavin.dense_mderivPMap_domain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:05.829662+00:00
 -- url     : https://prove2.me/theorems/aec75692-1802-53ec-8f4a-9b01bbf3ece9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TemporalAgg_gta_loop_terminates
 -- name    : TemporalAgg.gta_loop_terminates
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:37:57.079775+00:00
 -- url     : https://prove2.me/theorems/73916951-8558-4f69-9ecf-90619b8b118a

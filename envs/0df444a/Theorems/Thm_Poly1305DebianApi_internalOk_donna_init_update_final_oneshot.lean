@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305DebianApi_internalOk_donna_init_update_final_oneshot
 -- name    : Poly1305DebianApi.internalOk_donna_init_update_final_oneshot
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-26T11:24:32.85841+00:00
 -- url     : https://prove2.me/theorems/014d5d2c-1eb5-400c-b2bf-5ea4a72fdcf7

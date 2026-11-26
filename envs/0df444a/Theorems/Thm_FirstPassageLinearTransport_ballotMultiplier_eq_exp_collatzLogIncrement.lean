@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_ballotMultiplier_eq_exp_collatzLogIncrement
 -- name    : FirstPassageLinearTransport.ballotMultiplier_eq_exp_collatzLogIncrement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:31.090507+00:00
 -- url     : https://prove2.me/theorems/f90cd5ad-0630-5cff-b6c0-817e0f560cf8

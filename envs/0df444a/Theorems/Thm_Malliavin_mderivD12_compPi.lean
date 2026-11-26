@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_mderivD12_compPi
 -- name    : Malliavin.mderivD12_compPi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:42:55.647+00:00
 -- url     : https://prove2.me/theorems/014d9e21-f8a6-4c65-8009-7d498330d0df

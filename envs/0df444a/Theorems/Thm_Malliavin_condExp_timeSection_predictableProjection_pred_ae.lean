@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_condExp_timeSection_predictableProjection_pred_ae
 -- name    : Malliavin.condExp_timeSection_predictableProjection_pred_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:27:38.647701+00:00
 -- url     : https://prove2.me/theorems/f1a80891-773c-444e-aa6b-d0a630c69287

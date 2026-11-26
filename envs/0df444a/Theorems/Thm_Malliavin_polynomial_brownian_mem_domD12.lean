@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_polynomial_brownian_mem_domD12
 -- name    : Malliavin.polynomial_brownian_mem_domD12
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:59.280575+00:00
 -- url     : https://prove2.me/theorems/71df3812-4fee-51c6-a49a-b728a4fe374d

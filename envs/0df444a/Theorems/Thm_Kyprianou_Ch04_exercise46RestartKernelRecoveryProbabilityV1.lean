@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46RestartKernelRecoveryProbabilityV1
 -- name    : Kyprianou.Ch04.exercise46RestartKernelRecoveryProbabilityV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T10:46:18.459428+00:00
 -- url     : https://prove2.me/theorems/a963004c-5642-55c9-b74c-a0834ccffeb9

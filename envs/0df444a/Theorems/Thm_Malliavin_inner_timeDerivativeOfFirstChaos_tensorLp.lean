@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_inner_timeDerivativeOfFirstChaos_tensorLp
 -- name    : Malliavin.inner_timeDerivativeOfFirstChaos_tensorLp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:28:58.602442+00:00
 -- url     : https://prove2.me/theorems/f37734d3-1b81-5d1a-b4b8-9cefcb7d23c4

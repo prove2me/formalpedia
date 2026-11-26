@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_sum_bernoulliWordWeight_support_eq
 -- name    : FirstPassageLinearTransport.sum_bernoulliWordWeight_support_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:34:44.222585+00:00
 -- url     : https://prove2.me/theorems/e77f4b7e-45a8-49e8-8692-b87364076b37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Malliavin_symmetrize__comp_symmetrize__14ce21f0a046
 -- name    : P2M_Malliavin_symmetrize__comp_symmetrize__14ce21f0a046
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:55:16.437252+00:00
 -- url     : https://prove2.me/theorems/3a1cca00-0a25-5603-85f9-64cb9b446936

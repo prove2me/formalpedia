@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_CameronMartin_density_neg_eq_div_ae
 -- name    : Malliavin.CameronMartin.density_neg_eq_div_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:54:53.139543+00:00
 -- url     : https://prove2.me/theorems/5712cd23-a804-4c87-9806-9bd195f74122

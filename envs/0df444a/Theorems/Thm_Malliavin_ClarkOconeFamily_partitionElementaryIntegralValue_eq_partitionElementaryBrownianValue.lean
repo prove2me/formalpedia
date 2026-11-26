@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ClarkOconeFamily_partitionElementaryIntegralValue_eq_partitionElementaryBrownianValue
 -- name    : Malliavin.ClarkOconeFamily.partitionElementaryIntegralValue_eq_partitionElementaryBrownianValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:31:38.038343+00:00
 -- url     : https://prove2.me/theorems/4a9d3f28-1806-48f6-a8d2-0009c48ddd3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_mderivD12_mulSmooth
 -- name    : Malliavin.mderivD12_mulSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:42:26.022887+00:00
 -- url     : https://prove2.me/theorems/887ba598-63a9-5d54-9539-3454a3dc221d

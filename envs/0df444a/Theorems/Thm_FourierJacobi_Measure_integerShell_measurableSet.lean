@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_integerShell_measurableSet
 -- name    : FourierJacobi.Measure.integerShell_measurableSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:41:37.740951+00:00
 -- url     : https://prove2.me/theorems/e29f8b1d-f23a-56ce-909a-3b0c069957b5

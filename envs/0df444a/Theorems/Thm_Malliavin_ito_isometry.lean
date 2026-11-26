@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ito_isometry
 -- name    : Malliavin.ito_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:58:17.361729+00:00
 -- url     : https://prove2.me/theorems/b9bf647e-4607-4ef8-add4-dbd23de651a3

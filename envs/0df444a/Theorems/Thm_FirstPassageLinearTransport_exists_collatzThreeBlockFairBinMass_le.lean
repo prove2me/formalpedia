@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_collatzThreeBlockFairBinMass_le
 -- name    : FirstPassageLinearTransport.exists_collatzThreeBlockFairBinMass_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:35:58.847564+00:00
 -- url     : https://prove2.me/theorems/f0a7d788-35d2-467a-b989-bc893ddbdb79

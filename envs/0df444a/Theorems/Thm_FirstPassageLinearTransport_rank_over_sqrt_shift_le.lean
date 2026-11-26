@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rank_over_sqrt_shift_le
 -- name    : FirstPassageLinearTransport.rank_over_sqrt_shift_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:21:11.510295+00:00
 -- url     : https://prove2.me/theorems/64c41051-61ba-4a23-b20b-f7b792ad912c

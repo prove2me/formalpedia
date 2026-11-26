@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_weightedSurvivalWordMass_succ
 -- name    : FirstPassageLinearTransport.weightedSurvivalWordMass_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:34:37.717873+00:00
 -- url     : https://prove2.me/theorems/59274e47-87ed-51de-90d7-2b2ee9e9845a

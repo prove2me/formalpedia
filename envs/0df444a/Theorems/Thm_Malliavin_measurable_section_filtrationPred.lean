@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_measurable_section_filtrationPred
 -- name    : Malliavin.measurable_section_filtrationPred
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:27:25.400797+00:00
 -- url     : https://prove2.me/theorems/5d551328-4bbb-54df-9e4a-0a23096ad72e

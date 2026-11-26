@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_additiveHaar_real_shellCollisionTail
 -- name    : FourierJacobi.Measure.additiveHaar_real_shellCollisionTail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:44:38.764869+00:00
 -- url     : https://prove2.me/theorems/78fcf74a-cdb3-5405-8096-9196a14bf2f2

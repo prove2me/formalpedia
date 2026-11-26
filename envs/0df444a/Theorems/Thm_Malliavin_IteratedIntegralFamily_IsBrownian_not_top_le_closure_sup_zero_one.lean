@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_IteratedIntegralFamily_IsBrownian_not_top_le_closure_sup_zero_one
 -- name    : Malliavin.IteratedIntegralFamily.IsBrownian.not_top_le_closure_sup_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:01:55.166132+00:00
 -- url     : https://prove2.me/theorems/fe953b87-70a9-5558-bf83-738853d68a37

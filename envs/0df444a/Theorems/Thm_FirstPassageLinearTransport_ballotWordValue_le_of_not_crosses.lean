@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_ballotWordValue_le_of_not_crosses
 -- name    : FirstPassageLinearTransport.ballotWordValue_le_of_not_crosses
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:18.793168+00:00
 -- url     : https://prove2.me/theorems/f21ac46a-28e9-5497-808b-ea89a81a1b2e

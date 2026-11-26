@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_eLpNorm_symmetrize_le
 -- name    : Malliavin.eLpNorm_symmetrize_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:55:29.615968+00:00
 -- url     : https://prove2.me/theorems/ecbcc0ae-8f49-5183-9292-dc94ca7c45ee

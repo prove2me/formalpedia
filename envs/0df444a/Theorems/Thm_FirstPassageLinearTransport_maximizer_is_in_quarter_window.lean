@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_maximizer_is_in_quarter_window
 -- name    : FirstPassageLinearTransport.maximizer_is_in_quarter_window
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:32:22.572354+00:00
 -- url     : https://prove2.me/theorems/d3258f9a-3a9c-465a-9434-77a21d476be0

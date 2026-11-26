@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedSubordinator_restrictedExponent_bohr_mean
 -- name    : Kyprianou.Ch05.killedSubordinator_restrictedExponent_bohr_mean
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T11:29:20.849679+00:00
 -- url     : https://prove2.me/theorems/0a70f0ec-74e8-578c-9921-63c061541f58

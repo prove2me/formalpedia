@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_sum_threeQuarter_centered_sq
 -- name    : FirstPassageLinearTransport.sum_threeQuarter_centered_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:36:53.916269+00:00
 -- url     : https://prove2.me/theorems/210da13c-29bd-514a-bbdb-b1c65d376987

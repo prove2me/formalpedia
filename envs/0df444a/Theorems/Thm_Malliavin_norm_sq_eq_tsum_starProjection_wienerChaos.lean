@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_norm_sq_eq_tsum_starProjection_wienerChaos
 -- name    : Malliavin.norm_sq_eq_tsum_starProjection_wienerChaos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:10:39.514796+00:00
 -- url     : https://prove2.me/theorems/b573d930-d908-4556-b019-a878a2260936

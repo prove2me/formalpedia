@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_sum_weightedSurvivalFactor_eq
 -- name    : FirstPassageLinearTransport.sum_weightedSurvivalFactor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:35:23.186784+00:00
 -- url     : https://prove2.me/theorems/c0c8ed99-7dc6-4df9-b39c-f1a918112436

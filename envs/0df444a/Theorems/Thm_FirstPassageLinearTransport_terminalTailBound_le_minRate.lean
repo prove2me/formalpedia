@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_terminalTailBound_le_minRate
 -- name    : FirstPassageLinearTransport.terminalTailBound_le_minRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:21:22.380933+00:00
 -- url     : https://prove2.me/theorems/76e50ea9-7dcf-4941-b144-d448fefd8125

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ae_existsUnique_mem_sortedBy
 -- name    : Malliavin.ae_existsUnique_mem_sortedBy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:56:50.69449+00:00
 -- url     : https://prove2.me/theorems/f19a93e3-bdcf-59a4-a6b6-00d35c0b5358

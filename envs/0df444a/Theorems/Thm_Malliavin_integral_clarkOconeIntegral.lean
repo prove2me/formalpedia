@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_integral_clarkOconeIntegral
 -- name    : Malliavin.integral_clarkOconeIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:30:49.886996+00:00
 -- url     : https://prove2.me/theorems/11fe4c4f-38d1-4bed-a65a-8d55d8418759

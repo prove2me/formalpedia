@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_norm_firstChaos_starProjection_le_mderivClosure
 -- name    : Malliavin.norm_firstChaos_starProjection_le_mderivClosure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:13.338712+00:00
 -- url     : https://prove2.me/theorems/637846e3-51a0-45dd-9cfa-7aaaf378d634

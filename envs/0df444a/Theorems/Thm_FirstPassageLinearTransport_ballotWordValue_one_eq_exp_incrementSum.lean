@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_ballotWordValue_one_eq_exp_incrementSum
 -- name    : FirstPassageLinearTransport.ballotWordValue_one_eq_exp_incrementSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:29:57.8578+00:00
 -- url     : https://prove2.me/theorems/b9b75ebb-7bba-56cf-b03f-6a8e5d06c1c0

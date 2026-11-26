@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_isWienerCov_of_isPreBrownianReal
 -- name    : Malliavin.isWienerCov_of_isPreBrownianReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:57:14.033366+00:00
 -- url     : https://prove2.me/theorems/dbe1b9a0-85f6-59d2-9122-98675ac0ad4d

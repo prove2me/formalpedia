@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotential_inner_aemeasurable
 -- name    : Kyprianou.Ch05.killedPotential_inner_aemeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T10:05:43.773812+00:00
 -- url     : https://prove2.me/theorems/88cda105-0c0e-43f6-99a3-3f658893f718

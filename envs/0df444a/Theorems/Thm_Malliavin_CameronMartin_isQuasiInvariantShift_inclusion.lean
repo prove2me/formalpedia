@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_CameronMartin_isQuasiInvariantShift_inclusion
 -- name    : Malliavin.CameronMartin.isQuasiInvariantShift_inclusion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:55:01.964988+00:00
 -- url     : https://prove2.me/theorems/ccb3d931-e749-5042-8457-caa1e20244a6

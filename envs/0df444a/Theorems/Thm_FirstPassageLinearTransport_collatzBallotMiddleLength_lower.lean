@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzBallotMiddleLength_lower
 -- name    : FirstPassageLinearTransport.collatzBallotMiddleLength_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:36:20.701967+00:00
 -- url     : https://prove2.me/theorems/13988786-e8a3-4d9b-b762-b3741191b99b

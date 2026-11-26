@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_integral_mul_mul_eval
 -- name    : Malliavin.integral_mul_mul_eval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:01:07.268577+00:00
 -- url     : https://prove2.me/theorems/76cb0d2c-b40b-4d2c-a58d-b3cbc7d22195

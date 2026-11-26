@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_QuantitativeDensity_badCount_assembleDyadic_le_stretched_log
 -- name    : FirstPassageLinearTransport.QuantitativeDensity.badCount_assembleDyadic_le_stretched_log
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:35.531551+00:00
 -- url     : https://prove2.me/theorems/5bc8faab-8431-4e88-881e-c15c3c4e7fb9

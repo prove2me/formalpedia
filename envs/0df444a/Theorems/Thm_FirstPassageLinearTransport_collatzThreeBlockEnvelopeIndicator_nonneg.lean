@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzThreeBlockEnvelopeIndicator_nonneg
 -- name    : FirstPassageLinearTransport.collatzThreeBlockEnvelopeIndicator_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:35:37.366054+00:00
 -- url     : https://prove2.me/theorems/6493fa44-8e9f-56dd-be66-058e197aceac

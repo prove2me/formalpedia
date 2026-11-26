@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzLogIncrement_eq
 -- name    : FirstPassageLinearTransport.collatzLogIncrement_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:32:35.323814+00:00
 -- url     : https://prove2.me/theorems/0815709c-3628-5b26-800a-2ee1d05ffecb

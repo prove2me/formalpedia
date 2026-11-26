@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_IteratedIntegralFamily_norm_sq_integral_boxKernel
 -- name    : Malliavin.IteratedIntegralFamily.norm_sq_integral_boxKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:59:48.518655+00:00
 -- url     : https://prove2.me/theorems/fb78ed67-2d8d-5956-a0fe-db233a635e8f

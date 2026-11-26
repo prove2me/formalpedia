@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_wordIncrementSum_collatz
 -- name    : FirstPassageLinearTransport.wordIncrementSum_collatz
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:28:19.728545+00:00
 -- url     : https://prove2.me/theorems/919117bc-086d-540c-888e-b22a019867e2

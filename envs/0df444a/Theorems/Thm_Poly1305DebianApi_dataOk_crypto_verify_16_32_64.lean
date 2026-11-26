@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305DebianApi_dataOk_crypto_verify_16_32_64
 -- name    : Poly1305DebianApi.dataOk_crypto_verify_16_32_64
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-26T11:24:22.498076+00:00
 -- url     : https://prove2.me/theorems/10da6e5f-2c82-57b6-95eb-fcb2571a62a9

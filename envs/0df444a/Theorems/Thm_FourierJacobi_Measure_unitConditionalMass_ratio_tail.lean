@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_unitConditionalMass_ratio_tail
 -- name    : FourierJacobi.Measure.unitConditionalMass_ratio_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:48:29.5381+00:00
 -- url     : https://prove2.me/theorems/9f00501c-fcc7-45fc-be86-43dad4b14018

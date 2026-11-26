@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stirlingSeq_eq_factorial_div_core
 -- name    : FirstPassageLinearTransport.stirlingSeq_eq_factorial_div_core
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:20:46.910851+00:00
 -- url     : https://prove2.me/theorems/445f272d-10eb-4a0e-baf7-41a64b098b93

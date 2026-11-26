@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_hasSum_starProjection_wienerChaos
 -- name    : Malliavin.hasSum_starProjection_wienerChaos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:10:00.606808+00:00
 -- url     : https://prove2.me/theorems/e2b3e322-5be1-5a32-bf44-0458945c93da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_binomialUpperTail_le_stirlingCore_ratio
 -- name    : FirstPassageLinearTransport.exists_binomialUpperTail_le_stirlingCore_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:20:55.837984+00:00
 -- url     : https://prove2.me/theorems/464531dc-bebb-5633-b0ca-b36a78cc6422

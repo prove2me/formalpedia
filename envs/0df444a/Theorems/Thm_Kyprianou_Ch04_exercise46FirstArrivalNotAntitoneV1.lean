@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46FirstArrivalNotAntitoneV1
 -- name    : Kyprianou.Ch04.exercise46FirstArrivalNotAntitoneV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T10:43:11.552413+00:00
 -- url     : https://prove2.me/theorems/45e7347d-6bf3-5413-855d-6ef9ff538f7d

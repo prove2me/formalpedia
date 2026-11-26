@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_wordIncrementSum_wordPrefix_succ
 -- name    : FirstPassageLinearTransport.wordIncrementSum_wordPrefix_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:34:07.271097+00:00
 -- url     : https://prove2.me/theorems/dc86041e-4b71-46e2-9066-b32cd1327e7c

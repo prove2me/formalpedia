@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzThreeBlockFlatMass_fair_le_tilt
 -- name    : FirstPassageLinearTransport.collatzThreeBlockFlatMass_fair_le_tilt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:35:47.368165+00:00
 -- url     : https://prove2.me/theorems/fbefa226-cfa1-4ef5-9e3d-70440a63161e

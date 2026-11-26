@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_maximalIdeal_eq_span_of_isMaximal
 -- name    : GroundTheory.PAdicHodge.maximalIdeal_eq_span_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:39.68081+00:00
 -- url     : https://prove2.me/theorems/b85324e9-64e2-559e-9356-6fa503306d20

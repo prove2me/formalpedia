@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_listSurvivesFrom_reverse_neg
 -- name    : FirstPassageLinearTransport.listSurvivesFrom_reverse_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:33:41.534903+00:00
 -- url     : https://prove2.me/theorems/6c4993d9-599b-5e4b-8d5d-e4bf6b9348a4

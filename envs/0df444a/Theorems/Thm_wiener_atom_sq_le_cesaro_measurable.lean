@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_wiener_atom_sq_le_cesaro_measurable
 -- name    : wiener_atom_sq_le_cesaro_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T11:25:13.711362+00:00
 -- url     : https://prove2.me/theorems/56c48a2c-d708-4076-8c73-b64dc2428403

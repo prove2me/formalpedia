@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_bernoulliWordWeight_rev
 -- name    : FirstPassageLinearTransport.bernoulliWordWeight_rev
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:34:14.941676+00:00
 -- url     : https://prove2.me/theorems/8939faf6-f76f-4da3-8908-ae196468c0c3

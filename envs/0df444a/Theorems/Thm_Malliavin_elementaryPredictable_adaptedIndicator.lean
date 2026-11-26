@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_elementaryPredictable_adaptedIndicator
 -- name    : Malliavin.elementaryPredictable_adaptedIndicator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:32:18.653156+00:00
 -- url     : https://prove2.me/theorems/2cc5bc64-7c45-4de7-9587-320f6d36ee27

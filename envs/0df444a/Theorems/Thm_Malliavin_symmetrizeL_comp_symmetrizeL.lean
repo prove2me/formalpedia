@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_symmetrizeL_comp_symmetrizeL
 -- name    : Malliavin.symmetrizeL_comp_symmetrizeL
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:56:05.153484+00:00
 -- url     : https://prove2.me/theorems/7cd9a519-f79c-57bd-8cfd-8f53f1ba872a

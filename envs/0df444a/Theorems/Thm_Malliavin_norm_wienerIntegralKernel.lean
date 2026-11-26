@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_norm_wienerIntegralKernel
 -- name    : Malliavin.norm_wienerIntegralKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:00:13.848813+00:00
 -- url     : https://prove2.me/theorems/80b835f9-df0a-5639-b466-f54e8c9bce9f

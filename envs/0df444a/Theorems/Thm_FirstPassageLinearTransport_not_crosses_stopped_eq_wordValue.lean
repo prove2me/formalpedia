@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_not_crosses_stopped_eq_wordValue
 -- name    : FirstPassageLinearTransport.not_crosses_stopped_eq_wordValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:36:59.10409+00:00
 -- url     : https://prove2.me/theorems/d15ec87b-0622-512e-9c78-d9df6b6d39c3

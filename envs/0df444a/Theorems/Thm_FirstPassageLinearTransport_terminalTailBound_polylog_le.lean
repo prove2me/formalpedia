@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_terminalTailBound_polylog_le
 -- name    : FirstPassageLinearTransport.terminalTailBound_polylog_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:21:33.261346+00:00
 -- url     : https://prove2.me/theorems/cbafb2c1-41ca-4067-9e66-134c63e1f05c

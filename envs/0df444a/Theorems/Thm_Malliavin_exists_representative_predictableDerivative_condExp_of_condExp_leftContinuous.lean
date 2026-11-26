@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_exists_representative_predictableDerivative_condExp_of_condExp_leftContinuous
 -- name    : Malliavin.exists_representative_predictableDerivative_condExp_of_condExp_leftContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:27:43.105843+00:00
 -- url     : https://prove2.me/theorems/bd4e5687-5211-46b6-bf69-86f7af0747d5

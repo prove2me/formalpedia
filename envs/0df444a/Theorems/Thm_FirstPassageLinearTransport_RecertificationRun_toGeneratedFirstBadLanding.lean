@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_RecertificationRun_toGeneratedFirstBadLanding
 -- name    : FirstPassageLinearTransport.RecertificationRun.toGeneratedFirstBadLanding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:43:46.531909+00:00
 -- url     : https://prove2.me/theorems/f177be34-2ef8-5aab-b2ea-68d8cadfbc38

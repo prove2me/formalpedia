@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_condExp_filtrationPred_ae_eq_of_ae_sets
 -- name    : Malliavin.condExp_filtrationPred_ae_eq_of_ae_sets
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:28:31.257365+00:00
 -- url     : https://prove2.me/theorems/b6ba004f-686b-4fc5-a7aa-680ffaa21c00

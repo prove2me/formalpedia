@@ -51575,7 +51575,7 @@
 {"parent": "RunIntersect.Strict.strict_enclosedCycleHg", "child": "RunIntersect_Strict_Setting", "via": ["statement"]}
 {"parent": "RunIntersect.Strict.strict_of_strict_subHg", "child": "RunIntersect_Strict_Setting", "via": ["statement"]}
 {"parent": "RunIntersect.Strict.subHg_shortest_betaCycle", "child": "RunIntersect_Strict_Setting", "via": ["statement"]}
-{"parent": "RunIntersect.Tight.claim_14", "child": "RunIntersect_Tight_Setting", "via": ["statement"]}
+{"parent": "RunIntersect.Tight.claim_14", "child": "RunIntersect_Tight_Setting", "via": ["solution", "statement"]}
 {"parent": "RunIntersect.Tight.corollary_3", "child": "RunIntersect_Tight_Setting", "via": ["statement"]}
 {"parent": "RunIntersect.Tight.gOmega_kiteFree_betaAcyclic", "child": "RunIntersect_Tight_Setting", "via": ["statement"]}
 {"parent": "RunIntersect.Tight.lemma_3", "child": "RunIntersect_Tight_Setting", "via": ["solution", "statement"]}

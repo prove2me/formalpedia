@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_interval_card_landingBad_adjustable_le
 -- name    : FirstPassageLinearTransport.eventually_interval_card_landingBad_adjustable_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:44:20.018207+00:00
 -- url     : https://prove2.me/theorems/e9a6d364-1368-57a4-8744-c8c5fcfe4c65

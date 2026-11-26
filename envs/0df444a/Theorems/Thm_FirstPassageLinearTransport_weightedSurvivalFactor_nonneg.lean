@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_weightedSurvivalFactor_nonneg
 -- name    : FirstPassageLinearTransport.weightedSurvivalFactor_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:35:14.9783+00:00
 -- url     : https://prove2.me/theorems/02d601df-cd53-5cb1-b7f7-80964ba8607d

@@ -82904,7 +82904,7 @@
 {"parent": "OnlineShadow.LogRate.lemma_4_9", "child": "ShadowTomography_UpperBound_IsEffect", "via": ["statement"]}
 {"parent": "OnlineShadow.LogRate.lemma_4_9", "child": "OnlineShadow_LogRate_liftObs", "via": ["statement"]}
 {"parent": "OnlineShadow.LogRate.lemma_4_9", "child": "OnlineShadow_LogRate_measChannel", "via": ["statement"]}
-{"parent": "TemporalAgg.gta_loop_terminates", "child": "TemporalAgg_IsGTARun", "via": ["statement"]}
+{"parent": "TemporalAgg.gta_loop_terminates", "child": "TemporalAgg_IsGTARun", "via": ["solution", "statement"]}
 {"parent": "OAI.QuadraticUnitInvariance.quadratic_pair_lattice_eq_primary_ideal_sum", "child": "OAI_NumberTheory_DirichletL_GaussSum_ReflectionBrackets", "via": ["solution", "statement"]}
 {"parent": "OAI.QuadraticUnitInvariance.quadratic_pair_lattice_eq_primary_ideal_sum", "child": "OAI_NumberTheory_DirichletL_Reciprocity_RamifiedSymbol", "via": ["solution", "statement"]}
 {"parent": "OAI.QuadraticUnitInvariance.quadratic_pair_lattice_eq_primary_ideal_sum", "child": "OAI_NumberTheory_DirichletL_Reciprocity_CubicJacobi", "via": ["solution", "statement"]}

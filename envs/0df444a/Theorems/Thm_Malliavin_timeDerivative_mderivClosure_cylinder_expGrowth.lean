@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_timeDerivative_mderivClosure_cylinder_expGrowth
 -- name    : Malliavin.timeDerivative_mderivClosure_cylinder_expGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:25:48.628604+00:00
 -- url     : https://prove2.me/theorems/de88a8b6-340f-5629-885f-d469ec6766c5

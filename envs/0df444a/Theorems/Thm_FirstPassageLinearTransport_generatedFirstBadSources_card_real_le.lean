@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_generatedFirstBadSources_card_real_le
 -- name    : FirstPassageLinearTransport.generatedFirstBadSources_card_real_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:16:28.163496+00:00
 -- url     : https://prove2.me/theorems/9aa8ed54-1cfe-5c05-979e-a6294ed9d837

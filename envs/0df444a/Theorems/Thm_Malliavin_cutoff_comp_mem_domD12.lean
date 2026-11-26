@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_cutoff_comp_mem_domD12
 -- name    : Malliavin.cutoff_comp_mem_domD12
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:42:12.247877+00:00
 -- url     : https://prove2.me/theorems/35ebbda8-f788-4cd8-a443-75ed21ede0ad

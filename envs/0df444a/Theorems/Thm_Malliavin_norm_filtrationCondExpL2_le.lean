@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_norm_filtrationCondExpL2_le
 -- name    : Malliavin.norm_filtrationCondExpL2_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:29:34.247581+00:00
 -- url     : https://prove2.me/theorems/d1f41b24-218b-59b3-84ba-6d6b7dafe2c2

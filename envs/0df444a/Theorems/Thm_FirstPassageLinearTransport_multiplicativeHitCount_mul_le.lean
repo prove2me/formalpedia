@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_multiplicativeHitCount_mul_le
 -- name    : FirstPassageLinearTransport.multiplicativeHitCount_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:36:50.374803+00:00
 -- url     : https://prove2.me/theorems/8f837772-7afd-5981-b10b-f85b79a453da

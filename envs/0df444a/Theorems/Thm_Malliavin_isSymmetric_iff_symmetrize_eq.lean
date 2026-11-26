@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_isSymmetric_iff_symmetrize_eq
 -- name    : Malliavin.isSymmetric_iff_symmetrize_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:55:15.059106+00:00
 -- url     : https://prove2.me/theorems/503992ff-1307-4d76-a5b5-ba4daaf2396c

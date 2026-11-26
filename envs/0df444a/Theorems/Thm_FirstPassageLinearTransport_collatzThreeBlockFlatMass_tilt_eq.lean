@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzThreeBlockFlatMass_tilt_eq
 -- name    : FirstPassageLinearTransport.collatzThreeBlockFlatMass_tilt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:35:42.655074+00:00
 -- url     : https://prove2.me/theorems/1248125c-365b-50af-b1b4-3c1a3cb30833

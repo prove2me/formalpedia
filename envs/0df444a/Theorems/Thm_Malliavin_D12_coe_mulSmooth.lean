@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_D12_coe_mulSmooth
 -- name    : Malliavin.D12.coe_mulSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:42:45.811795+00:00
 -- url     : https://prove2.me/theorems/a1c8f2ad-a935-48d6-b13a-d23c51f68c5f

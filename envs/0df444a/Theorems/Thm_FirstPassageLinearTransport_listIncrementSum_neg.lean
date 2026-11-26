@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_listIncrementSum_neg
 -- name    : FirstPassageLinearTransport.listIncrementSum_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:33:34.42656+00:00
 -- url     : https://prove2.me/theorems/1af79e1d-b887-51c7-b7d5-eaca249cce7f

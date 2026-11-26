@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_setIntegral_timeSection_predictableProjection_ae
 -- name    : Malliavin.setIntegral_timeSection_predictableProjection_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:26:42.836328+00:00
 -- url     : https://prove2.me/theorems/40441338-4dc6-599f-92dc-670a3455caf5

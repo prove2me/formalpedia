@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_pairing_timeSection_predictableProjection_ae
 -- name    : Malliavin.pairing_timeSection_predictableProjection_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:27:13.479463+00:00
 -- url     : https://prove2.me/theorems/4889bde3-6b3d-5f36-bbbf-2b5372d4ee6a

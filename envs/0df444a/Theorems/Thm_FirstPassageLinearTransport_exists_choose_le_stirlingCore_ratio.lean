@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_choose_le_stirlingCore_ratio
 -- name    : FirstPassageLinearTransport.exists_choose_le_stirlingCore_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:20:52.11681+00:00
 -- url     : https://prove2.me/theorems/c6cd4fe8-0ef5-51cb-9491-b85d2012f8cc

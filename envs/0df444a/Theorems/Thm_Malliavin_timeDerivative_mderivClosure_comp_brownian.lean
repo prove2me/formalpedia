@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_timeDerivative_mderivClosure_comp_brownian
 -- name    : Malliavin.timeDerivative_mderivClosure_comp_brownian
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:13:16.34887+00:00
 -- url     : https://prove2.me/theorems/c1e4b6d4-057e-4be0-83c2-3c6805f49d03

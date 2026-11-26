@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_wordIncrementSum_rev
 -- name    : FirstPassageLinearTransport.wordIncrementSum_rev
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:33:56.95634+00:00
 -- url     : https://prove2.me/theorems/87b63f86-30d5-5873-8a19-99ab192ec667

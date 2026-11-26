@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_normalized_multiplicativeHitCount_le_inv
 -- name    : FirstPassageLinearTransport.normalized_multiplicativeHitCount_le_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:31:14.882898+00:00
 -- url     : https://prove2.me/theorems/c6d6ddae-2458-4867-95da-6ec2099e2536

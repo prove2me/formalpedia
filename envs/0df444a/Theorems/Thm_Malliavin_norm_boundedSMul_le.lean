@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_norm_boundedSMul_le
 -- name    : Malliavin.norm_boundedSMul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:06:30.771955+00:00
 -- url     : https://prove2.me/theorems/4d5f91e3-44c1-549b-8696-a679db694fd0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stoppedBallotValue_le_three_halves
 -- name    : FirstPassageLinearTransport.stoppedBallotValue_le_three_halves
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:00.461929+00:00
 -- url     : https://prove2.me/theorems/6a1994b3-7471-41e5-bdf2-31df516d9d50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_ShrinkingRecertificationRun_toRankTrace
 -- name    : FirstPassageLinearTransport.ShrinkingRecertificationRun.toRankTrace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:04.165204+00:00
 -- url     : https://prove2.me/theorems/6a4ba384-8c38-4a7a-a25d-0114296b1e2f

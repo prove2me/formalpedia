@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_sqrt_mul_log_le_linear
 -- name    : FirstPassageLinearTransport.eventually_sqrt_mul_log_le_linear
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:38:15.383813+00:00
 -- url     : https://prove2.me/theorems/1eb35f08-21d0-47c0-be10-792aaf91d677

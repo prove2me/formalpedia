@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_sum_collatzQuarterSplitFairBinMass_le
 -- name    : FirstPassageLinearTransport.exists_sum_collatzQuarterSplitFairBinMass_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:36:23.399094+00:00
 -- url     : https://prove2.me/theorems/7ce342b8-3c75-598c-9f78-09788c4e79e3

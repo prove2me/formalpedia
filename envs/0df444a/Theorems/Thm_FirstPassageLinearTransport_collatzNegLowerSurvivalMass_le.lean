@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzNegLowerSurvivalMass_le
 -- name    : FirstPassageLinearTransport.collatzNegLowerSurvivalMass_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:33:27.209015+00:00
 -- url     : https://prove2.me/theorems/0aa1b91c-fe5a-5a6d-81e8-6ef4e218a5f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_predictableTrimEquiv_ae_eq
 -- name    : Malliavin.predictableTrimEquiv_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:31:36.70747+00:00
 -- url     : https://prove2.me/theorems/2ec5e16e-048b-495b-83a3-27bbce5fbd91

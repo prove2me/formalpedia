@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_centeredNaturalItoIntegral_bestNaturalItoIntegrand
 -- name    : Malliavin.centeredNaturalItoIntegral_bestNaturalItoIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:49:36.544793+00:00
 -- url     : https://prove2.me/theorems/f3d22d40-2879-491c-8ac4-3d0f7cdedd7e

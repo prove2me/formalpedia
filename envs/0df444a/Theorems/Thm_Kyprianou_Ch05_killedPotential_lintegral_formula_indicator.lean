@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotential_lintegral_formula_indicator
 -- name    : Kyprianou.Ch05.killedPotential_lintegral_formula_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T10:05:43.969804+00:00
 -- url     : https://prove2.me/theorems/333471fa-ac2f-4403-8cf8-1e7016dbf179

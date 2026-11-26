@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_shellConditionalMass_collisionDepth_zero
 -- name    : FourierJacobi.Measure.shellConditionalMass_collisionDepth_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:45:10.532555+00:00
 -- url     : https://prove2.me/theorems/797a07eb-2b9f-4d89-821b-8061ba73c935

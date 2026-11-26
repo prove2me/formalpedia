@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_shrinkingHorizon_lt_shellClock
 -- name    : FirstPassageLinearTransport.eventually_shrinkingHorizon_lt_shellClock
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:50:04.473449+00:00
 -- url     : https://prove2.me/theorems/e6c71c97-3199-465f-ba50-6a43c47083db

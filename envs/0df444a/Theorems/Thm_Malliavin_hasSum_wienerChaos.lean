@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_hasSum_wienerChaos
 -- name    : Malliavin.hasSum_wienerChaos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:10:47.575421+00:00
 -- url     : https://prove2.me/theorems/2fcf3b5e-3d12-42b7-a1d1-2d6808b9efed

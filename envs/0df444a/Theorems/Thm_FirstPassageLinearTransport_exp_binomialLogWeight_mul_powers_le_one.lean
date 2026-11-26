@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exp_binomialLogWeight_mul_powers_le_one
 -- name    : FirstPassageLinearTransport.exp_binomialLogWeight_mul_powers_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:31:31.3736+00:00
 -- url     : https://prove2.me/theorems/7dad8932-f700-489e-a1f8-c47989dd0a47

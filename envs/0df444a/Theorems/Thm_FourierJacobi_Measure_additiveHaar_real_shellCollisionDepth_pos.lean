@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_additiveHaar_real_shellCollisionDepth_pos
 -- name    : FourierJacobi.Measure.additiveHaar_real_shellCollisionDepth_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:44:55.500639+00:00
 -- url     : https://prove2.me/theorems/a18f212a-d39c-4e25-9f63-21d44d99576f

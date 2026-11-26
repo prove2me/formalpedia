@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_integral_symmetrize_eq_factorial_smul
 -- name    : Malliavin.integral_symmetrize_eq_factorial_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:57:07.131769+00:00
 -- url     : https://prove2.me/theorems/90382245-e952-546c-a932-5e7fecd67f39

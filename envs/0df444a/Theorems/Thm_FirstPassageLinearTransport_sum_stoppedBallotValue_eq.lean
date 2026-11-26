@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_sum_stoppedBallotValue_eq
 -- name    : FirstPassageLinearTransport.sum_stoppedBallotValue_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:36:58.293118+00:00
 -- url     : https://prove2.me/theorems/21772c01-9351-5280-b883-808c852da413

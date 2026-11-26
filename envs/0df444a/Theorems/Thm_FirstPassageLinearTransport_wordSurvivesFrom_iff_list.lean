@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_wordSurvivesFrom_iff_list
 -- name    : FirstPassageLinearTransport.wordSurvivesFrom_iff_list
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:33:35.475647+00:00
 -- url     : https://prove2.me/theorems/937581a9-5a9a-4586-acce-011fd76a5ba8

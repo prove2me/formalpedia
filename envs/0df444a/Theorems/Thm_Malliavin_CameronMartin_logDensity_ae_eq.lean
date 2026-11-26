@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_CameronMartin_logDensity_ae_eq
 -- name    : Malliavin.CameronMartin.logDensity_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:55:00.654141+00:00
 -- url     : https://prove2.me/theorems/d36b8e98-5532-5fe2-b241-5b1cadf97983

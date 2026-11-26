@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ClarkOconeFamily_condExp_filtrationPred_ae_eq
 -- name    : Malliavin.ClarkOconeFamily.condExp_filtrationPred_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:28:15.392892+00:00
 -- url     : https://prove2.me/theorems/67abd076-270e-5417-b65e-b5a5065d9d0e

@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for FourierJacobi.Measure.iUnion_integerShell_eq
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-26T11:55:00.382842+00:00
+-- url     : https://prove2.me/submissions/d6c7767c-75ad-4c1d-b557-32f5e7b170b3
+
+import Definitions.Def_FourierJacobi_Measure_LocalHaar
+import Definitions.Def_FourierJacobi_Valuations_LocalField
+import Mathlib.MeasureTheory.Measure.Haar.DistribChar
+import Definitions.Def_FourierJacobi_Measure_IntegerShells
+import Theorems.Thm_FourierJacobi_Measure_exists_integerShell_iff_ne_zero
+import Theorems.Thm_FourierJacobi_Valuations_localFieldValuation_zero
+attribute [local simp] FourierJacobi.Valuations.localFieldValuation_zero
+
+
+
+set_option autoImplicit false
+noncomputable section
+open MeasureTheory ValuativeRel FourierJacobi.Valuations
+open scoped ENNReal NNReal Pointwise WithZero
+open FourierJacobi FourierJacobi.Measure
+set_option maxHeartbeats 2000000
+variable (K : Type*) [Field K] [ValuativeRel K] [TopologicalSpace K]
+  [IsNonarchimedeanLocalField K]
+attribute [local instance] FourierJacobi.Measure.integerShells_t2Space
+namespace FourierJacobi.Measure
+theorem _root_.solution : (⋃ n : ℤ, integerShell K n) = ({0} : Set K)ᶜ := by
+  ext x
+  simpa only [Set.mem_iUnion, Set.mem_compl_iff, Set.mem_singleton_iff] using
+    exists_integerShell_iff_ne_zero K x
+end FourierJacobi.Measure

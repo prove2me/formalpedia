@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzFairTiltRate_eq_entropy
 -- name    : FirstPassageLinearTransport.collatzFairTiltRate_eq_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:35:05.336341+00:00
 -- url     : https://prove2.me/theorems/b8b4b25c-90fd-45ae-b67a-50fd4244162a

@@ -55089,7 +55089,7 @@
 {"parent": "SecondBestMatch.Supplement.theorem_A_2", "child": "SecondBestMatch_IsUnitMarket", "via": ["statement"]}
 {"parent": "SecondBestMatch.Supplement.theorem_A_2", "child": "SecondBestMatch_interimPay", "via": ["statement"]}
 {"parent": "SecondBestMatch.Supplement.theorem_A_2", "child": "SecondBestMatch_secondBest", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise_4_1_ii_goalV2", "child": "Kyprianou_Ch04_Exercise4_1CertificationV2", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise_4_1_ii_goalV2", "child": "Kyprianou_Ch04_Exercise4_1CertificationV2", "via": ["solution", "statement"]}
 {"parent": "MoneyBurningTrade_IndependentSurplus_Supplement_CorrelatedGrid", "child": "MoneyBurningTrade_IndependentSurplus_Grid", "via": ["statement"]}
 {"parent": "InfoLossLAR.WorstCase.RegevSearch.search_to_dgs", "child": "InfoLossLAR_RegevSearch", "via": ["statement"]}
 {"parent": "MetricMinTest.Supplement.theorem_D_2", "child": "MetricMinTest_IsPseudometric", "via": ["statement"]}

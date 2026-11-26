@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Malliavin_symmetrize__isProj_bdeedc28d58a
 -- name    : P2M_Malliavin_symmetrize__isProj_bdeedc28d58a
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:55:18.479802+00:00
 -- url     : https://prove2.me/theorems/9ee7b652-307e-5676-8532-91b7c2b459c1

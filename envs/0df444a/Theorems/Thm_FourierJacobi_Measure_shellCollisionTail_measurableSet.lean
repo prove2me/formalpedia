@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_shellCollisionTail_measurableSet
 -- name    : FourierJacobi.Measure.shellCollisionTail_measurableSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:43:27.710126+00:00
 -- url     : https://prove2.me/theorems/573116d1-b6fd-41de-965b-d54f80aa839f

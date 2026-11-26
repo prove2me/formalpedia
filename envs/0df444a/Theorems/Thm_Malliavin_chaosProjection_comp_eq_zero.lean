@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_chaosProjection_comp_eq_zero
 -- name    : Malliavin.chaosProjection_comp_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:09:46.668798+00:00
 -- url     : https://prove2.me/theorems/4a457092-7060-52f8-8049-ef03bee866de

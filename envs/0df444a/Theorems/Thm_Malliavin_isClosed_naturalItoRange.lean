@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_isClosed_naturalItoRange
 -- name    : Malliavin.isClosed_naturalItoRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:49:17.872895+00:00
 -- url     : https://prove2.me/theorems/a7a33534-23ca-4fd2-8975-e80667d6a840

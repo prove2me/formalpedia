@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_shellCollisionDepth_measurableSet
 -- name    : FourierJacobi.Measure.shellCollisionDepth_measurableSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:49:22.885971+00:00
 -- url     : https://prove2.me/theorems/66ede601-76bb-410c-999e-11e24840a111

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_tensorL_apply
 -- name    : Malliavin.tensorL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:04:19.173982+00:00
 -- url     : https://prove2.me/theorems/aa96b7e5-cf5a-59c4-9f6c-88945d3b8384

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_mderivClosure_eq_of_forall_inner
 -- name    : Malliavin.mderivClosure_eq_of_forall_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:06:51.859766+00:00
 -- url     : https://prove2.me/theorems/a4768532-6d2b-5c3d-91f8-479c9dae9f0a

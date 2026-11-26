@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_IteratedIntegralConstruction_positiveIteratedTowerLI_surjective_of_generated
 -- name    : Malliavin.IteratedIntegralConstruction.positiveIteratedTowerLI_surjective_of_generated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:58:41.061208+00:00
 -- url     : https://prove2.me/theorems/05b1d05b-43b6-405c-82ee-909a32fd85af

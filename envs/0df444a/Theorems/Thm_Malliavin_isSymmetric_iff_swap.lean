@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_isSymmetric_iff_swap
 -- name    : Malliavin.isSymmetric_iff_swap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:55:13.877897+00:00
 -- url     : https://prove2.me/theorems/d031f67b-58a5-4848-a8d3-a5effc557743

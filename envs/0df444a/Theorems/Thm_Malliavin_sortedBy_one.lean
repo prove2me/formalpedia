@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_sortedBy_one
 -- name    : Malliavin.sortedBy_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:56:25.520799+00:00
 -- url     : https://prove2.me/theorems/67465552-b3b9-5132-bca4-742977702ffc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_collatzTiltTerminalSeries_bound
 -- name    : FirstPassageLinearTransport.exists_collatzTiltTerminalSeries_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:34:49.3841+00:00
 -- url     : https://prove2.me/theorems/4b257e2d-eed4-4077-8c96-9d0c65b5d921

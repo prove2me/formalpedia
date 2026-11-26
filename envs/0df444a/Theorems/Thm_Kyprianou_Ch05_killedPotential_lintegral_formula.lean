@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotential_lintegral_formula
 -- name    : Kyprianou.Ch05.killedPotential_lintegral_formula
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T03:19:38.385377+00:00
 -- url     : https://prove2.me/theorems/fffb35af-3922-55f0-aa75-a8af07a2b801

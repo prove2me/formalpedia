@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzThreeBlockEnvelopeEvent_of_full
 -- name    : FirstPassageLinearTransport.collatzThreeBlockEnvelopeEvent_of_full
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:35:37.137339+00:00
 -- url     : https://prove2.me/theorems/4bc141d9-2d8c-4280-8bbf-d67300993d5d

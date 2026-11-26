@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_sharp_entropy_tail_exact_rate_Icc_le
 -- name    : FirstPassageLinearTransport.sharp_entropy_tail_exact_rate_Icc_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:21:13.628444+00:00
 -- url     : https://prove2.me/theorems/05efbd3c-a075-42ef-89fe-e70c504e085a

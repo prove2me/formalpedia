@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PowerSeriesCoeffGaps_eq_of_nonneg_add
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.eq_of_nonneg_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:14:44.208131+00:00
 -- url     : https://prove2.me/theorems/5ead72f3-e925-45c2-9ecd-1ad664b5ecf8

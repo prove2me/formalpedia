@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatz_support_unique_in_unit_interval
 -- name    : FirstPassageLinearTransport.collatz_support_unique_in_unit_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:32:40.054721+00:00
 -- url     : https://prove2.me/theorems/fd343f7e-d4ce-5320-8dac-b1b9e40551ed

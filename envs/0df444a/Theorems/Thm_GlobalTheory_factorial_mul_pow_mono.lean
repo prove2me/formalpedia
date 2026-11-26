@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_factorial_mul_pow_mono
 -- name    : GlobalTheory.factorial_mul_pow_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:08.733488+00:00
 -- url     : https://prove2.me/theorems/013be84b-6247-420c-a7a2-e3cc3b5b6d39

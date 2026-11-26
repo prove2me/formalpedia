@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_support_le_reciprocalMaximumSlope
 -- name    : FirstPassageLinearTransport.support_le_reciprocalMaximumSlope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:32.136838+00:00
 -- url     : https://prove2.me/theorems/a1aa15f7-9512-4a76-aa35-f3e233cecf8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ClarkOconeFamily_IsBrownianOnElementary_itoIntegral_eq
 -- name    : Malliavin.ClarkOconeFamily.IsBrownianOnElementary.itoIntegral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:32:50.859718+00:00
 -- url     : https://prove2.me/theorems/67b6220a-9ce8-542b-b599-fae3b86d28c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_compLpEquiv_apply
 -- name    : Malliavin.compLpEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:28:32.565664+00:00
 -- url     : https://prove2.me/theorems/98a4cc57-f194-4420-935f-d527c4bbb767

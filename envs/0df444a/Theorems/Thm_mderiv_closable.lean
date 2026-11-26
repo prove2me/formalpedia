@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mderiv_closable
 -- name    : mderiv_closable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:23.945329+00:00
 -- url     : https://prove2.me/theorems/5bfae219-59ae-5bf7-a182-451c88a84571

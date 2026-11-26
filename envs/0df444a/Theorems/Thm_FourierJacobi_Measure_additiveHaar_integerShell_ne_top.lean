@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_additiveHaar_integerShell_ne_top
 -- name    : FourierJacobi.Measure.additiveHaar_integerShell_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:41:47.519801+00:00
 -- url     : https://prove2.me/theorems/6acd112c-d516-49d6-8189-a29147ebb98c

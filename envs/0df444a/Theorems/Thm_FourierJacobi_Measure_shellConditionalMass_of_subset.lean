@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_shellConditionalMass_of_subset
 -- name    : FourierJacobi.Measure.shellConditionalMass_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:43:17.470723+00:00
 -- url     : https://prove2.me/theorems/101811ca-7456-5c73-a014-22b9fa60f536

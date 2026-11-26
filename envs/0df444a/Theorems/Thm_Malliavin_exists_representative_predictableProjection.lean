@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_exists_representative_predictableProjection
 -- name    : Malliavin.exists_representative_predictableProjection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:27:19.795353+00:00
 -- url     : https://prove2.me/theorems/43512cce-d9f9-4067-837b-094b229787e7

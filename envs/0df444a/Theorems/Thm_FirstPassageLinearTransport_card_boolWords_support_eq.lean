@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_boolWords_support_eq
 -- name    : FirstPassageLinearTransport.card_boolWords_support_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:34:37.220818+00:00
 -- url     : https://prove2.me/theorems/f6d057e9-8f6a-4f4e-bd2b-85d77c32187a

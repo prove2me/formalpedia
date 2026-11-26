@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_integerShell_pairwiseDisjoint
 -- name    : FourierJacobi.Measure.integerShell_pairwiseDisjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:48:53.42955+00:00
 -- url     : https://prove2.me/theorems/3bcc99cb-fa3b-5184-a8ef-977cc69d2585

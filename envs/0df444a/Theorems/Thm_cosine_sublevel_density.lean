@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_cosine_sublevel_density
 -- name    : cosine_sublevel_density
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T11:29:15.361223+00:00
 -- url     : https://prove2.me/theorems/903ced4b-0c66-5a50-ad2c-d383e01a806c

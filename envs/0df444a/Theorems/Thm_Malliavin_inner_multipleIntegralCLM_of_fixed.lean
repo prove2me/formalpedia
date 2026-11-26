@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_inner_multipleIntegralCLM_of_fixed
 -- name    : Malliavin.inner_multipleIntegralCLM_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:36.020483+00:00
 -- url     : https://prove2.me/theorems/8ca944e1-b0b8-439b-98d0-09d171d4e465

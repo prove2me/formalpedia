@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_map_eq_gaussianReal_of_mem_firstChaos
 -- name    : Malliavin.map_eq_gaussianReal_of_mem_firstChaos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:03:57.281501+00:00
 -- url     : https://prove2.me/theorems/ed70892c-833f-44d5-8ae1-33b1425fed0c

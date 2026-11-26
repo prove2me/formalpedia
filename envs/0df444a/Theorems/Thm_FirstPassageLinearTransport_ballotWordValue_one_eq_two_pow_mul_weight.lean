@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_ballotWordValue_one_eq_two_pow_mul_weight
 -- name    : FirstPassageLinearTransport.ballotWordValue_one_eq_two_pow_mul_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:14.723279+00:00
 -- url     : https://prove2.me/theorems/3781ae7d-53c7-4a74-997d-ef151b8aa0b8

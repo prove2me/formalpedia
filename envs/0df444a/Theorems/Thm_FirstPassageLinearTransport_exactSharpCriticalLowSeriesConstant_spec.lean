@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exactSharpCriticalLowSeriesConstant_spec
 -- name    : FirstPassageLinearTransport.exactSharpCriticalLowSeriesConstant_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:21:47.281089+00:00
 -- url     : https://prove2.me/theorems/df0c5292-e529-4d56-bc85-b2069a8fcd8f

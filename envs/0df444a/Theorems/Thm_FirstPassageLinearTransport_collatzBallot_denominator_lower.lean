@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzBallot_denominator_lower
 -- name    : FirstPassageLinearTransport.collatzBallot_denominator_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:36:24.243863+00:00
 -- url     : https://prove2.me/theorems/4e7205d2-d07f-4730-9571-2e8b1dd7b0e6

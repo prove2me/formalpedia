@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_mderivD12_toLp
 -- name    : Malliavin.mderivD12_toLp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:04.224992+00:00
 -- url     : https://prove2.me/theorems/ccb0ef30-5674-5d3d-97f1-c51eab1f94a7

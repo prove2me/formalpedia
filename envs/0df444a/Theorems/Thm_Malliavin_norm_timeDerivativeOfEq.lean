@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_norm_timeDerivativeOfEq
 -- name    : Malliavin.norm_timeDerivativeOfEq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:29:00.67107+00:00
 -- url     : https://prove2.me/theorems/22b3cd4f-dcd8-4b9f-86e3-9637a11f010b

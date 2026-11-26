@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_wienerIntegralEquiv_symm_apply
 -- name    : Malliavin.wienerIntegralEquiv_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:28:34.759017+00:00
 -- url     : https://prove2.me/theorems/db710a00-238f-58db-9115-75cead476b31

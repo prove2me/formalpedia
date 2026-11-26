@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ClarkOconeFamily_IsBrownianOnDeterministic_itoIntegral_deterministic_Ioc
 -- name    : Malliavin.ClarkOconeFamily.IsBrownianOnDeterministic.itoIntegral_deterministic_Ioc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:30:37.615973+00:00
 -- url     : https://prove2.me/theorems/61224aeb-c75b-537f-9015-7f13be227d62

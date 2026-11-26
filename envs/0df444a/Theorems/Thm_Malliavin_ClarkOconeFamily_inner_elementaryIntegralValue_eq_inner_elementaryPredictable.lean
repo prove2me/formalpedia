@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ClarkOconeFamily_inner_elementaryIntegralValue_eq_inner_elementaryPredictable
 -- name    : Malliavin.ClarkOconeFamily.inner_elementaryIntegralValue_eq_inner_elementaryPredictable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:41:44.047888+00:00
 -- url     : https://prove2.me/theorems/adf542e1-72a1-4890-98ab-beadf1500349

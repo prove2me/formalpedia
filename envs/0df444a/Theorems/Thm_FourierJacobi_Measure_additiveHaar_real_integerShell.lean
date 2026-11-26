@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_additiveHaar_real_integerShell
 -- name    : FourierJacobi.Measure.additiveHaar_real_integerShell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:41:22.620162+00:00
 -- url     : https://prove2.me/theorems/ca344081-488e-5ee4-b218-4234aff10750

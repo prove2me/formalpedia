@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_memLp_symmetrize
 -- name    : Malliavin.memLp_symmetrize
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:55:33.380626+00:00
 -- url     : https://prove2.me/theorems/c95d6a73-affd-5fa8-909b-7deb91e12e1a

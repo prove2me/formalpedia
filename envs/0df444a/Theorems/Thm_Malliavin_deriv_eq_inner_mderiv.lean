@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_deriv_eq_inner_mderiv
 -- name    : Malliavin.deriv_eq_inner_mderiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:06:41.876048+00:00
 -- url     : https://prove2.me/theorems/532a208b-b6bb-58a6-8ade-7c6e4e8f196b

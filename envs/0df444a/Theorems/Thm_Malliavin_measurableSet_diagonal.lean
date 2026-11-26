@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_measurableSet_diagonal
 -- name    : Malliavin.measurableSet_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:56:36.028635+00:00
 -- url     : https://prove2.me/theorems/5975fc41-3a7b-4e0e-84f9-7a78ae9e8782

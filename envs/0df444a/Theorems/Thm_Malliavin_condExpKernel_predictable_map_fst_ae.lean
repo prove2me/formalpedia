@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_condExpKernel_predictable_map_fst_ae
 -- name    : Malliavin.condExpKernel_predictable_map_fst_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:33:16.026531+00:00
 -- url     : https://prove2.me/theorems/cab4efab-f37f-5104-8cdc-ef14d3431683

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzTilt_add_reciprocalMaximumEpsilon
 -- name    : FirstPassageLinearTransport.collatzTilt_add_reciprocalMaximumEpsilon
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:24.140879+00:00
 -- url     : https://prove2.me/theorems/be3dff01-9467-40d3-9165-bb037e80a8d3

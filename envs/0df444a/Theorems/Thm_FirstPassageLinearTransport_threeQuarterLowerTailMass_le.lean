@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_threeQuarterLowerTailMass_le
 -- name    : FirstPassageLinearTransport.threeQuarterLowerTailMass_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:04.1458+00:00
 -- url     : https://prove2.me/theorems/c2124a3d-ca2a-4e84-94ba-af4b971ae104

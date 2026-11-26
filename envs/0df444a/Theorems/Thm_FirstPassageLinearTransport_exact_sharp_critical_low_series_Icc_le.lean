@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exact_sharp_critical_low_series_Icc_le
 -- name    : FirstPassageLinearTransport.exact_sharp_critical_low_series_Icc_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:21:14.511546+00:00
 -- url     : https://prove2.me/theorems/ec267108-d4e8-5491-96e8-f4c6a4b56e81

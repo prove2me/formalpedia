@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_integral_sq_norm_eq_factorial_smul
 -- name    : Malliavin.integral_sq_norm_eq_factorial_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:57:00.402497+00:00
 -- url     : https://prove2.me/theorems/a5b53ad3-f82b-48e4-ac4e-902004d858d2

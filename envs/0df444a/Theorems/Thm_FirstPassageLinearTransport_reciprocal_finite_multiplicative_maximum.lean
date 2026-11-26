@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_reciprocal_finite_multiplicative_maximum
 -- name    : FirstPassageLinearTransport.reciprocal_finite_multiplicative_maximum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:32:48.647512+00:00
 -- url     : https://prove2.me/theorems/cc223679-2f39-4aaa-8c15-415bd85e3f2d

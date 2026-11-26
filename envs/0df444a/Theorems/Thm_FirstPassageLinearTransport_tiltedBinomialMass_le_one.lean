@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tiltedBinomialMass_le_one
 -- name    : FirstPassageLinearTransport.tiltedBinomialMass_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:32:10.135875+00:00
 -- url     : https://prove2.me/theorems/0f2691e9-7eba-43cf-a591-d6820b012f20

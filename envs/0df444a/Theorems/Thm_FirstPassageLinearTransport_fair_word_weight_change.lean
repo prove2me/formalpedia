@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_fair_word_weight_change
 -- name    : FirstPassageLinearTransport.fair_word_weight_change
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:35:06.264971+00:00
 -- url     : https://prove2.me/theorems/e3037a58-6f62-42b6-be2a-9bb057cf062f

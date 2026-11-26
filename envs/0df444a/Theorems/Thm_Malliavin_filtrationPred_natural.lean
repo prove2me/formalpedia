@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_filtrationPred_natural
 -- name    : Malliavin.filtrationPred_natural
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:29:10.580371+00:00
 -- url     : https://prove2.me/theorems/3b2f9f0a-7866-40fe-912d-3f12779ac658

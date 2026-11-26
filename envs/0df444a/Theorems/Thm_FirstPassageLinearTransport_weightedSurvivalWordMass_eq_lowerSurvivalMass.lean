@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_weightedSurvivalWordMass_eq_lowerSurvivalMass
 -- name    : FirstPassageLinearTransport.weightedSurvivalWordMass_eq_lowerSurvivalMass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:34:46.879076+00:00
 -- url     : https://prove2.me/theorems/99f7a536-936c-424e-acec-cb61064334ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_canonicalValuation_measurable
 -- name    : FourierJacobi.Measure.canonicalValuation_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:44:23.226124+00:00
 -- url     : https://prove2.me/theorems/badd2a56-b100-59a2-ae38-2568a2b4bab3

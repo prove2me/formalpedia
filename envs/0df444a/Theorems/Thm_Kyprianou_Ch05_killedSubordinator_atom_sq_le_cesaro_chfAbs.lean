@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedSubordinator_atom_sq_le_cesaro_chfAbs
 -- name    : Kyprianou.Ch05.killedSubordinator_atom_sq_le_cesaro_chfAbs
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T04:12:49.731008+00:00
 -- url     : https://prove2.me/theorems/00aced1d-2af9-47f4-aaab-a365db034e7b

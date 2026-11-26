@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_ShrinkingRecertificationRun_elapsed_le_horizon
 -- name    : FirstPassageLinearTransport.ShrinkingRecertificationRun.elapsed_le_horizon
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:10.374352+00:00
 -- url     : https://prove2.me/theorems/6c9de8cf-6b43-4a7e-a460-0e18fde6c636

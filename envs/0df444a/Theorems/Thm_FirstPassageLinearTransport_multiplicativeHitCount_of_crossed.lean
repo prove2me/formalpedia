@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_multiplicativeHitCount_of_crossed
 -- name    : FirstPassageLinearTransport.multiplicativeHitCount_of_crossed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:36:39.31429+00:00
 -- url     : https://prove2.me/theorems/8c179daf-fbf0-5985-885a-879c4d019849

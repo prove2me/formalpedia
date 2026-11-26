@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stoppedTree_upper
 -- name    : FirstPassageLinearTransport.stoppedTree_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:15.068932+00:00
 -- url     : https://prove2.me/theorems/472d2c72-dbb9-414a-b3c0-d2ad7ff12603

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ClarkOconeFamily_IsBrownianOnElementary_itoIntegral_partitionElementaryPredictable
 -- name    : Malliavin.ClarkOconeFamily.IsBrownianOnElementary.itoIntegral_partitionElementaryPredictable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:31:07.941716+00:00
 -- url     : https://prove2.me/theorems/86498c73-b924-57e0-a40a-6b8c8cdaa0e3

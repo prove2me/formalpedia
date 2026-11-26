@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_lowerSurvivalMass_le_centered_explicit
 -- name    : FirstPassageLinearTransport.lowerSurvivalMass_le_centered_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:31:34.142582+00:00
 -- url     : https://prove2.me/theorems/d3a58bc2-f480-4bb9-8a78-c6d8b71e586c

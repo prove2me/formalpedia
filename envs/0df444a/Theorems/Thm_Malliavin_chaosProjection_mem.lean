@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_chaosProjection_mem
 -- name    : Malliavin.chaosProjection_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:10:58.666319+00:00
 -- url     : https://prove2.me/theorems/10c47df9-675a-4581-9bd1-0ab9d49315ed

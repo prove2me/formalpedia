@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ClarkOconeFamily_IsBrownianOnElementary_itoIntegral_sum_elementaryPredictable
 -- name    : Malliavin.ClarkOconeFamily.IsBrownianOnElementary.itoIntegral_sum_elementaryPredictable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:30:38.573791+00:00
 -- url     : https://prove2.me/theorems/67dea14b-cfa3-4fce-afa6-2a68be12afbb

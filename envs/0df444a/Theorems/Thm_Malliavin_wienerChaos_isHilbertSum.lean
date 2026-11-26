@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_wienerChaos_isHilbertSum
 -- name    : Malliavin.wienerChaos_isHilbertSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:09:35.7157+00:00
 -- url     : https://prove2.me/theorems/58d38084-402a-4340-86c1-9e0b22f1fd70

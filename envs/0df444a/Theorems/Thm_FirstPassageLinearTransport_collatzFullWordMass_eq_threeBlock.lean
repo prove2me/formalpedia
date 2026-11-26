@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzFullWordMass_eq_threeBlock
 -- name    : FirstPassageLinearTransport.collatzFullWordMass_eq_threeBlock
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:35:49.907846+00:00
 -- url     : https://prove2.me/theorems/c887fba7-a62d-483a-96ec-6fa2dd68378d

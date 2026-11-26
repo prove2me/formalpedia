@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_pz_cesaro_density_bound
 -- name    : pz_cesaro_density_bound
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T11:29:17.949345+00:00
 -- url     : https://prove2.me/theorems/db06e4a1-732f-48e8-87ff-790297e129cb

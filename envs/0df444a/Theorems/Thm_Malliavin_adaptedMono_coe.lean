@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_adaptedMono_coe
 -- name    : Malliavin.adaptedMono_coe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:41:12.444981+00:00
 -- url     : https://prove2.me/theorems/180ee42d-112e-56f2-aa91-543fa70cef9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_CameronMartin_translated_eq_withDensity_zero
 -- name    : Malliavin.CameronMartin.translated_eq_withDensity_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:54:58.245181+00:00
 -- url     : https://prove2.me/theorems/9ab6c5a0-9273-4da4-876e-74891095c8d5

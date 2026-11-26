@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotential_laplaceTransform
 -- name    : Kyprianou.Ch05.killedPotential_laplaceTransform
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T03:10:14.955315+00:00
 -- url     : https://prove2.me/theorems/7e175c5a-7aab-4ce3-aa78-1ac592437b5b

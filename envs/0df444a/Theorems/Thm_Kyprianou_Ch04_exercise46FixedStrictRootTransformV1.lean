@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46FixedStrictRootTransformV1
 -- name    : Kyprianou.Ch04.exercise46FixedStrictRootTransformV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T10:45:45.64909+00:00
 -- url     : https://prove2.me/theorems/51cfc206-98f1-4c85-896c-8c82b43ae3e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_boundedSMul_apply
 -- name    : Malliavin.boundedSMul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:06:25.644347+00:00
 -- url     : https://prove2.me/theorems/1a189510-2d0e-5270-9263-c6c6aa5376ff

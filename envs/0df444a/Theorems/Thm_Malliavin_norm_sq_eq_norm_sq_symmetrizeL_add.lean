@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_norm_sq_eq_norm_sq_symmetrizeL_add
 -- name    : Malliavin.norm_sq_eq_norm_sq_symmetrizeL_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:56:12.776945+00:00
 -- url     : https://prove2.me/theorems/f09effcd-2969-5bf5-86b7-5c054c300e24

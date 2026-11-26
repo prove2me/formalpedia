@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ClarkOconeFamily_norm_partitionElementaryIntegralValue
 -- name    : Malliavin.ClarkOconeFamily.norm_partitionElementaryIntegralValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:31:59.152664+00:00
 -- url     : https://prove2.me/theorems/61a63de5-ec88-462d-a7ba-2f27249c21ee

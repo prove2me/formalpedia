@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_norm_partitionElementaryBrownianValue
 -- name    : Malliavin.norm_partitionElementaryBrownianValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:31:23.936962+00:00
 -- url     : https://prove2.me/theorems/72cc784b-4e44-5752-aff0-e9c3a4029855

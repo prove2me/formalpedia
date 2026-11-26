@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_norm_mderivClosure_mul_le
 -- name    : Malliavin.norm_mderivClosure_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:42:13.978308+00:00
 -- url     : https://prove2.me/theorems/8b53dfe4-ca88-5848-b9ef-c9607db8835b

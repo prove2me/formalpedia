@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_binomialUpperTail_le_first_of_fractional_gap
 -- name    : FirstPassageLinearTransport.binomialUpperTail_le_first_of_fractional_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:20:27.703922+00:00
 -- url     : https://prove2.me/theorems/4f9233ea-f100-4388-acbb-ef5234362752

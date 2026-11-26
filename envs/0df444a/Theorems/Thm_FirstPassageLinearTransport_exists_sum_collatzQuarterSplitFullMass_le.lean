@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_sum_collatzQuarterSplitFullMass_le
 -- name    : FirstPassageLinearTransport.exists_sum_collatzQuarterSplitFullMass_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:36:31.136813+00:00
 -- url     : https://prove2.me/theorems/a8761f56-bbaa-419a-8f83-40f256746ea9

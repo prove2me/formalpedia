@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzFullThreeBlockMass_le_envelope
 -- name    : FirstPassageLinearTransport.collatzFullThreeBlockMass_le_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:35:39.29306+00:00
 -- url     : https://prove2.me/theorems/ad683696-cbac-4f06-a45f-faf76a7573ea

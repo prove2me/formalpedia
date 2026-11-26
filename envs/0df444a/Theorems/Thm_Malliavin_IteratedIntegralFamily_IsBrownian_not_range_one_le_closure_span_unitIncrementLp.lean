@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_IteratedIntegralFamily_IsBrownian_not_range_one_le_closure_span_unitIncrementLp
 -- name    : Malliavin.IteratedIntegralFamily.IsBrownian.not_range_one_le_closure_span_unitIncrementLp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:03:39.7118+00:00
 -- url     : https://prove2.me/theorems/b91b57df-2fef-5f1f-8a33-bfa6898b2e43

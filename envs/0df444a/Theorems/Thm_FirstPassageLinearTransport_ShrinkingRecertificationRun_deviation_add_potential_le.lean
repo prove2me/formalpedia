@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_ShrinkingRecertificationRun_deviation_add_potential_le
 -- name    : FirstPassageLinearTransport.ShrinkingRecertificationRun.deviation_add_potential_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:01.095969+00:00
 -- url     : https://prove2.me/theorems/349e5a69-e776-4be5-8c7f-324678936a8e

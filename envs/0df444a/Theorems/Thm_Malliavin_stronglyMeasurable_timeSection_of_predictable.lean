@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_stronglyMeasurable_timeSection_of_predictable
 -- name    : Malliavin.stronglyMeasurable_timeSection_of_predictable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:29:54.32919+00:00
 -- url     : https://prove2.me/theorems/7dc3f95a-de0f-5461-8179-7f7327e9c22d

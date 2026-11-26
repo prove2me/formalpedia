@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_iUnion_integerShell_eq
 -- name    : FourierJacobi.Measure.iUnion_integerShell_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:48:58.766243+00:00
 -- url     : https://prove2.me/theorems/661442db-e0e9-4d64-88ea-f0fd83515abe

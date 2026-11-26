@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_positiveIntegralCLM_box
 -- name    : Malliavin.BrownianIteratedConstruction.positiveIntegralCLM_box
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:49:40.958481+00:00
 -- url     : https://prove2.me/theorems/84f4517f-729f-4c1f-b839-6458b2cce8a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ClarkOconeFamily_IsBrownianOnElementary_isBrownianOnDeterministic
 -- name    : Malliavin.ClarkOconeFamily.IsBrownianOnElementary.isBrownianOnDeterministic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:30:29.578107+00:00
 -- url     : https://prove2.me/theorems/92d951bd-a0dc-59b9-bb66-f331eea92074

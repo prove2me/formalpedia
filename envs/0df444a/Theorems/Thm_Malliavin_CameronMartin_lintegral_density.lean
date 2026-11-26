@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_CameronMartin_lintegral_density
 -- name    : Malliavin.CameronMartin.lintegral_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:54:57.748654+00:00
 -- url     : https://prove2.me/theorems/cc041e28-0e3d-5f76-a01e-931127177fb7

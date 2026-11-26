@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shrinkingFeasibleTimes_card_le_potential
 -- name    : FirstPassageLinearTransport.shrinkingFeasibleTimes_card_le_potential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:16.884832+00:00
 -- url     : https://prove2.me/theorems/1e877a8e-bf7f-486f-a465-f2657b372f73

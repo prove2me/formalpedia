@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_isTotal_of_dense_span
 -- name    : Malliavin.isTotal_of_dense_span
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:44.803124+00:00
 -- url     : https://prove2.me/theorems/2d513273-79a2-4724-bf5b-c0a40178441e

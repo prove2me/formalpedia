@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_safeTerminalSum_le_lowerTail
 -- name    : FirstPassageLinearTransport.safeTerminalSum_le_lowerTail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:37:19.571817+00:00
 -- url     : https://prove2.me/theorems/b5c4737e-8f24-4bc0-aeb4-df9cda819488

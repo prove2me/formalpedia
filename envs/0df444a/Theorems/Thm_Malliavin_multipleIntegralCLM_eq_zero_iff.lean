@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_multipleIntegralCLM_eq_zero_iff
 -- name    : Malliavin.multipleIntegralCLM_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:02.643233+00:00
 -- url     : https://prove2.me/theorems/7b91bdd9-d9a2-5c5d-a1eb-51012153f9b1

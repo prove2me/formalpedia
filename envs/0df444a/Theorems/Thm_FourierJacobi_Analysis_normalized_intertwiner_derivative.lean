@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_normalized_intertwiner_derivative
 -- name    : FourierJacobi.Analysis.normalized_intertwiner_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:49:54.008104+00:00
 -- url     : https://prove2.me/theorems/19c29fd7-162e-4d71-ba80-8b4f4b760861

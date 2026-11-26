@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_wordSurvivesFrom_of_prefix
 -- name    : FirstPassageLinearTransport.wordSurvivesFrom_of_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:34:00.689118+00:00
 -- url     : https://prove2.me/theorems/afea552c-c0ac-43dc-8be8-ccc926b20d6d

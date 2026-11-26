@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_atom_mass_extraction
 -- name    : Kyprianou.Ch05.atom_mass_extraction
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T11:29:24.154266+00:00
 -- url     : https://prove2.me/theorems/b1227270-d843-5d39-b7f3-48af94db6ad5
