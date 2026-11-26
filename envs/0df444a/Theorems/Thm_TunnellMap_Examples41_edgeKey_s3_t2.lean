@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_edgeKey_s3_t2
 -- name    : TunnellMap.Examples41.edgeKey_s3_t2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:27:39.370805+00:00
 -- url     : https://prove2.me/theorems/f4054322-7b51-4399-8a0a-f461fefd034b

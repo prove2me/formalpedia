@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_FreeInvolution_signOf_canonicalPoint
 -- name    : TunnellMap.FreeInvolution.signOf_canonicalPoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:10:28.417216+00:00
 -- url     : https://prove2.me/theorems/7fbb41eb-53c7-55ef-95a3-969d549ead5a

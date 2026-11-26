@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_classicalRenewalTheorem_unrestrictedGrowth
 -- name    : Kyprianou.Ch05.classicalRenewalTheorem_unrestrictedGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T12:40:25.253697+00:00
 -- url     : https://prove2.me/theorems/0e4a1289-230f-405a-bb6b-dc73f33160d0

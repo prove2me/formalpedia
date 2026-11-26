@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_attractor_lemma
 -- name    : EdenVerified.attractor_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:19:56.001775+00:00
 -- url     : https://prove2.me/theorems/6ac3b9f8-825c-5b90-b998-a017b536a33d

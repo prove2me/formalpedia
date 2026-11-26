@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_evolution_inner_disjoint_outer
 -- name    : Eden.evolution_inner_disjoint_outer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:44:47.56738+00:00
 -- url     : https://prove2.me/theorems/42b22a26-43e1-4bae-8e9e-cddbd485bace

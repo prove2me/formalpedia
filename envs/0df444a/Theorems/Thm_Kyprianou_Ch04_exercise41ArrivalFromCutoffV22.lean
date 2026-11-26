@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41ArrivalFromCutoffV22
 -- name    : Kyprianou.Ch04.exercise41ArrivalFromCutoffV22
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:05:24.464274+00:00
 -- url     : https://prove2.me/theorems/6651dbd7-953d-44a3-9863-c47ee525dfe5

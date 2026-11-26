@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_D01_parameter
 -- name    : EdenVerified.D01_parameter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:26:16.998218+00:00
 -- url     : https://prove2.me/theorems/2b388d0e-6b22-463a-8b49-150d6471b3b4

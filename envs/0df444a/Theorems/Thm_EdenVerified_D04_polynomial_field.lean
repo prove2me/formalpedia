@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_D04_polynomial_field
 -- name    : EdenVerified.D04_polynomial_field
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:26:27.78227+00:00
 -- url     : https://prove2.me/theorems/c306a259-d097-4242-8137-bb1d10bab86a

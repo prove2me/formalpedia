@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isPolynomialSpectralSet_closedBall_of_isStarNormal_of_numericalRadius_le
 -- name    : isPolynomialSpectralSet_closedBall_of_isStarNormal_of_numericalRadius_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:09:48.45666+00:00
 -- url     : https://prove2.me/theorems/15c3b0f0-1543-5c4d-9c54-a7d6ee7bd5ce

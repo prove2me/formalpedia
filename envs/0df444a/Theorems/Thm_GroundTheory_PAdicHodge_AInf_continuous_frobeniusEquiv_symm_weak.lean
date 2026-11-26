@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_continuous_frobeniusEquiv_symm_weak
 -- name    : GroundTheory.PAdicHodge.AInf.continuous_frobeniusEquiv_symm_weak
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:32.823478+00:00
 -- url     : https://prove2.me/theorems/ecaac1e8-723c-518f-9b93-1c104324cecf

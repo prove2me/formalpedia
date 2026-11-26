@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isKPolynomialSpectralSet_closedBall_of_numericalRadius_le
 -- name    : isKPolynomialSpectralSet_closedBall_of_numericalRadius_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:09:45.098891+00:00
 -- url     : https://prove2.me/theorems/b9a202b3-c032-5319-a774-7d5dcae38950

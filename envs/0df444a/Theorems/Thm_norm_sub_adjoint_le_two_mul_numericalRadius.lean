@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_sub_adjoint_le_two_mul_numericalRadius
 -- name    : norm_sub_adjoint_le_two_mul_numericalRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:27:37.325234+00:00
 -- url     : https://prove2.me/theorems/ef6ceb04-e581-45e0-8b76-548f12157376

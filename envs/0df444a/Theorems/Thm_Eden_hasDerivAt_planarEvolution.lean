@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_hasDerivAt_planarEvolution
 -- name    : Eden.hasDerivAt_planarEvolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:30:13.987537+00:00
 -- url     : https://prove2.me/theorems/02b402d0-9597-5df6-9e08-6ac278c3ea42

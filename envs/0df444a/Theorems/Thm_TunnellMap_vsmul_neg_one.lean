@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_vsmul_neg_one
 -- name    : TunnellMap.vsmul_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:09:35.439713+00:00
 -- url     : https://prove2.me/theorems/b8586012-6d89-4016-b1d1-2af489309342

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_signedPartner_neg_target
 -- name    : TunnellMap.signedPartner_neg_target
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:13:45.754139+00:00
 -- url     : https://prove2.me/theorems/7ff5e1dd-a48b-4935-b6ef-852ee656e231

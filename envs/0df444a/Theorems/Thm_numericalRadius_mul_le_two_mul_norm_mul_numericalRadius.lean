@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_mul_le_two_mul_norm_mul_numericalRadius
 -- name    : numericalRadius_mul_le_two_mul_norm_mul_numericalRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:15:02.314351+00:00
 -- url     : https://prove2.me/theorems/1866f70c-6bbf-4f97-89bc-6880cf7ac1fa

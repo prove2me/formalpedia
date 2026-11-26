@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_norm_planeProjection_radialPerturbation
 -- name    : Eden.norm_planeProjection_radialPerturbation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:57:44.380027+00:00
 -- url     : https://prove2.me/theorems/c86794e6-4f8a-5b19-8435-0975a4fed721

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrouzeixPalenciaBoundary_numericalRange_adjoint_boundary
 -- name    : CrouzeixPalenciaBoundary.numericalRange_adjoint_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:18:09.885184+00:00
 -- url     : https://prove2.me/theorems/127b0282-c024-4232-b8b8-d26154066acd

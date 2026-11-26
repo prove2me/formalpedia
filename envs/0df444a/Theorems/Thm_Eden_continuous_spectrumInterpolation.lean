@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_continuous_spectrumInterpolation
 -- name    : Eden.continuous_spectrumInterpolation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:09:46.459723+00:00
 -- url     : https://prove2.me/theorems/0a3d36f7-fcf3-42c8-82e8-62c550e80fbb

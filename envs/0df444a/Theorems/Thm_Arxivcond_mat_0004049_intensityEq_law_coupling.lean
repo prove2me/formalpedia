@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivcond_mat_0004049_intensityEq_law_coupling
 -- name    : Arxivcond_mat_0004049.intensityEq_law_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @domodus
 -- created : 2026-11-26T15:27:38.023996+00:00
 -- url     : https://prove2.me/theorems/9ca2ee04-3355-48c2-9bf2-d5ab31c04b39

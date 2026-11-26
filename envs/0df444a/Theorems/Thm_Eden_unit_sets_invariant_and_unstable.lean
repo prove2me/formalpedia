@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_unit_sets_invariant_and_unstable
 -- name    : Eden.unit_sets_invariant_and_unstable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:01:32.416625+00:00
 -- url     : https://prove2.me/theorems/250c78b1-4696-411b-8ce5-190be6e61ea1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_eq_norm_of_isStarNormal
 -- name    : numericalRadius_eq_norm_of_isStarNormal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:18:47.461256+00:00
 -- url     : https://prove2.me/theorems/5f2b8d6a-be75-4eea-93f5-9a8f0fc657eb

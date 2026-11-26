@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41UpwardZeroCrossingV22
 -- name    : Kyprianou.Ch04.exercise41UpwardZeroCrossingV22
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:05:22.866534+00:00
 -- url     : https://prove2.me/theorems/83722bf3-914c-5377-b207-8bc3fe7ed4ac

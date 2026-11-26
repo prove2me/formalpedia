@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_diagonalLinear_comp_self
 -- name    : Eden.diagonalLinear_comp_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:29:05.524523+00:00
 -- url     : https://prove2.me/theorems/a65a4a41-1ed1-4480-87fa-91f92bb5f6b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s10_frequency_flow
 -- name    : EdenVerified.s10_frequency_flow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:24:56.300569+00:00
 -- url     : https://prove2.me/theorems/bc89aa6b-88d4-4c91-91b9-26f8dc682188

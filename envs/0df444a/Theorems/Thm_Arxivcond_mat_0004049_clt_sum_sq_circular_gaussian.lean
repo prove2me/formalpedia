@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivcond_mat_0004049_clt_sum_sq_circular_gaussian
 -- name    : Arxivcond_mat_0004049.clt_sum_sq_circular_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @domodus
 -- created : 2026-11-26T15:27:15.145836+00:00
 -- url     : https://prove2.me/theorems/941e4d27-2d8b-52d3-a8aa-1644c229085a

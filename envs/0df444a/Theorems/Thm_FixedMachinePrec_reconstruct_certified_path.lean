@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedMachinePrec_reconstruct_certified_path
 -- name    : FixedMachinePrec.reconstruct_certified_path
--- status  : Open
+-- status  : Proved
 -- author  : @kj
 -- created : 2026-11-26T12:23:53.757747+00:00
 -- url     : https://prove2.me/theorems/11b636d5-882f-5f4b-9537-58a94a46c453

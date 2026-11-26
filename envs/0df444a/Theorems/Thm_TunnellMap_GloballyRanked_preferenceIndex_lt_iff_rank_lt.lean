@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_preferenceIndex_lt_iff_rank_lt
 -- name    : TunnellMap.GloballyRanked.preferenceIndex_lt_iff_rank_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:00:09.645869+00:00
 -- url     : https://prove2.me/theorems/9324066f-eed5-57c8-a759-06b7cc0de1bb

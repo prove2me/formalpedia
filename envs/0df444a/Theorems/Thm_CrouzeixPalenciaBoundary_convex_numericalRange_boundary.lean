@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrouzeixPalenciaBoundary_convex_numericalRange_boundary
 -- name    : CrouzeixPalenciaBoundary.convex_numericalRange_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:18:07.22442+00:00
 -- url     : https://prove2.me/theorems/010f30cd-1c0f-42d6-813a-a048e4deba6a

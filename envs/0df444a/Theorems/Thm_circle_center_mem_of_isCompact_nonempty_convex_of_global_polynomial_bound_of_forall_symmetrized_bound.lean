@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_circle_center_mem_of_isCompact_nonempty_convex_of_global_polynomial_bound_of_forall_symmetrized_bound
 -- name    : circle_center_mem_of_isCompact_nonempty_convex_of_global_polynomial_bound_of_forall_symmetrized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:58:49.28485+00:00
 -- url     : https://prove2.me/theorems/d10140f5-2939-4ccd-84e5-cb7fbd6121ce

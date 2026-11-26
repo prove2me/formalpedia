@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s10_rational_periodic_maximum
 -- name    : EdenVerified.s10_rational_periodic_maximum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:24:49.79968+00:00
 -- url     : https://prove2.me/theorems/e789e21e-210c-5fb4-bc3b-83390960dc65

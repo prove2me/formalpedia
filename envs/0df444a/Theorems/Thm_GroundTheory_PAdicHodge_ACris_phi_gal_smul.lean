@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_phi_gal_smul
 -- name    : GroundTheory.PAdicHodge.ACris.phi_gal_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:26:57.010109+00:00
 -- url     : https://prove2.me/theorems/e535b948-1b8d-4913-be4a-80f954d3e3f5

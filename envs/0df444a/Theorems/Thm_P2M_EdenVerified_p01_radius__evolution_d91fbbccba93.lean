@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_EdenVerified_p01_radius__evolution_d91fbbccba93
 -- name    : P2M_EdenVerified_p01_radius__evolution_d91fbbccba93
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:27:51.485612+00:00
 -- url     : https://prove2.me/theorems/4e8e6702-c7ad-56cb-a357-d931826acb2a

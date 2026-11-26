@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_commutator_le_eight_mul
 -- name    : numericalRadius_commutator_le_eight_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:15:08.921412+00:00
 -- url     : https://prove2.me/theorems/7614452d-4d5e-5239-80a7-349e18ce2a65

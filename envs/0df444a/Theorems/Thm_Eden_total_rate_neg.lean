@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_total_rate_neg
 -- name    : Eden.total_rate_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:05:31.132432+00:00
 -- url     : https://prove2.me/theorems/0a5d131d-24cc-598d-b254-a77e26a53229

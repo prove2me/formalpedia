@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s10_maximising_torus
 -- name    : EdenVerified.s10_maximising_torus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:25:19.699584+00:00
 -- url     : https://prove2.me/theorems/26a31046-1d5a-45c9-aa97-ad99dfc8d768

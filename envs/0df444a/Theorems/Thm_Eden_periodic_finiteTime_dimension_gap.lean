@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_periodic_finiteTime_dimension_gap
 -- name    : Eden.periodic_finiteTime_dimension_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:23:34.80519+00:00
 -- url     : https://prove2.me/theorems/40586de3-ccf4-5f09-ba6b-a85ab034628b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41BoundaryLedgersV7
 -- name    : Kyprianou.Ch04.exercise41BoundaryLedgersV7
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:15:30.32773+00:00
 -- url     : https://prove2.me/theorems/b67aa9a2-be7e-5048-9be6-1422b52911f1

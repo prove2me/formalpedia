@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_DAState_proposalSteps_initial_eq_terminalCursorTotal
 -- name    : TunnellMap.GloballyRanked.DAState.proposalSteps_initial_eq_terminalCursorTotal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:15:00.707219+00:00
 -- url     : https://prove2.me/theorems/a3b36bb1-642f-5def-8368-8e74e41c79b5

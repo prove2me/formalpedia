@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_dist_radialPerturbation
 -- name    : Eden.dist_radialPerturbation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:27:13.968296+00:00
 -- url     : https://prove2.me/theorems/b5b3772c-5ddd-594a-9883-6591943294b0

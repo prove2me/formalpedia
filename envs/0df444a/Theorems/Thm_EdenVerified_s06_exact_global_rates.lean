@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s06_exact_global_rates
 -- name    : EdenVerified.s06_exact_global_rates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:22:57.341149+00:00
 -- url     : https://prove2.me/theorems/6a440dfa-c668-462f-b71c-90d2dca9e99b

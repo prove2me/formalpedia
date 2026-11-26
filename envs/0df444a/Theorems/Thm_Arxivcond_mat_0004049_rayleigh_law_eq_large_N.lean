@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivcond_mat_0004049_rayleigh_law_eq_large_N
 -- name    : Arxivcond_mat_0004049.rayleigh_law_eq_large_N
--- status  : Open
+-- status  : Proved
 -- author  : @domodus
 -- created : 2026-11-26T15:11:25.951849+00:00
 -- url     : https://prove2.me/theorems/9c2ea430-1b0d-4feb-bb0e-a63ef496cdfc

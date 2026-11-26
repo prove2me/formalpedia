@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RHHeight1000_rs_main_0017_0026
 -- name    : RHHeight1000.rs_main_0017_0026
--- status  : Open
+-- status  : Proved
 -- author  : @bueno_ricardo
 -- created : 2026-11-19T21:11:54.535108+00:00
 -- url     : https://prove2.me/theorems/ae70db2f-7ae9-4231-9dcd-71fa8998a2f8

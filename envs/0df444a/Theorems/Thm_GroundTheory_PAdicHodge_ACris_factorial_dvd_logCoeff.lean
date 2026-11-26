@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_factorial_dvd_logCoeff
 -- name    : GroundTheory.PAdicHodge.ACris.factorial_dvd_logCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:17:03.127653+00:00
 -- url     : https://prove2.me/theorems/c8c5cbd8-ee63-4ae3-b5cc-bb42a8bc66aa

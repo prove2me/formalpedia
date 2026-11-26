@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_p02_radialField_pos_between
 -- name    : EdenVerified.p02_radialField_pos_between
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:28:27.425795+00:00
 -- url     : https://prove2.me/theorems/a4a7ee91-0a43-469f-b4e8-d572245f6d03

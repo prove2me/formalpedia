@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_residualTarget_decomposition
 -- name    : TunnellMap.residualTarget_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:11:43.681736+00:00
 -- url     : https://prove2.me/theorems/c56eefb4-9b53-4ffa-a8a6-2e044b2a9efc

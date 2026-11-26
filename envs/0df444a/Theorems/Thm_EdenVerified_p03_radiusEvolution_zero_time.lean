@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_p03_radiusEvolution_zero_time
 -- name    : EdenVerified.p03_radiusEvolution_zero_time
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:29:39.646347+00:00
 -- url     : https://prove2.me/theorems/aff2a5b5-12be-4d1c-baa4-8d0f4c9a36bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_OrderedGenerator_exists_validIndex_for_targetOrbit
 -- name    : TunnellMap.OrderedGenerator.exists_validIndex_for_targetOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:54:10.54734+00:00
 -- url     : https://prove2.me/theorems/ec344e97-c3f6-4399-b62e-7002966e21f2

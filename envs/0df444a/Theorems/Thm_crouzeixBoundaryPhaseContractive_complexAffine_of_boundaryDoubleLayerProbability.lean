@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixBoundaryPhaseContractive_complexAffine_of_boundaryDoubleLayerProbability
 -- name    : crouzeixBoundaryPhaseContractive_complexAffine_of_boundaryDoubleLayerProbability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:04:56.498811+00:00
 -- url     : https://prove2.me/theorems/c5805793-707f-4daf-83a5-e564e84de776

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_p01_hasDerivAt_radiusEvolution
 -- name    : EdenVerified.p01_hasDerivAt_radiusEvolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:27:14.500737+00:00
 -- url     : https://prove2.me/theorems/bcb88494-b0e5-5918-a10c-35e0f1eace98

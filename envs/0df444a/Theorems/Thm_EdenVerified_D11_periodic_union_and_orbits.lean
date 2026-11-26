@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_D11_periodic_union_and_orbits
 -- name    : EdenVerified.D11_periodic_union_and_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:27:27.473354+00:00
 -- url     : https://prove2.me/theorems/fb484f11-694a-454e-954d-ef3599a810e9

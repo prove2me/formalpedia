@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_DAState_assignedLast_advance
 -- name    : TunnellMap.GloballyRanked.DAState.assignedLast_advance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:02:21.08339+00:00
 -- url     : https://prove2.me/theorems/bc779217-6f4b-544e-b0bc-eef18898bc81

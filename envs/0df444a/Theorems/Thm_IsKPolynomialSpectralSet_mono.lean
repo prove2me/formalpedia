@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsKPolynomialSpectralSet_mono
 -- name    : IsKPolynomialSpectralSet.mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:07:21.366103+00:00
 -- url     : https://prove2.me/theorems/8bfd3925-0a77-4a5f-bfd4-4d64289ef243

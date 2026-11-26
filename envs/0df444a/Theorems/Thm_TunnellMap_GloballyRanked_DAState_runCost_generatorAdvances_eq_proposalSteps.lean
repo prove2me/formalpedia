@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_DAState_runCost_generatorAdvances_eq_proposalSteps
 -- name    : TunnellMap.GloballyRanked.DAState.runCost_generatorAdvances_eq_proposalSteps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:16:13.53962+00:00
 -- url     : https://prove2.me/theorems/2ae9c76a-ac60-4c62-b3a4-94a762f850e9

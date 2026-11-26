@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_hasSum_teichmuller_coeff
 -- name    : GroundTheory.PAdicHodge.AInf.hasSum_teichmuller_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:51.875168+00:00
 -- url     : https://prove2.me/theorems/56fde489-8601-427b-a403-7a131f39103a

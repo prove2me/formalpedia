@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_ball_center_le_of_half_centered_scalar_bound_of_forall_symmetrized_bound
 -- name    : norm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_ball_center_le_of_half_centered_scalar_bound_of_forall_symmetrized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:01:55.854988+00:00
 -- url     : https://prove2.me/theorems/86395284-d224-5421-bc5a-91c5f8b4c66d

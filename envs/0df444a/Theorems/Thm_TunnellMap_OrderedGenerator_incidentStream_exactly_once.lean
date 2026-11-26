@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_OrderedGenerator_incidentStream_exactly_once
 -- name    : TunnellMap.OrderedGenerator.incidentStream_exactly_once
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:56:46.709616+00:00
 -- url     : https://prove2.me/theorems/c5dcc583-91a8-4da8-8caa-9041a94db1d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_torus_unstableRelativeTo
 -- name    : Eden.torus_unstableRelativeTo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:28:09.004866+00:00
 -- url     : https://prove2.me/theorems/3a6305eb-f579-5493-b1cc-85376d833d98

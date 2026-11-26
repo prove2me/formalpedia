@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_p01_planarX_origin
 -- name    : EdenVerified.p01_planarX_origin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:27:46.207747+00:00
 -- url     : https://prove2.me/theorems/1ae6465a-e6a9-4df3-8ce9-8e444c4652ab

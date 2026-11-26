@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_a_total_count
 -- name    : TunnellMap.Examples41.a_total_count
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:17:00.587803+00:00
 -- url     : https://prove2.me/theorems/ff870a95-0b89-5078-acde-348921e3385b

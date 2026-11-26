@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_eq_norm_of_isSelfAdjoint
 -- name    : numericalRadius_eq_norm_of_isSelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:24:16.611101+00:00
 -- url     : https://prove2.me/theorems/8e195f82-300d-5e94-9145-40073ceb9623

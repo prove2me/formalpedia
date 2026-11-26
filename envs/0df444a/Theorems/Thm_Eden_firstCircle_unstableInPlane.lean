@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_firstCircle_unstableInPlane
 -- name    : Eden.firstCircle_unstableInPlane
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:59:49.935489+00:00
 -- url     : https://prove2.me/theorems/fd169ffa-56b2-59a8-b4a3-1881dcce2236

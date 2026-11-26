@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FixedMachinePrec.theorem_5_9
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kj
 -- created : 2026-11-26T12:24:12.727647+00:00
 -- url     : https://prove2.me/submissions/9ec85c53-9c3b-40e5-8538-112eca58e280
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_FixedMachinePrec_accepted_gaps_accept_parent
 

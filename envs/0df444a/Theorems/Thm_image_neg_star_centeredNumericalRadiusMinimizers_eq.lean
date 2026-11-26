@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_image_neg_star_centeredNumericalRadiusMinimizers_eq
 -- name    : image_neg_star_centeredNumericalRadiusMinimizers_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:08:45.108527+00:00
 -- url     : https://prove2.me/theorems/cc0158fc-7111-4f48-bc02-db2279b15583

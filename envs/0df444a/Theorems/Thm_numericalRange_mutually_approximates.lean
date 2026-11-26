@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRange_mutually_approximates
 -- name    : numericalRange_mutually_approximates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:16:04.524816+00:00
 -- url     : https://prove2.me/theorems/6325fc9c-ae7b-42c2-bd54-b29963992817

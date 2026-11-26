@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_D03_radii_and_rate
 -- name    : EdenVerified.D03_radii_and_rate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:25:45.381835+00:00
 -- url     : https://prove2.me/theorems/238400fb-50fe-501d-a359-143fb4471c8a

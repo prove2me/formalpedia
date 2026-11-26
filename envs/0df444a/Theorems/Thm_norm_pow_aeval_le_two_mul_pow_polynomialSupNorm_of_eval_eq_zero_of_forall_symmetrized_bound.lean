@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_pow_aeval_le_two_mul_pow_polynomialSupNorm_of_eval_eq_zero_of_forall_symmetrized_bound
 -- name    : norm_pow_aeval_le_two_mul_pow_polynomialSupNorm_of_eval_eq_zero_of_forall_symmetrized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:58:32.637505+00:00
 -- url     : https://prove2.me/theorems/bcd1c066-17a4-5fba-99f6-22f41a475219

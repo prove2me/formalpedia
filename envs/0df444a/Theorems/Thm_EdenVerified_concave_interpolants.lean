@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_concave_interpolants
 -- name    : EdenVerified.concave_interpolants
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:25:40.707822+00:00
 -- url     : https://prove2.me/theorems/ee50e32c-94cc-5ee3-8d1c-3c5e631fad41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_adjoint_comp_comp_le
 -- name    : numericalRadius_adjoint_comp_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:14:35.017575+00:00
 -- url     : https://prove2.me/theorems/6a099725-33b9-5d23-a6b0-1fb54ca865dd

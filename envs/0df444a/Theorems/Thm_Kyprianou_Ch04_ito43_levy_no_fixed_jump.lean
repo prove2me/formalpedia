@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_levy_no_fixed_jump
 -- name    : Kyprianou.Ch04.ito43_levy_no_fixed_jump
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:20:42.781175+00:00
 -- url     : https://prove2.me/theorems/56a0945e-d4d5-4950-a232-8b4bf64f300b

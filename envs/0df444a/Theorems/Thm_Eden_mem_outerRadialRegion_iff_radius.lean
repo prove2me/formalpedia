@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_mem_outerRadialRegion_iff_radius
 -- name    : Eden.mem_outerRadialRegion_iff_radius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:43:35.187908+00:00
 -- url     : https://prove2.me/theorems/f4bcd83d-c159-4134-a3ce-1f73900df413

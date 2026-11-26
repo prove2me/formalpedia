@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_D09_attainment_and_infimum
 -- name    : EdenVerified.D09_attainment_and_infimum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:27:04.167405+00:00
 -- url     : https://prove2.me/theorems/d3d6cdaa-acbb-4dbf-880e-ddb392a39597

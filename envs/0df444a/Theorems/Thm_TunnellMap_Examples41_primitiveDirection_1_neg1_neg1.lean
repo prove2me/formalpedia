@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_primitiveDirection_1_neg1_neg1
 -- name    : TunnellMap.Examples41.primitiveDirection_1_neg1_neg1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:26:32.764541+00:00
 -- url     : https://prove2.me/theorems/fd69f1a4-cfd7-50cc-9bc2-668a5c3230a3

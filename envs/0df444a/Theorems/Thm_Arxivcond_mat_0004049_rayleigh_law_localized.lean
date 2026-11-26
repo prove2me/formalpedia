@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivcond_mat_0004049_rayleigh_law_localized
 -- name    : Arxivcond_mat_0004049.rayleigh_law_localized
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T20:09:06.663155+00:00
 -- url     : https://prove2.me/theorems/06f846cd-b498-59a2-b645-835b91d450d6

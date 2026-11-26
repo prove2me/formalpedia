@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_p02_two_lt_squaredRadiusEvolution_iff
 -- name    : EdenVerified.p02_two_lt_squaredRadiusEvolution_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:29:11.036502+00:00
 -- url     : https://prove2.me/theorems/ca1bdf40-717f-5d83-a4a0-4d6f4e5e26d8

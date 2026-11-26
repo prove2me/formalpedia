@@ -78327,9 +78327,9 @@
 {"parent": "GroundTheory.Global.IdeleNorm.eventually_map_integerUnitsOver_eq", "child": "GroundTheory_GlobalFields_IdeleGroups_LocalNormGroups", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.abs_prod_sub_prod_sub_lin_le", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_SupportSubsetMonoBox", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.abs_prod_sub_prod_sub_lin_le", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_AbsProdSubProdSubLinLe", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_algebraMap", "child": "GroundTheory_PAdicHodge_AInfXi", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_algebraMap", "child": "GroundTheory_PAdicHodge_ThetaPlus", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_algebraMap", "child": "GroundTheory_PAdicHodge_FactorizationFactorialLe", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_algebraMap", "child": "GroundTheory_PAdicHodge_AInfXi", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_algebraMap", "child": "GroundTheory_PAdicHodge_ThetaPlus", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_algebraMap", "child": "GroundTheory_PAdicHodge_FactorizationFactorialLe", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.contDiff_dual_orbit", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_AnalyticVectors_IteratedDerivOrbit", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.contDiff_dual_orbit", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_AnalyticVectors_Taylor", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.VP.GoodPt.zero", "child": "Formalism_LocalToGlobal_CharacterGerms_ValuationEqPairOfBiadditiveCross", "via": ["solution", "statement"]}
@@ -86101,9 +86101,9 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.DVR.FlatBC.isoRel_inj_right", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_LBTransport", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.DVR.pullback_generator_isGenerator", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_LBLocal", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.DVR.pullback_generator_isGenerator", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_LBPull", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_logTerm", "child": "GroundTheory_PAdicHodge_ACrisPhi", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_logTerm", "child": "GroundTheory_PAdicHodge_LogPowSeries", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_logTerm", "child": "GroundTheory_PAdicHodge_ACrisLog", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_logTerm", "child": "GroundTheory_PAdicHodge_ACrisPhi", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_logTerm", "child": "GroundTheory_PAdicHodge_LogPowSeries", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_logTerm", "child": "GroundTheory_PAdicHodge_ACrisLog", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.SG.Pf.G6.prO_apply", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_CokernelGLCounts_RankPointCounts_DualFamilyCounting_SameGenusFix", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.SG.Pf.G6.prO_apply", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_CokernelGLCounts_RankPointCounts_DualFamilyCounting_DiscIsoOfProj", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.JR.WeilQuad.nOp_zero", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_Sl2PresentationRelationsStatement", "via": ["solution", "statement"]}
@@ -86690,9 +86690,9 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.FD.RealPlaceEmbeddings.Tm_injective", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_TraceIntegralBasis", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.isMultiHomog_one", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterDerived", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.isMultiHomog_one", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArithmeticIntersection_RationalSections_ThmISt", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_log", "child": "GroundTheory_PAdicHodge_ACrisPhi", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_log", "child": "GroundTheory_PAdicHodge_LogPowSeries", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_log", "child": "GroundTheory_PAdicHodge_ACrisLog", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_log", "child": "GroundTheory_PAdicHodge_ACrisPhi", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_log", "child": "GroundTheory_PAdicHodge_LogPowSeries", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_log", "child": "GroundTheory_PAdicHodge_ACrisLog", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.herm_smul_left_conj", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_SplitVB", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.herm_smul_left_conj", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_SplitC", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.herm_smul_left_conj", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_SplitV", "via": ["solution", "statement"]}
@@ -87182,9 +87182,9 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.isMultiHomogIdeal_mul", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterMinor", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.isMultiHomogIdeal_mul", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterMinorA", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.isMultiHomogIdeal_mul", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterPC", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_algebraMap_zero", "child": "GroundTheory_PAdicHodge_ACrisPhi", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_algebraMap_zero", "child": "GroundTheory_PAdicHodge_LogPowSeries", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_algebraMap_zero", "child": "GroundTheory_PAdicHodge_ACrisLog", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_algebraMap_zero", "child": "GroundTheory_PAdicHodge_ACrisPhi", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_algebraMap_zero", "child": "GroundTheory_PAdicHodge_LogPowSeries", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_algebraMap_zero", "child": "GroundTheory_PAdicHodge_ACrisLog", "via": ["solution", "statement"]}
 {"parent": "P2M_PI_LevelKSplit_W_SemiA_N_le_S__494d858967cb", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_ToMatrixLin", "via": ["solution", "statement"]}
 {"parent": "P2M_PI_LevelKSplit_W_SemiA_N_le_S__494d858967cb", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_SemiAlg", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.Good.IR_stable", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_ActEMemSpanOmega", "via": ["solution", "statement"]}
@@ -87808,9 +87808,9 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.FD.Data.gram_Zb", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_SpanColsMul", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.fldIncl_injective", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_FiniteDetectStatement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.fldIncl_injective", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_FiniteDimensionalBaseSpan", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phiZero_gal_smul", "child": "GroundTheory_PAdicHodge_ACrisGalois", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phiZero_gal_smul", "child": "GroundTheory_PAdicHodge_AInfGalois", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phiZero_gal_smul", "child": "GroundTheory_PAdicHodge_FactorizationFactorialLe", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phiZero_gal_smul", "child": "GroundTheory_PAdicHodge_ACrisGalois", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phiZero_gal_smul", "child": "GroundTheory_PAdicHodge_AInfGalois", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phiZero_gal_smul", "child": "GroundTheory_PAdicHodge_FactorizationFactorialLe", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.colL_empty", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_OwnerNoneIff", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.colL_empty", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_PolyDerivDeterminantPolyTensor", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.FD.CuspCoefficientQuantitative.cusp_coefficient_bound_of_unipotent_lattice_lift", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_FlowCoefficientDecay", "via": ["solution", "statement"]}
@@ -88474,9 +88474,9 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.isDegZero_normSq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_SectionModuleEqSpanPow", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.actE_qsmul", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_ActEMemSpanOmega", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.actE_qsmul", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_SplitA", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_gal_smul", "child": "GroundTheory_PAdicHodge_ACrisGalois", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_gal_smul", "child": "GroundTheory_PAdicHodge_AInfGalois", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.phi_gal_smul", "child": "GroundTheory_PAdicHodge_FactorizationFactorialLe", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_gal_smul", "child": "GroundTheory_PAdicHodge_ACrisGalois", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_gal_smul", "child": "GroundTheory_PAdicHodge_AInfGalois", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.phi_gal_smul", "child": "GroundTheory_PAdicHodge_FactorizationFactorialLe", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.H1.RB.exists_b", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FirstCohomology_SpanFlag", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.H1.RB.exists_b", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FirstCohomology_IndepOfFlag", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.FD.Data.orthogonal_component_ne_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_IsotropicOutsideLine", "via": ["solution", "statement"]}
@@ -88631,9 +88631,9 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.DimC.T_apply", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_ExistsPairs", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.DimC.T_apply", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_GCauchyStatement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.DimC.T_apply", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_ContinuousRl", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.factorial_dvd_logCoeff", "child": "GroundTheory_PAdicHodge_ACrisPhi", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.factorial_dvd_logCoeff", "child": "GroundTheory_PAdicHodge_LogPowSeries", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.ACris.factorial_dvd_logCoeff", "child": "GroundTheory_PAdicHodge_ACrisLog", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.factorial_dvd_logCoeff", "child": "GroundTheory_PAdicHodge_ACrisPhi", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.factorial_dvd_logCoeff", "child": "GroundTheory_PAdicHodge_LogPowSeries", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.ACris.factorial_dvd_logCoeff", "child": "GroundTheory_PAdicHodge_ACrisLog", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.PAdicHodge.ACris.logTermZero_one_add_pow", "child": "GroundTheory_PAdicHodge_ACrisPhi", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.PAdicHodge.ACris.logTermZero_one_add_pow", "child": "GroundTheory_PAdicHodge_LogPowSeries", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.PAdicHodge.ACris.logTermZero_one_add_pow", "child": "GroundTheory_PAdicHodge_ACrisLog", "via": ["solution", "statement"]}

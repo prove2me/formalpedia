@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_canonicalResidualMapOf_eq_signedPartner
 -- name    : TunnellMap.canonicalResidualMapOf_eq_signedPartner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:13:48.489937+00:00
 -- url     : https://prove2.me/theorems/42e9dc5f-c8d1-5714-a6c7-6e2933146d3d

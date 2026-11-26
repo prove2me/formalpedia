@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_periodic_asymptotic_dimension_gap
 -- name    : Eden.periodic_asymptotic_dimension_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:23:32.151262+00:00
 -- url     : https://prove2.me/theorems/47c84aa7-b57e-48cd-96b7-c23b07f4d310

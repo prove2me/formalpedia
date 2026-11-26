@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivcond_mat_0004049_joint_intensity_delay_density
 -- name    : Arxivcond_mat_0004049.joint_intensity_delay_density
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T20:09:46.057941+00:00
 -- url     : https://prove2.me/theorems/8709e326-46ed-423b-8945-6b5ce7e9ab02

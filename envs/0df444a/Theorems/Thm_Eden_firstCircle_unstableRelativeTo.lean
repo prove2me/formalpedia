@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_firstCircle_unstableRelativeTo
 -- name    : Eden.firstCircle_unstableRelativeTo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:27:59.683813+00:00
 -- url     : https://prove2.me/theorems/896a34d4-6d4a-536f-9a76-d554be7de7c3

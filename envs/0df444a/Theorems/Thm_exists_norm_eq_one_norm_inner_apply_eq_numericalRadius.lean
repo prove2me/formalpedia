@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_norm_eq_one_norm_inner_apply_eq_numericalRadius
 -- name    : exists_norm_eq_one_norm_inner_apply_eq_numericalRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:15:52.728811+00:00
 -- url     : https://prove2.me/theorems/76ff29b1-014a-5bd9-a0bf-58a022799bc7

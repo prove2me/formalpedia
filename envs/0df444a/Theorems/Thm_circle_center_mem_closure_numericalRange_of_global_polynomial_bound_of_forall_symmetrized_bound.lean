@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_circle_center_mem_closure_numericalRange_of_global_polynomial_bound_of_forall_symmetrized_bound
 -- name    : circle_center_mem_closure_numericalRange_of_global_polynomial_bound_of_forall_symmetrized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:58:27.852481+00:00
 -- url     : https://prove2.me/theorems/269cfcbc-e55b-5931-91f6-7fbc89b29e9f

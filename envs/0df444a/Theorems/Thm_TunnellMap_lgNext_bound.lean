@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_lgNext_bound
 -- name    : TunnellMap.lgNext_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:59:44.017742+00:00
 -- url     : https://prove2.me/theorems/cc5a0651-2652-4a24-b34d-fa3bf46f07bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_etaPointExec_eq
 -- name    : TunnellMap.etaPointExec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:16:01.337332+00:00
 -- url     : https://prove2.me/theorems/529ac244-f585-4b5f-8346-cb29bca8f6d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_dot_vsub_vsmul
 -- name    : TunnellMap.dot_vsub_vsmul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:57:33.92591+00:00
 -- url     : https://prove2.me/theorems/40eb211c-5b4a-5e75-9a4d-a6e12458b9ea

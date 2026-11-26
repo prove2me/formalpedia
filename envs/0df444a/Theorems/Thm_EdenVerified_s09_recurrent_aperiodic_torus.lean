@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s09_recurrent_aperiodic_torus
 -- name    : EdenVerified.s09_recurrent_aperiodic_torus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:24:11.278798+00:00
 -- url     : https://prove2.me/theorems/fb091a79-57aa-536d-98f0-fccce6789e78

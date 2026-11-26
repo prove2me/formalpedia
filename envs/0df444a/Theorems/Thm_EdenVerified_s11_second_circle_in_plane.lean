@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s11_second_circle_in_plane
 -- name    : EdenVerified.s11_second_circle_in_plane
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:25:04.517426+00:00
 -- url     : https://prove2.me/theorems/c5ab53c7-a445-5936-9116-2b089669f73e

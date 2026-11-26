@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_classicalRenewalTheorem_nonlatticeIncrement
 -- name    : Kyprianou.Ch05.classicalRenewalTheorem_nonlatticeIncrement
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T12:40:28.564285+00:00
 -- url     : https://prove2.me/theorems/b176b15b-454a-4ba5-acbe-94ebda0502ec

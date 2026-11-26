@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_signActA_neg_sign
 -- name    : TunnellMap.signActA_neg_sign
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:10:55.409014+00:00
 -- url     : https://prove2.me/theorems/7ceb3637-c7e7-48a5-8fb0-3bf41a30667d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41FutureFunctionalLawV24
 -- name    : Kyprianou.Ch04.exercise41FutureFunctionalLawV24
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:08:00.170485+00:00
 -- url     : https://prove2.me/theorems/b7736aea-1667-53e3-abce-2ff9cc5be0d8

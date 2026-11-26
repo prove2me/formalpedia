@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalLyapunovDimension_eq_supremum_asymptoticDimension
 -- name    : Eden.globalLyapunovDimension_eq_supremum_asymptoticDimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:04:06.347033+00:00
 -- url     : https://prove2.me/theorems/009e34df-765e-4613-bc09-625d8a92d37c

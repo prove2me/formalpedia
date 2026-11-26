@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_etaPoint_signActB
 -- name    : TunnellMap.etaPoint_signActB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:12:59.993648+00:00
 -- url     : https://prove2.me/theorems/1433dff5-fc9b-4e4c-b8c4-b4492955b232

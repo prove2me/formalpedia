@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s02_index_and_sums
 -- name    : EdenVerified.s02_index_and_sums
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:21:04.397298+00:00
 -- url     : https://prove2.me/theorems/f281093d-33b2-5eb7-b297-a806e0e26095

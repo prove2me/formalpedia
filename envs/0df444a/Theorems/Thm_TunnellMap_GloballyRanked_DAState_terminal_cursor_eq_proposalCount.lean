@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_DAState_terminal_cursor_eq_proposalCount
 -- name    : TunnellMap.GloballyRanked.DAState.terminal_cursor_eq_proposalCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:15:05.948713+00:00
 -- url     : https://prove2.me/theorems/bbb1ca64-b627-4b08-96a7-65bcdc3b14df

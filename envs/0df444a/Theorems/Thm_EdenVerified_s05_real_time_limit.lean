@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s05_real_time_limit
 -- name    : EdenVerified.s05_real_time_limit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:22:16.291354+00:00
 -- url     : https://prove2.me/theorems/c977253b-ff57-509f-8ed2-73513e97887d

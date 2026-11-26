@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_tripleContent_eq_one_of_z_neg_one
 -- name    : TunnellMap.Examples41.tripleContent_eq_one_of_z_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:27:20.86626+00:00
 -- url     : https://prove2.me/theorems/fe78f952-800d-4da2-a846-fea34e2ebf3a

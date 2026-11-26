@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_D07_ordered_positive_singular_values
 -- name    : EdenVerified.D07_ordered_positive_singular_values
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:26:26.119823+00:00
 -- url     : https://prove2.me/theorems/2b037b5b-005c-5e65-9283-330c1323826f

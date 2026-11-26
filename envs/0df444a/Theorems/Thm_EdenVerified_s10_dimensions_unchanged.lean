@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s10_dimensions_unchanged
 -- name    : EdenVerified.s10_dimensions_unchanged
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:24:13.101729+00:00
 -- url     : https://prove2.me/theorems/316c3768-09c5-578f-91bb-1e96e7a4e52c

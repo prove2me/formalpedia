@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_DAState_assignedLast_rejectProposal
 -- name    : TunnellMap.GloballyRanked.DAState.assignedLast_rejectProposal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:01:50.457259+00:00
 -- url     : https://prove2.me/theorems/13587e06-b7de-5054-8726-8465d841d710

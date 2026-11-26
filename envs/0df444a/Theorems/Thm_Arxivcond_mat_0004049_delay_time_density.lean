@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivcond_mat_0004049_delay_time_density
 -- name    : Arxivcond_mat_0004049.delay_time_density
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T20:10:08.556398+00:00
 -- url     : https://prove2.me/theorems/a81091da-8489-5243-8ae7-ee7a48c78e1e

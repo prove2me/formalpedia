@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_norm_exteriorOperator_evolution
 -- name    : Eden.norm_exteriorOperator_evolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:45:48.924202+00:00
 -- url     : https://prove2.me/theorems/c03d63fa-c807-4ba8-84f1-da4822870e9c

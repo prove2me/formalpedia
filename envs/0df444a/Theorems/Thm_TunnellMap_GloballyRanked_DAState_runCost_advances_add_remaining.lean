@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_DAState_runCost_advances_add_remaining
 -- name    : TunnellMap.GloballyRanked.DAState.runCost_advances_add_remaining
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:15:49.995466+00:00
 -- url     : https://prove2.me/theorems/ab4fb82d-bd1a-5588-a263-177311441932

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_residualOrbitMatching_stable
 -- name    : TunnellMap.residualOrbitMatching_stable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:44:42.882434+00:00
 -- url     : https://prove2.me/theorems/24e89d23-eff4-4223-b037-af81c1aa4200

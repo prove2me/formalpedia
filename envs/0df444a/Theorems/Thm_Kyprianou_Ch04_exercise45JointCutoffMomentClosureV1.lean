@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45JointCutoffMomentClosureV1
 -- name    : Kyprianou.Ch04.exercise45JointCutoffMomentClosureV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:05:42.55654+00:00
 -- url     : https://prove2.me/theorems/6cc62836-78d7-4988-afad-66a76cb360a5

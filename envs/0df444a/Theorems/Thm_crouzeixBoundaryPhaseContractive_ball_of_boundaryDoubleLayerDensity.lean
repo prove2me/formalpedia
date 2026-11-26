@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixBoundaryPhaseContractive_ball_of_boundaryDoubleLayerDensity
 -- name    : crouzeixBoundaryPhaseContractive_ball_of_boundaryDoubleLayerDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:05:44.15692+00:00
 -- url     : https://prove2.me/theorems/875a1ad0-5e0f-4b72-a365-fe849f7885e6

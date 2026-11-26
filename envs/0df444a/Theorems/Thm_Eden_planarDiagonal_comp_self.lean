@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_planarDiagonal_comp_self
 -- name    : Eden.planarDiagonal_comp_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:30:37.636055+00:00
 -- url     : https://prove2.me/theorems/247c6edf-2e43-495e-999a-70d16d3d5ba8

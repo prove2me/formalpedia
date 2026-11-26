@@ -57354,9 +57354,6 @@
 {"parent": "Kyprianou.Ch03.entranceAndHittingAreStoppingTimes", "child": "Kyprianou.Ch03.entranceHit_firstEntranceIsStoppingTime", "via": ["solution"]}
 {"parent": "Kyprianou.Ch03.entranceAndHittingAreStoppingTimes", "child": "Kyprianou.Ch03.entranceHit_firstHittingIsStoppingTime", "via": ["solution"]}
 {"parent": "Kyprianou.Ch03.entranceAndHittingAreStoppingTimes", "child": "Kyprianou.Ch03.entranceHit_eventualClosureAtPassage", "via": ["solution"]}
-{"parent": "Kyprianou.Ch04.exercise_4_9_complete", "child": "Kyprianou.Ch04.exercise_4_9_iii_goalV2", "via": ["solution"]}
-{"parent": "Kyprianou.Ch04.exercise_4_9_complete", "child": "Kyprianou.Ch04.exercise49GeneralBvDownwardPersistence", "via": ["solution"]}
-{"parent": "Kyprianou.Ch04.exercise_4_9_complete", "child": "Kyprianou.Ch04.exercise49GeneralBvSmallTimeDrift", "via": ["solution"]}
 {"parent": "StableVotingDistortion.Lemma9Reduction.releasedMassSlab08", "child": "StableVotingDistortion.Lemma9Reduction.coveredCells208To210", "via": ["solution"]}
 {"parent": "StableVotingDistortion.Lemma9Reduction.releasedMassSlab08", "child": "StableVotingDistortion.Lemma9Reduction.coveredCells211To211", "via": ["solution"]}
 {"parent": "Kyprianou.Ch01.lampertiCompoundPoissonToBranchingLaw", "child": "Kyprianou.Ch01.lampertiCompoundPoissonToBranchingLawNonexplosive", "via": ["solution"]}

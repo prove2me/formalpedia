@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_targetDimension_eight
 -- name    : Eden.targetDimension_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:05:51.26624+00:00
 -- url     : https://prove2.me/theorems/356c8f74-34b9-47e6-9d1b-0aa6ee5a91fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_spectralRadius_toReal_le_numericalRadius
 -- name    : spectralRadius_toReal_le_numericalRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:18:24.873803+00:00
 -- url     : https://prove2.me/theorems/a044718c-7bd8-5fd8-8a2d-8532edf21bb1

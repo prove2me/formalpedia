@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s10_rational_common_period
 -- name    : EdenVerified.s10_rational_common_period
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:24:58.863863+00:00
 -- url     : https://prove2.me/theorems/311d697f-634b-4ab9-8445-b8e276d9528f

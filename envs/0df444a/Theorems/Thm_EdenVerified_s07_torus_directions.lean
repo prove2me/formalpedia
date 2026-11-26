@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s07_torus_directions
 -- name    : EdenVerified.s07_torus_directions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:22:42.238679+00:00
 -- url     : https://prove2.me/theorems/07e03bd7-ffff-5f0d-816b-bb04aece715e

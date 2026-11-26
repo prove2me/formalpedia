@@ -1,0 +1,92 @@
+-- Prove2me | solution 1 for norm_aeval_le_polynomialSupNorm_closedBall_of_isStarNormal_of_centered_numericalRadius_le
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-26T15:43:51.389175+00:00
+-- url     : https://prove2.me/submissions/52e69a6d-5fd5-47dc-a774-b4906f9978bf
+
+import Definitions.Def_Operator_Crouzeix_NormalPolynomialBound
+import Definitions.Def_Operator_Crouzeix_SpectralSetMonotone
+import Definitions.Def_Operator_NumericalRange_RadiusAffine
+import Definitions.Def_Operator_Crouzeix_SpectralSetSuperset
+import Theorems.Thm_isPolynomialSpectralSet_closedBall_of_isStarNormal_of_centered_numericalRadius_le
+import Theorems.Thm_SmoothJordanDomain_canonicalOrientation_carrier
+import Theorems.Thm_SmoothJordanDomain_canonicalOrientation_hasMergelyanPolynomialApproximation_iff
+import Theorems.Thm_SmoothJordanDomain_reverseOrientation_boundaryParam
+import Theorems.Thm_SmoothJordanDomain_reverseOrientation_carrier
+import Theorems.Thm_SmoothJordanDomain_reverseOrientation_hasMergelyanPolynomialApproximation_iff
+import Theorems.Thm_StrictNestedSmoothJordanExhaustion_closedBall_domain_boundaryParam
+import Theorems.Thm_StrictNestedSmoothJordanExhaustion_closedBall_domain_boundaryParam_deriv
+import Theorems.Thm_StrictNestedSmoothJordanExhaustion_closedBall_domain_boundaryParam_outwardNormal
+import Theorems.Thm_StrictNestedSmoothJordanExhaustion_closedBall_domain_carrier
+import Theorems.Thm_StrictNestedSmoothJordanExhaustion_closedBall_domain_closure_carrier
+import Theorems.Thm_StrictNestedSmoothJordanExhaustion_closedBall_domain_frontier_carrier
+import Theorems.Thm_centeredNumericalRadiusMinimizers_neg
+import Theorems.Thm_centeredNumericalRadiusMinimizers_smul_one
+import Theorems.Thm_centeredNumericalRadiusMinimizers_zero
+import Theorems.Thm_crouzeixPolynomialBoundaryPhaseTransform_zero
+import Theorems.Thm_crouzeixPolynomialScalarCompanionBoundaryValue_zero
+import Theorems.Thm_crouzeixPolynomialScalarCompanionDeriv_zero
+import Theorems.Thm_crouzeixPolynomialScalarCompanionRegularized_zero
+import Theorems.Thm_crouzeixPolynomialScalarCompanion_zero
+import Theorems.Thm_mem_numericalRange
+import Theorems.Thm_neg_star_mem_centeredNumericalRadiusMinimizers_iff
+import Theorems.Thm_numericalRadiusSeminorm_apply
+import Theorems.Thm_numericalRadius_adjoint
+import Theorems.Thm_numericalRadius_neg
+import Theorems.Thm_numericalRadius_one
+import Theorems.Thm_numericalRadius_smul_one
+import Theorems.Thm_numericalRange_scalar
+import Theorems.Thm_numericalRange_zero
+import Theorems.Thm_polytopeRoundedSupportDomainOfRange_carrier
+import Theorems.Thm_polytopeRoundedSupportDomain_boundaryParam
+import Theorems.Thm_polytopeRoundedSupportDomain_carrier
+import Theorems.Thm_smoothSupportDirectionalLinearMap_apply
+import Theorems.Thm_star_mem_centeredNumericalRadiusMinimizers_iff
+attribute [local simp] SmoothJordanDomain.canonicalOrientation_carrier
+attribute [local simp] SmoothJordanDomain.canonicalOrientation_hasMergelyanPolynomialApproximation_iff
+attribute [local simp] SmoothJordanDomain.reverseOrientation_boundaryParam
+attribute [local simp] SmoothJordanDomain.reverseOrientation_carrier
+attribute [local simp] SmoothJordanDomain.reverseOrientation_hasMergelyanPolynomialApproximation_iff
+attribute [local simp] StrictNestedSmoothJordanExhaustion.closedBall_domain_boundaryParam
+attribute [local simp] StrictNestedSmoothJordanExhaustion.closedBall_domain_boundaryParam_deriv
+attribute [local simp] StrictNestedSmoothJordanExhaustion.closedBall_domain_boundaryParam_outwardNormal
+attribute [local simp] StrictNestedSmoothJordanExhaustion.closedBall_domain_carrier
+attribute [local simp] StrictNestedSmoothJordanExhaustion.closedBall_domain_closure_carrier
+attribute [local simp] StrictNestedSmoothJordanExhaustion.closedBall_domain_frontier_carrier
+attribute [local simp] centeredNumericalRadiusMinimizers_neg
+attribute [local simp] centeredNumericalRadiusMinimizers_smul_one
+attribute [local simp] centeredNumericalRadiusMinimizers_zero
+attribute [local simp] crouzeixPolynomialBoundaryPhaseTransform_zero
+attribute [local simp] crouzeixPolynomialScalarCompanionBoundaryValue_zero
+attribute [local simp] crouzeixPolynomialScalarCompanionDeriv_zero
+attribute [local simp] crouzeixPolynomialScalarCompanionRegularized_zero
+attribute [local simp] crouzeixPolynomialScalarCompanion_zero
+attribute [local simp] mem_numericalRange
+attribute [local simp] neg_star_mem_centeredNumericalRadiusMinimizers_iff
+attribute [local simp] numericalRadiusSeminorm_apply
+attribute [local simp] numericalRadius_adjoint
+attribute [local simp] numericalRadius_neg
+attribute [local simp] numericalRadius_one
+attribute [local simp] numericalRadius_smul_one
+attribute [local simp] numericalRange_scalar
+attribute [local simp] numericalRange_zero
+attribute [local simp] polytopeRoundedSupportDomainOfRange_carrier
+attribute [local simp] polytopeRoundedSupportDomain_boundaryParam
+attribute [local simp] polytopeRoundedSupportDomain_carrier
+attribute [local simp] smoothSupportDirectionalLinearMap_apply
+attribute [local simp] star_mem_centeredNumericalRadiusMinimizers_iff
+
+
+
+set_option autoImplicit false
+open Set
+open scoped InnerProductSpace
+variable {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℂ E]
+  [CompleteSpace E]
+theorem _root_.solution
+    (A : E →L[ℂ] E) [IsStarNormal A] (c : ℂ) {R : ℝ}
+    (hR : numericalRadius (A - c • 1) ≤ R) (p : Polynomial ℂ) :
+    ‖Polynomial.aeval A p‖ ≤ polynomialSupNorm p (Metric.closedBall c R) := by
+  simpa only [one_mul] using
+    (isPolynomialSpectralSet_closedBall_of_isStarNormal_of_centered_numericalRadius_le
+      A c hR).2 p

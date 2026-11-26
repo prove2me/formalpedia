@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_primitiveDirection_z_one_of_x_pos
 -- name    : TunnellMap.Examples41.primitiveDirection_z_one_of_x_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:24:47.648544+00:00
 -- url     : https://prove2.me/theorems/17407e1f-2df3-407c-8865-f60d0814e95e

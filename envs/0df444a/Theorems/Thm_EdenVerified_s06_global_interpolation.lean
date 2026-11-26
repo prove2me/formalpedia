@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s06_global_interpolation
 -- name    : EdenVerified.s06_global_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:23:03.783622+00:00
 -- url     : https://prove2.me/theorems/de92d106-a672-47f5-8043-5f2a44029cc7

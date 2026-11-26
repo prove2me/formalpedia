@@ -35567,7 +35567,6 @@
 {"parent": "FreeProbAMP.StateEvolution.Supplement.control_to_signing", "child": "FreeProbAMP_StateEvolution_Supplement_Oracle", "via": ["statement"]}
 {"parent": "FreeProbAMP.StateEvolution.Supplement.control_to_signing", "child": "FreeProbAMP_StateEvolution_Matrices", "via": ["statement"]}
 {"parent": "FreeProbAMP.StateEvolution.Supplement.control_to_signing", "child": "FreeProbAMP_StateEvolution_Supplement_Control", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise_4_9_complete", "child": "Kyprianou_Ch04_Exercise4_9Certification", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K3.no_order_keeping_law_for_the_relation", "child": "APFPaper5.K3.mix_has_no_reverse", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K3.no_order_keeping_law_for_the_relation", "child": "APFB01.rate_is_held_on_the_carrier", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K3.no_order_keeping_law_for_the_relation", "child": "APFPaper5.K3.retracing_orbit_same_now_different_later", "via": ["solution", "statement"]}
@@ -46066,7 +46065,6 @@
 {"parent": "ProdMixedTomo.Supplement.theorem_A_1", "child": "ProdMixedTomo_Corruption", "via": ["statement"]}
 {"parent": "ProdMixedTomo.Supplement.theorem_A_1", "child": "ProdMixedTomo_Supplement_gHalf", "via": ["statement"]}
 {"parent": "ProdMixedTomo.Supplement.theorem_A_1", "child": "ProdMixedTomo_Machine", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise_4_9_iii_goalV2", "child": "Kyprianou_Ch04_Exercise4_9Certification", "via": ["statement"]}
 {"parent": "OnlinePerceptronIsolation.Binary.Supplement.lemma_4_1_K", "child": "OnlinePerceptronIsolation_Binary_Supplement_MismatchSuccessK", "via": ["statement"]}
 {"parent": "OnlinePerceptronIsolation.Binary.Supplement.lemma_4_1_K", "child": "OnlinePerceptronIsolation_Binary_Harmonic", "via": ["statement"]}
 {"parent": "SubmodSparsify_Supplement_cardScore", "child": "SubmodSparsify_weights", "via": ["statement"]}
@@ -60111,8 +60109,8 @@
 {"parent": "PrivPACLower.ICP.Supplement.theorem_2", "child": "PrivPACLower_ICP_Packing", "via": ["statement"]}
 {"parent": "PrivPACLower.ICP.Supplement.theorem_2", "child": "PrivateUniformGen_Characterization_Privacy", "via": ["statement"]}
 {"parent": "PrivPACLower.ICP.Supplement.theorem_2", "child": "PrivPACLower_ICP_Learning", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.killedJointPassageKernel", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.killedJointPassageKernel", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedJointPassageKernel", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedJointPassageKernel", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
 {"parent": "FeedbackSwitching_Supplement_comparisonProbing", "child": "FeedbackSwitching_Policy", "via": ["statement"]}
 {"parent": "FeedbackSwitching_Supplement_comparisonProbing", "child": "FeedbackSwitching_sampleFin", "via": ["statement"]}
 {"parent": "MultiSpinCounting.Positive.Supplement.theorem_1_2", "child": "MultiSpinCounting_Positive_Supplement_Conditioning", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_convexThickening_support_boundaryDoubleLayer_automaticMass_automaticWinding_radial_vanishingAtZero
 -- name    : crouzeix_palencia_of_convexThickening_support_boundaryDoubleLayer_automaticMass_automaticWinding_radial_vanishingAtZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:05:29.370361+00:00
 -- url     : https://prove2.me/theorems/89d65b4b-7ba2-5912-ad67-348441d5358e

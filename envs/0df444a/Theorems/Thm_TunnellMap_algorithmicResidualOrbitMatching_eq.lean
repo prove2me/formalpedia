@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_algorithmicResidualOrbitMatching_eq
 -- name    : TunnellMap.algorithmicResidualOrbitMatching_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:00:01.547082+00:00
 -- url     : https://prove2.me/theorems/56f54925-907a-554c-bce1-8428f43320b2

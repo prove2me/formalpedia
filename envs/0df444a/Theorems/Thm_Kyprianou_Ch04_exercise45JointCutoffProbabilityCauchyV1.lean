@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45JointCutoffProbabilityCauchyV1
 -- name    : Kyprianou.Ch04.exercise45JointCutoffProbabilityCauchyV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:04:57.132241+00:00
 -- url     : https://prove2.me/theorems/0b084764-4a87-5b50-9af0-3e889d9d4c8e

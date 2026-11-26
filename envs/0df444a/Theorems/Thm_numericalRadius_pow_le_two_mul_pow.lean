@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_pow_le_two_mul_pow
 -- name    : numericalRadius_pow_le_two_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:14:59.646061+00:00
 -- url     : https://prove2.me/theorems/4e45f998-89e6-5325-b0f3-d0d0cf54ef10

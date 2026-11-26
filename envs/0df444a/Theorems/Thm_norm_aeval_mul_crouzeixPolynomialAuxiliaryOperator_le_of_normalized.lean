@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_le_of_normalized
 -- name    : norm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_le_of_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:03:59.2628+00:00
 -- url     : https://prove2.me/theorems/740485eb-b358-5640-b48d-22a0545c2eb7

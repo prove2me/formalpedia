@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_planarDerivativeX_at_origin
 -- name    : Eden.planarDerivativeX_at_origin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:49:26.769709+00:00
 -- url     : https://prove2.me/theorems/40bc6c8c-b96d-59e7-800b-ec1ca66a8775

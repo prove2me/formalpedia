@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_p03_radiusEvolution_le_max
 -- name    : EdenVerified.p03_radiusEvolution_le_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:30:10.928968+00:00
 -- url     : https://prove2.me/theorems/b8022bcb-ca83-43dc-90bc-1da4bb362004

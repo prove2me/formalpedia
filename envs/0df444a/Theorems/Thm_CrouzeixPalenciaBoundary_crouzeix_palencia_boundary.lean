@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrouzeixPalenciaBoundary_crouzeix_palencia_boundary
 -- name    : CrouzeixPalenciaBoundary.crouzeix_palencia_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:18:09.663516+00:00
 -- url     : https://prove2.me/theorems/182e4649-5cc8-48c7-b9fa-2ce69215a0e7

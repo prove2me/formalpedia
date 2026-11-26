@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_phi_algebraMap
 -- name    : GroundTheory.PAdicHodge.ACris.phi_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:06:58.819475+00:00
 -- url     : https://prove2.me/theorems/7a48316e-b3ce-5aeb-9b8d-4e0de5a876cf

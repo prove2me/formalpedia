@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s08_radial_regions
 -- name    : EdenVerified.s08_radial_regions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:23:27.92628+00:00
 -- url     : https://prove2.me/theorems/912137c8-7284-422d-a4ed-b29bdd41ac2d

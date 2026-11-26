@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_matchedSourceList_pairwise
 -- name    : TunnellMap.GloballyRanked.matchedSourceList_pairwise
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:01:44.844572+00:00
 -- url     : https://prove2.me/theorems/68107751-f5a5-4e1a-82db-ee9925260eea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45JointCutoffLimitWitnessV1
 -- name    : Kyprianou.Ch04.exercise45JointCutoffLimitWitnessV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T13:00:17.234627+00:00
 -- url     : https://prove2.me/theorems/1dac736d-6eb8-5014-b24e-3df7e8a399c5

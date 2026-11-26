@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s01_maximal_growth
 -- name    : EdenVerified.s01_maximal_growth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:21:24.09382+00:00
 -- url     : https://prove2.me/theorems/2f5808dc-0c4b-4529-901d-cce8fe7366ce

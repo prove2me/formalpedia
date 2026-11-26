@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_mem_unitRadialLevel_iff_radius
 -- name    : Eden.mem_unitRadialLevel_iff_radius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:43:27.667845+00:00
 -- url     : https://prove2.me/theorems/4dd43237-82af-5b1a-99d9-17a55fa2ebc2

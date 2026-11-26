@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_exists_frequency_global_forward_solution
 -- name    : Eden.exists_frequency_global_forward_solution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:54:31.479391+00:00
 -- url     : https://prove2.me/theorems/621123fc-5a74-57e7-bba5-f40c42cd5f02

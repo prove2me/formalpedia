@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s01_basis_and_norm
 -- name    : EdenVerified.s01_basis_and_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:20:59.48726+00:00
 -- url     : https://prove2.me/theorems/470a5fe5-0fbe-5c8c-b883-dc67a245702f

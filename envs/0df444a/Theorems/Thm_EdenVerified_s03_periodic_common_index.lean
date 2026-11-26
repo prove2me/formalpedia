@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s03_periodic_common_index
 -- name    : EdenVerified.s03_periodic_common_index
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:21:48.73064+00:00
 -- url     : https://prove2.me/theorems/f0c78172-9313-5621-b79f-a9e415642e93

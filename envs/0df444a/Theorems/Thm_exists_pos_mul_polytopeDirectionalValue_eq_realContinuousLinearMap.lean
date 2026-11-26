@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_pos_mul_polytopeDirectionalValue_eq_realContinuousLinearMap
 -- name    : exists_pos_mul_polytopeDirectionalValue_eq_realContinuousLinearMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:04:15.679022+00:00
 -- url     : https://prove2.me/theorems/2b738072-8ce1-4182-b8d2-8d7634b5ef9b

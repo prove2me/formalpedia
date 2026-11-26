@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobersonCx_lemma_8
 -- name    : RobersonCx.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T23:13:36.537516+00:00
 -- url     : https://prove2.me/theorems/14499297-0c7c-4034-b13c-a91fdfc12d52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_p01_exists_planar_angular_lift
 -- name    : EdenVerified.p01_exists_planar_angular_lift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:27:59.867234+00:00
 -- url     : https://prove2.me/theorems/a5d8f366-1cf9-470f-8cac-a7e95752eaa4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_phi_logTerm
 -- name    : GroundTheory.PAdicHodge.ACris.phi_logTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:14:43.04663+00:00
 -- url     : https://prove2.me/theorems/1eb95857-5446-5471-ab92-476fa69790e0

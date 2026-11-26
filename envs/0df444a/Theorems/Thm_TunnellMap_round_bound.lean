@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_round_bound
 -- name    : TunnellMap.round_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:57:59.644118+00:00
 -- url     : https://prove2.me/theorems/46389aaf-b576-5166-9016-e8d733a7046d

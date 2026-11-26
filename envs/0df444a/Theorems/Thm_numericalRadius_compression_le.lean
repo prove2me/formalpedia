@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_compression_le
 -- name    : numericalRadius_compression_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:14:43.949839+00:00
 -- url     : https://prove2.me/theorems/c796f63c-b42f-4688-a913-22282f22c2ea

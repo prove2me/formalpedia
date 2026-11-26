@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.exercise41ArrivalFromCutoffV22
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T15:06:50.571281+00:00
 -- url     : https://prove2.me/submissions/350eee43-7976-4019-adc2-270dae8611ac
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch04_exercise41UpwardZeroCrossingV22

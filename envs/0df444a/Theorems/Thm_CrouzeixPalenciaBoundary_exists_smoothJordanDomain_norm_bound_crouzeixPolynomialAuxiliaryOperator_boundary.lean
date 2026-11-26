@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrouzeixPalenciaBoundary_exists_smoothJordanDomain_norm_bound_crouzeixPolynomialAuxiliaryOperator_boundary
 -- name    : CrouzeixPalenciaBoundary.exists_smoothJordanDomain_norm_bound_crouzeixPolynomialAuxiliaryOperator_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:18:43.780363+00:00
 -- url     : https://prove2.me/theorems/db8adb46-a0ad-5d1c-9952-b82335eeb06e

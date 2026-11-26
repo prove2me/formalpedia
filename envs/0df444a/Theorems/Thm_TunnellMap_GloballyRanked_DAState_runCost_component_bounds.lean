@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_DAState_runCost_component_bounds
 -- name    : TunnellMap.GloballyRanked.DAState.runCost_component_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:16:18.186653+00:00
 -- url     : https://prove2.me/theorems/3ada850a-37ed-456f-8487-786dbcd089ae

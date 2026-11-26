@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_theta_periodT
 -- name    : GroundTheory.PAdicHodge.ACris.theta_periodT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:02:12.992207+00:00
 -- url     : https://prove2.me/theorems/40046a13-7061-47ef-bbdb-7ea3a48fc7a6

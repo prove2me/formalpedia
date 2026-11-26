@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_periodic_global_dimension
 -- name    : EdenVerified.periodic_global_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:25:36.287554+00:00
 -- url     : https://prove2.me/theorems/5dd4170d-f730-5574-9ece-6372eb3030f5

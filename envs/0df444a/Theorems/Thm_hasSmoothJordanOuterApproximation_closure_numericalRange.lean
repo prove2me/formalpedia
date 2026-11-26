@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hasSmoothJordanOuterApproximation_closure_numericalRange
 -- name    : hasSmoothJordanOuterApproximation_closure_numericalRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:07:41.302187+00:00
 -- url     : https://prove2.me/theorems/2784e63e-f705-42b4-be91-24039cf7b889

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_etaPoint_eq_one_iff
 -- name    : TunnellMap.etaPoint_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:12:19.451865+00:00
 -- url     : https://prove2.me/theorems/d7e41742-093c-46c8-b7c8-8a295eb34006

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_one_le_planarAmplitude
 -- name    : Eden.one_le_planarAmplitude
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:30:44.447178+00:00
 -- url     : https://prove2.me/theorems/93ecc1e2-729a-4ab7-9089-2d5e71fb3bea

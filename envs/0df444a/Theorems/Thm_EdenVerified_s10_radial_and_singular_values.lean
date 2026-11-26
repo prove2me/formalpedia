@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s10_radial_and_singular_values
 -- name    : EdenVerified.s10_radial_and_singular_values
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:24:15.958604+00:00
 -- url     : https://prove2.me/theorems/cd68e13a-0542-5d0d-b202-708fd342ac5f

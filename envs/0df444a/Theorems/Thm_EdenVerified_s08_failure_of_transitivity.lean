@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s08_failure_of_transitivity
 -- name    : EdenVerified.s08_failure_of_transitivity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:24:10.335697+00:00
 -- url     : https://prove2.me/theorems/1d78b2c0-6220-597e-babd-744aa57152fe

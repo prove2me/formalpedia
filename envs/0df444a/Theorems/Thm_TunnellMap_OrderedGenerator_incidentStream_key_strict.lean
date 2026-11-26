@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_OrderedGenerator_incidentStream_key_strict
 -- name    : TunnellMap.OrderedGenerator.incidentStream_key_strict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:56:00.795624+00:00
 -- url     : https://prove2.me/theorems/1974680a-03d4-4455-ad6a-520d70f2ea4f

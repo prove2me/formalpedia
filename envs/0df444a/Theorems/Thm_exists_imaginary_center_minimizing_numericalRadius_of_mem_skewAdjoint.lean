@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_imaginary_center_minimizing_numericalRadius_of_mem_skewAdjoint
 -- name    : exists_imaginary_center_minimizing_numericalRadius_of_mem_skewAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:08:56.166248+00:00
 -- url     : https://prove2.me/theorems/7470c620-b4f3-51ef-a71c-a8dc507121c5

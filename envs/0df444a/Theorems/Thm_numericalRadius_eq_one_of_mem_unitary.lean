@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_eq_one_of_mem_unitary
 -- name    : numericalRadius_eq_one_of_mem_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:57:03.743187+00:00
 -- url     : https://prove2.me/theorems/65683412-58bd-47ed-98da-6d2c5e004a0f

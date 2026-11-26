@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_real_center_minimizing_numericalRadius_of_isSelfAdjoint
 -- name    : exists_real_center_minimizing_numericalRadius_of_isSelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:08:43.791732+00:00
 -- url     : https://prove2.me/theorems/4e372ccd-42ac-4028-a6f6-da41251c72d3

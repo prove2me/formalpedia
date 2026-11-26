@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_example_c_eight
 -- name    : EdenVerified.example_c_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:19:56.004389+00:00
 -- url     : https://prove2.me/theorems/9c296040-0b94-535e-8d3c-e798d0a04341

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_anticommutator_le_eight_mul
 -- name    : numericalRadius_anticommutator_le_eight_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:15:20.688803+00:00
 -- url     : https://prove2.me/theorems/c80d5247-0cf6-544b-a6d6-4ca1d4ebacd4

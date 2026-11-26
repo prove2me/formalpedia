@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_minimal_centered_numericalRadius_isPolynomialSpectralSet_of_isStarNormal
 -- name    : exists_minimal_centered_numericalRadius_isPolynomialSpectralSet_of_isStarNormal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:14:17.032803+00:00
 -- url     : https://prove2.me/theorems/39661316-47e5-51e0-acf7-468ae40849e0

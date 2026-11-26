@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_DAState_cursorTotal_add_remaining
 -- name    : TunnellMap.GloballyRanked.DAState.cursorTotal_add_remaining
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:15:29.674833+00:00
 -- url     : https://prove2.me/theorems/17324a03-e774-4517-a6d5-3c5abe2fff1f

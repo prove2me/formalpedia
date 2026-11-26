@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise49DefectiveLadderRenewalV3
 -- name    : Kyprianou.Ch04.exercise49DefectiveLadderRenewalV3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:36:52.511729+00:00
 -- url     : https://prove2.me/theorems/a90d064c-e6d8-471e-b5a8-de77259130d0

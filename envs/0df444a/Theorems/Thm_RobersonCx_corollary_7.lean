@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobersonCx_corollary_7
 -- name    : RobersonCx.corollary_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T23:13:36.59817+00:00
 -- url     : https://prove2.me/theorems/574a1f5c-b390-4502-9862-4541679653a6

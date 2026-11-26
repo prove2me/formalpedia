@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrouzeixPalenciaBoundary_convexThickeningApprox_spec_boundary
 -- name    : CrouzeixPalenciaBoundary.convexThickeningApprox_spec_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:18:41.408116+00:00
 -- url     : https://prove2.me/theorems/4f61c49a-b0f7-5cc0-932b-ae30022c92b2

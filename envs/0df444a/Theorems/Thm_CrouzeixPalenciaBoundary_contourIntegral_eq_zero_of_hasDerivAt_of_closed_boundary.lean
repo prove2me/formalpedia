@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrouzeixPalenciaBoundary_contourIntegral_eq_zero_of_hasDerivAt_of_closed_boundary
 -- name    : CrouzeixPalenciaBoundary.contourIntegral_eq_zero_of_hasDerivAt_of_closed_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:18:15.745818+00:00
 -- url     : https://prove2.me/theorems/4715f2bb-c7a6-48f0-ab61-99e7db373ef0

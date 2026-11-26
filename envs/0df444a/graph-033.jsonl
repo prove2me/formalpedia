@@ -92795,8 +92795,8 @@
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0205", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0205", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
 {"parent": "AJGames.dual_dual", "child": "AJGames_Game", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.classicalRenewalTheorem_unrestrictedGrowth", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.classicalRenewalTheorem_unrestrictedGrowth", "child": "AvramDividend.Classical.avram_p4_f6_renewal_cdf_monotone", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.classicalRenewalTheorem_unrestrictedGrowth", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.classicalRenewalTheorem_unrestrictedGrowth", "child": "AvramDividend.Classical.avram_p4_f6_renewal_cdf_monotone", "via": ["solution", "statement"]}
 {"parent": "OPG37271.hasStarEdgeColoring_of_bridge", "child": "opg37271_star_edge_coloring", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.BubbleLocalSpectrum.oriented_context_replacement_vector", "child": "DeletionCode_BubbleLocalSpectrum", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.BubbleLocalSpectrum.oriented_context_replacement_vector", "child": "DeletionCode_SpectrumLocalization", "via": ["solution", "statement"]}
@@ -94226,11 +94226,11 @@
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_234", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0697", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0697", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.exercise55_discountedPassageMoment", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise55_discountedPassageMoment", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise55_discountedPassageMoment", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise55_discountedPassageMoment", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise55_discountedPassageMoment", "child": "Kyprianou_Ch05_ExponentialPassageMoments", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise55_discountedPassageMoment", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise55_discountedPassageMoment", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise55_discountedPassageMoment", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise55_discountedPassageMoment", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise55_discountedPassageMoment", "child": "Kyprianou_Ch05_ExponentialPassageMoments", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch03.stableFracMoment_reverse", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch03.stableFracMoment_reverse", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch39_284", "child": "OAIQ259US022", "via": ["solution", "statement"]}
@@ -94456,8 +94456,8 @@
 {"parent": "DeletionCode.SpectrumPath.spectrum_boolean", "child": "DeletionCode_SpectrumPath", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_296", "child": "RealPinwheel_FiveSixths_CertificateP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_296", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.classicalRenewalTheorem_nonlatticeIncrement", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.classicalRenewalTheorem_nonlatticeIncrement", "child": "AvramDividend.Classical.avram_p4_f6_renewal_cdf_monotone", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.classicalRenewalTheorem_nonlatticeIncrement", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.classicalRenewalTheorem_nonlatticeIncrement", "child": "AvramDividend.Classical.avram_p4_f6_renewal_cdf_monotone", "via": ["solution", "statement"]}
 {"parent": "RPLib_S4_CDPack67c", "child": "RPLib_S4_CDPack67b", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0264", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0264", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}

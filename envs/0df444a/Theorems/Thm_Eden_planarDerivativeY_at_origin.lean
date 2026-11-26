@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_planarDerivativeY_at_origin
 -- name    : Eden.planarDerivativeY_at_origin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:49:52.421246+00:00
 -- url     : https://prove2.me/theorems/c6f6f140-967b-4ae6-923e-c89bd838ebd2

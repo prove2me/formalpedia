@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_infDist_attractor_sq_le
 -- name    : Eden.infDist_attractor_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:38:21.121851+00:00
 -- url     : https://prove2.me/theorems/be866656-5720-44f1-9041-d3bd2e5bb6f6

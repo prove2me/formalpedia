@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s07_hausdorff_dimensions
 -- name    : EdenVerified.s07_hausdorff_dimensions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:22:29.901157+00:00
 -- url     : https://prove2.me/theorems/83134767-b677-5d05-a188-f8d178743055

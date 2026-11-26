@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_residualEquivOfOrbitCard_apply
 -- name    : TunnellMap.residualEquivOfOrbitCard_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:16:16.760495+00:00
 -- url     : https://prove2.me/theorems/76225f42-0989-4e2c-a18b-608420fbdfe1

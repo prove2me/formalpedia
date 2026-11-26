@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_spectralRadius_aeval_le_polynomialSupNorm_closure_numericalRange_of_forall_symmetrized_bound
 -- name    : spectralRadius_aeval_le_polynomialSupNorm_closure_numericalRange_of_forall_symmetrized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:59:37.031317+00:00
 -- url     : https://prove2.me/theorems/27e9f210-fadd-5654-94e7-d30ee0f2dabd

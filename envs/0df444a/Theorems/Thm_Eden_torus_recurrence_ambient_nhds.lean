@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_torus_recurrence_ambient_nhds
 -- name    : Eden.torus_recurrence_ambient_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:54:25.03417+00:00
 -- url     : https://prove2.me/theorems/16770740-8962-4b3a-81f7-fd78ee8e5424

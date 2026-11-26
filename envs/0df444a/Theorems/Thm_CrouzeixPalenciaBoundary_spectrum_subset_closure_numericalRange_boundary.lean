@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrouzeixPalenciaBoundary_spectrum_subset_closure_numericalRange_boundary
 -- name    : CrouzeixPalenciaBoundary.spectrum_subset_closure_numericalRange_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:17:15.682365+00:00
 -- url     : https://prove2.me/theorems/a67328a5-7252-5ca1-adf9-bf2ac09ed968

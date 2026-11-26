@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.exercise41ArrivalFromNoMinimumV18
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T15:07:08.272161+00:00
 -- url     : https://prove2.me/submissions/8b5c2681-5d3d-4cdd-a9b1-d89ea8318baa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch04_exercise41IsolatedZeroCutoffV13
 import Theorems.Thm_Kyprianou_Ch04_exercise41NegativeBeforeZeroV22

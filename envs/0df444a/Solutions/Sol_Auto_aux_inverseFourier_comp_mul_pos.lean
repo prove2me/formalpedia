@@ -1,0 +1,48 @@
+-- Prove2me | solution 1 for Auto.aux_inverseFourier_comp_mul_pos
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-26T15:48:10.113401+00:00
+-- url     : https://prove2.me/submissions/95fb6074-71d2-40f4-8470-1e7d982aefe9
+
+module
+public import Definitions.Def_LeanNct_Auto_WienerSpace
+public import Definitions.Def_LeanNct_Auto_Preliminaries_Notation
+public import Mathlib.Analysis.SpecialFunctions.Gaussian.FourierTransform
+public import Mathlib.Analysis.Fourier.Inversion
+public import Mathlib.Analysis.Fourier.FourierTransformDeriv
+public import Mathlib.Analysis.Calculus.FDeriv.Extend
+public import Mathlib.Analysis.Calculus.LineDeriv.IntegrationByParts
+public import Mathlib.MeasureTheory.Integral.IntervalIntegral.Basic
+public import Mathlib.Analysis.Calculus.Deriv.Abs
+public import Mathlib.Analysis.Calculus.LHopital
+public import Mathlib.Analysis.SpecialFunctions.Sqrt
+public import Mathlib.Analysis.Real.Pi.Bounds
+public import Mathlib.Analysis.Complex.ExponentialBounds
+public import Mathlib.Analysis.SpecialFunctions.Integrals.Basic
+public import Mathlib.Analysis.Analytic.Binomial
+public import Mathlib.RingTheory.Polynomial.Hermite.Gaussian
+public import Definitions.Def_LeanNct_Auto_Preliminaries_Gaussians
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open Auto
+open MeasureTheory Filter
+open scoped FourierTransform Real RealInnerProductSpace Topology
+noncomputable section
+namespace Auto
+theorem _root_.solution (f : ℝ → ℂ) (a x : ℝ) (ha : 0 < a) :
+    FourierTransformInv.fourierInv (fun ξ : ℝ => f (a * ξ)) x =
+      (a⁻¹ : ℝ) • FourierTransformInv.fourierInv f (a⁻¹ * x) := by
+  rw [Real.fourierInv_eq, Real.fourierInv_eq]
+  let g : ℝ → ℂ := fun η => 𝐞 ⟪η, a⁻¹ * x⟫ • f η
+  have hscale := MeasureTheory.Measure.integral_comp_mul_left g a
+  rw [show |a⁻¹| = a⁻¹ by exact abs_of_pos (inv_pos.mpr ha)] at hscale
+  rw [← hscale]
+  apply integral_congr_ae
+  filter_upwards [] with ξ
+  dsimp [g]
+  congr 2
+  simp only [starRingEnd_apply, star_trivial]
+  field_simp
+end Auto

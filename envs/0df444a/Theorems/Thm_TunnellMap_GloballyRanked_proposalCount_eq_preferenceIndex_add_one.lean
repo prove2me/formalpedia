@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_proposalCount_eq_preferenceIndex_add_one
 -- name    : TunnellMap.GloballyRanked.proposalCount_eq_preferenceIndex_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:00:51.530806+00:00
 -- url     : https://prove2.me/theorems/8083e230-cd86-4161-bf6b-2ef171f40d80

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_D06_attractor_and_torus
 -- name    : EdenVerified.D06_attractor_and_torus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:26:17.804342+00:00
 -- url     : https://prove2.me/theorems/1a72c63c-8436-513c-a602-2600f3b20f7a

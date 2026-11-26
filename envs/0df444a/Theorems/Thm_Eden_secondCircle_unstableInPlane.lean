@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_secondCircle_unstableInPlane
 -- name    : Eden.secondCircle_unstableInPlane
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:00:38.461233+00:00
 -- url     : https://prove2.me/theorems/b765a558-9b02-4723-895d-fcd1e924e574

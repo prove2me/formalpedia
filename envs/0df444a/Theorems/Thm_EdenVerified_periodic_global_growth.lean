@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_periodic_global_growth
 -- name    : EdenVerified.periodic_global_growth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:25:33.1509+00:00
 -- url     : https://prove2.me/theorems/83fdbb8f-17f2-51e2-9af2-7e8fe32b2759

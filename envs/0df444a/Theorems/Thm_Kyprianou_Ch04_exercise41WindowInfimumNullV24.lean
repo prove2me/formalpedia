@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41WindowInfimumNullV24
 -- name    : Kyprianou.Ch04.exercise41WindowInfimumNullV24
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:08:13.783891+00:00
 -- url     : https://prove2.me/theorems/3c396188-0dc6-40ae-a9cc-882f4f221589

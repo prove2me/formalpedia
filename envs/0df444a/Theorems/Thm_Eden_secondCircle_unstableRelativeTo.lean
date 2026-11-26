@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_secondCircle_unstableRelativeTo
 -- name    : Eden.secondCircle_unstableRelativeTo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:28:20.788288+00:00
 -- url     : https://prove2.me/theorems/00690097-1408-4bd2-b49e-37331314c3af

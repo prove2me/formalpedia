@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_matchedKeyOrderEquiv_spec
 -- name    : TunnellMap.GloballyRanked.matchedKeyOrderEquiv_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:01:20.315072+00:00
 -- url     : https://prove2.me/theorems/d39a5044-d823-53da-a245-e37a281d2649

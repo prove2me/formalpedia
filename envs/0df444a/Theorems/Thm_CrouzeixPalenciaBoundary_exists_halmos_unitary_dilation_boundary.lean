@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrouzeixPalenciaBoundary_exists_halmos_unitary_dilation_boundary
 -- name    : CrouzeixPalenciaBoundary.exists_halmos_unitary_dilation_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:17:55.767902+00:00
 -- url     : https://prove2.me/theorems/5ec239fa-70cb-4336-8331-5f5e3f39477e

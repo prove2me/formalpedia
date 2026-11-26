@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise49PhysicalRenewalLawV1
 -- name    : Kyprianou.Ch04.exercise49PhysicalRenewalLawV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:04:16.534334+00:00
 -- url     : https://prove2.me/theorems/804dc85d-d806-4d31-a11f-1edd389fd102

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_incidentStream_pairwise
 -- name    : TunnellMap.incidentStream_pairwise
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:59:18.730743+00:00
 -- url     : https://prove2.me/theorems/fa4ead72-d4b5-5ab3-a8ee-ef65db6f0809

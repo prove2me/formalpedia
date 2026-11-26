@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_hasDerivAt_amplitudeSq
 -- name    : Eden.hasDerivAt_amplitudeSq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:05:49.451198+00:00
 -- url     : https://prove2.me/theorems/fb531a6f-b625-5bed-b6fa-60f89b35aeff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_D10_finite_time_convention
 -- name    : EdenVerified.D10_finite_time_convention
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:27:24.119669+00:00
 -- url     : https://prove2.me/theorems/91eb7ab1-1541-44c9-ace3-ce468eea3e4b

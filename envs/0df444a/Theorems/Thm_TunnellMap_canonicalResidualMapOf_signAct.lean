@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_canonicalResidualMapOf_signAct
 -- name    : TunnellMap.canonicalResidualMapOf_signAct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:13:41.811957+00:00
 -- url     : https://prove2.me/theorems/cd015e19-91ba-59ac-9a24-9de60fd00c5e

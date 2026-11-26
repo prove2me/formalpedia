@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrouzeixPalenciaBoundary_exists_unitary_power_dilation_boundary
 -- name    : CrouzeixPalenciaBoundary.exists_unitary_power_dilation_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:18:04.231554+00:00
 -- url     : https://prove2.me/theorems/495edde6-15ef-457a-87f8-f052fabbdd03

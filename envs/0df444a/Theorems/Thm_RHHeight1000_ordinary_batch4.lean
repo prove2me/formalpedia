@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RHHeight1000_ordinary_batch4
 -- name    : RHHeight1000.ordinary_batch4
--- status  : Open
+-- status  : Proved
 -- author  : @bueno_ricardo
 -- created : 2026-11-18T22:31:44.64889+00:00
 -- url     : https://prove2.me/theorems/41d6d32a-a1c0-45e8-9a15-ff7e72c55c17

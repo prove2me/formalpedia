@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_D08_singular_value_function
 -- name    : EdenVerified.D08_singular_value_function
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:26:27.852002+00:00
 -- url     : https://prove2.me/theorems/0c4347e0-7d0a-5b3e-a61e-ca924ce4ec70

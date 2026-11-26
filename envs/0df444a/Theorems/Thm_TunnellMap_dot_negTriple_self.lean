@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_dot_negTriple_self
 -- name    : TunnellMap.dot_negTriple_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:58:18.163749+00:00
 -- url     : https://prove2.me/theorems/94c0405f-c498-46ab-bf29-9dd4e2716b98

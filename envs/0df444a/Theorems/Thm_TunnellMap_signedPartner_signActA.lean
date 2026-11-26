@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_signedPartner_signActA
 -- name    : TunnellMap.signedPartner_signActA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:13:51.446826+00:00
 -- url     : https://prove2.me/theorems/a85d713c-1788-4e35-8ab8-a1881a5fb108

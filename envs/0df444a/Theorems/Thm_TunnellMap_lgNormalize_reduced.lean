@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_lgNormalize_reduced
 -- name    : TunnellMap.lgNormalize_reduced
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:58:36.54807+00:00
 -- url     : https://prove2.me/theorems/009cface-85b3-51bf-bcea-5e46986ddee1

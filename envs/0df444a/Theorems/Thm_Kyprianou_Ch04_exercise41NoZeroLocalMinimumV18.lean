@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41NoZeroLocalMinimumV18
 -- name    : Kyprianou.Ch04.exercise41NoZeroLocalMinimumV18
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T13:17:15.188019+00:00
 -- url     : https://prove2.me/theorems/8e3571c3-07f7-506f-ab3d-77b7ce4423fc

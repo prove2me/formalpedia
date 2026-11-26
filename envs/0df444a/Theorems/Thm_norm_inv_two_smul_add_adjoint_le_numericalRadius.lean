@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_inv_two_smul_add_adjoint_le_numericalRadius
 -- name    : norm_inv_two_smul_add_adjoint_le_numericalRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:15:43.319815+00:00
 -- url     : https://prove2.me/theorems/ec565b1a-1c84-42d1-a6c6-45467299c74f

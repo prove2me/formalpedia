@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrouzeixPalenciaBoundary_vonNeumann_inequality_boundary
 -- name    : CrouzeixPalenciaBoundary.vonNeumann_inequality_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:18:35.402087+00:00
 -- url     : https://prove2.me/theorems/f71b00ee-3a68-4c0e-b0bb-2c986d00881c

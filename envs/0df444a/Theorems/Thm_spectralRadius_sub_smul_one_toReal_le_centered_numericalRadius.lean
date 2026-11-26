@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_spectralRadius_sub_smul_one_toReal_le_centered_numericalRadius
 -- name    : spectralRadius_sub_smul_one_toReal_le_centered_numericalRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:56:57.854335+00:00
 -- url     : https://prove2.me/theorems/cfdcc84c-3bf9-5ed7-b5f6-0b88bf60bd88

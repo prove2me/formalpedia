@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_minimal_centered_numericalRadius_isKPolynomialSpectralSet
 -- name    : exists_minimal_centered_numericalRadius_isKPolynomialSpectralSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:14:00.975531+00:00
 -- url     : https://prove2.me/theorems/b910e7db-6dd6-5c42-be64-313b650990eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_lgSelect_reduced
 -- name    : TunnellMap.lgSelect_reduced
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:00:20.987829+00:00
 -- url     : https://prove2.me/theorems/6ae64650-4b65-4c4e-9411-dd8348afb0a8

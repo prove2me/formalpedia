@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsKPolynomialSpectralSet_closure_of_isCompact
 -- name    : IsKPolynomialSpectralSet.closure_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:07:36.229395+00:00
 -- url     : https://prove2.me/theorems/b393968e-c403-4284-93f0-c3e41771f261

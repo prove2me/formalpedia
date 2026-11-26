@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_dimension_gap_eight
 -- name    : Eden.dimension_gap_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:23:32.945152+00:00
 -- url     : https://prove2.me/theorems/149e2301-e95c-5183-aac1-48ecba4d157b

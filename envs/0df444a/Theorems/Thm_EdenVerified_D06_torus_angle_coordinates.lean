@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_D06_torus_angle_coordinates
 -- name    : EdenVerified.D06_torus_angle_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:27:04.332149+00:00
 -- url     : https://prove2.me/theorems/4f2a241d-d7d3-5ce6-8fe8-b7b9d8f9ff89

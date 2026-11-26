@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_planar_singular_value_lemma
 -- name    : EdenVerified.planar_singular_value_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:21:39.299237+00:00
 -- url     : https://prove2.me/theorems/8c03dacc-b25d-4c07-aa73-8774fa4261a3

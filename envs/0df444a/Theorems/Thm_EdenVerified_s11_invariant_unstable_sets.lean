@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s11_invariant_unstable_sets
 -- name    : EdenVerified.s11_invariant_unstable_sets
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:24:58.714413+00:00
 -- url     : https://prove2.me/theorems/8667d684-902a-57ea-af02-2a233b7d6797

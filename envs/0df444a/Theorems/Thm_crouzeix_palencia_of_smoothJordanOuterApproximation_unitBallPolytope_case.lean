@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_smoothJordanOuterApproximation_unitBallPolytope_case
 -- name    : crouzeix_palencia_of_smoothJordanOuterApproximation_unitBallPolytope_case
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:06:34.017197+00:00
 -- url     : https://prove2.me/theorems/c01b5902-4a8b-5e8b-855f-076c75370902

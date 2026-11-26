@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_le_polynomialSupNorm_closedBall_of_isStarNormal_of_centered_numericalRadius_le
 -- name    : norm_aeval_le_polynomialSupNorm_closedBall_of_isStarNormal_of_centered_numericalRadius_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:13:59.715668+00:00
 -- url     : https://prove2.me/theorems/31132dee-4822-4a4a-9c53-de70448b53f1

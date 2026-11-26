@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_unstableRelativeTo_of_unit_plane_in
 -- name    : Eden.unstableRelativeTo_of_unit_plane_in
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:27:33.811048+00:00
 -- url     : https://prove2.me/theorems/c16e7575-f3cf-533b-80b5-747c0783ff96

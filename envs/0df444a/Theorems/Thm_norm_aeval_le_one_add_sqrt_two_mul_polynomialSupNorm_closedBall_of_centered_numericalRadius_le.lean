@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_le_one_add_sqrt_two_mul_polynomialSupNorm_closedBall_of_centered_numericalRadius_le
 -- name    : norm_aeval_le_one_add_sqrt_two_mul_polynomialSupNorm_closedBall_of_centered_numericalRadius_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:13:49.58181+00:00
 -- url     : https://prove2.me/theorems/1f53684c-dc72-446a-8c65-36f608e2a7e5

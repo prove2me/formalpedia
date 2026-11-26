@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyCorrection_image_torus
 -- name    : Eden.frequencyCorrection_image_torus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:55:13.346013+00:00
 -- url     : https://prove2.me/theorems/6ab98c96-2051-56fb-bbe0-f8ce907b7e1c

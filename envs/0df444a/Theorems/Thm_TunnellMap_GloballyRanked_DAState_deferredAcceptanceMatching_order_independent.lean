@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_DAState_deferredAcceptanceMatching_order_independent
 -- name    : TunnellMap.GloballyRanked.DAState.deferredAcceptanceMatching_order_independent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:35:59.229799+00:00
 -- url     : https://prove2.me/theorems/d1978fb3-3c0f-57f1-914d-591cdbea4b34

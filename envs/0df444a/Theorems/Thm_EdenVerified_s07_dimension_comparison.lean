@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s07_dimension_comparison
 -- name    : EdenVerified.s07_dimension_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:22:57.066096+00:00
 -- url     : https://prove2.me/theorems/daf11952-9bac-5c95-a3b6-7df962ab7670

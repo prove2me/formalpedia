@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41ArrivalFromNoMinimumV18
 -- name    : Kyprianou.Ch04.exercise41ArrivalFromNoMinimumV18
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T13:17:23.643561+00:00
 -- url     : https://prove2.me/theorems/5f9d6437-a2cb-52e3-b194-6e3a239cee6f

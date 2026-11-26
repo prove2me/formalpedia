@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrouzeixPalenciaBoundary_norm_le_of_mem_numericalRange_boundary
 -- name    : CrouzeixPalenciaBoundary.norm_le_of_mem_numericalRange_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:17:08.738074+00:00
 -- url     : https://prove2.me/theorems/8d3b3f2e-abc2-54ba-93ba-55ef159f538f

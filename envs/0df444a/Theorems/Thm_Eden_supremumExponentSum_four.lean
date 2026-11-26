@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_supremumExponentSum_four
 -- name    : Eden.supremumExponentSum_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:31:48.338433+00:00
 -- url     : https://prove2.me/theorems/c55370a8-d266-4b5a-b913-61a25b59c227

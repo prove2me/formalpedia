@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_OrderedGenerator_targetOrbitOfValid_injective
 -- name    : TunnellMap.OrderedGenerator.targetOrbitOfValid_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:52:40.123775+00:00
 -- url     : https://prove2.me/theorems/d83c733d-8749-58ee-aad4-64f2fb2a0864

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_finiteTimeDimension_lt_target_of_not_mem_torus
 -- name    : Eden.finiteTimeDimension_lt_target_of_not_mem_torus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:02:01.432276+00:00
 -- url     : https://prove2.me/theorems/9765d20f-8b11-48e9-a807-b20eaf390240

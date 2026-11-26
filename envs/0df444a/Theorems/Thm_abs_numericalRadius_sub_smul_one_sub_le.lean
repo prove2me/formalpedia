@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_abs_numericalRadius_sub_smul_one_sub_le
 -- name    : abs_numericalRadius_sub_smul_one_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:07:47.074144+00:00
 -- url     : https://prove2.me/theorems/ab2f2029-c990-55c5-b250-bf3aeb1dd0b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_centeredNumericalRadiusMinimizers_subset_closedBall_two_mul
 -- name    : centeredNumericalRadiusMinimizers_subset_closedBall_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:08:04.174521+00:00
 -- url     : https://prove2.me/theorems/cb0aad01-2bd7-5467-b8e1-6f724a96d2db

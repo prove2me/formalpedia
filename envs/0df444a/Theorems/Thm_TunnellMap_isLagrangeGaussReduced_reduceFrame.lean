@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_isLagrangeGaussReduced_reduceFrame
 -- name    : TunnellMap.isLagrangeGaussReduced_reduceFrame
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:56:18.150946+00:00
 -- url     : https://prove2.me/theorems/f58476d5-4846-525f-af0d-9ed45f8084e8

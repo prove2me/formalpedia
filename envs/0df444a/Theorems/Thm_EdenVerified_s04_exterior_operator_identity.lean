@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s04_exterior_operator_identity
 -- name    : EdenVerified.s04_exterior_operator_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:22:59.125907+00:00
 -- url     : https://prove2.me/theorems/da0c7b4b-153d-43ab-a60b-c0eb7a8bb7bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_closure_numericalRange_eq_smoothJordanClosure
 -- name    : crouzeix_palencia_of_closure_numericalRange_eq_smoothJordanClosure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:05:51.809212+00:00
 -- url     : https://prove2.me/theorems/4bb682ae-a58f-5a56-9353-517545f1d6d6

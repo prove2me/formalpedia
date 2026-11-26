@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_OrderedGenerator_incidentStream_nodup
 -- name    : TunnellMap.OrderedGenerator.incidentStream_nodup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:51:14.645489+00:00
 -- url     : https://prove2.me/theorems/b4df2e1a-c3a0-5edd-8858-72ebed1ea665

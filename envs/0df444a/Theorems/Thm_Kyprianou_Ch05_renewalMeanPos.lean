@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_renewalMeanPos
 -- name    : Kyprianou.Ch05.renewalMeanPos
--- status  : Open
+-- status  : Proved
 -- author  : @DAGA
 -- created : 2026-11-26T03:06:12.442005+00:00
 -- url     : https://prove2.me/theorems/e6f014f8-6e38-4d73-9c97-c6111b122ac2

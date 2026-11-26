@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s02_common_index_dimension
 -- name    : EdenVerified.s02_common_index_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:21:44.5843+00:00
 -- url     : https://prove2.me/theorems/6a9ece59-997b-5cfd-96ad-c4f1a84222b2

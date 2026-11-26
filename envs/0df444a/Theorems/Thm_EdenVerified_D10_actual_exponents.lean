@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_D10_actual_exponents
 -- name    : EdenVerified.D10_actual_exponents
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:26:53.189831+00:00
 -- url     : https://prove2.me/theorems/d4245a7f-7d6b-5c63-9123-e81a637792cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_FreeInvolution_liftOrbitEquiv_neg_representative
 -- name    : TunnellMap.FreeInvolution.liftOrbitEquiv_neg_representative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:13:45.442342+00:00
 -- url     : https://prove2.me/theorems/5c441f17-1d18-5134-9f86-6e07660d5767

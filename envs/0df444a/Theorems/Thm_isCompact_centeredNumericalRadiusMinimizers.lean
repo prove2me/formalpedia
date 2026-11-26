@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isCompact_centeredNumericalRadiusMinimizers
 -- name    : isCompact_centeredNumericalRadiusMinimizers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:07:58.509298+00:00
 -- url     : https://prove2.me/theorems/2ae575f8-b55b-55fb-963a-fb4b52665858

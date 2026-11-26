@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_p03_radiusEvolution_nonneg
 -- name    : EdenVerified.p03_radiusEvolution_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:30:00.895252+00:00
 -- url     : https://prove2.me/theorems/ac3e84ce-9ec9-41fc-8d7f-586f323adc11

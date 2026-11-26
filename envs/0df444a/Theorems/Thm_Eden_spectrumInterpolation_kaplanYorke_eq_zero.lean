@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_spectrumInterpolation_kaplanYorke_eq_zero
 -- name    : Eden.spectrumInterpolation_kaplanYorke_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:10:34.228094+00:00
 -- url     : https://prove2.me/theorems/4aa83f61-e448-5fbc-b02b-18e849b76626

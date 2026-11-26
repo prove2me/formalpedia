@@ -81498,7 +81498,7 @@
 {"parent": "OAI.SharpPlanar.Numerical.dentry0_5_contains_e", "child": "OAIQ098E004", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.dentry0_5_contains_e", "child": "OAIQ098E028", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.dentry0_5_contains_e", "child": "OAIQ098E030", "via": ["statement"]}
-{"parent": "FixedMachinePrec.corollary_7_5", "child": "FixedMachinePrec_Separator", "via": ["statement"]}
+{"parent": "FixedMachinePrec.corollary_7_5", "child": "FixedMachinePrec_Separator", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.AffinePlace.globalPlace_valuation", "child": "QEC_Coding_AlgebraicGeometry_Places_GlobalPlace", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.AffinePlace.globalPlace_valuation", "child": "QEC_Coding_AlgebraicGeometry_Places_AffinePlace", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.AffinePlace.globalPlace_valuation", "child": "QEC_Coding_AlgebraicGeometry_Places_AffineGlobalPlace", "via": ["solution", "statement"]}
@@ -82097,7 +82097,7 @@
 {"parent": "UCalibDirichlet.lemma_1_7", "child": "UCalibDirichlet_bern", "via": ["statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.SecondCutRankOneBlockProduct.witness_norm", "child": "QEC_Bounds_BPTDisentangling_ScalarCompression_LeftRankOneProductWitnessNorm", "via": ["statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.SecondCutRankOneBlockProduct.witness_norm", "child": "QEC_Bounds_BPTDisentangling_ScalarCompression_LeftRankOneProductWitness", "via": ["statement"]}
-{"parent": "FixedMachinePrec.lemma_7_1", "child": "FixedMachinePrec_Separator", "via": ["statement"]}
+{"parent": "FixedMachinePrec.lemma_7_1", "child": "FixedMachinePrec_Separator", "via": ["solution", "statement"]}
 {"parent": "OAI.SevenEighths.Continuation.mellin_normalizedSignal", "child": "OAI_NumberTheory_DirichletL_Continuation", "via": ["solution", "statement"]}
 {"parent": "OAI.SevenEighths.Continuation.mellin_normalizedSignal", "child": "OAI_NumberTheory_DirichletL_ContinuationInversion", "via": ["solution", "statement"]}
 {"parent": "RankOneSK.lemma_2_10", "child": "RankOneSK_smallSumSq", "via": ["statement"]}
@@ -90235,7 +90235,7 @@
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3191_e", "child": "OAIQ106E119", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3191_e", "child": "OAIQ106E071", "via": ["solution", "statement"]}
 {"parent": "LostSalesExpGap.ConstOrder.opt_ge_CL", "child": "LostSalesExpGap_ConstOrder_ConstantOrder", "via": ["statement"]}
-{"parent": "FixedMachinePrec.lemma_7_3", "child": "FixedMachinePrec_Separator", "via": ["statement"]}
+{"parent": "FixedMachinePrec.lemma_7_3", "child": "FixedMachinePrec_Separator", "via": ["solution", "statement"]}
 {"parent": "Consequences_Main", "child": "Consequences_Dom", "via": ["statement"]}
 {"parent": "Consequences_Main", "child": "GraphProblems_Host", "via": ["statement"]}
 {"parent": "Consequences_Main", "child": "GraphProblems_Sets", "via": ["statement"]}
@@ -94905,7 +94905,7 @@
 {"parent": "QEC_Bounds_BPTDisentangling_Joint_Sequential_SecondCutJointData", "child": "QEC_Bounds_BPTDisentangling_Joint_Sequential_BlockData", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.kernel3_1_contains_e", "child": "OAIQ098E031", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.toProjectiveState_fderiv_field", "child": "BianchiIX_Dynamics_ProjectiveRegularity", "via": ["solution", "statement"]}
-{"parent": "FixedMachinePrec.theorem_5_12", "child": "FixedMachinePrec_Deadline", "via": ["statement"]}
+{"parent": "FixedMachinePrec.theorem_5_12", "child": "FixedMachinePrec_Deadline", "via": ["solution", "statement"]}
 {"parent": "LawLocalComp_cellReplace", "child": "LawLocalComp_cellMean", "via": ["statement"]}
 {"parent": "LawLocalComp_cellReplace", "child": "LawLocalComp_lawOfW", "via": ["statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.RatFuncDerivation.rationalDerivationEquiv_symm_apply", "child": "QEC_Coding_AlgebraicGeometry_Differentials_RatFuncDerivation", "via": ["solution", "statement"]}

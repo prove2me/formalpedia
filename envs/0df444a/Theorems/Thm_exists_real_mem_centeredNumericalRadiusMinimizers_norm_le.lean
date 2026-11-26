@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_real_mem_centeredNumericalRadiusMinimizers_norm_le
 -- name    : exists_real_mem_centeredNumericalRadiusMinimizers_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:08:23.164793+00:00
 -- url     : https://prove2.me/theorems/e979feba-fccc-57c9-8b20-4f217b8d92ee

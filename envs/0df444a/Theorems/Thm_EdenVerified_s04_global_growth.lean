@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_s04_global_growth
 -- name    : EdenVerified.s04_global_growth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:22:12.037054+00:00
 -- url     : https://prove2.me/theorems/3d95f757-2f27-5f2c-b18f-0a36f0855f47

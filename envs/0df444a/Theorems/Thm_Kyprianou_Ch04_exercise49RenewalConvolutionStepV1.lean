@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise49RenewalConvolutionStepV1
 -- name    : Kyprianou.Ch04.exercise49RenewalConvolutionStepV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:05:26.189999+00:00
 -- url     : https://prove2.me/theorems/0d2a2937-eb41-5ac2-94d8-4d8644896951

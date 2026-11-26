@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_box41_complete_for_a
 -- name    : TunnellMap.Examples41.box41_complete_for_a
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:17:09.843434+00:00
 -- url     : https://prove2.me/theorems/aec48a13-4994-5ee3-a6a3-6803998cddd5

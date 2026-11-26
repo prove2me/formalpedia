@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_D02_euclidean_geometry
 -- name    : EdenVerified.D02_euclidean_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:26:12.221325+00:00
 -- url     : https://prove2.me/theorems/f4bc58e7-3a0b-479c-9f26-eef30de79b2b

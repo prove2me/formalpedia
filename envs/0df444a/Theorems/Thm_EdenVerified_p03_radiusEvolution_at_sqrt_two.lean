@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_p03_radiusEvolution_at_sqrt_two
 -- name    : EdenVerified.p03_radiusEvolution_at_sqrt_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:29:59.286043+00:00
 -- url     : https://prove2.me/theorems/d4150851-345e-5008-a168-2cc6908e258b

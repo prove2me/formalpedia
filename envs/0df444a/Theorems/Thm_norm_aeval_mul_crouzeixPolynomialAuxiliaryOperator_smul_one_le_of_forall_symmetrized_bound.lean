@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_smul_one_le_of_forall_symmetrized_bound
 -- name    : norm_aeval_mul_crouzeixPolynomialAuxiliaryOperator_smul_one_le_of_forall_symmetrized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:04:17.914651+00:00
 -- url     : https://prove2.me/theorems/07a6e09f-651f-4d8a-8bcb-1de612a7431d

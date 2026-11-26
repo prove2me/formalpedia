@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_D05_actual_forward_flow
 -- name    : EdenVerified.D05_actual_forward_flow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:26:13.782678+00:00
 -- url     : https://prove2.me/theorems/b7439032-0d23-57c8-bc5d-299805cdd500

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdenVerified_p02_radiusEvolution_mono
 -- name    : EdenVerified.p02_radiusEvolution_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:29:19.68506+00:00
 -- url     : https://prove2.me/theorems/315d6722-430e-4210-9ae0-f221e8a3006d

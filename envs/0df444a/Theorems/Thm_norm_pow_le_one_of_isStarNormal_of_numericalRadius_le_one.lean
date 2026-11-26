@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_pow_le_one_of_isStarNormal_of_numericalRadius_le_one
 -- name    : norm_pow_le_one_of_isStarNormal_of_numericalRadius_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:57:43.679515+00:00
 -- url     : https://prove2.me/theorems/679fb06d-c3c9-47b0-88f6-f15f2c8598a8

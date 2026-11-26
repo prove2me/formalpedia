@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_theta_surjective
 -- name    : GroundTheory.PAdicHodge.ACris.theta_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:06:22.880752+00:00
 -- url     : https://prove2.me/theorems/fcb9c167-8180-402c-9ce3-7a012f38c1dc
