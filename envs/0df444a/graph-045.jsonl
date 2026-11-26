@@ -8300,7 +8300,7 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.LocalizedFibreSets.exists_max_over", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsUnimodularAtIffVd", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.LocalizedFibreSets.exists_max_over", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExtOfSymmApply", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.LocalizedFibreSets.exists_max_over", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_UnimodularOfMemGenusOrtho", "via": ["solution", "statement"]}
-{"parent": "Arxiv2012_05254.closure_phase_from_height", "child": "Arxiv2012_05254_Basic", "via": ["statement"]}
+{"parent": "Arxiv2012_05254.closure_phase_from_height", "child": "Arxiv2012_05254_Basic", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.LocalField.mk_classRep", "child": "GroundTheory_LocalFields_BrauerInductionLocal", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.LocalField.mk_classRep", "child": "GroundTheory_LocalFields_BrauerInductionPrime", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RowStab.star_mem_one", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_NormalFormDualOrthogonalLast", "via": ["solution", "statement"]}
@@ -12551,7 +12551,7 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_measurable_chartDens_139c3ef937de", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PCutOffBoundaryBound", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_measurable_chartDens_139c3ef937de", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PSheetSumMeasurable", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_measurable_chartDens_139c3ef937de", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StCutOffBoundaryBound", "via": ["solution", "statement"]}
-{"parent": "Arxiv2012_05254.single_element_error_slides_pattern", "child": "Arxiv2012_05254_Basic", "via": ["statement"]}
+{"parent": "Arxiv2012_05254.single_element_error_slides_pattern", "child": "Arxiv2012_05254_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BrauerZero.step_ind_one_sub_index_of_comm", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_OneMemClosureInducedCentralByPrimePower", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BrauerZero.step_ind_one_sub_index_of_comm", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_InducedOneSubIndexMemDegreeOneCharacterDiffStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BrauerZero.step_ind_one_sub_index_of_comm", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IndApplyOne", "via": ["solution", "statement"]}
@@ -13872,7 +13872,7 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_classList_single_add_341e4fbacfc8", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PSpecialQuotDim", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_classList_single_add_341e4fbacfc8", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_IsMultiHomogIdealSpanSingleton", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_classList_single_add_341e4fbacfc8", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PSpecialIdealMultiHomog", "via": ["solution", "statement"]}
-{"parent": "Arxiv2012_05254.single_element_error_shifts_fringes", "child": "Arxiv2012_05254_Basic", "via": ["statement"]}
+{"parent": "Arxiv2012_05254.single_element_error_shifts_fringes", "child": "Arxiv2012_05254_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_ThetaLogIsSubst", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_ThetaLogIsSubstitution", "via": ["statement"]}
 {"parent": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_ThetaLogIsSubst", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_StatementN", "via": ["statement"]}
 {"parent": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_ThetaLogIsSubst", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_KernelFromKOneK", "via": ["statement"]}

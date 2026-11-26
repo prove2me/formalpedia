@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1706_02824_eq23_coherent_state_intensity_product
 -- name    : Arxiv1706_02824.eq23_coherent_state_intensity_product
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T01:22:53.666432+00:00
 -- url     : https://prove2.me/theorems/8ac8ec70-435f-420c-af57-b65bf5f7a4fe

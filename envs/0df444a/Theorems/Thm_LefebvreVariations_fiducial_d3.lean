@@ -24,6 +24,10 @@
 --   Equivalently, the nine vectors $D_{a,b}\psi$ form a symmetric informationally complete POVM (SIC-POVM) in $\mathbb C^3$. Zauner's conjecture asserts that such a fiducial exists in every dimension $d$; the cases $d=1,2$ are already on the platform, and this settles $d=3$ in the same formulation.
 --
 --   **Formalization Note** The statement has exactly the form of `WeylHeisenbergSIC.fiducial_exists` at $d=3$: the displacement phase is `ZMod.stdAddChar (b*x)`, and the right-hand side is written $((3:\mathbb N)+1)^{-1}$.
+--
+--   **Why this is a variation.** This varies Zauner's conjecture on SIC-POVMs, which asserts that a Weyl–Heisenberg fiducial vector exists in every dimension $d$. It is the first non-trivial size, $d=3$, where the vector $(0,1,-1)/\sqrt2$ has squared overlap $1/(d+1)=1/4$ with all eight nonidentity displacements. It is one of the finite cases that the general conjecture must contain and that guides the search for a uniform construction.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   G. Zauner, Quantendesigns – Grundzüge einer nichtkommutativen Designtheorie, PhD thesis, University of Vienna, 1999 (conjecture; low-dimensional fiducials); J. M. Renes, R. Blume-Kohout, A. J. Scott, C. M. Caves, Symmetric informationally complete quantum measurements, J. Math. Phys. 45 (2004), 2171–2180 (SIC-POVMs in low dimensions, including d = 3). The vector (0, 1, −1)/√2 is a member of the known one-parameter family of d = 3 fiducials. Parent problem: WeylHeisenbergSIC.fiducial_exists (Zauner's conjecture).
 

@@ -18,6 +18,10 @@
 --   where the sum runs over all divisibility chains in $\{2,\dots,N\}$ and $M(N)=\sum_{n\le N}\mu(n)$ is the Mertens function.
 --
 --   The identity is an instance of Hall's theorem expressing the Möbius function of a poset as an alternating count of chains, applied to the divisibility order on $\{1,\dots,N\}$. It converts the Mertens-function criterion for the Riemann Hypothesis into a statement about signed counts of divisibility chains, and is unconditional.
+--
+--   **Why this is a variation.** This varies the Riemann hypothesis in its Mertens form, via the divisibility-cycle reduction of the platform's Broughan statement: the signed count of nonempty divisibility chains in $\{2,\dots,N\}$ equals $M(N)-1$, where $M$ is the Mertens function. It is a key lemma, an exact identity rather than a special case. Using it turns the growth of $M(N)$, which governs the Riemann hypothesis, into a statement about counting chains of integers.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   P. Hall, The Eulerian functions of a group, Quart. J. Math. 7 (1936), 134–151 (Möbius function of a poset as an alternating sum over chains), applied to the divisibility order; the divisibility-chain equivalent of the Riemann Hypothesis is in K. Broughan, Equivalents of the Riemann Hypothesis, Vol. 1, Cambridge Univ. Press, 2017. Parent problem: BroughanRH.divisibilityCycles.
 

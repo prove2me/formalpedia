@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepONetUniversal_number_of_sensors
 -- name    : DeepONetUniversal.number_of_sensors
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:37:35.490927+00:00
 -- url     : https://prove2.me/theorems/fef24e43-05b3-411c-810e-1f51c821f7c8

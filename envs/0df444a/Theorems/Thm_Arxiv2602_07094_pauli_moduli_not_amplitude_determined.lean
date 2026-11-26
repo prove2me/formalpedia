@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2602_07094_pauli_moduli_not_amplitude_determined
 -- name    : Arxiv2602_07094.pauli_moduli_not_amplitude_determined
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:38:52.9558+00:00
 -- url     : https://prove2.me/theorems/442720b9-30db-56ff-b45b-089c577b9382

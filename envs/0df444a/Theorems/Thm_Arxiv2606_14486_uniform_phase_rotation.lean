@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2606_14486_uniform_phase_rotation
 -- name    : Arxiv2606_14486.uniform_phase_rotation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:11:13.958213+00:00
 -- url     : https://prove2.me/theorems/ee10f260-4244-490f-bd3f-44037f519e4e

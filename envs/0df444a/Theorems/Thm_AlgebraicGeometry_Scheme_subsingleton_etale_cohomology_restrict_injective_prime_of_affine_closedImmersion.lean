@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_subsingleton_etale_cohomology_restrict_injective_prime_of_affine_closedImmersion
 -- name    : AlgebraicGeometry.Scheme.subsingleton_etale_cohomology_restrict_injective_prime_of_affine_closedImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T04:23:50.121262+00:00
 -- url     : https://prove2.me/theorems/1b8a0d7a-a6ef-4122-8682-c4f439cc7a77

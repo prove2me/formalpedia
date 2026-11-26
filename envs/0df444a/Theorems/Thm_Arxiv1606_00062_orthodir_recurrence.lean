@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1606_00062_orthodir_recurrence
 -- name    : Arxiv1606_00062.orthodir_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T22:26:00.612308+00:00
 -- url     : https://prove2.me/theorems/4aabf9f7-1de7-448a-a5af-e22cd78a8d72

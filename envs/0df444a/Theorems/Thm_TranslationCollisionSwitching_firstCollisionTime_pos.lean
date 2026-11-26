@@ -1,0 +1,47 @@
+-- Prove2me | Theorems.Thm_TranslationCollisionSwitching_firstCollisionTime_pos
+-- name    : TranslationCollisionSwitching.firstCollisionTime_pos
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-25T23:08:43.44796+00:00
+-- url     : https://prove2.me/theorems/17429710-30d6-4c17-a847-1603cc2e69fc
+-- title:
+--   Translation Collision Switching: first Collision Time pos
+-- statement:
+--   The Translation Collision Switching construction uses the first Collision Time pos property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/benjamin-dozier/birthday-nonbacktracking/blob/7f4be1aae157cadcbb9511bd6b9ee187d60fb662/Solution.lean#L3083-L3086
+-- source:
+--   https://github.com/benjamin-dozier/birthday-nonbacktracking/blob/7f4be1aae157cadcbb9511bd6b9ee187d60fb662/Solution.lean#L3083-L3086
+
+module
+public import Mathlib.Algebra.Order.Ring.Star
+public import Mathlib.Algebra.Order.Star.Real
+public import Mathlib.Data.Int.Star
+public import Mathlib.Combinatorics.Graph.Basic
+public import Mathlib.Combinatorics.SimpleGraph.Basic
+public import Mathlib.GroupTheory.OrderOfElement
+public import Mathlib.Tactic.FinCases
+public import Definitions.Def_BirthdayNonbacktracking_Solution
+set_option autoImplicit true
+@[expose] public section
+public section
+set_option linter.unusedSectionVars false
+set_option linter.unusedSimpArgs false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+set_option linter.unnecessarySeqFocus false
+set_option linter.unusedSectionVars false
+set_option linter.unusedSectionVars false
+set_option linter.unusedSectionVars false
+set_option linter.unusedSectionVars false
+open TranslationCollisionSwitching
+open TranslationReversal TranslationIntegration
+noncomputable section
+variable {V : Type*} [Fintype V]
+variable {d : ℕ} [NeZero d]
+variable (G : SimpleGraph V) (hG : IsRegularOfDegree G d)
+attribute [local instance] TranslationCollisionSwitching.graphAdjDecidable
+attribute [local instance] TranslationCollisionSwitching.vertexDecidableEq
+
+theorem TranslationCollisionSwitching.firstCollisionTime_pos (start : OrientedEdge G) (rho : RotationSystem d V) :
+    0 < firstCollisionTime (d := d) G hG start rho := by sorry

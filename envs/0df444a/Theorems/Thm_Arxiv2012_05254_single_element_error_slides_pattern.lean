@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2012_05254_single_element_error_slides_pattern
 -- name    : Arxiv2012_05254.single_element_error_slides_pattern
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T03:59:49.420125+00:00
 -- url     : https://prove2.me/theorems/82e8af53-8f04-56ad-8923-ef2a1cc999e1

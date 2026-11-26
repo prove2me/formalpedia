@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise49GeneralBvDownwardPersistence
 -- name    : Kyprianou.Ch04.exercise49GeneralBvDownwardPersistence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T22:30:28.702197+00:00
 -- url     : https://prove2.me/theorems/626db5db-a1d8-43b6-9264-66a24439392a

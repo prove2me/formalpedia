@@ -20,6 +20,10 @@
 --   Tunnell proved that every congruent $n$ satisfies $2A(n)=B(n)$, and that the converse follows from the Birch–Swinnerton-Dyer conjecture; the converse is open in general. Here it is established unconditionally for odd $n\le100$: the identity holds for exactly the twenty-four values $5,7,13,15,21,23,29,31,37,39,41,47,53,55,61,65,69,71,77,79,85,87,93,95$, and an explicit rational point is given for each (for instance $(45,300)$ for $n=5$). Together with the even case, Tunnell's converse is thereby verified for every squarefree $n\le100$.
 --
 --   **Formalization Note** The counts are `Set.ncard` of integer solution sets, as in the parent statement; for the other odd squarefree $n\le100$ the identity fails and the implication holds vacuously.
+--
+--   **Why this is a variation.** This varies the open converse of Tunnell's theorem on congruent numbers (`Tunnell.odd_count_implies_curve_point`): if the counting identity holds for an odd squarefree $n$, then $y^2=x^3-n^2x$ has a nonzero rational point. Tunnell proved the converse only conditionally on the Birch–Swinnerton-Dyer conjecture; this is the unconditional partial result for all odd squarefree $n\le 100$. It checks the converse on the first range of the congruent number problem, where the identity holds for exactly twenty-four values, each with an explicit rational point.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   J. B. Tunnell, A classical Diophantine problem and modular forms of weight 3/2, Invent. Math. 72 (1983), 323–334 (if n is congruent then the counting identity holds; the converse follows from the Birch–Swinnerton-Dyer conjecture); N. Koblitz, Introduction to Elliptic Curves and Modular Forms, 2nd ed., Springer GTM 97, 1993. Parent problem: Tunnell.odd_count_implies_curve_point.
 

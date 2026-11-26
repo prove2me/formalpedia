@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:13:27.836845+00:00
 -- url     : https://prove2.me/theorems/30bb194e-bc40-436a-8158-b166f3ac3523
 -- title:
---   Lefebvre's variations: the Fano matroid is not representable over odd characteristic
+--   Lefebvre's variations, No. 41 — on a theme by Rota: the Fano matroid is not representable over odd characteristic
 -- statement:
 --   This shows that the Fano matroid is an obstruction to representability over fields of odd characteristic.
 --
@@ -20,6 +20,10 @@
 --   The Fano matroid is one of the excluded minors for ternary representability (the case $q=3$ of Rota's conjecture); this statement records why it is excluded for every odd $q$.
 --
 --   **Formalization Note** $F_7$ is given by its independent sets on `Fin 7`; representability is the mission's `IsGFRepresentable p m`.
+--
+--   **Why this is a variation.** This varies Rota's conjecture on excluded minors of the matroids representable over $\mathrm{GF}(q)$. It is a key case: the Fano matroid $F_7$ is representable over a field only in characteristic 2, so it is not $\mathrm{GF}(q)$-representable for any odd prime power $q$, which makes it an excluded minor for those fields. It supplies one of the explicit obstructions that the parent's finite list of excluded minors must contain.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   Standard fact that the Fano matroid F_7 is F-representable if and only if the characteristic of F is 2: J. Oxley, Matroid Theory, 2nd ed., Oxford University Press, 2011, Chapter 6 (Representable matroids; proposition number not verified). Excluded minors for GF(3): R. E. Bixby, On Reid's characterization of the ternary matroids, J. Combin. Theory Ser. B 26 (1979), 174–204, and P. D. Seymour, Matroid representation over GF(3), J. Combin. Theory Ser. B 26 (1979), 159–173. Parent problem: TenChallenges.challenge_02 (Rota's conjecture).
 

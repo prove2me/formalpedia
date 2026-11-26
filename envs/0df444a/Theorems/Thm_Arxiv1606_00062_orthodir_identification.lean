@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1606_00062_orthodir_identification
 -- name    : Arxiv1606_00062.orthodir_identification
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T22:32:02.090536+00:00
 -- url     : https://prove2.me/theorems/5f210f70-c5b3-4ad6-ac7d-8cbbce744a11

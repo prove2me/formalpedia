@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2012_05254_single_element_error_shifts_fringes
 -- name    : Arxiv2012_05254.single_element_error_shifts_fringes
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T03:55:45.867855+00:00
 -- url     : https://prove2.me/theorems/6f295bb9-c7a6-405d-82b4-69f8e9262f06

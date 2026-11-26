@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_stationaryWorkload_transientHighTraffic
 -- name    : Kyprianou.Ch04.stationaryWorkload_transientHighTraffic
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T13:03:08.792164+00:00
 -- url     : https://prove2.me/theorems/9423d3e4-3062-4788-b622-6047ee14876e

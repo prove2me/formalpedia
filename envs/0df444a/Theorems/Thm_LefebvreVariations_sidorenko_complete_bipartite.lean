@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:10:36.850265+00:00
 -- url     : https://prove2.me/theorems/a631e61d-2807-46ab-841f-36208f35d357
 -- title:
---   Lefebvre's variations: Sidorenko's conjecture for every complete bipartite graph
+--   Lefebvre's variations, No. 40 — on a theme by Sidorenko: Sidorenko's conjecture for every complete bipartite graph
 -- statement:
 --   This is Sidorenko's conjecture for every complete bipartite graph.
 --
@@ -20,6 +20,10 @@
 --   Sidorenko's conjecture asserts $t(H,G)\ge t(K_2,G)^{e(H)}$ for every bipartite $H$; the complete bipartite graphs were among the first families for which it was proved, and the platform's open cases concern other bipartite graphs with bounded sides. This statement subsumes the stars $K_{1,t}$ and the graphs $K_{2,t}$.
 --
 --   **Formalization Note** $K_{s,t}$ is `completeBipartiteGraph (Fin s) (Fin t)` and `SidorenkoFor` is the mission's definition; the degenerate cases $s=0$ or $t=0$ are included, where both sides equal $1$.
+--
+--   **Why this is a variation.** This varies Sidorenko's conjecture (`TenChallenges.challenge_04`): $t(H,G)\ge t(K_2,G)^{e(H)}$ for every bipartite graph $H$. It is the special case of all complete bipartite graphs $K_{s,t}$, a classical family for which the inequality is known, and it contains the stars $K_{1,t}$ and the graphs $K_{2,t}$. Settling it covers a whole family of bipartite $H$ at once, which narrows the open cases of the parent to bipartite graphs that are not complete bipartite.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   A. F. Sidorenko, A correlation inequality for bipartite graphs, Graphs and Combinatorics 9 (1993), 201–204 (Sidorenko's conjecture and its proof for complete bipartite graphs, trees and even cycles); see also L. Lovász, Large Networks and Graph Limits, AMS Colloquium Publications 60, 2012, Section 2.1. Parent problem: TenChallenges.challenge_04 (Sidorenko's conjecture).
 

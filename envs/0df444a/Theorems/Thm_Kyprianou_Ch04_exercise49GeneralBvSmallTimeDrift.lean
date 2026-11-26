@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise49GeneralBvSmallTimeDrift
 -- name    : Kyprianou.Ch04.exercise49GeneralBvSmallTimeDrift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T22:29:54.803632+00:00
 -- url     : https://prove2.me/theorems/fdc529bb-b4bb-4bfd-8c60-7e7aaff9cf6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1706_02824_eq28_coherent_state_source_plane
 -- name    : Arxiv1706_02824.eq28_coherent_state_source_plane
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T01:40:24.546346+00:00
 -- url     : https://prove2.me/theorems/e38f746c-1bd2-5ddb-83da-9b7b2064f366

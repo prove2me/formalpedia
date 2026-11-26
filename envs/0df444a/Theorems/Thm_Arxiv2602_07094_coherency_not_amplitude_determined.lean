@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2602_07094_coherency_not_amplitude_determined
 -- name    : Arxiv2602_07094.coherency_not_amplitude_determined
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:39:16.708286+00:00
 -- url     : https://prove2.me/theorems/767bda80-ad95-5be9-b9dd-9e430ed505ba

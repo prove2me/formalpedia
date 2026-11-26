@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SSLMultiView_mutualInfo_task_lower_bound
 -- name    : SSLMultiView.mutualInfo_task_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T18:40:39.008722+00:00
 -- url     : https://prove2.me/theorems/2015507a-f77a-4c2c-984e-030cc78e2c94

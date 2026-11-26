@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_mono_effacing_etale_cohomology_of_affine_closed_immersion
 -- name    : AlgebraicGeometry.Scheme.exists_mono_effacing_etale_cohomology_of_affine_closed_immersion
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T22:44:06.26543+00:00
 -- url     : https://prove2.me/theorems/e1aae950-fe28-4bce-b7b9-fadf4996aaa4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09234_conventional_fwi_special_case
 -- name    : Arxiv2205_09234.conventional_fwi_special_case
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T16:14:24.641853+00:00
 -- url     : https://prove2.me/theorems/d11d117c-063d-474c-8afe-12f43a4c4cb4

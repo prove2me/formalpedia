@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepONetUniversal_universal_approximation_operator
 -- name    : DeepONetUniversal.universal_approximation_operator
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:34:13.033131+00:00
 -- url     : https://prove2.me/theorems/eff18484-48a9-4d79-850c-6989ee087f0e

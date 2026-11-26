@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_overloadedInput_tendsto_atBot
 -- name    : Kyprianou.Ch04.overloadedInput_tendsto_atBot
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T15:15:45.310614+00:00
 -- url     : https://prove2.me/theorems/7f7f987e-e008-4a0f-bb79-f5f7bbcd24a2

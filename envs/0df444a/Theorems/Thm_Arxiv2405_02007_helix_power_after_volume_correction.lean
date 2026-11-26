@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2405_02007_helix_power_after_volume_correction
 -- name    : Arxiv2405_02007.helix_power_after_volume_correction
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T17:06:48.179399+00:00
 -- url     : https://prove2.me/theorems/f4dbd495-ba33-597b-a61e-c4d2c69ae069

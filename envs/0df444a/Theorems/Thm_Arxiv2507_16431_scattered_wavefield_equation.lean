@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2507_16431_scattered_wavefield_equation
 -- name    : Arxiv2507_16431.scattered_wavefield_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:36:54.674038+00:00
 -- url     : https://prove2.me/theorems/eaafd908-8f5b-53d7-b8d1-a8e23c763b52

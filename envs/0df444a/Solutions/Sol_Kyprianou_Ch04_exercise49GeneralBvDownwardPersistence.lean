@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.exercise49GeneralBvDownwardPersistence
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T17:42:59.959682+00:00
 -- url     : https://prove2.me/submissions/eb412f23-dfdf-4401-8271-b0e410b7dd2f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

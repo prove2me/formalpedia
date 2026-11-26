@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepONetUniversal_arzela_ascoli
 -- name    : DeepONetUniversal.arzela_ascoli
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:32:27.184614+00:00
 -- url     : https://prove2.me/theorems/ebebb160-b0bd-4360-952b-1a0f64e4d6bd

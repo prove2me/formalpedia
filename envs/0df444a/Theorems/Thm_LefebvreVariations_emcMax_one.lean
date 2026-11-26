@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:24:16.224794+00:00
 -- url     : https://prove2.me/theorems/198f632e-a76b-4fd8-aa5b-64355101a699
 -- title:
---   Lefebvre's variations: the Erdős matching conjecture at s = 1 (Erdős–Ko–Rado)
+--   Lefebvre's variations, No. 49 — on a theme by Erdős, Ko and Rado: the Erdős matching conjecture at s = 1 (Erdős–Ko–Rado)
 -- statement:
 --   This is the Erdős–Ko–Rado theorem in the formulation of the Erdős Matching Conjecture at $s=1$.
 --
@@ -20,6 +20,10 @@
 --   The Erdős Matching Conjecture asserts that for matching number at most $s$ and $n\ge(s+1)k$ the maximum is $\binom nk-\binom{n-s}k$ (the family of sets meeting a fixed $s$-set) or the clique alternative for smaller $n$; the case $s=1$ is the Erdős–Ko–Rado theorem, which ties the platform's formulation to the classical result.
 --
 --   **Formalization Note** The maximum is the mission's `emcMax n k s`, over families of $k$-subsets of $\{1,\dots,n\}$ with matching number at most $s$.
+--
+--   **Why this is a variation.** This varies the Erdős Matching Conjecture, which gives the maximum size of a family of $k$-subsets of $[n]$ with no $s+1$ pairwise disjoint members. It is the case $s=1$, the first size of the parent, which is exactly the Erdős–Ko–Rado theorem: the maximum is $\binom{n}{k}-\binom{n-1}{k}$. It anchors the parent's formula at its smallest parameter.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   P. Erdős, C. Ko and R. Rado, Intersection theorems for systems of finite sets, Quart. J. Math. Oxford Ser. (2) 12 (1961), 313–320; the conjecture: P. Erdős, A problem on independent r-tuples, Ann. Univ. Sci. Budapest. Eötvös Sect. Math. 8 (1965), 93–95. Parent problem: FranklKupavskii2022.EMC (Erdős matching conjecture).
 

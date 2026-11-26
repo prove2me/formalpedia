@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42SupremumChangeOfVariables
 -- name    : Kyprianou.Ch04.exercise42SupremumChangeOfVariables
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T22:29:28.378258+00:00
 -- url     : https://prove2.me/theorems/2c890074-cb8e-4005-80b9-a41cfa5cde2c

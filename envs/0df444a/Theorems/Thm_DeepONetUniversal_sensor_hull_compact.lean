@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepONetUniversal_sensor_hull_compact
 -- name    : DeepONetUniversal.sensor_hull_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:36:37.779258+00:00
 -- url     : https://prove2.me/theorems/a81ef35b-9990-4e94-baae-b29bc08a38a7

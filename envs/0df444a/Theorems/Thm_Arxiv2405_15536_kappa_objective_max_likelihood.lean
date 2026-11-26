@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2405_15536_kappa_objective_max_likelihood
 -- name    : Arxiv2405_15536.kappa_objective_max_likelihood
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:22:17.295549+00:00
 -- url     : https://prove2.me/theorems/94e8a019-58dd-4e1d-a1c7-167ca5e3d937

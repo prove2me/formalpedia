@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.exercise_4_2_complete
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T12:58:28.336828+00:00
 -- url     : https://prove2.me/submissions/ad93eafc-63b9-44ab-bb89-348277ea4133
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch04_Exercise4_2Certification

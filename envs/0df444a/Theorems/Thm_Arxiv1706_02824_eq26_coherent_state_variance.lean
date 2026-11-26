@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1706_02824_eq26_coherent_state_variance
 -- name    : Arxiv1706_02824.eq26_coherent_state_variance
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T01:31:57.394795+00:00
 -- url     : https://prove2.me/theorems/e7f813ed-a7d2-4c2e-8a34-dcc981bcd55d

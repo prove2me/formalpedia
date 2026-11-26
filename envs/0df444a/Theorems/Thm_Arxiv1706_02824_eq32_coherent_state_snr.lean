@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1706_02824_eq32_coherent_state_snr
 -- name    : Arxiv1706_02824.eq32_coherent_state_snr
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T01:55:56.303907+00:00
 -- url     : https://prove2.me/theorems/383fb628-e841-4bcd-9fe7-881e9de4ab4e

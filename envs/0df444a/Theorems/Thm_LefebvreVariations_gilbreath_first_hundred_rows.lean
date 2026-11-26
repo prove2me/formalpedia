@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:46:52.691114+00:00
 -- url     : https://prove2.me/theorems/66dd3b2b-a4a8-4f04-a796-988a8efd5095
 -- title:
---   Lefebvre's variations: Gilbreath's conjecture for the first hundred rows
+--   Lefebvre's variations, No. 34 — on a theme by Gilbreath: Gilbreath's conjecture for the first hundred rows
 -- statement:
 --   This verifies Gilbreath's conjecture for the first hundred rows.
 --
@@ -18,6 +18,10 @@
 --   Gilbreath's conjecture asserts $d_k(0)=1$ for every $k\ge1$; it has been checked numerically far beyond this range (Odlyzko) but is open. The first hundred rows involve only the first $101$ primes, up to $547$, and are certified here by exact computation, extending the platform's verification of the first four rows.
 --
 --   **Formalization Note** The triangle is the mission's `d k i` built from `Nat.nth Nat.Prime`; the proof identifies the first $101$ values of `Nat.nth Nat.Prime` with an explicit list.
+--
+--   **Why this is a variation.** This varies Gilbreath's conjecture, that every row of the triangle of iterated absolute differences of the primes starts with 1. It is a finite partial result: the first 100 rows, which involve only the primes up to 547. It checks the parent's claim on its first stretch and fixes the explicit definitions on which any general argument would be tested.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   Conjecture: N. L. Gilbreath (1958), see R. B. Killgrove and K. E. Ralston, On a conjecture concerning the primes, Math. Tables Aids Comput. 13 (1959), 121–122 (verification of the first 63 419 rows); A. M. Odlyzko, Iterated absolute values of differences of consecutive primes, Math. Comp. 61 (1993), 373–380. Parent problem: Gilbreath.gilbreath_conjecture.
 

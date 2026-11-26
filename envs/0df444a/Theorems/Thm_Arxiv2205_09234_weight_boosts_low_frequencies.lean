@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09234_weight_boosts_low_frequencies
 -- name    : Arxiv2205_09234.weight_boosts_low_frequencies
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T15:58:43.674226+00:00
 -- url     : https://prove2.me/theorems/060e1b43-1f94-41e6-b2b1-b48a63de2fd0

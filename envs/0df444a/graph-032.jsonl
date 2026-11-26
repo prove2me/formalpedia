@@ -35156,7 +35156,7 @@
 {"parent": "QMAPerfectCompleteness.Main.VariableAddition.Layout.carryPrefix_carry", "child": "QMAPerfectCompleteness_Proof_ComparisonCircuits", "via": ["solution", "statement"]}
 {"parent": "QMAPerfectCompleteness.Main.VariableAddition.Layout.carryPrefix_carry", "child": "QMAPerfectCompleteness_Proof_ReversibleGadgets", "via": ["solution", "statement"]}
 {"parent": "QMAPerfectCompleteness.Main.VariableAddition.Layout.carryPrefix_carry", "child": "QMAPerfectCompleteness_Proof_ControlCircuits", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.kellaWhittTrueMartingale", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.kellaWhittTrueMartingale", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_b24_original_intrinsic_marked_mesh_weight_perturbation_L1_variation_bound", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_b24_original_intrinsic_marked_mesh_weight_perturbation_L1_variation_bound", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_small_band_compensated", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_b24_original_unmarked_ordered_physical_real_drift_gaussian_split", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_large_jump_sum", "via": ["solution", "statement"]}
@@ -40598,9 +40598,9 @@
 {"parent": "AppliedSDE.SarkkaSolin.girsanov_shifted_pre_brownian_core", "child": "KLSModular_LevyStochCalc_Brownian_Filtered", "via": ["statement"]}
 {"parent": "AppliedSDE.SarkkaSolin.girsanov_shifted_pre_brownian_core", "child": "KLSModular_LevyStochCalc_Brownian_ItoL2CompletionMaster", "via": ["statement"]}
 {"parent": "DiazModulus.dalag_cor_12_22", "child": "DiazModulus", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.exercise49GeneralBvSmallTimeDrift", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise49GeneralBvSmallTimeDrift", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise49GeneralBvSmallTimeDrift", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise49GeneralBvSmallTimeDrift", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise49GeneralBvSmallTimeDrift", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise49GeneralBvSmallTimeDrift", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a326_original_true_large_combined_positive_source_integrable", "child": "AvramDividend.Classical.avram_ga_a319_original_true_fullcell_rare_positive_two_source_all_mesh_bound", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a326_original_true_large_combined_positive_source_integrable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a326_original_true_large_combined_positive_source_integrable", "child": "AvramDividend.Classical.avram_ga_a325_nonnegative_measurable_Gaussian_source_integrable_two_positive_tail_majorant", "via": ["solution", "statement"]}

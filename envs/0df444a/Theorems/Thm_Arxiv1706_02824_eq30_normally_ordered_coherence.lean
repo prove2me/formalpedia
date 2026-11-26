@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1706_02824_eq30_normally_ordered_coherence
 -- name    : Arxiv1706_02824.eq30_normally_ordered_coherence
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T01:45:08.273449+00:00
 -- url     : https://prove2.me/theorems/dfb12d29-41bd-47c6-aaea-be5a8e904c42

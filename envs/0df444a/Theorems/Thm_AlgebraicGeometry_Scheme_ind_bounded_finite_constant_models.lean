@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_ind_bounded_finite_constant_models
 -- name    : AlgebraicGeometry.Scheme.ind_bounded_finite_constant_models
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-25T08:41:07.698129+00:00
 -- url     : https://prove2.me/theorems/9f081fd5-95eb-59f0-ad4e-32302feb5c4b

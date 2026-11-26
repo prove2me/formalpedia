@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1811_00800_eq6_poisson_enhancement
 -- name    : Arxiv1811_00800.eq6_poisson_enhancement
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T20:45:32.299188+00:00
 -- url     : https://prove2.me/theorems/08019f8f-9ad9-5d70-bc3c-c69aa3c431bb

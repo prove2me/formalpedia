@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivmath_ph_0108008_wronskP_has_positive_zero
 -- name    : Arxivmath_ph_0108008.wronskP_has_positive_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:36:36.665319+00:00
 -- url     : https://prove2.me/theorems/53907793-56b8-5ef6-a582-01742f8afab1

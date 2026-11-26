@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2606_14486_reciprocity_implications
 -- name    : Arxiv2606_14486.reciprocity_implications
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:10:19.70208+00:00
 -- url     : https://prove2.me/theorems/d7b1d026-d18c-5e49-92ab-6651d945864e

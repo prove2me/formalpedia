@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2608_05214_surface_decomposition_angle
 -- name    : Arxiv2608_05214.surface_decomposition_angle
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:19:33.401809+00:00
 -- url     : https://prove2.me/theorems/33bd33d8-0e2f-564b-87ce-5da16d55f25f

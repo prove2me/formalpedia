@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AlgebraicGeometry.Scheme.exists_mono_effacing_etale_cohomology_of_affine_closed_immersion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-11-25T00:01:22.509849+00:00
 -- url     : https://prove2.me/submissions/6f221199-f647-4da1-83b8-98ee95510986
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AlgebraicGeometry_EtaleFiniteSectionLifts
 import Definitions.Def_AlgebraicGeometry_EtalePullbackAcyclicResolution

@@ -18,6 +18,10 @@
 --   Ryser's conjecture asserts $\tau(H)\le (r-1)\,\nu(H)$ for every $r$-partite $r$-uniform hypergraph; for $r=3$ it is a theorem of Aharoni, and the statement above is its case $\nu(H)=1$ (when $H$ has no edge, $\tau(H)=0$). The intersecting case is the base configuration that the general argument for $r=3$ and the open cases $r\ge4$ build on.
 --
 --   **Formalization Note** The hypergraph, uniformity, partiteness and cover number are the mission's `FinHypergraph`, `IsUniform`, `IsPartite` and `coverNumber`. Pairwise intersection is stated directly on the edges; the empty hypergraph is allowed.
+--
+--   **Why this is a variation.** This varies Ryser's conjecture (`TenChallenges.challenge_08`): every $r$-partite $r$-uniform hypergraph has a vertex cover of size at most $(r-1)$ times its matching number. It is the special case $r=3$ with matching number $1$, that is a $3$-partite $3$-uniform hypergraph whose edges pairwise intersect, which must have a cover of size at most $2$. This intersecting case is the base configuration for larger matching numbers and for the open cases $r\ge 4$.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   Special case (matching number 1) of: R. Aharoni, Ryser's conjecture for tripartite 3-graphs, Combinatorica 21 (2001), no. 1, 1–4 (τ ≤ 2ν for every 3-partite 3-uniform hypergraph). Conjecture: H. J. Ryser (1971), as stated in J. R. Henderson, Permutation decompositions of (0,1)-matrices and decomposition transversals, PhD thesis, Caltech, 1971. Parent problem: TenChallenges.challenge_08 (Ryser's conjecture).
 

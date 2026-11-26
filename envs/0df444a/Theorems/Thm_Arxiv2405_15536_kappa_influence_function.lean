@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2405_15536_kappa_influence_function
 -- name    : Arxiv2405_15536.kappa_influence_function
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:31:13.650015+00:00
 -- url     : https://prove2.me/theorems/0d5efd1b-3c21-5856-b782-82bc2d08b722

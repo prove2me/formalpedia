@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosDyadic_dilate_density
 -- name    : ErdosDyadic.dilate_density
--- status  : Open
+-- status  : Proved
 -- author  : @Jhon Lenin Acuna
 -- created : 2026-11-25T04:30:49.616267+00:00
 -- url     : https://prove2.me/theorems/9e586ae0-629e-5f15-8ee6-152fcb06b2dc

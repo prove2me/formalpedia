@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SSLMultiView_cmi_input_decomposition
 -- name    : SSLMultiView.cmi_input_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T18:29:07.137067+00:00
 -- url     : https://prove2.me/theorems/2947035e-e453-4cc1-8339-238e881ce787

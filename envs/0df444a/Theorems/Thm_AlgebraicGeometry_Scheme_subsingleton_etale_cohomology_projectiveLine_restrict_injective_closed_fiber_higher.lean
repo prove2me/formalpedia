@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_subsingleton_etale_cohomology_projectiveLine_restrict_injective_closed_fiber_higher
 -- name    : AlgebraicGeometry.Scheme.subsingleton_etale_cohomology_projectiveLine_restrict_injective_closed_fiber_higher
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T04:10:10.543154+00:00
 -- url     : https://prove2.me/theorems/e73cb0c0-a19a-45a8-976e-17c9de09e89b

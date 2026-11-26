@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AlgebraicGeometry.Scheme.subsingleton_etale_cohomology_restrict_injective_prime_of_affine_closedImmersion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-11-24T22:12:41.346324+00:00
 -- url     : https://prove2.me/submissions/12293b79-bc14-49e3-b978-ab6cd83068da
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AlgebraicGeometry_EtaleFiniteSectionLifts
 import Definitions.Def_AlgebraicGeometry_EtalePullbackAcyclicResolution

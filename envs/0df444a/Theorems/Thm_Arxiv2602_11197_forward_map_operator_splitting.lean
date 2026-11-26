@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2602_11197_forward_map_operator_splitting
 -- name    : Arxiv2602_11197.forward_map_operator_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T20:17:44.120381+00:00
 -- url     : https://prove2.me/theorems/b7d64c90-b38f-5f1c-8c52-5e8565b6e52c

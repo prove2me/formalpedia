@@ -20,6 +20,10 @@
 --   This is the smallest non-abelian instance of the inverse Galois problem, which asks whether every finite group occurs as a Galois group over $\mathbb Q$.
 --
 --   **Formalization Note** Realizability is the mission's `InverseGalois.IsRealizable ℚ G` with $G$ = `Equiv.Perm (Fin 3)`.
+--
+--   **Why this is a variation.** This varies the inverse Galois problem over $\mathbb Q$ (`InverseGalois.inverse_galois_problem`), which asks whether every finite group is a Galois group over $\mathbb Q$. It is the special case of the symmetric group $S_3$, the smallest non-abelian group, realized as the Galois group of the splitting field of $X^3-2$. It gives the base case of the family of symmetric groups, and the smallest non-abelian test of any general realization method.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   Classical example of the splitting field of X^3 − 2 over ℚ, whose Galois group is S_3: D. S. Dummit and R. M. Foote, Abstract Algebra, 3rd ed., Wiley, 2004, Section 14.2. All symmetric groups occur over ℚ by D. Hilbert, Über die Irreducibilität ganzer rationaler Functionen mit ganzzahligen Coefficienten, J. reine angew. Math. 110 (1892), 104–129. Parent problem: InverseGalois.inverse_galois_problem (inverse Galois problem over ℚ), symmetric-group case.
 

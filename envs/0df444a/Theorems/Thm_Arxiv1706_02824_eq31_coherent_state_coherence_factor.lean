@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1706_02824_eq31_coherent_state_coherence_factor
 -- name    : Arxiv1706_02824.eq31_coherent_state_coherence_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T01:50:13.329059+00:00
 -- url     : https://prove2.me/theorems/83f6fc0d-cebd-5320-a286-fbd94a90e6ad

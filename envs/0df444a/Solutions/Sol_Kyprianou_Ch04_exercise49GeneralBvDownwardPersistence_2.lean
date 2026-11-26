@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch04.exercise49GeneralBvDownwardPersistence
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T21:52:38.802508+00:00
 -- url     : https://prove2.me/submissions/df87eb80-5274-402d-aa87-875bcdb3b654
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch04_exercise49GeneralBvSmallTimeDrift

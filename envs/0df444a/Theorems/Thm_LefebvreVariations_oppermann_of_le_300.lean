@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:41:27.721811+00:00
 -- url     : https://prove2.me/theorems/ed2a77e6-a62d-4e39-adee-200cef738c62
 -- title:
---   Lefebvre's variations: Oppermann's conjecture for $n\le 300$
+--   Lefebvre's variations, No. 30 — on a theme by Oppermann: Oppermann's conjecture for $n\le 300$
 -- statement:
 --   This verifies Oppermann's conjecture for $2\le n\le300$.
 --
@@ -14,6 +14,10 @@
 --   Oppermann's conjecture (1882) asserts this for every $n\ge2$; it implies Legendre's conjecture (a prime between consecutive squares) and Brocard's conjecture, and remains open. Here an explicit pair of primes is given for each of the $299$ values of $n$ and each primality is certified.
 --
 --   **Formalization Note** The statement is the parent's at each $n\le300$; witnesses are the largest prime below $n^2$ and the smallest prime above $n^2$.
+--
+--   **Why this is a variation.** This varies the open Oppermann conjecture (`OppermannConjecture.oppermann`): for every $n\ge 2$ there is a prime in $(n^2-n,\,n^2)$ and one in $(n^2,\,n^2+n)$. It is the finite verification of the parent statement for $2\le n\le 300$, so a special case at small sizes, whereas the best unconditional results (Baker–Harman–Pintz) only give a prime in $[x,\,x+x^{0.525}]$. It supplies the base range of the conjecture, which would imply Legendre's and Brocard's conjectures, and rules out small counterexamples.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   L. Oppermann, Om vor Kundskab om Primtallenes Mængde mellem givne Grændser, Oversigt over det Kongelige Danske Videnskabernes Selskabs Forhandlinger (1882), 169–179 (the conjecture); the range 2 ≤ n ≤ 300 is an explicit finite verification. Parent problem: OppermannConjecture.oppermann.
 

@@ -20,6 +20,10 @@
 --   Sidorenko's conjecture asserts $t(H,G)\ge t(K_2,G)^{e(H)}$ for every bipartite $H$. The case $t=2$ ($K_{2,2}=C_4$) is classical; the family $K_{2,t}$ for all $t$ falls into the open bounded-side cases of the challenge.
 --
 --   **Formalization Note** $K_{2,t}$ is `completeBipartiteGraph (Fin 2) (Fin t)` and `SidorenkoFor` is the mission's definition; $t=0$ is included, where both sides equal $1$.
+--
+--   **Why this is a variation.** This varies Sidorenko's conjecture (`TenChallenges.challenge_04`): $t(H,G)\ge t(K_2,G)^{e(H)}$ for every bipartite graph $H$. It is the special case of the complete bipartite graphs $K_{2,t}$, whose first member $K_{2,2}=C_4$ is the classical $4$-cycle case. Settling it covers the whole two-sided family $K_{2,t}$, one of the first bounded-side cases of the parent.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   A. F. Sidorenko, A correlation inequality for bipartite graphs, Graphs and Combinatorics 9 (1993), 201–204 (Sidorenko's conjecture and its proof for complete bipartite graphs, trees and even cycles); for C_4 see also L. Lovász, Large Networks and Graph Limits, AMS Colloquium Publications 60, 2012, Section 2.1. Parent problem: TenChallenges.challenge_04 (Sidorenko's conjecture).
 

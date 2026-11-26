@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42AvramLevyTripletBridgeV1
 -- name    : Kyprianou.Ch04.exercise42AvramLevyTripletBridgeV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T08:33:00.485797+00:00
 -- url     : https://prove2.me/theorems/70c94ef5-534a-5015-a4fd-1d5cf6339f12

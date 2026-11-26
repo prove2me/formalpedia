@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2405_02007_new_degree_of_polarisation
 -- name    : Arxiv2405_02007.new_degree_of_polarisation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T16:57:47.069359+00:00
 -- url     : https://prove2.me/theorems/4fb6fca2-1f9d-4b72-95b0-2cfe4b12f51e

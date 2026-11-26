@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_negativeExponentIntegerTailBound
 -- name    : Kyprianou.Ch04.negativeExponentIntegerTailBound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T21:50:28.155888+00:00
 -- url     : https://prove2.me/theorems/7961199e-e376-4a47-8c30-7e46a786f85c

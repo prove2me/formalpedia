@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivmath_ph_0108008_wronskP_formula
 -- name    : Arxivmath_ph_0108008.wronskP_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:35:29.5668+00:00
 -- url     : https://prove2.me/theorems/bd6439b2-2fe2-5f7c-8228-a032486f453e

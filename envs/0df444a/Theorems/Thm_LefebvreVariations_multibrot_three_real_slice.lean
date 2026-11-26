@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:45:06.719098+00:00
 -- url     : https://prove2.me/theorems/38b0990e-fc0d-4b89-b6fe-4d354e5df00b
 -- title:
---   Lefebvre's variations: the real slice of the cubic Multibrot set
+--   Lefebvre's variations, No. 33 — on a theme by Douady and Hubbard: the real slice of the cubic Multibrot set
 -- statement:
 --   This is the real slice of the cubic Multibrot set.
 --
@@ -20,6 +20,10 @@
 --   This is the cubic counterpart of the real slice $[-2,\frac14]$ of the Mandelbrot set; local connectivity of the Multibrot sets is open.
 --
 --   **Formalization Note** Membership uses the mission's `Mandelbrot.multibrotSet 3`, and a real parameter $x$ is identified with $(x:\mathbb C)$.
+--
+--   **Why this is a variation.** This varies the open problem on the local connectivity of the Multibrot sets (`Mandelbrot.multibrot_locally_connected`, in the Douady–Hubbard theme). It is the real-axis slice of the cubic Multibrot set $M_3$, computed exactly as the symmetric interval $[-2/(3\sqrt3),\,2/(3\sqrt3)]$; it is a special case of the parent set at $n=3$, not the full statement. Knowing exactly where $M_3$ meets the real line pins down explicit boundary points of the set whose local connectivity is the question.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   Elementary escape estimates for unicritical polynomials z^n + c: J. Milnor, Dynamics in One Complex Variable, 3rd ed., Princeton Univ. Press, 2006; R. L. Devaney, An Introduction to Chaotic Dynamical Systems, 2nd ed., Addison-Wesley, 1989, Chapter 1 (real families x ↦ x² + c, analogous interval). Parent problem: Mandelbrot.multibrot_locally_connected.
 

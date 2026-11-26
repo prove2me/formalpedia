@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kellaWhittTrueMartingale
 -- name    : Kyprianou.Ch04.kellaWhittTrueMartingale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T22:25:00.180206+00:00
 -- url     : https://prove2.me/theorems/8636720e-9247-4d94-9159-c207ad18e6b2

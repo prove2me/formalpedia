@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2606_14486_reverse_beam_direction
 -- name    : Arxiv2606_14486.reverse_beam_direction
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:09:46.758071+00:00
 -- url     : https://prove2.me/theorems/268ade3c-5aa0-416c-a132-9d0598ed7960

@@ -20,6 +20,10 @@
 --   The number $d+1$ is the maximum possible in dimension $d$, and complete sets are known in every prime-power dimension; whether they exist in other dimensions (already $d=6$) is open. This settles the prime case in the platform's formulation.
 --
 --   **Formalization Note** Bases and unbiasedness are the mission's `DesignTest.PureVec` and `DesignTest.IsMUBFamily`; the family is indexed by `Fin (p+1)` and each basis by `Fin p`.
+--
+--   **Why this is a variation.** This varies the open Prove2Me problem on complete sets of mutually unbiased bases (`DesignTest.mub_exists_prime_power`, the Wootters–Fields theme). It is the prime case: $p+1$ mutually unbiased bases of $\mathbb C^p$ for every prime $p$, the part of the parent that needs no finite field beyond $\mathbb Z/p\mathbb Z$. Settling it reduces the parent to prime powers that are not prime, and it supplies the base case for any construction over $\mathrm{GF}(p^m)$.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   I. D. Ivanović, Geometrical description of quantal state determination, J. Phys. A 14 (1981), 3241–3245 (p + 1 mutually unbiased bases in prime dimension p); W. K. Wootters and B. D. Fields, Optimal state-determination by mutually unbiased measurements, Ann. Physics 191 (1989), 363–381 (prime-power dimensions). Parent problem: DesignTest.mub_exists_prime_power (complete sets of mutually unbiased bases).
 

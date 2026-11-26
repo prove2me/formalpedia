@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1811_00800_eq6_periodic_rebirth
 -- name    : Arxiv1811_00800.eq6_periodic_rebirth
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T20:46:42.20443+00:00
 -- url     : https://prove2.me/theorems/53c151cc-b488-4191-96d6-f994ad9d444b

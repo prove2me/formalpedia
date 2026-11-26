@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2608_05214_flux_normalised_power_flux
 -- name    : Arxiv2608_05214.flux_normalised_power_flux
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:19:05.146672+00:00
 -- url     : https://prove2.me/theorems/b5e8fccc-ffcb-5995-8fee-5bfdf9c61bbb

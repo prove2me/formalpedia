@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2012_05254_closure_phase_from_height
 -- name    : Arxiv2012_05254.closure_phase_from_height
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T03:49:40.21435+00:00
 -- url     : https://prove2.me/theorems/da5a2240-1cfc-54f1-b0f4-de0c7c868dec

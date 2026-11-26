@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42AvramIndependentIncrementsV1
 -- name    : Kyprianou.Ch04.exercise42AvramIndependentIncrementsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T22:05:38.237117+00:00
 -- url     : https://prove2.me/theorems/9d09a13b-fb1f-54c5-8bb1-a75a041daffb

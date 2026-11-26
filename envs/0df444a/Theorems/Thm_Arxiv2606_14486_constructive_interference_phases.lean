@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2606_14486_constructive_interference_phases
 -- name    : Arxiv2606_14486.constructive_interference_phases
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:08:53.21008+00:00
 -- url     : https://prove2.me/theorems/8a456569-b796-4002-bdd3-254799b4e140

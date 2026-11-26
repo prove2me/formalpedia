@@ -16,6 +16,10 @@
 --   $$
 --
 --   This identity turns the Mertens-function criterion for the Riemann Hypothesis ($M(N)=O(N^{1/2+\varepsilon})$) into a statement about the balance between squarefree integers with an even and an odd number of prime factors. It is unconditional.
+--
+--   **Why this is a variation.** This varies the open problem `BroughanRH.squarefreeParity`, the squarefree-parity equivalent of the Riemann Hypothesis in Broughan's list. It is a key lemma of the parent: the surplus of squarefree integers up to $N$ with an even number of prime factors over those with an odd number equals the Mertens function $M(N)$, unconditionally. It lets the Mertens function criterion for RH be read as a statement about the balance of even and odd squarefree integers.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   Elementary consequence of the definition of the Möbius function (μ(n) = (−1)^ω(n) for squarefree n, μ(n) = 0 otherwise): G. H. Hardy and E. M. Wright, An Introduction to the Theory of Numbers, 6th ed., Oxford Univ. Press, 2008, §16.3; the squarefree-parity equivalent of the Riemann Hypothesis is in K. Broughan, Equivalents of the Riemann Hypothesis, Vol. 1, Cambridge Univ. Press, 2017. Parent problem: BroughanRH.squarefreeParity.
 

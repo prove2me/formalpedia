@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosDyadic_copies_meet_C
 -- name    : ErdosDyadic.copies_meet_C
--- status  : Open
+-- status  : Proved
 -- author  : @Jhon Lenin Acuna
 -- created : 2026-11-25T04:37:23.38738+00:00
 -- url     : https://prove2.me/theorems/2ba65630-4e93-45a3-90c8-c24d0d528f80

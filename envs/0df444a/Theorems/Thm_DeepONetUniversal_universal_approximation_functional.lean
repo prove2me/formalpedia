@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepONetUniversal_universal_approximation_functional
 -- name    : DeepONetUniversal.universal_approximation_functional
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:32:56.832719+00:00
 -- url     : https://prove2.me/theorems/6266c56b-c9eb-4f41-9490-00f202896b4b

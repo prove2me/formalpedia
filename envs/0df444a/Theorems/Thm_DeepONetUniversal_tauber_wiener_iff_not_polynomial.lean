@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepONetUniversal_tauber_wiener_iff_not_polynomial
 -- name    : DeepONetUniversal.tauber_wiener_iff_not_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:31:47.359365+00:00
 -- url     : https://prove2.me/theorems/130468a5-8a52-42a6-9770-78e337cce096

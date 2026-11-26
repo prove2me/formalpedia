@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:56:23.767092+00:00
 -- url     : https://prove2.me/theorems/4e5ca428-3eb4-4a24-b6f0-954ad90f518b
 -- title:
---   Lefebvre's variations: the sunflower number $f(2,3)=7$
+--   Lefebvre's variations, No. 38 — on a theme by Erdős and Rado: the sunflower number $f(2,3)=7$
 -- statement:
 --   This is the first non-trivial exact value of the Erdős–Rado sunflower function.
 --
@@ -20,6 +20,10 @@
 --   The sunflower problem (Erdős Problem 20) asks whether $f(n,k)\le C_k^{\,n}$; Erdős and Rado proved $(k-1)^n<f(n,k)\le n!\,(k-1)^n+1$. Exact values are known only for very small parameters.
 --
 --   **Formalization Note** The function is the mission's `Erdos20.f`, defined as an infimum over all families of $n$-sets in an arbitrary ground type, with sunflowers of cardinality exactly $k$.
+--
+--   **Why this is a variation.** This varies the Erdős sunflower problem (Erdős Problem 20, `Erdos20.erdos_20`), which asks whether $f(n,k)\le C_k^{\,n}$. It is the first non-trivial size, $n=2$ and $k=3$: the exact value $f(2,3)=7$, where a family of $2$-element sets is a graph. Settling it fixes the first exact value of $f(n,k)$ beyond the trivial cases, against which the Erdős–Rado bounds $(k-1)^n<f(n,k)\le n!\,(k-1)^n+1$ can be checked.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   P. Erdős and R. Rado, Intersection theorems for systems of sets, J. London Math. Soc. 35 (1960), 85–90 (sunflower lemma and the bounds (k−1)^n < f(n,k) ≤ n!(k−1)^n + 1); the value f(2,3) = 7 is the elementary graph case (a family of 7 edges has 3 edges through a vertex or 3 pairwise disjoint edges, while two disjoint triangles have neither). Problem page: https://www.erdosproblems.com/20. Parent problem: Erdos20.erdos_20 (sunflower conjecture).
 

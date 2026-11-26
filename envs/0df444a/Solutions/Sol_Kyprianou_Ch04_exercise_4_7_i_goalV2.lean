@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.exercise_4_7_i_goalV2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T08:36:06.623901+00:00
 -- url     : https://prove2.me/submissions/042ca8e9-e49f-4d1f-a92b-d8512293dd8c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch04_kw47_trueMartingale_deterministicLocalisation

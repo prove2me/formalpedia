@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SSLMultiView_bayes_error_ssl_representations
 -- name    : SSLMultiView.bayes_error_ssl_representations
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T19:18:51.408194+00:00
 -- url     : https://prove2.me/theorems/1b8dcc30-8c97-48ba-a85e-03865bdf0a77

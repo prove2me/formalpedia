@@ -43146,7 +43146,7 @@
 {"parent": "PIQnLT.mulVec_liftVec", "child": "Formalism_HermitianCurvature_StatementQ", "via": ["solution", "statement"]}
 {"parent": "PIQnLT.mulVec_liftVec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelTransfer_SecondCapelliMinorLevel", "via": ["solution", "statement"]}
 {"parent": "PIQnLT.mulVec_liftVec", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.overloadedInput_tendsto_atBot", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.overloadedInput_tendsto_atBot", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.TwoByOneBlock.Sq_cont", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoByOneBlock", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.TwoByOneBlock.Sq_cont", "child": "Formalism_HermitianCurvature_WeylElementCommutesLevelOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.TwoByOneBlock.Sq_cont", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed", "via": ["solution", "statement"]}
@@ -89567,7 +89567,7 @@
 {"parent": "GlobalTheory.LinkLaw.isMapOf_of_match", "child": "Development_AbelianVarietyTheory_Definitions_Jets_JetsOnCopiesCompatibleFrames", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LinkLaw.isMapOf_of_match", "child": "Development_AbelianVarietyTheory_Proofs_JetHarmonics_IsLawOfOfMatch", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LinkLaw.isMapOf_of_match", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt", "via": ["solution", "statement"]}
-{"parent": "Arxiv1504_01000.hellinger_gamma_closed_form", "child": "Arxiv1504_01000_Basic", "via": ["statement"]}
+{"parent": "Arxiv1504_01000.hellinger_gamma_closed_form", "child": "Arxiv1504_01000_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.SG.Pf.RedBasicsPf.finrank_le", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictAll", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.SG.Pf.RedBasicsPf.finrank_le", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_FlagStabilizerTensors_RootLatticeThresholds_RowDictCore", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.SG.Pf.RedBasicsPf.finrank_le", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_FlagStabilizerTensors_RootLatticeThresholds_RedBasicsPf", "via": ["solution", "statement"]}
@@ -89637,7 +89637,7 @@
 {"parent": "GlobalTheory.Models.exists_large_auxiliary_prime", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_RigidSys", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Models.exists_large_auxiliary_prime", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_CoprimeLevel", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Models.exists_large_auxiliary_prime", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HeckeKer", "via": ["solution", "statement"]}
-{"parent": "SSLMultiView.cmi_input_decomposition", "child": "SSLMultiView_Basic", "via": ["statement"]}
+{"parent": "SSLMultiView.cmi_input_decomposition", "child": "SSLMultiView_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.MatrixAction.exists_matrix_ringAct", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_TwistBCPf", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.MatrixAction.exists_matrix_ringAct", "child": "Development_AbelianVarietyTheory_Proofs_UniformizationProofs_ExistsMatrixRingAct", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.MatrixAction.exists_matrix_ringAct", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_RigIsoCongr", "via": ["solution", "statement"]}
@@ -94511,7 +94511,7 @@
 {"parent": "Formalism_SharpRestriction_LevelLetterCocycles_QuotientHomNonvanishingBound", "child": "ReciprocityTheory.Gal.LocalTateDualityAt.restrict", "via": ["statement"]}
 {"parent": "Formalism_SharpRestriction_LevelLetterCocycles_QuotientHomNonvanishingBound", "child": "Formalism.FrobeniusOrbits.galEquiv_apply", "via": ["statement"]}
 {"parent": "Formalism_SharpRestriction_LevelLetterCocycles_QuotientHomNonvanishingBound", "child": "Formalism.GaloisCohomology.scalRep_apply", "via": ["statement"]}
-{"parent": "SSLMultiView.mutualInfo_task_lower_bound", "child": "SSLMultiView_Basic", "via": ["statement"]}
+{"parent": "SSLMultiView.mutualInfo_task_lower_bound", "child": "SSLMultiView_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Phase.Doubling.heisS_dup", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_SummableNormSiegelThetaSeriesTerms", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Phase.Doubling.heisS_dup", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_DoubledRowTestFunctionProperties", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Phase.Doubling.heisS_dup", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IntMIffInt", "via": ["solution", "statement"]}

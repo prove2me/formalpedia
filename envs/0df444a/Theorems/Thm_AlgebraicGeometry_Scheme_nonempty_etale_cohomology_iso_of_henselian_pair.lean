@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_nonempty_etale_cohomology_iso_of_henselian_pair
 -- name    : AlgebraicGeometry.Scheme.nonempty_etale_cohomology_iso_of_henselian_pair
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T21:51:50.057989+00:00
 -- url     : https://prove2.me/theorems/c845531d-d267-4719-8c96-b97cf6cf3afd

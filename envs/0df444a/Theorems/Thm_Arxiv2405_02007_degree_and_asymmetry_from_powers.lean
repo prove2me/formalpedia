@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2405_02007_degree_and_asymmetry_from_powers
 -- name    : Arxiv2405_02007.degree_and_asymmetry_from_powers
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T17:02:58.449561+00:00
 -- url     : https://prove2.me/theorems/5b344fb8-e4e2-451d-b58c-0afd1ebf2fbf

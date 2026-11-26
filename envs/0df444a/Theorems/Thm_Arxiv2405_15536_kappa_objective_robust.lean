@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2405_15536_kappa_objective_robust
 -- name    : Arxiv2405_15536.kappa_objective_robust
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:32:36.267252+00:00
 -- url     : https://prove2.me/theorems/2097a0cb-548f-4dab-af7f-e09d3448a4f8

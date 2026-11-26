@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:16:43.625245+00:00
 -- url     : https://prove2.me/theorems/5344f911-a609-4298-8e26-e1c88420319c
 -- title:
---   Lefebvre's variations: the Petersen graph has a weak pentagon colouring
+--   Lefebvre's variations, No. 45 — on a theme by Šámal: the Petersen graph has a weak pentagon colouring
 -- statement:
 --   This is the Petersen case of the weak pentagon problem.
 --
@@ -18,6 +18,10 @@
 --   The weak pentagon problem (Šámal) asks whether every triangle-free cubic graph has such a colouring; the Petersen graph, the smallest snark, is the first case where a $3$-edge-colouring shortcut is unavailable.
 --
 --   **Formalization Note** Triangle-free cubic graphs and weak pentagon colourings are the mission's `OPG434` definitions; the graph is given by its fifteen edges on `Fin 10`.
+--
+--   **Why this is a variation.** This varies the open weak pentagon problem of Šámal (Open Problem Garden OPG-434, `OPG434`): does every triangle-free cubic graph admit an edge labelling with five labels such that deleting any one label leaves a bipartite graph? It is the first non-bipartite instance, the Petersen graph, which is the smallest snark, so no shortcut from a $3$-edge-colouring is available. It gives an explicit labelling into five classes of three edges for the hardest small test case of the parent conjecture.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   R. Šámal, Weak pentagon problem, Open Problem Garden (OPG-434), as quoted by the platform's OPG-434 statement; the Petersen graph: D. A. Holton and J. Sheehan, The Petersen Graph, Cambridge Univ. Press, 1993. Parent problem: OPG434 weak pentagon conjecture.
 

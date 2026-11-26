@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1706_02824_eq22_coherent_state_four_point
 -- name    : Arxiv1706_02824.eq22_coherent_state_four_point
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T01:20:00.337919+00:00
 -- url     : https://prove2.me/theorems/af2bc417-0519-453f-8c34-aad99bb511fb

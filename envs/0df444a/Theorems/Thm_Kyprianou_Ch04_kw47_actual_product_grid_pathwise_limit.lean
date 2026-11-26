@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_actual_product_grid_pathwise_limit
 -- name    : Kyprianou.Ch04.kw47_actual_product_grid_pathwise_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T21:48:43.73153+00:00
 -- url     : https://prove2.me/theorems/1d562efb-dd9b-5c44-b186-ccdbf8a61ee2

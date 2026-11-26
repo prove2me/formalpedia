@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AlgebraicGeometry.Scheme.subsingleton_etale_cohomology_projectiveLine_restrict_injective_closed_fiber_higher
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-11-24T04:27:08.13748+00:00
 -- url     : https://prove2.me/submissions/b7261783-0d6f-42a4-b192-3df1c97db063
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AlgebraicGeometry_EtaleCechEvaluation
 import Definitions.Def_AlgebraicGeometry_EtaleFiniteSectionLifts

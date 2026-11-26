@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SSLMultiView_bayes_error_entropy_bounds
 -- name    : SSLMultiView.bayes_error_entropy_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T18:52:13.811988+00:00
 -- url     : https://prove2.me/theorems/63671648-2fe4-4d47-ad35-d55119c73f86

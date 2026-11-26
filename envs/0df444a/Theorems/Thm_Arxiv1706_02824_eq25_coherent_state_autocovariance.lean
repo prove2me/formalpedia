@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1706_02824_eq25_coherent_state_autocovariance
 -- name    : Arxiv1706_02824.eq25_coherent_state_autocovariance
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T01:27:25.497022+00:00
 -- url     : https://prove2.me/theorems/f9dd175b-be51-4d16-8d9c-0e5badaaebc8

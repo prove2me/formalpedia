@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2602_11197_residual_field_equation
 -- name    : Arxiv2602_11197.residual_field_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T20:17:18.517655+00:00
 -- url     : https://prove2.me/theorems/96815f50-e3e6-4332-9c7e-727f3e8e7825

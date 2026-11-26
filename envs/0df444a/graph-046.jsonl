@@ -35760,7 +35760,7 @@
 {"parent": "PI.SymDistWork.inUJ_coe", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SymmetricDistance_SymDistOf", "via": ["solution", "statement"]}
 {"parent": "PI.SymDistWork.inUJ_coe", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_ComplexificationHolds", "via": ["solution", "statement"]}
 {"parent": "PI.SymDistWork.inUJ_coe", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_IndefiniteUnitaryPreservesForm", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.kw47_signed_productGrid_integral", "child": "Kyprianou_Ch04_Exercise4_7Certification", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.kw47_signed_productGrid_integral", "child": "Kyprianou_Ch04_Exercise4_7Certification", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ResidueCharacterDense.exists_mul_pow_int", "child": "Formalism_LocalRingCardinality_DataSpaces", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ResidueCharacterDense.exists_mul_pow_int", "child": "Formalism_SharpRestriction_CuspSpanNormBounds_PsiEDef", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ResidueCharacterDense.exists_mul_pow_int", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_T2SpaceIsNonarchimedeanLocalFieldSingleBlock", "via": ["solution", "statement"]}
@@ -42698,11 +42698,11 @@
 {"parent": "GlobalTheory.HL.StTri.descend", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ComplementReferenceCompactSubgroup", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HL.StTri.descend", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_GFrames", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise42AvramLevyTripletBridgeV1", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42AvramLevyTripletBridgeV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42AvramLevyTripletBridgeV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise42AvramLevyTripletBridgeV1", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
 {"parent": "Kyprianou.Ch04.exercise42AvramLevyTripletBridgeV1", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42AvramLevyTripletBridgeV1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42AvramLevyTripletBridgeV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42AvramLevyTripletBridgeV1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42AvramLevyTripletBridgeV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "PI.UnitaryGroupMassFormula.UsCost.zDeriv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCost_DerivB", "via": ["solution", "statement"]}
 {"parent": "PI.UnitaryGroupMassFormula.UsCost.zDeriv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCost_ZDeriv", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Definitions_ShimuraVarieties_IrrelevantLeMapLinearGradedMap", "child": "Development_AbelianVarietyTheory_Definitions_ShimuraVarieties_MulLeftCompOfPullbackPointEquivMul", "via": ["statement"]}

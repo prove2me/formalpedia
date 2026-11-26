@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch04.stationaryWorkload_transientHighTraffic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T17:38:35.853959+00:00
 -- url     : https://prove2.me/submissions/51cb87d8-3116-4a3f-be9a-e198b672f533
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

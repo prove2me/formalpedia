@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2602_07094_pauli_sq_moduli_formula
 -- name    : Arxiv2602_07094.pauli_sq_moduli_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:38:30.037481+00:00
 -- url     : https://prove2.me/theorems/dbbfd671-14e2-472a-a6fd-a6ec8ac7e60e

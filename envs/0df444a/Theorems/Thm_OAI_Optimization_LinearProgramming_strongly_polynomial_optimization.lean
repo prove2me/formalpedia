@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_strongly_polynomial_optimization
 -- name    : OAI.Optimization.LinearProgramming.strongly_polynomial_optimization
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T21:36:59.718615+00:00
 -- url     : https://prove2.me/theorems/cb40464c-4124-588d-8476-962e9ee0c91b

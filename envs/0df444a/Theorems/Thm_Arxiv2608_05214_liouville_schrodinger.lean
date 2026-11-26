@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2608_05214_liouville_schrodinger
 -- name    : Arxiv2608_05214.liouville_schrodinger
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:15:31.580856+00:00
 -- url     : https://prove2.me/theorems/c3e2d790-5464-52cc-a2d5-be1626f2d0a5

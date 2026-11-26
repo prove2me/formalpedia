@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.exercise42SupremumChangeOfVariables
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T08:24:28.419045+00:00
 -- url     : https://prove2.me/submissions/51b5fcbc-7806-4efe-a98f-5f45fee09789
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch04_exercise42AvramPathDataV1

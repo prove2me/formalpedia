@@ -18,6 +18,10 @@
 --   that is, $p$ is a Wilson prime. Indeed Wilson's theorem gives $p\mid (p-1)!+1=m^2$, so $p\mid m$ and $p^2\mid m^2$.
 --
 --   Brocard's problem asks for all solutions of $n!+1=m^2$; the only known ones are $n=4,5,7$. Combined with the known Wilson primes, this reduces the case $n+1$ prime to a finite check: below $2\cdot10^{13}$ the only Wilson primes are $5$, $13$ and $563$, and of these only $p=5$ (that is $n=4$, $4!+1=5^2$) gives a solution, so any further solution with $n+1$ prime would require a new, very large Wilson prime.
+--
+--   **Why this is a variation.** This varies Brocard's problem, the open question of which $n$ satisfy $n!+1=m^2$ (only $n=4,5,7$ are known). It is an unconditional partial result: any solution with $n+1=p$ prime must make $p$ a Wilson prime ($p^2\mid (p-1)!+1$), and the few known Wilson primes then leave only $n=4$ in that family. Using it confines any further solution to $n+1$ composite or to an enormous Wilson prime.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   Wilson's theorem applied to the Brocard–Ramanujan equation n! + 1 = m^2: H. Brocard, Question 166, Nouv. Corresp. Math. 2 (1876), 287; B. C. Berndt and W. F. Galway, On the Brocard–Ramanujan Diophantine equation n! + 1 = m^2, Ramanujan J. 4 (2000), 41–42. Wilson primes: R. Crandall, K. Dilcher and C. Pomerance, A search for Wieferich and Wilson primes, Math. Comp. 66 (1997), 433–449; E. Costa, R. Gerbicz and D. Harvey, A search for Wilson primes, Math. Comp. 83 (2014), 3071–3091 (only 5, 13, 563 below 2·10^13). Parent problem: Brocard.brocard_problem.
 

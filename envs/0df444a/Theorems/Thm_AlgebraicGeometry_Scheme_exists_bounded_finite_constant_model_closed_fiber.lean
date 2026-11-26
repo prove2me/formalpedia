@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_bounded_finite_constant_model_closed_fiber
 -- name    : AlgebraicGeometry.Scheme.exists_bounded_finite_constant_model_closed_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T23:59:15.267209+00:00
 -- url     : https://prove2.me/theorems/12f1320f-f825-48da-995e-cfa0d28e87c2

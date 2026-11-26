@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46FirstPhysicalJumpExistsV1
 -- name    : Kyprianou.Ch04.exercise46FirstPhysicalJumpExistsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T22:10:52.925314+00:00
 -- url     : https://prove2.me/theorems/fd4db653-24e7-4679-8189-3aa6880726dd

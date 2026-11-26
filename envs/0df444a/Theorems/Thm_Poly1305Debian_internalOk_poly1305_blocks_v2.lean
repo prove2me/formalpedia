@@ -13,7 +13,7 @@
 --
 --   `poly1305_donna64.h`, lines 65–66, 87, 95 and 112: “const unsigned long long hibit = (st->final) ? 0ULL : (1ULL << 40); /* 1 << 128 */”, “/* h += m[i] */”, “/* h *= r */”, “/* (partial) h %= p */”.
 --
---   **Replaces** `Poly1305Debian.internalOk_poly1305_blocks`, which is Disproved (submission 88a8159d): it allowed any length $|m| \ge 16$, and Debian's compiled loop runs until its pointer equals $m + |m|$, so for a length that is not a multiple of 16 it reads past the message. This statement adds the condition that $|m|$ is a multiple of 16.
+--   **Replaces** [`Poly1305Debian.internalOk_poly1305_blocks`](https://prove2.me/theorems/21f859ee-ba32-47a7-b548-1c650daee6d3), which is Disproved (submission 88a8159d): it allowed any length $|m| \ge 16$, and Debian's compiled loop runs until its pointer equals $m + |m|$, so for a length that is not a multiple of 16 it reads past the message. This statement adds the condition that $|m|$ is a multiple of 16.
 -- source:
 --   libsodium 1.0.22-RELEASE, commit 77e1ce5d6dee871c49ef211222ba18ef0c486bda (https://github.com/jedisct1/libsodium/tree/77e1ce5d6dee871c49ef211222ba18ef0c486bda), src/libsodium/crypto_onetimeauth/poly1305/donna/poly1305_donna64.h lines 61–133 (poly1305_blocks)
 

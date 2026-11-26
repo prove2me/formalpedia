@@ -20,6 +20,10 @@
 --   Combined with Littlewood's criterion ($M(n)=O(n^{1/2+\varepsilon})$ for every $\varepsilon>0$ is equivalent to the Riemann Hypothesis), this identity is what makes the growth of $\det A_n$ an equivalent form of the Riemann Hypothesis. It is unconditional.
 --
 --   **Formalization Note** Indices are $0$-based (`Fin n`), so $a_{ij}=1$ when $j=0$ or $(i+1)\mid(j+1)$; the matrix is defined inside the statement over $\mathbb R$.
+--
+--   **Why this is a variation.** This varies the open problem `BroughanRH.redheffer`, Redheffer's criterion in Broughan's list of equivalents of the Riemann Hypothesis. It is a key lemma of the parent: the determinant of the $n\times n$ Redheffer matrix equals the Mertens function $M(n)$, an identity that holds unconditionally. It is what lets the growth of $\det A_n$ be read as the growth of $M(n)$, and so lets the parent be attacked through the Mertens function criterion for RH.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   R. M. Redheffer, Eine explizit lösbare Optimierungsaufgabe, Internat. Schriftenreihe Numer. Math. 36 (1977), 213–216 (det A_n = M(n)); see also W. W. Barrett and T. J. Jarvis, Spectral properties of a matrix of Redheffer, Linear Algebra Appl. 162–164 (1992), 673–683, and K. Broughan, Equivalents of the Riemann Hypothesis, Vol. 1, Cambridge Univ. Press, 2017 (Redheffer's criterion). Parent problem: BroughanRH.redheffer.
 

@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:18:00.856205+00:00
 -- url     : https://prove2.me/theorems/a8561071-c368-4e91-9431-c6cd2bb3ff54
 -- title:
---   Lefebvre's variations: the kissing number in dimension 3 is at least 12
+--   Lefebvre's variations, No. 46 — on a theme by Newton and Gregory: the kissing number in dimension 3 is at least 12
 -- statement:
 --   This is the lower bound $12\le\tau_3$ for the kissing number in dimension $3$.
 --
@@ -20,6 +20,10 @@
 --   The value $12$ is exact (Schütte–van der Waerden, 1953); the statement here is the elementary lower bound from the explicit configuration.
 --
 --   **Formalization Note** The statement is in the mission's `KissingNumber` formulation, with the kissing number valued in the extended naturals.
+--
+--   **Why this is a variation.** This varies the kissing number problem in dimension 3, which asks for $\tau(3)$. It is the lower half of the parent: $12\le\tau(3)$, realised by an explicit configuration of 12 unit vectors. Together with the matching upper bound it gives $\tau(3)=12$.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   Explicit configuration: J. H. Conway and N. J. A. Sloane, Sphere Packings, Lattices and Groups, 3rd ed., Springer, 1999, Chapter 1 and Chapter 4 (root systems D_3, D_4, E_8 and their kissing configurations). Exact values: K. Schütte and B. L. van der Waerden, Das Problem der dreizehn Kugeln, Math. Ann. 125 (1953), 325–334 (d = 3); O. R. Musin, The kissing number in four dimensions, Ann. of Math. 168 (2008), 1–32 (d = 4); A. M. Odlyzko and N. J. A. Sloane, New bounds on the number of unit spheres that can touch a unit sphere in n dimensions, J. Combin. Theory Ser. A 26 (1979), 210–214, and V. I. Levenshtein, 1979 (d = 8). Parent problem: KissingNumber.kissing_number_three.
 

@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:37:51.415898+00:00
 -- url     : https://prove2.me/theorems/7aa2834d-7c58-4900-9962-d0bccdc80957
 -- title:
---   Lefebvre's variations: $U_{2,n}$ is $\mathrm{GF}(q)$-representable for $n\le q+1$
+--   Lefebvre's variations, No. 27 — on a theme by Rota: $U_{2,n}$ is $\mathrm{GF}(q)$-representable for $n\le q+1$
 -- statement:
 --   This is the positive half of the line case of Rota's conjecture.
 --
@@ -18,6 +18,10 @@
 --   A representation places the elements of $E$ at distinct points of the projective line over $\mathrm{GF}(q)$, which has exactly $q+1$ points: any two of the chosen vectors are linearly independent and any three are dependent. Together with the non-representability of $U_{2,q+2}$ (Lefebvre's variations, No. 3), this gives the sharp statement that $U_{2,n}$ is $\mathrm{GF}(q)$-representable if and only if $n\le q+1$, and shows that every proper minor of the line $U_{2,q+2}$ is representable, the first step in recognizing it as an excluded minor in Rota's conjecture.
 --
 --   **Formalization Note** $U_{2,n}$ is given by its ground-set size (`encard`) and its independent sets; representability is the mission's `IsGFRepresentable p m`.
+--
+--   **Why this is a variation.** This varies Rota's conjecture on excluded minors of matroids representable over a finite field (`TenChallenges.challenge_02`). It is a special case: the rank-$2$ uniform matroid $U_{2,n}$ is $\mathrm{GF}(q)$-representable exactly when $n\le q+1$, and this is the positive half, for $n\le q+1$. Together with the non-representability of $U_{2,q+2}$ it shows every proper minor of $U_{2,q+2}$ is representable, the first step toward recognizing it as an excluded minor in the parent.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   Standard fact that the rank-2 uniform matroid U_{2,n} is GF(q)-representable if and only if n ≤ q+1 (the projective line PG(1,q) has q+1 points): J. Oxley, Matroid Theory, 2nd ed., Oxford University Press, 2011, Chapter 6 (Representable matroids). Parent problem: TenChallenges.challenge_02 (Rota's conjecture: G.-C. Rota, Combinatorial theory, old and new, Actes Congrès Int. Math. Nice 1970, vol. 3, 229–233).
 

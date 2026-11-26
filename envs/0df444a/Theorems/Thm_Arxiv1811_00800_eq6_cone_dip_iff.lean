@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1811_00800_eq6_cone_dip_iff
 -- name    : Arxiv1811_00800.eq6_cone_dip_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T20:46:07.891471+00:00
 -- url     : https://prove2.me/theorems/42e971ec-12e3-4e51-9f6c-9dfdab60c86f

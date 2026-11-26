@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09234_weighted_l2_form
 -- name    : Arxiv2205_09234.weighted_l2_form
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T16:07:04.730355+00:00
 -- url     : https://prove2.me/theorems/2a655d72-0fff-44fa-ac9a-2414c7f31cbc

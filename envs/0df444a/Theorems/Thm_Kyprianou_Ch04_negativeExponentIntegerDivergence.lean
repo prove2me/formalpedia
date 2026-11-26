@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_negativeExponentIntegerDivergence
 -- name    : Kyprianou.Ch04.negativeExponentIntegerDivergence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T21:50:18.114002+00:00
 -- url     : https://prove2.me/theorems/dd50f751-6eca-528d-8dcf-92f4d2f7bfe1

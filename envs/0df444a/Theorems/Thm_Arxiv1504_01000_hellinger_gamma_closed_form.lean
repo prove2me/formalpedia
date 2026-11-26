@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1504_01000_hellinger_gamma_closed_form
 -- name    : Arxiv1504_01000.hellinger_gamma_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T18:13:19.52037+00:00
 -- url     : https://prove2.me/theorems/284e858a-90c8-447d-bce9-caaacf8edff2

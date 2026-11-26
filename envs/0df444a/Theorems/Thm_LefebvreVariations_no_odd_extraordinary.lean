@@ -23,6 +23,10 @@
 --   which holds for every $n\ge9$, so condition 2 fails at $k=2$.
 --
 --   Caveney, Nicolas and Sondow showed that the Riemann Hypothesis is equivalent to $4$ being the only extraordinary number; this statement disposes of all odd candidates unconditionally.
+--
+--   **Why this is a variation.** This varies the open problem `BroughanRH.extraordinary`, from the Caveney–Nicolas–Sondow reformulation of the Riemann Hypothesis: RH holds if and only if $4$ is the only extraordinary number. It is an unconditional partial result, showing that no odd number is extraordinary, so the odd candidates are ruled out without assuming RH. Settling it narrows the search for a counterexample, and hence for a failure of RH, to even numbers.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   Definition and RH-equivalence: G. Caveney, J.-L. Nicolas and J. Sondow, Robin's theorem, primes, and a new elementary reformulation of the Riemann Hypothesis, Integers 11 (2011), A33 (RH holds iff 4 is the only extraordinary number). The statement here is the elementary k = 2 test σ(2n) = 3σ(n) for odd n. Parent problem: BroughanRH.extraordinary.
 

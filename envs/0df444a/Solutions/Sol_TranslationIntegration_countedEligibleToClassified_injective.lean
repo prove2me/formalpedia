@@ -1,0 +1,50 @@
+-- Prove2me | solution 1 for TranslationIntegration.countedEligibleToClassified_injective
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-25T23:08:12.551834+00:00
+-- url     : https://prove2.me/submissions/926d8414-19ae-497e-b328-679765817804
+
+module
+public import Mathlib.Algebra.Order.Ring.Star
+public import Mathlib.Algebra.Order.Star.Real
+public import Mathlib.Data.Int.Star
+public import Mathlib.Combinatorics.Graph.Basic
+public import Mathlib.Combinatorics.SimpleGraph.Basic
+public import Mathlib.GroupTheory.OrderOfElement
+public import Mathlib.Tactic.FinCases
+public import Definitions.Def_BirthdayNonbacktracking_Solution
+
+set_option autoImplicit true
+@[expose] public section
+public section
+set_option linter.unusedSectionVars false
+set_option linter.unusedSimpArgs false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+set_option linter.unnecessarySeqFocus false
+set_option linter.unusedSectionVars false
+set_option linter.unusedSectionVars false
+set_option linter.unusedSectionVars false
+open TranslationIntegration
+open TranslationReversal
+noncomputable section
+variable {V : Type*} [Fintype V]
+variable {d : ℕ} [NeZero d]
+variable (G : SimpleGraph V) (hG : IsRegularOfDegree G d)
+attribute [local instance] TranslationIntegration.graphAdjDecidable
+attribute [local instance] TranslationIntegration.vertexDecidableEq
+namespace TranslationIntegration
+theorem _root_.solution (start : OrientedEdge G) (k : ℕ) :
+    Function.Injective (countedEligibleToClassified (d := d) G hG start k) := by
+  rintro ⟨rho, q⟩ ⟨rho', r⟩ hqr
+  have hsample : rho = rho' := congrArg ClassifiedEligibleReturn.sample hqr
+  subst rho'
+  have hsource : q.1.1 = r.1.1 :=
+    congrArg ClassifiedEligibleReturn.source hqr
+  have hq : q = r := by
+    apply Subtype.ext
+    apply Subtype.ext
+    exact hsource
+  subst r
+  rfl
+end TranslationIntegration

@@ -20,6 +20,10 @@
 --   The local connectivity of $M$ (MLC, Douady–Hubbard) is open; along the real axis the set is the segment above, the first place where its structure is completely explicit.
 --
 --   **Formalization Note** Membership uses the mission's `Mandelbrot.mandelbrotSet`; a real parameter $x$ is identified with the complex number $(x:\mathbb C)$.
+--
+--   **Why this is a variation.** This varies the Mandelbrot set statements on the platform, the open conjecture that the Mandelbrot set is locally connected. It is a special case about the same set along the real axis, where the set is understood: its intersection with $\mathbb{R}$ is the interval $[-2,1/4]$. It fixes the set's definitions on the real slice, a basic sanity check for any work on the parent.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   A. Douady and J. H. Hubbard, Étude dynamique des polynômes complexes, Partie I, Publications Mathématiques d'Orsay 84-02 (1984); R. L. Devaney, An Introduction to Chaotic Dynamical Systems, 2nd ed., Addison-Wesley, 1989, Chapter 1 (real quadratic family x ↦ x² + c and its bifurcation interval [−2, 1/4]). Parent problem: Mandelbrot.mandelbrot_locally_connected (MLC).
 

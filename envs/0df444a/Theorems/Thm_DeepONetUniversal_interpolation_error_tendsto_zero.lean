@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepONetUniversal_interpolation_error_tendsto_zero
 -- name    : DeepONetUniversal.interpolation_error_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:35:53.126011+00:00
 -- url     : https://prove2.me/theorems/4a378ddb-4bbf-40a2-8a2a-8db7e33da566

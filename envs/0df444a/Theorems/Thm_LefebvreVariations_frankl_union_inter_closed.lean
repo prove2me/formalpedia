@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:51:27.819909+00:00
 -- url     : https://prove2.me/theorems/9d163286-9524-49e7-b2cd-11875e3d20e9
 -- title:
---   Lefebvre's variations: Frankl's conjecture for families closed under unions and intersections
+--   Lefebvre's variations, No. 36 — on a theme by Frankl: Frankl's conjecture for families closed under unions and intersections
 -- statement:
 --   This is Frankl's union-closed sets conjecture for families that are closed under both unions and intersections.
 --
@@ -20,6 +20,10 @@
 --   Frankl's conjecture asserts this for every union-closed family; in the lattice formulation, families closed under both operations are the distributive lattices of sets, one of the first classes for which it was established.
 --
 --   **Formalization Note** Union-closure, nondegeneracy and density are the mission's definitions; density divides by the number of members.
+--
+--   **Why this is a variation.** This varies the union-closed sets conjecture (Frankl), which says that some element lies in at least half of the members of a nondegenerate union-closed finite family. It is a special case: families closed under both union and intersection, that is, distributive lattices, where the conjecture holds. It removes a whole class of structured families from the search for a counterexample to the parent.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   Lattice formulation and the distributive case: H. Bruhn and O. Schaudt, The journey of the union-closed sets conjecture, Graphs Combin. 31 (2015), 2043–2074 (survey, lattice-theoretic section); B. Poonen, Union-closed families, J. Combin. Theory Ser. A 59 (1992), 253–268. Conjecture: P. Frankl, 1979. Parent problem: TenChallenges.challenge_09 (union-closed sets conjecture).
 

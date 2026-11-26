@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:39:33.413846+00:00
 -- url     : https://prove2.me/theorems/e0c098be-c8ff-4a53-b7ea-51216b04be8b
 -- title:
---   Lefebvre's variations: the inradius of the Multibrot sets
+--   Lefebvre's variations, No. 28 — on a theme by Douady and Hubbard: the inradius of the Multibrot sets
 -- statement:
 --   This determines the largest disc centred at $0$ inside each Multibrot set.
 --
@@ -20,6 +20,10 @@
 --   The local connectivity of the Multibrot sets is open; this gives their exact inradius about the origin.
 --
 --   **Formalization Note** Membership uses the mission's `Mandelbrot.multibrotSet n`; the exponent $n/(n-1)$ is a real power.
+--
+--   **Why this is a variation.** This varies the open problem on the local connectivity of the Multibrot sets (`Mandelbrot.multibrot_locally_connected`, in the Douady–Hubbard theme). It is an unconditional partial result about the same sets: the largest disc centred at $0$ inside $M_n$ has radius $(n-1)/n^{n/(n-1)}$, which is the classical $1/4$ for the Mandelbrot set at $n=2$. It gives the exact inner scale of the sets, complementing the outer escape disc, and so fixes the region around the origin where the connectivity question can be studied explicitly.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   Elementary escape estimates for unicritical polynomials z^n + c: R. L. Devaney, An Introduction to Chaotic Dynamical Systems, 2nd ed., Addison-Wesley, 1989, Chapter 1 (real quadratic family) and Chapter 3 (complex quadratic family, the disc |c| ≤ 1/4 in the Mandelbrot set); J. Milnor, Dynamics in One Complex Variable, 3rd ed., Princeton Univ. Press, 2006 (unicritical polynomials and their connectedness loci). Parent problem: Mandelbrot.multibrot_locally_connected.
 

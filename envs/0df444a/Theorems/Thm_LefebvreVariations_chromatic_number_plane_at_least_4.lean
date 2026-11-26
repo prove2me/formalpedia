@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:10:33.364232+00:00
 -- url     : https://prove2.me/theorems/2252b289-ee60-46dd-a14f-8851a7562209
 -- title:
---   Lefebvre's variations: the plane cannot be 3-coloured (the Moser spindle)
+--   Lefebvre's variations, No. 39 — on a theme by Hadwiger and Nelson: the plane cannot be 3-coloured (the Moser spindle)
 -- statement:
 --   This is the first non-trivial lower bound for the chromatic number of the plane.
 --
@@ -16,6 +16,10 @@
 --   The Hadwiger–Nelson problem asks for the exact value of $\chi(\mathbb R^2)$, known to lie between $5$ and $7$; this is the classical first step, $\chi(\mathbb R^2)\ge4$.
 --
 --   **Formalization Note** Points are pairs of reals, and two points are at unit distance when the squared Euclidean distance equals $1$.
+--
+--   **Why this is a variation.** This varies the Hadwiger–Nelson problem, the open question of the chromatic number $\chi(\mathbb{R}^2)$ of the plane for the unit-distance graph. It is the first non-trivial size: no 3-colouring of the plane avoids a monochromatic pair at distance 1, so $\chi(\mathbb{R}^2)\ge 4$, witnessed by the 7-point Moser spindle. It is a weaker, classical rung below the platform's $\chi\ge 5$ and fixes the bottom of the ladder of lower bounds for the parent.
+--
+--   **Attribution.** This statement belongs to *Lefebvre's variations*, a series proposed by Erwan Lefebvre: each variation plays an open problem of the platform at its first non-trivial size, so that it can be settled and then reused to attack the open problem itself.
 -- source:
 --   L. Moser and W. Moser, Solution to Problem 10, Canad. Math. Bull. 4 (1961), 187–189 (the Moser spindle; page range cited from memory). The problem: E. Nelson (1950) and H. Hadwiger (1945), see A. Soifer, The Mathematical Coloring Book, Springer, 2009. Parent problem: chromatic_number_plane_at_least_5 and hadwiger_nelson_conjecture.
 
