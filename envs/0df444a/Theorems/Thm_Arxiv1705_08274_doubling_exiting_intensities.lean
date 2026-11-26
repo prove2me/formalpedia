@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1705_08274_doubling_exiting_intensities
 -- name    : Arxiv1705_08274.doubling_exiting_intensities
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T02:17:55.02816+00:00
 -- url     : https://prove2.me/theorems/c6e4d400-a1c1-459d-a3a2-b7af7a65a5e5

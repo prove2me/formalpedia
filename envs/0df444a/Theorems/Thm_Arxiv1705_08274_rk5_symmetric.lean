@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1705_08274_rk5_symmetric
 -- name    : Arxiv1705_08274.rk5_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T03:32:25.007111+00:00
 -- url     : https://prove2.me/theorems/b911d5ae-528e-4625-977b-364854a74e26

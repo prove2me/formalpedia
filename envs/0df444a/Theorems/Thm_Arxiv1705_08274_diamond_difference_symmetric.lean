@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1705_08274_diamond_difference_symmetric
 -- name    : Arxiv1705_08274.diamond_difference_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T03:24:01.686371+00:00
 -- url     : https://prove2.me/theorems/9947a4f5-cad0-4b47-b792-0704bbbe6fb3

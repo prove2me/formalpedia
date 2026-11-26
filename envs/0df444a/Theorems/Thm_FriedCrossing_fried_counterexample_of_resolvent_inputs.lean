@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_fried_counterexample_of_resolvent_inputs
 -- name    : FriedCrossing.fried_counterexample_of_resolvent_inputs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:08:44.33725+00:00
 -- url     : https://prove2.me/theorems/6197063a-c795-4f36-9487-354aa3b84dee

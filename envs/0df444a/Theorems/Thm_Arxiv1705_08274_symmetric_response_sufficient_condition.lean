@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1705_08274_symmetric_response_sufficient_condition
 -- name    : Arxiv1705_08274.symmetric_response_sufficient_condition
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T03:20:57.428999+00:00
 -- url     : https://prove2.me/theorems/92a45251-728a-412c-9948-ab0b540cab54

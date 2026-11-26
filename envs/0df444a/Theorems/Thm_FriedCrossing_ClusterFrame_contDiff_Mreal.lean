@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_ClusterFrame_contDiff_Mreal
 -- name    : FriedCrossing.ClusterFrame.contDiff_Mreal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:53:49.647927+00:00
 -- url     : https://prove2.me/theorems/227dde31-52ac-5c41-bf9c-87f2fe9bb3c1

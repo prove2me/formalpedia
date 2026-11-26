@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_ClusterFrame_contDiff_Bmat
 -- name    : FriedCrossing.ClusterFrame.contDiff_Bmat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:53:25.878733+00:00
 -- url     : https://prove2.me/theorems/a28b04b7-bc09-4553-b302-2bc527a308f9

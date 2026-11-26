@@ -23617,7 +23617,7 @@
 {"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.hasFDeriv_slice", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PhiBoundPartsOfRadicalParametrisation", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.hasFDeriv_slice", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HermitianFormFactor", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.hasFDeriv_slice", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SmoothnessOnGoodSet", "via": ["statement"]}
-{"parent": "Arxiv1605_04704.characteristic_coefficients_share", "child": "Arxiv1605_04704_Basic", "via": ["statement"]}
+{"parent": "Arxiv1605_04704.characteristic_coefficients_share", "child": "Arxiv1605_04704_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.WeakDominationMajorants.Orb.n_colM", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LUFactorOrbitBounds", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.WeakDominationMajorants.Orb.n_colM", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SeminormCompletion", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.WeakDominationMajorants.Orb.n_colM", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_NormDiagonalEntryDilationGeneratorLeOne", "via": ["solution", "statement"]}

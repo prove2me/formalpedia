@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1605_04704_characteristic_coefficients_share
 -- name    : Arxiv1605_04704.characteristic_coefficients_share
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T20:06:27.510154+00:00
 -- url     : https://prove2.me/theorems/452d5f9e-1a7c-41cc-939d-9f5e8a695f78

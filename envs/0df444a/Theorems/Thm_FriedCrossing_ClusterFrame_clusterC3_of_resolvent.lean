@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_ClusterFrame_clusterC3_of_resolvent
 -- name    : FriedCrossing.ClusterFrame.clusterC3_of_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:53:57.163503+00:00
 -- url     : https://prove2.me/theorems/a89a4d16-4b5b-5dbd-ad77-b25274bc9f57

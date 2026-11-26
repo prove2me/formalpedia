@@ -7018,7 +7018,7 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_orderEmbOfFin_colSet_2a78ac479b4f", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_FlagDimSt", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_orderEmbOfFin_colSet_2a78ac479b4f", "child": "GroundTheory_ArithmeticGeometry_AbelianVarieties_JacobianSmoothness_RingKrullDimLeRingKrullDimQuotientAddOne", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_orderEmbOfFin_colSet_2a78ac479b4f", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_PFlagDim", "via": ["solution", "statement"]}
-{"parent": "Arxiv1705_08274.rk5_symmetric", "child": "Arxiv1705_08274_Basic", "via": ["statement"]}
+{"parent": "Arxiv1705_08274.rk5_symmetric", "child": "Arxiv1705_08274_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_LocalUniversalDenominator_sum_divCoeff_mul_sub_cfb8717c510c", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PRiemannExtensionAnalytic", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_LocalUniversalDenominator_sum_divCoeff_mul_sub_cfb8717c510c", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PConeAvoidsOpen", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_LocalUniversalDenominator_sum_divCoeff_mul_sub_cfb8717c510c", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PFiniteMapOpen", "via": ["solution", "statement"]}
