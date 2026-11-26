@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityGuardFeeAggregation_aggregate_guard_fees
 -- name    : SensitivityGuardFeeAggregation.aggregate_guard_fees
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:48:48.376102+00:00
 -- url     : https://prove2.me/theorems/7273615d-0599-4d2a-aa39-33d003b7d6aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_WHRatioLimitRegularNonzeroExponent
 -- name    : Kyprianou.Ch04.WHRatioLimitRegularNonzeroExponent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T19:27:09.405968+00:00
 -- url     : https://prove2.me/theorems/b530202c-fe3e-4aad-9215-f6a30d39e93e

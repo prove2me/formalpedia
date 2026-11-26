@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relLength_inf_eq_relLength_sup
 -- name    : GlobalTheory.relLength_inf_eq_relLength_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:04.174507+00:00
 -- url     : https://prove2.me/theorems/df10c0dc-13e6-4a03-b383-26f93b5037c5

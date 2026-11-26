@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_formPerpVector_eq
 -- name    : GlobalTheory.formPerpVector_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:47.759349+00:00
 -- url     : https://prove2.me/theorems/8a148bfb-7259-50e5-b566-f6b3b6644734

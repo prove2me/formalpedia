@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_truncatedAbsFinsetSumLeV1
 -- name    : Kyprianou.Ch02.truncatedAbsFinsetSumLeV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T23:15:12.814553+00:00
 -- url     : https://prove2.me/theorems/88ceb168-37ed-4fd5-9453-856032d25e3e

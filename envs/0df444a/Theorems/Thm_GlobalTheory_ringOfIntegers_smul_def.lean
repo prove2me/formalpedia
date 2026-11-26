@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringOfIntegers_smul_def
 -- name    : GlobalTheory.ringOfIntegers_smul_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:51:08.555303+00:00
 -- url     : https://prove2.me/theorems/ef472652-aa9d-41c9-adf0-dc71c963a135

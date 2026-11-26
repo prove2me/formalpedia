@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KhintchineTwoRegime_theorem_2_q_bounds
 -- name    : KhintchineTwoRegime.theorem_2_q_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:37:15.46186+00:00
 -- url     : https://prove2.me/theorems/2a877d90-60cc-4e46-910a-d851a4d864a6

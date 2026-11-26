@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_transversal_left_translate_invariant
 -- name    : GlobalTheory.sum_transversal_left_translate_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:52:14.450515+00:00
 -- url     : https://prove2.me/theorems/f0e9e152-98d7-434f-93c1-d5be3115a13a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_HCF_classGroup_hom_ext
 -- name    : ReciprocityTheory.Neutral.Bridge.HCF.classGroup_hom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:39:15.831326+00:00
 -- url     : https://prove2.me/theorems/47416dd9-a372-40c9-a243-62b3725620e5

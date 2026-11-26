@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Fub_pow_mem_of_compact
 -- name    : PositivityTheory.ThKG.Fub.pow_mem_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:00:40.336804+00:00
 -- url     : https://prove2.me/theorems/8f24df6e-d488-421b-a907-b61abc8e3f43

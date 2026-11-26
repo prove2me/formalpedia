@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesOrbit_remark_3_7
 -- name    : BayesOrbit.remark_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:17:33.517453+00:00
 -- url     : https://prove2.me/theorems/67007600-8cba-4ef2-bcc2-19d62f2053c8

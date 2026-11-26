@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_saturatedOrderIsoSubspaceSpan_symm_apply
 -- name    : GlobalTheory.mem_saturatedOrderIsoSubspaceSpan_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:50.997584+00:00
 -- url     : https://prove2.me/theorems/eb020ff2-23b3-56e8-a730-ed27b453718c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2111_09089_pade_fourier_equal_orders
 -- name    : Arxiv2111_09089.pade_fourier_equal_orders
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T10:39:11.542428+00:00
 -- url     : https://prove2.me/theorems/f1bfaa8c-1274-41bc-9bfe-1d5e96240797

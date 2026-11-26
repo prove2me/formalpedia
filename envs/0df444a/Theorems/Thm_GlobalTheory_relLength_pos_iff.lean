@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relLength_pos_iff
 -- name    : GlobalTheory.relLength_pos_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:49:58.178076+00:00
 -- url     : https://prove2.me/theorems/eb498e99-f6b9-5833-b960-fd44b73ec1a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_monotoneStrictUpperClockInfEqRational
 -- name    : Kyprianou.Ch01.monotoneStrictUpperClockInfEqRational
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T22:16:01.008822+00:00
 -- url     : https://prove2.me/theorems/0b275f49-c607-45b8-a477-521ceded9b4e

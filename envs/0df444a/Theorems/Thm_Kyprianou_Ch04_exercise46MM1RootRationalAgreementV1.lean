@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46MM1RootRationalAgreementV1
 -- name    : Kyprianou.Ch04.exercise46MM1RootRationalAgreementV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T00:43:46.815801+00:00
 -- url     : https://prove2.me/theorems/93745a9a-94ba-5cc4-861b-bc25f3f3aa3f

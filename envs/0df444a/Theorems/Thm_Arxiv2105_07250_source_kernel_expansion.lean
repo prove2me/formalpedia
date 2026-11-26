@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2105_07250_source_kernel_expansion
 -- name    : Arxiv2105_07250.source_kernel_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:31:22.941714+00:00
 -- url     : https://prove2.me/theorems/3db88568-604b-5f9d-b020-c14db8a0cb2d

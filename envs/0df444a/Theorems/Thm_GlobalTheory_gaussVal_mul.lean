@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussVal_mul
 -- name    : GlobalTheory.gaussVal_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:02.359235+00:00
 -- url     : https://prove2.me/theorems/3622e2bd-9133-4788-9886-9ff61c12a412

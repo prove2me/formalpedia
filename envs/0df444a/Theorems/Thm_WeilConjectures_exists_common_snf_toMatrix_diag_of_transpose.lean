@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_common_snf_toMatrix_diag_of_transpose
 -- name    : WeilConjectures.exists_common_snf_toMatrix_diag_of_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T16:57:08.348997+00:00
 -- url     : https://prove2.me/theorems/54ee060f-edeb-4d73-a119-9417f4210897

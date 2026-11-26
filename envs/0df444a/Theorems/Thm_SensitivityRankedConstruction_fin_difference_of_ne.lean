@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityRankedConstruction_fin_difference_of_ne
 -- name    : SensitivityRankedConstruction.fin_difference_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:50:31.82453+00:00
 -- url     : https://prove2.me/theorems/4ff95cd2-f1bf-4b0a-a3b0-ab65bdfd4113

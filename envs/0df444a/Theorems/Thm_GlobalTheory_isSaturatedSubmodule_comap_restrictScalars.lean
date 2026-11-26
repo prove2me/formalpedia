@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSaturatedSubmodule_comap_restrictScalars
 -- name    : GlobalTheory.isSaturatedSubmodule_comap_restrictScalars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:48:00.494061+00:00
 -- url     : https://prove2.me/theorems/cd7372b5-c7c5-44f9-ae0f-9116a9ba5c6a

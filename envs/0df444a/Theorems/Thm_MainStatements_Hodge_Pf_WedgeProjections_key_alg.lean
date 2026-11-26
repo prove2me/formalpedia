@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MainStatements_Hodge_Pf_WedgeProjections_key_alg
 -- name    : MainStatements.Hodge.Pf.WedgeProjections.key_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:03:30.368285+00:00
 -- url     : https://prove2.me/theorems/a3d120d4-61aa-5d8d-9d70-eed6eb43e9cd

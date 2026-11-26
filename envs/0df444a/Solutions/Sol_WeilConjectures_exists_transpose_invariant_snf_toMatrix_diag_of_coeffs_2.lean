@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for WeilConjectures.exists_transpose_invariant_snf_toMatrix_diag_of_coeffs
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-24T16:57:18.386561+00:00
 -- url     : https://prove2.me/submissions/dd0fa765-bfa6-4ab6-9f6c-ad2209b1166b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WeilConjectures_exists_common_snf_toMatrix_diag_of_transpose

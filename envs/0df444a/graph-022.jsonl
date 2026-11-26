@@ -64205,7 +64205,7 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalRationalPolynomialRetraction_coeff", "child": "QEC_Coding_ExpanderCodes_LPSOriginalQExpansionArithmetic", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalRationalPolynomialRetraction_coeff", "child": "QEC_Coding_ExpanderCodes_LPSOriginalRationalModularEquation", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalRationalPolynomialRetraction_coeff", "child": "QEC_Coding_ExpanderCodes_LPSOriginalJNormalization", "via": ["solution", "statement"]}
-{"parent": "MatroidSensOracle.lemma_2_4", "child": "MatroidSensOracle_LinearMatroid", "via": ["statement"]}
+{"parent": "MatroidSensOracle.lemma_2_4", "child": "MatroidSensOracle_LinearMatroid", "via": ["solution", "statement"]}
 {"parent": "OAI.ShortDraftLocal.direct_theta_jone_zero", "child": "OAI_NumberTheory_DirichletL_GaussSum_AbelPhaseLimit", "via": ["solution", "statement"]}
 {"parent": "OAI.ShortDraftLocal.direct_theta_jone_zero", "child": "OAI_NumberTheory_DirichletL_GaussSum_ThetaLocalRows", "via": ["solution", "statement"]}
 {"parent": "UncrowdedColoring.lemma_4_13", "child": "UncrowdedColoring_SatisfiesP", "via": ["statement"]}

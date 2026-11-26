@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitTensorBarrier694_Explicit_Supplement_lemma_5_4
 -- name    : ExplicitTensorBarrier694.Explicit.Supplement.lemma_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T20:42:26.782196+00:00
 -- url     : https://prove2.me/theorems/84360960-41e6-4fde-87d3-5977b5d87e39

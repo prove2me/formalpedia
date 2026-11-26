@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1606_07694_gauge_reduced_taylor_form
 -- name    : Arxiv1606_07694.gauge_reduced_taylor_form
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T23:25:40.62418+00:00
 -- url     : https://prove2.me/theorems/814bf5c5-4aeb-454f-9cb1-471b4088fdbe

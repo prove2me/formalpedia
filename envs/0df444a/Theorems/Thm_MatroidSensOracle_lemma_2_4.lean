@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatroidSensOracle_lemma_2_4
 -- name    : MatroidSensOracle.lemma_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:49:49.381689+00:00
 -- url     : https://prove2.me/theorems/12f4e21f-c65c-4ed2-922b-74c77887d2b7

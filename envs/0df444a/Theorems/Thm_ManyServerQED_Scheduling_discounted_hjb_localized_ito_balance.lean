@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_discounted_hjb_localized_ito_balance
 -- name    : ManyServerQED.Scheduling.discounted_hjb_localized_ito_balance
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T01:23:35.253802+00:00
 -- url     : https://prove2.me/theorems/5c5da155-8725-5c2e-850c-d0812aea0942

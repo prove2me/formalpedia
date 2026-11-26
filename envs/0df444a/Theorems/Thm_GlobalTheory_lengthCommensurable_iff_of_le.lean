@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lengthCommensurable_iff_of_le
 -- name    : GlobalTheory.lengthCommensurable_iff_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:48:33.726814+00:00
 -- url     : https://prove2.me/theorems/1e57eba5-8244-5d8a-98ff-96487b51d42c

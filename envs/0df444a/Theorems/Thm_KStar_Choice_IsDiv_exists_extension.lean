@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Choice_IsDiv_exists_extension
 -- name    : KStar.Choice.IsDiv.exists_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:02:52.430331+00:00
 -- url     : https://prove2.me/theorems/458a8192-d8f8-46f7-b1f6-c565ad1ac19e

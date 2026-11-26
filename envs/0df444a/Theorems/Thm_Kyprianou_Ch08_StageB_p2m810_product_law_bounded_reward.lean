@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_product_law_bounded_reward
 -- name    : Kyprianou.Ch08.StageB.p2m810_product_law_bounded_reward
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T21:58:02.077802+00:00
 -- url     : https://prove2.me/theorems/04a76d30-1e3e-44e5-a89b-538811652c04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_NcS_LT_GLP_surj_equiv
 -- name    : Formalism.L2.SG.Pf.NcS.LT.GLP.surj_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:47:08.87558+00:00
 -- url     : https://prove2.me/theorems/b2651367-ad1b-50a2-95cd-e70002efcfd8

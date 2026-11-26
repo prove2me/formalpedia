@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_antitone_relLength_right
 -- name    : GlobalTheory.antitone_relLength_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:22.290111+00:00
 -- url     : https://prove2.me/theorems/d9b3898f-0484-52ca-87cf-290b0f55d829

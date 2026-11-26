@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_toMatrix_diag_of_unit_fac
 -- name    : WeilConjectures.exists_toMatrix_diag_of_unit_fac
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T22:31:59.605803+00:00
 -- url     : https://prove2.me/theorems/3015ec0a-ff5a-4ec2-82da-c3c427042e65

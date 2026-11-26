@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAssumptions_prop8_volume_invariant
 -- name    : TwoAssumptions.prop8_volume_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-22T23:22:02.874376+00:00
 -- url     : https://prove2.me/theorems/05dc05bf-1329-4f2c-a967-ae6be47df511

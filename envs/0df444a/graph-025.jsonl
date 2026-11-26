@@ -30365,7 +30365,7 @@
 {"parent": "ExtremalForrelation_Nonadaptive_Instance", "child": "ExtremalForrelation_Nonadaptive_Basic", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm24_1_0_3.s3_eq_g", "child": "OAIQ098G1049", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm24_1_0_3.s3_eq_g", "child": "OAIQ098G1034", "via": ["solution", "statement"]}
-{"parent": "ResPCDegreeSize.Main.lemma_3_2", "child": "ResPCDegreeSize_Main_PolynomialCalculus", "via": ["statement"]}
+{"parent": "ResPCDegreeSize.Main.lemma_3_2", "child": "ResPCDegreeSize_Main_PolynomialCalculus", "via": ["solution", "statement"]}
 {"parent": "PolyContract.lemma_b_5", "child": "PolyContract_InstanceOps", "via": ["statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.unrestrictedPrincipalDensity_twisted_squarefree", "child": "OAI_NumberTheory_DirichletL_CubicSieve_PrincipalDensity", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.unrestrictedPrincipalDensity_twisted_squarefree", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_CuspCoercivity", "via": ["solution", "statement"]}
@@ -40412,7 +40412,7 @@
 {"parent": "DistributedMIS.LocalLowerBound.occupancy_bound", "child": "DistributedMIS_LocalLowerBound_Iteration", "via": ["statement"]}
 {"parent": "KColoringFaster.ListBootstrap.lemma_3_1", "child": "KColoringFaster_ListBootstrap_Algorithms", "via": ["statement"]}
 {"parent": "KColoringFaster.ListBootstrap.lemma_3_1", "child": "KColoringFaster_ListBootstrap_Instances", "via": ["statement"]}
-{"parent": "BipHamCount.Deterministic.lemma_2_2", "child": "BipHamCount_Deterministic_Core", "via": ["statement"]}
+{"parent": "BipHamCount.Deterministic.lemma_2_2", "child": "BipHamCount_Deterministic_Core", "via": ["solution", "statement"]}
 {"parent": "LinearChoresCLS.theorem_6_12", "child": "LinearChoresCLS_RightDeriv", "via": ["solution", "statement"]}
 {"parent": "LinearChoresCLS.theorem_6_12", "child": "LinearChoresCLS_Remainders", "via": ["solution", "statement"]}
 {"parent": "IPPComplexities_Unconditional_encoding", "child": "IPPComplexities_Unconditional_interaction", "via": ["statement"]}

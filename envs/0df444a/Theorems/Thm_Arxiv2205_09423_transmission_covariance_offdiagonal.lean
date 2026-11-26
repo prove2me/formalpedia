@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09423_transmission_covariance_offdiagonal
 -- name    : Arxiv2205_09423.transmission_covariance_offdiagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T12:14:25.938137+00:00
 -- url     : https://prove2.me/theorems/5878fde3-7df9-4868-bd35-437ff4909b24

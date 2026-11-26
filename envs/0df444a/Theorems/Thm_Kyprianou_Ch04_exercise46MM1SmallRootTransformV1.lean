@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46MM1SmallRootTransformV1
 -- name    : Kyprianou.Ch04.exercise46MM1SmallRootTransformV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T00:40:14.509127+00:00
 -- url     : https://prove2.me/theorems/e6d02d48-5a28-4804-aa9a-0208ee0930af

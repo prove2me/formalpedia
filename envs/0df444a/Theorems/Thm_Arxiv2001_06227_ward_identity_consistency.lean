@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2001_06227_ward_identity_consistency
 -- name    : Arxiv2001_06227.ward_identity_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T08:07:43.398178+00:00
 -- url     : https://prove2.me/theorems/33e42d69-4c29-5744-8a46-0f0b6f47efbd

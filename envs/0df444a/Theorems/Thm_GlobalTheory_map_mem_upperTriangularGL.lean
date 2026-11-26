@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_mem_upperTriangularGL
 -- name    : GlobalTheory.map_mem_upperTriangularGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:08.255279+00:00
 -- url     : https://prove2.me/theorems/ce761634-3182-59d2-9fa6-3ecca5ccaba5

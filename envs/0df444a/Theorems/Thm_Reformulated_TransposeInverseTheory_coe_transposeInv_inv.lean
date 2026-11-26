@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_TransposeInverseTheory_coe_transposeInv_inv
 -- name    : Reformulated.TransposeInverseTheory.coe_transposeInv_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:32:25.764743+00:00
 -- url     : https://prove2.me/theorems/3bc407e3-58ef-4678-a299-5dcd34973cdc

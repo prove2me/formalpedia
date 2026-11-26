@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09423_transfer_matrix_cascade
 -- name    : Arxiv2205_09423.transfer_matrix_cascade
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T12:42:17.013874+00:00
 -- url     : https://prove2.me/theorems/c307e176-d25c-575f-b21b-eda715c38cdf

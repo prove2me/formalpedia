@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finset_leftTransversal_of_relIndex_ne_zero
 -- name    : GlobalTheory.exists_finset_leftTransversal_of_relIndex_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:05.074072+00:00
 -- url     : https://prove2.me/theorems/846f8f82-9a11-45f5-ba6d-92e02191c826

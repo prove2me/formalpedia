@@ -1,0 +1,863 @@
+-- Prove2me | solution 1 for Arxiv2205_09423.covariance_table_A1
+-- status  : ACCEPTED   (prove)
+-- author  : @garyholm
+-- created : 2026-11-26T02:13:26.708028+00:00
+-- url     : https://prove2.me/submissions/b08714ec-960f-4bd7-9575-8b1003bc5545
+
+import Mathlib
+import Definitions.Def_Arxiv2205_09423_Basic
+
+set_option autoImplicit false
+open MeasureTheory ProbabilityTheory Matrix
+open Arxiv2205_09423
+
+namespace S75MT
+variable {Nk : ℕ}
+
+lemma meas_amp (uo ui : Fin 3 → ℝ) (a b : Fin 3) : Measurable (fun X : Amp => X uo ui a b) :=
+  (measurable_pi_apply b).comp ((measurable_pi_apply a).comp
+    ((measurable_pi_apply ui).comp (measurable_pi_apply uo)))
+
+lemma meas_ampRed (K : ModeSet Nk) (vin vout : Fin (2 * Nk + 1) → Fin 3 → ℝ)
+    (j i : Fin (2 * Nk + 1)) (b a : Fin 2) :
+    Measurable (fun X : Amp => ampRed K X vin vout j i b a) := by
+  unfold ampRed reduce
+  simp only [Matrix.of_apply]
+  refine Finset.measurable_sum _ fun a' _ => Finset.measurable_sum _ fun b' _ => ?_
+  exact (measurable_const.mul (meas_amp _ _ a' b')).mul measurable_const
+
+lemma int_ampRed {Ω : Type*} [MeasurableSpace Ω] (P : Measure Ω) [IsProbabilityMeasure P]
+    (K : ModeSet Nk) (vin vout : Fin (2 * Nk + 1) → Fin 3 → ℝ)
+    (j i : Fin (2 * Nk + 1)) (b a : Fin 2) (A : Ω → Amp)
+    (hm : ∀ uo ui a b, MemLp (fun ω => A ω uo ui a b) 2 P) :
+    Integrable (fun ω => ampRed K (A ω) vin vout j i b a) P := by
+  unfold ampRed reduce
+  simp only [Matrix.of_apply]
+  refine integrable_finsetSum _ fun a' _ => integrable_finsetSum _ fun b' _ => ?_
+  exact (((hm _ _ a' b').integrable one_le_two).const_mul _).mul_const _
+
+lemma unif_exp {Ω : Type*} [MeasurableSpace Ω] (P : Measure Ω) (Z : Ω → ℝ) (dL : ℝ)
+    (hdL : 0 < dL) (hZm : Measurable Z)
+    (hZ : pdf.IsUniform Z (Set.Icc (-dL / 2) (dL / 2)) P) (a : ℝ) (ha : 0 < a) :
+    ∫ ω, Complex.exp (Complex.I * ((a * Z ω : ℝ) : ℂ)) ∂P = (Real.sinc (a * dL / 2) : ℂ) := by
+  have hf : Continuous fun z : ℝ => Complex.exp (Complex.I * ((a * z : ℝ) : ℂ)) := by fun_prop
+  rw [← integral_map (f := fun z : ℝ => Complex.exp (Complex.I * ((a * z : ℝ) : ℂ)))
+    hZm.aemeasurable hf.aestronglyMeasurable, hZ]
+  unfold ProbabilityTheory.cond
+  rw [integral_smul_measure, Real.volume_Icc, integral_Icc_eq_integral_Ioc,
+    ← intervalIntegral.integral_of_le (by linarith)]
+  have h1 : ∀ z : ℝ, Complex.exp (Complex.I * ((a * z : ℝ) : ℂ)) =
+      Complex.exp ((Complex.I * a) * z) := by intro z; push_cast; ring_nf
+  simp_rw [h1]
+  have hIa : Complex.I * a ≠ 0 := by
+    simp [Complex.I_ne_zero, ha.ne']
+  rw [integral_exp_mul_complex hIa]
+  rw [Real.sinc_of_ne_zero (by positivity)]
+  have hs : ((Real.sin (a * dL / 2) : ℝ) : ℂ) = Complex.sin ((a * dL / 2 : ℝ) : ℂ) := by
+    rw [Complex.ofReal_sin]
+  push_cast
+  rw [Complex.sin]
+  rw [ENNReal.toReal_inv, ENNReal.toReal_ofReal (by linarith)]
+  have hdL' : (dL : ℂ) ≠ 0 := by exact_mod_cast hdL.ne'
+  have ha' : (a : ℂ) ≠ 0 := by exact_mod_cast ha.ne'
+  rw [Complex.real_smul]
+  push_cast
+  field_simp
+  ring_nf
+  rw [Complex.I_sq]
+  ring_nf
+
+lemma unif_exp' {Ω : Type*} [MeasurableSpace Ω] (P : Measure Ω) [IsProbabilityMeasure P]
+    (Z : Ω → ℝ) (dL : ℝ)
+    (hdL : 0 < dL) (hZm : Measurable Z)
+    (hZ : pdf.IsUniform Z (Set.Icc (-dL / 2) (dL / 2)) P) (a : ℝ) :
+    ∫ ω, Complex.exp (Complex.I * ((a * Z ω : ℝ) : ℂ)) ∂P = (Real.sinc (a * dL / 2) : ℂ) := by
+  rcases lt_trichotomy a 0 with ha | rfl | ha
+  · have h := unif_exp P Z dL hdL hZm hZ (-a) (by linarith)
+    have hc : ∀ ω, Complex.exp (Complex.I * ((a * Z ω : ℝ) : ℂ)) =
+        (starRingEnd ℂ) (Complex.exp (Complex.I * ((-a * Z ω : ℝ) : ℂ))) := by
+      intro ω; rw [← Complex.exp_conj]; congr 1
+      simp only [map_mul, Complex.conj_I, Complex.conj_ofReal]; push_cast; ring
+    simp_rw [hc]
+    rw [integral_conj, h, Complex.conj_ofReal]
+    rw [show -a * dL / 2 = -(a * dL / 2) by ring, Real.sinc_neg]
+  · simp
+  · exact unif_exp P Z dL hdL hZm hZ a ha
+
+lemma memLp_ampRed {Ω : Type*} [MeasurableSpace Ω] (P : Measure Ω)
+    (K : ModeSet Nk) (vin vout : Fin (2 * Nk + 1) → Fin 3 → ℝ)
+    (j i : Fin (2 * Nk + 1)) (b a : Fin 2) (A : Ω → Amp)
+    (hm : ∀ uo ui a b, MemLp (fun ω => A ω uo ui a b) 2 P) :
+    MemLp (fun ω => ampRed K (A ω) vin vout j i b a) 2 P := by
+  unfold ampRed reduce
+  simp only [Matrix.of_apply]
+  refine memLp_finsetSum _ fun a' _ => memLp_finsetSum _ fun b' _ => ?_
+  exact ((hm _ _ a' b').const_mul _).mul_const _
+
+end S75MT
+
+open S75MT in
+theorem mt_main {Nk N : ℕ} (K : ModeSet Nk) (hK : K.IsValid) (dL n : ℝ)
+    {Ω : Type*} [MeasurableSpace Ω] (P : Measure Ω)
+    (r : Fin N → Ω → Fin 3 → ℝ) (A : Fin N → Ω → Amp) (hE : IsSlabEnsemble K dL n P r A)
+    (p0 : Fin N)
+    (j i : Fin (2 * Nk + 1)) (b a : Fin 2) :
+    ∫ ω, tbar K (fun p => A p ω) (fun p => r p ω) j i b a ∂P =
+      if i = j then
+        (1 : Matrix (Fin 2) (Fin 2) ℂ) b a +
+          ((2 * Real.pi * n * dL / (K.k * K.kz i) : ℝ) : ℂ) *
+            ∫ ω, ampRed K (A p0 ω) K.kvec K.kvec j i b a ∂P
+      else 0 := by
+  obtain ⟨hprob, hdL, hn, hrm, hAm, -, hrA, hid, hmem, hzind, -, hphase⟩ := hE
+  obtain ⟨hk, hmode, -, hinj, hw⟩ := hK
+  have hkz : ∀ i, 0 < K.kz i := fun i => Real.sqrt_pos.2 (by linarith [hmode i])
+  have hw0 : 0 < K.w := by rw [hw]; have := hk; positivity
+  set c : Fin 3 → ℝ := K.kvec i - K.kvec j with hc
+  set X : Fin N → Ω → ℂ := fun p ω =>
+    Complex.exp (Complex.I * ((dotProduct c (r p ω) : ℝ) : ℂ)) with hX
+  set Y : Fin N → Ω → ℂ := fun p ω => ampRed K (A p ω) K.kvec K.kvec j i b a with hY
+  have hent : ∀ ω, tbar K (fun p => A p ω) (fun p => r p ω) j i b a =
+      (if i = j then (1 : Matrix (Fin 2) (Fin 2) ℂ) else 0) b a +
+        ((K.cji j i : ℝ) : ℂ) * ∑ p, X p ω * Y p ω := by
+    intro ω
+    simp only [tbar, blockSum, Matrix.add_apply, Matrix.smul_apply, Matrix.sum_apply,
+      smul_eq_mul, X, Y, hc]
+  have hphi : Continuous fun v : Fin 3 → ℝ =>
+      Complex.exp (Complex.I * ((dotProduct c v : ℝ) : ℂ)) := by
+    simp only [dotProduct, Fin.sum_univ_three]; fun_prop
+  have hXm : ∀ p, Measurable (X p) := fun p => hphi.measurable.comp (hrm p)
+  have hXb : ∀ p ω, ‖X p ω‖ = 1 := by
+    intro p ω; simp only [X]; rw [Complex.norm_exp]; simp
+  have hYi : ∀ p, Integrable (Y p) P := fun p =>
+    int_ampRed P K K.kvec K.kvec j i b a (A p) (hmem p)
+  have hXYi : ∀ p, Integrable (fun ω => X p ω * Y p ω) P := fun p =>
+    (hYi p).bdd_mul (hXm p).aestronglyMeasurable
+      (Filter.Eventually.of_forall fun ω => (hXb p ω).le)
+  simp_rw [hent]
+  rw [integral_add (integrable_const _) ((integrable_finsetSum _ fun p _ => hXYi p).const_mul _),
+    integral_const, integral_const_mul, integral_finsetSum _ fun p _ => hXYi p]
+  simp only [probReal_univ, one_smul]
+  have hNz : (N : ℂ) ≠ 0 := by
+    have : 0 < N := Fin.pos p0
+    exact_mod_cast this.ne'
+  by_cases hij : i = j
+  · subst hij
+    have hc0 : c = 0 := by rw [hc, sub_self]
+    have hX1 : ∀ p ω, X p ω = 1 := by intro p ω; simp [X, hc0]
+    simp only [hX1, one_mul, if_true]
+    have hYe : ∀ p, ∫ ω, Y p ω ∂P = ∫ ω, Y p0 ω ∂P := fun p =>
+      ((hid p p0).comp (meas_ampRed K K.kvec K.kvec i i b a)).integral_eq
+    simp only [hYe, Finset.sum_const, Finset.card_univ, Fintype.card_fin, nsmul_eq_mul]
+    have hN := hphase p0 i i i i
+    simp only [sub_self, zero_mul, add_zero, Complex.ofReal_zero, mul_zero,
+      Complex.exp_zero, integral_const, probReal_univ, one_smul, mul_one, and_self, if_true,
+      sub_add_cancel] at hN
+    congr 1
+    rw [← mul_assoc, hN, ← Complex.ofReal_mul]
+    congr 2
+    unfold ModeSet.cji
+    rw [Real.sqrt_mul_self (hkz i).le]
+    have := Real.pi_pos
+    have := hkz i
+    field_simp
+  · rw [if_neg hij, if_neg hij]
+    have hXi : ∀ p, ∫ ω, X p ω ∂P = 0 := by
+      intro p
+      have hsplit : ∀ ω, X p ω =
+          Complex.exp (Complex.I * ((((K.kx i - K.kx j) * r p ω 0 +
+            (K.ky i - K.ky j) * r p ω 1 : ℝ)) : ℂ)) *
+          Complex.exp (Complex.I * ((((K.kz i - K.kz j) * r p ω 2 : ℝ)) : ℂ)) := by
+        intro ω
+        simp only [X, hc, ← Complex.exp_add]
+        congr 1
+        simp [dotProduct, Fin.sum_univ_three, ModeSet.kvec]
+        ring
+      simp_rw [hsplit]
+      have hind := (hzind p).comp
+        (φ := fun q : ℝ × ℝ => Complex.exp (Complex.I * ((((K.kx i - K.kx j) * q.1 +
+            (K.ky i - K.ky j) * q.2 : ℝ)) : ℂ)))
+        (ψ := fun z : ℝ => Complex.exp (Complex.I * ((((K.kz i - K.kz j) * z : ℝ)) : ℂ)))
+        (by fun_prop) (by fun_prop)
+      have hm1 : AEStronglyMeasurable ((fun q : ℝ × ℝ => Complex.exp (Complex.I * ((((K.kx i - K.kx j) * q.1 +
+            (K.ky i - K.ky j) * q.2 : ℝ)) : ℂ))) ∘ fun ω => (r p ω 0, r p ω 1)) P :=
+        ((Continuous.measurable (by fun_prop)).comp_aemeasurable
+          (((hrm p).aemeasurable.eval (a := 0)).prodMk ((hrm p).aemeasurable.eval (a := 1)))).aestronglyMeasurable
+      have hm2 : AEStronglyMeasurable ((fun z : ℝ => Complex.exp (Complex.I * ((((K.kz i - K.kz j) * z : ℝ)) : ℂ))) ∘ fun ω => r p ω 2) P :=
+        ((Continuous.measurable (by fun_prop)).comp_aemeasurable
+          ((hrm p).aemeasurable.eval (a := 2))).aestronglyMeasurable
+      have hmul := hind.integral_fun_mul_eq_mul_integral hm1 hm2
+      simp only [Function.comp_def] at hmul
+      rw [hmul]
+      have hN := hphase p i j i i
+      have e1 : K.kx i - K.kx j - K.kx i + K.kx i = K.kx i - K.kx j := by ring
+      have e2 : K.ky i - K.ky j - K.ky i + K.ky i = K.ky i - K.ky j := by ring
+      rw [e1, e2, if_neg] at hN
+      · have := (mul_eq_zero.1 hN).resolve_left hNz
+        rw [this, zero_mul]
+      · rintro ⟨h1, h2⟩
+        apply hij
+        apply hinj
+        simp only [Prod.mk.injEq]
+        constructor <;> linarith
+    have hterm : ∀ p, ∫ ω, X p ω * Y p ω ∂P = 0 := by
+      intro p
+      have hind := (hrA p).comp (φ := fun v : Fin 3 → ℝ =>
+          Complex.exp (Complex.I * ((dotProduct c v : ℝ) : ℂ)))
+        (ψ := fun Z : Amp => ampRed K Z K.kvec K.kvec j i b a) hphi.measurable
+        (meas_ampRed K K.kvec K.kvec j i b a)
+      have := hind.integral_fun_mul_eq_mul_integral
+        ((hphi.measurable.comp (hrm p)).aestronglyMeasurable)
+        (((meas_ampRed K K.kvec K.kvec j i b a).comp (hAm p)).aestronglyMeasurable)
+      simp only [Function.comp_def] at this
+      rw [this]
+      have h0 := hXi p
+      simp only [X] at h0
+      rw [h0, zero_mul]
+    simp [hterm]
+
+
+open S75MT in
+theorem mean_gen {Nk N : ℕ} (K : ModeSet Nk) (hK : K.IsValid) (dL n : ℝ)
+    {Ω : Type*} [MeasurableSpace Ω] (P : Measure Ω)
+    (r : Fin N → Ω → Fin 3 → ℝ) (A : Fin N → Ω → Amp) (hE : IsSlabEnsemble K dL n P r A)
+    (V W : Fin (2 * Nk + 1) → Fin 3 → ℝ)
+    (hV : ∀ m, V m 0 = K.kx m ∧ V m 1 = K.ky m) (hW : ∀ m, W m 0 = K.kx m ∧ W m 1 = K.ky m)
+    (j i : Fin (2 * Nk + 1)) (hij : i ≠ j) (b a : Fin 2) (p : Fin N) :
+    ∫ ω, Complex.exp (Complex.I * ((dotProduct (V i - W j) (r p ω) : ℝ) : ℂ)) *
+      ampRed K (A p ω) V W j i b a ∂P = 0 := by
+  obtain ⟨hprob, hdL, hn, hrm, hAm, -, hrA, hid, hmem, hzind, -, hphase⟩ := hE
+  obtain ⟨hk, hmode, -, hinj, hw⟩ := hK
+  have hNz : (N : ℂ) ≠ 0 := by
+    have : 0 < N := Fin.pos p
+    exact_mod_cast this.ne'
+  have hphi : Continuous fun v : Fin 3 → ℝ =>
+      Complex.exp (Complex.I * ((dotProduct (V i - W j) v : ℝ) : ℂ)) := by
+    simp only [dotProduct, Fin.sum_univ_three]; fun_prop
+  have hind := (hrA p).comp (φ := fun v : Fin 3 → ℝ =>
+      Complex.exp (Complex.I * ((dotProduct (V i - W j) v : ℝ) : ℂ)))
+    (ψ := fun Z : Amp => ampRed K Z V W j i b a) hphi.measurable (meas_ampRed K V W j i b a)
+  have := hind.integral_fun_mul_eq_mul_integral
+    ((hphi.measurable.comp (hrm p)).aestronglyMeasurable)
+    (((meas_ampRed K V W j i b a).comp (hAm p)).aestronglyMeasurable)
+  simp only [Function.comp_def] at this
+  rw [this]
+  set γ : ℝ := V i 2 - W j 2
+  have hsplit : ∀ ω, Complex.exp (Complex.I * ((dotProduct (V i - W j) (r p ω) : ℝ) : ℂ)) =
+      Complex.exp (Complex.I * ((((K.kx i - K.kx j) * r p ω 0 +
+        (K.ky i - K.ky j) * r p ω 1 : ℝ)) : ℂ)) *
+      Complex.exp (Complex.I * (((γ * r p ω 2 : ℝ)) : ℂ)) := by
+    intro ω
+    rw [← Complex.exp_add]
+    congr 1
+    simp only [dotProduct, Fin.sum_univ_three, Pi.sub_apply, (hV i).1, (hV i).2, (hW j).1,
+      (hW j).2, γ]
+    push_cast; ring
+  simp_rw [hsplit]
+  have hind2 := (hzind p).comp
+    (φ := fun q : ℝ × ℝ => Complex.exp (Complex.I * ((((K.kx i - K.kx j) * q.1 +
+        (K.ky i - K.ky j) * q.2 : ℝ)) : ℂ)))
+    (ψ := fun z : ℝ => Complex.exp (Complex.I * (((γ * z : ℝ)) : ℂ)))
+    (by fun_prop) (by fun_prop)
+  have hm1 : AEStronglyMeasurable ((fun q : ℝ × ℝ => Complex.exp (Complex.I * ((((K.kx i - K.kx j) * q.1 +
+        (K.ky i - K.ky j) * q.2 : ℝ)) : ℂ))) ∘ fun ω => (r p ω 0, r p ω 1)) P :=
+    ((Continuous.measurable (by fun_prop)).comp_aemeasurable
+      (((hrm p).aemeasurable.eval (a := 0)).prodMk ((hrm p).aemeasurable.eval (a := 1)))).aestronglyMeasurable
+  have hm2 : AEStronglyMeasurable ((fun z : ℝ => Complex.exp (Complex.I * (((γ * z : ℝ)) : ℂ))) ∘ fun ω => r p ω 2) P :=
+    ((Continuous.measurable (by fun_prop)).comp_aemeasurable
+      ((hrm p).aemeasurable.eval (a := 2))).aestronglyMeasurable
+  have hmul := hind2.integral_fun_mul_eq_mul_integral hm1 hm2
+  simp only [Function.comp_def] at hmul
+  rw [hmul]
+  have hN := hphase p i j i i
+  have e1' : K.kx i - K.kx j - K.kx i + K.kx i = K.kx i - K.kx j := by ring
+  have e2' : K.ky i - K.ky j - K.ky i + K.ky i = K.ky i - K.ky j := by ring
+  rw [e1', e2', if_neg] at hN
+  · have := (mul_eq_zero.1 hN).resolve_left hNz
+    rw [this, zero_mul, zero_mul]
+  · rintro ⟨h1, h2⟩
+    apply hij
+    apply hinj
+    simp only [Prod.mk.injEq]
+    constructor <;> linarith
+
+open S75MT in
+theorem cov_gen {Nk N : ℕ} (K : ModeSet Nk) (hK : K.IsValid) (dL n : ℝ)
+    {Ω : Type*} [MeasurableSpace Ω] (P : Measure Ω)
+    (r : Fin N → Ω → Fin 3 → ℝ) (A : Fin N → Ω → Amp) (hE : IsSlabEnsemble K dL n P r A)
+    (p0 : Fin N) (V1 W1 V2 W2 : Fin (2 * Nk + 1) → Fin 3 → ℝ)
+    (hV1 : ∀ m, V1 m 0 = K.kx m ∧ V1 m 1 = K.ky m) (hW1 : ∀ m, W1 m 0 = K.kx m ∧ W1 m 1 = K.ky m)
+    (hV2 : ∀ m, V2 m 0 = K.kx m ∧ V2 m 1 = K.ky m) (hW2 : ∀ m, W2 m 0 = K.kx m ∧ W2 m 1 = K.ky m)
+    (δ1 δ2 : ℂ)
+    (j i v u : Fin (2 * Nk + 1)) (hdiag : ¬ (i = j ∧ u = v)) (b a d c : Fin 2) :
+    covC P (fun ω => δ1 + ((K.cji j i : ℝ) : ℂ) * ∑ p,
+          Complex.exp (Complex.I * ((dotProduct (V1 i - W1 j) (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V1 W1 j i b a)
+        (fun ω => δ2 + ((K.cji v u : ℝ) : ℂ) * ∑ p,
+          Complex.exp (Complex.I * ((dotProduct (V2 u - W2 v) (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V2 W2 v u d c) =
+      ((K.deltaR i j u v * K.cijuv n dL i j u v *
+          Real.sinc (dL / 2 * ((V1 i 2 - W1 j 2) - (V2 u 2 - W2 v 2))) : ℝ) : ℂ) *
+        ∫ ω, ampRed K (A p0 ω) V1 W1 j i b a * star (ampRed K (A p0 ω) V2 W2 v u d c) ∂P := by
+  have hE0 := hE
+  have hK0 := hK
+  obtain ⟨hprob, hdL, hn, hrm, hAm, hiid, hrA, hid, hmem, hzind, hunif, hphase⟩ := hE
+  obtain ⟨hk, hmode, -, hinj, hw⟩ := hK
+  have hkz : ∀ i, 0 < K.kz i := fun i => Real.sqrt_pos.2 (by linarith [hmode i])
+  have hw0 : 0 < K.w := by rw [hw]; have := hk; positivity
+  have hNz : (N : ℂ) ≠ 0 := by
+    have : 0 < N := Fin.pos p0
+    exact_mod_cast this.ne'
+  set e1 : Fin 3 → ℝ := V1 i - W1 j with he1
+  set e2 : Fin 3 → ℝ := V2 u - W2 v with he2
+  have hphi : ∀ e : Fin 3 → ℝ, Continuous fun v : Fin 3 → ℝ =>
+      Complex.exp (Complex.I * ((dotProduct e v : ℝ) : ℂ)) := by
+    intro e; simp only [dotProduct, Fin.sum_univ_three]; fun_prop
+  have hnX : ∀ (e : Fin 3 → ℝ) (v : Fin 3 → ℝ),
+      ‖Complex.exp (Complex.I * ((dotProduct e v : ℝ) : ℂ))‖ = 1 := by
+    intro e v; rw [Complex.norm_exp]; simp
+  set F1 : (Fin 3 → ℝ) × Amp → ℂ := fun z =>
+    Complex.exp (Complex.I * ((dotProduct e1 z.1 : ℝ) : ℂ)) * ampRed K z.2 V1 W1 j i b a
+  set F2 : (Fin 3 → ℝ) × Amp → ℂ := fun z =>
+    star (Complex.exp (Complex.I * ((dotProduct e2 z.1 : ℝ) : ℂ)) * ampRed K z.2 V2 W2 v u d c)
+  have hF1 : Measurable F1 :=
+    ((hphi e1).measurable.comp measurable_fst).mul ((meas_ampRed K _ _ j i b a).comp measurable_snd)
+  have hF2 : Measurable F2 :=
+    Complex.continuous_conj.measurable.comp
+      (((hphi e2).measurable.comp measurable_fst).mul ((meas_ampRed K _ _ v u d c).comp measurable_snd))
+  have hpair : ∀ p, Measurable fun ω => (r p ω, A p ω) := fun p => (hrm p).prodMk (hAm p)
+  have hL1 : ∀ p, MemLp (fun ω => F1 (r p ω, A p ω)) 2 P := by
+    intro p
+    refine (memLp_ampRed P K V1 W1 j i b a (A p) (hmem p)).of_le
+      (hF1.comp (hpair p)).aestronglyMeasurable (Filter.Eventually.of_forall fun ω => ?_)
+    simp only [F1, norm_mul, hnX, one_mul]; exact le_rfl
+  have hL2 : ∀ p, MemLp (fun ω => F2 (r p ω, A p ω)) 2 P := by
+    intro p
+    refine (memLp_ampRed P K V2 W2 v u d c (A p) (hmem p)).of_le
+      (hF2.comp (hpair p)).aestronglyMeasurable (Filter.Eventually.of_forall fun ω => ?_)
+    simp only [F2, norm_star, norm_mul, hnX, one_mul]; exact le_rfl
+  have hI1 : ∀ p, Integrable (fun ω => F1 (r p ω, A p ω)) P := fun p => (hL1 p).integrable one_le_two
+  have hI2 : ∀ p, Integrable (fun ω => F2 (r p ω, A p ω)) P := fun p => (hL2 p).integrable one_le_two
+  have hWi : ∀ p q, Integrable (fun ω => F1 (r p ω, A p ω) * F2 (r q ω, A q ω)) P :=
+    fun p q => (hL1 p).integrable_mul (hL2 q)
+  set C1 : ℂ := ((K.cji j i : ℝ) : ℂ)
+  set C2 : ℂ := ((K.cji v u : ℝ) : ℂ)
+  have hZ2 : ∀ ω, star (δ2 + C2 * ∑ p,
+          Complex.exp (Complex.I * ((dotProduct e2 (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V2 W2 v u d c) = star δ2 + C2 * ∑ p, F2 (r p ω, A p ω) := by
+    intro ω
+    simp only [F2, star_add, star_mul', star_sum, C2, Complex.star_def, Complex.conj_ofReal]
+  have hS1 := integrable_finsetSum (Finset.univ : Finset (Fin N)) fun p _ => hI1 p
+  have hS2 := integrable_finsetSum (Finset.univ : Finset (Fin N)) fun p _ => hI2 p
+  have hSS := integrable_finsetSum (Finset.univ : Finset (Fin N)) fun p _ =>
+    integrable_finsetSum (Finset.univ : Finset (Fin N)) fun q _ => hWi p q
+  have hm2 : ∫ ω, (δ2 + C2 * ∑ p,
+          Complex.exp (Complex.I * ((dotProduct e2 (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V2 W2 v u d c) ∂P = star (star δ2 + C2 * ∑ p, ∫ ω, F2 (r p ω, A p ω) ∂P) := by
+    have e : ∀ ω, (δ2 + C2 * ∑ p,
+          Complex.exp (Complex.I * ((dotProduct e2 (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V2 W2 v u d c) =
+          (starRingEnd ℂ) (star δ2 + C2 * ∑ p, F2 (r p ω, A p ω)) := by
+      intro ω; rw [← hZ2 ω]; simp [Complex.star_def]
+    simp_rw [e]
+    rw [integral_conj, integral_add (integrable_const _) (hS2.const_mul _), integral_const,
+      integral_const_mul, integral_finsetSum _ fun p _ => hI2 p]
+    simp [Complex.star_def]
+  unfold covC
+  simp_rw [hZ2]
+  rw [hm2, star_star]
+  have hint : ∀ ω, (δ1 + C1 * ∑ p,
+          Complex.exp (Complex.I * ((dotProduct e1 (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V1 W1 j i b a) * (star δ2 + C2 * ∑ p, F2 (r p ω, A p ω)) =
+      δ1 * star δ2 + δ1 * C2 * ∑ p, F2 (r p ω, A p ω) + C1 * star δ2 * ∑ p, F1 (r p ω, A p ω)
+        + C1 * C2 * ∑ p, ∑ q, F1 (r p ω, A p ω) * F2 (r q ω, A q ω) := by
+    intro ω
+    rw [show (∑ p, Complex.exp (Complex.I * ((dotProduct e1 (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V1 W1 j i b a) = ∑ p, F1 (r p ω, A p ω) from rfl,
+      ← Finset.sum_mul_sum]
+    ring
+  simp_rw [hint]
+  have i0 : Integrable (fun ω : Ω => δ1 * star δ2) P := integrable_const _
+  have i2 : Integrable (fun ω => δ1 * C2 * ∑ p, F2 (r p ω, A p ω)) P := hS2.const_mul _
+  have i3 : Integrable (fun ω => C1 * star δ2 * ∑ p, F1 (r p ω, A p ω)) P := hS1.const_mul _
+  have i4 : Integrable (fun ω => C1 * C2 * ∑ p, ∑ q, F1 (r p ω, A p ω) * F2 (r q ω, A q ω)) P :=
+    hSS.const_mul _
+  have i02 : Integrable (fun ω => δ1 * star δ2 + δ1 * C2 * ∑ p, F2 (r p ω, A p ω)) P := i0.add i2
+  have i023 : Integrable (fun ω => δ1 * star δ2 + δ1 * C2 * ∑ p, F2 (r p ω, A p ω) +
+      C1 * star δ2 * ∑ p, F1 (r p ω, A p ω)) P := i02.add i3
+  rw [integral_add i023 i4, integral_add i02 i3, integral_add i0 i2,
+    integral_const, integral_const_mul, integral_const_mul, integral_const_mul,
+    integral_finsetSum _ fun p _ => hI1 p, integral_finsetSum _ fun p _ => hI2 p,
+    integral_finsetSum _ fun p _ => integrable_finsetSum _ fun q _ => hWi p q]
+  simp_rw [integral_finsetSum _ fun q _ => hWi _ q]
+  have hmean1 : ∀ p, ∫ ω, F1 (r p ω, A p ω) ∂P = 0 ∨ ∫ ω, F2 (r p ω, A p ω) ∂P = 0 := by
+    intro p
+    by_cases hij : i = j
+    · right
+      have huv : u ≠ v := fun h => hdiag ⟨hij, h⟩
+      have := mean_gen K hK0 dL n P r A hE0 V2 W2 hV2 hW2 v u huv d c p
+      simp only [F2]
+      rw [show (fun ω => star (Complex.exp (Complex.I * ((dotProduct e2 (r p ω) : ℝ) : ℂ)) *
+          ampRed K (A p ω) V2 W2 v u d c)) = fun ω => (starRingEnd ℂ)
+          (Complex.exp (Complex.I * ((dotProduct e2 (r p ω) : ℝ) : ℂ)) *
+          ampRed K (A p ω) V2 W2 v u d c) from rfl, integral_conj, this, map_zero]
+    · left
+      exact mean_gen K hK0 dL n P r A hE0 V1 W1 hV1 hW1 j i hij b a p
+  have hoff : ∀ p q, q ≠ p → ∫ ω, F1 (r p ω, A p ω) * F2 (r q ω, A q ω) ∂P =
+      (∫ ω, F1 (r p ω, A p ω) ∂P) * ∫ ω, F2 (r q ω, A q ω) ∂P := by
+    intro p q hqp
+    have hpq := (hiid.indepFun hqp.symm).comp hF1 hF2
+    have := hpq.integral_fun_mul_eq_mul_integral
+      (hF1.comp (hpair p)).aestronglyMeasurable (hF2.comp (hpair q)).aestronglyMeasurable
+    simp only [Function.comp_def] at this
+    exact this
+  -- reorganize: difference
+  have hprodsum : (δ1 + C1 * ∑ p, ∫ ω, F1 (r p ω, A p ω) ∂P) *
+      (star δ2 + C2 * ∑ p, ∫ ω, F2 (r p ω, A p ω) ∂P) =
+      δ1 * star δ2 + δ1 * C2 * ∑ p, ∫ ω, F2 (r p ω, A p ω) ∂P +
+        C1 * star δ2 * ∑ p, ∫ ω, F1 (r p ω, A p ω) ∂P +
+        C1 * C2 * ∑ p, ∑ q, (∫ ω, F1 (r p ω, A p ω) ∂P) * ∫ ω, F2 (r q ω, A q ω) ∂P := by
+    rw [← Finset.sum_mul_sum]; ring
+  have hm1 : ∫ ω, (δ1 + C1 * ∑ p,
+          Complex.exp (Complex.I * ((dotProduct e1 (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V1 W1 j i b a) ∂P = δ1 + C1 * ∑ p, ∫ ω, F1 (r p ω, A p ω) ∂P := by
+    rw [integral_add (integrable_const _) (hS1.const_mul _), integral_const, integral_const_mul,
+      integral_finsetSum _ fun p _ => hI1 p]
+    simp [F1]
+  rw [hm1, hprodsum]
+  simp only [probReal_univ, one_smul]
+  have hdiff : ∑ p, ∑ q, ∫ ω, F1 (r p ω, A p ω) * F2 (r q ω, A q ω) ∂P -
+      ∑ p, ∑ q, (∫ ω, F1 (r p ω, A p ω) ∂P) * ∫ ω, F2 (r q ω, A q ω) ∂P =
+      ∑ p, ∫ ω, F1 (r p ω, A p ω) * F2 (r p ω, A p ω) ∂P := by
+    rw [← Finset.sum_sub_distrib]
+    refine Finset.sum_congr rfl fun p _ => ?_
+    rw [← Finset.sum_sub_distrib, Finset.sum_eq_single p]
+    · rcases hmean1 p with h | h <;> simp [h]
+    · intro q _ hqp; rw [hoff p q hqp, sub_self]
+    · intro h; exact absurd (Finset.mem_univ p) h
+  have hfin : ∀ X Y Z U Wd : ℂ, X + Y + Z + C1 * C2 * U - (X + Y + Z + C1 * C2 * Wd) = C1 * C2 * (U - Wd) := by
+    intros; ring
+  rw [hfin, hdiff]
+  -- diagonal terms
+  set G : Amp → ℂ := fun Z => ampRed K Z V1 W1 j i b a * star (ampRed K Z V2 W2 v u d c) with hG
+  have hGm : Measurable G := (meas_ampRed K _ _ j i b a).mul
+    (Complex.continuous_conj.measurable.comp (meas_ampRed K _ _ v u d c))
+  set α : ℝ := K.kx i - K.kx j - K.kx u + K.kx v
+  set β : ℝ := K.ky i - K.ky j - K.ky u + K.ky v
+  set γ : ℝ := (V1 i 2 - W1 j 2) - (V2 u 2 - W2 v 2)
+  have hdp : ∀ p, ∫ ω, F1 (r p ω, A p ω) * F2 (r p ω, A p ω) ∂P =
+      (∫ ω, Complex.exp (Complex.I * (((α * r p ω 0 + β * r p ω 1 : ℝ)) : ℂ)) ∂P) *
+      (Real.sinc (γ * dL / 2) : ℂ) * ∫ ω, G (A p0 ω) ∂P := by
+    intro p
+    have hre : ∀ ω, F1 (r p ω, A p ω) * F2 (r p ω, A p ω) =
+        (Complex.exp (Complex.I * (((α * r p ω 0 + β * r p ω 1 : ℝ)) : ℂ)) *
+          Complex.exp (Complex.I * ((γ * r p ω 2 : ℝ) : ℂ))) * G (A p ω) := by
+      intro ω
+      simp only [F1, F2, G, star_mul', Complex.star_def, ← Complex.exp_conj, map_mul,
+        Complex.conj_I, Complex.conj_ofReal]
+      have : Complex.exp (Complex.I * ((dotProduct e1 (r p ω) : ℝ) : ℂ)) *
+          Complex.exp (-Complex.I * ((dotProduct e2 (r p ω) : ℝ) : ℂ)) =
+          Complex.exp (Complex.I * (((α * r p ω 0 + β * r p ω 1 : ℝ)) : ℂ)) *
+            Complex.exp (Complex.I * ((γ * r p ω 2 : ℝ) : ℂ)) := by
+        rw [← Complex.exp_add, ← Complex.exp_add]
+        congr 1
+        simp only [he1, he2, α, β, γ, dotProduct, Fin.sum_univ_three, Pi.sub_apply,
+          (hV1 i).1, (hV1 i).2, (hW1 j).1, (hW1 j).2, (hV2 u).1, (hV2 u).2, (hW2 v).1, (hW2 v).2]
+        push_cast; ring
+      rw [← this]; ring
+    simp_rw [hre]
+    have hind := (hrA p).comp (φ := fun w : Fin 3 → ℝ =>
+        Complex.exp (Complex.I * (((α * w 0 + β * w 1 : ℝ)) : ℂ)) *
+          Complex.exp (Complex.I * ((γ * w 2 : ℝ) : ℂ))) (ψ := G) (by fun_prop) hGm
+    have h1 := hind.integral_fun_mul_eq_mul_integral
+      ((Continuous.measurable (by fun_prop)).comp (hrm p)).aestronglyMeasurable
+      (hGm.comp (hAm p)).aestronglyMeasurable
+    simp only [Function.comp_def] at h1
+    rw [h1]
+    have hind2 := (hzind p).comp
+      (φ := fun q : ℝ × ℝ => Complex.exp (Complex.I * (((α * q.1 + β * q.2 : ℝ)) : ℂ)))
+      (ψ := fun z : ℝ => Complex.exp (Complex.I * ((γ * z : ℝ) : ℂ)))
+      (by fun_prop) (by fun_prop)
+    have hm1 : AEStronglyMeasurable ((fun q : ℝ × ℝ => Complex.exp (Complex.I * (((α * q.1 + β * q.2 : ℝ)) : ℂ))) ∘ fun ω => (r p ω 0, r p ω 1)) P :=
+      ((Continuous.measurable (by fun_prop)).comp_aemeasurable
+        (((hrm p).aemeasurable.eval (a := 0)).prodMk ((hrm p).aemeasurable.eval (a := 1)))).aestronglyMeasurable
+    have hm2 : AEStronglyMeasurable ((fun z : ℝ => Complex.exp (Complex.I * ((γ * z : ℝ) : ℂ))) ∘ fun ω => r p ω 2) P :=
+      ((Continuous.measurable (by fun_prop)).comp_aemeasurable
+        ((hrm p).aemeasurable.eval (a := 2))).aestronglyMeasurable
+    have h2 := hind2.integral_fun_mul_eq_mul_integral hm1 hm2
+    simp only [Function.comp_def] at h2
+    rw [h2, unif_exp' P (fun ω => r p ω 2) dL hdL ((measurable_pi_apply 2).comp (hrm p)) (hunif p) γ]
+    congr 1
+    exact ((hid p p0).comp hGm).integral_eq
+  simp_rw [hdp]
+  have hT : ∀ p, (N : ℂ) * ∫ ω, Complex.exp (Complex.I * (((α * r p ω 0 + β * r p ω 1 : ℝ)) : ℂ)) ∂P
+      = if α = 0 ∧ β = 0 then (((2 * Real.pi) ^ 2 * n * dL / K.w : ℝ) : ℂ) else 0 := fun p =>
+    hphase p i j u v
+  have hT' : ∀ p, ∫ ω, Complex.exp (Complex.I * (((α * r p ω 0 + β * r p ω 1 : ℝ)) : ℂ)) ∂P
+      = (N : ℂ)⁻¹ * if α = 0 ∧ β = 0 then (((2 * Real.pi) ^ 2 * n * dL / K.w : ℝ) : ℂ) else 0 := by
+    intro p; rw [← hT p, ← mul_assoc, inv_mul_cancel₀ hNz, one_mul]
+  simp_rw [hT']
+  simp only [Finset.sum_const, Finset.card_univ, Fintype.card_fin, nsmul_eq_mul]
+  rw [show dL / 2 * γ = γ * dL / 2 by ring]
+  have hcond : (α = 0 ∧ β = 0) ↔ (K.kx i - K.kx j = K.kx u - K.kx v ∧ K.ky i - K.ky j = K.ky u - K.ky v) := by
+    simp only [α, β]; constructor <;> rintro ⟨h1, h2⟩ <;> constructor <;> linarith
+  unfold ModeSet.deltaR
+  by_cases hc : α = 0 ∧ β = 0
+  · rw [if_pos hc, if_pos (hcond.1 hc)]
+    have hG0 : ∫ ω, G (A p0 ω) ∂P = ∫ ω, ampRed K (A p0 ω) V1 W1 j i b a *
+          star (ampRed K (A p0 ω) V2 W2 v u d c) ∂P := rfl
+    rw [← hG0]
+    have key : K.cji j i * K.cji v u * ((2 * Real.pi) ^ 2 * n * dL / K.w) = K.cijuv n dL i j u v := by
+      unfold ModeSet.cji ModeSet.cijuv
+      have hj := hkz j; have hi := hkz i; have hu := hkz u; have hv := hkz v
+      rw [show K.kz i * K.kz j * K.kz u * K.kz v = (K.kz j * K.kz i) * (K.kz v * K.kz u) by ring,
+        Real.sqrt_mul (by positivity)]
+      have s1 : 0 < Real.sqrt (K.kz j * K.kz i) := Real.sqrt_pos.2 (by positivity)
+      have s2 : 0 < Real.sqrt (K.kz v * K.kz u) := Real.sqrt_pos.2 (by positivity)
+      have := Real.pi_pos
+      field_simp
+      rw [← Real.sqrt_mul hj.le, ← Real.sqrt_mul (by positivity)]; congr 1; ring
+    have key' : C1 * C2 * (((2 * Real.pi) ^ 2 * n * dL / K.w : ℝ) : ℂ) =
+        ((K.cijuv n dL i j u v : ℝ) : ℂ) := by
+      simp only [C1, C2]; rw [← Complex.ofReal_mul, ← Complex.ofReal_mul, key]
+    push_cast at key' ⊢
+    rw [← key']
+    field_simp
+  · rw [if_neg hc, if_neg (fun h => hc (hcond.2 h))]
+    simp
+
+open S75MT in
+theorem pcov_gen {Nk N : ℕ} (K : ModeSet Nk) (hK : K.IsValid) (dL n : ℝ)
+    {Ω : Type*} [MeasurableSpace Ω] (P : Measure Ω)
+    (r : Fin N → Ω → Fin 3 → ℝ) (A : Fin N → Ω → Amp) (hE : IsSlabEnsemble K dL n P r A)
+    (p0 : Fin N) (V1 W1 V2 W2 : Fin (2 * Nk + 1) → Fin 3 → ℝ)
+    (hV1 : ∀ m, V1 m 0 = K.kx m ∧ V1 m 1 = K.ky m) (hW1 : ∀ m, W1 m 0 = K.kx m ∧ W1 m 1 = K.ky m)
+    (hV2 : ∀ m, V2 m 0 = K.kx m ∧ V2 m 1 = K.ky m) (hW2 : ∀ m, W2 m 0 = K.kx m ∧ W2 m 1 = K.ky m)
+    (δ1 δ2 : ℂ)
+    (j i v u : Fin (2 * Nk + 1)) (hdiag : ¬ (i = j ∧ u = v)) (b a d c : Fin 2) :
+    pcovC P (fun ω => δ1 + ((K.cji j i : ℝ) : ℂ) * ∑ p,
+          Complex.exp (Complex.I * ((dotProduct (V1 i - W1 j) (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V1 W1 j i b a)
+        (fun ω => δ2 + ((K.cji v u : ℝ) : ℂ) * ∑ p,
+          Complex.exp (Complex.I * ((dotProduct (V2 u - W2 v) (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V2 W2 v u d c) =
+      ((K.deltaP i j u v * K.cijuv n dL i j u v *
+          Real.sinc (dL / 2 * ((V1 i 2 - W1 j 2) + (V2 u 2 - W2 v 2))) : ℝ) : ℂ) *
+        ∫ ω, ampRed K (A p0 ω) V1 W1 j i b a * (ampRed K (A p0 ω) V2 W2 v u d c) ∂P := by
+  have hE0 := hE
+  have hK0 := hK
+  obtain ⟨hprob, hdL, hn, hrm, hAm, hiid, hrA, hid, hmem, hzind, hunif, hphase⟩ := hE
+  obtain ⟨hk, hmode, -, hinj, hw⟩ := hK
+  have hkz : ∀ i, 0 < K.kz i := fun i => Real.sqrt_pos.2 (by linarith [hmode i])
+  have hw0 : 0 < K.w := by rw [hw]; have := hk; positivity
+  have hNz : (N : ℂ) ≠ 0 := by
+    have : 0 < N := Fin.pos p0
+    exact_mod_cast this.ne'
+  set e1 : Fin 3 → ℝ := V1 i - W1 j with he1
+  set e2 : Fin 3 → ℝ := V2 u - W2 v with he2
+  have hphi : ∀ e : Fin 3 → ℝ, Continuous fun v : Fin 3 → ℝ =>
+      Complex.exp (Complex.I * ((dotProduct e v : ℝ) : ℂ)) := by
+    intro e; simp only [dotProduct, Fin.sum_univ_three]; fun_prop
+  have hnX : ∀ (e : Fin 3 → ℝ) (v : Fin 3 → ℝ),
+      ‖Complex.exp (Complex.I * ((dotProduct e v : ℝ) : ℂ))‖ = 1 := by
+    intro e v; rw [Complex.norm_exp]; simp
+  set F1 : (Fin 3 → ℝ) × Amp → ℂ := fun z =>
+    Complex.exp (Complex.I * ((dotProduct e1 z.1 : ℝ) : ℂ)) * ampRed K z.2 V1 W1 j i b a
+  set F2 : (Fin 3 → ℝ) × Amp → ℂ := fun z =>
+    (Complex.exp (Complex.I * ((dotProduct e2 z.1 : ℝ) : ℂ)) * ampRed K z.2 V2 W2 v u d c)
+  have hF1 : Measurable F1 :=
+    ((hphi e1).measurable.comp measurable_fst).mul ((meas_ampRed K _ _ j i b a).comp measurable_snd)
+  have hF2 : Measurable F2 :=
+      (((hphi e2).measurable.comp measurable_fst).mul ((meas_ampRed K _ _ v u d c).comp measurable_snd))
+  have hpair : ∀ p, Measurable fun ω => (r p ω, A p ω) := fun p => (hrm p).prodMk (hAm p)
+  have hL1 : ∀ p, MemLp (fun ω => F1 (r p ω, A p ω)) 2 P := by
+    intro p
+    refine (memLp_ampRed P K V1 W1 j i b a (A p) (hmem p)).of_le
+      (hF1.comp (hpair p)).aestronglyMeasurable (Filter.Eventually.of_forall fun ω => ?_)
+    simp only [F1, norm_mul, hnX, one_mul]; exact le_rfl
+  have hL2 : ∀ p, MemLp (fun ω => F2 (r p ω, A p ω)) 2 P := by
+    intro p
+    refine (memLp_ampRed P K V2 W2 v u d c (A p) (hmem p)).of_le
+      (hF2.comp (hpair p)).aestronglyMeasurable (Filter.Eventually.of_forall fun ω => ?_)
+    simp only [F2, norm_mul, hnX, one_mul]; exact le_rfl
+  have hI1 : ∀ p, Integrable (fun ω => F1 (r p ω, A p ω)) P := fun p => (hL1 p).integrable one_le_two
+  have hI2 : ∀ p, Integrable (fun ω => F2 (r p ω, A p ω)) P := fun p => (hL2 p).integrable one_le_two
+  have hWi : ∀ p q, Integrable (fun ω => F1 (r p ω, A p ω) * F2 (r q ω, A q ω)) P :=
+    fun p q => (hL1 p).integrable_mul (hL2 q)
+  set C1 : ℂ := ((K.cji j i : ℝ) : ℂ)
+  set C2 : ℂ := ((K.cji v u : ℝ) : ℂ)
+  have hS1 := integrable_finsetSum (Finset.univ : Finset (Fin N)) fun p _ => hI1 p
+  have hS2 := integrable_finsetSum (Finset.univ : Finset (Fin N)) fun p _ => hI2 p
+  have hSS := integrable_finsetSum (Finset.univ : Finset (Fin N)) fun p _ =>
+    integrable_finsetSum (Finset.univ : Finset (Fin N)) fun q _ => hWi p q
+  have hm2 : ∫ ω, (δ2 + C2 * ∑ p,
+          Complex.exp (Complex.I * ((dotProduct e2 (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V2 W2 v u d c) ∂P = δ2 + C2 * ∑ p, ∫ ω, F2 (r p ω, A p ω) ∂P := by
+    rw [integral_add (integrable_const _) (hS2.const_mul _), integral_const,
+      integral_const_mul, integral_finsetSum _ fun p _ => hI2 p]
+    simp [F2]
+  unfold pcovC
+  rw [hm2]
+  have hint : ∀ ω, (δ1 + C1 * ∑ p,
+          Complex.exp (Complex.I * ((dotProduct e1 (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V1 W1 j i b a) * (δ2 + C2 * ∑ p,
+          Complex.exp (Complex.I * ((dotProduct e2 (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V2 W2 v u d c) =
+      δ1 * δ2 + δ1 * C2 * ∑ p, F2 (r p ω, A p ω) + C1 * δ2 * ∑ p, F1 (r p ω, A p ω)
+        + C1 * C2 * ∑ p, ∑ q, F1 (r p ω, A p ω) * F2 (r q ω, A q ω) := by
+    intro ω
+    rw [show (∑ p, Complex.exp (Complex.I * ((dotProduct e1 (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V1 W1 j i b a) = ∑ p, F1 (r p ω, A p ω) from rfl,
+      show (∑ p, Complex.exp (Complex.I * ((dotProduct e2 (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V2 W2 v u d c) = ∑ p, F2 (r p ω, A p ω) from rfl,
+      ← Finset.sum_mul_sum]
+    ring
+  simp_rw [hint]
+  have i0 : Integrable (fun ω : Ω => δ1 * δ2) P := integrable_const _
+  have i2 : Integrable (fun ω => δ1 * C2 * ∑ p, F2 (r p ω, A p ω)) P := hS2.const_mul _
+  have i3 : Integrable (fun ω => C1 * δ2 * ∑ p, F1 (r p ω, A p ω)) P := hS1.const_mul _
+  have i4 : Integrable (fun ω => C1 * C2 * ∑ p, ∑ q, F1 (r p ω, A p ω) * F2 (r q ω, A q ω)) P :=
+    hSS.const_mul _
+  have i02 : Integrable (fun ω => δ1 * δ2 + δ1 * C2 * ∑ p, F2 (r p ω, A p ω)) P := i0.add i2
+  have i023 : Integrable (fun ω => δ1 * δ2 + δ1 * C2 * ∑ p, F2 (r p ω, A p ω) +
+      C1 * δ2 * ∑ p, F1 (r p ω, A p ω)) P := i02.add i3
+  rw [integral_add i023 i4, integral_add i02 i3, integral_add i0 i2,
+    integral_const, integral_const_mul, integral_const_mul, integral_const_mul,
+    integral_finsetSum _ fun p _ => hI1 p, integral_finsetSum _ fun p _ => hI2 p,
+    integral_finsetSum _ fun p _ => integrable_finsetSum _ fun q _ => hWi p q]
+  simp_rw [integral_finsetSum _ fun q _ => hWi _ q]
+  have hmean1 : ∀ p, ∫ ω, F1 (r p ω, A p ω) ∂P = 0 ∨ ∫ ω, F2 (r p ω, A p ω) ∂P = 0 := by
+    intro p
+    by_cases hij : i = j
+    · right
+      have huv : u ≠ v := fun h => hdiag ⟨hij, h⟩
+      exact mean_gen K hK0 dL n P r A hE0 V2 W2 hV2 hW2 v u huv d c p
+    · left
+      exact mean_gen K hK0 dL n P r A hE0 V1 W1 hV1 hW1 j i hij b a p
+  have hoff : ∀ p q, q ≠ p → ∫ ω, F1 (r p ω, A p ω) * F2 (r q ω, A q ω) ∂P =
+      (∫ ω, F1 (r p ω, A p ω) ∂P) * ∫ ω, F2 (r q ω, A q ω) ∂P := by
+    intro p q hqp
+    have hpq := (hiid.indepFun hqp.symm).comp hF1 hF2
+    have := hpq.integral_fun_mul_eq_mul_integral
+      (hF1.comp (hpair p)).aestronglyMeasurable (hF2.comp (hpair q)).aestronglyMeasurable
+    simp only [Function.comp_def] at this
+    exact this
+  -- reorganize: difference
+  have hprodsum : (δ1 + C1 * ∑ p, ∫ ω, F1 (r p ω, A p ω) ∂P) *
+      (δ2 + C2 * ∑ p, ∫ ω, F2 (r p ω, A p ω) ∂P) =
+      δ1 * δ2 + δ1 * C2 * ∑ p, ∫ ω, F2 (r p ω, A p ω) ∂P +
+        C1 * δ2 * ∑ p, ∫ ω, F1 (r p ω, A p ω) ∂P +
+        C1 * C2 * ∑ p, ∑ q, (∫ ω, F1 (r p ω, A p ω) ∂P) * ∫ ω, F2 (r q ω, A q ω) ∂P := by
+    rw [← Finset.sum_mul_sum]; ring
+  have hm1 : ∫ ω, (δ1 + C1 * ∑ p,
+          Complex.exp (Complex.I * ((dotProduct e1 (r p ω) : ℝ) : ℂ)) *
+            ampRed K (A p ω) V1 W1 j i b a) ∂P = δ1 + C1 * ∑ p, ∫ ω, F1 (r p ω, A p ω) ∂P := by
+    rw [integral_add (integrable_const _) (hS1.const_mul _), integral_const, integral_const_mul,
+      integral_finsetSum _ fun p _ => hI1 p]
+    simp [F1]
+  rw [hm1, hprodsum]
+  simp only [probReal_univ, one_smul]
+  have hdiff : ∑ p, ∑ q, ∫ ω, F1 (r p ω, A p ω) * F2 (r q ω, A q ω) ∂P -
+      ∑ p, ∑ q, (∫ ω, F1 (r p ω, A p ω) ∂P) * ∫ ω, F2 (r q ω, A q ω) ∂P =
+      ∑ p, ∫ ω, F1 (r p ω, A p ω) * F2 (r p ω, A p ω) ∂P := by
+    rw [← Finset.sum_sub_distrib]
+    refine Finset.sum_congr rfl fun p _ => ?_
+    rw [← Finset.sum_sub_distrib, Finset.sum_eq_single p]
+    · rcases hmean1 p with h | h <;> simp [h]
+    · intro q _ hqp; rw [hoff p q hqp, sub_self]
+    · intro h; exact absurd (Finset.mem_univ p) h
+  have hfin : ∀ X Y Z U Wd : ℂ, X + Y + Z + C1 * C2 * U - (X + Y + Z + C1 * C2 * Wd) = C1 * C2 * (U - Wd) := by
+    intros; ring
+  rw [hfin, hdiff]
+  -- diagonal terms
+  set G : Amp → ℂ := fun Z => ampRed K Z V1 W1 j i b a * (ampRed K Z V2 W2 v u d c) with hG
+  have hGm : Measurable G := (meas_ampRed K _ _ j i b a).mul (meas_ampRed K _ _ v u d c)
+  set α : ℝ := K.kx i - K.kx j - K.kx v + K.kx u
+  set β : ℝ := K.ky i - K.ky j - K.ky v + K.ky u
+  set γ : ℝ := (V1 i 2 - W1 j 2) + (V2 u 2 - W2 v 2)
+  have hdp : ∀ p, ∫ ω, F1 (r p ω, A p ω) * F2 (r p ω, A p ω) ∂P =
+      (∫ ω, Complex.exp (Complex.I * (((α * r p ω 0 + β * r p ω 1 : ℝ)) : ℂ)) ∂P) *
+      (Real.sinc (γ * dL / 2) : ℂ) * ∫ ω, G (A p0 ω) ∂P := by
+    intro p
+    have hre : ∀ ω, F1 (r p ω, A p ω) * F2 (r p ω, A p ω) =
+        (Complex.exp (Complex.I * (((α * r p ω 0 + β * r p ω 1 : ℝ)) : ℂ)) *
+          Complex.exp (Complex.I * ((γ * r p ω 2 : ℝ) : ℂ))) * G (A p ω) := by
+      intro ω
+      simp only [F1, F2, G]
+      have : Complex.exp (Complex.I * ((dotProduct e1 (r p ω) : ℝ) : ℂ)) *
+          Complex.exp (Complex.I * ((dotProduct e2 (r p ω) : ℝ) : ℂ)) =
+          Complex.exp (Complex.I * (((α * r p ω 0 + β * r p ω 1 : ℝ)) : ℂ)) *
+            Complex.exp (Complex.I * ((γ * r p ω 2 : ℝ) : ℂ)) := by
+        rw [← Complex.exp_add, ← Complex.exp_add]
+        congr 1
+        simp only [he1, he2, α, β, γ, dotProduct, Fin.sum_univ_three, Pi.sub_apply,
+          (hV1 i).1, (hV1 i).2, (hW1 j).1, (hW1 j).2, (hV2 u).1, (hV2 u).2, (hW2 v).1, (hW2 v).2]
+        push_cast; ring
+      rw [← this]; ring
+    simp_rw [hre]
+    have hind := (hrA p).comp (φ := fun w : Fin 3 → ℝ =>
+        Complex.exp (Complex.I * (((α * w 0 + β * w 1 : ℝ)) : ℂ)) *
+          Complex.exp (Complex.I * ((γ * w 2 : ℝ) : ℂ))) (ψ := G) (by fun_prop) hGm
+    have h1 := hind.integral_fun_mul_eq_mul_integral
+      ((Continuous.measurable (by fun_prop)).comp (hrm p)).aestronglyMeasurable
+      (hGm.comp (hAm p)).aestronglyMeasurable
+    simp only [Function.comp_def] at h1
+    rw [h1]
+    have hind2 := (hzind p).comp
+      (φ := fun q : ℝ × ℝ => Complex.exp (Complex.I * (((α * q.1 + β * q.2 : ℝ)) : ℂ)))
+      (ψ := fun z : ℝ => Complex.exp (Complex.I * ((γ * z : ℝ) : ℂ)))
+      (by fun_prop) (by fun_prop)
+    have hm1 : AEStronglyMeasurable ((fun q : ℝ × ℝ => Complex.exp (Complex.I * (((α * q.1 + β * q.2 : ℝ)) : ℂ))) ∘ fun ω => (r p ω 0, r p ω 1)) P :=
+      ((Continuous.measurable (by fun_prop)).comp_aemeasurable
+        (((hrm p).aemeasurable.eval (a := 0)).prodMk ((hrm p).aemeasurable.eval (a := 1)))).aestronglyMeasurable
+    have hm2 : AEStronglyMeasurable ((fun z : ℝ => Complex.exp (Complex.I * ((γ * z : ℝ) : ℂ))) ∘ fun ω => r p ω 2) P :=
+      ((Continuous.measurable (by fun_prop)).comp_aemeasurable
+        ((hrm p).aemeasurable.eval (a := 2))).aestronglyMeasurable
+    have h2 := hind2.integral_fun_mul_eq_mul_integral hm1 hm2
+    simp only [Function.comp_def] at h2
+    rw [h2, unif_exp' P (fun ω => r p ω 2) dL hdL ((measurable_pi_apply 2).comp (hrm p)) (hunif p) γ]
+    congr 1
+    exact ((hid p p0).comp hGm).integral_eq
+  simp_rw [hdp]
+  have hT : ∀ p, (N : ℂ) * ∫ ω, Complex.exp (Complex.I * (((α * r p ω 0 + β * r p ω 1 : ℝ)) : ℂ)) ∂P
+      = if α = 0 ∧ β = 0 then (((2 * Real.pi) ^ 2 * n * dL / K.w : ℝ) : ℂ) else 0 := fun p =>
+    hphase p i j v u
+  have hT' : ∀ p, ∫ ω, Complex.exp (Complex.I * (((α * r p ω 0 + β * r p ω 1 : ℝ)) : ℂ)) ∂P
+      = (N : ℂ)⁻¹ * if α = 0 ∧ β = 0 then (((2 * Real.pi) ^ 2 * n * dL / K.w : ℝ) : ℂ) else 0 := by
+    intro p; rw [← hT p, ← mul_assoc, inv_mul_cancel₀ hNz, one_mul]
+  simp_rw [hT']
+  simp only [Finset.sum_const, Finset.card_univ, Fintype.card_fin, nsmul_eq_mul]
+  rw [show dL / 2 * γ = γ * dL / 2 by ring]
+  have hcond : (α = 0 ∧ β = 0) ↔ (K.kx i - K.kx j = -(K.kx u - K.kx v) ∧ K.ky i - K.ky j = -(K.ky u - K.ky v)) := by
+    simp only [α, β]; constructor <;> rintro ⟨h1, h2⟩ <;> constructor <;> linarith
+  unfold ModeSet.deltaP
+  by_cases hc : α = 0 ∧ β = 0
+  · rw [if_pos hc, if_pos (hcond.1 hc)]
+    have hG0 : ∫ ω, G (A p0 ω) ∂P = ∫ ω, ampRed K (A p0 ω) V1 W1 j i b a *
+          (ampRed K (A p0 ω) V2 W2 v u d c) ∂P := rfl
+    rw [← hG0]
+    have key : K.cji j i * K.cji v u * ((2 * Real.pi) ^ 2 * n * dL / K.w) = K.cijuv n dL i j u v := by
+      unfold ModeSet.cji ModeSet.cijuv
+      have hj := hkz j; have hi := hkz i; have hu := hkz u; have hv := hkz v
+      rw [show K.kz i * K.kz j * K.kz u * K.kz v = (K.kz j * K.kz i) * (K.kz v * K.kz u) by ring,
+        Real.sqrt_mul (by positivity)]
+      have s1 : 0 < Real.sqrt (K.kz j * K.kz i) := Real.sqrt_pos.2 (by positivity)
+      have s2 : 0 < Real.sqrt (K.kz v * K.kz u) := Real.sqrt_pos.2 (by positivity)
+      have := Real.pi_pos
+      field_simp
+      rw [← Real.sqrt_mul hj.le, ← Real.sqrt_mul (by positivity)]; congr 1; ring
+    have key' : C1 * C2 * (((2 * Real.pi) ^ 2 * n * dL / K.w : ℝ) : ℂ) =
+        ((K.cijuv n dL i j u v : ℝ) : ℂ) := by
+      simp only [C1, C2]; rw [← Complex.ofReal_mul, ← Complex.ofReal_mul, key]
+    push_cast at key' ⊢
+    rw [← key']
+    field_simp
+  · rw [if_neg hc, if_neg (fun h => hc (hcond.2 h))]
+    simp
+
+namespace S75CT
+open S75MT
+
+lemma tbar_fun {Nk N : ℕ} (K : ModeSet Nk) {Ω : Type*} (A : Fin N → Ω → Amp) (r : Fin N → Ω → Fin 3 → ℝ)
+    (j i : Fin (2 * Nk + 1)) (b a : Fin 2) :
+    (fun ω => tbar K (fun p => A p ω) (fun p => r p ω) j i b a) = fun ω => (if i = j then (1 : Matrix (Fin 2) (Fin 2) ℂ) else 0) b a +
+      ((K.cji j i : ℝ) : ℂ) * ∑ p, Complex.exp (Complex.I * ((dotProduct (K.kvec i - K.kvec j) (r p ω) : ℝ) : ℂ)) *
+        ampRed K (A p ω) K.kvec K.kvec j i b a := by
+  funext ω
+  simp only [tbar, blockSum, Matrix.add_apply, Matrix.smul_apply, Matrix.sum_apply, smul_eq_mul]
+
+lemma rbar_fun {Nk N : ℕ} (K : ModeSet Nk) {Ω : Type*} (A : Fin N → Ω → Amp) (r : Fin N → Ω → Fin 3 → ℝ)
+    (j i : Fin (2 * Nk + 1)) (b a : Fin 2) :
+    (fun ω => rbar K (fun p => A p ω) (fun p => r p ω) j i b a) = fun ω => (0 : ℂ) +
+      ((K.cji j i : ℝ) : ℂ) * ∑ p, Complex.exp (Complex.I * ((dotProduct (K.kvec i - K.kvecT j) (r p ω) : ℝ) : ℂ)) *
+        ampRed K (A p ω) K.kvec K.kvecT j i b a := by
+  funext ω
+  simp only [rbar, blockSum, Matrix.smul_apply, Matrix.sum_apply, smul_eq_mul, zero_add]
+
+lemma tpbar_fun {Nk N : ℕ} (K : ModeSet Nk) {Ω : Type*} (A : Fin N → Ω → Amp) (r : Fin N → Ω → Fin 3 → ℝ)
+    (j i : Fin (2 * Nk + 1)) (b a : Fin 2) :
+    (fun ω => tpbar K (fun p => A p ω) (fun p => r p ω) j i b a) = fun ω => (if i = j then (1 : Matrix (Fin 2) (Fin 2) ℂ) else 0) b a +
+      ((K.cji j i : ℝ) : ℂ) * ∑ p, Complex.exp (Complex.I * ((dotProduct (K.kvecT i - K.kvecT j) (r p ω) : ℝ) : ℂ)) *
+        ampRed K (A p ω) K.kvecT K.kvecT j i b a := by
+  funext ω
+  simp only [tpbar, blockSum, Matrix.add_apply, Matrix.smul_apply, Matrix.sum_apply, smul_eq_mul]
+
+lemma rpbar_fun {Nk N : ℕ} (K : ModeSet Nk) {Ω : Type*} (A : Fin N → Ω → Amp) (r : Fin N → Ω → Fin 3 → ℝ)
+    (j i : Fin (2 * Nk + 1)) (b a : Fin 2) :
+    (fun ω => rpbar K (fun p => A p ω) (fun p => r p ω) j i b a) = fun ω => (0 : ℂ) +
+      ((K.cji j i : ℝ) : ℂ) * ∑ p, Complex.exp (Complex.I * ((dotProduct (K.kvecT i - K.kvec j) (r p ω) : ℝ) : ℂ)) *
+        ampRed K (A p ω) K.kvecT K.kvec j i b a := by
+  funext ω
+  simp only [rpbar, blockSum, Matrix.smul_apply, Matrix.sum_apply, smul_eq_mul, zero_add]
+end S75CT
+
+open S75MT S75CT in
+theorem solution {Nk N : ℕ} (K : ModeSet Nk) (hK : K.IsValid) (dL n : ℝ)
+    {Ω : Type*} [MeasurableSpace Ω] (P : Measure Ω)
+    (r : Fin N → Ω → Fin 3 → ℝ) (A : Fin N → Ω → Amp) (hE : IsSlabEnsemble K dL n P r A)
+    (p0 : Fin N)
+    (j i v u : Fin (2 * Nk + 1)) (hdiag : ¬ (i = j ∧ u = v)) (b a d c : Fin 2) :
+    let T := fun ω => tbar K (fun p => A p ω) (fun p => r p ω)
+    let R := fun ω => rbar K (fun p => A p ω) (fun p => r p ω)
+    let Tp := fun ω => tpbar K (fun p => A p ω) (fun p => r p ω)
+    let Rp := fun ω => rpbar K (fun p => A p ω) (fun p => r p ω)
+    let At := fun ω => ampRed K (A p0 ω) K.kvec K.kvec
+    let Ar := fun ω => ampRed K (A p0 ω) K.kvec K.kvecT
+    let Atp := fun ω => ampRed K (A p0 ω) K.kvecT K.kvecT
+    let Arp := fun ω => ampRed K (A p0 ω) K.kvecT K.kvec
+    let C := K.cijuv n dL i j u v
+    let kz := K.kz
+    covC P (fun ω => T ω j i b a) (fun ω => T ω v u d c) =
+        ((K.deltaR i j u v * C * Real.sinc (dL / 2 * (kz i - kz j - kz u + kz v)) : ℝ) : ℂ) *
+          ∫ ω, At ω j i b a * star (At ω v u d c) ∂P ∧
+    covC P (fun ω => R ω j i b a) (fun ω => R ω v u d c) =
+        ((K.deltaR i j u v * C * Real.sinc (dL / 2 * (kz i + kz j - kz u - kz v)) : ℝ) : ℂ) *
+          ∫ ω, Ar ω j i b a * star (Ar ω v u d c) ∂P ∧
+    covC P (fun ω => Tp ω j i b a) (fun ω => Tp ω v u d c) =
+        ((K.deltaR i j u v * C * Real.sinc (dL / 2 * (-kz i + kz j + kz u - kz v)) : ℝ) : ℂ) *
+          ∫ ω, Atp ω j i b a * star (Atp ω v u d c) ∂P ∧
+    covC P (fun ω => Rp ω j i b a) (fun ω => Rp ω v u d c) =
+        ((K.deltaR i j u v * C * Real.sinc (dL / 2 * (-kz i - kz j + kz u + kz v)) : ℝ) : ℂ) *
+          ∫ ω, Arp ω j i b a * star (Arp ω v u d c) ∂P ∧
+    pcovC P (fun ω => T ω j i b a) (fun ω => T ω v u d c) =
+        ((K.deltaP i j u v * C * Real.sinc (dL / 2 * (kz i - kz j + kz u - kz v)) : ℝ) : ℂ) *
+          ∫ ω, At ω j i b a * At ω v u d c ∂P ∧
+    pcovC P (fun ω => R ω j i b a) (fun ω => R ω v u d c) =
+        ((K.deltaP i j u v * C * Real.sinc (dL / 2 * (kz i + kz j + kz u + kz v)) : ℝ) : ℂ) *
+          ∫ ω, Ar ω j i b a * Ar ω v u d c ∂P ∧
+    pcovC P (fun ω => Tp ω j i b a) (fun ω => Tp ω v u d c) =
+        ((K.deltaP i j u v * C * Real.sinc (dL / 2 * (-kz i + kz j - kz u + kz v)) : ℝ) : ℂ) *
+          ∫ ω, Atp ω j i b a * Atp ω v u d c ∂P ∧
+    pcovC P (fun ω => Rp ω j i b a) (fun ω => Rp ω v u d c) =
+        ((K.deltaP i j u v * C * Real.sinc (dL / 2 * (-kz i - kz j - kz u - kz v)) : ℝ) : ℂ) *
+          ∫ ω, Arp ω j i b a * Arp ω v u d c ∂P := by
+  intro T R Tp Rp At Ar Atp Arp C kz
+  have hk : ∀ m, K.kvec m 0 = K.kx m ∧ K.kvec m 1 = K.ky m := fun m => by simp [ModeSet.kvec]
+  have hkT : ∀ m, K.kvecT m 0 = K.kx m ∧ K.kvecT m 1 = K.ky m := fun m => by simp [ModeSet.kvecT]
+  have z1 : ∀ m, K.kvec m 2 = K.kz m := fun m => by simp [ModeSet.kvec]
+  have z2 : ∀ m, K.kvecT m 2 = -K.kz m := fun m => by simp [ModeSet.kvecT]
+  simp only [T, R, Tp, Rp, At, Ar, Atp, Arp, C, kz]
+  refine ⟨?_, ?_, ?_, ?_, ?_, ?_, ?_, ?_⟩
+  · rw [tbar_fun K A r j i b a, tbar_fun K A r v u d c,
+      cov_gen K hK dL n P r A hE p0 _ _ _ _ hk hk hk hk _ _ j i v u hdiag b a d c, z1, z1, z1, z1]
+    congr 4; ring
+  · rw [rbar_fun K A r j i b a, rbar_fun K A r v u d c,
+      cov_gen K hK dL n P r A hE p0 _ _ _ _ hk hkT hk hkT _ _ j i v u hdiag b a d c, z1, z2, z1, z2]
+    congr 4; ring
+  · rw [tpbar_fun K A r j i b a, tpbar_fun K A r v u d c,
+      cov_gen K hK dL n P r A hE p0 _ _ _ _ hkT hkT hkT hkT _ _ j i v u hdiag b a d c, z2, z2, z2, z2]
+    congr 4; ring
+  · rw [rpbar_fun K A r j i b a, rpbar_fun K A r v u d c,
+      cov_gen K hK dL n P r A hE p0 _ _ _ _ hkT hk hkT hk _ _ j i v u hdiag b a d c, z2, z1, z2, z1]
+    congr 4; ring
+  · rw [tbar_fun K A r j i b a, tbar_fun K A r v u d c,
+      pcov_gen K hK dL n P r A hE p0 _ _ _ _ hk hk hk hk _ _ j i v u hdiag b a d c, z1, z1, z1, z1]
+    congr 4; ring
+  · rw [rbar_fun K A r j i b a, rbar_fun K A r v u d c,
+      pcov_gen K hK dL n P r A hE p0 _ _ _ _ hk hkT hk hkT _ _ j i v u hdiag b a d c, z1, z2, z1, z2]
+    congr 4; ring
+  · rw [tpbar_fun K A r j i b a, tpbar_fun K A r v u d c,
+      pcov_gen K hK dL n P r A hE p0 _ _ _ _ hkT hkT hkT hkT _ _ j i v u hdiag b a d c, z2, z2, z2, z2]
+    congr 4; ring
+  · rw [rpbar_fun K A r j i b a, rpbar_fun K A r v u d c,
+      pcov_gen K hK dL n P r A hE p0 _ _ _ _ hkT hk hkT hk _ _ j i v u hdiag b a d c, z2, z1, z2, z1]
+    congr 4; ring

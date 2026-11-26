@@ -12951,8 +12951,8 @@
 {"parent": "actuarial_d_member_spouse_last", "child": "actuarial_d_annValue", "via": ["statement"]}
 {"parent": "actuarial_d_member_spouse_last", "child": "actuarial_d_annPath", "via": ["statement"]}
 {"parent": "actuarial_d_member_spouse_last", "child": "actuarial_d_annLast", "via": ["solution", "statement"]}
-{"parent": "SingularCardinals.cf_eq_aleph0_of_least_sch_counterexample", "child": "JechStationary", "via": ["statement"]}
-{"parent": "SingularCardinals.cf_eq_aleph0_of_least_sch_counterexample", "child": "SingularCardinals_basic", "via": ["statement"]}
+{"parent": "SingularCardinals.cf_eq_aleph0_of_least_sch_counterexample", "child": "JechStationary", "via": ["solution", "statement"]}
+{"parent": "SingularCardinals.cf_eq_aleph0_of_least_sch_counterexample", "child": "SingularCardinals_basic", "via": ["solution", "statement"]}
 {"parent": "NoHair_KerrNewmanEinstein_MaxwellF", "child": "NoHair_KerrNewmanEinstein_Base", "via": ["statement"]}
 {"parent": "NLogN.AX.axOut_facts2", "child": "IntMul_HvdH_M_Defs8", "via": ["solution", "statement"]}
 {"parent": "actuarial_c_premium_path_expectation", "child": "actuarial_c_due", "via": ["solution", "statement"]}

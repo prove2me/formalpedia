@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAssumptions_prop7_conjugate_pair
 -- name    : TwoAssumptions.prop7_conjugate_pair
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-22T23:20:40.436391+00:00
 -- url     : https://prove2.me/theorems/2ef9b1f6-3364-4955-9249-00173e324de0

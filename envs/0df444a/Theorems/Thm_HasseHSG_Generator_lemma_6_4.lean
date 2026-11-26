@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HasseHSG_Generator_lemma_6_4
 -- name    : HasseHSG.Generator.lemma_6_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T05:36:34.067564+00:00
 -- url     : https://prove2.me/theorems/7baec8af-cef3-40a6-af43-4e9fd142d361

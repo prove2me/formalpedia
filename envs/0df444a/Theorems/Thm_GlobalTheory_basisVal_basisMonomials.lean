@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_basisVal_basisMonomials
 -- name    : GlobalTheory.basisVal_basisMonomials
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:44.10919+00:00
 -- url     : https://prove2.me/theorems/06437c6f-4a69-44b1-b1fa-ae00d7f24639

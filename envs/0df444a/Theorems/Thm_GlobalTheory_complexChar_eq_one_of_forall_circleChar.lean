@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_complexChar_eq_one_of_forall_circleChar
 -- name    : GlobalTheory.complexChar_eq_one_of_forall_circleChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:02.639748+00:00
 -- url     : https://prove2.me/theorems/92c64338-3ab0-5721-bd5f-d6d734a672d2

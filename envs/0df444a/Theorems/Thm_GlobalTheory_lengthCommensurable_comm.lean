@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lengthCommensurable_comm
 -- name    : GlobalTheory.lengthCommensurable_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:48:14.212886+00:00
 -- url     : https://prove2.me/theorems/1d092114-e26c-5c18-b5f3-7ac3361e4ca0

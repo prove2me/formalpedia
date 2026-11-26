@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ManyServerQED.Scheduling.discounted_hjb_limit_expected_balance
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Jie Luo
 -- created : 2026-11-26T01:28:16.469359+00:00
 -- url     : https://prove2.me/submissions/69dc8919-cc55-49ee-a0ae-9b95a110b41d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ManyServerQED_Scheduling_discounted_hjb_localized_ito_balance
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp119bLeavesA2_interp_A4
 -- name    : LL_Decomp119bLeavesA2.interp_A4
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-24T15:48:55.256683+00:00
 -- url     : https://prove2.me/theorems/2c687137-cc8b-42bf-87db-a3b148b16376

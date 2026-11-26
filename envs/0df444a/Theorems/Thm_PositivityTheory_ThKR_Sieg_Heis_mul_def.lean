@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Sieg_Heis_mul_def
 -- name    : PositivityTheory.ThKR.Sieg.Heis.mul_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:01:16.271555+00:00
 -- url     : https://prove2.me/theorems/8bcba647-0eb6-410a-98a8-196141418d10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09423_normalized_blocks_single_scattering
 -- name    : Arxiv2205_09423.normalized_blocks_single_scattering
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T11:54:50.260431+00:00
 -- url     : https://prove2.me/theorems/2560c9d4-c130-456b-8c7b-6ae19b250a45

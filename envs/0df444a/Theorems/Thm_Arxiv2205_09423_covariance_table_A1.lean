@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09423_covariance_table_A1
 -- name    : Arxiv2205_09423.covariance_table_A1
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T12:27:49.475557+00:00
 -- url     : https://prove2.me/theorems/ff5e8376-ef05-4498-8f74-afe51b8a5130

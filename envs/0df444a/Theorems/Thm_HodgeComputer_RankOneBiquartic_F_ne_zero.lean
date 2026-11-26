@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_RankOneBiquartic_F_ne_zero
 -- name    : HodgeComputer.RankOneBiquartic.F_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T10:35:31.136591+00:00
 -- url     : https://prove2.me/theorems/98523f89-7670-4396-9d28-6fe94da68c5c

@@ -1,0 +1,1046 @@
+-- Prove2me | solution 1 for ManyServerQED.Scheduling.queue_primitives_joint_finite_observation_limit
+-- status  : ACCEPTED   (prove)
+-- author  : @Jie Luo
+-- created : 2026-11-26T03:00:31.872196+00:00
+-- url     : https://prove2.me/submissions/3c62bf28-6b8f-4584-9b8a-d52fade81c0a
+
+import Theorems.Thm_ManyServerQED_Scheduling_poisson_primitive_deterministic_clock_change
+import Theorems.Thm_ManyServerQED_Scheduling_poisson_rows_centered_finite_observation_limit
+import Theorems.Thm_ManyServerQED_Scheduling_joint_weak_limit_of_independent_finite_family
+import Mathlib
+import Theorems.Thm_DurrettProbability_donsker
+import Definitions.Def_ManyServerQED_Scheduling_Model
+import Definitions.Def_DurrettProbability_Donsker
+
+open Set Filter Topology MeasureTheory ProbabilityTheory DurrettProbability
+open scoped ENNReal NNReal
+private abbrev I := Icc (0:ℝ) 1
+
+private def modBad (d ε : ℝ) : Set PathSpace :=
+  {f | ∃ s t : I, dist s t ≤ d ∧ ε ≤ ‖(fun _ : Fin 1 => f s) - (fun _ : Fin 1 => f t)‖}
+
+private theorem isClosed_modBad (d ε : ℝ) : IsClosed (modBad d ε) := by
+  let R : Set (I × I) := {p | dist p.1 p.2 ≤ d}
+  have hr : IsClosed R := isClosed_le (continuous_fst.dist continuous_snd) continuous_const
+  let Q : Set (PathSpace × (I × I)) :=
+    {p | p.2 ∈ R ∧ ε ≤ ‖(fun _ : Fin 1 => p.1 p.2.1) - (fun _ : Fin 1 => p.1 p.2.2)‖}
+  have h₁ : Continuous (fun p : PathSpace × (I × I) => (fun _ : Fin 1 => p.1 p.2.1)) := by
+    apply continuous_pi
+    intro i
+    exact continuous_eval.comp (continuous_fst.prodMk (continuous_fst.comp continuous_snd))
+  have h₂ : Continuous (fun p : PathSpace × (I × I) => (fun _ : Fin 1 => p.1 p.2.2)) := by
+    apply continuous_pi
+    intro i
+    exact continuous_eval.comp (continuous_fst.prodMk (continuous_snd.comp continuous_snd))
+  have hQ : IsClosed Q :=
+    (hr.preimage continuous_snd).inter (isClosed_le continuous_const (h₁.sub h₂).norm)
+  have him := isClosedMap_fst_of_compactSpace Q hQ
+  convert him using 1
+  ext f
+  change (∃ s t : I, dist s t ≤ d ∧ _) ↔ ∃ p ∈ Q, p.1 = f
+  constructor
+  · rintro ⟨s,t,h₁,h₂⟩
+    exact ⟨(f,s,t),⟨h₁,h₂⟩,rfl⟩
+  · rintro ⟨⟨p,s,t⟩,⟨h₁,h₂⟩,rfl⟩
+    exact ⟨s,t,h₁,h₂⟩
+
+private theorem continuous_path_tightness {Ω Ω' : Type*} [MeasurableSpace Ω] [MeasurableSpace Ω']
+    {P : Measure Ω} {P' : Measure Ω'} [IsProbabilityMeasure P] [IsProbabilityMeasure P']
+    (X : ℕ → Ω → PathSpace) (Y : Ω' → PathSpace)
+    (h : TendstoInDistribution X atTop Y (fun _ => P) P')
+    (ε η : ℝ) (hε : 0 < ε) (hη : 0 < η) :
+    ∃ A > 0, ∃ δ > 0, ∀ᶠ n in atTop,
+      P {ω | A ≤ ‖X n ω‖ ∨ ∃ s t : Set.Icc (0:ℝ) 1,
+        dist s t ≤ δ ∧ ε ≤ |X n ω s-X n ω t|} ≤ ENNReal.ofReal η := by
+  let μn : ℕ → ProbabilityMeasure PathSpace := fun n =>
+    ⟨P.map (X n),Measure.isProbabilityMeasure_map (h.forall_aemeasurable n)⟩
+  let μ : ProbabilityMeasure PathSpace :=
+    ⟨P'.map Y,Measure.isProbabilityMeasure_map h.aemeasurable_limit⟩
+  have hμ : Tendsto μn atTop (𝓝 μ) := h.tendsto
+  have hPos : 0 < η/2 := by linarith
+  have small_closed_family (B : ℕ → Set PathSpace) (hB : ∀ m, IsClosed (B m))
+      (hA : Antitone B) (h0 : (⋂ m, B m) = ∅) :
+      ∃ m, ∀ᶠ n in atTop, (μn n : Measure PathSpace) (B m) ≤ ENNReal.ofReal (η/2) := by
+    have hL := tendsto_measure_iInter_atTop (μ := (μ : Measure PathSpace))
+      (fun m => (hB m).measurableSet.nullMeasurableSet) hA ⟨0,measure_ne_top _ _⟩
+    rw [h0,measure_empty] at hL
+    obtain ⟨m,hm⟩ := ((tendsto_order.1 hL).2 (ENNReal.ofReal (η/2)) (ENNReal.ofReal_pos.2 hPos)).exists
+    have hLS := ProbabilityMeasure.limsup_measure_closed_le_of_tendsto hμ (hB m)
+    exact ⟨m,(eventually_lt_of_limsup_lt (hLS.trans_lt hm)).mono (fun _ h => h.le)⟩
+  let B (m : ℕ) : Set PathSpace := {f | (m:ℝ)+1 ≤ ‖f‖}
+  have hB (m : ℕ) : IsClosed (B m) := isClosed_le continuous_const continuous_norm
+  have hBA : Antitone B := by
+    intro m n hmn f hf
+    have hc : (m:ℝ) ≤ n := by exact_mod_cast hmn
+    exact le_trans (add_le_add_left hc 1) hf
+  have hB0 : (⋂ m, B m) = ∅ := by
+    apply eq_empty_iff_forall_notMem.2
+    intro f hf
+    obtain ⟨m,hm⟩ := exists_nat_gt ‖f‖
+    have hh : (m:ℝ)+1 ≤ ‖f‖ := (Set.mem_iInter.1 hf) m
+    linarith
+  obtain ⟨m,hm⟩ := small_closed_family B hB hBA hB0
+  let d (l : ℕ) : ℝ := 1/((l:ℝ)+1)
+  have hd : Tendsto d atTop (𝓝 0) :=
+    tendsto_const_nhds.div_atTop (tendsto_atTop_add_const_right _ _ tendsto_natCast_atTop_atTop)
+  have hdpos (l : ℕ) : 0 < d l := by dsimp [d]; positivity
+  have hdant : Antitone d := by
+    intro i j hij
+    exact one_div_le_one_div_of_le (by positivity) (by exact_mod_cast Nat.succ_le_succ hij)
+  let C (l : ℕ) := modBad (d l) ε
+  have hC (l : ℕ) : IsClosed (C l) := isClosed_modBad _ _
+  have hCA : Antitone C := by
+    rintro i j h f ⟨s,t,hst,hεt⟩
+    exact ⟨s,t,hst.trans (hdant h),hεt⟩
+  have hC0 : (⋂ l, C l) = ∅ := by
+    apply eq_empty_iff_forall_notMem.2
+    intro f hf
+    have hCont : Continuous (fun t : I => fun _ : Fin 1 => f t) :=
+      continuous_pi (fun _ => f.continuous)
+    obtain ⟨δ,hδ,hmod⟩ := Metric.uniformContinuous_iff.mp
+      (CompactSpace.uniformContinuous_of_continuous hCont) ε hε
+    obtain ⟨l,hl⟩ := ((tendsto_order.1 hd).2 δ hδ).exists
+    obtain ⟨s,t,hst,hεt⟩ := mem_iInter.1 hf l
+    exact (not_lt_of_ge hεt) (by simpa only [dist_eq_norm] using hmod (hst.trans_lt hl))
+  obtain ⟨l,hl⟩ := small_closed_family C hC hCA hC0
+  refine ⟨(m:ℝ)+1,by positivity,d l,hdpos l,?_⟩
+  filter_upwards [hm,hl] with n hmn hln
+  have hIncl : {ω | (m:ℝ)+1 ≤ ‖X n ω‖ ∨ ∃ s t : I,
+      dist s t ≤ d l ∧ ε ≤ |X n ω s-X n ω t|} ⊆ X n ⁻¹' (B m ∪ C l) := by
+    rintro ω (h1 | ⟨s,t,hst,h2⟩)
+    · exact Or.inl h1
+    · apply Or.inr
+      refine ⟨s,t,hst,?_⟩
+      have hh : |X n ω s-X n ω t| ≤ ‖(fun _ : Fin 1 => X n ω s) - (fun _ : Fin 1 => X n ω t)‖ := by
+        simpa [Real.norm_eq_abs] using norm_le_pi_norm ((fun _ : Fin 1 => X n ω s) -
+          (fun _ : Fin 1 => X n ω t)) (0:Fin 1)
+      exact h2.trans hh
+  refine (measure_mono hIncl).trans ?_
+  rw [← Measure.map_apply_of_aemeasurable (h.forall_aemeasurable n) ((hB m).measurableSet.union (hC l).measurableSet)]
+  change (μn n : Measure PathSpace) (B m ∪ C l) ≤ _
+  refine (measure_union_le _ _).trans ((add_le_add hmn hln).trans_eq ?_)
+  rw [← ENNReal.ofReal_add hPos.le hPos.le]
+  congr 1
+  ring
+
+open MeasureTheory ProbabilityTheory Filter Topology Finset
+open scoped ENNReal NNReal
+open ManyServerQED.Scheduling BellWilliams2001.ThresholdPolicy
+
+private theorem renewal_bracket {e : ℕ → ℝ} (he : StrictMono e) {s : ℝ} {m : ℕ}
+    (h0 : e 0 ≤ s) (hm : s < e m) :
+    ∃ j < m, e j ≤ s ∧ s < e (j + 1) ∧ renewalCount e s = j := by
+  have hExists : ∃ i, s < e i := ⟨m, hm⟩
+  let b := Nat.find hExists
+  have hb : s < e b := Nat.find_spec hExists
+  have hb_le : b ≤ m := Nat.find_min' hExists hm
+  have hb_pos : 0 < b := by
+    by_contra! hb0
+    rw [Nat.eq_zero_of_le_zero hb0] at hb
+    exact (not_lt_of_ge h0) hb
+  let j := b - 1
+  have hsucc : j + 1 = b := by dsimp [j]; omega
+  have hj_lt : j < b := by omega
+  have hj : e j ≤ s := le_of_not_gt (Nat.find_min hExists hj_lt)
+  have hj_succ : s < e (j + 1) := by rwa [hsucc]
+  refine ⟨j, hj_lt.trans_le hb_le, hj, hj_succ, le_antisymm ?_ ?_⟩
+  · unfold renewalCount
+    refine iSup_le fun r => iSup_le fun hr => ?_
+    have h : r ≤ j := by
+      by_contra! hjr
+      exact (not_lt_of_ge hr) (hj_succ.trans_le (he.monotone hjr))
+    exact_mod_cast h
+  · unfold renewalCount
+    exact le_iSup_of_le j (le_iSup_of_le hj le_rfl)
+
+set_option maxHeartbeats 850000 in
+private theorem local_renewal_sandwich (n : ℕ) (hn : 1 ≤ n) (e : ℕ → ℝ) (he : StrictMono e) (he0 : e 0 = 0)
+    (u : ℝ → ℝ) (H : ℝ) (hgrid : ∀ j : ℕ, (j:ℝ)/n ≤ H → u ((j:ℝ)/n) = (e j-j)/Real.sqrt n)
+    (a T D δ ε : ℝ) (ha : 0 ≤ a) (hT : 0 ≤ T) (hH : a*T+3 ≤ H)
+    (hD : ∀ s ∈ Set.Icc (0:ℝ) H, |u s| ≤ D)
+    (hDsmall : D/Real.sqrt n < min 1 (δ/4))
+    (hNsmall : 1/(n:ℝ) < δ/4) (hRsmall : 1/Real.sqrt n < ε/4) (hε : 0 < ε)
+    (hMod : ∀ s ∈ Set.Icc (0:ℝ) H, ∀ t ∈ Set.Icc (0:ℝ) H,
+      |s-t| < δ → |u s-u t| < ε/2) :
+    ∀ t ∈ Set.Icc (0:ℝ) T,
+      |(((renewalCount e ((n:ℝ)*a*t)).toNat:ℝ) - (n:ℝ)*a*t)/Real.sqrt n + u (a*t)| < ε := by
+  intro t ht
+  have hn1 : (1:ℝ) ≤ n := by exact_mod_cast hn
+  have hn0 : (0:ℝ) < n := by linarith
+  have hsqrt : 0 < Real.sqrt (n:ℝ) := Real.sqrt_pos.2 hn0
+  have hdiv1 : 1/(n:ℝ) ≤ 1 := by rwa [div_le_one hn0]
+  have haT : a*t ≤ H-3 :=
+    (mul_le_mul_of_nonneg_left ht.2 ha).trans (by linarith)
+  have hvt : a*t ∈ Set.Icc 0 H := ⟨mul_nonneg ha ht.1,by linarith⟩
+  let m : ℕ := ⌈(n:ℝ)*(H-1)⌉₊
+  have hhm : H-1 ≤ (m:ℝ)/n := by
+    apply (le_div_iff₀ hn0).2
+    simpa [m,mul_comm] using (Nat.le_ceil ((n:ℝ)*(H-1)))
+  have hmH : (m:ℝ)/n ≤ H := by
+    have hH1 : 0 ≤ H-1 := by nlinarith [mul_nonneg ha hT]
+    have hce := (Nat.ceil_lt_add_one (mul_nonneg hn0.le hH1)).le
+    have he : (m:ℝ)/n ≤ (H-1)+1/(n:ℝ) := by
+      apply (div_le_iff₀ hn0).2
+      rw [add_mul, div_mul_cancel₀ _ hn0.ne']
+      exact (by simpa only [m, mul_comm (H-1)] using hce)
+    linarith
+  have hDiv (j : ℕ) (hj : j ≤ m) : (j:ℝ)/n ∈ Set.Icc 0 H :=
+    ⟨by positivity, (div_le_div_of_nonneg_right (by exact_mod_cast hj) hn0.le).trans hmH⟩
+  have hDiff (j : ℕ) (hj : j ≤ m) : |(e j)/(n:ℝ) - (j:ℝ)/n| ≤ D / Real.sqrt n := by
+    have huB := hD _ (hDiv j hj)
+    have hcalc : e j/(n:ℝ) - (j:ℝ)/n = (e j - j) / Real.sqrt n / Real.sqrt n := by
+      rw [← sub_div, div_div, ← pow_two, Real.sq_sqrt hn0.le]
+    rw [hcalc, ← hgrid j (hDiv j hj).2, abs_div, abs_of_pos hsqrt]
+    exact div_le_div_of_nonneg_right huB hsqrt.le
+  have hStop : (n:ℝ) * a * t < e m := by
+    calc
+      _ = (a*t) * n := by ring
+      _ < (e m / (n:ℝ)) * n := by
+        apply mul_lt_mul_of_pos_right _ hn0
+        have hdiff := (abs_le.mp (hDiff m le_rfl)).1
+        linarith [(lt_min_iff.mp hDsmall).1]
+      _ = _ := div_mul_cancel₀ _ hn0.ne'
+  obtain ⟨j, hj, hjL, hjR, hCount⟩ := renewal_bracket (he)
+    (by rw [he0]; exact mul_nonneg (mul_nonneg hn0.le (ha)) ht.1) hStop
+  have hjm : j+1 ≤ m := Nat.succ_le_of_lt hj
+  have hrot : (n:ℝ) * a * t = a * t * (n:ℝ) := by ring
+  have hL : (e j)/(n:ℝ) ≤ a*t := by
+    rw [div_le_iff₀ hn0]
+    exact hrot ▸ hjL
+  have hR : a*t < (e (j+1))/(n:ℝ) := by
+    rw [lt_div_iff₀ hn0]
+    exact hrot ▸ hjR
+  have hNext : ((j+1:ℕ):ℝ)/(n:ℝ) = (j:ℝ)/n + 1/n := by
+    simp [add_div]
+  have hNear0 : |(j:ℝ)/n - a*t| < δ/2 := by
+    have hdiff1 := abs_le.mp (hDiff j hj.le)
+    have hdiff2 := abs_le.mp (hDiff (j+1) hjm)
+    rw [hNext] at hdiff2
+    exact abs_lt.mpr ⟨by linarith [(lt_min_iff.mp hDsmall).2], by linarith [(lt_min_iff.mp hDsmall).2]⟩
+  have hNear1 : |((j+1:ℕ):ℝ)/(n:ℝ) - a*t| < δ/2 := by
+    have hdiff1 := abs_le.mp (hDiff j hj.le)
+    have hdiff2 := abs_le.mp (hDiff (j+1) hjm)
+    rw [hNext] at hdiff2 ⊢
+    exact abs_lt.mpr ⟨by linarith [(lt_min_iff.mp hDsmall).2], by linarith [(lt_min_iff.mp hDsmall).2]⟩
+  have hLocal (k : ℕ) (hk : k ≤ m) (hh : |(k:ℝ)/n - a*t| < δ/2) :
+      |u ((k:ℝ)/n) - u (a*t)| < ε/2 := by
+    have hδ : 0 < δ := by linarith [show 0 ≤ 1/(n:ℝ) by positivity]
+    exact hMod _ (hDiv k hk) _ hvt (hh.trans (by linarith))
+  have hu0 := (abs_lt.mp (hLocal j hj.le hNear0)).1
+  have hu1 := (abs_lt.mp (hLocal (j+1) hjm hNear1)).2
+  have hupper : ((j:ℝ) - (n:ℝ)*a*t) / Real.sqrt n ≤ -u ((j:ℝ)/n) := by
+    rw [hgrid j (hDiv j hj.le).2, ← neg_div]
+    exact div_le_div_of_nonneg_right (by linarith) hsqrt.le
+  have hlower : -u (((j+1:ℕ):ℝ)/n) - 1/Real.sqrt n <
+      ((j:ℝ) - (n:ℝ)*a*t) / Real.sqrt n := by
+    rw [hgrid (j+1) (hDiv (j+1) hjm).2, ← neg_div, ← sub_div]
+    apply div_lt_div_of_pos_right _ hsqrt
+    push_cast
+    linarith
+  rw [hCount, ENat.toNat_natCast]
+  exact abs_lt.mpr ⟨by linarith, by linarith⟩
+
+
+private theorem renewal_approximation_prob {Ω Ω' : Type*} [MeasurableSpace Ω] [MeasurableSpace Ω']
+    {P : Measure Ω} {P' : Measure Ω'} [IsProbabilityMeasure P] [IsProbabilityMeasure P']
+    (Y : ℕ → Ω → PathSpace) (Z : Ω' → PathSpace)
+    (h : TendstoInDistribution Y atTop Z (fun _ => P) P')
+    (q J : ℝ) (hq : 0 < q) (hJ : 0 < J)
+    (e : ℕ → Ω → ℕ → ℝ) (he : ∀ n ω, StrictMono (e n ω)) (he0 : ∀ n ω, e n ω 0 = 0)
+    (aN : ℕ → ℝ) (haN : ∀ n, 0 ≤ aN n) (T : ℝ) (hT : 0 ≤ T)
+    (hH : ∀ᶠ n in atTop, aN n*T+3 ≤ J)
+    (hg : ∀ (n : ℕ), 1 ≤ n → ∀ ω (j : ℕ), (j:ℝ)/n ≤ J →
+      q*Y n ω (projIcc 0 1 zero_le_one (((j:ℝ)/n)/J)) =
+        (e n ω j-j)/Real.sqrt n) :
+    ∀ ε : ℝ, 0 < ε →
+      Tendsto (fun n => P {ω | ∃ t ∈ Icc (0:ℝ) T,
+        ε ≤ |(((renewalCount (e n ω) ((n:ℝ)*aN n*t)).toNat:ℝ) - (n:ℝ)*aN n*t)/Real.sqrt n +
+          q*Y n ω (projIcc 0 1 zero_le_one (aN n*t/J))|}) atTop (𝓝 0) := by
+  intro ε hε
+  apply (ENNReal.tendsto_nhds_zero.2)
+  intro η hη
+  obtain ⟨η',_,hη',hη'E⟩ := ENNReal.lt_iff_exists_real_btwn.1 hη
+  have hη0 : 0 < η' := ENNReal.ofReal_pos.1 hη'
+  obtain ⟨A,hA,δ,hδ,htight⟩ := continuous_path_tightness Y Z h (ε/(2*q)) η'
+    (by positivity) hη0
+  have hsq : Tendsto (fun n : ℕ => Real.sqrt n) atTop atTop :=
+    Real.tendsto_sqrt_atTop.comp tendsto_natCast_atTop_atTop
+  have hD0 : Tendsto (fun n : ℕ => (q*A)/Real.sqrt n) atTop (𝓝 0) :=
+    tendsto_const_nhds.div_atTop hsq
+  have hN0 : Tendsto (fun n : ℕ => 1/(n:ℝ)) atTop (𝓝 0) :=
+    tendsto_const_nhds.div_atTop tendsto_natCast_atTop_atTop
+  have hR0 : Tendsto (fun n : ℕ => 1/Real.sqrt n) atTop (𝓝 0) :=
+    tendsto_const_nhds.div_atTop hsq
+  filter_upwards [htight,hH,eventually_ge_atTop (1:ℕ),
+    (tendsto_order.1 hD0).2 _ (show 0 < min 1 ((J*δ)/4) by positivity),
+    (tendsto_order.1 hN0).2 _ (show 0 < J*δ/4 by positivity),
+    (tendsto_order.1 hR0).2 _ (show 0 < ε/4 by positivity)]
+    with n hn hnn hn0 hDsm hNsm hRsm
+  refine (measure_mono ?_).trans (hn.trans hη'E.le)
+  intro ω hω
+  by_contra! hbad
+  have hSup : ‖Y n ω‖ < A := lt_of_not_ge (fun h => hbad (Or.inl h))
+  have hMod (s t : I) (hst : dist s t ≤ δ) : |Y n ω s-Y n ω t| < ε/(2*q) :=
+    lt_of_not_ge (fun hh => hbad (Or.inr ⟨s,t,hst,hh⟩))
+  let c (s : ℝ) : I := projIcc 0 1 zero_le_one (s/J)
+  let u (s : ℝ) := q*Y n ω (c s)
+  have hc (s : ℝ) (hs : s ∈ Icc 0 J) : (c s : ℝ) = s/J := by
+    have h0 : 0 ≤ s/J := div_nonneg hs.1 hJ.le
+    have h1 : s/J ≤ 1 := (div_le_one hJ).2 hs.2
+    simp [c,Set.projIcc,max_eq_right h0,min_eq_right h1]
+  have hUb (s : ℝ) (_ : s ∈ Icc (0:ℝ) J) : |u s| ≤ q*A := by
+    dsimp only [u]
+    rw [abs_mul,abs_of_pos hq]
+    apply mul_le_mul_of_nonneg_left _ hq.le
+    have hN := ContinuousMap.norm_coe_le_norm (Y n ω) (c s)
+    rw [Real.norm_eq_abs] at hN
+    exact hN.trans hSup.le
+  have hUm (s : ℝ) (hs : s ∈ Icc (0:ℝ) J) (t : ℝ) (ht : t ∈ Icc (0:ℝ) J)
+      (hh : |s-t| < J*δ) : |u s-u t| < ε/2 := by
+    have hd : dist (c s) (c t) ≤ δ := by
+      rw [Subtype.dist_eq,Real.dist_eq,hc s hs,hc t ht,← sub_div,abs_div,abs_of_pos hJ]
+      exact (div_le_iff₀ hJ).2 (by simpa [mul_comm] using hh.le)
+    have h := hMod (c s) (c t) hd
+    dsimp only [u]
+    rw [← mul_sub,abs_mul,abs_of_pos hq]
+    have he : q*(ε/(2*q)) = ε/2 := by field_simp
+    exact (mul_lt_mul_of_pos_left h hq).trans_eq he
+  obtain ⟨t,ht,hh⟩ := hω
+  have hClose := local_renewal_sandwich n hn0 (e n ω) (he n ω) (he0 n ω) u J
+    (hg n hn0 ω) (aN n) T (q*A) (J*δ) ε (haN n) hT hnn hUb hDsm hNsm hRsm hε hUm t ht
+  exact (not_lt_of_ge hh) hClose
+
+private theorem interp_grid {Ω : Type*} {X : ℕ → Ω → ℝ} {m j : ℕ}
+    (hj : j ≤ m) (ω : Ω) :
+    walkInterp X m ω j = ∑ i ∈ Finset.range j, X i ω := by
+  unfold walkInterp
+  rw [← Finset.sum_range_add_sum_Ico _ hj]
+  have ha : (∑ i ∈ Finset.range j, X i ω*max 0 (min 1 ((j:ℝ)-i))) =
+      ∑ i ∈ Finset.range j, X i ω := by
+    apply Finset.sum_congr rfl
+    intro i hi
+    have hh : (1:ℝ) ≤ (j:ℝ)-i := by
+      have hi' : (i:ℝ)+1 ≤ j := by exact_mod_cast Nat.succ_le_of_lt (Finset.mem_range.1 hi)
+      linarith
+    rw [min_eq_left hh,max_eq_right zero_le_one,mul_one]
+  have hb : (∑ i ∈ Finset.Ico j m, X i ω*max 0 (min 1 ((j:ℝ)-i))) = 0 := by
+    apply Finset.sum_eq_zero
+    intro i hi
+    have hh : (j:ℝ)-(i:ℝ) ≤ 0 :=
+      sub_nonpos.mpr (by exact_mod_cast (Finset.mem_Ico.1 hi).1)
+    rw [max_eq_left ((min_le_right _ _).trans hh),mul_zero]
+  rw [ha,hb,add_zero]
+
+set_option maxHeartbeats 650000 in
+private theorem renewal_grid_algebra {Ω : Type*} [MeasurableSpace Ω] {k : ℕ} (M : SystemSequence Ω k) (i : Fin k)
+    (s : ℝ) (hs : 0 < s) (J n : ℕ) (hJ : 0 < J) (hn : 0 < n) :
+    ∀ ω (j : ℕ), (j:ℝ)/n ≤ J →
+      (s*Real.sqrt (J:ℝ)) *
+        walkPath (fun a ω => (M.U i (a+1) ω-1)/s) (J*n) ω
+          (projIcc 0 1 zero_le_one (((j:ℝ)/n)/(J:ℝ))) =
+        ((∑ a ∈ Finset.range j,M.U i (a+1) ω)-j)/Real.sqrt n := by
+  intro ω j hj
+  have hjR : 0 ≤ ((j:ℝ)/n)/(J:ℝ) := by positivity
+  have hN : (0:ℝ) < n := by exact_mod_cast hn
+  have hJR : (0:ℝ) < J := by exact_mod_cast hJ
+  have hJ1 : ((j:ℝ)/n)/(J:ℝ) ≤ 1 := (div_le_one hJR).2 hj
+  have hProj : ((projIcc 0 1 zero_le_one (((j:ℝ)/n)/(J:ℝ)) :
+        Icc (0:ℝ) 1) : ℝ) = ((j:ℝ)/n)/(J:ℝ) := by
+    simp [Set.projIcc,max_eq_right hjR,min_eq_right hJ1]
+  have hIdx : j ≤ J*n := by
+    exact_mod_cast ((div_le_iff₀ hN).1 hj)
+  have hMul : ((J*n:ℕ):ℝ)*(((j:ℝ)/n)/(J:ℝ)) = j := by
+    push_cast
+    field_simp
+  let X (a : ℕ) (ω : Ω) := (M.U i (a+1) ω-1)/s
+  change s*Real.sqrt (J:ℝ) * (walkInterp X (J*n) ω
+    (((J*n:ℕ):ℝ) * ((projIcc 0 1 zero_le_one (((j:ℝ)/n)/(J:ℝ)) : Icc (0:ℝ) 1):ℝ)) /
+    Real.sqrt ((J*n:ℕ):ℝ)) = _
+  rw [hProj,hMul,interp_grid hIdx,Nat.cast_mul,Real.sqrt_mul (Nat.cast_nonneg J)]
+  simp only [X,← Finset.sum_div,Finset.sum_sub_distrib,Finset.sum_const,Finset.card_range,nsmul_eq_mul,mul_one]
+  field_simp [(Real.sqrt_pos.2 hN).ne',(Real.sqrt_pos.2 hJR).ne',hs.ne']
+  <;> ring
+
+private theorem renewal_epoch_walk_donsker_and_zero_variance {Ω Ω' : Type*} [MeasurableSpace Ω] [MeasurableSpace Ω']
+    {k : ℕ} (M : SystemSequence Ω k) (i : Fin k)
+    {P' : Measure Ω'} [IsProbabilityMeasure P'] {B : ℝ≥0 → Ω' → ℝ}
+    (hB : IsBrownianReal B P') (hBc : ∀ ω, Continuous (fun t => B t ω)) :
+    letI : IsProbabilityMeasure M.P := M.isProb
+    (0 < M.cU2 i →
+      TendstoInDistribution (fun n : ℕ =>
+        walkPath (fun j ω => (M.U i (j+1) ω-1)/Real.sqrt (M.cU2 i)) n)
+        atTop (brownianPath B) (fun _ => M.P) P') ∧
+    (M.cU2 i = 0 → ∀ᵐ ω ∂M.P, ∀ j : ℕ, M.U i (j+1) ω = 1) := by
+  letI : IsProbabilityMeasure M.P := M.isProb
+  let g : ℕ → (Fin k × ℕ) ⊕ (Fin k ⊕ Fin k) := fun j => Sum.inl (i,j)
+  have hg : Function.Injective g := fun _ _ h => congrArg Prod.snd (Sum.inl.inj h)
+  have hiU : iIndepFun (fun j => M.U i (j+1)) M.P := (M.indep 0).precomp hg
+  have hId (j : ℕ) : IdentDistrib (M.U i (j+1)) (M.U i 1) M.P M.P :=
+    M.U_ident i (j+1) (by omega)
+  have hMeas (j : ℕ) : Measurable (M.U i (j+1)) := M.U_meas _ _
+  constructor
+  · intro hσ
+    let s := Real.sqrt (M.cU2 i)
+    let Y (j : ℕ) (ω : Ω) := (M.U i (j+1) ω-1)/s
+    have hs : 0 < s := Real.sqrt_pos.2 hσ
+    have hY (j : ℕ) : Measurable (Y j) := ((hMeas j).sub_const 1).div_const s
+    have hid (j : ℕ) : IdentDistrib (Y j) (Y 0) M.P M.P :=
+      (hId j).comp ((measurable_id.sub_const 1).div_const s)
+    have hind : iIndepFun Y M.P :=
+      hiU.comp (fun _ (x:ℝ) => (x-1)/s) (fun _ => (measurable_id.sub_const 1).div_const s)
+    have hmem := (M.U_memLp i).sub (memLp_const (1:ℝ) : MemLp (fun _ : Ω => (1:ℝ)) 2 M.P)
+    have hy2 : MemLp (Y 0) 2 M.P := by
+      have h := hmem.const_mul (1/s)
+      convert h using 1
+      funext ω
+      simp [Y,div_eq_mul_inv,mul_comm]
+    have hy0 : ∫ ω, Y 0 ω ∂M.P = 0 := by
+      change (∫ ω, (M.U i 1 ω-1)/s ∂M.P) = 0
+      rw [integral_div,integral_sub ((M.U_memLp i).integrable one_le_two) (integrable_const 1),
+        M.U_mean]
+      simp
+    have hvar : ∫ ω, Y 0 ω^2 ∂M.P = 1 := by
+      change (∫ ω, ((M.U i 1 ω-1)/s)^2 ∂M.P) = 1
+      simp_rw [div_pow]
+      rw [integral_div,Real.sq_sqrt hσ.le,div_eq_one_iff_eq hσ.ne']
+      rw [SystemSequence.cU2, variance_eq_integral (M.U_meas i 1).aemeasurable, M.U_mean]
+    exact DurrettProbability.donsker hY hind hid hy2.integrable_sq hy0 hvar hB hBc
+  · intro hzero
+    have he : evariance (M.U i 1) M.P = 0 := by
+      have hne := (M.U_memLp i).evariance_ne_top
+      exact ((ENNReal.toReal_eq_zero_iff _).1 hzero).resolve_right hne
+    have hAE : M.U i 1 =ᵐ[M.P] fun _ => 1 := by
+      simpa only [M.U_mean] using (evariance_eq_zero_iff (M.U_meas i 1).aemeasurable).1 he
+    refine ae_all_iff.2 (fun j => ?_)
+    have hl : M.P.map (M.U i 1) = Measure.dirac (1:ℝ) := by
+      rw [Measure.map_congr hAE, Measure.map_const, measure_univ, one_smul]
+    exact (show HasLaw (M.U i (j+1)) (Measure.dirac (1:ℝ)) M.P from
+      ⟨(hMeas j).aemeasurable,(hId j).map_eq.trans hl⟩).ae_eq_of_dirac
+
+private theorem epoch_sum_eq {Ω : Type*} [MeasurableSpace Ω] {k : ℕ}
+    (M : SystemSequence Ω k) (i : Fin k) (ω : Ω) (m : ℕ) :
+    ∑ j ∈ range m, M.U i (j+1) ω = partialSum (fun j => M.U i j ω) m := by
+  unfold partialSum
+  rw [show Finset.Icc 1 m = Finset.Ico 1 (m+1) from by ext; simp,
+    Finset.sum_Ico_eq_sum_range]
+  simp only [Nat.add_sub_cancel, add_comm]
+
+private theorem renewal_on_rate_clock {Ω : Type*} [MeasurableSpace Ω] {k : ℕ}
+    (M : SystemSequence Ω k) (n : ℕ) (i : Fin k) (ω : Ω) (s : ℝ) :
+    M.A n i ω s =
+      ((renewalCount (fun j => ∑ l ∈ range j, M.U i (l+1) ω) (M.lamN n i * s)).toNat : ℝ) := by
+  have heq (j : ℕ) : M.arrivalEpoch n i ω j = (∑ l ∈ range j, M.U i (l+1) ω) / M.lamN n i := by
+    rw [epoch_sum_eq]
+    simp [SystemSequence.arrivalEpoch, partialSum, Finset.sum_div]
+  unfold SystemSequence.A renewalCount
+  simp only [heq, div_le_iff₀ (M.lamN_pos n i), mul_comm s]
+
+
+open ManyServerQED.Scheduling BellWilliams2001.ThresholdPolicy DurrettProbability
+open Filter Topology MeasureTheory ProbabilityTheory Set Finset
+open scoped NNReal ENNReal
+
+set_option maxHeartbeats 1000000 in
+private theorem positive_variance_arrival_approx {Ω Ω' : Type*} [MeasurableSpace Ω] [MeasurableSpace Ω']
+    {k : ℕ} (M : SystemSequence Ω k) (i : Fin k) (hVar : 0 < M.cU2 i)
+    (P' : Measure Ω') [IsProbabilityMeasure P'] {B : ℝ≥0 → Ω' → ℝ}
+    (hB : IsBrownianReal B P') (hBc : ∀ ω, Continuous (fun t => B t ω))
+    (T : ℝ) (hT : 0 ≤ T) (J : ℕ) (hJ : (M.lam i + 1)*T+3 ≤ J) :
+    ∀ ε : ℝ, 0 < ε →
+      Tendsto (fun n : ℕ => M.P {ω | ∃ t ∈ Icc (0:ℝ) T, ε ≤
+        |M.Ahat n ω t i + (Real.sqrt (M.cU2 i)*Real.sqrt (J:ℝ)) *
+          walkPath (fun j ω => (M.U i (j+1) ω-1)/Real.sqrt (M.cU2 i)) (J*n) ω
+          (projIcc 0 1 zero_le_one ((M.lamN n i/n)*t/(J:ℝ)))|}) atTop (𝓝 0) := by
+  let : IsProbabilityMeasure M.P := M.isProb
+  let aN (n : ℕ) := M.lamN n i / n
+  let s := Real.sqrt (M.cU2 i)
+  have hs : 0 < s := Real.sqrt_pos.2 hVar
+  have hJlo : 0 < (M.lam i+1)*T+3 :=
+    add_pos_of_nonneg_of_pos (mul_nonneg (by linarith [M.lam_pos i]) hT) (by norm_num)
+  have hJr : (0:ℝ) < J := hJlo.trans_le hJ
+  have hJn : 0 < J := by exact_mod_cast hJr
+  have hcoef : 0 < s*Real.sqrt (J:ℝ) := mul_pos hs (Real.sqrt_pos.2 hJr)
+  let Y (n : ℕ) := walkPath (fun j ω => (M.U i (j+1) ω-1)/s) (J*n)
+  have hDon := (renewal_epoch_walk_donsker_and_zero_variance M i hB hBc).1 hVar
+  have hR : Tendsto (fun n : ℕ => J*n) atTop atTop := by
+    refine tendsto_atTop_mono (fun n => ?_) tendsto_id
+    change n ≤ J*n
+    simpa only [Nat.one_mul] using Nat.mul_le_mul_right n (show 1 ≤ J from hJn)
+  have hWeak : TendstoInDistribution Y atTop (brownianPath B) (fun _ => M.P) P' :=
+    ⟨fun n => hDon.forall_aemeasurable (J*n),hDon.aemeasurable_limit,hDon.tendsto.comp hR⟩
+  let e (_ : ℕ) (ω : Ω) (j : ℕ) := ∑ a ∈ Finset.range j,M.U i (a+1) ω
+  have he (n : ℕ) (ω : Ω) : StrictMono (e n ω) := by
+    apply strictMono_nat_of_lt_succ
+    intro j
+    dsimp only [e]
+    rw [Finset.sum_range_succ]
+    exact lt_add_of_pos_right _ (M.U_pos i (j+1) ω (by omega))
+  have he0 (n : ℕ) (ω : Ω) : e n ω 0 = 0 := by simp [e]
+  have haN (n : ℕ) : 0 ≤ aN n := div_nonneg (M.lamN_pos n i).le (Nat.cast_nonneg _)
+  have hH : ∀ᶠ n in atTop, aN n*T+3 ≤ (J:ℝ) := by
+    filter_upwards [(tendsto_order.1 (M.lam_lim i)).2 _ (by linarith : M.lam i < M.lam i+1)]
+      with n hn
+    exact (add_le_add_left (mul_le_mul_of_nonneg_right hn.le hT) _).trans hJ
+  have hg (n : ℕ) (hn : 1 ≤ n) (ω : Ω) (j : ℕ) (hj : (j:ℝ)/n ≤ (J:ℝ)) :
+      (s*Real.sqrt (J:ℝ))*Y n ω (projIcc 0 1 zero_le_one (((j:ℝ)/n)/(J:ℝ))) =
+      (e n ω j-j)/Real.sqrt n :=
+    renewal_grid_algebra M i s hs J n hJn hn ω j hj
+  have hA (n : ℕ) (hn : 1 ≤ n) (ω : Ω) (t : ℝ) :
+      M.Ahat n ω t i =
+      (((renewalCount (e n ω) ((n:ℝ)*aN n*t)).toNat:ℝ) - (n:ℝ)*aN n*t)/Real.sqrt n := by
+    have hR : (0:ℝ) < n := by exact_mod_cast hn
+    have hScale : ((n:ℝ)*aN n*t) = M.lamN n i*t := by dsimp [aN]; field_simp
+    unfold SystemSequence.Ahat
+    rw [hScale,renewal_on_rate_clock M n i ω t]
+  have hProb := renewal_approximation_prob Y (brownianPath B) hWeak (s*Real.sqrt (J:ℝ)) J
+    hcoef hJr e he he0 aN haN T hT hH hg
+  intro ε hε
+  refine (hProb ε hε).congr' ?_
+  filter_upwards [eventually_ge_atTop (1:ℕ)] with n hn
+  apply congrArg M.P
+  ext ω
+  simp only [Set.mem_setOf_eq, hA n hn ω]
+  rfl
+
+private theorem zero_variance_arrival_bound {Ω : Type*} [MeasurableSpace Ω] {k : ℕ}
+    (M : SystemSequence Ω k) (i : Fin k) (hi : M.cU2 i = 0) :
+    ∀ᵐ ω ∂M.P, ∀ (n : ℕ) (t : ℝ), 0 ≤ t →
+      |M.Ahat n ω t i| ≤ 1/Real.sqrt n := by
+  let : IsProbabilityMeasure M.P := M.isProb
+  have hm0 : AEMeasurable (M.U i 1) M.P := (M.U_meas i 1).aemeasurable
+  have he : evariance (M.U i 1) M.P = 0 :=
+    ((ENNReal.toReal_eq_zero_iff _).1 hi).resolve_right (M.U_memLp i).evariance_ne_top
+  have hU : M.U i 1 =ᵐ[M.P] fun _ => 1 := by
+    simpa only [M.U_mean] using (evariance_eq_zero_iff hm0).1 he
+  have hL : M.P.map (M.U i 1) = Measure.dirac (1:ℝ) := by
+    rw [Measure.map_congr hU,Measure.map_const,measure_univ,one_smul]
+  have hAll : ∀ᵐ ω ∂M.P, ∀ j : ℕ, M.U i (j+1) ω = 1 := by
+    apply ae_all_iff.2
+    intro j
+    exact (show HasLaw (M.U i (j+1)) (Measure.dirac (1:ℝ)) M.P from
+      ⟨(M.U_meas _ _).aemeasurable,(M.U_ident i (j+1) (by omega)).map_eq.trans hL⟩).ae_eq_of_dirac
+  filter_upwards [hAll] with ω hω
+  intro n t ht
+  have hS : 0 ≤ M.lamN n i*t := mul_nonneg (M.lamN_pos n i).le ht
+  let z := M.lamN n i*t
+  have hR : renewalCount (fun j : ℕ => (j:ℝ)) z = (⌊z⌋₊:ℕ∞) := by
+    unfold renewalCount
+    apply le_antisymm
+    · refine iSup₂_le fun j hj => ?_
+      exact_mod_cast (Nat.le_floor hj)
+    · exact le_iSup₂_of_le ⌊z⌋₊ (Nat.floor_le hS) le_rfl
+  have hA : M.A n i ω t = (⌊z⌋₊:ℝ) := by
+    rw [renewal_on_rate_clock M n i ω]
+    simp only [hω,Finset.sum_const,Finset.card_range,nsmul_eq_mul,mul_one]
+    rw [hR, ENat.toNat_natCast]
+  unfold SystemSequence.Ahat
+  rw [hA,abs_div,abs_of_nonneg (Real.sqrt_nonneg _)]
+  apply div_le_div_of_nonneg_right _ (Real.sqrt_nonneg _)
+  change |(⌊z⌋₊:ℝ)-z| ≤ 1
+  have hl := Nat.floor_le hS
+  have hu := Nat.lt_floor_add_one z
+  rw [abs_of_nonpos (sub_nonpos.2 hl)]
+  linarith
+
+private theorem renewal_eq_of_bracket {e : ℕ → ℝ} (he : Monotone e) {s : ℝ} {j : ℕ}
+    (hj : e j ≤ s) (hj_succ : s < e (j + 1)) : renewalCount e s = j := by
+  unfold renewalCount
+  refine le_antisymm (iSup_le fun r => iSup_le fun hr => ?_) (le_iSup_of_le j (le_iSup_of_le hj le_rfl))
+  have h : r ≤ j := by
+    by_contra! hjr
+    exact (not_lt_of_ge hr) (hj_succ.trans_le (he hjr))
+  exact_mod_cast h
+
+private theorem epoch_measurable {Ω : Type*} [MeasurableSpace Ω] {k : ℕ}
+    (M : SystemSequence Ω k) (n : ℕ) (i : Fin k) (m : ℕ) :
+    Measurable (fun ω => M.arrivalEpoch n i ω m) := by
+  unfold SystemSequence.arrivalEpoch partialSum
+  exact Finset.measurable_sum _ (fun j _ => (M.U_meas i j).div_const _)
+
+private theorem epoch_strict {Ω : Type*} [MeasurableSpace Ω] {k : ℕ}
+    (M : SystemSequence Ω k) (n : ℕ) (i : Fin k) (ω : Ω) :
+    StrictMono (M.arrivalEpoch n i ω) := by
+  apply strictMono_nat_of_lt_succ
+  intro j
+  unfold SystemSequence.arrivalEpoch partialSum
+  rw [Finset.sum_Icc_succ_top (by omega : 1 ≤ j + 1)]
+  have hp : 0 < M.U i (j + 1) ω / M.lamN n i :=
+    div_pos (M.U_pos i _ ω (by omega)) (M.lamN_pos n i)
+  linarith
+
+private theorem epoch_crosses {Ω : Type*} [MeasurableSpace Ω] {k : ℕ}
+    (M : SystemSequence Ω k) (n : ℕ) (i : Fin k) (ω : Ω) (t : ℝ) :
+    ∃ m : ℕ, t < M.arrivalEpoch n i ω m := by
+  obtain ⟨m, hm⟩ := ((tendsto_atTop.1 (M.U_finite i ω)) (t * M.lamN n i + 1)).exists
+  refine ⟨m, ?_⟩
+  unfold SystemSequence.arrivalEpoch
+  rw [show partialSum (fun j => M.U i j ω / M.lamN n i) m =
+    partialSum (fun j => M.U i j ω) m / M.lamN n i by simp [partialSum, Finset.sum_div],
+    lt_div_iff₀ (M.lamN_pos n i)]
+  linarith
+
+private theorem arrival_joint_measurable {Ω : Type*} [MeasurableSpace Ω] {k : ℕ}
+    (M : SystemSequence Ω k) (n : ℕ) (i : Fin k) :
+    Measurable (fun z : Ω × ℝ≥0 => M.A n i z.1 z.2) := by
+  classical
+  let h (z : Ω × ℝ≥0) := epoch_crosses M n i z.1 z.2
+  have hf : Measurable (fun z : Ω × ℝ≥0 => Nat.find (h z)) := by
+    exact measurable_find h (fun j => measurableSet_lt
+      (measurable_snd.coe_nnreal_real) ((epoch_measurable M n i j).comp measurable_fst))
+  have he (z : Ω × ℝ≥0) : M.A n i z.1 z.2 = ((Nat.find (h z) - 1 : ℕ) : ℝ) := by
+    let b := Nat.find (h z)
+    have hb : (z.2 : ℝ) < M.arrivalEpoch n i z.1 b := Nat.find_spec (h z)
+    have hb0 : 0 < b := by
+      by_contra! hh
+      rw [Nat.eq_zero_of_le_zero hh] at hb
+      simp [SystemSequence.arrivalEpoch, partialSum] at hb
+    let j := b - 1
+    have hj : j < b := by omega
+    have hj' : j + 1 = b := by dsimp [j]; omega
+    have h1 : M.arrivalEpoch n i z.1 j ≤ (z.2 : ℝ) :=
+      le_of_not_gt (Nat.find_min (h z) hj)
+    have h2 : (z.2 : ℝ) < M.arrivalEpoch n i z.1 (j + 1) := by rwa [hj']
+    unfold SystemSequence.A
+    rw [renewal_eq_of_bracket (epoch_strict M n i z.1).monotone h1 h2, ENat.toNat_natCast]
+  simp_rw [he]
+  have hm : Measurable (fun m : ℕ => ((m - 1 : ℕ) : ℝ)) := measurable_of_countable _
+  exact hm.comp hf
+
+
+private theorem approximate_path_fdd {Ω Ω' : Type*} [MeasurableSpace Ω] [MeasurableSpace Ω']
+    {P : Measure Ω} {P' : Measure Ω'} [IsProbabilityMeasure P] [IsProbabilityMeasure P']
+    (Y : ℕ → Ω → PathSpace) (Z : Ω' → PathSpace)
+    (hY : TendstoInDistribution Y atTop Z (fun _ => P) P')
+    {m : ℕ} (d : ℕ → Fin m → ℝ) (e : Fin m → ℝ)
+    (hd : Tendsto d atTop (𝓝 e)) (c : ℝ)
+    (Q : ℕ → Ω → Fin m → ℝ) (hQ : ∀ n, AEMeasurable (Q n) P)
+    (hA : ∀ ε > (0:ℝ), Tendsto (fun n => P {ω | ∃ i : Fin m,
+      ε ≤ |Q n ω i - c*Y n ω (Set.projIcc 0 1 zero_le_one (d n i))|}) atTop (𝓝 0)) :
+    TendstoInDistribution Q atTop
+      (fun ω i => c * Z ω (Set.projIcc 0 1 zero_le_one (e i))) (fun _ => P) P' := by
+  have hdIn : TendstoInMeasure P (fun n (_ : Ω) => d n) atTop (fun _ => e) :=
+    tendstoInMeasure_of_tendsto_ae (fun _ => aestronglyMeasurable_const) (ae_of_all _ (fun _ => hd))
+  let f (z : PathSpace × (Fin m → ℝ)) (i : Fin m) :=
+    c*z.1 (Set.projIcc 0 1 zero_le_one (z.2 i))
+  have hf : Continuous f := by
+    apply continuous_pi
+    intro i
+    apply Continuous.const_mul
+    have hg : Continuous (fun z : PathSpace × (Fin m → ℝ) =>
+        Set.projIcc (0:ℝ) 1 zero_le_one (z.2 i)) :=
+      continuous_projIcc.comp ((continuous_apply i).comp continuous_snd)
+    exact continuous_eval.comp (continuous_fst.prodMk hg)
+  let I (n : ℕ) (ω : Ω) := f (Y n ω,d n)
+  have hIZ : TendstoInDistribution I atTop
+      (fun ω i => c * Z ω (Set.projIcc 0 1 zero_le_one (e i))) (fun _ => P) P' :=
+    hY.continuous_comp_prodMk_of_tendstoInMeasure_const hf hdIn
+      (fun _ => measurable_const.aemeasurable)
+  refine tendstoInDistribution_of_tendstoInMeasure_sub Q _ hIZ ?_ hQ
+  rw [tendstoInMeasure_iff_norm]
+  intro ε hε
+  refine tendsto_of_tendsto_of_tendsto_of_le_of_le' tendsto_const_nhds (hA ε hε)
+    (Eventually.of_forall (fun _ => zero_le)) (Eventually.of_forall fun n => measure_mono ?_)
+  intro ω hω
+  have hnot : ¬∀ i, ‖Q n ω i - I n ω i‖ < ε := by
+    intro hh
+    have he : ‖(Q - I) n ω - (0 : Ω → Fin m → ℝ) ω‖ < ε := by
+      apply (pi_norm_lt_iff hε).2
+      simpa only [Pi.sub_apply, Pi.zero_apply, sub_zero] using hh
+    exact (not_le_of_gt he) hω
+  push Not at hnot
+  obtain ⟨i,hi⟩ := hnot
+  exact ⟨i,by simpa only [Real.norm_eq_abs] using hi⟩
+
+private theorem brownian_observed_law {Ω Ω' : Type*} [MeasurableSpace Ω] [MeasurableSpace Ω']
+    {P : Measure Ω} {P' : Measure Ω'}
+    {B : ℝ≥0 → Ω → ℝ} {C : ℝ≥0 → Ω' → ℝ}
+    (hB : IsPreBrownianReal B P) (hC : IsPreBrownianReal C P')
+    {m : ℕ} (t : Fin m → ℝ≥0) (c : Fin m → ℝ) :
+    IdentDistrib (fun ω i => c i * B (t i) ω) (fun ω i => c i * C (t i) ω) P P' := by
+  let I : Finset ℝ≥0 := Finset.univ.image t
+  let p : Fin m → I := fun i => ⟨t i, Finset.mem_image.2 ⟨i,Finset.mem_univ _,rfl⟩⟩
+  let f (x : I → ℝ) (i : Fin m) := c i * x (p i)
+  have hf : Measurable f := measurable_pi_lambda _ fun i => (measurable_pi_apply (p i)).const_mul _
+  have h1 := hB.hasLaw I
+  have h2 := hC.hasLaw I
+  exact (show IdentDistrib (fun ω => I.restrict (B · ω)) (fun ω => I.restrict (C · ω)) P P'
+    from ⟨h1.aemeasurable,h2.aemeasurable,h1.map_eq.trans h2.map_eq.symm⟩).comp hf
+
+private theorem arrival_fixed_time_measurable {Ω : Type*} [MeasurableSpace Ω] {k : ℕ}
+    (M : SystemSequence Ω k) (n : ℕ) (i : Fin k) (t : ℝ) (ht : 0 ≤ t) :
+    Measurable (fun ω => M.A n i ω t) := by
+  classical
+  let h (ω : Ω) := epoch_crosses M n i ω t
+  have hf : Measurable (fun ω => Nat.find (h ω)) :=
+    measurable_find h (fun j => measurableSet_lt measurable_const (epoch_measurable M n i j))
+  have he (ω : Ω) : M.A n i ω t = ((Nat.find (h ω) - 1 : ℕ) : ℝ) := by
+    let b := Nat.find (h ω)
+    have hbp : t < M.arrivalEpoch n i ω b := Nat.find_spec (h ω)
+    have hb : 0 < b := by
+      by_contra! hh
+      have hz : b = 0 := Nat.eq_zero_of_le_zero hh
+      rw [hz] at hbp
+      simp [SystemSequence.arrivalEpoch,partialSum] at hbp
+      exact (not_lt_of_ge ht) hbp
+    let j := b-1
+    have hj : j < b := by omega
+    have hjb : j+1 = b := by omega
+    have hs : M.arrivalEpoch n i ω j ≤ t := le_of_not_gt (Nat.find_min (h ω) hj)
+    have ht' : t < M.arrivalEpoch n i ω (j+1) := by rwa [hjb]
+    unfold SystemSequence.A
+    rw [renewal_eq_of_bracket (epoch_strict M n i ω).monotone hs ht', ENat.toNat_natCast]
+  simp_rw [he]
+  exact (measurable_of_countable (fun j : ℕ => ((j-1:ℕ):ℝ))).comp hf
+
+set_option maxHeartbeats 2600000 in
+private theorem queue_arrival_finite_observation_limit {Ω Ω' : Type*} [MeasurableSpace Ω] [MeasurableSpace Ω']
+    {k : ℕ} (M : SystemSequence Ω k) (i : Fin k)
+    {P' : Measure Ω'} [IsProbabilityMeasure P'] {B : ℝ≥0 → Ω' → ℝ}
+    (hB : IsBrownianReal B P') (hBc : ∀ ω, Continuous (fun t => B t ω))
+    {m : ℕ} (τ : Fin m → ℝ) (hτ : ∀ j, 0 ≤ τ j) :
+    letI := M.isProb
+    TendstoInDistribution (fun n ω j => M.Ahat n ω (τ j) i) atTop
+      (fun ω j => Real.sqrt (M.lam i * M.cU2 i)*B (τ j).toNNReal ω) (fun _ => M.P) P' := by
+  let : IsProbabilityMeasure M.P := M.isProb
+  let Q (n : ℕ) (ω : Ω) (j : Fin m) := M.Ahat n ω (τ j) i
+  have hQ (n : ℕ) : AEMeasurable (Q n) M.P := by
+    apply aemeasurable_pi_lambda
+    intro j
+    exact (((arrival_fixed_time_measurable M n i (τ j) (hτ j)).sub_const
+      (M.lamN n i*τ j)).div_const (Real.sqrt n)).aemeasurable
+  have hVnon : 0 ≤ M.cU2 i := variance_nonneg _ _
+  rcases hVnon.eq_or_lt with hv | hv
+  · have hz : TendstoInMeasure M.P Q atTop (0 : Ω → Fin m → ℝ) := by
+      apply tendstoInMeasure_of_tendsto_ae (fun n => (hQ n).aestronglyMeasurable)
+      filter_upwards [zero_variance_arrival_bound M i hv.symm] with ω hω
+      rw [tendsto_pi_nhds]
+      intro j
+      have hD : Tendsto (fun n : ℕ => 1 / Real.sqrt n) atTop (𝓝 0) :=
+        tendsto_const_nhds.div_atTop (Real.tendsto_sqrt_atTop.comp tendsto_natCast_atTop_atTop)
+      apply squeeze_zero_norm' (Eventually.of_forall fun n => ?_) hD
+      simpa only [Real.norm_eq_abs] using hω n (τ j) (hτ j)
+    have hZero : AEMeasurable (fun ω : Ω' => (0 : Fin m → ℝ)) P' := aemeasurable_const
+    have hzD := hz.tendstoInDistribution_of_aemeasurable hQ (aemeasurable_const (b := (0 : Fin m → ℝ)))
+    have hh : TendstoInDistribution Q atTop (fun _ : Ω' => (0 : Fin m → ℝ)) (fun _ => M.P) P' := by
+      refine ⟨hQ,hZero,?_⟩
+      have hMap : (⟨M.P.map (fun _ : Ω => (0 : Fin m → ℝ)),
+        Measure.isProbabilityMeasure_map aemeasurable_const⟩ : ProbabilityMeasure (Fin m → ℝ)) =
+        ⟨P'.map (fun _ : Ω' => (0 : Fin m → ℝ)),Measure.isProbabilityMeasure_map hZero⟩ :=
+        Subtype.ext (by simp [Measure.map_const])
+      exact hMap ▸ hzD.tendsto
+    exact hh.congr (fun _ => EventuallyEq.rfl)
+      (ae_of_all _ fun ω => funext (fun j => by simp [hv.symm]))
+  · obtain ⟨T,hT,hτT⟩ : ∃ T : ℝ, 0 ≤ T ∧ ∀ j, τ j ≤ T := by
+      let T := ∑ j, max (τ j) 0
+      exact ⟨T,Finset.sum_nonneg (fun _ _ => le_max_right _ _),fun j =>
+        (le_max_left _ _).trans (Finset.single_le_sum (f := fun j => max (τ j) 0)
+          (fun _ _ => le_max_right _ _) (Finset.mem_univ _))⟩
+    obtain ⟨J,hJ⟩ := exists_nat_gt ((M.lam i+1)*T+3)
+    have hJ0 : 0 < (J:ℝ) := (by nlinarith [M.lam_pos i] : 0 < (M.lam i+1)*T+3).trans hJ
+    have hJn : 1 ≤ J := by exact_mod_cast hJ0
+    let s := Real.sqrt (M.cU2 i)
+    let c := -(s*Real.sqrt (J:ℝ))
+    let Y n := walkPath (fun j ω => (M.U i (j+1) ω-1)/s) (J*n)
+    let d (n : ℕ) (j : Fin m) := (M.lamN n i/n)*τ j/(J:ℝ)
+    let e (j : Fin m) := M.lam i*τ j/(J:ℝ)
+    have hd : Tendsto d atTop (𝓝 e) := by
+      apply tendsto_pi_nhds.2
+      intro j
+      exact ((M.lam_lim i).mul tendsto_const_nhds).div_const _
+    have hR : Tendsto (fun n : ℕ => J*n) atTop atTop := by
+      refine tendsto_atTop_mono (fun n => ?_) tendsto_id
+      change n ≤ J*n
+      simpa only [one_mul] using Nat.mul_le_mul_right n hJn
+    have hDon := (renewal_epoch_walk_donsker_and_zero_variance M i hB hBc).1 hv
+    have hY : TendstoInDistribution Y atTop (brownianPath B) (fun _ => M.P) P' :=
+      ⟨fun n => hDon.forall_aemeasurable (J*n),hDon.aemeasurable_limit,hDon.tendsto.comp hR⟩
+    have hA (ε : ℝ) (hε : 0 < ε) : Tendsto (fun n => M.P {ω | ∃ j : Fin m,
+        ε ≤ |Q n ω j-c*Y n ω (projIcc 0 1 zero_le_one (d n j))|}) atTop (𝓝 0) := by
+      have h := positive_variance_arrival_approx M i hv P' hB hBc T hT J hJ.le ε hε
+      refine tendsto_of_tendsto_of_tendsto_of_le_of_le' tendsto_const_nhds h
+        (Eventually.of_forall fun _ => zero_le) (Eventually.of_forall fun n => measure_mono ?_)
+      intro ω hω
+      obtain ⟨j,hj⟩ := hω
+      exact ⟨τ j,⟨hτ j,hτT j⟩,by simpa only [c,neg_mul,sub_neg_eq_add] using hj⟩
+    have hLaw := approximate_path_fdd Y (brownianPath B) hY d e hd c Q hQ hA
+    have hE (j : Fin m) : e j ∈ Icc (0:ℝ) 1 := by
+      have hBound := mul_le_mul_of_nonneg_left (hτT j) (M.lam_pos i).le
+      have hW := mul_le_mul_of_nonneg_right (show M.lam i ≤ M.lam i+1 by linarith) hT
+      exact ⟨div_nonneg (mul_nonneg (M.lam_pos i).le (hτ j)) hJ0.le,
+        (div_le_one hJ0).2 (by linarith)⟩
+    let a : ℝ≥0 := (M.lam i/(J:ℝ)).toNNReal
+    have ha : 0 < M.lam i/(J:ℝ) := div_pos (M.lam_pos i) hJ0
+    have haR : (a:ℝ) = M.lam i/(J:ℝ) := Real.coe_toNNReal _ ha.le
+    have haNN : a ≠ 0 := by
+      intro h
+      exact ha.ne' (haR.symm.trans (by rw [h]; rfl))
+    let C (t : ℝ≥0) (ω : Ω') := (Real.sqrt (a:ℝ))⁻¹ * (-B (a*t) ω)
+    have hC : IsBrownianReal C P' := hB.neg.smul haNN
+    have hCoef : Real.sqrt (M.lam i*M.cU2 i) = (s*Real.sqrt (J:ℝ))*Real.sqrt (a:ℝ) := by
+      rw [mul_assoc,← Real.sqrt_mul (Nat.cast_nonneg J),haR]
+      rw [show (J:ℝ)*(M.lam i/(J:ℝ)) = M.lam i by field_simp]
+      rw [← Real.sqrt_mul hVnon,mul_comm (M.cU2 i)]
+    let R (ω : Ω') (j : Fin m) := Real.sqrt (M.lam i*M.cU2 i)*C (τ j).toNNReal ω
+    have hRval (ω : Ω') (j : Fin m) :
+        c * brownianPath B ω (projIcc 0 1 zero_le_one (e j)) = R ω j := by
+      have htime : (⟨(projIcc 0 1 zero_le_one (e j) : Icc (0:ℝ) 1),
+          (projIcc 0 1 zero_le_one (e j)).2.1⟩ : ℝ≥0) = a*(τ j).toNNReal := by
+        apply Subtype.ext
+        change ((projIcc 0 1 zero_le_one (e j) : Icc (0:ℝ) 1) : ℝ) = (a:ℝ)*(τ j).toNNReal
+        rw [haR,Real.coe_toNNReal _ (hτ j)]
+        simp only [projIcc, max_eq_right (hE j).1,min_eq_right (hE j).2]
+        dsimp [e]
+        ring
+      unfold brownianPath toPath
+      simp only [hBc ω, dite_true, ContinuousMap.coe_mk]
+      rw [htime]
+      dsimp [R,C,c]
+      rw [hCoef]
+      have hs : Real.sqrt (a:ℝ) ≠ 0 := (Real.sqrt_pos.2 (haR ▸ ha)).ne'
+      field_simp
+    have hRlaw := hLaw.congr (fun _ => EventuallyEq.rfl)
+      (Eventually.of_forall fun ω => funext (hRval ω))
+    have hId := brownian_observed_law hC.toIsPreBrownianReal hB.toIsPreBrownianReal
+      (fun j => (τ j).toNNReal) (fun _ => Real.sqrt (M.lam i*M.cU2 i))
+    refine ⟨hRlaw.forall_aemeasurable,hId.aemeasurable_snd,?_⟩
+    have hEq : (⟨P'.map R,Measure.isProbabilityMeasure_map hRlaw.aemeasurable_limit⟩ :
+        ProbabilityMeasure (Fin m → ℝ)) =
+        ⟨P'.map (fun ω j => Real.sqrt (M.lam i*M.cU2 i)*B (τ j).toNNReal ω),
+          Measure.isProbabilityMeasure_map hId.aemeasurable_snd⟩ :=
+      Subtype.ext hId.map_eq
+    exact hEq ▸ hRlaw.tendsto
+
+
+open Set MeasureTheory ProbabilityTheory
+
+private theorem independent_grouped_fields {Ω ι κ : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω}
+    [IsProbabilityMeasure P] (m : ι → MeasurableSpace Ω)
+    (hLe : ∀ j, m j ≤ mΩ) (hInd : iIndep m P)
+    (D : κ → Set ι) (hD : Pairwise (fun i j => Disjoint (D i) (D j))) :
+    iIndep (fun i => ⨆ j ∈ D i, m j) P := by
+  classical
+  apply (iIndep_iff _ _).2
+  intro S A hA
+  induction S using Finset.induction_on with
+  | empty => simp
+  | @insert i S hi ih =>
+      let U := ⋃ j ∈ S, D j
+      have hd : Disjoint (D i) U := by
+        apply Set.disjoint_left.2
+        intro a hai haU
+        simp only [U, mem_iUnion] at haU
+        obtain ⟨j,hj,haj⟩ := haU
+        exact Set.disjoint_left.1 (hD (show i ≠ j from fun he => hi (he ▸ hj))) hai haj
+      have h := indep_iSup_of_disjoint hLe hInd hd
+      have hM : MeasurableSet[⨆ j ∈ U, m j] (⋂ j ∈ S, A j) := by
+        apply MeasurableSet.biInter S.countable_toSet
+        intro j hj
+        have hsub : (⨆ a ∈ D j, m a) ≤ ⨆ a ∈ U, m a := by
+          refine iSup₂_le fun a ha => le_iSup₂_of_le a ?_ le_rfl
+          simp only [U, mem_iUnion]
+          exact ⟨j,hj,ha⟩
+        exact hsub _ (hA j (Finset.mem_insert_of_mem hj))
+      have hMb := hA i (Finset.mem_insert_self i S)
+      have he : (⋂ j ∈ insert i S, A j) = A i ∩ (⋂ j ∈ S, A j) := by
+        ext ω; simp
+      rw [he, (Indep_iff _ _ _).1 h _ _ hMb hM, Finset.prod_insert hi]
+      rw [ih (fun j hj => hA j (Finset.mem_insert_of_mem hj))]
+private noncomputable def renewal_from_sequence (rate : ℝ) (v : ℕ → ℝ) (t : ℝ≥0) : ℝ :=
+  ((renewalCount (partialSum (fun j => v (j - 1) / rate)) t).toNat : ℝ)
+
+private theorem renewal_from_sequence_meas (rate : ℝ) : Measurable (renewal_from_sequence rate) := by
+  classical
+  apply measurable_pi_lambda
+  intro t
+  let R (v : ℕ → ℝ) := renewalCount (partialSum (fun j => v (j - 1) / rate)) t
+  have hL (a : ℕ∞) : MeasurableSet {v | R v ≤ a} := by
+    have hEq : {v | R v ≤ a} = ⋂ l : ℕ, {v | partialSum (fun j => v (j - 1) / rate) l ≤
+      (t : ℝ) → (l : ℕ∞) ≤ a} := by
+      ext v
+      simp only [mem_ofPred_eq, mem_iInter, R, renewalCount, iSup_le_iff]
+    rw [hEq]
+    apply MeasurableSet.iInter
+    intro l
+    by_cases hl : (l : ℕ∞) ≤ a
+    · simp [hl]
+    · simp only [hl, imp_false]
+      change MeasurableSet ({v : ℕ → ℝ | partialSum (fun j => v (j - 1) / rate) l ≤ (t : ℝ)}ᶜ)
+      exact (measurableSet_le (g := fun _ => (t : ℝ))
+        (Finset.measurable_sum _ (fun j _ => (show Measurable (fun v : ℕ → ℝ => v (j - 1)) from measurable_pi_apply _).div_const rate) :
+          Measurable (fun v : ℕ → ℝ => partialSum (fun j => v (j - 1) / rate) l))
+        measurable_const).compl
+  have hLt (a : ℕ∞) : MeasurableSet {v | R v < a} := by
+    have hEq : {v | R v < a} = ⋃ b : ℕ∞, ⋃ (_ : b < a), {v | R v ≤ b} := by
+      ext v
+      simp only [mem_ofPred_eq, mem_iUnion]
+      exact ⟨fun h => ⟨R v, h, le_rfl⟩, fun ⟨_, h, hb⟩ => hb.trans_lt h⟩
+    rw [hEq]
+    exact MeasurableSet.iUnion (fun b => MeasurableSet.iUnion (fun _ => hL b))
+  have hR : Measurable R := by
+    apply measurable_to_countable'
+    intro a
+    have hEq : R ⁻¹' {a} = {v | R v ≤ a} \ {v | R v < a} := by
+      ext v
+      simp only [Set.mem_preimage, Set.mem_singleton_iff, Set.mem_sdiff, mem_ofPred_eq, not_lt]
+      exact le_antisymm_iff
+    rw [hEq]
+    exact (hL a).diff (hLt a)
+  exact (measurable_of_countable (fun a : ℕ∞ => (a.toNat : ℝ))).comp hR
+
+set_option maxHeartbeats 1800000 in
+theorem solution {Ω Ω' : Type*} [mΩ : MeasurableSpace Ω] [MeasurableSpace Ω']
+    {k : ℕ} (M : SystemSequence Ω k)
+    {P' : Measure Ω'} [IsProbabilityMeasure P']
+    (B : Fin (k+k+k) → ℝ≥0 → Ω' → ℝ)
+    (hB : ∀ j, IsBrownianReal (B j) P')
+    (hBc : ∀ j ω, Continuous (fun t => B j t ω))
+    (hiB : iIndepFun (fun j ω (t : ℝ≥0) => B j t ω) P')
+    {m : ℕ} (τ : Fin m → ℝ) (hτ : ∀ j, 0 ≤ τ j) :
+    letI := M.isProb
+    TendstoInDistribution
+      (fun n ω j => Fin.append (Fin.append (M.Ahat n ω (τ j)) (M.Shat n ω (τ j))) (M.Rhat n ω (τ j)))
+      atTop (fun ω j i =>
+        Fin.append (Fin.append (fun l => Real.sqrt (M.lam l*M.cU2 l))
+          (fun l => Real.sqrt (M.mu l))) (fun l => Real.sqrt (M.theta l)) i *
+        B i (τ j).toNNReal ω) (fun _ => M.P) P' := by
+  let : IsProbabilityMeasure M.P := M.isProb
+  let I := (Fin k ⊕ Fin k) ⊕ Fin k
+  let J := (Fin k × ℕ) ⊕ (Fin k ⊕ Fin k)
+  let π : I ≃ Fin (k+k+k) := (Equiv.sumCongr finSumFinEquiv (Equiv.refl _)).trans finSumFinEquiv
+  let C := Fin.append (Fin.append (fun i => Real.sqrt (M.lam i*M.cU2 i))
+    (fun i => Real.sqrt (M.mu i))) (fun i => Real.sqrt (M.theta i))
+  let X (n : ℕ) (ω : Ω) (t : ℝ) :=
+    Fin.append (Fin.append (M.Ahat n ω t) (M.Shat n ω t)) (M.Rhat n ω t)
+  have hXa (n : ℕ) (ω : Ω) (t : ℝ) (i : Fin k) :
+      X n ω t (π (.inl (.inl i))) = M.Ahat n ω t i := by
+    change X n ω t (Fin.castAdd k (Fin.castAdd k i)) = M.Ahat n ω t i
+    simp only [X,Fin.append_left,Fin.append_right]
+  have hXs (n : ℕ) (ω : Ω) (t : ℝ) (i : Fin k) :
+      X n ω t (π (.inl (.inr i))) = M.Shat n ω t i := by
+    change X n ω t (Fin.castAdd k (Fin.natAdd k i)) = M.Shat n ω t i
+    simp only [X,Fin.append_left,Fin.append_right]
+  have hXr (n : ℕ) (ω : Ω) (t : ℝ) (i : Fin k) :
+      X n ω t (π (.inr i)) = M.Rhat n ω t i := by
+    change X n ω t (Fin.natAdd (k+k) i) = M.Rhat n ω t i
+    simp only [X,Fin.append_left,Fin.append_right]
+  have hCa (i : Fin k) : C (π (.inl (.inl i))) = Real.sqrt (M.lam i*M.cU2 i) := by
+    change C (Fin.castAdd k (Fin.castAdd k i)) = Real.sqrt (M.lam i*M.cU2 i)
+    simp only [C,Fin.append_left,Fin.append_right]
+  have hCs (i : Fin k) : C (π (.inl (.inr i))) = Real.sqrt (M.mu i) := by
+    change C (Fin.castAdd k (Fin.natAdd k i)) = Real.sqrt (M.mu i)
+    simp only [C,Fin.append_left,Fin.append_right]
+  have hCr (i : Fin k) : C (π (.inr i)) = Real.sqrt (M.theta i) := by
+    change C (Fin.natAdd (k+k) i) = Real.sqrt (M.theta i)
+    simp only [C,Fin.append_left,Fin.append_right]
+  let G (n : ℕ) : J → MeasurableSpace Ω :=
+    Sum.elim (fun q : Fin k × ℕ => MeasurableSpace.comap (M.U q.1 (q.2+1)) inferInstance)
+      (Sum.elim
+        (fun i : Fin k => MeasurableSpace.comap (fun ω (s : ℝ≥0) => M.S n i ω s) inferInstance)
+        (fun i : Fin k => MeasurableSpace.comap (fun ω (s : ℝ≥0) => M.R n i ω s) inferInstance))
+  let block : J → I := Sum.elim (fun j : Fin k × ℕ => .inl (.inl j.1))
+    (Sum.elim (fun i => .inl (.inr i)) (fun i => .inr i))
+  let D (i : I) := block ⁻¹' {i}
+  let F (n : ℕ) (i : I) := ⨆ a ∈ D i, G n a
+  have hD : Pairwise (fun i j => Disjoint (D i) (D j)) := by
+    intro i j hij
+    apply Set.disjoint_left.2
+    intro a h₁ h₂
+    simp only [D,Set.mem_preimage,Set.mem_singleton_iff] at h₁ h₂
+    exact hij (h₁.symm.trans h₂)
+  have hG (n : ℕ) (a : J) : G n a ≤ mΩ := by
+    rcases a with (⟨i,j⟩ | (i | i))
+    · exact (M.U_meas i (j+1)).comap_le
+    · exact (measurable_pi_lambda _ (fun (s : ℝ≥0) => (M.S_poisson n i).meas s)).comap_le
+    · exact (measurable_pi_lambda _ (fun (s : ℝ≥0) => (M.R_poisson n i).meas s)).comap_le
+  have hF (n : ℕ) : iIndep (F n) M.P :=
+    independent_grouped_fields (G n) (hG n) (M.indep n) D hD
+  have hM (n : ℕ) (i : I) : @Measurable Ω _ (F n i) inferInstance (fun ω j => X n ω (τ j) (π i)) := by
+    have hcoord : ∀ j : Fin m, @Measurable Ω _ (F n i) inferInstance (fun ω => X n ω (τ j) (π i)) := by
+      intro j
+      rcases i with ((i | i) | i)
+      · simp only [hXa]
+        let L := F n (.inl (.inl i))
+        let U (ω : Ω) (j : ℕ) := (@SystemSequence.U Ω mΩ k M) i (j+1) ω
+        let f (u : ℕ → ℝ) := renewal_from_sequence ((@SystemSequence.lamN Ω mΩ k M) n i) u (τ j).toNNReal
+        have hf : Measurable f :=
+          (measurable_pi_apply (τ j).toNNReal).comp (renewal_from_sequence_meas _)
+        have hu (j : ℕ) : @Measurable Ω _ L inferInstance (fun ω => U ω j) :=
+          measurable_iff_comap_le.2 (le_iSup₂_of_le (.inl (i,j)) rfl le_rfl)
+        have hv : @Measurable Ω _ L inferInstance U := by
+          letI : MeasurableSpace Ω := L
+          exact measurable_pi_lambda _ hu
+        have hA : (fun ω => (@SystemSequence.A Ω mΩ k M) n i ω (τ j)) = f ∘ U := by
+          funext ω
+          have hf' (l : ℕ) : (@SystemSequence.arrivalEpoch Ω mΩ k M) n i ω l =
+              partialSum (fun a => U ω (a-1)/(@SystemSequence.lamN Ω mΩ k M) n i) l := by
+            unfold SystemSequence.arrivalEpoch partialSum
+            apply Finset.sum_congr rfl
+            intro a ha
+            dsimp [U]
+            rw [Nat.sub_add_cancel (Finset.mem_Icc.1 ha).1]
+          simp only [SystemSequence.A,Function.comp_def,f,renewal_from_sequence,
+            Real.coe_toNNReal _ (hτ j),funext hf']
+        have hZ : (fun ω => (@SystemSequence.Ahat Ω mΩ k M) n ω (τ j) i) =
+            (fun ω => ((f ∘ U) ω - (@SystemSequence.lamN Ω mΩ k M) n i * τ j)/Real.sqrt n) := by
+          funext ω
+          unfold SystemSequence.Ahat
+          rw [congrFun hA ω]
+        rw [hZ]
+        exact ((hf.comp hv).sub_const _).div_const _
+      · simp only [hXs]
+        let L := F n (.inl (.inr i))
+        let s : ℝ≥0 := ⟨(n:ℝ)*τ j,mul_nonneg (Nat.cast_nonneg _) (hτ j)⟩
+        have hP : @Measurable Ω _ L inferInstance (fun ω (u : ℝ≥0) => (@SystemSequence.S Ω mΩ k M) n i ω u) :=
+          measurable_iff_comap_le.2 (le_iSup₂_of_le (.inr (.inl i)) rfl le_rfl)
+        have hS : @Measurable Ω _ L inferInstance (fun ω => (@SystemSequence.S Ω mΩ k M) n i ω (s:ℝ)) := (measurable_pi_apply s).comp hP
+        exact (hS.sub_const _).div_const _
+      · simp only [hXr]
+        let L := F n (.inr i)
+        let s : ℝ≥0 := ⟨(n:ℝ)*τ j,mul_nonneg (Nat.cast_nonneg _) (hτ j)⟩
+        have hP : @Measurable Ω _ L inferInstance (fun ω (u : ℝ≥0) => (@SystemSequence.R Ω mΩ k M) n i ω u) :=
+          measurable_iff_comap_le.2 (le_iSup₂_of_le (.inr (.inr i)) rfl le_rfl)
+        have hR : @Measurable Ω _ L inferInstance (fun ω => (@SystemSequence.R Ω mΩ k M) n i ω (s:ℝ)) := (measurable_pi_apply s).comp hP
+        exact (hR.sub_const _).div_const _
+    letI : MeasurableSpace Ω := F n i
+    exact measurable_pi_lambda _ hcoord
+  let E := EuclideanSpace ℝ (Fin m)
+  let e : (Fin m → ℝ) ≃L[ℝ] E := (PiLp.continuousLinearEquiv 2 ℝ (fun _ : Fin m => ℝ)).symm
+  let Y (i : Fin (k+k+k)) (n : ℕ) (ω : Ω) := e (fun j => X n ω (τ j) i)
+  let Z (i : Fin (k+k+k)) (ω : Ω') := e (fun j => C i*B i (τ j).toNNReal ω)
+  have hInd (n : ℕ) : iIndepFun (fun i => Y i n) M.P := by
+    apply (iIndepFun_iff_iIndep _ _ _).2
+    apply iIndep_of_iIndep_of_le ((hF n).precomp π.symm.injective)
+    intro i
+    have h := e.continuous.measurable.comp (hM n (π.symm i))
+    simpa only [Equiv.apply_symm_apply,Function.comp_def,Y] using h.comap_le
+  have hZ : iIndepFun Z P' := hiB.comp
+    (fun i (v : ℝ≥0 → ℝ) => e (fun j => C i*v (τ j).toNNReal))
+    (fun i => e.continuous.measurable.comp
+      (measurable_pi_lambda _ (fun j => (measurable_pi_apply (τ j).toNNReal).const_mul _)))
+  have hMarg (i : Fin (k+k+k)) : TendstoInDistribution (Y i) atTop (Z i) (fun _ => M.P) P' := by
+    obtain ⟨l,rfl⟩ := π.surjective i
+    rcases l with ((i | i) | i)
+    · have h := queue_arrival_finite_observation_limit M i (hB (π (.inl (.inl i)))) (hBc (π (.inl (.inl i)))) τ hτ
+      simpa only [Y,Z,hXa,hCa,Function.comp_def] using h.continuous_comp e.continuous
+    · let N (ω : Ω) (t : ℝ) := M.S 1 i ω ((M.muN 1 i)⁻¹*t)
+      have hN : IsPoissonProcess M.P N 1 := by
+        have h := poisson_primitive_deterministic_clock_change (M.S_poisson 1 i)
+          (M.muN 1 i)⁻¹ (inv_pos.2 (M.muN_pos 1 i))
+        simpa only [mul_inv_cancel₀ (M.muN_pos 1 i).ne'] using h
+      have h := poisson_rows_centered_finite_observation_limit (fun n => M.S n i) (fun n => M.muN n i)
+        (fun n => M.S_poisson n i) (M.mu i) (M.mu_pos i).le (M.mu_lim i) N hN (hB (π (.inl (.inr i)))) (hBc (π (.inl (.inr i)))) τ hτ
+      simpa only [Y,Z,hXs,hCs,SystemSequence.Shat,Function.comp_def] using h.continuous_comp e.continuous
+    · let N (ω : Ω) (t : ℝ) := M.S 1 i ω ((M.muN 1 i)⁻¹*t)
+      have hN : IsPoissonProcess M.P N 1 := by
+        have h := poisson_primitive_deterministic_clock_change (M.S_poisson 1 i)
+          (M.muN 1 i)⁻¹ (inv_pos.2 (M.muN_pos 1 i))
+        simpa only [mul_inv_cancel₀ (M.muN_pos 1 i).ne'] using h
+      have h := poisson_rows_centered_finite_observation_limit (fun n => M.R n i) (fun n => M.thetaN n i)
+        (fun n => M.R_poisson n i) (M.theta i) (M.theta_nonneg i) (M.theta_lim i) N hN (hB (π (.inr i))) (hBc (π (.inr i))) τ hτ
+      simpa only [Y,Z,hXr,hCr,SystemSequence.Rhat,Function.comp_def] using h.continuous_comp e.continuous
+  have hJ := joint_weak_limit_of_independent_finite_family Y Z hMarg
+    (Eventually.of_forall hInd) hZ
+  let g (u : Fin (k+k+k) → E) (j : Fin m) (i : Fin (k+k+k)) := e.symm (u i) j
+  have hg : Continuous g := continuous_pi (fun j => continuous_pi (fun i =>
+    (continuous_apply j).comp (e.symm.continuous.comp (continuous_apply i))))
+  simpa only [Function.comp_def,g,Y,Z,ContinuousLinearEquiv.symm_apply_apply] using hJ.continuous_comp hg

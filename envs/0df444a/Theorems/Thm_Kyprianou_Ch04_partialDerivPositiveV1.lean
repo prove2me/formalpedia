@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_partialDerivPositiveV1
 -- name    : Kyprianou.Ch04.partialDerivPositiveV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T23:29:00.157095+00:00
 -- url     : https://prove2.me/theorems/1c455eda-ab8c-4031-9730-8038a61fd2a1

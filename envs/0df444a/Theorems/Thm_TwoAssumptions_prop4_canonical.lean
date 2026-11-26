@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAssumptions_prop4_canonical
 -- name    : TwoAssumptions.prop4_canonical
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-22T23:18:05.173033+00:00
 -- url     : https://prove2.me/theorems/fd78e961-dda6-481e-aca0-aa9830d8a53a

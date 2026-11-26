@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAssumptions_prop5_unit_jacobian
 -- name    : TwoAssumptions.prop5_unit_jacobian
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-22T23:19:08.76727+00:00
 -- url     : https://prove2.me/theorems/2303a2e0-b522-4ff7-8196-81c4addeff13

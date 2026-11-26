@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_idleOccupationIntegerExhaustionV1
 -- name    : Kyprianou.Ch04.idleOccupationIntegerExhaustionV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:24:08.094607+00:00
 -- url     : https://prove2.me/theorems/b9261309-f11e-44be-adb7-809eb5123082

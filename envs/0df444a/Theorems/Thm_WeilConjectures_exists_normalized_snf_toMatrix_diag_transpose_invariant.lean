@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_normalized_snf_toMatrix_diag_transpose_invariant
 -- name    : WeilConjectures.exists_normalized_snf_toMatrix_diag_transpose_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T05:16:13.992989+00:00
 -- url     : https://prove2.me/theorems/612d4b3a-f7f7-46a7-9850-e045e090aa72

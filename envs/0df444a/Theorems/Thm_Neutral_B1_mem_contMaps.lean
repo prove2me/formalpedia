@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_mem_contMaps
 -- name    : Neutral.B1.mem_contMaps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:03:59.080988+00:00
 -- url     : https://prove2.me/theorems/5a44b6fb-a343-55e9-8df6-b0168e63018e

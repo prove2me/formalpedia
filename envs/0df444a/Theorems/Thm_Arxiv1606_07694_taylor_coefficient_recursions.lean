@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1606_07694_taylor_coefficient_recursions
 -- name    : Arxiv1606_07694.taylor_coefficient_recursions
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T23:29:47.427984+00:00
 -- url     : https://prove2.me/theorems/342d2b87-24dd-4785-a51a-dd3c5f1b6ebe

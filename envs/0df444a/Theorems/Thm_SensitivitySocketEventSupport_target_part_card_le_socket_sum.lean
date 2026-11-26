@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivitySocketEventSupport_target_part_card_le_socket_sum
 -- name    : SensitivitySocketEventSupport.target_part_card_le_socket_sum
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:50:32.224852+00:00
 -- url     : https://prove2.me/theorems/deb01bc0-d7c1-4e5a-9adf-949565127334

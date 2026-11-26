@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringOfIntegers_star_def
 -- name    : GlobalTheory.ringOfIntegers_star_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:57.416462+00:00
 -- url     : https://prove2.me/theorems/546e2109-018b-5377-9bb3-71e635a4f29e

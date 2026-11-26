@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2405_15536_kappa_gaussian_fat_tails
 -- name    : Arxiv2405_15536.kappa_gaussian_fat_tails
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:16:56.529772+00:00
 -- url     : https://prove2.me/theorems/e968056d-6787-4b7a-88e4-8734a2590fb2

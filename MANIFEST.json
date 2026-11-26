@@ -1,6 +1,6 @@
 {
   "generated_by": "scripts/export/dump_formalpedia.py",
-  "generated_at": "2026-11-26T01:50:07.676473+00:00",
+  "generated_at": "2026-11-26T03:10:06.661421+00:00",
   "licensing": {
     "terms_version": "public-content-v3",
     "effective_at": "2026-09-24T15:55:00Z",
@@ -14,24 +14,24 @@
   "unresolved_statement_imports": [],
   "environments": [
     {
-      "dir": "0df444a",
-      "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
-      "toolchain": "leanprover/lean4:v4.33.1",
-      "is_default": true,
-      "theorems": 554989,
-      "definitions": 161047,
-      "solutions": 502570,
-      "edges": 4875781
-    },
-    {
       "dir": "c5ea003",
       "mathlib_rev": "c5ea00351c28e24afc9f0f84379aa41082b1188f",
       "toolchain": "leanprover/lean4:v4.30.0",
       "is_default": false,
-      "theorems": 15962,
+      "theorems": 15964,
       "definitions": 4674,
-      "solutions": 16471,
-      "edges": 89644
+      "solutions": 16473,
+      "edges": 89648
+    },
+    {
+      "dir": "0df444a",
+      "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+      "toolchain": "leanprover/lean4:v4.33.1",
+      "is_default": true,
+      "theorems": 555917,
+      "definitions": 161164,
+      "solutions": 503453,
+      "edges": 4875945
     },
     {
       "dir": "777aaa6",

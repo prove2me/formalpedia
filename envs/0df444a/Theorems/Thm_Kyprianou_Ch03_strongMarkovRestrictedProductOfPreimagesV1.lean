@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_strongMarkovRestrictedProductOfPreimagesV1
 -- name    : Kyprianou.Ch03.strongMarkovRestrictedProductOfPreimagesV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:20:41.428579+00:00
 -- url     : https://prove2.me/theorems/7c2f6ec4-0853-4bf2-92df-f4f9606ad97b

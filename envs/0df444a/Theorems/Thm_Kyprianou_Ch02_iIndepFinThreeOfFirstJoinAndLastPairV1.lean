@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_iIndepFinThreeOfFirstJoinAndLastPairV1
 -- name    : Kyprianou.Ch02.iIndepFinThreeOfFirstJoinAndLastPairV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T22:47:20.485552+00:00
 -- url     : https://prove2.me/theorems/9226c065-6d17-4f52-b627-fb861be3be08

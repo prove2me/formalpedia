@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_SliceClasses_exists_fixed
 -- name    : PositivityTheory.Rg.Rs.SliceClasses.exists_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:52:34.060439+00:00
 -- url     : https://prove2.me/theorems/bb967ad0-480c-40a5-9906-e26024e6681c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAssumptions_prop3_manifold
 -- name    : TwoAssumptions.prop3_manifold
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-22T23:17:08.247794+00:00
 -- url     : https://prove2.me/theorems/1895aa2d-2996-4585-a268-14f40bfb45f0

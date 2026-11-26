@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_equivariant_smul
 -- name    : Neutral.B1.equivariant_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:03:44.005463+00:00
 -- url     : https://prove2.me/theorems/cf5aac3f-8f7f-43bb-a1ae-4b0b5c13f030

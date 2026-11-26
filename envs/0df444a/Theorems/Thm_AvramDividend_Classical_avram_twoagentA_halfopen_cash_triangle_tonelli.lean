@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_twoagentA_halfopen_cash_triangle_tonelli
 -- name    : AvramDividend.Classical.avram_twoagentA_halfopen_cash_triangle_tonelli
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T09:19:00.001056+00:00
 -- url     : https://prove2.me/theorems/1cf140c1-a690-4c33-ab96-196685315cb9

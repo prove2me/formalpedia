@@ -70550,7 +70550,7 @@
 {"parent": "OAIQ254M004", "child": "OAIQ254M001", "via": ["statement"]}
 {"parent": "BetterKMedian.LMPGreedy.lemma_A_2", "child": "BetterKMedian_LMPGreedy_AppendixA", "via": ["statement"]}
 {"parent": "BetterKMedian.LMPGreedy.lemma_A_2", "child": "BetterKMedian_LMPGreedy_Bidding", "via": ["statement"]}
-{"parent": "HasseHSG.Generator.lemma_6_4", "child": "HasseHSG_Generator_Wronskian", "via": ["statement"]}
+{"parent": "HasseHSG.Generator.lemma_6_4", "child": "HasseHSG_Generator_Wronskian", "via": ["solution", "statement"]}
 {"parent": "OAI.TamingCompatibility.GeometricHilbert.actual_localized_square_source_on", "child": "OAIQ239Tc028", "via": ["solution", "statement"]}
 {"parent": "OAI.TamingCompatibility.GeometricHilbert.actual_localized_square_source_on", "child": "TamingCompatibility", "via": ["solution", "statement"]}
 {"parent": "OAI.PackingSufficiencySupport.Hamiltonian.exists_hamiltonian_rounded_intervals_bp240", "child": "OAIQ240Bp010", "via": ["statement"]}

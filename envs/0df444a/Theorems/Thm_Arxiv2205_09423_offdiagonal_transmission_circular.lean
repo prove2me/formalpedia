@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09423_offdiagonal_transmission_circular
 -- name    : Arxiv2205_09423.offdiagonal_transmission_circular
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T12:22:53.384309+00:00
 -- url     : https://prove2.me/theorems/363c863e-f4fd-5d2e-a02b-223570dcfe4e

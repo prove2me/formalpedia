@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeSign_eq_or
 -- name    : GlobalTheory.cubeSign_eq_or
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:44:28.897105+00:00
 -- url     : https://prove2.me/theorems/b2f29b3d-4419-414d-b1f0-fce1fcc534e8

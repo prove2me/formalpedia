@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2001_06227_stealth_hyperuniform_transparency
 -- name    : Arxiv2001_06227.stealth_hyperuniform_transparency
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T08:15:06.847731+00:00
 -- url     : https://prove2.me/theorems/3589a9f5-4ffa-5c49-aaf8-7c9b3566f82b

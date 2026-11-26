@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09423_mean_transmission_block
 -- name    : Arxiv2205_09423.mean_transmission_block
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T12:05:07.49386+00:00
 -- url     : https://prove2.me/theorems/d852357f-7c44-44c5-8eeb-de9b9e851a76

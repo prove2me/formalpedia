@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_resH2_eq_compatiblePairH2
 -- name    : Neutral.B1.resH2_eq_compatiblePairH2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:03:47.785016+00:00
 -- url     : https://prove2.me/theorems/3ad9698c-ac4e-4d67-9164-03420fce3278

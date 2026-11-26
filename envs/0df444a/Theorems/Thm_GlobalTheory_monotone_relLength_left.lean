@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_monotone_relLength_left
 -- name    : GlobalTheory.monotone_relLength_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:04.022469+00:00
 -- url     : https://prove2.me/theorems/a5f86275-9ead-512a-b868-5aa6bae493c2

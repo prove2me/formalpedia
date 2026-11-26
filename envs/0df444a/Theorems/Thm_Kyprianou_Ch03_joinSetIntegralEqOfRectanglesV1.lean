@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_joinSetIntegralEqOfRectanglesV1
 -- name    : Kyprianou.Ch03.joinSetIntegralEqOfRectanglesV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:27:39.889467+00:00
 -- url     : https://prove2.me/theorems/47be5c74-dbca-432b-880d-d5c4ac947099

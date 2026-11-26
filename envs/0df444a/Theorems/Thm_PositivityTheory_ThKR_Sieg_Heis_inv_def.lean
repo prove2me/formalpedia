@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Sieg_Heis_inv_def
 -- name    : PositivityTheory.ThKR.Sieg.Heis.inv_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:00:48.03774+00:00
 -- url     : https://prove2.me/theorems/f215a65e-994b-53c4-8357-8654034d73b9

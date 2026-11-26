@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_star_eq_complexConj
 -- name    : GlobalTheory.star_eq_complexConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:51:25.483709+00:00
 -- url     : https://prove2.me/theorems/7bb35a77-4e01-420f-9f5e-0b8a825c0c3e

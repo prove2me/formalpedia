@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09423_mean_reflection_block
 -- name    : Arxiv2205_09423.mean_reflection_block
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T12:09:38.234025+00:00
 -- url     : https://prove2.me/theorems/3a8708d7-5d99-4868-b28d-2bf9796473bf

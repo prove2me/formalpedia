@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_mem_cocycles1_trivial
 -- name    : Neutral.B1.mem_cocycles1_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:03:53.222819+00:00
 -- url     : https://prove2.me/theorems/56270a15-51e4-5db5-9049-fea7ca5d10b5

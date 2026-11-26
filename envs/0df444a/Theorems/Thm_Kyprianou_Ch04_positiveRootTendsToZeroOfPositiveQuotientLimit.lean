@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_positiveRootTendsToZeroOfPositiveQuotientLimit
 -- name    : Kyprianou.Ch04.positiveRootTendsToZeroOfPositiveQuotientLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T19:26:57.781913+00:00
 -- url     : https://prove2.me/theorems/a2122081-e0cf-5829-beb9-c5e7262b1877

@@ -54799,11 +54799,11 @@
 {"parent": "RSSubspaceDesign.Supplement.theorem_3_2", "child": "RSSubspaceDesign_IsSubspaceDesign", "via": ["statement"]}
 {"parent": "NetworkSumSecure.Solvability.Supplement.theorem_2", "child": "NetworkSumSecure_Solvability_algorithm", "via": ["statement"]}
 {"parent": "MatroidSensOracle_Supplement_MatroidProblems", "child": "MatroidSensOracle_MatroidOracle", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.finiteMeanPassageJointWeakLimit", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.finiteMeanPassageJointWeakLimit", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.finiteMeanPassageJointWeakLimit", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.finiteMeanPassageJointWeakLimit", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.finiteMeanPassageJointWeakLimit", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.finiteMeanPassageJointWeakLimit", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.finiteMeanPassageJointWeakLimit", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.finiteMeanPassageJointWeakLimit", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.finiteMeanPassageJointWeakLimit", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.finiteMeanPassageJointWeakLimit", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["solution", "statement"]}
 {"parent": "MeanOnlyProphet.Supplement.theorem_1_2", "child": "MeanOnlyProphet_Supplement_psExpectedReward", "via": ["statement"]}
 {"parent": "ElimAgree.Supplement.theorem_A_2", "child": "ElimAgree_Supplement_Models", "via": ["statement"]}
 {"parent": "ParallelDiffusionLB.NearIsotropic.Supplement.lemma_B_1", "child": "ParallelDiffusionLB_NearIsotropic_Supplement_Box", "via": ["statement"]}

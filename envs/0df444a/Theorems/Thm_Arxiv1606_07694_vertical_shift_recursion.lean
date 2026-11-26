@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1606_07694_vertical_shift_recursion
 -- name    : Arxiv1606_07694.vertical_shift_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T23:22:22.327617+00:00
 -- url     : https://prove2.me/theorems/7ca3e183-b749-4a51-ad1b-6741358c4976

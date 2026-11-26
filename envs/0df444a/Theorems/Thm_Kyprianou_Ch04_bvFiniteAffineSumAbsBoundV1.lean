@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvFiniteAffineSumAbsBoundV1
 -- name    : Kyprianou.Ch04.bvFiniteAffineSumAbsBoundV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:31:29.782295+00:00
 -- url     : https://prove2.me/theorems/a50f3224-3848-4c45-9004-a6b212f941d7

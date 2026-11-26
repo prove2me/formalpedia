@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallClassesNeighbourhood_Linear_orbit_stabilizer_bound
 -- name    : SmallClassesNeighbourhood.Linear.orbit_stabilizer_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T16:35:57.951024+00:00
 -- url     : https://prove2.me/theorems/ea33d26f-7839-47f0-88ba-c686c36eef0c

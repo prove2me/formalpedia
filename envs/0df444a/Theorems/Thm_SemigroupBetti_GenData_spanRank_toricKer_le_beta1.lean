@@ -1,0 +1,30 @@
+-- Prove2me | Theorems.Thm_SemigroupBetti_GenData_spanRank_toricKer_le_beta1
+-- name    : SemigroupBetti.GenData.spanRank_toricKer_le_beta1
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-11-26T03:02:02.313578+00:00
+-- url     : https://prove2.me/theorems/80367302-9dfa-4d05-bcef-4f4bcaa8df1a
+-- title:
+--   Gen Data: span Rank toric Ker le beta1
+-- statement:
+--   **Bridge (inequality half of Lemma 0).** `μ(I) ≤ β₁`, with `μ` = `Submodule.spanRank`.
+--
+--   Source: https://github.com/BenKeene/semigroup-betti/blob/c94da4f5cb07e2ccf62c9ae18887aedd73e95bf2/SemigroupBetti/Bridge.lean#L281-L291
+-- source:
+--   https://github.com/BenKeene/semigroup-betti/blob/c94da4f5cb07e2ccf62c9ae18887aedd73e95bf2/SemigroupBetti/Bridge.lean#L281-L291
+
+module
+public import Definitions.Def_SemigroupBetti_Fiber
+public import Definitions.Def_SemigroupBetti_Bridge
+set_option autoImplicit false
+@[expose] public section
+public section
+open SemigroupBetti
+open Finset MvPolynomial
+open SemigroupBetti.GenData
+variable (G : GenData) (K : Type*) [Field K]
+
+theorem SemigroupBetti.GenData.spanRank_toricKer_le_beta1 :
+    (RingHom.ker (MvPolynomial.aeval (R := K)
+      (fun i => (Polynomial.X : Polynomial K) ^ G.n i)).toRingHom).spanRank ≤
+      (G.beta1 : Cardinal) := by sorry

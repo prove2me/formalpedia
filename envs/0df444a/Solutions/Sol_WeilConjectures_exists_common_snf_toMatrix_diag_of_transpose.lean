@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WeilConjectures.exists_common_snf_toMatrix_diag_of_transpose
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-24T22:32:02.219925+00:00
 -- url     : https://prove2.me/submissions/e68e7e2f-9060-4f89-b914-4981934b3e7a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WeilConjectures_exists_unit_cob_of_toMatrix_diagonal

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_discounted_hjb_limit_expected_balance
 -- name    : ManyServerQED.Scheduling.discounted_hjb_limit_expected_balance
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T01:23:32.146586+00:00
 -- url     : https://prove2.me/theorems/3a25dfcd-3376-5a4f-9c13-6c75c1c21479

@@ -54356,7 +54356,7 @@
 {"parent": "QEC.Coding.BDL26ReplacementCochainMaps.rzOldX_delta0", "child": "QEC_Coding_FiniteAlternatingConstruction_RXLocalReplacement", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementCochainMaps.rzOldX_delta0", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementCochainMaps", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementCochainMaps.rzOldX_delta0", "child": "QEC_Coding_FiniteAlternatingConstruction_RZCoordinateBridge", "via": ["solution", "statement"]}
-{"parent": "SmallClassesNeighbourhood.Linear.orbit_stabilizer_bound", "child": "SmallClassesNeighbourhood_Linear_groupActions", "via": ["statement"]}
+{"parent": "SmallClassesNeighbourhood.Linear.orbit_stabilizer_bound", "child": "SmallClassesNeighbourhood_Linear_groupActions", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tableTerm58_contains_g", "child": "OAIQ098G397", "via": ["solution", "statement"]}
 {"parent": "OAI.InitialMeanSquare.initial_sector_transfer", "child": "OAI_NumberTheory_DirichletL_CubicSieve_RowCaps", "via": ["solution", "statement"]}
 {"parent": "OAI.InitialMeanSquare.initial_sector_transfer", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SmoothTests", "via": ["solution", "statement"]}

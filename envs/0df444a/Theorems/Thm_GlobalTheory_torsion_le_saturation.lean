@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torsion_le_saturation
 -- name    : GlobalTheory.torsion_le_saturation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:51:34.09315+00:00
 -- url     : https://prove2.me/theorems/e396d25c-21e7-4f6f-9cd1-c38c0e0de308

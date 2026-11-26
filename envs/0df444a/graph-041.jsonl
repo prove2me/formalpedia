@@ -62179,7 +62179,7 @@
 {"parent": "Formalism.UG.P.local_algebra_inert_prime", "child": "Formalism_SatakeDualWeyl_StatementG", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.local_algebra_inert_prime", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_LocalAlgebraInertPrime", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.local_algebra_inert_prime", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Levelvsplit", "via": ["solution", "statement"]}
-{"parent": "HodgeComputer.RankOneBiquartic.F_ne_zero", "child": "HodgeComputerRankOneBiquartic", "via": ["statement"]}
+{"parent": "HodgeComputer.RankOneBiquartic.F_ne_zero", "child": "HodgeComputerRankOneBiquartic", "via": ["solution", "statement"]}
 {"parent": "Formalism.WachCohomologyFacts.PLenBound.length_quot_pow_le", "child": "Formalism_FrobeniusContraction_Statement", "via": ["solution", "statement"]}
 {"parent": "Formalism.WachCohomologyFacts.PLenBound.length_quot_pow_le", "child": "Formalism_FrobeniusContraction_FrobeniusContractionProofs_LenBound", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.isIrreducible_preimage_of_isEmbedding", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_AlgebraicPreliminaries_GenericPointImage", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Fub_one_of_compact
 -- name    : PositivityTheory.ThKG.Fub.one_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:00:19.812553+00:00
 -- url     : https://prove2.me/theorems/7ae1aa67-3d07-59b8-984d-680474713e33

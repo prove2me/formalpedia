@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeForm_eq_inner
 -- name    : GlobalTheory.latticeForm_eq_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:10.747961+00:00
 -- url     : https://prove2.me/theorems/530189d3-7593-5507-9d65-0b82265db3f7

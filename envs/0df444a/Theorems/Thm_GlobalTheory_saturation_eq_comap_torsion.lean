@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_saturation_eq_comap_torsion
 -- name    : GlobalTheory.saturation_eq_comap_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:50:06.581944+00:00
 -- url     : https://prove2.me/theorems/d91189ae-c252-5a05-b02b-e831cb557ceb

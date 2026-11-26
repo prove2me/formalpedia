@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_arbitraryTimeMarkCandidateSeriesMeasurableV1
 -- name    : Kyprianou.Ch04.arbitraryTimeMarkCandidateSeriesMeasurableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T00:45:18.67284+00:00
 -- url     : https://prove2.me/theorems/8697c3f1-968d-5e5d-b055-93c2b29ef3eb

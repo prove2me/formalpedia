@@ -1807,7 +1807,7 @@
 {"parent": "Formalism.CohomologicalDescent.RealLocalDeltaNabla.coefficient_over_holds", "child": "Formalism_PieriBlockIdeals_PieriColumnMinors_RealLocalDeltaNabla", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.scheme_homOfLE_apply_mk", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsCompletedStrictHens", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.scheme_homOfLE_apply_mk", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_IrreducibleSpacePullbackFieldOfIrreducibleCover", "via": ["solution", "statement"]}
-{"parent": "Arxiv1606_07694.taylor_coefficient_recursions", "child": "Arxiv1606_07694_Basic", "via": ["statement"]}
+{"parent": "Arxiv1606_07694.taylor_coefficient_recursions", "child": "Arxiv1606_07694_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.wittVector_dvd_of_saturated_ideal", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_WittVectorDvdOfSaturatedIdeal", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.zarhinBlock_real_posDef_det", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsUnimodularPosDefAdjointAction", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.zarhinBlock_real_posDef_det", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsIntMatrixTransposeMulEqSmulOne", "via": ["solution", "statement"]}
@@ -3119,7 +3119,7 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.FactorialDivisibilityBounds.nfac_div", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_FundSetMeasStatement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.FactorialDivisibilityBounds.nfac_div", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_HolomorphicPeriodicityExtension", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.FactorialDivisibilityBounds.nfac_div", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_FjFlow", "via": ["solution", "statement"]}
-{"parent": "Arxiv1606_07694.gauge_reduced_taylor_form", "child": "Arxiv1606_07694_Basic", "via": ["statement"]}
+{"parent": "Arxiv1606_07694.gauge_reduced_taylor_form", "child": "Arxiv1606_07694_Basic", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Arith.SchemeCoh.hasProjectiveDimensionLT_of_residueField", "child": "GroundTheory_ArithmeticGeometry_SchemeCohomology_RegularUFDSerre", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Arith.SchemeCoh.hasProjectiveDimensionLT_of_residueField", "child": "GroundTheory_ArithmeticGeometry_SchemeCohomology_RegularLocalDomain", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.sum_hadamard_posDef_posSemidef", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SumHadamardPosDefPosSemidef", "via": ["solution", "statement"]}
@@ -4504,7 +4504,7 @@
 {"parent": "GlobalTheory.smul_inf_restrictScalars", "child": "Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_MemSaturatedOrderIsoSubspaceSpanSymmApply", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.GLnLocal.conj_mem_integralGL_of_conj_inv_mem", "child": "GroundTheory_AutomorphicForms_GLnLocal", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.GLnLocal.conj_mem_integralGL_of_conj_inv_mem", "child": "GroundTheory_AutomorphicForms_GLnLattice", "via": ["solution", "statement"]}
-{"parent": "Arxiv1606_07694.vertical_shift_recursion", "child": "Arxiv1606_07694_Basic", "via": ["statement"]}
+{"parent": "Arxiv1606_07694.vertical_shift_recursion", "child": "Arxiv1606_07694_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.piTensorDistribMulAction_smulDistribClass", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_ExistsUnitSmulEqOfBijectiveToSpanSingleton", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Anisotropic.blockHom_baseMap", "child": "GroundTheory_AutomorphicForms_AnisotropicRestrict", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.schur_proportional_of_range_le", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_SchurEquivariantMapsProportional", "via": ["solution", "statement"]}

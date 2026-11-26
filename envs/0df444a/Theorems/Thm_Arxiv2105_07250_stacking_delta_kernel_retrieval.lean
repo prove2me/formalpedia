@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2105_07250_stacking_delta_kernel_retrieval
 -- name    : Arxiv2105_07250.stacking_delta_kernel_retrieval
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:30:54.754405+00:00
 -- url     : https://prove2.me/theorems/266452d6-0f26-414a-b66e-0e4db95efdfc

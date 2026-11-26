@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09423_translated_slab_matrices
 -- name    : Arxiv2205_09423.translated_slab_matrices
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T12:32:54.157499+00:00
 -- url     : https://prove2.me/theorems/3b14a876-b51a-5f24-8da9-0a38c1969a3c

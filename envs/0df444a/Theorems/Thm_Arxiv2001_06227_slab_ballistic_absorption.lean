@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2001_06227_slab_ballistic_absorption
 -- name    : Arxiv2001_06227.slab_ballistic_absorption
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T08:21:31.851069+00:00
 -- url     : https://prove2.me/theorems/5701f0e6-e9e0-549b-961c-7304a916e90e
