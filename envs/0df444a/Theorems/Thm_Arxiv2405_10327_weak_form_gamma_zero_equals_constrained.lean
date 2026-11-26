@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2405_10327_weak_form_gamma_zero_equals_constrained
 -- name    : Arxiv2405_10327.weak_form_gamma_zero_equals_constrained
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:01:00.668293+00:00
 -- url     : https://prove2.me/theorems/87a6fa16-1583-5a04-9d67-c725111e32f9

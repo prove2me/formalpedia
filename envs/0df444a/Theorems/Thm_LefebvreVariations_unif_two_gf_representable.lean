@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:37:51.415898+00:00
 -- url     : https://prove2.me/theorems/7aa2834d-7c58-4900-9962-d0bccdc80957
 -- title:
---   Lefebvre's variations, No. 27 — on a theme by Rota: $U_{2,n}$ is $\mathrm{GF}(q)$-representable for $n\le q+1$
+--   Lefebvre's variations, No. 18 — on a theme by Rota: $U_{2,n}$ is $\mathrm{GF}(q)$-representable for $n\le q+1$
 -- statement:
 --   This is the positive half of the line case of Rota's conjecture.
 --

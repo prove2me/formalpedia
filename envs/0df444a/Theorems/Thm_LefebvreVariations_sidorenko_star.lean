@@ -5,7 +5,7 @@
 -- created : 2026-11-24T21:59:25.777795+00:00
 -- url     : https://prove2.me/theorems/c622146d-52cf-41f5-b9b5-296f82669538
 -- title:
---   Lefebvre's variations, No. 6 — on a theme by Sidorenko: Sidorenko's conjecture for stars $K_{1,t}$
+--   Lefebvre's variations, No. 3 — on a theme by Sidorenko: Sidorenko's conjecture for stars $K_{1,t}$
 -- statement:
 --   This is the case of stars of Sidorenko's conjecture (Ten Challenges 04).
 --

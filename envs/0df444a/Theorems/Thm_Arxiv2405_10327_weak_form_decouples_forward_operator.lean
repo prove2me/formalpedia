@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2405_10327_weak_form_decouples_forward_operator
 -- name    : Arxiv2405_10327.weak_form_decouples_forward_operator
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T17:55:46.653668+00:00
 -- url     : https://prove2.me/theorems/96a9534e-2809-4cb6-8144-1b31350b32ca

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:14:13.303982+00:00
 -- url     : https://prove2.me/theorems/838e648b-6afe-4a49-81bb-8c8e6ae8cb9c
 -- title:
---   Lefebvre's variations, No. 90 — on a theme by Conway and Sloane: the kissing number in dimension 10 is at least 500
+--   Lefebvre's variations, No. 57 — on a theme by Conway and Sloane: the kissing number in dimension 10 is at least 500
 -- statement:
 --   Let $\tau(10)$ be the kissing number in dimension $10$: the largest size of a finite set of unit vectors in $\mathbb{R}^{10}$ with pairwise inner products at most $\tfrac12$. Then
 --   $$

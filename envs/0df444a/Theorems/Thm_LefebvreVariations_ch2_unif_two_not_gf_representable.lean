@@ -5,7 +5,7 @@
 -- created : 2026-11-24T21:52:21.0566+00:00
 -- url     : https://prove2.me/theorems/1eaec181-96f4-4717-83e2-ad9b0636f1fa
 -- title:
---   Lefebvre's variations, No. 3 — on a theme by Rota: $U_{2,q+2}$ is not $\mathrm{GF}(q)$-representable
+--   Lefebvre's variations, No. 1 — on a theme by Rota: $U_{2,q+2}$ is not $\mathrm{GF}(q)$-representable
 -- statement:
 --   This is the line case of the excluded-minor problem for representability over a finite field (Ten Challenges 02, Rota's conjecture).
 --

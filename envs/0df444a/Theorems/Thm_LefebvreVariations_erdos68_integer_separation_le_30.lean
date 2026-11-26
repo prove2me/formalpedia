@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:52:21.488355+00:00
 -- url     : https://prove2.me/theorems/8c1350cb-7bd2-4cd9-9485-5e06df7dc988
 -- title:
---   Lefebvre's variations, No. 37 — on a theme by Erdős: the integer separation of Erdős Problem 68 for $M\le 30$
+--   Lefebvre's variations, No. 23 — on a theme by Erdős: the integer separation of Erdős Problem 68 for $M\le 30$
 -- statement:
 --   This verifies the integer-separation step of Erdős Problem 68 for $3\le M\le30$.
 --

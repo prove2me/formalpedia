@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46RightContPhysicalMarkedKernelV1
 -- name    : Kyprianou.Ch04.exercise46RightContPhysicalMarkedKernelV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T23:36:50.734803+00:00
 -- url     : https://prove2.me/theorems/72602558-49c2-4e1c-94a1-011c9ad84eee

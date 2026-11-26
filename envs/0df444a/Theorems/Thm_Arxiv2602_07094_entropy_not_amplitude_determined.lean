@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2602_07094_entropy_not_amplitude_determined
 -- name    : Arxiv2602_07094.entropy_not_amplitude_determined
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:39:48.861518+00:00
 -- url     : https://prove2.me/theorems/ff034dfd-7fcc-4f7c-9ef5-8536721ce665

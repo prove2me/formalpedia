@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:10:33.364232+00:00
 -- url     : https://prove2.me/theorems/2252b289-ee60-46dd-a14f-8851a7562209
 -- title:
---   Lefebvre's variations, No. 39 — on a theme by Hadwiger and Nelson: the plane cannot be 3-coloured (the Moser spindle)
+--   Lefebvre's variations, No. 25 — on a theme by Hadwiger and Nelson: the plane cannot be 3-coloured (the Moser spindle)
 -- statement:
 --   This is the first non-trivial lower bound for the chromatic number of the plane.
 --

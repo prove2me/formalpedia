@@ -43167,7 +43167,7 @@
 {"parent": "OAILP_QF_Procedure", "child": "OAILP_QF_BitStackSubtractor", "via": ["statement"]}
 {"parent": "OAILP_QF_BitStackListLength", "child": "OAILP_QF_BitStackListFold", "via": ["statement"]}
 {"parent": "OAILP_QF_BitStackListLength", "child": "OAILP_QF_BitStackNaturals", "via": ["statement"]}
-{"parent": "Arxiv2205_09234.misfit_hessian", "child": "Arxiv2205_09234_Basic", "via": ["statement"]}
+{"parent": "Arxiv2205_09234.misfit_hessian", "child": "Arxiv2205_09234_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CechMixed.coc_on", "child": "Development_AbelianVarietyTheory_Definitions_ModuliSpaces_IsInvDer", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CechMixed.coc_on", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_LeISupInfPreimage", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CechMixed.coc_on", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_IsCobOfIsAffineOpen", "via": ["solution", "statement"]}
@@ -51737,7 +51737,7 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.Out.GtBCPf.qB_h", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_BaseChangeKernels_PullbackSquarePartialSum", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Out.GtBCPf.qB_h", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_BaseChangeKernels_IBIsKernel", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Out.GtBCPf.qB_h", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_UniformBaseChange_PullGt", "via": ["solution", "statement"]}
-{"parent": "Arxiv2405_10327.weak_form_decouples_forward_operator", "child": "Arxiv2405_10327_Basic", "via": ["statement"]}
+{"parent": "Arxiv2405_10327.weak_form_decouples_forward_operator", "child": "Arxiv2405_10327_Basic", "via": ["solution", "statement"]}
 {"parent": "OAILP_PriceGame_MomentTrial", "child": "OAILP_PriceGame_MomentLocal", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_MomentTrial", "child": "OAILP_PriceGame_MomentThreshold", "via": ["statement"]}
 {"parent": "DetDLP.M3A.FpPolyDefs.fpEntry_compose", "child": "DetDLP_M3A_FpPolyDefs", "via": ["solution", "statement"]}
@@ -52726,7 +52726,7 @@
 {"parent": "DetDLP_S8H4_ElemTiles", "child": "DetDLP_S8J_CircuitRealizes", "via": ["statement"]}
 {"parent": "DetDLP_S8H4_ElemTiles", "child": "DetDLP_S8H_PointAddresses", "via": ["statement"]}
 {"parent": "DetDLP_S8H4_ElemTiles", "child": "DetDLP_S8H_ECPointSlots", "via": ["statement"]}
-{"parent": "Arxiv2405_10327.weak_form_gamma_zero_equals_constrained", "child": "Arxiv2405_10327_Basic", "via": ["statement"]}
+{"parent": "Arxiv2405_10327.weak_form_gamma_zero_equals_constrained", "child": "Arxiv2405_10327_Basic", "via": ["solution", "statement"]}
 {"parent": "OAILP_RAM_CallableScopedClamp", "child": "OAILP_Compat_Core", "via": ["statement"]}
 {"parent": "OAILP_RAM_CallableScopedClamp", "child": "OAILP_RAM_CallableScopedAccess", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_SecCmp", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt", "via": ["statement"]}
@@ -64539,7 +64539,7 @@
 {"parent": "GlobalTheory.T.formalSeriesJacobian_chain_rule_linearPart", "child": "Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_FormalSeriesJacobianChainRuleLinearPart", "via": ["statement"]}
 {"parent": "GlobalTheory.T.formalSeriesJacobian_chain_rule_linearPart", "child": "Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_FormalSeriesJacobianChainRuleLinearPartStatement", "via": ["statement"]}
 {"parent": "GlobalTheory.T.formalSeriesJacobian_chain_rule_linearPart", "child": "ReciprocityTheory_DualLattices_TowerZeroSurjective", "via": ["statement"]}
-{"parent": "Arxiv2205_09234.misfit_gradient", "child": "Arxiv2205_09234_Basic", "via": ["statement"]}
+{"parent": "Arxiv2205_09234.misfit_gradient", "child": "Arxiv2205_09234_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PsiScalUnit.c_left", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PsiScalUnit.c_left", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_FamMod", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PsiScalUnit.c_left", "child": "Development_AbelianVarietyTheory_Definitions_Uniformization_PsiScal", "via": ["solution", "statement"]}

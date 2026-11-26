@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_limitingDrawdown_LaplaceTransform
 -- name    : Kyprianou.Ch04.limitingDrawdown_LaplaceTransform
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T13:03:09.54393+00:00
 -- url     : https://prove2.me/theorems/c4f52ccd-abb7-4c05-85af-3e37b54d30a6

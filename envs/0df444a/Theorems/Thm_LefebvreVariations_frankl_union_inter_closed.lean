@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:51:27.819909+00:00
 -- url     : https://prove2.me/theorems/9d163286-9524-49e7-b2cd-11875e3d20e9
 -- title:
---   Lefebvre's variations, No. 36 — on a theme by Frankl: Frankl's conjecture for families closed under unions and intersections
+--   Lefebvre's variations, No. 30 — on a theme by Frankl: Frankl's conjecture for families closed under unions and intersections
 -- statement:
 --   This is Frankl's union-closed sets conjecture for families that are closed under both unions and intersections.
 --

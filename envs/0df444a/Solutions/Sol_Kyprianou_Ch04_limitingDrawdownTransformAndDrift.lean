@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.limitingDrawdownTransformAndDrift
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T13:04:19.386984+00:00
 -- url     : https://prove2.me/submissions/8d686812-64a2-44c1-a575-42123471c2ae
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

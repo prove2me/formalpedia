@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:03:00.111813+00:00
 -- url     : https://prove2.me/theorems/2527aa36-6a89-4eb4-b1d9-691f3f5a313d
 -- title:
---   Lefebvre's variations, No. 9 — on a theme by Smale: Smale's mean value conjecture with optimal constant in degrees 2 and 3
+--   Lefebvre's variations, No. 7 — on a theme by Smale: Smale's mean value conjecture with optimal constant in degrees 2 and 3
 -- statement:
 --   This is Smale's mean value conjecture with the optimal constant, in degrees $2$ and $3$.
 --

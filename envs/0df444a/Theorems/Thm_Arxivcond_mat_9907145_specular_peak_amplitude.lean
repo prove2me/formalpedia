@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivcond_mat_9907145_specular_peak_amplitude
 -- name    : Arxivcond_mat_9907145.specular_peak_amplitude
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:31:54.871005+00:00
 -- url     : https://prove2.me/theorems/6488bf43-b77c-4171-ad14-23affb74cafc

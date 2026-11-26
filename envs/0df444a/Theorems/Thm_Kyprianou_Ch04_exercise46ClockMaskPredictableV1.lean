@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46ClockMaskPredictableV1
 -- name    : Kyprianou.Ch04.exercise46ClockMaskPredictableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T23:29:49.869696+00:00
 -- url     : https://prove2.me/theorems/e18cdbaa-43bc-55a6-aa02-d66c1b0bb2f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_continuous_path_laws_yield_unit_coupling
 -- name    : ManyServerQED.Scheduling.continuous_path_laws_yield_unit_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-25T21:05:32.332253+00:00
 -- url     : https://prove2.me/theorems/9c18bf30-0e92-5c7b-aeaa-8d4f50213ff5

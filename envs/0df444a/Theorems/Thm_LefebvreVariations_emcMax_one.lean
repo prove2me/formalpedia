@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:24:16.224794+00:00
 -- url     : https://prove2.me/theorems/198f632e-a76b-4fd8-aa5b-64355101a699
 -- title:
---   Lefebvre's variations, No. 49 — on a theme by Erdős, Ko and Rado: the Erdős matching conjecture at s = 1 (Erdős–Ko–Rado)
+--   Lefebvre's variations, No. 35 — on a theme by Erdős, Ko and Rado: the Erdős matching conjecture at s = 1 (Erdős–Ko–Rado)
 -- statement:
 --   This is the Erdős–Ko–Rado theorem in the formulation of the Erdős Matching Conjecture at $s=1$.
 --

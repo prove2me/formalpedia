@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosDyadic_measure_C_le
 -- name    : ErdosDyadic.measure_C_le
--- status  : Open
+-- status  : Proved
 -- author  : @Jhon Lenin Acuna
 -- created : 2026-11-25T04:41:28.933712+00:00
 -- url     : https://prove2.me/theorems/5c814334-64b0-4253-bfac-ef2da5645462

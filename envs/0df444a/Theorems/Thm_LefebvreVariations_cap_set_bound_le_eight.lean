@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:42:32.462602+00:00
 -- url     : https://prove2.me/theorems/bdaa5feb-7fab-5770-b922-10a58c368a19
 -- title:
---   Lefebvre's variations, No. 57 — on a theme by Ellenberg and Gijswijt: cap sets in F_3^n have at most 2.756^n points for n at most 8
+--   Lefebvre's variations, No. 50 — on a theme by Ellenberg and Gijswijt: cap sets in F_3^n have at most 2.756^n points for n at most 8
 -- statement:
 --   Let $n$ be an integer with $1\le n\le 8$, and let $A\subseteq\mathbb{F}_3^{\,n}$ be a cap set, that is, a set containing no three distinct points whose sum is $0$ (equivalently, no non-trivial $3$-term arithmetic progression $x,\,x+d,\,x+2d$ with $d\neq 0$). Then
 --   $$

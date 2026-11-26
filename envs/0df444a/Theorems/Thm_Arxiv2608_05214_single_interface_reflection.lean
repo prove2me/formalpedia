@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2608_05214_single_interface_reflection
 -- name    : Arxiv2608_05214.single_interface_reflection
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:17:21.08227+00:00
 -- url     : https://prove2.me/theorems/5603125c-51b8-5f2e-a6bf-0eae211e4c4e

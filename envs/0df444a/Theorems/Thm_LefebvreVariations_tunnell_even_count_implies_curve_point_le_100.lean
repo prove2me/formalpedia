@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:21:42.71923+00:00
 -- url     : https://prove2.me/theorems/bcf32064-36bf-40cc-bfc8-41f8477438e1
 -- title:
---   Lefebvre's variations, No. 19 — on a theme by Tunnell: Tunnell's converse in the even case for $n\le 100$
+--   Lefebvre's variations, No. 13 — on a theme by Tunnell: Tunnell's converse in the even case for $n\le 100$
 -- statement:
 --   This is the converse of Tunnell's criterion, in the even case, for all $n\le100$.
 --

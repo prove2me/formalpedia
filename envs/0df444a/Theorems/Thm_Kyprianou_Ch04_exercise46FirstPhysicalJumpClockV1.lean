@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46FirstPhysicalJumpClockV1
 -- name    : Kyprianou.Ch04.exercise46FirstPhysicalJumpClockV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T23:33:46.015579+00:00
 -- url     : https://prove2.me/theorems/5daa67ae-026a-488e-afe7-450025cfeb29

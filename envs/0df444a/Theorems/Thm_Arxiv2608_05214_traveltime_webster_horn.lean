@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2608_05214_traveltime_webster_horn
 -- name    : Arxiv2608_05214.traveltime_webster_horn
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:14:59.367795+00:00
 -- url     : https://prove2.me/theorems/f53844e5-90ae-4488-8900-20db5a6e61b6

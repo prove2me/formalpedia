@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46CountableSectionsProductNullV2
 -- name    : Kyprianou.Ch04.exercise46CountableSectionsProductNullV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T23:28:24.78598+00:00
 -- url     : https://prove2.me/theorems/ae2d47d9-6a51-4318-9975-089f9a7c9cc3

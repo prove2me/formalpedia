@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivmath_ph_0108008_wronskP_asymptotics
 -- name    : Arxivmath_ph_0108008.wronskP_asymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:36:07.187898+00:00
 -- url     : https://prove2.me/theorems/b9cce4c7-0c4a-4863-9879-45e31ae176f6

@@ -56366,7 +56366,7 @@
 {"parent": "RGMISFast.conditional_bad_event_weighted_bound", "child": "RGMISFast_gammaA", "via": ["solution", "statement"]}
 {"parent": "RGMISFast.conditional_bad_event_weighted_bound", "child": "RGMISFast_condLaw", "via": ["solution", "statement"]}
 {"parent": "RGMISFast.conditional_bad_event_weighted_bound", "child": "RGMISFast_Gamma", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.exercise_4_8_i_goalV2", "child": "Kyprianou_Ch04_Exercise4_8CertificationV2", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise_4_8_i_goalV2", "child": "Kyprianou_Ch04_Exercise4_8CertificationV2", "via": ["solution", "statement"]}
 {"parent": "LinSysAmp.Supplement.theorem_5_5", "child": "LinSysAmp_Supplement_OMv", "via": ["statement"]}
 {"parent": "LinSysAmp.Supplement.theorem_5_5", "child": "LinSysAmp_Supplement_OracleMachine", "via": ["statement"]}
 {"parent": "Kyprianou.Ch03.chapterThreeMainResultsAndExercises", "child": "Kyprianou_Ch03_ChapterCertification", "via": ["solution", "statement"]}

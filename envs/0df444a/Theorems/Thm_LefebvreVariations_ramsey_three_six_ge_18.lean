@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:25:24.422082+00:00
 -- url     : https://prove2.me/theorems/a4bed31d-a2cd-44e4-ae77-0eb97e11a910
 -- title:
---   Lefebvre's variations: the Ramsey number R(3,6) is at least 18
+--   Lefebvre's variations, No. 59 — on a theme by Erdős: the Ramsey number R(3,6) is at least 18
 -- statement:
 --   $$R(3,6)\ \ge\ 18.$$
 --

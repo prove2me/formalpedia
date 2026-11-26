@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09234_misfit_hessian
 -- name    : Arxiv2205_09234.misfit_hessian
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T16:26:18.495848+00:00
 -- url     : https://prove2.me/theorems/3c97199a-0012-54da-878f-b3113d62f663

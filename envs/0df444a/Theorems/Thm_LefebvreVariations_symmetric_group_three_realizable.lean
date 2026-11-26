@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:09:19.829366+00:00
 -- url     : https://prove2.me/theorems/d69b096b-8814-4b1f-93a7-62f1b5f31ebd
 -- title:
---   Lefebvre's variations, No. 11 — on a theme by Hilbert: the symmetric group $S_3$ is a Galois group over $\mathbb Q$
+--   Lefebvre's variations, No. 6 — on a theme by Hilbert: the symmetric group $S_3$ is a Galois group over $\mathbb Q$
 -- statement:
 --   This is the symmetric group $S_3$ case of the inverse Galois problem over $\mathbb Q$.
 --

@@ -5,7 +5,7 @@
 -- created : 2026-11-24T21:56:41.06016+00:00
 -- url     : https://prove2.me/theorems/991a955c-038d-4295-bf59-71cc078211c5
 -- title:
---   Lefebvre's variations, No. 5 — on a theme by Hilbert: the symmetric group $S_5$ is a Galois group over $\mathbb Q$
+--   Lefebvre's variations, No. 2 — on a theme by Hilbert: the symmetric group $S_5$ is a Galois group over $\mathbb Q$
 -- statement:
 --   This is the symmetric group $S_5$ case of the inverse Galois problem over $\mathbb Q$.
 --

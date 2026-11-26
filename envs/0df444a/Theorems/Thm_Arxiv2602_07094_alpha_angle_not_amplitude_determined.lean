@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2602_07094_alpha_angle_not_amplitude_determined
 -- name    : Arxiv2602_07094.alpha_angle_not_amplitude_determined
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:40:37.860416+00:00
 -- url     : https://prove2.me/theorems/4b42aa25-3550-4eb4-baba-d105b39c6a61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46PredictableBeforeClockV1
 -- name    : Kyprianou.Ch04.exercise46PredictableBeforeClockV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T23:36:37.390799+00:00
 -- url     : https://prove2.me/theorems/c2b732fd-1119-4a46-bfa5-8bf48f7fa6a4

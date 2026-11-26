@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2602_07094_amplitude_only_models_cannot_preserve
 -- name    : Arxiv2602_07094.amplitude_only_models_cannot_preserve
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:41:26.610866+00:00
 -- url     : https://prove2.me/theorems/c2fa7e93-c24c-43d1-b962-23221040db4a

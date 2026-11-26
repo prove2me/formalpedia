@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09234_misfit_gradient
 -- name    : Arxiv2205_09234.misfit_gradient
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T16:20:56.838566+00:00
 -- url     : https://prove2.me/theorems/f85a3955-92ff-5538-9026-815f794696f4

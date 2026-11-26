@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46DenseRightCrossingWitnessV1
 -- name    : Kyprianou.Ch04.exercise46DenseRightCrossingWitnessV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T23:36:36.872395+00:00
 -- url     : https://prove2.me/theorems/c0904dd6-cbfd-55ce-89bb-af28ef101a62

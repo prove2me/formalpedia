@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_limitingDrawdown_nonpositiveMeanClassification
 -- name    : Kyprianou.Ch04.limitingDrawdown_nonpositiveMeanClassification
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T13:03:14.37766+00:00
 -- url     : https://prove2.me/theorems/57104284-8e35-4d12-9313-25e71b20b99d

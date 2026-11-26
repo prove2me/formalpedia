@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_actualPoissonFutureIndependenceV1
 -- name    : Kyprianou.Ch04.actualPoissonFutureIndependenceV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T23:58:15.265869+00:00
 -- url     : https://prove2.me/theorems/782fa041-e3f7-5147-a9ac-6d47fd27707d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46PredictableTimeCapV1
 -- name    : Kyprianou.Ch04.exercise46PredictableTimeCapV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T23:36:39.898341+00:00
 -- url     : https://prove2.me/theorems/75bb6a89-4bfe-4619-83a0-89f452fed5eb
