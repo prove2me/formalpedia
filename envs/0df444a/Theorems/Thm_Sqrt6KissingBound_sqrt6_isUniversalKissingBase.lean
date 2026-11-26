@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_sqrt6_isUniversalKissingBase
 -- name    : Sqrt6KissingBound.sqrt6_isUniversalKissingBase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:17:37.032558+00:00
 -- url     : https://prove2.me/theorems/1c033c2c-e137-5a68-bd21-f502e31d3bb8

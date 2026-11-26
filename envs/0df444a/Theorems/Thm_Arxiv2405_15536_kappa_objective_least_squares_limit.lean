@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2405_15536_kappa_objective_least_squares_limit
 -- name    : Arxiv2405_15536.kappa_objective_least_squares_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:26:55.885634+00:00
 -- url     : https://prove2.me/theorems/d21d80a6-191d-55ba-b05b-a981c4dbd8fa

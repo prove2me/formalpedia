@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2610_39302_next_token_minimizers_gl_invariant
 -- name    : Arxiv2610_39302.next_token_minimizers_gl_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T03:07:20.497967+00:00
 -- url     : https://prove2.me/theorems/64346fc3-5019-5401-bc5a-62316366e046

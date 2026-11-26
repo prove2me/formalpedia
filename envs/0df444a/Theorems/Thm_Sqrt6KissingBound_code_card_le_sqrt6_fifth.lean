@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_code_card_le_sqrt6_fifth
 -- name    : Sqrt6KissingBound.code_card_le_sqrt6_fifth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:14:13.288394+00:00
 -- url     : https://prove2.me/theorems/3b975ab1-db51-52f5-9b4f-a132ab460a2c

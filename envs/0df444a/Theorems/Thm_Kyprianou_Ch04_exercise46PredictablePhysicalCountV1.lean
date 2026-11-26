@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46PredictablePhysicalCountV1
 -- name    : Kyprianou.Ch04.exercise46PredictablePhysicalCountV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T23:29:52.026448+00:00
 -- url     : https://prove2.me/theorems/426ea85c-fc28-5dbe-9552-4b64ebcf70d0

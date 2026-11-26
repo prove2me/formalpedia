@@ -65499,7 +65499,6 @@
 {"parent": "GroundTheory.Automorphic.Measures.modularCharacter_blockUpper_eq_det_adUnipotent", "child": "GroundTheory_AutomorphicForms_MeasuresParabolic", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.hermPair_smul_smul", "child": "GroundTheory_AutomorphicForms_DefiniteClassNumber_HermTraceSelfOfHermValue", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.hermPair_smul_smul", "child": "GroundTheory_AutomorphicForms_AdelicUnitaryGroups_Anisotropic", "via": ["statement"]}
-{"parent": "HurewiczSketch", "child": "SP4Homology", "via": ["statement"]}
 {"parent": "P2M_Formalism_FourierDecayAlt_P_levels_exist__cf4cc5b3e47d", "child": "Formalism_HermitianCurvature_MemParahoricTimesPrincipalCongruenceIff", "via": ["statement"]}
 {"parent": "P2M_Formalism_FourierDecayAlt_P_levels_exist__cf4cc5b3e47d", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ReductionSurjective", "via": ["statement"]}
 {"parent": "GlobalTheory.valuationRing_of_complete_field", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsAbsoluteValueOfIsDiscreteValuationRing", "via": ["statement"]}
@@ -65637,8 +65636,6 @@
 {"parent": "GlobalTheory.presheafCechTopIso_hom", "child": "Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_HomologyRestrictScalarsBijective", "via": ["statement"]}
 {"parent": "GroundTheory.Global.mixedFourierInv_mixedFourier", "child": "GroundTheory_GlobalFields_TateThesis_TraceFourier", "via": ["statement"]}
 {"parent": "GroundTheory.Global.mixedFourierInv_mixedFourier", "child": "GroundTheory_GlobalFields_TateThesis_TracePairing", "via": ["statement"]}
-{"parent": "HurewiczSketch.cellular_homology_vanish", "child": "SP4Homology", "via": ["statement"]}
-{"parent": "HurewiczSketch.cellular_homology_vanish", "child": "HurewiczSketch", "via": ["statement"]}
 {"parent": "GlobalTheory.CompanionTheory.PrinSumP.ins_self", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_StableLattices_PrincipalSum", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.PrinSumP.ins_self", "child": "CompanionTheory_RealGroups_DiscreteSeries_DiscreteSeriesClassification_DiscreteSeriesExhaustion_HeckeAlgebraActions_BackStable", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_T_laurent_coeff_neg_eq_zero_of_bounded__b623b15fefff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HasArcDataIff", "via": ["statement"]}
@@ -68287,7 +68284,7 @@
 {"parent": "GroundTheory.Automorphic.Measures.eq_smul_haarGL", "child": "GroundTheory_AutomorphicForms_MeasuresGL", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.Measures.eq_smul_haarGL", "child": "GroundTheory_AutomorphicForms_Cartan", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.Measures.eq_smul_haarGL", "child": "GroundTheory_AutomorphicForms_RealGroupsHaar", "via": ["statement"]}
-{"parent": "Arxiv2210_02565.planewave_source_currents_vanish_on_sigma", "child": "Arxiv2210_02565_Basic", "via": ["statement"]}
+{"parent": "Arxiv2210_02565.planewave_source_currents_vanish_on_sigma", "child": "Arxiv2210_02565_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.essFiniteType_of_finiteDimensional_subfield_closure", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_FiniteIntegralClosureOfEssFiniteTypeField", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.essFiniteType_of_finiteDimensional_subfield_closure", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_EssFiniteTypeOfFiniteDimensionalSubfieldClosure", "via": ["solution", "statement"]}
 {"parent": "Neutral.B1.mapH1_eq_compatiblePairH1", "child": "ReciprocityTheory_NeutralLocalFields_Reciprocity", "via": ["solution", "statement"]}
@@ -69019,8 +69016,6 @@
 {"parent": "P2M_Formalism_FourierDecayAlt_P_NFx2_sc_m_bi_e5e86df0ca1f", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_IsPFSum", "via": ["statement"]}
 {"parent": "P2M_Formalism_FourierDecayAlt_P_NFx2_sc_m_bi_e5e86df0ca1f", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_InterlaceSignTwo", "via": ["statement"]}
 {"parent": "P2M_Formalism_FourierDecayAlt_P_NFx2_sc_m_bi_e5e86df0ca1f", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ConnectionRaisingConstantEq", "via": ["statement"]}
-{"parent": "HurewiczSketch.cellular_reduction", "child": "SP4Homology", "via": ["statement"]}
-{"parent": "HurewiczSketch.cellular_reduction", "child": "HurewiczSketch", "via": ["statement"]}
 {"parent": "P2M_Formalism_MainNotions_PlaneGram_vala_iff_Aset__0ad87ad3abdb", "child": "Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_AddMemSupportOfMemSupportCoefOut", "via": ["statement"]}
 {"parent": "P2M_Formalism_MainNotions_PlaneGram_vala_iff_Aset__0ad87ad3abdb", "child": "Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_DigitPartMonomial", "via": ["statement"]}
 {"parent": "P2M_Formalism_MainNotions_PlaneGram_vala_iff_Aset__0ad87ad3abdb", "child": "Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_SubstitutedExponentApplyBlock", "via": ["statement"]}
@@ -77953,8 +77948,6 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ContinuousSectionHolomorphic_proof_a50e1bb2ab69", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StContinuousRootHolomorphic", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ContinuousSectionHolomorphic_proof_a50e1bb2ab69", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StProjectionCoordinateEquation", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ContinuousSectionHolomorphic_proof_a50e1bb2ab69", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PContinuousSectionHolomorphic", "via": ["statement"]}
-{"parent": "HurewiczSketch.cellular_hurewicz_isomorphism", "child": "SP4Homology", "via": ["statement"]}
-{"parent": "HurewiczSketch.cellular_hurewicz_isomorphism", "child": "HurewiczSketch", "via": ["statement"]}
 {"parent": "PositivityTheory.ThKG.CayleyTransformDarboux.shift_eig", "child": "Development_WeilBound_CoreStatements_GaussianSeminormBounds_RealSeminormFiltration_CoreMain", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.ThKG.CayleyTransformDarboux.shift_eig", "child": "Development_WeilBound_ThetaLifts_LocalTheory_ToralCohomology_ShiftLow", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_FsLineLevi_proof_536c23856f50", "child": "ReciprocityTheory_AnalyticForms_PotentialTheory_PshShiftA", "via": ["statement"]}
@@ -80079,10 +80072,6 @@
 {"parent": "GroundTheory.Automorphic.Parabolic.levJacquetAction_mk", "child": "GroundTheory_AutomorphicForms_CuspidalAdmissible", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_MatrixChart_exampleChart_K_meets_341ffea25c44", "child": "GroundTheory_HeightsAndTheta_Heights_MatrixCharts_IsOpenKappaOpenNeighbourhood", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_MatrixChart_exampleChart_K_meets_341ffea25c44", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_IsPshLocallyIntegrableStatement", "via": ["statement"]}
-{"parent": "SP4Mission.hurewicz", "child": "HurewiczSketch.cellular_homology_vanish", "via": ["solution"]}
-{"parent": "SP4Mission.hurewicz", "child": "HurewiczSketch.cellular_hurewicz_isomorphism", "via": ["solution"]}
-{"parent": "SP4Mission.hurewicz", "child": "HurewiczSketch.cellular_reduction", "via": ["solution"]}
-{"parent": "SP4Mission.hurewicz", "child": "HurewiczSketch", "via": ["solution"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.exists_comp", "child": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.exists_chart", "via": ["solution"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.exists_comp", "child": "P2M_ReciprocityTheory_ChartRestriction_G_Geo_Tor_mem_pull__6a8fb3a1b1a4", "via": ["solution"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.exists_comp", "child": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.mem_pull", "via": ["solution"]}

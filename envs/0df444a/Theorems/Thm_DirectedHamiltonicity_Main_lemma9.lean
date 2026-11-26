@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedHamiltonicity_Main_lemma9
 -- name    : DirectedHamiltonicity.Main.lemma9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:25:57.606802+00:00
 -- url     : https://prove2.me/theorems/8f397903-21b8-4593-aa40-4635f20e439d

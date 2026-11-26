@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2610_39302_platonic_representation_theorem
 -- name    : Arxiv2610_39302.platonic_representation_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T02:59:15.093002+00:00
 -- url     : https://prove2.me/theorems/e6acf473-5163-4255-9dee-45e2e6857ebb

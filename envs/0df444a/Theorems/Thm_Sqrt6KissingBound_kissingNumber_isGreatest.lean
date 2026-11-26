@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_kissingNumber_isGreatest
 -- name    : Sqrt6KissingBound.kissingNumber_isGreatest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:10:33.356667+00:00
 -- url     : https://prove2.me/theorems/e9742176-6bb7-58c7-a0a5-0024286d823d

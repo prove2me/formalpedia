@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1909_04681_kappa_approx_limits
 -- name    : Arxiv1909_04681.kappa_approx_limits
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T06:48:55.894226+00:00
 -- url     : https://prove2.me/theorems/f3ecede0-fbf5-5a90-a07b-a8f20e0ecd0f

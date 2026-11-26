@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellWilliams2001_ThresholdPolicy_state_space_collapse
 -- name    : BellWilliams2001.ThresholdPolicy.state_space_collapse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:34:45.337889+00:00
 -- url     : https://prove2.me/theorems/4fa6574f-6862-48e0-b5c0-ec31c1f6f3d0

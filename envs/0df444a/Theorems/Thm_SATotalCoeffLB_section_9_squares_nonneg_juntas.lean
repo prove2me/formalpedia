@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SATotalCoeffLB_section_9_squares_nonneg_juntas
 -- name    : SATotalCoeffLB.section_9_squares_nonneg_juntas
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T17:18:50.626977+00:00
 -- url     : https://prove2.me/theorems/2e7b93b2-4f58-40c7-b6e5-f426196cf1d1

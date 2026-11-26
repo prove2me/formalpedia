@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EqualSubsetSum_Faster_eq_3
 -- name    : EqualSubsetSum.Faster.eq_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T23:26:39.635864+00:00
 -- url     : https://prove2.me/theorems/d5fe62e6-f030-417a-a16b-2f9d49b8ac76

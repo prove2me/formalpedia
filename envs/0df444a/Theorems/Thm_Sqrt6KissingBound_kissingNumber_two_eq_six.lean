@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_kissingNumber_two_eq_six
 -- name    : Sqrt6KissingBound.kissingNumber_two_eq_six
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:11:15.841041+00:00
 -- url     : https://prove2.me/theorems/fd2acad4-a41e-5fbc-9e22-5b4eb2bf2c5e

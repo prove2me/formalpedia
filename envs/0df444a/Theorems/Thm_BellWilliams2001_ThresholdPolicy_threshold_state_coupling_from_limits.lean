@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellWilliams2001_ThresholdPolicy_threshold_state_coupling_from_limits
 -- name    : BellWilliams2001.ThresholdPolicy.threshold_state_coupling_from_limits
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T06:07:19.429984+00:00
 -- url     : https://prove2.me/theorems/e85c5b8e-e3be-46fb-8387-b3c985291d4d

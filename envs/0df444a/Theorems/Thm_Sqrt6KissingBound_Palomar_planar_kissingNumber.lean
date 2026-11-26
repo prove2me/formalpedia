@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_Palomar_planar_kissingNumber
 -- name    : Sqrt6KissingBound.Palomar.planar_kissingNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:26:32.885216+00:00
 -- url     : https://prove2.me/theorems/06538d43-b9ad-5057-83ff-7da659941477

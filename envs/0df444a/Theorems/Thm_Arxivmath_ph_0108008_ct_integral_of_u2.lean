@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivmath_ph_0108008_ct_integral_of_u2
 -- name    : Arxivmath_ph_0108008.ct_integral_of_u2
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:37:10.948639+00:00
 -- url     : https://prove2.me/theorems/ee54eddc-61eb-41ac-9b76-9e94ac9a44e0

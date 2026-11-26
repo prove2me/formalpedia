@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2012_05254_triad_images_independent_shifts
 -- name    : Arxiv2012_05254.triad_images_independent_shifts
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T04:42:39.735668+00:00
 -- url     : https://prove2.me/theorems/18529694-d184-451e-82be-0dc6dab3f0fe

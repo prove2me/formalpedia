@@ -31770,11 +31770,11 @@
 {"parent": "D1Bound5.PairGraphPrepared46.indexed_chunk05_checked", "child": "D1Bound5_PairClosureIndexedChunks_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairGraphPrepared46.indexed_chunk05_checked", "child": "D1Bound5_SmallPairGraphWitnessData46_Definitions_003", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairGraphPrepared46.indexed_chunk05_checked", "child": "D1Bound5_SmallPairGraphWitnessData46_Definitions_001", "via": ["solution", "statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.EOKO_oneRun_PE_families", "child": "IntMul_Kappa_R6_Defs4", "via": ["statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.EOKO_oneRun_PE_families", "child": "IntMul_Kappa_R8_Data_BitOppbankPnd", "via": ["statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.EOKO_oneRun_PE_families", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun", "via": ["statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.EOKO_oneRun_PE_families", "child": "IntMul_Kappa_R8_Data_BitOppbankSupG", "via": ["statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.EOKO_oneRun_PE_families", "child": "IntMul_Kappa_R8_Data_BitOppbankEOKOPack", "via": ["statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.EOKO_oneRun_PE_families", "child": "IntMul_Kappa_R6_Defs4", "via": ["solution", "statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.EOKO_oneRun_PE_families", "child": "IntMul_Kappa_R8_Data_BitOppbankPnd", "via": ["solution", "statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.EOKO_oneRun_PE_families", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun", "via": ["solution", "statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.EOKO_oneRun_PE_families", "child": "IntMul_Kappa_R8_Data_BitOppbankSupG", "via": ["solution", "statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.EOKO_oneRun_PE_families", "child": "IntMul_Kappa_R8_Data_BitOppbankEOKOPack", "via": ["solution", "statement"]}
 {"parent": "DirectFidelity_State_Setting", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.gaussian_right_slope_of_native_full_volterra_resolvent", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.gaussian_right_slope_of_native_full_volterra_resolvent", "child": "AvramDividend.Classical.gaussian_right_slope_of_native_resolvent_germ", "via": ["solution", "statement"]}

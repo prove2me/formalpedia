@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivmath_ph_0108008_ct_reduction_to_riccati_ode
 -- name    : Arxivmath_ph_0108008.ct_reduction_to_riccati_ode
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:34:58.488566+00:00
 -- url     : https://prove2.me/theorems/e81dad02-1fe9-4e58-abdf-6815818ea813

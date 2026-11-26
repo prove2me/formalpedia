@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_code_card_le_six_dim_two
 -- name    : Sqrt6KissingBound.code_card_le_six_dim_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:08:47.812486+00:00
 -- url     : https://prove2.me/theorems/125c38c1-8817-4df4-90ec-90e66bc8fe60

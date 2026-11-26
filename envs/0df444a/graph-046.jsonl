@@ -62231,7 +62231,7 @@
 {"parent": "PI.RhsWLim.W.RI.rhsWInv_of_orb", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeightedLimitGauge_HaarUniq", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompletionAut.map_mem", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_FiniteResidueFieldAdicCompletionIntegers", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompletionAut.map_mem", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RingEquivAdicCompletionMemIntegersIff", "via": ["solution", "statement"]}
-{"parent": "Arxiv2005_04287.speckleSNR_below_rayleigh", "child": "Arxiv2005_04287_Basic", "via": ["statement"]}
+{"parent": "Arxiv2005_04287.speckleSNR_below_rayleigh", "child": "Arxiv2005_04287_Basic", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.scaled_circle_inv", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_PshBasic", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.scaled_circle_inv", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_PshMollA", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.scaled_circle_inv", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_PshMollB", "via": ["solution", "statement"]}

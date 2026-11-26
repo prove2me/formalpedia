@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2610_39302_k_pairs_identify_rotation
 -- name    : Arxiv2610_39302.k_pairs_identify_rotation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T03:02:10.295977+00:00
 -- url     : https://prove2.me/theorems/39ee8d45-7267-4cca-88b4-fe976a677a52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46MM1StationaryWorkload
 -- name    : Kyprianou.Ch04.exercise46MM1StationaryWorkload
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T22:28:16.111898+00:00
 -- url     : https://prove2.me/theorems/09740689-7fee-4692-aac9-f25ad1d26310

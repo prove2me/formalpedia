@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellWilliams2001_ThresholdPolicy_workload_lower_bound_on_fluid_subsequence
 -- name    : BellWilliams2001.ThresholdPolicy.workload_lower_bound_on_fluid_subsequence
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T05:34:28.388576+00:00
 -- url     : https://prove2.me/theorems/edddf788-c436-4542-8d43-2992fbedd3f6

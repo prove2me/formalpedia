@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46PredictableMarkedCountMeanV1
 -- name    : Kyprianou.Ch04.exercise46PredictableMarkedCountMeanV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T23:36:50.322507+00:00
 -- url     : https://prove2.me/theorems/0b88ce95-df66-4023-8195-08703e6f4ac6

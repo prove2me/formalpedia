@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_Palomar_kissingNumber_universal_base
 -- name    : Sqrt6KissingBound.Palomar.kissingNumber_universal_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:26:55.061398+00:00
 -- url     : https://prove2.me/theorems/6889b5ce-d6ea-5001-a3b5-74c2d9654251

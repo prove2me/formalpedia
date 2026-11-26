@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2405_15536_kappa_gaussian_classical_limit
 -- name    : Arxiv2405_15536.kappa_gaussian_classical_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:11:24.001449+00:00
 -- url     : https://prove2.me/theorems/898bd0a5-0d60-4d3c-b730-5c453803f430

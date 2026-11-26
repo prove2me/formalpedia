@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivmath_ph_0108008_cox_thompson_uniqueness_fails
 -- name    : Arxivmath_ph_0108008.cox_thompson_uniqueness_fails
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:34:26.464002+00:00
 -- url     : https://prove2.me/theorems/3d0c1285-02ef-52bc-b8e4-07c8c02556fc

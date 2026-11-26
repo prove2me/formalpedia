@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_kissingNumber_le_sqrt6_pow
 -- name    : Sqrt6KissingBound.kissingNumber_le_sqrt6_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:17:51.840848+00:00
 -- url     : https://prove2.me/theorems/fa20e86e-f90a-5ce7-a987-6dc8557eb991

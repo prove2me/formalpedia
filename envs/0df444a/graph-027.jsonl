@@ -44725,7 +44725,7 @@
 {"parent": "QEC.Coding.BDL26CSSDaviesLocality.coupling_supported", "child": "QEC.Coding.CSSDaviesLocality.coupling_supported", "via": ["solution", "statement"]}
 {"parent": "OAI.TamingCompatibility.GeometricHilbert.GeometricNormalCharts.geometricNormalChart_symm_right", "child": "OAIQ239Tc018", "via": ["solution", "statement"]}
 {"parent": "OAI.TamingCompatibility.GeometricHilbert.GeometricNormalCharts.geometricNormalChart_symm_right", "child": "TamingCompatibility", "via": ["solution", "statement"]}
-{"parent": "QuasilinearAG.Encoding.lemma_4_3", "child": "QuasilinearAG_Encoding_Tower", "via": ["statement"]}
+{"parent": "QuasilinearAG.Encoding.lemma_4_3", "child": "QuasilinearAG_Encoding_Tower", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricKMedian.Certificates.discr_1_3_positive_s35", "child": "OAIQ035K002", "via": ["solution", "statement"]}
 {"parent": "QuadSDE.lemma_5", "child": "QuadSDE_Frame", "via": ["statement"]}
 {"parent": "QuadSDE.lemma_5", "child": "QuadSDE_Generator", "via": ["statement"]}
@@ -78890,7 +78890,7 @@
 {"parent": "QEC.Coding.BDL26RZPhysicalXStarTransport.repeated_perturbation", "child": "QEC_Coding_FiniteAlternatingConstruction_RXPhysicalStarTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZPhysicalXStarTransport.repeated_perturbation", "child": "QEC_Coding_FiniteAlternatingConstruction_HistorySyndromeSensitivity_Snapshots", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZPhysicalXStarTransport.repeated_perturbation", "child": "QEC_Coding_FiniteAlternatingConstruction_RZPhysicalStarTransport", "via": ["solution", "statement"]}
-{"parent": "EqualSubsetSum.Faster.eq_3", "child": "EqualSubsetSum_Faster_Detector", "via": ["statement"]}
+{"parent": "EqualSubsetSum.Faster.eq_3", "child": "EqualSubsetSum_Faster_Detector", "via": ["solution", "statement"]}
 {"parent": "BootstrapRecolorVerify_MetricGap_Recoloring", "child": "BootstrapRecolorVerify_MetricGap_Hierarchy", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26NativeStateRows.map_value", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_PaidRowsComposition", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativeStateRows.map_value", "child": "QEC_Coding_FiniteAlternatingConstruction_NativePresentationGenerator", "via": ["solution", "statement"]}

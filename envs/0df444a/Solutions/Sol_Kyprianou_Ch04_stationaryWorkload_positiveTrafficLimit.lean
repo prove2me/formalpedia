@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.stationaryWorkload_positiveTrafficLimit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T21:06:36.909958+00:00
 -- url     : https://prove2.me/submissions/8b67afd3-90e1-4bc3-b30e-05c2dfccac79
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.MeasureTheory.Group.Convolution

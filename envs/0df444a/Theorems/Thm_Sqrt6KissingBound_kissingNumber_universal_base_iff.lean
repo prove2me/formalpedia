@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_kissingNumber_universal_base_iff
 -- name    : Sqrt6KissingBound.kissingNumber_universal_base_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:18:46.565473+00:00
 -- url     : https://prove2.me/theorems/f83eab67-725d-40a8-bfae-eed0a15aa0e4

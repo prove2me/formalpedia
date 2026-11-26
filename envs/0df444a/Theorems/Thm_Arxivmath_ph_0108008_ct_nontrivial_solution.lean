@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivmath_ph_0108008_ct_nontrivial_solution
 -- name    : Arxivmath_ph_0108008.ct_nontrivial_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:37:35.877932+00:00
 -- url     : https://prove2.me/theorems/e5ac1c1a-b307-518d-8ead-7d0cc5091e29

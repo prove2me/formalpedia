@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_hPis0
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.hPis0
--- status  : Open
+-- status  : Disproved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T17:04:59.500969+00:00
 -- url     : https://prove2.me/theorems/80e04156-7d7b-406f-aeda-264d317f65fa

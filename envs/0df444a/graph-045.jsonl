@@ -26303,7 +26303,7 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_det_gram_sumElim_66edcb621772", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_Slopes", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_det_gram_sumElim_66edcb621772", "child": "GroundTheory_HeightsAndTheta_Heights_ArithDegreeExact", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_det_gram_sumElim_66edcb621772", "child": "GroundTheory_HeightsAndTheta_Heights_ArithDegree", "via": ["solution", "statement"]}
-{"parent": "Arxiv2012_05254.triad_images_independent_shifts", "child": "Arxiv2012_05254_Basic", "via": ["statement"]}
+{"parent": "Arxiv2012_05254.triad_images_independent_shifts", "child": "Arxiv2012_05254_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DegCnt.IdealPow.mul_mem_one", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_MemOfForall", "via": ["statement"]}
 {"parent": "GlobalTheory.DegCnt.IdealPow.mul_mem_one", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ChartGen", "via": ["statement"]}
 {"parent": "GlobalTheory.DegCnt.IdealPow.mul_mem_one", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_DiscreteSeriesUnitary__MaxMass_96db7412d6455637", "via": ["statement"]}
@@ -76440,7 +76440,7 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_RestTerms_CombCellOfWordMem_proof_2452618bd9a8", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_StatementsComb", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_RestTerms_CombCellOfWordMem_proof_2452618bd9a8", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_PCombCellOfWordMem", "via": ["solution", "statement"]}
 {"parent": "RoughSurfaceScattering.point_source_data_bound", "child": "RoughSurfaceScattering_Basic", "via": ["statement"]}
-{"parent": "Arxiv1909_04681.kappa_approx_limits", "child": "Arxiv1909_04681_Basic", "via": ["statement"]}
+{"parent": "Arxiv1909_04681.kappa_approx_limits", "child": "Arxiv1909_04681_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_RestTerms_CombPcntAppend_proof_9bef55802bfa", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_PCombPcntAppend", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_RestTerms_CombPcntAppend_proof_9bef55802bfa", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_StatementsComb", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberRelabel_idealEquiv_apply_ed453f3bd221", "child": "P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_idealEquiv_apply_240b37bfc4da", "via": ["statement"]}
@@ -76483,7 +76483,7 @@
 {"parent": "IntMul.Kappa.R8.Bit.Oppbank.RankCheck.tableBlock32768", "child": "IntMul_Kappa_R8_OppbankRankCheck", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_StatementsRestrictGenerated", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_PVeryAmpleNefPlusAmple", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_StatementsRestrictGenerated", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_PRestrictTwist", "via": ["statement"]}
-{"parent": "Arxiv1909_04681.kappa_moment_matching", "child": "Arxiv1909_04681_Basic", "via": ["statement"]}
+{"parent": "Arxiv1909_04681.kappa_moment_matching", "child": "Arxiv1909_04681_Basic", "via": ["solution", "statement"]}
 {"parent": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_StableLattices_CartanDecompositionStatement", "child": "CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_IwaCore", "via": ["statement"]}
 {"parent": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_StableLattices_CartanDecompositionStatement", "child": "CompanionTheory_HarishChandraModules_BesselParameterIntegrals_SmoothCyclicVectors_SmoothCyc", "via": ["statement"]}
 {"parent": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_StableLattices_CartanDecompositionStatement", "child": "CompanionTheory_AutomorphicTheory_BesselOrbitBounds_BesselMapUniqueness_BesselMapUniqGap", "via": ["statement"]}

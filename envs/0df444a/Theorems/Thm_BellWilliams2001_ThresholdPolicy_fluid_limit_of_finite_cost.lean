@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellWilliams2001_ThresholdPolicy_fluid_limit_of_finite_cost
 -- name    : BellWilliams2001.ThresholdPolicy.fluid_limit_of_finite_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:15:29.664336+00:00
 -- url     : https://prove2.me/theorems/6f1693aa-46b2-4257-9fbc-c097bc31572f

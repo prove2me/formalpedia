@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2005_04287_speckleSNR_below_rayleigh
 -- name    : Arxiv2005_04287.speckleSNR_below_rayleigh
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:13:04.135819+00:00
 -- url     : https://prove2.me/theorems/0d013449-f792-5c94-9e6c-7ece5fdc65fc

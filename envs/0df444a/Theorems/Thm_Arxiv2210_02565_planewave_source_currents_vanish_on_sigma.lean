@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2210_02565_planewave_source_currents_vanish_on_sigma
 -- name    : Arxiv2210_02565.planewave_source_currents_vanish_on_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T12:51:02.633512+00:00
 -- url     : https://prove2.me/theorems/95867c41-96d4-4354-a799-d75e8e933fbf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_kissingConfiguration_card_le_kissingNumber
 -- name    : Sqrt6KissingBound.kissingConfiguration_card_le_kissingNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:18:50.278574+00:00
 -- url     : https://prove2.me/theorems/a113ecb5-d6f2-4b3c-85d7-f7376d435102

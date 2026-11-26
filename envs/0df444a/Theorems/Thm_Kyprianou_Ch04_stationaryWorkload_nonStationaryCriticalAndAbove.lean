@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_stationaryWorkload_nonStationaryCriticalAndAbove
 -- name    : Kyprianou.Ch04.stationaryWorkload_nonStationaryCriticalAndAbove
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T13:03:12.155262+00:00
 -- url     : https://prove2.me/theorems/47710614-7b31-4ac0-9719-007edb110b62

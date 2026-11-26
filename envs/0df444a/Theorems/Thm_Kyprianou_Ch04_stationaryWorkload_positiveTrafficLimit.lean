@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_stationaryWorkload_positiveTrafficLimit
 -- name    : Kyprianou.Ch04.stationaryWorkload_positiveTrafficLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T13:03:07.284339+00:00
 -- url     : https://prove2.me/theorems/d54438b2-7002-4723-bcc5-e621c7733ba4

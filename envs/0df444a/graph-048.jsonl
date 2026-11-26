@@ -54302,7 +54302,7 @@
 {"parent": "GlobalTheory.exists_mem_thetaLevelChar_apply_ne_zero", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_EqZeroOfSemicharacterMultiplier", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.exists_mem_thetaLevelChar_apply_ne_zero", "child": "ReciprocityTheory_ThetaQuasiPeriods_ThetaQuasiPeriodStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.exists_mem_thetaLevelChar_apply_ne_zero", "child": "Development_AbelianVarietyTheory_Proofs_CubicalLineBundles_SurjectiveOfComplexPointsLiftOfUniversallyClosed", "via": ["solution", "statement"]}
-{"parent": "Arxiv2405_15536.kappa_gaussian_classical_limit", "child": "Arxiv2405_15536_Basic", "via": ["statement"]}
+{"parent": "Arxiv2405_15536.kappa_gaussian_classical_limit", "child": "Arxiv2405_15536_Basic", "via": ["solution", "statement"]}
 {"parent": "DetDLP_S8C3_Routes", "child": "DetDLP_S8H0_GateRoutes", "via": ["statement"]}
 {"parent": "DetDLP_S8C3_Routes", "child": "DetDLP_S8C3_Layout", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_Intersections_StZIntAdd", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_AnalyticResolutionHypothesesProjectiveLine", "via": ["statement"]}
@@ -60395,7 +60395,7 @@
 {"parent": "GlobalTheory.ThetaSpecialise.IsPull.comp", "child": "Development_AbelianVarietyTheory_Proofs_UniformizationProofs_ExpandsFOfIntegral", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ThetaSpecialise.IsPull.comp", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsMonHomOfMul", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ThetaSpecialise.IsPull.comp", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ThetaGrpActsLinearly", "via": ["solution", "statement"]}
-{"parent": "Arxiv2405_15536.kappa_objective_least_squares_limit", "child": "Arxiv2405_15536_Basic", "via": ["statement"]}
+{"parent": "Arxiv2405_15536.kappa_objective_least_squares_limit", "child": "Arxiv2405_15536_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WeilDeligne.Unram.mk_eq_diag", "child": "Development_AbelianVarietyTheory_Definitions_AutomorphicMembership_MonodromyZeroOfWeilDeligneRepClassIff", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WeilDeligne.Unram.mk_eq_diag", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_ExistsEquivOfMapEq", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ThetaBound.diagonal_pointwiseNormSq_le_l2", "child": "ReciprocityTheory.ChartRestriction.G.I2.dim", "via": ["statement"]}

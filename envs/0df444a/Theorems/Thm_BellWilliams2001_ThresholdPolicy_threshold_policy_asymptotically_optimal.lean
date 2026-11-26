@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellWilliams2001_ThresholdPolicy_threshold_policy_asymptotically_optimal
 -- name    : BellWilliams2001.ThresholdPolicy.threshold_policy_asymptotically_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:35:11.507198+00:00
 -- url     : https://prove2.me/theorems/5aba1fa5-9f67-406b-b479-0f1326c1b9f4

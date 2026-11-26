@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuasilinearAG_Encoding_lemma_4_3
 -- name    : QuasilinearAG.Encoding.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T15:41:52.153252+00:00
 -- url     : https://prove2.me/theorems/21afc9ba-1b24-48be-b710-aad4e80576ee

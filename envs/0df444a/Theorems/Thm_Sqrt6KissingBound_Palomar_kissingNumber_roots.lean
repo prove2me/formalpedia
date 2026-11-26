@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_Palomar_kissingNumber_roots
 -- name    : Sqrt6KissingBound.Palomar.kissingNumber_roots
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:26:54.6928+00:00
 -- url     : https://prove2.me/theorems/a0bac282-61f3-5bfc-b176-453546aaefe1

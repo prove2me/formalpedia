@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvExponentSlopeLimit
 -- name    : Kyprianou.Ch04.bvExponentSlopeLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T23:35:05.91388+00:00
 -- url     : https://prove2.me/theorems/5e0c3a2b-833c-56e0-9f4a-a0305ace874b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1909_04681_kappa_moment_matching
 -- name    : Arxiv1909_04681.kappa_moment_matching
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T06:48:30.483394+00:00
 -- url     : https://prove2.me/theorems/f451ffde-4397-4a6f-b95c-cc463b476372

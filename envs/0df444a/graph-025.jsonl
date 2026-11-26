@@ -27668,7 +27668,7 @@
 {"parent": "DetComplexityPowerSum_Quadratic_KernelNormalizers", "child": "DetComplexityPowerSum_Quadratic_PolarSlice", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm3_0_0_4.s3_eq_g", "child": "OAIQ098G1219", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm3_0_0_4.s3_eq_g", "child": "OAIQ098G1209", "via": ["solution", "statement"]}
-{"parent": "DirectedHamiltonicity.Main.lemma7", "child": "DirectedHamiltonicity_Main_Graphs", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.lemma7", "child": "DirectedHamiltonicity_Main_Graphs", "via": ["solution", "statement"]}
 {"parent": "ConstGapCircuits.moment_convolution", "child": "ConstGapCircuits_walks", "via": ["statement"]}
 {"parent": "BourgainUnion.Euclidean.claim_4_5", "child": "BourgainUnion_Euclidean_GraphModel", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm1_60_1.s0_eq_g", "child": "OAIQ098G1578", "via": ["solution", "statement"]}
@@ -32354,7 +32354,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.tm1_24_1.KContains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm1_24_1.KContains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm1_24_1.KContains_g", "child": "OAIQ098G1552", "via": ["solution", "statement"]}
-{"parent": "DirectedHamiltonicity.Main.lemma10", "child": "DirectedHamiltonicity_Main_DetSum", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.lemma10", "child": "DirectedHamiltonicity_Main_DetSum", "via": ["solution", "statement"]}
 {"parent": "ConsumerMenuComplexity_Independent_DensityConditions", "child": "ConsumerMenuComplexity_Independent_Construction", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm15_1_0_3.s4_eq_g", "child": "OAIQ098G846", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm15_1_0_3.s4_eq_g", "child": "OAIQ098G855", "via": ["solution", "statement"]}
@@ -32829,7 +32829,7 @@
 {"parent": "OAI.CubicEisenstein.euclideanComplexDilation_apply", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ArithmeticBins", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm27_0_0_9.sums_eq_g", "child": "OAIQ098G1082", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm27_0_0_9.sums_eq_g", "child": "OAIQ098G1080", "via": ["solution", "statement"]}
-{"parent": "SATotalCoeffLB.section_9_squares_nonneg_juntas", "child": "SATotalCoeffLB_DependsOnAtMost", "via": ["statement"]}
+{"parent": "SATotalCoeffLB.section_9_squares_nonneg_juntas", "child": "SATotalCoeffLB_DependsOnAtMost", "via": ["solution", "statement"]}
 {"parent": "CutRankSched.theorem_6_4_eq_15", "child": "CutRankSched_Feasible", "via": ["solution", "statement"]}
 {"parent": "CutRankSched.theorem_6_4_eq_15", "child": "CutRankSched_Instance_Valid", "via": ["solution", "statement"]}
 {"parent": "CutRankSched.theorem_6_4_eq_15", "child": "CutRankSched_Instance", "via": ["solution", "statement"]}
@@ -40730,7 +40730,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.tm1_43_0.s5_eq_g", "child": "OAIQ098G1552", "via": ["solution", "statement"]}
 {"parent": "TwoMasterRoommates.Capped.hall_3", "child": "TwoMasterRoommates_Capped_Residual", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Residual55.bound1_0_g", "child": "OAIQ098G1696", "via": ["solution", "statement"]}
-{"parent": "DirectedHamiltonicity.Main.lemma9", "child": "DirectedHamiltonicity_Main_DetSum", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.lemma9", "child": "DirectedHamiltonicity_Main_DetSum", "via": ["solution", "statement"]}
 {"parent": "CyclicForrelation_Even_sampling", "child": "CyclicForrelation_Even_cyclicTrace", "via": ["statement"]}
 {"parent": "CyclicForrelation_Even_sampling", "child": "CyclicForrelation_Even_queryModel", "via": ["statement"]}
 {"parent": "ChanTomoNB_diamondDist", "child": "ChanTomoNB_QChan", "via": ["statement"]}
@@ -40943,7 +40943,7 @@
 {"parent": "FourBlockIP.FPT.lemma_5", "child": "FourBlockIP_FPT_Polyhedra", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Residual64.bound0_0_g", "child": "OAIQ098G1696", "via": ["solution", "statement"]}
 {"parent": "MoranYanPAC_Main_SOA", "child": "UnderstandingML_Online", "via": ["statement"]}
-{"parent": "DirectedHamiltonicity.Main.lemma6", "child": "DirectedHamiltonicity_Main_ArcCopies", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.lemma6", "child": "DirectedHamiltonicity_Main_ArcCopies", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Residual88.bound0_1_g", "child": "OAIQ098G1696", "via": ["solution", "statement"]}
 {"parent": "RobustFracMP.claim_3_10", "child": "RobustFracMP_mpRadius", "via": ["statement"]}
 {"parent": "RobustFracMP.claim_3_10", "child": "RobustFracMP_ball", "via": ["statement"]}
@@ -43805,7 +43805,7 @@
 {"parent": "OAI.SecondPassArithmetic.globalPooled_mass", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ScaleCaps", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalPooled_mass", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_CommonMasks", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalPooled_mass", "child": "OAI_NumberTheory_DirichletL_Eisenstein_QuotientTopology", "via": ["solution", "statement"]}
-{"parent": "DirectedHamiltonicity.Main.lemma8", "child": "DirectedHamiltonicity_Main_DetSum", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.lemma8", "child": "DirectedHamiltonicity_Main_DetSum", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm13_0_0_2.s2_eq_g", "child": "OAIQ098G813", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm13_0_0_2.s2_eq_g", "child": "OAIQ098G789", "via": ["solution", "statement"]}
 {"parent": "LindbladStructLearn_boolChar", "child": "LindbladTolerant_Testing_lindblad_model", "via": ["statement"]}

@@ -87437,7 +87437,7 @@
 {"parent": "GlobalTheory.CompareIterDegree.fac_le", "child": "Development_AbelianVarietyTheory_Proofs_JetHarmonics_GapSubsetOfSetBoundIntegral", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompareIterDegree.fac_le", "child": "Development_AbelianVarietyTheory_BlockTheory_JetGauges_DegreeProportionalWords", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompareIterDegree.fac_le", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_DSFdeg", "via": ["solution", "statement"]}
-{"parent": "Arxiv2610_39302.k_pairs_identify_rotation", "child": "Arxiv2610_39302_Basic", "via": ["statement"]}
+{"parent": "Arxiv2610_39302.k_pairs_identify_rotation", "child": "Arxiv2610_39302_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WeierstrassCurve.affineMap_affineY", "child": "Development_AbelianVarietyTheory_Definitions_ShimuraVarieties_OpensRangeChartYSupOpensRangeChartZ", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WeierstrassCurve.affineMap_affineY", "child": "Development_AbelianVarietyTheory_Definitions_ShimuraVarieties_AwayLiftCompFromZeroRingHom", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.tendsto_swd_pushZ_atTop_zero", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_SwdTendstoZeroAtCusps", "via": ["statement"]}
@@ -88418,7 +88418,7 @@
 {"parent": "GlobalTheory.CompareIterDegree.iteration_iff", "child": "Development_AbelianVarietyTheory_Proofs_JetHarmonics_GapSubsetOfSetBoundIntegral", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompareIterDegree.iteration_iff", "child": "Development_AbelianVarietyTheory_BlockTheory_JetGauges_DegreeProportionalWords", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompareIterDegree.iteration_iff", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_DSFdeg", "via": ["solution", "statement"]}
-{"parent": "Arxiv2610_39302.next_token_minimizers_gl_invariant", "child": "Arxiv2610_39302_Basic", "via": ["statement"]}
+{"parent": "Arxiv2610_39302.next_token_minimizers_gl_invariant", "child": "Arxiv2610_39302_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3dx4.inner_bound", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_GNMulRpow", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3dx4.inner_bound", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_InnerBound", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBD.nodeOf_mem_grid_or_grid1", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_GramProductIdentities", "via": ["solution", "statement"]}
@@ -89977,7 +89977,7 @@
 {"parent": "GroundTheory.Automorphic.Anisotropic.det_rmat_conjBase", "child": "GroundTheory_AutomorphicForms_AnisotropicUnitaryRes", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Anisotropic.det_rmat_conjBase", "child": "GroundTheory_AutomorphicForms_AnisotropicRestrict", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Anisotropic.det_rmat_conjBase", "child": "GroundTheory_AutomorphicForms_AdelicUnitaryGroups", "via": ["solution", "statement"]}
-{"parent": "Arxiv2610_39302.platonic_representation_theorem", "child": "Arxiv2610_39302_Basic", "via": ["statement"]}
+{"parent": "Arxiv2610_39302.platonic_representation_theorem", "child": "Arxiv2610_39302_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RegularisedIntegral.integrand_norm_le", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingExistence", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RegularisedIntegral.integrand_norm_le", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationScalesHeisenbergMeasure", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RegularisedIntegral.integrand_norm_le", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_NormDiagonalEntryDilationGeneratorLeOne", "via": ["solution", "statement"]}

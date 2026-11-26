@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.exercise46MM1StationaryWorkload
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T22:06:29.320555+00:00
 -- url     : https://prove2.me/submissions/606a2d10-5fa4-48cd-b385-b53e8dbd7bea
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch04_stationaryWorkload_positiveTrafficLimit

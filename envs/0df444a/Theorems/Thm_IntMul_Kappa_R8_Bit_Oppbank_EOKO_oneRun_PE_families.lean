@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_EOKO_oneRun_PE_families
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.EOKO_oneRun_PE_families
--- status  : Open
+-- status  : Disproved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T18:16:02.069916+00:00
 -- url     : https://prove2.me/theorems/f164aa4e-218f-4a31-a028-a274eded5833

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_regularHexagon_card
 -- name    : Sqrt6KissingBound.regularHexagon_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:09:57.710351+00:00
 -- url     : https://prove2.me/theorems/5fe0ae03-206b-5f42-bc36-f47c1ea1ab86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_stationaryWorkloadGeometricMeasureConvergence
 -- name    : Kyprianou.Ch04.stationaryWorkloadGeometricMeasureConvergence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T21:04:51.95815+00:00
 -- url     : https://prove2.me/theorems/99fb7227-b8e9-4ca2-8c56-cb8dd3d3b73e

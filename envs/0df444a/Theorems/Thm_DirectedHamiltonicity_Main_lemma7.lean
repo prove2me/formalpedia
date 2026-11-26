@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedHamiltonicity_Main_lemma7
 -- name    : DirectedHamiltonicity.Main.lemma7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:24:27.682112+00:00
 -- url     : https://prove2.me/theorems/132bc2c1-bf67-49db-9792-0a03eae3d2c2
