@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:13:37.323057+00:00
 -- url     : https://prove2.me/theorems/cf88732d-211d-403e-b2fb-79a0c1682e43
 -- title:
---   Lefebvre's variations, No. 89 — on a theme by Conway and Sloane: the kissing number in dimension 9 is at least 306
+--   Lefebvre's variations, No. 78 — on a theme by Conway and Sloane: the kissing number in dimension 9 is at least 306
 -- statement:
 --   Let $\tau(9)$ be the kissing number in dimension $9$: the largest size of a finite set of unit vectors in $\mathbb{R}^{9}$ with pairwise inner products at most $\tfrac12$. Then
 --   $$

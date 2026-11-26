@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarlssonPartition_Approx_Supplement_theorem_8_capacity_one_counterexample
 -- name    : CarlssonPartition.Approx.Supplement.theorem_8_capacity_one_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T21:34:16.269151+00:00
 -- url     : https://prove2.me/theorems/8b314b6e-948a-40aa-95e0-fb7c7bfba4db

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:27:58.840803+00:00
 -- url     : https://prove2.me/theorems/c33172e8-d0a6-492e-823e-ad4c0b8c87c9
 -- title:
---   Lefebvre's variations: the fork-join sojourn law with two exponential services at one station and one at the other
+--   Lefebvre's variations, No. 170 — on a theme by Carmeli, Yom-Tov and Boxma: the fork-join sojourn law with two exponential services at one station and one at the other
 -- statement:
 --   Let $U_0,U_1,\dots$ and $G_0,G_1,\dots$ be mutually independent exponential service times with rates $\mu_1,\mu_2>0$ respectively, and put $S_1=U_0+U_1$, $S_2=G_0$. Then $S_1\sim\mathrm{Gamma}(2,\mu_1)$, $S_2\sim\mathrm{Gamma}(1,\mu_2)$ and for every $t\ge0$
 --   $$\mathbb{P}\bigl(\max(S_1,S_2)\le t\bigr)=\mathbb{P}(S_1\le t)\,\mathbb{P}(S_2\le t)=\bigl(1-e^{-\mu_1t}(1+\mu_1t)\bigr)\bigl(1-e^{-\mu_2t}\bigr).$$

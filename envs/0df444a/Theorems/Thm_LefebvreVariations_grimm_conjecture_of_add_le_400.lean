@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:04:24.830427+00:00
 -- url     : https://prove2.me/theorems/989c7888-184b-5ef4-9b32-42cf085ec427
 -- title:
---   Lefebvre's variations, No. 76 — on a theme by Grimm: Grimm's conjecture holds for runs of composites below 400
+--   Lefebvre's variations, No. 67 — on a theme by Grimm: Grimm's conjecture holds for runs of composites below 400
 -- statement:
 --   Let $n\ge 2$ and $m\ge 1$ be integers with $n+m\le 400$ such that $n,n+1,\dots,n+m$ are all composite. Then there are pairwise distinct primes $p_0,\dots,p_m$ with $p_i\mid n+i$ for every $i$.
 --

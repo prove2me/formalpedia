@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_K5MinorFreeChoosability_card_dart_eq_two_mul
 -- name    : LeanPool.K5MinorFreeChoosability.card_dart_eq_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:17:14.301786+00:00
 -- url     : https://prove2.me/theorems/6068cacb-4a0c-43fb-b2c9-8d358ad184cb

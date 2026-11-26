@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:10:32.214391+00:00
 -- url     : https://prove2.me/theorems/1b99072f-3339-551c-91e0-d783420a1395
 -- title:
---   Lefebvre's variations, No. 156 — on a theme by Bose, Shrikhande and Parker: there is a pair of orthogonal Latin squares of order 14
+--   Lefebvre's variations, No. 131 — on a theme by Bose, Shrikhande and Parker: there is a pair of orthogonal Latin squares of order 14
 -- statement:
 --   There exist maps $f:\{0,\dots,13\}^2\to\{0,\dots,13\}^2$ with first and second coordinates $f_1,f_2$ such that $f$ is injective, and for every row $r$ the maps $c\mapsto f_1(r,c)$ and $c\mapsto f_2(r,c)$ are injective, and for every column $c$ the maps $r\mapsto f_1(r,c)$ and $r\mapsto f_2(r,c)$ are injective.
 --

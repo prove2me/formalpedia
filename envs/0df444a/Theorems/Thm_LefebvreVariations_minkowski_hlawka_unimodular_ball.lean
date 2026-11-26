@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:23:55.281244+00:00
 -- url     : https://prove2.me/theorems/ec5bfefc-8d35-47ec-a1a9-dc4ea0fd5ade
 -- title:
---   Lefebvre's variations: Hlawka's theorem, a unimodular lattice avoiding a ball of volume below 2ζ(d)
+--   Lefebvre's variations, No. 156 — on a theme by Minkowski and Hlawka: Hlawka's theorem, a unimodular lattice avoiding a ball of volume below 2ζ(d)
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

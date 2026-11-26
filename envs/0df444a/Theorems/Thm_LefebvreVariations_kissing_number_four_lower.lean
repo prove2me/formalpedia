@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:22:09.803056+00:00
 -- url     : https://prove2.me/theorems/93baac16-9c61-4c7e-9b32-88cf8513c56d
 -- title:
---   Lefebvre's variations, No. 48 — on a theme by Conway and Sloane: the kissing number in dimension 4 is at least 24
+--   Lefebvre's variations, No. 43 — on a theme by Conway and Sloane: the kissing number in dimension 4 is at least 24
 -- statement:
 --   This is the lower bound $24\le\tau_4$ for the kissing number in dimension $4$.
 --

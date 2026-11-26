@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NCGchk_graviton_pair_uv_log_divergence
 -- name    : NCGchk.graviton_pair_uv_log_divergence
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-26T12:21:30.560361+00:00
 -- url     : https://prove2.me/theorems/3f6be469-ad4c-50b6-9972-96355879f617

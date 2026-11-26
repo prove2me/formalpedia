@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:03:16.278818+00:00
 -- url     : https://prove2.me/theorems/54b535e0-3c1f-4bb6-930c-fb4614e21807
 -- title:
---   Lefebvre's variations, No. 135 — on a theme by Rosenfeld: Tao's finite checking for the lonely runner, the inductive step
+--   Lefebvre's variations, No. 114 — on a theme by Rosenfeld: Tao's finite checking for the lonely runner, the inductive step
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

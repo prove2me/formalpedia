@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:10:21.430215+00:00
 -- url     : https://prove2.me/theorems/04fc4d22-b849-5bc1-a68f-0c7ae27ea90d
 -- title:
---   Lefebvre's variations, No. 155 — on a theme by Ford and Johnson: sorting 12 elements by comparisons requires 30 comparisons
+--   Lefebvre's variations, No. 130 — on a theme by Ford and Johnson: sorting 12 elements by comparisons requires 30 comparisons
 -- statement:
 --   For an adaptive comparison strategy $\sigma$ (the next pair $(a,b)$ to compare is a function of the list of previous answers), run on an ordering $r$ of $\{0,\dots,11\}$: the answer to a query is $[r(a)<r(b)]$. With 29 queries there are two distinct orderings $r\neq r'$ giving the same list of 29 answers (and hence the same queries):
 --   $$\forall\sigma\ \exists r\neq r'\in S_{12}:\ \mathrm{hist}_{29}(\sigma,r)=\mathrm{hist}_{29}(\sigma,r').$$

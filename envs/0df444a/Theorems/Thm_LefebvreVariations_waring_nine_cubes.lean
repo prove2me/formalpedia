@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:04:30.821772+00:00
 -- url     : https://prove2.me/theorems/6fd8780f-82e6-4ccd-8491-6e6f84d60546
 -- title:
---   Lefebvre's variations, No. 140 — on a theme by Edward Waring and David Hilbert: Waring's problem for cubes, g(3) = 9
+--   Lefebvre's variations, No. 119 — on a theme by Edward Waring and David Hilbert: Waring's problem for cubes, g(3) = 9
 -- statement:
 --   Every natural number is a sum of at most $9$ perfect cubes, and $8$ do not suffice:
 --   $$

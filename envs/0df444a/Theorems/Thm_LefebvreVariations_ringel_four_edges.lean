@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:14:02.518469+00:00
 -- url     : https://prove2.me/theorems/4fdf84a8-a3e8-529d-af7b-2f6cf31be79e
 -- title:
---   Lefebvre's variations, No. 177 — on a theme by Ringel: Ringel's conjecture holds for every tree with 4 edges
+--   Lefebvre's variations, No. 143 — on a theme by Ringel: Ringel's conjecture holds for every tree with 4 edges
 -- statement:
 --   $$\forall T \text{ tree on }5\text{ vertices}:\quad K_{9}\ \text{decomposes into } 9\text{ edge-disjoint copies of } T.$$
 --

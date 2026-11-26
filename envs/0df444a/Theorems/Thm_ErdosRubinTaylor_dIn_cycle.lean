@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosRubinTaylor_dIn_cycle
 -- name    : ErdosRubinTaylor.dIn_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:31:30.906895+00:00
 -- url     : https://prove2.me/theorems/0a521e88-bb31-470d-8dcc-a8ffd42d56d9

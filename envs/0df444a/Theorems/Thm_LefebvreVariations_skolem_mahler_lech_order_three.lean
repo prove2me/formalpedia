@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:36:57.982229+00:00
 -- url     : https://prove2.me/theorems/327e133f-e5b1-4023-b485-0b2fc116841f
 -- title:
---   Lefebvre's variations, No. 96 — on a theme by Skolem-Mahler-Lech: the Skolem–Mahler–Lech theorem for recurrences of order three
+--   Lefebvre's variations, No. 85 — on a theme by Skolem-Mahler-Lech: the Skolem–Mahler–Lech theorem for recurrences of order three
 -- statement:
 --   Let $K$ be a field of characteristic $0$, let $c_0,c_1,c_2\in K$ and let $(u_n)_{n\ge 0}$ satisfy
 --   $$

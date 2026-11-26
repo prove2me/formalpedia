@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:19:46.673192+00:00
 -- url     : https://prove2.me/theorems/819f630d-4c0d-449b-8e64-cc1d9c468e89
 -- title:
---   Lefebvre's variations, No. 191 — on a theme by Nicolas: Nicolas' primorial inequality holds for all primes up to one hundred
+--   Lefebvre's variations, No. 153 — on a theme by Nicolas: Nicolas' primorial inequality holds for all primes up to one hundred
 -- statement:
 --   For every prime $p\le100$, with $n=p\#=\prod_{q\le p}q$ the primorial,
 --   $$

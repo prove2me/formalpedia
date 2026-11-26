@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:48:04.165274+00:00
 -- url     : https://prove2.me/theorems/42145e50-5b64-5a4b-9333-229fa3527580
 -- title:
---   Lefebvre's variations, No. 68 — on a theme by Frobenius: the Markov unicity conjecture for m ≤ 300
+--   Lefebvre's variations, No. 59 — on a theme by Frobenius: the Markov unicity conjecture for m ≤ 300
 -- statement:
 --   For every integer $m$ with $1\le m\le 300$: if $x^2+y^2+m^2=3xym$ has a solution in natural numbers $x,y$, then there is exactly one pair $(p_1,p_2)$ with
 --   $$

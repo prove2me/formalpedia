@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GEPPGrowth_Main_lemma_4_8
 -- name    : GEPPGrowth.Main.lemma_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T23:37:54.390472+00:00
 -- url     : https://prove2.me/theorems/9ca2d095-555d-4e25-8971-d371090a02ac

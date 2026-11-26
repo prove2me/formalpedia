@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:24:11.213807+00:00
 -- url     : https://prove2.me/theorems/a6083879-3017-4a30-987d-88641ae40491
 -- title:
---   Lefebvre's variations: Hermite's constant γ₄ = √2 (Korkine–Zolotarev)
+--   Lefebvre's variations, No. 157 — on a theme by Hermite: Hermite's constant γ₄ = √2 (Korkine–Zolotarev)
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

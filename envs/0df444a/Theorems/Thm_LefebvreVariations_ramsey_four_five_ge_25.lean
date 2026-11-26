@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:14:39.411635+00:00
 -- url     : https://prove2.me/theorems/85db69e1-1494-4dca-9acb-8aedce9ca397
 -- title:
---   Lefebvre's variations, No. 43 — on a theme by Ramsey: the lower bound $R(4,5)\ge 25$
+--   Lefebvre's variations, No. 38 — on a theme by Ramsey: the lower bound $R(4,5)\ge 25$
 -- statement:
 --   This is the lower bound $R(4,5)\ge25$ for the asymmetric Ramsey number.
 --

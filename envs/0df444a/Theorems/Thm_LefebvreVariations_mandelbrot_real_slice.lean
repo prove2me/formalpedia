@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:19:41.315933+00:00
 -- url     : https://prove2.me/theorems/bf79ae8f-8f4e-460d-981a-923226b36545
 -- title:
---   Lefebvre's variations, No. 16 — on a theme by Douady and Hubbard: the real slice of the Mandelbrot set is $[-2,1/4]$
+--   Lefebvre's variations, No. 15 — on a theme by Douady and Hubbard: the real slice of the Mandelbrot set is $[-2,1/4]$
 -- statement:
 --   This is the real slice of the Mandelbrot set.
 --

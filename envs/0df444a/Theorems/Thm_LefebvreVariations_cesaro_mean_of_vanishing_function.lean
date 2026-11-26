@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:27:06.154+00:00
 -- url     : https://prove2.me/theorems/f2ecfe8b-e219-4cce-ae6e-35128982bc5e
 -- title:
---   Lefebvre's variations: the Cesàro mean of a nonnegative function tending to zero at infinity tends to zero
+--   Lefebvre's variations, No. 167 — on a theme by Attouch, Boţ and Nguyen: the Cesàro mean of a nonnegative function tending to zero at infinity tends to zero
 -- statement:
 --   Let $\delta\ge0$ and let $a:[\delta,\infty)\to[0,\infty)$ be locally integrable with $a(u)\to0$ as $u\to\infty$. Then
 --   $$\lim_{s\to\infty}\frac1s\int_\delta^s a(u)\,du=0 .$$

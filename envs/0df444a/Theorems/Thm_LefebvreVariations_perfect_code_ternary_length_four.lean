@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:03:20.18315+00:00
 -- url     : https://prove2.me/theorems/ad9fa5d9-1d50-47e7-9f77-a467cc9ef19e
 -- title:
---   Lefebvre's variations, No. 136 — on a theme by Richard Hamming: a perfect ternary one-error-correcting code of length four
+--   Lefebvre's variations, No. 115 — on a theme by Richard Hamming: a perfect ternary one-error-correcting code of length four
 -- statement:
 --   There is a set $C\subseteq\{0,\dots,2\}^{4}$ of words of length $4$ over an alphabet of $3$ letters such that any two distinct words differ in at least $3$ positions, and the Hamming balls of radius $1$ around the words of $C$ cover the whole space:
 --   $$

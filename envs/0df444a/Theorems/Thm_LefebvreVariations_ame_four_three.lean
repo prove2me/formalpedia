@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:42:00.699444+00:00
 -- url     : https://prove2.me/theorems/933c0493-6b76-5978-ab5a-5267425599ba
 -- title:
---   Lefebvre's variations, No. 56 — on a theme by Open Quantum Problem 35: an absolutely maximally entangled state of four qutrits exists
+--   Lefebvre's variations, No. 51 — on a theme by Open Quantum Problem 35: an absolutely maximally entangled state of four qutrits exists
 -- statement:
 --   There is a unit vector $\psi\in(\mathbb{C}^3)^{\otimes 4}$ that is **absolutely maximally entangled**: for every permutation $\pi$ of the four tensor factors, the reduced density matrix of $\pi\psi$ on its first two factors is maximally mixed,
 --   $$

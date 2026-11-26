@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_locmoll_smooth_test_certificate
 -- name    : AvramDividend.Classical.avram_locmoll_smooth_test_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T19:06:31.916129+00:00
 -- url     : https://prove2.me/theorems/2e269e44-0ec4-4d09-bac9-26533bf1d8ab

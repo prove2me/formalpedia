@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:04:09.604814+00:00
 -- url     : https://prove2.me/theorems/87b7b9e7-af06-43d2-90fc-74dbf1911ee2
 -- title:
---   Lefebvre's variations, No. 75 — on a theme by Euler: there is no perfect cuboid with all edges at most 200
+--   Lefebvre's variations, No. 66 — on a theme by Euler: there is no perfect cuboid with all edges at most 200
 -- statement:
 --   There are no positive integers $a,b,c\le 200$ and $d_{ab},d_{ac},d_{bc},d_{abc}$ with
 --   $$a^2+b^2=d_{ab}^2,\quad a^2+c^2=d_{ac}^2,\quad b^2+c^2=d_{bc}^2,\quad a^2+b^2+c^2=d_{abc}^2 .$$

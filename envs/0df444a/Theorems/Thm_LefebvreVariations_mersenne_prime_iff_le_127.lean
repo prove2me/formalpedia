@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:16:40.233114+00:00
 -- url     : https://prove2.me/theorems/bbe7334d-f3af-4efa-a22d-6b542d468d5f
 -- title:
---   Lefebvre's variations, No. 44 — on a theme by Mersenne: the Mersenne primes with exponent up to 127
+--   Lefebvre's variations, No. 39 — on a theme by Mersenne: the Mersenne primes with exponent up to 127
 -- statement:
 --   This determines which Mersenne numbers $2^p-1$ are prime for exponents $p\le127$.
 --

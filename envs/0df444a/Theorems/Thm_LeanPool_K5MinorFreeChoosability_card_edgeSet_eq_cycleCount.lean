@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_K5MinorFreeChoosability_card_edgeSet_eq_cycleCount
 -- name    : LeanPool.K5MinorFreeChoosability.card_edgeSet_eq_cycleCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:16:54.929546+00:00
 -- url     : https://prove2.me/theorems/61e72e8a-9225-545d-be4f-f19fc748ed35

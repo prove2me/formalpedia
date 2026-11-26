@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:41:27.721811+00:00
 -- url     : https://prove2.me/theorems/ed2a77e6-a62d-4e39-adee-200cef738c62
 -- title:
---   Lefebvre's variations, No. 30 — on a theme by Oppermann: Oppermann's conjecture for $n\le 300$
+--   Lefebvre's variations, No. 26 — on a theme by Oppermann: Oppermann's conjecture for $n\le 300$
 -- statement:
 --   This verifies Oppermann's conjecture for $2\le n\le300$.
 --

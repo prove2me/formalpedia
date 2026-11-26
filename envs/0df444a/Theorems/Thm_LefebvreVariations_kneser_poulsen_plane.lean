@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:49:42.021575+00:00
 -- url     : https://prove2.me/theorems/b54917e8-ef10-4ebf-b162-70f0d5c32674
 -- title:
---   Lefebvre's variations, No. 103 — on a theme by Kneser and Poulsen: the Kneser–Poulsen conjecture in the plane
+--   Lefebvre's variations, No. 91 — on a theme by Kneser and Poulsen: the Kneser–Poulsen conjecture in the plane
 -- statement:
 --   Let $D(c,\rho)$ denote the open disc of centre $c$ and radius $\rho$ in $\mathbb{R}^2$. For all $n$, centres $p_1,\dots,p_n$ and $q_1,\dots,q_n$ in $\mathbb{R}^2$ and radii $\rho_1,\dots,\rho_n>0$ with $|q_i-q_j|\le|p_i-p_j|$ for all $i,j$,
 --   $$

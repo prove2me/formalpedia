@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:11:49.100013+00:00
 -- url     : https://prove2.me/theorems/171b98bc-b31a-5e32-a2e5-9cfa8c95cf2c
 -- title:
---   Lefebvre's variations, No. 85 — on a theme by Zauner: a Weyl-Heisenberg fiducial vector exists in dimension 4
+--   Lefebvre's variations, No. 74 — on a theme by Zauner: a Weyl-Heisenberg fiducial vector exists in dimension 4
 -- statement:
 --   There is a unit vector $\psi\in\mathbb{C}^{4}$, indexed by $\mathbb{Z}/4$, such that for every pair $(a,b)\ne(0,0)$ in $(\mathbb{Z}/4)^2$
 --   $$

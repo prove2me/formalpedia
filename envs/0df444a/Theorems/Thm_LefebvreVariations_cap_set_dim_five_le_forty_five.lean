@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:02:04.547163+00:00
 -- url     : https://prove2.me/theorems/55ca6133-6146-5d56-92dc-d556e5d2d7c3
 -- title:
---   Lefebvre's variations, No. 130 — on a theme by Jordan Ellenberg and Dion Gijswijt: cap sets in F_3^5 have at most forty-five points
+--   Lefebvre's variations, No. 109 — on a theme by Jordan Ellenberg and Dion Gijswijt: cap sets in F_3^5 have at most forty-five points
 -- statement:
 --   Let $A\subseteq\mathbb{F}_3^{5}$ contain no three distinct points $x,y,z$ with $x+y+z=0$ (a cap set, equivalently a set with no three-term arithmetic progression). Then
 --   $$

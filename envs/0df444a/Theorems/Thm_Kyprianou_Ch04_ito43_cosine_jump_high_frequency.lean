@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cosine_jump_high_frequency
 -- name    : Kyprianou.Ch04.ito43_cosine_jump_high_frequency
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:32:40.862133+00:00
 -- url     : https://prove2.me/theorems/84bde259-b9c1-47ee-8103-8401043e309b

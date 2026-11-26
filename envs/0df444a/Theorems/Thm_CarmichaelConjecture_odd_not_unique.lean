@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarmichaelConjecture_odd_not_unique
 -- name    : CarmichaelConjecture.odd_not_unique
--- status  : Open
+-- status  : Proved
 -- author  : @fangshuming
 -- created : 2026-11-26T09:22:32.035202+00:00
 -- url     : https://prove2.me/theorems/cd24aea4-4994-411e-8225-a6c4b6d21031

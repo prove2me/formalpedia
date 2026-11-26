@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GEPPGrowth_Main_lemma_4_6
 -- name    : GEPPGrowth.Main.lemma_4_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T23:37:55.676883+00:00
 -- url     : https://prove2.me/theorems/610962bc-c9b5-4e4b-be30-f73245542f9f

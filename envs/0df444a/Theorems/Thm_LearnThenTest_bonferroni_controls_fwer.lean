@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnThenTest_bonferroni_controls_fwer
 -- name    : LearnThenTest.bonferroni_controls_fwer
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T00:10:44.985536+00:00
 -- url     : https://prove2.me/theorems/407e777e-341f-416a-8cd6-3ef12cc179ca

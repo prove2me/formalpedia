@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:35:50.24814+00:00
 -- url     : https://prove2.me/theorems/847c9aca-9256-4949-9d49-c115a2a32606
 -- title:
---   Lefebvre's variations, No. 24 — on a theme by Hadamard: a Hadamard matrix of order 92
+--   Lefebvre's variations, No. 21 — on a theme by Hadamard: a Hadamard matrix of order 92
 -- statement:
 --   This is the Hadamard conjecture at order $92$.
 --

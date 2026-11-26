@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:02:43.712832+00:00
 -- url     : https://prove2.me/theorems/e21150fc-56e8-4879-b29f-cdd484db3c67
 -- title:
---   Lefebvre's variations, No. 132 — on a theme by Paul Erdős and Pál Turán: Golomb rulers with five marks need length at least 11
+--   Lefebvre's variations, No. 111 — on a theme by Paul Erdős and Pál Turán: Golomb rulers with five marks need length at least 11
 -- statement:
 --   For every finite set $R\subset\mathbb{N}$ with $|R|=5$ whose pairwise differences are distinct (a Golomb ruler), the largest mark satisfies $\max R\ge 11$. Equivalently, there is no Golomb ruler with $5$ marks inside $\{0,1,\dots,10\}$:
 --   $$

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:41:20.075557+00:00
 -- url     : https://prove2.me/theorems/e95da47c-beee-4f55-9a72-cdb6ba24929c
 -- title:
---   Lefebvre's variations, No. 99 — on a theme by Conway and Sloane: the Leech lattice gives 196560 touching balls in dimension 24
+--   Lefebvre's variations, No. 88 — on a theme by Conway and Sloane: the Leech lattice gives 196560 touching balls in dimension 24
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

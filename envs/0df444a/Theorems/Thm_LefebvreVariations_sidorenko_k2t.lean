@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:36:50.029807+00:00
 -- url     : https://prove2.me/theorems/08749788-e61a-46c9-83f5-0edad52fb2bc
 -- title:
---   Lefebvre's variations, No. 26 — on a theme by Sidorenko: Sidorenko's conjecture for $K_{2,t}$
+--   Lefebvre's variations, No. 23 — on a theme by Sidorenko: Sidorenko's conjecture for $K_{2,t}$
 -- statement:
 --   This is Sidorenko's conjecture for the complete bipartite graphs $K_{2,t}$.
 --

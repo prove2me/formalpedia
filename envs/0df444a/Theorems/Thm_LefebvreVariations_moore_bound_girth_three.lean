@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:12:57.085852+00:00
 -- url     : https://prove2.me/theorems/c92e05a6-df55-4aa8-8b32-957f1f03cea5
 -- title:
---   Lefebvre's variations, No. 171 — on a theme by Hoffman–Singleton: the Moore bound is attained at girth 3 for every degree k at least 3
+--   Lefebvre's variations, No. 141 — on a theme by Hoffman–Singleton: the Moore bound is attained at girth 3 for every degree k at least 3
 -- statement:
 --   $$\forall k\ge 3\ \exists n\ \exists G\text{ on }[n]:\quad G\ k\text{-regular},\ \operatorname{girth}(G)=3,\ n\le 1+k\sum_{i<1}(k-1)^i=k+1.$$
 --

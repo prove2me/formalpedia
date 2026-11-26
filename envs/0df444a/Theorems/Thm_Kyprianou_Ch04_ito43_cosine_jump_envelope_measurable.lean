@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cosine_jump_envelope_measurable
 -- name    : Kyprianou.Ch04.ito43_cosine_jump_envelope_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:41:12.108854+00:00
 -- url     : https://prove2.me/theorems/c27722fb-a630-44ff-857a-917859b11dd6

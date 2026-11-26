@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305DebianCt_relOk_crypto_verify_16
 -- name    : Poly1305DebianCt.relOk_crypto_verify_16
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-26T19:41:02.591826+00:00
 -- url     : https://prove2.me/theorems/1c5dc771-8b02-4cff-99bc-73648d98f223

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:04:43.037406+00:00
 -- url     : https://prove2.me/theorems/9cf33903-3309-4cce-b80a-d5bedff7d617
 -- title:
---   Lefebvre's variations, No. 77 — on a theme by Fermat: the Fermat numbers F_n with n at most 11 are prime exactly for n at most 4
+--   Lefebvre's variations, No. 68 — on a theme by Fermat: the Fermat numbers F_n with n at most 11 are prime exactly for n at most 4
 -- statement:
 --   Among the Fermat numbers $F_n=2^{2^n}+1$ with $0\le n\le 11$, exactly $F_0,F_1,F_2,F_3,F_4$ are prime:
 --   $$\{\,n\in\mathbb{N} : n\le 11 \wedge F_n \text{ is prime}\,\}=\{0,1,2,3,4\}.$$

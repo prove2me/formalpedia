@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:20:42.005251+00:00
 -- url     : https://prove2.me/theorems/64ac5bc0-25a0-5df5-9e63-e2003e36a6b9
 -- title:
---   Lefebvre's variations, No. 193 — on a theme by Riemann: the Riemann hypothesis holds for the zeros of xi up to height one hundred
+--   Lefebvre's variations, No. 155 — on a theme by Riemann: the Riemann hypothesis holds for the zeros of xi up to height one hundred
 -- statement:
 --   Let $\xi(s)=\tfrac12 s(s-1)\pi^{-s/2}\Gamma(s/2)\zeta(s)$. If $z\in\mathbb{C}$ satisfies $\xi(\tfrac12+iz)=0$ and $|\operatorname{Re}z|\le100$, then $\operatorname{Im}z=0$.
 --

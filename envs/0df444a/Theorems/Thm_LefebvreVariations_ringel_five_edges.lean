@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:14:19.081357+00:00
 -- url     : https://prove2.me/theorems/4b897629-9a54-462c-8661-264008e21692
 -- title:
---   Lefebvre's variations, No. 179 — on a theme by Ringel: Ringel's conjecture holds for every tree with 5 edges
+--   Lefebvre's variations, No. 144 — on a theme by Ringel: Ringel's conjecture holds for every tree with 5 edges
 -- statement:
 --   $$\forall T \text{ tree on }6\text{ vertices}:\quad K_{11}\ \text{decomposes into } 11\text{ edge-disjoint copies of } T.$$
 --

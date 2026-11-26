@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:10:01.679376+00:00
 -- url     : https://prove2.me/theorems/d09d12e4-7f46-5e8a-b751-81b68c4dab6b
 -- title:
---   Lefebvre's variations, No. 153 — on a theme by Dedekind: the number of monotone Boolean functions of seven variables is 2414682040998
+--   Lefebvre's variations, No. 128 — on a theme by Dedekind: the number of monotone Boolean functions of seven variables is 2414682040998
 -- statement:
 --   The number of monotone Boolean functions of $n$ variables, that is, of maps $f:\{0,1\}^n\to\{0,1\}$ with $x\le y\Rightarrow f(x)\le f(y)$ (coordinatewise order), the two constant functions included, is the Dedekind number $M(n)$. Then
 --   $$M(7)=2414682040998 .$$

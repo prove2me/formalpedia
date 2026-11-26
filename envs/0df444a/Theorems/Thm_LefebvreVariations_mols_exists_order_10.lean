@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:10:14.477371+00:00
 -- url     : https://prove2.me/theorems/8ec17a62-b491-5f47-afbe-9aa057d548e0
 -- title:
---   Lefebvre's variations, No. 154 — on a theme by Bose, Shrikhande and Parker: there is a pair of orthogonal Latin squares of order 10
+--   Lefebvre's variations, No. 129 — on a theme by Bose, Shrikhande and Parker: there is a pair of orthogonal Latin squares of order 10
 -- statement:
 --   There exist maps $f:\{0,\dots,9\}^2\to\{0,\dots,9\}^2$ with first and second coordinates $f_1,f_2$ such that $f$ is injective, and for every row $r$ the maps $c\mapsto f_1(r,c)$ and $c\mapsto f_2(r,c)$ are injective, and for every column $c$ the maps $r\mapsto f_1(r,c)$ and $r\mapsto f_2(r,c)$ are injective.
 --

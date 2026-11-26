@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:19:55.704566+00:00
 -- url     : https://prove2.me/theorems/a67e4188-a4e8-4840-a606-6a49bf39180b
 -- title:
---   Lefebvre's variations, No. 47 — on a theme by Catalan: the first five Catalan–Mersenne numbers are prime
+--   Lefebvre's variations, No. 42 — on a theme by Catalan: the first five Catalan–Mersenne numbers are prime
 -- statement:
 --   This shows that the first five Catalan–Mersenne numbers are prime.
 --

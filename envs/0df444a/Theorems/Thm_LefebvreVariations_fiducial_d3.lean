@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:12:51.467899+00:00
 -- url     : https://prove2.me/theorems/1dfa31aa-8f26-46d0-bd30-1096a57ce984
 -- title:
---   Lefebvre's variations, No. 13 — on a theme by Zauner: a Weyl–Heisenberg SIC fiducial in dimension 3
+--   Lefebvre's variations, No. 12 — on a theme by Zauner: a Weyl–Heisenberg SIC fiducial in dimension 3
 -- statement:
 --   This is Zauner's conjecture in dimension $3$, with an explicit fiducial vector.
 --

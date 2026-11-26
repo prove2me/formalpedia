@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_locmoll_generator_convolution_hjb
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T20:36:03.864953+00:00
 -- url     : https://prove2.me/submissions/d51a8b00-9005-42d6-833e-459b90f41728
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_locmoll_interior_jet_interchange

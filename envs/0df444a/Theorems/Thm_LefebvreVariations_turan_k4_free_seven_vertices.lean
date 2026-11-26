@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:11:46.110245+00:00
 -- url     : https://prove2.me/theorems/2b88dd0c-a414-4b27-87f9-e390d9592b2b
 -- title:
---   Lefebvre's variations, No. 165 — on a theme by Turán: a 3-uniform hypergraph on 7 vertices with no K_4^(3) has at most 23 edges
+--   Lefebvre's variations, No. 138 — on a theme by Turán: a 3-uniform hypergraph on 7 vertices with no K_4^(3) has at most 23 edges
 -- statement:
 --   $$\forall H\subseteq \tbinom{[7]}{3}:\quad \bigl(\nexists S\subseteq[7],\ |S|=4,\ \tbinom{S}{3}\subseteq H\bigr)\ \Longrightarrow\ |H|\le 23.$$
 --

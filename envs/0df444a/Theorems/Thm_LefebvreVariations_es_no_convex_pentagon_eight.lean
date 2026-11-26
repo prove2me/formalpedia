@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:50:55.57292+00:00
 -- url     : https://prove2.me/theorems/4fdfc197-88e3-4acd-ba75-3e51f58aa1fc
 -- title:
---   Lefebvre's variations, No. 107 — on a theme by Erdős and Szekeres: eight points in general position without a convex pentagon
+--   Lefebvre's variations, No. 95 — on a theme by Erdős and Szekeres: eight points in general position without a convex pentagon
 -- statement:
 --   There is a set $S\subset\mathbb{R}^2$ of $8$ points, no three collinear, containing no $5$ points in convex position.
 --

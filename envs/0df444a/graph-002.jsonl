@@ -42384,14 +42384,14 @@
 {"parent": "HomogBiLimit.OutputFeedback.theorem_5_1", "child": "HomogBiLimit_OutputFeedback_Homogeneity", "via": ["solution", "statement"]}
 {"parent": "HomogBiLimit_OutputFeedback_ChainSystems", "child": "ChitourPrescribedTime_FixedTime_Stability", "via": ["statement"]}
 {"parent": "HomogBiLimit_OutputFeedback_ChainSystems", "child": "HomogBiLimit_OutputFeedback_Homogeneity", "via": ["statement"]}
-{"parent": "HomogLCP.Embed.Q_monotone", "child": "HomogLCP_Embed_MonotoneOp", "via": ["statement"]}
-{"parent": "HomogLCP.Embed.Q_monotone", "child": "HomogLCP_Embed_Setting", "via": ["statement"]}
+{"parent": "HomogLCP.Embed.Q_monotone", "child": "HomogLCP_Embed_MonotoneOp", "via": ["solution", "statement"]}
+{"parent": "HomogLCP.Embed.Q_monotone", "child": "HomogLCP_Embed_Setting", "via": ["solution", "statement"]}
 {"parent": "HomogLCP.Embed.eq_4_11_to_4_13", "child": "HomogLCP_Embed_MonotoneOp", "via": ["statement"]}
 {"parent": "HomogLCP.Embed.eq_4_11_to_4_13", "child": "HomogLCP_Embed_Setting", "via": ["statement"]}
-{"parent": "HomogLCP.Embed.lemma_4_1", "child": "HomogLCP_Embed_MonotoneOp", "via": ["statement"]}
-{"parent": "HomogLCP.Embed.lemma_4_1", "child": "HomogLCP_Embed_Setting", "via": ["statement"]}
-{"parent": "HomogLCP.Embed.lemma_4_3", "child": "HomogLCP_Embed_MonotoneOp", "via": ["statement"]}
-{"parent": "HomogLCP.Embed.lemma_4_3", "child": "HomogLCP_Embed_Setting", "via": ["statement"]}
+{"parent": "HomogLCP.Embed.lemma_4_1", "child": "HomogLCP_Embed_MonotoneOp", "via": ["solution", "statement"]}
+{"parent": "HomogLCP.Embed.lemma_4_1", "child": "HomogLCP_Embed_Setting", "via": ["solution", "statement"]}
+{"parent": "HomogLCP.Embed.lemma_4_3", "child": "HomogLCP_Embed_MonotoneOp", "via": ["solution", "statement"]}
+{"parent": "HomogLCP.Embed.lemma_4_3", "child": "HomogLCP_Embed_Setting", "via": ["solution", "statement"]}
 {"parent": "HomogLCP.Embed.lemma_4_4", "child": "HomogLCP_Embed_MonotoneOp", "via": ["solution", "statement"]}
 {"parent": "HomogLCP.Embed.lemma_4_4", "child": "HomogLCP_Embed_Setting", "via": ["solution", "statement"]}
 {"parent": "HomogLCP.Embed.no_extension_in_domF", "child": "HomogLCP_Embed_MonotoneOp", "via": ["statement"]}

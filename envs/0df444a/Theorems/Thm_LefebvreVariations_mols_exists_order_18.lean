@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:10:49.979082+00:00
 -- url     : https://prove2.me/theorems/c38a8732-aac8-55ab-8beb-8f20158b9303
 -- title:
---   Lefebvre's variations, No. 158 — on a theme by Bose, Shrikhande and Parker: there is a pair of orthogonal Latin squares of order 18
+--   Lefebvre's variations, No. 133 — on a theme by Bose, Shrikhande and Parker: there is a pair of orthogonal Latin squares of order 18
 -- statement:
 --   There exist maps $f:\{0,\dots,17\}^2\to\{0,\dots,17\}^2$ with first and second coordinates $f_1,f_2$ such that $f$ is injective, and for every row $r$ the maps $c\mapsto f_1(r,c)$ and $c\mapsto f_2(r,c)$ are injective, and for every column $c$ the maps $r\mapsto f_1(r,c)$ and $r\mapsto f_2(r,c)$ are injective.
 --

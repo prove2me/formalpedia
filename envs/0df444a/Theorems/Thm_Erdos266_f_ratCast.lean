@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos266_f_ratCast
 -- name    : Erdos266.f_ratCast
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:34:12.095718+00:00
 -- url     : https://prove2.me/theorems/b7734ac3-9607-537b-b47e-5a066dac500b

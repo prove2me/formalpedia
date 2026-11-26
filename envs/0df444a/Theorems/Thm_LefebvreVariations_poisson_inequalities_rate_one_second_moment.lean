@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:26:52.101819+00:00
 -- url     : https://prove2.me/theorems/8c59d069-7905-41a6-8a99-b227fa14a8bf
 -- title:
---   Lefebvre's variations: the Poisson moment and tail inequalities hold for rate 1 and second moments
+--   Lefebvre's variations, No. 166 — on a theme by Wang: the Poisson moment and tail inequalities hold for rate 1 and second moments
 -- statement:
 --   Let $\mu$ be the Poisson law of rate $\lambda=1$ on $\mathbb{N}$, $\nu=\mu\otimes\mu$, and $q=2$. For all $u>0$ and $0<v<1$:
 --   $$\mathbb{E}_\mu[X^2]\le 4\max(1,1),\qquad \mathbb{E}_\mu|X-1|^2\le 4^{2}\cdot 1,\qquad \mathbb{E}_\nu(2+X+Y)^2\le 8^2\cdot 2^2,$$

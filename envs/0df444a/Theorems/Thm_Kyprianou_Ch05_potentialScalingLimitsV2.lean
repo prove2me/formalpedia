@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_potentialScalingLimitsV2
 -- name    : Kyprianou.Ch05.potentialScalingLimitsV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:36:32.285094+00:00
 -- url     : https://prove2.me/theorems/eda6c236-b311-4b8f-862b-aa223660feeb

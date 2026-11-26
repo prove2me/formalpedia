@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:18:54.832495+00:00
 -- url     : https://prove2.me/theorems/adbd9339-1c8b-4172-9bea-57ba1aaef50e
 -- title:
---   Lefebvre's variations, No. 188 — on a theme by Kaneko: the Kaneko harmonic divisor inequality holds for 60 < n <= 100000
+--   Lefebvre's variations, No. 150 — on a theme by Kaneko: the Kaneko harmonic divisor inequality holds for 60 < n <= 100000
 -- statement:
 --   For every integer $n$ with $60<n\le 100000$,
 --   $$

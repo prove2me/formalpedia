@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:12:17.1479+00:00
 -- url     : https://prove2.me/theorems/d93c06ac-c93f-55be-95aa-2ee4ad6b7f31
 -- title:
---   Lefebvre's variations, No. 168 — on a theme by Hoffman–Singleton: the Moore bound is attained at degree 3 and girth 5 (Petersen graph)
+--   Lefebvre's variations, No. 140 — on a theme by Hoffman–Singleton: the Moore bound is attained at degree 3 and girth 5 (Petersen graph)
 -- statement:
 --   $$\exists\, n\ \exists\, G \text{ on } [n]:\quad G\ \text{is }3\text{-regular},\ \operatorname{girth}(G)=5,\ n\le 1+3\sum_{i<(5-1)/2}(3-1)^i = 10.$$
 --

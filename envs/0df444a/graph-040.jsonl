@@ -11314,7 +11314,7 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PLelongLimit", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StLelongLimitOnZero", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PLelongLimit", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_LocalLimitGlue", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PLelongLimit", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StVarIntAdd", "via": ["statement"]}
-{"parent": "LearnThenTest.bonferroni_controls_fwer", "child": "LearnThenTest_Basic", "via": ["statement"]}
+{"parent": "LearnThenTest.bonferroni_controls_fwer", "child": "LearnThenTest_Basic", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PHsymmPairFlagIndependence", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PFlagIndependence", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PHsymmPairFlagIndependence", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_StatementsSegreClosureNumber", "via": ["statement"]}
 {"parent": "GlobalTheory.CompanionTheory.FSCrofton.GaussDet.row_prod", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_GaussianDetSquareIntegral", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_locmoll_interior_jet_interchange
 -- name    : AvramDividend.Classical.avram_locmoll_interior_jet_interchange
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:23:11.560828+00:00
 -- url     : https://prove2.me/theorems/06cb2549-7f74-48bc-a6ba-0890037b26d6

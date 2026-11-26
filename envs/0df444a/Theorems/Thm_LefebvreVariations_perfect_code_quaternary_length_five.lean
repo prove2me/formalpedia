@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:03:34.485443+00:00
 -- url     : https://prove2.me/theorems/23d1a7f6-0d58-4e92-aa90-bd7f2db07773
 -- title:
---   Lefebvre's variations, No. 137 — on a theme by Richard Hamming: a perfect one-error-correcting code over four letters of length five
+--   Lefebvre's variations, No. 116 — on a theme by Richard Hamming: a perfect one-error-correcting code over four letters of length five
 -- statement:
 --   There is a set $C\subseteq\{0,\dots,3\}^{5}$ of words of length $5$ over an alphabet of $4$ letters such that any two distinct words differ in at least $3$ positions, and the Hamming balls of radius $1$ around the words of $C$ cover the whole space:
 --   $$

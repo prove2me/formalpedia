@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_locmoll_generator_convolution_hjb
 -- name    : AvramDividend.Classical.avram_locmoll_generator_convolution_hjb
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T19:58:56.526563+00:00
 -- url     : https://prove2.me/theorems/4ce72d47-4d5a-479e-bf24-f651ec5f67ec

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:37:35.548903+00:00
 -- url     : https://prove2.me/theorems/d515d0eb-86a8-434b-8f20-6850d2537475
 -- title:
---   Lefebvre's variations, No. 98 — on a theme by bbchallenge: the Antihydra counter stays nonnegative for 400000 steps
+--   Lefebvre's variations, No. 87 — on a theme by bbchallenge: the Antihydra counter stays nonnegative for 400000 steps
 -- statement:
 --   Let $a_0=8$, $a_{n+1}=\lfloor 3a_n/2\rfloor$, and let $b_0=0$,
 --   $$

@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:43:45.442803+00:00
 -- url     : https://prove2.me/theorems/959f50ad-cf02-4f92-834e-d95541f8d1e6
 -- title:
---   Lefebvre's variations, No. 59 — on a theme by Kakeya: Kakeya sets in dimension one have Hausdorff dimension one
+--   Lefebvre's variations, No. 53 — on a theme by Kakeya: Kakeya sets in dimension one have Hausdorff dimension one
 -- statement:
 --   A set $S\subseteq\mathbb{R}^n$ is a *Kakeya set* if for every unit vector $v$ there is a point $a$ with $[a,a+v]\subseteq S$, where $[a,a+v]=\{a+tv: 0\le t\le 1\}$ is the unit segment in direction $v$. For $n=1$:
 --   $$

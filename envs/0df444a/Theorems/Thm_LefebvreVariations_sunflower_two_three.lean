@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:56:23.767092+00:00
 -- url     : https://prove2.me/theorems/4e5ca428-3eb4-4a24-b6f0-954ad90f518b
 -- title:
---   Lefebvre's variations, No. 38 — on a theme by Erdős and Rado: the sunflower number $f(2,3)=7$
+--   Lefebvre's variations, No. 33 — on a theme by Erdős and Rado: the sunflower number $f(2,3)=7$
 -- statement:
 --   This is the first non-trivial exact value of the Erdős–Rado sunflower function.
 --

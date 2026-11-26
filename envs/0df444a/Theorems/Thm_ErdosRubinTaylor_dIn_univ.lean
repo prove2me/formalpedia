@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosRubinTaylor_dIn_univ
 -- name    : ErdosRubinTaylor.dIn_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:29:19.887801+00:00
 -- url     : https://prove2.me/theorems/3e0d960f-6660-4a21-8890-1db0b2395c63

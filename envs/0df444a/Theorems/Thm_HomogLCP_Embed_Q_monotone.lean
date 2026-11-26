@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HomogLCP_Embed_Q_monotone
 -- name    : HomogLCP.Embed.Q_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:43:08.432992+00:00
 -- url     : https://prove2.me/theorems/a78f0d89-4fec-4c42-a210-9997a0fab271

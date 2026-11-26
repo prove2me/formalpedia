@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:01:01.677727+00:00
 -- url     : https://prove2.me/theorems/d138113a-6017-4521-9458-97d132b8dd03
 -- title:
---   Lefebvre's variations, No. 125 — on a theme by Ramsey: $R(5,5)\le 48$ for graphs on $48$ vertices with all degrees in $\{23,24\}$
+--   Lefebvre's variations, No. 106 — on a theme by Ramsey: $R(5,5)\le 48$ for graphs on $48$ vertices with all degrees in $\{23,24\}$
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:05:22.973287+00:00
 -- url     : https://prove2.me/theorems/81dfa64d-98de-44d3-8a82-ffd8b93f713f
 -- title:
---   Lefebvre's variations, No. 142 — on a theme by Edward Waring and David Hilbert: Waring's problem for fifth powers, g(5) = 37
+--   Lefebvre's variations, No. 121 — on a theme by Edward Waring and David Hilbert: Waring's problem for fifth powers, g(5) = 37
 -- statement:
 --   Every natural number is a sum of at most $37$ perfect fifth powers, and $36$ do not suffice:
 --   $$

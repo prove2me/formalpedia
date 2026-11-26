@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45MaskedGridDifferenceV5
 -- name    : Kyprianou.Ch04.exercise45MaskedGridDifferenceV5
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:37:39.165288+00:00
 -- url     : https://prove2.me/theorems/4d61003c-0278-4c27-9660-82cd3b1fd810

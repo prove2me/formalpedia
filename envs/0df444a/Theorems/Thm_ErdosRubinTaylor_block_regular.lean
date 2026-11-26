@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosRubinTaylor_block_regular
 -- name    : ErdosRubinTaylor.block_regular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:34:56.22514+00:00
 -- url     : https://prove2.me/theorems/edc9fa89-dfc3-4694-9871-002963485ef6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosRubinTaylor_ncard_eq_of_iso
 -- name    : ErdosRubinTaylor.ncard_eq_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:31:34.71426+00:00
 -- url     : https://prove2.me/theorems/8da07018-6bda-4d38-9540-34255f4c8f0a

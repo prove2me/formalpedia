@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:13:48.131803+00:00
 -- url     : https://prove2.me/theorems/547131f9-1436-4896-baf2-a59289265ca0
 -- title:
---   Lefebvre's variations, No. 176 — on a theme by Ringel: Ringel's conjecture holds for every tree with 3 edges
+--   Lefebvre's variations, No. 142 — on a theme by Ringel: Ringel's conjecture holds for every tree with 3 edges
 -- statement:
 --   $$\forall T \text{ tree on }4\text{ vertices}:\quad K_{7}\ \text{decomposes into } 7\text{ edge-disjoint copies of } T.$$
 --

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_locmoll_generator_sign_assembly
 -- name    : AvramDividend.Classical.avram_locmoll_generator_sign_assembly
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:23:00.605081+00:00
 -- url     : https://prove2.me/theorems/132976a4-7d51-591f-bcdb-69c7f89c4996

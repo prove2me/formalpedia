@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:52:16.564079+00:00
 -- url     : https://prove2.me/theorems/c5a954bf-ef8c-551a-bd33-47892a1558c7
 -- title:
---   Lefebvre's variations, No. 111 — on a theme by Borsuk: Borsuk's conjecture in the plane
+--   Lefebvre's variations, No. 99 — on a theme by Borsuk: Borsuk's conjecture in the plane
 -- statement:
 --   Let $S\subset\mathbb{R}^2$ be a bounded set with $\operatorname{diam}S>0$. Then $S=A\cup B\cup C$ for three sets $A,B,C$ each of diameter strictly smaller than $\operatorname{diam}S$.
 --

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:11:14.430283+00:00
 -- url     : https://prove2.me/theorems/a2cd6023-3603-423c-b812-5587a82fc4cc
 -- title:
---   Lefebvre's variations, No. 160 — on a theme by Bose, Shrikhande and Parker: there is a pair of orthogonal Latin squares of order 22
+--   Lefebvre's variations, No. 135 — on a theme by Bose, Shrikhande and Parker: there is a pair of orthogonal Latin squares of order 22
 -- statement:
 --   There exist maps $f:\{0,\dots,21\}^2\to\{0,\dots,21\}^2$ with first and second coordinates $f_1,f_2$ such that $f$ is injective, and for every row $r$ the maps $c\mapsto f_1(r,c)$ and $c\mapsto f_2(r,c)$ are injective, and for every column $c$ the maps $r\mapsto f_1(r,c)$ and $r\mapsto f_2(r,c)$ are injective.
 --

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:04:58.162259+00:00
 -- url     : https://prove2.me/theorems/c19152b1-2062-5b67-96e7-6baa5744dd5f
 -- title:
---   Lefebvre's variations, No. 141 — on a theme by Edward Waring and David Hilbert: Waring's problem for fourth powers, g(4) = 19
+--   Lefebvre's variations, No. 120 — on a theme by Edward Waring and David Hilbert: Waring's problem for fourth powers, g(4) = 19
 -- statement:
 --   Every natural number is a sum of at most $19$ perfect fourth powers, and $18$ do not suffice:
 --   $$

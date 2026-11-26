@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45MaskedLimitRegularV5
 -- name    : Kyprianou.Ch04.exercise45MaskedLimitRegularV5
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:36:54.881213+00:00
 -- url     : https://prove2.me/theorems/36d67214-d292-571b-8763-35cb4eb24151

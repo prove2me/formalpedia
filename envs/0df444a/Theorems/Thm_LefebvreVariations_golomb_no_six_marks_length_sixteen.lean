@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:02:59.454282+00:00
 -- url     : https://prove2.me/theorems/b969bd83-2ca2-51d2-b500-6fa0216fa380
 -- title:
---   Lefebvre's variations, No. 134 — on a theme by Paul Erdős and Pál Turán: Golomb rulers with six marks need length at least 17
+--   Lefebvre's variations, No. 113 — on a theme by Paul Erdős and Pál Turán: Golomb rulers with six marks need length at least 17
 -- statement:
 --   For every finite set $R\subset\mathbb{N}$ with $|R|=6$ whose pairwise differences are distinct (a Golomb ruler), the largest mark satisfies $\max R\ge 17$. Equivalently, there is no Golomb ruler with $6$ marks inside $\{0,1,\dots,16\}$:
 --   $$

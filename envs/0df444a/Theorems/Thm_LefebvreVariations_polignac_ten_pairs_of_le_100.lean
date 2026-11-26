@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:05:01.07918+00:00
 -- url     : https://prove2.me/theorems/cee07f36-8c00-436e-a5a3-1e61e5ae4248
 -- title:
---   Lefebvre's variations, No. 78 — on a theme by Polignac: every even gap k at most 100 occurs between at least ten prime pairs
+--   Lefebvre's variations, No. 69 — on a theme by Polignac: every even gap k at most 100 occurs between at least ten prime pairs
 -- statement:
 --   For every even integer $k$ with $2\le k\le 100$ there is a finite set $S$ of at least ten primes $p$ such that $p+k$ is also prime.
 --

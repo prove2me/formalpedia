@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:46:52.691114+00:00
 -- url     : https://prove2.me/theorems/66dd3b2b-a4a8-4f04-a796-988a8efd5095
 -- title:
---   Lefebvre's variations, No. 34 — on a theme by Gilbreath: Gilbreath's conjecture for the first hundred rows
+--   Lefebvre's variations, No. 30 — on a theme by Gilbreath: Gilbreath's conjecture for the first hundred rows
 -- statement:
 --   This verifies Gilbreath's conjecture for the first hundred rows.
 --

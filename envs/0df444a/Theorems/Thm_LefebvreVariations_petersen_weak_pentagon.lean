@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:16:43.625245+00:00
 -- url     : https://prove2.me/theorems/5344f911-a609-4298-8e26-e1c88420319c
 -- title:
---   Lefebvre's variations, No. 45 — on a theme by Šámal: the Petersen graph has a weak pentagon colouring
+--   Lefebvre's variations, No. 40 — on a theme by Šámal: the Petersen graph has a weak pentagon colouring
 -- statement:
 --   This is the Petersen case of the weak pentagon problem.
 --

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_markedPositiveCrossingAmbientMeasurableV1
 -- name    : Kyprianou.Ch05.markedPositiveCrossingAmbientMeasurableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:38:30.017817+00:00
 -- url     : https://prove2.me/theorems/215240e9-6f96-40e4-9e90-483adff34155

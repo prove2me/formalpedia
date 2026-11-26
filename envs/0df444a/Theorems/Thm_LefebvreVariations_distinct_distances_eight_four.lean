@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:53:12.790711+00:00
 -- url     : https://prove2.me/theorems/bd0ab00f-2bd6-53e7-ab4b-ea00d47a6d56
 -- title:
---   Lefebvre's variations, No. 114 — on a theme by Erdős: eight points of the plane determine four distances
+--   Lefebvre's variations, No. 102 — on a theme by Erdős: eight points of the plane determine four distances
 -- statement:
 --   Any set of $8$ points in $\mathbb{R}^2$ determines at least $4$ distinct distances.
 --

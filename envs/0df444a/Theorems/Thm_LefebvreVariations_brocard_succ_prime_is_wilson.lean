@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:15:28.321885+00:00
 -- url     : https://prove2.me/theorems/9f594eac-7414-4cd9-9fba-797e180fabf0
 -- title:
---   Lefebvre's variations, No. 15 — on a theme by Brocard: Brocard's problem with $n+1$ prime forces a Wilson prime
+--   Lefebvre's variations, No. 14 — on a theme by Brocard: Brocard's problem with $n+1$ prime forces a Wilson prime
 -- statement:
 --   This is the case $n+1$ prime of Brocard's problem.
 --

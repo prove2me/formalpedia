@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:01:28.718779+00:00
 -- url     : https://prove2.me/theorems/e6ae806e-71d0-5de5-93a7-e91a36173b2e
 -- title:
---   Lefebvre's variations, No. 128 — on a theme by Jordan Ellenberg and Dion Gijswijt: cap sets in F_3^3 have at most nine points
+--   Lefebvre's variations, No. 107 — on a theme by Jordan Ellenberg and Dion Gijswijt: cap sets in F_3^3 have at most nine points
 -- statement:
 --   Let $A\subseteq\mathbb{F}_3^{3}$ contain no three distinct points $x,y,z$ with $x+y+z=0$ (a cap set, equivalently a set with no three-term arithmetic progression). Then
 --   $$

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:09:27.696008+00:00
 -- url     : https://prove2.me/theorems/787a9460-4774-5dc7-8cae-fdd24c33f4ee
 -- title:
---   Lefebvre's variations, No. 81 — on a theme by Douady and Hubbard: the real slice of the quintic Multibrot set is a symmetric interval
+--   Lefebvre's variations, No. 72 — on a theme by Douady and Hubbard: the real slice of the quintic Multibrot set is a symmetric interval
 -- statement:
 --   Let $M_5=\{c\in\mathbb{C} : \text{the orbit of }0\text{ under }z\mapsto z^5+c\text{ does not tend to }\infty\}$ be the quintic Multibrot set. Its intersection with the real axis is
 --   $$

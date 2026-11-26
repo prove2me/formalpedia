@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:11:00.146306+00:00
 -- url     : https://prove2.me/theorems/7a85214b-dc4b-54b3-86d7-5026c56f976a
 -- title:
---   Lefebvre's variations, No. 159 — on a theme by Ford and Johnson: sorting 14 elements by comparisons requires 38 comparisons
+--   Lefebvre's variations, No. 134 — on a theme by Ford and Johnson: sorting 14 elements by comparisons requires 38 comparisons
 -- statement:
 --   For an adaptive comparison strategy $\sigma$ (the next pair $(a,b)$ to compare is a function of the list of previous answers), run on an ordering $r$ of $\{0,\dots,13\}$: the answer to a query is $[r(a)<r(b)]$. With 37 queries there are two distinct orderings $r\neq r'$ giving the same list of 37 answers (and hence the same queries):
 --   $$\forall\sigma\ \exists r\neq r'\in S_{14}:\ \mathrm{hist}_{37}(\sigma,r)=\mathrm{hist}_{37}(\sigma,r').$$

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:25:41.228856+00:00
 -- url     : https://prove2.me/theorems/1a5b0256-5025-5186-92b2-be5ed1fa49b7
 -- title:
---   Lefebvre's variations: the critical binary Galton-Watson process with offspring law (1/2, 0, 1/2) dies out almost surely
+--   Lefebvre's variations, No. 162 — on a theme by Galton and Watson: the critical binary Galton-Watson process with offspring law (1/2, 0, 1/2) dies out almost surely
 -- statement:
 --   A branching process starts from one individual, each individual having independently $0$ or $2$ children with probability $1/2$ each. Let $Z_n$ be the size of generation $n$. Then
 --   $$\mathbb{P}\bigl(\exists n,\ Z_n=0\bigr)=1 .$$

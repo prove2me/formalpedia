@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos266_f_cast
 -- name    : Erdos266.f_cast
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:36:52.016424+00:00
 -- url     : https://prove2.me/theorems/736362df-495e-4664-95e3-1c05f324ffa6

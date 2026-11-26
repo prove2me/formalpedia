@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:44:10.217109+00:00
 -- url     : https://prove2.me/theorems/f068a44c-3c5e-4ac7-b092-f1728bda913f
 -- title:
---   Lefebvre's variations, No. 60 — on a theme by Kaplansky: idempotents of the group algebra of a torsion-free abelian group are trivial
+--   Lefebvre's variations, No. 54 — on a theme by Kaplansky: idempotents of the group algebra of a torsion-free abelian group are trivial
 -- statement:
 --   Let $K$ be a field and $G$ a commutative group that is torsion-free, i.e. every element of finite order equals $1$. Then every idempotent of the group algebra $K[G]$ is trivial:
 --   $$

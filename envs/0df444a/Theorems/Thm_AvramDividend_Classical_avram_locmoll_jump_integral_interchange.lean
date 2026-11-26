@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_locmoll_jump_integral_interchange
 -- name    : AvramDividend.Classical.avram_locmoll_jump_integral_interchange
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:23:08.507393+00:00
 -- url     : https://prove2.me/theorems/10e0ec45-30d2-5555-bcde-5adae9d0be9f

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:03:03.928203+00:00
 -- url     : https://prove2.me/theorems/1498c1bf-9859-4a99-8234-395dfb56f4bc
 -- title:
---   Lefebvre's variations, No. 72 — on a theme by Giuga: Giuga's criterion for primality holds for 2 <= n <= 600
+--   Lefebvre's variations, No. 63 — on a theme by Giuga: Giuga's criterion for primality holds for 2 <= n <= 600
 -- statement:
 --   Let $n$ be an integer with $2\le n\le 600$. Then
 --   $$ n \text{ is prime} \iff \sum_{k=1}^{n-1} k^{\,n-1}\equiv -1 \pmod n .$$
