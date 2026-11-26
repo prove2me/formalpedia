@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Scale_diff_eq
 -- name    : FriedCrossing.Scale.diff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:37:44.619298+00:00
 -- url     : https://prove2.me/theorems/280550cd-45ed-588b-8d32-78f40def7fc5

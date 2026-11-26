@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_queue_hjb_joint_limit_path_identities
 -- name    : ManyServerQED.Scheduling.queue_hjb_joint_limit_path_identities
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T03:19:43.124173+00:00
 -- url     : https://prove2.me/theorems/a895fa6f-bd03-4fd5-a285-67b9a2ec4bf5

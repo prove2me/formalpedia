@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Derived_clusterC1_of_C3
 -- name    : FriedCrossing.Derived.clusterC1_of_C3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:49:56.782556+00:00
 -- url     : https://prove2.me/theorems/17811ec9-4358-54e5-b23b-660d10b3bdd4

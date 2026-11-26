@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_TwinRate_cluster_roots
 -- name    : FriedCrossing.TwinRate.cluster_roots
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:39:09.847603+00:00
 -- url     : https://prove2.me/theorems/93154a63-bdb1-5bdd-9160-7ddfefed43cd

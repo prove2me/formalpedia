@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FriedCrossing_Derived_contDiff_M__e4c66d3c2429
 -- name    : P2M_FriedCrossing_Derived_contDiff_M__e4c66d3c2429
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:41:23.280546+00:00
 -- url     : https://prove2.me/theorems/486b8e7e-0b06-4e2d-b78b-95b0e35848d2

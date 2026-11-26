@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Scale_derivLoss_apply
 -- name    : FriedCrossing.Scale.derivLoss_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:38:06.523454+00:00
 -- url     : https://prove2.me/theorems/509dad3e-e520-49aa-bb10-bc2358d86149

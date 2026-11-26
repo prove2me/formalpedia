@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_ClusterFrame_contDiff_riesz
 -- name    : FriedCrossing.ClusterFrame.contDiff_riesz
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:43:45.692165+00:00
 -- url     : https://prove2.me/theorems/a73a0f80-5cd5-5856-9725-0f82f96a802a

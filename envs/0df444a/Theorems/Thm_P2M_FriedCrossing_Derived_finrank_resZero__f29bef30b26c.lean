@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FriedCrossing_Derived_finrank_resZero__f29bef30b26c
 -- name    : P2M_FriedCrossing_Derived_finrank_resZero__f29bef30b26c
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:49:41.806508+00:00
 -- url     : https://prove2.me/theorems/2523cde8-150c-5fe8-b533-88ecf4bf9fd8

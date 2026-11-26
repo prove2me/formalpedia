@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Capstone_fried_fails_at_crossing_local_ord
 -- name    : FriedCrossing.Capstone.fried_fails_at_crossing_local_ord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:47:49.525259+00:00
 -- url     : https://prove2.me/theorems/1b11d73e-cf66-5205-8d12-7755106859d2

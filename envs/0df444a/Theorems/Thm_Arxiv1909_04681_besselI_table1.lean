@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1909_04681_besselI_table1
 -- name    : Arxiv1909_04681.besselI_table1
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T06:50:39.554927+00:00
 -- url     : https://prove2.me/theorems/80f5e727-1167-4b08-a84c-879ab81fb1e3

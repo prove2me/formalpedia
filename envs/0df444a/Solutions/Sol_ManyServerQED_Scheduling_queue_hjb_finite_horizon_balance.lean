@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ManyServerQED.Scheduling.queue_hjb_finite_horizon_balance
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Jie Luo
 -- created : 2026-11-26T01:25:50.169522+00:00
 -- url     : https://prove2.me/submissions/fbb17632-6d8d-40a7-b1ce-ca02c2b7baad
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ManyServerQED_Scheduling_queue_hjb_subsequence_limit_paths
 import Theorems.Thm_ManyServerQED_Scheduling_discounted_hjb_limit_expected_balance

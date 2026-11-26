@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_ClusterFrame_contDiff_det_complex
 -- name    : FriedCrossing.ClusterFrame.contDiff_det_complex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:44:59.10546+00:00
 -- url     : https://prove2.me/theorems/76ac546c-7bcb-49fc-b33f-019114766779

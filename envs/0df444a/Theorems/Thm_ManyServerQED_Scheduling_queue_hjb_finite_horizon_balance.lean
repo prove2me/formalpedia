@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_queue_hjb_finite_horizon_balance
 -- name    : ManyServerQED.Scheduling.queue_hjb_finite_horizon_balance
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-25T20:48:56.071851+00:00
 -- url     : https://prove2.me/theorems/a1792aad-3545-4ed5-b17f-3d18f3bd9a54

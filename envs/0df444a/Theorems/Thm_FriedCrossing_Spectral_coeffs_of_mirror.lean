@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Spectral_coeffs_of_mirror
 -- name    : FriedCrossing.Spectral.coeffs_of_mirror
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:44:45.163729+00:00
 -- url     : https://prove2.me/theorems/1c3079bf-c85d-4c72-9e96-4576129dc582

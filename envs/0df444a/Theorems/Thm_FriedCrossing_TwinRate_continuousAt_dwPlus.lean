@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_TwinRate_continuousAt_dwPlus
 -- name    : FriedCrossing.TwinRate.continuousAt_dwPlus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:45:57.858251+00:00
 -- url     : https://prove2.me/theorems/d0fdfb85-41ec-4199-a5c1-3b8faa511df9

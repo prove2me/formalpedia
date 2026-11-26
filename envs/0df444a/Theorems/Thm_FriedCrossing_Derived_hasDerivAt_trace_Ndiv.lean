@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Derived_hasDerivAt_trace_Ndiv
 -- name    : FriedCrossing.Derived.hasDerivAt_trace_Ndiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:50:02.733683+00:00
 -- url     : https://prove2.me/theorems/2fa7f832-e0cd-5e3b-bbab-517d534e858a

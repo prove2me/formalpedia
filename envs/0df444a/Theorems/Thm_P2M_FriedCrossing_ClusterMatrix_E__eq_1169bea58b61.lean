@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FriedCrossing_ClusterMatrix_E__eq_1169bea58b61
 -- name    : P2M_FriedCrossing_ClusterMatrix_E__eq_1169bea58b61
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:48:23.236876+00:00
 -- url     : https://prove2.me/theorems/8746dacb-c2f0-5f14-82f5-754d54d08def

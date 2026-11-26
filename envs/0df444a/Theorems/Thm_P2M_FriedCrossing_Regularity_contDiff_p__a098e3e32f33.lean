@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FriedCrossing_Regularity_contDiff_p__a098e3e32f33
 -- name    : P2M_FriedCrossing_Regularity_contDiff_p__a098e3e32f33
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:43:07.927151+00:00
 -- url     : https://prove2.me/theorems/e4e66773-e3c7-577d-b594-27b02fba1176

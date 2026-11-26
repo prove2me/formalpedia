@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_PureZeros_hasDerivAt_wMinus
 -- name    : FriedCrossing.PureZeros.hasDerivAt_wMinus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:47:11.317796+00:00
 -- url     : https://prove2.me/theorems/800446b2-a470-5fe8-9ee7-58edceb9d337

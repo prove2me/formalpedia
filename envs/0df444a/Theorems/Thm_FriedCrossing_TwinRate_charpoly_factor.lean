@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_TwinRate_charpoly_factor
 -- name    : FriedCrossing.TwinRate.charpoly_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:45:24.728507+00:00
 -- url     : https://prove2.me/theorems/5b77463e-b3e8-531b-9587-16ab0d5bd6c6

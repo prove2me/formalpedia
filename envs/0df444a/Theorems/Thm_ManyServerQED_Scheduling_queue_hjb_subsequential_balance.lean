@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_queue_hjb_subsequential_balance
 -- name    : ManyServerQED.Scheduling.queue_hjb_subsequential_balance
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-25T20:38:24.954874+00:00
 -- url     : https://prove2.me/theorems/9eb759a4-44b3-43ad-b10d-e5176947a94e

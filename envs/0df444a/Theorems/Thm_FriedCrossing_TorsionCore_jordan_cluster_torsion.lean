@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_TorsionCore_jordan_cluster_torsion
 -- name    : FriedCrossing.TorsionCore.jordan_cluster_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:43:57.342748+00:00
 -- url     : https://prove2.me/theorems/966da8f0-7376-4a6d-8be3-d320e9a723bc

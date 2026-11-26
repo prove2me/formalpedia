@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_RateRatio_eventually_ne_zero_of_linearArrival
 -- name    : FriedCrossing.RateRatio.eventually_ne_zero_of_linearArrival
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:44:56.1423+00:00
 -- url     : https://prove2.me/theorems/742d1dbf-f7d9-4783-b061-24ed1c69d5d1

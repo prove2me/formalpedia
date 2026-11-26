@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ManyServerQED.Scheduling.queue_hjb_joint_path_subsequence
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Jie Luo
 -- created : 2026-11-26T04:44:21.061227+00:00
 -- url     : https://prove2.me/submissions/22f4c20c-2d3a-4baf-82d7-8441a5bddf3e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ManyServerQED_Scheduling_queue_hjb_row_integral_paths
 import Theorems.Thm_ManyServerQED_Scheduling_queue_hjb_integrands_on_bounded_state_sets

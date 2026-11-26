@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_TwinRate_wPlus_sub_wMinus
 -- name    : FriedCrossing.TwinRate.wPlus_sub_wMinus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:45:01.430105+00:00
 -- url     : https://prove2.me/theorems/13008a11-6cbd-5140-8b4e-c51449e7da09

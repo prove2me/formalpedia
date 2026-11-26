@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_pscp_asymptotically_optimal
 -- name    : ManyServerQED.Scheduling.pscp_asymptotically_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:47:13.605422+00:00
 -- url     : https://prove2.me/theorems/73bb8eb9-611d-4221-8d0a-5d28c7ac5626

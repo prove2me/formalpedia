@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_PureZeros_abs_le_of_vanish_axes
 -- name    : FriedCrossing.PureZeros.abs_le_of_vanish_axes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:46:52.037463+00:00
 -- url     : https://prove2.me/theorems/118740ba-5fba-44bc-9859-b97b5321ba16

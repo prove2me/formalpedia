@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_ClusterMatrix_eval_charpoly_eq_quartic
 -- name    : FriedCrossing.ClusterMatrix.eval_charpoly_eq_quartic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:41:45.368189+00:00
 -- url     : https://prove2.me/theorems/4ee91449-fe6e-4d68-886d-8a24659155d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_TorsionCore_jordan_torsion_eq_neg_ratio
 -- name    : FriedCrossing.TorsionCore.jordan_torsion_eq_neg_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:44:34.018116+00:00
 -- url     : https://prove2.me/theorems/38f170c7-4f00-4024-b229-c7a9f8c99980

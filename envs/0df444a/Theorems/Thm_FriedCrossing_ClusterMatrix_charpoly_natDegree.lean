@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_ClusterMatrix_charpoly_natDegree
 -- name    : FriedCrossing.ClusterMatrix.charpoly_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:47:59.180325+00:00
 -- url     : https://prove2.me/theorems/4d677931-5a85-4bc4-9486-75943a9ab6ab

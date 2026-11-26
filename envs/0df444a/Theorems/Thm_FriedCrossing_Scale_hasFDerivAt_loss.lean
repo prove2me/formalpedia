@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Scale_hasFDerivAt_loss
 -- name    : FriedCrossing.Scale.hasFDerivAt_loss
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:38:09.900691+00:00
 -- url     : https://prove2.me/theorems/3536e866-ced6-4da6-b672-a96a203acfae

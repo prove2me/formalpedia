@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_TwinRate_hasDerivAt_twin
 -- name    : FriedCrossing.TwinRate.hasDerivAt_twin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:45:29.132719+00:00
 -- url     : https://prove2.me/theorems/e85ef0fd-42aa-4260-9308-c84ce8c27528

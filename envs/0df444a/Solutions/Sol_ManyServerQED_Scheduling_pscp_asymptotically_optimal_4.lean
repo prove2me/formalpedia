@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for ManyServerQED.Scheduling.pscp_asymptotically_optimal
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Jie Luo
 -- created : 2026-11-25T20:26:08.454266+00:00
 -- url     : https://prove2.me/submissions/1080d60e-e342-488c-8562-2b401dcca5df
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BellWilliams2001_ThresholdPolicy_Paths

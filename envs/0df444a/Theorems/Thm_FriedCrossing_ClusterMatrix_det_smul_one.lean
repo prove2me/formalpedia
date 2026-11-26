@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_ClusterMatrix_det_smul_one
 -- name    : FriedCrossing.ClusterMatrix.det_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:48:24.201597+00:00
 -- url     : https://prove2.me/theorems/ea5ac926-92ba-4781-bb99-84cde68ae232

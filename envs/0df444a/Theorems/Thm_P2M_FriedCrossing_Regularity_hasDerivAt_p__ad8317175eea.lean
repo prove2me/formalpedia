@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FriedCrossing_Regularity_hasDerivAt_p__ad8317175eea
 -- name    : P2M_FriedCrossing_Regularity_hasDerivAt_p__ad8317175eea
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:40:24.263146+00:00
 -- url     : https://prove2.me/theorems/56c6734a-9f78-57c7-98a2-d390fac95780

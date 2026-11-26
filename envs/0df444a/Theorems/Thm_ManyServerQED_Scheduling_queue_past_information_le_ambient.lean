@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_queue_past_information_le_ambient
 -- name    : ManyServerQED.Scheduling.queue_past_information_le_ambient
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T04:10:35.295611+00:00
 -- url     : https://prove2.me/theorems/b62047ce-f81b-52c2-a4b4-b656a9c9c903

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_FirstVariation_det_Bmat
 -- name    : FriedCrossing.FirstVariation.det_Bmat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:45:46.353379+00:00
 -- url     : https://prove2.me/theorems/c226efab-b647-4868-a7ee-a9f8c0602734

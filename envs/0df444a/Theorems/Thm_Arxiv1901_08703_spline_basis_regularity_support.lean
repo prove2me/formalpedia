@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1901_08703_spline_basis_regularity_support
 -- name    : Arxiv1901_08703.spline_basis_regularity_support
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T06:29:48.796857+00:00
 -- url     : https://prove2.me/theorems/620a4e01-72b2-536f-965b-0dd568dac587

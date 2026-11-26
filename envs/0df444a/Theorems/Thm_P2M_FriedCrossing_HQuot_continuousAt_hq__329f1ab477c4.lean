@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FriedCrossing_HQuot_continuousAt_hq__329f1ab477c4
 -- name    : P2M_FriedCrossing_HQuot_continuousAt_hq__329f1ab477c4
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:49:34.390596+00:00
 -- url     : https://prove2.me/theorems/d8864e08-e539-5c63-8a6b-034663d3aa4c

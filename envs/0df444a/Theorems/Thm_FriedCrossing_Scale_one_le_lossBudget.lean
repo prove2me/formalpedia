@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Scale_one_le_lossBudget
 -- name    : FriedCrossing.Scale.one_le_lossBudget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:37:58.232515+00:00
 -- url     : https://prove2.me/theorems/645c87da-eb87-561f-b7b7-45894cf5fbbf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_OrderCount_zetaOrder_eq
 -- name    : FriedCrossing.OrderCount.zetaOrder_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:44:34.260744+00:00
 -- url     : https://prove2.me/theorems/252c336d-fab1-4f4e-bad5-4a448a5b551c

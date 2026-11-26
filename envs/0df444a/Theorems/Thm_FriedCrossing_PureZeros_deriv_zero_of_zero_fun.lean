@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_PureZeros_deriv_zero_of_zero_fun
 -- name    : FriedCrossing.PureZeros.deriv_zero_of_zero_fun
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:46:59.518204+00:00
 -- url     : https://prove2.me/theorems/2fce927e-a21b-5afa-9fab-295091e186be

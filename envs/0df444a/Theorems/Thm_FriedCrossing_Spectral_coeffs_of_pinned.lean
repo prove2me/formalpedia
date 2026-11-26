@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Spectral_coeffs_of_pinned
 -- name    : FriedCrossing.Spectral.coeffs_of_pinned
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:43:34.319616+00:00
 -- url     : https://prove2.me/theorems/25025069-6ced-4c8e-8451-af16010ebe26

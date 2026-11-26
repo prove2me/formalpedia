@@ -68022,7 +68022,7 @@
 {"parent": "GlobalTheory.HL.ComplAct.mem_smul", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_SelfDualLatticeUnipotentTranslateStandardStatement", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBK.aestronglyMeasurable_mainD", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_TendstoSmulCocompact", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBK.aestronglyMeasurable_mainD", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AestronglyMeasurableMainD", "via": ["solution", "statement"]}
-{"parent": "Arxiv1901_08703.spline_basis_regularity_support", "child": "Arxiv1901_08703_Basic", "via": ["statement"]}
+{"parent": "Arxiv1901_08703.spline_basis_regularity_support", "child": "Arxiv1901_08703_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HL.CongFin.smul_mem_of", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ComplementReferenceCompactSubgroup", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HL.CongFin.smul_mem_of", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_IsPrincipalIdealRingOfHenselian", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HL.CongFin.smul_mem_of", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_CongruenceSubgroupLatticeStabilizer", "via": ["solution", "statement"]}
@@ -76496,7 +76496,7 @@
 {"parent": "CompanionTheory.Zuck.near", "child": "CompanionTheory_AutomorphicTheory_ZuckermanCommutation_ZuckermanFunctors_MultOne", "via": ["solution", "statement"]}
 {"parent": "CompanionTheory.Zuck.near", "child": "CompanionTheory_AutomorphicTheory_ZuckermanCommutation_ZuckermanFunctors_ShiftApply", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_ZChartLocalSt", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_VeryAmpleCechObj", "via": ["statement"]}
-{"parent": "Arxiv1909_04681.besselI4_from_I0_I1", "child": "Arxiv1909_04681_Basic", "via": ["statement"]}
+{"parent": "Arxiv1909_04681.besselI4_from_I0_I1", "child": "Arxiv1909_04681_Basic", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_UnitaryComplementMovesLocalTermsWithDataStatement", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_UnitaryComplementMovesLocalTermsWithData", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_UnitaryComplementMovesLocalTermsWithDataStatement", "child": "Formalism_SharpRestriction_CuspSpanNormBounds_IsTermOver", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_PSnapperFinite", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_TwistTildeSt", "via": ["statement"]}
@@ -83504,7 +83504,7 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PTwistFiniteNe", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_TwistPowZeroSub", "via": ["statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_FgPhInt", "child": "ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_FgDefs", "via": ["statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_FgPhInt", "child": "Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_CurveJetsUnitBall", "via": ["statement"]}
-{"parent": "Arxiv1909_04681.besselI_table1", "child": "Arxiv1909_04681_Basic", "via": ["statement"]}
+{"parent": "Arxiv1909_04681.besselI_table1", "child": "Arxiv1909_04681_Basic", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF_Membership_Supplement_harmBucketWork54_10", "child": "QuantumLTF_Membership_Supplement_lcgSym54Comb", "via": ["statement"]}
 {"parent": "QuantumLTF_Membership_Supplement_harmBucketWork54_10", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["statement"]}
 {"parent": "QuantumLTF_Membership_Supplement_harmBucketWork54_10", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FriedCrossing_PureZeros_abs_le_of_vanish___defcde5ba42b
 -- name    : P2M_FriedCrossing_PureZeros_abs_le_of_vanish___defcde5ba42b
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:46:51.903975+00:00
 -- url     : https://prove2.me/theorems/57afecd2-3b11-578d-9b3f-27dd3b6c735f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_PureZeros_crossing_estimates
 -- name    : FriedCrossing.PureZeros.crossing_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:47:02.962666+00:00
 -- url     : https://prove2.me/theorems/1403c169-3749-5fa8-9fa2-65b2c6a9b2fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Scale_locallyLipschitz_loss_one
 -- name    : FriedCrossing.Scale.locallyLipschitz_loss_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:38:05.340584+00:00
 -- url     : https://prove2.me/theorems/cb1738bb-9d7d-4ac4-b25d-1c95fda22781

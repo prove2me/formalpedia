@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_queue_hjb_joint_path_subsequence
 -- name    : ManyServerQED.Scheduling.queue_hjb_joint_path_subsequence
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T03:19:36.430184+00:00
 -- url     : https://prove2.me/theorems/ed3a54f1-d358-597b-b2e0-b79fce1c6b89

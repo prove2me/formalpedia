@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Hadamard_continuousAt_det_Ndiv
 -- name    : FriedCrossing.Hadamard.continuousAt_det_Ndiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:46:23.932138+00:00
 -- url     : https://prove2.me/theorems/a9ed63bd-acaa-5e5b-8c45-050c465ff643

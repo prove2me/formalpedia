@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ManyServerQED.Scheduling.queue_hjb_cost_comparison
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Jie Luo
 -- created : 2026-11-25T20:43:59.740503+00:00
 -- url     : https://prove2.me/submissions/9083b5f4-a5d2-4be8-aee8-7690568acee2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ManyServerQED_Scheduling_queue_hjb_subsequential_balance
 import Mathlib

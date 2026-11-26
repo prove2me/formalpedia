@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Capstone_fried_fails_at_crossing_of_pure_zero_inputs_ord
 -- name    : FriedCrossing.Capstone.fried_fails_at_crossing_of_pure_zero_inputs_ord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:48:31.944799+00:00
 -- url     : https://prove2.me/theorems/e838407c-4737-4a1b-85a6-ddea94fa51f5

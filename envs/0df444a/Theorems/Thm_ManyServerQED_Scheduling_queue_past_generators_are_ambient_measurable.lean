@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_queue_past_generators_are_ambient_measurable
 -- name    : ManyServerQED.Scheduling.queue_past_generators_are_ambient_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T04:48:15.672834+00:00
 -- url     : https://prove2.me/theorems/77ece076-8f6c-4553-872f-40ea1aa7d6e3

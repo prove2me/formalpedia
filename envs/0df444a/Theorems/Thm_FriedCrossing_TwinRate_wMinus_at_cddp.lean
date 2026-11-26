@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_TwinRate_wMinus_at_cddp
 -- name    : FriedCrossing.TwinRate.wMinus_at_cddp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:45:16.873412+00:00
 -- url     : https://prove2.me/theorems/33e5f278-cc8c-521e-951a-308e55404a51

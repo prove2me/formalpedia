@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_queue_hjb_subsequence_limit_paths
 -- name    : ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T01:23:40.784297+00:00
 -- url     : https://prove2.me/theorems/5ed276ed-0e73-4eb6-9dce-4691248fecbb

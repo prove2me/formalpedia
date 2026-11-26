@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Jie Luo
 -- created : 2026-11-26T03:23:49.69584+00:00
 -- url     : https://prove2.me/submissions/dff06266-c742-4b77-9f06-0171a57f4bf2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ManyServerQED_Scheduling_queue_hjb_joint_path_subsequence
 import Theorems.Thm_ManyServerQED_Scheduling_queue_hjb_joint_limit_filtered_brownian

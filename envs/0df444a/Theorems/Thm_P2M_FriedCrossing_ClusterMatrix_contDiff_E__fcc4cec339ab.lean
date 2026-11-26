@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FriedCrossing_ClusterMatrix_contDiff_E__fcc4cec339ab
 -- name    : P2M_FriedCrossing_ClusterMatrix_contDiff_E__fcc4cec339ab
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:42:54.506058+00:00
 -- url     : https://prove2.me/theorems/aa536051-70b4-4f02-8f0c-8ccb30d57514

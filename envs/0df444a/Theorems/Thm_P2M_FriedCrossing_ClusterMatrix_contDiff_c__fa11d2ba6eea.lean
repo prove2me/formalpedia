@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FriedCrossing_ClusterMatrix_contDiff_c__fa11d2ba6eea
 -- name    : P2M_FriedCrossing_ClusterMatrix_contDiff_c__fa11d2ba6eea
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:48:44.968405+00:00
 -- url     : https://prove2.me/theorems/20fa2fb4-2078-56d6-a128-72ac504cf716

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Derived_hasDerivAt_M
 -- name    : FriedCrossing.Derived.hasDerivAt_M
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:40:50.224745+00:00
 -- url     : https://prove2.me/theorems/d48c3479-8c18-55ed-8368-3561c106e535

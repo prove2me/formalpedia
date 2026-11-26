@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_PureZeros_quartic_factor
 -- name    : FriedCrossing.PureZeros.quartic_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:42:18.531895+00:00
 -- url     : https://prove2.me/theorems/f8e73013-2b62-4d1c-aaa9-9615000b32fc

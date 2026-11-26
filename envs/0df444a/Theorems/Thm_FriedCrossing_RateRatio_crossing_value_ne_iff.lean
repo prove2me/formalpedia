@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_RateRatio_crossing_value_ne_iff
 -- name    : FriedCrossing.RateRatio.crossing_value_ne_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:45:06.391841+00:00
 -- url     : https://prove2.me/theorems/5cbdd8f5-913b-493c-88be-72acb434b9bd

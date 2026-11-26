@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Derived_Ndiv_eq_hq
 -- name    : FriedCrossing.Derived.Ndiv_eq_hq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:49:54.931686+00:00
 -- url     : https://prove2.me/theorems/6fcba650-183e-5736-bb12-e2d770a31acb

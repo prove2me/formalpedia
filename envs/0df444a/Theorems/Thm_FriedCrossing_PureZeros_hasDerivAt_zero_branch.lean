@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_PureZeros_hasDerivAt_zero_branch
 -- name    : FriedCrossing.PureZeros.hasDerivAt_zero_branch
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:47:52.057405+00:00
 -- url     : https://prove2.me/theorems/18b42620-0747-5b99-8c73-c74d33db6912

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_queue_hjb_cost_comparison
 -- name    : ManyServerQED.Scheduling.queue_hjb_cost_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-25T20:24:14.403287+00:00
 -- url     : https://prove2.me/theorems/a76c1953-be30-57fa-aba3-7940f220e3ed

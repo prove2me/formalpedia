@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_PureZeros_dwMinus_at_zero
 -- name    : FriedCrossing.PureZeros.dwMinus_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:47:27.625953+00:00
 -- url     : https://prove2.me/theorems/172d0573-7c7f-560a-b312-030f9148a189

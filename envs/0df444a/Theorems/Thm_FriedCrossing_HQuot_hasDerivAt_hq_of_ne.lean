@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_HQuot_hasDerivAt_hq_of_ne
 -- name    : FriedCrossing.HQuot.hasDerivAt_hq_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:49:12.111289+00:00
 -- url     : https://prove2.me/theorems/e4b0a858-d05c-4af3-b717-1ff5b753ddc3

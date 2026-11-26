@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_HQuot_slope_eq_strict
 -- name    : FriedCrossing.HQuot.slope_eq_strict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:49:23.401516+00:00
 -- url     : https://prove2.me/theorems/fbfe429f-0b08-509d-a1dc-33025dca3d92

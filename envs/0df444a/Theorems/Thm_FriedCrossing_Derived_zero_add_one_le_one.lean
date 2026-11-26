@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Derived_zero_add_one_le_one
 -- name    : FriedCrossing.Derived.zero_add_one_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:49:42.401568+00:00
 -- url     : https://prove2.me/theorems/5b92976e-af87-5691-891b-a8379d947cfd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FriedCrossing_Derived_continuousAt_M___1cabb0862b68
 -- name    : P2M_FriedCrossing_Derived_continuousAt_M___1cabb0862b68
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:49:49.506817+00:00
 -- url     : https://prove2.me/theorems/ad3a0458-45f0-53b5-ad9f-ecc73d3a7b93

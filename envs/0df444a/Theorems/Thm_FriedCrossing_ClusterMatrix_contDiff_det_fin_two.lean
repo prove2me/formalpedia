@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_ClusterMatrix_contDiff_det_fin_two
 -- name    : FriedCrossing.ClusterMatrix.contDiff_det_fin_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:48:46.503541+00:00
 -- url     : https://prove2.me/theorems/365fa55f-2da3-55ad-a277-e5402237b078

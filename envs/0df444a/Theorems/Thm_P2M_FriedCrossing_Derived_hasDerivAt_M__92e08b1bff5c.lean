@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FriedCrossing_Derived_hasDerivAt_M__92e08b1bff5c
 -- name    : P2M_FriedCrossing_Derived_hasDerivAt_M__92e08b1bff5c
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:43:20.211657+00:00
 -- url     : https://prove2.me/theorems/b19c5126-4bbb-5a2f-9c03-ead7afa654ad

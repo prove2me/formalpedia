@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Scale_B_incl_gen
 -- name    : FriedCrossing.Scale.B_incl_gen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:37:50.532137+00:00
 -- url     : https://prove2.me/theorems/44ec5986-56d9-532a-8632-de09a24fc6bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_Scale_continuous_loss
 -- name    : FriedCrossing.Scale.continuous_loss
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:37:57.289425+00:00
 -- url     : https://prove2.me/theorems/6e1cbbd3-f30b-5367-833e-bb5004c6969a

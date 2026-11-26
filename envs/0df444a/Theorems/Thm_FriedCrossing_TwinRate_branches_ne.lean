@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_TwinRate_branches_ne
 -- name    : FriedCrossing.TwinRate.branches_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:45:19.165135+00:00
 -- url     : https://prove2.me/theorems/00f0a120-0612-5e24-a8ef-72d20b24bc18

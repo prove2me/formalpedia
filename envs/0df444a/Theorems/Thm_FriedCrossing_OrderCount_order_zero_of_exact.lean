@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_OrderCount_order_zero_of_exact
 -- name    : FriedCrossing.OrderCount.order_zero_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:44:21.082406+00:00
 -- url     : https://prove2.me/theorems/83041b84-d1df-5386-9266-429d4597b5e8

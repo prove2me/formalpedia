@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_HQuot_taylor2
 -- name    : FriedCrossing.HQuot.taylor2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:43:13.220148+00:00
 -- url     : https://prove2.me/theorems/abd697ed-f718-4adb-9868-d79a73de4c05

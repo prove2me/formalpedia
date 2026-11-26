@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedCrossing_RateRatio_crossing_value_local
 -- name    : FriedCrossing.RateRatio.crossing_value_local
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T04:45:38.937235+00:00
 -- url     : https://prove2.me/theorems/239b999c-65bf-4c31-9de8-d169bcbd2803
