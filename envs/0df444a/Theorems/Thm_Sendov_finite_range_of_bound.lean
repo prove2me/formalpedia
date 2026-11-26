@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_finite_range_of_bound
 -- name    : Sendov.finite_range_of_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:12:35.385411+00:00
 -- url     : https://prove2.me/theorems/bf7e833e-21c8-41b5-9550-ae12fcbfe6e6

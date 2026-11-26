@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_c_mono
 -- name    : Sendov.c_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:08:30.535805+00:00
 -- url     : https://prove2.me/theorems/6b2d45f1-55e6-40c9-bff5-d17e3de32538

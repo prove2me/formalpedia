@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_Supplement_fixed_count_accuracy
 -- name    : LogLogJam.Supplement.fixed_count_accuracy
--- status  : Open
+-- status  : Proved
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:27:18.265113+00:00
 -- url     : https://prove2.me/theorems/fae38a9d-f34c-5f7a-8320-c75d6b2363c2

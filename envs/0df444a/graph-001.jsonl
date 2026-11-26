@@ -75636,7 +75636,7 @@
 {"parent": "CirclePackingConstants.thirty_six_unit_square_close_pair", "child": "CirclePackingConstants.thirty_six_left_bottom_close_pair", "via": ["solution"]}
 {"parent": "CirclePackingConstants.thirty_six_unit_square_close_pair", "child": "CirclePackingConstants.thirty_six_translate_to_left_bottom", "via": ["solution"]}
 {"parent": "CirclePackingConstants.twentyfive_cell_occupancy", "child": "CirclePackingConstants", "via": ["statement"]}
-{"parent": "CirclePackingConstants.twentyfive_fifth_cells_struct", "child": "CirclePackingConstants", "via": ["statement"]}
+{"parent": "CirclePackingConstants.twentyfive_fifth_cells_struct", "child": "CirclePackingConstants", "via": ["solution", "statement"]}
 {"parent": "CirclePackingConstants_BoxChecker", "child": "CirclePackingConstants", "via": ["statement"]}
 {"parent": "CirclePackingConstants_Eight", "child": "CirclePackingConstants", "via": ["statement"]}
 {"parent": "CirclePackingConstants_EightQuad", "child": "CirclePackingConstants", "via": ["statement"]}

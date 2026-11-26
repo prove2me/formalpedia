@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_theorem_6_5
 -- name    : LogLogJam.theorem_6_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T20:27:35.146386+00:00
 -- url     : https://prove2.me/theorems/f36a1b5d-9006-4187-a2f1-d1d73d2b4065

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_integral_ninetyseven_47
 -- name    : Sendov.integral_ninetyseven_47
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:19:19.111607+00:00
 -- url     : https://prove2.me/theorems/6358eaad-7f13-5f41-808c-a8765cfc0004

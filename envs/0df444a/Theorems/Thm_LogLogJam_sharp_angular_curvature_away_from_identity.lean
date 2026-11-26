@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_sharp_angular_curvature_away_from_identity
 -- name    : LogLogJam.sharp_angular_curvature_away_from_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:56:08.299424+00:00
 -- url     : https://prove2.me/theorems/c307231d-e835-48d5-af18-684e29cb5ed9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_rpow_le_rpow_of_le_one
 -- name    : Sendov.rpow_le_rpow_of_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:56:24.333797+00:00
 -- url     : https://prove2.me/theorems/e538fe3d-c74f-53ed-832b-094d2f1bc32e

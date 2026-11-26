@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B22_24_finite_range
 -- name    : Sendov.B22_24.finite_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:28:00.342883+00:00
 -- url     : https://prove2.me/theorems/fb068fb0-514e-4306-8c75-b67412058793

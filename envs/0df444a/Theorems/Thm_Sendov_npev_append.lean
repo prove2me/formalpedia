@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_npev_append
 -- name    : Sendov.npev_append
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:09:07.232225+00:00
 -- url     : https://prove2.me/theorems/bad2c31b-11aa-4e82-91ca-d00507b2f0fa

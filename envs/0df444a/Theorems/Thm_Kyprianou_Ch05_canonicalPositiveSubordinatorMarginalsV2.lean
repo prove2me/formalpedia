@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_canonicalPositiveSubordinatorMarginalsV2
 -- name    : Kyprianou.Ch05.canonicalPositiveSubordinatorMarginalsV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:53:35.390541+00:00
 -- url     : https://prove2.me/theorems/564a2e4b-4235-4db1-a05b-4f8921813955

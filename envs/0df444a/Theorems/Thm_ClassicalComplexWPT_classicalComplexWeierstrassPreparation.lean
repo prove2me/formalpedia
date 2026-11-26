@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_classicalComplexWeierstrassPreparation
 -- name    : ClassicalComplexWPT.classicalComplexWeierstrassPreparation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:14:49.780735+00:00
 -- url     : https://prove2.me/theorems/c4c67524-7fd1-5b85-a2b2-8559406eabed

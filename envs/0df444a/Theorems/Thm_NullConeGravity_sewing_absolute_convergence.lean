@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NullConeGravity_sewing_absolute_convergence
 -- name    : NullConeGravity.sewing_absolute_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-26T14:12:19.465814+00:00
 -- url     : https://prove2.me/theorems/eda052b4-5ffa-5b41-9d89-d18af4652997

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_Supplement_fixed_angle_accuracy
 -- name    : LogLogJam.Supplement.fixed_angle_accuracy
--- status  : Open
+-- status  : Proved
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:25:11.984518+00:00
 -- url     : https://prove2.me/theorems/290a264b-a0d5-4346-8756-78d24d4033e2

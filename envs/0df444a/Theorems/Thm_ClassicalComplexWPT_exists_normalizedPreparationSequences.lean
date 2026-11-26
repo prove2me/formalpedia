@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_exists_normalizedPreparationSequences
 -- name    : ClassicalComplexWPT.exists_normalizedPreparationSequences
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:09:38.724274+00:00
 -- url     : https://prove2.me/theorems/977d69d8-8043-57ab-bd32-f2931cf91311

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B38_39_P_pos
 -- name    : Sendov.B38_39.P_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:16:39.056608+00:00
 -- url     : https://prove2.me/theorems/944140a9-af8e-566c-82bd-619a4cac8b4d

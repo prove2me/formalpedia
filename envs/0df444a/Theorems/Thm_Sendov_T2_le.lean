@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_T2_le
 -- name    : Sendov.T2_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:08:30.688298+00:00
 -- url     : https://prove2.me/theorems/3b23199b-faca-5170-a663-e051c40b89d2

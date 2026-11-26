@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_renewalJointFiniteLevelSum
 -- name    : Kyprianou.Ch05.renewalJointFiniteLevelSum
--- status  : Open
+-- status  : Proved
 -- author  : @DAGA
 -- created : 2026-11-26T03:06:59.369672+00:00
 -- url     : https://prove2.me/theorems/e84ae796-6e29-5d5a-8b04-d80d7d2bea9f

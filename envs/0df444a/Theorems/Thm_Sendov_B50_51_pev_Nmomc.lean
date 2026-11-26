@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B50_51_pev_Nmomc
 -- name    : Sendov.B50_51.pev_Nmomc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:24:13.021583+00:00
 -- url     : https://prove2.me/theorems/1fad5e39-5446-5bf4-932a-59863d371d7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B36_37_c_lo
 -- name    : Sendov.B36_37.c_lo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:14:59.042905+00:00
 -- url     : https://prove2.me/theorems/990af0f9-34dc-50b7-9fc4-7f4d7f0b1ede

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_driGridAverageData
 -- name    : Kyprianou.Ch05.driGridAverageData
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:27:12.573144+00:00
 -- url     : https://prove2.me/theorems/c2e7ea6c-ce36-49c7-818b-eac29b0c5d7f

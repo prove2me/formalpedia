@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_rpow_B_eq
 -- name    : Sendov.rpow_B_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:08:20.684793+00:00
 -- url     : https://prove2.me/theorems/eb06a95b-794f-4992-b323-b51506054d8a

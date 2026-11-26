@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_sinh_sq_le
 -- name    : Sendov.sinh_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:54:49.523456+00:00
 -- url     : https://prove2.me/theorems/abd46ff7-b824-5d86-8750-f40679f9d37e

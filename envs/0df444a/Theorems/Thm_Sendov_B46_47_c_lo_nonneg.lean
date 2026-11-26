@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B46_47_c_lo_nonneg
 -- name    : Sendov.B46_47.c_lo_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:21:18.627796+00:00
 -- url     : https://prove2.me/theorems/f3c245bd-5982-42fd-8d0f-1d3b8efbbd42

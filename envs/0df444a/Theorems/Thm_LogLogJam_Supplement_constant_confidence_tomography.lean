@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_Supplement_constant_confidence_tomography
 -- name    : LogLogJam.Supplement.constant_confidence_tomography
--- status  : Open
+-- status  : Proved
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:28:43.294942+00:00
 -- url     : https://prove2.me/theorems/047174cd-642c-5676-9740-9a70424b39ee

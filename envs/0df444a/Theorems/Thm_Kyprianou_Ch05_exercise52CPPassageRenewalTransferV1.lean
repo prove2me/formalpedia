@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_exercise52CPPassageRenewalTransferV1
 -- name    : Kyprianou.Ch05.exercise52CPPassageRenewalTransferV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:31:13.075284+00:00
 -- url     : https://prove2.me/theorems/0eb16a27-a16d-5b9e-8638-6d33648d9081

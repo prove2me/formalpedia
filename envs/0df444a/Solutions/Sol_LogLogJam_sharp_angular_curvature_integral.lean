@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LogLogJam.sharp_angular_curvature_integral
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:56:12.571525+00:00
 -- url     : https://prove2.me/submissions/bff09f07-4620-4ef1-b5fe-abc682c5fbcf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_LogLogJam_sharp_angular_curvature_away_from_identity
 import Theorems.Thm_LogLogJam_heterodyne_fisher_exact

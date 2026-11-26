@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPassageDiscountedPathFunctionalV1
 -- name    : Kyprianou.Ch05.killedPassageDiscountedPathFunctionalV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:53:30.389632+00:00
 -- url     : https://prove2.me/theorems/88681046-136d-57d0-95e5-2d2a4846b280

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_beta_prod
 -- name    : Sendov.beta_prod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:08:20.625034+00:00
 -- url     : https://prove2.me/theorems/15b53a11-2f7e-4233-9626-4c52346472ed

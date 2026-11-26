@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_Supplement_split_tomography
 -- name    : LogLogJam.Supplement.split_tomography
--- status  : Open
+-- status  : Proved
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:28:08.635854+00:00
 -- url     : https://prove2.me/theorems/c051cf16-473c-57fa-a13c-87370a2727f6

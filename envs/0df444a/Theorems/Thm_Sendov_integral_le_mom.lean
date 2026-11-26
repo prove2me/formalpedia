@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_integral_le_mom
 -- name    : Sendov.integral_le_mom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:12:32.087128+00:00
 -- url     : https://prove2.me/theorems/33d0951a-1509-4077-8552-c3826995938d

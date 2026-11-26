@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_integral_QQ_anti
 -- name    : Sendov.integral_QQ_anti
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:00:05.294048+00:00
 -- url     : https://prove2.me/theorems/cced8d6a-c354-4d2e-a88d-252a95c60c6c

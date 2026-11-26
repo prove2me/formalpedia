@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_classicalRenewalTheorem_keyRenewalConvolutionV2
 -- name    : Kyprianou.Ch05.classicalRenewalTheorem_keyRenewalConvolutionV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:24:37.296375+00:00
 -- url     : https://prove2.me/theorems/4cd63d57-c64f-46ba-8ed9-fa0c7d76a0b1

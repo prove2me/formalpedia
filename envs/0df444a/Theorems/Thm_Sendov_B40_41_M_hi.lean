@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B40_41_M_hi
 -- name    : Sendov.B40_41.M_hi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:17:34.100882+00:00
 -- url     : https://prove2.me/theorems/3950da0e-ff8d-488e-a092-850d36f81a4a

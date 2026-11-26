@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_mom_one
 -- name    : Sendov.mom_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:12:30.763219+00:00
 -- url     : https://prove2.me/theorems/48211196-1a4c-536a-bb80-c5aaf3992b59

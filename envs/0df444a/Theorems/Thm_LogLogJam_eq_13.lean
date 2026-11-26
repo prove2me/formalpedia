@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_eq_13
 -- name    : LogLogJam.eq_13
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T20:25:45.318672+00:00
 -- url     : https://prove2.me/theorems/4c525374-dedc-4776-82e2-499b8eac6c48

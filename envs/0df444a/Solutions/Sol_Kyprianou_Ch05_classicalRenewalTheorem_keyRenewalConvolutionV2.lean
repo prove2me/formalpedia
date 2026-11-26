@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.classicalRenewalTheorem_keyRenewalConvolutionV2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T18:25:24.515384+00:00
 -- url     : https://prove2.me/submissions/ee886957-ef28-4cdb-9e5b-77e4b2b10ec7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch05_RenewalMeasure

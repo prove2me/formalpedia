@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_Supplement_squeezed_decoder
 -- name    : LogLogJam.Supplement.squeezed_decoder
--- status  : Open
+-- status  : Proved
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:27:21.457573+00:00
 -- url     : https://prove2.me/theorems/ef18678f-c3e9-52c7-884a-7c9c3d4787c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_beta_le_six_div_pow
 -- name    : Sendov.beta_le_six_div_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:59:54.862394+00:00
 -- url     : https://prove2.me/theorems/2fa004bd-a8ac-5a00-a20b-a2f793abd90b

@@ -97967,8 +97967,6 @@
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0686", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0686", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "PrivateAgnosticHalfspace.Gaussian.ordered_learner_program", "child": "PrivateAgnosticHalfspace_Gaussian_OptimizerRealization", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.classicalRenewalTheorem_keyRenewalConvolution", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.classicalRenewalTheorem_keyRenewalConvolution", "child": "AvramDividend.Classical.avram_p4_f6_renewal_cdf_monotone", "via": ["statement"]}
 {"parent": "RH1E5.group_026", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E5.group_026", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
 {"parent": "RH1E5.group_026", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}

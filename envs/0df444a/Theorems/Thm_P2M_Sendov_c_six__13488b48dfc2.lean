@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Sendov_c_six__13488b48dfc2
 -- name    : P2M_Sendov_c_six__13488b48dfc2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:15:46.393902+00:00
 -- url     : https://prove2.me/theorems/382a6334-c51e-4f5f-aaed-ba85497a791e

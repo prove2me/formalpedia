@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_packed_agrees_twenty
 -- name    : Sendov.packed_agrees_twenty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:19:10.213827+00:00
 -- url     : https://prove2.me/theorems/bcf05612-bd49-4d15-a852-d26e8799165a

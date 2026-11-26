@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_Supplement_split_readout_accuracy
 -- name    : LogLogJam.Supplement.split_readout_accuracy
--- status  : Open
+-- status  : Proved
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:27:17.164975+00:00
 -- url     : https://prove2.me/theorems/2302fbce-e2f6-4d0d-9059-f4ba72c24a3f

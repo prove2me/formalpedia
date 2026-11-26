@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_integral_le_tail
 -- name    : Sendov.integral_le_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:08:02.70191+00:00
 -- url     : https://prove2.me/theorems/d364797a-adbe-4d53-8eaa-9736754807f3

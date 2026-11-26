@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_log_sinh_div_le
 -- name    : Sendov.log_sinh_div_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:56:15.246598+00:00
 -- url     : https://prove2.me/theorems/f21579ba-4a87-5c96-b416-3a54cdc1fbc5

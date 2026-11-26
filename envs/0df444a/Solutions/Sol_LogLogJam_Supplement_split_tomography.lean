@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LogLogJam.Supplement.split_tomography
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:31:42.040622+00:00
 -- url     : https://prove2.me/submissions/c9ab77b2-f2d4-4bb3-87f3-0ff1f6dfbebe
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_LogLogJam_Supplement_split_readout_accuracy

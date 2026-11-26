@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B14_15_A_lo
 -- name    : Sendov.B14_15.A_lo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:23:20.76799+00:00
 -- url     : https://prove2.me/theorems/e5199e1b-5004-55c0-8fd8-33dbb66139fe

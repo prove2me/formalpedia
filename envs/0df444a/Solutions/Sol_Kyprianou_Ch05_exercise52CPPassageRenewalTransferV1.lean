@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.exercise52CPPassageRenewalTransferV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T18:22:14.665029+00:00
 -- url     : https://prove2.me/submissions/21451204-292d-409f-a73c-6f148f5a5493
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch05_exercise52RationalGapMeasurableV1

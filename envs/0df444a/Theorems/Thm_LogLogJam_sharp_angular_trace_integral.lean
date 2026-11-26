@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_sharp_angular_trace_integral
 -- name    : LogLogJam.sharp_angular_trace_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:47:59.243352+00:00
 -- url     : https://prove2.me/theorems/8da4e708-1408-5e01-b6a5-47d0b74afbdb

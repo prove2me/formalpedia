@@ -76507,9 +76507,9 @@
 {"parent": "RH1E6S09.part_024_2", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S09.part_024_2", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "RH1E6S09_D086_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "PalomarZF207.halt_unprovable_of_sigma1_sound", "child": "palomar_zf207_history", "via": ["statement"]}
-{"parent": "PalomarZF207.halt_unprovable_of_sigma1_sound", "child": "palomar_zf207_zf", "via": ["statement"]}
-{"parent": "PalomarZF207.halt_unprovable_of_sigma1_sound", "child": "palomar_zf207_statement", "via": ["statement"]}
+{"parent": "PalomarZF207.halt_unprovable_of_sigma1_sound", "child": "palomar_zf207_history", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.halt_unprovable_of_sigma1_sound", "child": "palomar_zf207_zf", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.halt_unprovable_of_sigma1_sound", "child": "palomar_zf207_statement", "via": ["solution", "statement"]}
 {"parent": "RH1E6S10_D003_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHRow23LowSlabNineteenth66388", "child": "row23_rh_supp_RHRow23LowSlabEighteenth66388", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHRow23LowSlabNineteenth66388", "child": "row23_rh_supp_RHLowSlabNineteenthFinal", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B44_45_A_hi
 -- name    : Sendov.B44_45.A_hi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:19:58.189118+00:00
 -- url     : https://prove2.me/theorems/feb04376-6a9c-5a4a-b9cc-dde381f7f694

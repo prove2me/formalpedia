@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_QQ_zero
 -- name    : Sendov.QQ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:56:47.327227+00:00
 -- url     : https://prove2.me/theorems/28c78dcc-d88e-4faa-ad26-a25bc0273706

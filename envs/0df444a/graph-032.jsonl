@@ -46557,11 +46557,6 @@
 {"parent": "Kyprianou.Ch01.naturalSigma_le_ambient", "child": "PerfCorrMSQ_NaturalFiltration", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.naturalSigma_le_ambient", "child": "Kyprianou_Ch01_McKeanBrownianStopping", "via": ["solution", "statement"]}
 {"parent": "BulowKlemperer429.Bundling.Supplement.lemma_6_1", "child": "BulowKlemperer429_Bundling_ScalarAuction", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.chapterFiveMainResults", "child": "Kyprianou_Ch05_ChapterCertificateGroupA", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.chapterFiveMainResults", "child": "Kyprianou_Ch05_ChapterCertificateGroupB", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.chapterFiveMainResults", "child": "Kyprianou_Ch05_ChapterCertificateGroupE", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.chapterFiveMainResults", "child": "Kyprianou_Ch05_ChapterCertificateGroupD", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.chapterFiveMainResults", "child": "Kyprianou_Ch05_ChapterCertificateGroupC", "via": ["solution", "statement"]}
 {"parent": "GL2QFT_Supplement_AGammaGates", "child": "GL2QFT_AGamma", "via": ["statement"]}
 {"parent": "OptQJunta.Supplement.theorem_6_3", "child": "OptQJunta_Supplement_IsJuntaC", "via": ["statement"]}
 {"parent": "OptQJunta.Supplement.theorem_6_3", "child": "OptQJunta_Supplement_ChanAlg", "via": ["statement"]}
@@ -55247,8 +55242,6 @@
 {"parent": "TermCycDich_Supplement_Society", "child": "TermCycDich_Supplement_Rendition", "via": ["statement"]}
 {"parent": "TermCycDich_Supplement_Society", "child": "GMSTFramework_LocalStructure_Graphs", "via": ["statement"]}
 {"parent": "Kyprianou.Ch04.exercise_4_8_ii_goalV2", "child": "Kyprianou_Ch04_Exercise4_8CertificationV2", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.classicalRenewalTheorem", "child": "AvramDividend.Classical.avram_p4_f6_renewal_cdf_monotone", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.classicalRenewalTheorem", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "MoneyBurningTrade_IndependentSurplus_Supplement_ExponentialLaws", "child": "SecondBestBT_Mechanism", "via": ["statement"]}
 {"parent": "SingleCopyMoments.Adaptive.Supplement.weighted_moment_estimation", "child": "SingleCopyMoments_Adaptive_Supplement_Targets", "via": ["statement"]}
 {"parent": "AuditAdapt.Supplement.theorem_5_5", "child": "AuditAdapt_stateLaw", "via": ["statement"]}

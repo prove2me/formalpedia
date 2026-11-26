@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_reflectedGridIntegralError
 -- name    : Kyprianou.Ch05.reflectedGridIntegralError
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:27:14.733108+00:00
 -- url     : https://prove2.me/theorems/d3e9836d-77f6-5461-816e-0aae9973eac6

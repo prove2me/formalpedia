@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_tail1_poly
 -- name    : Sendov.tail1_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:08:29.865653+00:00
 -- url     : https://prove2.me/theorems/979b4f7b-4c13-4128-949f-dc2615bb34f5

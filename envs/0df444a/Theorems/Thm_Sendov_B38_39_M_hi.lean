@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B38_39_M_hi
 -- name    : Sendov.B38_39.M_hi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:16:10.421219+00:00
 -- url     : https://prove2.me/theorems/6f8fe5ef-54b4-4271-a98d-1769e89796f3

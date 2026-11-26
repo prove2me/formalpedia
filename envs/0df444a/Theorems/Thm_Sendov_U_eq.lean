@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_U_eq
 -- name    : Sendov.U_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:08:32.685799+00:00
 -- url     : https://prove2.me/theorems/29658bf3-38ec-4cd9-973b-465f9decf73f

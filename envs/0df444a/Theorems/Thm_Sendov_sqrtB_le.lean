@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_sqrtB_le
 -- name    : Sendov.sqrtB_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:08:19.337989+00:00
 -- url     : https://prove2.me/theorems/239b119e-007a-5a06-96c3-775dcda1175c

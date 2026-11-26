@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LogLogJam.sharp_angular_trace_integral
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:52:23.637631+00:00
 -- url     : https://prove2.me/submissions/72d9f8f3-501e-445b-acd5-07a07ef892da
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_LogLogJam_sharp_angular_curvature_integral
 open MeasureTheory Matrix LogLogJam Filter

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_Supplement_weak_success_localization
 -- name    : LogLogJam.Supplement.weak_success_localization
--- status  : Open
+-- status  : Proved
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:27:37.130558+00:00
 -- url     : https://prove2.me/theorems/c5fd8258-9f9e-5613-8fe6-ba67ada19a15

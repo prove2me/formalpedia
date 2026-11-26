@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.monotonePassageEventBorelFromClockV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T18:26:42.082222+00:00
 -- url     : https://prove2.me/submissions/f6480fac-01f7-4632-99de-5997bfafb14c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch05_passageBoundaryBorelVersionsV1

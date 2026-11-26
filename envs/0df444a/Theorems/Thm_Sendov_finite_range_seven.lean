@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_finite_range_seven
 -- name    : Sendov.finite_range_seven
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:17:03.294308+00:00
 -- url     : https://prove2.me/theorems/eacf139d-81ce-5d6a-ab88-7c65796c3b3b

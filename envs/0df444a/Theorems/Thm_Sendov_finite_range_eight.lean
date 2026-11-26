@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_finite_range_eight
 -- name    : Sendov.finite_range_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:18:14.647843+00:00
 -- url     : https://prove2.me/theorems/e47a7e69-e84d-4775-aad1-86f75a1e81b4

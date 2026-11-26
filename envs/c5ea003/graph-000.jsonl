@@ -34119,7 +34119,7 @@
 {"parent": "MetricTSP.integrality_gap_lower_bound", "child": "MetricTSP.three_paths_separated", "via": ["solution"]}
 {"parent": "MetricTSP.integrality_gap_lower_bound", "child": "MetricTSP_model", "via": ["solution", "statement"]}
 {"parent": "MetricTSP.integrality_gap_lower_bound", "child": "MetricTSP_three_paths", "via": ["solution"]}
-{"parent": "MetricTSP.karlin_klein_oveis_gharan_bound", "child": "MetricTSP_model", "via": ["statement"]}
+{"parent": "MetricTSP.karlin_klein_oveis_gharan_bound", "child": "MetricTSP_model", "via": ["solution", "statement"]}
 {"parent": "MetricTSP.parity_matching", "child": "MetricTSP.eliminate_steiner2", "via": ["solution"]}
 {"parent": "MetricTSP.parity_matching", "child": "MetricTSP.even_set_matching", "via": ["solution"]}
 {"parent": "MetricTSP.parity_matching", "child": "MetricTSP_model", "via": ["solution", "statement"]}
@@ -93161,3 +93161,12 @@
 {"parent": "ReweightedNPMLE.finite_probability_optimizer_extreme_iff_linearIndependent", "child": "ReweightedNPMLE.finiteMixtureFiber_extreme_of_augmented_linearIndepOn", "via": ["solution"]}
 {"parent": "ReweightedNPMLE.finite_probability_optimizer_extreme_iff_linearIndependent", "child": "ReweightedNPMLE.isExtremeProbabilityMixture_iff", "via": ["solution"]}
 {"parent": "ReweightedNPMLE.finite_probability_optimizer_extreme_iff_linearIndependent", "child": "ReweightedNPMLE.likelihood_contact_on_finite_optimizer_support", "via": ["solution"]}
+{"parent": "MetricTSP.fractional_join_pairing", "child": "MetricTSP_model", "via": ["statement"]}
+{"parent": "MetricTSP.kkg_connected_graph_and_join", "child": "MetricTSP_graph_cost", "via": ["statement"]}
+{"parent": "MetricTSP.kkg_connected_graph_and_join", "child": "MetricTSP_model", "via": ["statement"]}
+{"parent": "MetricTSP.karlin_klein_oveis_gharan_bound", "child": "MetricTSP_graph_cost", "via": ["solution"]}
+{"parent": "MetricTSP.karlin_klein_oveis_gharan_bound", "child": "MetricTSP.fractional_join_pairing", "via": ["solution"]}
+{"parent": "MetricTSP.karlin_klein_oveis_gharan_bound", "child": "MetricTSP.tour_of_parity_join", "via": ["solution"]}
+{"parent": "MetricTSP.karlin_klein_oveis_gharan_bound", "child": "MetricTSP.tsp_opt_le_tour_cost", "via": ["solution"]}
+{"parent": "MetricTSP.karlin_klein_oveis_gharan_bound", "child": "MetricTSP.tour_vector_held_karp", "via": ["solution"]}
+{"parent": "MetricTSP.karlin_klein_oveis_gharan_bound", "child": "MetricTSP.kkg_connected_graph_and_join", "via": ["solution"]}

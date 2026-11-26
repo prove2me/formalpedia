@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_c_pos_of_le_half_M
 -- name    : Sendov.c_pos_of_le_half_M
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:56:17.771797+00:00
 -- url     : https://prove2.me/theorems/00dbb881-1b08-47ba-a925-3e011eaed7aa

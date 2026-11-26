@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305DebianCt_ctInternalOk_poly1305_update
 -- name    : Poly1305DebianCt.ctInternalOk_poly1305_update
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-26T10:21:22.80522+00:00
 -- url     : https://prove2.me/theorems/6b619ddc-c1d8-5797-8be2-9b8528f8a47c

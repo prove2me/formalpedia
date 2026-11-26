@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_sharp_angular_curvature_integral
 -- name    : LogLogJam.sharp_angular_curvature_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:52:17.864794+00:00
 -- url     : https://prove2.me/theorems/d19e4236-7d2c-552f-8d01-0505f6fe9307

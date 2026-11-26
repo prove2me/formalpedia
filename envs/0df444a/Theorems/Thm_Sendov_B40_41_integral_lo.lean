@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B40_41_integral_lo
 -- name    : Sendov.B40_41.integral_lo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:18:02.805172+00:00
 -- url     : https://prove2.me/theorems/6291eebc-26ab-5b79-93e7-6ac506416cb7

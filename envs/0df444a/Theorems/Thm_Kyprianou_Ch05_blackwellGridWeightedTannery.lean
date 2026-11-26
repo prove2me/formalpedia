@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_blackwellGridWeightedTannery
 -- name    : Kyprianou.Ch05.blackwellGridWeightedTannery
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:26:11.621014+00:00
 -- url     : https://prove2.me/theorems/b569a454-a434-402b-a11f-1c8f12ca93c2

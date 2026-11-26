@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_Supplement_theorem_8_16
 -- name    : LogLogJam.Supplement.theorem_8_16
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T01:55:19.192986+00:00
 -- url     : https://prove2.me/theorems/0eaa77f7-8ee8-469d-9260-238fd65f4436

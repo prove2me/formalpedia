@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B32_33_integral_lo
 -- name    : Sendov.B32_33.integral_lo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:14:15.836263+00:00
 -- url     : https://prove2.me/theorems/7171b052-bfec-46e7-8832-a263f6b9d5f0

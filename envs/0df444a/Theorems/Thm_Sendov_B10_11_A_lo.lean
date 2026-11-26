@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B10_11_A_lo
 -- name    : Sendov.B10_11.A_lo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:21:54.111701+00:00
 -- url     : https://prove2.me/theorems/34791925-e779-47bd-a26a-39a76b5b47d2

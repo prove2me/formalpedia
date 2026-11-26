@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_unpackN_pow
 -- name    : Sendov.unpackN_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:09:57.970078+00:00
 -- url     : https://prove2.me/theorems/2ceb6d21-01bf-47e2-8b80-f2f5f17d6a01

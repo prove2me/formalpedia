@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_sqrt_mul_sub_le
 -- name    : Sendov.sqrt_mul_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:54:49.045853+00:00
 -- url     : https://prove2.me/theorems/0d9b177f-cce4-5fe4-b28f-a31b3ca1d4f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B50_51_c_lo
 -- name    : Sendov.B50_51.c_lo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:24:12.021889+00:00
 -- url     : https://prove2.me/theorems/e120f198-ea8a-4291-a321-a9e17f1aee9e

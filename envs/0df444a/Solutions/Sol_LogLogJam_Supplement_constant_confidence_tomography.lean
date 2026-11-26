@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LogLogJam.Supplement.constant_confidence_tomography
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:31:42.027626+00:00
 -- url     : https://prove2.me/submissions/0085a096-6410-4b02-b0e6-de680a7210bf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_LogLogJam_Supplement_split_tomography

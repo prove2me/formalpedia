@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B36_37_A_hi
 -- name    : Sendov.B36_37.A_hi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:14:59.602807+00:00
 -- url     : https://prove2.me/theorems/f106b866-e229-43a7-b434-7614da100ea0

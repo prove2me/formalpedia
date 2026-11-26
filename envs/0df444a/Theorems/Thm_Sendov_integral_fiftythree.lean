@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_integral_fiftythree
 -- name    : Sendov.integral_fiftythree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:19:00.173143+00:00
 -- url     : https://prove2.me/theorems/a1825f17-7b20-40a6-af43-43a544235275

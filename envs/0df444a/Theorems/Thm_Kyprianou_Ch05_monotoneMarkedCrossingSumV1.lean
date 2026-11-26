@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_monotoneMarkedCrossingSumV1
 -- name    : Kyprianou.Ch05.monotoneMarkedCrossingSumV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:14:57.757796+00:00
 -- url     : https://prove2.me/theorems/e62dea8c-ec39-45bf-9baf-5feca53893c8

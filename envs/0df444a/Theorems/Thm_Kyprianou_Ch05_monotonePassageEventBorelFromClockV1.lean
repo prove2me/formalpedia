@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_monotonePassageEventBorelFromClockV1
 -- name    : Kyprianou.Ch05.monotonePassageEventBorelFromClockV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:19:39.887073+00:00
 -- url     : https://prove2.me/theorems/75101a78-5543-55ba-a9e1-bbf71bc6270d

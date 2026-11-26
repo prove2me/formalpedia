@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LogLogJam.Supplement.split_readout_accuracy
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Senrui Chen
 -- created : 2026-11-26T09:28:47.386849+00:00
 -- url     : https://prove2.me/submissions/a798e880-8e4d-4017-9b2b-08d1b61ea260
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LogLogJam_Supplement_phaseCountReadouts

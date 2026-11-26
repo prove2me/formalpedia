@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NullConeGravity_schwarzschild_log_coefficient
 -- name    : NullConeGravity.schwarzschild_log_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-26T14:13:14.949567+00:00
 -- url     : https://prove2.me/theorems/5dc38117-ffc5-5990-bd50-a355979e5b87

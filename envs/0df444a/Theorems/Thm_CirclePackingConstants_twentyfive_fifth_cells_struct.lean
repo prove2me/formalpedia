@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CirclePackingConstants_twentyfive_fifth_cells_struct
 -- name    : CirclePackingConstants.twentyfive_fifth_cells_struct
--- status  : Open
+-- status  : Proved
 -- author  : @vebis
 -- created : 2026-10-07T06:18:02.139986+00:00
 -- url     : https://prove2.me/theorems/2c92ff8b-6d8a-4581-9e7f-7a462e4de2d9

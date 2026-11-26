@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_exercise52CPDriverPathLawV1
 -- name    : Kyprianou.Ch05.exercise52CPDriverPathLawV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:20:36.348693+00:00
 -- url     : https://prove2.me/theorems/a10df5f5-4f25-417f-b071-41822dbb4759

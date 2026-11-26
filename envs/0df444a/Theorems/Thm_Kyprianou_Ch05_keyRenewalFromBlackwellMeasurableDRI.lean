@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_keyRenewalFromBlackwellMeasurableDRI
 -- name    : Kyprianou.Ch05.keyRenewalFromBlackwellMeasurableDRI
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:24:35.237402+00:00
 -- url     : https://prove2.me/theorems/a870fd55-db3e-52d6-ad48-07c87ddab733

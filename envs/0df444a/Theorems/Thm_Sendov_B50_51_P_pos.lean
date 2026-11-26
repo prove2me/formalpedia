@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B50_51_P_pos
 -- name    : Sendov.B50_51.P_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:24:18.444425+00:00
 -- url     : https://prove2.me/theorems/2268d696-3641-50bf-9f86-fe1bd1ee0f3a
