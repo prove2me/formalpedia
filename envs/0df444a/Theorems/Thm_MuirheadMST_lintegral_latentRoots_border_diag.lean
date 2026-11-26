@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MuirheadMST_lintegral_latentRoots_border_diag
 -- name    : MuirheadMST.lintegral_latentRoots_border_diag
--- status  : Open
+-- status  : Proved
 -- author  : @domodus
 -- created : 2026-11-26T21:02:21.678131+00:00
 -- url     : https://prove2.me/theorems/4af9f4b9-fa41-5c35-aaec-d21edcacea7f

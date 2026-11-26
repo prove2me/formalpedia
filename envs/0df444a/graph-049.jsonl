@@ -99257,7 +99257,7 @@
 {"parent": "Kyprianou.Ch05.smithBlackwellIndicatorAdmissible", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p03_tendsto_radiusEvolution_one_iff", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p03_tendsto_radiusEvolution_one_iff", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "Poly1305DebianCt.relOk_poly1305_update_v2", "child": "Poly1305DebianCt_Spec", "via": ["statement"]}
+{"parent": "Poly1305DebianCt.relOk_poly1305_update_v2", "child": "Poly1305DebianCt_Spec", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.fullTrace_exactly_once", "child": "TunnellMap_BlockGenerator", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.fullTrace_exactly_once", "child": "TunnellMap_BlockGeneratorCorrect", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49StoppedDeficitFutureProductV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}

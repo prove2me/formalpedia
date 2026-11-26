@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:09:13.135883+00:00
 -- url     : https://prove2.me/theorems/9c77d072-f214-487f-93d3-8b8fb090a69a
 -- title:
---   Lefebvre's variations: a Hadamard matrix of order 156 exists
+--   Lefebvre's variations, No. 149 — on a theme by Hadamard: a Hadamard matrix of order 156 exists
 -- statement:
 --   There is a $\{\pm1\}$-matrix $M$ of size $4\cdot 39=156$ with
 --   $$|\det M| = 156^{156/2}.$$

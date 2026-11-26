@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Poly1305DebianCt.ctPublicOk_crypto_onetimeauth_update
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-26T16:52:49.412022+00:00
 -- url     : https://prove2.me/submissions/1110d546-244e-492c-8dd9-30d3ed3078de
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Poly1305DebianCt_PlacedObj
 import Definitions.Def_Poly1305DebianCt_Spec

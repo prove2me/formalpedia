@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:09:12.64402+00:00
 -- url     : https://prove2.me/theorems/b39b292c-dea9-4274-9360-392df8a496ef
 -- title:
---   Lefebvre's variations: every 2-state two-symbol Turing machine either never halts or halts within 6 steps
+--   Lefebvre's variations, No. 148 — on a theme by bbchallenge: every 2-state two-symbol Turing machine either never halts or halts within 6 steps
 -- statement:
 --   Let $M$ be a Turing machine with $2$ states and two symbols, with transition table $\delta(q,b)=(w,\mathrm{right},q')$ where $q'$ is a state or the halting state. Run $M$ from state $0$ on the all-blank tape, head at position $0$. Then either $M$ never halts, or $M$ halts after at most $6$ transitions (the final halting transition included):
 --   $$\bigl(\forall t,\ \mathrm{state}_t\neq\mathrm{halt}\bigr)\ \lor\ \bigl(\exists t\le 6,\ \mathrm{state}_t=\mathrm{halt}\bigr).$$

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:08:50.744956+00:00
 -- url     : https://prove2.me/theorems/ecac69f6-ed9c-5151-a2cd-4e09e681f8f0
 -- title:
---   Lefebvre's variations: every 3-state two-symbol Turing machine either never halts or halts within 21 steps
+--   Lefebvre's variations, No. 147 — on a theme by bbchallenge: every 3-state two-symbol Turing machine either never halts or halts within 21 steps
 -- statement:
 --   Let $M$ be a Turing machine with $3$ states and two symbols, with transition table $\delta(q,b)=(w,\mathrm{right},q')$ where $q'$ is a state or the halting state. Run $M$ from state $0$ on the all-blank tape, head at position $0$. Then either $M$ never halts, or $M$ halts after at most $21$ transitions (the final halting transition included):
 --   $$\bigl(\forall t,\ \mathrm{state}_t\neq\mathrm{halt}\bigr)\ \lor\ \bigl(\exists t\le 21,\ \mathrm{state}_t=\mathrm{halt}\bigr).$$

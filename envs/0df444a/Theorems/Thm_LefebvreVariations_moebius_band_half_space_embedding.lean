@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:07:52.811214+00:00
 -- url     : https://prove2.me/theorems/debabf02-1d55-4986-9653-0cc95b77a74d
 -- title:
---   Lefebvre's variations: the Möbius band does not embed in a half-space with boundary exactly on the bounding plane
+--   Lefebvre's variations, No. 146 — on a theme by Vaughan: the Möbius band does not embed in a half-space with boundary exactly on the bounding plane
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MuirheadMST_wishart_latentRoots_density
 -- name    : MuirheadMST.wishart_latentRoots_density
--- status  : Open
+-- status  : Proved
 -- author  : @domodus
 -- created : 2026-11-26T17:38:53.340853+00:00
 -- url     : https://prove2.me/theorems/5fc78d46-3990-53f8-ad45-5c2bd3f98301

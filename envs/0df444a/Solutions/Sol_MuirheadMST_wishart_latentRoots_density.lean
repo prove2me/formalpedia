@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MuirheadMST.wishart_latentRoots_density
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @domodus
 -- created : 2026-11-26T20:52:39.142715+00:00
 -- url     : https://prove2.me/submissions/9caca90f-2f14-46bb-89bc-7f4bad82232b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MuirheadMST_Wishart

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MuirheadMST_latentRoots_density_of_invariant
 -- name    : MuirheadMST.latentRoots_density_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @domodus
 -- created : 2026-11-26T17:38:31.691911+00:00
 -- url     : https://prove2.me/theorems/0921697f-86e8-4214-8c32-fbcbb6bfcb1d

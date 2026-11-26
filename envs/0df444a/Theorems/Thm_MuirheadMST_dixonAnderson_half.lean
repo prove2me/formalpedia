@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MuirheadMST_dixonAnderson_half
 -- name    : MuirheadMST.dixonAnderson_half
--- status  : Open
+-- status  : Proved
 -- author  : @domodus
 -- created : 2026-11-26T21:02:22.4457+00:00
 -- url     : https://prove2.me/theorems/55d7eb7c-9dd7-5caa-9140-80def0f65ad4

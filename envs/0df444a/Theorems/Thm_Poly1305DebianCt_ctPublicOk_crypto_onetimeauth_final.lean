@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305DebianCt_ctPublicOk_crypto_onetimeauth_final
 -- name    : Poly1305DebianCt.ctPublicOk_crypto_onetimeauth_final
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-26T10:23:20.431821+00:00
 -- url     : https://prove2.me/theorems/1d6fffca-18bc-5bf1-b0f3-98f082894d33

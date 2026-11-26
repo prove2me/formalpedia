@@ -1,0 +1,617 @@
+-- Prove2me | solution 1 for AlgebraicGeometry.Scheme.ProEt.shortExact_telescope
+-- status  : ACCEPTED   (prove)
+-- author  : @Idealson
+-- created : 2026-11-26T19:40:59.995689+00:00
+-- url     : https://prove2.me/submissions/bbb3df03-55ae-4c02-a436-345aee2d0015
+
+import Mathlib
+import Mathlib.Algebra.Algebra.Equiv
+import Mathlib.Algebra.Algebra.Pi
+import Mathlib.Algebra.Category.AlgCat.Basic
+import Mathlib.Algebra.Category.CommAlgCat.Basic
+import Mathlib.Algebra.Category.CommAlgCat.FiniteType
+import Mathlib.Algebra.Category.CommAlgCat.Monoidal
+import Mathlib.Algebra.Category.Grp.Abelian
+import Mathlib.Algebra.Category.Grp.Adjunctions
+import Mathlib.Algebra.Category.Grp.Colimits
+import Mathlib.Algebra.Category.Grp.FilteredColimits
+import Mathlib.Algebra.Category.Grp.Limits
+import Mathlib.Algebra.Category.ModuleCat.AB
+import Mathlib.Algebra.Category.ModuleCat.FilteredColimits
+import Mathlib.Algebra.Category.ModuleCat.Monoidal.Closed
+import Mathlib.Algebra.Category.Ring.Basic
+import Mathlib.Algebra.Category.Ring.Colimits
+import Mathlib.Algebra.Category.Ring.FilteredColimits
+import Mathlib.Algebra.Category.Ring.FinitePresentation
+import Mathlib.Algebra.Group.Pi.Units
+import Mathlib.Algebra.GroupWithZero.NonZeroDivisors
+import Mathlib.Algebra.GroupWithZero.Pi
+import Mathlib.Algebra.Homology.DerivedCategory.Ext.EnoughInjectives
+import Mathlib.Algebra.Homology.DerivedCategory.Ext.ExactSequences
+import Mathlib.Algebra.Homology.ShortComplex.Exact
+import Mathlib.Algebra.Notation.Pi.Basic
+import Mathlib.Algebra.Ring.Fin
+import Mathlib.Algebra.Ring.Pi
+import Mathlib.AlgebraicGeometry.AffineScheme
+import Mathlib.AlgebraicGeometry.AffineTransitionLimit
+import Mathlib.AlgebraicGeometry.Cover.MorphismProperty
+import Mathlib.AlgebraicGeometry.Cover.QuasiCompact
+import Mathlib.AlgebraicGeometry.Cover.Sigma
+import Mathlib.AlgebraicGeometry.Limits
+import Mathlib.AlgebraicGeometry.Morphisms.Affine
+import Mathlib.AlgebraicGeometry.Morphisms.Basic
+import Mathlib.AlgebraicGeometry.Morphisms.Etale
+import Mathlib.AlgebraicGeometry.Morphisms.FinitePresentation
+import Mathlib.AlgebraicGeometry.Morphisms.Flat
+import Mathlib.AlgebraicGeometry.Morphisms.UnderlyingMap
+import Mathlib.AlgebraicGeometry.Morphisms.WeaklyEtale
+import Mathlib.AlgebraicGeometry.Properties
+import Mathlib.AlgebraicGeometry.PullbackCarrier
+import Mathlib.AlgebraicGeometry.Sites.AffineEtale
+import Mathlib.AlgebraicGeometry.Sites.BigZariski
+import Mathlib.AlgebraicGeometry.Sites.Fpqc
+import Mathlib.AlgebraicGeometry.Sites.MorphismProperty
+import Mathlib.AlgebraicGeometry.Sites.Pretopology
+import Mathlib.AlgebraicGeometry.Sites.Small
+import Mathlib.AlgebraicGeometry.StructureSheaf
+import Mathlib.AlgebraicTopology.AlternatingFaceMapComplex
+import Mathlib.AlgebraicTopology.ExtraDegeneracy
+import Mathlib.CategoryTheory.Abelian.Basic
+import Mathlib.CategoryTheory.Abelian.GrothendieckAxioms.Basic
+import Mathlib.CategoryTheory.Abelian.GrothendieckAxioms.Colim
+import Mathlib.CategoryTheory.Adjunction.Opposites
+import Mathlib.CategoryTheory.Adjunction.Whiskering
+import Mathlib.CategoryTheory.Comma.Arrow
+import Mathlib.CategoryTheory.Comma.StructuredArrow.Basic
+import Mathlib.CategoryTheory.Comma.StructuredArrow.Small
+import Mathlib.CategoryTheory.Extensive
+import Mathlib.CategoryTheory.Filtered.Basic
+import Mathlib.CategoryTheory.Filtered.Connected
+import Mathlib.CategoryTheory.Filtered.Final
+import Mathlib.CategoryTheory.Functor.OfSequence
+import Mathlib.CategoryTheory.Limits.Comma
+import Mathlib.CategoryTheory.Limits.ConcreteCategory.Filtered
+import Mathlib.CategoryTheory.Limits.Cones
+import Mathlib.CategoryTheory.Limits.Connected
+import Mathlib.CategoryTheory.Limits.Constructions.Over.Connected
+import Mathlib.CategoryTheory.Limits.FilteredColimitCommutesProduct
+import Mathlib.CategoryTheory.Limits.FunctorCategory.EpiMono
+import Mathlib.CategoryTheory.Limits.Indization.Category
+import Mathlib.CategoryTheory.Limits.Lattice
+import Mathlib.CategoryTheory.Limits.MonoCoprod
+import Mathlib.CategoryTheory.Limits.MorphismProperty
+import Mathlib.CategoryTheory.Limits.Presentation
+import Mathlib.CategoryTheory.Limits.Preserves.Filtered
+import Mathlib.CategoryTheory.Limits.Preserves.Finite
+import Mathlib.CategoryTheory.Limits.Preserves.Limits
+import Mathlib.CategoryTheory.Limits.Preserves.Over
+import Mathlib.CategoryTheory.Limits.Preserves.Shapes.Multiequalizer
+import Mathlib.CategoryTheory.Limits.Preserves.Shapes.Over
+import Mathlib.CategoryTheory.Limits.Preserves.Shapes.Products
+import Mathlib.CategoryTheory.Limits.Preserves.Shapes.Zero
+import Mathlib.CategoryTheory.Limits.Preserves.Ulift
+import Mathlib.CategoryTheory.Limits.Shapes.Countable
+import Mathlib.CategoryTheory.Limits.Shapes.DisjointCoproduct
+import Mathlib.CategoryTheory.Limits.Shapes.FiniteLimits
+import Mathlib.CategoryTheory.Limits.Shapes.FiniteMultiequalizer
+import Mathlib.CategoryTheory.Limits.Shapes.Opposites.Products
+import Mathlib.CategoryTheory.Limits.Shapes.Pullback.IsPullback.Basic
+import Mathlib.CategoryTheory.Limits.Shapes.WidePullbacks
+import Mathlib.CategoryTheory.Limits.Shapes.ZeroMorphisms
+import Mathlib.CategoryTheory.Limits.Types.ColimitTypeFiltered
+import Mathlib.CategoryTheory.Limits.Types.Filtered
+import Mathlib.CategoryTheory.Monoidal.Limits.Preserves
+import Mathlib.CategoryTheory.MorphismProperty.Basic
+import Mathlib.CategoryTheory.MorphismProperty.Comma
+import Mathlib.CategoryTheory.MorphismProperty.Composition
+import Mathlib.CategoryTheory.MorphismProperty.Ind
+import Mathlib.CategoryTheory.MorphismProperty.Limits
+import Mathlib.CategoryTheory.MorphismProperty.OfObjectProperty
+import Mathlib.CategoryTheory.NatIso
+import Mathlib.CategoryTheory.ObjectProperty.FiniteProducts
+import Mathlib.CategoryTheory.ObjectProperty.Ind
+import Mathlib.CategoryTheory.Preadditive.Injective.Basic
+import Mathlib.CategoryTheory.Presentable.Basic
+import Mathlib.CategoryTheory.Presentable.Finite
+import Mathlib.CategoryTheory.Sites.Abelian
+import Mathlib.CategoryTheory.Sites.Continuous
+import Mathlib.CategoryTheory.Sites.CoproductSheafCondition
+import Mathlib.CategoryTheory.Sites.DenseSubsite.Basic
+import Mathlib.CategoryTheory.Sites.EffectiveEpimorphic
+import Mathlib.CategoryTheory.Sites.EpiMono
+import Mathlib.CategoryTheory.Sites.Finite
+import Mathlib.CategoryTheory.Sites.Grothendieck
+import Mathlib.CategoryTheory.Sites.Hypercover.Saturate
+import Mathlib.CategoryTheory.Sites.Hypercover.SheafOfTypes
+import Mathlib.CategoryTheory.Sites.Hypercover.Zero
+import Mathlib.CategoryTheory.Sites.IsSheafFor
+import Mathlib.CategoryTheory.Sites.LeftExact
+import Mathlib.CategoryTheory.Sites.LocallyBijective
+import Mathlib.CategoryTheory.Sites.MorphismProperty
+import Mathlib.CategoryTheory.Sites.Precoverage.Generates
+import Mathlib.CategoryTheory.Sites.Precoverage.Subsheaf
+import Mathlib.CategoryTheory.Sites.Preserves
+import Mathlib.CategoryTheory.Sites.Pullback
+import Mathlib.CategoryTheory.Sites.SheafCohomology.Basic
+import Mathlib.CategoryTheory.Sites.SheafOfTypes
+import Mathlib.CategoryTheory.Sites.Sheafification
+import Mathlib.CategoryTheory.Sites.Sieves
+import Mathlib.CategoryTheory.Sites.Subcanonical
+import Mathlib.CategoryTheory.WithTerminal.Cone
+import Mathlib.CategoryTheory.WithTerminal.Lemmas
+import Mathlib.Data.Finite.Prod
+import Mathlib.Data.Finite.Sigma
+import Mathlib.Data.Finite.Sum
+import Mathlib.Data.Set.Card
+import Mathlib.FieldTheory.Extension
+import Mathlib.FieldTheory.IsAlgClosed.AlgebraicClosure
+import Mathlib.FieldTheory.IsSepClosed
+import Mathlib.FieldTheory.Separable
+import Mathlib.FieldTheory.SeparableClosure
+import Mathlib.Logic.Function.Basic
+import Mathlib.Order.BooleanAlgebra.Set
+import Mathlib.RingTheory.Etale.Basic
+import Mathlib.RingTheory.Etale.Field
+import Mathlib.RingTheory.Etale.Finite
+import Mathlib.RingTheory.Etale.Pi
+import Mathlib.RingTheory.Etale.StandardEtale
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Flat.CategoryTheory
+import Mathlib.RingTheory.Flat.EquationalCriterion
+import Mathlib.RingTheory.Flat.FaithfullyFlat.Basic
+import Mathlib.RingTheory.Flat.Localization
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.Ideal.GoingDown
+import Mathlib.RingTheory.Ideal.Pure
+import Mathlib.RingTheory.Idempotents
+import Mathlib.RingTheory.IntegralClosure.IntegrallyClosed
+import Mathlib.RingTheory.Jacobson.Ideal
+import Mathlib.RingTheory.LocalIso
+import Mathlib.RingTheory.LocalRing.MaximalIdeal.Basic
+import Mathlib.RingTheory.LocalRing.ResidueField.Ideal
+import Mathlib.RingTheory.Localization.AtPrime.Basic
+import Mathlib.RingTheory.Localization.Defs
+import Mathlib.RingTheory.Localization.Ideal
+import Mathlib.RingTheory.Polynomial.UniversalFactorizationRing
+import Mathlib.RingTheory.PolynomialAlgebra
+import Mathlib.RingTheory.RingHom.Etale
+import Mathlib.RingTheory.RingHom.FaithfullyFlat
+import Mathlib.RingTheory.RingHom.FinitePresentation
+import Mathlib.RingTheory.RingHom.Flat
+import Mathlib.RingTheory.RingHom.OpenImmersion
+import Mathlib.RingTheory.RingHom.Smooth
+import Mathlib.RingTheory.RingHom.Surjective
+import Mathlib.RingTheory.RingHomProperties
+import Mathlib.RingTheory.Smooth.NoetherianDescent
+import Mathlib.RingTheory.Smooth.StandardSmoothCotangent
+import Mathlib.RingTheory.Smooth.StandardSmoothOfFree
+import Mathlib.RingTheory.Spectrum.Maximal.Localization
+import Mathlib.RingTheory.Spectrum.Prime.RingHom
+import Mathlib.RingTheory.Spectrum.Prime.Topology
+import Mathlib.RingTheory.TensorProduct.Maps
+import Mathlib.RingTheory.TensorProduct.Quotient
+import Mathlib.RingTheory.Unramified.LocalRing
+import Mathlib.RingTheory.Unramified.LocalStructure
+import Mathlib.Tactic.Algebraize
+import Mathlib.Tactic.DepRewrite
+import Mathlib.Topology.Category.Profinite.Basic
+import Mathlib.Topology.Category.Stonean.Basic
+import Mathlib.Topology.Category.TopCat.Basic
+import Mathlib.Topology.Category.TopCat.Limits.Basic
+import Mathlib.Topology.Category.TopCat.Limits.Pullbacks
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.Connected.TotallyDisconnected
+import Mathlib.Topology.Constructions
+import Mathlib.Topology.DiscreteQuotient
+import Mathlib.Topology.Homeomorph.Lemmas
+import Mathlib.Topology.Inseparable
+import Mathlib.Topology.JacobsonSpace
+import Mathlib.Topology.LocallyConstant.Algebra
+import Mathlib.Topology.Maps.Basic
+import Mathlib.Topology.QuasiSeparated
+import Mathlib.Topology.Separation.Basic
+import Mathlib.Topology.Separation.Hausdorff
+import Mathlib.Topology.Separation.Profinite
+import Mathlib.Topology.Sets.CompactOpenCovered
+import Mathlib.Topology.Sets.Opens
+import Mathlib.Topology.Sober
+import Mathlib.Topology.Spectral.Basic
+import Mathlib.Topology.Spectral.ConstructibleTopology
+import Mathlib.Topology.Spectral.Hom
+import Mathlib.Topology.Spectral.Prespectral
+import Definitions.Def_ProEtale_Comparator_Definitions
+import Definitions.Def_ProEtale_Comparator_Lib
+import Definitions.Def_ProEtale_Algebra_Bijective
+import Definitions.Def_ProEtale_Algebra_Contraction_Covers
+import Definitions.Def_ProEtale_Algebra_Etale
+import Definitions.Def_ProEtale_Algebra_Etale_Lib
+import Definitions.Def_ProEtale_Algebra_FaithfullyFlat
+import Definitions.Def_ProEtale_Algebra_FaithfullyFlat_Lib
+import Definitions.Def_ProEtale_Algebra_HenselianLocalRing
+import Definitions.Def_ProEtale_Algebra_IdentifiesLocalRings
+import Definitions.Def_ProEtale_Algebra_Ind
+import Definitions.Def_ProEtale_Algebra_IndBijectiveOnStalks
+import Definitions.Def_ProEtale_Algebra_IndEtale
+import Definitions.Def_ProEtale_Algebra_IndEtale_Lib
+import Definitions.Def_ProEtale_Algebra_IndWeaklyEtale
+import Definitions.Def_ProEtale_Algebra_IndWeaklyEtale_Lib
+import Definitions.Def_ProEtale_Algebra_IndZariski
+import Definitions.Def_ProEtale_Algebra_IntegralLocal
+import Definitions.Def_ProEtale_Algebra_LocalIso
+import Definitions.Def_ProEtale_Algebra_LocalizationColimit
+import Definitions.Def_ProEtale_Algebra_ProEtaleContraction
+import Definitions.Def_ProEtale_Algebra_PullbackProfinite
+import Definitions.Def_ProEtale_Algebra_RetractionsStrictlyHenselian
+import Definitions.Def_ProEtale_Algebra_StalkAlgebraic
+import Definitions.Def_ProEtale_Algebra_StalkIso
+import Definitions.Def_ProEtale_Algebra_WContractible
+import Definitions.Def_ProEtale_Algebra_WContractible_Lib
+import Definitions.Def_ProEtale_Algebra_WLocal
+import Definitions.Def_ProEtale_Algebra_WLocal_Lib
+import Definitions.Def_ProEtale_Algebra_WLocalization_Basic
+import Definitions.Def_ProEtale_Algebra_WLocalization_Ideal
+import Definitions.Def_ProEtale_Algebra_WStrictLocalization
+import Definitions.Def_ProEtale_Algebra_WeakDimension
+import Definitions.Def_ProEtale_Algebra_WeaklyEtale
+import Definitions.Def_ProEtale_Algebra_WeaklyEtale_Lib
+import Definitions.Def_ProEtale_Algebra_WeaklyEtaleField
+import Definitions.Def_ProEtale_Algebra_WeaklyEtaleIndEtale
+import Definitions.Def_ProEtale_FiniteFields_Etale_AlgebraicHenselization
+import Definitions.Def_ProEtale_FiniteFields_Etale_IndEtale
+import Definitions.Def_ProEtale_FiniteFields_Etale_IndEtaleStructural
+import Definitions.Def_ProEtale_FromPi1_Etale
+import Definitions.Def_ProEtale_Mathlib_Algebra_Algebra_Pi
+import Definitions.Def_ProEtale_Mathlib_Algebra_Category_AlgCat_FilteredColimits
+import Definitions.Def_ProEtale_Mathlib_Algebra_Category_CommAlgCat_Limits
+import Definitions.Def_ProEtale_Mathlib_Algebra_Category_CommAlgCat_Limits_Lib
+import Definitions.Def_ProEtale_Mathlib_Algebra_GroupWithZero_NonZeroDivisors
+import Definitions.Def_ProEtale_Mathlib_Algebra_Homology_ShortComplex_Exact
+import Definitions.Def_ProEtale_Mathlib_AlgebraicGeometry_AffineTransitionLimit
+import Definitions.Def_ProEtale_Mathlib_AlgebraicGeometry_Cover_MorphismProperty
+import Definitions.Def_ProEtale_Mathlib_AlgebraicGeometry_Extensive
+import Definitions.Def_ProEtale_Mathlib_AlgebraicGeometry_Morphisms_UnderlyingMap
+import Definitions.Def_ProEtale_Mathlib_AlgebraicGeometry_Sites_AffineEtale
+import Definitions.Def_ProEtale_Mathlib_AlgebraicGeometry_Sites_AffineRefinement
+import Definitions.Def_ProEtale_Mathlib_AlgebraicGeometry_Sites_Small
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Abelian_SequentialSystem
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Abelian_SequentialSystem_Lib
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Comma_ArrowRefinement
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Comma_StructuredArrow_Basic
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Limits_Comma
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Limits_FilteredColimitCommutesProduct
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Limits_MorphismProperty
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Limits_Preserves_Shapes_Zero
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Limits_Shapes_FiniteLimits
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Limits_Shapes_WidePullbacks
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_MorphismProperty_Basic
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_MorphismProperty_Comma
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_MorphismProperty_Comma_Lib
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_MorphismProperty_Composition
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_MorphismProperty_Ind
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_MorphismProperty_Ind_Lib
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_MorphismProperty_IndSpreads
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_MorphismProperty_Limits
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_MorphismProperty_OfObjectProperty
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_MorphismProperty_OfObjectProperty_Lib
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_ObjectProperty_FiniteProducts
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Sites_DenseSubsite_Basic
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Sites_Finite
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Sites_Grothendieck
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Sites_MorphismProperty
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Sites_Pullback
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Sites_SheafCohomology_CechResolution
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Sites_SheafCohomology_FreeAbelianSheaf
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Sites_SheafCohomology_LocallyVanish
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Sites_Sheafification
+import Definitions.Def_ProEtale_Mathlib_CategoryTheory_Sites_Sieves
+import Definitions.Def_ProEtale_Mathlib_FieldTheory_IsSepClosed
+import Definitions.Def_ProEtale_Mathlib_Logic_Function_Basic
+import Definitions.Def_ProEtale_Mathlib_Order_BooleanAlgebra_Set
+import Definitions.Def_ProEtale_Mathlib_RingTheory_Etale_Field
+import Definitions.Def_ProEtale_Mathlib_RingTheory_Etale_Henselian
+import Definitions.Def_ProEtale_Mathlib_RingTheory_Etale_Prod
+import Definitions.Def_ProEtale_Mathlib_RingTheory_Flat_FaithfullyFlat_Basic
+import Definitions.Def_ProEtale_Mathlib_RingTheory_Henselian
+import Definitions.Def_ProEtale_Mathlib_RingTheory_Henselian_Lib
+import Definitions.Def_ProEtale_Mathlib_RingTheory_Ideal_GoingDown
+import Definitions.Def_ProEtale_Mathlib_RingTheory_Ideal_Pure
+import Definitions.Def_ProEtale_Mathlib_RingTheory_Idempotents
+import Definitions.Def_ProEtale_Mathlib_RingTheory_IntegralClosure_IntegrallyClosed
+import Definitions.Def_ProEtale_Mathlib_RingTheory_LocalRing_RingHom_Basic
+import Definitions.Def_ProEtale_Mathlib_RingTheory_Localization_Pi
+import Definitions.Def_ProEtale_Mathlib_RingTheory_RingHom_Etale
+import Definitions.Def_ProEtale_Mathlib_RingTheory_Spectrum_Prime_Localization
+import Definitions.Def_ProEtale_Mathlib_RingTheory_Spectrum_Prime_RingHom
+import Definitions.Def_ProEtale_Mathlib_RingTheory_Spectrum_Prime_Topology
+import Definitions.Def_ProEtale_Mathlib_RingTheory_TensorProduct_Maps
+import Definitions.Def_ProEtale_Mathlib_RingTheory_WeaklyEtale_Localization
+import Definitions.Def_ProEtale_Mathlib_Topology_Category_TopCat_Limits_Pullbacks
+import Definitions.Def_ProEtale_Mathlib_Topology_Connected_TotallyDisconnected
+import Definitions.Def_ProEtale_Mathlib_Topology_Constructions
+import Definitions.Def_ProEtale_Mathlib_Topology_Inseparable
+import Definitions.Def_ProEtale_Mathlib_Topology_JacobsonSpace
+import Definitions.Def_ProEtale_Mathlib_Topology_QuasiSeparated
+import Definitions.Def_ProEtale_Mathlib_Topology_Separation_Basic
+import Definitions.Def_ProEtale_Mathlib_Topology_Separation_Hausdorff
+import Definitions.Def_ProEtale_Mathlib_Topology_Sober
+import Definitions.Def_ProEtale_Mathlib_Topology_Spectral_Basic
+import Definitions.Def_ProEtale_Mathlib_Topology_Spectral_ConstructibleTopology
+import Definitions.Def_ProEtale_Mathlib_Topology_Spectral_Prespectral
+import Definitions.Def_ProEtale_Morphisms_ProAffineEtale
+import Definitions.Def_ProEtale_Morphisms_ProAffineEtale_Lib
+import Definitions.Def_ProEtale_Morphisms_WeaklyEtale
+import Definitions.Def_ProEtale_Morphisms_WeaklyEtale_Lib
+import Definitions.Def_ProEtale_Pro_Basic
+import Definitions.Def_ProEtale_Pro_Basic_Lib
+import Definitions.Def_ProEtale_Pro_Generating
+import Definitions.Def_ProEtale_Pro_PresheafColimit
+import Definitions.Def_ProEtale_Topology_Coherent_Affine
+import Definitions.Def_ProEtale_Topology_Coherent_Etale
+import Definitions.Def_ProEtale_Topology_Comparison_Acyclicity
+import Definitions.Def_ProEtale_Topology_Comparison_Affine
+import Definitions.Def_ProEtale_Topology_Comparison_Affine_Lib
+import Definitions.Def_ProEtale_Topology_Comparison_CechColimit
+import Definitions.Def_ProEtale_Topology_Comparison_FreeSheaf
+import Definitions.Def_ProEtale_Topology_Comparison_RepleteExact
+import Definitions.Def_ProEtale_Topology_Comparison_SectionsColimit
+import Definitions.Def_ProEtale_Topology_Comparison_WeaklyContractible
+import Definitions.Def_ProEtale_Topology_Flat_QuasiCompactCover
+import Definitions.Def_ProEtale_Topology_LocalProperties
+import Definitions.Def_ProEtale_Topology_Preliminaries_Profinite
+import Definitions.Def_ProEtale_Topology_Preliminaries_Pullback
+import Definitions.Def_ProEtale_Topology_Proetale_Basic
+import Definitions.Def_ProEtale_Topology_Proetale_Sheafification
+import Definitions.Def_ProEtale_Topology_Proetale_Sheafification_Lib
+import Definitions.Def_ProEtale_Topology_SpectralSpace_ConnectedComponent
+import Definitions.Def_ProEtale_Topology_SpectralSpace_Constructible
+import Definitions.Def_ProEtale_Topology_SpectralSpace_WLocal_Basic
+import Definitions.Def_ProEtale_Topology_SpectralSpace_WLocal_Basic_Lib
+import Definitions.Def_ProEtale_Topology_SpectralSpace_WLocal_ClosedPoints
+import Definitions.Def_ProEtale_Topology_SpectralSpace_WLocal_ConnectedComponents
+import Definitions.Def_ProEtale_Topology_SpectralSpace_WLocal_Pullback
+import Definitions.Def_ProEtale_Topology_Comparison_RepleteExact_Lib
+import Theorems.Thm_AddCommGroup_surjective_sub_shift
+import Theorems.Thm_AlgebraicGeometry_Scheme_AffineProEt_epi_of_forall_surjective_app
+import Theorems.Thm_AlgebraicGeometry_Scheme_AffineProEt_surjective_app_of_epi
+
+set_option backward.isDefEq.respectTransparency false
+set_option backward.defeqAttrib.useBackward true
+set_option relaxedAutoImplicit false
+
+/-!
+# Exactness of sequential limits of pro-étale abelian sheaves
+
+The topos of pro-étale sheaves on a scheme is replete: it has enough weakly contractible
+objects (`Proetale.Topology.Comparison.WeaklyContractible`). We deduce the two exactness
+statements needed for the comparison of continuous étale cohomology with pro-étale
+cohomology (BS, Propositions 3.1.9 and 3.1.10; blueprint `prop:replete-products-exact`
+and `prop:lim-exact-replete`):
+
+- `AlgebraicGeometry.Scheme.ProEt.epi_piMap`: products of epimorphisms of abelian
+  pro-étale sheaves are epimorphisms.
+- `AlgebraicGeometry.Scheme.ProEt.shortExact_limMap`: the limit of a levelwise short
+  exact sequence of inverse systems of abelian pro-étale sheaves is short exact, provided
+  the first system has epimorphic transition maps (Mittag-Leffler).
+- `AlgebraicGeometry.Scheme.ProEt.shortExact_telescope`: for an inverse system `G` with
+  epimorphic transition maps, the Milnor sequence
+  `0 → lim G → ∏ Gₙ → ∏ Gₙ → 0` (with second map `1 - shift`) is short exact.
+
+All proofs proceed by evaluating on weakly contractible objects of the affine pro-étale
+site, where the corresponding statements for abelian groups are elementary.
+-/
+
+universe w w' u
+
+open CategoryTheory Limits Opposite
+
+namespace AlgebraicGeometry
+namespace Scheme
+namespace ProEt
+
+variable {S : Scheme.{u}}
+
+
+section Ab
+
+/-! ### Elementary statements for abelian groups -/
+
+/-- Subtraction of morphisms of abelian groups acts pointwise. -/
+private lemma _root_.AddCommGrpCat.hom_sub_apply' {M N : AddCommGrpCat.{w}}
+    (f g : M ⟶ N) (x : ToType M) :
+    ConcreteCategory.hom (f - g) x =
+      ConcreteCategory.hom f x - ConcreteCategory.hom g x :=
+  rfl
+
+
+/-- An element of a limit of abelian groups over a discrete diagram is determined by, and
+can be assembled from, its components. -/
+private lemma _root_.AddCommGrpCat.bijective_components_of_isLimit
+    {ι : Type w} [Small.{w'} ι] {X : Discrete ι ⥤ AddCommGrpCat.{w'}} {c : Cone X}
+    (hc : IsLimit c) :
+    Function.Bijective (fun (t : ToType c.pt) (i : ι) ↦
+      ConcreteCategory.hom (c.π.app ⟨i⟩) t) := by
+  have hT : IsLimit ((CategoryTheory.forget AddCommGrpCat.{w'}).mapCone c) :=
+    isLimitOfPreserves (CategoryTheory.forget AddCommGrpCat.{w'}) hc
+  -- Extracting the components of a section of the discrete diagram is bijective.
+  have hsec : Function.Bijective
+      (fun (s : (X ⋙ CategoryTheory.forget AddCommGrpCat.{w'}).sections) (i : ι) ↦ s.1 ⟨i⟩) := by
+    constructor
+    · intro s₁ s₂ h
+      apply Subtype.ext
+      funext k
+      exact congrFun h k.as
+    · intro g
+      refine ⟨⟨fun k ↦ g k.as, ?_⟩, rfl⟩
+      intro k k' f
+      obtain ⟨i⟩ := k
+      obtain ⟨j⟩ := k'
+      obtain rfl : i = j := Discrete.eq_of_hom f
+      have hf : (X ⋙ CategoryTheory.forget AddCommGrpCat.{w'}).map f = 𝟙 _ :=
+        Discrete.functor_map_id _ f
+      rw [hf]
+      exact ConcreteCategory.id_apply _
+  have key : (fun (t : ToType c.pt) (i : ι) ↦ ConcreteCategory.hom (c.π.app ⟨i⟩) t) =
+      (fun (s : (X ⋙ CategoryTheory.forget AddCommGrpCat.{w'}).sections) (i : ι) ↦ s.1 ⟨i⟩) ∘
+        (Types.isLimitEquivSections hT) := by
+    funext t i
+    exact (Types.isLimitEquivSections_apply hT ⟨i⟩ t).symm
+  rw [key]
+  exact hsec.comp (Types.isLimitEquivSections hT).bijective
+
+
+end Ab
+
+section Sheaf
+
+variable (F G : Sheaf (ProEt.topology S) Ab.{u + 1})
+
+/-- The sections functor of abelian pro-étale sheaves over (the image in the pro-étale
+site of) an object of the affine pro-étale site. -/
+private def secW (W : S.AffineProEt) :
+    Sheaf (ProEt.topology S) Ab.{u + 1} ⥤ Ab.{u + 1} :=
+  sheafToPresheaf _ _ ⋙
+    (CategoryTheory.evaluation (S.ProEt)ᵒᵖ Ab.{u + 1}).obj
+      (op ((AffineProEt.toProEt S).obj W))
+
+/-- The sections functor preserves all limits that exist in `Ab`: the forgetful functor
+to presheaves creates them and evaluation preserves them. -/
+private instance inst_SolTopologyComparisonRepleteExact_L255 (W : S.AffineProEt) {J : Type w} [Category.{w'} J]
+    [HasLimitsOfShape J Ab.{u + 1}] : PreservesLimitsOfShape J (secW W) :=
+  inferInstanceAs (PreservesLimitsOfShape J (_ ⋙ _))
+
+/-- The sections functor is additive: addition of morphisms of sheaves is sectionwise. -/
+private instance inst_SolTopologyComparisonRepleteExact_L261 (W : S.AffineProEt) : (secW W).Additive where
+  map_add := rfl
+
+
+variable {T : ShortComplex (ℕᵒᵖ ⥤ Sheaf (ProEt.topology S) Ab.{u + 1})}
+
+
+variable (G : ℕᵒᵖ ⥤ Sheaf (ProEt.topology S) Ab.{u + 1})
+
+
+/-- The `n`-th component of the telescope morphism. -/
+private lemma telescope_comp_π (n : ℕ) :
+    telescope G ≫ Pi.π (fun n : ℕ ↦ G.obj (op n)) n =
+      Pi.π (fun n : ℕ ↦ G.obj (op n)) n -
+        Pi.π (fun n : ℕ ↦ G.obj (op n)) (n + 1) ≫ SequentialSystem.transition G n := by
+  simp only [telescope, Preadditive.sub_comp, Category.id_comp, Pi.lift_π]
+
+/-- The `n`-th component of the comparison morphism. -/
+private lemma limToPi_π (n : ℕ) :
+    limToPi G ≫ Pi.π (fun n : ℕ ↦ G.obj (op n)) n = limit.π G (op n) := by
+  simp only [limToPi, Pi.lift_π]
+
+
+/-- **The Milnor sequence** `0 → lim G → ∏ Gₙ → ∏ Gₙ → 0` for an inverse system of
+abelian pro-étale sheaves with epimorphic transition maps. -/
+theorem shortExact_telescope (hG : ∀ n, Epi (SequentialSystem.transition G n)) :
+    (ShortComplex.mk (limToPi G) (telescope G) (limToPi_comp_telescope G)).ShortExact := by
+  -- * `Mono (limToPi G)` and exactness: `limToPi G` is the kernel of `telescope G`.
+  -- * `Epi (telescope G)`: reduce to sections over weakly contractible `W` and apply
+  --   `AddCommGroup.surjective_sub_shift`.
+  -- A morphism into the product killed by the telescope has successively compatible
+  -- components.
+  have hcompat : ∀ {Z : Sheaf (ProEt.topology S) Ab.{u + 1}}
+      (h : Z ⟶ ∏ᶜ fun n : ℕ ↦ G.obj (op n)), h ≫ telescope G = 0 → ∀ n,
+      (h ≫ Pi.π (fun n : ℕ ↦ G.obj (op n)) (n + 1)) ≫ SequentialSystem.transition G n =
+        h ≫ Pi.π (fun n : ℕ ↦ G.obj (op n)) n := by
+    intro Z h hh n
+    have hc : h ≫ telescope G ≫ Pi.π (fun n : ℕ ↦ G.obj (op n)) n = 0 := by
+      rw [← Category.assoc, hh, zero_comp]
+    rw [telescope_comp_π, Preadditive.comp_sub, sub_eq_zero] at hc
+    rw [Category.assoc]
+    exact hc.symm
+  -- The kernel fork given by `limToPi G` is limiting.
+  have hfork : IsLimit (KernelFork.ofι (limToPi G) (limToPi_comp_telescope G)) := by
+    refine KernelFork.IsLimit.ofι _ _
+      (fun {Z} h hh ↦ limit.lift G
+        ⟨Z, SequentialSystem.natTransOfSucc
+          (fun n ↦ h ≫ Pi.π (fun n : ℕ ↦ G.obj (op n)) n) (hcompat h hh)⟩)
+      (fun {Z} h hh ↦ ?_) (fun {Z} h hh m hm ↦ ?_)
+    · refine Limits.Pi.hom_ext _ _ fun n ↦ ?_
+      rw [Category.assoc, limToPi_π, limit.lift_π]
+      rfl
+    · refine limit.hom_ext fun k ↦ ?_
+      obtain ⟨n⟩ := k
+      rw [limit.lift_π]
+      change m ≫ limit.π G (op n) = h ≫ Pi.π (fun n : ℕ ↦ G.obj (op n)) n
+      rw [← limToPi_π, ← Category.assoc, hm]
+  haveI hmono : Mono (limToPi G) := mono_of_isLimit_fork hfork
+  have hexact : (ShortComplex.mk (limToPi G) (telescope G)
+      (limToPi_comp_telescope G)).Exact :=
+    ShortComplex.exact_of_f_is_kernel _ hfork
+  -- The telescope is an epimorphism: check on sections over weakly contractible objects.
+  have hepi : Epi (telescope G) := by
+    refine AffineProEt.epi_of_forall_surjective_app _ fun W hW ↦ ?_
+    have hP : IsLimit
+        ((secW W).mapCone (limit.cone (Discrete.functor fun n : ℕ ↦ G.obj (op n)))) :=
+      isLimitOfPreserves (secW W) (limit.isLimit _)
+    have hbij := AddCommGrpCat.bijective_components_of_isLimit hP
+    intro t
+    have hstep : ∀ n, Function.Surjective
+        (ConcreteCategory.hom ((secW W).map (SequentialSystem.transition G n))) := by
+      intro n
+      haveI : Epi (SequentialSystem.transition G n) := hG n
+      exact AffineProEt.surjective_app_of_epi (SequentialSystem.transition G n) hW
+    -- Solve the telescope equation on sections.
+    obtain ⟨x, hx⟩ := AddCommGroup.surjective_sub_shift
+      (G := fun n ↦ ToType ((secW W).obj (G.obj (op n))))
+      (fun n ↦ ConcreteCategory.hom ((secW W).map (SequentialSystem.transition G n)))
+      hstep
+      (fun i ↦ ConcreteCategory.hom
+        ((secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) i)) t)
+    obtain ⟨s, hs⟩ := hbij.2 x
+    have hsi : ∀ i, ConcreteCategory.hom
+        ((secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) i)) s = x i :=
+      fun i ↦ congrFun hs i
+    have hxi : ∀ i, x i - ConcreteCategory.hom
+        ((secW W).map (SequentialSystem.transition G i)) (x (i + 1)) =
+        ConcreteCategory.hom ((secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) i)) t :=
+      fun i ↦ congrFun hx i
+    refine ⟨s, hbij.1 ?_⟩
+    funext i
+    have e1 : (secW W).map (telescope G) ≫
+        (secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) i) =
+        (secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) i) -
+          (secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) (i + 1) ≫
+            SequentialSystem.transition G i) := by
+      rw [← Functor.map_comp, telescope_comp_π, Functor.map_sub]
+    calc ConcreteCategory.hom ((secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) i))
+          (ConcreteCategory.hom ((secW W).map (telescope G)) s)
+        = ConcreteCategory.hom ((secW W).map (telescope G) ≫
+            (secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) i)) s :=
+          (ConcreteCategory.comp_apply _ _ _).symm
+      _ = ConcreteCategory.hom ((secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) i) -
+            (secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) (i + 1) ≫
+              SequentialSystem.transition G i)) s :=
+          ConcreteCategory.congr_hom e1 s
+      _ = ConcreteCategory.hom ((secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) i)) s -
+            ConcreteCategory.hom ((secW W).map
+              (Pi.π (fun n : ℕ ↦ G.obj (op n)) (i + 1) ≫
+                SequentialSystem.transition G i)) s :=
+          AddCommGrpCat.hom_sub_apply' _ _ s
+      _ = ConcreteCategory.hom ((secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) i)) s -
+            ConcreteCategory.hom ((secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) (i + 1)) ≫
+              (secW W).map (SequentialSystem.transition G i)) s := by
+          rw [Functor.map_comp]
+      _ = ConcreteCategory.hom ((secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) i)) s -
+            ConcreteCategory.hom ((secW W).map (SequentialSystem.transition G i))
+              (ConcreteCategory.hom
+                ((secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) (i + 1))) s) := by
+          rw [ConcreteCategory.comp_apply]
+      _ = x i - ConcreteCategory.hom ((secW W).map (SequentialSystem.transition G i))
+            (x (i + 1)) := by
+          rw [hsi i, hsi (i + 1)]
+      _ = ConcreteCategory.hom ((secW W).map (Pi.π (fun n : ℕ ↦ G.obj (op n)) i)) t :=
+          hxi i
+  exact ShortComplex.ShortExact.mk' hexact hmono hepi
+
+end Sheaf
+
+end ProEt
+end Scheme
+end AlgebraicGeometry
+
+
+theorem solution.{sol_u1} : type_of% @AlgebraicGeometry.Scheme.ProEt.shortExact_telescope.{sol_u1} := @AlgebraicGeometry.Scheme.ProEt.shortExact_telescope.{sol_u1}
