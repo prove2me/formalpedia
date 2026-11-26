@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_mem_rscale_length_le
 -- name    : Sendov.mem_rscale_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:05:28.783523+00:00
 -- url     : https://prove2.me/theorems/e3b76a16-2e39-441e-a831-691ac1213b1d

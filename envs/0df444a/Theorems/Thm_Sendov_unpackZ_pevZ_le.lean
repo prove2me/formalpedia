@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_unpackZ_pevZ_le
 -- name    : Sendov.unpackZ_pevZ_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:04:50.536912+00:00
 -- url     : https://prove2.me/theorems/00bc3bca-6473-4782-9682-6a1af7922f85

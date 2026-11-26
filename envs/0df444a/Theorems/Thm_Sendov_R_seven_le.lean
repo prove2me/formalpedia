@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_R_seven_le
 -- name    : Sendov.R_seven_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:59:36.684711+00:00
 -- url     : https://prove2.me/theorems/045c2367-ebbb-5101-9d77-cbfe712f6673

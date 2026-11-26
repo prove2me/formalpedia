@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B12_13_c_lo
 -- name    : Sendov.B12_13.c_lo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:06:49.267515+00:00
 -- url     : https://prove2.me/theorems/ca112c17-d0ea-589d-a0af-cb8f6bc199eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_wsum_length_le
 -- name    : Sendov.wsum_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:03:23.903182+00:00
 -- url     : https://prove2.me/theorems/9333e9e9-36fe-5ff1-84b6-2822633ded08

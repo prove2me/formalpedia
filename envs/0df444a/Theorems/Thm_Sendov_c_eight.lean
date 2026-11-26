@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_c_eight
 -- name    : Sendov.c_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:59:44.007632+00:00
 -- url     : https://prove2.me/theorems/7813e6f7-30ba-56ae-8f60-3f86aa815db7

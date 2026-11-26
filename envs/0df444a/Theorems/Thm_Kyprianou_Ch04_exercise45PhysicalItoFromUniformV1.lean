@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45PhysicalItoFromUniformV1
 -- name    : Kyprianou.Ch04.exercise45PhysicalItoFromUniformV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T13:00:09.676986+00:00
 -- url     : https://prove2.me/theorems/c87c2111-3017-5cae-928f-b192b94a9762

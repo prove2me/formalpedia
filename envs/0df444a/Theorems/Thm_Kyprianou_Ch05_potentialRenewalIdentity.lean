@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_potentialRenewalIdentity
 -- name    : Kyprianou.Ch05.potentialRenewalIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:48:10.234719+00:00
 -- url     : https://prove2.me/theorems/236fd4ab-a605-4b79-a83b-a3aaf7704a5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GRH_weighted_energy_first_and_covered_grids
 -- name    : GRH.weighted_energy_first_and_covered_grids
--- status  : Open
+-- status  : Proved
 -- author  : @scuba8684
 -- created : 2026-11-26T18:07:26.941357+00:00
 -- url     : https://prove2.me/theorems/1b1da4d6-66cd-4891-960c-a2298ab94ac3

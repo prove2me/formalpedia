@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_pev_append_zeros
 -- name    : Sendov.pev_append_zeros
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:04:47.332119+00:00
 -- url     : https://prove2.me/theorems/f8d22908-85ab-47c3-b5f0-3f54221689ef

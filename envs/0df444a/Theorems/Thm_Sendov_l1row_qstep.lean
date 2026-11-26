@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_l1row_qstep
 -- name    : Sendov.l1row_qstep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:04:41.443798+00:00
 -- url     : https://prove2.me/theorems/8078b4a9-5ff8-57c0-ad4e-1e32a01c5073

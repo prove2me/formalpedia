@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_R_five_le
 -- name    : Sendov.R_five_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:57:15.206893+00:00
 -- url     : https://prove2.me/theorems/07d9051c-46eb-4126-9ac6-438f7e181fdf

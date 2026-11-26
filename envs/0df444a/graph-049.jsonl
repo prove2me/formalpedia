@@ -14002,8 +14002,8 @@
 {"parent": "RPLib_FX_GOSC_GL", "child": "RPLib_FX_GOSC_14", "via": ["statement"]}
 {"parent": "MaxwellWave_wave_ops", "child": "MaxwellWave_calculus", "via": ["statement"]}
 {"parent": "ManyServerQED.Scheduling.uniform_path_approximation_transfers_norm_and_modulus_bounds", "child": "ManyServerQED.Scheduling.weak_continuous_path_laws_control_norm_and_modulus", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.renewalKernelSumInterchange", "child": "Kyprianou_Ch05_RenewalEpochProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.renewalKernelSumInterchange", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.renewalKernelSumInterchange", "child": "Kyprianou_Ch05_RenewalEpochProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.renewalKernelSumInterchange", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.renewalTailEventKernel", "child": "Kyprianou_Ch05_RenewalEpochProcess", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.renewalTailEventKernel", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
 {"parent": "StableMSR_OneVertexTrial", "child": "StableMSR_FeasibleEntryEmission", "via": ["statement"]}
@@ -63000,7 +63000,7 @@
 {"parent": "FirstPassageLinearTransport.fixedJointPolylogHeight_eq_on_shell", "child": "FirstPassageLinearTransport_FixedJointExceptionalOrder", "via": ["solution", "statement"]}
 {"parent": "FirstPassageLinearTransport.fixedJointPolylogHeight_eq_on_shell", "child": "FirstPassageLinearTransport_SharpJointExceptionalOrders", "via": ["solution", "statement"]}
 {"parent": "FirstPassageLinearTransport.fixedJointPolylogHeight_eq_on_shell", "child": "FirstPassageLinearTransport_CriticalEndpointConsequences", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.exercise45PhysicalUCPFromUniformV1", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise45PhysicalUCPFromUniformV1", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["solution", "statement"]}
 {"parent": "Eden.radialRate_eq_q_add", "child": "Eden_Basic", "via": ["solution", "statement"]}
 {"parent": "Eden.radialRate_eq_q_add", "child": "Eden_Algebra", "via": ["solution", "statement"]}
 {"parent": "norm_aeval_le_one_add_sqrt_two_mul_polynomialSupNorm_closedBall_of_aux_eq", "child": "Operator_Crouzeix_VonNeumann", "via": ["solution", "statement"]}
@@ -99398,13 +99398,13 @@
 {"parent": "TunnellMap.GloballyRanked.DAState.auxiliaryRecordSlots_le_four_mul", "child": "TunnellMap_DeferredAcceptanceStability", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.GloballyRanked.DAState.auxiliaryRecordSlots_le_four_mul", "child": "TunnellMap_PreferenceListPosition", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.GloballyRanked.DAState.auxiliaryRecordSlots_le_four_mul", "child": "TunnellMap_DeferredAcceptanceAccounting", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p14_rates_sum", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p14_rates_sum", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.GloballyRanked.sharpProposalCount_total_mul_two", "child": "TunnellMap_Sharpness", "via": ["solution", "statement"]}

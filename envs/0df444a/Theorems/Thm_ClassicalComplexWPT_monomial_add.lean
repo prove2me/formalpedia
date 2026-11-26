@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_monomial_add
 -- name    : ClassicalComplexWPT.monomial_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:58:01.465184+00:00
 -- url     : https://prove2.me/theorems/4c8c60a3-1e5c-4923-a52c-68bd3c95a990

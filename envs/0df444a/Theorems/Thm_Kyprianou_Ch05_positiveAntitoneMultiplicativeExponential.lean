@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_positiveAntitoneMultiplicativeExponential
 -- name    : Kyprianou.Ch05.positiveAntitoneMultiplicativeExponential
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:22:45.669678+00:00
 -- url     : https://prove2.me/theorems/6dd953a7-f384-435f-a2ab-2c28a7ff7924

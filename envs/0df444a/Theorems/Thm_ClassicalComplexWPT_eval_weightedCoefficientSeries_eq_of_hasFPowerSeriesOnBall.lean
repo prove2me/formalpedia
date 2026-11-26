@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_eval_weightedCoefficientSeries_eq_of_hasFPowerSeriesOnBall
 -- name    : ClassicalComplexWPT.eval_weightedCoefficientSeries_eq_of_hasFPowerSeriesOnBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:03:51.451866+00:00
 -- url     : https://prove2.me/theorems/cc441f93-472b-4893-8cf5-45e61c15b798

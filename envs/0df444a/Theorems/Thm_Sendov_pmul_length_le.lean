@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_pmul_length_le
 -- name    : Sendov.pmul_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:05:12.889855+00:00
 -- url     : https://prove2.me/theorems/43deb8c2-fa30-4c9b-9865-d66291ecfd8d

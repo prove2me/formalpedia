@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B8_9_integral_lo
 -- name    : Sendov.B8_9.integral_lo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:06:14.974522+00:00
 -- url     : https://prove2.me/theorems/98a08a6e-6dad-58cf-8f5f-b16bed3c120d

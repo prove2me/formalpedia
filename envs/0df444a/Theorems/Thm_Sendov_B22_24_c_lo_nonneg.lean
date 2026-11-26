@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B22_24_c_lo_nonneg
 -- name    : Sendov.B22_24.c_lo_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:09:26.318478+00:00
 -- url     : https://prove2.me/theorems/fb1a0416-01be-5792-9245-8e581092e71f

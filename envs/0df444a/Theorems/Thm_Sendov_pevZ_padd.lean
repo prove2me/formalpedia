@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_pevZ_padd
 -- name    : Sendov.pevZ_padd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:05:07.444972+00:00
 -- url     : https://prove2.me/theorems/16492d75-1118-49bb-b596-82011aea8f18

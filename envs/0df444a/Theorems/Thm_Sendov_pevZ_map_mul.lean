@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_pevZ_map_mul
 -- name    : Sendov.pevZ_map_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:05:01.129269+00:00
 -- url     : https://prove2.me/theorems/557aacc5-67fc-5954-92bb-8b58ec6ae18f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45ItoJumpLimitV1
 -- name    : Kyprianou.Ch04.exercise45ItoJumpLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:21:58.265578+00:00
 -- url     : https://prove2.me/theorems/25bd6127-cf07-59d2-a2ba-0b38d30d448e

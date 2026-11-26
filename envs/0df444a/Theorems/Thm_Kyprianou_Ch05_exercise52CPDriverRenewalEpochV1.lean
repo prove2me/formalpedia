@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_exercise52CPDriverRenewalEpochV1
 -- name    : Kyprianou.Ch05.exercise52CPDriverRenewalEpochV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:31:03.265771+00:00
 -- url     : https://prove2.me/theorems/034b88a5-ecb3-5fbc-9a86-1488cc11c88d

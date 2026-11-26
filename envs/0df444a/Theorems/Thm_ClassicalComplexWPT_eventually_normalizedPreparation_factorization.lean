@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_eventually_normalizedPreparation_factorization
 -- name    : ClassicalComplexWPT.eventually_normalizedPreparation_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:09:18.62335+00:00
 -- url     : https://prove2.me/theorems/2168e8ba-133f-56ec-bc0e-b89f23a9491c

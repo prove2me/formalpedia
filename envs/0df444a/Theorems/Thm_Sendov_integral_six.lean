@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_integral_six
 -- name    : Sendov.integral_six
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:59:22.304058+00:00
 -- url     : https://prove2.me/theorems/437c6d3d-77af-5c9a-b332-a5a8319eaeb1

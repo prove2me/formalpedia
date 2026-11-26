@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_normalizedPreparationQuotient_zero_apply_zero
 -- name    : ClassicalComplexWPT.normalizedPreparationQuotient_zero_apply_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:09:41.507386+00:00
 -- url     : https://prove2.me/theorems/ba834898-cf1d-4c10-8aa5-34fb9e97aeaa

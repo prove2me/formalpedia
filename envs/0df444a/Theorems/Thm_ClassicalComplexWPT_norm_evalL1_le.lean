@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_norm_evalL1_le
 -- name    : ClassicalComplexWPT.norm_evalL1_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:58:11.67059+00:00
 -- url     : https://prove2.me/theorems/4ca77b69-d011-5231-8b26-dc6bffb744f2

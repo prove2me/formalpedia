@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_analyticAt_divisionQuotientFormula
 -- name    : ClassicalComplexWPT.analyticAt_divisionQuotientFormula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:04:56.43038+00:00
 -- url     : https://prove2.me/theorems/268c9aab-252a-4025-a15e-c1bccaa47601

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_rowZ_qrow_eq
 -- name    : Sendov.rowZ_qrow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:03:19.824479+00:00
 -- url     : https://prove2.me/theorems/361979dd-03fe-44eb-8fdd-ce632b18e677

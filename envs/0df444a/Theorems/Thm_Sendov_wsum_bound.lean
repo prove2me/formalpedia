@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_wsum_bound
 -- name    : Sendov.wsum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:03:27.646266+00:00
 -- url     : https://prove2.me/theorems/bdd5400f-67b3-5072-972d-ff08f3ef63a1

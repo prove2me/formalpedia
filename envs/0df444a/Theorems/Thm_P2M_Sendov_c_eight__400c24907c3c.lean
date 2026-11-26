@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Sendov_c_eight__400c24907c3c
 -- name    : P2M_Sendov_c_eight__400c24907c3c
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:59:56.017649+00:00
 -- url     : https://prove2.me/theorems/363e4a13-76fe-427d-ac43-22a05bd666a7

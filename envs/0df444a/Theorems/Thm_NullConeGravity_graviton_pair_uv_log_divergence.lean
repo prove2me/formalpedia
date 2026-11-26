@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NullConeGravity_graviton_pair_uv_log_divergence
 -- name    : NullConeGravity.graviton_pair_uv_log_divergence
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-26T14:12:55.579922+00:00
 -- url     : https://prove2.me/theorems/cbc3f833-e25b-4c29-8467-73fca1b3c2c9

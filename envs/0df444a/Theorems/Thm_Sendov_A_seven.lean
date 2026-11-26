@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_A_seven
 -- name    : Sendov.A_seven
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:59:29.264213+00:00
 -- url     : https://prove2.me/theorems/4d3461b8-b174-57d7-bb1e-79c2a9b0fba2

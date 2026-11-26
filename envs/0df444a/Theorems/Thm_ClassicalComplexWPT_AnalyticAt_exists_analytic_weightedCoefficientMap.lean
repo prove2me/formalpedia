@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_AnalyticAt_exists_analytic_weightedCoefficientMap
 -- name    : ClassicalComplexWPT.AnalyticAt.exists_analytic_weightedCoefficientMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:00:18.411333+00:00
 -- url     : https://prove2.me/theorems/b7a19d76-bebe-5d4e-b4c1-6c6c5ae34615

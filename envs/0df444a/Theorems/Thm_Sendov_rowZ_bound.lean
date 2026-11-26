@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_rowZ_bound
 -- name    : Sendov.rowZ_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:03:39.467799+00:00
 -- url     : https://prove2.me/theorems/9e3a62e6-9aa8-4701-a7dd-83107ae87024

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_integral_twenty_packed
 -- name    : Sendov.integral_twenty_packed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:05:29.733806+00:00
 -- url     : https://prove2.me/theorems/3f740679-c5b5-5bc0-8664-f44663ed3bfe

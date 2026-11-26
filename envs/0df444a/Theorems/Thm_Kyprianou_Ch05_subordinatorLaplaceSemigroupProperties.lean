@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_subordinatorLaplaceSemigroupProperties
 -- name    : Kyprianou.Ch05.subordinatorLaplaceSemigroupProperties
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:22:46.608115+00:00
 -- url     : https://prove2.me/theorems/7f8213cb-4acc-4aa8-8f79-84344d006152

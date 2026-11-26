@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B8_9_c_lo
 -- name    : Sendov.B8_9.c_lo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:06:18.023848+00:00
 -- url     : https://prove2.me/theorems/1cf3d6b9-b337-4218-8e80-a1e00ca9979d

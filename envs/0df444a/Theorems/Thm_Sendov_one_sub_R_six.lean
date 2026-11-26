@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_one_sub_R_six
 -- name    : Sendov.one_sub_R_six
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:59:23.165357+00:00
 -- url     : https://prove2.me/theorems/9fb0e27a-4df0-52d5-af4d-34359b3e4bbf

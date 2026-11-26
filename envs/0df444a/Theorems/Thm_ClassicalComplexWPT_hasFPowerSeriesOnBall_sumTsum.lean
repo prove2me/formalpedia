@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_hasFPowerSeriesOnBall_sumTsum
 -- name    : ClassicalComplexWPT.hasFPowerSeriesOnBall_sumTsum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:08:01.997329+00:00
 -- url     : https://prove2.me/theorems/f68e1bc8-961c-580c-a888-c6480e370799

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_divisionRemainder_apply_of_le
 -- name    : ClassicalComplexWPT.divisionRemainder_apply_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:04:54.414879+00:00
 -- url     : https://prove2.me/theorems/d569df11-d0b0-448b-b301-bf46dea21ad5

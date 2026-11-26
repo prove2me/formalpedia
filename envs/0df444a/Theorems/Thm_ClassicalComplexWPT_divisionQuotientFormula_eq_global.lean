@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_divisionQuotientFormula_eq_global
 -- name    : ClassicalComplexWPT.divisionQuotientFormula_eq_global
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:05:23.115039+00:00
 -- url     : https://prove2.me/theorems/ed9afa99-a01e-488b-a0ab-4fdbd87d76bb

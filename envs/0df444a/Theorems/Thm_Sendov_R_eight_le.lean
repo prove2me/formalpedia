@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_R_eight_le
 -- name    : Sendov.R_eight_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:59:54.959036+00:00
 -- url     : https://prove2.me/theorems/9552e86e-d699-47b8-aff5-4b9b45eeae4a

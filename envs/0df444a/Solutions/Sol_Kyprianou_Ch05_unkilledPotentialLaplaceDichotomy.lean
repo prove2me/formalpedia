@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.unkilledPotentialLaplaceDichotomy
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T17:23:40.291629+00:00
 -- url     : https://prove2.me/submissions/be7f7f3d-246d-4381-9b9f-6968c44a9ffa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch05_KilledSubordinatorPotential

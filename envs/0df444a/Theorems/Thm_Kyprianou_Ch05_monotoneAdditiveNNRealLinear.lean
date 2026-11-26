@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_monotoneAdditiveNNRealLinear
 -- name    : Kyprianou.Ch05.monotoneAdditiveNNRealLinear
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:22:38.07384+00:00
 -- url     : https://prove2.me/theorems/1a8b7f30-1557-57fd-83e0-df883d934b81

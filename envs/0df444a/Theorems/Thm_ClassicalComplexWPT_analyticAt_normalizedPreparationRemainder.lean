@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_analyticAt_normalizedPreparationRemainder
 -- name    : ClassicalComplexWPT.analyticAt_normalizedPreparationRemainder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:09:11.120949+00:00
 -- url     : https://prove2.me/theorems/6bb806db-6861-5560-99a7-b1da16b2e9d3

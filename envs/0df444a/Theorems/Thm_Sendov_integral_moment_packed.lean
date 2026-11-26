@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_integral_moment_packed
 -- name    : Sendov.integral_moment_packed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:03:11.47774+00:00
 -- url     : https://prove2.me/theorems/c8c3847f-2c6d-55b3-9bea-273d59125361

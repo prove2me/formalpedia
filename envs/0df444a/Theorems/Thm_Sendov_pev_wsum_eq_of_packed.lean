@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_pev_wsum_eq_of_packed
 -- name    : Sendov.pev_wsum_eq_of_packed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:03:28.164808+00:00
 -- url     : https://prove2.me/theorems/e72da500-fd51-5a79-96a6-3aadc9b9dca3

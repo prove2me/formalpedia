@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_mem_radd_length_le
 -- name    : Sendov.mem_radd_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:05:11.494885+00:00
 -- url     : https://prove2.me/theorems/ef72725c-a6cd-4a5a-a9ac-e071898cba0c

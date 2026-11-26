@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_division_existsUnique
 -- name    : ClassicalComplexWPT.division_existsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:05:05.11018+00:00
 -- url     : https://prove2.me/theorems/850ec597-fa35-4c2a-86b9-9e7a1eae43d9

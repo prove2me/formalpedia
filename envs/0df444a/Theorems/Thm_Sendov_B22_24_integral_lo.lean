@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B22_24_integral_lo
 -- name    : Sendov.B22_24.integral_lo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:09:35.327974+00:00
 -- url     : https://prove2.me/theorems/5401f5dc-b60f-434b-9eba-eefebe0a411a

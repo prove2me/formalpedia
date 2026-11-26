@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_summable_evalL1_terms
 -- name    : ClassicalComplexWPT.summable_evalL1_terms
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:58:00.468461+00:00
 -- url     : https://prove2.me/theorems/dd292614-7a84-514f-840b-4515da472a51

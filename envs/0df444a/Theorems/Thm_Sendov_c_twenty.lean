@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_c_twenty
 -- name    : Sendov.c_twenty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:00:46.579194+00:00
 -- url     : https://prove2.me/theorems/5f19d7b9-c150-5fe3-9609-2bc535c95ec6

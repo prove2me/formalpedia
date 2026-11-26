@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_seqDivision_existsUnique
 -- name    : ClassicalComplexWPT.seqDivision_existsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:06:38.903576+00:00
 -- url     : https://prove2.me/theorems/25955bd4-71ca-439c-b199-c9950c1a8647

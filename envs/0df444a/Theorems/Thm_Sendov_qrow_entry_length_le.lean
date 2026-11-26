@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_qrow_entry_length_le
 -- name    : Sendov.qrow_entry_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:03:12.735953+00:00
 -- url     : https://prove2.me/theorems/fb1b21c9-7218-502e-8cd4-26ef113ef026

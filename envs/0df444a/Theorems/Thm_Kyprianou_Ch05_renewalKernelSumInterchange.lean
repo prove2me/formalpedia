@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_renewalKernelSumInterchange
 -- name    : Kyprianou.Ch05.renewalKernelSumInterchange
--- status  : Open
+-- status  : Proved
 -- author  : @DAGA
 -- created : 2026-11-26T03:07:06.30187+00:00
 -- url     : https://prove2.me/theorems/65725ea4-9e02-5c84-90e8-1334d22b0da1

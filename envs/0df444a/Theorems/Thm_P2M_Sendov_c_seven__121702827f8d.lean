@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Sendov_c_seven__121702827f8d
 -- name    : P2M_Sendov_c_seven__121702827f8d
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:59:32.96927+00:00
 -- url     : https://prove2.me/theorems/4f80227e-3ebe-50af-8954-8fc800080ade

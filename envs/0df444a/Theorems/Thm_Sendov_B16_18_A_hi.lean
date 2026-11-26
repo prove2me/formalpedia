@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_B16_18_A_hi
 -- name    : Sendov.B16_18.A_hi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:07:27.257989+00:00
 -- url     : https://prove2.me/theorems/ced5e3d3-93e8-57ec-8a3e-d6045005ef94

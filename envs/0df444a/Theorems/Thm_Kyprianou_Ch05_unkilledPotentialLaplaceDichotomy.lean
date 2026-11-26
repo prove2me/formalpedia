@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_unkilledPotentialLaplaceDichotomy
 -- name    : Kyprianou.Ch05.unkilledPotentialLaplaceDichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:18:17.010406+00:00
 -- url     : https://prove2.me/theorems/cbe8356f-6685-46d0-bf57-78977a3b6679

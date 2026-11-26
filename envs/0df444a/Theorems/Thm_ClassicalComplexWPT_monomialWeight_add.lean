@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_monomialWeight_add
 -- name    : ClassicalComplexWPT.monomialWeight_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:57:57.709506+00:00
 -- url     : https://prove2.me/theorems/4f6b0626-1cc7-59a5-b4d8-db05a389b3b7

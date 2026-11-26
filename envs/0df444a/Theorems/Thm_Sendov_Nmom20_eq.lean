@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_Nmom20_eq
 -- name    : Sendov.Nmom20_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:05:31.051711+00:00
 -- url     : https://prove2.me/theorems/14cf6e19-a24e-58a5-ab6f-c00beb7def55

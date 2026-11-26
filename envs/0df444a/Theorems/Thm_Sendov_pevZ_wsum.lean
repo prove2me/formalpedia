@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_pevZ_wsum
 -- name    : Sendov.pevZ_wsum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:03:42.219426+00:00
 -- url     : https://prove2.me/theorems/e4ba29f9-8e9d-5185-8160-6ee0f67450c4

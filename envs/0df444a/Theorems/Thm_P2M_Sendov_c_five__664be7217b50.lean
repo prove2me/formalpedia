@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Sendov_c_five__664be7217b50
 -- name    : P2M_Sendov_c_five__664be7217b50
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:57:14.025133+00:00
 -- url     : https://prove2.me/theorems/c407e082-d86b-4783-ba6f-ecf1365c40af

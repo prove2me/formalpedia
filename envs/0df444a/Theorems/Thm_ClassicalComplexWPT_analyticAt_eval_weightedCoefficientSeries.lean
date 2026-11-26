@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_analyticAt_eval_weightedCoefficientSeries
 -- name    : ClassicalComplexWPT.analyticAt_eval_weightedCoefficientSeries
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:07:51.248916+00:00
 -- url     : https://prove2.me/theorems/e137f020-43c1-5240-b9e0-6dd8ff775076

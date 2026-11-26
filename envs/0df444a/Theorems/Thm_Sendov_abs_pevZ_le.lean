@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_abs_pevZ_le
 -- name    : Sendov.abs_pevZ_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:04:47.075046+00:00
 -- url     : https://prove2.me/theorems/6a7fa312-aef7-5126-bad3-d5893b4b6e0d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_eventually_eval_weightedCoefficientSeries_eq_of_hasFPowerSeriesAt
 -- name    : ClassicalComplexWPT.eventually_eval_weightedCoefficientSeries_eq_of_hasFPowerSeriesAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:07:56.168893+00:00
 -- url     : https://prove2.me/theorems/65a8fa18-d74c-5dbd-a482-4633a3c8b8a9

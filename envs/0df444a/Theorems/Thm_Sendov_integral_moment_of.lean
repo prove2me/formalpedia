@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_integral_moment_of
 -- name    : Sendov.integral_moment_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:03:48.168668+00:00
 -- url     : https://prove2.me/theorems/af7aa41e-b206-5f16-b76b-ddfee718b808

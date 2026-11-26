@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_subordinatorLaplaceAntitone
 -- name    : Kyprianou.Ch05.subordinatorLaplaceAntitone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:25:39.857526+00:00
 -- url     : https://prove2.me/theorems/f5acc300-cefd-5ad3-9891-a363d109a2f6

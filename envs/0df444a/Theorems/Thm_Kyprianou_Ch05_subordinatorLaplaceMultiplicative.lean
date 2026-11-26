@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_subordinatorLaplaceMultiplicative
 -- name    : Kyprianou.Ch05.subordinatorLaplaceMultiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:25:39.960317+00:00
 -- url     : https://prove2.me/theorems/1e94a91b-44ed-4fae-b4c8-4ec3477f5436

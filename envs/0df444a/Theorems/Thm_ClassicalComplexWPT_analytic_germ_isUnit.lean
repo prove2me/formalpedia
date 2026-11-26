@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassicalComplexWPT_analytic_germ_isUnit
 -- name    : ClassicalComplexWPT.analytic_germ_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:57:20.32529+00:00
 -- url     : https://prove2.me/theorems/40e9757a-bd12-459d-b895-7011a17f449b

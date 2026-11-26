@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_l1_le_l1row
 -- name    : Sendov.l1_le_l1row
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T18:05:18.244351+00:00
 -- url     : https://prove2.me/theorems/a4df97f3-6c1c-524b-8bc2-5d9c31bde7eb

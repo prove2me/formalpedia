@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45ItoLargeIntegralLimitV1
 -- name    : Kyprianou.Ch04.exercise45ItoLargeIntegralLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:21:54.763804+00:00
 -- url     : https://prove2.me/theorems/772d6e3b-2c33-5a34-97d9-09be1822d1b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_subordinatorLaplacePositiveBound
 -- name    : Kyprianou.Ch05.subordinatorLaplacePositiveBound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:25:42.743958+00:00
 -- url     : https://prove2.me/theorems/bc595345-9e94-4488-83f2-00ecc1b0e7f2
