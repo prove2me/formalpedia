@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_renewalTailEventKernel
 -- name    : Kyprianou.Ch05.renewalTailEventKernel
--- status  : Open
+-- status  : Proved
 -- author  : @DAGA
 -- created : 2026-11-26T03:06:12.218503+00:00
 -- url     : https://prove2.me/theorems/75b902c2-33f2-4624-b814-20a3062c6e8a

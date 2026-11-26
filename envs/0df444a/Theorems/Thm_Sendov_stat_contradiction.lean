@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_stat_contradiction
 -- name    : Sendov.stat_contradiction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T20:02:32.436867+00:00
 -- url     : https://prove2.me/theorems/f673969e-675c-5cf4-96f3-2a4b15685d63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_renewalJointOvershootUndershoot
 -- name    : Kyprianou.Ch05.renewalJointOvershootUndershoot
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:49:53.042206+00:00
 -- url     : https://prove2.me/theorems/c6c3ed98-0c9c-447f-b31c-d26e55829b55

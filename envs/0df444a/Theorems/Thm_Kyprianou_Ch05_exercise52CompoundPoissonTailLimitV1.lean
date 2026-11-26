@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_exercise52CompoundPoissonTailLimitV1
 -- name    : Kyprianou.Ch05.exercise52CompoundPoissonTailLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:22:27.038303+00:00
 -- url     : https://prove2.me/theorems/e43c2fe1-becb-5e01-80f5-e9e38cc5a10d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MuirheadMST_bartlett_decomposition
 -- name    : MuirheadMST.bartlett_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @domodus
 -- created : 2026-11-26T17:37:36.90428+00:00
 -- url     : https://prove2.me/theorems/f9b70eb3-cf73-5166-8b68-3e194ac7aa51

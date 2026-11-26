@@ -1,0 +1,72 @@
+-- Prove2me | solution 1 for Kyprianou.Ch04.ito43_mark_subquadratic_ucp
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-26T20:25:37.393714+00:00
+-- url     : https://prove2.me/submissions/0856ae15-44c0-4a3f-893e-acf3ff4e61bb
+
+import Mathlib
+import Definitions.Def_Kyprianou_Ch02_LargeJumpProcess
+import Definitions.Def_Kyprianou_Ch02_CompensatedSmallJumpBand
+import Definitions.Def_LeanLevy_Processes_LevyProcess
+import Definitions.Def_LeanLevy_Levy_LevyKhintchine
+import Definitions.Def_Kyprianou_Ch01_LevyTripletExponent
+import Definitions.Def_Kyprianou_Ch04_PathJumpAndItoIntegral
+import Definitions.Def_Kyprianou_Ch04_StochasticIntegralUCPV2
+import Theorems.Thm_Kyprianou_Ch04_ito43_ucp_approximation
+import Theorems.Thm_Kyprianou_Ch04_ito43_mark_cutoff_ucp
+import Theorems.Thm_Kyprianou_Ch04_ito43_mark_small_tail_ucp
+import Theorems.Thm_Kyprianou_Ch04_ito43_cutoff_zero_near_origin
+open MeasureTheory Filter ProbabilityTheory
+open scoped NNReal ENNReal
+set_option autoImplicit false
+open Kyprianou.Ch04
+open scoped Topology
+open Set
+theorem solution {Omega : Type} [MeasurableSpace Omega]
+    (P : Measure Omega) [IsProbabilityMeasure P]
+    (X : NNReal -> Omega -> Real)
+    (hLevy : ProbabilityTheory.IsLevyProcess X P)
+    (triplet : ProbabilityTheory.LevyKhintchineTriple)
+    (hTriplet : forall (t : NNReal) (xi : Real),
+      charFun (P.map (X t)) xi =
+        Complex.exp (((t : Real) : Complex) *
+          Kyprianou.Ch01.levyTripleExponent triplet xi))
+    (Xleft : NNReal -> Omega -> Real)
+    (hLeft : ∀ᵐ omega : Omega ∂P,
+      forall t : NNReal, 0 < t ->
+        Tendsto (fun s : NNReal => X s omega)
+          (nhdsWithin t (Set.Iio t))
+          (nhds (Xleft t omega)))
+    (r : ℝ → ℝ) (hr : Continuous r) (C : ℝ) (hC : 0 ≤ C)
+    (hb : ∀ z, |r z| ≤ C*z^2)
+    (hs : ∀ e : ℝ, 0 < e → ∃ δ : ℝ, 0 < δ ∧ ∀ z, |z| ≤ δ → |r z| ≤ e*z^2) :
+    ∀ T : NNReal,
+    let E : ℕ → NNReal → Omega → ℝ := fun n t w =>
+      let u : ℕ → NNReal := fun k => T*(k:NNReal)/(n:NNReal)
+      let v : ℕ → NNReal := fun k => min t (u k)
+      (∫ z in Icc (0:ℝ) (t:ℝ) ×ˢ (univ : Set ℝ), r z.2 ∂(pathJumpMeasure X Xleft w)) -
+        ∑ k ∈ Finset.range n, r (X (v (k+1)) w-X (v k) w)
+    ∀ e : ℝ, 0 < e → Tendsto (fun n => (P {w | ∃ t ≤ T, e ≤ |E n t w|}).toReal) atTop (nhds 0) := by
+  intro T E e he
+  let A : ℕ → ℕ → NNReal → Omega → ℝ := fun m n t w =>
+    let u : ℕ → NNReal := fun k => T*(k:NNReal)/(n:NNReal)
+    let v : ℕ → NNReal := fun k => min t (u k)
+    let c : ℝ → ℝ := fun z => r z * min 1 (max 0 (|z| * ((m:ℝ)+1)-1))
+    (∫ z in Icc (0:ℝ) (t:ℝ) ×ˢ (univ : Set ℝ), c z.2 ∂(pathJumpMeasure X Xleft w)) -
+      ∑ k ∈ Finset.range n, c (X (v (k+1)) w-X (v k) w)
+  apply Kyprianou.Ch04.ito43_ucp_approximation P E A
+    (fun m n t w => E n t w-A m n t w) T (fun m n t w => by ring) ?_ ?_ e he
+  · intro m ε hε
+    let c : ℝ → ℝ := fun z => r z * min 1 (max 0 (|z| * ((m:ℝ)+1)-1))
+    obtain ⟨hχ,_,hz⟩ := Kyprianou.Ch04.ito43_cutoff_zero_near_origin m
+    have hδ : 0 < 1/((m:ℝ)+1) := by positivity
+    have hzero (z : ℝ) (h : |z| ≤ 1/((m:ℝ)+1)) : c z = 0 := by
+      have h' := (le_div_iff₀ (by positivity : 0 < (m:ℝ)+1)).mp h
+      have h0 := hz z h'
+      dsimp at h0
+      dsimp [c]
+      rw [h0,mul_zero]
+    exact Kyprianou.Ch04.ito43_mark_cutoff_ucp P X Xleft hLevy hLeft c
+      (hr.mul hχ) _ hδ hzero T ε hε
+  · exact Kyprianou.Ch04.ito43_mark_small_tail_ucp P X hLevy triplet hTriplet Xleft hLeft
+      r hr C hC hb hs T

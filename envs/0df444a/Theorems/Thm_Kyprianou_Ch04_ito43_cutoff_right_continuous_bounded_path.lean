@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cutoff_right_continuous_bounded_path
 -- name    : Kyprianou.Ch04.ito43_cutoff_right_continuous_bounded_path
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:46:21.304984+00:00
 -- url     : https://prove2.me/theorems/b69312ce-91d2-41ce-8eca-a1671c413b82

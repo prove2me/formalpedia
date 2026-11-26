@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sendov_finite_range_le_100
 -- name    : Sendov.finite_range_le_100
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T20:02:12.152651+00:00
 -- url     : https://prove2.me/theorems/52ac6143-1fbf-4d57-9990-8fee97550622

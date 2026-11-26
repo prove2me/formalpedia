@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_realToNNRealPositiveTailTransport
 -- name    : Kyprianou.Ch05.realToNNRealPositiveTailTransport
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:00:35.181026+00:00
 -- url     : https://prove2.me/theorems/220aea08-101c-4d0d-ba34-61895dd00a4a

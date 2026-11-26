@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.realPositiveTailIntegrable
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T20:01:44.871274+00:00
 -- url     : https://prove2.me/submissions/60541fbd-672c-4b37-8b46-e695262b6697
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_positive_jump_tail_real_integrable_of_finite_firstMoment

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_energy_le_loopAction_of_aCoord_eq_zero
 -- name    : FiniteEnergyPlane.energy_le_loopAction_of_aCoord_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-26T19:47:52.301473+00:00
 -- url     : https://prove2.me/theorems/e7a0f4a3-dcb2-5997-acc6-39a334bf83d3

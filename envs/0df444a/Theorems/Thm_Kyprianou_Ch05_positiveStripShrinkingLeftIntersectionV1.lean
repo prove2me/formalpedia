@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_positiveStripShrinkingLeftIntersectionV1
 -- name    : Kyprianou.Ch05.positiveStripShrinkingLeftIntersectionV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:00:36.04941+00:00
 -- url     : https://prove2.me/theorems/386a3996-6eb7-4928-ac6f-2e1dd2c27d0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cutoff_sup_aemeasurable
 -- name    : Kyprianou.Ch04.ito43_cutoff_sup_aemeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:27:00.778586+00:00
 -- url     : https://prove2.me/theorems/0818c5fb-cba3-44f6-9f15-cf6e5f6535a4

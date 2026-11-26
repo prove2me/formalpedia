@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.exercise52ComparisonTailLimitV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T17:23:40.116737+00:00
 -- url     : https://prove2.me/submissions/46bbb3bf-6ec3-4365-b844-180256a4a1b1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch05_exercise52IntegratedTailProbabilityV1

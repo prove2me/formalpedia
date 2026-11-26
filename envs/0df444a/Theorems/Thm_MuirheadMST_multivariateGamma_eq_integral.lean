@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MuirheadMST_multivariateGamma_eq_integral
 -- name    : MuirheadMST.multivariateGamma_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @domodus
 -- created : 2026-11-26T17:37:21.434397+00:00
 -- url     : https://prove2.me/theorems/b3bfae5f-9799-5998-8943-aba39c96ef38

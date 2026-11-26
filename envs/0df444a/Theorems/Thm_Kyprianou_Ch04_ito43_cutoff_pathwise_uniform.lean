@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cutoff_pathwise_uniform
 -- name    : Kyprianou.Ch04.ito43_cutoff_pathwise_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:26:51.990732+00:00
 -- url     : https://prove2.me/theorems/d0b13907-52cc-56dd-a87b-2d5ac3ddf4d6

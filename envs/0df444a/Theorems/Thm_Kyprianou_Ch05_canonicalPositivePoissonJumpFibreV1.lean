@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_canonicalPositivePoissonJumpFibreV1
 -- name    : Kyprianou.Ch05.canonicalPositivePoissonJumpFibreV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:58:58.97298+00:00
 -- url     : https://prove2.me/theorems/a9ceff19-7f51-4def-a387-17585c858607

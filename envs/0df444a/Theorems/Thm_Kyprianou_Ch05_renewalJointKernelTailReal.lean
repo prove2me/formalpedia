@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_renewalJointKernelTailReal
 -- name    : Kyprianou.Ch05.renewalJointKernelTailReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T19:58:55.146456+00:00
 -- url     : https://prove2.me/theorems/175eed6c-f070-4df6-8894-a18fa1ad8be1

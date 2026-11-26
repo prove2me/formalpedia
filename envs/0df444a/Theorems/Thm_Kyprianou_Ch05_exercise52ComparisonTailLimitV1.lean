@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_exercise52ComparisonTailLimitV1
 -- name    : Kyprianou.Ch05.exercise52ComparisonTailLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:06:46.923797+00:00
 -- url     : https://prove2.me/theorems/7665bf70-b699-5f55-b6d9-a26f76d588b9

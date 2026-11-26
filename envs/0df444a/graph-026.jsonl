@@ -50836,9 +50836,9 @@
 {"parent": "CNFLearnMQ.corollary_4_4", "child": "CNFLearnMQ_cores", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r1_4_eq_g", "child": "OAIQ098G398", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r1_4_eq_g", "child": "OAIQ098G397", "via": ["solution", "statement"]}
-{"parent": "RobersonCx.theorem_9", "child": "HadwigerConj_Defs", "via": ["statement"]}
-{"parent": "RobersonCx.theorem_9", "child": "RobersonCx_circulantD", "via": ["statement"]}
-{"parent": "RobersonCx.theorem_9", "child": "RobersonCx_IsImmersion", "via": ["statement"]}
+{"parent": "RobersonCx.theorem_9", "child": "HadwigerConj_Defs", "via": ["solution", "statement"]}
+{"parent": "RobersonCx.theorem_9", "child": "RobersonCx_circulantD", "via": ["solution", "statement"]}
+{"parent": "RobersonCx.theorem_9", "child": "RobersonCx_IsImmersion", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26OwnerParentObstruction.rz_after_rx_local_face_obstruction", "child": "QEC_Coding_FiniteAlternatingConstruction_DecodingGraph", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26OwnerParentObstruction.rz_after_rx_local_face_obstruction", "child": "QEC_Coding_FiniteAlternatingConstruction_XLocalRadialParity", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26OwnerParentObstruction.rz_after_rx_local_face_obstruction", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerParentObstruction", "via": ["solution", "statement"]}

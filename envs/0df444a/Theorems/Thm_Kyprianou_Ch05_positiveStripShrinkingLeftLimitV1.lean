@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_positiveStripShrinkingLeftLimitV1
 -- name    : Kyprianou.Ch05.positiveStripShrinkingLeftLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:59:02.574993+00:00
 -- url     : https://prove2.me/theorems/921d56c1-f665-45ec-b7f1-9e16e5c8b6c3

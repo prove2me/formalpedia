@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45StoppedAffineUniformV4
 -- name    : Kyprianou.Ch04.exercise45StoppedAffineUniformV4
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:37:30.568004+00:00
 -- url     : https://prove2.me/theorems/c97b7bd1-979d-5aaa-affa-c1ecbc75121d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_locmoll_convolution_regularisation
 -- name    : AvramDividend.Classical.avram_locmoll_convolution_regularisation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T19:58:47.453832+00:00
 -- url     : https://prove2.me/theorems/cc3b5448-3c78-4978-81ca-d6f25ef6998d

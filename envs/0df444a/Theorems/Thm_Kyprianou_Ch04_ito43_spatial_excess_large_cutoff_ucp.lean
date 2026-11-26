@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_spatial_excess_large_cutoff_ucp
 -- name    : Kyprianou.Ch04.ito43_spatial_excess_large_cutoff_ucp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:57:26.605501+00:00
 -- url     : https://prove2.me/theorems/abf08d9c-7edf-4da8-9211-b1f5808d1a7c

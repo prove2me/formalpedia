@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cutoff_jump_cumulative_regular
 -- name    : Kyprianou.Ch04.ito43_cutoff_jump_cumulative_regular
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:09:07.502696+00:00
 -- url     : https://prove2.me/theorems/7f2737ef-67a8-5ee0-8525-a3c062914402

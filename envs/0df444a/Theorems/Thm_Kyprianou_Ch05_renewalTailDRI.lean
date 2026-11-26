@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_renewalTailDRI
 -- name    : Kyprianou.Ch05.renewalTailDRI
--- status  : Open
+-- status  : Proved
 -- author  : @DAGA
 -- created : 2026-11-26T03:06:06.186949+00:00
 -- url     : https://prove2.me/theorems/c23004da-9a96-4025-9e16-f70def4f18c0

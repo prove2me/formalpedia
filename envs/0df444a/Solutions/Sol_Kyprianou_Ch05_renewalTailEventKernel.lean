@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.renewalTailEventKernel
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T19:59:32.0768+00:00
 -- url     : https://prove2.me/submissions/8f43fe95-6d9b-4b98-8e5b-f9440ac0fcaa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch05_RenewalEpochProcess

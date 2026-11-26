@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cutoff_sections
 -- name    : Kyprianou.Ch04.ito43_cutoff_sections
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:36:31.994835+00:00
 -- url     : https://prove2.me/theorems/e8bd1731-376c-43df-8483-007eb0cb9441

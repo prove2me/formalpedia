@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cutoff_grid_cell_regular
 -- name    : Kyprianou.Ch04.ito43_cutoff_grid_cell_regular
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:09:09.964047+00:00
 -- url     : https://prove2.me/theorems/77078416-c5f4-52e2-b67b-d428d89dd280

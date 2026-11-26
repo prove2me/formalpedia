@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_renewalCutoffTailIntegrable
 -- name    : Kyprianou.Ch05.renewalCutoffTailIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:55:49.779838+00:00
 -- url     : https://prove2.me/theorems/63aa9444-1c5d-4cfa-838c-99c699bc30d6

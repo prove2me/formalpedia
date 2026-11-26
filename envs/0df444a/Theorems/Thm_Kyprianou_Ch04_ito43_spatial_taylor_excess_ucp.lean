@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_spatial_taylor_excess_ucp
 -- name    : Kyprianou.Ch04.ito43_spatial_taylor_excess_ucp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:51:24.88729+00:00
 -- url     : https://prove2.me/theorems/f139fc15-2726-4b14-8d24-ec0c873f9ba2

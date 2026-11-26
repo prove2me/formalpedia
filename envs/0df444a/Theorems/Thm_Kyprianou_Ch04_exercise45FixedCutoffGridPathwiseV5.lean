@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45FixedCutoffGridPathwiseV5
 -- name    : Kyprianou.Ch04.exercise45FixedCutoffGridPathwiseV5
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:49:16.471588+00:00
 -- url     : https://prove2.me/theorems/579c3c89-98e4-5a81-9523-a287a132b4d1

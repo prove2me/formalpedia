@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hadamard668_topListTable_0_2_0
 -- name    : Hadamard668.topListTable_0_2_0
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T19:54:14.853894+00:00
 -- url     : https://prove2.me/theorems/1cbc9797-2540-4528-b3af-4d0d84d7af42

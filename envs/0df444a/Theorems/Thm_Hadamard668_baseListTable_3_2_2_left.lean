@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hadamard668_baseListTable_3_2_2_left
 -- name    : Hadamard668.baseListTable_3_2_2_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T19:52:43.339883+00:00
 -- url     : https://prove2.me/theorems/c5be1ddc-c8ba-42bb-96d1-7ca32cd030ed

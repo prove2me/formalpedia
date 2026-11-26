@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45DyadicDominatedUCPV5
 -- name    : Kyprianou.Ch04.exercise45DyadicDominatedUCPV5
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:00:08.924201+00:00
 -- url     : https://prove2.me/theorems/01e13d5c-3192-4e3e-9ec6-58a4ca214797

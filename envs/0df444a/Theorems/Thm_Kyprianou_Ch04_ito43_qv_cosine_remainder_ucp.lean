@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_qv_cosine_remainder_ucp
 -- name    : Kyprianou.Ch04.ito43_qv_cosine_remainder_ucp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:53:24.069333+00:00
 -- url     : https://prove2.me/theorems/e56e82d5-1ff4-5dcf-a8ba-21dd2ffd7ecd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45StoppedAffineGridDecompV4
 -- name    : Kyprianou.Ch04.exercise45StoppedAffineGridDecompV4
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:37:32.609318+00:00
 -- url     : https://prove2.me/theorems/5b35f020-6feb-4645-997d-091b9826ef1f

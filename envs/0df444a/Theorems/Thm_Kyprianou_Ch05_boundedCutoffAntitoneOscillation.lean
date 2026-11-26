@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_boundedCutoffAntitoneOscillation
 -- name    : Kyprianou.Ch05.boundedCutoffAntitoneOscillation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:55:58.08801+00:00
 -- url     : https://prove2.me/theorems/1c2cb253-ec69-4aad-995e-13c851137485
