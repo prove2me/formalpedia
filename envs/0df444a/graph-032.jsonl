@@ -81573,7 +81573,7 @@
 {"parent": "KnodelPrimeCordial.primeCordial_transport__p2m_b71a112c_d89d_4dc4_9a88_bb82c5bac86c_a1", "child": "KnodelPrimeCordial_IsPrimeCordialLabeling", "via": ["solution", "statement"]}
 {"parent": "CoRSuccGap_Supplement_TypedMatrixCircuit", "child": "CoRSuccGap_Supplement_AnnotatedRelationalAlgebra", "via": ["statement"]}
 {"parent": "CoRSuccGap_Supplement_TypedMatrixCircuit", "child": "CoRSuccGap_Gk", "via": ["statement"]}
-{"parent": "ECDLP.card_points", "child": "ECDLPChallengeData", "via": ["statement"]}
+{"parent": "ECDLP.card_points", "child": "ECDLPChallengeData", "via": ["solution", "statement"]}
 {"parent": "LindbladStructLearn.Supplement.theorem_5_18", "child": "LindbladStructLearn_deg", "via": ["statement"]}
 {"parent": "LindbladStructLearn.Supplement.theorem_5_18", "child": "LindbladStructLearn_Supplement_HamiltonianModel", "via": ["statement"]}
 {"parent": "LindbladStructLearn.Supplement.theorem_5_18", "child": "LindbladStructLearn_Admissible", "via": ["statement"]}
@@ -85347,7 +85347,7 @@
 {"parent": "ArgmaxDeFinetti.Supplement.theorem_B_6", "child": "ArgmaxDeFinetti_marginal2", "via": ["statement"]}
 {"parent": "ArgmaxDeFinetti.Supplement.theorem_B_6", "child": "ArgmaxDeFinetti_hsDist", "via": ["statement"]}
 {"parent": "ArgmaxDeFinetti.Supplement.theorem_B_6", "child": "ArgmaxDeFinetti_IsBosonic", "via": ["statement"]}
-{"parent": "ECDLP.ecdlp_challenge", "child": "ECDLPChallengeData", "via": ["statement"]}
+{"parent": "ECDLP.ecdlp_challenge", "child": "ECDLPChallengeData", "via": ["solution", "statement"]}
 {"parent": "N25.cusp_complex_simple_poles_card_le_five", "child": "ModularCurve.exists_ringHom_place_order_eq_mul_ord_of_qExpansion_slash", "via": ["solution", "statement"]}
 {"parent": "N25.cusp_complex_simple_poles_card_le_five", "child": "ModularCurve.exists_tendsto_realizeOf_mul_exp_of_not_mem_toValuationSubring", "via": ["solution", "statement"]}
 {"parent": "N25.cusp_complex_simple_poles_card_le_five", "child": "ModularCurve_JqCoeff", "via": ["solution", "statement"]}

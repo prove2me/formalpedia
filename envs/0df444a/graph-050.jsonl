@@ -579,7 +579,7 @@
 {"parent": "GRH.weighted_prefix_first_and_third_grids", "child": "GRH_DirichletGrid", "via": ["statement"]}
 {"parent": "EdenVerified.p21_limiting_rates_of_lt_one", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p21_limiting_rates_of_lt_one", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "Poly1305DebianCt.relOk_poly1305_finish_v2", "child": "Poly1305DebianCt_Spec", "via": ["statement"]}
+{"parent": "Poly1305DebianCt.relOk_poly1305_finish_v2", "child": "Poly1305DebianCt_Spec", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.exercise55ZeroPrefactor", "child": "Kyprianou_Ch05_CompleteStrictPassageMarkovLaw", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.exercise55ZeroPrefactor", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.exercise55ZeroPrefactor", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
@@ -7234,7 +7234,7 @@
 {"parent": "Kyprianou.Ch05.exercise52CPPassageRenewalTransferV1", "child": "Kyprianou_Ch05_RenewalEpochProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise45ClosedWindowPositiveTimeV2", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["solution", "statement"]}
 {"parent": "PvsNP.LazyCopyIndex.snapshot_history_index_bounds", "child": "PvsNP_SnapshotHistoryIndex", "via": ["solution", "statement"]}
-{"parent": "MuirheadMST.wishart_latentRoots_density", "child": "MuirheadMST_Wishart", "via": ["statement"]}
+{"parent": "MuirheadMST.wishart_latentRoots_density", "child": "MuirheadMST_Wishart", "via": ["solution", "statement"]}
 {"parent": "TunnellChallenge.tunnellResidualMap_agrees", "child": "TunnellMap_BranchSpec", "via": ["solution", "statement"]}
 {"parent": "TunnellChallenge.tunnellResidualMap_agrees", "child": "TunnellMap_Solution", "via": ["solution", "statement"]}
 {"parent": "GRH.character_moment_rectangle_at_sixty_six", "child": "GRH_CharacterMoment", "via": ["solution", "statement"]}
@@ -22788,7 +22788,7 @@
 {"parent": "section5_fixed_width_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
 {"parent": "section5_fixed_width_matrix_power_circuit", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
 {"parent": "section5_fixed_width_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
-{"parent": "Poly1305DebianCt.oneshot_guard_reloc_decode", "child": "Poly1305DebianCt_PlacedObj", "via": ["statement"]}
+{"parent": "Poly1305DebianCt.oneshot_guard_reloc_decode", "child": "Poly1305DebianCt_PlacedObj", "via": ["solution", "statement"]}
 {"parent": "section5_real_window_label_probability", "child": "section5_gaussian_cube_tail", "via": ["solution", "statement"]}
 {"parent": "section5_real_window_label_probability", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
 {"parent": "section5_real_window_label_probability", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
@@ -23795,37 +23795,37 @@
 {"parent": "section5_qex_negative_orientation_vote_quarter", "child": "section5_gaussian_disagreement_proved", "via": ["solution", "statement"]}
 {"parent": "section5_qex_negative_orientation_vote_quarter", "child": "section5_qex_phase_agreement", "via": ["solution", "statement"]}
 {"parent": "section5_qex_negative_orientation_vote_quarter", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Example_HermiteModel", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QAlgorithms_Defs_Basic", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "Section5Verified_Section5OrientationAmplification", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "section5_uniform_qex_window_error", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "section5_qex_negative_orientation_vote_margin", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Example_qex", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "section5_qex_orientation_vote_margin", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_ltf", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_splitReg", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "Section5Verified_Section5BoundedWindow", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_disagree", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QAlgorithms_Defs_Gates", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QAlgorithms_Defs_Classical", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_gatesRev", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "Section5Verified_Section5RealWindow", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "Section5Verified_Section5QuantizedOrientation", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "section5_large_grid_fits_window", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_fpVal", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_gates12", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["statement"]}
-{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_flatReg", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "Section5Verified_Section5OrientationAmplification", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "section5_uniform_qex_window_error", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "section5_qex_negative_orientation_vote_margin", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "section5_qex_orientation_vote_margin", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "Section5Verified_Section5BoundedWindow", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "Section5Verified_Section5RealWindow", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "Section5Verified_Section5QuantizedOrientation", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "section5_large_grid_fits_window", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_quarter", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.ito43_cosine_jump_high_frequency", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.ito43_cosine_jump_high_frequency", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.ito43_cosine_jump_high_frequency", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
@@ -24474,3 +24474,326 @@
 {"parent": "Kyprianou.Ch04.ito43_cosine_deficit_square_bound", "child": "Kyprianou.Ch04.ito43_qv_cosine_bounds", "via": ["solution"]}
 {"parent": "Kyprianou.Ch04.ito43_cosine_levy_intensity_limit", "child": "Kyprianou.Ch04.ito43_cosine_deficit_square_bound", "via": ["solution"]}
 {"parent": "Kyprianou.Ch04.ito43_cosine_levy_intensity_limit", "child": "Kyprianou.Ch04.ito43_cosine_deficit_frequency_limit", "via": ["solution"]}
+{"parent": "GRH.nonnegative_mellin_continuation_from_real_axis", "child": "GRH_OneSidedMoebius", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "section5_three_independent_errors", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "section5_quantized_orientation_quarter", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "Section5Verified_Section5OrientationAmplification", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "Section5Verified_Section5QuantizedOrientation", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_three_quantized_orientation_error", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "Section5Verified_Section5PhaseRecovery", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "Section5DecoderLayout.integer_matrix_direction_circuit", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "Section5Verified_Section5DecoderLayout", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_readFp", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "Section5Verified_Section5IntegerDirectionSpec", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "Section5Verified_Section5IntegerMatrixBounds", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "Section5Verified_Section5CanonicalPoweredDecoder", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "Section5Verified_Section5IntegerDirectionCircuit", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "Section5Verified_Section5IntegerSpectralBridge", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "Section5Verified_Section5ExactMatrixPowerCircuit", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.integer_matrix_direction_spec", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "GRH.centered_moebius_bound_iff_lower_bound_at_squares", "child": "GRH_OneSidedMoebius", "via": ["statement"]}
+{"parent": "MuirheadMST.measurable_latentRoots", "child": "MuirheadMST_Wishart", "via": ["solution", "statement"]}
+{"parent": "GRH.one_sided_moebius_progression_upper_at_squares", "child": "GRH_OneSidedMoebius", "via": ["statement"]}
+{"parent": "MuirheadMST.dixonAnderson_half", "child": "MuirheadMST_Wishart", "via": ["statement"]}
+{"parent": "GRH.riemannHypothesis_iff_upper_mertens_at_squares", "child": "GRH_OneSidedMoebius", "via": ["statement"]}
+{"parent": "GRH.ordinary_mertens_positive_majorant_transform", "child": "GRH_OneSidedMoebius", "via": ["solution", "statement"]}
+{"parent": "LefebvreVariations.symmetric_group_seven_realizable", "child": "InverseGalois_realizability", "via": ["statement"]}
+{"parent": "MuirheadMST.lintegral_latentRoots_border_diag", "child": "MuirheadMST_Wishart", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_ltf", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_splitReg", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_fpVal", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "Section5Verified_Section5OrientationAmplification", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QAlgorithms_Defs_Basic", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_gates12", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "section5_finite_conditioned_success", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QAlgorithms_Defs_Gates", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QAlgorithms_Defs_Classical", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Example_qex", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_disagree", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_gatesRev", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "Section5Verified_Section5OrientationDecision", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "section5_raw_orientation_success", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Example_HermiteModel", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_flatReg", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["statement"]}
+{"parent": "section5_raw_tomography_joint_success", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["statement"]}
+{"parent": "GRH.one_sided_moebius_square_cutoffs_iff_all_cutoffs", "child": "GRH_OneSidedMoebius", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "Section5Verified_Section5ReconstructionPrecision", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "section5_decoder_parameters_sufficient", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "Section5Verified_Section5DecoderLayout", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_readFp", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "Section5Verified_Section5IntegerDirectionSpec", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "Section5DecoderLayout.integer_matrix_direction_spec", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "section5_decoder_power_gate_bound", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "Section5Verified_Section5IntegerDirectionCircuit", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "Section5DecoderLayout.uniform_decoder_gate_bound", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "Section5Verified_Section5DyadicDecoderParameters", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "Section5DecoderLayout.uniform_integer_direction_circuit", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "Section5Verified_Section5OrientationLayout", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_readFp", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_Supplement_probMixed", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "section5_reindexed_three_qex_probability", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "section5_reversible_circuit_permutation", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "Section5Verified_Section5ThreeQEXMeasurement", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "Section5Verified_Section5ReindexedQEXLaw", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "Section5Verified_Section5OrientationDecision", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "Section5OrientationLayout.canonical_orientation_circuit", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "section5_raw_orientation_success", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_success", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "GRH.centered_moebius_iff_one_sided_residue_squares", "child": "GRH_OneSidedMoebius", "via": ["statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "Section5Verified_Section5OrientationAmplification", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "Section5Verified_Section5QuantizedOrientation", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "section5_three_quantized_orientation_error", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "section5_majority_decision_correct", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "Section5Verified_Section5OrientationDecision", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_quantized_orientation_success", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "LayeredTransitionAudit.product_certificate_iff", "child": "LayeredTransitionAudit", "via": ["solution", "statement"]}
+{"parent": "NumberFieldModularity.modularity_over_Q", "child": "NumberFieldModularity_setup", "via": ["statement"]}
+{"parent": "GRH_OneSidedMoebius", "child": "GRH_MoebiusBilinear", "via": ["statement"]}
+{"parent": "NumberFieldModularity.modularity_real_quadratic", "child": "NumberFieldModularity_setup", "via": ["statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "Section5Verified_Section5OrientationAmplification", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "section5_quantized_orientation_success", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "Section5Verified_Section5OrientationDecision", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_tomography_orientation_joint_success", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "MuirheadMST.lintegral_latentRoots_border", "child": "MuirheadMST_Wishart", "via": ["statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "Section5Verified_Section5OrientationLayout", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "section5_orientation_postprocessor", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_readFp", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_Supplement_probMixed", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "Section5Verified_Section5SignedFixedPointOutput", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "Section5Verified_Section5BoundedWindow", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "Section5Verified_Section5ThreeQEXMeasurement", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "Section5Verified_Section5FixedPointOutputCircuit", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "Section5Verified_Section5OrientationDecision", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "Section5OrientationLayout.canonical_orientation_circuit", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "LayeredTransitionAudit.equality_midpoint_width", "child": "LayeredTransitionAudit", "via": ["solution", "statement"]}
+{"parent": "NumberFieldModularity.modularity_conjecture", "child": "NumberFieldModularity_setup", "via": ["statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_Supplement_lcgSym54ArithV2", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_fpVal", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_Supplement_bitonicTrace54", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QAlgorithms_Defs_Gates", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_Supplement_hermCoeff", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "section5_quantized_orientation_success", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "Section5Verified_Section5QuantizedOrientation", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_Supplement_thm410_router_blocks", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QAlgorithms_Defs_Classical", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_Supplement_thm49_primitives", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Example_qex", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_gatesRev", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "Section5Verified_Section5OrientationDecision", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_Supplement_symBand54", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Example_HermiteModel", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_Supplement_bandWeight", "via": ["solution", "statement"]}
+{"parent": "section5_raw_orientation_success", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "GRH.zeta_zero_free_of_one_sided_mertens_bound", "child": "GRH_OneSidedMoebius", "via": ["statement"]}
+{"parent": "GRH.centered_moebius_progression_bilinear_power_bound", "child": "GRH.one_sided_moebius_progression_upper_at_squares", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_progression_bilinear_power_bound", "child": "GRH.centered_moebius_iff_one_sided_residue_squares", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth_verify", "child": "Arm64_Leakage", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth_verify", "child": "Poly1305DebianCt.relOk_crypto_verify_16", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth_verify", "child": "Arm64Facts.steps_codeLoaded_v2", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth_verify", "child": "Poly1305DebianCt.relOk_poly1305_update_v2", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth_verify", "child": "Poly1305DebianCt.relOk_poly1305_finish_v2", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth_verify", "child": "Poly1305DebianApi.donna_verify_reloc_decode", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth_verify", "child": "Poly1305DebianCt_PlacedObj", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth_verify", "child": "Link_LinkOk", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth", "child": "Arm64_Leakage", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth", "child": "Arm64Facts.steps_codeLoaded_v2", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth", "child": "Poly1305DebianCt.oneshot_guard_reloc_decode", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth", "child": "Poly1305DebianCt.relOk_poly1305_update_v2", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth", "child": "Poly1305DebianCt.relOk_poly1305_finish_v2", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth", "child": "Poly1305DebianCt_PlacedObj", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth", "child": "Link_LinkOk", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.relOk_poly1305_finish_v2", "child": "Arm64_Leakage", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.relOk_poly1305_finish_v2", "child": "Arm64Facts.steps_codeLoaded_v2", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.relOk_poly1305_finish_v2", "child": "Poly1305Libsodium_Spec", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.relOk_poly1305_finish_v2", "child": "Poly1305DebianCt_PlacedObj", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.relOk_poly1305_finish_v2", "child": "Link_LinkOk", "via": ["solution"]}
+{"parent": "MuirheadMST.wishart_latentRoots_density", "child": "MuirheadMST.wishart_density", "via": ["solution"]}
+{"parent": "MuirheadMST.wishart_latentRoots_density", "child": "MuirheadMST.latentRoots_density_of_invariant", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.oneshot_guard_reloc_decode", "child": "Arm64_Leakage", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.oneshot_guard_reloc_decode", "child": "Poly1305DebianCt_Spec", "via": ["solution"]}
+{"parent": "Poly1305DebianCt.oneshot_guard_reloc_decode", "child": "Arm64_ISA_Semantics", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_bound_iff_lower_bound_at_squares", "child": "GRH.centered_moebius_mertens_remainder", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_bound_iff_lower_bound_at_squares", "child": "GRH.centered_moebius_iff_one_sided_residue_squares", "via": ["solution"]}
+{"parent": "GRH.riemannHypothesis_iff_upper_mertens_at_squares", "child": "riemannHypothesis_iff_zeros_in_strip_on_line", "via": ["solution"]}
+{"parent": "GRH.riemannHypothesis_iff_upper_mertens_at_squares", "child": "GRH.one_sided_moebius_square_cutoffs_iff_all_cutoffs", "via": ["solution"]}
+{"parent": "GRH.riemannHypothesis_iff_upper_mertens_at_squares", "child": "GRH.zeta_zero_free_of_one_sided_mertens_bound", "via": ["solution"]}
+{"parent": "GRH.riemannHypothesis_iff_upper_mertens_at_squares", "child": "moebius_summatory_rpow_bound_of_riemannHypothesis", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_iff_one_sided_residue_squares", "child": "GRH.centered_moebius_bound_iff_square_mertens_residual", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_iff_one_sided_residue_squares", "child": "GRH.reduced_moebius_principal_bounds_of_dirichlet_prefixes", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_iff_one_sided_residue_squares", "child": "moebius_summatory_rpow_bound_of_riemannHypothesis", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_iff_one_sided_residue_squares", "child": "moebius_dirichlet_partialSum_tendsto_of_moebius_bound", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_iff_one_sided_residue_squares", "child": "GRH.centered_moebius_bound_iff_square_residue_bias_of_riemannHypothesis", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_iff_one_sided_residue_squares", "child": "GRH.riemannHypothesis_iff_upper_mertens_at_squares", "via": ["solution"]}

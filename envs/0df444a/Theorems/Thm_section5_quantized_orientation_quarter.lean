@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_section5_quantized_orientation_quarter
 -- name    : section5_quantized_orientation_quarter
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-26T20:48:40.779318+00:00
 -- url     : https://prove2.me/theorems/a2c79f40-bc51-487e-ad32-2e2be0f5a436

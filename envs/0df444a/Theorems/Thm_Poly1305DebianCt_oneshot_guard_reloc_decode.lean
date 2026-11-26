@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305DebianCt_oneshot_guard_reloc_decode
 -- name    : Poly1305DebianCt.oneshot_guard_reloc_decode
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-26T20:30:06.728444+00:00
 -- url     : https://prove2.me/theorems/aa37b9c6-ecf9-410c-8de3-1912fff78277

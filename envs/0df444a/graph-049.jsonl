@@ -35506,7 +35506,7 @@
 {"parent": "BKAR.Forest.rootBoundarySupportOrderContribution_eq_grownForestForSupportOrder", "child": "BKAR_OrderedAssembly_CanonicalForestBridge", "via": ["solution", "statement"]}
 {"parent": "FourierJacobi.Analysis.i1r5_reindexed", "child": "FourierJacobi_Analysis_MasterSeries", "via": ["solution", "statement"]}
 {"parent": "FourierJacobi.Analysis.i1r5_reindexed", "child": "FourierJacobi_Analysis_I1Complete", "via": ["solution", "statement"]}
-{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth_verify", "child": "Poly1305DebianCt_Spec", "via": ["statement"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth_verify", "child": "Poly1305DebianCt_Spec", "via": ["solution", "statement"]}
 {"parent": "N4Code.w_i_eq_zero_of_single_false", "child": "N4Code_ZeroColumn", "via": ["solution", "statement"]}
 {"parent": "N4Code.w_i_eq_zero_of_single_false", "child": "N4Code_TwoColumn", "via": ["solution", "statement"]}
 {"parent": "FourierJacobi.Analysis.norm_one_sub_ne_zero", "child": "FourierJacobi_Algebra_UnitaryFinite", "via": ["solution", "statement"]}
@@ -37646,7 +37646,7 @@
 {"parent": "FourierJacobi_Analysis_I2Assembly", "child": "FourierJacobi_Analysis_CoreParameters", "via": ["statement"]}
 {"parent": "FD1D.LocalHazard.N_pos", "child": "FD1D_Hazard", "via": ["solution", "statement"]}
 {"parent": "FD1D.LocalHazard.N_pos", "child": "FD1D_Basic", "via": ["solution", "statement"]}
-{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth", "child": "Poly1305DebianCt_Spec", "via": ["statement"]}
+{"parent": "Poly1305DebianCt.ctPublicOk_crypto_onetimeauth", "child": "Poly1305DebianCt_Spec", "via": ["solution", "statement"]}
 {"parent": "N4Code.hammingDist_row1_row2_eq", "child": "N4Code_ZeroColumn", "via": ["solution", "statement"]}
 {"parent": "N4Code.hammingDist_row1_row2_eq", "child": "N4Code_TwoColumn", "via": ["solution", "statement"]}
 {"parent": "PvsNP.multitape_input_bit_symmetry", "child": "Complexitylib_0ebd467_Computability_Machines_Turing_MultiTape_Universal_Basic", "via": ["solution", "statement"]}
