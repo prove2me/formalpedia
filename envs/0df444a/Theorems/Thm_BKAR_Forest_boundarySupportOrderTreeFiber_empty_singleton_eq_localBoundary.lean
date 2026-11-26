@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_boundarySupportOrderTreeFiber_empty_singleton_eq_localBoundary
 -- name    : BKAR.Forest.boundarySupportOrderTreeFiber_empty_singleton_eq_localBoundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:06:39.484057+00:00
 -- url     : https://prove2.me/theorems/491c143d-5a29-4e47-8bdf-683bccae1599

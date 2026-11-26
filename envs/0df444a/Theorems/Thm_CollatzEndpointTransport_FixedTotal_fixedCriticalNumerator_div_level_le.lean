@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedCriticalNumerator_div_level_le
 -- name    : CollatzEndpointTransport.FixedTotal.fixedCriticalNumerator_div_level_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:56:30.314493+00:00
 -- url     : https://prove2.me/theorems/41d52399-8fdc-5dce-81a3-df4273f1f5b2

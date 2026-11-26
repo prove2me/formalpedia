@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedReverseNonterminalSum_div_card_le_fixedSize
 -- name    : CollatzEndpointTransport.FixedTotal.fixedReverseNonterminalSum_div_card_le_fixedSize
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:40:51.279963+00:00
 -- url     : https://prove2.me/theorems/a3dd5f61-9ac7-4464-9313-233c33da225e

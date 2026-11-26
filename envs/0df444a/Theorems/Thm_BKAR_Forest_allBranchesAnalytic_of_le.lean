@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_allBranchesAnalytic_of_le
 -- name    : BKAR.Forest.allBranchesAnalytic_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:00:39.906391+00:00
 -- url     : https://prove2.me/theorems/a4928756-32e0-4806-9b19-22b7df4c3b47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_paramsOfOrder_ofFn_eq_orderMeasurableEquiv_symm
 -- name    : BKAR.Forest.paramsOfOrder_ofFn_eq_orderMeasurableEquiv_symm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:09:12.527929+00:00
 -- url     : https://prove2.me/theorems/6b8037d7-b59e-45d2-9d6f-d61c2a2407ae

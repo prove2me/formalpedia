@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1906_02008_born_indicator_decay
 -- name    : Arxiv1906_02008.born_indicator_decay
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T15:30:50.209671+00:00
 -- url     : https://prove2.me/theorems/4a6fbb24-df64-4751-ba53-f33b7daaf09f

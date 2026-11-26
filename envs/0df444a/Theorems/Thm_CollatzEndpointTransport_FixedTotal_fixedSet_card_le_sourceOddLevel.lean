@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedSet_card_le_sourceOddLevel
 -- name    : CollatzEndpointTransport.FixedTotal.fixedSet_card_le_sourceOddLevel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:01:22.511431+00:00
 -- url     : https://prove2.me/theorems/8e5b2eff-1187-5843-bda0-298be2dff350

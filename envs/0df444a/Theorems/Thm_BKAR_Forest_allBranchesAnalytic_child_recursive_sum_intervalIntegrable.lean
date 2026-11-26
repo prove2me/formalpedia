@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_allBranchesAnalytic_child_recursive_sum_intervalIntegrable
 -- name    : BKAR.Forest.allBranchesAnalytic.child_recursive_sum_intervalIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:00:13.447461+00:00
 -- url     : https://prove2.me/theorems/78d03f80-bd72-44d5-82ff-8a9ad7f32705

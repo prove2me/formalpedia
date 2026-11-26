@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_binomialCenterDistance_le
 -- name    : CollatzEndpointTransport.FixedTotal.binomialCenterDistance_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:44:04.408432+00:00
 -- url     : https://prove2.me/theorems/09314482-41a3-5be1-a1d7-ba6c23fc416e

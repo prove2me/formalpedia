@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_branchIntegralAux_eq_orderedSimplexIntegralAux_mixedPartialList_interpWithFill
 -- name    : BKAR.Forest.TerminalGrowth.branchIntegralAux_eq_orderedSimplexIntegralAux_mixedPartialList_interpWithFill
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:43:39.489639+00:00
 -- url     : https://prove2.me/theorems/36e7dfd0-f31c-4fb7-8ac9-ca15369c7c95

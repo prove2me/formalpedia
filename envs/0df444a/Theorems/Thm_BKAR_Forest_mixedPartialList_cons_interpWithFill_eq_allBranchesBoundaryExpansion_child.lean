@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_mixedPartialList_cons_interpWithFill_eq_allBranchesBoundaryExpansion_child
 -- name    : BKAR.Forest.mixedPartialList_cons_interpWithFill_eq_allBranchesBoundaryExpansion_child
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:58:50.499355+00:00
 -- url     : https://prove2.me/theorems/dc103178-ef38-50f4-898b-d7e21aa3b8fc

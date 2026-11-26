@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_aedisjoint_orderedCubeSimplex_of_ne
 -- name    : BKAR.Forest.aedisjoint_orderedCubeSimplex_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:51:44.046464+00:00
 -- url     : https://prove2.me/theorems/a55fc079-80a5-5ab9-82f6-8cce5b285172

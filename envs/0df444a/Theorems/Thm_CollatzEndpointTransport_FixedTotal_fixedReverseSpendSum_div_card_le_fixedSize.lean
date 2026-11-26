@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedReverseSpendSum_div_card_le_fixedSize
 -- name    : CollatzEndpointTransport.FixedTotal.fixedReverseSpendSum_div_card_le_fixedSize
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:40:14.579436+00:00
 -- url     : https://prove2.me/theorems/d05e5314-8a96-51ed-914d-9a5c69efb7ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_mem_centralDiscardedSourceSet_iff
 -- name    : CollatzEndpointTransport.FixedTotal.mem_centralDiscardedSourceSet_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:00:31.279795+00:00
 -- url     : https://prove2.me/theorems/a3df1e5f-be95-4bf2-8b8a-37af555ef36e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_paramValue_paramsOfOrder_eq_of_edges_eq
 -- name    : BKAR.Forest.paramValue_paramsOfOrder_eq_of_edges_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:47:32.488127+00:00
 -- url     : https://prove2.me/theorems/5710bf62-946e-5ce4-a364-2202fa1025d2

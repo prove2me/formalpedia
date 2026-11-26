@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveBranchData_growth_branchIntegrand_eq_mixedPartialList_interpWithFill_of_activeEdges_eq_empty
 -- name    : BKAR.Forest.ActiveBranchData.growth_branchIntegrand_eq_mixedPartialList_interpWithFill_of_activeEdges_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:36:33.040873+00:00
 -- url     : https://prove2.me/theorems/e49c5de0-3dee-4bd1-993d-903674dc1189

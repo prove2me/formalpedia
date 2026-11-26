@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedPairSector_setIntegral_eq_iterated_Icc
 -- name    : BKAR.Forest.orderedPairSector_setIntegral_eq_iterated_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:09:21.53523+00:00
 -- url     : https://prove2.me/theorems/db52cbed-2543-476d-83cb-7643c184c9cb

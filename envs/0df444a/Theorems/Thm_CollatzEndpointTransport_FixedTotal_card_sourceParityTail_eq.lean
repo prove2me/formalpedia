@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_card_sourceParityTail_eq
 -- name    : CollatzEndpointTransport.FixedTotal.card_sourceParityTail_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:02:48.971702+00:00
 -- url     : https://prove2.me/theorems/bb8bb313-8f1e-46d0-97a6-c3c1082c530d

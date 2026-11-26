@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Polynomial_exists_continuousMulEquiv_galois_maxUnramified_algClosed_geometric
 -- name    : Polynomial.exists_continuousMulEquiv_galois_maxUnramified_algClosed_geometric
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-26T08:58:49.813795+00:00
 -- url     : https://prove2.me/theorems/4b3b949a-77c6-547e-92db-0e26e4b955df

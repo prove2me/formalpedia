@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_DeferredReadout_Staircase_auxiliaryReadouts
 -- name    : IntMul.Kappa.DeferredReadout.Staircase.auxiliaryReadouts
--- status  : Open
+-- status  : Proved
 -- author  : @scuba8684
 -- created : 2026-11-26T08:11:04.681777+00:00
 -- url     : https://prove2.me/theorems/cd9d7ca2-3b3f-41f4-a575-0be766bf593a

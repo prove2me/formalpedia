@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_actualLevelFiberCard_eq_levelEndpointFiberCard
 -- name    : CollatzEndpointTransport.FixedTotal.actualLevelFiberCard_eq_levelEndpointFiberCard
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:58:29.90973+00:00
 -- url     : https://prove2.me/theorems/d6788294-969b-4928-88e4-8872fe52dd74

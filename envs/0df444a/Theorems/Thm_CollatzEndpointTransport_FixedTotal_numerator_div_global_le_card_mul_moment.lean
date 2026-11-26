@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_numerator_div_global_le_card_mul_moment
 -- name    : CollatzEndpointTransport.FixedTotal.numerator_div_global_le_card_mul_moment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:02:47.247438+00:00
 -- url     : https://prove2.me/theorems/f65625af-d21a-5e2f-83ae-0abf2d38d441

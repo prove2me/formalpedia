@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sourceShellStart_modEq_residue
 -- name    : CollatzEndpointTransport.FixedTotal.sourceShellStart_modEq_residue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:53:57.893921+00:00
 -- url     : https://prove2.me/theorems/5af235d7-563c-4433-9308-f724fdba38dc

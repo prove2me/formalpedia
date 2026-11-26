@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sourceEndpoint_eq_iff_correction_modEq
 -- name    : CollatzEndpointTransport.FixedTotal.sourceEndpoint_eq_iff_correction_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:54:34.866499+00:00
 -- url     : https://prove2.me/theorems/ae36b08b-d007-44cc-b609-ab6d2f7967e8

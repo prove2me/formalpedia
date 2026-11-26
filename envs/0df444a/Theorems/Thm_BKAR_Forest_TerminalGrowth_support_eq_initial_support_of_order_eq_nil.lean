@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_support_eq_initial_support_of_order_eq_nil
 -- name    : BKAR.Forest.TerminalGrowth.support_eq_initial_support_of_order_eq_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:43:11.962893+00:00
 -- url     : https://prove2.me/theorems/2744f783-2d82-47f0-9031-9f6cb62c392d

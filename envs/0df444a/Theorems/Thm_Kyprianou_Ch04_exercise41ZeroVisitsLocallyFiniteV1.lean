@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41ZeroVisitsLocallyFiniteV1
 -- name    : Kyprianou.Ch04.exercise41ZeroVisitsLocallyFiniteV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T19:03:29.500833+00:00
 -- url     : https://prove2.me/theorems/8cd476ba-fd14-5bf6-a617-1b1f1b6936ac

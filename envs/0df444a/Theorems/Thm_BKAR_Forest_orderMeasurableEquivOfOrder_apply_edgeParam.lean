@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderMeasurableEquivOfOrder_apply_edgeParam
 -- name    : BKAR.Forest.orderMeasurableEquivOfOrder_apply_edgeParam
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:08:07.423458+00:00
 -- url     : https://prove2.me/theorems/01c4dd6e-da37-5eea-b82e-22c65a312a62

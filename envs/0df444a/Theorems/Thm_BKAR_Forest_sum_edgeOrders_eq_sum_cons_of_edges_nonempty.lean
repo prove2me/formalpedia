@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_sum_edgeOrders_eq_sum_cons_of_edges_nonempty
 -- name    : BKAR.Forest.sum_edgeOrders_eq_sum_cons_of_edges_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:47:28.140177+00:00
 -- url     : https://prove2.me/theorems/7b838c81-cda6-52b6-86e0-dea9fc467ed0

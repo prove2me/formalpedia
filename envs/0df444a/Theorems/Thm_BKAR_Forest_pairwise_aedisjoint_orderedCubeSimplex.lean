@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_pairwise_aedisjoint_orderedCubeSimplex
 -- name    : BKAR.Forest.pairwise_aedisjoint_orderedCubeSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:51:54.842917+00:00
 -- url     : https://prove2.me/theorems/8f0dd97d-25f7-5ffc-9d28-05390ed1dfba

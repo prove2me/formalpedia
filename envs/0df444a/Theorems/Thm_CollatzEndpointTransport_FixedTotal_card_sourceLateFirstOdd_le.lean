@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_card_sourceLateFirstOdd_le
 -- name    : CollatzEndpointTransport.FixedTotal.card_sourceLateFirstOdd_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:03:28.699837+00:00
 -- url     : https://prove2.me/theorems/08d80bf3-12bc-5995-b8bb-213d24f9df0e

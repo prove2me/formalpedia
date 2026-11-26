@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_noncentral_implies_global_parity_deviation
 -- name    : CollatzEndpointTransport.FixedTotal.noncentral_implies_global_parity_deviation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:04:03.01736+00:00
 -- url     : https://prove2.me/theorems/3e2740e9-f83b-5879-95c5-57b6fb0800ac

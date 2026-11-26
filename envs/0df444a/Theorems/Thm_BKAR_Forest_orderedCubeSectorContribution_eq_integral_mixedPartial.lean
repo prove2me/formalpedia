@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedCubeSectorContribution_eq_integral_mixedPartial
 -- name    : BKAR.Forest.orderedCubeSectorContribution_eq_integral_mixedPartial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:07:02.433324+00:00
 -- url     : https://prove2.me/theorems/bb036495-e729-40ba-81fd-1932c49908dd

@@ -13948,7 +13948,7 @@
 {"parent": "ReciprocityTheory.L2DbarEstimates.H.perpNorm", "child": "ReciprocityTheory_L2DbarEstimates_SkodaWeights_SkodaWeightStatement", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Chart.chart_tanS", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ChartAway", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Chart.chart_tanS", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_TanSRestrict", "via": ["solution", "statement"]}
-{"parent": "Arxiv1906_02008.point_scatterer_hyperplanes_unique", "child": "Arxiv1906_02008_Basic", "via": ["statement"]}
+{"parent": "Arxiv1906_02008.point_scatterer_hyperplanes_unique", "child": "Arxiv1906_02008_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ToricData.pullTop_zF_constUnit", "child": "Development_AbelianVarietyTheory_Proofs_ThetaShiftProofs_PullTopZFConstUnit", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ToricData.pullTop_zF_constUnit", "child": "Development_AbelianVarietyTheory_Definitions_ArchimedeanThetaValues_PsiWeightZeroLinearCombination", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.FD.RealTangentSpace.norm_sq_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_Transference", "via": ["solution", "statement"]}
@@ -40737,7 +40737,7 @@
 {"parent": "GlobalTheory.AbLaw.cechLB_homology_zero_equiv_sections", "child": "Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_ExistsAwayFracOfMemHomLoc", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.AbLaw.cechLB_homology_zero_equiv_sections", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_CubeTotalComplexAcyclicOfSlicesInductionOnCard", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.AbLaw.cechLB_homology_zero_equiv_sections", "child": "Development_AbelianVarietyTheory_Definitions_AbelianSchemeLaws_IsScalarTowerOfAlgebraMapEq", "via": ["solution", "statement"]}
-{"parent": "Arxiv1906_02008.born_indicator_decay", "child": "Arxiv1906_02008_Basic", "via": ["statement"]}
+{"parent": "Arxiv1906_02008.born_indicator_decay", "child": "Arxiv1906_02008_Basic", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_BoundOfIneqs", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_InterpolationModelInequalities", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_BoundOfIneqs", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_ArakelovInstances_FirstMinimumInvariantContinuousPos", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_BoundOfIneqs", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_ModelNefness", "via": ["statement"]}

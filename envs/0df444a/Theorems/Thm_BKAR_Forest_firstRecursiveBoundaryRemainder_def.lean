@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_firstRecursiveBoundaryRemainder_def
 -- name    : BKAR.Forest.firstRecursiveBoundaryRemainder_def
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:59:43.310872+00:00
 -- url     : https://prove2.me/theorems/45d6e9a4-dda5-59fc-97e6-5ab140bf640e

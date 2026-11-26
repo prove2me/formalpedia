@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_pairwise_sectorOrderRel_of_orderedSimplexParams
 -- name    : BKAR.Forest.pairwise_sectorOrderRel_of_orderedSimplexParams
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:51:02.205518+00:00
 -- url     : https://prove2.me/theorems/336ad90f-2fc5-4a25-923e-e166d1e33b19

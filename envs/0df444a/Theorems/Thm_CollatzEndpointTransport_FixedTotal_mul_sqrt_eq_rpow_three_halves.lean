@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_mul_sqrt_eq_rpow_three_halves
 -- name    : CollatzEndpointTransport.FixedTotal.mul_sqrt_eq_rpow_three_halves
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:55:10.580306+00:00
 -- url     : https://prove2.me/theorems/fae078ea-71aa-51e6-bc57-16cf80c3820b

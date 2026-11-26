@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sourceRealParityTail_subset_sourceParityTail
 -- name    : CollatzEndpointTransport.FixedTotal.sourceRealParityTail_subset_sourceParityTail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:03:51.030714+00:00
 -- url     : https://prove2.me/theorems/c2dd1865-2cd8-4011-b812-351302e22a60

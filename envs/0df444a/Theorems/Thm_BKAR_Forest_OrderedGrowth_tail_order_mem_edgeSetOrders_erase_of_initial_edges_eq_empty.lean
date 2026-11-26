@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_tail_order_mem_edgeSetOrders_erase_of_initial_edges_eq_empty
 -- name    : BKAR.Forest.OrderedGrowth.tail_order_mem_edgeSetOrders_erase_of_initial_edges_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:48:46.362466+00:00
 -- url     : https://prove2.me/theorems/b76469b4-c5e9-4be0-855b-df3fcc2a8873

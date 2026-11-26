@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_lemma_4_8
 -- name    : LogLogJam.lemma_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T20:23:42.660254+00:00
 -- url     : https://prove2.me/theorems/b725aa83-bd8e-4bf7-aae4-0d0e10c9da25

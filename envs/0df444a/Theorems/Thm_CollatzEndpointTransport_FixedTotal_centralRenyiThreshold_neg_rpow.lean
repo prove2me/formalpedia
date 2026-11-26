@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralRenyiThreshold_neg_rpow
 -- name    : CollatzEndpointTransport.FixedTotal.centralRenyiThreshold_neg_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:09:58.699779+00:00
 -- url     : https://prove2.me/theorems/47aed723-0eb1-59be-bd13-e85e76dafd2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotential_expNeg_setLintegral
 -- name    : Kyprianou.Ch05.killedPotential_expNeg_setLintegral
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T03:19:30.452111+00:00
 -- url     : https://prove2.me/theorems/ab79734f-1e3c-46d0-ba95-3dcc84d0c4b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_mixedPartialList_cons_cons_comm
 -- name    : BKAR.BKARContDiff.mixedPartialList_cons_cons_comm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:03:01.014983+00:00
 -- url     : https://prove2.me/theorems/fd8b4c8b-bff6-4431-a192-73dee7435485

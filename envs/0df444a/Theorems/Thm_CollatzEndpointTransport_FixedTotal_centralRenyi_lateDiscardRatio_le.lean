@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralRenyi_lateDiscardRatio_le
 -- name    : CollatzEndpointTransport.FixedTotal.centralRenyi_lateDiscardRatio_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:09:35.132565+00:00
 -- url     : https://prove2.me/theorems/570d2c89-ff40-5770-90db-a9d6f0f057b7

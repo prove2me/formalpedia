@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_lemma_5_4
 -- name    : LogLogJam.lemma_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T20:27:18.353249+00:00
 -- url     : https://prove2.me/theorems/a12d3a5d-57b6-4e4f-a08c-b718ffbb586b

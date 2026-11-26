@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_card_sourceEndpointBad_eq_endpointShellBad
 -- name    : CollatzEndpointTransport.FixedTotal.card_sourceEndpointBad_eq_endpointShellBad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:59:09.061199+00:00
 -- url     : https://prove2.me/theorems/2c540a3c-1b08-4e6e-8681-b1c4ebe2355c

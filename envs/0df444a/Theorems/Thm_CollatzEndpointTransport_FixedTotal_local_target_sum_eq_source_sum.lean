@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_local_target_sum_eq_source_sum
 -- name    : CollatzEndpointTransport.FixedTotal.local_target_sum_eq_source_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:55:32.061901+00:00
 -- url     : https://prove2.me/theorems/2efd1f49-1636-4dd9-a0a8-6b03a104edc7

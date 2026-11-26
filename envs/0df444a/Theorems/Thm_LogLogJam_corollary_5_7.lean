@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogLogJam_corollary_5_7
 -- name    : LogLogJam.corollary_5_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T20:27:38.605904+00:00
 -- url     : https://prove2.me/theorems/a03ccdd4-0043-4cfa-819d-240e74bffd6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedContribution_singleton_eq_setIntegral_Icc_funUnique
 -- name    : BKAR.Forest.orderedContribution_singleton_eq_setIntegral_Icc_funUnique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:08:45.069864+00:00
 -- url     : https://prove2.me/theorems/0f3508ab-a7f4-4357-ad3f-56c7db8f8f24

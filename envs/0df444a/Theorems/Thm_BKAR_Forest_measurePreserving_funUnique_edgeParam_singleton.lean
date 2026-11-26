@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_measurePreserving_funUnique_edgeParam_singleton
 -- name    : BKAR.Forest.measurePreserving_funUnique_edgeParam_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:08:09.868399+00:00
 -- url     : https://prove2.me/theorems/3efed1de-181e-4968-9e2e-8da6973e16b7

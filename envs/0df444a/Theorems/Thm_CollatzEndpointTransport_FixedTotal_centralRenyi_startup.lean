@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralRenyi_startup
 -- name    : CollatzEndpointTransport.FixedTotal.centralRenyi_startup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:07:37.909981+00:00
 -- url     : https://prove2.me/theorems/d4b4b961-1d76-4957-af85-09655966f29d

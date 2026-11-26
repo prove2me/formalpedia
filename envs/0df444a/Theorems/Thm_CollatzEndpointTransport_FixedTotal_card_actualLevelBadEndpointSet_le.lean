@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_card_actualLevelBadEndpointSet_le
 -- name    : CollatzEndpointTransport.FixedTotal.card_actualLevelBadEndpointSet_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:59:31.751468+00:00
 -- url     : https://prove2.me/theorems/bba1a65c-6410-50aa-adab-c1e6a2d9a69b

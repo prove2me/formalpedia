@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedReverseSpendSum_le_hypergeometric
 -- name    : CollatzEndpointTransport.FixedTotal.fixedReverseSpendSum_le_hypergeometric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:39:57.971179+00:00
 -- url     : https://prove2.me/theorems/6b6f7fbf-d3b4-5772-99b4-0f3bace62179

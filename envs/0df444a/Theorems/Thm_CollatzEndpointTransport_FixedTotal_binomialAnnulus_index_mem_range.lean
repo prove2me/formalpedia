@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_binomialAnnulus_index_mem_range
 -- name    : CollatzEndpointTransport.FixedTotal.binomialAnnulus_index_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:44:14.353939+00:00
 -- url     : https://prove2.me/theorems/0693815f-c9b0-5225-9093-98f432267dc9

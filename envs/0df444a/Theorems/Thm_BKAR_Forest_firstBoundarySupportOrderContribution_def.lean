@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_firstBoundarySupportOrderContribution_def
 -- name    : BKAR.Forest.firstBoundarySupportOrderContribution_def
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:59:35.847596+00:00
 -- url     : https://prove2.me/theorems/51cad76d-4548-46f5-ab65-896e1150f689

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedCriticalNumerator_eq_zero_of_card_eq_zero
 -- name    : CollatzEndpointTransport.FixedTotal.fixedCriticalNumerator_eq_zero_of_card_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:55:55.427362+00:00
 -- url     : https://prove2.me/theorems/e05551e4-274e-4d0e-aec6-233a34735b84

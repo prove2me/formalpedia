@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedCriticalContribution_eq_zero_of_lt_length
 -- name    : CollatzEndpointTransport.FixedTotal.fixedCriticalContribution_eq_zero_of_lt_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:57:57.578604+00:00
 -- url     : https://prove2.me/theorems/368bb6c7-29d0-4af7-8c39-d4a7816562fd

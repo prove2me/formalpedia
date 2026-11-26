@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_card_centralDiscardedSourceSet_le
 -- name    : CollatzEndpointTransport.FixedTotal.card_centralDiscardedSourceSet_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:04:56.245319+00:00
 -- url     : https://prove2.me/theorems/73486620-7918-4838-a376-af34dda17b89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_cons_orderedContribution_eq_integral_tail_branchIntegralAux_emptyStart
 -- name    : BKAR.Forest.TerminalGrowth.cons_orderedContribution_eq_integral_tail_branchIntegralAux_emptyStart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:49:01.853216+00:00
 -- url     : https://prove2.me/theorems/268912ed-841d-4c69-91f2-73a1c820f1a3

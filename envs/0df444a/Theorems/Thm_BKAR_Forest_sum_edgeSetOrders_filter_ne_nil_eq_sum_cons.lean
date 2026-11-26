@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_sum_edgeSetOrders_filter_ne_nil_eq_sum_cons
 -- name    : BKAR.Forest.sum_edgeSetOrders_filter_ne_nil_eq_sum_cons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:47:14.474282+00:00
 -- url     : https://prove2.me/theorems/a10f0bd7-ec1e-5d6d-b48d-a4c801ebb089

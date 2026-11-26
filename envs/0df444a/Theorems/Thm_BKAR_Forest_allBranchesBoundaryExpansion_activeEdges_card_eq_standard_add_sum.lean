@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_allBranchesBoundaryExpansion_activeEdges_card_eq_standard_add_sum
 -- name    : BKAR.Forest.allBranchesBoundaryExpansion_activeEdges_card_eq_standard_add_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:57:22.839234+00:00
 -- url     : https://prove2.me/theorems/8f0fb2ec-1ac2-5a11-9f72-bf90c26ad9ab

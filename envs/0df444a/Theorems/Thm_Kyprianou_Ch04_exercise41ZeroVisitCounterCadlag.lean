@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41ZeroVisitCounterCadlag
 -- name    : Kyprianou.Ch04.exercise41ZeroVisitCounterCadlag
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T22:28:57.888236+00:00
 -- url     : https://prove2.me/theorems/a9094338-0039-406d-9756-54c7b5f4067d

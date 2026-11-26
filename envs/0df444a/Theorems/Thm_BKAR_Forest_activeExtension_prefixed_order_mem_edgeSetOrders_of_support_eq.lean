@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_activeExtension_prefixed_order_mem_edgeSetOrders_of_support_eq
 -- name    : BKAR.Forest.activeExtension_prefixed_order_mem_edgeSetOrders_of_support_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:05:21.092821+00:00
 -- url     : https://prove2.me/theorems/cb537eba-6b26-5e69-8d94-2a185a5ac69d

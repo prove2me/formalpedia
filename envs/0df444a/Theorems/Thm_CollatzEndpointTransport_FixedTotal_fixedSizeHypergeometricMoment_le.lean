@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedSizeHypergeometricMoment_le
 -- name    : CollatzEndpointTransport.FixedTotal.fixedSizeHypergeometricMoment_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:39:21.755862+00:00
 -- url     : https://prove2.me/theorems/2e420a61-1201-4df4-b100-92fd4dd63676

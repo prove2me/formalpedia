@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveBranchData_singleton_branchIntegralAux_eq_sum_integrals_mixedPartialList_standardInterp_of_activeEdges_eq_empty
 -- name    : BKAR.Forest.ActiveBranchData.singleton_branchIntegralAux_eq_sum_integrals_mixedPartialList_standardInterp_of_activeEdges_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:36:25.399287+00:00
 -- url     : https://prove2.me/theorems/8d347537-90f5-5b31-82e9-7b4e97188c6b

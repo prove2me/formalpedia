@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sourceEndpoint_collision_modEq_correction
 -- name    : CollatzEndpointTransport.FixedTotal.sourceEndpoint_collision_modEq_correction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:53:36.08881+00:00
 -- url     : https://prove2.me/theorems/49b0546a-f259-43af-a49e-65363c072290

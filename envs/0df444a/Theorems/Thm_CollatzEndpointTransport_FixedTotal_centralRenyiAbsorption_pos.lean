@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralRenyiAbsorption_pos
 -- name    : CollatzEndpointTransport.FixedTotal.centralRenyiAbsorption_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:05:29.574803+00:00
 -- url     : https://prove2.me/theorems/c4c20631-37ed-509e-a17c-b8c944964b1a

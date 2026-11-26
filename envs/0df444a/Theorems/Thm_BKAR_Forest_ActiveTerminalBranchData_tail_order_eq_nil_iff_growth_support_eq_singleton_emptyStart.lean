@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_tail_order_eq_nil_iff_growth_support_eq_singleton_emptyStart
 -- name    : BKAR.Forest.ActiveTerminalBranchData.tail_order_eq_nil_iff_growth_support_eq_singleton_emptyStart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:01:53.667855+00:00
 -- url     : https://prove2.me/theorems/cae176a5-840b-5c0e-b553-69ed427fefeb

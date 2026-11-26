@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_partialDeriv_comm
 -- name    : BKAR.BKARContDiff.partialDeriv_comm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:02:58.357656+00:00
 -- url     : https://prove2.me/theorems/1a8fdd07-8a30-45b7-8ec2-d1115a86c7ff

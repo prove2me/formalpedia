@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_cubeContribution_eq_sum_orderedCubeSimplex_mixedPartial
 -- name    : BKAR.Forest.cubeContribution_eq_sum_orderedCubeSimplex_mixedPartial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:05:25.546731+00:00
 -- url     : https://prove2.me/theorems/0b2df2ec-5283-40d6-9b0f-839534576764

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sum_symmetricBinomialMass
 -- name    : CollatzEndpointTransport.FixedTotal.sum_symmetricBinomialMass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:44:13.142039+00:00
 -- url     : https://prove2.me/theorems/7efeddf2-9ec0-51b3-a122-13f767ad0457

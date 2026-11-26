@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedCubeSimplex_pair_eq_pairMeasurableEquiv_preimage_orderedPairSector
 -- name    : BKAR.Forest.orderedCubeSimplex_pair_eq_pairMeasurableEquiv_preimage_orderedPairSector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:58:35.967609+00:00
 -- url     : https://prove2.me/theorems/4cf971d6-46b1-4dad-b3c5-94ff56ca87a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_orderedSimplexIntegral_pair
 -- name    : BKAR.orderedSimplexIntegral_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:36:59.700796+00:00
 -- url     : https://prove2.me/theorems/f6a6bce8-f4ac-5fdd-8cac-d553c10c2ed2

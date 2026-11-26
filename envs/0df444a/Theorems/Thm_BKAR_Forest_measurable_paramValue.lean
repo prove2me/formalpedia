@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_measurable_paramValue
 -- name    : BKAR.Forest.measurable_paramValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:52:29.907581+00:00
 -- url     : https://prove2.me/theorems/09bba18d-7be9-4baf-a847-cdcac0cecea4

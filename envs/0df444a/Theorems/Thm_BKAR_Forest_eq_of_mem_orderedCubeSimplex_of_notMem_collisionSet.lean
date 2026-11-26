@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_eq_of_mem_orderedCubeSimplex_of_notMem_collisionSet
 -- name    : BKAR.Forest.eq_of_mem_orderedCubeSimplex_of_notMem_collisionSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:51:19.013928+00:00
 -- url     : https://prove2.me/theorems/131f8a95-7c2d-5bc8-b244-17e1967d4d3d

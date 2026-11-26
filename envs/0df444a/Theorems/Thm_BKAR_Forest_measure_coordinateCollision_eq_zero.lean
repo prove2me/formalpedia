@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_measure_coordinateCollision_eq_zero
 -- name    : BKAR.Forest.measure_coordinateCollision_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:50:20.116388+00:00
 -- url     : https://prove2.me/theorems/02cb1fc7-320f-5544-9759-025853b204e9

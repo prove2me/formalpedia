@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_listOddCount_ofFn
 -- name    : CollatzEndpointTransport.FixedTotal.listOddCount_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:52:05.49668+00:00
 -- url     : https://prove2.me/theorems/1566576e-90be-4284-9bff-17c03b0873c1

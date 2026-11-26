@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_continuous_comp_updateCoord
 -- name    : BKAR.BKARContDiff.continuous_comp_updateCoord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:23:48.879069+00:00
 -- url     : https://prove2.me/theorems/463611fe-b2bd-55d7-a538-b036fd1c54f9

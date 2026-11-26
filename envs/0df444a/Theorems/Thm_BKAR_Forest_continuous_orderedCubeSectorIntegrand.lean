@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_continuous_orderedCubeSectorIntegrand
 -- name    : BKAR.Forest.continuous_orderedCubeSectorIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:06:07.245051+00:00
 -- url     : https://prove2.me/theorems/82aa4581-7447-54d7-b7f1-2a369f7bd1f2

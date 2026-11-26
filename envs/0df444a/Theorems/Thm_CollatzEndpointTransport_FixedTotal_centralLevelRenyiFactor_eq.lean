@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralLevelRenyiFactor_eq
 -- name    : CollatzEndpointTransport.FixedTotal.centralLevelRenyiFactor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:09:36.572511+00:00
 -- url     : https://prove2.me/theorems/8b9755d1-647c-4abd-9e80-1cd9ba8a1d3e

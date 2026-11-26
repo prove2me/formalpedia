@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_unitCube_iff_pair_bounds_of_edges_eq_pair
 -- name    : BKAR.Forest.unitCube_iff_pair_bounds_of_edges_eq_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:09:45.475031+00:00
 -- url     : https://prove2.me/theorems/d0f5b783-441c-56bc-baf4-1b07981a24cb

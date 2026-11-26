@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderMeasurableEquivOfOrder_symm_apply
 -- name    : BKAR.Forest.orderMeasurableEquivOfOrder_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:08:12.248284+00:00
 -- url     : https://prove2.me/theorems/fbc52bc2-5ff9-4cac-9d64-7c1ad90b5cab

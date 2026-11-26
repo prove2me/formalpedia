@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedCubeSimplex_inter_subset_collisionSet_of_ne
 -- name    : BKAR.Forest.orderedCubeSimplex_inter_subset_collisionSet_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:51:43.926257+00:00
 -- url     : https://prove2.me/theorems/5afe3209-3216-5a48-aeb1-3cc6dfbdd347

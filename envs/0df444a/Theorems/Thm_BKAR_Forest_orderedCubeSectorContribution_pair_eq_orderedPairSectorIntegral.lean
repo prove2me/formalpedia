@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedCubeSectorContribution_pair_eq_orderedPairSectorIntegral
 -- name    : BKAR.Forest.orderedCubeSectorContribution_pair_eq_orderedPairSectorIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:09:56.967898+00:00
 -- url     : https://prove2.me/theorems/68d9f0ba-8939-592a-b5a3-fe5fc3faf66e

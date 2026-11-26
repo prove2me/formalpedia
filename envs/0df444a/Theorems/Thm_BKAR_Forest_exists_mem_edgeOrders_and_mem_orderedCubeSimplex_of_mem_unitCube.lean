@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_exists_mem_edgeOrders_and_mem_orderedCubeSimplex_of_mem_unitCube
 -- name    : BKAR.Forest.exists_mem_edgeOrders_and_mem_orderedCubeSimplex_of_mem_unitCube
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:49:43.210339+00:00
 -- url     : https://prove2.me/theorems/da78f3b8-5140-413e-a369-306bde0ffd8a

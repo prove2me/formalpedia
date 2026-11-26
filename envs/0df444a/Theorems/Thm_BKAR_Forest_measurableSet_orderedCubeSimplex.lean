@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_measurableSet_orderedCubeSimplex
 -- name    : BKAR.Forest.measurableSet_orderedCubeSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:56:28.093845+00:00
 -- url     : https://prove2.me/theorems/b0f71747-7cac-535f-ae6a-78a164fc29cd

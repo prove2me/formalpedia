@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedCubeSimplex_singleton_eq_funUnique_preimage_Icc
 -- name    : BKAR.Forest.orderedCubeSimplex_singleton_eq_funUnique_preimage_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:08:14.730802+00:00
 -- url     : https://prove2.me/theorems/840de6e1-7f2e-4ecb-901d-d05ab5dd3bea

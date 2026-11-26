@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_map_paramValue_paramsOfOrder_eq_of_nodup_of_forall_mem
 -- name    : BKAR.Forest.map_paramValue_paramsOfOrder_eq_of_nodup_of_forall_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:49:12.826034+00:00
 -- url     : https://prove2.me/theorems/e730d003-6d96-51b7-8ef1-3c5af29f8b51

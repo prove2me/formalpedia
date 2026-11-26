@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_oddCount_sourceShellStart
 -- name    : CollatzEndpointTransport.FixedTotal.oddCount_sourceShellStart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:53:36.802877+00:00
 -- url     : https://prove2.me/theorems/89b91edc-903f-4501-bcb9-89af15efc834

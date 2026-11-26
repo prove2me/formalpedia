@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_boundarySupportOrderTreeFiber_eq_localBoundary_of_order_length_eq_succ
 -- name    : BKAR.Forest.boundarySupportOrderTreeFiber_eq_localBoundary_of_order_length_eq_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:07:07.621583+00:00
 -- url     : https://prove2.me/theorems/ec71c0c5-ca17-5b50-8a24-0e5e25c01013

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_measurableSet_unitCube
 -- name    : BKAR.Forest.measurableSet_unitCube
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:53:22.302729+00:00
 -- url     : https://prove2.me/theorems/8815035b-1178-41cc-ae36-98e2049a0434

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_support_edges_eq_toFinset_of_initial_edges_eq_empty
 -- name    : BKAR.Forest.TerminalGrowth.support_edges_eq_toFinset_of_initial_edges_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:43:08.495979+00:00
 -- url     : https://prove2.me/theorems/97def477-d074-5fff-868b-46dedfc6808f

@@ -35003,7 +35003,7 @@
 {"parent": "MetricTSPSublinear.lemma_4_2", "child": "DoublingMST_IsMetric", "via": ["statement"]}
 {"parent": "MetricTSPSublinear.lemma_4_2", "child": "MetricTSPSublinear_IsDualFeasible", "via": ["statement"]}
 {"parent": "MetricTSPSublinear.lemma_4_2", "child": "MetricTSPSublinear_Dominated", "via": ["statement"]}
-{"parent": "BipHamCount.Deterministic.lemma_3_2", "child": "BipHamCount_Deterministic_Core", "via": ["statement"]}
+{"parent": "BipHamCount.Deterministic.lemma_3_2", "child": "BipHamCount_Deterministic_Core", "via": ["solution", "statement"]}
 {"parent": "CutRankSched.lemma_3_3", "child": "CutRankSched_A", "via": ["statement"]}
 {"parent": "CutRankSched.lemma_3_3", "child": "CutRankSched_IsSchedule", "via": ["statement"]}
 {"parent": "CutRankSched.lemma_3_3", "child": "CutRankSched_Residual", "via": ["statement"]}
@@ -38630,7 +38630,7 @@
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval1555_e", "child": "OAIQ106E122", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval1555_e", "child": "OAIQ106E130", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval1555_e", "child": "OAIQ106E137", "via": ["solution", "statement"]}
-{"parent": "BipHamCount.Deterministic.lemma_3_1", "child": "BipHamCount_Deterministic_Core", "via": ["statement"]}
+{"parent": "BipHamCount.Deterministic.lemma_3_1", "child": "BipHamCount_Deterministic_Core", "via": ["solution", "statement"]}
 {"parent": "HighConfRobust.fact_3_3_i", "child": "HighConfRobust_renyiDivergence", "via": ["solution", "statement"]}
 {"parent": "BatchMaxService.Metric.two_family_bound", "child": "BatchMaxService_Metric_Certificates", "via": ["statement"]}
 {"parent": "FourierDimTesting102.Quantum.fourier_state_one_query", "child": "FourierDimTesting102_Quantum_Algorithm", "via": ["statement"]}
@@ -41443,7 +41443,7 @@
 {"parent": "LinMatroidSecretary.Online.gp_supermodular", "child": "LinMatroidSecretary_Online_DimensionLP", "via": ["statement"]}
 {"parent": "TenChallenges.challenge_02_r1", "child": "TenChallenges_Challenge_02", "via": ["solution", "statement"]}
 {"parent": "ExplicitTensorBarrier694.Explicit.theorem_1_1", "child": "ExplicitTensorBarrier694_Explicit_Explicitness", "via": ["statement"]}
-{"parent": "OCTKernel.Main.lemma_3_3", "child": "OCTKernel_Main_Polynomials", "via": ["statement"]}
+{"parent": "OCTKernel.Main.lemma_3_3", "child": "OCTKernel_Main_Polynomials", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Residual96.bound1_1_g", "child": "OAIQ098G1696", "via": ["solution", "statement"]}
 {"parent": "WangRenyiEntropy.Noninteger.noninteger_upper_bound", "child": "WangRenyiEntropy_Noninteger_Estimator", "via": ["statement"]}
 {"parent": "SwitchingRegret_Dyadic_Algorithm", "child": "SwitchingRegret_Dyadic_Model", "via": ["statement"]}
@@ -42558,7 +42558,7 @@
 {"parent": "LindbladStructLearn.corollary_5_3", "child": "LindbladTolerant_Testing_lindblad_model", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm24_1_0_5.s5_eq_g", "child": "OAIQ098G1049", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm24_1_0_5.s5_eq_g", "child": "OAIQ098G1035", "via": ["solution", "statement"]}
-{"parent": "BipHamCount.Deterministic.lemma_4_3", "child": "BipHamCount_Deterministic_Core", "via": ["statement"]}
+{"parent": "BipHamCount.Deterministic.lemma_4_3", "child": "BipHamCount_Deterministic_Core", "via": ["solution", "statement"]}
 {"parent": "OnlineRealSampling.Exact.theorem_4_2", "child": "OnlineRealSampling_Exact_Online", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval69_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval69_e", "child": "OAIQ106E122", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sum_rpow_one_sub_le_card_rpow_mul_sum_rpow
 -- name    : CollatzEndpointTransport.FixedTotal.sum_rpow_one_sub_le_card_rpow_mul_sum_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:50:29.523941+00:00
 -- url     : https://prove2.me/theorems/93fd4c98-ae2a-425c-9ab2-736b8b64ac4a

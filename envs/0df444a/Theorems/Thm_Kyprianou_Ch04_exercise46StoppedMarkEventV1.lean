@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46StoppedMarkEventV1
 -- name    : Kyprianou.Ch04.exercise46StoppedMarkEventV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T09:06:55.129609+00:00
 -- url     : https://prove2.me/theorems/78f6c0ff-f37a-5095-973b-d949ab07da04

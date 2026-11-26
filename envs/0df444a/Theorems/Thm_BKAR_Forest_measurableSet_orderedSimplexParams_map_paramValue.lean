@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_measurableSet_orderedSimplexParams_map_paramValue
 -- name    : BKAR.Forest.measurableSet_orderedSimplexParams_map_paramValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:02:33.552261+00:00
 -- url     : https://prove2.me/theorems/e6927bd4-f328-4cfd-a223-a6dfcdb6075a

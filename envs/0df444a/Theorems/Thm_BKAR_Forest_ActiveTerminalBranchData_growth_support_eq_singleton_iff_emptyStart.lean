@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_growth_support_eq_singleton_iff_emptyStart
 -- name    : BKAR.Forest.ActiveTerminalBranchData.growth_support_eq_singleton_iff_emptyStart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:54:37.994931+00:00
 -- url     : https://prove2.me/theorems/6ab85fd2-1457-5d6f-a35e-13328c96f6b7

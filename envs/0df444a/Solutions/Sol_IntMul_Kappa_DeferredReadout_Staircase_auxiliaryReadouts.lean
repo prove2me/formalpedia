@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntMul.Kappa.DeferredReadout.Staircase.auxiliaryReadouts
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @scuba8684
 -- created : 2026-11-26T08:58:14.451427+00:00
 -- url     : https://prove2.me/submissions/d95e7317-9f02-4bb6-8724-098ffaaa0fc5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_IntMul_Kappa_DeferredReadoutProjectors
 import Definitions.Def_IntMul_Kappa_DeferredReadoutStaircase

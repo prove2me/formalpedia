@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_card_sourceEndpointBad_le_discard_add_central
 -- name    : CollatzEndpointTransport.FixedTotal.card_sourceEndpointBad_le_discard_add_central
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:08:56.180802+00:00
 -- url     : https://prove2.me/theorems/284288fd-c5e3-48d1-b745-9ee874cb06f4

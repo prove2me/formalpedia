@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_integrableOn_cubeContributionIntegrand
 -- name    : BKAR.Forest.integrableOn_cubeContributionIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:05:01.182539+00:00
 -- url     : https://prove2.me/theorems/8b77e026-98f6-441a-9d29-fc0d956d0d15

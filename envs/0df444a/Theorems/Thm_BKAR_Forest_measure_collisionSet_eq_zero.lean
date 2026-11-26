@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_measure_collisionSet_eq_zero
 -- name    : BKAR.Forest.measure_collisionSet_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:50:40.650963+00:00
 -- url     : https://prove2.me/theorems/f7e2ed08-b28c-4b46-8c2f-b6b0a2e8c66b

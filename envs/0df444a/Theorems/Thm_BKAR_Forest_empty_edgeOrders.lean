@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_empty_edgeOrders
 -- name    : BKAR.Forest.empty_edgeOrders
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:47:35.116262+00:00
 -- url     : https://prove2.me/theorems/960cf46e-28b4-4e5d-a799-83547685b559

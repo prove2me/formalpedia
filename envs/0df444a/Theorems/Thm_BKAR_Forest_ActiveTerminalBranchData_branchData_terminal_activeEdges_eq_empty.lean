@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_branchData_terminal_activeEdges_eq_empty
 -- name    : BKAR.Forest.ActiveTerminalBranchData.branchData_terminal_activeEdges_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:43:41.375664+00:00
 -- url     : https://prove2.me/theorems/9223385d-53e0-5059-916d-7e5270ad5ba3

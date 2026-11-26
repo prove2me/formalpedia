@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_growth_support_eq_iff_order_toFinset_eq_emptyStart
 -- name    : BKAR.Forest.ActiveTerminalBranchData.growth_support_eq_iff_order_toFinset_eq_emptyStart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:53:54.168833+00:00
 -- url     : https://prove2.me/theorems/36b5b879-f429-4fe7-8f82-8c85976e9e86

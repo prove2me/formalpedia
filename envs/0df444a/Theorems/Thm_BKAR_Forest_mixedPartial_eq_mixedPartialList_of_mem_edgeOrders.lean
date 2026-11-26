@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_mixedPartial_eq_mixedPartialList_of_mem_edgeOrders
 -- name    : BKAR.Forest.mixedPartial_eq_mixedPartialList_of_mem_edgeOrders
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:04:17.864809+00:00
 -- url     : https://prove2.me/theorems/39780211-fdad-5bc7-b84e-63518d2c6902

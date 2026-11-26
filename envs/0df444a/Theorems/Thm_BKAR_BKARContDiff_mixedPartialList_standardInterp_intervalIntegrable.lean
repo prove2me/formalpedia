@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_mixedPartialList_standardInterp_intervalIntegrable
 -- name    : BKAR.BKARContDiff.mixedPartialList_standardInterp_intervalIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:02:24.080897+00:00
 -- url     : https://prove2.me/theorems/47bfe599-501a-51db-b700-1ad67852f03e

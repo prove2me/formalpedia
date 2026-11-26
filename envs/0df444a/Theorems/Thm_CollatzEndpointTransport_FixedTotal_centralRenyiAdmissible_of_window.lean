@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralRenyiAdmissible_of_window
 -- name    : CollatzEndpointTransport.FixedTotal.centralRenyiAdmissible_of_window
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:03:36.81817+00:00
 -- url     : https://prove2.me/theorems/39754df6-3896-560c-9df1-6c50dad90ab0

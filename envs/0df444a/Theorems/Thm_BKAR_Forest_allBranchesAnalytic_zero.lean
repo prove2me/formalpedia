@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_allBranchesAnalytic_zero
 -- name    : BKAR.Forest.allBranchesAnalytic_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:04:59.569607+00:00
 -- url     : https://prove2.me/theorems/e2c197f6-670a-58f7-b29f-6d57822cdee7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_integral_allBranchesBoundaryExpansion_child_eq_integral_standard_add_integral_sum
 -- name    : BKAR.Forest.integral_allBranchesBoundaryExpansion_child_eq_integral_standard_add_integral_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:01:22.716802+00:00
 -- url     : https://prove2.me/theorems/bbcd0319-2429-4148-ad1d-fd9b61197764

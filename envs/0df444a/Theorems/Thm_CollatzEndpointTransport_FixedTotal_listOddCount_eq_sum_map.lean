@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_listOddCount_eq_sum_map
 -- name    : CollatzEndpointTransport.FixedTotal.listOddCount_eq_sum_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:51:54.079274+00:00
 -- url     : https://prove2.me/theorems/606b89a3-cc25-4555-b254-73660c4d2ded

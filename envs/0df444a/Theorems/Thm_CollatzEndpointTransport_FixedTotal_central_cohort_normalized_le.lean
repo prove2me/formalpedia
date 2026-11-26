@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_central_cohort_normalized_le
 -- name    : CollatzEndpointTransport.FixedTotal.central_cohort_normalized_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:03:55.498407+00:00
 -- url     : https://prove2.me/theorems/92ef40da-1a53-41d2-8da2-60e7d322f388

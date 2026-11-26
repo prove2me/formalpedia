@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sum_rpow_one_add_le
 -- name    : CollatzEndpointTransport.FixedTotal.sum_rpow_one_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:01:50.479932+00:00
 -- url     : https://prove2.me/theorems/ca315715-5348-4188-b767-b9e752a1270a

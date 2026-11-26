@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_cohortCriticalNumerator_eq_fixed
 -- name    : CollatzEndpointTransport.FixedTotal.cohortCriticalNumerator_eq_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:55:56.244056+00:00
 -- url     : https://prove2.me/theorems/cbacbaa7-f0c9-4fd1-be0b-d520b7871cb7

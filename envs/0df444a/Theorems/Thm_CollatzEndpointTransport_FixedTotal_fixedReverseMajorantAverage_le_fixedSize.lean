@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedReverseMajorantAverage_le_fixedSize
 -- name    : CollatzEndpointTransport.FixedTotal.fixedReverseMajorantAverage_le_fixedSize
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:40:34.390159+00:00
 -- url     : https://prove2.me/theorems/b7847117-b38a-51c7-a9b4-0ec7f8388f2f

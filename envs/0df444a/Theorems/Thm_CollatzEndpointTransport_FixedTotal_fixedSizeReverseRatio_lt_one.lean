@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedSizeReverseRatio_lt_one
 -- name    : CollatzEndpointTransport.FixedTotal.fixedSizeReverseRatio_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:40:24.904491+00:00
 -- url     : https://prove2.me/theorems/31634a03-caaa-490a-be59-3773b7505b6f

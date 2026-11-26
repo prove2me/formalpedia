@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46FirstRestartProductLawV1
 -- name    : Kyprianou.Ch04.exercise46FirstRestartProductLawV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T09:08:00.933924+00:00
 -- url     : https://prove2.me/theorems/c7ec11a9-4bcb-4c9a-bee7-94c4fcf66fd8

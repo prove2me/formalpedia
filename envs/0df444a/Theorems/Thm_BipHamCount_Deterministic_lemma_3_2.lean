@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BipHamCount_Deterministic_lemma_3_2
 -- name    : BipHamCount.Deterministic.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:47:49.558877+00:00
 -- url     : https://prove2.me/theorems/64050318-47dc-4afe-9a39-48a363d69322

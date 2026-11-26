@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_paramsOfOrder_mem_unitCube_of_orderedSimplexParams
 -- name    : BKAR.Forest.paramsOfOrder_mem_unitCube_of_orderedSimplexParams
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:49:05.933244+00:00
 -- url     : https://prove2.me/theorems/a740fbe0-b74a-547e-8751-b8e7c631cc2d

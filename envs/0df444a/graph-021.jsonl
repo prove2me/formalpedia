@@ -14503,16 +14503,16 @@
 {"parent": "W21.hf", "child": "PrimeNumberTheoremAnd_Sobolev", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.projectorAB_commute_projectorBC_mul_CD", "child": "QEC_Bounds_BPTDisentangling_InteractionAlgebra", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.projectorAB_commute_projectorBC_mul_CD", "child": "QEC_Bounds_BPTDisentangling_FourFactor", "via": ["solution", "statement"]}
-{"parent": "IntConeFPT.lemma_6", "child": "OnlineCRS_Combine_encInt", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_6", "child": "OnlineCRS_Combine_encVec", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_6", "child": "IntConeFPT_Problem", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_6", "child": "OnlineCRS_Combine_Sym", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_6", "child": "IntConeFPT_Formulation", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_6", "child": "OnlineCRS_Combine_encRat", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_6", "child": "IntConeFPT_Machine", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_6", "child": "IntConeFPT_Instance", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_6", "child": "IntConeFPT_Residue", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_6", "child": "OnlineCRS_Combine_encNat", "via": ["statement"]}
+{"parent": "IntConeFPT.lemma_6", "child": "OnlineCRS_Combine_encInt", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_6", "child": "OnlineCRS_Combine_encVec", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_6", "child": "IntConeFPT_Problem", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_6", "child": "OnlineCRS_Combine_Sym", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_6", "child": "IntConeFPT_Formulation", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_6", "child": "OnlineCRS_Combine_encRat", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_6", "child": "IntConeFPT_Machine", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_6", "child": "IntConeFPT_Instance", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_6", "child": "IntConeFPT_Residue", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_6", "child": "OnlineCRS_Combine_encNat", "via": ["solution", "statement"]}
 {"parent": "OAI.ActualEisensteinCubic.maximal_ideal_eq_span_of_mem", "child": "OAI_NumberTheory_DirichletL_Poisson_GaussianMoments", "via": ["solution", "statement"]}
 {"parent": "OAI.ActualEisensteinCubic.maximal_ideal_eq_span_of_mem", "child": "OAI_NumberTheory_DirichletL_GaussSum_GaussianFiberMass", "via": ["solution", "statement"]}
 {"parent": "PADMPriv.feasibility_A16", "child": "PADMPriv_pinvRight", "via": ["solution", "statement"]}

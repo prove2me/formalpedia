@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_mixedFiberRenyi_le
 -- name    : CollatzEndpointTransport.FixedTotal.mixedFiberRenyi_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:00:52.427576+00:00
 -- url     : https://prove2.me/theorems/d8ddf6db-df42-5f56-bd8d-3b5b3ad9af41

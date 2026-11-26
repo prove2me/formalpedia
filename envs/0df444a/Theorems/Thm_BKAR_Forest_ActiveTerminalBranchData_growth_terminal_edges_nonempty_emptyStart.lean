@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_growth_terminal_edges_nonempty_emptyStart
 -- name    : BKAR.Forest.ActiveTerminalBranchData.growth_terminal_edges_nonempty_emptyStart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:55:29.656459+00:00
 -- url     : https://prove2.me/theorems/6864b481-5784-41af-9b75-92b2eb2fb1f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_rho_oneConfig_eq_orderedSectorSum_empty_add_sum_allBranchesBoundaryExpansion
 -- name    : BKAR.Forest.rho_oneConfig_eq_orderedSectorSum_empty_add_sum_allBranchesBoundaryExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:57:25.115794+00:00
 -- url     : https://prove2.me/theorems/ec8579a7-cb35-505d-a717-c56ec936d27c

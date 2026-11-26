@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_hypergeometricChooseMoment_le
 -- name    : CollatzEndpointTransport.FixedTotal.hypergeometricChooseMoment_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:39:46.25802+00:00
 -- url     : https://prove2.me/theorems/055316d0-f8a1-5a60-b659-4d8abbeee9a3

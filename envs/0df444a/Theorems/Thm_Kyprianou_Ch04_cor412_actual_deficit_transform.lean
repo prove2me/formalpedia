@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_cor412_actual_deficit_transform
 -- name    : Kyprianou.Ch04.cor412_actual_deficit_transform
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T09:08:07.101801+00:00
 -- url     : https://prove2.me/theorems/3c806ec7-0933-58a4-93f3-6e7e52fc213a

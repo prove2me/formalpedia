@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_integerCorrection_sourceShellStart
 -- name    : CollatzEndpointTransport.FixedTotal.integerCorrection_sourceShellStart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:52:33.348418+00:00
 -- url     : https://prove2.me/theorems/2df7f80f-12e8-50e3-af65-2d3f617faf97

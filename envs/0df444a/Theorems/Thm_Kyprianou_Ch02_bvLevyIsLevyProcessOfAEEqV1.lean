@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_bvLevyIsLevyProcessOfAEEqV1
 -- name    : Kyprianou.Ch02.bvLevyIsLevyProcessOfAEEqV1
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T13:40:52.584357+00:00
 -- url     : https://prove2.me/theorems/350b4487-cab0-4cf8-b8f5-8852322a25e2

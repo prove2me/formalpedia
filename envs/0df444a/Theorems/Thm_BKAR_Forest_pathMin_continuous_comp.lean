@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_pathMin_continuous_comp
 -- name    : BKAR.Forest.pathMin_continuous_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:23:45.577722+00:00
 -- url     : https://prove2.me/theorems/c254f625-a7ce-451b-84da-17e05b314301

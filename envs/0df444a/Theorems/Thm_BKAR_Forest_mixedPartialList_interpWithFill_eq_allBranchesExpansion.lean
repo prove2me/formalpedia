@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_mixedPartialList_interpWithFill_eq_allBranchesExpansion
 -- name    : BKAR.Forest.mixedPartialList_interpWithFill_eq_allBranchesExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:58:18.624882+00:00
 -- url     : https://prove2.me/theorems/3dbabd03-6773-59fb-93e3-3f6aa65cda81

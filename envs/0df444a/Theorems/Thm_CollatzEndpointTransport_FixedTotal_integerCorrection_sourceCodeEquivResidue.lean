@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_integerCorrection_sourceCodeEquivResidue
 -- name    : CollatzEndpointTransport.FixedTotal.integerCorrection_sourceCodeEquivResidue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:52:14.40793+00:00
 -- url     : https://prove2.me/theorems/56895ff4-44f1-48c9-ae08-3509ec75198e

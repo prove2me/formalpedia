@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_mixedPartial_def
 -- name    : BKAR.Forest.mixedPartial_def
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:24:16.967053+00:00
 -- url     : https://prove2.me/theorems/298c6cfc-e6e1-47c4-bb08-fb28d8ee61d2

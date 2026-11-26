@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_binomialAnnulus_subset_tails
 -- name    : CollatzEndpointTransport.FixedTotal.binomialAnnulus_subset_tails
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:44:24.168356+00:00
 -- url     : https://prove2.me/theorems/a74fcf45-3fa4-593f-aa9f-1932df81a31f

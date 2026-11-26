@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_mixedPartialList_eq_of_perm
 -- name    : BKAR.BKARContDiff.mixedPartialList_eq_of_perm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:03:23.140679+00:00
 -- url     : https://prove2.me/theorems/29a42838-3f36-4819-b54f-7c780aae3e0f

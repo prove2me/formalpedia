@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_allBranchesAnalytic_child_activeEdges_card
 -- name    : BKAR.Forest.allBranchesAnalytic.child_activeEdges_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:01:09.105827+00:00
 -- url     : https://prove2.me/theorems/0440182d-f8d6-5c24-ada6-96309a804bb6

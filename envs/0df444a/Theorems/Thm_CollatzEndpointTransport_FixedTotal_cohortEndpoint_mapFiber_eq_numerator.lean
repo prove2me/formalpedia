@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_cohortEndpoint_mapFiber_eq_numerator
 -- name    : CollatzEndpointTransport.FixedTotal.cohortEndpoint_mapFiber_eq_numerator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:54:52.223927+00:00
 -- url     : https://prove2.me/theorems/9c7aaffc-e4b0-53f1-a502-61f79dfd0e3e

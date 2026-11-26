@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sum_choose_upper_tail
 -- name    : CollatzEndpointTransport.FixedTotal.sum_choose_upper_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:44:37.674064+00:00
 -- url     : https://prove2.me/theorems/f3fa3f44-f739-5501-90c1-c80fd097fcc9

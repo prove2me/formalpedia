@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedReverseSpendSum_total
 -- name    : CollatzEndpointTransport.FixedTotal.fixedReverseSpendSum_total
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:40:28.366219+00:00
 -- url     : https://prove2.me/theorems/9105da28-b9d9-5f45-b6cd-333a0e3c8959

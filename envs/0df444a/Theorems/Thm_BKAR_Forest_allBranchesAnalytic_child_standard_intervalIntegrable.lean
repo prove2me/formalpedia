@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_allBranchesAnalytic_child_standard_intervalIntegrable
 -- name    : BKAR.Forest.allBranchesAnalytic.child_standard_intervalIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:59:50.309076+00:00
 -- url     : https://prove2.me/theorems/43cdac9d-d1e7-538a-8f61-d992347c392b

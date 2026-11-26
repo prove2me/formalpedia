@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_binomialAnnulus_tails_disjoint
 -- name    : CollatzEndpointTransport.FixedTotal.binomialAnnulus_tails_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:44:32.364231+00:00
 -- url     : https://prove2.me/theorems/4740860d-545d-5cd3-b15a-f847c4081382

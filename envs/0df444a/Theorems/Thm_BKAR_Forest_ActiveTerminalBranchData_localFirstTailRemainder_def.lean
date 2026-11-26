@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_localFirstTailRemainder_def
 -- name    : BKAR.Forest.ActiveTerminalBranchData.localFirstTailRemainder_def
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:54:55.241371+00:00
 -- url     : https://prove2.me/theorems/b2ca730d-c8d1-59b5-8862-4680f65a48d4

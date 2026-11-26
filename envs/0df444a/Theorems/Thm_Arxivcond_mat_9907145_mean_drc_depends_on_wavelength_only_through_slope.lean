@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivcond_mat_9907145_mean_drc_depends_on_wavelength_only_through_slope
 -- name    : Arxivcond_mat_9907145.mean_drc_depends_on_wavelength_only_through_slope
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:31:05.546635+00:00
 -- url     : https://prove2.me/theorems/2c47a450-3b9e-5ef0-bf12-9a09d6604cb6

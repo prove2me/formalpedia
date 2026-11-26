@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_actualLevelEndpointSet_eq_levelEndpointSet
 -- name    : CollatzEndpointTransport.FixedTotal.actualLevelEndpointSet_eq_levelEndpointSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:58:38.480675+00:00
 -- url     : https://prove2.me/theorems/0eba1523-dd67-531a-bc26-3f6765e829d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralLevelBadMass_eq_sum_bad
 -- name    : CollatzEndpointTransport.FixedTotal.centralLevelBadMass_eq_sum_bad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:07:12.21808+00:00
 -- url     : https://prove2.me/theorems/520c8f9e-2944-5229-bf93-2a005dc35d1d

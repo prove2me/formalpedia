@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sum_mapFiberCardAt_rpow_eq
 -- name    : CollatzEndpointTransport.FixedTotal.sum_mapFiberCardAt_rpow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:01:25.215795+00:00
 -- url     : https://prove2.me/theorems/8a8ba42e-1e53-4079-80bf-45658f59d3c3

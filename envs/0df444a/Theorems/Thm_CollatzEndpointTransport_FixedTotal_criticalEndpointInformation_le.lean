@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_criticalEndpointInformation_le
 -- name    : CollatzEndpointTransport.FixedTotal.criticalEndpointInformation_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:57:19.245574+00:00
 -- url     : https://prove2.me/theorems/967f1ba8-802c-480f-85b5-26a1bbd5aea0

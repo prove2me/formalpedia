@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_growthOrderTail_order_mem_edgeSetOrders_of_support_eq_emptyStart
 -- name    : BKAR.Forest.ActiveTerminalBranchData.growthOrderTail_order_mem_edgeSetOrders_of_support_eq_emptyStart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:01:39.152003+00:00
 -- url     : https://prove2.me/theorems/0d3218d4-6da4-42b4-a93f-81fb664ddfe6

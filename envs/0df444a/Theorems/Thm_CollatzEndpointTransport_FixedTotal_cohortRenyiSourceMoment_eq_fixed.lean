@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_cohortRenyiSourceMoment_eq_fixed
 -- name    : CollatzEndpointTransport.FixedTotal.cohortRenyiSourceMoment_eq_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:02:12.173024+00:00
 -- url     : https://prove2.me/theorems/0c9f53f0-5b4e-45f9-90a9-a5da3a11c850

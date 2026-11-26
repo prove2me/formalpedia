@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_map_paramValue_eq_ofFn_orderMeasurableEquiv
 -- name    : BKAR.Forest.map_paramValue_eq_ofFn_orderMeasurableEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:08:43.99985+00:00
 -- url     : https://prove2.me/theorems/feb52c79-5d41-5f24-8a26-77934e6a79f2

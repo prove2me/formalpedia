@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_EdgeExtension_mixedPartialList_cons_interpWithFill_eq_extension
 -- name    : BKAR.Forest.EdgeExtension.mixedPartialList_cons_interpWithFill_eq_extension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:31:06.458965+00:00
 -- url     : https://prove2.me/theorems/94594dea-4bcd-5def-b5d7-99c72252d9fd

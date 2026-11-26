@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_extension_activeEdges_eq_empty_of_tail_order_eq_nil
 -- name    : BKAR.Forest.ActiveTerminalBranchData.extension_activeEdges_eq_empty_of_tail_order_eq_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:52:59.3656+00:00
 -- url     : https://prove2.me/theorems/147ce9dd-60fb-5ce5-8b56-ae80160ec85d

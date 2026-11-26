@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sourceEndpoint_affine
 -- name    : CollatzEndpointTransport.FixedTotal.sourceEndpoint_affine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:52:37.55828+00:00
 -- url     : https://prove2.me/theorems/122a1226-3a0c-5a83-b1d5-691ab8ef4e8e

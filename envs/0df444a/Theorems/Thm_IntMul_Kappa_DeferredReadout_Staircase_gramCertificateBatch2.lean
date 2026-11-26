@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_DeferredReadout_Staircase_gramCertificateBatch2
 -- name    : IntMul.Kappa.DeferredReadout.Staircase.gramCertificateBatch2
--- status  : Open
+-- status  : Proved
 -- author  : @scuba8684
 -- created : 2026-11-26T08:57:20.441231+00:00
 -- url     : https://prove2.me/theorems/db5a3a67-a5b0-558a-b444-9670f01e09be

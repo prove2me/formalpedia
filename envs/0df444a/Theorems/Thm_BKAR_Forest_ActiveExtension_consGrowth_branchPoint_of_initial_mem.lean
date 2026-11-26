@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveExtension_consGrowth_branchPoint_of_initial_mem
 -- name    : BKAR.Forest.ActiveExtension.consGrowth_branchPoint_of_initial_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:36:07.663633+00:00
 -- url     : https://prove2.me/theorems/228d1b57-f008-4622-9981-fb21198a6473

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_branchIntegralAux_eq_sum_activeExtension_integrals_add_sum_localFirstTailRemainder
 -- name    : BKAR.Forest.ActiveTerminalBranchData.branchIntegralAux_eq_sum_activeExtension_integrals_add_sum_localFirstTailRemainder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:55:17.254814+00:00
 -- url     : https://prove2.me/theorems/631402f7-e26e-4a74-b357-c49b9e58f343

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedFinSimplexWithTop_succ_eq_piFinSuccAbove_preimage_headTail
 -- name    : BKAR.Forest.orderedFinSimplexWithTop_succ_eq_piFinSuccAbove_preimage_headTail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:00:58.99499+00:00
 -- url     : https://prove2.me/theorems/1158e0c3-2556-44de-b2cf-7f169a4178d3

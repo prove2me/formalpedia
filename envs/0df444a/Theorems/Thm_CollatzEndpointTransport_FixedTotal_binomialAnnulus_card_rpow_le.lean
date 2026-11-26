@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_binomialAnnulus_card_rpow_le
 -- name    : CollatzEndpointTransport.FixedTotal.binomialAnnulus_card_rpow_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:50:18.065323+00:00
 -- url     : https://prove2.me/theorems/d0b966b8-6464-4c19-b572-6fe2c1cd7b5c

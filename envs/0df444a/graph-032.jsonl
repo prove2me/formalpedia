@@ -50665,9 +50665,9 @@
 {"parent": "PrivPACLower.ICP.Supplement.lemma_15", "child": "PrivPACLower_ICP_Learning", "via": ["statement"]}
 {"parent": "PrivPACLower.ICP.Supplement.lemma_15", "child": "PrivPACLower_ICP_Packing", "via": ["statement"]}
 {"parent": "RSCapacity.ListDecoding.Supplement.hyperplane_intersection", "child": "RSCapacity_ListDecoding_Supplement_ProximityGaps", "via": ["statement"]}
-{"parent": "LogLogJam.Supplement.theorem_8_16", "child": "BosonicLearn_traceDist", "via": ["statement"]}
-{"parent": "LogLogJam.Supplement.theorem_8_16", "child": "BosonicLearn_transcriptLaw", "via": ["statement"]}
-{"parent": "LogLogJam.Supplement.theorem_8_16", "child": "LogLogJam_Supplement_IsGaussQP", "via": ["statement"]}
+{"parent": "LogLogJam.Supplement.theorem_8_16", "child": "BosonicLearn_traceDist", "via": ["solution", "statement"]}
+{"parent": "LogLogJam.Supplement.theorem_8_16", "child": "BosonicLearn_transcriptLaw", "via": ["solution", "statement"]}
+{"parent": "LogLogJam.Supplement.theorem_8_16", "child": "LogLogJam_Supplement_IsGaussQP", "via": ["solution", "statement"]}
 {"parent": "ParetoNCSched_Supplement_curRate", "child": "ParetoNCSched_Supplement_AlgRunState", "via": ["statement"]}
 {"parent": "ParetoNCSched_Supplement_curRate", "child": "ParetoNCSched_Supplement_DetAlg", "via": ["statement"]}
 {"parent": "MeanCertificates1424_Hardness_Supplement_Complexity", "child": "MeanCertificates1424_Hardness_Computation", "via": ["statement"]}

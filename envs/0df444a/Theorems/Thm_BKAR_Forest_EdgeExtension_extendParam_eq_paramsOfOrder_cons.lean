@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_EdgeExtension_extendParam_eq_paramsOfOrder_cons
 -- name    : BKAR.Forest.EdgeExtension.extendParam_eq_paramsOfOrder_cons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:48:04.827158+00:00
 -- url     : https://prove2.me/theorems/4e655359-21c9-5807-985c-94334d14f5b0

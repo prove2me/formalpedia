@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralRenyiRate_pos
 -- name    : CollatzEndpointTransport.FixedTotal.centralRenyiRate_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:05:37.331947+00:00
 -- url     : https://prove2.me/theorems/d0dcaa9a-9847-52dd-ba4b-6b535055c4bf

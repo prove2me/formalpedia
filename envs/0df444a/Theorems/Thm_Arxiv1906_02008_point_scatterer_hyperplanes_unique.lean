@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1906_02008_point_scatterer_hyperplanes_unique
 -- name    : Arxiv1906_02008.point_scatterer_hyperplanes_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T14:40:42.855863+00:00
 -- url     : https://prove2.me/theorems/45908427-451b-4956-9475-cd543190f200

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_integral_unitCube_eq_tsum_orderedCubeSimplex
 -- name    : BKAR.Forest.integral_unitCube_eq_tsum_orderedCubeSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:02:28.799556+00:00
 -- url     : https://prove2.me/theorems/68f5e34a-4e2d-5c6a-bec3-35eca29d0dd9

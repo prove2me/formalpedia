@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivcond_mat_9907145_mean_drc_levy_closed_form
 -- name    : Arxivcond_mat_9907145.mean_drc_levy_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:30:32.017836+00:00
 -- url     : https://prove2.me/theorems/8f4fdff0-8286-4b17-855f-97b9e5c0d9f8

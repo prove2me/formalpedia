@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_mixedFiberCritical_le
 -- name    : CollatzEndpointTransport.FixedTotal.mixedFiberCritical_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:56:35.212723+00:00
 -- url     : https://prove2.me/theorems/ab9b6de7-d558-49cb-8afc-fc0e873763ca

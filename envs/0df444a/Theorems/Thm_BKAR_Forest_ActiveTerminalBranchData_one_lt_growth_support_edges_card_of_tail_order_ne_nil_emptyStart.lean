@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_one_lt_growth_support_edges_card_of_tail_order_ne_nil_emptyStart
 -- name    : BKAR.Forest.ActiveTerminalBranchData.one_lt_growth_support_edges_card_of_tail_order_ne_nil_emptyStart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:02:10.052416+00:00
 -- url     : https://prove2.me/theorems/3b0e9f92-fc0e-48f9-a32b-13cdd0345e1f

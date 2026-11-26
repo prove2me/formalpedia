@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_nonempty_activeExtension_of_mem_activeEdges
 -- name    : BKAR.Forest.nonempty_activeExtension_of_mem_activeEdges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:34:18.844932+00:00
 -- url     : https://prove2.me/theorems/9fee73e3-c1bf-5b4d-b0f6-708ca3de0c9b

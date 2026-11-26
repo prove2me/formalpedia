@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralSourceEndpointBad_div_pow_le
 -- name    : CollatzEndpointTransport.FixedTotal.centralSourceEndpointBad_div_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:09:18.995896+00:00
 -- url     : https://prove2.me/theorems/2e6533fe-44f3-504c-99c6-3e6095055d07

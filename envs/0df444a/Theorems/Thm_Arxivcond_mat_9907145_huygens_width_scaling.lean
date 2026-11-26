@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivcond_mat_9907145_huygens_width_scaling
 -- name    : Arxivcond_mat_9907145.huygens_width_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:32:41.806787+00:00
 -- url     : https://prove2.me/theorems/a02adc18-8a67-5fb5-bc92-e78f237e36a7

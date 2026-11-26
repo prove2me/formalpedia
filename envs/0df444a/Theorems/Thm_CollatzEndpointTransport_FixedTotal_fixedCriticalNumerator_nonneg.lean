@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedCriticalNumerator_nonneg
 -- name    : CollatzEndpointTransport.FixedTotal.fixedCriticalNumerator_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:56:49.196914+00:00
 -- url     : https://prove2.me/theorems/1e72900a-df86-4b82-bc22-ebe5a0b1dc78

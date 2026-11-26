@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedReverseNonterminalSum_eq_sum_spend
 -- name    : CollatzEndpointTransport.FixedTotal.fixedReverseNonterminalSum_eq_sum_spend
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:40:39.295801+00:00
 -- url     : https://prove2.me/theorems/101fa912-c5c1-451c-90f2-0f8f060c820a

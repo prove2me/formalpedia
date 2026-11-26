@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_continuous_cubeContributionIntegrand
 -- name    : BKAR.Forest.continuous_cubeContributionIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:04:26.81439+00:00
 -- url     : https://prove2.me/theorems/f98045c3-e93f-5c66-aa46-072693f89d81

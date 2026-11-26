@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_setIntegral_orderedCubeSimplex_pair_eq_orderedPairSector
 -- name    : BKAR.Forest.setIntegral_orderedCubeSimplex_pair_eq_orderedPairSector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:09:54.883174+00:00
 -- url     : https://prove2.me/theorems/771d2506-c787-5407-ab79-a46464c1a7c1

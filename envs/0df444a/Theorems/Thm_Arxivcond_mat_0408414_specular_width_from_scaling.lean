@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivcond_mat_0408414_specular_width_from_scaling
 -- name    : Arxivcond_mat_0408414.specular_width_from_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T19:28:21.172868+00:00
 -- url     : https://prove2.me/theorems/a3b0e48a-c1db-5403-a348-771c4d870c0d

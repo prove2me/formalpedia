@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_mixedPartialList_interpWithFill_eq_allBranchesBoundaryExpansion_activeEdges_card
 -- name    : BKAR.Forest.mixedPartialList_interpWithFill_eq_allBranchesBoundaryExpansion_activeEdges_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:58:27.631789+00:00
 -- url     : https://prove2.me/theorems/2979695f-1ee1-5019-93cb-e17754afdef7

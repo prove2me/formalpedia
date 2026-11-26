@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_binomialAnnulusCode_injective
 -- name    : CollatzEndpointTransport.FixedTotal.binomialAnnulusCode_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:44:12.271052+00:00
 -- url     : https://prove2.me/theorems/7dcded9c-1d36-4b97-9782-b656fca7a9a7

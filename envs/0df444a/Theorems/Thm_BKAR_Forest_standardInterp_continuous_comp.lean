@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_standardInterp_continuous_comp
 -- name    : BKAR.Forest.standardInterp_continuous_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:23:46.034802+00:00
 -- url     : https://prove2.me/theorems/027ae5b4-f194-46e4-80aa-9e77b0f28b21

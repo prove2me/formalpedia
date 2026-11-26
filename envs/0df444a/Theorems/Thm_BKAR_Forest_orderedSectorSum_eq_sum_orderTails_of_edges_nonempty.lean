@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedSectorSum_eq_sum_orderTails_of_edges_nonempty
 -- name    : BKAR.Forest.orderedSectorSum_eq_sum_orderTails_of_edges_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:48:51.420161+00:00
 -- url     : https://prove2.me/theorems/e9e2e3bb-2c29-40f3-a5d0-69da4ec5bb59

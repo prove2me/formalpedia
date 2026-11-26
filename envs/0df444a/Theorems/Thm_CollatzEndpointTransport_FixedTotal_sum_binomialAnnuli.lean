@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sum_binomialAnnuli
 -- name    : CollatzEndpointTransport.FixedTotal.sum_binomialAnnuli
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:49:53.81957+00:00
 -- url     : https://prove2.me/theorems/86aa64b1-0a8e-4e74-9ee4-7e98b190b277

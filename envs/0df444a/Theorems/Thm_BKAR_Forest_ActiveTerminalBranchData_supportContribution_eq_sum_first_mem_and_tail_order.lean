@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_supportContribution_eq_sum_first_mem_and_tail_order
 -- name    : BKAR.Forest.ActiveTerminalBranchData.supportContribution_eq_sum_first_mem_and_tail_order
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:55:23.741706+00:00
 -- url     : https://prove2.me/theorems/b747e02a-9d79-5fb3-b579-aece4fd161ee

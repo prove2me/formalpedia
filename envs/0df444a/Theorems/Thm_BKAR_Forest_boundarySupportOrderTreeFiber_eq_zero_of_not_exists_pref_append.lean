@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_boundarySupportOrderTreeFiber_eq_zero_of_not_exists_pref_append
 -- name    : BKAR.Forest.boundarySupportOrderTreeFiber_eq_zero_of_not_exists_pref_append
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:06:33.421814+00:00
 -- url     : https://prove2.me/theorems/96efeed0-4c85-4c14-844a-dfa6ad19a6bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedSectorSum_empty
 -- name    : BKAR.Forest.orderedSectorSum_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:56:12.917046+00:00
 -- url     : https://prove2.me/theorems/abd97011-ffd2-499b-9e1e-41560eedd16c

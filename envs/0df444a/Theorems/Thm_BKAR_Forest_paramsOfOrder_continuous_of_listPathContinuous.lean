@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_paramsOfOrder_continuous_of_listPathContinuous
 -- name    : BKAR.Forest.paramsOfOrder_continuous_of_listPathContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:05:15.270492+00:00
 -- url     : https://prove2.me/theorems/a4378149-4d42-43ba-a519-cdd57f8e65eb

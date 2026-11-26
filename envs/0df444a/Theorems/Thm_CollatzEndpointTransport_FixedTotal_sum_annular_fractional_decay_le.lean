@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sum_annular_fractional_decay_le
 -- name    : CollatzEndpointTransport.FixedTotal.sum_annular_fractional_decay_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:50:35.079922+00:00
 -- url     : https://prove2.me/theorems/cc6f226d-922e-597a-a565-b2088b249c8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_sectorOrderRel_isAntisymm_of_notMem_collisionSet
 -- name    : BKAR.Forest.sectorOrderRel_isAntisymm_of_notMem_collisionSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:50:42.803274+00:00
 -- url     : https://prove2.me/theorems/d76d0ff2-7a5d-41c8-be93-a87dde74cb6c

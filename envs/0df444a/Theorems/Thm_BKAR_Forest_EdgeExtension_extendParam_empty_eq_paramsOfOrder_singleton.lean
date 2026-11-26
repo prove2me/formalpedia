@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_EdgeExtension_extendParam_empty_eq_paramsOfOrder_singleton
 -- name    : BKAR.Forest.EdgeExtension.extendParam_empty_eq_paramsOfOrder_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:48:06.999801+00:00
 -- url     : https://prove2.me/theorems/1b5f8e08-6dec-54cf-8ef9-b4aa00eaf68f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveExtension_singletonGrowth_branchIntegral_empty_eq_orderedContribution
 -- name    : BKAR.Forest.ActiveExtension.singletonGrowth_branchIntegral_empty_eq_orderedContribution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:51:11.829042+00:00
 -- url     : https://prove2.me/theorems/52bbb65a-95a3-5e3b-8e21-43392e8260ea

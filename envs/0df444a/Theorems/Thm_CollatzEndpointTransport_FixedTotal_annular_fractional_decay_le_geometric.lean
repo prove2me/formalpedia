@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_annular_fractional_decay_le_geometric
 -- name    : CollatzEndpointTransport.FixedTotal.annular_fractional_decay_le_geometric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:50:26.670733+00:00
 -- url     : https://prove2.me/theorems/247d8a13-ede3-40d0-9544-8dd44c46c9ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveBranchData_branchIntegralAux_eq_sum_orderedSimplexIntegralAux_mixedPartialList_interpWithFill_of_activeEdges_eq_empty
 -- name    : BKAR.Forest.ActiveBranchData.branchIntegralAux_eq_sum_orderedSimplexIntegralAux_mixedPartialList_interpWithFill_of_activeEdges_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:42:15.351378+00:00
 -- url     : https://prove2.me/theorems/c5918b87-6b53-511d-8eaf-e6a4bdf0aa49

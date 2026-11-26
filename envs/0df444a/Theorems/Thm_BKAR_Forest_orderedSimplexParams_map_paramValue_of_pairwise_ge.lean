@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedSimplexParams_map_paramValue_of_pairwise_ge
 -- name    : BKAR.Forest.orderedSimplexParams_map_paramValue_of_pairwise_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:49:41.120361+00:00
 -- url     : https://prove2.me/theorems/fe56e98a-12c3-415c-b8da-867b2d47c150

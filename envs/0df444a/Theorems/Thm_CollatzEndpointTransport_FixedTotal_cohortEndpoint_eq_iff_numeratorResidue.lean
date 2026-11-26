@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_cohortEndpoint_eq_iff_numeratorResidue
 -- name    : CollatzEndpointTransport.FixedTotal.cohortEndpoint_eq_iff_numeratorResidue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:55:54.47712+00:00
 -- url     : https://prove2.me/theorems/6a44d0c8-52ce-4bf5-8540-09ad17ac891f

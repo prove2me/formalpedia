@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_edges_eq_singleton_of_singleton_mem_edgeOrders
 -- name    : BKAR.Forest.edges_eq_singleton_of_singleton_mem_edgeOrders
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:07:38.535658+00:00
 -- url     : https://prove2.me/theorems/2804c775-b737-55a0-895a-02c22336ff67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46FiniteRestartLawUnrestrictV1
 -- name    : Kyprianou.Ch04.exercise46FiniteRestartLawUnrestrictV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T09:07:01.39061+00:00
 -- url     : https://prove2.me/theorems/598e70d5-f0c5-4b5b-85e5-4157d8fb8aec

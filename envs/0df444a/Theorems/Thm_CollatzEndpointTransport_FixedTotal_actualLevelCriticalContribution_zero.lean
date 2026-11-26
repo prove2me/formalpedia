@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_actualLevelCriticalContribution_zero
 -- name    : CollatzEndpointTransport.FixedTotal.actualLevelCriticalContribution_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:59:56.887473+00:00
 -- url     : https://prove2.me/theorems/3f9627b9-ba65-55cb-a5c0-f19bfc2c5633

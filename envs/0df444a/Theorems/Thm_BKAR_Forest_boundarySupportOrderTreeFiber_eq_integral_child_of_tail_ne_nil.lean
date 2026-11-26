@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_boundarySupportOrderTreeFiber_eq_integral_child_of_tail_ne_nil
 -- name    : BKAR.Forest.boundarySupportOrderTreeFiber_eq_integral_child_of_tail_ne_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:05:45.671628+00:00
 -- url     : https://prove2.me/theorems/44e7a3bf-10d8-57e0-83d6-6153735a4861

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_OptimizedLinearPullback_psi_pos
 -- name    : CollatzEndpointTransport.OptimizedLinearPullback.psi_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:46:55.456812+00:00
 -- url     : https://prove2.me/theorems/32e85125-14ad-435d-9bd0-7adcf9271d43

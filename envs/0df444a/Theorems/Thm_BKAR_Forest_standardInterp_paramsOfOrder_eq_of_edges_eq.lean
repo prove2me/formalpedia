@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_standardInterp_paramsOfOrder_eq_of_edges_eq
 -- name    : BKAR.Forest.standardInterp_paramsOfOrder_eq_of_edges_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:09:22.924896+00:00
 -- url     : https://prove2.me/theorems/542a4ff7-f95a-4799-aa3f-ab8e0e7dfce0

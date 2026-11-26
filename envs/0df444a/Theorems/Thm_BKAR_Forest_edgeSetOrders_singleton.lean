@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_edgeSetOrders_singleton
 -- name    : BKAR.Forest.edgeSetOrders_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:07:33.207259+00:00
 -- url     : https://prove2.me/theorems/6c0f94a2-90f0-4a78-9a43-7df2bf577f92

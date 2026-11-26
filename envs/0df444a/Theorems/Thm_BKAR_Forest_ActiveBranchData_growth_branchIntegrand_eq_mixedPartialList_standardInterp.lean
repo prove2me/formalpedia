@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveBranchData_growth_branchIntegrand_eq_mixedPartialList_standardInterp
 -- name    : BKAR.Forest.ActiveBranchData.growth_branchIntegrand_eq_mixedPartialList_standardInterp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:36:33.594346+00:00
 -- url     : https://prove2.me/theorems/7a3bf145-a432-5de7-a826-5957571a06f3

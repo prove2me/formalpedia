@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_oddCount_sourceCodeEquivResidue
 -- name    : CollatzEndpointTransport.FixedTotal.oddCount_sourceCodeEquivResidue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:51:15.399016+00:00
 -- url     : https://prove2.me/theorems/7889e457-dd25-59b4-81a7-48776525448a

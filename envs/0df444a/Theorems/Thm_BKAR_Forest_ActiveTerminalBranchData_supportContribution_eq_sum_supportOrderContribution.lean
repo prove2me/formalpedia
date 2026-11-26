@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_supportContribution_eq_sum_supportOrderContribution
 -- name    : BKAR.Forest.ActiveTerminalBranchData.supportContribution_eq_sum_supportOrderContribution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:01:26.202121+00:00
 -- url     : https://prove2.me/theorems/8e527578-a501-5dd8-87f8-6a0eae8ce7a4

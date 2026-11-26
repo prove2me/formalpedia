@@ -11977,7 +11977,7 @@
 {"parent": "GlobalTheory.FiniteCovolume.cpt_mem_cellOver", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_FundSetPf", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FiniteCovolume.cpt_mem_cellOver", "child": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_FinMuOfFiniteCovolume", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FiniteCovolume.cpt_mem_cellOver", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_WeightFunctionOnFrames", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch02.bvLevyIsLevyProcessOfAEEqV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch02.bvLevyIsLevyProcessOfAEEqV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FlatFamily.aestronglyMeasurable_flatIntegrand", "child": "Development_AbelianVarietyTheory_Proofs_DecoratedLatticeProofs_FlatFamilyZetaConvergenceHolomorphy", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FlatFamily.aestronglyMeasurable_flatIntegrand", "child": "Development_AbelianVarietyTheory_BlockTheory_TorsionBlocks_FlatZetaIntegral", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FlagSecProbe.dmin_ne_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["solution", "statement"]}

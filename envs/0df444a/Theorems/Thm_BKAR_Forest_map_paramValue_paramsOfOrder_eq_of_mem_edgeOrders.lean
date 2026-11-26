@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_map_paramValue_paramsOfOrder_eq_of_mem_edgeOrders
 -- name    : BKAR.Forest.map_paramValue_paramsOfOrder_eq_of_mem_edgeOrders
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:49:16.493862+00:00
 -- url     : https://prove2.me/theorems/9ada42de-7706-5ed9-a91f-ef5d7d0b7e57

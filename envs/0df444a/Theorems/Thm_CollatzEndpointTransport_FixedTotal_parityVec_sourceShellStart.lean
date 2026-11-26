@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_parityVec_sourceShellStart
 -- name    : CollatzEndpointTransport.FixedTotal.parityVec_sourceShellStart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:53:35.949436+00:00
 -- url     : https://prove2.me/theorems/5f584782-b0fc-4d5a-9f61-6316b29b0255

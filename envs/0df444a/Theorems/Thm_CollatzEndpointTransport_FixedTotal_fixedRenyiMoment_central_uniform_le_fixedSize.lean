@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedRenyiMoment_central_uniform_le_fixedSize
 -- name    : CollatzEndpointTransport.FixedTotal.fixedRenyiMoment_central_uniform_le_fixedSize
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:40:36.830868+00:00
 -- url     : https://prove2.me/theorems/fdf912fc-5261-54f4-87bd-d0a822498adc

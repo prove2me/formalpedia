@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_unitCube_subset_iUnion_orderedCubeSimplex
 -- name    : BKAR.Forest.unitCube_subset_iUnion_orderedCubeSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:49:46.189424+00:00
 -- url     : https://prove2.me/theorems/1ad36b88-21cd-5bd2-b2f2-c8e143c5b7ff
