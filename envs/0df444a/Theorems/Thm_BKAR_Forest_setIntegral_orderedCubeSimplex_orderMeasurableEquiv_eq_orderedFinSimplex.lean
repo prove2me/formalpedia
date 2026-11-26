@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_setIntegral_orderedCubeSimplex_orderMeasurableEquiv_eq_orderedFinSimplex
 -- name    : BKAR.Forest.setIntegral_orderedCubeSimplex_orderMeasurableEquiv_eq_orderedFinSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:37:01.962847+00:00
 -- url     : https://prove2.me/theorems/50a79045-24e4-52a0-a19a-486f3cf97498

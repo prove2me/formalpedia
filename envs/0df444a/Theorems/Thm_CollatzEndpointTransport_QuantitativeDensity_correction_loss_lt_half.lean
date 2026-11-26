@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_QuantitativeDensity_correction_loss_lt_half
 -- name    : CollatzEndpointTransport.QuantitativeDensity.correction_loss_lt_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:16:30.699258+00:00
 -- url     : https://prove2.me/theorems/562f8e33-9c45-4505-bbf6-885cfc307b25

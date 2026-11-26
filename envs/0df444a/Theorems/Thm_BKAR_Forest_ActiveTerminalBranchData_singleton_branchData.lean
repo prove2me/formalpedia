@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_singleton_branchData
 -- name    : BKAR.Forest.ActiveTerminalBranchData.singleton_branchData
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:23:59.71916+00:00
 -- url     : https://prove2.me/theorems/89159499-c6b3-4f89-9cd2-be712f53dd14

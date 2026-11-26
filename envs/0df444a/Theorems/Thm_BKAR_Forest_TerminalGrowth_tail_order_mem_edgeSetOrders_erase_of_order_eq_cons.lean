@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_tail_order_mem_edgeSetOrders_erase_of_order_eq_cons
 -- name    : BKAR.Forest.TerminalGrowth.tail_order_mem_edgeSetOrders_erase_of_order_eq_cons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:27:23.983484+00:00
 -- url     : https://prove2.me/theorems/1b4d49ee-8cac-576a-b673-96aa166bc302

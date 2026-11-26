@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_rho_oneConfig_eq_orderedSectorSum_empty_add_sum_orderedContribution_add_sum_integral_child_sum
 -- name    : BKAR.Forest.rho_oneConfig_eq_orderedSectorSum_empty_add_sum_orderedContribution_add_sum_integral_child_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:16:38.836885+00:00
 -- url     : https://prove2.me/theorems/046a9d3c-ae55-5354-97bc-3dadc6f072c0

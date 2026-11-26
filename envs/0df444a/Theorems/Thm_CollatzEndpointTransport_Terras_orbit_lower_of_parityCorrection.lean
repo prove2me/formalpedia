@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_Terras_orbit_lower_of_parityCorrection
 -- name    : CollatzEndpointTransport.Terras.orbit_lower_of_parityCorrection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:21:28.8245+00:00
 -- url     : https://prove2.me/theorems/6c5f5e46-6e1c-427d-8bc0-2cd302b2c6cf

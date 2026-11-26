@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FD1D_bellman_global_bound
 -- name    : FD1D.bellman_global_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:49:47.903503+00:00
 -- url     : https://prove2.me/theorems/25b67655-f506-45c6-a048-c885fda49249

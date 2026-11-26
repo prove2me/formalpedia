@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_growth_card_edges_eq
 -- name    : BKAR.Forest.ActiveTerminalBranchData.growth_card_edges_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:25:12.324677+00:00
 -- url     : https://prove2.me/theorems/5dbc8851-5f4d-598b-aa2b-baeaee5a44fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_initial_edges_subset_edges
 -- name    : BKAR.Forest.TerminalGrowth.initial_edges_subset_edges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:22:59.418695+00:00
 -- url     : https://prove2.me/theorems/b1c7bf7a-b828-5b08-9c9d-3392210f0da7

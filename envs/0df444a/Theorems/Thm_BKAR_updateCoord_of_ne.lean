@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_updateCoord_of_ne
 -- name    : BKAR.updateCoord_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:19:15.375511+00:00
 -- url     : https://prove2.me/theorems/4482d809-2929-4855-834f-9d63b6989542

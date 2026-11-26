@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Finpartition_sum_parts_indicator_pair
 -- name    : BKAR.Finpartition.sum_parts_indicator_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:18:11.83025+00:00
 -- url     : https://prove2.me/theorems/36361e81-9b50-5671-b96b-e98ccb425de4

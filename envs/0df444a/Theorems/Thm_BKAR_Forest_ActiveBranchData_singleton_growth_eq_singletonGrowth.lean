@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveBranchData_singleton_growth_eq_singletonGrowth
 -- name    : BKAR.Forest.ActiveBranchData.singleton_growth_eq_singletonGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:21:36.529722+00:00
 -- url     : https://prove2.me/theorems/b99014c7-b941-4ac1-8203-a8632b8cd4bc

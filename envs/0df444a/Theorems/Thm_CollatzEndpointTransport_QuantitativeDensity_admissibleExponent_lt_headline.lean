@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_QuantitativeDensity_admissibleExponent_lt_headline
 -- name    : CollatzEndpointTransport.QuantitativeDensity.admissibleExponent_lt_headline
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:18:28.544798+00:00
 -- url     : https://prove2.me/theorems/9245db73-0635-5334-85f1-a90d4a5bacbc

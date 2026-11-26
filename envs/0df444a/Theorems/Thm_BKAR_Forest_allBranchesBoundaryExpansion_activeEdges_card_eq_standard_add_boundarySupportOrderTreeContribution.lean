@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_allBranchesBoundaryExpansion_activeEdges_card_eq_standard_add_boundarySupportOrderTreeContribution
 -- name    : BKAR.Forest.allBranchesBoundaryExpansion_activeEdges_card_eq_standard_add_boundarySupportOrderTreeContribution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:47:44.004921+00:00
 -- url     : https://prove2.me/theorems/139489ab-0af0-5341-a2d1-de20b25446d7

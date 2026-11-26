@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_boundarySupportOrderTreeContribution_eq_sum_treeFiber_of_activeEdges_card_le
 -- name    : BKAR.Forest.boundarySupportOrderTreeContribution_eq_sum_treeFiber_of_activeEdges_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:17:47.042245+00:00
 -- url     : https://prove2.me/theorems/6ccde693-01dc-484c-a22f-3639ccef8a93

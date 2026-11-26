@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_partialDeriv_updateCoord_self
 -- name    : BKAR.partialDeriv_updateCoord_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:19:37.15328+00:00
 -- url     : https://prove2.me/theorems/7e025d97-becf-503b-a4c5-dce4fd5c4bcf

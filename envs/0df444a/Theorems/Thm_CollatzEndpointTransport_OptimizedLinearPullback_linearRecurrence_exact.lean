@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_OptimizedLinearPullback_linearRecurrence_exact
 -- name    : CollatzEndpointTransport.OptimizedLinearPullback.linearRecurrence_exact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:48:36.525718+00:00
 -- url     : https://prove2.me/theorems/5e2278ff-b041-466b-9f8d-56d5bb7393be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_standardInterp_mem_interpolationLevels
 -- name    : BKAR.Forest.standardInterp_mem_interpolationLevels
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:22:10.659956+00:00
 -- url     : https://prove2.me/theorems/62112fe9-baa1-5702-97a1-dc39ef951465

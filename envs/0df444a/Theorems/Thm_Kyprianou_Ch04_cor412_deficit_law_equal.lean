@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_cor412_deficit_law_equal
 -- name    : Kyprianou.Ch04.cor412_deficit_law_equal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T09:44:14.645988+00:00
 -- url     : https://prove2.me/theorems/e1ad341e-b6fa-4c09-b7b5-9c813168158c

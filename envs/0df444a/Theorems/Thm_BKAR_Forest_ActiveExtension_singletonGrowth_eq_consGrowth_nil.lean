@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveExtension_singletonGrowth_eq_consGrowth_nil
 -- name    : BKAR.Forest.ActiveExtension.singletonGrowth_eq_consGrowth_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:44:33.2096+00:00
 -- url     : https://prove2.me/theorems/bd6224f5-f5a4-57c2-9a3a-dff827e6a5cc

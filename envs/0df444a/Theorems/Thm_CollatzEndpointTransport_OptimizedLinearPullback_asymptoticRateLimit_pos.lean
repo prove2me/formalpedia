@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_OptimizedLinearPullback_asymptoticRateLimit_pos
 -- name    : CollatzEndpointTransport.OptimizedLinearPullback.asymptoticRateLimit_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:48:00.662774+00:00
 -- url     : https://prove2.me/theorems/624bc88c-d669-5601-9d5b-67084f93b705

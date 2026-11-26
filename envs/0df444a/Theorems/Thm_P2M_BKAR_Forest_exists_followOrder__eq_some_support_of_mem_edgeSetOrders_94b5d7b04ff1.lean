@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_BKAR_Forest_exists_followOrder__eq_some_support_of_mem_edgeSetOrders_94b5d7b04ff1
 -- name    : P2M_BKAR_Forest_exists_followOrder__eq_some_support_of_mem_edgeSetOrders_94b5d7b04ff1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:07:02.315602+00:00
 -- url     : https://prove2.me/theorems/9c9a16df-b731-5b17-b84c-6640355a3e11

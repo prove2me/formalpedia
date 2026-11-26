@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_branchIntegral_cons_eq_integral_tail_partialDeriv
 -- name    : BKAR.Forest.OrderedGrowth.branchIntegral_cons_eq_integral_tail_partialDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:40:06.464564+00:00
 -- url     : https://prove2.me/theorems/6740aca0-1390-5c19-990b-648c8471a53c

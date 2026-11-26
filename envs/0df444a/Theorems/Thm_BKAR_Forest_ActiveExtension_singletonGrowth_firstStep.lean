@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveExtension_singletonGrowth_firstStep
 -- name    : BKAR.Forest.ActiveExtension.singletonGrowth_firstStep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:40:45.343793+00:00
 -- url     : https://prove2.me/theorems/b3bf0cb9-a4cd-4167-9e73-d6578520baa4

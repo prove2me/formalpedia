@@ -21708,7 +21708,7 @@
 {"parent": "OAI.UniversalFInfinity.universal_group_of_type_FInfinity", "child": "UniversalFInfinity", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquares.universal_tensor_square", "child": "UniversalTensorSquares", "via": ["solution", "statement"]}
 {"parent": "OAI.VariableWL.main", "child": "VariableWL", "via": ["solution", "statement"]}
-{"parent": "OAI.VelocityDetection.TapeCodes.half_wellDefined", "child": "NavierStokesVelocity", "via": ["statement"]}
+{"parent": "OAI.VelocityDetection.TapeCodes.half_wellDefined", "child": "NavierStokesVelocity", "via": ["solution", "statement"]}
 {"parent": "OAI.VertexCover.every_fixed_factor_below_two", "child": "VertexCover", "via": ["solution", "statement"]}
 {"parent": "OAI.VertexCover.explicit_cover_gap", "child": "VertexCover", "via": ["solution", "statement"]}
 {"parent": "OAI.WLIdentification.main", "child": "WLIdentification", "via": ["solution", "statement"]}
@@ -52173,7 +52173,7 @@
 {"parent": "SP4Mission.weaklyContractible_of_simplyConnected_of_homology_zero", "child": "SP4Sphere", "via": ["solution", "statement"]}
 {"parent": "SP4Mission.weaklyContractible_of_simplyConnected_of_homology_zero", "child": "SP4WeakHomotopy", "via": ["solution", "statement"]}
 {"parent": "SP4Mission.whitehead_contractible", "child": "SP4Sphere", "via": ["statement"]}
-{"parent": "SP4Mission.whitehead_contractible", "child": "SP4WeakHomotopy", "via": ["statement"]}
+{"parent": "SP4Mission.whitehead_contractible", "child": "SP4WeakHomotopy", "via": ["solution", "statement"]}
 {"parent": "SP4PullbackForm", "child": "SP4PullbackCharts", "via": ["statement"]}
 {"parent": "SP4PullbackForm", "child": "SP4Sphere", "via": ["statement"]}
 {"parent": "SP4RankNine.finite_graded_cancellation_rigidity", "child": "SP4RankNine", "via": ["solution", "statement"]}

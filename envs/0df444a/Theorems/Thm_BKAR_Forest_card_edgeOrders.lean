@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_card_edgeOrders
 -- name    : BKAR.Forest.card_edgeOrders
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:26:39.92087+00:00
 -- url     : https://prove2.me/theorems/3ee8e8df-b54b-5578-ab56-c1394f66c7af

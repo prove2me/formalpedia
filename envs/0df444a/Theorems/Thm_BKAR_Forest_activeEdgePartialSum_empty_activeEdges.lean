@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_activeEdgePartialSum_empty_activeEdges
 -- name    : BKAR.Forest.activeEdgePartialSum_empty_activeEdges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:25:13.013165+00:00
 -- url     : https://prove2.me/theorems/9fe12c08-51ff-4f21-ae4a-7546377727b6

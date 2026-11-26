@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BipHamCount_Deterministic_proposition_4_2
 -- name    : BipHamCount.Deterministic.proposition_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:49:13.004492+00:00
 -- url     : https://prove2.me/theorems/7c0bcc44-1952-4f94-a70b-9a0fda416023

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_sum_interpolationGap_range_eq_interpolationLevel
 -- name    : BKAR.Forest.sum_interpolationGap_range_eq_interpolationLevel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:23:54.306501+00:00
 -- url     : https://prove2.me/theorems/8e79a7d6-39ba-583d-a214-a0c100266883

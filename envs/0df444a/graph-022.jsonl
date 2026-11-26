@@ -67367,7 +67367,7 @@
 {"parent": "RobustQSC.proposition_14", "child": "RobustQSC_LocalEscape", "via": ["statement"]}
 {"parent": "QuasiStrictNE_Cn", "child": "QuasiStrictNE_Qregion", "via": ["statement"]}
 {"parent": "QuasiStrictNE_Cn", "child": "ProxFlatIP_Spindle", "via": ["statement"]}
-{"parent": "DiagLinesLDT.lemma_4_7", "child": "DiagLinesLDT_labelMap", "via": ["statement"]}
+{"parent": "DiagLinesLDT.lemma_4_7", "child": "DiagLinesLDT_labelMap", "via": ["solution", "statement"]}
 {"parent": "ChoresEFX.theorem_3_3", "child": "ChoresEFX_IsMfcpOutput", "via": ["statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsChi4E2DilateModularForm_apply", "child": "QEC_Coding_ExpanderCodes_LPSEisensteinDifference", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsChi4E2DilateModularForm_apply", "child": "QEC_Coding_ExpanderCodes_LPSIteratedEisenstein", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_order_toFinset_disjoint_initial_edges
 -- name    : BKAR.Forest.TerminalGrowth.order_toFinset_disjoint_initial_edges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:23:21.105398+00:00
 -- url     : https://prove2.me/theorems/f9435317-2a60-51a8-9e40-1cb41f8dfb07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_downwardPassageJointDeficitTailBV
 -- name    : Kyprianou.Ch04.downwardPassageJointDeficitTailBV
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T18:02:23.621326+00:00
 -- url     : https://prove2.me/theorems/541deb06-96f6-48ad-9cc9-737216d76b39

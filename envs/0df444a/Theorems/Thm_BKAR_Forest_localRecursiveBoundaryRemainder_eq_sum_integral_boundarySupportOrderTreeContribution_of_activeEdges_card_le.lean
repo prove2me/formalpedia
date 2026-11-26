@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_localRecursiveBoundaryRemainder_eq_sum_integral_boundarySupportOrderTreeContribution_of_activeEdges_card_le
 -- name    : BKAR.Forest.localRecursiveBoundaryRemainder_eq_sum_integral_boundarySupportOrderTreeContribution_of_activeEdges_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:01:47.717792+00:00
 -- url     : https://prove2.me/theorems/fde7859d-b714-4dcf-94e6-5cf212915824

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralRenyiRatio_one_half_eq_unrestrictedReverseSpendRatio
 -- name    : CollatzEndpointTransport.FixedTotal.centralRenyiRatio_one_half_eq_unrestrictedReverseSpendRatio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:40:46.692428+00:00
 -- url     : https://prove2.me/theorems/3c642e15-1648-4731-87fc-e52d150226ee

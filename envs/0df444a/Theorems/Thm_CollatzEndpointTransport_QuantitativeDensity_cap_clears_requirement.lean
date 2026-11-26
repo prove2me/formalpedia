@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_QuantitativeDensity_cap_clears_requirement
 -- name    : CollatzEndpointTransport.QuantitativeDensity.cap_clears_requirement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:17:58.718784+00:00
 -- url     : https://prove2.me/theorems/a7ef7319-cf61-5779-8b4b-2bf4c628f65a

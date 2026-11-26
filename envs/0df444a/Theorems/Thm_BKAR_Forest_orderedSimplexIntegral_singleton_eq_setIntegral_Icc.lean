@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedSimplexIntegral_singleton_eq_setIntegral_Icc
 -- name    : BKAR.Forest.orderedSimplexIntegral_singleton_eq_setIntegral_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:36:21.629697+00:00
 -- url     : https://prove2.me/theorems/385f2038-30e9-4c00-aaf6-454d7f872955

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_supportContribution_eq_zero_of_edges_empty
 -- name    : BKAR.Forest.ActiveTerminalBranchData.supportContribution_eq_zero_of_edges_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:29:50.345532+00:00
 -- url     : https://prove2.me/theorems/82f911fb-ee44-5781-9fe5-36876d910485

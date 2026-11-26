@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_allBranchesAnalytic_of_contDiff
 -- name    : BKAR.BKARContDiff.allBranchesAnalytic_of_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:20:36.270793+00:00
 -- url     : https://prove2.me/theorems/8ec51b85-b658-5718-93f2-e1a38b5149e2

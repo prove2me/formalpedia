@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_branchIntegralAux_eq_sum_activeExtension_integrals_of_forall_tail_order_eq_nil
 -- name    : BKAR.Forest.ActiveTerminalBranchData.branchIntegralAux_eq_sum_activeExtension_integrals_of_forall_tail_order_eq_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:42:56.166914+00:00
 -- url     : https://prove2.me/theorems/c3726b94-b9d5-57ca-8d36-5e6499f1b96a

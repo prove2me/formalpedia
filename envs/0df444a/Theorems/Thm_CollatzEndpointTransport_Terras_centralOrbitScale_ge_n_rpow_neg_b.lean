@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_Terras_centralOrbitScale_ge_n_rpow_neg_b
 -- name    : CollatzEndpointTransport.Terras.centralOrbitScale_ge_n_rpow_neg_b
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:19:30.955304+00:00
 -- url     : https://prove2.me/theorems/abc25a44-6cba-5c72-9f0c-0fe2dd57d548

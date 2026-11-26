@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_Terras_centralOrbitScale_eq
 -- name    : CollatzEndpointTransport.Terras.centralOrbitScale_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:20:00.245261+00:00
 -- url     : https://prove2.me/theorems/4d5f3279-3b7e-4567-8054-53cb273297a8

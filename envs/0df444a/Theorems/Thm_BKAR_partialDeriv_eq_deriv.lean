@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_partialDeriv_eq_deriv
 -- name    : BKAR.partialDeriv_eq_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:19:35.293723+00:00
 -- url     : https://prove2.me/theorems/6f2c01e4-e946-50ed-8463-c180b692ae5e

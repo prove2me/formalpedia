@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_supportOrderContribution_cons_eq_integral_tail_branchIntegralAux_of_support_eq_and_tail_eq
 -- name    : BKAR.Forest.ActiveTerminalBranchData.supportOrderContribution_cons_eq_integral_tail_branchIntegralAux_of_support_eq_and_tail_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:29:39.41046+00:00
 -- url     : https://prove2.me/theorems/c940fc8b-d291-5bf5-9c4c-5032ef30ddc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_boundarySupportOrderTreeFiberNontrivialIntegrable_of_contDiff
 -- name    : BKAR.BKARContDiff.boundarySupportOrderTreeFiberNontrivialIntegrable_of_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:20:18.301734+00:00
 -- url     : https://prove2.me/theorems/4de615cf-0e1d-4c01-9baa-fc621a09ac01

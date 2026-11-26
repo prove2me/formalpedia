@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_branchPoint_mem_Icc_one
 -- name    : BKAR.Forest.OrderedGrowth.branchPoint_mem_Icc_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:38:15.308956+00:00
 -- url     : https://prove2.me/theorems/242b7752-007f-5d4e-96b2-119bb8187fb7

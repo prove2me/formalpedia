@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_empty_interpWithFill_one
 -- name    : BKAR.Forest.empty_interpWithFill_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:18:35.095985+00:00
 -- url     : https://prove2.me/theorems/e7f1e830-4a34-5ed5-b81d-82ede73e80e1

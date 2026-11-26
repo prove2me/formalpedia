@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotential_aliveLintegral_factor
 -- name    : Kyprianou.Ch05.killedPotential_aliveLintegral_factor
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T09:30:33.923017+00:00
 -- url     : https://prove2.me/theorems/21a7184f-3337-4640-99a8-ca7c9718eb5a

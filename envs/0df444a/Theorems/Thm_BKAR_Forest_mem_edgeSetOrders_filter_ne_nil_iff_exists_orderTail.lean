@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_mem_edgeSetOrders_filter_ne_nil_iff_exists_orderTail
 -- name    : BKAR.Forest.mem_edgeSetOrders_filter_ne_nil_iff_exists_orderTail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:26:16.33135+00:00
 -- url     : https://prove2.me/theorems/ce05cf36-0e3d-45cf-84eb-020708ee457a

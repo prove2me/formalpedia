@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_allBranchesAnalytic_parameterBound_child
 -- name    : BKAR.BKARContDiff.allBranchesAnalytic_parameterBound_child
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:20:22.295173+00:00
 -- url     : https://prove2.me/theorems/385c4c6f-c2f4-4f97-a7c4-ed011d19dd3f

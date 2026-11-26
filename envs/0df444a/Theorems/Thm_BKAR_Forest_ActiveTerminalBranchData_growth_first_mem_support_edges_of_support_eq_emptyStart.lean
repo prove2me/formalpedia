@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_growth_first_mem_support_edges_of_support_eq_emptyStart
 -- name    : BKAR.Forest.ActiveTerminalBranchData.growth_first_mem_support_edges_of_support_eq_emptyStart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:29:13.017863+00:00
 -- url     : https://prove2.me/theorems/ca3622ee-4237-5508-a5f6-2a8271076023

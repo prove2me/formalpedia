@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_paramsOfOrder_mem_orderedCubeSimplex_of_mem_edgeOrders
 -- name    : BKAR.Forest.paramsOfOrder_mem_orderedCubeSimplex_of_mem_edgeOrders
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:30:56.891856+00:00
 -- url     : https://prove2.me/theorems/7b44e1df-6c95-5e5f-9b5d-ac4396d450d4

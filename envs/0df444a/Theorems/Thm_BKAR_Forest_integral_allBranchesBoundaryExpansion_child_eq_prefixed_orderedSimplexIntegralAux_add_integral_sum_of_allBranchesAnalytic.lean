@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_integral_allBranchesBoundaryExpansion_child_eq_prefixed_orderedSimplexIntegralAux_add_integral_sum_of_allBranchesAnalytic
 -- name    : BKAR.Forest.integral_allBranchesBoundaryExpansion_child_eq_prefixed_orderedSimplexIntegralAux_add_integral_sum_of_allBranchesAnalytic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:16:32.597115+00:00
 -- url     : https://prove2.me/theorems/ad23b8f9-6690-5bcf-b27e-aeb0ed24a104

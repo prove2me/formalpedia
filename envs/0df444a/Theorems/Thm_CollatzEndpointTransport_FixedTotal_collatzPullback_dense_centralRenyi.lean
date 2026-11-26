@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_collatzPullback_dense_centralRenyi
 -- name    : CollatzEndpointTransport.FixedTotal.collatzPullback_dense_centralRenyi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:42:26.08329+00:00
 -- url     : https://prove2.me/theorems/e4a82545-21f0-4a80-9299-7e8effe06e55

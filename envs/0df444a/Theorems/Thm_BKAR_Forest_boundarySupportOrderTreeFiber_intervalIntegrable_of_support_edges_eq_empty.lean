@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_boundarySupportOrderTreeFiber_intervalIntegrable_of_support_edges_eq_empty
 -- name    : BKAR.Forest.boundarySupportOrderTreeFiber_intervalIntegrable_of_support_edges_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:48:08.162378+00:00
 -- url     : https://prove2.me/theorems/f15b62a1-e34b-5413-b0c3-4bfe1403bec8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_forall_edges_of_le_pathMin
 -- name    : BKAR.Forest.forall_edges_of_le_pathMin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:17:39.358965+00:00
 -- url     : https://prove2.me/theorems/b1c5f2ee-743a-41f4-9065-ab56d301aeb4

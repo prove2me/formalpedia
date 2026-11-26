@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_regionCleared6
 -- name    : FourierJacobi.Algebra.regionCleared6
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:47:39.237564+00:00
 -- url     : https://prove2.me/theorems/27d9c896-a995-4000-ac68-c8354d2bb6c7

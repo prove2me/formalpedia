@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_branchIntegrand_congr
 -- name    : BKAR.Forest.OrderedGrowth.branchIntegrand_congr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:38:47.831853+00:00
 -- url     : https://prove2.me/theorems/c2c27d33-c155-578c-9970-b593ebe42cf4

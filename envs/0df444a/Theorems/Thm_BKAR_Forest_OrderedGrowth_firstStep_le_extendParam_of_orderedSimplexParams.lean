@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_firstStep_le_extendParam_of_orderedSimplexParams
 -- name    : BKAR.Forest.OrderedGrowth.firstStep_le_extendParam_of_orderedSimplexParams
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:37:40.780987+00:00
 -- url     : https://prove2.me/theorems/77deac92-387c-544f-9256-e99d1ab5fcb8

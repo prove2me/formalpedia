@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_rootBoundarySupportOrderContribution_eq_zeroConfig_of_edges_eq_empty
 -- name    : BKAR.Forest.rootBoundarySupportOrderContribution_eq_zeroConfig_of_edges_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:50:00.573687+00:00
 -- url     : https://prove2.me/theorems/cbb96ff4-575b-5abd-be46-665c6a6b611f

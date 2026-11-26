@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_cons_terminal
 -- name    : BKAR.Forest.TerminalGrowth.cons_terminal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:22:26.768497+00:00
 -- url     : https://prove2.me/theorems/943d6e89-04fc-4ed0-9131-e7407f166dbc

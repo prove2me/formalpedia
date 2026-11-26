@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralSourceEndpointBad_div_pow_le_holder_moment
 -- name    : CollatzEndpointTransport.FixedTotal.centralSourceEndpointBad_div_pow_le_holder_moment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:24:45.0663+00:00
 -- url     : https://prove2.me/theorems/9c062ca7-75f6-4ff4-a873-7231d2fd8fe4

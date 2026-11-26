@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralLevelRenyiInformation_le_sharp
 -- name    : CollatzEndpointTransport.FixedTotal.centralLevelRenyiInformation_le_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:11:39.614151+00:00
 -- url     : https://prove2.me/theorems/0b4948b4-30df-4644-9b0d-04031f32b69c

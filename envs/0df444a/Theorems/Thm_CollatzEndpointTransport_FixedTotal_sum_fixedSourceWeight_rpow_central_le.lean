@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sum_fixedSourceWeight_rpow_central_le
 -- name    : CollatzEndpointTransport.FixedTotal.sum_fixedSourceWeight_rpow_central_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:12:44.338121+00:00
 -- url     : https://prove2.me/theorems/0cf8e52d-3d52-4335-9342-9c224ae001c6

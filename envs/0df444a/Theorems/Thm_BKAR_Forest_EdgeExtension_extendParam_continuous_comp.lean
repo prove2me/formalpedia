@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_EdgeExtension_extendParam_continuous_comp
 -- name    : BKAR.Forest.EdgeExtension.extendParam_continuous_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:26:17.117299+00:00
 -- url     : https://prove2.me/theorems/84c683fe-89b8-5416-8e59-af1b6157ba44

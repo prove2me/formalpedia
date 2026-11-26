@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralLevelBadMass_div_pow_le_holder
 -- name    : CollatzEndpointTransport.FixedTotal.centralLevelBadMass_div_pow_le_holder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:22:51.889799+00:00
 -- url     : https://prove2.me/theorems/a83a693e-25cf-5bb8-aba9-d840c99278f0

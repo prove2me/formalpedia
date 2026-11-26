@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_firstBoundarySupportContribution_eq_localBoundarySupportContribution_empty
 -- name    : BKAR.Forest.firstBoundarySupportContribution_eq_localBoundarySupportContribution_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:46:21.658825+00:00
 -- url     : https://prove2.me/theorems/bcac2fef-ae5b-5323-b728-1dc0c7aad100

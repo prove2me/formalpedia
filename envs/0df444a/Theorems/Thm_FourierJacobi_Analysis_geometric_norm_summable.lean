@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_geometric_norm_summable
 -- name    : FourierJacobi.Analysis.geometric_norm_summable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:49:26.269408+00:00
 -- url     : https://prove2.me/theorems/028601a0-23e9-5a30-b8e6-55d90625dfbf

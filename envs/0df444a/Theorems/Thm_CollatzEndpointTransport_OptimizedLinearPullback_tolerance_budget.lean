@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_OptimizedLinearPullback_tolerance_budget
 -- name    : CollatzEndpointTransport.OptimizedLinearPullback.tolerance_budget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:48:36.445725+00:00
 -- url     : https://prove2.me/theorems/d004e030-64c2-4606-a58f-fa173cbbb1f8

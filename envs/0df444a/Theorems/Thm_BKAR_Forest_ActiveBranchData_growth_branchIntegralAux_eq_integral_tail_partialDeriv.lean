@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveBranchData_growth_branchIntegralAux_eq_integral_tail_partialDeriv
 -- name    : BKAR.Forest.ActiveBranchData.growth_branchIntegralAux_eq_integral_tail_partialDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:21:38.256308+00:00
 -- url     : https://prove2.me/theorems/9f941317-51c4-4ef9-921a-8536d9dfde16

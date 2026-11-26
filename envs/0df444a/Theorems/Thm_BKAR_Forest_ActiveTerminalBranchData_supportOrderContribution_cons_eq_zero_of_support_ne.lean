@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_supportOrderContribution_cons_eq_zero_of_support_ne
 -- name    : BKAR.Forest.ActiveTerminalBranchData.supportOrderContribution_cons_eq_zero_of_support_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:29:43.012063+00:00
 -- url     : https://prove2.me/theorems/8f3f2ef4-3b04-53e0-8dca-f49e7fb12f71

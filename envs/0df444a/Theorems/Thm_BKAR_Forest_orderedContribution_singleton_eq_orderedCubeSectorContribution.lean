@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedContribution_singleton_eq_orderedCubeSectorContribution
 -- name    : BKAR.Forest.orderedContribution_singleton_eq_orderedCubeSectorContribution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:36:43.10307+00:00
 -- url     : https://prove2.me/theorems/110ddbcc-8b87-4c02-baf9-fe3a64dacb07

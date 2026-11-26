@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_QuantitativeDensity_bConst_lt_one
 -- name    : CollatzEndpointTransport.QuantitativeDensity.bConst_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:16:26.979863+00:00
 -- url     : https://prove2.me/theorems/3c3f79d0-e2bc-446f-9a72-3201f44c87ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveExtension_consGrowth_firstActiveExtension
 -- name    : BKAR.Forest.ActiveExtension.consGrowth_firstActiveExtension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:44:31.3418+00:00
 -- url     : https://prove2.me/theorems/4367a80c-6e8f-4e46-a1f9-80489c1fa3ac

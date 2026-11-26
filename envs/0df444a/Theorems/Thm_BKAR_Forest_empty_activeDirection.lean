@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_empty_activeDirection
 -- name    : BKAR.Forest.empty_activeDirection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:24:39.702411+00:00
 -- url     : https://prove2.me/theorems/41e5db71-17da-5c14-ae41-327e8a15fe2c

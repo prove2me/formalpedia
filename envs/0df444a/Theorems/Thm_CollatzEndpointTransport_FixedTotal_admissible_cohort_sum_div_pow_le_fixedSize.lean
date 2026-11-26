@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_admissible_cohort_sum_div_pow_le_fixedSize
 -- name    : CollatzEndpointTransport.FixedTotal.admissible_cohort_sum_div_pow_le_fixedSize
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:23:26.688056+00:00
 -- url     : https://prove2.me/theorems/53bb2065-993c-51ee-96b1-8c63ad45fb6b

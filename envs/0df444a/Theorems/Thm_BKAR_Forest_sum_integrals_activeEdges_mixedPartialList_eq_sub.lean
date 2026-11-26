@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_sum_integrals_activeEdges_mixedPartialList_eq_sub
 -- name    : BKAR.Forest.sum_integrals_activeEdges_mixedPartialList_eq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:34:45.954833+00:00
 -- url     : https://prove2.me/theorems/bfe1012c-133e-4c25-9a58-efd4e4583af1

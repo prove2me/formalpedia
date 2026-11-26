@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_QuantitativeDensity_mem_coneCore_iff_of_mem_three_shell
 -- name    : CollatzEndpointTransport.QuantitativeDensity.mem_coneCore_iff_of_mem_three_shell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:21:32.821439+00:00
 -- url     : https://prove2.me/theorems/8fd7eb1c-acf1-51d3-baab-1f4537095bc0

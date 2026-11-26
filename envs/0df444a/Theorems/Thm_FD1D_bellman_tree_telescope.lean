@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FD1D_bellman_tree_telescope
 -- name    : FD1D.bellman_tree_telescope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:49:19.12198+00:00
 -- url     : https://prove2.me/theorems/45d78f20-4223-50ee-80d1-c153af2107f5

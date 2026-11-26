@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_intervalIntegrable_allBranchesBoundaryExpansion_activeEdges_card_child
 -- name    : BKAR.Forest.intervalIntegrable_allBranchesBoundaryExpansion_activeEdges_card_child
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:44:29.960735+00:00
 -- url     : https://prove2.me/theorems/19596783-022c-488b-8799-00d242f50b7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_average_pow_sourceCodeOddCount
 -- name    : CollatzEndpointTransport.FixedTotal.average_pow_sourceCodeOddCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:28:45.083286+00:00
 -- url     : https://prove2.me/theorems/caab5c1e-0cc5-5d84-8828-1288abc3ef3a

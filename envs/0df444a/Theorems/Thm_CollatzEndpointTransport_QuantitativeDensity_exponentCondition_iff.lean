@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_QuantitativeDensity_exponentCondition_iff
 -- name    : CollatzEndpointTransport.QuantitativeDensity.exponentCondition_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:19:28.847816+00:00
 -- url     : https://prove2.me/theorems/f56db81a-6db5-47a2-a0de-fbc4bc4e732c

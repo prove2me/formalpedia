@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_shellBad_collatzPullback_le_centralRenyi
 -- name    : CollatzEndpointTransport.FixedTotal.shellBad_collatzPullback_le_centralRenyi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:18:52.587337+00:00
 -- url     : https://prove2.me/theorems/968d0914-c96e-58a9-a4cc-0474def15dfb

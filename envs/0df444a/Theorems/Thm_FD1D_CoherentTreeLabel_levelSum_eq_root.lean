@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FD1D_CoherentTreeLabel_levelSum_eq_root
 -- name    : FD1D.CoherentTreeLabel.levelSum_eq_root
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:49:26.959289+00:00
 -- url     : https://prove2.me/theorems/c4639484-53a5-4def-bd57-7817984768c5

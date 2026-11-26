@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_integral_mixedPartialList_cons_interpWithFill_eq_integral_child_standard_add_sum
 -- name    : BKAR.Forest.integral_mixedPartialList_cons_interpWithFill_eq_integral_child_standard_add_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:44:35.242163+00:00
 -- url     : https://prove2.me/theorems/72bdb97b-9eb2-5f69-8120-e6f02df2b604

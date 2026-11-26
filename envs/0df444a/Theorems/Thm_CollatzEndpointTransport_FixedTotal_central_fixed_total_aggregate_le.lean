@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_central_fixed_total_aggregate_le
 -- name    : CollatzEndpointTransport.FixedTotal.central_fixed_total_aggregate_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:46:08.834158+00:00
 -- url     : https://prove2.me/theorems/88d6e54a-c800-59cf-b2ac-6349a83611fa

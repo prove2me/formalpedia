@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_rootBoundarySupportOrderContribution_nil_eq_zero_of_edges_ne_empty
 -- name    : BKAR.Forest.rootBoundarySupportOrderContribution_nil_eq_zero_of_edges_ne_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:19:19.662001+00:00
 -- url     : https://prove2.me/theorems/dda14207-1443-5b63-adf6-30060bc6bf42

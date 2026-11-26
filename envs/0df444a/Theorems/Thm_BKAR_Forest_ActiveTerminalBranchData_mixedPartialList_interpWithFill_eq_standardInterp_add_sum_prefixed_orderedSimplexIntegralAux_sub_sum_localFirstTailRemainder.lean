@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_mixedPartialList_interpWithFill_eq_standardInterp_add_sum_prefixed_orderedSimplexIntegralAux_sub_sum_localFirstTailRemainder
 -- name    : BKAR.Forest.ActiveTerminalBranchData.mixedPartialList_interpWithFill_eq_standardInterp_add_sum_prefixed_orderedSimplexIntegralAux_sub_sum_localFirstTailRemainder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:42:21.356661+00:00
 -- url     : https://prove2.me/theorems/85dc882c-9a99-4366-a234-3c124150aacb

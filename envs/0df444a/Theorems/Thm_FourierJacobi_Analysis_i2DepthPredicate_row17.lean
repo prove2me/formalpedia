@@ -1,0 +1,21 @@
+-- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i2DepthPredicate_row17
+-- name    : FourierJacobi.Analysis.i2DepthPredicate_row17
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-26T10:45:43.179241+00:00
+-- url     : https://prove2.me/theorems/f873c598-d5d8-5a67-b250-7be19bef0953
+-- title:
+--   Analysis: i2 Depth Predicate row17
+-- statement:
+--   The Analysis construction uses the i2 Depth Predicate row17 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/abhisaha-git/fourier-jacobi-core-evaluation/blob/fb2b788d6271dd6228044b2c4e9e47c891a16762/FourierJacobi/Analysis/I2Predicates.lean#L40-L40
+-- source:
+--   https://github.com/abhisaha-git/fourier-jacobi-core-evaluation/blob/fb2b788d6271dd6228044b2c4e9e47c891a16762/FourierJacobi/Analysis/I2Predicates.lean#L40-L40
+
+import Definitions.Def_FourierJacobi_Analysis_I2Domains
+import Definitions.Def_FourierJacobi_Analysis_I2Predicates
+set_option autoImplicit false
+open FourierJacobi FourierJacobi.Analysis
+
+theorem FourierJacobi.Analysis.i2DepthPredicate_row17 (c : ℕ) : i2DepthPredicate 17 c ↔ (True) := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_admissible_cohort_sum_div_pow_le_sharp
 -- name    : CollatzEndpointTransport.FixedTotal.admissible_cohort_sum_div_pow_le_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:21:29.122599+00:00
 -- url     : https://prove2.me/theorems/63267985-158b-571c-90dc-ff4c3294feeb

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.downwardFirstPassageUndershootLaw
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T18:03:21.850075+00:00
 -- url     : https://prove2.me/submissions/5e35610d-c222-4968-b1ac-bfa5a8f1c86f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch03_EntryAndHittingTimes

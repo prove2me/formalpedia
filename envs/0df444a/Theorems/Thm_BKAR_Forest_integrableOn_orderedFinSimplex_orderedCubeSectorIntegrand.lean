@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_integrableOn_orderedFinSimplex_orderedCubeSectorIntegrand
 -- name    : BKAR.Forest.integrableOn_orderedFinSimplex_orderedCubeSectorIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:41:10.204034+00:00
 -- url     : https://prove2.me/theorems/0945ac77-caea-5774-80e4-5b9e0a000c76

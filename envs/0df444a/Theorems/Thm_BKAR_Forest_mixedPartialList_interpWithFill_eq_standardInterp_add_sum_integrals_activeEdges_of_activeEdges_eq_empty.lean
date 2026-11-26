@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_mixedPartialList_interpWithFill_eq_standardInterp_add_sum_integrals_activeEdges_of_activeEdges_eq_empty
 -- name    : BKAR.Forest.mixedPartialList_interpWithFill_eq_standardInterp_add_sum_integrals_activeEdges_of_activeEdges_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:34:58.749408+00:00
 -- url     : https://prove2.me/theorems/ca608103-1ec7-4472-ad1f-10e76764a331

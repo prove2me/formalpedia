@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_edgeOrders_filter_ne_nil_eq_self_of_edges_nonempty
 -- name    : BKAR.Forest.edgeOrders_filter_ne_nil_eq_self_of_edges_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:26:56.040084+00:00
 -- url     : https://prove2.me/theorems/198c31c2-47b4-45f5-b7e5-c915d28b4f4f

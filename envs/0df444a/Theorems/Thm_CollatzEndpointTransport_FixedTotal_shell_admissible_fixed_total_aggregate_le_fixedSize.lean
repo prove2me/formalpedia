@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_shell_admissible_fixed_total_aggregate_le_fixedSize
 -- name    : CollatzEndpointTransport.FixedTotal.shell_admissible_fixed_total_aggregate_le_fixedSize
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:23:47.665047+00:00
 -- url     : https://prove2.me/theorems/41d40e4b-803a-4c11-ba6d-5858a747e379

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_sum_rootBoundarySupportOrderContribution_nil
 -- name    : BKAR.Forest.sum_rootBoundarySupportOrderContribution_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:19:24.050349+00:00
 -- url     : https://prove2.me/theorems/b1b67576-31e4-4ab7-8426-e3bfac0aaa72

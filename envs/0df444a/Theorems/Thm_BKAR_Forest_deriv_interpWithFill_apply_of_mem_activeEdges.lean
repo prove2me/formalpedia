@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_deriv_interpWithFill_apply_of_mem_activeEdges
 -- name    : BKAR.Forest.deriv_interpWithFill_apply_of_mem_activeEdges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:24:48.928236+00:00
 -- url     : https://prove2.me/theorems/d021d5cf-1997-490c-8d72-5efa8b2aaf51

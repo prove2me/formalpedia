@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_interpWithFill_mem_Icc
 -- name    : BKAR.Forest.interpWithFill_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:18:30.284459+00:00
 -- url     : https://prove2.me/theorems/9ed5c1db-415b-5f09-a5ab-f98aac8472f9

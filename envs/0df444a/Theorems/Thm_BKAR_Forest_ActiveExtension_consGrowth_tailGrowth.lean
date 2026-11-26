@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveExtension_consGrowth_tailGrowth
 -- name    : BKAR.Forest.ActiveExtension.consGrowth_tailGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:43:51.85485+00:00
 -- url     : https://prove2.me/theorems/1df41aab-aaeb-54a1-bef4-f60c7ee29f01

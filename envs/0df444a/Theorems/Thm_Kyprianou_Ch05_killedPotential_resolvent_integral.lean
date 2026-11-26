@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotential_resolvent_integral
 -- name    : Kyprianou.Ch05.killedPotential_resolvent_integral
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T03:19:35.071421+00:00
 -- url     : https://prove2.me/theorems/8d2eb7c9-3e4f-50af-bed4-349d1745e57c

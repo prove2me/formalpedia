@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_supportOrderContribution_eq_zero_of_order_not_mem_edgeSetOrders
 -- name    : BKAR.Forest.ActiveTerminalBranchData.supportOrderContribution_eq_zero_of_order_not_mem_edgeSetOrders
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:29:26.48626+00:00
 -- url     : https://prove2.me/theorems/91b28e47-79bc-519c-8322-fc5ed944f30b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_rho_oneConfig_eq_orderedSectorSum_empty_add_singleton_supportOrderContribution
 -- name    : BKAR.Forest.rho_oneConfig_eq_orderedSectorSum_empty_add_singleton_supportOrderContribution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:45:14.981455+00:00
 -- url     : https://prove2.me/theorems/f672e97b-bf31-510a-9637-ae7c27ae7d97

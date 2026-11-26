@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_mixedPartialList_interpWithFill_eq_standardInterp_add_sum_allBranchesBoundaryExpansion
 -- name    : BKAR.Forest.mixedPartialList_interpWithFill_eq_standardInterp_add_sum_allBranchesBoundaryExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:44:10.314912+00:00
 -- url     : https://prove2.me/theorems/08b11dbf-6b3f-52a9-9fb7-3fb1029daa92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_downwardFirstPassageUndershootLaw
 -- name    : Kyprianou.Ch04.downwardFirstPassageUndershootLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T22:26:48.606585+00:00
 -- url     : https://prove2.me/theorems/3c67d26d-16a0-4303-aa7e-803932c50db1

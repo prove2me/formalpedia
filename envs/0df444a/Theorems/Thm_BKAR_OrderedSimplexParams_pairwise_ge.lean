@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_OrderedSimplexParams_pairwise_ge
 -- name    : BKAR.OrderedSimplexParams.pairwise_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:32:33.102619+00:00
 -- url     : https://prove2.me/theorems/7f48e55d-44e7-5b93-9953-7f28311db7e1

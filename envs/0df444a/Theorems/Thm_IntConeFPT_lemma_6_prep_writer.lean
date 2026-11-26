@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntConeFPT_lemma_6_prep_writer
 -- name    : IntConeFPT.lemma_6_prep_writer
--- status  : Open
+-- status  : Proved
 -- author  : @ohnesorgefelix
 -- created : 2026-11-26T09:12:30.367869+00:00
 -- url     : https://prove2.me/theorems/bffddda8-8837-5000-b561-b4a745a36750

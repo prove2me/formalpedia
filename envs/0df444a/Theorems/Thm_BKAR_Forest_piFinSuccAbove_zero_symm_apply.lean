@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_piFinSuccAbove_zero_symm_apply
 -- name    : BKAR.Forest.piFinSuccAbove_zero_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:39:34.140141+00:00
 -- url     : https://prove2.me/theorems/03fb5620-8f6d-5da9-9042-723054ad3682

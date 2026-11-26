@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveBranchData_growth_eq_consGrowth
 -- name    : BKAR.Forest.ActiveBranchData.growth_eq_consGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:20:59.190479+00:00
 -- url     : https://prove2.me/theorems/9877ab14-00c2-5a57-a5d7-23c171ca8507

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_OptimizedLinearPullback_delta_condition_iff
 -- name    : CollatzEndpointTransport.OptimizedLinearPullback.delta_condition_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:48:39.512806+00:00
 -- url     : https://prove2.me/theorems/7473449e-fa93-5998-94d7-7ff9de6f5aad

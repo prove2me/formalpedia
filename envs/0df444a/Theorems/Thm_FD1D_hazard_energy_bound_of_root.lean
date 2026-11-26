@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FD1D_hazard_energy_bound_of_root
 -- name    : FD1D.hazard_energy_bound_of_root
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:50:07.164742+00:00
 -- url     : https://prove2.me/theorems/9e6dcb3a-e63a-5fc7-bfe1-b0ec1d2a474a

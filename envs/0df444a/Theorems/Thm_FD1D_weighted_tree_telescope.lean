@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FD1D_weighted_tree_telescope
 -- name    : FD1D.weighted_tree_telescope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:49:14.466125+00:00
 -- url     : https://prove2.me/theorems/bd53a217-aee4-5204-9cc5-bdf0c436eacb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralRenyiPullbackConstant_le_stage
 -- name    : CollatzEndpointTransport.FixedTotal.centralRenyiPullbackConstant_le_stage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:42:46.803586+00:00
 -- url     : https://prove2.me/theorems/1dc47c96-c34e-56cd-893f-490f99ce69ea

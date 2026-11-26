@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_rho_oneConfig_eq_sum_rootBoundarySupportOrderContribution
 -- name    : BKAR.Forest.rho_oneConfig_eq_sum_rootBoundarySupportOrderContribution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:18:03.085069+00:00
 -- url     : https://prove2.me/theorems/31c29934-a166-5e0e-844f-b030f199f9b7

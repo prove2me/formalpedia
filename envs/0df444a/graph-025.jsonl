@@ -33196,7 +33196,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm7_1_1_4.s5_eq_g", "child": "OAIQ098G1354", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.TaoCertificate.combined396_zero_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.TaoCertificate.combined396_zero_e", "child": "OAIQ106E161", "via": ["solution", "statement"]}
-{"parent": "BipHamCount.Deterministic.lemma_4_4", "child": "BipHamCount_Deterministic_Programs", "via": ["statement"]}
+{"parent": "BipHamCount.Deterministic.lemma_4_4", "child": "BipHamCount_Deterministic_Programs", "via": ["solution", "statement"]}
 {"parent": "QMatVecLB.ConvexOpt.lemma_5_3", "child": "QMatVecLB_ConvexOpt_Calculus", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm12_0_0_4.s3_eq_g", "child": "OAIQ098G783", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm12_0_0_4.s3_eq_g", "child": "OAIQ098G790", "via": ["solution", "statement"]}
@@ -39896,7 +39896,7 @@
 {"parent": "WeightedEdgeColor.theorem_3_1", "child": "WeightedEdgeColor_WGraph", "via": ["solution", "statement"]}
 {"parent": "WeightedEdgeColor.theorem_3_1", "child": "WeightedEdgeColor_WGraph_IsFeasiblePartialColoring", "via": ["solution", "statement"]}
 {"parent": "WeightedEdgeColor.theorem_3_1", "child": "WeightedEdgeColor_IsAvgOfFeasibleSets", "via": ["solution", "statement"]}
-{"parent": "BipHamCount.Deterministic.proposition_4_2", "child": "BipHamCount_Deterministic_Programs", "via": ["statement"]}
+{"parent": "BipHamCount.Deterministic.proposition_4_2", "child": "BipHamCount_Deterministic_Programs", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalSecondOfBlock_admissible", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ScaleCaps", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalSecondOfBlock_admissible", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_CommonMasks", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalSecondOfBlock_admissible", "child": "OAI_NumberTheory_DirichletL_Eisenstein_QuotientTopology", "via": ["solution", "statement"]}
@@ -44938,7 +44938,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.trans74_contains_g", "child": "OAIQ098G072", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.trans74_contains_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.trans74_contains_g", "child": "OAIQ098G1625", "via": ["solution", "statement"]}
-{"parent": "BipHamCount.Deterministic.proposition_4_1", "child": "BipHamCount_Deterministic_Programs", "via": ["statement"]}
+{"parent": "BipHamCount.Deterministic.proposition_4_1", "child": "BipHamCount_Deterministic_Programs", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm1_0_0_27.s4_eq_g", "child": "OAIQ098G940", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm1_0_0_27.s4_eq_g", "child": "OAIQ098G937", "via": ["solution", "statement"]}
 {"parent": "PivotADO.OneHop.lemma_6", "child": "PivotADO_OneHop_PathSystem", "via": ["statement"]}

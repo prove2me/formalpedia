@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_branchIntegrand_cons_nil_singleton
 -- name    : BKAR.Forest.OrderedGrowth.branchIntegrand_cons_nil_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:39:19.08626+00:00
 -- url     : https://prove2.me/theorems/de469070-436b-5af6-b9e2-bd1eb732a9fc

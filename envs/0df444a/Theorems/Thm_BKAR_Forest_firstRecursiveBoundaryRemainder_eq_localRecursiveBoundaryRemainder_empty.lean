@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_firstRecursiveBoundaryRemainder_eq_localRecursiveBoundaryRemainder_empty
 -- name    : BKAR.Forest.firstRecursiveBoundaryRemainder_eq_localRecursiveBoundaryRemainder_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:47:34.673413+00:00
 -- url     : https://prove2.me/theorems/2c64928b-325d-4c74-bbdd-45b953d60895

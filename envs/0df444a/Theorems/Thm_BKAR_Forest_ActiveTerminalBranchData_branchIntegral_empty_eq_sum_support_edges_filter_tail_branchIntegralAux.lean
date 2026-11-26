@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_branchIntegral_empty_eq_sum_support_edges_filter_tail_branchIntegralAux
 -- name    : BKAR.Forest.ActiveTerminalBranchData.branchIntegral_empty_eq_sum_support_edges_filter_tail_branchIntegralAux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:29:11.527576+00:00
 -- url     : https://prove2.me/theorems/c89e2e28-2a5a-5831-a22d-ab2c1da6faa7

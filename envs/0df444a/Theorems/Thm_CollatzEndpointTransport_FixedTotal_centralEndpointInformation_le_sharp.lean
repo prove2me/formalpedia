@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralEndpointInformation_le_sharp
 -- name    : CollatzEndpointTransport.FixedTotal.centralEndpointInformation_le_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:22:40.876434+00:00
 -- url     : https://prove2.me/theorems/1f7b9868-f625-4c8f-9b76-98ea3b04eeaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovIdentityTest_Reversible_eq_4_6
 -- name    : MarkovIdentityTest.Reversible.eq_4_6
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T06:37:48.462636+00:00
 -- url     : https://prove2.me/theorems/353798cf-1696-4243-8c60-02f7ccf6fbdf

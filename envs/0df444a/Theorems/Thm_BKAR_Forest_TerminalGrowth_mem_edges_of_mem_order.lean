@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_mem_edges_of_mem_order
 -- name    : BKAR.Forest.TerminalGrowth.mem_edges_of_mem_order
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:23:07.629768+00:00
 -- url     : https://prove2.me/theorems/76fa6bde-7fa9-5c1f-8bfa-ebfea20bcfb2

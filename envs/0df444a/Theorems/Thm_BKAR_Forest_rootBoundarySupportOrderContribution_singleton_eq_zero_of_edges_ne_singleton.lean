@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_rootBoundarySupportOrderContribution_singleton_eq_zero_of_edges_ne_singleton
 -- name    : BKAR.Forest.rootBoundarySupportOrderContribution_singleton_eq_zero_of_edges_ne_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:20:10.551095+00:00
 -- url     : https://prove2.me/theorems/ed49fd3e-6011-4c13-9be1-bdaa38331f02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_orderTail_mem_edgeSetOrderTails_of_order_eq_cons
 -- name    : BKAR.Forest.TerminalGrowth.orderTail_mem_edgeSetOrderTails_of_order_eq_cons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:27:32.808724+00:00
 -- url     : https://prove2.me/theorems/f3408427-49d7-5133-b610-89804dcaafc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_OptimizedLinearPullback_tendsto_normalizedRate_zero_right
 -- name    : CollatzEndpointTransport.OptimizedLinearPullback.tendsto_normalizedRate_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:47:57.063577+00:00
 -- url     : https://prove2.me/theorems/b216c222-6b7b-5b5e-b693-1e43f16ca101

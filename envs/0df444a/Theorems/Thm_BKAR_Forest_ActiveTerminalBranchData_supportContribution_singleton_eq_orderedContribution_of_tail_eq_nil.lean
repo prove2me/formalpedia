@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_supportContribution_singleton_eq_orderedContribution_of_tail_eq_nil
 -- name    : BKAR.Forest.ActiveTerminalBranchData.supportContribution_singleton_eq_orderedContribution_of_tail_eq_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:29:59.462096+00:00
 -- url     : https://prove2.me/theorems/8aa5dc39-91e0-555a-b23c-e3896f0c2503

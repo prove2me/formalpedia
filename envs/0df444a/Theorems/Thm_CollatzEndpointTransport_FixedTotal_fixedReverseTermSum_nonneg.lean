@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedReverseTermSum_nonneg
 -- name    : CollatzEndpointTransport.FixedTotal.fixedReverseTermSum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:45:21.31763+00:00
 -- url     : https://prove2.me/theorems/fc217206-107c-44c9-b183-48a492a0ec0b

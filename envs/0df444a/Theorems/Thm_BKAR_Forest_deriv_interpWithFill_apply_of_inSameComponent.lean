@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_deriv_interpWithFill_apply_of_inSameComponent
 -- name    : BKAR.Forest.deriv_interpWithFill_apply_of_inSameComponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:24:52.924891+00:00
 -- url     : https://prove2.me/theorems/bedfdc32-b31c-57e2-ac74-c7106a67c95f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_sum_rootBoundarySupportOrderContribution_eq_zeroConfig_add_sum_treeFiber
 -- name    : BKAR.Forest.sum_rootBoundarySupportOrderContribution_eq_zeroConfig_add_sum_treeFiber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:03:31.716797+00:00
 -- url     : https://prove2.me/theorems/41811c07-b783-5e5f-95a3-4c82d164b3eb

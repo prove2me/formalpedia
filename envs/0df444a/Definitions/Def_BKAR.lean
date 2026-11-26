@@ -1,0 +1,70 @@
+-- Prove2me | Definitions.Def_BKAR
+-- name    : BKAR
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-26T10:10:55.95048+00:00
+-- url     : https://prove2.me/theorems/5e765521-3d27-55a9-b5a7-f778cd0e0957
+-- title:
+--   BKAR
+-- statement:
+--   Definitions and structural lemmas for BKAR, from Scott Armstrong (scottnarmstrong/BKARForestFormula; see pinned Apache-2.0 LICENSE and formalization.yaml)'s pinned BKAR forest interpolation formula development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/scottnarmstrong/BKARForestFormula/blob/a07f44a534240fe6339558951dd78a19e4ef7c51/BKAR.lean
+
+import Definitions.Def_BKAR_CubePartition
+import Definitions.Def_BKAR_CubePartition_Branches
+import Definitions.Def_BKAR_CubePartition_CubeIntegral
+import Definitions.Def_BKAR_CubePartition_MeasurePartition
+import Definitions.Def_BKAR_CubePartition_MeasureSmoothness
+import Definitions.Def_BKAR_CubePartition_Orders
+import Definitions.Def_BKAR_CubePartition_Prefixed
+import Definitions.Def_BKAR_CubePartition_SimplexSector
+import Definitions.Def_BKAR_CubePartition_SimplexSector_Equiv
+import Definitions.Def_BKAR_CubePartition_SimplexSector_Finite
+import Definitions.Def_BKAR_CubePartition_SimplexSector_Pair
+import Definitions.Def_BKAR_CubePartition_SimplexSector_Singleton
+import Definitions.Def_BKAR_CubePartition_Smoothness
+import Definitions.Def_BKAR_CubePartition_Support
+import Definitions.Def_BKAR_CubePartition_Support_Contribution
+import Definitions.Def_BKAR_CubePartition_Support_Growth
+import Definitions.Def_BKAR_CubePartition_Support_Terminal
+import Definitions.Def_BKAR_Differential
+import Definitions.Def_BKAR_Forest
+import Definitions.Def_BKAR_ForestGraph
+import Definitions.Def_BKAR_Formula
+import Definitions.Def_BKAR_Interpolation
+import Definitions.Def_BKAR_OrderedAssembly
+import Definitions.Def_BKAR_OrderedAssembly_AllBranches
+import Definitions.Def_BKAR_OrderedAssembly_AllBranchesFiberBridge
+import Definitions.Def_BKAR_OrderedAssembly_AllBranchesFiberBridge_Core
+import Definitions.Def_BKAR_OrderedAssembly_AllBranchesFiberBridge_FollowOrder
+import Definitions.Def_BKAR_OrderedAssembly_AllBranchesFiberBridge_LowRank
+import Definitions.Def_BKAR_OrderedAssembly_AllBranchesFibers
+import Definitions.Def_BKAR_OrderedAssembly_AllBranchesFiberSmoothness
+import Definitions.Def_BKAR_OrderedAssembly_AllBranchesRegrouping
+import Definitions.Def_BKAR_OrderedAssembly_AllBranchesSmoothness
+import Definitions.Def_BKAR_OrderedAssembly_AllBranchesTelescoping
+import Definitions.Def_BKAR_OrderedAssembly_CanonicalForestBridge
+import Definitions.Def_BKAR_OrderedAssembly_CanonicalSector
+import Definitions.Def_BKAR_OrderedAssembly_ChosenGrowth
+import Definitions.Def_BKAR_OrderedAssembly_CubeFold
+import Definitions.Def_BKAR_OrderedAssembly_ForestIndexCube
+import Definitions.Def_BKAR_OrderedAssembly_LocalRecursion
+import Definitions.Def_BKAR_OrderedBranch
+import Definitions.Def_BKAR_OrderedExpansion
+import Definitions.Def_BKAR_OrderedForest
+import Definitions.Def_BKAR_OrderedTerminalGrowth
+import Definitions.Def_BKAR_OrderedParams
+import Definitions.Def_BKAR_OrderedRecursion
+import Definitions.Def_BKAR_OrderedRemainder
+import Definitions.Def_BKAR_OrderedSimplex
+import Definitions.Def_BKAR_OrderedTerminal
+import Definitions.Def_BKAR_PartialDeriv
+import Definitions.Def_BKAR_PartialDerivSymmetry
+import Definitions.Def_BKAR_Smoothness
+import Definitions.Def_BKAR_Threshold
+import Definitions.Def_BKAR_ThresholdComponents
+import Definitions.Def_BKAR_ThresholdLayerCake
+set_option autoImplicit false
+
+

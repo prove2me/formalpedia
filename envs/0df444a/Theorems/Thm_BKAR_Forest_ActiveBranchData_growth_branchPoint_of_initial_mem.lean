@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveBranchData_growth_branchPoint_of_initial_mem
 -- name    : BKAR.Forest.ActiveBranchData.growth_branchPoint_of_initial_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:21:27.683775+00:00
 -- url     : https://prove2.me/theorems/ca9eb68a-d8dd-5939-b283-f5b492fb5ecd

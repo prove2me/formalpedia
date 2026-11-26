@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_allBranchesBoundaryExpansion_continuous_comp
 -- name    : BKAR.BKARContDiff.allBranchesBoundaryExpansion_continuous_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:20:39.215999+00:00
 -- url     : https://prove2.me/theorems/a83d94b4-7c3c-44a9-9baf-9851a867487e

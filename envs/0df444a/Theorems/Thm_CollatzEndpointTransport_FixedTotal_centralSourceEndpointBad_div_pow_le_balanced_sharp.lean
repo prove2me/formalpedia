@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralSourceEndpointBad_div_pow_le_balanced_sharp
 -- name    : CollatzEndpointTransport.FixedTotal.centralSourceEndpointBad_div_pow_le_balanced_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:22:26.474198+00:00
 -- url     : https://prove2.me/theorems/30f9a7e3-9c29-4f47-bd1a-87bde1ed5ccb

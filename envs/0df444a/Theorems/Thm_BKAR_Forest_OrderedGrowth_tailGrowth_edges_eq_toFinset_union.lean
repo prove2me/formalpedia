@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_tailGrowth_edges_eq_toFinset_union
 -- name    : BKAR.Forest.OrderedGrowth.tailGrowth_edges_eq_toFinset_union
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:36:02.059459+00:00
 -- url     : https://prove2.me/theorems/801c0910-1d52-469b-bfed-87f153f0fa65

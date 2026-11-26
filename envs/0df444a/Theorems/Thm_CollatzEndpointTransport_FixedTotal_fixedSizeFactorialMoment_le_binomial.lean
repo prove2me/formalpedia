@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedSizeFactorialMoment_le_binomial
 -- name    : CollatzEndpointTransport.FixedTotal.fixedSizeFactorialMoment_le_binomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:48:54.371633+00:00
 -- url     : https://prove2.me/theorems/2bc9047b-99f7-40c8-a46e-56ad50f9e770

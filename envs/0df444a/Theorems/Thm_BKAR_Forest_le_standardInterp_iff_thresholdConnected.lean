@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_le_standardInterp_iff_thresholdConnected
 -- name    : BKAR.Forest.le_standardInterp_iff_thresholdConnected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:18:08.696089+00:00
 -- url     : https://prove2.me/theorems/6cf808b4-129b-5281-8c4c-999e8887a2ae

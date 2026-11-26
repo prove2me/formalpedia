@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_rho_oneConfig_eq_zeroConfig_add_sum_integrals_empty
 -- name    : BKAR.Forest.rho_oneConfig_eq_zeroConfig_add_sum_integrals_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:34:52.592976+00:00
 -- url     : https://prove2.me/theorems/7e526f87-9054-4f8d-872e-e5d96c4e20ce

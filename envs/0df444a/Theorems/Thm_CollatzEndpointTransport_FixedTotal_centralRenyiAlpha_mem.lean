@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralRenyiAlpha_mem
 -- name    : CollatzEndpointTransport.FixedTotal.centralRenyiAlpha_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:32:53.552843+00:00
 -- url     : https://prove2.me/theorems/f0e2b3be-c5d1-4723-9feb-230495827cf6

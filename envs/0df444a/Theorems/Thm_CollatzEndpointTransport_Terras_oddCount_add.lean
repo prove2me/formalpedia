@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_Terras_oddCount_add
 -- name    : CollatzEndpointTransport.Terras.oddCount_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:26:11.56611+00:00
 -- url     : https://prove2.me/theorems/7f289a5b-b9dd-4c9b-af4c-51001e947179

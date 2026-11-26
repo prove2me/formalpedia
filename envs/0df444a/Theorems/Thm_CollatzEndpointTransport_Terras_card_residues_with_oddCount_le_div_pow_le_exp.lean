@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_Terras_card_residues_with_oddCount_le_div_pow_le_exp
 -- name    : CollatzEndpointTransport.Terras.card_residues_with_oddCount_le_div_pow_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:23:52.37572+00:00
 -- url     : https://prove2.me/theorems/83a673ca-f0a9-423b-a7c3-4bf0069d5f96

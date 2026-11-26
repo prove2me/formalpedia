@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_growth_edges_eq_toFinset_union
 -- name    : BKAR.Forest.ActiveTerminalBranchData.growth_edges_eq_toFinset_union
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:25:05.456855+00:00
 -- url     : https://prove2.me/theorems/39dcf384-7c9c-4a12-89b2-d2e0ad62aa8f

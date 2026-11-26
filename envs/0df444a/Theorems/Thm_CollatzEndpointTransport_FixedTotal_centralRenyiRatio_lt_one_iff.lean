@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralRenyiRatio_lt_one_iff
 -- name    : CollatzEndpointTransport.FixedTotal.centralRenyiRatio_lt_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:40:43.354793+00:00
 -- url     : https://prove2.me/theorems/957ab7e8-c746-5a38-bde3-ea1b46dfb346

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_QuantitativeDensity_L0_mul_one_add_inv_bConst
 -- name    : CollatzEndpointTransport.QuantitativeDensity.L0_mul_one_add_inv_bConst
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:16:33.386105+00:00
 -- url     : https://prove2.me/theorems/8445d068-2f9c-47c8-b1b4-9ce66b2baec8

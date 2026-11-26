@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_Terras_pow_mul_card_residues_with_oddCount_le
 -- name    : CollatzEndpointTransport.Terras.pow_mul_card_residues_with_oddCount_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:23:45.413816+00:00
 -- url     : https://prove2.me/theorems/6771bbbc-c76c-5802-ac62-0c26a2870b4d

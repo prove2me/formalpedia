@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FD1D_hazard_energy_bound_from_local
 -- name    : FD1D.hazard_energy_bound_from_local
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:50:05.934571+00:00
 -- url     : https://prove2.me/theorems/f6b18e24-9776-5c7a-a9e0-6c045e1b9462

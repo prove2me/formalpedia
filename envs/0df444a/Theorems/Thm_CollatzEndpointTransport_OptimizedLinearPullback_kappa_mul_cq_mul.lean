@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_OptimizedLinearPullback_kappa_mul_cq_mul
 -- name    : CollatzEndpointTransport.OptimizedLinearPullback.kappa_mul_cq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:48:30.20084+00:00
 -- url     : https://prove2.me/theorems/61360fad-8459-5481-8268-2322f7281828

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_rootBoundarySupportOrderContribution_eq_zero_of_order_toFinset_ne_edges
 -- name    : BKAR.Forest.rootBoundarySupportOrderContribution_eq_zero_of_order_toFinset_ne_edges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:07:24.564529+00:00
 -- url     : https://prove2.me/theorems/d78f1171-2f45-4c24-b760-5ba957c70cb3

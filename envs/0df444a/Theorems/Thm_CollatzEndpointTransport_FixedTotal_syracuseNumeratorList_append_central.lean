@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_syracuseNumeratorList_append_central
 -- name    : CollatzEndpointTransport.FixedTotal.syracuseNumeratorList_append_central
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:42:43.086+00:00
 -- url     : https://prove2.me/theorems/7ec33fb8-b44b-4253-8705-01ab867afbaa

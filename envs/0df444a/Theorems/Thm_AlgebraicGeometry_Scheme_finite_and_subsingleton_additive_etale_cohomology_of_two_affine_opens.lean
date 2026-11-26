@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_finite_and_subsingleton_additive_etale_cohomology_of_two_affine_opens
 -- name    : AlgebraicGeometry.Scheme.finite_and_subsingleton_additive_etale_cohomology_of_two_affine_opens
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-26T09:48:44.487904+00:00
 -- url     : https://prove2.me/theorems/8b1330e5-a89d-484e-bbcd-5d7f11adce52

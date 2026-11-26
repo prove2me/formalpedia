@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_boundarySupportOrderTreeFiber_eq_zero_of_followOrder_eq_none
 -- name    : BKAR.Forest.boundarySupportOrderTreeFiber_eq_zero_of_followOrder_eq_none
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:07:34.431835+00:00
 -- url     : https://prove2.me/theorems/131a2541-61d4-46d0-89d9-d455fa49edef

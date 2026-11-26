@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sourceEndpointBad_div_pow_le_nonlinear
 -- name    : CollatzEndpointTransport.FixedTotal.sourceEndpointBad_div_pow_le_nonlinear
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:36:29.230562+00:00
 -- url     : https://prove2.me/theorems/844e1842-484d-4aff-8ef0-b38e9ea84faf

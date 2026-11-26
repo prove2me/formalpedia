@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveBranchData_growth_firstActiveExtension
 -- name    : BKAR.Forest.ActiveBranchData.growth_firstActiveExtension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:21:21.335152+00:00
 -- url     : https://prove2.me/theorems/a29d3f08-3854-4188-930b-2bc50057b318

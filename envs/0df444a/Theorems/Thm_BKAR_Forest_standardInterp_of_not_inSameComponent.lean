@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_standardInterp_of_not_inSameComponent
 -- name    : BKAR.Forest.standardInterp_of_not_inSameComponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:18:13.932852+00:00
 -- url     : https://prove2.me/theorems/4be9b9ec-259f-5105-b901-5fa8a51ae5ac

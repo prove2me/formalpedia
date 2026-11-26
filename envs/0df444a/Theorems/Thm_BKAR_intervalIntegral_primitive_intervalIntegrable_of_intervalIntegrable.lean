@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_intervalIntegral_primitive_intervalIntegrable_of_intervalIntegrable
 -- name    : BKAR.intervalIntegral_primitive_intervalIntegrable_of_intervalIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:25:42.038904+00:00
 -- url     : https://prove2.me/theorems/9705ea68-c1ee-56db-a3b1-4cf34caa0771

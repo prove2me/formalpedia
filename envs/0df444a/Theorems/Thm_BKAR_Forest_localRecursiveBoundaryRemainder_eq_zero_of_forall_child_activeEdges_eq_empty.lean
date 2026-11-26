@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_localRecursiveBoundaryRemainder_eq_zero_of_forall_child_activeEdges_eq_empty
 -- name    : BKAR.Forest.localRecursiveBoundaryRemainder_eq_zero_of_forall_child_activeEdges_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:47:07.624995+00:00
 -- url     : https://prove2.me/theorems/011a6900-7300-5a6c-bed4-71c51e483aab

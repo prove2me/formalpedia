@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_orderedCubeSimplex_nil
 -- name    : BKAR.Forest.orderedCubeSimplex_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:30:35.815657+00:00
 -- url     : https://prove2.me/theorems/f79fd328-23c2-512b-864f-7784f3b392f5

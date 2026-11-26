@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FD1D_hazard_energy_telescope
 -- name    : FD1D.hazard_energy_telescope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:48:40.713799+00:00
 -- url     : https://prove2.me/theorems/6b3cb60c-6694-51ae-9e0d-da523ab7f274

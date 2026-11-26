@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_quantitativeArbitraryTargetEndpointTransportRefined
 -- name    : CollatzEndpointTransport.FixedTotal.quantitativeArbitraryTargetEndpointTransportRefined
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:26:48.552498+00:00
 -- url     : https://prove2.me/theorems/0f3cd992-41dc-4909-a6e7-7c8d8fd77400

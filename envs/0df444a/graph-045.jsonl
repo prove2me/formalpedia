@@ -44475,7 +44475,7 @@
 {"parent": "PI.Dv.TIW.root_pow_eq_one", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TransferIndices_GrpNorm", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.ProfCoh.Involution.tateQuotCongr_mk", "child": "GroundTheory_ProfiniteCohomology_RealPlaces_InvolutionDuality", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.ProfCoh.Involution.tateQuotCongr_mk", "child": "GroundTheory_ProfiniteCohomology_TorsionDualFinite", "via": ["solution", "statement"]}
-{"parent": "Arxiv1808_03267.wiener_khinchin_power_spectrum", "child": "Arxiv1808_03267_Basic", "via": ["statement"]}
+{"parent": "Arxiv1808_03267.wiener_khinchin_power_spectrum", "child": "Arxiv1808_03267_Basic", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.rhoSymb_eq", "child": "GroundTheory_AutomorphicForms_PartialDifferential_EllipticLocal", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.rhoSymb_eq", "child": "GroundTheory_AutomorphicForms_PartialDifferential_EllipticOperators", "via": ["solution", "statement"]}
 {"parent": "PI.Dv.ProjGramW.dvProjGram_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ProjectionGramMatrices_AlgebraMapNeZeroOfNotMem", "via": ["solution", "statement"]}

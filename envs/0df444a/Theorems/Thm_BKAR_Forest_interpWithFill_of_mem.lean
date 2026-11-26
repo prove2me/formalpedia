@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_interpWithFill_of_mem
 -- name    : BKAR.Forest.interpWithFill_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:18:28.991113+00:00
 -- url     : https://prove2.me/theorems/d09567dc-55e2-5bde-a4a8-f9e2f6eb2d95

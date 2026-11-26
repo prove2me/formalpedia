@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_QuantitativeDensity_bConst_eq_neg_logb_sqrt
 -- name    : CollatzEndpointTransport.QuantitativeDensity.bConst_eq_neg_logb_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:16:30.990258+00:00
 -- url     : https://prove2.me/theorems/f37f95e6-058b-48ae-b650-710ba904bf31

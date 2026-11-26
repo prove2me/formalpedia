@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_intervalIntegral_primitive_intervalIntegrable_of_continuous
 -- name    : BKAR.intervalIntegral_primitive_intervalIntegrable_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:25:41.283657+00:00
 -- url     : https://prove2.me/theorems/3fc4cebd-b4cc-4cec-8cd6-8c61de58b4a0

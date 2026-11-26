@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveExtension_singletonGrowth_tailGrowth
 -- name    : BKAR.Forest.ActiveExtension.singletonGrowth_tailGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:40:23.442696+00:00
 -- url     : https://prove2.me/theorems/08803366-8c5f-4667-a2ce-5a994c94ea85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i0PositiveRow_cartan
 -- name    : FourierJacobi.Analysis.i0PositiveRow_cartan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:49:58.620985+00:00
 -- url     : https://prove2.me/theorems/7ed52125-52cb-40fd-ba16-652733a57fd3

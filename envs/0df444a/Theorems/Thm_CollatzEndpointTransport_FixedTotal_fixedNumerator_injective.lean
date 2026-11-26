@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_fixedNumerator_injective
 -- name    : CollatzEndpointTransport.FixedTotal.fixedNumerator_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:26:10.6366+00:00
 -- url     : https://prove2.me/theorems/220d4df2-f4d2-5182-a833-cb0ba3886cc0

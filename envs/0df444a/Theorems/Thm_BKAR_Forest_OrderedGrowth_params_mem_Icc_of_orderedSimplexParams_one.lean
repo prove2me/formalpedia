@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_params_mem_Icc_of_orderedSimplexParams_one
 -- name    : BKAR.Forest.OrderedGrowth.params_mem_Icc_of_orderedSimplexParams_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:37:53.465266+00:00
 -- url     : https://prove2.me/theorems/28486dd9-18ae-49d7-901f-26045b384579

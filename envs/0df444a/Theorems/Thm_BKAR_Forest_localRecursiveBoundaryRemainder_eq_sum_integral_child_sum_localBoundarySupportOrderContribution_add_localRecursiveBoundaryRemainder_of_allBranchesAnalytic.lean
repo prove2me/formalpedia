@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_localRecursiveBoundaryRemainder_eq_sum_integral_child_sum_localBoundarySupportOrderContribution_add_localRecursiveBoundaryRemainder_of_allBranchesAnalytic
 -- name    : BKAR.Forest.localRecursiveBoundaryRemainder_eq_sum_integral_child_sum_localBoundarySupportOrderContribution_add_localRecursiveBoundaryRemainder_of_allBranchesAnalytic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:17:01.63454+00:00
 -- url     : https://prove2.me/theorems/ab00a30c-0b6c-5d93-bda5-9a0ab6823429

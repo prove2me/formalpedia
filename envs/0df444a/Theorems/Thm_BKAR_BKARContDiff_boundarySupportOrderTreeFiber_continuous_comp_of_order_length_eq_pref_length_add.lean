@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_boundarySupportOrderTreeFiber_continuous_comp_of_order_length_eq_pref_length_add
 -- name    : BKAR.BKARContDiff.boundarySupportOrderTreeFiber_continuous_comp_of_order_length_eq_pref_length_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:06:02.055804+00:00
 -- url     : https://prove2.me/theorems/8942ce0b-013a-4846-8059-d3f0024d1edd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_refinedCentralRenyiMomentInverse_le
 -- name    : CollatzEndpointTransport.FixedTotal.refinedCentralRenyiMomentInverse_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:24:20.651134+00:00
 -- url     : https://prove2.me/theorems/04394e9b-2348-53ba-97e4-c19e88900eac

@@ -35991,8 +35991,8 @@
 {"parent": "SourceProof_88f453bd0ef1e94233e7a1e2", "child": "SourceProof_4ffa320b02b60d0dbe7bd7da", "via": ["statement"]}
 {"parent": "OAILP_BitRAM_Dispatch", "child": "OAILP_OracleSpec_Machine", "via": ["statement"]}
 {"parent": "OAILP_BitRAM_Dispatch", "child": "OAILP_RAM_Loops", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.downwardPassageJointDeficitTailBV", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.downwardPassageJointDeficitTailBV", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.downwardPassageJointDeficitTailBV", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.downwardPassageJointDeficitTailBV", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "OAILP_BitRAM_NativePriceFields", "child": "OAILP_Compression_MetadataNat", "via": ["statement"]}
 {"parent": "OAILP_BitRAM_NativePriceFields", "child": "OAILP_BitRAM_NativePriceRange", "via": ["statement"]}
 {"parent": "OAILP_BitRAM_NativePriceFields", "child": "OAILP_OracleSpec_PriceGame", "via": ["statement"]}

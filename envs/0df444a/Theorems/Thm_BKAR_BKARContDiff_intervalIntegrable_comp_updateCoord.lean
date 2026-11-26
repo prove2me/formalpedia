@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_intervalIntegrable_comp_updateCoord
 -- name    : BKAR.BKARContDiff.intervalIntegrable_comp_updateCoord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:26:32.595415+00:00
 -- url     : https://prove2.me/theorems/aa5901eb-449d-4b7f-a3bf-620674c3be51

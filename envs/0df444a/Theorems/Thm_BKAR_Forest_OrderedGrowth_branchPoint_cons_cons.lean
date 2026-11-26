@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_branchPoint_cons_cons
 -- name    : BKAR.Forest.OrderedGrowth.branchPoint_cons_cons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:38:46.66665+00:00
 -- url     : https://prove2.me/theorems/5526989b-75ea-456e-8704-130e9e4b2cae

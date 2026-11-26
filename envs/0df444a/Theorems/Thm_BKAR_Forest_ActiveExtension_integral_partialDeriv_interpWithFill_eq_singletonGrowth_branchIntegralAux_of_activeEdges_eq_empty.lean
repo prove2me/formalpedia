@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveExtension_integral_partialDeriv_interpWithFill_eq_singletonGrowth_branchIntegralAux_of_activeEdges_eq_empty
 -- name    : BKAR.Forest.ActiveExtension.integral_partialDeriv_interpWithFill_eq_singletonGrowth_branchIntegralAux_of_activeEdges_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:40:21.181296+00:00
 -- url     : https://prove2.me/theorems/b5fbca3b-84cd-5f68-bd10-605337e302cd

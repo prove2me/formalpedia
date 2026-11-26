@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiagLinesLDT_lemma_4_7
 -- name    : DiagLinesLDT.lemma_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:54:50.721634+00:00
 -- url     : https://prove2.me/theorems/1606b723-9496-49b2-b91e-432c0fd4819f

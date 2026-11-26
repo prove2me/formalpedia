@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_rho_oneConfig_eq_orderedSectorSum_empty_add_sum_orderedContribution_of_forall_child_activeEdges_eq_empty
 -- name    : BKAR.Forest.rho_oneConfig_eq_orderedSectorSum_empty_add_sum_orderedContribution_of_forall_child_activeEdges_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:45:10.490341+00:00
 -- url     : https://prove2.me/theorems/a523e0c3-b6af-5ce3-a55e-16c4de04eff4

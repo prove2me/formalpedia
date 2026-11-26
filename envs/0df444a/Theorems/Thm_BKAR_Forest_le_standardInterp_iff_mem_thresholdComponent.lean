@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_le_standardInterp_iff_mem_thresholdComponent
 -- name    : BKAR.Forest.le_standardInterp_iff_mem_thresholdComponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:18:18.261421+00:00
 -- url     : https://prove2.me/theorems/c3dcddce-a534-5b98-b918-ba41aaf76b9b

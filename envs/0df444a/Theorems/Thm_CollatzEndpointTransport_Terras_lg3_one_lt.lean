@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_Terras_lg3_one_lt
 -- name    : CollatzEndpointTransport.Terras.lg3_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:19:29.499037+00:00
 -- url     : https://prove2.me/theorems/d0d25b13-8d66-4735-8434-62384465c1ac

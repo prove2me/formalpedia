@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_rootBoundarySupportOrderContribution_eq_orderedContribution_of_followOrder_eq_some
 -- name    : BKAR.Forest.rootBoundarySupportOrderContribution_eq_orderedContribution_of_followOrder_eq_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:08:00.900459+00:00
 -- url     : https://prove2.me/theorems/7a246845-57d6-464f-b8ae-45126cc18f27

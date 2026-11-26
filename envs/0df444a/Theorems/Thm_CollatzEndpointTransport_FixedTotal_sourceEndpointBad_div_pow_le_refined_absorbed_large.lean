@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_sourceEndpointBad_div_pow_le_refined_absorbed_large
 -- name    : CollatzEndpointTransport.FixedTotal.sourceEndpointBad_div_pow_le_refined_absorbed_large
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:26:21.833246+00:00
 -- url     : https://prove2.me/theorems/499ec185-a151-4b2d-82a7-d954a5979734

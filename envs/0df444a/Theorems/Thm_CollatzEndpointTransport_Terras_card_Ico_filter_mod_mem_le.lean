@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_Terras_card_Ico_filter_mod_mem_le
 -- name    : CollatzEndpointTransport.Terras.card_Ico_filter_mod_mem_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:25:29.013987+00:00
 -- url     : https://prove2.me/theorems/447840d6-7c13-41ee-90eb-27581721f42f

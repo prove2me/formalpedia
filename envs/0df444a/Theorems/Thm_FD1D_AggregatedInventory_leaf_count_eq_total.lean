@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FD1D_AggregatedInventory_leaf_count_eq_total
 -- name    : FD1D.AggregatedInventory.leaf_count_eq_total
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:49:58.680399+00:00
 -- url     : https://prove2.me/theorems/2abdd3ae-9e95-552b-9595-8bec7e3114ba

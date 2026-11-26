@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FD1D_hazard_energy_bound
 -- name    : FD1D.hazard_energy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:48:45.136159+00:00
 -- url     : https://prove2.me/theorems/1ac5b339-4281-5647-a5fb-0b58cf54a985

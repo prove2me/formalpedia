@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_sum_interpolationGap_range_last_eq_one
 -- name    : BKAR.Forest.sum_interpolationGap_range_last_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:24:04.364715+00:00
 -- url     : https://prove2.me/theorems/ceaea5d8-df22-5ac9-af31-b77c8d490935

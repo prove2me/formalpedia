@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_sum_interpolationGap_le_eq_of_mem_interpolationLevels
 -- name    : BKAR.Forest.sum_interpolationGap_le_eq_of_mem_interpolationLevels
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:24:05.310954+00:00
 -- url     : https://prove2.me/theorems/0669fe90-e2a9-593f-90ab-022e6cee6192

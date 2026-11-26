@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1808_03267_wiener_khinchin_power_spectrum
 -- name    : Arxiv1808_03267.wiener_khinchin_power_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T05:12:56.879378+00:00
 -- url     : https://prove2.me/theorems/fb214cc2-ef1e-5e1a-a104-1c5f025137ef

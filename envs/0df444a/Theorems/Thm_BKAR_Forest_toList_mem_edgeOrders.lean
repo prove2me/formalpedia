@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_toList_mem_edgeOrders
 -- name    : BKAR.Forest.toList_mem_edgeOrders
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:26:30.067921+00:00
 -- url     : https://prove2.me/theorems/56d2c7f3-5005-4cda-aeb8-357af9d355e8

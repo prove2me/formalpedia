@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_constantConfig_continuous
 -- name    : BKAR.constantConfig_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:26:00.738186+00:00
 -- url     : https://prove2.me/theorems/046b0452-a351-567e-a10d-768168c64605

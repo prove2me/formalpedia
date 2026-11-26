@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_QuantitativeDensity_headlineExponent_eq
 -- name    : CollatzEndpointTransport.QuantitativeDensity.headlineExponent_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:18:55.406266+00:00
 -- url     : https://prove2.me/theorems/bdbd739f-c498-4f9f-bf65-9d43bc2356c8

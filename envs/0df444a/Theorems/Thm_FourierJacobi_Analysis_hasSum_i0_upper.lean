@@ -1,0 +1,32 @@
+-- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i0_upper
+-- name    : FourierJacobi.Analysis.hasSum_i0_upper
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-11-26T09:52:45.290397+00:00
+-- url     : https://prove2.me/theorems/92e0c2a4-2b65-487a-926c-8a8cd248475a
+-- title:
+--   Analysis: has Sum i0 upper
+-- statement:
+--   The Analysis construction uses the has Sum i0 upper property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/abhisaha-git/fourier-jacobi-core-evaluation/blob/fb2b788d6271dd6228044b2c4e9e47c891a16762/FourierJacobi/Analysis/I0Complete.lean#L355-L380
+-- source:
+--   https://github.com/abhisaha-git/fourier-jacobi-core-evaluation/blob/fb2b788d6271dd6228044b2c4e9e47c891a16762/FourierJacobi/Analysis/I0Complete.lean#L355-L380
+
+import Definitions.Def_FourierJacobi_Analysis_ValuationSeries
+import Mathlib.Topology.Algebra.InfiniteSum.Real
+import Definitions.Def_FourierJacobi_Analysis_I0Complete
+set_option autoImplicit false
+noncomputable section
+open FourierJacobi FourierJacobi.Analysis
+open FourierJacobi.Valuations
+set_option maxHeartbeats 4000000
+set_option maxRecDepth 4096
+set_option linter.unusedSimpArgs false
+
+theorem FourierJacobi.Analysis.hasSum_i0_upper (neg : Bool) (t d U V T : ℂ)
+    (ht : ‖t ^ 2‖ < 1) (hK : ‖i0KRatio neg t d V T‖ < 1)
+    (hE : ‖(T * V) ^ 2 * t ^ 2‖ < 1) :
+    HasSum (fun p : I0UpperRow neg => i0Shell t d U V T p.val)
+      ((1 - t ^ 2) * i0KInitial neg t d V T * (T * V) * (1 + T * V) * t ^ 2 *
+        (1 - i0KRatio neg t d V T)⁻¹ * (1 - (T * V) ^ 2 * t ^ 2)⁻¹) := by sorry

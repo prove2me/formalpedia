@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_rho_oneConfig_eq_orderedSectorSum_empty_add_boundarySupportOrderTreeContribution
 -- name    : BKAR.Forest.rho_oneConfig_eq_orderedSectorSum_empty_add_boundarySupportOrderTreeContribution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:17:17.027076+00:00
 -- url     : https://prove2.me/theorems/678abd07-f0f9-4f02-8436-640e2a68bbee

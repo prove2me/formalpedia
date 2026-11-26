@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_first_mem_activeEdges
 -- name    : BKAR.Forest.OrderedGrowth.first_mem_activeEdges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:35:17.895655+00:00
 -- url     : https://prove2.me/theorems/7f020f56-72d6-4f80-8a28-7bec25e3044a

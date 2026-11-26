@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_targetBinomialFront_rpow_le
 -- name    : CollatzEndpointTransport.FixedTotal.targetBinomialFront_rpow_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:24:36.005796+00:00
 -- url     : https://prove2.me/theorems/7a23c438-05f4-5d53-905e-553eba4e1d7f

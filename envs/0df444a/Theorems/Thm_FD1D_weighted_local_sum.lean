@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FD1D_weighted_local_sum
 -- name    : FD1D.weighted_local_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:48:46.762971+00:00
 -- url     : https://prove2.me/theorems/8a80fdec-c129-490f-a61e-afaf1cbd37bb

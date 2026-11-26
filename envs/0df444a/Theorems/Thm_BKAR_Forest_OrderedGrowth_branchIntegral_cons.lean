@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_branchIntegral_cons
 -- name    : BKAR.Forest.OrderedGrowth.branchIntegral_cons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:39:57.680963+00:00
 -- url     : https://prove2.me/theorems/c5609e18-cb00-45e3-83f0-c93775184783

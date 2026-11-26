@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FD1D_AggregatedInventory_level_count_eq
 -- name    : FD1D.AggregatedInventory.level_count_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:49:42.280263+00:00
 -- url     : https://prove2.me/theorems/8b7d69ed-4fc1-4aca-beb6-6387018b22cf

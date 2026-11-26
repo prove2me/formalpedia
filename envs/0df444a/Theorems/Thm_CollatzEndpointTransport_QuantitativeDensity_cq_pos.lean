@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_QuantitativeDensity_cq_pos
 -- name    : CollatzEndpointTransport.QuantitativeDensity.cq_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:17:53.417524+00:00
 -- url     : https://prove2.me/theorems/10986a04-6082-43e7-b9a9-b8bd9c148ddd

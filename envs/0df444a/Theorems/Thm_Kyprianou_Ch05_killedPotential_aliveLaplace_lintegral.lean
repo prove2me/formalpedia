@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotential_aliveLaplace_lintegral
 -- name    : Kyprianou.Ch05.killedPotential_aliveLaplace_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T03:19:38.717885+00:00
 -- url     : https://prove2.me/theorems/89312598-6355-5224-92e5-ad76ea329e94

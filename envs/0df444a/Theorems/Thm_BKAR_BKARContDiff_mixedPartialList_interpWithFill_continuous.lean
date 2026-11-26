@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_mixedPartialList_interpWithFill_continuous
 -- name    : BKAR.BKARContDiff.mixedPartialList_interpWithFill_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:26:35.205351+00:00
 -- url     : https://prove2.me/theorems/d2675e30-93de-45d7-b3cd-04f358e32243

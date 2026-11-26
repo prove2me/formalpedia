@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_three_pow_le_sourceEndpoint
 -- name    : CollatzEndpointTransport.FixedTotal.three_pow_le_sourceEndpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:26:19.029743+00:00
 -- url     : https://prove2.me/theorems/053139ee-f0f3-5c3d-835b-90b0915ad7eb

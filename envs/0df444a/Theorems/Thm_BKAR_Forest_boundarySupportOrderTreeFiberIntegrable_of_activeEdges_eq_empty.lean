@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_boundarySupportOrderTreeFiberIntegrable_of_activeEdges_eq_empty
 -- name    : BKAR.Forest.boundarySupportOrderTreeFiberIntegrable_of_activeEdges_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:48:58.830267+00:00
 -- url     : https://prove2.me/theorems/00f5e7dc-726f-5838-9ff9-e2a59a3b5be3

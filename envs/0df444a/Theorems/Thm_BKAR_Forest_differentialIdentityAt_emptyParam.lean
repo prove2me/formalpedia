@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_differentialIdentityAt_emptyParam
 -- name    : BKAR.Forest.differentialIdentityAt_emptyParam
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:25:18.767549+00:00
 -- url     : https://prove2.me/theorems/33dd042a-612d-47b8-8b83-e665486a867a

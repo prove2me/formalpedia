@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_growth_support_eq_extension_support_of_tail_order_eq_nil
 -- name    : BKAR.Forest.ActiveTerminalBranchData.growth_support_eq_extension_support_of_tail_order_eq_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:24:44.39742+00:00
 -- url     : https://prove2.me/theorems/5395123a-9bbc-4f7a-a0a1-70a3897c77bf

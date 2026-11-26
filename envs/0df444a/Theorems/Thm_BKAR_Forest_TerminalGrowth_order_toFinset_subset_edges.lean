@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_TerminalGrowth_order_toFinset_subset_edges
 -- name    : BKAR.Forest.TerminalGrowth.order_toFinset_subset_edges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:22:54.685371+00:00
 -- url     : https://prove2.me/theorems/d0c113af-6195-5794-9926-f1493b6a7ec0

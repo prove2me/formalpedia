@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_interpolationLayerThreshold_pos
 -- name    : BKAR.Forest.interpolationLayerThreshold_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:22:33.447194+00:00
 -- url     : https://prove2.me/theorems/09056243-3c1a-452d-a157-792ffbcba64b

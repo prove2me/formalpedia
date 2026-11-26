@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_Terras_dist_lt_pow_two_of_equal_iterate_same_oddCount
 -- name    : CollatzEndpointTransport.Terras.dist_lt_pow_two_of_equal_iterate_same_oddCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:24:58.125711+00:00
 -- url     : https://prove2.me/theorems/1e6e2653-557f-5c3a-8cd3-8d7972609d78

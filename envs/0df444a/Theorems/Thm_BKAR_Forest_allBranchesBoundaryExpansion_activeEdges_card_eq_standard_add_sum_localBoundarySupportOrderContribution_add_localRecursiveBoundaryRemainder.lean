@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_allBranchesBoundaryExpansion_activeEdges_card_eq_standard_add_sum_localBoundarySupportOrderContribution_add_localRecursiveBoundaryRemainder
 -- name    : BKAR.Forest.allBranchesBoundaryExpansion_activeEdges_card_eq_standard_add_sum_localBoundarySupportOrderContribution_add_localRecursiveBoundaryRemainder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:17:37.108174+00:00
 -- url     : https://prove2.me/theorems/08ce67c6-d4da-4b0b-b57d-d283c3b20c96

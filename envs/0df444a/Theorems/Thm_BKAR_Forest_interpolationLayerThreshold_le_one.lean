@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_interpolationLayerThreshold_le_one
 -- name    : BKAR.Forest.interpolationLayerThreshold_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:23:49.230009+00:00
 -- url     : https://prove2.me/theorems/9794a61a-8066-55a7-af7d-527e6a5fb75c

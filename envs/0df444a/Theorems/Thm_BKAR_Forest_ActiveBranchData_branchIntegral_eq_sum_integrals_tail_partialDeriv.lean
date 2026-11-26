@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveBranchData_branchIntegral_eq_sum_integrals_tail_partialDeriv
 -- name    : BKAR.Forest.ActiveBranchData.branchIntegral_eq_sum_integrals_tail_partialDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:21:40.156848+00:00
 -- url     : https://prove2.me/theorems/97ac6199-6ecd-54e4-b904-235a071b544c

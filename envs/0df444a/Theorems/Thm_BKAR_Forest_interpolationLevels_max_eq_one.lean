@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_interpolationLevels_max_eq_one
 -- name    : BKAR.Forest.interpolationLevels_max_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:22:29.59593+00:00
 -- url     : https://prove2.me/theorems/f9ad04cc-f96b-44dd-b364-a43cb7b0a3d1

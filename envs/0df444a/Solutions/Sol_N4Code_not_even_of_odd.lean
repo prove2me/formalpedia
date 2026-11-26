@@ -1,0 +1,19 @@
+-- Prove2me | solution 1 for N4Code.not_even_of_odd
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-26T10:31:44.813832+00:00
+-- url     : https://prove2.me/submissions/4d576fe8-792d-4d50-8e5d-7decc1882617
+
+import Definitions.Def_N4Code_ZeroColumn
+import Definitions.Def_N4Code_TwoColumn
+
+set_option autoImplicit true
+open N4Code
+set_option maxRecDepth 1000000
+open scoped BigOperators
+namespace N4Code
+theorem _root_.solution {a : ℕ} (h : Odd a) : ¬ Even a := by
+  rintro ⟨k, hk⟩
+  rcases h with ⟨l, hl⟩
+  omega
+end N4Code

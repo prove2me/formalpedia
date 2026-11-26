@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_allBranchesAnalytic_smooth_obligations
 -- name    : BKAR.BKARContDiff.allBranchesAnalytic_smooth_obligations
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:20:20.609091+00:00
 -- url     : https://prove2.me/theorems/62951723-34a6-5ac7-93df-a12b31a9cae1

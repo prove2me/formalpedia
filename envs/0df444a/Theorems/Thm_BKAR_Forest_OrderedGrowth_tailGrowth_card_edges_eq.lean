@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_tailGrowth_card_edges_eq
 -- name    : BKAR.Forest.OrderedGrowth.tailGrowth_card_edges_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:36:53.115939+00:00
 -- url     : https://prove2.me/theorems/9483afee-0516-5fa2-9404-572f24a40a70

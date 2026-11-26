@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_QuantitativeDensity_mem_pullbackWitnessSet
 -- name    : CollatzEndpointTransport.QuantitativeDensity.mem_pullbackWitnessSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:23:38.02218+00:00
 -- url     : https://prove2.me/theorems/68c61d8f-198e-5daf-9c48-4f9b1866c89a

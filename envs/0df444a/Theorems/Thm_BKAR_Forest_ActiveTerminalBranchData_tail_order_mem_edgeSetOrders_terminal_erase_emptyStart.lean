@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_tail_order_mem_edgeSetOrders_terminal_erase_emptyStart
 -- name    : BKAR.Forest.ActiveTerminalBranchData.tail_order_mem_edgeSetOrders_terminal_erase_emptyStart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:28:22.167351+00:00
 -- url     : https://prove2.me/theorems/9128e0df-92c4-483c-b5e7-247e6acca5b4

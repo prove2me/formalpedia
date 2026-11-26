@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_growth_order
 -- name    : BKAR.Forest.ActiveTerminalBranchData.growth_order
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:24:28.344844+00:00
 -- url     : https://prove2.me/theorems/ca544282-338e-556a-93cb-fe9b59a218e5

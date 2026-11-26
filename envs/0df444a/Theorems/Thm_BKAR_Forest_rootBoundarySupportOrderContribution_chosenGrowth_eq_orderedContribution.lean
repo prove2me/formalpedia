@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_rootBoundarySupportOrderContribution_chosenGrowth_eq_orderedContribution
 -- name    : BKAR.Forest.rootBoundarySupportOrderContribution_chosenGrowth_eq_orderedContribution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:07:31.044857+00:00
 -- url     : https://prove2.me/theorems/2e8935c1-ac8d-5d59-a017-0884b5d97f2f

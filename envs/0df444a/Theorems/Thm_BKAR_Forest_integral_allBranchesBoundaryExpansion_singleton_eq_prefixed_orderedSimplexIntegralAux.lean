@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_integral_allBranchesBoundaryExpansion_singleton_eq_prefixed_orderedSimplexIntegralAux
 -- name    : BKAR.Forest.integral_allBranchesBoundaryExpansion_singleton_eq_prefixed_orderedSimplexIntegralAux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:44:47.134203+00:00
 -- url     : https://prove2.me/theorems/65b37839-8287-5448-8b2e-6fa6ab6fa438

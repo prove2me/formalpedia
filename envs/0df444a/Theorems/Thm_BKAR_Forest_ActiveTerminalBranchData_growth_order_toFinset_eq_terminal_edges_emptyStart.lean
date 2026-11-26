@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_ActiveTerminalBranchData_growth_order_toFinset_eq_terminal_edges_emptyStart
 -- name    : BKAR.Forest.ActiveTerminalBranchData.growth_order_toFinset_eq_terminal_edges_emptyStart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:28:07.533338+00:00
 -- url     : https://prove2.me/theorems/bb577f93-af0b-5939-8495-d479226cb53c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_VelocityDetection_TapeCodes_half_wellDefined
 -- name    : OAI.VelocityDetection.TapeCodes.half_wellDefined
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:19.857134+00:00
 -- url     : https://prove2.me/theorems/80ed4dcd-862a-4b78-93ad-82d13c0d91c4

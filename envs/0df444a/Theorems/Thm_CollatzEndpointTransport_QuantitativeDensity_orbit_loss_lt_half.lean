@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_QuantitativeDensity_orbit_loss_lt_half
 -- name    : CollatzEndpointTransport.QuantitativeDensity.orbit_loss_lt_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:16:33.640997+00:00
 -- url     : https://prove2.me/theorems/ed015906-78dc-4c9b-a6bd-90712c871679

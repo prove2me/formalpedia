@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatzEndpointTransport_FixedTotal_centralRenyiStageConstant_pos
 -- name    : CollatzEndpointTransport.FixedTotal.centralRenyiStageConstant_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:42:46.598907+00:00
 -- url     : https://prove2.me/theorems/e25174b6-93ee-5b8e-94b5-61a34d94e93f

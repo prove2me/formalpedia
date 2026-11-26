@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_boundarySupportOrderTreeFiberNontrivialIntegrable_child_activeEdges_card
 -- name    : BKAR.Forest.boundarySupportOrderTreeFiberNontrivialIntegrable.child_activeEdges_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:49:14.715842+00:00
 -- url     : https://prove2.me/theorems/c0afe430-37a0-55c1-a4d1-1279fe6055de

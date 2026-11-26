@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_BKARContDiff_localBoundarySupportOrderContribution_continuous
 -- name    : BKAR.BKARContDiff.localBoundarySupportOrderContribution_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:19:56.016926+00:00
 -- url     : https://prove2.me/theorems/68f0af76-73b7-4836-b0fc-b62ee25a6608

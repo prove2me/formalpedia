@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_OrderedGrowth_derivativeOrder_def
 -- name    : BKAR.Forest.OrderedGrowth.derivativeOrder_def
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:37:47.929118+00:00
 -- url     : https://prove2.me/theorems/3d81b666-69ab-592f-bbae-823ba66f6b4b

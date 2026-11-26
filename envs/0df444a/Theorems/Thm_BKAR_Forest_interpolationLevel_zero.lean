@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAR_Forest_interpolationLevel_zero
 -- name    : BKAR.Forest.interpolationLevel_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T08:20:48.502217+00:00
 -- url     : https://prove2.me/theorems/08c4d4c6-6e9e-418b-8795-b0fed2d35a07
