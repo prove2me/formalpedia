@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2412_03183_overall_problem_convex_in_x_nonconvex
 -- name    : Arxiv2412_03183.overall_problem_convex_in_x_nonconvex
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T13:55:37.218817+00:00
 -- url     : https://prove2.me/theorems/316c3168-4475-56d8-b73c-4173378e5436

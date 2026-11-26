@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_corollary_1_6
 -- name    : corollary_1_6
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:28:56.989302+00:00
 -- url     : https://prove2.me/theorems/c9058d34-dfe4-457b-9f73-13bf00a10a0c

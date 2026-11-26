@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1605_04704_case_d_pure_weight
 -- name    : Arxiv1605_04704.case_d_pure_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T20:51:46.339928+00:00
 -- url     : https://prove2.me/theorems/3742705d-7f0c-43b2-9992-4b59efc98534

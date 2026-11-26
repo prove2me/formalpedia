@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_coprime_to_six_reaches_one_below_1241513984
 -- name    : syracuse_coprime_to_six_reaches_one_below_1241513984
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T05:19:16.506332+00:00
 -- url     : https://prove2.me/theorems/e0ad9e47-682e-5440-979b-0269e4c4aafe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_proposition_1_5
 -- name    : proposition_1_5
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:28:31.126821+00:00
 -- url     : https://prove2.me/theorems/9a1856f3-b633-5101-9e50-4ce4a0cdb173

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Scott1972_ContinuousLattice_isContinuousLattice_prop
 -- name    : Scott1972.ContinuousLattice.isContinuousLattice_prop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:30:13.686454+00:00
 -- url     : https://prove2.me/theorems/8b2ed609-e7f6-5b14-8cff-9f1bc8abbc86

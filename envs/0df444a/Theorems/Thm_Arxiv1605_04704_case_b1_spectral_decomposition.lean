@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1605_04704_case_b1_spectral_decomposition
 -- name    : Arxiv1605_04704.case_b1_spectral_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T21:10:04.892804+00:00
 -- url     : https://prove2.me/theorems/184b6f40-42f4-47d8-82a1-3770c0bb5121

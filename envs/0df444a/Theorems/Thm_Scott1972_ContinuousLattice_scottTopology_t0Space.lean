@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Scott1972_ContinuousLattice_scottTopology_t0Space
 -- name    : Scott1972.ContinuousLattice.scottTopology_t0Space
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:29:56.301228+00:00
 -- url     : https://prove2.me/theorems/95134cbc-9135-466d-8203-0c13942e46d9

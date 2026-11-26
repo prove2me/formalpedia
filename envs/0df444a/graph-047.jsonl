@@ -95702,7 +95702,7 @@
 {"parent": "GlobalTheory.Diag.isGrpPullback", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_FinitePresentationOfInjective", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.BcB.E2.oneStep_of", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_ThetaCellCovers_VecClose", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.BcB.E2.oneStep_of", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_EigenvalueSeparation_AlmostEverywhereEigen_OneStepOf", "via": ["statement"]}
-{"parent": "Arxiv2412_03183.overall_problem_convex_in_x_nonconvex", "child": "Arxiv2412_03183_Basic", "via": ["statement"]}
+{"parent": "Arxiv2412_03183.overall_problem_convex_in_x_nonconvex", "child": "Arxiv2412_03183_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FibreDeriv.snd_jet", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_EigLatBasis", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FibreDeriv.snd_jet", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_TopLePreimageOfValAtNeZero", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FibreDeriv.snd_jet", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["solution", "statement"]}

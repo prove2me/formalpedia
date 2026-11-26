@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1605_04704_case_a_four_components
 -- name    : Arxiv1605_04704.case_a_four_components
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T20:41:19.230956+00:00
 -- url     : https://prove2.me/theorems/c1f02ee1-2b7c-4a6b-b667-ea8176d0ff7d

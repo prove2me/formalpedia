@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Scott1972_ContinuousLattice_scottOpen_sUnion
 -- name    : Scott1972.ContinuousLattice.scottOpen_sUnion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:29:06.362609+00:00
 -- url     : https://prove2.me/theorems/3126a75d-1dfd-5939-bf55-d9c49a47e3cb

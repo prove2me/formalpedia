@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1605_04704_max_independent_components_eq_rank
 -- name    : Arxiv1605_04704.max_independent_components_eq_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T20:29:37.862444+00:00
 -- url     : https://prove2.me/theorems/aa1e0cd0-5366-4d04-abf9-2d955c81f064

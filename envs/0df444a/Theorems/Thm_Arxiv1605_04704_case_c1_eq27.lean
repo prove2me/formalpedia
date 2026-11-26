@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1605_04704_case_c1_eq27
 -- name    : Arxiv1605_04704.case_c1_eq27
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T21:36:35.472416+00:00
 -- url     : https://prove2.me/theorems/1288d592-7c87-4887-9093-f064290c4b9b

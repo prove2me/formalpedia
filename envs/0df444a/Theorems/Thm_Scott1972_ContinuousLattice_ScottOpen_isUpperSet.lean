@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Scott1972_ContinuousLattice_ScottOpen_isUpperSet
 -- name    : Scott1972.ContinuousLattice.ScottOpen.isUpperSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:29:01.75989+00:00
 -- url     : https://prove2.me/theorems/4de04c3c-606d-51ce-aa28-9a3ad65e4476
