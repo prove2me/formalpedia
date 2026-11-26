@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_framesExec_deterministic
 -- name    : TunnellMap.RecordDA.framesExec_deterministic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:36:18.432683+00:00
 -- url     : https://prove2.me/theorems/d5ab055c-80fe-5716-81be-dc8fd6a52be4

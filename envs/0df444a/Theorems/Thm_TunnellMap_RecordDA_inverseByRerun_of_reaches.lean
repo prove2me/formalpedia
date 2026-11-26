@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_inverseByRerun_of_reaches
 -- name    : TunnellMap.RecordDA.inverseByRerun_of_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:34:55.6186+00:00
 -- url     : https://prove2.me/theorems/8e1798d8-71c3-42ed-95df-c021acf312d1

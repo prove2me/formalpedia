@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_BlockGen_recordOf_sign_spec
 -- name    : TunnellMap.BlockGen.recordOf_sign_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:49:01.011139+00:00
 -- url     : https://prove2.me/theorems/824c1d0c-e241-5b11-9fe8-99bc6d16e6dd

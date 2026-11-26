@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetDLP_fp_stage1_btn_derand_tm
 -- name    : DetDLP.fp_stage1_btn_derand_tm
--- status  : Open
+-- status  : Proved
 -- author  : @Bingsheng
 -- created : 2026-11-23T11:52:31.409872+00:00
 -- url     : https://prove2.me/theorems/933e3035-52ef-4e79-ad1b-eb36337917f2

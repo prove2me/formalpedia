@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_canonicalIncidentStream_framesExec_eq_preferenceList
 -- name    : TunnellMap.RecordDA.canonicalIncidentStream_framesExec_eq_preferenceList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:36:50.236044+00:00
 -- url     : https://prove2.me/theorems/9b5a0074-de87-543d-9f75-73f03cdf308a

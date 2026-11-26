@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_even_branch_example
 -- name    : TunnellMap.Examples41.even_branch_example
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:03:23.05417+00:00
 -- url     : https://prove2.me/theorems/b595c817-bd2c-4519-aa30-ba19977450a5

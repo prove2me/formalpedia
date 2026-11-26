@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_mem_targetRosterExec_iff_canonical
 -- name    : TunnellMap.mem_targetRosterExec_iff_canonical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:41:17.908096+00:00
 -- url     : https://prove2.me/theorems/e6fd7272-b779-5c20-abe4-332896869eb7

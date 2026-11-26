@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_stepTrace_accept_iff_free
 -- name    : TunnellMap.RecordDA.stepTrace_accept_iff_free
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:39:41.673197+00:00
 -- url     : https://prove2.me/theorems/e1d45404-bb2d-405b-b74f-3576853c4e21

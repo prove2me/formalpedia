@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellChallenge_preferredTarget_bridge
 -- name    : TunnellChallenge.preferredTarget_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:02:28.146891+00:00
 -- url     : https://prove2.me/theorems/de32f352-9f08-55d9-bac3-93a9da9fd19f

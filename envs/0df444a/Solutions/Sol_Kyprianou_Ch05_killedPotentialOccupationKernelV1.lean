@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.killedPotentialOccupationKernelV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T16:09:16.737127+00:00
 -- url     : https://prove2.me/submissions/0612b3aa-2bdb-48bc-8def-d5b4826fc346
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch05_killedPotential_lintegral_formula

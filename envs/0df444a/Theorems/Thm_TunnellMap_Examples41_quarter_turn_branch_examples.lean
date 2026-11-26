@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_quarter_turn_branch_examples
 -- name    : TunnellMap.Examples41.quarter_turn_branch_examples
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:03:51.791003+00:00
 -- url     : https://prove2.me/theorems/ac9dc6f9-9f52-53eb-8625-684e5d19893d

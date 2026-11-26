@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_rre_p_and_s_forms
 -- name    : CondMat0408017.rre_p_and_s_forms
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:20:18.747937+00:00
 -- url     : https://prove2.me/theorems/e27d0edc-fd51-4de1-a6f9-57209c227241

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_spatial_excess_small_tail
 -- name    : Kyprianou.Ch04.ito43_spatial_excess_small_tail
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:57:04.038351+00:00
 -- url     : https://prove2.me/theorems/5afea892-ac60-593f-bff1-d69e7ed5db51

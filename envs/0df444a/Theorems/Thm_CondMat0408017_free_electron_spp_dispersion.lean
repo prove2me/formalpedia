@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_free_electron_spp_dispersion
 -- name    : CondMat0408017.free_electron_spp_dispersion
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:25:54.589801+00:00
 -- url     : https://prove2.me/theorems/9a2a74be-b6ab-5b7e-b7b1-7d0e1a6b26f6

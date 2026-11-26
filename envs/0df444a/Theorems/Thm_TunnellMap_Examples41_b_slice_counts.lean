@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_b_slice_counts
 -- name    : TunnellMap.Examples41.b_slice_counts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:49:02.101201+00:00
 -- url     : https://prove2.me/theorems/157f053d-a510-5c4c-a75a-d00449f89744

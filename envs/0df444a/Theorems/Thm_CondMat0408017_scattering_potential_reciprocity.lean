@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_scattering_potential_reciprocity
 -- name    : CondMat0408017.scattering_potential_reciprocity
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:22:29.58827+00:00
 -- url     : https://prove2.me/theorems/ddfe6055-b73d-57b4-8bd1-acfc745617fd

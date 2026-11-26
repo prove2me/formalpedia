@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_pAdicTopology_le_weakTopology
 -- name    : GroundTheory.PAdicHodge.AInf.pAdicTopology_le_weakTopology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:01:44.07675+00:00
 -- url     : https://prove2.me/theorems/2aa87592-a786-4b77-89cb-b9abac184e8f

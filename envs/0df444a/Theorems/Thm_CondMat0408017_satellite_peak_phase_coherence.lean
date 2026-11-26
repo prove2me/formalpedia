@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_satellite_peak_phase_coherence
 -- name    : CondMat0408017.satellite_peak_phase_coherence
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:23:54.690882+00:00
 -- url     : https://prove2.me/theorems/6262f62c-4dd7-42a5-80d9-e78c6be2e01e

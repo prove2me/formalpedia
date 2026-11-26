@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_residual_key_table
 -- name    : TunnellMap.Examples41.residual_key_table
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:57:54.438049+00:00
 -- url     : https://prove2.me/theorems/e458b8bf-077a-4ecf-ba55-9daced19c50a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_exists_generatorWitness
 -- name    : TunnellMap.exists_generatorWitness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:17:42.895132+00:00
 -- url     : https://prove2.me/theorems/649a0282-5aee-5db6-a332-d7988625dd5a

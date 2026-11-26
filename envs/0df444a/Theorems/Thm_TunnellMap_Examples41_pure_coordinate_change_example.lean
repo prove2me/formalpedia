@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_pure_coordinate_change_example
 -- name    : TunnellMap.Examples41.pure_coordinate_change_example
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:53:48.71561+00:00
 -- url     : https://prove2.me/theorems/02d8ef51-12ea-4c43-b1a0-803a39c44c2e

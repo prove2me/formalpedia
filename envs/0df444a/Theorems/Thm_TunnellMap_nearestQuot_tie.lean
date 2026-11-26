@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_nearestQuot_tie
 -- name    : TunnellMap.nearestQuot_tie
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:51:19.282564+00:00
 -- url     : https://prove2.me/theorems/b1ef22df-1594-4804-bfe9-c7ca52030413

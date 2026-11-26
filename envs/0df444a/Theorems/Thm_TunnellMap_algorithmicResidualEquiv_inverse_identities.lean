@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_algorithmicResidualEquiv_inverse_identities
 -- name    : TunnellMap.algorithmicResidualEquiv_inverse_identities
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:59:35.797747+00:00
 -- url     : https://prove2.me/theorems/0b4ff624-40d0-4199-8e4a-d0f9a97c34d1

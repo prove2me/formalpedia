@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_grid_energy_tightness
 -- name    : Kyprianou.Ch04.ito43_grid_energy_tightness
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T16:52:26.202264+00:00
 -- url     : https://prove2.me/theorems/c08d3f16-048a-4250-b32c-8d61df3b5dfa

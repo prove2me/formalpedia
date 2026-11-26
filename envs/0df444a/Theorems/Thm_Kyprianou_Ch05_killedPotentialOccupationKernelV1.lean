@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotentialOccupationKernelV1
 -- name    : Kyprianou.Ch05.killedPotentialOccupationKernelV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:53:33.71698+00:00
 -- url     : https://prove2.me/theorems/4f485ebf-83f6-4d08-9c2d-adf73d937255

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_directionKey_two_1_neg1_neg1
 -- name    : TunnellMap.Examples41.directionKey_two_1_neg1_neg1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:06:18.326563+00:00
 -- url     : https://prove2.me/theorems/a81a76e1-0e88-41bc-9a32-1180a7321b37

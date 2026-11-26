@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_midpoint_bound_attained
 -- name    : TunnellMap.Examples41.midpoint_bound_attained
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:54:11.32487+00:00
 -- url     : https://prove2.me/theorems/ba72f0c3-e009-404b-b2af-2057229ff861

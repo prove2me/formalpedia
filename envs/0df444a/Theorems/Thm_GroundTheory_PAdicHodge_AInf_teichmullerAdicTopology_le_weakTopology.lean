@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_teichmullerAdicTopology_le_weakTopology
 -- name    : GroundTheory.PAdicHodge.AInf.teichmullerAdicTopology_le_weakTopology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:01:27.182402+00:00
 -- url     : https://prove2.me/theorems/8455bebb-d6e2-52be-b613-2a9c7e1b6e5e

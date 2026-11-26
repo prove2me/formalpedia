@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_enhanced_backscattering_factor_two
 -- name    : CondMat0408017.enhanced_backscattering_factor_two
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:23:21.018147+00:00
 -- url     : https://prove2.me/theorems/b39e435f-c63b-5e77-b50a-05adadccb829

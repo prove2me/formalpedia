@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_bResidual_exists_unique_sign
 -- name    : TunnellMap.bResidual_exists_unique_sign
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:01:31.133579+00:00
 -- url     : https://prove2.me/theorems/32cf1f40-495d-4767-859a-20748f65b5d6

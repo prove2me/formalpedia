@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_isParkingFunction_of_indexed_bounds
 -- name    : TunnellMap.isParkingFunction_of_indexed_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:44:46.136026+00:00
 -- url     : https://prove2.me/theorems/bc62fb46-03ef-489b-b631-6c8a30a4e70f

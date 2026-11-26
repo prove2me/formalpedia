@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_lattice_scalar_data
 -- name    : TunnellMap.Examples41.lattice_scalar_data
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:07:28.97946+00:00
 -- url     : https://prove2.me/theorems/2f71256e-c9a7-4933-b5f8-c2dfa9b43066

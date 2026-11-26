@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_BlockGen_emit_eq_some_iff
 -- name    : TunnellMap.BlockGen.emit_eq_some_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:47:46.803725+00:00
 -- url     : https://prove2.me/theorems/aa09ca83-9ec0-4c4b-893f-e4f68e07aea7

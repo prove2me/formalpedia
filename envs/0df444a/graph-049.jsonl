@@ -65897,7 +65897,7 @@
 {"parent": "TunnellMap_MidpointRecord", "child": "TunnellMap_MidpointBound", "via": ["statement"]}
 {"parent": "Eden.embedFour_mem_attractor", "child": "Eden_TorusAngles", "via": ["solution", "statement"]}
 {"parent": "Eden.embedFour_mem_attractor", "child": "Eden_HausdorffGeometry", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.primary_field_boundary_conditions", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.primary_field_boundary_conditions", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "Eden.secondCircle_unstableRelativeTo", "child": "Eden_NonlinearInstability", "via": ["solution", "statement"]}
 {"parent": "Eden.secondCircle_unstableRelativeTo", "child": "Eden_InstabilityGeometry", "via": ["solution", "statement"]}
 {"parent": "numericalRadius_adjoint_le", "child": "Operator_NumericalRange_Adjoint", "via": ["solution", "statement"]}
@@ -66097,7 +66097,7 @@
 {"parent": "Eden.contDiff_frequencyVectorField", "child": "Eden_Evolution", "via": ["solution", "statement"]}
 {"parent": "Eden.contDiff_frequencyVectorField", "child": "Eden_InvariantSets", "via": ["solution", "statement"]}
 {"parent": "Eden.contDiff_frequencyVectorField", "child": "Eden_FrequencyEvolution", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.incoherent_drc_tmatrix_and_green", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.incoherent_drc_tmatrix_and_green", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "RHHeight1000.rs_main_0313_0324", "child": "RHT1000_Support_20261118_S003", "via": ["statement"]}
 {"parent": "norm_pow_aeval_sub_eval_smul_one_le_two_mul_pow_polynomialSupNorm_sub_C_of_forall_symmetrized_bound", "child": "Operator_NumericalRange_Nonempty", "via": ["solution", "statement"]}
 {"parent": "norm_pow_aeval_sub_eval_smul_one_le_two_mul_pow_polynomialSupNorm_sub_C_of_forall_symmetrized_bound", "child": "Operator_Crouzeix_SmoothSupportDomain", "via": ["solution", "statement"]}
@@ -66870,7 +66870,7 @@
 {"parent": "Eden.log_radialAmplitude_upper_bound", "child": "Eden_IntegerGrowthBounds", "via": ["solution", "statement"]}
 {"parent": "Eden.log_radialAmplitude_upper_bound", "child": "Eden_ExteriorCocycle", "via": ["solution", "statement"]}
 {"parent": "Arxiv2401_10389.forward_model_gradient", "child": "Arxiv2401_10389_Basic", "via": ["statement"]}
-{"parent": "CondMat0408017.unitarity_energy_conservation", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.unitarity_energy_conservation", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "exists_center_minimizing_numericalRadius", "child": "Operator_NumericalRange_RadiusAffine", "via": ["solution", "statement"]}
 {"parent": "exists_center_minimizing_numericalRadius", "child": "Operator_NumericalRange_RadiusAdjoint", "via": ["solution", "statement"]}
 {"parent": "exists_center_minimizing_numericalRadius", "child": "Operator_NumericalRange_Affine", "via": ["solution", "statement"]}
@@ -67013,7 +67013,7 @@
 {"parent": "O3.Stage2RouteA.lineEnergy_eq_quadraticRegularizer", "child": "O3_Stage2RouteA", "via": ["solution", "statement"]}
 {"parent": "Eden.torusPoint_mem", "child": "Eden_TorusAngles", "via": ["solution", "statement"]}
 {"parent": "Eden.torusPoint_mem", "child": "Eden_CircleOrbits", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.sapt_matrix_element_expansion", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.sapt_matrix_element_expansion", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.orthogonalFrameExec_span_unique", "child": "TunnellMap_OrthogonalFrameExistence", "via": ["statement"]}
 {"parent": "TunnellMap.orthogonalFrameExec_span_unique", "child": "TunnellMap_DeterministicFrame", "via": ["statement"]}
 {"parent": "polytopeDirectionalValue_le_roundedSupportCurve_self", "child": "Operator_Crouzeix_PolytopeSoftSupportCurvature", "via": ["solution", "statement"]}
@@ -67954,7 +67954,7 @@
 {"parent": "contDiff_polytopeSoftPartition", "child": "Operator_Crouzeix_PolytopeSoftSupport", "via": ["solution", "statement"]}
 {"parent": "contDiff_polytopeSoftPartition", "child": "Operator_Crouzeix_SmoothJordanPolytopeReduction", "via": ["solution", "statement"]}
 {"parent": "MasulloRH.height_two_interval_checks_mod16_11", "child": "MasulloRH_InteriorEvaluator", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.rms_height_difference_topothesy", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.rms_height_difference_topothesy", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "Eden.secondCircle_ne_secondCircle", "child": "Eden_PeriodicOrbits", "via": ["solution", "statement"]}
 {"parent": "Eden.secondCircle_ne_secondCircle", "child": "Eden_CircleOrbits", "via": ["solution", "statement"]}
 {"parent": "exists_mem_numericalRange_norm_sub_le_norm_sub", "child": "Operator_NumericalRange_Bounded", "via": ["solution", "statement"]}
@@ -68041,7 +68041,7 @@
 {"parent": "Eden.norm_planeProjection", "child": "Eden_InstabilityGeometry", "via": ["solution", "statement"]}
 {"parent": "Arxivcond_mat_0004049.pDiff_mean", "child": "Arxivcond_mat_0004049_Basic", "via": ["solution", "statement"]}
 {"parent": "FourierJacobi.LocalMatrix.all_two_by_two_minors", "child": "FourierJacobi_Algebra_Matrices", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.leakage_suppression", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.leakage_suppression", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "Eden.supremumExponentSum_five", "child": "Eden_DimensionTable", "via": ["solution", "statement"]}
 {"parent": "Eden.supremumExponentSum_five", "child": "Eden_ExponentSums", "via": ["solution", "statement"]}
 {"parent": "numericalRadius_neg", "child": "Operator_NumericalRange_Radius", "via": ["solution", "statement"]}
@@ -68670,7 +68670,7 @@
 {"parent": "Eden.continuousOn_volumeDefect_integrand", "child": "Eden_Uniqueness", "via": ["solution", "statement"]}
 {"parent": "Eden.fderiv_evolution_bijective", "child": "Eden_DerivativeFrames", "via": ["solution", "statement"]}
 {"parent": "Eden.fderiv_evolution_bijective", "child": "Eden_DerivativeDecomposition", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.satellite_peak_phase_coherence", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.satellite_peak_phase_coherence", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "LinearSetReconciliation327_Main_B65_10Setup", "child": "LinearSetReconciliation327_Main_B65_09", "via": ["statement"]}
 {"parent": "LinearSetReconciliation327_Main_B65_10Setup", "child": "LinearSetReconciliation327_Main_HintDecodeBridge20261120", "via": ["statement"]}
 {"parent": "tendsto_crouzeixPolynomialScalarCompanion_inward", "child": "Operator_Crouzeix_ScalarCompanionPlemeljBound", "via": ["solution", "statement"]}
@@ -68913,7 +68913,7 @@
 {"parent": "RHHeight1000.em_main_0041_0041", "child": "RHT1000_Support_20261118_S003", "via": ["statement"]}
 {"parent": "O3.Stage2RouteD.lpPower_factor_eq_lpNorm", "child": "O3_Stage2RouteD", "via": ["solution", "statement"]}
 {"parent": "O3.Stage2RouteD.lpPower_factor_eq_lpNorm", "child": "O3_GeometryExperimental", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.scattering_potential_equation", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.scattering_potential_equation", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.frame_orthogonal", "child": "TunnellMap_OrthogonalFrameExistence", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.frame_orthogonal", "child": "TunnellMap_DeterministicFrame", "via": ["solution", "statement"]}
 {"parent": "crouzeixPolynomialBoundaryPhaseTransform_add", "child": "Operator_Crouzeix_ProductBase", "via": ["solution", "statement"]}
@@ -68994,7 +68994,7 @@
 {"parent": "Arxivcond_mat_0004049.mean_spectral_moment_divergent", "child": "Arxivcond_mat_0004049_Basic", "via": ["solution", "statement"]}
 {"parent": "Eden.frequencyEvolution_unique", "child": "Eden_FrequencyEvolution", "via": ["solution", "statement"]}
 {"parent": "Eden.frequencyEvolution_unique", "child": "Eden_FrequencyUniqueness", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.enhanced_backscattering_factor_two", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.enhanced_backscattering_factor_two", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "Eden.dist_attractorProjection_sq", "child": "Eden_InvariantSets", "via": ["solution", "statement"]}
 {"parent": "Eden.dist_attractorProjection_sq", "child": "Eden_AttractorDistance", "via": ["solution", "statement"]}
 {"parent": "Eden.divergence_eq_rates", "child": "Eden_Divergence", "via": ["solution", "statement"]}
@@ -69928,7 +69928,7 @@
 {"parent": "Eden.planarMovingPerturbation_eq", "child": "Eden_PlanarDerivative", "via": ["solution", "statement"]}
 {"parent": "Eden.multiset_descending", "child": "Eden_OrderedStationarySpectrum", "via": ["solution", "statement"]}
 {"parent": "Eden.multiset_descending", "child": "Eden_Sorting", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.zeroth_order_fresnel", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.zeroth_order_fresnel", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "RHHeight1000.rs_main_0577_0588", "child": "RHT1000_Support_20261118_S003", "via": ["statement"]}
 {"parent": "Eden.commonIndexDimension_eq_target", "child": "Eden_CommonIndex", "via": ["solution", "statement"]}
 {"parent": "Eden.commonIndexDimension_eq_target", "child": "Eden_ExponentSums", "via": ["solution", "statement"]}
@@ -69974,7 +69974,7 @@
 {"parent": "norm_aeval_add_star_crouzeixPolynomialAuxiliaryOperator_ball_le_of_closure_numericalRange_subset_ball", "child": "Operator_Crouzeix_CircleCauchy", "via": ["solution", "statement"]}
 {"parent": "norm_aeval_add_star_crouzeixPolynomialAuxiliaryOperator_ball_le_of_closure_numericalRange_subset_ball", "child": "Operator_Crouzeix_SpectralCauchy", "via": ["solution", "statement"]}
 {"parent": "norm_aeval_add_star_crouzeixPolynomialAuxiliaryOperator_ball_le_of_closure_numericalRange_subset_ball", "child": "Operator_Crouzeix_AffinePolynomial", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.free_electron_spp_dispersion", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.free_electron_spp_dispersion", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "norm_le_one_add_sqrt_two_mul_of_auxiliary_skew_bounds", "child": "Operator_Crouzeix_AuxOperator", "via": ["solution", "statement"]}
 {"parent": "norm_le_one_add_sqrt_two_mul_of_auxiliary_skew_bounds", "child": "Operator_SpectralSet_Normal", "via": ["solution", "statement"]}
 {"parent": "norm_le_one_add_sqrt_two_mul_of_auxiliary_skew_bounds", "child": "Operator_Crouzeix_Palencia", "via": ["solution", "statement"]}
@@ -70110,7 +70110,7 @@
 {"parent": "crouzeix_palencia_of_polynomial_auxiliary_bounds", "child": "Operator_Crouzeix_AuxOperator", "via": ["solution", "statement"]}
 {"parent": "crouzeix_palencia_of_polynomial_auxiliary_bounds", "child": "Operator_SpectralSet_Normal", "via": ["solution", "statement"]}
 {"parent": "crouzeix_palencia_of_polynomial_auxiliary_bounds", "child": "Operator_Crouzeix_Palencia", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.planar_spp_condition", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.planar_spp_condition", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "Operator_NumericalRange_RadiusSpectrum", "child": "Operator_NumericalRange_Radius", "via": ["statement"]}
 {"parent": "Operator_NumericalRange_RadiusSpectrum", "child": "Operator_SpectralSet_SpectrumInNR", "via": ["statement"]}
 {"parent": "Operator_NumericalRange_RadiusSpectrum", "child": "Operator_NumericalRange_Affine", "via": ["statement"]}
@@ -70228,7 +70228,7 @@
 {"parent": "P2M_O3_Stage2RouteB_pairing_add_left__aa498a6aacda", "child": "O3_Geometry", "via": ["solution", "statement"]}
 {"parent": "O3.Stage2RouteC.ballCarlenLieb_at_two", "child": "O3_Stage2RouteC", "via": ["solution", "statement"]}
 {"parent": "O3.Stage2RouteC.ballCarlenLieb_at_two", "child": "O3_Geometry", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.intensity_correlation_decomposition", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.intensity_correlation_decomposition", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "O3.Stage8EuclideanRadius.lpNorm_two_eq_transport_dist", "child": "O3_Stage2RouteC", "via": ["solution", "statement"]}
 {"parent": "O3.Stage8EuclideanRadius.lpNorm_two_eq_transport_dist", "child": "O3_Stage8EuclideanRadius", "via": ["solution", "statement"]}
 {"parent": "O3.Stage8EuclideanRadius.lpNorm_two_eq_transport_dist", "child": "O3_Foundation", "via": ["solution", "statement"]}
@@ -70646,7 +70646,7 @@
 {"parent": "Eden.spectrumPartialSum_nonneg_of_le", "child": "Eden_LogarithmicInterpolation", "via": ["solution", "statement"]}
 {"parent": "Eden.mem_positiveReturnSet_iff", "child": "Eden_PeriodicSets", "via": ["solution", "statement"]}
 {"parent": "Eden.mem_positiveReturnSet_iff", "child": "Eden_RotationReturns", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.log_transmission_localization_length", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.log_transmission_localization_length", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.triplePolynomial_negTriple", "child": "TunnellMap_PrimitiveDirection", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.triplePolynomial_negTriple", "child": "TunnellMap_Antipodal", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.triplePolynomial_negTriple", "child": "TunnellMap_AffineLattice", "via": ["solution", "statement"]}
@@ -71224,7 +71224,7 @@
 {"parent": "TunnellMap.GloballyRanked.exists_unique_stable", "child": "TunnellMap_GloballyRankedExistence", "via": ["solution", "statement"]}
 {"parent": "smoothSupportDirectionalLinearMap_apply", "child": "Operator_Crouzeix_PolytopeSoftSupportCurvature", "via": ["solution", "statement"]}
 {"parent": "smoothSupportDirectionalLinearMap_apply", "child": "Operator_Crouzeix_SmoothSupportEnvelope", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.rre_p_and_s_forms", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.rre_p_and_s_forms", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "FourierJacobi_Valuations_KernelShells", "child": "FourierJacobi_Valuations_KernelIndices", "via": ["statement"]}
 {"parent": "Eden.eventually_dimension_formula_of_neutral_prefix", "child": "Eden_DimensionConvergence", "via": ["solution", "statement"]}
 {"parent": "Eden.eventually_dimension_formula_of_neutral_prefix", "child": "Eden_EventualDimensionFormulas", "via": ["solution", "statement"]}
@@ -71904,7 +71904,7 @@
 {"parent": "Malliavin.BrownianIteratedConstruction.varianceHermite_isMonicOfDegree", "child": "Malliavin_BrownianHermite", "via": ["solution", "statement"]}
 {"parent": "O3.aboveKappaThetaRatio_gt_one", "child": "O3_Foundation", "via": ["solution", "statement"]}
 {"parent": "O3.aboveKappaThetaRatio_gt_one", "child": "O3_AboveTwo", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.planar_spp_green_function", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.planar_spp_green_function", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "Eden.kaplanYorkeIndex_mem", "child": "Eden_KaplanYorke", "via": ["solution", "statement"]}
 {"parent": "Eden.kaplanYorkeIndex_mem", "child": "Eden_LyapunovExponents", "via": ["solution", "statement"]}
 {"parent": "hasSmoothJordanOuterApproximation_of_polytope_case", "child": "Operator_Crouzeix_SmoothJordanOuterApproximationReduction", "via": ["solution", "statement"]}
@@ -72264,7 +72264,7 @@
 {"parent": "neg_star_mem_centeredNumericalRadiusMinimizers_iff", "child": "Operator_NumericalRange_RadiusAffine", "via": ["solution", "statement"]}
 {"parent": "neg_star_mem_centeredNumericalRadiusMinimizers_iff", "child": "Operator_NumericalRange_RadiusAdjoint", "via": ["solution", "statement"]}
 {"parent": "neg_star_mem_centeredNumericalRadiusMinimizers_iff", "child": "Operator_NumericalRange_Affine", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.scattering_potential_reciprocity", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.scattering_potential_reciprocity", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "RHHeight1000.rs_main_0529_0540", "child": "RHT1000_Support_20261118_S003", "via": ["statement"]}
 {"parent": "O3.aboveTrialTrace_extraction_queried", "child": "O3_Foundation", "via": ["solution", "statement"]}
 {"parent": "O3.aboveTrialTrace_extraction_queried", "child": "O3_AboveTwo", "via": ["solution", "statement"]}
@@ -72347,7 +72347,7 @@
 {"parent": "crouzeixBoundaryDoubleLayerDensity_periodic", "child": "Operator_Crouzeix_SmoothJordanSupport", "via": ["solution", "statement"]}
 {"parent": "crouzeixBoundaryDoubleLayerDensity_periodic", "child": "Operator_Crouzeix_ScalarCompanionBoundaryMeasureMass", "via": ["solution", "statement"]}
 {"parent": "crouzeixBoundaryDoubleLayerDensity_periodic", "child": "Operator_Crouzeix_ScalarCompanionBoundaryMeasure", "via": ["solution", "statement"]}
-{"parent": "CondMat0408017.memory_effect_angle_shift", "child": "CondMat0408017_Basic", "via": ["statement"]}
+{"parent": "CondMat0408017.memory_effect_angle_shift", "child": "CondMat0408017_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_Eden_radiusSq__evolution_all_time_7a126d9922b5", "child": "Eden_Evolution", "via": ["solution", "statement"]}
 {"parent": "P2M_Eden_radiusSq__evolution_all_time_7a126d9922b5", "child": "Eden_RadialDynamics", "via": ["solution", "statement"]}
 {"parent": "P2M_Eden_radiusSq__evolution_all_time_7a126d9922b5", "child": "Eden_PhysicalRadius", "via": ["solution", "statement"]}
@@ -96666,9 +96666,9 @@
 {"parent": "norm_inv_two_smul_sub_adjoint_le_numericalRadius", "child": "Operator_NumericalRange_RadiusCartesian", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.Examples41.edgeKey_s4_t3", "child": "TunnellMap_Examples41", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.Examples41.edgeKey_s4_t3", "child": "TunnellMap_Examples41Residual", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.conditionalTunnellMap_exactly_two_of_odd_balance", "child": "TunnellMap_OrbitRanking", "via": ["statement"]}
-{"parent": "TunnellMap.conditionalTunnellMap_exactly_two_of_odd_balance", "child": "TunnellMap_OrbitLift", "via": ["statement"]}
-{"parent": "TunnellMap.conditionalTunnellMap_exactly_two_of_odd_balance", "child": "TunnellMap_Assembly", "via": ["statement"]}
+{"parent": "TunnellMap.conditionalTunnellMap_exactly_two_of_odd_balance", "child": "TunnellMap_OrbitRanking", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.conditionalTunnellMap_exactly_two_of_odd_balance", "child": "TunnellMap_OrbitLift", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.conditionalTunnellMap_exactly_two_of_odd_balance", "child": "TunnellMap_Assembly", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.GloballyRanked.DAState.runCost_component_bounds", "child": "TunnellMap_ControlCost", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.GloballyRanked.DAState.runCost_component_bounds", "child": "TunnellMap_DeferredAcceptanceAccounting", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.D06_attractor_and_torus", "child": "Eden", "via": ["solution", "statement"]}
@@ -96771,11 +96771,11 @@
 {"parent": "TunnellMap.GloballyRanked.DAState.proposalSteps_initial_eq_terminalCursorTotal", "child": "TunnellMap_MatchedOrder", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.periodic_global_growth", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.periodic_global_growth", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.exists_generatorWitness", "child": "TunnellMap_OrthogonalFrameExistence", "via": ["statement"]}
-{"parent": "TunnellMap.exists_generatorWitness", "child": "TunnellMap_GeneratorRecovery", "via": ["statement"]}
-{"parent": "TunnellMap.exists_generatorWitness", "child": "TunnellMap_QuadraticRoots", "via": ["statement"]}
-{"parent": "TunnellMap.exists_generatorWitness", "child": "TunnellMap_MidpointRecord", "via": ["statement"]}
-{"parent": "TunnellMap.exists_generatorWitness", "child": "TunnellMap_TauLattice", "via": ["statement"]}
+{"parent": "TunnellMap.exists_generatorWitness", "child": "TunnellMap_OrthogonalFrameExistence", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.exists_generatorWitness", "child": "TunnellMap_GeneratorRecovery", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.exists_generatorWitness", "child": "TunnellMap_QuadraticRoots", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.exists_generatorWitness", "child": "TunnellMap_MidpointRecord", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.exists_generatorWitness", "child": "TunnellMap_TauLattice", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.GloballyRanked.length_matchedProposalCounts", "child": "TunnellMap_MatchedOrder", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.GloballyRanked.length_matchedProposalCounts", "child": "TunnellMap_ParkingRearrangement", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p02_radialField_pos_between", "child": "Eden", "via": ["solution", "statement"]}
@@ -96815,8 +96815,8 @@
 {"parent": "Kyprianou.Ch04.generalLevyItoFormulaV3", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
 {"parent": "Kyprianou.Ch04.generalLevyItoFormulaV3", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["statement"]}
 {"parent": "Kyprianou.Ch04.generalLevyItoFormulaV3", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
-{"parent": "TunnellMap.reconstructedTarget_same_norm_of_tau", "child": "TunnellMap_GeneratorSoundness", "via": ["statement"]}
-{"parent": "TunnellMap.reconstructedTarget_same_norm_of_tau", "child": "TunnellMap_GeneratorRecovery", "via": ["statement"]}
+{"parent": "TunnellMap.reconstructedTarget_same_norm_of_tau", "child": "TunnellMap_GeneratorSoundness", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.reconstructedTarget_same_norm_of_tau", "child": "TunnellMap_GeneratorRecovery", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.signedPartner_signActA", "child": "TunnellMap_ComputableDirection", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.signedPartner_signActA", "child": "TunnellMap_CanonicalSignLift", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.signedPartner_signActA", "child": "TunnellMap_OrbitLift", "via": ["solution", "statement"]}
@@ -99170,8 +99170,8 @@
 {"parent": "Kyprianou.Ch04.ito43_small_time_dyadic_bound", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.ito43_small_time_dyadic_bound", "child": "AvramDividend.Classical.dyadic_ceiling_time_ge_nnreal", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.ito43_small_time_dyadic_bound", "child": "Kyprianou.Ch04.ito43_compact_kernel_bound", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.GloballyRanked.partialStable_unique", "child": "TunnellMap_GloballyRankedExistence", "via": ["statement"]}
-{"parent": "TunnellMap.GloballyRanked.partialStable_unique", "child": "TunnellMap_PartialStableMatching", "via": ["statement"]}
+{"parent": "TunnellMap.GloballyRanked.partialStable_unique", "child": "TunnellMap_GloballyRankedExistence", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.GloballyRanked.partialStable_unique", "child": "TunnellMap_PartialStableMatching", "via": ["solution", "statement"]}
 {"parent": "TunnellMap_ComputablePipeline", "child": "P2M_TunnellMap_orthogonalFrameExec_e__5f3ec14b19af", "via": ["statement"]}
 {"parent": "TunnellMap_ComputablePipeline", "child": "P2M_TunnellMap_orthogonalFrameExec_e__63bfe0839bbf", "via": ["statement"]}
 {"parent": "TunnellMap_ComputablePipeline", "child": "TunnellMap.assemble_inl", "via": ["statement"]}
@@ -99263,10 +99263,10 @@
 {"parent": "TunnellMap.RecordDA.residualMapExec_eq", "child": "TunnellMap_ComputableRoster", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.residualMapExec_eq", "child": "TunnellMap_LagrangeGauss", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.residualMapExec_eq", "child": "TunnellMap_DeterministicFrame", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.Examples41.short_interval_unique_integer", "child": "TunnellMap_Examples41Residual", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.short_interval_unique_integer", "child": "TunnellMap_Examples41Generator", "via": ["statement"]}
-{"parent": "TunnellMap.targetRosterExec_pairwise", "child": "TunnellMap_ComputableTargetRoster", "via": ["statement"]}
-{"parent": "TunnellMap.targetRosterExec_pairwise", "child": "TunnellMap_ComputableRoster", "via": ["statement"]}
+{"parent": "TunnellMap.Examples41.short_interval_unique_integer", "child": "TunnellMap_Examples41Residual", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.short_interval_unique_integer", "child": "TunnellMap_Examples41Generator", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.targetRosterExec_pairwise", "child": "TunnellMap_ComputableTargetRoster", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.targetRosterExec_pairwise", "child": "TunnellMap_ComputableRoster", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.s04_exteriorOperator_comp", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.s04_exteriorOperator_comp", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49CounterexampleFromAdmissibleModelV3", "child": "Kyprianou_Ch04_Exercise4_9Certification", "via": ["solution", "statement"]}
@@ -99275,22 +99275,22 @@
 {"parent": "EdenVerified.p03_tendsto_radiusEvolution_one_iff", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p03_tendsto_radiusEvolution_one_iff", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "Poly1305DebianCt.relOk_poly1305_update_v2", "child": "Poly1305DebianCt_Spec", "via": ["statement"]}
-{"parent": "TunnellMap.BlockGen.fullTrace_exactly_once", "child": "TunnellMap_BlockGenerator", "via": ["statement"]}
-{"parent": "TunnellMap.BlockGen.fullTrace_exactly_once", "child": "TunnellMap_BlockGeneratorCorrect", "via": ["statement"]}
+{"parent": "TunnellMap.BlockGen.fullTrace_exactly_once", "child": "TunnellMap_BlockGenerator", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.BlockGen.fullTrace_exactly_once", "child": "TunnellMap_BlockGeneratorCorrect", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49StoppedDeficitFutureProductV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.bResidual_exists_unique_sign", "child": "TunnellMap_ComputableDirection", "via": ["statement"]}
-{"parent": "TunnellMap.bResidual_exists_unique_sign", "child": "TunnellMap_OrbitLift", "via": ["statement"]}
-{"parent": "TunnellMap.bResidual_exists_unique_sign", "child": "TunnellMap_ResidualTargetTest", "via": ["statement"]}
-{"parent": "TunnellMap.bResidual_exists_unique_sign", "child": "TunnellMap_CanonicalSignLift", "via": ["statement"]}
+{"parent": "TunnellMap.bResidual_exists_unique_sign", "child": "TunnellMap_ComputableDirection", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.bResidual_exists_unique_sign", "child": "TunnellMap_OrbitLift", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.bResidual_exists_unique_sign", "child": "TunnellMap_ResidualTargetTest", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.bResidual_exists_unique_sign", "child": "TunnellMap_CanonicalSignLift", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p26_asymptoticDimension_first_outer_circle", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p26_asymptoticDimension_first_outer_circle", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p13_fderiv_evolution_radialFrame", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p13_fderiv_evolution_radialFrame", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.Examples41.pure_coordinate_change_example", "child": "TunnellMap_ResidualDeferredAcceptance", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.pure_coordinate_change_example", "child": "TunnellMap_ControlCost", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.pure_coordinate_change_example", "child": "TunnellMap_Examples41", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.pure_coordinate_change_example", "child": "TunnellMap_Finiteness", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.pure_coordinate_change_example", "child": "TunnellMap_PureCoordinates", "via": ["statement"]}
+{"parent": "TunnellMap.Examples41.pure_coordinate_change_example", "child": "TunnellMap_ResidualDeferredAcceptance", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.pure_coordinate_change_example", "child": "TunnellMap_ControlCost", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.pure_coordinate_change_example", "child": "TunnellMap_Examples41", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.pure_coordinate_change_example", "child": "TunnellMap_Finiteness", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.pure_coordinate_change_example", "child": "TunnellMap_PureCoordinates", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p21_tendsto_radialRate_average", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p21_tendsto_radialRate_average", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "TunnellMap_KernelFullMap", "child": "TunnellMap_KernelPipeline", "via": ["statement"]}
@@ -99312,8 +99312,8 @@
 {"parent": "TunnellMap.sourceRoster_pairwise", "child": "TunnellMap_CanonicalSignLift", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.sourceRoster_pairwise", "child": "TunnellMap_ComputableRoster", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49PhysicalDepthWitnessV1", "child": "Kyprianou_Ch04_Exercise4_9CertificationV3", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.mem_bResidualTriples_iff", "child": "TunnellMap_ComputableCounting", "via": ["statement"]}
-{"parent": "TunnellMap.mem_bResidualTriples_iff", "child": "TunnellMap_ComputableTargetRoster", "via": ["statement"]}
+{"parent": "TunnellMap.mem_bResidualTriples_iff", "child": "TunnellMap_ComputableCounting", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.mem_bResidualTriples_iff", "child": "TunnellMap_ComputableTargetRoster", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p07_empty_not_uniformlyAttractsBounded", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p07_empty_not_uniformlyAttractsBounded", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49AllPathDepthWitnessV1", "child": "Kyprianou_Ch04_Exercise4_9CertificationV3", "via": ["solution", "statement"]}
@@ -99324,17 +99324,17 @@
 {"parent": "TunnellMap.BlockGen.blocksFromK_eq", "child": "TunnellMap_LagrangeGauss", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.blocksFromK_eq", "child": "TunnellMap_KernelArith", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.blocksFromK_eq", "child": "TunnellMap_BlockGeneratorCorrect", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.Examples41.lattice_roots_example", "child": "TunnellMap_Examples41Residual", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.lattice_roots_example", "child": "TunnellMap_Examples41Generator", "via": ["statement"]}
-{"parent": "TunnellMap.aResidual_exists_unique_sign", "child": "TunnellMap_ComputableDirection", "via": ["statement"]}
-{"parent": "TunnellMap.aResidual_exists_unique_sign", "child": "TunnellMap_OrbitLift", "via": ["statement"]}
-{"parent": "TunnellMap.aResidual_exists_unique_sign", "child": "TunnellMap_ResidualTargetTest", "via": ["statement"]}
-{"parent": "TunnellMap.aResidual_exists_unique_sign", "child": "TunnellMap_CanonicalSignLift", "via": ["statement"]}
+{"parent": "TunnellMap.Examples41.lattice_roots_example", "child": "TunnellMap_Examples41Residual", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.lattice_roots_example", "child": "TunnellMap_Examples41Generator", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.aResidual_exists_unique_sign", "child": "TunnellMap_ComputableDirection", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.aResidual_exists_unique_sign", "child": "TunnellMap_OrbitLift", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.aResidual_exists_unique_sign", "child": "TunnellMap_ResidualTargetTest", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.aResidual_exists_unique_sign", "child": "TunnellMap_CanonicalSignLift", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49EmbeddedIdentDistribV3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.advance_cons", "child": "TunnellMap_BlockGeneratorState", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.advance_cons", "child": "TunnellMap_BlockGeneratorCorrect", "via": ["solution", "statement"]}
-{"parent": "TunnellChallenge.registeredResidualMatching_stable", "child": "TunnellMap_Solution", "via": ["statement"]}
-{"parent": "TunnellChallenge.registeredResidualMatching_stable", "child": "TunnellMap_BranchSpec", "via": ["statement"]}
+{"parent": "TunnellChallenge.registeredResidualMatching_stable", "child": "TunnellMap_Solution", "via": ["solution", "statement"]}
+{"parent": "TunnellChallenge.registeredResidualMatching_stable", "child": "TunnellMap_BranchSpec", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.recordOf_sign_eq_one_or_neg_one", "child": "TunnellMap_BlockGenerator", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.recordOf_sign_eq_one_or_neg_one", "child": "TunnellMap_BlockGeneratorCorrect", "via": ["solution", "statement"]}
 {"parent": "DirectedHamiltonicity.Main.augmented_laplacian_berkowitz_coefficients", "child": "BipHamCount.Deterministic.berkowitz_bit_bounds", "via": ["solution", "statement"]}
@@ -99378,26 +99378,26 @@
 {"parent": "TunnellMap.mem_targetRosterExec_of_canonical", "child": "TunnellMap_ComputableTargetRoster", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.mem_targetRosterExec_of_canonical", "child": "TunnellMap_ComputableRoster", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49SurvivalClockIffV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.RecordDA.oneBlockAll_terminalRun", "child": "TunnellMap_RecordDeferredAcceptance", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.oneBlockAll_terminalRun", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.b_slice_counts", "child": "TunnellMap_ResidualDeferredAcceptance", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.b_slice_counts", "child": "TunnellMap_ControlCost", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.b_slice_counts", "child": "TunnellMap_Examples41", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.b_slice_counts", "child": "TunnellMap_Finiteness", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.b_slice_counts", "child": "TunnellMap_PureCoordinates", "via": ["statement"]}
+{"parent": "TunnellMap.RecordDA.oneBlockAll_terminalRun", "child": "TunnellMap_RecordDeferredAcceptance", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.oneBlockAll_terminalRun", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.b_slice_counts", "child": "TunnellMap_ResidualDeferredAcceptance", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.b_slice_counts", "child": "TunnellMap_ControlCost", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.b_slice_counts", "child": "TunnellMap_Examples41", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.b_slice_counts", "child": "TunnellMap_Finiteness", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.b_slice_counts", "child": "TunnellMap_PureCoordinates", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p26_geometricPeriodicOrbits_eq", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p26_geometricPeriodicOrbits_eq", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.targetLiftSign_eq_aResidualSign", "child": "TunnellMap_ComputableDirection", "via": ["statement"]}
-{"parent": "TunnellMap.targetLiftSign_eq_aResidualSign", "child": "TunnellMap_OrbitLift", "via": ["statement"]}
-{"parent": "TunnellMap.targetLiftSign_eq_aResidualSign", "child": "TunnellMap_ResidualTargetTest", "via": ["statement"]}
-{"parent": "TunnellMap.targetLiftSign_eq_aResidualSign", "child": "TunnellMap_CanonicalSignLift", "via": ["statement"]}
+{"parent": "TunnellMap.targetLiftSign_eq_aResidualSign", "child": "TunnellMap_ComputableDirection", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.targetLiftSign_eq_aResidualSign", "child": "TunnellMap_OrbitLift", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.targetLiftSign_eq_aResidualSign", "child": "TunnellMap_ResidualTargetTest", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.targetLiftSign_eq_aResidualSign", "child": "TunnellMap_CanonicalSignLift", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.ito43_spatial_compact_taylor", "child": "Kyprianou.Ch04.ito43_spatial_taylor_modulus", "via": ["solution", "statement"]}
 {"parent": "GRH.dirichlet_grid_of_weighted_prefix_cover", "child": "GRH_DirichletPrefix", "via": ["statement"]}
 {"parent": "GRH.dirichlet_grid_of_weighted_prefix_cover", "child": "GRH_DirichletGrid", "via": ["statement"]}
-{"parent": "TunnellMap.GloballyRanked.DAState.auxiliaryRecordSlots_le_four_mul", "child": "TunnellMap_MatchedOrder", "via": ["statement"]}
-{"parent": "TunnellMap.GloballyRanked.DAState.auxiliaryRecordSlots_le_four_mul", "child": "TunnellMap_DeferredAcceptanceStability", "via": ["statement"]}
-{"parent": "TunnellMap.GloballyRanked.DAState.auxiliaryRecordSlots_le_four_mul", "child": "TunnellMap_PreferenceListPosition", "via": ["statement"]}
-{"parent": "TunnellMap.GloballyRanked.DAState.auxiliaryRecordSlots_le_four_mul", "child": "TunnellMap_DeferredAcceptanceAccounting", "via": ["statement"]}
+{"parent": "TunnellMap.GloballyRanked.DAState.auxiliaryRecordSlots_le_four_mul", "child": "TunnellMap_MatchedOrder", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.GloballyRanked.DAState.auxiliaryRecordSlots_le_four_mul", "child": "TunnellMap_DeferredAcceptanceStability", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.GloballyRanked.DAState.auxiliaryRecordSlots_le_four_mul", "child": "TunnellMap_PreferenceListPosition", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.GloballyRanked.DAState.auxiliaryRecordSlots_le_four_mul", "child": "TunnellMap_DeferredAcceptanceAccounting", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
 {"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
 {"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
@@ -99407,8 +99407,8 @@
 {"parent": "Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
 {"parent": "EdenVerified.p14_rates_sum", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p14_rates_sum", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.GloballyRanked.sharpProposalCount_total_mul_two", "child": "TunnellMap_Sharpness", "via": ["statement"]}
-{"parent": "TunnellMap.GloballyRanked.sharpProposalCount_total_mul_two", "child": "TunnellMap_ParkingRearrangement", "via": ["statement"]}
+{"parent": "TunnellMap.GloballyRanked.sharpProposalCount_total_mul_two", "child": "TunnellMap_Sharpness", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.GloballyRanked.sharpProposalCount_total_mul_two", "child": "TunnellMap_ParkingRearrangement", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49GatedDriftModelV5", "child": "levy_foundations_compoundPoisson", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49GatedDriftModelV5", "child": "levy_foundations_exponent", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49GatedDriftModelV5", "child": "levy_foundations_isCompoundPoissonDriver", "via": ["solution", "statement"]}
@@ -99454,20 +99454,20 @@
 {"parent": "spectralRadius_le_numericalRadius", "child": "Operator_NumericalRange_Radius", "via": ["solution", "statement"]}
 {"parent": "spectralRadius_le_numericalRadius", "child": "Operator_NumericalRange_RadiusSpectrum", "via": ["solution", "statement"]}
 {"parent": "spectralRadius_le_numericalRadius", "child": "Operator_NumericalRange_Affine", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.RecordDA.inverseByRerunExecTotal_residualMapExecTotal", "child": "TunnellMap_FallbackFreeMap", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.inverseByRerunExecTotal_residualMapExecTotal", "child": "TunnellMap_ComputableFullMap", "via": ["statement"]}
+{"parent": "TunnellMap.RecordDA.inverseByRerunExecTotal_residualMapExecTotal", "child": "TunnellMap_FallbackFreeMap", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.inverseByRerunExecTotal_residualMapExecTotal", "child": "TunnellMap_ComputableFullMap", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49StoppedDeficitFutureProductCompleteV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.RecordDA.terminalRunExec_queue_nil", "child": "TunnellMap_ComputablePipeline", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.terminalRunExec_queue_nil", "child": "TunnellMap_InverseByRerun", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.terminalRunExec_queue_nil", "child": "TunnellMap_ComputableRoster", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.terminalRunExec_queue_nil", "child": "TunnellMap_LagrangeGauss", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.terminalRunExec_queue_nil", "child": "TunnellMap_DeterministicFrame", "via": ["statement"]}
+{"parent": "TunnellMap.RecordDA.terminalRunExec_queue_nil", "child": "TunnellMap_ComputablePipeline", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.terminalRunExec_queue_nil", "child": "TunnellMap_InverseByRerun", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.terminalRunExec_queue_nil", "child": "TunnellMap_ComputableRoster", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.terminalRunExec_queue_nil", "child": "TunnellMap_LagrangeGauss", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.terminalRunExec_queue_nil", "child": "TunnellMap_DeterministicFrame", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.mem_targetRosterUnsorted_iff", "child": "TunnellMap_ComputableTargetRoster", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.mem_targetRosterUnsorted_iff", "child": "TunnellMap_ComputableRoster", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.paperTunnellMapExec_exactly_two", "child": "TunnellMap_ComputableDirect", "via": ["statement"]}
-{"parent": "TunnellMap.paperTunnellMapExec_exactly_two", "child": "TunnellMap_ComputableFullMap", "via": ["statement"]}
-{"parent": "TunnellMap.paperTunnellMapExec_exactly_two", "child": "TunnellMap_ComputablePipeline", "via": ["statement"]}
-{"parent": "TunnellMap.paperTunnellMapExec_exactly_two", "child": "TunnellMap_FullAssembly", "via": ["statement"]}
+{"parent": "TunnellMap.paperTunnellMapExec_exactly_two", "child": "TunnellMap_ComputableDirect", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.paperTunnellMapExec_exactly_two", "child": "TunnellMap_ComputableFullMap", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.paperTunnellMapExec_exactly_two", "child": "TunnellMap_ComputablePipeline", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.paperTunnellMapExec_exactly_two", "child": "TunnellMap_FullAssembly", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.directDomainExec_rep", "child": "TunnellMap_ComputableDirect", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.directDomainExec_rep", "child": "TunnellMap_ResidualBalance", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.directDomainExec_rep", "child": "TunnellMap_ComputableRoster", "via": ["solution", "statement"]}
@@ -99496,11 +99496,11 @@
 {"parent": "Kyprianou.Ch05.unkilledPassageFinite_nullMeasurable", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.unkilledPassageFinite_nullMeasurable", "child": "Kyprianou_Ch05_ExponentialPassageMoments", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.unkilledPassageFinite_nullMeasurable", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.RecordDA.residualMapExec_bijective", "child": "TunnellMap_ComputablePipeline", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.residualMapExec_bijective", "child": "TunnellMap_InverseByRerun", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.residualMapExec_bijective", "child": "TunnellMap_ComputableRoster", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.residualMapExec_bijective", "child": "TunnellMap_LagrangeGauss", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.residualMapExec_bijective", "child": "TunnellMap_DeterministicFrame", "via": ["statement"]}
+{"parent": "TunnellMap.RecordDA.residualMapExec_bijective", "child": "TunnellMap_ComputablePipeline", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.residualMapExec_bijective", "child": "TunnellMap_InverseByRerun", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.residualMapExec_bijective", "child": "TunnellMap_ComputableRoster", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.residualMapExec_bijective", "child": "TunnellMap_LagrangeGauss", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.residualMapExec_bijective", "child": "TunnellMap_DeterministicFrame", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.inverseByRerun_rerun", "child": "TunnellMap_InverseByRerun", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.inverseByRerun_rerun", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.inverseByRerun_rerun", "child": "TunnellMap_RecordSign", "via": ["solution", "statement"]}
@@ -99517,20 +99517,20 @@
 {"parent": "Kyprianou.Ch04.exercise49UniformDriverCountBoundV5", "child": "levy_foundations_isCompoundPoissonDriver", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49UniformDriverCountBoundV5", "child": "levy_foundations_compoundPoissonTripleGivenLevyMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49UniformDriverCountBoundV5", "child": "Kyprianou_Ch04_Exercise4_9Certification", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.signActB_neg_sign", "child": "TunnellMap_ComputableDirection", "via": ["statement"]}
-{"parent": "TunnellMap.signActB_neg_sign", "child": "TunnellMap_OrbitLift", "via": ["statement"]}
-{"parent": "TunnellMap.signActB_neg_sign", "child": "TunnellMap_ResidualTargetTest", "via": ["statement"]}
-{"parent": "TunnellMap.signActB_neg_sign", "child": "TunnellMap_CanonicalSignLift", "via": ["statement"]}
+{"parent": "TunnellMap.signActB_neg_sign", "child": "TunnellMap_ComputableDirection", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.signActB_neg_sign", "child": "TunnellMap_OrbitLift", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.signActB_neg_sign", "child": "TunnellMap_ResidualTargetTest", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.signActB_neg_sign", "child": "TunnellMap_CanonicalSignLift", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise45SuppliedCutoffMartingaleV1", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.terminalRun_held_sign", "child": "TunnellMap_InverseByRerun", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.terminalRun_held_sign", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.terminalRun_held_sign", "child": "TunnellMap_RecordSign", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.reduceFrame_gram_det", "child": "TunnellMap_LagrangeGauss", "via": ["statement"]}
-{"parent": "TunnellMap.reduceFrame_gram_det", "child": "TunnellMap_ResidualTargetTest", "via": ["statement"]}
-{"parent": "TunnellMap.reduceFrame_gram_det", "child": "TunnellMap_ReducedBasisBound", "via": ["statement"]}
-{"parent": "TunnellMap.reduceFrame_gram_det", "child": "TunnellMap_DeterministicFrame", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.advance_isNone_iff", "child": "TunnellMap_RecordDeferredAcceptance", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.advance_isNone_iff", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["statement"]}
+{"parent": "TunnellMap.reduceFrame_gram_det", "child": "TunnellMap_LagrangeGauss", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.reduceFrame_gram_det", "child": "TunnellMap_ResidualTargetTest", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.reduceFrame_gram_det", "child": "TunnellMap_ReducedBasisBound", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.reduceFrame_gram_det", "child": "TunnellMap_DeterministicFrame", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.advance_isNone_iff", "child": "TunnellMap_RecordDeferredAcceptance", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.advance_isNone_iff", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["solution", "statement"]}
 {"parent": "GRH.first_two_dirichlet_grids_at_small_levels", "child": "GRH_DirichletPeriod", "via": ["statement"]}
 {"parent": "GRH.first_two_dirichlet_grids_at_small_levels", "child": "GRH_DirichletGrid", "via": ["statement"]}
 {"parent": "GRH.primitive_dirichlet_grids_outside_period_covers", "child": "GRH_DirichletPeriod", "via": ["statement"]}
@@ -99563,18 +99563,18 @@
 {"parent": "Kyprianou.Ch04.ito43_small_time_increment_envelope", "child": "Kyprianou.Ch04.ito43_compact_kernel_bound", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p19_singularValueFunction_evolution_at_target", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p19_singularValueFunction_evolution_at_target", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.ito43_spatial_excess_small_tail", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_spatial_excess_small_tail", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_spatial_excess_small_tail", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_spatial_excess_small_tail", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_spatial_excess_small_tail", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_spatial_excess_small_tail", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_spatial_excess_small_tail", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_spatial_excess_small_tail", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_spatial_excess_small_tail", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_spatial_excess_small_tail", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_spatial_excess_small_tail", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_spatial_excess_small_tail", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_spatial_excess_small_tail", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_spatial_excess_small_tail", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p23_asymptoticDimension_le_target", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p23_asymptoticDimension_le_target", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "GRH.primitive_dirichlet_grids_outside_both_prefix_tests", "child": "GRH_DirichletPrefix", "via": ["statement"]}
-{"parent": "GRH.primitive_dirichlet_grids_outside_both_prefix_tests", "child": "GRH_DirichletPeriod", "via": ["statement"]}
-{"parent": "GRH.primitive_dirichlet_grids_outside_both_prefix_tests", "child": "GRH_DirichletGrid", "via": ["statement"]}
+{"parent": "GRH.primitive_dirichlet_grids_outside_both_prefix_tests", "child": "GRH_DirichletPrefix", "via": ["solution", "statement"]}
+{"parent": "GRH.primitive_dirichlet_grids_outside_both_prefix_tests", "child": "GRH_DirichletPeriod", "via": ["solution", "statement"]}
+{"parent": "GRH.primitive_dirichlet_grids_outside_both_prefix_tests", "child": "GRH_DirichletGrid", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p09_toMatrix_fderiv_planarVectorField", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p09_toMatrix_fderiv_planarVectorField", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "GRH.explicit_small_conductor_period_covers", "child": "GRH_DirichletPeriod", "via": ["solution", "statement"]}
@@ -99588,22 +99588,22 @@
 {"parent": "TunnellMap.mem_sourceRoster_iff", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.mem_sourceRoster_iff", "child": "TunnellMap_CanonicalSignLift", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.mem_sourceRoster_iff", "child": "TunnellMap_ComputableRoster", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.RecordDA.residualMapExecOpt_inverseByRerunExecTotal", "child": "TunnellMap_FallbackFreeMap", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.residualMapExecOpt_inverseByRerunExecTotal", "child": "TunnellMap_ComputableFullMap", "via": ["statement"]}
-{"parent": "TunnellMap.algorithmicResidualEquiv_inverse_identities", "child": "TunnellMap_OrderedGenerator", "via": ["statement"]}
-{"parent": "TunnellMap.algorithmicResidualEquiv_inverse_identities", "child": "TunnellMap_DeferredAcceptanceStability", "via": ["statement"]}
-{"parent": "TunnellMap.algorithmicResidualEquiv_inverse_identities", "child": "TunnellMap_OrbitLift", "via": ["statement"]}
-{"parent": "TunnellMap.algorithmicResidualEquiv_inverse_identities", "child": "TunnellMap_ResidualDeferredAcceptance", "via": ["statement"]}
+{"parent": "TunnellMap.RecordDA.residualMapExecOpt_inverseByRerunExecTotal", "child": "TunnellMap_FallbackFreeMap", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.residualMapExecOpt_inverseByRerunExecTotal", "child": "TunnellMap_ComputableFullMap", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.algorithmicResidualEquiv_inverse_identities", "child": "TunnellMap_OrderedGenerator", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.algorithmicResidualEquiv_inverse_identities", "child": "TunnellMap_DeferredAcceptanceStability", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.algorithmicResidualEquiv_inverse_identities", "child": "TunnellMap_OrbitLift", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.algorithmicResidualEquiv_inverse_identities", "child": "TunnellMap_ResidualDeferredAcceptance", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49RightContRestrictedLawV6", "child": "Kyprianou_Ch04_Exercise4_9CertificationV3", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49RightContRestrictedLawV6", "child": "Kyprianou_Ch01_McKeanBrownianStopping", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49RightContRestrictedLawV6", "child": "PerfCorrMSQ_NaturalFiltration", "via": ["solution", "statement"]}
 {"parent": "GRH.finite_grids_strictly_beyond_initial_gaps", "child": "GRH_DirichletPeriod", "via": ["statement"]}
 {"parent": "GRH.finite_grids_strictly_beyond_initial_gaps", "child": "GRH_DirichletGrid", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.bRepresentations41_complete", "child": "TunnellMap_ResidualDeferredAcceptance", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.bRepresentations41_complete", "child": "TunnellMap_ControlCost", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.bRepresentations41_complete", "child": "TunnellMap_Examples41", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.bRepresentations41_complete", "child": "TunnellMap_Finiteness", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.bRepresentations41_complete", "child": "TunnellMap_PureCoordinates", "via": ["statement"]}
+{"parent": "TunnellMap.Examples41.bRepresentations41_complete", "child": "TunnellMap_ResidualDeferredAcceptance", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.bRepresentations41_complete", "child": "TunnellMap_ControlCost", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.bRepresentations41_complete", "child": "TunnellMap_Examples41", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.bRepresentations41_complete", "child": "TunnellMap_Finiteness", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.bRepresentations41_complete", "child": "TunnellMap_PureCoordinates", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.intIccL_pairwise_lt", "child": "TunnellMap_KernelGenerator", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.intIccL_pairwise_lt", "child": "TunnellMap_LagrangeGauss", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.intIccL_pairwise_lt", "child": "TunnellMap_KernelArith", "via": ["solution", "statement"]}
@@ -99617,10 +99617,10 @@
 {"parent": "TunnellMap.RecordDA.bResidualSignExec_eq", "child": "TunnellMap_LagrangeGauss", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.bResidualSignExec_eq", "child": "TunnellMap_DeterministicFrame", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49CounterexampleFromSpikeExtensionV3", "child": "Kyprianou_Ch04_Exercise4_9Certification", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.residualDeferredAcceptance_rerun", "child": "TunnellMap_OrderedGenerator", "via": ["statement"]}
-{"parent": "TunnellMap.residualDeferredAcceptance_rerun", "child": "TunnellMap_DeferredAcceptanceStability", "via": ["statement"]}
-{"parent": "TunnellMap.residualDeferredAcceptance_rerun", "child": "TunnellMap_OrbitLift", "via": ["statement"]}
-{"parent": "TunnellMap.residualDeferredAcceptance_rerun", "child": "TunnellMap_ResidualDeferredAcceptance", "via": ["statement"]}
+{"parent": "TunnellMap.residualDeferredAcceptance_rerun", "child": "TunnellMap_OrderedGenerator", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.residualDeferredAcceptance_rerun", "child": "TunnellMap_DeferredAcceptanceStability", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.residualDeferredAcceptance_rerun", "child": "TunnellMap_OrbitLift", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.residualDeferredAcceptance_rerun", "child": "TunnellMap_ResidualDeferredAcceptance", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p22_tendsto_normalizedLogSingularValues", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p22_tendsto_normalizedLogSingularValues", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.terminalRunExec_eq", "child": "TunnellMap_ComputablePipeline", "via": ["solution", "statement"]}
@@ -99632,8 +99632,8 @@
 {"parent": "EdenVerified.p06_radiusEvolution_antitoneOn", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p07_attractor_minimal", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p07_attractor_minimal", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.paperTunnellMapTotal_residual_target", "child": "TunnellMap_FallbackFreeMap", "via": ["statement"]}
-{"parent": "TunnellMap.paperTunnellMapTotal_residual_target", "child": "TunnellMap_BranchSpec", "via": ["statement"]}
+{"parent": "TunnellMap.paperTunnellMapTotal_residual_target", "child": "TunnellMap_FallbackFreeMap", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.paperTunnellMapTotal_residual_target", "child": "TunnellMap_BranchSpec", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.blockIndexListK_eq", "child": "TunnellMap_KernelGenerator", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.blockIndexListK_eq", "child": "TunnellMap_LagrangeGauss", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.blockIndexListK_eq", "child": "TunnellMap_KernelArith", "via": ["solution", "statement"]}
@@ -99642,51 +99642,51 @@
 {"parent": "EdenVerified.p04_exists_global_forward_solution", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p04_exists_global_forward_solution", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49DenseRightEqualityV4", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.GloballyRanked.DAState.runCost_linear_bounds", "child": "TunnellMap_ControlCost", "via": ["statement"]}
-{"parent": "TunnellMap.GloballyRanked.DAState.runCost_linear_bounds", "child": "TunnellMap_DeferredAcceptanceAccounting", "via": ["statement"]}
-{"parent": "TunnellChallenge.registeredResidualMatching_unique", "child": "TunnellMap_Solution", "via": ["statement"]}
-{"parent": "TunnellChallenge.registeredResidualMatching_unique", "child": "TunnellMap_BranchSpec", "via": ["statement"]}
+{"parent": "TunnellMap.GloballyRanked.DAState.runCost_linear_bounds", "child": "TunnellMap_ControlCost", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.GloballyRanked.DAState.runCost_linear_bounds", "child": "TunnellMap_DeferredAcceptanceAccounting", "via": ["solution", "statement"]}
+{"parent": "TunnellChallenge.registeredResidualMatching_unique", "child": "TunnellMap_Solution", "via": ["solution", "statement"]}
+{"parent": "TunnellChallenge.registeredResidualMatching_unique", "child": "TunnellMap_BranchSpec", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.isLevyProcess_completion", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.RecordDA.residualMapExecTotal_inverseByRerunExecTotal", "child": "TunnellMap_FallbackFreeMap", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.residualMapExecTotal_inverseByRerunExecTotal", "child": "TunnellMap_ComputableFullMap", "via": ["statement"]}
+{"parent": "TunnellMap.RecordDA.residualMapExecTotal_inverseByRerunExecTotal", "child": "TunnellMap_FallbackFreeMap", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.residualMapExecTotal_inverseByRerunExecTotal", "child": "TunnellMap_ComputableFullMap", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedPotential_expIntegrableOn", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedPotential_expIntegrableOn", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedPotential_expIntegrableOn", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedPotential_expIntegrableOn", "child": "Kyprianou_Ch05_ExponentialPassageMoments", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedPotential_expIntegrableOn", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.RecordDA.canonicalResidualMap_bijective", "child": "TunnellMap_InverseByRerun", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.canonicalResidualMap_bijective", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.canonicalResidualMap_bijective", "child": "TunnellMap_RecordSign", "via": ["statement"]}
+{"parent": "TunnellMap.RecordDA.canonicalResidualMap_bijective", "child": "TunnellMap_InverseByRerun", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.canonicalResidualMap_bijective", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.canonicalResidualMap_bijective", "child": "TunnellMap_RecordSign", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49DepthCDFAndZeroV1", "child": "Kyprianou_Ch04_Exercise4_9CertificationV3", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p28_zero_zero_limit", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p28_zero_zero_limit", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.Examples41.midpoint_example", "child": "TunnellMap_ResidualDeferredAcceptance", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.midpoint_example", "child": "TunnellMap_ControlCost", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.midpoint_example", "child": "TunnellMap_Examples41", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.midpoint_example", "child": "TunnellMap_Finiteness", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.midpoint_example", "child": "TunnellMap_PureCoordinates", "via": ["statement"]}
+{"parent": "TunnellMap.Examples41.midpoint_example", "child": "TunnellMap_ResidualDeferredAcceptance", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.midpoint_example", "child": "TunnellMap_ControlCost", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.midpoint_example", "child": "TunnellMap_Examples41", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.midpoint_example", "child": "TunnellMap_Finiteness", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.midpoint_example", "child": "TunnellMap_PureCoordinates", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p28_unit_unit_limit", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p28_unit_unit_limit", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.mem_targetTriples", "child": "TunnellMap_ComputableTargetRoster", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.mem_targetTriples", "child": "TunnellMap_ComputableRoster", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.reduceFrame_alpha_square_bound", "child": "TunnellMap_LagrangeGauss", "via": ["statement"]}
-{"parent": "TunnellMap.reduceFrame_alpha_square_bound", "child": "TunnellMap_ResidualTargetTest", "via": ["statement"]}
-{"parent": "TunnellMap.reduceFrame_alpha_square_bound", "child": "TunnellMap_ReducedBasisBound", "via": ["statement"]}
-{"parent": "TunnellMap.reduceFrame_alpha_square_bound", "child": "TunnellMap_DeterministicFrame", "via": ["statement"]}
-{"parent": "TunnellMap.paperTunnellMapTotal_quarterTurn_three", "child": "TunnellMap_FallbackFreeMap", "via": ["statement"]}
-{"parent": "TunnellMap.paperTunnellMapTotal_quarterTurn_three", "child": "TunnellMap_BranchSpec", "via": ["statement"]}
+{"parent": "TunnellMap.reduceFrame_alpha_square_bound", "child": "TunnellMap_LagrangeGauss", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.reduceFrame_alpha_square_bound", "child": "TunnellMap_ResidualTargetTest", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.reduceFrame_alpha_square_bound", "child": "TunnellMap_ReducedBasisBound", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.reduceFrame_alpha_square_bound", "child": "TunnellMap_DeterministicFrame", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.paperTunnellMapTotal_quarterTurn_three", "child": "TunnellMap_FallbackFreeMap", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.paperTunnellMapTotal_quarterTurn_three", "child": "TunnellMap_BranchSpec", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49DepthSplitAEV1", "child": "Kyprianou_Ch04_Exercise4_9CertificationV3", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p26_asymptoticDimension_first_unit_circle", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p26_asymptoticDimension_first_unit_circle", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.smithIIDRealisation", "child": "SmithRenewal_Elementary_RenewalProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.smithIIDRealisation", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.RecordDA.step_ne_none_of_queue_ne_nil", "child": "TunnellMap_RecordDeferredAcceptance", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.step_ne_none_of_queue_ne_nil", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.preferredTarget_s2_t2", "child": "TunnellMap_Examples41Generator", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.preferredTarget_s2_t2", "child": "TunnellMap_Sharpness", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.preferredTarget_s2_t2", "child": "TunnellMap_Examples41Matching", "via": ["statement"]}
-{"parent": "TunnellMap.oddMapExec_eq_getD", "child": "TunnellMap_FallbackFreeMap", "via": ["statement"]}
-{"parent": "TunnellMap.oddMapExec_eq_getD", "child": "TunnellMap_ComputableFullMap", "via": ["statement"]}
+{"parent": "TunnellMap.RecordDA.step_ne_none_of_queue_ne_nil", "child": "TunnellMap_RecordDeferredAcceptance", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.step_ne_none_of_queue_ne_nil", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.preferredTarget_s2_t2", "child": "TunnellMap_Examples41Generator", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.preferredTarget_s2_t2", "child": "TunnellMap_Sharpness", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.preferredTarget_s2_t2", "child": "TunnellMap_Examples41Matching", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.oddMapExec_eq_getD", "child": "TunnellMap_FallbackFreeMap", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.oddMapExec_eq_getD", "child": "TunnellMap_ComputableFullMap", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49RawCompoundDownJumpV5", "child": "levy_foundations_compoundPoisson", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49RawCompoundDownJumpV5", "child": "levy_foundations_exponent", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49RawCompoundDownJumpV5", "child": "levy_foundations_isCompoundPoissonDriver", "via": ["solution", "statement"]}
@@ -99694,22 +99694,22 @@
 {"parent": "Kyprianou.Ch04.exercise49RawCompoundDownJumpV5", "child": "Kyprianou_Ch04_Exercise4_9Certification", "via": ["solution", "statement"]}
 {"parent": "edenic_semiprime_no_primitive_root", "child": "IsEdenicSemiprime", "via": ["solution", "statement"]}
 {"parent": "edenic_semiprime_no_primitive_root", "child": "twin_primes_coprime", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.GloballyRanked.stable_to_partialStable", "child": "TunnellMap_GloballyRankedExistence", "via": ["statement"]}
-{"parent": "TunnellMap.GloballyRanked.stable_to_partialStable", "child": "TunnellMap_PartialStableMatching", "via": ["statement"]}
+{"parent": "TunnellMap.GloballyRanked.stable_to_partialStable", "child": "TunnellMap_GloballyRankedExistence", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.GloballyRanked.stable_to_partialStable", "child": "TunnellMap_PartialStableMatching", "via": ["solution", "statement"]}
 {"parent": "TunnellMap_RecordTrace", "child": "TunnellMap_KernelPipeline", "via": ["statement"]}
 {"parent": "EdenVerified.p01_fifth_coordinate", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p01_fifth_coordinate", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.Examples41.lattice_scalar_data", "child": "TunnellMap_Examples41Residual", "via": ["statement"]}
-{"parent": "TunnellMap.Examples41.lattice_scalar_data", "child": "TunnellMap_Examples41Generator", "via": ["statement"]}
+{"parent": "TunnellMap.Examples41.lattice_scalar_data", "child": "TunnellMap_Examples41Residual", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.Examples41.lattice_scalar_data", "child": "TunnellMap_Examples41Generator", "via": ["solution", "statement"]}
 {"parent": "TunnellMap_ComputableFullMap", "child": "TunnellMap_ComputableDirect", "via": ["statement"]}
 {"parent": "TunnellMap_ComputableFullMap", "child": "TunnellMap_ComputablePipeline", "via": ["statement"]}
 {"parent": "TunnellMap_ComputableFullMap", "child": "TunnellMap_FullAssembly", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.inverseByRerunExecTotal_residualMapExecOpt", "child": "TunnellMap_FallbackFreeMap", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.inverseByRerunExecTotal_residualMapExecOpt", "child": "TunnellMap_ComputableFullMap", "via": ["statement"]}
+{"parent": "TunnellMap.RecordDA.inverseByRerunExecTotal_residualMapExecOpt", "child": "TunnellMap_FallbackFreeMap", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.inverseByRerunExecTotal_residualMapExecOpt", "child": "TunnellMap_ComputableFullMap", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p29_eventually_dimension_formula_zero_two", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p29_eventually_dimension_formula_zero_two", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.RecordDA.stepTrace_generator_advance", "child": "TunnellMap_KernelPipeline", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.stepTrace_generator_advance", "child": "TunnellMap_RecordTrace", "via": ["statement"]}
+{"parent": "TunnellMap.RecordDA.stepTrace_generator_advance", "child": "TunnellMap_KernelPipeline", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.stepTrace_generator_advance", "child": "TunnellMap_RecordTrace", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.inverseByRerun_canonicalResidualMap", "child": "TunnellMap_InverseByRerun", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.inverseByRerun_canonicalResidualMap", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.inverseByRerun_canonicalResidualMap", "child": "TunnellMap_RecordSign", "via": ["solution", "statement"]}
@@ -99788,10 +99788,10 @@
 {"parent": "EdenVerified.p18_singularValues_fderiv_evolution_prod_four_le", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p28_zero_one_root_and_convergence", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p28_zero_one_root_and_convergence", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.canonicalEta_mul_self", "child": "TunnellMap_ComputableDirection", "via": ["statement"]}
-{"parent": "TunnellMap.canonicalEta_mul_self", "child": "TunnellMap_OrbitLift", "via": ["statement"]}
-{"parent": "TunnellMap.canonicalEta_mul_self", "child": "TunnellMap_ResidualTargetTest", "via": ["statement"]}
-{"parent": "TunnellMap.canonicalEta_mul_self", "child": "TunnellMap_CanonicalSignLift", "via": ["statement"]}
+{"parent": "TunnellMap.canonicalEta_mul_self", "child": "TunnellMap_ComputableDirection", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.canonicalEta_mul_self", "child": "TunnellMap_OrbitLift", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.canonicalEta_mul_self", "child": "TunnellMap_ResidualTargetTest", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.canonicalEta_mul_self", "child": "TunnellMap_CanonicalSignLift", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.ito43_levy_cosine_increment_bound", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.ito43_levy_cosine_increment_bound", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p26_normalizedLogSingularValues_unit_circle", "child": "Eden", "via": ["solution", "statement"]}
@@ -99801,24 +99801,24 @@
 {"parent": "Kyprianou.Ch04.exercise49DepthGeometryV6", "child": "PerfCorrMSQ_NaturalFiltration", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.proposalValid_abst_terminalRun", "child": "TunnellMap_RecordDeferredAcceptance", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.proposalValid_abst_terminalRun", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.algorithmicResidualEquiv_eq", "child": "TunnellMap_OrderedGenerator", "via": ["statement"]}
-{"parent": "TunnellMap.algorithmicResidualEquiv_eq", "child": "TunnellMap_DeferredAcceptanceStability", "via": ["statement"]}
-{"parent": "TunnellMap.algorithmicResidualEquiv_eq", "child": "TunnellMap_OrbitLift", "via": ["statement"]}
-{"parent": "TunnellMap.algorithmicResidualEquiv_eq", "child": "TunnellMap_ResidualDeferredAcceptance", "via": ["statement"]}
+{"parent": "TunnellMap.algorithmicResidualEquiv_eq", "child": "TunnellMap_OrderedGenerator", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.algorithmicResidualEquiv_eq", "child": "TunnellMap_DeferredAcceptanceStability", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.algorithmicResidualEquiv_eq", "child": "TunnellMap_OrbitLift", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.algorithmicResidualEquiv_eq", "child": "TunnellMap_ResidualDeferredAcceptance", "via": ["solution", "statement"]}
 {"parent": "FixedMachinePrec.replace_middle_block", "child": "FixedMachinePrec_Separator", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p29_zero_two_limits", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p29_zero_two_limits", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "TunnellChallenge.targetLift_bridge", "child": "TunnellMap_Solution", "via": ["solution", "statement"]}
 {"parent": "TunnellChallenge.targetLift_bridge", "child": "TunnellMap_BranchSpec", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49AddLinearLevyV4", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.exercise45TaylorBoundV2", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise45TaylorBoundV2", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.aResidualOfTriple_residualTargetLift", "child": "TunnellMap_ComputablePipeline", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.aResidualOfTriple_residualTargetLift", "child": "TunnellMap_InverseByRerun", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.aResidualOfTriple_residualTargetLift", "child": "TunnellMap_ComputableRoster", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.aResidualOfTriple_residualTargetLift", "child": "TunnellMap_LagrangeGauss", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.RecordDA.aResidualOfTriple_residualTargetLift", "child": "TunnellMap_DeterministicFrame", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.GloballyRanked.sharpProposalCount_total", "child": "TunnellMap_Sharpness", "via": ["statement"]}
-{"parent": "TunnellMap.GloballyRanked.sharpProposalCount_total", "child": "TunnellMap_ParkingRearrangement", "via": ["statement"]}
+{"parent": "TunnellMap.GloballyRanked.sharpProposalCount_total", "child": "TunnellMap_Sharpness", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.GloballyRanked.sharpProposalCount_total", "child": "TunnellMap_ParkingRearrangement", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49RawNaturalRestrictedLawV6", "child": "Kyprianou_Ch04_Exercise4_9CertificationV3", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49RawNaturalRestrictedLawV6", "child": "Kyprianou_Ch01_McKeanBrownianStopping", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49RawNaturalRestrictedLawV6", "child": "PerfCorrMSQ_NaturalFiltration", "via": ["solution", "statement"]}
@@ -99860,14 +99860,14 @@
 {"parent": "TunnellMap.BlockGen.blockRecordsK_eq", "child": "TunnellMap_LagrangeGauss", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.blockRecordsK_eq", "child": "TunnellMap_KernelArith", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.blockRecordsK_eq", "child": "TunnellMap_BlockGeneratorCorrect", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.nearestQuot_tie", "child": "TunnellMap_LagrangeGauss", "via": ["statement"]}
-{"parent": "TunnellMap.nearestQuot_tie", "child": "TunnellMap_ResidualTargetTest", "via": ["statement"]}
-{"parent": "TunnellMap.nearestQuot_tie", "child": "TunnellMap_ReducedBasisBound", "via": ["statement"]}
-{"parent": "TunnellMap.nearestQuot_tie", "child": "TunnellMap_DeterministicFrame", "via": ["statement"]}
+{"parent": "TunnellMap.nearestQuot_tie", "child": "TunnellMap_LagrangeGauss", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.nearestQuot_tie", "child": "TunnellMap_ResidualTargetTest", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.nearestQuot_tie", "child": "TunnellMap_ReducedBasisBound", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.nearestQuot_tie", "child": "TunnellMap_DeterministicFrame", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.oneBlock_advance", "child": "TunnellMap_BlockGeneratorState", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.oneBlock_advance", "child": "TunnellMap_BlockGeneratorCorrect", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.BlockGen.recordOf_sign_spec", "child": "TunnellMap_BlockGenerator", "via": ["statement"]}
-{"parent": "TunnellMap.BlockGen.recordOf_sign_spec", "child": "TunnellMap_BlockGeneratorCorrect", "via": ["statement"]}
+{"parent": "TunnellMap.BlockGen.recordOf_sign_spec", "child": "TunnellMap_BlockGenerator", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.BlockGen.recordOf_sign_spec", "child": "TunnellMap_BlockGeneratorCorrect", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.smithZeroDelayRenewalIdentity", "child": "SmithRegenerative_Equilibrium_Renewal", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.smithZeroDelayRenewalIdentity", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.bValues_sort_eq", "child": "TunnellMap_KernelGenerator", "via": ["solution", "statement"]}
@@ -99888,8 +99888,8 @@
 {"parent": "EdenVerified.p23_kaplanYorkeDimension_radiusPair_bound_and_eq", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.smithBlackwellIndicatorIntervalIntegral", "child": "SmithRegenerative_Equilibrium_Renewal", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.smithBlackwellIndicatorIntervalIntegral", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.mem_aResidualTriples_iff", "child": "TunnellMap_ComputableCounting", "via": ["statement"]}
-{"parent": "TunnellMap.mem_aResidualTriples_iff", "child": "TunnellMap_ComputableTargetRoster", "via": ["statement"]}
+{"parent": "TunnellMap.mem_aResidualTriples_iff", "child": "TunnellMap_ComputableCounting", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.mem_aResidualTriples_iff", "child": "TunnellMap_ComputableTargetRoster", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.smithEpochConvolutionLaw", "child": "SmithRenewal_Elementary_RenewalProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.smithEpochConvolutionLaw", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p13_singularValues_fderiv_evolution", "child": "Eden", "via": ["solution", "statement"]}
@@ -99906,7 +99906,7 @@
 {"parent": "EdenVerified.p13_log_radialAmplitude_eq_integral", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p22_kaplanYorkeDimension_zero_one", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p22_kaplanYorkeDimension_zero_one", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.exercise45MinSquareEnergyV2", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise45MinSquareEnergyV2", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p23_asymptoticDimension_eq_target_iff_radii", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p23_asymptoticDimension_eq_target_iff_radii", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.intIcc_sort_eq", "child": "TunnellMap_KernelGenerator", "via": ["solution", "statement"]}
@@ -99952,8 +99952,8 @@
 {"parent": "TunnellMap.RecordDA.terminalRun_held", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p29_eventually_dimension_formula_two_two", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p29_eventually_dimension_formula_two_two", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "TunnellMap.RecordDA.rep_injective", "child": "TunnellMap_RecordDeferredAcceptance", "via": ["statement"]}
-{"parent": "TunnellMap.RecordDA.rep_injective", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["statement"]}
+{"parent": "TunnellMap.RecordDA.rep_injective", "child": "TunnellMap_RecordDeferredAcceptance", "via": ["solution", "statement"]}
+{"parent": "TunnellMap.RecordDA.rep_injective", "child": "TunnellMap_RecordDeferredAcceptanceCorrect", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p22_descending_radiusPairSpectrum_one_one", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.p22_descending_radiusPairSpectrum_one_one", "child": "Eden_Solution", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise49CountLinearBoundV4", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}

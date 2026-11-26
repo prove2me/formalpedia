@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_DAState_auxiliaryRecordSlots_le_four_mul
 -- name    : TunnellMap.GloballyRanked.DAState.auxiliaryRecordSlots_le_four_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:48:19.090352+00:00
 -- url     : https://prove2.me/theorems/0546159b-8a21-4c21-8dc2-f08fdb28a9bd

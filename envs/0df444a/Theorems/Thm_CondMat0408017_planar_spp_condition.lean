@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_planar_spp_condition
 -- name    : CondMat0408017.planar_spp_condition
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:18:51.555574+00:00
 -- url     : https://prove2.me/theorems/8b5a172b-3488-505d-957a-37baef419dca

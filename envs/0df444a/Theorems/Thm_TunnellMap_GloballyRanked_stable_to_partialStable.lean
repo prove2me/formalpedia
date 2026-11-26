@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_stable_to_partialStable
 -- name    : TunnellMap.GloballyRanked.stable_to_partialStable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:44:08.36104+00:00
 -- url     : https://prove2.me/theorems/0e2da11f-6a73-5b24-b219-daa680a6e5f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_jumpPotentialKernelMeasurableV1
 -- name    : Kyprianou.Ch05.jumpPotentialKernelMeasurableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T16:06:16.991014+00:00
 -- url     : https://prove2.me/theorems/f8aa9140-2385-57af-ae90-1fe2b3273587

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45MinSquareEnergyV2
 -- name    : Kyprianou.Ch04.exercise45MinSquareEnergyV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:10:01.332809+00:00
 -- url     : https://prove2.me/theorems/9304054b-91e4-4cee-b9d6-44eb1fc63aae

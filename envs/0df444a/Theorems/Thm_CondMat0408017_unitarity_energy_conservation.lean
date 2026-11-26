@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_unitarity_energy_conservation
 -- name    : CondMat0408017.unitarity_energy_conservation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:19:42.986796+00:00
 -- url     : https://prove2.me/theorems/0681c856-394f-4e99-bfab-10bf1634a8b3

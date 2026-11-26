@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_oddMapExec_eq_getD
 -- name    : TunnellMap.oddMapExec_eq_getD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:57:30.609011+00:00
 -- url     : https://prove2.me/theorems/3ebb72a1-34a0-4632-855b-eedf33eeb7dd

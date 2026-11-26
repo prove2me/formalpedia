@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotentialSurvivalFactorGeneralV1
 -- name    : Kyprianou.Ch05.killedPotentialSurvivalFactorGeneralV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T16:06:27.623+00:00
 -- url     : https://prove2.me/theorems/9cf7a03a-eaff-4122-90f3-7e22839d9c3c

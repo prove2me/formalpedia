@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_BlockGen_advance_dispose_empty_block
 -- name    : TunnellMap.BlockGen.advance_dispose_empty_block
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:56:53.339994+00:00
 -- url     : https://prove2.me/theorems/9e09ab41-08cc-46f8-a650-0c7c4facd341

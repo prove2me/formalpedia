@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_preferredTarget_s2_t2
 -- name    : TunnellMap.Examples41.preferredTarget_s2_t2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:46:42.999745+00:00
 -- url     : https://prove2.me/theorems/3e94c6df-4bf9-49bf-892d-e80423612824

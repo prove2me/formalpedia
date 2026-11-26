@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_memory_effect_angle_shift
 -- name    : CondMat0408017.memory_effect_angle_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:25:33.898795+00:00
 -- url     : https://prove2.me/theorems/edbb10c9-8c7b-5dc1-922c-58d47db012cc

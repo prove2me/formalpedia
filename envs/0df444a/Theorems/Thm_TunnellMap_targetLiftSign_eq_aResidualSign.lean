@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_targetLiftSign_eq_aResidualSign
 -- name    : TunnellMap.targetLiftSign_eq_aResidualSign
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:02:08.920573+00:00
 -- url     : https://prove2.me/theorems/355fb15e-bd02-5bb8-9945-83669a0ff9b7

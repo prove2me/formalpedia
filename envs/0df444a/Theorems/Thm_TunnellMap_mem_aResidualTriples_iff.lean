@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_mem_aResidualTriples_iff
 -- name    : TunnellMap.mem_aResidualTriples_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:42:36.934639+00:00
 -- url     : https://prove2.me/theorems/644d790d-3827-53c4-844e-6d70f1469e69

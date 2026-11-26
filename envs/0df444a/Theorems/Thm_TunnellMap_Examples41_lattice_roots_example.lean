@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_lattice_roots_example
 -- name    : TunnellMap.Examples41.lattice_roots_example
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:08:21.935366+00:00
 -- url     : https://prove2.me/theorems/442ca673-9cb9-4db8-97a6-431a463c82dc

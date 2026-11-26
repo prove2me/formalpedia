@@ -48575,8 +48575,8 @@
 {"parent": "GlobalTheory.UU.TwistNonvan.exists_constHom", "child": "Development_AbelianVarietyTheory_Definitions_Uniformization_WCompat", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UU.TwistNonvan.exists_constHom", "child": "P2M_UpperTheory_Reformulated_B_Qk17_isPrecomplete_finite_module__f12f74bf6019", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UU.TwistNonvan.exists_constHom", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_PhiGenPf", "via": ["solution", "statement"]}
-{"parent": "DetDLP.fp_stage1_btn_derand_tm", "child": "DetDLP_FactorBase", "via": ["statement"]}
-{"parent": "DetDLP.fp_stage1_btn_derand_tm", "child": "DetDLP_BTN", "via": ["statement"]}
+{"parent": "DetDLP.fp_stage1_btn_derand_tm", "child": "DetDLP_FactorBase", "via": ["solution", "statement"]}
+{"parent": "DetDLP.fp_stage1_btn_derand_tm", "child": "DetDLP_BTN", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.InertiaMovesRoot.exists_mem_Ine_apply_ne", "child": "Development_AbelianVarietyTheory_Definitions_AutomorphicMembership_MonodromyZeroOfWeilDeligneRepClassIff", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.InertiaMovesRoot.exists_mem_Ine_apply_ne", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_ExistsCongOfCongOnFixed", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UU.IntGen.main", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt", "via": ["statement"]}

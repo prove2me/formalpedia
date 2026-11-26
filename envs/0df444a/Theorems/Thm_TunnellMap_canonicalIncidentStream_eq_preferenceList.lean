@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_canonicalIncidentStream_eq_preferenceList
 -- name    : TunnellMap.canonicalIncidentStream_eq_preferenceList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:58:38.236824+00:00
 -- url     : https://prove2.me/theorems/6cc939f0-3201-58ad-bb32-925ddaf33fc0

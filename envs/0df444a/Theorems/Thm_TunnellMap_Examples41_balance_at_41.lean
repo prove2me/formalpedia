@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_balance_at_41
 -- name    : TunnellMap.Examples41.balance_at_41
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:52:22.287125+00:00
 -- url     : https://prove2.me/theorems/deca20b6-91e2-40ee-b645-1ecc2f069b76

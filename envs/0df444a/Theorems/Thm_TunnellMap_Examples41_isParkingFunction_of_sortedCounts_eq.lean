@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_isParkingFunction_of_sortedCounts_eq
 -- name    : TunnellMap.Examples41.isParkingFunction_of_sortedCounts_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:46:01.005603+00:00
 -- url     : https://prove2.me/theorems/9bffbbf9-8816-5997-b842-6b8208fae66e

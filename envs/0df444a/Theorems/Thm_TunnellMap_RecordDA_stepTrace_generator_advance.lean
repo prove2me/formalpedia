@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_stepTrace_generator_advance
 -- name    : TunnellMap.RecordDA.stepTrace_generator_advance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:38:24.02952+00:00
 -- url     : https://prove2.me/theorems/0e9d9c16-3553-50a2-9a44-3d52098f80d3

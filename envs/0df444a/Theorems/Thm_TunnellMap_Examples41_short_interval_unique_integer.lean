@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_short_interval_unique_integer
 -- name    : TunnellMap.Examples41.short_interval_unique_integer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:08:05.294156+00:00
 -- url     : https://prove2.me/theorems/32260bcb-61d8-45c5-9c6a-c7b9431b3904

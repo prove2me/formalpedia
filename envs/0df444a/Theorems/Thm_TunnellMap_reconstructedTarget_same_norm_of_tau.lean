@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_reconstructedTarget_same_norm_of_tau
 -- name    : TunnellMap.reconstructedTarget_same_norm_of_tau
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:17:59.109162+00:00
 -- url     : https://prove2.me/theorems/7823ad0b-a38f-45c0-b725-e31a6ef2c22f

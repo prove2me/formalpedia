@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_oneBlockAll_terminalRunExec
 -- name    : TunnellMap.RecordDA.oneBlockAll_terminalRunExec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:38:13.394145+00:00
 -- url     : https://prove2.me/theorems/7cafd599-64de-404c-8e64-4715af2ce702

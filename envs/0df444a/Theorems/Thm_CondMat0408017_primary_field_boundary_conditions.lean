@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_primary_field_boundary_conditions
 -- name    : CondMat0408017.primary_field_boundary_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:18:26.604253+00:00
 -- url     : https://prove2.me/theorems/109f18d0-70f7-4e15-b1fb-f0dbbf39fa37

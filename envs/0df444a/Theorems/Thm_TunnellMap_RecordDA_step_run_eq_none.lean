@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_step_run_eq_none
 -- name    : TunnellMap.RecordDA.step_run_eq_none
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:59:43.760827+00:00
 -- url     : https://prove2.me/theorems/f9310373-ef28-571d-b2be-e12dd1db6589

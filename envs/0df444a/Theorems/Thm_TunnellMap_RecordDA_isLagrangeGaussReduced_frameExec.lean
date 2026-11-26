@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_isLagrangeGaussReduced_frameExec
 -- name    : TunnellMap.RecordDA.isLagrangeGaussReduced_frameExec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:36:08.191584+00:00
 -- url     : https://prove2.me/theorems/c6badc0f-26c9-4c20-a468-9def3178b1e3

@@ -47421,10 +47421,10 @@
 {"parent": "RobustBoolPCSP.Supplement.theorem_5_3", "child": "RobustBoolPCSP_Supplement_GaussRounding", "via": ["statement"]}
 {"parent": "FairKMeans_Supplement_Constrained", "child": "FairKMeans_Model", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.potentialRenewalIdentity", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.potentialRenewalIdentity", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.potentialRenewalIdentity", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.potentialRenewalIdentity", "child": "AvramDividend.Classical.positive_geometric_renewal_measure_package", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.potentialRenewalIdentity", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.potentialRenewalIdentity", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.potentialRenewalIdentity", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.randomWalkReversal_vectorEventMeasurable", "child": "Kyprianou.Ch01.randomWalkReversal_pathCombinatorics", "via": ["solution", "statement"]}
 {"parent": "CubicProductLB.Supplement.theorem_4", "child": "CubicProductLB_CubicRep", "via": ["statement"]}
 {"parent": "CubicProductLB.Supplement.theorem_4", "child": "CubicProductLB_ProductRep", "via": ["statement"]}
@@ -56732,11 +56732,11 @@
 {"parent": "FasterExactColoring.ThreeColor.Supplement.branching_reductions", "child": "FasterExactColoring_ThreeColor_Supplement_TerminalBounds", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.brownianDiscountedExponentialMeanOne", "child": "Kyprianou_Ch01_ExplicitLevyExamples", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.brownianDiscountedExponentialMeanOne", "child": "Kyprianou_Ch01_McKeanBrownianStopping", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.exercise52SpectrallyPositiveRiskJointLaw", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise52SpectrallyPositiveRiskJointLaw", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise52SpectrallyPositiveRiskJointLaw", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise52SpectrallyPositiveRiskJointLaw", "child": "Kyprianou_Ch05_RiskConditionalPassage", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise52SpectrallyPositiveRiskJointLaw", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise52SpectrallyPositiveRiskJointLaw", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise52SpectrallyPositiveRiskJointLaw", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise52SpectrallyPositiveRiskJointLaw", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise52SpectrallyPositiveRiskJointLaw", "child": "Kyprianou_Ch05_RiskConditionalPassage", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise52SpectrallyPositiveRiskJointLaw", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
 {"parent": "DistributedMWC440.UpperBound.Supplement.theorem_2", "child": "DistributedMWC440_UpperBound_Supplement_CongestLB", "via": ["statement"]}
 {"parent": "LeakageSpectral.Shannon.Supplement.theorem_8", "child": "LeakageSpectral_Shannon_Supplement_Defs", "via": ["statement"]}
 {"parent": "LeakageSpectral.Shannon.Supplement.theorem_8", "child": "LeakageSpectral_Shannon_JointLaw", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_canonicalEta_mul_self
 -- name    : TunnellMap.canonicalEta_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:02:32.298009+00:00
 -- url     : https://prove2.me/theorems/5fe5e7c4-6358-427e-ada6-5a7fbb30df06

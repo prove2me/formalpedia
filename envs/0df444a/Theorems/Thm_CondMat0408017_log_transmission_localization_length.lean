@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_log_transmission_localization_length
 -- name    : CondMat0408017.log_transmission_localization_length
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:24:36.543806+00:00
 -- url     : https://prove2.me/theorems/9ed87240-9749-5d1d-a974-00690642b59b

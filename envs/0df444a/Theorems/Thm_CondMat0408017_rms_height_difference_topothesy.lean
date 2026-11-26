@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_rms_height_difference_topothesy
 -- name    : CondMat0408017.rms_height_difference_topothesy
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:19:19.969864+00:00
 -- url     : https://prove2.me/theorems/1d49b81a-dbdd-5c13-8acc-1d78ffa23cac

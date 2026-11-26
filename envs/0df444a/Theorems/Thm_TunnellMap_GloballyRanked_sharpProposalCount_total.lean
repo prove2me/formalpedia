@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_sharpProposalCount_total
 -- name    : TunnellMap.GloballyRanked.sharpProposalCount_total
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:46:04.380103+00:00
 -- url     : https://prove2.me/theorems/713b2011-28fc-4f92-a6cb-8707b3bcd6a1

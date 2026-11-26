@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellChallenge_registeredResidualMatching_stable
 -- name    : TunnellChallenge.registeredResidualMatching_stable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:01:31.04116+00:00
 -- url     : https://prove2.me/theorems/24ac57b8-2e9d-4d1c-8fa6-9c035adc5b63

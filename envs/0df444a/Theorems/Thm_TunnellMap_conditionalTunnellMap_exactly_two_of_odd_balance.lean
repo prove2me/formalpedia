@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_conditionalTunnellMap_exactly_two_of_odd_balance
 -- name    : TunnellMap.conditionalTunnellMap_exactly_two_of_odd_balance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:17:03.768819+00:00
 -- url     : https://prove2.me/theorems/3a674770-1efd-40e6-8db1-a958ab1da48d

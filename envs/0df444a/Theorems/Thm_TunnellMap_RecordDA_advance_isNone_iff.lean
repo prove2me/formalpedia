@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_advance_isNone_iff
 -- name    : TunnellMap.RecordDA.advance_isNone_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:28:40.479945+00:00
 -- url     : https://prove2.me/theorems/08dd3939-353e-4f32-bda3-e8d6cc89bedc

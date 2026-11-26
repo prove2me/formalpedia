@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_paperTunnellMapTotal_quarterTurn_three
 -- name    : TunnellMap.paperTunnellMapTotal_quarterTurn_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:01:54.095087+00:00
 -- url     : https://prove2.me/theorems/1de6f924-5d01-5239-afa6-894bbb7612ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_residualMapExecOpt_inverseByRerunExecTotal
 -- name    : TunnellMap.RecordDA.residualMapExecOpt_inverseByRerunExecTotal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:56:03.730907+00:00
 -- url     : https://prove2.me/theorems/5b948c0c-9f0c-518f-8708-31acfd1c1735

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_zeroth_order_fresnel
 -- name    : CondMat0408017.zeroth_order_fresnel
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:21:21.190051+00:00
 -- url     : https://prove2.me/theorems/8a6df4db-afac-5eef-a942-86b4a5f42f22

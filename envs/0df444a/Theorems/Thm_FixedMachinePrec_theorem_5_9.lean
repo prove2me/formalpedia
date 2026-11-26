@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedMachinePrec_theorem_5_9
 -- name    : FixedMachinePrec.theorem_5_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T03:07:40.777298+00:00
 -- url     : https://prove2.me/theorems/75094b6d-310b-47d1-93af-183c5875f5b8

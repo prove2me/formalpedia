@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_sortedCounts_counts41
 -- name    : TunnellMap.Examples41.sortedCounts_counts41
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:46:13.674932+00:00
 -- url     : https://prove2.me/theorems/9c46cf3f-4184-5c44-849b-37bbdced2159

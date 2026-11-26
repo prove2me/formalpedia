@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_residualMapExec_bijective
 -- name    : TunnellMap.RecordDA.residualMapExec_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:37:49.81681+00:00
 -- url     : https://prove2.me/theorems/38680305-aaa6-4734-a993-18789e2906b4

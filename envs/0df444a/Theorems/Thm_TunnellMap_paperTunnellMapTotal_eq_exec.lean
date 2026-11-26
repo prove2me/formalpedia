@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_paperTunnellMapTotal_eq_exec
 -- name    : TunnellMap.paperTunnellMapTotal_eq_exec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:58:07.464737+00:00
 -- url     : https://prove2.me/theorems/771800f9-d90a-4200-89f7-b554f58c490d

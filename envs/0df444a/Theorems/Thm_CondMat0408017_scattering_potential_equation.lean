@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_scattering_potential_equation
 -- name    : CondMat0408017.scattering_potential_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:22:05.334037+00:00
 -- url     : https://prove2.me/theorems/83f3399d-ba4a-57de-83cb-479b2e0a134b

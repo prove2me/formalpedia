@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_step_ne_none_of_queue_ne_nil
 -- name    : TunnellMap.RecordDA.step_ne_none_of_queue_ne_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:28:40.400361+00:00
 -- url     : https://prove2.me/theorems/1e50703b-b7e7-4bc5-98d4-0e4544aa37ce

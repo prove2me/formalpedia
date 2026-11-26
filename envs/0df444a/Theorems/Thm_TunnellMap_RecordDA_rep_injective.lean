@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_rep_injective
 -- name    : TunnellMap.RecordDA.rep_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:27:58.079043+00:00
 -- url     : https://prove2.me/theorems/66c05090-bbd8-5711-a0cc-f529d77c5bee

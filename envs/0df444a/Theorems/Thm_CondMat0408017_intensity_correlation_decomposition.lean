@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_intensity_correlation_decomposition
 -- name    : CondMat0408017.intensity_correlation_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:25:12.940096+00:00
 -- url     : https://prove2.me/theorems/bb2f69b2-909f-4cd2-93fe-a63343014a90

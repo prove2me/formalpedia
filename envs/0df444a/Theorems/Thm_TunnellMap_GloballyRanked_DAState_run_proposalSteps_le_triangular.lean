@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_DAState_run_proposalSteps_le_triangular
 -- name    : TunnellMap.GloballyRanked.DAState.run_proposalSteps_le_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:47:53.991224+00:00
 -- url     : https://prove2.me/theorems/a8875038-56ad-4c19-9985-792d48433e5c

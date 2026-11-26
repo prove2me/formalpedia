@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_incoherent_drc_tmatrix_and_green
 -- name    : CondMat0408017.incoherent_drc_tmatrix_and_green
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:23:03.664998+00:00
 -- url     : https://prove2.me/theorems/4195c1d9-2e21-466c-ba85-e81d70b84df9

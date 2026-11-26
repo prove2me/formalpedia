@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_lgReduce_deterministic
 -- name    : TunnellMap.lgReduce_deterministic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:53:43.1909+00:00
 -- url     : https://prove2.me/theorems/bc201dac-92e7-4c76-b22b-be07daf43f0b

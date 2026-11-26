@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_paperTunnellMapTotal_even
 -- name    : TunnellMap.paperTunnellMapTotal_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:57:57.075576+00:00
 -- url     : https://prove2.me/theorems/6b9302ec-5486-516b-8645-17d3e0632e42

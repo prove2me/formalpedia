@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_residualMapExec_eq_getD
 -- name    : TunnellMap.RecordDA.residualMapExec_eq_getD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:55:28.442641+00:00
 -- url     : https://prove2.me/theorems/ae3d23ac-e598-54fb-83c9-0bd0c608574d

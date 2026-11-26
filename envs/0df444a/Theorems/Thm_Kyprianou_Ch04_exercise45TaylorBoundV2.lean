@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45TaylorBoundV2
 -- name    : Kyprianou.Ch04.exercise45TaylorBoundV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T17:09:58.690167+00:00
 -- url     : https://prove2.me/theorems/b09db68a-ec88-462f-8010-4fa546eb740c

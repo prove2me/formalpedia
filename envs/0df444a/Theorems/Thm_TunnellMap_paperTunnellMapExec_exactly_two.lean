@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_paperTunnellMapExec_exactly_two
 -- name    : TunnellMap.paperTunnellMapExec_exactly_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:26:31.658494+00:00
 -- url     : https://prove2.me/theorems/471e5ab7-3dc2-4e9f-8945-57840c673518

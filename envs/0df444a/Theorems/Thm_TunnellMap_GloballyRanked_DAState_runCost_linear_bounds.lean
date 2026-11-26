@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_GloballyRanked_DAState_runCost_linear_bounds
 -- name    : TunnellMap.GloballyRanked.DAState.runCost_linear_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:48:36.475846+00:00
 -- url     : https://prove2.me/theorems/3d0947b3-c38e-5eb2-8b8e-155aaa2305a2

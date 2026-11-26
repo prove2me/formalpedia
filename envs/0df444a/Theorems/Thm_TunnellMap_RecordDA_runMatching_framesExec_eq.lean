@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_RecordDA_runMatching_framesExec_eq
 -- name    : TunnellMap.RecordDA.runMatching_framesExec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:37:19.550681+00:00
 -- url     : https://prove2.me/theorems/cd1429f7-1c4a-56db-b1ad-6668fd5a5484

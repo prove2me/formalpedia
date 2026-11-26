@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_lattice_frame_example
 -- name    : TunnellMap.Examples41.lattice_frame_example
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:07:49.950677+00:00
 -- url     : https://prove2.me/theorems/b89ebd78-d896-4cde-adae-955077664abc

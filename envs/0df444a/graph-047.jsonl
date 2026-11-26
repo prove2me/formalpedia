@@ -66756,8 +66756,8 @@
 {"parent": "P2M_AlgebraicGeometry_Scheme_IdealSheafData_comap_subscheme__self_48797f87c60f", "child": "Development_ResolutionOfSingularities_Foundations_Schemes_AffineOpens", "via": ["statement"]}
 {"parent": "GroundTheory.PAdicHodge.SenTateChar.exists_level", "child": "GroundTheory_PAdicHodge_SenTateCharUnits", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsConductorNeZeroFiniteTypeCharZero", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_FiniteIntegralClosureOfEssFiniteTypeField", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.pAdicTopology_le_weakTopology", "child": "GroundTheory_PAdicHodge_AInfTopology", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.pAdicTopology_le_weakTopology", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.pAdicTopology_le_weakTopology", "child": "GroundTheory_PAdicHodge_AInfTopology", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.pAdicTopology_le_weakTopology", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.LocalField.Abstract.coe_fixedModule", "child": "GroundTheory_LocalFields_AbstractLocalReciprocity_ProfiniteInteger", "via": ["statement"]}
 {"parent": "GroundTheory.LocalField.Abstract.coe_fixedModule", "child": "GroundTheory_LocalFields_AbstractLocalReciprocity_ExistsOpenSubgroupMemFixedModule", "via": ["statement"]}
 {"parent": "GroundTheory.LocalField.minpoly_eq_of_isEisensteinAt", "child": "GroundTheory_LocalFields_Integers", "via": ["statement"]}
@@ -67993,8 +67993,8 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_BranchNormalisation_proof_8cd54afc0fc1", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StOrdFiniteNonZeroDivisor", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_BranchNormalisation_proof_8cd54afc0fc1", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StOrdDeterminesPlace", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_BranchNormalisation_proof_8cd54afc0fc1", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PBranchNormalisation", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.teichmullerAdicTopology_le_weakTopology", "child": "GroundTheory_PAdicHodge_AInfTopology", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.teichmullerAdicTopology_le_weakTopology", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.teichmullerAdicTopology_le_weakTopology", "child": "GroundTheory_PAdicHodge_AInfTopology", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.teichmullerAdicTopology_le_weakTopology", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_GradedShortExact_exact_map___9923350c87f1", "child": "Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_ExistsAwayFracOfMemHomLoc", "via": ["statement"]}
 {"parent": "P2M_GlobalTheory_GradedShortExact_exact_map___9923350c87f1", "child": "Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_IsGradedMapLinearCombination", "via": ["statement"]}
 {"parent": "P2M_GlobalTheory_GradedShortExact_exact_map___9923350c87f1", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_CubeComplexExactAtOfIsLocalizedModuleRes", "via": ["statement"]}

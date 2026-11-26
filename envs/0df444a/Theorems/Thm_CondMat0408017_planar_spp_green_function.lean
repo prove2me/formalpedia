@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_planar_spp_green_function
 -- name    : CondMat0408017.planar_spp_green_function
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:21:43.345869+00:00
 -- url     : https://prove2.me/theorems/e97ce00f-09eb-55ef-b681-49b96211e3bd

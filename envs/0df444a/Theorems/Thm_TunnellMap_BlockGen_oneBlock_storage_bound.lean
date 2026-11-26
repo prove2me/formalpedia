@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_BlockGen_oneBlock_storage_bound
 -- name    : TunnellMap.BlockGen.oneBlock_storage_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:58:00.18077+00:00
 -- url     : https://prove2.me/theorems/f5be8743-1fc2-4a30-addd-ad4ebe946e5e

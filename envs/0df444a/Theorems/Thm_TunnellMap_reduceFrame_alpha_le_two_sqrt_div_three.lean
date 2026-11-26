@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_reduceFrame_alpha_le_two_sqrt_div_three
 -- name    : TunnellMap.reduceFrame_alpha_le_two_sqrt_div_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:52:34.564374+00:00
 -- url     : https://prove2.me/theorems/7a2e4588-2c7b-462e-a00d-b9eefdf8c0d2

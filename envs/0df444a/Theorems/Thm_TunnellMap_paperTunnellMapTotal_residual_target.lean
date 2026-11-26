@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_paperTunnellMapTotal_residual_target
 -- name    : TunnellMap.paperTunnellMapTotal_residual_target
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:02:27.658553+00:00
 -- url     : https://prove2.me/theorems/3cbd8568-9a94-5cfb-b2d9-1e055d932e26

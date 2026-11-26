@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_midpoint_example
 -- name    : TunnellMap.Examples41.midpoint_example
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:54:31.462027+00:00
 -- url     : https://prove2.me/theorems/0ca2d88c-fe08-4f69-adee-e432ff205bbb

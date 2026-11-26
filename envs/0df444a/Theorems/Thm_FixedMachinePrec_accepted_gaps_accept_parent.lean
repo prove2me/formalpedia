@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedMachinePrec_accepted_gaps_accept_parent
 -- name    : FixedMachinePrec.accepted_gaps_accept_parent
--- status  : Open
+-- status  : Proved
 -- author  : @kj
 -- created : 2026-11-26T12:24:00.29806+00:00
 -- url     : https://prove2.me/theorems/37da83f7-72e5-4e95-a64d-65f83a4bb6ae

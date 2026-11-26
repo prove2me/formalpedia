@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_sapt_matrix_element_expansion
 -- name    : CondMat0408017.sapt_matrix_element_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:20:57.761985+00:00
 -- url     : https://prove2.me/theorems/074537e9-3376-42b3-9e57-f9f3b48ea6e2

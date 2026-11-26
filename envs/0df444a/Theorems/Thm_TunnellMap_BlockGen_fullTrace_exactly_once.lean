@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_BlockGen_fullTrace_exactly_once
 -- name    : TunnellMap.BlockGen.fullTrace_exactly_once
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T15:49:22.88291+00:00
 -- url     : https://prove2.me/theorems/22f9cd73-bc3a-575e-a996-49d7b6e5b88a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_Examples41_equal_key_edges_are_distinct
 -- name    : TunnellMap.Examples41.equal_key_edges_are_distinct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:06:42.217186+00:00
 -- url     : https://prove2.me/theorems/c18cb2cd-81f3-5cf3-bc9e-de5299463bab

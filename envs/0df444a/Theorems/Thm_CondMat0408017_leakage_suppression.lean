@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondMat0408017_leakage_suppression
 -- name    : CondMat0408017.leakage_suppression
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T13:24:16.164947+00:00
 -- url     : https://prove2.me/theorems/4e1249fd-7239-5112-b17d-5c645ab0155c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_FreeInvolution_signAct_mul
 -- name    : TunnellMap.FreeInvolution.signAct_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T16:00:43.650039+00:00
 -- url     : https://prove2.me/theorems/cedb20fc-6431-4058-aa8e-ac82d4087583
