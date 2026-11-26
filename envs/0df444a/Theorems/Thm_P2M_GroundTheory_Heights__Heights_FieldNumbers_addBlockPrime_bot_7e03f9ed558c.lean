@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_addBlockPrime_bot_7e03f9ed558c
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_addBlockPrime_bot_7e03f9ed558c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:12:14.908499+00:00
 -- url     : https://prove2.me/theorems/2be5d228-6da8-4ee8-9d92-5a7f9c616855

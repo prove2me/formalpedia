@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:59:38.871358+00:00
 -- url     : https://prove2.me/theorems/b1b59f22-b5f7-5f63-b90f-49bcde08374f
 -- title:
---   Lefebvre's variations, No. 105 — on a theme by Rosenfeld: the lonely runner with nine and ten runners, coprime speeds of small gcd-sum
+--   Lefebvre's variations, No. 120 — on a theme by Rosenfeld: the lonely runner with nine and ten runners, coprime speeds of small gcd-sum
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

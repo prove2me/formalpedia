@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_canonicalPositivePoissonCrossingIntegralV2
 -- name    : Kyprianou.Ch05.canonicalPositivePoissonCrossingIntegralV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:53:38.017423+00:00
 -- url     : https://prove2.me/theorems/ddc9bc32-d964-524f-a6dc-62bfe3ad8b92

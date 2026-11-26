@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:33:26.920571+00:00
 -- url     : https://prove2.me/theorems/3b282f6e-b4b9-5aed-8318-0ba021dcb8b3
 -- title:
---   Lefebvre's variations, No. 177 — on a theme by Kervaire and Milnor: a smooth manifold homeomorphic to the n-sphere is diffeomorphic to it for n at most 3
+--   Lefebvre's variations, No. 215 — on a theme by Kervaire and Milnor: a smooth manifold homeomorphic to the n-sphere is diffeomorphic to it for n at most 3
 -- statement:
 --   Let $n\in\{0,1,2,3\}$ and let $M$ be a smooth ($C^\infty$) $n$-manifold which is homeomorphic to the unit sphere $S^n\subset\mathbb{R}^{n+1}$. Then
 --   $$M\;\cong_{C^\infty}\;S^n,$$

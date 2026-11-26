@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RudnevIncidence_PointPlane_vanishing_polynomial
 -- name    : RudnevIncidence.PointPlane.vanishing_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:16:41.995977+00:00
 -- url     : https://prove2.me/theorems/d00137e0-becf-432c-b1bc-fa9e371137dc

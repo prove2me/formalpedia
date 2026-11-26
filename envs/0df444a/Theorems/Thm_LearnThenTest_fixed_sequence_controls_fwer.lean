@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnThenTest_fixed_sequence_controls_fwer
 -- name    : LearnThenTest.fixed_sequence_controls_fwer
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T00:11:37.036039+00:00
 -- url     : https://prove2.me/theorems/1860faf3-d84c-4394-88ee-049232e9cc92

@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:13:27.836845+00:00
 -- url     : https://prove2.me/theorems/30bb194e-bc40-436a-8158-b166f3ac3523
 -- title:
---   Lefebvre's variations, No. 36 — on a theme by Rota: the Fano matroid is not representable over odd characteristic
+--   Lefebvre's variations, No. 41 — on a theme by Rota: the Fano matroid is not representable over odd characteristic
 -- statement:
 --   This shows that the Fano matroid is an obstruction to representability over fields of odd characteristic.
 --

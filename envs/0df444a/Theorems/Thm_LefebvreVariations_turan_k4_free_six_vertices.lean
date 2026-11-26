@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:11:23.623921+00:00
 -- url     : https://prove2.me/theorems/6ba0d377-9df9-5f20-a3f2-7d9189130369
 -- title:
---   Lefebvre's variations, No. 137 — on a theme by Turán: a 3-uniform hypergraph on 6 vertices with no K_4^(3) has at most 14 edges
+--   Lefebvre's variations, No. 162 — on a theme by Turán: a 3-uniform hypergraph on 6 vertices with no K_4^(3) has at most 14 edges
 -- statement:
 --   $$\forall H\subseteq \tbinom{[6]}{3}:\quad \bigl(\nexists S\subseteq[6],\ |S|=4,\ \tbinom{S}{3}\subseteq H\bigr)\ \Longrightarrow\ |H|\le 14.$$
 --

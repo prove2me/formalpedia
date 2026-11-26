@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:50:34.041205+00:00
 -- url     : https://prove2.me/theorems/de92e565-b8b3-437b-8ef1-cc5cf5dc187d
 -- title:
---   Lefebvre's variations, No. 94 — on a theme by Erdős and Szekeres: nine points in general position contain a convex pentagon
+--   Lefebvre's variations, No. 106 — on a theme by Erdős and Szekeres: nine points in general position contain a convex pentagon
 -- statement:
 --   Let $S\subset\mathbb{R}^2$ be a set of $9$ points, no three collinear. Then $S$ contains $5$ points in convex position.
 --

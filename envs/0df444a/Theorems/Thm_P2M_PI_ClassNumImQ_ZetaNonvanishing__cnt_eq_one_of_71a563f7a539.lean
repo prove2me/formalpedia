@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ClassNumImQ_ZetaNonvanishing__cnt_eq_one_of_71a563f7a539
 -- name    : P2M_PI_ClassNumImQ_ZetaNonvanishing__cnt_eq_one_of_71a563f7a539
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:43:19.484079+00:00
 -- url     : https://prove2.me/theorems/5b7f982b-a4ba-41d6-a81c-a6dc47bfc633

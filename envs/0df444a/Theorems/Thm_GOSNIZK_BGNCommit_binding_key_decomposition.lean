@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_BGNCommit_binding_key_decomposition
 -- name    : GOSNIZK.BGNCommit.binding_key_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:25:43.537207+00:00
 -- url     : https://prove2.me/theorems/b2ce544d-9ccb-402d-b8c7-bf29f9360a5e

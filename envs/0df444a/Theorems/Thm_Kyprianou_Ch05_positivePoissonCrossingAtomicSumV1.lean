@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_positivePoissonCrossingAtomicSumV1
 -- name    : Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:36:43.615809+00:00
 -- url     : https://prove2.me/theorems/2168b15f-ac6f-47bc-8782-9d1bf339def8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_ofReal_loopAction_le_diskArea
 -- name    : FiniteEnergyPlane.ofReal_loopAction_le_diskArea
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-26T19:47:54.870121+00:00
 -- url     : https://prove2.me/theorems/09498c41-8684-571a-8426-595c16fe7838

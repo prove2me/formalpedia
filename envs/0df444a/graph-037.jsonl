@@ -9402,7 +9402,7 @@
 {"parent": "row23_rh_supp_RH67156FastPiece18Prefixes", "child": "row23_rh_supp_RH67156FastPiece18Block01", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156FastPiece18Prefixes", "child": "row23_rh_supp_RH67156FastPiece18Block07", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156FastPiece18Prefixes", "child": "row23_rh_supp_RH67156FastPiece18Block03", "via": ["statement"]}
-{"parent": "KissingNumber.kissing_number_twentyfour", "child": "KissingNumber", "via": ["statement"]}
+{"parent": "KissingNumber.kissing_number_twentyfour", "child": "KissingNumber", "via": ["solution", "statement"]}
 {"parent": "straussFunction_le_of_forall_mul_log", "child": "Polychromatic_Existence", "via": ["solution", "statement"]}
 {"parent": "straussFunction_le_of_forall_mul_log", "child": "Polychromatic_PolychromNumber", "via": ["solution", "statement"]}
 {"parent": "straussFunction_le_of_forall_mul_log", "child": "Polychromatic_LovaszFunction", "via": ["solution", "statement"]}
@@ -83706,7 +83706,7 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.absNorm_comap_split", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSubMemOfInert", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.absNorm_comap_split", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassSt", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.absNorm_comap_split", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSqAbsNormOfInert", "via": ["solution", "statement"]}
-{"parent": "RamseyValues.ramsey_five_five_le_49", "child": "Erdos77_asymmetric_ramsey", "via": ["statement"]}
+{"parent": "RamseyValues.ramsey_five_five_le_49", "child": "Erdos77_asymmetric_ramsey", "via": ["solution", "statement"]}
 {"parent": "SumProduct.cubeSumLawSuccDensity_lintegral_ne_top", "child": "SumProduct_CubeSection", "via": ["solution", "statement"]}
 {"parent": "SumProduct.cubeSumLawSuccDensity_lintegral_ne_top", "child": "SumProduct_SincIntegral", "via": ["solution", "statement"]}
 {"parent": "SumProduct.cubeSumLawSuccDensity_lintegral_ne_top", "child": "SumProduct_CubeSectionCore", "via": ["solution", "statement"]}
@@ -85626,7 +85626,7 @@
 {"parent": "PI.QuotSetU.UnitaryGroupMassFormula.ModW.measEmb", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryQuotientCompactness_ModBase", "via": ["solution", "statement"]}
 {"parent": "PI.QuotSetU.UnitaryGroupMassFormula.ModW.measEmb", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryQuotientCompactness_SsetGroup", "via": ["solution", "statement"]}
 {"parent": "RH1E6S13_D061_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "RamseyValues.ramsey_five_five_le_46", "child": "Erdos77_asymmetric_ramsey", "via": ["statement"]}
+{"parent": "RamseyValues.ramsey_five_five_le_46", "child": "Erdos77_asymmetric_ramsey", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CMEulerProducts_EulerFactorConjugate", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CMEulerProducts_StepRegroup", "via": ["statement"]}
 {"parent": "Comp.ModelData.answers_sureSafe_of_data", "child": "Comp_FixLoop", "via": ["solution", "statement"]}
 {"parent": "Comp.ModelData.answers_sureSafe_of_data", "child": "Comp_ModelData", "via": ["solution", "statement"]}
@@ -86028,7 +86028,7 @@
 {"parent": "DedekindZeta_ConeMellinBridge", "child": "DedekindZeta_MellinPrinciple", "via": ["statement"]}
 {"parent": "PI.LevelKSplit.W.NCL.h_e_pV", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SemidirectVolume_ModVec", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.NCL.h_e_pV", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_LevLSubPerp", "via": ["solution", "statement"]}
-{"parent": "RamseyValues.ramsey_five_five_le_48", "child": "Erdos77_asymmetric_ramsey", "via": ["statement"]}
+{"parent": "RamseyValues.ramsey_five_five_le_48", "child": "Erdos77_asymmetric_ramsey", "via": ["solution", "statement"]}
 {"parent": "DedekindZeta.ConeRadialReduction.radialMap_mem_cone", "child": "DedekindZeta_Statements", "via": ["solution", "statement"]}
 {"parent": "DedekindZeta.ConeRadialReduction.radialMap_mem_cone", "child": "DedekindZeta_GammaIntegral", "via": ["solution", "statement"]}
 {"parent": "DedekindZeta.ConeRadialReduction.radialMap_mem_cone", "child": "DedekindZeta_ConeRadialReduction", "via": ["solution", "statement"]}

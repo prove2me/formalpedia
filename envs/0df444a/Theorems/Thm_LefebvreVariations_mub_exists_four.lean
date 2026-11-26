@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:42:03.505516+00:00
 -- url     : https://prove2.me/theorems/ae516652-c8ce-4ba3-b976-9dd69aaee185
 -- title:
---   Lefebvre's variations, No. 27 — on a theme by Wootters and Fields: a complete set of mutually unbiased bases in dimension 4
+--   Lefebvre's variations, No. 31 — on a theme by Wootters and Fields: a complete set of mutually unbiased bases in dimension 4
 -- statement:
 --   This is the existence of a complete set of mutually unbiased bases in dimension $4$.
 --

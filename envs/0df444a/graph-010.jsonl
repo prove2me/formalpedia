@@ -28906,7 +28906,7 @@
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.KN.chr_1_3_0", "child": "Atlas_EinsteinMaxwell_Basic", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.KN.chr_1_3_0", "child": "Atlas_Core_Basic", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.KN.chr_1_3_0", "child": "Atlas_Core_Lift", "via": ["solution", "statement"]}
-{"parent": "SellVsPPU.Duopoly.a21_seller_best_response", "child": "SellVsPPU_Duopoly_Model", "via": ["statement"]}
+{"parent": "SellVsPPU.Duopoly.a21_seller_best_response", "child": "SellVsPPU_Duopoly_Model", "via": ["solution", "statement"]}
 {"parent": "NaiveFS.Multinomial.claim_w_ge_v", "child": "NaiveFS_Multinomial_Dual", "via": ["statement"]}
 {"parent": "NaiveFS.Multinomial.claim_w_ge_v", "child": "NaiveFS_Multinomial_Model", "via": ["statement"]}
 {"parent": "ModernConvex.EllipsoidMethod.half_ellipsoid_cover", "child": "ModernConvex_EllipsoidMethod_EllipsoidMethod", "via": ["solution", "statement"]}

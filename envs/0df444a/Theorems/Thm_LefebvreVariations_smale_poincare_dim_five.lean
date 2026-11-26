@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:33:06.524716+00:00
 -- url     : https://prove2.me/theorems/4920344a-d69e-4aa8-87bf-e00f650b5791
 -- title:
---   Lefebvre's variations, No. 176 — on a theme by Smale: a closed smooth 5-manifold homotopy equivalent to the 5-sphere is homeomorphic to it
+--   Lefebvre's variations, No. 214 — on a theme by Smale: a closed smooth 5-manifold homotopy equivalent to the 5-sphere is homeomorphic to it
 -- statement:
 --   Let $M$ be a closed (compact Hausdorff) smooth $5$-manifold which is homotopy equivalent to the sphere $S^5$. Then $M$ is homeomorphic to $S^5$:
 --   $$M\simeq S^5\;\Longrightarrow\; M\approx S^5 .$$

@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:10:51.996156+00:00
 -- url     : https://prove2.me/theorems/e78cf869-c535-4fd9-bd22-fe6acfd518d8
 -- title:
---   Lefebvre's variations, No. 11 — on a theme by Redheffer: the Redheffer determinant equals the Mertens function
+--   Lefebvre's variations, No. 12 — on a theme by Redheffer: the Redheffer determinant equals the Mertens function
 -- statement:
 --   This is Redheffer's identity, the bridge between the Redheffer-matrix criterion for the Riemann Hypothesis and the Mertens function.
 --

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_example_schurQuotient_hyp_6abda290a057
 -- name    : P2M_GroundTheory_Heights__Heights_example_schurQuotient_hyp_6abda290a057
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:42:27.161605+00:00
 -- url     : https://prove2.me/theorems/30ed4142-2a49-540c-a27a-6ee08cbb6155

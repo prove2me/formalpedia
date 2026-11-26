@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ClassNumImQ_ZetaNonvanishing__cnt_eq_zero_of_8b919f503d1d
 -- name    : P2M_PI_ClassNumImQ_ZetaNonvanishing__cnt_eq_zero_of_8b919f503d1d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:42:53.249282+00:00
 -- url     : https://prove2.me/theorems/5a582f45-6398-5a27-b063-665b826554bd

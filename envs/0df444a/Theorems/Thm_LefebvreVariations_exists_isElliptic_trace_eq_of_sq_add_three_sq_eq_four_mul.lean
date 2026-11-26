@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:36:46.482168+00:00
 -- url     : https://prove2.me/theorems/9e97d9be-38b6-566c-b794-049d4274434e
 -- title:
---   Lefebvre's variations, No. 190 — on a theme by Deuring and Waterhouse: a curve over $\mathbb{F}_p$ with trace $t$ whenever $t^2+3m^2=4p$ (the $j=0$ CM family)
+--   Lefebvre's variations, No. 228 — on a theme by Deuring and Waterhouse: a curve over $\mathbb{F}_p$ with trace $t$ whenever $t^2+3m^2=4p$ (the $j=0$ CM family)
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

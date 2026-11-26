@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:19:36.259128+00:00
 -- url     : https://prove2.me/theorems/fb0c2bdb-9360-5ff8-8e37-1dd0a1c1feea
 -- title:
---   Lefebvre's variations, No. 47 — on a theme by Conway and Sloane: the kissing number in dimension 6 is at least 72
+--   Lefebvre's variations, No. 52 — on a theme by Conway and Sloane: the kissing number in dimension 6 is at least 72
 -- statement:
 --   Let $\tau(6)$ be the kissing number in dimension $6$: the largest number of non-overlapping unit balls in $\mathbb{R}^{6}$ that can touch a common unit ball, equivalently the largest size of a finite set of unit vectors in $\mathbb{R}^{6}$ with pairwise inner products at most $\tfrac12$. Then
 --   $$

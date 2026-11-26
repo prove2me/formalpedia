@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellVsPPU_Duopoly_a21_seller_best_response
 -- name    : SellVsPPU.Duopoly.a21_seller_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:45:13.277622+00:00
 -- url     : https://prove2.me/theorems/ecc51ba3-2fbc-4237-8b2a-cebdfb6870e7

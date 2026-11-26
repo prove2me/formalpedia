@@ -56679,7 +56679,7 @@
 {"parent": "BipartiteVRM.Competitive.Supplement.lemma_5_6", "child": "BipartiteVRM_Competitive_Supplement_Specifications", "via": ["statement"]}
 {"parent": "CritWinSpin.p4b_lemma_4_2_from_lemma_3_1_i", "child": "CritWinSpin_SpinLaw", "via": ["solution", "statement"]}
 {"parent": "CritWinSpin.p4b_lemma_4_2_from_lemma_3_1_i", "child": "CritWinSpin_Wpot", "via": ["solution", "statement"]}
-{"parent": "KTaxi.Competitive.Supplement.lemma_C_1", "child": "KTaxi_Competitive_Supplement_Memoryless", "via": ["statement"]}
+{"parent": "KTaxi.Competitive.Supplement.lemma_C_1", "child": "KTaxi_Competitive_Supplement_Memoryless", "via": ["solution", "statement"]}
 {"parent": "QMatVecLB.ConvexOpt.Supplement.lemma_4_1", "child": "QMatVecLB_ConvexOpt_Supplement_Witness", "via": ["statement"]}
 {"parent": "DoublyEffIP_Supplement_encGate", "child": "DoublyEffIP_Supplement_Gate", "via": ["statement"]}
 {"parent": "DoublyEffIP_Supplement_encGate", "child": "DoublyEffIP_encBin", "via": ["statement"]}
@@ -75820,7 +75820,7 @@
 {"parent": "N25.jAnalytic_middle_ratio_limit", "child": "ModularCurve.hasSum_jNum_qParam", "via": ["solution", "statement"]}
 {"parent": "N25.jAnalytic_middle_ratio_limit", "child": "ModularCurve_JqCoeff", "via": ["solution", "statement"]}
 {"parent": "N25.jAnalytic_middle_ratio_limit", "child": "N25_UnitAnalytic", "via": ["solution", "statement"]}
-{"parent": "LonelyRunnerConjecture.rosenfeld_eight_runners", "child": "LonelyRunnerConjecture_Defs", "via": ["statement"]}
+{"parent": "LonelyRunnerConjecture.rosenfeld_eight_runners", "child": "LonelyRunnerConjecture_Defs", "via": ["solution", "statement"]}
 {"parent": "Scratch.TateZ2xZ10Reduction.translateToOriginTangent_a3", "child": "TateZ2xZ10Reduction", "via": ["solution", "statement"]}
 {"parent": "PhysReaudit_Supplement_certL", "child": "PhysReaudit_run", "via": ["statement"]}
 {"parent": "PhysReaudit_Supplement_certL", "child": "PhysReaudit_Rule", "via": ["statement"]}
@@ -77466,7 +77466,7 @@
 {"parent": "N25.fricke_selected_cusp_width", "child": "ModularCurve.diamondAutHBar_apply_coeffEmb_eq_coeffEmb_ringAut_apply", "via": ["solution", "statement"]}
 {"parent": "N25_CanonicalAChartTower", "child": "N25_CanonicalUnitPlane", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLowSlabSixteenthCell08", "child": "row23_rh_supp_RHLowSlabSixteenthPilot", "via": ["statement"]}
-{"parent": "LonelyRunnerConjecture.tao_finite_checking", "child": "LonelyRunnerConjecture_Defs", "via": ["statement"]}
+{"parent": "LonelyRunnerConjecture.tao_finite_checking", "child": "LonelyRunnerConjecture_Defs", "via": ["solution", "statement"]}
 {"parent": "SparseDisc.Supplement.theorem_1_8", "child": "SparseDisc_IsCactus", "via": ["statement"]}
 {"parent": "SparseDisc.Supplement.theorem_1_8", "child": "SparseDisc_Supplement_PortCondition", "via": ["statement"]}
 {"parent": "SparseDisc.Supplement.theorem_1_8", "child": "SparseDisc_DiscLE", "via": ["statement"]}
@@ -79797,8 +79797,8 @@
 {"parent": "N25.Endgame.rational_eq_zero_of_two_nsmul", "child": "ModularCurve.qExpFunctionFieldC_eq_adjoin_image_coeffMap_qExpFunctionFieldC", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB31_reflected_capped_closed_hit_rightCont_stop", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB31_reflected_capped_closed_hit_rightCont_stop", "child": "AvramDividend.Classical.reflectedSup_capped_firstClosedHit_isStoppingTime", "via": ["solution", "statement"]}
-{"parent": "HirschDim4.h12_6_bound", "child": "Hirsch_model", "via": ["statement"]}
-{"parent": "HirschDim4.h12_6_bound", "child": "SantosHirsch_Counter_Setting", "via": ["statement"]}
+{"parent": "HirschDim4.h12_6_bound", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "HirschDim4.h12_6_bound", "child": "SantosHirsch_Counter_Setting", "via": ["solution", "statement"]}
 {"parent": "SkipListConc_Supplement_costXb", "child": "SkipListConc_Supplement_rsHeightChange", "via": ["statement"]}
 {"parent": "SkipListConc_Supplement_costXb", "child": "SkipListConc_Supplement_rsHeight", "via": ["statement"]}
 {"parent": "SkipListConc_Supplement_costXb", "child": "SkipListConc_searchCost", "via": ["statement"]}
@@ -80711,8 +80711,8 @@
 {"parent": "MantriCVQ.Supplement.theorem_1_3", "child": "MantriCVQ_Supplement_HeightFunction", "via": ["statement"]}
 {"parent": "MantriCVQ.Supplement.theorem_1_3", "child": "MantriCVQ_Supplement_HeightBounds", "via": ["statement"]}
 {"parent": "FourierEntropyApprox_Supplement_avgdegCJ", "child": "FourierEntropyApprox_Supplement_cubeSet", "via": ["statement"]}
-{"parent": "HirschDim4.h8_4_bound", "child": "Hirsch_model", "via": ["statement"]}
-{"parent": "HirschDim4.h8_4_bound", "child": "SantosHirsch_Counter_Setting", "via": ["statement"]}
+{"parent": "HirschDim4.h8_4_bound", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "HirschDim4.h8_4_bound", "child": "SantosHirsch_Counter_Setting", "via": ["solution", "statement"]}
 {"parent": "N25.unitLaurentField25C_eq_modularField_iff", "child": "N25_CoefficientMap", "via": ["solution", "statement"]}
 {"parent": "N25.unitLaurentField25C_eq_modularField_iff", "child": "N25_UnitLaurentField", "via": ["solution", "statement"]}
 {"parent": "N25.unitLaurentField25C_eq_modularField_iff", "child": "ModularCurve.qExpFunctionFieldC_eq_adjoin_image_coeffMap_qExpFunctionFieldC", "via": ["solution", "statement"]}
@@ -83006,7 +83006,7 @@
 {"parent": "RobustKellyTV_Supplement_oracleMixture", "child": "RobustKellyTV_oracleE", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLowSlabSixteenthCell01", "child": "row23_rh_supp_RHLowSlabSixteenthPilot", "via": ["statement"]}
 {"parent": "QuantumLTF.Membership.Supplement.theorem_5_12", "child": "QuantumLTF_Membership_Supplement_QExLearner", "via": ["solution", "statement"]}
-{"parent": "LonelyRunnerConjecture.eleven_twelve_thirteen", "child": "LonelyRunnerConjecture_Defs", "via": ["statement"]}
+{"parent": "LonelyRunnerConjecture.eleven_twelve_thirteen", "child": "LonelyRunnerConjecture_Defs", "via": ["solution", "statement"]}
 {"parent": "KelnerLinSolve.Supplement.theorem_3_1", "child": "KelnerLinSolve_Supplement_IntSolveInput", "via": ["statement"]}
 {"parent": "KelnerLinSolve.Supplement.theorem_3_1", "child": "IntMul_MultitapeWords", "via": ["statement"]}
 {"parent": "KelnerLinSolve.Supplement.theorem_3_1", "child": "KelnerLinSolve_solvePerturbedRes", "via": ["statement"]}
@@ -87809,7 +87809,7 @@
 {"parent": "APFPaper5.K2.source_hold_ends_reversed", "child": "APFPaper5.K1.orientationForm_zero_of_symm", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.source_hold_ends_reversed", "child": "APFPaper5.K1.tableForm_isBilinear", "via": ["solution", "statement"]}
 {"parent": "SuperlatSVP.Supplement.theorem_1_9", "child": "SuperlatSVP_Supplement_SamplesDGSWithin", "via": ["statement"]}
-{"parent": "LonelyRunnerConjecture.trakulthongchai_nine_ten", "child": "LonelyRunnerConjecture_Defs", "via": ["statement"]}
+{"parent": "LonelyRunnerConjecture.trakulthongchai_nine_ten", "child": "LonelyRunnerConjecture_Defs", "via": ["solution", "statement"]}
 {"parent": "SparseDisc.Supplement.theorem_8_22", "child": "SparseDisc_IsLevelGood", "via": ["statement"]}
 {"parent": "SparseDisc.Supplement.theorem_8_22", "child": "SparseDisc_IsCGood", "via": ["statement"]}
 {"parent": "SparseDisc.Supplement.theorem_8_22", "child": "SparseDisc_Supplement_NoTwoNeighboursOnAvoidingCycle", "via": ["statement"]}

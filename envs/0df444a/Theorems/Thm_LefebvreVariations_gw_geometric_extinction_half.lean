@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:25:57.274807+00:00
 -- url     : https://prove2.me/theorems/63deb3da-5942-5212-8e6e-e37e2d1c0890
 -- title:
---   Lefebvre's variations, No. 163 — on a theme by Galton and Watson: the Galton-Watson process with geometric offspring law of mean 2 goes extinct with probability 1/2
+--   Lefebvre's variations, No. 201 — on a theme by Galton and Watson: the Galton-Watson process with geometric offspring law of mean 2 goes extinct with probability 1/2
 -- statement:
 --   A branching process starts from one individual, each individual having independently $k$ children with probability $\tfrac13\left(\tfrac23\right)^k$ for $k=0,1,2,\dots$. Let $Z_n$ be the size of generation $n$. Then
 --   $$\mathbb{P}\bigl(\exists n,\ Z_n=0\bigr)=\frac12 .$$

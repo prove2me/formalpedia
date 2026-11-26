@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Gen_Q_le_P
 -- name    : MohP3.Gen.Q_le_P
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:47:42.456359+00:00
 -- url     : https://prove2.me/theorems/a8b7dd6f-148f-42ab-b687-c216abc4a50a

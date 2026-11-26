@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_SchemeCoh_ProjTwist_smul_apply__3b481a7b9fb8
 -- name    : P2M_GroundTheory_Arith_SchemeCoh_ProjTwist_smul_apply__3b481a7b9fb8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:07:37.71533+00:00
 -- url     : https://prove2.me/theorems/0e8189ba-d85f-4281-a228-4e9b71b33dff

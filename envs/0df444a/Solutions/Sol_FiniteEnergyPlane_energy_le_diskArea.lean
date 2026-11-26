@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FiniteEnergyPlane.energy_le_diskArea
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-11-26T19:50:34.408463+00:00
 -- url     : https://prove2.me/submissions/e80213c9-93ba-4bd8-ab6f-7b937c38e06a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FiniteEnergyPlane_SpanningDisk
 import Mathlib

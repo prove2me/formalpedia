@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FubiniStudyLogRegularization_regMat_mulVec_ne_zero_94fc18949b0a
 -- name    : P2M_GroundTheory_Heights__Heights_FubiniStudyLogRegularization_regMat_mulVec_ne_zero_94fc18949b0a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:14:06.554826+00:00
 -- url     : https://prove2.me/theorems/1acec596-ed83-4e97-975a-bd42a2ca3426

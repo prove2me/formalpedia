@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:34:01.448861+00:00
 -- url     : https://prove2.me/theorems/60cde71e-a807-47b0-8728-ef51a0354c4a
 -- title:
---   Lefebvre's variations, No. 180 — on a theme by Kervaire and Milnor: there is an exotic smooth n-sphere for each n from 8 to 11
+--   Lefebvre's variations, No. 218 — on a theme by Kervaire and Milnor: there is an exotic smooth n-sphere for each n from 8 to 11
 -- statement:
 --   For every integer $n$ with $8\le n\le 11$ there is a smooth ($C^\infty$) $n$-manifold $M$ which is homeomorphic to the sphere $S^n\subset\mathbb{R}^{n+1}$ but not diffeomorphic to it:
 --   $$\exists M,\quad M\approx S^n\quad\text{and}\quad M\not\cong_{C^\infty}S^n .$$

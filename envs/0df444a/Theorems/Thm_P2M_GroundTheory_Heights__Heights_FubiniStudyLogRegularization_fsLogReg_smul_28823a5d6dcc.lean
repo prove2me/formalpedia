@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FubiniStudyLogRegularization_fsLogReg_smul_28823a5d6dcc
 -- name    : P2M_GroundTheory_Heights__Heights_FubiniStudyLogRegularization_fsLogReg_smul_28823a5d6dcc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:14:51.76703+00:00
 -- url     : https://prove2.me/theorems/a099d7d4-e43d-57f4-af6d-58dd50a54e46

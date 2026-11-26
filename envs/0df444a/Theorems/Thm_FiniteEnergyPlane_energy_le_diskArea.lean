@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_energy_le_diskArea
 -- name    : FiniteEnergyPlane.energy_le_diskArea
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-25T20:36:28.085385+00:00
 -- url     : https://prove2.me/theorems/784eedfc-412b-4469-ba9f-fff96fdc46d8

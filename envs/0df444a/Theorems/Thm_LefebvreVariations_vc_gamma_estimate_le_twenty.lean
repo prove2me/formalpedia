@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:37:32.130059+00:00
 -- url     : https://prove2.me/theorems/2206ecad-5731-5780-bbd9-a82afbacfacf
 -- title:
---   Lefebvre's variations, No. 195 — on a theme by Vapnik and Chervonenkis: the Vapnik–Chervonenkis Γ estimate for double samples of size at most 40
+--   Lefebvre's variations, No. 234 — on a theme by Vapnik and Chervonenkis: the Vapnik–Chervonenkis Γ estimate for double samples of size at most 40
 -- statement:
 --   Let $l$ and $m$ be integers with $1\le l\le 20$ and $0\le m\le 2l$, and let $\varepsilon>0$ be real. Then
 --   $$

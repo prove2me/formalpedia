@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FibreMeasure_IsTransChart_chartProj_of___eq_zero_a1fafd66928d
 -- name    : P2M_GroundTheory_Heights__Theta_FibreMeasure_IsTransChart_chartProj_of___eq_zero_a1fafd66928d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:04.013024+00:00
 -- url     : https://prove2.me/theorems/308bb276-c1d9-5aaa-96d9-dad622c300b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnThenTest_max_pvalue_valid
 -- name    : LearnThenTest.max_pvalue_valid
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T00:09:53.773257+00:00
 -- url     : https://prove2.me/theorems/95dbc84d-9715-4850-b677-99743ad5259e

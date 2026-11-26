@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:38:30.70173+00:00
 -- url     : https://prove2.me/theorems/3b1a4f62-45aa-59b6-8dd0-e3e2e75c49fc
 -- title:
---   Lefebvre's variations, No. 200 — on a theme by Toeplitz: every triangle has an inscribed square on its boundary
+--   Lefebvre's variations, No. 240 — on a theme by Toeplitz: every triangle has an inscribed square on its boundary
 -- statement:
 --   Let $a,b,c\in\mathbb{R}^2$ be three non-collinear points and let $C=\partial\,\mathrm{conv}\{a,b,c\}$ be the boundary of the triangle they span. Then $C$ contains the four vertices $p_1,p_2,p_3,p_4$ of a (non-degenerate) square:
 --   $$\exists\,p_1,p_2,p_3,p_4\in C:\quad p_1p_2p_3p_4\ \text{is a square}.$$

@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:35:52.626067+00:00
 -- url     : https://prove2.me/theorems/b4e604b1-4510-48bf-87cc-a56a58bb041a
 -- title:
---   Lefebvre's variations, No. 22 — on a theme by Tunnell: Tunnell's converse in the odd case for $n\le 100$
+--   Lefebvre's variations, No. 25 — on a theme by Tunnell: Tunnell's converse in the odd case for $n\le 100$
 -- statement:
 --   This is the converse of Tunnell's criterion, in the odd case, for all $n\le100$.
 --

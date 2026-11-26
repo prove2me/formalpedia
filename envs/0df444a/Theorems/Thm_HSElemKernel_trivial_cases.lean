@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HSElemKernel_trivial_cases
 -- name    : HSElemKernel.trivial_cases
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T17:24:42.756988+00:00
 -- url     : https://prove2.me/theorems/ed691f79-cbf4-4a55-bf03-23fe1f4dd3a3

@@ -23541,12 +23541,12 @@
 {"parent": "Kyprianou.Ch05.markedPositiveCrossingAmbientMeasurableV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.markedPositiveCrossingAmbientMeasurableV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.markedPositiveCrossingAmbientMeasurableV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "LeanLevy_RandomMeasure_PoissonFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "LeanLevy_RandomMeasure_PoissonFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.positivePoissonJumpHasActiveMarkV1", "child": "LeanLevy_RandomMeasure_PoissonFiltration", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.positivePoissonJumpHasActiveMarkV1", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.positivePoissonJumpHasActiveMarkV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
@@ -23734,12 +23734,12 @@
 {"parent": "section5_uniform_qex_window_error", "child": "QuantumLTF_Membership_flatReg", "via": ["solution", "statement"]}
 {"parent": "SierpinskiSeparates.exists_embeddable", "child": "KnotsInsideFractals_fractals", "via": ["statement"]}
 {"parent": "SierpinskiSeparates.exists_embeddable", "child": "KnotsInsideFractals_knots", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "LeanLevy_RandomMeasure_PoissonFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "LeanLevy_RandomMeasure_PoissonFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
 {"parent": "section5_uniform_matrix_power_circuit", "child": "Section5Verified_Section5IntegerMatrixBounds", "via": ["solution", "statement"]}
 {"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution", "statement"]}
 {"parent": "section5_uniform_matrix_power_circuit", "child": "QuantumLTF_Membership_splitReg", "via": ["solution", "statement"]}
@@ -24078,7 +24078,7 @@
 {"parent": "Kyprianou.Ch05.karamataTauberianZeroCumulativeFinite", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.karamataTauberianZeroCumulativeFinite", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.karamataTauberianZeroCumulativeFinite", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
-{"parent": "FiniteEnergyPlane.ofReal_integral_liouville_le_diskArea", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.ofReal_integral_liouville_le_diskArea", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.ito43_cosine_exponent_identity", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.ito43_cosine_exponent_identity", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.ito43_cosine_exponent_identity", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
@@ -33881,7 +33881,7 @@
 {"parent": "OnlineUBSR_Supplement_Model", "child": "OnlineUBSR_proj", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.karamataDilationLaplace", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.karamataDilationLaplace", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.potentialAllScalesFromLaplaceRatios", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.potentialAllScalesFromLaplaceRatios", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
 {"parent": "LefebvreVariations.laplace_rlDeriv_half_exp", "child": "QueueingFundamentals_Transient_laplace", "via": ["statement"]}
 {"parent": "LefebvreVariations.laplace_rlDeriv_half_exp", "child": "FractionalCalc_mittagLeffler", "via": ["statement"]}
 {"parent": "LefebvreVariations.laplace_rlDeriv_half_exp", "child": "FractionalCalc_rlIntegral", "via": ["statement"]}
@@ -33965,10 +33965,10 @@
 {"parent": "StreamSubmod.Supplement.lemma_23", "child": "NonmonotoneSubmod_Shared_F", "via": ["statement"]}
 {"parent": "StreamSubmod.Supplement.lemma_23", "child": "StreamSubmod_Supplement_Basic", "via": ["statement"]}
 {"parent": "FiniteEnergyPlane.exists_exitTime_of_leavesRadiateFrom", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.monotoneStrictPassageDiscountedTailV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.monotoneStrictPassageDiscountedTailV1", "child": "Kyprianou_Ch05_TailRatioClassL", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.monotoneStrictPassageDiscountedTailV1", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.monotoneStrictPassageDiscountedTailV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageDiscountedTailV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageDiscountedTailV1", "child": "Kyprianou_Ch05_TailRatioClassL", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageDiscountedTailV1", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageDiscountedTailV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
 {"parent": "StreamSubmod_Supplement_Algorithm3", "child": "StreamSubmod_postProcess", "via": ["statement"]}
 {"parent": "StreamSubmod_Supplement_Algorithm3", "child": "StreamSubmod_Supplement_Basic", "via": ["statement"]}
 {"parent": "StreamSubmod_Supplement_Algorithm3", "child": "NonmonotoneSubmod_Shared_F", "via": ["statement"]}
@@ -33990,8 +33990,8 @@
 {"parent": "C6BipartiteDomination.support_union_card_le_degree", "child": "C6BipartiteDomination_A7", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.bipartite_add_with_single_neighbor", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.bipartite_add_with_single_neighbor", "child": "C6BipartiteDomination_A8", "via": ["solution", "statement"]}
-{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination_A9", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination_A8", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination_A8", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.nonisolated_of_mem_BPart", "child": "C6BipartiteDomination_A5", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.nonisolated_of_mem_BPart", "child": "C6BipartiteDomination_A6", "via": ["solution", "statement"]}
 {"parent": "MasulloRH.nine_shift_gaussian_zero_free_rectangle", "child": "MasulloRH_NineShiftWindows", "via": ["statement"]}
@@ -34031,20 +34031,20 @@
 {"parent": "Kyprianou.Ch05.karamataGammaReference", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.karamataGammaReference", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
 {"parent": "OnlineUBSR.Supplement.lemma_1", "child": "OnlineUBSR_Supplement_Model", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.chosen_repair_beta_three", "child": "C6BipartiteDomination_A7", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.chosen_repair_beta_three", "child": "C6BipartiteDomination_A8", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.chosen_repair_beta_three", "child": "C6BipartiteDomination_A7", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.chosen_repair_beta_three", "child": "C6BipartiteDomination_A8", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination_A4", "child": "C6BipartiteDomination_A3", "via": ["statement"]}
 {"parent": "LefebvreVariations.five_ball_obstruction_dim4", "child": "BallPacking", "via": ["statement"]}
 {"parent": "LefebvreVariations.five_ball_obstruction_dim4", "child": "SymplecticBallPacking", "via": ["statement"]}
 {"parent": "MasulloRH.nine_shift_interpolation_tables", "child": "MasulloRH_NineShiftWindows", "via": ["solution", "statement"]}
-{"parent": "C6BipartiteDomination.lemma_7_2_charge_values", "child": "C6BipartiteDomination_A6", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.lemma_7_2_charge_values", "child": "C6BipartiteDomination_A7", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.lemma_7_2_charge_values", "child": "C6BipartiteDomination_A6", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.lemma_7_2_charge_values", "child": "C6BipartiteDomination_A7", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.ZPart_eq_Z0_union_Z1", "child": "C6BipartiteDomination_A5", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.ZPart_eq_Z0_union_Z1", "child": "C6BipartiteDomination_A4", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.mem_Z1Part", "child": "C6BipartiteDomination_A5", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.mem_Z1Part", "child": "C6BipartiteDomination_A4", "via": ["solution", "statement"]}
-{"parent": "C6BipartiteDomination.beta_ge_two_of_k_ge_two", "child": "C6BipartiteDomination_A6", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.beta_ge_two_of_k_ge_two", "child": "C6BipartiteDomination_A7", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.beta_ge_two_of_k_ge_two", "child": "C6BipartiteDomination_A6", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.beta_ge_two_of_k_ge_two", "child": "C6BipartiteDomination_A7", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination_A6", "child": "C6BipartiteDomination_A5", "via": ["statement"]}
 {"parent": "MasulloRH_NineShiftWindows", "child": "MasulloRH_InteriorEvaluator", "via": ["statement"]}
 {"parent": "MasulloRH_NineShiftWindows", "child": "MasulloRH_FixedGaussianTest", "via": ["statement"]}
@@ -34054,22 +34054,22 @@
 {"parent": "C6BipartiteDomination.empty_privateExternalNeighbors_contradiction", "child": "C6BipartiteDomination_A4", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.card_PPart", "child": "C6BipartiteDomination_A5", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.card_PPart", "child": "C6BipartiteDomination_A6", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.neighbor_of_independent_outside", "child": "C6BipartiteDomination_A3", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.neighbor_of_independent_outside", "child": "C6BipartiteDomination_A2", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.exists_canonical_two_level_optimum", "child": "C6BipartiteDomination_A3", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.exists_canonical_two_level_optimum", "child": "C6BipartiteDomination_A4", "via": ["solution", "statement"]}
 {"parent": "StreamSubmod.Supplement.corollary_28", "child": "StreamSubmod_IsStream", "via": ["statement"]}
@@ -34094,30 +34094,30 @@
 {"parent": "C6BipartiteDomination.bipartite_base_of_beta_eq_one", "child": "C6BipartiteDomination_A7", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.lemma_6_1_charge_identity_of_counts", "child": "C6BipartiteDomination_A5", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.lemma_6_1_charge_identity_of_counts", "child": "C6BipartiteDomination_A6", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
 {"parent": "LefebvreVariations.square_peg_polygon", "child": "SchoenfliesCurveCore", "via": ["statement"]}
 {"parent": "LefebvreVariations.square_peg_polygon", "child": "SquarePeg_shapes", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
 {"parent": "LefebvreVariations.four_ball_full_packing_dim4", "child": "BallPacking", "via": ["statement"]}
 {"parent": "LefebvreVariations.four_ball_full_packing_dim4", "child": "SymplecticBallPacking", "via": ["statement"]}
 {"parent": "C6BipartiteDomination.Z0_Z1_disjoint", "child": "C6BipartiteDomination_A5", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.Z0_Z1_disjoint", "child": "C6BipartiteDomination_A4", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.private_card_eq_two_add_x", "child": "C6BipartiteDomination_A5", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.private_card_eq_two_add_x", "child": "C6BipartiteDomination_A6", "via": ["solution", "statement"]}
-{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination_A9", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination_A8", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination_A8", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.coronaWitness_isBipartiteDominating", "child": "C6BipartiteDomination_Corona", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.coronaWitness_isBipartiteDominating", "child": "C6BipartiteDomination_Basic", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.neighborsIn_self_subset", "child": "C6BipartiteDomination_A3", "via": ["solution", "statement"]}
@@ -34167,20 +34167,20 @@
 {"parent": "LefebvreVariations.seven_ball_obstruction_dim4", "child": "SymplecticBallPacking", "via": ["statement"]}
 {"parent": "MasulloRH.nine_rational_theta_shifts_on_every_gaussian_window", "child": "MasulloRH_NineShiftWindows", "via": ["statement"]}
 {"parent": "OnlineUBSR.Supplement.theorem_3", "child": "OnlineUBSR_Supplement_Model", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.lemma_8_5_compensation_lower_bound", "child": "C6BipartiteDomination_A9", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.lemma_8_5_compensation_lower_bound", "child": "C6BipartiteDomination_A8", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_compensation_lower_bound", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_compensation_lower_bound", "child": "C6BipartiteDomination_A8", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.supportB_card", "child": "C6BipartiteDomination_A6", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.supportB_card", "child": "C6BipartiteDomination_A7", "via": ["solution", "statement"]}
 {"parent": "MasulloRH.nine_shift_residual_uniform_exterior", "child": "MasulloRH_NineShiftWindows", "via": ["solution", "statement"]}
 {"parent": "MarketMakerAds.Supplement.theorem_4", "child": "MarketMakerAds_Supplement_HetMarket", "via": ["statement"]}
 {"parent": "C6BipartiteDomination_A9", "child": "C6BipartiteDomination_A8", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.chosen_repairs_beta_two", "child": "C6BipartiteDomination_A7", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.chosen_repairs_beta_two", "child": "C6BipartiteDomination_A8", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.chosen_repairs_beta_two", "child": "C6BipartiteDomination_A7", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.chosen_repairs_beta_two", "child": "C6BipartiteDomination_A8", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.karamataScaledMeasureData", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.karamataScaledMeasureData", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
 {"parent": "OnlineUBSR.Supplement.lemma_4", "child": "OnlineUBSR_Supplement_Model", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.chosen_repair_set", "child": "C6BipartiteDomination_A7", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.chosen_repair_set", "child": "C6BipartiteDomination_A8", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.chosen_repair_set", "child": "C6BipartiteDomination_A7", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.chosen_repair_set", "child": "C6BipartiteDomination_A8", "via": ["solution", "statement"]}
 {"parent": "StreamSubmod.Supplement.corollary_26", "child": "StreamSubmod_IsStream", "via": ["statement"]}
 {"parent": "StreamSubmod.Supplement.corollary_26", "child": "StreamSubmod_optVal", "via": ["statement"]}
 {"parent": "StreamSubmod.Supplement.corollary_26", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
@@ -34197,18 +34197,18 @@
 {"parent": "C6BipartiteDomination.Z0_disjoint_B", "child": "C6BipartiteDomination_A7", "via": ["solution", "statement"]}
 {"parent": "FiniteEnergyPlane.injOn_Ico_of_hasLoopWind_one", "child": "FiniteEnergyPlane_Winding", "via": ["solution", "statement"]}
 {"parent": "OnlineUBSR.Supplement.theorem_2", "child": "OnlineUBSR_Supplement_Model", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.lemma_8_1_add_vertex_criterion", "child": "C6BipartiteDomination_A7", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.lemma_8_1_add_vertex_criterion", "child": "C6BipartiteDomination_A8", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.lemma_8_1_add_vertex_criterion", "child": "C6BipartiteDomination_A7", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.lemma_8_1_add_vertex_criterion", "child": "C6BipartiteDomination_A8", "via": ["solution", "statement"]}
 {"parent": "StreamSubmod_Supplement_IsRounding", "child": "NonmonotoneSubmod_Shared_F", "via": ["statement"]}
 {"parent": "StreamSubmod_Supplement_IsRounding", "child": "StreamSubmod_Supplement_Basic", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.mem_degreeTo", "child": "C6BipartiteDomination_A5", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.mem_degreeTo", "child": "C6BipartiteDomination_A6", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.mem_degreeTo", "child": "C6BipartiteDomination_A5", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.mem_degreeTo", "child": "C6BipartiteDomination_A6", "via": ["solution", "statement"]}
 {"parent": "SATLocalQuery.Detector.randomized_singleton_success_card_le", "child": "SATLocalQueryDetector", "via": ["solution", "statement"]}
-{"parent": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "child": "C6BipartiteDomination_A6", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "child": "C6BipartiteDomination_A7", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "child": "C6BipartiteDomination_A6", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "child": "C6BipartiteDomination_A7", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_locmoll_uniform_negative_jump_min_sq", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination_A9", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination_A8", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination_A8", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.neighborsIn_eq_of_dominates", "child": "C6BipartiteDomination_A3", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.neighborsIn_eq_of_dominates", "child": "C6BipartiteDomination_A2", "via": ["solution", "statement"]}
 {"parent": "OnlineUBSR.Supplement.lemma_2", "child": "OnlineUBSR_Supplement_Model", "via": ["statement"]}
@@ -34241,8 +34241,8 @@
 {"parent": "C6BipartiteDomination.bipartite_add_of_uniform_neighbors", "child": "C6BipartiteDomination_A7", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.bipartite_add_of_uniform_neighbors", "child": "C6BipartiteDomination_A8", "via": ["solution", "statement"]}
 {"parent": "MarketMakerAds.Supplement.proposition_2", "child": "MarketMakerAds_pStar", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.lemma_6_1_charge_identity", "child": "C6BipartiteDomination_A5", "via": ["statement"]}
-{"parent": "C6BipartiteDomination.lemma_6_1_charge_identity", "child": "C6BipartiteDomination_A6", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.lemma_6_1_charge_identity", "child": "C6BipartiteDomination_A5", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.lemma_6_1_charge_identity", "child": "C6BipartiteDomination_A6", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.karamataExpTiltSupport", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
 {"parent": "C6BipartiteDomination.mem_internalArcs", "child": "C6BipartiteDomination_A3", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.mem_internalArcs", "child": "C6BipartiteDomination_A4", "via": ["solution", "statement"]}
@@ -34257,7 +34257,7 @@
 {"parent": "Kyprianou.Ch05.karamataExpTiltData", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
 {"parent": "C6BipartiteDomination_A5", "child": "C6BipartiteDomination_A4", "via": ["statement"]}
 {"parent": "OnlineUBSR.Supplement.lemma_5", "child": "OnlineUBSR_Supplement_Model", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.karamataLaplaceFamilyCumulative", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.karamataLaplaceFamilyCumulative", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.karamataLaplaceFamilyCumulative", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
 {"parent": "C6BipartiteDomination_A8", "child": "C6BipartiteDomination_A7", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.monotonePassageClockNonnegativeV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
@@ -34273,7 +34273,7 @@
 {"parent": "C6BipartiteDomination.isolatedSubset_dominates_region", "child": "C6BipartiteDomination_Basic", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.minimal_deficient_card_ge_two", "child": "C6BipartiteDomination_A3", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.minimal_deficient_card_ge_two", "child": "C6BipartiteDomination_A2", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.injOn_leafSweep", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.injOn_leafSweep", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.mem_sharedCompensation", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.mem_sharedCompensation", "child": "C6BipartiteDomination_A8", "via": ["solution", "statement"]}
 {"parent": "C6BipartiteDomination.singleton_privateExternalNeighbors_contradiction", "child": "C6BipartiteDomination_A3", "via": ["solution", "statement"]}
@@ -34501,3 +34501,934 @@
 {"parent": "C6BipartiteDomination.bipartite_replacement_of_base", "child": "C6BipartiteDomination.mem_ZPart", "via": ["solution"]}
 {"parent": "C6BipartiteDomination.bipartite_replacement_of_base", "child": "C6BipartiteDomination.selected_Z_isolated", "via": ["solution"]}
 {"parent": "C6BipartiteDomination.bipartite_replacement_of_base", "child": "C6BipartiteDomination.mem_BPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.main_upper_bound_gamma", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.main_upper_bound_gamma", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.main_upper_bound_gamma", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "ReusableMatching.Supplement.claim_4", "child": "ReusableMatching_Supplement_OPDMatching", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.degreeTo_induce_eq_degreeWithinSet", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.degreeTo_induce_eq_degreeWithinSet", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.mem_paper11K3Supports", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.mem_paper11K3Supports", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_leaf_degree", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_leaf_degree", "child": "C6BipartiteDomination_ExtremalResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_leaf_degree", "child": "C6BipartiteDomination_Corona", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_k4_support_total_resource_ge_14", "child": "C6BipartiteDomination_PaperSection11", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11_k4_support_total_resource_ge_14", "child": "C6BipartiteDomination_PaperSection10", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_degree_eq_chosen_card", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_degree_eq_chosen_card", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "TreeStack.rootEstimate_le_estim", "child": "TreeStack_Estimator", "via": ["solution", "statement"]}
+{"parent": "TreeStack.rootEstimate_le_estim", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_degree_two_compensation_cases", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_degree_two_compensation_cases", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "TwoStageMatch_Supplement_Algorithm4", "child": "TwoStageMatch_Supplement_Matroid", "via": ["statement"]}
+{"parent": "TwoStageMatch_Supplement_Algorithm4", "child": "TwoStageMatch_Algorithm1", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_time_integral_measurable", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_time_integral_measurable", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_time_integral_measurable", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_time_integral_measurable", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_time_integral_measurable", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_time_integral_measurable", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_time_integral_measurable", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_degree_profile", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_degree_profile", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_6", "child": "OnlineSaddlePoint_spRegret", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_6", "child": "OnlineSaddlePoint_Supplement_IsOnlineMatrixAlgorithm", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_6", "child": "OnlineSaddlePoint_Supplement_indRegretX", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_6", "child": "OnlineSaddlePoint_Supplement_indRegretY", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_6", "child": "OnlineSaddlePoint_Supplement_bilinearPayoff", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_6", "child": "OnlineSaddlePoint_Supplement_restrictedSimplex", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_one_at_k4", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_one_at_k4", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "SecSampling.Supplement.theorem_2", "child": "SecSampling_Supplement_ROSp", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_K4_right_disjoint", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_K4_right_disjoint", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination_PaperSection11", "child": "C6BipartiteDomination_PaperSection10", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K3AvailableResource_sum_decomposition", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3AvailableResource_sum_decomposition", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotentialTailClockV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotentialTailClockV1", "child": "Kyprianou_Ch05_TailRatioClassL", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotentialTailClockV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotentialTailClockV1", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.outside_partition_card", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.outside_partition_card", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_left_degree_eq_chosen_card", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_left_degree_eq_chosen_card", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.lemma_6", "child": "OnlineSaddlePoint_IsLipschitzPayoff", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.lemma_6", "child": "OnlineSaddlePoint_IsConvexConcaveOn", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.lemma_6", "child": "OnlineSaddlePoint_minimaxValue", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.lemma_6", "child": "OnlineSaddlePoint_cumPayoff", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.lemma_6", "child": "OnlineSaddlePoint_Supplement_restrictedSimplex", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_resource_eq_owner", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_resource_eq_owner", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_vertex_card", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_vertex_card", "child": "C6BipartiteDomination_ExtremalResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_vertex_card", "child": "C6BipartiteDomination_Corona", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_leaf_neighbor_finset", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_leaf_neighbor_finset", "child": "C6BipartiteDomination_ExtremalResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_leaf_neighbor_finset", "child": "C6BipartiteDomination_Corona", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.zpart_subset_selected", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.zpart_subset_selected", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "TreeStack.stackableAt_of_stackedAt", "child": "TreeStack_PebblingMove", "via": ["solution", "statement"]}
+{"parent": "TreeStack.stackableAt_of_stackedAt", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11AllCompensation_charge_four", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11AllCompensation_charge_four", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "TreeStack.rootEstimate_corrected_expansion", "child": "TreeStack_Estimator", "via": ["solution", "statement"]}
+{"parent": "TreeStack.rootEstimate_corrected_expansion", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_degree_one_resource", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_degree_one_resource", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination_PaperSection9", "child": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "via": ["statement"]}
+{"parent": "C6BipartiteDomination_PaperSection9", "child": "C6BipartiteDomination.chosen_repair_beta_three", "via": ["statement"]}
+{"parent": "C6BipartiteDomination_PaperSection9", "child": "C6BipartiteDomination_A9", "via": ["statement"]}
+{"parent": "C6BipartiteDomination_PaperSection9", "child": "C6BipartiteDomination.chosen_repairs_beta_two", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K3SpecialBudget_cost_bound", "child": "C6BipartiteDomination_PaperSection11", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K3SpecialBudget_cost_bound", "child": "C6BipartiteDomination_PaperSection10", "via": ["statement"]}
+{"parent": "C6BipartiteDomination_MainResults", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_strict_band_clock_family", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_strict_band_clock_family", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "TreeStack.F_of_ge_five_odd", "child": "TreeStack_Transfer", "via": ["statement"]}
+{"parent": "TreeStack.F_of_ge_five_odd", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_smooth_band_stopped_cash_bound", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_smooth_band_stopped_cash_bound", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "TreeStack.F_of_ge_four_even", "child": "TreeStack_Transfer", "via": ["statement"]}
+{"parent": "TreeStack.F_of_ge_four_even", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11AllCompensation_sum_eq_owner_sums", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11AllCompensation_sum_eq_owner_sums", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_edge_mem", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_edge_mem", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_shared_beta_eq_one", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_shared_beta_eq_one", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "TreeStack.OrientedBranch.vertices_nonempty", "child": "TreeStack_Branch", "via": ["statement"]}
+{"parent": "TreeStack.OrientedBranch.vertices_nonempty", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper10_z0_has_S_neighbor", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper10_z0_has_S_neighbor", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "ReusableMatching.Supplement.claim_2", "child": "ReusableMatching_Supplement_OCRRun", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11_owner_resource_sums_union", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_owner_resource_sums_union", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_strict_band_clock_family_given_positive", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_strict_band_clock_family_given_positive", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_Z0_card_le_incidence", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_Z0_card_le_incidence", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_charge_four", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_charge_four", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_eq_K3", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_eq_K3", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.gammaBip_minimum_exists", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.gammaBip_minimum_exists", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.gammaBip_minimum_exists", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "SecSampling.Supplement.theorem_6", "child": "SecSampling_AOSp", "via": ["statement"]}
+{"parent": "TreeStack.F_two", "child": "TreeStack_Transfer", "via": ["solution", "statement"]}
+{"parent": "TreeStack.F_two", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_has_no_isolates", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_has_no_isolates", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_has_no_isolates", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper10SpecialEndpoint_mem", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper10SpecialEndpoint_mem", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_levy_nat_grid_independent", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_levy_nat_grid_independent", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_levy_nat_grid_independent", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_levy_nat_grid_independent", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_levy_nat_grid_independent", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_levy_nat_grid_independent", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_levy_nat_grid_independent", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "ReusableMatching.Supplement.theorem_2", "child": "ReusableMatching_Supplement_OPDMatching", "via": ["statement"]}
+{"parent": "TreeStack.universal_stackable_gt_card", "child": "TreeStack_PebblingMove", "via": ["statement"]}
+{"parent": "TreeStack.universal_stackable_gt_card", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "TreeStack.mass_move_add_one", "child": "TreeStack_PebblingMove", "via": ["solution", "statement"]}
+{"parent": "TreeStack.mass_move_add_one", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "TreeStack.exists_two_le_of_card_lt_mass", "child": "TreeStack_PebblingMove", "via": ["statement"]}
+{"parent": "TreeStack.exists_two_le_of_card_lt_mass", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paperChosenRepairSet_legal", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paperChosenRepairSet_legal", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_degree_eq_incident_card", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_degree_eq_incident_card", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_two", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_two", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.card_liftFinsetToSubtype", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.card_liftFinsetToSubtype", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_degree_profile", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_degree_profile", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "TreeStack.card_add_one_le_rootEstimate_of_degree_pos", "child": "TreeStack_Estimator", "via": ["statement"]}
+{"parent": "TreeStack.card_add_one_le_rootEstimate_of_degree_pos", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_degree_eq_incident_card", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_degree_eq_incident_card", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_selected_neighbor_nonempty", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_selected_neighbor_nonempty", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "UntimedCrossings.nodup_of_fixed_endpoint", "child": "UntimedEndpointExchange", "via": ["solution", "statement"]}
+{"parent": "TreeStack.OrientedBranch.vertices_ssubset_univ", "child": "TreeStack_Branch", "via": ["statement"]}
+{"parent": "TreeStack.OrientedBranch.vertices_ssubset_univ", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "SecSampling.Supplement.lemma_6", "child": "SecSampling_Supplement_ROSp", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_grid_band_clock_family", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_grid_band_clock_family", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper10_lemma_10_1", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper10_lemma_10_1", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.positiveTimeRayIntegralTranslateV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.positiveTimeRayIntegralTranslateV1", "child": "Kyprianou_Ch05_TailRatioClassL", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.positiveTimeRayIntegralTranslateV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.positiveTimeRayIntegralTranslateV1", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "SecSampling.Supplement.lemma_4", "child": "SecSampling_Supplement_ROSp", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.minimumOn_lift_toSubtype", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.minimumOn_lift_toSubtype", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_2", "child": "OnlineSaddlePoint_IsLipschitzPayoff", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_2", "child": "OnlineSaddlePoint_IsSPFTLRun", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_2", "child": "OnlineSaddlePoint_spRegret", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_2", "child": "OnlineSaddlePoint_IsConvexConcaveOn", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_2", "child": "OnlineSaddlePoint_Supplement_regularizedPayoff", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper9_shared_external_charge_eq_four", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_shared_external_charge_eq_four", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_negative_supports_eq_k3_union_k4", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_negative_supports_eq_k3_union_k4", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_4", "child": "OnlineSaddlePoint_Supplement_restrictedSimplex", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_4", "child": "OnlineSaddlePoint_Supplement_onePointEstimate", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_grid_band_stop", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_grid_band_stop", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11_chosen_profile", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_chosen_profile", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_jump_integral_measurable", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_jump_integral_measurable", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_jump_integral_measurable", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_jump_integral_measurable", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_jump_integral_measurable", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_jump_integral_measurable", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_jump_integral_measurable", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
+{"parent": "TreeStack.card_internal_le_weighted_sum", "child": "TreeStack_Estimator", "via": ["solution", "statement"]}
+{"parent": "TreeStack.card_internal_le_weighted_sum", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_core_unselected_card", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_core_unselected_card", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_core_unselected_card", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.mem_paper11K4Supports", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.mem_paper11K4Supports", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_k3_k4_supports_disjoint", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_k3_k4_supports_disjoint", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "TreeStack.OrientedBranch.parent_not_mem_vertices", "child": "TreeStack_Branch", "via": ["solution", "statement"]}
+{"parent": "TreeStack.OrientedBranch.parent_not_mem_vertices", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_debt_bound", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_debt_bound", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "TreeStack.OrientedBranch.childBranch_root", "child": "TreeStack_Branch", "via": ["solution", "statement"]}
+{"parent": "TreeStack.OrientedBranch.childBranch_root", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination_PaperSection11_2", "child": "C6BipartiteDomination_PaperSection11", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.lemma_3", "child": "OnlineSaddlePoint_IsLipschitzPayoff", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.lemma_3", "child": "OnlineSaddlePoint_IsConvexConcaveOn", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.lemma_3", "child": "OnlineSaddlePoint_minimaxValue", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.lemma_3", "child": "OnlineSaddlePoint_cumPayoff", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.lemma_3", "child": "OnlineSaddlePoint_Supplement_regularizedPayoff", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_type_interface", "child": "C6BipartiteDomination_PaperSection11", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_type_interface", "child": "C6BipartiteDomination_PaperSection10", "via": ["statement"]}
+{"parent": "SecSampling.Supplement.lemma_3", "child": "SecSampling_Supplement_ROSp", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11_compensation_unique_B_owner", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_compensation_unique_B_owner", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_single_repair_resource_bound", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_single_repair_resource_bound", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_all_compensation_subset_nonnegative", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_all_compensation_subset_nonnegative", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "TreeStack.OrientedBranch.root_mem_vertices", "child": "TreeStack_Branch", "via": ["solution", "statement"]}
+{"parent": "TreeStack.OrientedBranch.root_mem_vertices", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_total_debt_bound", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_total_debt_bound", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_special_witness_for_budget_vertex", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_special_witness_for_budget_vertex", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageWeightedOccupationV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageWeightedOccupationV1", "child": "Kyprianou_Ch05_TailRatioClassL", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageWeightedOccupationV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageWeightedOccupationV1", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "TreeStack.card_add_one_le_estim", "child": "TreeStack_Estimator", "via": ["statement"]}
+{"parent": "TreeStack.card_add_one_le_estim", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_density_mem_C6", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_density_mem_C6", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_density_mem_C6", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_sequence", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_sequence", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "FramedDescriptor.input_zero_and_output_one_need_bits", "child": "FramedDescriptorBitWidth", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_k4_separate_support", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_k4_separate_support", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "SecSampling_Supplement_ROSp", "child": "SecSampling_AOSp", "via": ["statement"]}
+{"parent": "TreeStack.empty_ne_integer_zero", "child": "TreeStack_Transfer", "via": ["solution", "statement"]}
+{"parent": "TreeStack.empty_ne_integer_zero", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "TreeStack.stackable_of_step", "child": "TreeStack_PebblingMove", "via": ["solution", "statement"]}
+{"parent": "TreeStack.stackable_of_step", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_core_vertices_subset", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_core_vertices_subset", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_core_vertices_subset", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.mem_projectFinsetFromSubtype", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.mem_projectFinsetFromSubtype", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_subset_S", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_subset_S", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_base_charge_sum_bound", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_base_charge_sum_bound", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "TreeStack_Estimator", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper9_unique_extra_S_neighbor", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_unique_extra_S_neighbor", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_degree_six", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_degree_six", "child": "C6BipartiteDomination_ExtremalResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_degree_six", "child": "C6BipartiteDomination_Corona", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_eq_one_at_k4", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_eq_one_at_k4", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_core_leaves_disjoint", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_core_leaves_disjoint", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_core_leaves_disjoint", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_3", "child": "OnlineSaddlePoint_IsLipschitzPayoff", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_3", "child": "OnlineSaddlePoint_IsSPFTLRun", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_3", "child": "OnlineSaddlePoint_spRegret", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_3", "child": "OnlineSaddlePoint_Supplement_bilinearPayoff", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_3", "child": "OnlineSaddlePoint_Supplement_entropicRegularizer", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_3", "child": "OnlineSaddlePoint_Supplement_restrictedSimplex", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.theorem_3", "child": "OnlineSaddlePoint_Supplement_regularizedPayoff", "via": ["statement"]}
+{"parent": "TreeStack.sigmaVertices_eq_insert", "child": "TreeStack_Estimator", "via": ["solution", "statement"]}
+{"parent": "TreeStack.sigmaVertices_eq_insert", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_every_bipartite_dominating_set_card_ge_eight", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_every_bipartite_dominating_set_card_ge_eight", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_every_bipartite_dominating_set_card_ge_eight", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_base_resource_eq_owner", "child": "C6BipartiteDomination_PaperSection11", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_base_resource_eq_owner", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11_Qstar_special_cost_bound", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_Qstar_special_cost_bound", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_sCharge_add_xCharge_le_three", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_sCharge_add_xCharge_le_three", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "TreeStack.card_erase_root_eq_leafCount_add_internal", "child": "TreeStack_Estimator", "via": ["solution", "statement"]}
+{"parent": "TreeStack.card_erase_root_eq_leafCount_add_internal", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination_PaperSection10", "child": "C6BipartiteDomination_PaperSection9", "via": ["statement"]}
+{"parent": "C6BipartiteDomination_ExtremalResults", "child": "C6BipartiteDomination.exists_maximal_independent_subset", "via": ["statement"]}
+{"parent": "C6BipartiteDomination_ExtremalResults", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination_ExtremalResults", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "TwoStageMatch_Supplement_Matroid", "child": "TwoStageMatch_Instance", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageDiscountedOvershootShiftV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageDiscountedOvershootShiftV1", "child": "Kyprianou_Ch05_TailRatioClassL", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageDiscountedOvershootShiftV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageDiscountedOvershootShiftV1", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_disjoint", "child": "C6BipartiteDomination_PaperSection11", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_disjoint", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["statement"]}
+{"parent": "TreeStack.universal_stackable_succ", "child": "TreeStack_PebblingMove", "via": ["statement"]}
+{"parent": "TreeStack.universal_stackable_succ", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_positive_band_clock_certificate", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_positive_band_clock_certificate", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.gammaBip_spec", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.gammaBip_spec", "child": "C6BipartiteDomination_ExtremalResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.gammaBip_spec", "child": "C6BipartiteDomination_Corona", "via": ["solution", "statement"]}
+{"parent": "OnlineSaddlePoint_Supplement_IsOnlineMatrixAlgorithm", "child": "OnlineSaddlePoint_Supplement_restrictedSimplex", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.main_bound_strong_induction", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.main_bound_strong_induction", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.mem_liftFinsetToSubtype", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.mem_liftFinsetToSubtype", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_nonnegative_residual_charge", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_nonnegative_residual_charge", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11AllRepairOwners_subset_B", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11AllRepairOwners_subset_B", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_special_witness_owner_unique", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_special_witness_owner_unique", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_neighbor_partition_disjoint", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_neighbor_partition_disjoint", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "TreeStack.card_add_one_le_rootEstimate", "child": "TreeStack_Estimator", "via": ["statement"]}
+{"parent": "TreeStack.card_add_one_le_rootEstimate", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11_lemma_11_2_global_inequality", "child": "C6BipartiteDomination_PaperSection11", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11_lemma_11_2_global_inequality", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["statement"]}
+{"parent": "TreeStack.mass_oneOn", "child": "TreeStack_PebblingMove", "via": ["solution", "statement"]}
+{"parent": "TreeStack.mass_oneOn", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "TreeStack.not_stackable_oneOn_of_two_le_card", "child": "TreeStack_PebblingMove", "via": ["statement"]}
+{"parent": "TreeStack.not_stackable_oneOn_of_two_le_card", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_forced_leaves_card", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_forced_leaves_card", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_forced_leaves_card", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.card_projectFinsetFromSubtype", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.card_projectFinsetFromSubtype", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_cash_coverage", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_cash_coverage", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "TreeStack.leafVertices_disjoint_internal", "child": "TreeStack_Estimator", "via": ["solution", "statement"]}
+{"parent": "TreeStack.leafVertices_disjoint_internal", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "OnlineSaddlePoint_Supplement_entropicRegularizer", "child": "OnlineSaddlePoint_Supplement_negEntropy", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11_incidence_degree_sum", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_incidence_degree_sum", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_external_charge_sum_split", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_external_charge_sum_split", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.selected_partition_card", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.selected_partition_card", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11AllCompensation_subset_S", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11AllCompensation_subset_S", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11OwnerResource_sum_decomposition", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11OwnerResource_sum_decomposition", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_max_degree_exactly_six", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_max_degree_exactly_six", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_max_degree_exactly_six", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "SecSampling.Supplement.lemma_5", "child": "SecSampling_Supplement_ROSp", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K4Edges_subset_product", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4Edges_subset_product", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_leaf_forced", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_leaf_forced", "child": "C6BipartiteDomination_ExtremalResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_leaf_forced", "child": "C6BipartiteDomination_Corona", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_owner_excludes_k3", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_owner_excludes_k3", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "TreeStack.mem_support_iff", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_edge_mem", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_edge_mem", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.gammaBip_le_card", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.gammaBip_le_card", "child": "C6BipartiteDomination_ExtremalResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.gammaBip_le_card", "child": "C6BipartiteDomination_Corona", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_negative_debt_paid", "child": "C6BipartiteDomination_PaperSection11", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11_negative_debt_paid", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["statement"]}
+{"parent": "ReusableMatching_Supplement_OPDMatching", "child": "ReusableMatching_OBMRRInstance", "via": ["statement"]}
+{"parent": "ReusableMatching_Supplement_OPDMatching", "child": "ReusableMatching_Supplement_OCRRun", "via": ["statement"]}
+{"parent": "ReusableMatching_Supplement_OPDMatching", "child": "ReusableMatching_OPT", "via": ["statement"]}
+{"parent": "ReusableMatching_Supplement_OPDMatching", "child": "ReusableMatching_IsFeasibleMatching", "via": ["statement"]}
+{"parent": "ReusableMatching.Supplement.proposition_1", "child": "ReusableMatching_Supplement_OCRRun", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11_charge_nonnegative_on_B", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_charge_nonnegative_on_B", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.lemma_4", "child": "OnlineSaddlePoint_Supplement_negEntropy", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.lemma_4", "child": "OnlineSaddlePoint_Supplement_restrictedSimplex", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_resource_bound", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_resource_bound", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "ReusableMatching.Supplement.claim_3", "child": "ReusableMatching_Supplement_OCRRun", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_degree_at_most_six", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_degree_at_most_six", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_degree_at_most_six", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "OnlineSaddlePoint.Supplement.lemma_5", "child": "OnlineSaddlePoint_Supplement_restrictedSimplex", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11_pure_k3_charge_balance", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_pure_k3_charge_balance", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_nested_cash_convergence", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_nested_cash_convergence", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_negative_incident_eq", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_negative_incident_eq", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "TreeStack.erase_root_eq_leaf_union_internal", "child": "TreeStack_Estimator", "via": ["solution", "statement"]}
+{"parent": "TreeStack.erase_root_eq_leaf_union_internal", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "TreeStack.no_step_oneOn", "child": "TreeStack_PebblingMove", "via": ["statement"]}
+{"parent": "TreeStack.no_step_oneOn", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_bounded_preruin_strict_positive", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_bounded_preruin_strict_positive", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_negative_incident_eq", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_negative_incident_eq", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_gamma_eq_eight", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_gamma_eq_eight", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_gamma_eq_eight", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "TreeStack_Branch", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "FramedDescriptorBitWidth", "child": "Complexitylib_0ebd467_Computability_Machines_Turing_MultiTape_Encodings_Decoder", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11_negative_debt_split", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_negative_debt_split", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.mem_paper10SpecialQSet", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.mem_paper10SpecialQSet", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "FramedDescriptor.two_input_symbols_and_output_one_need_bits", "child": "FramedDescriptorBitWidth", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.bpart_zpart_partition", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.bpart_zpart_partition", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_random_closed_cash_measurable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_random_closed_cash_measurable", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_core_neighbor_finset", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_core_neighbor_finset", "child": "C6BipartiteDomination_ExtremalResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_core_neighbor_finset", "child": "C6BipartiteDomination_Corona", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_selected_core_card_le_two", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_selected_core_card_le_two", "child": "C6BipartiteDomination_ExtremalResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_selected_core_card_le_two", "child": "C6BipartiteDomination_Corona", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_increment_mean", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_increment_mean", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_increment_mean", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_increment_mean", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_increment_mean", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_increment_mean", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_increment_mean", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3SpecialBudget_bonus_sum", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3SpecialBudget_bonus_sum", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "TreeStack.OrientedBranch.root_ne_parent", "child": "TreeStack_Branch", "via": ["solution", "statement"]}
+{"parent": "TreeStack.OrientedBranch.root_ne_parent", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_eq_K4", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_eq_K4", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.main_upper_bound_minimum", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.main_upper_bound_minimum", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper10_fiber_plus_one_le_degree", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper10_fiber_plus_one_le_degree", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "UntimedCrossings.exchange_endpoints", "child": "UntimedEndpointExchange", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_selected_core_vertices_card", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_selected_core_vertices_card", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_selected_core_vertices_card", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_resource_bound", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_resource_bound", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_grid_band_bound_prefix", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_grid_band_bound_prefix", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11_special_witness_owner_unique_of_eq", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_special_witness_owner_unique_of_eq", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_shared_support_witness_agrees", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_shared_support_witness_agrees", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "SecSampling.Supplement.lemma_2", "child": "SecSampling_Supplement_ROSp", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_grid_band_nested_cover", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_grid_band_nested_cover", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper9_neighbor_partition", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_neighbor_partition", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_family_disjoint", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_family_disjoint", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "TreeStack.OrientedBranch.childBranch_parent", "child": "TreeStack_Branch", "via": ["solution", "statement"]}
+{"parent": "TreeStack.OrientedBranch.childBranch_parent", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_card_two_distinct_members", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_card_two_distinct_members", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_chosen_k3_charge_balance", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_chosen_k3_charge_balance", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3Edges_subset_product", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3Edges_subset_product", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "TwoStageMatch_Supplement_Algorithm2", "child": "TwoStageMatch_Supplement_Matroid", "via": ["statement"]}
+{"parent": "TwoStageMatch_Supplement_Algorithm2", "child": "TwoStageMatch_Algorithm1", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPassageProbabilityClockV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPassageProbabilityClockV1", "child": "Kyprianou_Ch05_TailRatioClassL", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPassageProbabilityClockV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPassageProbabilityClockV1", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3SpecialBudget_card_le_Qstar", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K3SpecialBudget_card_le_Qstar", "child": "C6BipartiteDomination_PaperSection10", "via": ["solution", "statement"]}
+{"parent": "TreeStack.F_of_le_one", "child": "TreeStack_Transfer", "via": ["statement"]}
+{"parent": "TreeStack.F_of_le_one", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_forced_leaves_subset", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_forced_leaves_subset", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.corona_forced_leaves_subset", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "TreeStack_PebblingMove", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_compensation_disjoint", "child": "C6BipartiteDomination_PaperSection11", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K3_compensation_disjoint", "child": "C6BipartiteDomination_PaperSection10", "via": ["statement"]}
+{"parent": "TwoStageMatch_Supplement_Pricing", "child": "TwoStageMatch_Instance", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.finite_graph_density_le_eight_fifteenths", "child": "C6BipartiteDomination_MainResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.finite_graph_density_le_eight_fifteenths", "child": "C6BipartiteDomination_ExtremalResults", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.finite_graph_density_le_eight_fifteenths", "child": "C6BipartiteDomination_Corona", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper9_shared_compensation_profile", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_shared_compensation_profile", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_nonnegative_charge_partition", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11_nonnegative_charge_partition", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_core_degree", "child": "C6BipartiteDomination_MainResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_core_degree", "child": "C6BipartiteDomination_ExtremalResults", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.corona_core_degree", "child": "C6BipartiteDomination_Corona", "via": ["solution", "statement"]}
+{"parent": "SecSampling.Supplement.lemma_22", "child": "SecSampling_Supplement_ROSp", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_left_degree_eq_two", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_left_degree_eq_two", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "TreeStack_Transfer", "child": "TreeStack_Basic", "via": ["statement"]}
+{"parent": "C6BipartiteDomination.paper9_shared_set_incidence", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_shared_set_incidence", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "TreeStack.oneOn_apply", "child": "TreeStack_PebblingMove", "via": ["solution", "statement"]}
+{"parent": "TreeStack.oneOn_apply", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "TreeStack.sigma_corrected_expansion", "child": "TreeStack_Estimator", "via": ["solution", "statement"]}
+{"parent": "TreeStack.sigma_corrected_expansion", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_degree_eq_one", "child": "C6BipartiteDomination_PaperSection11", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_degree_eq_one", "child": "C6BipartiteDomination_PaperSection11_2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedOvershootUnconditionalTransformV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedOvershootUnconditionalTransformV1", "child": "Kyprianou_Ch05_TailRatioClassL", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedOvershootUnconditionalTransformV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedOvershootUnconditionalTransformV1", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_grid_sum_measurable", "child": "Kyprianou_Ch04_StochasticIntegralUCPV2", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_grid_sum_measurable", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_grid_sum_measurable", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_grid_sum_measurable", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_grid_sum_measurable", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_grid_sum_measurable", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_grid_sum_measurable", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "TreeStack.F_three", "child": "TreeStack_Transfer", "via": ["solution", "statement"]}
+{"parent": "TreeStack.F_three", "child": "TreeStack_Basic", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_union_resource_bound", "child": "C6BipartiteDomination_A9", "via": ["solution", "statement"]}
+{"parent": "C6BipartiteDomination.paper9_union_resource_bound", "child": "C6BipartiteDomination_PaperSection9", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.avram_locmoll_positive_band_clock_certificate", "via": ["solution"]}
+{"parent": "GEPPGrowth.Main.lemma_4_5", "child": "MeasureTheory.lintegral_fintype_prod_eq_prod", "via": ["solution"]}
+{"parent": "KTaxi.Competitive.Supplement.lemma_C_1", "child": "LefebvreVariations.ktaxi_discrepancy_upper_bound", "via": ["solution"]}
+{"parent": "LonelyRunnerConjecture.rosenfeld_eight_runners", "child": "LonelyRunnerConjecture.mss_finite_checking", "via": ["solution"]}
+{"parent": "LonelyRunnerConjecture.rosenfeld_eight_runners", "child": "LonelyRunnerConjecture.classical_small_cases", "via": ["solution"]}
+{"parent": "LonelyRunnerConjecture.rosenfeld_eight_runners", "child": "LefebvreVariations.lonely_runner_seven_small_gcd_sum", "via": ["solution"]}
+{"parent": "LonelyRunnerConjecture.tao_finite_checking", "child": "LefebvreVariations.lonely_runner_tao_inductive_core", "via": ["solution"]}
+{"parent": "HirschDim4.h12_6_bound", "child": "LefebvreVariations.dim6_spindle_twelve_facets", "via": ["solution"]}
+{"parent": "HirschDim4.h12_6_bound", "child": "Hirsch_walk", "via": ["solution"]}
+{"parent": "HirschDim4.h12_6_bound", "child": "LefebvreVariations.dim6_common_facet_twelve_facets", "via": ["solution"]}
+{"parent": "HirschDim4.h8_4_bound", "child": "LefebvreVariations.dim4_spindle_eight_facets", "via": ["solution"]}
+{"parent": "HirschDim4.h8_4_bound", "child": "Hirsch_walk", "via": ["solution"]}
+{"parent": "HirschDim4.h8_4_bound", "child": "LefebvreVariations.dim4_common_facet_eight_facets", "via": ["solution"]}
+{"parent": "LonelyRunnerConjecture.eleven_twelve_thirteen", "child": "LefebvreVariations.lonely_runner_ten_to_twelve_small_gcd_sum", "via": ["solution"]}
+{"parent": "LonelyRunnerConjecture.eleven_twelve_thirteen", "child": "LonelyRunnerConjecture.mss_finite_checking", "via": ["solution"]}
+{"parent": "LonelyRunnerConjecture.eleven_twelve_thirteen", "child": "LonelyRunnerConjecture.trakulthongchai_nine_ten", "via": ["solution"]}
+{"parent": "LonelyRunnerConjecture.trakulthongchai_nine_ten", "child": "LonelyRunnerConjecture.mss_finite_checking", "via": ["solution"]}
+{"parent": "LonelyRunnerConjecture.trakulthongchai_nine_ten", "child": "LonelyRunnerConjecture.rosenfeld_eight_runners", "via": ["solution"]}
+{"parent": "LonelyRunnerConjecture.trakulthongchai_nine_ten", "child": "LefebvreVariations.lonely_runner_eight_nine_small_gcd_sum", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.exercise58_conditionalOvershootLaplace", "child": "Kyprianou.Ch05.exercise58_crossingProbability", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.exercise58_conditionalOvershootLaplace", "child": "Kyprianou.Ch05.killedOvershootUnconditionalTransformV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.exercise58_crossingProbability", "child": "Kyprianou.Ch05.killedPassageProbabilityClockV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.exercise58_crossingProbability", "child": "Kyprianou.Ch05.monotonePassageClockNonnegativeV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.exercise58_crossingProbability", "child": "Kyprianou.Ch05.killedPotentialTailClockV1", "via": ["solution"]}
+{"parent": "SpherePackingBeyond.minkowski_hlawka", "child": "LefebvreVariations.minkowski_hlawka_unimodular_ball", "via": ["solution"]}
+{"parent": "KissingNumber.kissing_number_twentyfour", "child": "LefebvreVariations.kissing_number_twentyfour_lower", "via": ["solution"]}
+{"parent": "KissingNumber.kissing_number_twentyfour", "child": "LefebvreVariations.gegenbauer_positive_definite", "via": ["solution"]}
+{"parent": "RamseyValues.ramsey_five_five_le_49", "child": "LefebvreVariations.ramsey_five_five_regular_forty_nine", "via": ["solution"]}
+{"parent": "RamseyValues.ramsey_five_five_le_49", "child": "RamseyValues.ramsey_four_five", "via": ["solution"]}
+{"parent": "RamseyValues.ramsey_five_five_le_46", "child": "RamseyValues.ramsey_four_five", "via": ["solution"]}
+{"parent": "RamseyValues.ramsey_five_five_le_46", "child": "LefebvreVariations.ramsey_five_five_window_forty_six", "via": ["solution"]}
+{"parent": "RamseyValues.ramsey_five_five_le_48", "child": "RamseyValues.ramsey_four_five", "via": ["solution"]}
+{"parent": "RamseyValues.ramsey_five_five_le_48", "child": "LefebvreVariations.ramsey_five_five_window_forty_eight", "via": ["solution"]}
+{"parent": "MasulloRH.fixed_gaussian_approximation_beyond_first_fifteen", "child": "MasulloRH.nine_rational_theta_shifts_on_every_gaussian_window", "via": ["solution"]}
+{"parent": "MasulloRH.fixed_gaussian_approximation_beyond_first_fifteen", "child": "MasulloRH.fixed_gaussian_approximation_from_tolerance_16384", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "Kyprianou.Ch05.activePositivePoissonMarkIsJumpV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "Kyprianou.Ch05.positivePoissonJumpHasActiveMarkV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "Kyprianou.Ch05.uniqueCrossingReindexENNRealV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "child": "Kyprianou.Ch05.monotoneMarkedCrossingClockUniqueV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou.Ch05.canonicalPositivePoissonCadlagMonotoneV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou.Ch05.canonicalPositivePoissonJumpFibreV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou.Ch05.markedPositiveCrossingAmbientMeasurableV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou.Ch05.positiveTimeLeftLimitRealNNRealV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou.Ch05.positivePoissonCrossingAtomicSumV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou.Ch05.pointFamilyPairLIntegralV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.canonicalPositivePoissonCrossingFullIntegralV1", "child": "Kyprianou.Ch05.positivePoissonDistinctActiveTimesV1", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.ofReal_integral_liouville_le_diskArea", "child": "FiniteEnergyPlane.injOn_leafSweep", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.ofReal_integral_liouville_le_diskArea", "child": "FiniteEnergyPlane.ofReal_integral_le_lintegral_of_injOn_sweep", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.ofReal_integral_liouville_le_diskArea", "child": "FiniteEnergyPlane.exists_exitTime_of_leavesRadiateFrom", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.ofReal_integral_liouville_le_diskArea", "child": "FlowCalculus.contDiff_complete_solution_family", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.ofReal_integral_liouville_le_diskArea", "child": "FiniteEnergyPlane.hasDerivAt_wedge_flow", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.ofReal_integral_liouville_le_diskArea", "child": "FlowCalculus.exists_continuous_bijective_complete_flow", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.ofReal_integral_liouville_le_diskArea", "child": "FiniteEnergyPlane.charField_div_eq_omega0", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.potentialAllScalesFromLaplaceRatios", "child": "Kyprianou.Ch05.potentialLimitFromLaplaceRatios", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageDiscountedTailV1", "child": "Kyprianou.Ch05.monotoneStrictPassageClockBoundsV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageDiscountedTailV1", "child": "AvramDividend.Classical.positiveLIntegral_exp_neg_mul_Ioi", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination.mem_BPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination.mem_supportX", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination.mem_ZPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination.mem_privateCompensation", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination.compensation_vertex_properties", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination.mem_Z0Part", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination.mem_neighborhoodIn", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination.mem_sharedCompensation", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination.Z0_disjoint_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "child": "C6BipartiteDomination.mem_responsibilityRegion", "via": ["solution"]}
+{"parent": "MasulloRH.nine_shift_gaussian_zero_free_rectangle", "child": "MasulloRH.fixed_gaussian_energy_lower_at_every_zeta_zero", "via": ["solution"]}
+{"parent": "MasulloRH.nine_shift_gaussian_zero_free_rectangle", "child": "MasulloRH.nine_rational_theta_shifts_on_every_gaussian_window", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repair_beta_three", "child": "C6BipartiteDomination.mem_BPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repair_beta_three", "child": "C6BipartiteDomination.mem_WBPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repair_beta_three", "child": "C6BipartiteDomination.repair_of_uniform_remaining_neighbors", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repair_beta_three", "child": "C6BipartiteDomination.bipartiteOn_subset", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repair_beta_three", "child": "C6BipartiteDomination.supportB_card", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repair_beta_three", "child": "C6BipartiteDomination.two_bool_values_have_equal_pair", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repair_beta_three", "child": "C6BipartiteDomination.mem_SPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_7_2_charge_values", "child": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.beta_ge_two_of_k_ge_two", "child": "C6BipartiteDomination.mem_WBPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.beta_ge_two_of_k_ge_two", "child": "C6BipartiteDomination.beta_pos_of_mem_SPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.beta_ge_two_of_k_ge_two", "child": "C6BipartiteDomination.lemma_7_1_odd_cycle", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.beta_ge_two_of_k_ge_two", "child": "C6BipartiteDomination.mem_SPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.beta_ge_two_of_k_ge_two", "child": "C6BipartiteDomination.bipartite_base_of_beta_eq_one", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "Kyprianou.Ch04.ito43_weighted_grid_sum_measurable", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "Kyprianou.Ch04.ito43_weighted_jump_integral_measurable", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_error_sections_measurable", "child": "Kyprianou.Ch04.ito43_weighted_time_integral_measurable", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "ProbabilityTheory.leanlevy_chat24_re_one_sub_charFun_eq_integral", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_mean_exact", "child": "Kyprianou.Ch02.levyCoordinateAEMeasurableV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou.Ch04.ito43_levy_nat_grid_independent", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou.Ch04.ito43_cosine_deficit_square_bound", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou.Ch04.ito43_cosine_grid_increment_mean", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou.Ch04.ito43_independent_centered_prefix_maximal", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_prefix_centered_tail", "child": "Kyprianou.Ch02.levyCoordinateAEMeasurableV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "Kyprianou.Ch04.ito43_cosine_normalised_exponent_limit", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "Kyprianou.Ch04.ito43_exponential_cosine_mesh_limit", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_mean_rate", "child": "Kyprianou.Ch04.ito43_cosine_mean_exact", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.mem_ZPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.exists_maximal_independent_subset", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.compensation_vertex_properties", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.bipartite_add_independent_set_at_vertex", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.lemma_5_1_responsibility_eq", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.selected_Z_isolated", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.mem_Z0Part", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.collective_exchange", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.mem_SPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.Z0_disjoint_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.mem_responsibilityRegion", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.supportX_card", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.mem_BPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.mem_supportX", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.mem_WBPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.ZPart_disjoint_BPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "child": "C6BipartiteDomination.supportB_card", "via": ["solution"]}
+{"parent": "MasulloRH.nine_rational_theta_shifts_on_every_gaussian_window", "child": "MasulloRH.nine_shift_residual_central_integral", "via": ["solution"]}
+{"parent": "MasulloRH.nine_rational_theta_shifts_on_every_gaussian_window", "child": "MasulloRH.nine_shift_residual_uniform_exterior", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_compensation_lower_bound", "child": "C6BipartiteDomination.lemma_8_4_compensation_decomposition", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_compensation_lower_bound", "child": "C6BipartiteDomination.private_card_eq_two_add_x", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_5_compensation_lower_bound", "child": "C6BipartiteDomination.lemma_8_5_independent_set_lower_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repairs_beta_two", "child": "C6BipartiteDomination.mem_BPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repairs_beta_two", "child": "C6BipartiteDomination.bipartite_add_of_uniform_neighbors", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repairs_beta_two", "child": "C6BipartiteDomination.mem_WBPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repairs_beta_two", "child": "C6BipartiteDomination.repair_of_uniform_remaining_neighbors", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repairs_beta_two", "child": "C6BipartiteDomination.bipartiteOn_subset", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repairs_beta_two", "child": "C6BipartiteDomination.supportB_card", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repairs_beta_two", "child": "C6BipartiteDomination.lemma_7_1_odd_cycle", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repairs_beta_two", "child": "C6BipartiteDomination.mem_SPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repair_set", "child": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repair_set", "child": "C6BipartiteDomination.chosen_repair_beta_three", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.chosen_repair_set", "child": "C6BipartiteDomination.chosen_repairs_beta_two", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_8_1_add_vertex_criterion", "child": "C6BipartiteDomination.bipartite_add_of_uniform_neighbors", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "child": "C6BipartiteDomination.support_union_card_le_degree", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "child": "C6BipartiteDomination.beta_ge_two_of_k_ge_two", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "child": "C6BipartiteDomination.beta_pos_of_mem_SPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination.mem_BPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination.mem_ZPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination.bipartite_add_with_single_neighbor", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination.compensation_vertex_properties", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination.lemma_5_1_responsibility_eq", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination.bipartiteOn_subset", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination.mem_Z0Part", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination.mem_neighborhoodIn", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination.collective_exchange", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination.Z0_disjoint_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.compensation_has_at_most_one_X_neighbor", "child": "C6BipartiteDomination.mem_responsibilityRegion", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_exponential_cosine_mesh_limit", "child": "Kyprianou.Ch04.ito43_exponential_cosine_mesh_error_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_6_1_charge_identity", "child": "C6BipartiteDomination.sum_beta_eq_sum_s", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_6_1_charge_identity", "child": "C6BipartiteDomination.wb_card_eq", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.lemma_6_1_charge_identity", "child": "C6BipartiteDomination.lemma_6_1_charge_identity_of_counts", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.karamataLaplaceFamilyCumulative", "child": "Kyprianou.Ch05.compactMomentWeightedUpperRay", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.karamataLaplaceFamilyCumulative", "child": "Kyprianou.Ch05.karamataExpTiltData", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.karamataLaplaceFamilyCumulative", "child": "Kyprianou.Ch05.karamataExpTiltRecoverMass", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.injOn_leafSweep", "child": "FiniteEnergyPlane.injOn_ball_of_hasStrictFDerivAt", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.injOn_leafSweep", "child": "FiniteEnergyPlane.hasLoopWind_of_continuousOn_family", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.injOn_leafSweep", "child": "FiniteEnergyPlane.exists_exitTime_of_leavesRadiateFrom", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.injOn_leafSweep", "child": "FiniteEnergyPlane.injOn_Ico_of_hasLoopWind_one", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.injOn_leafSweep", "child": "FiniteEnergyPlane.flow_add_apply", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.corona_leaf_degree", "child": "C6BipartiteDomination.corona_leaf_neighbor_finset", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_degree_eq_chosen_card", "child": "C6BipartiteDomination.paper11K3_edge_mem", "via": ["solution"]}
+{"parent": "TreeStack.rootEstimate_le_estim", "child": "TreeStack.mem_support_iff", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_degree_two_compensation_cases", "child": "C6BipartiteDomination.paper11K3_right_degree_eq_incident_card", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_degree_two_compensation_cases", "child": "C6BipartiteDomination.mem_paper10SpecialQSet", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_degree_two_compensation_cases", "child": "C6BipartiteDomination.paper9_lemma_9_2", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_degree_two_compensation_cases", "child": "C6BipartiteDomination.paper11_card_two_distinct_members", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_degree_two_compensation_cases", "child": "C6BipartiteDomination.mem_paper11K3Supports", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_time_integral_measurable", "child": "Kyprianou.Ch04.ito43_levy_joint_version", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_degree_profile", "child": "C6BipartiteDomination.paper11K3_left_degree_eq_chosen_card", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_degree_profile", "child": "C6BipartiteDomination.paper11_chosen_profile", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_degree_profile", "child": "C6BipartiteDomination.mem_paper11K3Supports", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_one_at_k4", "child": "C6BipartiteDomination.lemma_8_5_compensation_lower_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_one_at_k4", "child": "C6BipartiteDomination.mem_supportX", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_one_at_k4", "child": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_one_at_k4", "child": "C6BipartiteDomination.paper9_union_resource_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_one_at_k4", "child": "C6BipartiteDomination.paper9_sCharge_add_xCharge_le_three", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_one_at_k4", "child": "C6BipartiteDomination.paperChosenRepairSet_legal", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_one_at_k4", "child": "C6BipartiteDomination.paper9_shared_set_incidence", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_K4_right_disjoint", "child": "C6BipartiteDomination.paper11K4_owner_excludes_k3", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3AvailableResource_sum_decomposition", "child": "C6BipartiteDomination.paper11K3SpecialBudget_bonus_sum", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotentialTailClockV1", "child": "Kyprianou.Ch05.killedPotentialSurvivalFactorGeneralV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotentialTailClockV1", "child": "Kyprianou.Ch05.killedPotential_lintegral_formula", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotentialTailClockV1", "child": "Kyprianou.Ch04.ito43_levy_joint_version", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotentialTailClockV1", "child": "Kyprianou.Ch02.levyCoordinateAEMeasurableV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotentialTailClockV1", "child": "Kyprianou.Ch05.monotoneStrictPassageDiscountedTailV1", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.outside_partition_card", "child": "C6BipartiteDomination.mem_WBPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.outside_partition_card", "child": "C6BipartiteDomination.mem_W0Part", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_left_degree_eq_chosen_card", "child": "C6BipartiteDomination.paper11K4_edge_mem", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_resource_eq_owner", "child": "C6BipartiteDomination.paper11OwnerCompensation_eq_K4", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_exponential_real_remainder", "child": "Kyprianou.Ch04.kw48_exp_remainder", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.zpart_subset_selected", "child": "C6BipartiteDomination.mem_ZPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11AllCompensation_charge_four", "child": "C6BipartiteDomination.paper11AllRepairOwners_subset_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11AllCompensation_charge_four", "child": "C6BipartiteDomination.paper11OwnerCompensation_charge_four", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination.lemma_8_5_compensation_lower_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination.paper9_shared_beta_eq_one", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination.paper9_union_resource_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination.paper9_shared_external_charge_eq_four", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination.paper9_sCharge_add_xCharge_le_three", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination.paperChosenRepairSet_legal", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination.Z0_disjoint_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination.paper9_repair_degree_eq_one_at_k4", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination.paper9_shared_set_incidence", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination.mem_supportX", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination.paper9_unique_extra_S_neighbor", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination.paper9_shared_support_witness_agrees", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_lemma_9_2", "child": "C6BipartiteDomination.paper9_shared_compensation_profile", "via": ["solution"]}
+{"parent": "TreeStack.rootEstimate_corrected_expansion", "child": "TreeStack.sigma_corrected_expansion", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_degree_one_resource", "child": "C6BipartiteDomination.paper11K3_right_degree_eq_incident_card", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_degree_one_resource", "child": "C6BipartiteDomination.paper9_single_repair_resource_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_degree_one_resource", "child": "C6BipartiteDomination.paperChosenRepairSet_legal", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_degree_one_resource", "child": "C6BipartiteDomination.mem_paper11K3Supports", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_strict_band_clock_family", "child": "AvramDividend.Classical.avram_locmoll_strict_band_clock_family_given_positive", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_strict_band_clock_family", "child": "AvramDividend.Classical.avram_locmoll_bounded_preruin_strict_positive", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11AllCompensation_sum_eq_owner_sums", "child": "C6BipartiteDomination.paper11OwnerCompensation_charge_four", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11AllCompensation_sum_eq_owner_sums", "child": "C6BipartiteDomination.paper11AllCompensation_charge_four", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11AllCompensation_sum_eq_owner_sums", "child": "C6BipartiteDomination.paper11OwnerCompensation_family_disjoint", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11AllCompensation_sum_eq_owner_sums", "child": "C6BipartiteDomination.paper11AllRepairOwners_subset_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_beta_eq_one", "child": "C6BipartiteDomination.mem_BPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_beta_eq_one", "child": "C6BipartiteDomination.mem_ZPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_beta_eq_one", "child": "C6BipartiteDomination.mem_Z0Part", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_beta_eq_one", "child": "C6BipartiteDomination.mem_neighborhoodIn", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_beta_eq_one", "child": "C6BipartiteDomination.mem_sharedCompensation", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_beta_eq_one", "child": "C6BipartiteDomination.Z0_disjoint_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_z0_has_S_neighbor", "child": "C6BipartiteDomination.mem_ZPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_z0_has_S_neighbor", "child": "C6BipartiteDomination.mem_WBPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_z0_has_S_neighbor", "child": "C6BipartiteDomination.mem_PPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_z0_has_S_neighbor", "child": "C6BipartiteDomination.mem_Z0Part", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_z0_has_S_neighbor", "child": "C6BipartiteDomination.mem_SPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_z0_has_S_neighbor", "child": "C6BipartiteDomination.Z0_disjoint_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_z0_has_S_neighbor", "child": "C6BipartiteDomination.mem_privateExternalNeighbors", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_owner_resource_sums_union", "child": "C6BipartiteDomination.paper11K3_K4_right_disjoint", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_strict_band_clock_family_given_positive", "child": "AvramDividend.Classical.avram_locmoll_grid_band_clock_family", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_strict_band_clock_family_given_positive", "child": "AvramDividend.Classical.avram_locmoll_band_sequence", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_strict_band_clock_family_given_positive", "child": "AvramDividend.Classical.avram_locmoll_random_closed_cash_measurable", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_strict_band_clock_family_given_positive", "child": "AvramDividend.Classical.avram_locmoll_band_cash_coverage", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_strict_band_clock_family_given_positive", "child": "AvramDividend.Classical.avram_locmoll_nested_cash_convergence", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_Z0_card_le_incidence", "child": "C6BipartiteDomination.sum_degreeTo_symm", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_Z0_card_le_incidence", "child": "C6BipartiteDomination.paper10_z0_has_S_neighbor", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_charge_four", "child": "C6BipartiteDomination.mem_supportX", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_charge_four", "child": "C6BipartiteDomination.paper9_shared_external_charge_eq_four", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_eq_K3", "child": "C6BipartiteDomination.paper11K3_negative_incident_eq", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10SpecialEndpoint_mem", "child": "C6BipartiteDomination.mem_supportX", "via": ["solution"]}
+{"parent": "TreeStack.mass_move_add_one", "child": "TreeStack.mem_support_iff", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_degree_eq_incident_card", "child": "C6BipartiteDomination.paper11K3_edge_mem", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_two", "child": "C6BipartiteDomination.lemma_8_5_compensation_lower_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_two", "child": "C6BipartiteDomination.mem_supportX", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_two", "child": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_two", "child": "C6BipartiteDomination.paper9_union_resource_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_two", "child": "C6BipartiteDomination.paper9_sCharge_add_xCharge_le_three", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_two", "child": "C6BipartiteDomination.paperChosenRepairSet_legal", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_le_two", "child": "C6BipartiteDomination.paper9_shared_set_incidence", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_degree_profile", "child": "C6BipartiteDomination.paper11K3_right_degree_eq_incident_card", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_degree_profile", "child": "C6BipartiteDomination.paper9_repair_degree_le_two", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_degree_profile", "child": "C6BipartiteDomination.mem_paper11K3Supports", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_degree_eq_incident_card", "child": "C6BipartiteDomination.paper11K4_edge_mem", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_selected_neighbor_nonempty", "child": "C6BipartiteDomination.nonisolated_of_mem_BPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_lemma_10_1", "child": "C6BipartiteDomination.paper10SpecialEndpoint_mem", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_lemma_10_1", "child": "C6BipartiteDomination.paper10_z0_has_S_neighbor", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_lemma_10_1", "child": "C6BipartiteDomination.mem_paper10SpecialQSet", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_lemma_10_1", "child": "C6BipartiteDomination.sum_degreeTo_symm", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_lemma_10_1", "child": "C6BipartiteDomination.paper10_fiber_plus_one_le_degree", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.minimumOn_lift_toSubtype", "child": "C6BipartiteDomination.mem_liftFinsetToSubtype", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.minimumOn_lift_toSubtype", "child": "C6BipartiteDomination.card_liftFinsetToSubtype", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.minimumOn_lift_toSubtype", "child": "C6BipartiteDomination.mem_projectFinsetFromSubtype", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.minimumOn_lift_toSubtype", "child": "C6BipartiteDomination.card_projectFinsetFromSubtype", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_external_charge_eq_four", "child": "C6BipartiteDomination.paper9_shared_compensation_profile", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_external_charge_eq_four", "child": "C6BipartiteDomination.paper9_shared_beta_eq_one", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_negative_supports_eq_k3_union_k4", "child": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "via": ["solution"]}
+{"parent": "TreeStack.card_internal_le_weighted_sum", "child": "TreeStack.mem_support_iff", "via": ["solution"]}
+{"parent": "TreeStack.OrientedBranch.parent_not_mem_vertices", "child": "TreeStack.mem_support_iff", "via": ["solution"]}
+{"parent": "TreeStack.OrientedBranch.parent_not_mem_vertices", "child": "TreeStack.OrientedBranch.root_ne_parent", "via": ["solution"]}
+{"parent": "TreeStack.OrientedBranch.parent_not_mem_vertices", "child": "TreeStack.OrientedBranch.root_mem_vertices", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_debt_bound", "child": "C6BipartiteDomination.paper11K3_left_degree_eq_chosen_card", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_debt_bound", "child": "C6BipartiteDomination.paper11_chosen_profile", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_debt_bound", "child": "C6BipartiteDomination.lemma_7_2_charge_values", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_left_debt_bound", "child": "C6BipartiteDomination.mem_paper11K3Supports", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_compensation_unique_B_owner", "child": "C6BipartiteDomination.mem_BPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_compensation_unique_B_owner", "child": "C6BipartiteDomination.mem_sharedCompensation", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_compensation_unique_B_owner", "child": "C6BipartiteDomination.Z0_disjoint_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_single_repair_resource_bound", "child": "C6BipartiteDomination.lemma_8_5_compensation_lower_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_single_repair_resource_bound", "child": "C6BipartiteDomination.mem_supportX", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_single_repair_resource_bound", "child": "C6BipartiteDomination.paper9_shared_external_charge_eq_four", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_single_repair_resource_bound", "child": "C6BipartiteDomination.paper9_sCharge_add_xCharge_le_three", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_all_compensation_subset_nonnegative", "child": "C6BipartiteDomination.paper11AllCompensation_subset_S", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_all_compensation_subset_nonnegative", "child": "C6BipartiteDomination.paper11AllCompensation_charge_four", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_total_debt_bound", "child": "C6BipartiteDomination.mem_paper11K4Supports", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_total_debt_bound", "child": "C6BipartiteDomination.paper11_incidence_degree_sum", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_total_debt_bound", "child": "C6BipartiteDomination.paper11K4Edges_subset_product", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_total_debt_bound", "child": "C6BipartiteDomination.paper11K4_left_degree_eq_two", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_total_debt_bound", "child": "C6BipartiteDomination.paper11K4_right_degree_eq_one", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_total_debt_bound", "child": "C6BipartiteDomination.lemma_7_2_charge_values", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_total_debt_bound", "child": "C6BipartiteDomination.paper11K4_right_resource_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_special_witness_for_budget_vertex", "child": "C6BipartiteDomination.paper11K3_degree_two_compensation_cases", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.monotoneStrictPassageWeightedOccupationV1", "child": "Kyprianou.Ch05.monotoneStrictPassageClockBoundsV1", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_k4_separate_support", "child": "C6BipartiteDomination.mem_paper11K4Supports", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_k4_separate_support", "child": "C6BipartiteDomination.paper9_single_repair_resource_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_k4_separate_support", "child": "C6BipartiteDomination.paper11_chosen_profile", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_k4_separate_support", "child": "C6BipartiteDomination.paperChosenRepairSet_legal", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_k4_separate_support", "child": "C6BipartiteDomination.paper9_repair_degree_eq_one_at_k4", "via": ["solution"]}
+{"parent": "TreeStack.empty_ne_integer_zero", "child": "TreeStack.mem_support_iff", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_subset_S", "child": "C6BipartiteDomination.paper9_shared_compensation_profile", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_subset_S", "child": "C6BipartiteDomination.mem_supportX", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_base_charge_sum_bound", "child": "C6BipartiteDomination.paper11AllRepairOwners_subset_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_base_charge_sum_bound", "child": "C6BipartiteDomination.paper11_charge_nonnegative_on_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_unique_extra_S_neighbor", "child": "C6BipartiteDomination.paper9_union_resource_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.corona_degree_six", "child": "C6BipartiteDomination.corona_core_degree", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_repair_degree_eq_one_at_k4", "child": "C6BipartiteDomination.paper9_repair_degree_le_one_at_k4", "via": ["solution"]}
+{"parent": "TreeStack.sigmaVertices_eq_insert", "child": "TreeStack.mem_support_iff", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_Qstar_special_cost_bound", "child": "C6BipartiteDomination.paper10_lemma_10_1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_measurable_centered_prefix_maximal", "child": "DurrettProbability.kolmogorov_maximal_inequality", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_sCharge_add_xCharge_le_three", "child": "C6BipartiteDomination.paper9_selected_neighbor_nonempty", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_sCharge_add_xCharge_le_three", "child": "C6BipartiteDomination.private_card_eq_two_add_x", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_sCharge_add_xCharge_le_three", "child": "C6BipartiteDomination.paper9_neighbor_partition_disjoint", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_sCharge_add_xCharge_le_three", "child": "C6BipartiteDomination.paper9_neighbor_partition", "via": ["solution"]}
+{"parent": "TreeStack.card_erase_root_eq_leafCount_add_internal", "child": "TreeStack.erase_root_eq_leaf_union_internal", "via": ["solution"]}
+{"parent": "TreeStack.card_erase_root_eq_leafCount_add_internal", "child": "TreeStack.leafVertices_disjoint_internal", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_positive_band_clock_certificate", "child": "AvramDividend.Classical.avram_locmoll_lower_strip_dividend_loss", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_positive_band_clock_certificate", "child": "AvramDividend.Classical.avram_locmoll_smooth_band_stopped_cash_bound", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_positive_band_clock_certificate", "child": "AvramDividend.Classical.avram_locmoll_strict_band_clock_family", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_positive_band_clock_certificate", "child": "AvramDividend.Classical.avram_locmoll_smooth_test_certificate", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_positive_band_clock_certificate", "child": "AvramDividend.Classical.avram_locmoll_restricted_secant_convolution", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_special_witness_owner_unique", "child": "C6BipartiteDomination.mem_supportX", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_special_witness_owner_unique", "child": "C6BipartiteDomination.paper11_compensation_unique_B_owner", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_neighbor_partition_disjoint", "child": "C6BipartiteDomination.mem_WBPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_neighbor_partition_disjoint", "child": "C6BipartiteDomination.mem_PPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_neighbor_partition_disjoint", "child": "C6BipartiteDomination.mem_SPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_neighbor_partition_disjoint", "child": "C6BipartiteDomination.mem_privateExternalNeighbors", "via": ["solution"]}
+{"parent": "TreeStack.mass_oneOn", "child": "TreeStack.oneOn_apply", "via": ["solution"]}
+{"parent": "TreeStack.mass_oneOn", "child": "TreeStack.mem_support_iff", "via": ["solution"]}
+{"parent": "TreeStack.leafVertices_disjoint_internal", "child": "TreeStack.mem_support_iff", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_external_charge_sum_split", "child": "C6BipartiteDomination.paper11_nonnegative_charge_partition", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_external_charge_sum_split", "child": "C6BipartiteDomination.paper11_all_compensation_subset_nonnegative", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11AllCompensation_subset_S", "child": "C6BipartiteDomination.paper11AllRepairOwners_subset_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11AllCompensation_subset_S", "child": "C6BipartiteDomination.paper11OwnerCompensation_subset_S", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11OwnerResource_sum_decomposition", "child": "C6BipartiteDomination.paper11AllCompensation_sum_eq_owner_sums", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4Edges_subset_product", "child": "C6BipartiteDomination.mem_paper11K4Supports", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4Edges_subset_product", "child": "C6BipartiteDomination.paperChosenRepairSet_legal", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_owner_excludes_k3", "child": "C6BipartiteDomination.mem_paper11K4Supports", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_owner_excludes_k3", "child": "C6BipartiteDomination.paper9_repair_degree_eq_one_at_k4", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_owner_excludes_k3", "child": "C6BipartiteDomination.mem_paper11K3Supports", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_charge_nonnegative_on_B", "child": "C6BipartiteDomination.paper9_sCharge_add_xCharge_le_three", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_resource_bound", "child": "C6BipartiteDomination.paper11K3_degree_two_compensation_cases", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_resource_bound", "child": "C6BipartiteDomination.paper11K3_right_degree_one_resource", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_right_resource_bound", "child": "C6BipartiteDomination.paper11K3_right_degree_profile", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_pure_k3_charge_balance", "child": "C6BipartiteDomination.paper11_incidence_degree_sum", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_negative_incident_eq", "child": "C6BipartiteDomination.paper11K4_owner_excludes_k3", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3_negative_incident_eq", "child": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "via": ["solution"]}
+{"parent": "TreeStack.erase_root_eq_leaf_union_internal", "child": "TreeStack.mem_support_iff", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_bounded_preruin_strict_positive", "child": "AvramDividend.Classical.avram_gclose16_original_rightcont_stopping_strict_postpayment_preruin", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_bounded_preruin_strict_positive", "child": "AvramDividend.Classical.exists_countable_dense_nnreal_time_set_zero", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_bounded_preruin_strict_positive", "child": "AvramDividend.Classical.avram_gclose15_original_negative_postpayment_usc", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_bounded_preruin_strict_positive", "child": "AvramDividend.Classical.postPaymentReserve_cadlag_adapted", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_bounded_preruin_strict_positive", "child": "AvramDividend.Classical.usc_capped_first_closed_hit_le_iff_prefix_hit", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_bounded_preruin_strict_positive", "child": "AvramDividend.Classical.avram_gbB31_generic_capped_closed_hit_isStoppingTime", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_negative_incident_eq", "child": "C6BipartiteDomination.paper11K4_owner_excludes_k3", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_negative_incident_eq", "child": "C6BipartiteDomination.lemma_7_2_negative_charge_classification", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_negative_debt_split", "child": "C6BipartiteDomination.paper11_k3_k4_supports_disjoint", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_negative_debt_split", "child": "C6BipartiteDomination.paper11_negative_supports_eq_k3_union_k4", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.bpart_zpart_partition", "child": "C6BipartiteDomination.zpart_subset_selected", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_cosine_grid_increment_mean", "child": "Kyprianou.Ch02.levyCoordinateAEMeasurableV1", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_eq_K4", "child": "C6BipartiteDomination.paper11K4_negative_incident_eq", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_fiber_plus_one_le_degree", "child": "C6BipartiteDomination.mem_supportX", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_fiber_plus_one_le_degree", "child": "C6BipartiteDomination.paper10_z0_has_S_neighbor", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_fiber_plus_one_le_degree", "child": "C6BipartiteDomination.paper9_shared_external_charge_eq_four", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_fiber_plus_one_le_degree", "child": "C6BipartiteDomination.paper9_shared_compensation_profile", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_fiber_plus_one_le_degree", "child": "C6BipartiteDomination.mem_neighborhoodIn", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper10_fiber_plus_one_le_degree", "child": "C6BipartiteDomination.Z0_disjoint_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_resource_bound", "child": "C6BipartiteDomination.mem_paper11K4Supports", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_resource_bound", "child": "C6BipartiteDomination.paper9_single_repair_resource_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_resource_bound", "child": "C6BipartiteDomination.paper11K4_right_degree_eq_incident_card", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_resource_bound", "child": "C6BipartiteDomination.paper11K4_right_degree_eq_one", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_resource_bound", "child": "C6BipartiteDomination.paperChosenRepairSet_legal", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_special_witness_owner_unique_of_eq", "child": "C6BipartiteDomination.paper11_special_witness_owner_unique", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_support_witness_agrees", "child": "C6BipartiteDomination.Z0_disjoint_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_support_witness_agrees", "child": "C6BipartiteDomination.mem_sharedCompensation", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_neighbor_partition", "child": "C6BipartiteDomination.mem_BPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_neighbor_partition", "child": "C6BipartiteDomination.mem_W0Part", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_neighbor_partition", "child": "C6BipartiteDomination.mem_WBPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_neighbor_partition", "child": "C6BipartiteDomination.mem_PPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_neighbor_partition", "child": "C6BipartiteDomination.mem_SPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_neighbor_partition", "child": "C6BipartiteDomination.mem_privateExternalNeighbors", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_family_disjoint", "child": "C6BipartiteDomination.mem_supportX", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_family_disjoint", "child": "C6BipartiteDomination.paper11AllRepairOwners_subset_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11OwnerCompensation_family_disjoint", "child": "C6BipartiteDomination.paper11_compensation_unique_B_owner", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_chosen_k3_charge_balance", "child": "C6BipartiteDomination.paper11K3_left_debt_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_chosen_k3_charge_balance", "child": "C6BipartiteDomination.paper11K3_left_degree_profile", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_chosen_k3_charge_balance", "child": "C6BipartiteDomination.paper11_pure_k3_charge_balance", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_chosen_k3_charge_balance", "child": "C6BipartiteDomination.paper11K3Edges_subset_product", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_chosen_k3_charge_balance", "child": "C6BipartiteDomination.paper11K3_right_degree_profile", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11_chosen_k3_charge_balance", "child": "C6BipartiteDomination.paper11K3_right_resource_bound", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3Edges_subset_product", "child": "C6BipartiteDomination.mem_paper11K3Supports", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3Edges_subset_product", "child": "C6BipartiteDomination.paperChosenRepairSet_legal", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPassageProbabilityClockV1", "child": "Kyprianou.Ch02.cadlagWholePathAEMeasurableOfCoordinatesV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPassageProbabilityClockV1", "child": "Kyprianou.Ch05.killedPathRandomClockSurvivalV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPassageProbabilityClockV1", "child": "Kyprianou.Ch02.levyCoordinateAEMeasurableV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPassageProbabilityClockV1", "child": "Kyprianou.Ch05.strictKilledClockFromUnkilledV1", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3SpecialBudget_card_le_Qstar", "child": "C6BipartiteDomination.paper11_special_witness_for_budget_vertex", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K3SpecialBudget_card_le_Qstar", "child": "C6BipartiteDomination.paper11_special_witness_owner_unique_of_eq", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_compensation_profile", "child": "C6BipartiteDomination.mem_BPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_compensation_profile", "child": "C6BipartiteDomination.mem_W0Part", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_compensation_profile", "child": "C6BipartiteDomination.mem_ZPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_compensation_profile", "child": "C6BipartiteDomination.mem_WBPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_compensation_profile", "child": "C6BipartiteDomination.mem_PPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_compensation_profile", "child": "C6BipartiteDomination.mem_Z0Part", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_compensation_profile", "child": "C6BipartiteDomination.mem_neighborhoodIn", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_compensation_profile", "child": "C6BipartiteDomination.mem_sharedCompensation", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_compensation_profile", "child": "C6BipartiteDomination.mem_SPart", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_compensation_profile", "child": "C6BipartiteDomination.Z0_disjoint_B", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_compensation_profile", "child": "C6BipartiteDomination.mem_privateExternalNeighbors", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.corona_core_degree", "child": "C6BipartiteDomination.corona_core_neighbor_finset", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_left_degree_eq_two", "child": "C6BipartiteDomination.mem_paper11K4Supports", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_left_degree_eq_two", "child": "C6BipartiteDomination.paper11K4_left_degree_eq_chosen_card", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_left_degree_eq_two", "child": "C6BipartiteDomination.paper11_chosen_profile", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper9_shared_set_incidence", "child": "C6BipartiteDomination.paper9_shared_compensation_profile", "via": ["solution"]}
+{"parent": "TreeStack.sigma_corrected_expansion", "child": "TreeStack.mem_support_iff", "via": ["solution"]}
+{"parent": "TreeStack.sigma_corrected_expansion", "child": "TreeStack.sigmaVertices_eq_insert", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_degree_eq_one", "child": "C6BipartiteDomination.mem_paper11K4Supports", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_degree_eq_one", "child": "C6BipartiteDomination.paper11K4_right_degree_eq_incident_card", "via": ["solution"]}
+{"parent": "C6BipartiteDomination.paper11K4_right_degree_eq_one", "child": "C6BipartiteDomination.paper9_repair_degree_eq_one_at_k4", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.ito43_weighted_grid_sum_measurable", "child": "Kyprianou.Ch02.levyCoordinateAEMeasurableV1", "via": ["solution"]}

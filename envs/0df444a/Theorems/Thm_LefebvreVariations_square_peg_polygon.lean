@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:37:07.006065+00:00
 -- url     : https://prove2.me/theorems/a3114c35-f0a7-4cab-aaa4-a2fa028b2862
 -- title:
---   Lefebvre's variations, No. 192 — on a theme by Toeplitz: every polygonal Jordan curve has an inscribed square
+--   Lefebvre's variations, No. 231 — on a theme by Toeplitz: every polygonal Jordan curve has an inscribed square
 -- statement:
 --   Let $S$ be a finite set of segments $[u,v]\subset\mathbb{R}^2$ whose union $C=\bigcup_{[u,v]\in S}[u,v]$ is a Jordan curve (a simple closed polygon, possibly with collinear consecutive edges). Then $C$ contains the four vertices $p_1,p_2,p_3,p_4$ of a (non-degenerate) square:
 --   $$\exists\,p_1,p_2,p_3,p_4\in C:\quad p_1p_2p_3p_4\ \text{is a square}.$$

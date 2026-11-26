@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:38:10.516273+00:00
 -- url     : https://prove2.me/theorems/9c2a7524-1ab9-4108-8684-b497ebe3033a
 -- title:
---   Lefebvre's variations, No. 199 — on a theme by Li and Xie: the sorted vector solves the two majorization-constrained linear programs for dimension at most three
+--   Lefebvre's variations, No. 239 — on a theme by Li and Xie: the sorted vector solves the two majorization-constrained linear programs for dimension at most three
 -- statement:
 --   Let $d\le 3$, let $\lambda_1\ge\dots\ge\lambda_d\ge 0$ and $0\le\beta_1\le\dots\le\beta_d$ be real numbers.
 --

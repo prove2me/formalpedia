@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ClassNumImQ_ZetaNonvanishing__absNorm_span_two_8ebb77c5fa5d
 -- name    : P2M_PI_ClassNumImQ_ZetaNonvanishing__absNorm_span_two_8ebb77c5fa5d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:43:04.221421+00:00
 -- url     : https://prove2.me/theorems/768f5aff-44e9-57cf-ace9-80b89a4cd5b2

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:34:18.871558+00:00
 -- url     : https://prove2.me/theorems/255b262d-a48d-4620-b6ff-f95da79846bd
 -- title:
---   Lefebvre's variations, No. 181 — on a theme by Freedman and Donaldson: every smooth manifold homeomorphic to Euclidean n-space is diffeomorphic to it when n is not 4
+--   Lefebvre's variations, No. 219 — on a theme by Freedman and Donaldson: every smooth manifold homeomorphic to Euclidean n-space is diffeomorphic to it when n is not 4
 -- statement:
 --   Let $n\neq 4$ and let $M$ be a smooth ($C^\infty$) $n$-manifold which is homeomorphic to Euclidean space $\mathbb{R}^n$. Then
 --   $$M\;\cong_{C^\infty}\;\mathbb{R}^n .$$

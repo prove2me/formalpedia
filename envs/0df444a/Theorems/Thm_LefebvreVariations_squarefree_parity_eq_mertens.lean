@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:15:01.671463+00:00
 -- url     : https://prove2.me/theorems/23cc8db8-330e-4ffe-8ee1-224580da40ef
 -- title:
---   Lefebvre's variations, No. 13 — on a theme by Riemann: the squarefree parity surplus equals the Mertens function
+--   Lefebvre's variations, No. 14 — on a theme by Riemann: the squarefree parity surplus equals the Mertens function
 -- statement:
 --   This is the squarefree-parity form of the Mertens function.
 --

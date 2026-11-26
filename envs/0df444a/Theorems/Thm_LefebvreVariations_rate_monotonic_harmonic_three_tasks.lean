@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:37:13.912283+00:00
 -- url     : https://prove2.me/theorems/ed216aae-ecd9-576a-92bc-b2ecd2585ccf
 -- title:
---   Lefebvre's variations, No. 193 — on a theme by Liu and Layland: rate-monotonic scheduling of three tasks with harmonic periods meets every deadline up to utilization 1
+--   Lefebvre's variations, No. 232 — on a theme by Liu and Layland: rate-monotonic scheduling of three tasks with harmonic periods meets every deadline up to utilization 1
 -- statement:
 --   Let $C_i,T_i$ ($i=0,1,2$) be positive integers with $C_i\le T_i$ and $T_0\mid T_1\mid T_2$, and suppose
 --   $$

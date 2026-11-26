@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:27:22.464794+00:00
 -- url     : https://prove2.me/theorems/d2de45cf-41b5-5710-91c1-1f54deb0a7c2
 -- title:
---   Lefebvre's variations, No. 168 — on a theme by Asi, Feldman, Kale, Koren, Singhal and Talwar: the one-step Azuma-Hoeffding inequality for a conditionally bounded variable
+--   Lefebvre's variations, No. 206 — on a theme by Asi, Feldman, Kale, Koren, Singhal and Talwar: the one-step Azuma-Hoeffding inequality for a conditionally bounded variable
 -- statement:
 --   Let $\mathcal F_0\subseteq\mathcal F_1$ be $\sigma$-algebras, $X$ an $\mathcal F_1$-measurable variable with $a\le X\le b$ almost surely, and $\lambda>0$. If $\mathbb{E}[X\mid\mathcal F_0]\le\mu$ almost surely, then
 --   $$\mathbb{P}(X\ge\mu+\lambda)\le \exp\!\Bigl(-\frac{2\lambda^2}{(b-a)^2}\Bigr),$$

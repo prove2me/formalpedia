@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:37:51.94035+00:00
 -- url     : https://prove2.me/theorems/63cf49c2-fb1f-4c6d-978c-d6b1c1ca81ca
 -- title:
---   Lefebvre's variations, No. 198 — on a theme by Mordell: the elliptic curve y^2 = x^3 - x over the rationals has exactly 4 points
+--   Lefebvre's variations, No. 238 — on a theme by Mordell: the elliptic curve y^2 = x^3 - x over the rationals has exactly 4 points
 -- statement:
 --   Let $E$ be the elliptic curve over $\mathbb{Q}$ given by
 --   $$y^2=x^3-x .$$

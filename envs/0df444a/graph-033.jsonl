@@ -91847,10 +91847,10 @@
 {"parent": "AvramDividend.Classical.avram_f6_true_original_caplinear_full_precontact_physical_grid_signed_cash_nonpos", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_f6_true_original_caplinear_full_precontact_physical_grid_signed_cash_nonpos", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.checked_D8_156", "child": "RealPinwheel_FiveSixths_WitnessD8_156", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.exercise58_conditionalOvershootLaplace", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise58_conditionalOvershootLaplace", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise58_conditionalOvershootLaplace", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise58_conditionalOvershootLaplace", "child": "Kyprianou_Ch05_TailRatioClassL", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise58_conditionalOvershootLaplace", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise58_conditionalOvershootLaplace", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise58_conditionalOvershootLaplace", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise58_conditionalOvershootLaplace", "child": "Kyprianou_Ch05_TailRatioClassL", "via": ["solution", "statement"]}
 {"parent": "EnvyFreeCake104.Divide.cell_partition_value__p2m_30dca544_0c8a_4339_b224_0ca0d046b555_a1", "child": "EnvyFreeCake104_Divide_Query", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0693", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0693", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
@@ -93944,10 +93944,10 @@
 {"parent": "QEC.Distillation.BK15.NoisyInput.aBasisDephasing_apply", "child": "QEC_Distillation_FifteenQubitH_Code", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.BK15.NoisyInput.aBasisDephasing_apply", "child": "QEC_Distillation_Universality_HResourcePhase", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.BK15.NoisyInput.aBasisDephasing_apply", "child": "QEC_Distillation_Core_TransversalGate", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.exercise58_crossingProbability", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise58_crossingProbability", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise58_crossingProbability", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise58_crossingProbability", "child": "Kyprianou_Ch05_TailRatioClassL", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise58_crossingProbability", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise58_crossingProbability", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise58_crossingProbability", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise58_crossingProbability", "child": "Kyprianou_Ch05_TailRatioClassL", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc_Probability_Progressive_F002", "child": "LevyStochCalc_Probability_Progressive_F001", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0870", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0870", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}

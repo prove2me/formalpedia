@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:02:21.255948+00:00
 -- url     : https://prove2.me/theorems/ec7e7c37-c2c0-5f20-93ee-8f2faff8f248
 -- title:
---   Lefebvre's variations, No. 110 — on a theme by Jordan Ellenberg and Dion Gijswijt: cap sets in F_3^6 have at most 112 points
+--   Lefebvre's variations, No. 131 — on a theme by Jordan Ellenberg and Dion Gijswijt: cap sets in F_3^6 have at most 112 points
 -- statement:
 --   Let $A\subseteq\mathbb{F}_3^{6}$ contain no three distinct points $x,y,z$ with $x+y+z=0$ (a cap set, equivalently a set with no three-term arithmetic progression). Then
 --   $$

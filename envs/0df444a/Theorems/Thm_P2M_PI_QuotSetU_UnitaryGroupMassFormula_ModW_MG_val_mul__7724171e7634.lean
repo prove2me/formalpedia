@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_QuotSetU_UnitaryGroupMassFormula_ModW_MG_val_mul__7724171e7634
 -- name    : P2M_PI_QuotSetU_UnitaryGroupMassFormula_ModW_MG_val_mul__7724171e7634
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:43:22.053482+00:00
 -- url     : https://prove2.me/theorems/b8333fec-9241-4d6d-ab56-718ff9926f9b

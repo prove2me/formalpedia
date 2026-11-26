@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:59:31.233004+00:00
 -- url     : https://prove2.me/theorems/6f78f282-b970-5d23-9b53-f97c2ab013eb
 -- title:
---   Lefebvre's variations, No. 104 — on a theme by Ramsey: $R(5,5)\le 49$ for $24$-regular graphs on $49$ vertices
+--   Lefebvre's variations, No. 119 — on a theme by Ramsey: $R(5,5)\le 49$ for $24$-regular graphs on $49$ vertices
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

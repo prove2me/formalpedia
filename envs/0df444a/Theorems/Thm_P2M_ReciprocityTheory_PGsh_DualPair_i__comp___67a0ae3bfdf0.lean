@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_PGsh_DualPair_i__comp___67a0ae3bfdf0
 -- name    : P2M_ReciprocityTheory_PGsh_DualPair_i__comp___67a0ae3bfdf0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:43:07.436225+00:00
 -- url     : https://prove2.me/theorems/8ca95b1f-a696-5915-a965-e5770ae088b0

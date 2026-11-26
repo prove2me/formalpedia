@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:39:33.413846+00:00
 -- url     : https://prove2.me/theorems/e0c098be-c8ff-4a53-b7ea-51216b04be8b
 -- title:
---   Lefebvre's variations, No. 25 — on a theme by Douady and Hubbard: the inradius of the Multibrot sets
+--   Lefebvre's variations, No. 28 — on a theme by Douady and Hubbard: the inradius of the Multibrot sets
 -- statement:
 --   This determines the largest disc centred at $0$ inside each Multibrot set.
 --

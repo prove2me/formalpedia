@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:25:00.841647+00:00
 -- url     : https://prove2.me/theorems/1f917466-dbd5-5cb9-ae58-ec38131072b3
 -- title:
---   Lefebvre's variations, No. 159 — on a theme by Hermite: Hermite's constant γ₆ = (64/3)^(1/6) (Blichfeldt)
+--   Lefebvre's variations, No. 197 — on a theme by Hermite: Hermite's constant γ₆ = (64/3)^(1/6) (Blichfeldt)
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

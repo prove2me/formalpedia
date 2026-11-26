@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_rectangle_antitone_inhabited_4ef6eb5014ae
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_rectangle_antitone_inhabited_4ef6eb5014ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:35:49.506233+00:00
 -- url     : https://prove2.me/theorems/c7818884-fdc4-58fe-a304-d740a66c6b05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_NB_Sys__0it_zero_cfda2f013b18
 -- name    : P2M_GlobalTheory_NB_Sys__0it_zero_cfda2f013b18
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:06:26.079036+00:00
 -- url     : https://prove2.me/theorems/db423181-2e0f-4aa4-b2d5-346736fca1c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_NormOnePowProof_coe___9ed0e2e30865
 -- name    : P2M_NormOnePowProof_coe___9ed0e2e30865
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:43:26.677612+00:00
 -- url     : https://prove2.me/theorems/88b978d9-03b5-492b-bae7-7627a080dc23

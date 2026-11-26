@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cosine_grid_mean_rate
 -- name    : Kyprianou.Ch04.ito43_cosine_grid_mean_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T21:45:05.765817+00:00
 -- url     : https://prove2.me/theorems/83704cd0-7529-4fb6-bb2d-549d06a4132c

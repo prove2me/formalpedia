@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:09:55.422289+00:00
 -- url     : https://prove2.me/theorems/a8e15594-2b48-42a1-b794-b03bdbcbd858
 -- title:
---   Lefebvre's variations, No. 127 — on a theme by Hadamard: a Hadamard matrix of order 188 exists
+--   Lefebvre's variations, No. 152 — on a theme by Hadamard: a Hadamard matrix of order 188 exists
 -- statement:
 --   There is a $\{\pm1\}$-matrix $M$ of size $4\cdot 47=188$ with
 --   $$|\det M| = 188^{188/2}.$$

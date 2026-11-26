@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:18:14.615596+00:00
 -- url     : https://prove2.me/theorems/4ca21979-b599-5c86-9a64-934b482043f4
 -- title:
---   Lefebvre's variations, No. 148 — on a theme by Sendov: Sendov's conjecture holds in degree 3
+--   Lefebvre's variations, No. 186 — on a theme by Sendov: Sendov's conjecture holds in degree 3
 -- statement:
 --   Let $p\in\mathbb{C}[X]$ have degree exactly $3$, with all its roots in the closed unit disc, and let $z_0$ be a root of $p$. Then $p'$ has a root $w$ with
 --   $$

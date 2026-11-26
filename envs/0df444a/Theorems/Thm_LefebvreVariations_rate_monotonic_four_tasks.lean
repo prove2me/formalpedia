@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:36:40.308806+00:00
 -- url     : https://prove2.me/theorems/794fb0a1-987b-5ff2-b238-fe9d9c11b99b
 -- title:
---   Lefebvre's variations, No. 189 — on a theme by Liu and Layland: rate-monotonic scheduling of four tasks meets every deadline when the utilization is at most 4(2^{1/4} − 1)
+--   Lefebvre's variations, No. 227 — on a theme by Liu and Layland: rate-monotonic scheduling of four tasks meets every deadline when the utilization is at most 4(2^{1/4} − 1)
 -- statement:
 --   Let $C_i,T_i$ ($i=0,1,2,3$) be positive integers with $C_i\le T_i$ and
 --   $$

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:11:46.197501+00:00
 -- url     : https://prove2.me/theorems/55880a4b-8fa0-4d09-a9ee-5a9481460582
 -- title:
---   Lefebvre's variations, No. 139 — on a theme by Wang: the Jacobian conjecture in two variables holds for maps of degree at most two
+--   Lefebvre's variations, No. 166 — on a theme by Wang: the Jacobian conjecture in two variables holds for maps of degree at most two
 -- statement:
 --   Let $F=(F_1,F_2)$ be polynomials in $\mathbb{C}[x_1,x_2]$ of total degree at most $2$ whose Jacobian determinant $\det(\partial F_i/\partial x_j)$ is a unit of $\mathbb{C}[x_1,x_2]$ (a non-zero constant). Then there is $G=(G_1,G_2)$ with $G_i(F_1,F_2)=x_i$ and $F_i(G_1,G_2)=x_i$ for $i=1,2$.
 --

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:33:47.164985+00:00
 -- url     : https://prove2.me/theorems/887ed393-9e7f-4c03-9b6c-d57731ebf456
 -- title:
---   Lefebvre's variations, No. 179 — on a theme by Kervaire and Milnor: a smooth manifold homeomorphic to the n-sphere is diffeomorphic to it for n equal to 5 or 6
+--   Lefebvre's variations, No. 217 — on a theme by Kervaire and Milnor: a smooth manifold homeomorphic to the n-sphere is diffeomorphic to it for n equal to 5 or 6
 -- statement:
 --   Let $n\in\{5,6\}$ and let $M$ be a smooth ($C^\infty$) $n$-manifold which is homeomorphic to the unit sphere $S^n\subset\mathbb{R}^{n+1}$. Then
 --   $$M\;\cong_{C^\infty}\;S^n.$$

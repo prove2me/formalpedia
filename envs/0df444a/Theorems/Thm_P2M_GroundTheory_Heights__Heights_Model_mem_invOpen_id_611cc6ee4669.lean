@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_mem_invOpen_id_611cc6ee4669
 -- name    : P2M_GroundTheory_Heights__Heights_Model_mem_invOpen_id_611cc6ee4669
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:31:46.484002+00:00
 -- url     : https://prove2.me/theorems/46601d02-530a-4c7c-bb3d-834fba323da4

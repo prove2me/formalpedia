@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ArithVariety_points_eq_conePoints_8ae422774d28
 -- name    : P2M_GroundTheory_Heights__Heights_ArithVariety_points_eq_conePoints_8ae422774d28
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:07:34.018819+00:00
 -- url     : https://prove2.me/theorems/c407e672-c579-582a-804b-fc1d12116b7a

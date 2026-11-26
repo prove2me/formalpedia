@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormFormDvd_hypotheses_inhabited_dfc20cebb5be
 -- name    : P2M_GroundTheory_Heights__Heights_NormFormDvd_hypotheses_inhabited_dfc20cebb5be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:31:25.953802+00:00
 -- url     : https://prove2.me/theorems/4883f518-41c0-4e69-ac04-e983ce3bddcd

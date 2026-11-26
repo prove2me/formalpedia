@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_BGNCommit_trapdoor_opening
 -- name    : GOSNIZK.BGNCommit.trapdoor_opening
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:25:18.050703+00:00
 -- url     : https://prove2.me/theorems/71a22d6d-8ebb-448a-8a43-04649b5c448f

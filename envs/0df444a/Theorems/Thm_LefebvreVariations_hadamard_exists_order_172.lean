@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:09:38.193577+00:00
 -- url     : https://prove2.me/theorems/561d6f15-f304-5af3-939a-f95434b1b630
 -- title:
---   Lefebvre's variations, No. 126 — on a theme by Hadamard: a Hadamard matrix of order 172 exists
+--   Lefebvre's variations, No. 151 — on a theme by Hadamard: a Hadamard matrix of order 172 exists
 -- statement:
 --   There is a $\{\pm1\}$-matrix $M$ of size $4\cdot 43=172$ with
 --   $$|\det M| = 172^{172/2}.$$

@@ -17894,7 +17894,7 @@
 {"parent": "Formalism.GM.FrozenVariableComponents.ycond_le", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_FreezeY", "via": ["solution", "statement"]}
 {"parent": "Gomory69.Asymptotic.Supplement.theorem_11", "child": "Gomory69_MasterFaces_GroupPolyhedron", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_WeightedHomogeneous_NormSqEvalConeScale", "child": "GroundTheory_HeightsAndTheta_Heights_WeightedHomogeneous_Statements", "via": ["statement"]}
-{"parent": "LearnThenTest.fixed_sequence_controls_fwer", "child": "LearnThenTest_Basic", "via": ["statement"]}
+{"parent": "LearnThenTest.fixed_sequence_controls_fwer", "child": "LearnThenTest_Basic", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_Intersections_ImportsBisTer", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_IsLocalizationConeVarMap", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_LowerBound_PackingCount_proof_c832f8e4db65", "child": "GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PPackingCount", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_LowerBound_PackingCount_proof_c832f8e4db65", "child": "GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_Statements", "via": ["solution", "statement"]}
@@ -28079,7 +28079,7 @@
 {"parent": "FairSelling.exists_TPS_approx", "child": "RequestProject_TPSCompute", "via": ["solution", "statement"]}
 {"parent": "FairSelling.exists_TPS_approx", "child": "RequestProject_Selling", "via": ["solution", "statement"]}
 {"parent": "FairSelling.exists_TPS_approx", "child": "RequestProject_TPSApprox", "via": ["solution", "statement"]}
-{"parent": "LearnThenTest.max_pvalue_valid", "child": "LearnThenTest_Basic", "via": ["statement"]}
+{"parent": "LearnThenTest.max_pvalue_valid", "child": "LearnThenTest_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TyFin.Mirrors.cuspIso_transp", "child": "Development_WeilBound_CoreStatements_FiniteTypeHarishChandra_SupportExistsAll", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TyFin.Mirrors.cuspIso_transp", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_MirrorPartitions", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TyFin.Mirrors.cuspIso_transp", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_InnerProductCuspidalIso", "via": ["solution", "statement"]}

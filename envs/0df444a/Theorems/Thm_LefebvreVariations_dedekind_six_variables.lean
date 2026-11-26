@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:09:35.365905+00:00
 -- url     : https://prove2.me/theorems/2284d2dc-dfc1-4fec-adca-57ffebcd66d2
 -- title:
---   Lefebvre's variations, No. 125 — on a theme by Dedekind: the number of monotone Boolean functions of six variables is 7828354
+--   Lefebvre's variations, No. 150 — on a theme by Dedekind: the number of monotone Boolean functions of six variables is 7828354
 -- statement:
 --   The number of monotone Boolean functions of $n$ variables, that is, of maps $f:\{0,1\}^n\to\{0,1\}$ with $x\le y\Rightarrow f(x)\le f(y)$ (coordinatewise order), the two constant functions included, is the Dedekind number $M(n)$. Then
 --   $$M(6)=7828354 .$$

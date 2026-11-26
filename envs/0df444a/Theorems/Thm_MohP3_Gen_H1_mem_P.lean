@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Gen_H1_mem_P
 -- name    : MohP3.Gen.H1_mem_P
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:47:45.630909+00:00
 -- url     : https://prove2.me/theorems/cf3278d3-21fd-4073-b5e5-3541c0ce1639

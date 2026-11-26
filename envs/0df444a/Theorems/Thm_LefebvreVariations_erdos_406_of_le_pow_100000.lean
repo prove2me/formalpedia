@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:46:53.619106+00:00
 -- url     : https://prove2.me/theorems/631b4fc7-fae2-5b3c-a460-1e601e9beff5
 -- title:
---   Lefebvre's variations, No. 58 — on a theme by Erdős: the only powers of two up to 2^100000 with no digit 2 in base 3 are 1, 4 and 256
+--   Lefebvre's variations, No. 65 — on a theme by Erdős: the only powers of two up to 2^100000 with no digit 2 in base 3 are 1, 4 and 256
 -- statement:
 --   Every power of two $n\le 2^{100000}$ whose base-3 expansion uses only the digits $0$ and $1$ is one of $1$, $4$ or $256$:
 --

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_C6BipartiteDomination_lemma_8_5_compensation_lower_bound
 -- name    : C6BipartiteDomination.lemma_8_5_compensation_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:49:29.015018+00:00
 -- url     : https://prove2.me/theorems/89d7ab6e-0524-597c-bbc6-a1206301f44f

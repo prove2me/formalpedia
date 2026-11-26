@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:50:18.587268+00:00
 -- url     : https://prove2.me/theorems/3f769d36-7fc9-4452-8ca8-a9536564dfa4
 -- title:
---   Lefebvre's variations, No. 93 — on a theme by Erdős and Szekeres: five points in general position contain a convex quadrilateral
+--   Lefebvre's variations, No. 105 — on a theme by Erdős and Szekeres: five points in general position contain a convex quadrilateral
 -- statement:
 --   Let $S\subset\mathbb{R}^2$ be a set of $5$ points, no three collinear. Then $S$ contains $4$ points in convex position, that is, $4$ points none of which lies in the convex hull of the other three.
 --

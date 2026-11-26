@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:14:36.659396+00:00
 -- url     : https://prove2.me/theorems/b25eab3b-1ea2-5b19-bc3d-3e73351048ab
 -- title:
---   Lefebvre's variations, No. 80 — on a theme by Conway and Sloane: the kissing number in dimension 16 is at least 4320
+--   Lefebvre's variations, No. 91 — on a theme by Conway and Sloane: the kissing number in dimension 16 is at least 4320
 -- statement:
 --   Let $\tau(16)$ be the kissing number in dimension $16$: the largest size of a finite set of unit vectors in $\mathbb{R}^{16}$ with pairwise inner products at most $\tfrac12$. Then
 --   $$

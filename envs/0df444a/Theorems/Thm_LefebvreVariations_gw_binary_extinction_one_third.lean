@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:25:23.662077+00:00
 -- url     : https://prove2.me/theorems/5ad525ab-6769-4712-ac0b-7a012b400fbb
 -- title:
---   Lefebvre's variations, No. 160 — on a theme by Galton and Watson: the Galton-Watson process with offspring law (1/4, 0, 3/4) goes extinct with probability 1/3
+--   Lefebvre's variations, No. 198 — on a theme by Galton and Watson: the Galton-Watson process with offspring law (1/4, 0, 3/4) goes extinct with probability 1/3
 -- statement:
 --   A branching process starts from one individual, each individual having independently $0$ children with probability $1/4$ and $2$ children with probability $3/4$. Let $Z_n$ be the size of generation $n$. Then
 --   $$\mathbb{P}\bigl(\exists n,\ Z_n=0\bigr)=\frac13 .$$

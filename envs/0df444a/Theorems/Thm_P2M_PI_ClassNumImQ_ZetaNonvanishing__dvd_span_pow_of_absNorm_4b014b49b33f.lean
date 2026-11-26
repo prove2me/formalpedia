@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ClassNumImQ_ZetaNonvanishing__dvd_span_pow_of_absNorm_4b014b49b33f
 -- name    : P2M_PI_ClassNumImQ_ZetaNonvanishing__dvd_span_pow_of_absNorm_4b014b49b33f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:43:35.258515+00:00
 -- url     : https://prove2.me/theorems/9c0515ac-20e5-47e5-82cc-5f6508fff06c

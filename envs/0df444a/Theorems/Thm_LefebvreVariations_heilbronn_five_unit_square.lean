@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:51:21.312509+00:00
 -- url     : https://prove2.me/theorems/d13e5be4-0aca-561a-9ae8-e2d788dc4430
 -- title:
---   Lefebvre's variations, No. 96 — on a theme by Heilbronn: the Heilbronn number of five points in the unit square
+--   Lefebvre's variations, No. 108 — on a theme by Heilbronn: the Heilbronn number of five points in the unit square
 -- statement:
 --   Let $H_5$ be the largest $\alpha$ such that some five points of the unit square $[0,1]^2$ span only triangles of area at least $\alpha$. Then
 --   $$

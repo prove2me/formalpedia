@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:32:53.203811+00:00
 -- url     : https://prove2.me/theorems/837e4301-d57d-4576-8d83-22c1c6cdede7
 -- title:
---   Lefebvre's variations, No. 175 — on a theme by Biran: four equal balls fill the four-dimensional ball up to any fraction by symplectic packing
+--   Lefebvre's variations, No. 213 — on a theme by Biran: four equal balls fill the four-dimensional ball up to any fraction by symplectic packing
 -- statement:
 --   For every $\varepsilon\in(0,1)$ there is a number $c>0$ such that four balls of capacity $c$ can be symplectically embedded, with pairwise disjoint images, in the open ball of capacity $1$ of $\mathbb C^2$, and
 --   $$

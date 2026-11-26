@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:48:37.085794+00:00
 -- url     : https://prove2.me/theorems/6b479d74-f9e3-5843-95c4-13940d207f2c
 -- title:
---   Lefebvre's variations, No. 60 — on a theme by Wootters and Fields: a complete set of ten mutually unbiased bases of C^9 exists
+--   Lefebvre's variations, No. 69 — on a theme by Wootters and Fields: a complete set of ten mutually unbiased bases of C^9 exists
 -- statement:
 --   There exist ten orthonormal bases $B_0,\dots,B_9$ of $\mathbb{C}^9$, each $B_r=(b^r_0,\dots,b^r_8)$, that are pairwise mutually unbiased:
 --   $$

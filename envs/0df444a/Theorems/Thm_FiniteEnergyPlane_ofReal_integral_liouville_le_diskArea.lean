@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_ofReal_integral_liouville_le_diskArea
 -- name    : FiniteEnergyPlane.ofReal_integral_liouville_le_diskArea
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-26T20:43:11.486254+00:00
 -- url     : https://prove2.me/theorems/c5a21fab-601d-58e9-9825-7b027fa01e6a

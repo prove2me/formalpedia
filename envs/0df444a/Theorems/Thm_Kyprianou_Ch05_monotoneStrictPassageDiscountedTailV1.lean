@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_monotoneStrictPassageDiscountedTailV1
 -- name    : Kyprianou.Ch05.monotoneStrictPassageDiscountedTailV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T21:49:30.7308+00:00
 -- url     : https://prove2.me/theorems/56c9fb3f-3084-494b-9970-3d6ce467804f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectFidelity_RandomState_mean_inner_eq_zero
 -- name    : DirectFidelity.RandomState.mean_inner_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:33:57.513987+00:00
 -- url     : https://prove2.me/theorems/9693a37a-a741-463f-9c69-17a1c300375c

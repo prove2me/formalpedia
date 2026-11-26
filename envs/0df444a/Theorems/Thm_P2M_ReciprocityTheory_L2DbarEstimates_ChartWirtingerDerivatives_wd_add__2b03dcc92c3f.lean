@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_L2DbarEstimates_ChartWirtingerDerivatives_wd_add__2b03dcc92c3f
 -- name    : P2M_ReciprocityTheory_L2DbarEstimates_ChartWirtingerDerivatives_wd_add__2b03dcc92c3f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:43:31.017014+00:00
 -- url     : https://prove2.me/theorems/54e26bc0-f2e0-5206-885c-e9fa2db15d8e

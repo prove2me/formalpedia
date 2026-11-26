@@ -61544,7 +61544,7 @@
 {"parent": "Arxiv2507_18491.psi_tilde_reaction_decomposition", "child": "Arxiv2507_18491_Basic", "via": ["statement"]}
 {"parent": "Eden.hasDerivAt_squaredRadiusEvolution", "child": "Eden_Algebra", "via": ["solution", "statement"]}
 {"parent": "Eden.hasDerivAt_squaredRadiusEvolution", "child": "Eden_ScalarFlow", "via": ["solution", "statement"]}
-{"parent": "Arxiv2405_00432.tilted_waveplate_retardance_axis_zero", "child": "Arxiv2405_00432_Basic", "via": ["statement"]}
+{"parent": "Arxiv2405_00432.tilted_waveplate_retardance_axis_zero", "child": "Arxiv2405_00432_Basic", "via": ["solution", "statement"]}
 {"parent": "Eden_PhysicalRadius", "child": "Eden_InvariantSets", "via": ["statement"]}
 {"parent": "Eden_PhysicalRadius", "child": "Eden_GrowthRates", "via": ["statement"]}
 {"parent": "Operator_Crouzeix_AffineProduct", "child": "Operator_Crouzeix_AffineDisk", "via": ["statement"]}

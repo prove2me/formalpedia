@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:34:35.585804+00:00
 -- url     : https://prove2.me/theorems/45dafaf1-c607-42d7-b5fd-457325d8ec68
 -- title:
---   Lefebvre's variations, No. 183 — on a theme by Whitney: every smooth n-manifold has a closed embedding into Euclidean space of dimension 2n+1
+--   Lefebvre's variations, No. 221 — on a theme by Whitney: every smooth n-manifold has a closed embedding into Euclidean space of dimension 2n+1
 -- statement:
 --   Let $n\ge 0$ and let $M$ be a smooth, Hausdorff, second-countable $n$-manifold without boundary (compact or not). Then there is a smooth map $e\colon M\to\mathbb{R}^{2n+1}$ which is a closed embedding (a homeomorphism onto a closed subset) and an immersion:
 --   $$\exists\, e\in C^\infty(M,\mathbb{R}^{2n+1}):\quad e \text{ is a closed embedding and } de_x \text{ is injective } \forall x\in M .$$

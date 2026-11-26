@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_graphHom_X_castSucc_df3aee881de6
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_graphHom_X_castSucc_df3aee881de6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:40:07.615958+00:00
 -- url     : https://prove2.me/theorems/4c66b11c-35e1-45d5-a7da-9d7d1d46c952

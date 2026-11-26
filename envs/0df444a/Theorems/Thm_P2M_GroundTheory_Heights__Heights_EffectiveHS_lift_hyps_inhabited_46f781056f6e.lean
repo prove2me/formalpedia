@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EffectiveHS_lift_hyps_inhabited_46f781056f6e
 -- name    : P2M_GroundTheory_Heights__Heights_EffectiveHS_lift_hyps_inhabited_46f781056f6e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:10:33.609997+00:00
 -- url     : https://prove2.me/theorems/85e32666-93d3-46a6-8272-3447a0107544

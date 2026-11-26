@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:48:53.527252+00:00
 -- url     : https://prove2.me/theorems/78c38ed1-21eb-5ec6-82a9-23060fa0b608
 -- title:
---   Lefebvre's variations, No. 61 — on a theme by Erdős, Burr and Rosta: the Ramsey multiplicity conjecture at k equals three
+--   Lefebvre's variations, No. 70 — on a theme by Erdős, Burr and Rosta: the Ramsey multiplicity conjecture at k equals three
 -- statement:
 --   For every $n\in\mathbb{N}$ and every $2$-colouring of the edges of the complete graph $K_n$, the number of $3$-element monochromatic vertex sets, together with the vertex sets all of whose pairs have the second colour, is at least
 --   $$

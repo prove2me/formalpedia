@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:21:04.632797+00:00
 -- url     : https://prove2.me/theorems/ca06e621-aafd-5f92-81f6-e39b2daf1eae
 -- title:
---   Lefebvre's variations, No. 49 — on a theme by Douady and Hubbard: the real slice of the quartic Multibrot set
+--   Lefebvre's variations, No. 54 — on a theme by Douady and Hubbard: the real slice of the quartic Multibrot set
 -- statement:
 --   Let $M_4=\{c\in\mathbb{C} : \text{the orbit of }0\text{ under }z\mapsto z^4+c\text{ does not tend to }\infty\}$ be the quartic Multibrot set. Its intersection with the real axis is
 --   $$

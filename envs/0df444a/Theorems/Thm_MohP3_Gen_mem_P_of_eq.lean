@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Gen_mem_P_of_eq
 -- name    : MohP3.Gen.mem_P_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:47:08.008799+00:00
 -- url     : https://prove2.me/theorems/ef763392-671a-5e7e-8831-25f72630ac07

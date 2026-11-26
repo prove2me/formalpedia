@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_LaurentLoc_single_neg_mul_a3fc1f91f60a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_LaurentLoc_single_neg_mul_a3fc1f91f60a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:27:12.604969+00:00
 -- url     : https://prove2.me/theorems/3368011a-2ff2-4f19-82f6-a32f747ff2a5

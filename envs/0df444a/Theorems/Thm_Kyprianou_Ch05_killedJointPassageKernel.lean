@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedJointPassageKernel
 -- name    : Kyprianou.Ch05.killedJointPassageKernel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:50:31.631233+00:00
 -- url     : https://prove2.me/theorems/fc56fe42-6321-4099-bf87-f4dcb572ddbe

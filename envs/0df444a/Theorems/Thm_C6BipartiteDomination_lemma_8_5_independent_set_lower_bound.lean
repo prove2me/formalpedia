@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_C6BipartiteDomination_lemma_8_5_independent_set_lower_bound
 -- name    : C6BipartiteDomination.lemma_8_5_independent_set_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:49:18.285428+00:00
 -- url     : https://prove2.me/theorems/64fc5fbd-1da7-54ec-8160-d26da41900a7

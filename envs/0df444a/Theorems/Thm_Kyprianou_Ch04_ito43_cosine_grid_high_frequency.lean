@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cosine_grid_high_frequency
 -- name    : Kyprianou.Ch04.ito43_cosine_grid_high_frequency
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T20:32:30.615792+00:00
 -- url     : https://prove2.me/theorems/fbaf30de-3458-4c7f-994f-774f343033c2

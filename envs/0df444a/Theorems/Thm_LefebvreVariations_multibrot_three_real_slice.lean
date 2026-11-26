@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:45:06.719098+00:00
 -- url     : https://prove2.me/theorems/38b0990e-fc0d-4b89-b6fe-4d354e5df00b
 -- title:
---   Lefebvre's variations, No. 29 — on a theme by Douady and Hubbard: the real slice of the cubic Multibrot set
+--   Lefebvre's variations, No. 33 — on a theme by Douady and Hubbard: the real slice of the cubic Multibrot set
 -- statement:
 --   This is the real slice of the cubic Multibrot set.
 --

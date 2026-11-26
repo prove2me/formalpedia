@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_exercise58_crossingProbability
 -- name    : Kyprianou.Ch05.exercise58_crossingProbability
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T12:42:11.446847+00:00
 -- url     : https://prove2.me/theorems/715fbed1-8898-487a-a58e-13b4f707b7a7

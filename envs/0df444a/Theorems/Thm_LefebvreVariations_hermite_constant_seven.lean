@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:25:24.938924+00:00
 -- url     : https://prove2.me/theorems/ebc222dc-3331-4e17-8937-fd1e687c1933
 -- title:
---   Lefebvre's variations, No. 161 — on a theme by Hermite: Hermite's constant γ₇ = 64^(1/7) (Blichfeldt)
+--   Lefebvre's variations, No. 199 — on a theme by Hermite: Hermite's constant γ₇ = 64^(1/7) (Blichfeldt)
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

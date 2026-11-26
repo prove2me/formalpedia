@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Gen_cert_23
 -- name    : MohP3.Gen.cert_23
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:48:04.056511+00:00
 -- url     : https://prove2.me/theorems/fa4ec55d-27ce-57fe-b6c1-4910d4088318

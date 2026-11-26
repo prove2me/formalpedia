@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.canonicalPositivePoissonCrossingWitnessV2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T18:57:38.369484+00:00
 -- url     : https://prove2.me/submissions/9edc68b7-4d49-46d9-b8bd-96e7738c8f61
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch05_canonicalPositivePoissonPathAdaptedV1

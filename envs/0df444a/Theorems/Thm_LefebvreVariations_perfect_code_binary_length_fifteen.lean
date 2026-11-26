@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:03:49.205719+00:00
 -- url     : https://prove2.me/theorems/88cb8d95-5c88-5675-ac19-6783cadb1e57
 -- title:
---   Lefebvre's variations, No. 117 — on a theme by Richard Hamming: a perfect binary one-error-correcting code of length fifteen
+--   Lefebvre's variations, No. 138 — on a theme by Richard Hamming: a perfect binary one-error-correcting code of length fifteen
 -- statement:
 --   There is a set $C\subseteq\{0,\dots,1\}^{15}$ of words of length $15$ over an alphabet of $2$ letters such that any two distinct words differ in at least $3$ positions, and the Hamming balls of radius $1$ around the words of $C$ cover the whole space:
 --   $$

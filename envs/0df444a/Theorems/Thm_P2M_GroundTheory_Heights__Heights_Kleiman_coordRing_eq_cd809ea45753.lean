@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_coordRing_eq_cd809ea45753
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_coordRing_eq_cd809ea45753
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:27:57.907796+00:00
 -- url     : https://prove2.me/theorems/22d820c3-9865-41f6-99da-4d10258b4290

@@ -27823,7 +27823,7 @@
 {"parent": "PeakEndPricing.Convergence.claim_4", "child": "PeakEndPricing_Convergence_Model", "via": ["statement"]}
 {"parent": "PeakEndPricing.Convergence.claim_5", "child": "PeakEndPricing_Convergence_Model", "via": ["statement"]}
 {"parent": "PeakEndPricing.Convergence.lemma_1", "child": "PeakEndPricing_Convergence_Model", "via": ["solution", "statement"]}
-{"parent": "PeakEndPricing.Convergence.lemma_2", "child": "PeakEndPricing_Convergence_Model", "via": ["statement"]}
+{"parent": "PeakEndPricing.Convergence.lemma_2", "child": "PeakEndPricing_Convergence_Model", "via": ["solution", "statement"]}
 {"parent": "PeakEndPricing.Convergence.lemma_3", "child": "PeakEndPricing_Convergence_Model", "via": ["statement"]}
 {"parent": "PeakEndPricing.Convergence.lemma_4", "child": "PeakEndPricing_Convergence_Model", "via": ["statement"]}
 {"parent": "PeakEndPricing.Convergence.lemma_5", "child": "PeakEndPricing_Convergence_Model", "via": ["statement"]}
@@ -51559,7 +51559,7 @@
 {"parent": "RudnevIncidence.PointPlane.theorem_12", "child": "RudnevIncidence_PointPlane_Setting", "via": ["statement"]}
 {"parent": "RudnevIncidence.PointPlane.theorem_2", "child": "RudnevIncidence_PointPlane_Setting", "via": ["statement"]}
 {"parent": "RudnevIncidence.PointPlane.theorem_3", "child": "RudnevIncidence_PointPlane_Setting", "via": ["statement"]}
-{"parent": "RudnevIncidence.PointPlane.vanishing_polynomial", "child": "RudnevIncidence_PointPlane_Setting", "via": ["statement"]}
+{"parent": "RudnevIncidence.PointPlane.vanishing_polynomial", "child": "RudnevIncidence_PointPlane_Setting", "via": ["solution", "statement"]}
 {"parent": "RunIntersect.Facet.lemma_1", "child": "RunIntersect_Facet_Setting", "via": ["statement"]}
 {"parent": "RunIntersect.Facet.lemma_2", "child": "RunIntersect_Facet_Setting", "via": ["statement"]}
 {"parent": "RunIntersect.Facet.mp_full_dimensional", "child": "RunIntersect_Facet_Setting", "via": ["statement"]}

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:37:32.203773+00:00
 -- url     : https://prove2.me/theorems/9c005c15-b3d1-5553-ad72-c67444df53b4
 -- title:
---   Lefebvre's variations, No. 196 — on a theme by Birch and Swinnerton-Dyer: the elliptic curve 389a1 has rank at least 1
+--   Lefebvre's variations, No. 235 — on a theme by Birch and Swinnerton-Dyer: the elliptic curve 389a1 has rank at least 1
 -- statement:
 --   Let $E$ be the elliptic curve $389a1$ over $\mathbb{Q}$ given by the Weierstrass equation
 --   $$y^2+y=x^3+x^2-2x ,$$

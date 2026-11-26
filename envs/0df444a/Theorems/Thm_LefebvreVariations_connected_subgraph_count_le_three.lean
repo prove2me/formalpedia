@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:37:50.412808+00:00
 -- url     : https://prove2.me/theorems/53399258-c2a0-5653-977c-acd2fc82e101
 -- title:
---   Lefebvre's variations, No. 197 — on a theme by Balasubramanian, Davydova and Lin: counting connected vertex sets that meet a given set, for sets of at most three vertices
+--   Lefebvre's variations, No. 237 — on a theme by Balasubramanian, Davydova and Lin: counting connected vertex sets that meet a given set, for sets of at most three vertices
 -- statement:
 --   Let $G$ be a finite simple graph of maximum degree at most $\Delta$, let $V_2$ be a set of vertices, and let $m\le 3$. Then
 --   $$

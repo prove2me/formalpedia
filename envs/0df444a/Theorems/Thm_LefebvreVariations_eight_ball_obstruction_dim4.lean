@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:32:10.282257+00:00
 -- url     : https://prove2.me/theorems/30547b4f-a5b4-479c-9936-bebbdf4f6246
 -- title:
---   Lefebvre's variations, No. 174 — on a theme by Gromov: eight equal balls do not pack the four-dimensional ball beyond capacity six seventeenths
+--   Lefebvre's variations, No. 212 — on a theme by Gromov: eight equal balls do not pack the four-dimensional ball beyond capacity six seventeenths
 -- statement:
 --   Let eight balls of capacity $c>0$ be symplectically embedded in the open ball of capacity $1$ of $\mathbb C^2$ with pairwise disjoint images: that is, there are symplectic embeddings $f_1,\dots,f_{8}$ of neighbourhoods of the closed balls $B(c)=\{z:\pi|z|^2\le c\}$ with $f_i\bigl(B(c)\bigr)\subset\{\pi|z|^2<1\}$ and $f_i\bigl(B(c)\bigr)\cap f_j\bigl(B(c)\bigr)=\emptyset$ for $i\ne j$. Then
 --   $$

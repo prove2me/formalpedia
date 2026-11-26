@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:36:24.678468+00:00
 -- url     : https://prove2.me/theorems/a9895642-88f4-4de3-9a5e-53f0b267b4f0
 -- title:
---   Lefebvre's variations, No. 188 — on a theme by Liu and Layland: rate-monotonic scheduling of three tasks meets every deadline when the utilization is at most 3(2^{1/3} − 1)
+--   Lefebvre's variations, No. 226 — on a theme by Liu and Layland: rate-monotonic scheduling of three tasks meets every deadline when the utilization is at most 3(2^{1/3} − 1)
 -- statement:
 --   Let $C_i,T_i$ ($i=0,1,2$) be positive integers with $C_i\le T_i$ and
 --   $$

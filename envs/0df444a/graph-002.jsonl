@@ -17443,8 +17443,8 @@
 {"parent": "GKP1998.scaling_dimension_asymptotic", "child": "GKP1998_Defs", "via": ["solution", "statement"]}
 {"parent": "GKP1998.swave_radial_solution", "child": "GKP1998_Defs", "via": ["solution", "statement"]}
 {"parent": "GL2F3.isConj_pow_three_of_orderOf_eq_eight", "child": "P2M_Util", "via": ["solution"]}
-{"parent": "GOSNIZK.BGNCommit.binding_key_decomposition", "child": "GOSNIZK_BGNCommit_BGNSetup", "via": ["statement"]}
-{"parent": "GOSNIZK.BGNCommit.binding_key_decomposition", "child": "GOSNIZK_BGNCommit_Scheme", "via": ["statement"]}
+{"parent": "GOSNIZK.BGNCommit.binding_key_decomposition", "child": "GOSNIZK_BGNCommit_BGNSetup", "via": ["solution", "statement"]}
+{"parent": "GOSNIZK.BGNCommit.binding_key_decomposition", "child": "GOSNIZK_BGNCommit_Scheme", "via": ["solution", "statement"]}
 {"parent": "GOSNIZK.BGNCommit.com_homomorphic", "child": "GOSNIZK_BGNCommit_BGNSetup", "via": ["solution", "statement"]}
 {"parent": "GOSNIZK.BGNCommit.com_homomorphic", "child": "GOSNIZK_BGNCommit_Scheme", "via": ["solution", "statement"]}
 {"parent": "GOSNIZK.BGNCommit.completeness_display", "child": "GOSNIZK_BGNCommit_BGNSetup", "via": ["statement"]}
@@ -17459,10 +17459,10 @@
 {"parent": "GOSNIZK.BGNCommit.soundness_order_step", "child": "GOSNIZK_BGNCommit_Scheme", "via": ["solution", "statement"]}
 {"parent": "GOSNIZK.BGNCommit.theorem_2", "child": "GOSNIZK_BGNCommit_BGNSetup", "via": ["solution", "statement"]}
 {"parent": "GOSNIZK.BGNCommit.theorem_2", "child": "GOSNIZK_BGNCommit_Scheme", "via": ["solution", "statement"]}
-{"parent": "GOSNIZK.BGNCommit.trapdoor_opening", "child": "GOSNIZK_BGNCommit_BGNSetup", "via": ["statement"]}
-{"parent": "GOSNIZK.BGNCommit.trapdoor_opening", "child": "GOSNIZK_BGNCommit_Scheme", "via": ["statement"]}
-{"parent": "GOSNIZK.BGNCommit.unique_trapdoor_opening", "child": "GOSNIZK_BGNCommit_BGNSetup", "via": ["statement"]}
-{"parent": "GOSNIZK.BGNCommit.unique_trapdoor_opening", "child": "GOSNIZK_BGNCommit_Scheme", "via": ["statement"]}
+{"parent": "GOSNIZK.BGNCommit.trapdoor_opening", "child": "GOSNIZK_BGNCommit_BGNSetup", "via": ["solution", "statement"]}
+{"parent": "GOSNIZK.BGNCommit.trapdoor_opening", "child": "GOSNIZK_BGNCommit_Scheme", "via": ["solution", "statement"]}
+{"parent": "GOSNIZK.BGNCommit.unique_trapdoor_opening", "child": "GOSNIZK_BGNCommit_BGNSetup", "via": ["solution", "statement"]}
+{"parent": "GOSNIZK.BGNCommit.unique_trapdoor_opening", "child": "GOSNIZK_BGNCommit_Scheme", "via": ["solution", "statement"]}
 {"parent": "GOSNIZK.BGNCommit.witness_indistinguishability", "child": "GOSNIZK_BGNCommit_BGNSetup", "via": ["statement"]}
 {"parent": "GOSNIZK.BGNCommit.witness_indistinguishability", "child": "GOSNIZK_BGNCommit_Scheme", "via": ["statement"]}
 {"parent": "GOSNIZK.CircuitSound.completeness", "child": "GOSNIZK_CircuitSound_Protocol", "via": ["solution", "statement"]}

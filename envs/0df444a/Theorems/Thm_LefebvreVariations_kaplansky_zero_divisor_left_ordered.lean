@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:44:44.21084+00:00
 -- url     : https://prove2.me/theorems/ea7ce38e-28c5-4301-9ad4-2a5f7d1fb108
 -- title:
---   Lefebvre's variations, No. 55 — on a theme by Kaplansky: the group algebra of a left-ordered group has no zero divisors
+--   Lefebvre's variations, No. 61 — on a theme by Kaplansky: the group algebra of a left-ordered group has no zero divisors
 -- statement:
 --   Let $K$ be a field and $G$ a group equipped with a linear order $\le$ that is left-invariant in the strict sense:
 --   $$

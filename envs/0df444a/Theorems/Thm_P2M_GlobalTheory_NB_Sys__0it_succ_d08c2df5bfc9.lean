@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_NB_Sys__0it_succ_d08c2df5bfc9
 -- name    : P2M_GlobalTheory_NB_Sys__0it_succ_d08c2df5bfc9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:05:54.991246+00:00
 -- url     : https://prove2.me/theorems/5f071178-3dd3-5c8d-b6b0-ff1d7e192781

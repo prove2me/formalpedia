@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:24:38.262091+00:00
 -- url     : https://prove2.me/theorems/88f3b557-6520-47b0-929a-46096d82b445
 -- title:
---   Lefebvre's variations, No. 158 — on a theme by Hermite: Hermite's constant γ₅ = 8^(1/5) (Korkine–Zolotarev)
+--   Lefebvre's variations, No. 196 — on a theme by Hermite: Hermite's constant γ₅ = 8^(1/5) (Korkine–Zolotarev)
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

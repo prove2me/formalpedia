@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:36:08.251083+00:00
 -- url     : https://prove2.me/theorems/391f2b9a-8f73-4448-b2e7-228bda174961
 -- title:
---   Lefebvre's variations, No. 186 — on a theme by Liu and Layland: rate-monotonic scheduling of two tasks meets every deadline when the utilization is at most 2(√2 − 1)
+--   Lefebvre's variations, No. 224 — on a theme by Liu and Layland: rate-monotonic scheduling of two tasks meets every deadline when the utilization is at most 2(√2 − 1)
 -- statement:
 --   Let $C_0,C_1,T_0,T_1$ be positive integers with $C_i\le T_i$ and
 --   $$

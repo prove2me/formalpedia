@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ClassNumImQ_ZetaNonvanishing__eq_pow_of_dvd_pow_609e824fec9c
 -- name    : P2M_PI_ClassNumImQ_ZetaNonvanishing__eq_pow_of_dvd_pow_609e824fec9c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:43:52.16504+00:00
 -- url     : https://prove2.me/theorems/7adccf24-692d-42c3-bee8-becb403f991a

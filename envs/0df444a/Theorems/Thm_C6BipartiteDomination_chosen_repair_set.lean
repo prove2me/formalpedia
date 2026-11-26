@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_C6BipartiteDomination_chosen_repair_set
 -- name    : C6BipartiteDomination.chosen_repair_set
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:49:44.799471+00:00
 -- url     : https://prove2.me/theorems/ba11776e-f47e-4c09-bc8f-3df5ce884a90

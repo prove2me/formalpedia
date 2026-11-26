@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:27:39.029045+00:00
 -- url     : https://prove2.me/theorems/e29f56be-c100-511f-8a7a-565c9b479d2b
 -- title:
---   Lefebvre's variations, No. 169 — on a theme by Lugosi and Mehrabian: Hoeffding's strict two-sided inequality for a single variable bounded in [0,b]
+--   Lefebvre's variations, No. 207 — on a theme by Lugosi and Mehrabian: Hoeffding's strict two-sided inequality for a single variable bounded in [0,b]
 -- statement:
 --   Let $X$ be a random variable with $0\le X\le b$ for some $b>0$. Then for every $t\ge0$,
 --   $$\mathbb{P}\bigl(|X-\mathbb{E}X|>t\bigr)<2\exp\!\Bigl(-\frac{2t^2}{b^2}\Bigr).$$

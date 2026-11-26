@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_canonicalPositivePoissonCrossingPathLimitV1
 -- name    : Kyprianou.Ch05.canonicalPositivePoissonCrossingPathLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:50:01.217294+00:00
 -- url     : https://prove2.me/theorems/b2f533e0-3fe2-508a-b02e-f6198e8f88ac

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:24:44.348005+00:00
 -- url     : https://prove2.me/theorems/824d06af-eddf-420f-ade9-cfc1fe79278c
 -- title:
---   Lefebvre's variations, No. 81 — on a theme by Erdős: Sidon sets in {1,...,N} have at least sqrt(N) elements for N up to 100
+--   Lefebvre's variations, No. 92 — on a theme by Erdős: Sidon sets in {1,...,N} have at least sqrt(N) elements for N up to 100
 -- statement:
 --   For every integer $N$ with $1\le N\le 100$, the largest size $h(N)$ of a Sidon set in $\{1,\dots,N\}$ satisfies
 --   $$N\ \le\ h(N)^2,\qquad\text{i.e. } h(N)\ge\sqrt N .$$

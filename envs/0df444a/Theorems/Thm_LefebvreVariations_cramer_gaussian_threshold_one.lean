@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:26:33.867894+00:00
 -- url     : https://prove2.me/theorems/71c3e412-90bf-4264-84bd-711a7163a849
 -- title:
---   Lefebvre's variations, No. 165 — on a theme by Cramér: for standard Gaussian steps, the exponential decay rate of P(S_n >= n) is 1/2
+--   Lefebvre's variations, No. 203 — on a theme by Cramér: for standard Gaussian steps, the exponential decay rate of P(S_n >= n) is 1/2
 -- statement:
 --   Let $X_0,X_1,\dots$ be i.i.d. standard normal random variables. Then
 --   $$\lim_{n\to\infty}\frac1n\log\mathbb{P}\bigl(X_0+\dots+X_{n-1}\ge n\bigr)=-\frac12 .$$

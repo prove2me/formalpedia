@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:15:22.989141+00:00
 -- url     : https://prove2.me/theorems/75f5065c-bed8-415f-9f68-edf9defed778
 -- title:
---   Lefebvre's variations, No. 147 — on a theme by Lovász: every connected vertex-transitive graph on 7 vertices has a Hamiltonian path
+--   Lefebvre's variations, No. 182 — on a theme by Lovász: every connected vertex-transitive graph on 7 vertices has a Hamiltonian path
 -- statement:
 --   $$G\text{ connected, vertex-transitive on }7\text{ vertices}\ \Longrightarrow\ G\text{ has a Hamiltonian path}.$$
 --

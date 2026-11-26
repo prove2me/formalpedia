@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:14:40.233135+00:00
 -- url     : https://prove2.me/theorems/f587a4b4-c525-42d6-ba33-9d89fbc9f7aa
 -- title:
---   Lefebvre's variations, No. 145 — on a theme by Ringel: every tree on 8 vertices is graceful
+--   Lefebvre's variations, No. 180 — on a theme by Ringel: every tree on 8 vertices is graceful
 -- statement:
 --   $$\forall T\text{ tree on }8\text{ vertices}\ \exists f:V(T)\hookrightarrow\{0,\dots,7\}:\ \{|f(u)-f(v)|:uv\in E(T)\}\text{ has }7\text{ distinct values}.$$
 --

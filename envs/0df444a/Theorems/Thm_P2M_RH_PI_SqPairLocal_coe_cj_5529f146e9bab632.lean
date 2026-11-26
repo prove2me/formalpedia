@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_PI_SqPairLocal_coe_cj_5529f146e9bab632
 -- name    : P2M_RH_PI_SqPairLocal_coe_cj_5529f146e9bab632
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:43:18.21668+00:00
 -- url     : https://prove2.me/theorems/a475a4d9-7a8c-5f37-ad7a-b9749c6b3b4e

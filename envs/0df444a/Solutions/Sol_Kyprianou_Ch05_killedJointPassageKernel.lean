@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.killedJointPassageKernel
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T16:04:31.514382+00:00
 -- url     : https://prove2.me/submissions/615a8c30-f170-488d-ab67-5d2c0e505c37
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch05_killedSubordinatorPositiveLevyMeasureV1

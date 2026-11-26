@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:06:11.694557+00:00
 -- url     : https://prove2.me/theorems/199f359d-21ce-4160-8e8d-67998f4a8958
 -- title:
---   Lefebvre's variations, No. 9 — on a theme by Ryser: Ryser's conjecture for intersecting 3-partite hypergraphs
+--   Lefebvre's variations, No. 10 — on a theme by Ryser: Ryser's conjecture for intersecting 3-partite hypergraphs
 -- statement:
 --   This is the intersecting case of Ryser's conjecture for $3$-partite hypergraphs (Ten Challenges 08).
 --

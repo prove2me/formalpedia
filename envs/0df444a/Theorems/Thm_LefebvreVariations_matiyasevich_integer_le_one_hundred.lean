@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:20:01.879413+00:00
 -- url     : https://prove2.me/theorems/2c2b54bc-04e8-582b-99cc-fb5f4d8f1273
 -- title:
---   Lefebvre's variations, No. 154 — on a theme by Matiyasevich: Matiyasevich's integer inequality holds for n at most one hundred
+--   Lefebvre's variations, No. 192 — on a theme by Matiyasevich: Matiyasevich's integer inequality holds for n at most one hundred
 -- statement:
 --   Write $E(m)=2^m\,m!$, $d(n)=\sum_{k=1}^{n-1}(-1)^{k+1}\lfloor E(n-1)/k\rfloor$, $l(n)=\lfloor\log_2\operatorname{lcm}(1,\dots,n)\rfloor$, $f_0(n)=\lfloor E(n)/2\rfloor$ and $f_3(n)=\prod_{j=2}^{n}(2j+3)$. For every integer $1\le n\le100$,
 --   $$

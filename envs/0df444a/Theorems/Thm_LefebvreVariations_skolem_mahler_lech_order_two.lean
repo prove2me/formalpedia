@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:49:14.471806+00:00
 -- url     : https://prove2.me/theorems/82da698a-1905-49e8-bd11-a68ca91ca164
 -- title:
---   Lefebvre's variations, No. 62 — on a theme by Skolem-Mahler-Lech: the Skolem–Mahler–Lech theorem for recurrences of order two
+--   Lefebvre's variations, No. 71 — on a theme by Skolem-Mahler-Lech: the Skolem–Mahler–Lech theorem for recurrences of order two
 -- statement:
 --   Let $K$ be a field of characteristic $0$, let $c_0,c_1\in K$ and let $(u_n)_{n\ge 0}$ satisfy
 --   $$

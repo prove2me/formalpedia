@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_slmG_apply__dd6b4f1aec33
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_slmG_apply__dd6b4f1aec33
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:43:39.833689+00:00
 -- url     : https://prove2.me/theorems/1f450193-f88d-4788-b396-7e68535bef78

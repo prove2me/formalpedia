@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_exponential_cosine_mesh_limit
 -- name    : Kyprianou.Ch04.ito43_exponential_cosine_mesh_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T21:49:05.467081+00:00
 -- url     : https://prove2.me/theorems/aee28919-7f28-401e-bd0d-9c2a1bb2b936

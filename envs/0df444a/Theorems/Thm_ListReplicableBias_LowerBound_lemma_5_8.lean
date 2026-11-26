@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ListReplicableBias_LowerBound_lemma_5_8
 -- name    : ListReplicableBias.LowerBound.lemma_5_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:23:43.651059+00:00
 -- url     : https://prove2.me/theorems/7c7a319e-e963-444c-a1ec-8d2ebb3abbac

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:18:37.404657+00:00
 -- url     : https://prove2.me/theorems/6b61b000-d75f-4085-b19d-ef1551b90e83
 -- title:
---   Lefebvre's variations, No. 149 — on a theme by Sendov: Sendov's conjecture holds in degree 4
+--   Lefebvre's variations, No. 187 — on a theme by Sendov: Sendov's conjecture holds in degree 4
 -- statement:
 --   Let $p\in\mathbb{C}[X]$ have degree exactly $4$, with all its roots in the closed unit disc, and let $z_0$ be a root of $p$. Then $p'$ has a root $w$ with
 --   $$

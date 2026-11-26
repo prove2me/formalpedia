@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:13:30.35769+00:00
 -- url     : https://prove2.me/theorems/1a199821-a9df-42e8-981c-3ecd69630a62
 -- title:
---   Lefebvre's variations, No. 37 — on a theme by Sidorenko: Sidorenko's conjecture for every even cycle
+--   Lefebvre's variations, No. 42 — on a theme by Sidorenko: Sidorenko's conjecture for every even cycle
 -- statement:
 --   This is Sidorenko's conjecture for every even cycle.
 --

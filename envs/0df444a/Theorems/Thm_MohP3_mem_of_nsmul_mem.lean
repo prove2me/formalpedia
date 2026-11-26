@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_mem_of_nsmul_mem
 -- name    : MohP3.mem_of_nsmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:45:46.574714+00:00
 -- url     : https://prove2.me/theorems/36383bd2-bc65-4b97-bdf9-7a1e5e743cc9

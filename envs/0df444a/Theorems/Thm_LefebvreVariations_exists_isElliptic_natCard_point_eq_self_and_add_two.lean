@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:37:27.105797+00:00
 -- url     : https://prove2.me/theorems/0f651e3e-6a86-464a-8a37-613cb7afea9f
 -- title:
---   Lefebvre's variations, No. 194 — on a theme by Deuring and Waterhouse: for every prime $p$, elliptic curves over $\mathbb{F}_p$ with exactly $p$ points and with exactly $p+2$ points
+--   Lefebvre's variations, No. 233 — on a theme by Deuring and Waterhouse: for every prime $p$, elliptic curves over $\mathbb{F}_p$ with exactly $p$ points and with exactly $p+2$ points
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

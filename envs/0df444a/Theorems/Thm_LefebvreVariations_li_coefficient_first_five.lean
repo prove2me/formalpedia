@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:19:29.234873+00:00
 -- url     : https://prove2.me/theorems/0cb22d08-0e58-4e96-989e-9565003d1d6d
 -- title:
---   Lefebvre's variations, No. 152 — on a theme by Li: the first five Li coefficients are nonnegative
+--   Lefebvre's variations, No. 190 — on a theme by Li: the first five Li coefficients are nonnegative
 -- statement:
 --   Let $\xi(s)=\tfrac12 s(s-1)\pi^{-s/2}\Gamma(s/2)\zeta(s)$ and, for $m\ge1$,
 --   $$

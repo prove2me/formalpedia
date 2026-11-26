@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:30:53.247234+00:00
 -- url     : https://prove2.me/theorems/0d2fe094-a096-45e2-8a24-737e7b98fa8e
 -- title:
---   Lefebvre's variations, No. 172 — on a theme by Gromov: five equal balls do not pack the four-dimensional ball beyond capacity two fifths
+--   Lefebvre's variations, No. 210 — on a theme by Gromov: five equal balls do not pack the four-dimensional ball beyond capacity two fifths
 -- statement:
 --   Let five balls of capacity $c>0$ be symplectically embedded in the open ball of capacity $1$ of $\mathbb C^2$ with pairwise disjoint images: that is, there are symplectic embeddings $f_1,\dots,f_{5}$ of neighbourhoods of the closed balls $B(c)=\{z:\pi|z|^2\le c\}$ with $f_i\bigl(B(c)\bigr)\subset\{\pi|z|^2<1\}$ and $f_i\bigl(B(c)\bigr)\cap f_j\bigl(B(c)\bigr)=\emptyset$ for $i\ne j$. Then
 --   $$

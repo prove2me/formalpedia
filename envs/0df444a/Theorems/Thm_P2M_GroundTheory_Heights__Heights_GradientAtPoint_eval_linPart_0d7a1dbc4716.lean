@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GradientAtPoint_eval_linPart_0d7a1dbc4716
 -- name    : P2M_GroundTheory_Heights__Heights_GradientAtPoint_eval_linPart_0d7a1dbc4716
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:13:44.391513+00:00
 -- url     : https://prove2.me/theorems/189cbf78-3dd8-4844-b1ae-4eb8899ad99e

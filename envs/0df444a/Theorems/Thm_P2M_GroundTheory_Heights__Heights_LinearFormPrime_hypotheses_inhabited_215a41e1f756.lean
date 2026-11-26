@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinearFormPrime_hypotheses_inhabited_215a41e1f756
 -- name    : P2M_GroundTheory_Heights__Heights_LinearFormPrime_hypotheses_inhabited_215a41e1f756
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:29:53.2776+00:00
 -- url     : https://prove2.me/theorems/2f2e078d-2d05-4319-b731-ab7e0e8d11a9

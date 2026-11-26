@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity_minimalPrimes_map_equiv_83a5b4407833
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity_minimalPrimes_map_equiv_83a5b4407833
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:34:13.600293+00:00
 -- url     : https://prove2.me/theorems/12453177-615f-496a-bf81-c24b97178b80

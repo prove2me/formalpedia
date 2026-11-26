@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:03:18.72722+00:00
 -- url     : https://prove2.me/theorems/29905750-3e09-5372-94c2-e95dc90e9369
 -- title:
---   Lefebvre's variations, No. 123 — on a theme by Hilbert: the symmetric group on seven letters is a Galois group over the rationals
+--   Lefebvre's variations, No. 145 — on a theme by Hilbert: the symmetric group on seven letters is a Galois group over the rationals
 -- statement:
 --   The symmetric group $S_7$ on seven letters is the Galois group over $\mathbb{Q}$ of a Galois extension: there is a Galois extension $L/\mathbb{Q}$ with
 --

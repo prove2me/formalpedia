@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:33:44.790738+00:00
 -- url     : https://prove2.me/theorems/40c35c18-18f4-4d5b-91fe-ea7215a5c3b2
 -- title:
---   Lefebvre's variations, No. 178 — on a theme by Riemann and Liouville: the Laplace transform of the half-order Riemann-Liouville derivative of a decaying exponential
+--   Lefebvre's variations, No. 216 — on a theme by Riemann and Liouville: the Laplace transform of the half-order Riemann-Liouville derivative of a decaying exponential
 -- statement:
 --   For every complex $s$ with $\operatorname{Re}s>0$, the Laplace transform of the Riemann--Liouville derivative of order $\tfrac12$ of $f(t)=e^{-t}$ is
 --   $$

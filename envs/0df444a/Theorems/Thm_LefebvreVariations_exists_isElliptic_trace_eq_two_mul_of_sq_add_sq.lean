@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:36:21.599073+00:00
 -- url     : https://prove2.me/theorems/79102283-ecf0-5316-83bd-eca1b69f3d64
 -- title:
---   Lefebvre's variations, No. 187 — on a theme by Deuring and Waterhouse: a curve over $\mathbb{F}_p$ with trace $2a$ whenever $p=a^2+b^2$ (the $j=1728$ CM family)
+--   Lefebvre's variations, No. 225 — on a theme by Deuring and Waterhouse: a curve over $\mathbb{F}_p$ with trace $2a$ whenever $p=a^2+b^2$ (the $j=1728$ CM family)
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

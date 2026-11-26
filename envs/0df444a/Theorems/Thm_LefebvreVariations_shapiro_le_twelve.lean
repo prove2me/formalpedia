@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:19:11.837799+00:00
 -- url     : https://prove2.me/theorems/f2245d68-b991-420b-8b85-da6022676fca
 -- title:
---   Lefebvre's variations, No. 151 — on a theme by Shapiro: the Shapiro harmonic criterion holds for n at most twelve
+--   Lefebvre's variations, No. 189 — on a theme by Shapiro: the Shapiro harmonic criterion holds for n at most twelve
 -- statement:
 --   For $n\ge1$ let $\delta_n=\prod_{j=1}^{n-1}\operatorname{lcm}(1,2,\dots,j)$. For every integer $1\le n\le 12$,
 --   $$

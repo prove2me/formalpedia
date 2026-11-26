@@ -72520,8 +72520,8 @@
 {"parent": "RH1E6S10.part_027_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S10.part_027_2", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S10.part_027_2", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
-{"parent": "SpherePackingBeyond.minkowski_hlawka", "child": "SpherePackingBeyond_D4", "via": ["statement"]}
-{"parent": "SpherePackingBeyond.minkowski_hlawka", "child": "TenChallenges_SpherePacking", "via": ["statement"]}
+{"parent": "SpherePackingBeyond.minkowski_hlawka", "child": "SpherePackingBeyond_D4", "via": ["solution", "statement"]}
+{"parent": "SpherePackingBeyond.minkowski_hlawka", "child": "TenChallenges_SpherePacking", "via": ["solution", "statement"]}
 {"parent": "SpherePackingBeyond.D4_density", "child": "SpherePackingBeyond_D4", "via": ["solution", "statement"]}
 {"parent": "SpherePackingBeyond.D4_density", "child": "TenChallenges_SpherePacking", "via": ["solution", "statement"]}
 {"parent": "KadatchJenkins.stripe_decomposition", "child": "KadatchJenkinsCrc", "via": ["solution", "statement"]}

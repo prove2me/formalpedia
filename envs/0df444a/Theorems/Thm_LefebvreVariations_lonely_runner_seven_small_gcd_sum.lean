@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:29:02.387813+00:00
 -- url     : https://prove2.me/theorems/cf412d5a-5a9a-5d27-84f0-322375717305
 -- title:
---   Lefebvre's variations, No. 83 — on a theme by Wills: the lonely runner with seven runners, coprime speeds of small gcd-sum
+--   Lefebvre's variations, No. 94 — on a theme by Wills: the lonely runner with seven runners, coprime speeds of small gcd-sum
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_DIP_NormOne_coe___e90390e50a53
 -- name    : P2M_PI_DIP_NormOne_coe___e90390e50a53
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:42:54.215224+00:00
 -- url     : https://prove2.me/theorems/917a2109-5fbb-528e-9293-e7c4b997af6c

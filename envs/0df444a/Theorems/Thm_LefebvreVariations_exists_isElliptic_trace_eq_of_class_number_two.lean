@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:37:45.494611+00:00
 -- url     : https://prove2.me/theorems/b3a753bf-13ed-4ae2-93a4-d19bfd5bc38b
 -- title:
---   Lefebvre's variations: a curve over $\mathbb{F}_p$ with trace $t$ whenever $t^2+Dm^2=4p$ for a class-number-two fundamental discriminant $-D$
+--   Lefebvre's variations, No. 236 — on a theme by Deuring and Waterhouse: a curve over $\mathbb{F}_p$ with trace $t$ whenever $t^2+Dm^2=4p$ for a class-number-two fundamental discriminant $-D$
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

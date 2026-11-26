@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:52:54.057242+00:00
 -- url     : https://prove2.me/theorems/77557316-3359-5bbd-9057-8a238b2677bc
 -- title:
---   Lefebvre's variations, No. 101 — on a theme by Dirac and Motzkin: the Kelly–Moser bound on ordinary lines
+--   Lefebvre's variations, No. 113 — on a theme by Dirac and Motzkin: the Kelly–Moser bound on ordinary lines
 -- statement:
 --   Let $S\subset\mathbb{R}^2$ be a finite set of $n$ points not all on one line. An *ordinary line* of $S$ is a line containing exactly two points of $S$. Then $S$ determines at least $3n/7$ ordinary lines:
 --   $$

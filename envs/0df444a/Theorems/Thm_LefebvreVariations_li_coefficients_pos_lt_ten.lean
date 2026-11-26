@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:30:17.675461+00:00
 -- url     : https://prove2.me/theorems/41185b16-effd-5c24-bb48-b908c50d96d2
 -- title:
---   Lefebvre's variations, No. 171 — on a theme by Li: the first ten Li coefficients are positive
+--   Lefebvre's variations, No. 209 — on a theme by Li: the first ten Li coefficients are positive
 -- statement:
 --   Let $\xi(s)=\tfrac12\bigl(1+s(s-1)\Lambda_0(s)\bigr)$ be the Riemann xi function and let
 --   $$

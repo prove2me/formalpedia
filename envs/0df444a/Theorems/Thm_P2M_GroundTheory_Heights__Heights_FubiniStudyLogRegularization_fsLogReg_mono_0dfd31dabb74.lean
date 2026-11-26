@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FubiniStudyLogRegularization_fsLogReg_mono_0dfd31dabb74
 -- name    : P2M_GroundTheory_Heights__Heights_FubiniStudyLogRegularization_fsLogReg_mono_0dfd31dabb74
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:14:59.067985+00:00
 -- url     : https://prove2.me/theorems/18c214aa-168d-59c0-8c3d-0fa872554e8f

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:35:04.483581+00:00
 -- url     : https://prove2.me/theorems/443db1f4-ca08-4a25-bd8f-81c133dc499e
 -- title:
---   Lefebvre's variations, No. 184 — on a theme by Burau: the kernel of the Burau representation of B_4 lies in the commutator subgroup
+--   Lefebvre's variations, No. 222 — on a theme by Burau: the kernel of the Burau representation of B_4 lies in the commutator subgroup
 -- statement:
 --   Let $B_4$ be the braid group on four strands and $\rho_4\colon B_4\to GL_4(\mathbb{Z}[t,t^{-1}])$ the unreduced Burau representation. If $x\in B_4$ satisfies $\rho_4(x)=1$, then $x$ lies in the commutator subgroup:
 --   $$\ker\rho_4\;\subseteq\;[B_4,B_4].$$

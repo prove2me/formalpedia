@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:34:24.399148+00:00
 -- url     : https://prove2.me/theorems/01c20f2e-3832-42a0-997f-59c1142165d1
 -- title:
---   Lefebvre's variations, No. 182 — on a theme by Prabhakar: the Laplace transform of the Prabhakar function with alpha equal to 3 and gamma equal to 2
+--   Lefebvre's variations, No. 220 — on a theme by Prabhakar: the Laplace transform of the Prabhakar function with alpha equal to 3 and gamma equal to 2
 -- statement:
 --   For every real $c$ and every complex $s$ with $\operatorname{Re}s>|c|^{1/3}$,
 --   $$

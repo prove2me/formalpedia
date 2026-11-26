@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Gen_f2f2_mem_Q
 -- name    : MohP3.Gen.f2f2_mem_Q
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:49:17.82329+00:00
 -- url     : https://prove2.me/theorems/94ff356d-17fc-46a0-85fa-31e93f82eabc

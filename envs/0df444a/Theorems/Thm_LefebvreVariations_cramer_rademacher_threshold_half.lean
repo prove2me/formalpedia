@@ -5,7 +5,7 @@
 -- created : 2026-11-26T21:26:14.482709+00:00
 -- url     : https://prove2.me/theorems/8182d8dc-d39f-573b-9cbd-c772224b65bb
 -- title:
---   Lefebvre's variations, No. 164 — on a theme by Cramér: for fair signs, the exponential decay rate of P(S_n >= n/2) is (3/4)log(3/2)+(1/4)log(1/2) in absolute value
+--   Lefebvre's variations, No. 202 — on a theme by Cramér: for fair signs, the exponential decay rate of P(S_n >= n/2) is (3/4)log(3/2)+(1/4)log(1/2) in absolute value
 -- statement:
 --   Let $X_0,X_1,\dots$ be i.i.d. with $\mathbb{P}(X_0=1)=\mathbb{P}(X_0=-1)=\tfrac12$. Then
 --   $$\lim_{n\to\infty}\frac1n\log\mathbb{P}\bigl(X_0+\dots+X_{n-1}\ge \tfrac n2\bigr)=-\Bigl(\tfrac34\log\tfrac32+\tfrac14\log\tfrac12\Bigr)\approx-0.1308 .$$

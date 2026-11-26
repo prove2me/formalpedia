@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2405_00432_tilted_waveplate_retardance_axis_zero
 -- name    : Arxiv2405_00432.tilted_waveplate_retardance_axis_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-26T12:53:51.47387+00:00
 -- url     : https://prove2.me/theorems/558c4984-7017-5013-8a88-b57585899401
