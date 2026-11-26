@@ -8706,7 +8706,7 @@
 {"parent": "RPLib_FX_EtPBC_038", "child": "RPLib_FX_EtPBC_033", "via": ["statement"]}
 {"parent": "RPLib_FX_EtPBC_038", "child": "RPLib_FX_EtPBC_032", "via": ["statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.RAM.Call.firstPrelude_correct", "child": "OAILP_RAM_FrameFirst", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.energy_le_diskArea", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.energy_le_diskArea", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["solution", "statement"]}
 {"parent": "SourceProof_49660bd0ff7ae0f5dd4892ed", "child": "SourceProof_578bbe5ab7e6004e9a789433", "via": ["statement"]}
 {"parent": "SourceProof_49660bd0ff7ae0f5dd4892ed", "child": "StochLean_Probability_Process_Filtration_Usual_F001", "via": ["statement"]}
 {"parent": "SourceProof_49660bd0ff7ae0f5dd4892ed", "child": "SourceProof_ac7ce9a51c9b630bf39062ad", "via": ["statement"]}
@@ -14004,7 +14004,7 @@
 {"parent": "ManyServerQED.Scheduling.uniform_path_approximation_transfers_norm_and_modulus_bounds", "child": "ManyServerQED.Scheduling.weak_continuous_path_laws_control_norm_and_modulus", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.renewalKernelSumInterchange", "child": "Kyprianou_Ch05_RenewalEpochProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.renewalKernelSumInterchange", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.renewalTailEventKernel", "child": "Kyprianou_Ch05_RenewalEpochProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.renewalTailEventKernel", "child": "Kyprianou_Ch05_RenewalEpochProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.renewalTailEventKernel", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
 {"parent": "StableMSR_OneVertexTrial", "child": "StableMSR_FeasibleEntryEmission", "via": ["statement"]}
 {"parent": "RPLib_FX_EtPBC_203", "child": "RPLib_FX_EtPBC_200", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cutoff_taylor_kernel_data
 -- name    : Kyprianou.Ch04.ito43_cutoff_taylor_kernel_data
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:46:15.350257+00:00
 -- url     : https://prove2.me/theorems/8f59817d-6649-5e56-8ab2-a52047289ec1

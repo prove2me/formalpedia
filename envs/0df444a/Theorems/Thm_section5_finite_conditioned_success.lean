@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_section5_finite_conditioned_success
 -- name    : section5_finite_conditioned_success
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-26T19:48:46.828522+00:00
 -- url     : https://prove2.me/theorems/9e147709-ff92-451d-837c-007c6aec5704

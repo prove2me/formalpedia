@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_section5_gaussian_cube_tail
 -- name    : section5_gaussian_cube_tail
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-26T19:39:20.132372+00:00
 -- url     : https://prove2.me/theorems/9092696f-077c-4f00-9afb-c75eacd54ffa

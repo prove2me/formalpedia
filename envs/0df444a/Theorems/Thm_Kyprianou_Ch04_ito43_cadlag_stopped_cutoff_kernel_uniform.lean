@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cadlag_stopped_cutoff_kernel_uniform
 -- name    : Kyprianou.Ch04.ito43_cadlag_stopped_cutoff_kernel_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:42:11.534643+00:00
 -- url     : https://prove2.me/theorems/de27723f-2cd2-5ca0-97dd-2a50f6a17d9a

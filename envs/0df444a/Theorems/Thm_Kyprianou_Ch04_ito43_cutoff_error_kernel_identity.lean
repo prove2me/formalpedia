@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cutoff_error_kernel_identity
 -- name    : Kyprianou.Ch04.ito43_cutoff_error_kernel_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:48:37.689147+00:00
 -- url     : https://prove2.me/theorems/93d5c01c-13bb-4661-a283-d076944948da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_section5_l2_norm_sq
 -- name    : section5_l2_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-26T19:49:15.45428+00:00
 -- url     : https://prove2.me/theorems/68adf075-b37d-5319-a392-eb33c7184dde

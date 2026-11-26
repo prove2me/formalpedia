@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_nonnegativeKernelHorizonExhaustionV1
 -- name    : Kyprianou.Ch05.nonnegativeKernelHorizonExhaustionV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:50:05.531241+00:00
 -- url     : https://prove2.me/theorems/26255ce9-c7c2-5b2f-9b41-0de731efb663

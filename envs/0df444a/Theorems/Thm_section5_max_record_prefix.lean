@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_section5_max_record_prefix
 -- name    : section5_max_record_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-26T19:49:35.948525+00:00
 -- url     : https://prove2.me/theorems/e9d7d8c5-408f-411d-8cdc-08e60cf2e6f8

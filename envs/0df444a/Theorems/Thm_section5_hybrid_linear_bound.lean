@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_section5_hybrid_linear_bound
 -- name    : section5_hybrid_linear_bound
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-26T19:48:37.903234+00:00
 -- url     : https://prove2.me/theorems/ecd1eb36-f595-5f68-8bc0-0490fa8af86d

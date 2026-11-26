@@ -93161,7 +93161,7 @@
 {"parent": "ReweightedNPMLE.finite_probability_optimizer_extreme_iff_linearIndependent", "child": "ReweightedNPMLE.finiteMixtureFiber_extreme_of_augmented_linearIndepOn", "via": ["solution"]}
 {"parent": "ReweightedNPMLE.finite_probability_optimizer_extreme_iff_linearIndependent", "child": "ReweightedNPMLE.isExtremeProbabilityMixture_iff", "via": ["solution"]}
 {"parent": "ReweightedNPMLE.finite_probability_optimizer_extreme_iff_linearIndependent", "child": "ReweightedNPMLE.likelihood_contact_on_finite_optimizer_support", "via": ["solution"]}
-{"parent": "MetricTSP.fractional_join_pairing", "child": "MetricTSP_model", "via": ["statement"]}
+{"parent": "MetricTSP.fractional_join_pairing", "child": "MetricTSP_model", "via": ["solution", "statement"]}
 {"parent": "MetricTSP.kkg_connected_graph_and_join", "child": "MetricTSP_graph_cost", "via": ["statement"]}
 {"parent": "MetricTSP.kkg_connected_graph_and_join", "child": "MetricTSP_model", "via": ["statement"]}
 {"parent": "MetricTSP.karlin_klein_oveis_gharan_bound", "child": "MetricTSP_graph_cost", "via": ["solution"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_section5_gaussian_pi_density
 -- name    : section5_gaussian_pi_density
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-26T19:49:02.423859+00:00
 -- url     : https://prove2.me/theorems/0e892fa2-faf7-46fd-af47-10be8a0616b8

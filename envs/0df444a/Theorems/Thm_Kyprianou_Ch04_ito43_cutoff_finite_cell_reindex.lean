@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cutoff_finite_cell_reindex
 -- name    : Kyprianou.Ch04.ito43_cutoff_finite_cell_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:44:17.061281+00:00
 -- url     : https://prove2.me/theorems/9dbdcfe7-d600-51aa-9536-f530f58cb8f0

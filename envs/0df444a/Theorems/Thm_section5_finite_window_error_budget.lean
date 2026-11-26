@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_section5_finite_window_error_budget
 -- name    : section5_finite_window_error_budget
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-26T19:48:35.898953+00:00
 -- url     : https://prove2.me/theorems/276e2b15-7643-5f7e-a611-c53846469abd

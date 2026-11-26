@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_section5_embed_diagonal
 -- name    : section5_embed_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-26T19:48:30.611681+00:00
 -- url     : https://prove2.me/theorems/50a1ecd7-52e0-45e9-9279-15b6bebd46ab

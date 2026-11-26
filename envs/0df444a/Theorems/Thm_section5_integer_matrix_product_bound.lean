@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_section5_integer_matrix_product_bound
 -- name    : section5_integer_matrix_product_bound
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-26T19:49:05.226841+00:00
 -- url     : https://prove2.me/theorems/e8e40957-b813-58a6-8d31-896f41f4409b

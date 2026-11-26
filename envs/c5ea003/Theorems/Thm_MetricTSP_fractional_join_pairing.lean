@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricTSP_fractional_join_pairing
 -- name    : MetricTSP.fractional_join_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @domodus
 -- created : 2026-11-26T19:41:44.806808+00:00
 -- url     : https://prove2.me/theorems/0869b6a6-d77a-4178-8d8e-e8d5f1d70919

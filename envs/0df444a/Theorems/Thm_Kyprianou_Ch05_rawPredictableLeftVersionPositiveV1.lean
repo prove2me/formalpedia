@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_rawPredictableLeftVersionPositiveV1
 -- name    : Kyprianou.Ch05.rawPredictableLeftVersionPositiveV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:45:33.9944+00:00
 -- url     : https://prove2.me/theorems/37995e08-7f49-4018-a4ff-26abc1539a9f

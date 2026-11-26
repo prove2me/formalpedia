@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_natural_etale_compactSupport_stalk_equiv_projectiveLineTower_fiber_cohomology
 -- name    : AlgebraicGeometry.Scheme.exists_natural_etale_compactSupport_stalk_equiv_projectiveLineTower_fiber_cohomology
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-26T18:14:21.476204+00:00
 -- url     : https://prove2.me/theorems/80500da0-ddea-4ced-909d-6c0ccddfd1c8
