@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeComplex_X
 -- name    : GlobalTheory.cubeComplex_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:43:48.21529+00:00
 -- url     : https://prove2.me/theorems/222e3260-66a8-51dc-8461-4d2f92638782

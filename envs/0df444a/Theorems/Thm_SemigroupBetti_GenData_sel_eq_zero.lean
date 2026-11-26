@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_sel_eq_zero
 -- name    : SemigroupBetti.GenData.sel_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:54:35.419151+00:00
 -- url     : https://prove2.me/theorems/482c64c4-7842-4149-83b2-d4bd4e8c897f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_dg_eq_s_of_s_eq_t
 -- name    : SemigroupBetti.GenData.dg_eq_s_of_s_eq_t
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:04:24.163799+00:00
 -- url     : https://prove2.me/theorems/155304e3-f4fa-494c-a588-5f2a2a70babd

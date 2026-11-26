@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_differentiable_param
 -- name    : GlobalTheory.isoTransvection.differentiable_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:57.130927+00:00
 -- url     : https://prove2.me/theorems/4902af07-bb60-524b-aa6a-e3332fd62d40

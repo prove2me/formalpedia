@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_queue_primitives_functional_clt
 -- name    : ManyServerQED.Scheduling.queue_primitives_functional_clt
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-25T20:16:54.604524+00:00
 -- url     : https://prove2.me/theorems/06fb3c06-4e44-5774-b977-bd492f0d177a

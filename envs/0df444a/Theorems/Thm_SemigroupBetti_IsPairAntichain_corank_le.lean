@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_IsPairAntichain_corank_le
 -- name    : SemigroupBetti.IsPairAntichain.corank_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:58:31.4938+00:00
 -- url     : https://prove2.me/theorems/5d81a5c1-b2ff-41af-8dd1-c33511668290

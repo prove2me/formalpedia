@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_beta1_le_two_W_of_ne
 -- name    : SemigroupBetti.GenData.beta1_le_two_W_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:04:30.312227+00:00
 -- url     : https://prove2.me/theorems/6c19a354-0659-5c33-94db-22f66cffcbb4

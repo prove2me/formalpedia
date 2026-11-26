@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_saturation_eq_top_iff
 -- name    : GlobalTheory.saturation_eq_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:51:09.547504+00:00
 -- url     : https://prove2.me/theorems/36f3bc85-6939-4262-adbc-bbd9b714fd12

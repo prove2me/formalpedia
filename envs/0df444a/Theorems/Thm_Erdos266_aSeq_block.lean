@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos266_aSeq_block
 -- name    : Erdos266.aSeq_block
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:01:48.985066+00:00
 -- url     : https://prove2.me/theorems/9bb3f97e-44b3-479a-8e86-a9b982ca7914

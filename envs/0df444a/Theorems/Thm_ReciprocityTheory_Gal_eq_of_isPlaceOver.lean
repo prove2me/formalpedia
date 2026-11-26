@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_eq_of_isPlaceOver
 -- name    : ReciprocityTheory.Gal.eq_of_isPlaceOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:26:44.064696+00:00
 -- url     : https://prove2.me/theorems/1d7259a8-8f15-41de-bace-d7f9b0f1cb0f

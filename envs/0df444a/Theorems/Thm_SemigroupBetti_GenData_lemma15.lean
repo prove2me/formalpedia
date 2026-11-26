@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_lemma15
 -- name    : SemigroupBetti.GenData.lemma15
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:06:15.609356+00:00
 -- url     : https://prove2.me/theorems/3d1d9c5b-f75f-4806-ac0f-d8f854e2ebfd

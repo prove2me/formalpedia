@@ -3028,7 +3028,7 @@
 {"parent": "OAILP_Geometry_FrankWolfeRAMIndexFrame", "child": "OAILP_Geometry_FrankWolfeRAM", "via": ["statement"]}
 {"parent": "OAILP_Geometry_FrankWolfeRAMIndexFrame", "child": "OAILP_RAM_RAMFrame", "via": ["statement"]}
 {"parent": "OAILP_Geometry_FrankWolfeRAMIndexFrame", "child": "OAILP_RAM_Array", "via": ["statement"]}
-{"parent": "Arxiv2507_15035.forward_equation_iff_stationary_multiplier", "child": "Arxiv2507_15035_Basic", "via": ["statement"]}
+{"parent": "Arxiv2507_15035.forward_equation_iff_stationary_multiplier", "child": "Arxiv2507_15035_Basic", "via": ["solution", "statement"]}
 {"parent": "OAILP_PriceGame_ControlWeightFolds", "child": "OAILP_QF_BitStackListFold", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlWeightFolds", "child": "OAILP_PriceGame_ControlEncodingBounds", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlWeightFolds", "child": "OAILP_PriceGame_MarketDenominator", "via": ["statement"]}
@@ -3348,7 +3348,7 @@
 {"parent": "OAILP_Geometry_LabelTheorem", "child": "OAILP_Geometry_RegisteredPivot", "via": ["statement"]}
 {"parent": "OAILP_Geometry_LabelTheorem", "child": "OAILP_Geometry_QueryKeys", "via": ["statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Compression.divisionStage_eval", "child": "OAILP_Compression_BinaryDivisionCore", "via": ["solution", "statement"]}
-{"parent": "Arxiv2507_15035.adjoint_equation_iff_stationary_field", "child": "Arxiv2507_15035_Basic", "via": ["statement"]}
+{"parent": "Arxiv2507_15035.adjoint_equation_iff_stationary_field", "child": "Arxiv2507_15035_Basic", "via": ["solution", "statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Compression.SignWire.initialResidentHeader_spec", "child": "OAILP_Compression_SignWireInitialResidentTerms", "via": ["solution", "statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Compression.SignWire.numericCacheSeed_footprint", "child": "OAILP_Compression_SignWireNumericFootprint", "via": ["solution", "statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Compression.logProxy_exponent_bounds", "child": "OAILP_Compression_ProxyOracle", "via": ["solution", "statement"]}
@@ -7495,7 +7495,7 @@
 {"parent": "OAILP_Compression_InnerSessionSizes", "child": "OAILP_Compression_InnerSessionTransport", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_MarketAugmentMachineAmplitude", "child": "OAILP_PriceGame_MarketAugmentMachineStep", "via": ["statement"]}
 {"parent": "Arxivcond_mat_0004049.rayleigh_law_localized", "child": "Arxivcond_mat_0004049_Basic", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.queue_primitives_functional_clt", "child": "ManyServerQED_Scheduling_Model", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_primitives_functional_clt", "child": "ManyServerQED_Scheduling_Model", "via": ["solution", "statement"]}
 {"parent": "ManyServerQED.Scheduling.queue_primitives_functional_clt", "child": "ManyServerQED_Scheduling_Policy", "via": ["statement"]}
 {"parent": "ManyServerQED.Scheduling.queue_primitives_functional_clt", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["statement"]}
 {"parent": "ManyServerQED.Scheduling.queue_primitives_functional_clt", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
@@ -13951,11 +13951,11 @@
 {"parent": "RPLib_FX_EtPBC_198", "child": "RPLib_FX_EtPBC_186", "via": ["statement"]}
 {"parent": "RPLib_FX_EtPBC_198", "child": "RPLib_FX_EtPBC_191", "via": ["statement"]}
 {"parent": "ManyServerQED.Scheduling.discounted_polynomial_terminal_expectation_vanishes", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["solution", "statement"]}
-{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED_Scheduling_Model", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED_Scheduling_Policy", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED_Scheduling_HJBCostLimit", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED_Scheduling_Model", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED_Scheduling_Policy", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED_Scheduling_HJBCostLimit", "via": ["solution", "statement"]}
 {"parent": "RPLib_FX_EtPBC_157", "child": "RPLib_FX_EtPBC_147", "via": ["statement"]}
 {"parent": "ManyServerQED.Scheduling.queue_finite_horizon_cost_uniform_moment", "child": "ManyServerQED.Scheduling.queue_state_sup_polynomial_moment", "via": ["solution", "statement"]}
 {"parent": "RPLib_FX_EtPBCB_001", "child": "RPLib_FX_EtPBC_195", "via": ["statement"]}
@@ -14147,3 +14147,214 @@
 {"parent": "ManyServerQED.Scheduling.discounted_hjb_localized_ito_balance", "child": "EthierKurtz_SolvesBrownianSDE", "via": ["solution"]}
 {"parent": "StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.CutTraversal.emit_canonical_component_seal", "child": "StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.SeparatorKeys.name_key_from_tables", "via": ["solution"]}
 {"parent": "Erdos287.prime_power_cofactor_log_bound", "child": "Erdos287.prime_power_cofactor_certificate", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationTailLimitAtZero", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationTailLimitAtZero", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationTailLimitAtZero", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationTailLimitAtZero", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationTailLimitAtZero", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.CutTraversal.regional_compatibility_from_tables", "child": "StableMSR_RegionalMenuImage", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_forward", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_forward", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_forward", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_forward", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED_Scheduling_QueueHJBCompactPath", "child": "ManyServerQED_Scheduling_Policy", "via": ["statement"]}
+{"parent": "ManyServerQED_Scheduling_QueueHJBCompactPath", "child": "ManyServerQED_Scheduling_HJBCostLimit", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.adapted_brownian_coordinate_at_monotone_times_is_martingale", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise54QuadrupleKernelUnfold", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise54QuadrupleKernelUnfold", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise54QuadrupleKernelUnfold", "child": "Kyprianou_Ch05_BivariateKilledSubordinator", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise54QuadrupleKernelUnfold", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedLaplaceExponent_nonneg", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedLaplaceExponent_nonneg", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedLaplaceExponent_nonneg", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedLaplaceExponent_nonneg", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.tailScalingLimits", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.tailScalingLimits", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_iff", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_iff", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_iff", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_iff", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_of_pathSupport", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_of_pathSupport", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_of_pathSupport", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_of_pathSupport", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
+{"parent": "StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.CutTraversal.compute_block_family_compatibility", "child": "StableMSR_VertexBlockRows", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_213", "child": "RPLib_FX_EtPBC_208", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_moments_and_cost", "child": "ManyServerQED_Scheduling_HJBCostLimit", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_moments_and_cost", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_moments_and_cost", "child": "ManyServerQED_Scheduling_Policy", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_moments_and_cost", "child": "ManyServerQED_Scheduling_Model", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_moments_and_cost", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_moments_and_cost", "child": "ManyServerQED_Scheduling_QueueHJBCompactPath", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_filtered_brownian", "child": "ManyServerQED_Scheduling_HJBCostLimit", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_filtered_brownian", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_filtered_brownian", "child": "ManyServerQED_Scheduling_Policy", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_filtered_brownian", "child": "ManyServerQED_Scheduling_Model", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_filtered_brownian", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_filtered_brownian", "child": "ManyServerQED_Scheduling_QueueHJBCompactPath", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_firstJump_offLattice_charge", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_firstJump_offLattice_charge", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_firstJump_offLattice_charge", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_firstJump_offLattice_charge", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_reverse", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_reverse", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_reverse", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_reverse", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.tailLaplaceAsymptotics", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.tailLaplaceAsymptotics", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.tailLaplaceAsymptotics", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.potentialScalingLimits", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.potentialScalingLimits", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_path_identities", "child": "ManyServerQED_Scheduling_HJBCostLimit", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_path_identities", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_path_identities", "child": "ManyServerQED_Scheduling_Policy", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_path_identities", "child": "ManyServerQED_Scheduling_Model", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_path_identities", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_limit_path_identities", "child": "ManyServerQED_Scheduling_QueueHJBCompactPath", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_aliveLaplace_lintegral", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_aliveLaplace_lintegral", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_aliveLaplace_lintegral", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_aliveLaplace_lintegral", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_atomless_of_fixedTime_noAtoms", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_atomless_of_fixedTime_noAtoms", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_atomless_of_fixedTime_noAtoms", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_atomless_of_fixedTime_noAtoms", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinator_fixedTime_noAtoms_of_infiniteActivity", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinator_fixedTime_noAtoms_of_infiniteActivity", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinator_fixedTime_noAtoms_of_infiniteActivity", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinator_fixedTime_noAtoms_of_infiniteActivity", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_211", "child": "RPLib_FX_EtPBC_206", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_laplaceTransform", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_laplaceTransform", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_laplaceTransform", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_laplaceTransform", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_resolvent_integral", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_resolvent_integral", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_resolvent_integral", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_resolvent_integral", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
+{"parent": "NewtonBoltzmann_Kinematics", "child": "HilbertSixth_Geometry", "via": ["statement"]}
+{"parent": "NewtonBoltzmann_Kinematics", "child": "HilbertSixth_Boltzmann", "via": ["statement"]}
+{"parent": "NewtonBoltzmann_Kinematics", "child": "HilbertSixth_HardSphere", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBCB_003", "child": "RPLib_FX_EtPBCB_002", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBCB_003", "child": "RPLib_FX_EtPBCB_001", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_nonLattice_of_finiteActivity", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_nonLattice_of_finiteActivity", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_nonLattice_of_finiteActivity", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_nonLattice_of_finiteActivity", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise54CrossingJumpCoordinates", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise54CrossingJumpCoordinates", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise54CrossingJumpCoordinates", "child": "Kyprianou_Ch05_BivariateKilledSubordinator", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise54CrossingJumpCoordinates", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
+{"parent": "JechSetTheory.sch_of_sch_cof_aleph0_same_univ", "child": "JechStationary", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise54PredictableCompensationAtPassage", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise54PredictableCompensationAtPassage", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise54PredictableCompensationAtPassage", "child": "Kyprianou_Ch05_BivariateKilledSubordinator", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise54PredictableCompensationAtPassage", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_atomless_of_infiniteActivity", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_atomless_of_infiniteActivity", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_atomless_of_infiniteActivity", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_atomless_of_infiniteActivity", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationTailLimitAtInfinity", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationTailLimitAtInfinity", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationTailLimitAtInfinity", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationTailLimitAtInfinity", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationTailLimitAtInfinity", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.potentialSupportNonnegative", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.CutTraversal.check_selected_block_pair", "child": "StableMSR_VertexBlockRows", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinator_path_latticeSupport_of_latticePi_driftZero", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinator_path_latticeSupport_of_latticePi_driftZero", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinator_path_latticeSupport_of_latticePi_driftZero", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinator_path_latticeSupport_of_latticePi_driftZero", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.potentialLaplaceAsymptotics", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.potentialLaplaceAsymptotics", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.potentialLaplaceAsymptotics", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_path_subsequence", "child": "ManyServerQED_Scheduling_HJBCostLimit", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_path_subsequence", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_path_subsequence", "child": "ManyServerQED_Scheduling_Policy", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_path_subsequence", "child": "ManyServerQED_Scheduling_Model", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_path_subsequence", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_joint_path_subsequence", "child": "ManyServerQED_Scheduling_QueueHJBCompactPath", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise54BivariateCompensationIntegral", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise54BivariateCompensationIntegral", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise54BivariateCompensationIntegral", "child": "Kyprianou_Ch05_BivariateKilledSubordinator", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise54BivariateCompensationIntegral", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_lintegral_formula", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_lintegral_formula", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_lintegral_formula", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_lintegral_formula", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinatorPotentialLattice", "child": "Kyprianou.Ch05.killedPotential_latticeSupport_iff", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedSubordinatorPotentialLattice", "child": "Kyprianou.Ch05.killedPotential_nonLattice_of_finiteActivity", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedSubordinatorPotentialLattice", "child": "Kyprianou.Ch05.killedPotential_atomless_of_infiniteActivity", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.potentialScalingLimits", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.potentialSupportNonnegative", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.potentialLaplaceAsymptotics", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.regularVariationPotentialLimitAtZero", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.tailLaplaceAsymptotics", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.tailScalingLimits", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.karamataTauberianZero", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.karamataMonotoneDensityInfinity", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.regularVariationTailLimitAtZero", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.regularVariationPotentialLimitAtInfinity", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.karamataTauberianInfinity", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.regularVariationTailLimitAtInfinity", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.exercise54CorrelatedBivariateQuadrupleLaw", "child": "Kyprianou.Ch05.exercise54QuadrupleKernelUnfold", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.exercise54CorrelatedBivariateQuadrupleLaw", "child": "Kyprianou.Ch05.exercise54BivariateCompensationIntegral", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.renewalJointOvershootUndershoot", "child": "Kyprianou.Ch05.renewalTailEventKernel", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.renewalJointOvershootUndershoot", "child": "Kyprianou.Ch05.renewalTailDRI", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.renewalJointOvershootUndershoot", "child": "Kyprianou.Ch05.renewalKernelSumInterchange", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.renewalJointOvershootUndershoot", "child": "Kyprianou.Ch05.renewalTailIntegralEq", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.renewalJointOvershootUndershoot", "child": "Kyprianou.Ch05.renewalJointFiniteLevelSum", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.renewalJointOvershootUndershoot", "child": "Kyprianou.Ch05.classicalRenewalTheorem_keyRenewalConvolution", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.renewalJointOvershootUndershoot", "child": "Kyprianou.Ch05.renewalMeanPos", "via": ["solution"]}
+{"parent": "AlgebraicGeometry.Scheme.exists_finite_constant_model_preimage_closed_fiber_H1", "child": "AlgebraicGeometry.Scheme.exists_etale_H_zero_preimage_of_filtered_coefficients", "via": ["solution"]}
+{"parent": "AlgebraicGeometry.Scheme.exists_finite_constant_model_preimage_closed_fiber_H1", "child": "AlgebraicGeometry.Scheme.ind_bounded_finite_constant_models", "via": ["solution"]}
+{"parent": "AlgebraicGeometry.Scheme.exists_finite_constant_model_preimage_closed_fiber_H1", "child": "AlgebraicGeometry.Scheme.subsingleton_etale_cohomology_restrict_injective_prime_of_affine_closedImmersion", "via": ["solution"]}
+{"parent": "AlgebraicGeometry.Scheme.exists_finite_constant_model_preimage_closed_fiber_H1", "child": "AlgebraicGeometry_EtaleOpenFiniteCoefficientModels", "via": ["solution"]}
+{"parent": "AlgebraicGeometry.Scheme.exists_finite_constant_model_preimage_closed_fiber_H1", "child": "AlgebraicGeometry_ProjectiveLineFiniteOverlap", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_primitives_functional_clt", "child": "ManyServerQED.Scheduling.queue_arrival_norm_and_modulus_bounds", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_primitives_functional_clt", "child": "ManyServerQED.Scheduling.poisson_rows_centered_interval_modulus_bound", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_primitives_functional_clt", "child": "ManyServerQED.Scheduling.finite_coordinate_modulus_controls_vector_modulus", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_primitives_functional_clt", "child": "ManyServerQED.Scheduling.queue_primitives_joint_finite_observation_limit", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_primitives_functional_clt", "child": "ManyServerQED.Scheduling.queue_centered_primitives_are_cadlag", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_primitives_functional_clt", "child": "ManyServerQED.Scheduling.functional_coupling_from_fdd_and_interval_modulus", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_primitives_functional_clt", "child": "ManyServerQED.Scheduling.poisson_primitive_deterministic_clock_change", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_primitives_functional_clt", "child": "ManyServerQED.Scheduling.finite_family_independent_continuous_brownian", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED.Scheduling.queue_hjb_joint_limit_filtered_brownian", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED.Scheduling.queue_hjb_joint_limit_moments_and_cost", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED.Scheduling.queue_hjb_joint_path_subsequence", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED.Scheduling.queue_hjb_joint_limit_path_identities", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED_Scheduling_QueueHJBCompactPath", "via": ["solution"]}
+{"parent": "SmaleNinth.smale_ninth_real_ram_rational", "child": "OAI.Optimization.LinearProgramming.strongly_polynomial_feasibility", "via": ["solution"]}
+{"parent": "SmaleNinth.smale_ninth_real_ram_rational", "child": "SmaleNinth.real_ram_of_oai_program", "via": ["solution"]}
+{"parent": "StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.CutTraversal.regional_compatibility_from_tables", "child": "StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.BlockRows.distinct_block_representatives", "via": ["solution"]}
+{"parent": "StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.CutTraversal.regional_compatibility_from_tables", "child": "StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.CutTraversal.compute_block_family_compatibility", "via": ["solution"]}
+{"parent": "Erdos287.gap_from_dense_prime_form_groups", "child": "Erdos287.distance_packing_bound", "via": ["solution"]}
+{"parent": "Erdos287.gap_from_dense_prime_form_groups", "child": "Erdos287.omission_mass_extends_pair_band", "via": ["solution"]}
+{"parent": "Erdos287.gap_from_dense_prime_form_groups", "child": "Erdos287.prime_power_cofactor_log_bound", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_forward", "child": "Kyprianou.Ch05.killedPotential_latticeSupport_of_pathSupport", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_forward", "child": "Kyprianou.Ch05.killedSubordinator_path_latticeSupport_of_latticePi_driftZero", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_iff", "child": "Kyprianou.Ch05.killedPotential_latticeSupport_forward", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_iff", "child": "Kyprianou.Ch05.killedPotential_latticeSupport_reverse", "via": ["solution"]}
+{"parent": "StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.CutTraversal.compute_block_family_compatibility", "child": "StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.CutTraversal.check_selected_block_pair", "via": ["solution"]}
+{"parent": "Erdos287.gap_from_uniform_prime_window", "child": "Erdos287.gap_from_dense_prime_form_groups", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotential_laplaceTransform", "child": "Kyprianou.Ch05.killedPotential_lintegral_formula", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotential_laplaceTransform", "child": "Kyprianou.Ch05.killedPotential_resolvent_integral", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotential_resolvent_integral", "child": "Kyprianou.Ch05.killedPotential_expNeg_setLintegral", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotential_resolvent_integral", "child": "Kyprianou.Ch05.killedLaplaceExponent_nonneg", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotential_resolvent_integral", "child": "Kyprianou.Ch05.killedPotential_aliveLaplace_lintegral", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotential_nonLattice_of_finiteActivity", "child": "Kyprianou.Ch05.killedPotential_firstJump_offLattice_charge", "via": ["solution"]}
+{"parent": "JechSetTheory.sch_of_sch_cof_aleph0_same_univ", "child": "JechSetTheory.pow_cof_eq_succ_of_isStationary", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotential_atomless_of_infiniteActivity", "child": "Kyprianou.Ch05.killedSubordinator_fixedTime_noAtoms_of_infiniteActivity", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.killedPotential_atomless_of_infiniteActivity", "child": "Kyprianou.Ch05.killedPotential_atomless_of_fixedTime_noAtoms", "via": ["solution"]}
+{"parent": "StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.CutTraversal.check_selected_block_pair", "child": "StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.CutTraversal.compare_two_block_bitmaps", "via": ["solution"]}

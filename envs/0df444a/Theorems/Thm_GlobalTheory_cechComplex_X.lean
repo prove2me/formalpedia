@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechComplex_X
 -- name    : GlobalTheory.cechComplex_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:43:29.052359+00:00
 -- url     : https://prove2.me/theorems/21c21576-0441-4045-9796-3a4bd16f6305

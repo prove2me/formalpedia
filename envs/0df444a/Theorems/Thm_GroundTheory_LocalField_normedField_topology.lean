@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_normedField_topology
 -- name    : GroundTheory.LocalField.normedField_topology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:39.087741+00:00
 -- url     : https://prove2.me/theorems/39bdf69f-bcfd-455b-b893-ad83966c640d

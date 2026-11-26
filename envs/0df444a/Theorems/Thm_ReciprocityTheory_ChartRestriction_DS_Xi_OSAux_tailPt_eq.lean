@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_OSAux_tailPt_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.OSAux.tailPt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:10:27.463486+00:00
 -- url     : https://prove2.me/theorems/b82d9fa1-12ba-5fc9-9d3d-31d4ca089f22

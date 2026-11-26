@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_apply_of_orth
 -- name    : GlobalTheory.isoTransvection.apply_of_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:40.615272+00:00
 -- url     : https://prove2.me/theorems/55d12d9b-5830-4a84-b00b-b61c194c51ba

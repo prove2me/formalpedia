@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isCoaction_comul
 -- name    : GlobalTheory.isCoaction_comul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:12.771794+00:00
 -- url     : https://prove2.me/theorems/566ca70b-feb7-46c6-9809-c92b551aae24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_toricKer_eq_span
 -- name    : SemigroupBetti.GenData.toricKer_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:02:01.744878+00:00
 -- url     : https://prove2.me/theorems/be372397-6ac9-4b30-b6f5-d7238b65f4ed

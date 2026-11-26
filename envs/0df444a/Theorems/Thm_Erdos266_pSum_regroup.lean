@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos266_pSum_regroup
 -- name    : Erdos266.pSum_regroup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:02:32.134432+00:00
 -- url     : https://prove2.me/theorems/c5aaaf86-5b36-5c44-b285-e7c9b4f995c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_sel_le_of_coords
 -- name    : SemigroupBetti.GenData.sel_le_of_coords
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:59:39.056678+00:00
 -- url     : https://prove2.me/theorems/74913533-81a5-44ea-9aa8-82c6835560ee

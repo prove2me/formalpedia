@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_sel12_le_iff
 -- name    : SemigroupBetti.GenData.sel12_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:58:22.528985+00:00
 -- url     : https://prove2.me/theorems/210f768c-66aa-5ee7-af9c-a633422b836b

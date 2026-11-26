@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_diffVanish_zero_iff
 -- name    : GlobalTheory.diffVanish_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:45:00.256359+00:00
 -- url     : https://prove2.me/theorems/d522ee9d-f739-4195-bcfc-bfcca541d2cb

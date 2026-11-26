@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_IsPairAntichain_exists_rank
 -- name    : SemigroupBetti.IsPairAntichain.exists_rank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:03:32.263122+00:00
 -- url     : https://prove2.me/theorems/9a14cd49-138c-5787-8d9b-1d27ec5843f4

@@ -85134,11 +85134,11 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.ct_iter_cexp", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_PolyDerivMonomialOne", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.fsMetric_isSmooth", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_IsSemipositiveOn", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.fsMetric_isSmooth", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_FsMetricFinIsSemipositive", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.I2.paPF_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_IntegrableNormPowMulExpNegMulNormSq", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.I2.paPF_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_PropAA", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.I2.paPF_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_GaussianTailBound", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.I2.paPF_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_CardSupportLeAndSumTwoPowLe", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.I2.paPF_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_GCauchyStatement", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.I2.paPF_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_IntegrableNormPowMulExpNegMulNormSq", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.I2.paPF_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_PropAA", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.I2.paPF_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_GaussianTailBound", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.I2.paPF_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_CardSupportLeAndSumTwoPowLe", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.I2.paPF_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_GCauchyStatement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gbap_isCompact_pts_sphere", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_AParamStB", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gbap_isCompact_pts_sphere", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_LemCone", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gbap_isCompact_pts_sphere", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_IsSmoothPts", "via": ["solution", "statement"]}

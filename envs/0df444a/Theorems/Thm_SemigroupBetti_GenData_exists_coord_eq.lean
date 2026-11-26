@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_exists_coord_eq
 -- name    : SemigroupBetti.GenData.exists_coord_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:58:46.684087+00:00
 -- url     : https://prove2.me/theorems/9797bdb1-577b-55aa-844c-9c6404a93edf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_exc_p
 -- name    : SemigroupBetti.GenData.exc_p
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:05:25.617814+00:00
 -- url     : https://prove2.me/theorems/eaf6cc9e-dd81-4fa3-ad6c-510654514772

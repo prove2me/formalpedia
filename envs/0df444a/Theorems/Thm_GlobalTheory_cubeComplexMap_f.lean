@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeComplexMap_f
 -- name    : GlobalTheory.cubeComplexMap_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:03.515271+00:00
 -- url     : https://prove2.me/theorems/65cf1383-a8a6-49e7-9086-b76eab139a5c

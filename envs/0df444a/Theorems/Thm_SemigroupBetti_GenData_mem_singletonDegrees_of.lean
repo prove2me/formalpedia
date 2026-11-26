@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_mem_singletonDegrees_of
 -- name    : SemigroupBetti.GenData.mem_singletonDegrees_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:07:05.973397+00:00
 -- url     : https://prove2.me/theorems/2eb863e5-4159-5081-96d5-eb39a034f18e

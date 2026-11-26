@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos266_pSum_mono
 -- name    : Erdos266.pSum_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:58:45.956253+00:00
 -- url     : https://prove2.me/theorems/68c1e5dc-672b-460a-815a-18d26829d78f

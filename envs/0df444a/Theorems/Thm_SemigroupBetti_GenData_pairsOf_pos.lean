@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_pairsOf_pos
 -- name    : SemigroupBetti.GenData.pairsOf_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:05:47.268196+00:00
 -- url     : https://prove2.me/theorems/a80c564f-dd63-4e10-96c7-795a54c961d3

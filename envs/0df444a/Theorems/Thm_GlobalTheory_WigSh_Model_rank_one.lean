@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_Model_rank_one
 -- name    : GlobalTheory.WigSh.Model.rank_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:40.043813+00:00
 -- url     : https://prove2.me/theorems/2dd91dbb-390d-4d8e-a2ec-55e4d1df71c9

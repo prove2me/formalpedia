@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_mem_Sel
 -- name    : Neutral.B1.mem_Sel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:03:53.347889+00:00
 -- url     : https://prove2.me/theorems/ad4c1677-e744-5466-9677-9627ec6c0b6c

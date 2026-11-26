@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos266_term_nonneg
 -- name    : Erdos266.term_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:58:51.414085+00:00
 -- url     : https://prove2.me/theorems/2cd991e5-09ab-41cd-bc15-5d3fa3d8f8bf

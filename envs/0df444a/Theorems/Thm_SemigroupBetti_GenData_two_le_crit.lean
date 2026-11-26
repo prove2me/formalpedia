@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_two_le_crit
 -- name    : SemigroupBetti.GenData.two_le_crit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:06:56.04386+00:00
 -- url     : https://prove2.me/theorems/c5227f88-2328-544c-8513-1b944a620661

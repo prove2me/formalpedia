@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_beta1_le_two_W_exceptional
 -- name    : SemigroupBetti.GenData.beta1_le_two_W_exceptional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:06:37.517277+00:00
 -- url     : https://prove2.me/theorems/7535685c-8a39-4c70-af32-c7313d7e74ce

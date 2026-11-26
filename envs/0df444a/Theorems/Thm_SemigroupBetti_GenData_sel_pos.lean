@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_sel_pos
 -- name    : SemigroupBetti.GenData.sel_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:54:14.743694+00:00
 -- url     : https://prove2.me/theorems/5a6a7615-5ff6-4d04-bdd9-651b3c86403b

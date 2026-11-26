@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_comp_eq_of_replace
 -- name    : SemigroupBetti.GenData.comp_eq_of_replace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:32:58.609883+00:00
 -- url     : https://prove2.me/theorems/0334591b-4202-4d39-8b98-1fd8be1ffc66

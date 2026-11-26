@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_sel_one_bounds
 -- name    : SemigroupBetti.GenData.sel_one_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:56:19.059215+00:00
 -- url     : https://prove2.me/theorems/cdec4958-bf8a-4a81-8211-fa07565673b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_beta1_le_two_w__33ca3a
 -- name    : SemigroupBetti.GenData.beta1_le_two_w
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:06:20.445242+00:00
 -- url     : https://prove2.me/theorems/33ca3a6b-bd7e-5e78-9631-864359d6506e

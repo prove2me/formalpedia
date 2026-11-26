@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_zpow
 -- name    : GlobalTheory.isoTransvection.zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:36.523843+00:00
 -- url     : https://prove2.me/theorems/d5c0bf42-d4c5-4cbb-ab9d-2801f9d6c05a

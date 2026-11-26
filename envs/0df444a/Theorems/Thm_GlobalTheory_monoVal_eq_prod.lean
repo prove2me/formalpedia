@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_monoVal_eq_prod
 -- name    : GlobalTheory.monoVal_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:14.832205+00:00
 -- url     : https://prove2.me/theorems/4c8e0cc7-a852-4e21-96cc-dca83cc59181

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_expChartUnits_symm_apply
 -- name    : GroundTheory.Automorphic.expChartUnits_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:36.95907+00:00
 -- url     : https://prove2.me/theorems/9e323cd8-0ad5-5feb-aaca-425b71b74769

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_mem_placesOver
 -- name    : GroundTheory.ProfCoh.mem_placesOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:02:16.613586+00:00
 -- url     : https://prove2.me/theorems/24235b12-b7ba-47c0-9a6c-6c709fc3c3d4

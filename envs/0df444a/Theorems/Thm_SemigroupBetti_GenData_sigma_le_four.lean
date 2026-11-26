@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_sigma_le_four
 -- name    : SemigroupBetti.GenData.sigma_le_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:56:53.81626+00:00
 -- url     : https://prove2.me/theorems/54c782e0-4cb0-4591-9263-0ee0a01eeb1c

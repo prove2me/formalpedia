@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_finite_constant_model_preimage_closed_fiber_H1
 -- name    : AlgebraicGeometry.Scheme.exists_finite_constant_model_preimage_closed_fiber_H1
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T04:42:41.139696+00:00
 -- url     : https://prove2.me/theorems/de7f3262-be69-499f-9e69-c081b5a97f57

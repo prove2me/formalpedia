@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2507_15035_forward_equation_iff_stationary_multiplier
 -- name    : Arxiv2507_15035.forward_equation_iff_stationary_multiplier
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:34:03.107732+00:00
 -- url     : https://prove2.me/theorems/31bd5856-e7dd-458a-bb7c-482ced3c5472

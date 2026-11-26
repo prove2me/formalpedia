@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos266_hasSum_aSeq
 -- name    : Erdos266.hasSum_aSeq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:03:44.7508+00:00
 -- url     : https://prove2.me/theorems/daf945b1-3eae-485c-872d-782dedebdbef

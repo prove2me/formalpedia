@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_pairsE_antichain
 -- name    : SemigroupBetti.GenData.pairsE_antichain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:03:57.454857+00:00
 -- url     : https://prove2.me/theorems/38b65aa6-252f-5e50-aa31-77ff38bd0bb7

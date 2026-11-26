@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_graphClosure_isProper_fst_comp
 -- name    : GlobalTheory.graphClosure.isProper_fst_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:47:50.116404+00:00
 -- url     : https://prove2.me/theorems/6dad5e73-3a30-4cd6-bd69-116c8e98ecdb

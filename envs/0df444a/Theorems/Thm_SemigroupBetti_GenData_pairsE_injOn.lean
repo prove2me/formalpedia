@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_pairsE_injOn
 -- name    : SemigroupBetti.GenData.pairsE_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:03:50.114421+00:00
 -- url     : https://prove2.me/theorems/01b6d64c-fbcf-5600-91d5-8a48ca492dea

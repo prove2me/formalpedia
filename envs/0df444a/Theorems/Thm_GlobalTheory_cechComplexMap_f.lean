@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechComplexMap_f
 -- name    : GlobalTheory.cechComplexMap_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:43:15.59468+00:00
 -- url     : https://prove2.me/theorems/e4decd3e-4d78-4e83-b959-759600674dd7

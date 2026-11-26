@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_comp_eq_critVertex
 -- name    : SemigroupBetti.GenData.comp_eq_critVertex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:06:45.423915+00:00
 -- url     : https://prove2.me/theorems/d90b858c-8978-59cf-b2bd-cbb039ddb146

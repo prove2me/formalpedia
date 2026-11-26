@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_sel_antichain
 -- name    : SemigroupBetti.GenData.sel_antichain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:54:32.254561+00:00
 -- url     : https://prove2.me/theorems/ee921a81-3269-5653-bd1d-c3c1b262ee70

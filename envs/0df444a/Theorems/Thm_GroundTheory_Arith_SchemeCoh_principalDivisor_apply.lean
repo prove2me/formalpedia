@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_principalDivisor_apply
 -- name    : GroundTheory.Arith.SchemeCoh.principalDivisor_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:52:25.467315+00:00
 -- url     : https://prove2.me/theorems/887f1ec7-b32e-4092-9b29-939420d529f0

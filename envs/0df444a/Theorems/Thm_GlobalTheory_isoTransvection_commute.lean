@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_commute
 -- name    : GlobalTheory.isoTransvection.commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:06.152264+00:00
 -- url     : https://prove2.me/theorems/bd148788-c71f-4595-bf30-5e47409a4889

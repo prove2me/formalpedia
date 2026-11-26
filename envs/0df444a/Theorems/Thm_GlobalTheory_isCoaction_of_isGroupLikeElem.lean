@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isCoaction_of_isGroupLikeElem
 -- name    : GlobalTheory.isCoaction_of_isGroupLikeElem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:46:58.025439+00:00
 -- url     : https://prove2.me/theorems/aaa8ff9b-9e8b-5cb4-9fac-9e59c2524331

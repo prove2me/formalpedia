@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2507_15035_adjoint_equation_iff_stationary_field
 -- name    : Arxiv2507_15035.adjoint_equation_iff_stationary_field
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T18:34:38.829976+00:00
 -- url     : https://prove2.me/theorems/1a6bacff-b203-4f43-8017-adbcd339cd54

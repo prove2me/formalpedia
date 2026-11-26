@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_spanRank_le_beta1_of_n_eq
 -- name    : SemigroupBetti.GenData.spanRank_le_beta1_of_n_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:53:00.7909+00:00
 -- url     : https://prove2.me/theorems/80b35e84-2f90-46ad-a0ec-5c08bc710256

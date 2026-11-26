@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_card_le_of_coord
 -- name    : SemigroupBetti.GenData.card_le_of_coord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:58:18.328484+00:00
 -- url     : https://prove2.me/theorems/216e9f85-5d67-438b-895a-19d3f1619499

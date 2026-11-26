@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_ofChallenge_W__c9fe71
 -- name    : SemigroupBetti.GenData.ofChallenge_W
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:09:29.592796+00:00
 -- url     : https://prove2.me/theorems/c9fe713b-fef2-4f37-b2eb-67ceb0ea018d

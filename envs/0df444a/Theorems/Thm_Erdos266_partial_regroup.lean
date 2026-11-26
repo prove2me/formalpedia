@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos266_partial_regroup
 -- name    : Erdos266.partial_regroup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:01:55.130865+00:00
 -- url     : https://prove2.me/theorems/18553850-9883-582b-9197-06f5222b80f5

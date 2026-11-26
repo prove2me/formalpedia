@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_ratDiv_swap
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.ratDiv_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:11:13.648963+00:00
 -- url     : https://prove2.me/theorems/70445a8b-48e2-492c-85ad-93f267299df3

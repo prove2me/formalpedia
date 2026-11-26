@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_card_pairsOf
 -- name    : SemigroupBetti.GenData.card_pairsOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:05:45.590572+00:00
 -- url     : https://prove2.me/theorems/5fbc9d28-7534-4082-bf9a-5073b34b42c8

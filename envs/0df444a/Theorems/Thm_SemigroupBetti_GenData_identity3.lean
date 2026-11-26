@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_identity3
 -- name    : SemigroupBetti.GenData.identity3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:03:03.260808+00:00
 -- url     : https://prove2.me/theorems/55d6bebe-9ca6-5ce0-8cf0-ab10f45c20f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_sideP_split
 -- name    : SemigroupBetti.GenData.sideP_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:05:27.359474+00:00
 -- url     : https://prove2.me/theorems/e9fea78b-c0ff-55d1-a13e-5fd60d7aaf28

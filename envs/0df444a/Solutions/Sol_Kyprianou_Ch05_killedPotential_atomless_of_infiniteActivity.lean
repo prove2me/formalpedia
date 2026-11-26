@@ -1,0 +1,41 @@
+-- Prove2me | solution 1 for Kyprianou.Ch05.killedPotential_atomless_of_infiniteActivity
+-- status  : SKETCH_ACCEPTED   (prove)
+-- author  : @pageman
+-- created : 2026-11-26T03:21:36.207728+00:00
+-- url     : https://prove2.me/submissions/3610c2d5-61f0-4fe9-ac12-d5fcf99a49f4
+-- note    : a sketch -- it imports a theorem that is still Open,
+--           so it depends on `sorryAx` until that child is proved.
+
+import Mathlib
+import Mathlib.MeasureTheory.Group.Convolution
+import Definitions.Def_Kyprianou_Ch03_IsSubordinator
+import Definitions.Def_Kyprianou_Ch03_EntryAndHittingTimes
+import Definitions.Def_Kyprianou_Ch05_RenewalMeasure
+import Definitions.Def_Kyprianou_Ch05_KilledSubordinatorPotential
+import Theorems.Thm_Kyprianou_Ch05_killedSubordinator_fixedTime_noAtoms_of_infiniteActivity
+import Theorems.Thm_Kyprianou_Ch05_killedPotential_atomless_of_fixedTime_noAtoms
+open MeasureTheory Filter ProbabilityTheory
+open scoped NNReal ENNReal
+set_option autoImplicit false
+
+theorem solution
+    {Omega : Type} [MeasurableSpace Omega]
+    (P : Measure Omega) [IsProbabilityMeasure P]
+    (Y : NNReal → Omega → Real)
+    (death : Omega → WithTop NNReal)
+    (eta d : Real) (Pi : Measure Real) (Phi : Real → Real)
+    (hKilled : Kyprianou.Ch05.IsKilledSubordinator P Y death eta)
+    (hTriplet : Kyprianou.Ch05.IsKilledLaplaceTriplet eta d Pi Phi)
+    (hLaplaceLaw : ∀ (t : NNReal) (theta : Real), 0 ≤ theta →
+      (∫ omega, Real.exp (-theta * Y t omega) ∂P) =
+        Real.exp (-(t : Real) * (Phi theta - eta)))
+    (U : Real → Measure Real)
+    (hPotential : Kyprianou.Ch05.IsKilledPotentialFamily P Y death U) :
+  (Pi (Set.Ioi (0 : Real)) = ⊤ →
+    ∀ q : Real, 0 ≤ q →
+      ∀ x : Real, (U q) {x} = 0) := by
+  intro hPi q hq x
+  exact Kyprianou.Ch05.killedPotential_atomless_of_fixedTime_noAtoms
+    P Y death eta d Pi Phi hKilled hTriplet hLaplaceLaw U hPotential
+    (Kyprianou.Ch05.killedSubordinator_fixedTime_noAtoms_of_infiniteActivity
+      P Y death eta d Pi Phi hKilled hTriplet hLaplaceLaw U hPotential hPi) q hq x

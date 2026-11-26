@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_Q_le
 -- name    : SemigroupBetti.GenData.Q_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:58:18.943222+00:00
 -- url     : https://prove2.me/theorems/1855e4e2-0db7-5bf6-b50b-be3070713301

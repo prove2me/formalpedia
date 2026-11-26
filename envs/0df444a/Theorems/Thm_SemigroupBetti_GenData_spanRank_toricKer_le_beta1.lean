@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_spanRank_toricKer_le_beta1
 -- name    : SemigroupBetti.GenData.spanRank_toricKer_le_beta1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:02:02.313578+00:00
 -- url     : https://prove2.me/theorems/80367302-9dfa-4d05-bcef-4f4bcaa8df1a

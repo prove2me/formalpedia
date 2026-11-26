@@ -52227,10 +52227,10 @@
 {"parent": "RobustCtxPricing_Supplement_Algorithm5", "child": "RobustCtxPricing_Density", "via": ["statement"]}
 {"parent": "TZLevelsADO.Supplement.theorem_4", "child": "TZLevelsADO_Supplement_RunsPSP", "via": ["statement"]}
 {"parent": "QGraphColl_Supplement_ComputesOn", "child": "QAlgorithms_Defs_Query", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.killedSubordinatorPotentialLattice", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.killedSubordinatorPotentialLattice", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.killedSubordinatorPotentialLattice", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.killedSubordinatorPotentialLattice", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinatorPotentialLattice", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinatorPotentialLattice", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinatorPotentialLattice", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinatorPotentialLattice", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "SemAC02.Supplement.theorem_3_7_bphp_degree", "child": "SemAC02_Supplement_ACirc", "via": ["statement"]}
 {"parent": "SemAC02.Supplement.theorem_3_7_bphp_degree", "child": "SemAC02_Supplement_bphp", "via": ["solution", "statement"]}
 {"parent": "SemAC02.Supplement.theorem_3_7_bphp_degree", "child": "SemAC02_Supplement_IsSemPCRef", "via": ["solution", "statement"]}
@@ -53646,11 +53646,11 @@
 {"parent": "SYKEdge.Supplement.theorem_5_7", "child": "SYKEdge_Supplement_RandomHypergraph", "via": ["statement"]}
 {"parent": "SYKEdge.Supplement.theorem_5_7", "child": "SYKEdge_MatrixNorms", "via": ["statement"]}
 {"parent": "TransparencyTeamContracts.Submodular.Supplement.lemma_D_1", "child": "TransparencyTeamContracts_Submodular_Supplement_Benchmarks", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["solution", "statement"]}
 {"parent": "MatchingNearLinear.Glauber.Supplement.approximate_counting", "child": "MatchingNearLinear_Glauber_Supplement_Programs", "via": ["statement"]}
 {"parent": "InducedExpanderTest989_Structural_Supplement_QueryAlgorithms", "child": "InducedExpanderTest989_Structural_Graph", "via": ["statement"]}
 {"parent": "GeoQAC.Supplement.theorem_A_1", "child": "GeoQAC_Supplement_ComputesWithProb", "via": ["statement"]}
@@ -57094,10 +57094,10 @@
 {"parent": "Kyprianou.independentSubordinationCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "SampleCRS.AlmostGreedy.Supplement.lemma_3_3", "child": "SampleCRS_AlmostGreedy_Supplement_threshold", "via": ["statement"]}
 {"parent": "TFIMPhaseDiagram.Classical.Supplement.theorem_22", "child": "TFIMPhaseDiagram_Classical_Supplement_deviations", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise54CorrelatedBivariateQuadrupleLaw", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise54CorrelatedBivariateQuadrupleLaw", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise54CorrelatedBivariateQuadrupleLaw", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise54CorrelatedBivariateQuadrupleLaw", "child": "Kyprianou_Ch05_BivariateKilledSubordinator", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise54CorrelatedBivariateQuadrupleLaw", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise54CorrelatedBivariateQuadrupleLaw", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise54CorrelatedBivariateQuadrupleLaw", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise54CorrelatedBivariateQuadrupleLaw", "child": "Kyprianou_Ch05_BivariateKilledSubordinator", "via": ["solution", "statement"]}
 {"parent": "IncoherentPurity_Adaptive_Supplement_Spike", "child": "IncoherentPurity_Adaptive_Estimators", "via": ["statement"]}
 {"parent": "OddPermSum.Evaluation.Supplement.theorem_1_2", "child": "OddPermSum_Evaluation_Supplement_bilinearMultiplier", "via": ["statement"]}
 {"parent": "OddPermSum.Evaluation.Supplement.theorem_1_2", "child": "OddPermSum_Evaluation_Supplement_graphOutputs", "via": ["statement"]}
@@ -57777,8 +57777,8 @@
 {"parent": "QVolTransducer.Supplement.theorem_9_19", "child": "QAlgorithms_Defs_Query", "via": ["statement"]}
 {"parent": "QVolTransducer.Supplement.theorem_9_19", "child": "QVolTransducer_BiCanonical", "via": ["statement"]}
 {"parent": "QVolTransducer.Supplement.theorem_9_19", "child": "QVolTransducer_rejStat", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.renewalJointOvershootUndershoot", "child": "Kyprianou_Ch05_RenewalEpochProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.renewalJointOvershootUndershoot", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.renewalJointOvershootUndershoot", "child": "Kyprianou_Ch05_RenewalEpochProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.renewalJointOvershootUndershoot", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "AgnosticTNS_Supplement_encTCIndex", "child": "AgnosticTNS_encGraph", "via": ["statement"]}
 {"parent": "AgnosticTNS_Supplement_encTCIndex", "child": "AgnosticTNS_Supplement_TCIndex", "via": ["statement"]}
 {"parent": "AgnosticTNS_Supplement_encTCIndex", "child": "QAlgorithms_ClassicalBinaryEncoding", "via": ["statement"]}

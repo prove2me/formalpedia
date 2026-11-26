@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSaturatedIn_saturationIn
 -- name    : GlobalTheory.isSaturatedIn_saturationIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:47:46.625826+00:00
 -- url     : https://prove2.me/theorems/738072c2-7be1-5d7a-b436-e1cd977c2d00

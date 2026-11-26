@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mem_finiteAbelianExtensions
 -- name    : GroundTheory.LocalField.mem_finiteAbelianExtensions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:00:19.454443+00:00
 -- url     : https://prove2.me/theorems/bc308b83-764d-5267-9790-9ab95df8f97a

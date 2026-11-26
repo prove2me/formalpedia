@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_not_dominates_pq
 -- name    : SemigroupBetti.GenData.not_dominates_pq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:03:45.3508+00:00
 -- url     : https://prove2.me/theorems/70dcc8a5-85a7-5a9b-9bb0-bed36206cd0f

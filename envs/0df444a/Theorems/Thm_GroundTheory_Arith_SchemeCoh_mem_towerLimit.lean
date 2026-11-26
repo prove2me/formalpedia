@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_mem_towerLimit
 -- name    : GroundTheory.Arith.SchemeCoh.mem_towerLimit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:52:30.666476+00:00
 -- url     : https://prove2.me/theorems/fc0b0b07-41c7-4092-92c7-73d826d6a2ea

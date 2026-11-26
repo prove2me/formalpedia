@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_basisVal_eq_sup_univ
 -- name    : GlobalTheory.basisVal_eq_sup_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:43:30.249594+00:00
 -- url     : https://prove2.me/theorems/bf0be660-7dea-4997-bf5c-ecadc6722f85

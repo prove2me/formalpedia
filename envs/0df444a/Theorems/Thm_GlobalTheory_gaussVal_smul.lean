@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussVal_smul
 -- name    : GlobalTheory.gaussVal_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:15.427065+00:00
 -- url     : https://prove2.me/theorems/4ac6a379-a5d0-4da8-a8ab-c44d0265142f

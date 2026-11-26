@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemigroupBetti_GenData_sel_coord_injOn
 -- name    : SemigroupBetti.GenData.sel_coord_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T02:57:42.337906+00:00
 -- url     : https://prove2.me/theorems/2df334de-1afd-5836-aef3-c700b1ab30af

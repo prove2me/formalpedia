@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos266_pSum_le
 -- name    : Erdos266.pSum_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T03:03:10.634617+00:00
 -- url     : https://prove2.me/theorems/a2b2449c-1733-474f-9042-e9077a1d9c9b
