@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_parentRank_le_timeoutLowBudget
 -- name    : FirstPassageLinearTransport.parentRank_le_timeoutLowBudget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:27.360428+00:00
 -- url     : https://prove2.me/theorems/1a9ba70e-23ec-5b45-99ac-e0aa54d19de3

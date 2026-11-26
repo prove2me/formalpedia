@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_eval_boundaryParam_le_polynomialSupNorm_frontier
 -- name    : norm_eval_boundaryParam_le_polynomialSupNorm_frontier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:10.390158+00:00
 -- url     : https://prove2.me/theorems/27cdfda2-7add-4303-9ac0-6ad0248ac5c6

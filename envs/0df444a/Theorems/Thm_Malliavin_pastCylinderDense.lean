@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_pastCylinderDense
 -- name    : Malliavin.pastCylinderDense
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:35.593844+00:00
 -- url     : https://prove2.me/theorems/839fec8e-874d-5099-a2ed-03003be09c56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_positiveIntegralCLM_mem_naturalItoRange
 -- name    : Malliavin.BrownianIteratedConstruction.positiveIntegralCLM_mem_naturalItoRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:29.629624+00:00
 -- url     : https://prove2.me/theorems/0209e548-15a2-5134-8b65-2c1a602298f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothJordanDomain_isCompact_frontier
 -- name    : SmoothJordanDomain.isCompact_frontier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:48:40.627247+00:00
 -- url     : https://prove2.me/theorems/2ab72dff-3737-4e74-a3d6-9f1fa1062431

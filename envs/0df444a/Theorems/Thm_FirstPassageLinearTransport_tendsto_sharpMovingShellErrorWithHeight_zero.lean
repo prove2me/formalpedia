@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tendsto_sharpMovingShellErrorWithHeight_zero
 -- name    : FirstPassageLinearTransport.tendsto_sharpMovingShellErrorWithHeight_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:57.960245+00:00
 -- url     : https://prove2.me/theorems/e09b11ca-4689-5264-874c-575b631b2e63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_naturalItoDuality_wienerIntegralD12
 -- name    : Malliavin.naturalItoDuality_wienerIntegralD12
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:20.039786+00:00
 -- url     : https://prove2.me/theorems/77baaf91-2147-4cbf-b1f2-54bd19e6039d

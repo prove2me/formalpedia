@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_three_pow_timeoutTargetRank_lt_three_pow_oddCount_succ
 -- name    : FirstPassageLinearTransport.three_pow_timeoutTargetRank_lt_three_pow_oddCount_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:38:48.915841+00:00
 -- url     : https://prove2.me/theorems/aafefe20-2faf-441a-9312-c3c0fb040450

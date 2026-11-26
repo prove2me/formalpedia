@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionClosedExtension_eq
 -- name    : crouzeixPolynomialScalarCompanionClosedExtension_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:36:19.660921+00:00
 -- url     : https://prove2.me/theorems/80ac95c5-361f-42a6-9ea5-05fa30d190c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_shrinkingPolylogParameterPackage
 -- name    : FirstPassageLinearTransport.exists_shrinkingPolylogParameterPackage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:18.385533+00:00
 -- url     : https://prove2.me/theorems/ba350663-ee2e-49cf-bbce-ab863da5d445

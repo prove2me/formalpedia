@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_bootstrapD_succ
 -- name    : FirstPassageLinearTransport.bootstrapD_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:34:46.587789+00:00
 -- url     : https://prove2.me/theorems/b4ee97e8-ec1c-4356-a6e2-809940f49c1d

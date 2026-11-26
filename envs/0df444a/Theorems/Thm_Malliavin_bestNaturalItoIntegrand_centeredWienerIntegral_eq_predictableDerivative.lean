@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_bestNaturalItoIntegrand_centeredWienerIntegral_eq_predictableDerivative
 -- name    : Malliavin.bestNaturalItoIntegrand_centeredWienerIntegral_eq_predictableDerivative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:19.804366+00:00
 -- url     : https://prove2.me/theorems/d569e9b5-0314-56fa-8be7-e13e528d845d

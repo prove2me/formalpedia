@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutDurationError_high_le
 -- name    : FirstPassageLinearTransport.timeoutDurationError_high_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:37.344253+00:00
 -- url     : https://prove2.me/theorems/6c7a21ba-175b-4903-8434-72dfa8c77f1e

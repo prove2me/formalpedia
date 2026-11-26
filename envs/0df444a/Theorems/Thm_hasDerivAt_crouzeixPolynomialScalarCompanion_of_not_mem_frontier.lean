@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hasDerivAt_crouzeixPolynomialScalarCompanion_of_not_mem_frontier
 -- name    : hasDerivAt_crouzeixPolynomialScalarCompanion_of_not_mem_frontier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:01.76957+00:00
 -- url     : https://prove2.me/theorems/af9ead90-85ee-5cca-8751-c0f97c13b2d3

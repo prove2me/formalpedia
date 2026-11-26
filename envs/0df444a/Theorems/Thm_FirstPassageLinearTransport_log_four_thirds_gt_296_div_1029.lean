@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_log_four_thirds_gt_296_div_1029
 -- name    : FirstPassageLinearTransport.log_four_thirds_gt_296_div_1029
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:48.884031+00:00
 -- url     : https://prove2.me/theorems/7a819cf6-5742-4d55-80af-7d90af3f304e

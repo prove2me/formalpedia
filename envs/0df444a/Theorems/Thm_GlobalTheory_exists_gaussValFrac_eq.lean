@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_gaussValFrac_eq
 -- name    : GlobalTheory.exists_gaussValFrac_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:58.031982+00:00
 -- url     : https://prove2.me/theorems/3f6f8b54-8286-4ffd-ac77-ac8ef08ed1aa

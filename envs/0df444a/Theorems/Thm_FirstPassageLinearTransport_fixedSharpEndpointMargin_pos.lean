@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_fixedSharpEndpointMargin_pos
 -- name    : FirstPassageLinearTransport.fixedSharpEndpointMargin_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:33:05.947162+00:00
 -- url     : https://prove2.me/theorems/c392ee3f-1a50-5845-802f-8294e365cbae

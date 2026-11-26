@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeout_orbit_two_pow
 -- name    : FirstPassageLinearTransport.timeout_orbit_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:19:19.275605+00:00
 -- url     : https://prove2.me/theorems/223e0d6c-fef3-5463-add3-43bdd72d5a7b

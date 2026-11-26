@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussVal_algEquiv
 -- name    : GlobalTheory.gaussVal_algEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:00.274342+00:00
 -- url     : https://prove2.me/theorems/2b06fa9a-c4b0-4c19-8137-1d4ba05ff980

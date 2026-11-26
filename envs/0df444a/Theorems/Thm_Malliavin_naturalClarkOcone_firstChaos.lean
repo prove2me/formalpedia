@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_naturalClarkOcone_firstChaos
 -- name    : Malliavin.naturalClarkOcone_firstChaos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:39.642469+00:00
 -- url     : https://prove2.me/theorems/f1a8d2e4-92bd-4eb3-9a91-f2d7dae5efd5

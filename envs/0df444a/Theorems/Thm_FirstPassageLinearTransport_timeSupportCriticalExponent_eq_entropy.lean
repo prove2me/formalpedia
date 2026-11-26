@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeSupportCriticalExponent_eq_entropy
 -- name    : FirstPassageLinearTransport.timeSupportCriticalExponent_eq_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:16:22.356702+00:00
 -- url     : https://prove2.me/theorems/4e1ea13e-b87d-4690-b00f-78e040c63a40

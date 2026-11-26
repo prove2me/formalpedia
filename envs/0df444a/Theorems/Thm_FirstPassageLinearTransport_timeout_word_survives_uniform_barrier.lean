@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeout_word_survives_uniform_barrier
 -- name    : FirstPassageLinearTransport.timeout_word_survives_uniform_barrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:22.947951+00:00
 -- url     : https://prove2.me/theorems/2a01db02-9270-4ee5-ad69-f852e7e09d53

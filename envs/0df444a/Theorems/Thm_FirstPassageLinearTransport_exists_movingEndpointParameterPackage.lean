@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_movingEndpointParameterPackage
 -- name    : FirstPassageLinearTransport.exists_movingEndpointParameterPackage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:22:01.086207+00:00
 -- url     : https://prove2.me/theorems/339e52c7-e48d-4799-8e15-ac30b71913b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ClarkOconeFamily_ofNaturalItoSmoothClarkOcone_isBrownianOnElementary
 -- name    : Malliavin.ClarkOconeFamily.ofNaturalItoSmoothClarkOcone_isBrownianOnElementary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:45:58.393369+00:00
 -- url     : https://prove2.me/theorems/d37fdde5-93b4-4055-9ecc-54f214b901aa

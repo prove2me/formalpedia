@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedSubordinator_charFun_re_eq_exp_mul_cos
 -- name    : Kyprianou.Ch05.killedSubordinator_charFun_re_eq_exp_mul_cos
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T11:27:57.496663+00:00
 -- url     : https://prove2.me/theorems/e87dea02-15e7-5cb0-abee-b8b5a3d62a40

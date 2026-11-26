@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_bestNaturalItoIntegrand_eq_predictableProjection_iff_ae_timewiseCondExpKernel
 -- name    : Malliavin.bestNaturalItoIntegrand_eq_predictableProjection_iff_ae_timewiseCondExpKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:46:56.96283+00:00
 -- url     : https://prove2.me/theorems/bfbdcc42-3446-457b-8805-1ba748c6ebbb

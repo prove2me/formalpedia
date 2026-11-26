@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_measureEqOfFinitePositiveLaplace
 -- name    : Kyprianou.Ch05.measureEqOfFinitePositiveLaplace
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:44:35.372059+00:00
 -- url     : https://prove2.me/theorems/d6557a1e-7c2d-519a-b3e9-431480918fe4

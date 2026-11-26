@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_two_rpow_neg_sharpMovingRankBuffer_eq
 -- name    : FirstPassageLinearTransport.two_rpow_neg_sharpMovingRankBuffer_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:20.90984+00:00
 -- url     : https://prove2.me/theorems/657fd06f-6700-4390-a5f2-e30cb9512358

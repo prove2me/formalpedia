@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_three_halves_lt_logTwoThree
 -- name    : FirstPassageLinearTransport.three_halves_lt_logTwoThree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:38:21.921994+00:00
 -- url     : https://prove2.me/theorems/9edfebbf-4c9b-45dd-84d2-9ad3b3c6d075

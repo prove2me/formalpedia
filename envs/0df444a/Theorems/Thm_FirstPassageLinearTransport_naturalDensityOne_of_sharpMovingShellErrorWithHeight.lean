@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_naturalDensityOne_of_sharpMovingShellErrorWithHeight
 -- name    : FirstPassageLinearTransport.naturalDensityOne_of_sharpMovingShellErrorWithHeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:56.425924+00:00
 -- url     : https://prove2.me/theorems/cfc4aa9f-8a4d-5812-b221-59d7e0c69ff8

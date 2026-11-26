@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegrable_circleMap_iff
 -- name    : contourIntegrable_circleMap_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:29:47.873679+00:00
 -- url     : https://prove2.me/theorems/0763f266-573f-49fd-b2bb-49aac3e2ac65

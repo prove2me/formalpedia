@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_reciprocal_sqrt_entropy_tail_exact_rate_Icc_le
 -- name    : FirstPassageLinearTransport.reciprocal_sqrt_entropy_tail_exact_rate_Icc_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:24.550618+00:00
 -- url     : https://prove2.me/theorems/363401fd-5dcb-4a77-b3eb-a32febf64552

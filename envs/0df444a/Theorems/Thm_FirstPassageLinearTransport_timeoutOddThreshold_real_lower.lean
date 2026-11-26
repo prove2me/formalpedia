@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutOddThreshold_real_lower
 -- name    : FirstPassageLinearTransport.timeoutOddThreshold_real_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:37.68771+00:00
 -- url     : https://prove2.me/theorems/4c23d4cd-6bd5-4400-8e6f-12dfb908cb42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isUnit_of_forall_norm_le
 -- name    : isUnit_of_forall_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:04.918037+00:00
 -- url     : https://prove2.me/theorems/95a348ac-e0b1-5041-9de6-064a900107bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_terminalOddUpperResidues
 -- name    : FirstPassageLinearTransport.card_terminalOddUpperResidues
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:35.117644+00:00
 -- url     : https://prove2.me/theorems/c5b7a8fd-d12a-4900-8ad8-24589b89e23d

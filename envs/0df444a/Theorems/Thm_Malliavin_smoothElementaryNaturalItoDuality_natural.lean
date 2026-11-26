@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_smoothElementaryNaturalItoDuality_natural
 -- name    : Malliavin.smoothElementaryNaturalItoDuality_natural
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:48:07.188978+00:00
 -- url     : https://prove2.me/theorems/64041180-9307-57bf-a65c-e00edd483fd7

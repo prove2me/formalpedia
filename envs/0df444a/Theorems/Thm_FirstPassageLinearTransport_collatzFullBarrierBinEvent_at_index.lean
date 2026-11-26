@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzFullBarrierBinEvent_at_index
 -- name    : FirstPassageLinearTransport.collatzFullBarrierBinEvent_at_index
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:50.710599+00:00
 -- url     : https://prove2.me/theorems/67ceb08a-d8be-4b0d-b68d-acf93d6dd81a

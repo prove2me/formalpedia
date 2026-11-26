@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_potentialSupportNonnegative
 -- name    : Kyprianou.Ch05.potentialSupportNonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @daga2
 -- created : 2026-11-26T03:14:28.050302+00:00
 -- url     : https://prove2.me/theorems/f76930e6-5235-5bc1-8dc5-2dd9eb9c1bd8

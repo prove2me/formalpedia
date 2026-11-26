@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_lowBarrier_rate_margin_of_timeSupportCritical_lt
 -- name    : FirstPassageLinearTransport.exists_lowBarrier_rate_margin_of_timeSupportCritical_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:04.565979+00:00
 -- url     : https://prove2.me/theorems/8a2a7673-e873-5247-81db-f3ffc75e9769

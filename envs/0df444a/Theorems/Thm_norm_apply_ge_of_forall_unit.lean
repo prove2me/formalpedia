@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_apply_ge_of_forall_unit
 -- name    : norm_apply_ge_of_forall_unit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:34:52.547948+00:00
 -- url     : https://prove2.me/theorems/449c5616-ffd3-4a4d-91f2-7bc2763fd926

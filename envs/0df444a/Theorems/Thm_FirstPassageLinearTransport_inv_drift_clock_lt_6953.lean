@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_inv_drift_clock_lt_6953
 -- name    : FirstPassageLinearTransport.inv_drift_clock_lt_6953
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:36:06.161819+00:00
 -- url     : https://prove2.me/theorems/cb1d40c9-39e0-4bf9-a9c8-3ccfc9218c4c

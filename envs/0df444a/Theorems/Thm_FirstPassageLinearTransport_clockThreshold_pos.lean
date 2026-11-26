@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_clockThreshold_pos
 -- name    : FirstPassageLinearTransport.clockThreshold_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:26:46.507879+00:00
 -- url     : https://prove2.me/theorems/6e5e1af7-6721-571f-9cc5-c30b678e0894

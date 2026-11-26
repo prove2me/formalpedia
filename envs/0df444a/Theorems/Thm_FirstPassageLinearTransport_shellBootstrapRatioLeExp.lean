@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shellBootstrapRatioLeExp
 -- name    : FirstPassageLinearTransport.shellBootstrapRatioLeExp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:28:17.331795+00:00
 -- url     : https://prove2.me/theorems/541c9018-546e-5eb3-a8ba-33910fcf7367

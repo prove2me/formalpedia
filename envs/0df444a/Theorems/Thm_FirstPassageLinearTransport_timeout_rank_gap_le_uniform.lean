@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeout_rank_gap_le_uniform
 -- name    : FirstPassageLinearTransport.timeout_rank_gap_le_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:19.857035+00:00
 -- url     : https://prove2.me/theorems/c3ea4b5f-8a29-41f4-a94b-0a4b84471027

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussVal_map_of_eq
 -- name    : GlobalTheory.gaussVal_map_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:46:54.771537+00:00
 -- url     : https://prove2.me/theorems/bab05017-b98a-4de5-90ac-dc60e39eeedd

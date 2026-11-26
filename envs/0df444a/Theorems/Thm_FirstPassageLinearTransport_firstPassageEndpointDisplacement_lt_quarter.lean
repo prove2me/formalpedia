@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_firstPassageEndpointDisplacement_lt_quarter
 -- name    : FirstPassageLinearTransport.firstPassageEndpointDisplacement_lt_quarter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:38:24.250594+00:00
 -- url     : https://prove2.me/theorems/f5390625-6292-4b16-9d95-f4e08cdb69fb

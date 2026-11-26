@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_predictableProjection_ae_eq_timewiseCondExpKernel
 -- name    : Malliavin.predictableProjection_ae_eq_timewiseCondExpKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:49.775806+00:00
 -- url     : https://prove2.me/theorems/4795fe2b-5795-5cd6-bcb0-f732ebe72e63

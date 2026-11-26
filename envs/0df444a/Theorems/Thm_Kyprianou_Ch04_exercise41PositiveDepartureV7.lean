@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41PositiveDepartureV7
 -- name    : Kyprianou.Ch04.exercise41PositiveDepartureV7
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:22:25.906806+00:00
 -- url     : https://prove2.me/theorems/c8d5002a-79ed-436b-a257-8abc74912fa5

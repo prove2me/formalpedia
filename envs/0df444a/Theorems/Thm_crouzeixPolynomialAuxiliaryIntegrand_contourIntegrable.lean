@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialAuxiliaryIntegrand_contourIntegrable
 -- name    : crouzeixPolynomialAuxiliaryIntegrand_contourIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:43.662968+00:00
 -- url     : https://prove2.me/theorems/e30af137-a261-4634-bb1f-9c1b1ef4bdf0

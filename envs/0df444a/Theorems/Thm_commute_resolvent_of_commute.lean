@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_commute_resolvent_of_commute
 -- name    : commute_resolvent_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:31.11299+00:00
 -- url     : https://prove2.me/theorems/73460367-c86b-5c81-80d7-97fb52af416b

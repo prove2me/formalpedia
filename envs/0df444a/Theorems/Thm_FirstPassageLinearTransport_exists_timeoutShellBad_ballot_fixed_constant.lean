@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_timeoutShellBad_ballot_fixed_constant
 -- name    : FirstPassageLinearTransport.exists_timeoutShellBad_ballot_fixed_constant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:25:28.52028+00:00
 -- url     : https://prove2.me/theorems/58114180-8d02-5938-8763-b2d3a4bef46b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shellBootstrapRatioTendstoZero
 -- name    : FirstPassageLinearTransport.shellBootstrapRatioTendstoZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:19:36.226689+00:00
 -- url     : https://prove2.me/theorems/3c00743f-3572-44a9-bf26-68efe51d1ef5

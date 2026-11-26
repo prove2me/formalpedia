@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_movingExponent_pos
 -- name    : FirstPassageLinearTransport.eventually_movingExponent_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:24:26.389548+00:00
 -- url     : https://prove2.me/theorems/c3fda819-a734-5741-ba42-345a24013994

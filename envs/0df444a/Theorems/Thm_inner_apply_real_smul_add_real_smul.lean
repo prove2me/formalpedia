@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_inner_apply_real_smul_add_real_smul
 -- name    : inner_apply_real_smul_add_real_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:50.188687+00:00
 -- url     : https://prove2.me/theorems/1a259a2b-6313-59a0-88f4-a16582124918

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_naturalItoDuality_firstChaos
 -- name    : Malliavin.naturalItoDuality_firstChaos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:12.118787+00:00
 -- url     : https://prove2.me/theorems/9e6325b7-25a8-4501-a0bf-9dd2f759e910

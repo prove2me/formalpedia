@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shortcutFirstPassageTime_landingBand
 -- name    : FirstPassageLinearTransport.shortcutFirstPassageTime_landingBand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:27:51.098906+00:00
 -- url     : https://prove2.me/theorems/8d37259e-ec2f-5cd0-a089-1cc26b9a526e

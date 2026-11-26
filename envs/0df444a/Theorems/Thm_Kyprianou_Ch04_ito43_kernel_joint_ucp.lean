@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_kernel_joint_ucp
 -- name    : Kyprianou.Ch04.ito43_kernel_joint_ucp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:36:19.193416+00:00
 -- url     : https://prove2.me/theorems/8821b489-5bb2-543c-abe0-9bb1564edc3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ClarkOconeFamily_ofNaturalItoBestIntegrand_isBrownianOnElementary
 -- name    : Malliavin.ClarkOconeFamily.ofNaturalItoBestIntegrand_isBrownianOnElementary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:15.345848+00:00
 -- url     : https://prove2.me/theorems/cbbdc855-2930-4d37-a282-c89ff9ae80e4

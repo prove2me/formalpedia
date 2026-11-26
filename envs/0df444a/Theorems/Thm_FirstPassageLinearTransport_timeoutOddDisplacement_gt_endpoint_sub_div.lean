@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutOddDisplacement_gt_endpoint_sub_div
 -- name    : FirstPassageLinearTransport.timeoutOddDisplacement_gt_endpoint_sub_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:25:22.767074+00:00
 -- url     : https://prove2.me/theorems/672d3d95-5944-5944-9e13-31f47ccb7471

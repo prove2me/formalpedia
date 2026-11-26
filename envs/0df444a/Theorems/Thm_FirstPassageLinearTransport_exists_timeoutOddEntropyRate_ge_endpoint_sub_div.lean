@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_timeoutOddEntropyRate_ge_endpoint_sub_div
 -- name    : FirstPassageLinearTransport.exists_timeoutOddEntropyRate_ge_endpoint_sub_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:56.292101+00:00
 -- url     : https://prove2.me/theorems/bfed4154-7357-5325-97d7-3165a68dd1e1

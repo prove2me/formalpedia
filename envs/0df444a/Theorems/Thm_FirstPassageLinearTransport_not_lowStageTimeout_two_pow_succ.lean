@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_not_lowStageTimeout_two_pow_succ
 -- name    : FirstPassageLinearTransport.not_lowStageTimeout_two_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:38:51.378789+00:00
 -- url     : https://prove2.me/theorems/6ac8b274-e23d-5a93-a502-8446bdec3972

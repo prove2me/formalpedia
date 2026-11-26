@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_BrownianIteratedConstruction_brownianHomogeneousChaos_le_naturalItoRange
 -- name    : Malliavin.BrownianIteratedConstruction.brownianHomogeneousChaos_le_naturalItoRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:44.433913+00:00
 -- url     : https://prove2.me/theorems/8edc1124-93cd-4dcf-879b-7e32e48c699b

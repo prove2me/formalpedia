@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FirstPassageLinearTransport_timeoutEndpointT__pos_c56393fbdaca
 -- name    : P2M_FirstPassageLinearTransport_timeoutEndpointT__pos_c56393fbdaca
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:06.997952+00:00
 -- url     : https://prove2.me/theorems/9fd9af67-2cf8-50b5-b3d0-9bc59a343d87

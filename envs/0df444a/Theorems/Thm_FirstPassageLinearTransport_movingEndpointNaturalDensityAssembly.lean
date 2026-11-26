@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_movingEndpointNaturalDensityAssembly
 -- name    : FirstPassageLinearTransport.movingEndpointNaturalDensityAssembly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:38:06.972435+00:00
 -- url     : https://prove2.me/theorems/6c52769e-8620-4553-b8ba-713f92364064

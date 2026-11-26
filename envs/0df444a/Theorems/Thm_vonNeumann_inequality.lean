@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_vonNeumann_inequality
 -- name    : vonNeumann_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:48.105309+00:00
 -- url     : https://prove2.me/theorems/31b8a5b1-62d9-4355-80cf-0e4ed460ccac

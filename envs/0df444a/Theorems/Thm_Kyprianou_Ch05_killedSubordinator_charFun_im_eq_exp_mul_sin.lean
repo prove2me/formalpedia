@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedSubordinator_charFun_im_eq_exp_mul_sin
 -- name    : Kyprianou.Ch05.killedSubordinator_charFun_im_eq_exp_mul_sin
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T11:26:52.273861+00:00
 -- url     : https://prove2.me/theorems/42475407-875c-5f33-a8a4-c8525eb5fddd

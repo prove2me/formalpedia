@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_TimeoutRecertificationRun_endpoint_mem_timeoutHighLandingBad
 -- name    : FirstPassageLinearTransport.TimeoutRecertificationRun.endpoint_mem_timeoutHighLandingBad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:23.141145+00:00
 -- url     : https://prove2.me/theorems/d6e30b64-c396-4150-aed4-7f132326210a

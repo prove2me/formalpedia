@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionBoundaryValue_smul
 -- name    : crouzeixPolynomialScalarCompanionBoundaryValue_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:55.956515+00:00
 -- url     : https://prove2.me/theorems/cebe8e4c-6a00-5b49-9fd0-1400957c96bd

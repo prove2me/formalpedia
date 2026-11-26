@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_headlineScalars
 -- name    : FirstPassageLinearTransport.exists_headlineScalars
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:21:46.843719+00:00
 -- url     : https://prove2.me/theorems/715a23a5-5c81-49ff-8fb7-cc20ddc808df

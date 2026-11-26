@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_inv_sub_eq_zero_of_not_mem_closure_carrier
 -- name    : contourIntegral_inv_sub_eq_zero_of_not_mem_closure_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:35.549397+00:00
 -- url     : https://prove2.me/theorems/7a21c09f-83b6-40c3-a337-36ed6aaa3597

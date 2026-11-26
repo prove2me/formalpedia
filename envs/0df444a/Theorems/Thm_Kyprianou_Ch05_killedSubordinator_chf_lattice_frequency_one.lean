@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedSubordinator_chf_lattice_frequency_one
 -- name    : Kyprianou.Ch05.killedSubordinator_chf_lattice_frequency_one
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T03:49:12.174281+00:00
 -- url     : https://prove2.me/theorems/eb30b7ed-9dcc-5873-815d-7b452112c78c

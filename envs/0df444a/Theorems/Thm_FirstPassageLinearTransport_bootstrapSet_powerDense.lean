@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_bootstrapSet_powerDense
 -- name    : FirstPassageLinearTransport.bootstrapSet_powerDense
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:34:51.7327+00:00
 -- url     : https://prove2.me/theorems/558baffe-1d4f-43d2-8012-ea1853ae7408

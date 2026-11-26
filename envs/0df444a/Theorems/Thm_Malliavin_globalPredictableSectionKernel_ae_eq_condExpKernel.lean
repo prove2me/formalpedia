@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_globalPredictableSectionKernel_ae_eq_condExpKernel
 -- name    : Malliavin.globalPredictableSectionKernel_ae_eq_condExpKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:03.186476+00:00
 -- url     : https://prove2.me/theorems/2866731f-722d-54cf-902e-c15dc5be8a20

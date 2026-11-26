@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutDisplacementLoss_pos
 -- name    : FirstPassageLinearTransport.timeoutDisplacementLoss_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:53.127381+00:00
 -- url     : https://prove2.me/theorems/577dfc3b-e79b-409b-ae4f-0414d84dd99f

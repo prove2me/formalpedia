@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_continuous_kernel_ucp
 -- name    : Kyprianou.Ch04.ito43_continuous_kernel_ucp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:20:47.503084+00:00
 -- url     : https://prove2.me/theorems/c9143ba7-0461-4dbc-801a-062f1ba50d35

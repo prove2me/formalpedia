@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutOddDisplacement_le_endpoint
 -- name    : FirstPassageLinearTransport.timeoutOddDisplacement_le_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:25:29.214035+00:00
 -- url     : https://prove2.me/theorems/d6f6cecd-f2f9-4024-ac96-b06fda3b3199

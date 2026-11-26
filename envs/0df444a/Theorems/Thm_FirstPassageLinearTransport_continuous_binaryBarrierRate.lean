@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_continuous_binaryBarrierRate
 -- name    : FirstPassageLinearTransport.continuous_binaryBarrierRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:36:15.678481+00:00
 -- url     : https://prove2.me/theorems/40682ed8-f4d3-584f-84a8-7f686e0ef0e4

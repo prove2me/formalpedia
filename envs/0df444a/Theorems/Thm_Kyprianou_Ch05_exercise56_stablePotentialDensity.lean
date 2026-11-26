@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_exercise56_stablePotentialDensity
 -- name    : Kyprianou.Ch05.exercise56_stablePotentialDensity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T12:41:18.969872+00:00
 -- url     : https://prove2.me/theorems/f6f08d40-570d-412a-93a6-81eac2c0bd36

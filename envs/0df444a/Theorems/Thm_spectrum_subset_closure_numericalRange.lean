@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_spectrum_subset_closure_numericalRange
 -- name    : spectrum_subset_closure_numericalRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:29.240907+00:00
 -- url     : https://prove2.me/theorems/4aa73e42-903a-4888-bd61-b2515769c3ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_orbit_lower_by_halving
 -- name    : FirstPassageLinearTransport.orbit_lower_by_halving
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:33:25.664842+00:00
 -- url     : https://prove2.me/theorems/770557d6-2a5c-5394-bdba-4d48f5cc5bc1

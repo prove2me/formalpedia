@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_sharp_timeout_scalar_le_buffer
 -- name    : FirstPassageLinearTransport.sharp_timeout_scalar_le_buffer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:24.791534+00:00
 -- url     : https://prove2.me/theorems/16b37da7-1231-4288-9629-b0d077277f6d

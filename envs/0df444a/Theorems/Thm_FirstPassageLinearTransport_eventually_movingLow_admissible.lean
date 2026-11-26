@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_movingLow_admissible
 -- name    : FirstPassageLinearTransport.eventually_movingLow_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:20:49.135024+00:00
 -- url     : https://prove2.me/theorems/00bebd9d-d18b-52fe-a5ea-ba49d74e3053

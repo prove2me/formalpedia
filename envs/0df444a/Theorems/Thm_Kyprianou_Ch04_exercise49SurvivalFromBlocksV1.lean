@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise49SurvivalFromBlocksV1
 -- name    : Kyprianou.Ch04.exercise49SurvivalFromBlocksV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:48:30.012987+00:00
 -- url     : https://prove2.me/theorems/c6b1200d-d0c1-44d6-81c1-64e68ac1a00e

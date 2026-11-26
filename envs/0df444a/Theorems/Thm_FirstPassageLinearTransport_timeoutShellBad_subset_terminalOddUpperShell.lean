@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutShellBad_subset_terminalOddUpperShell
 -- name    : FirstPassageLinearTransport.timeoutShellBad_subset_terminalOddUpperShell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:01.654233+00:00
 -- url     : https://prove2.me/theorems/f0b01af1-33e1-59bc-8e0e-c80ec6f13703

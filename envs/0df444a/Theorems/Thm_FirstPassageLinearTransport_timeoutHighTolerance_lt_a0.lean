@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutHighTolerance_lt_a0
 -- name    : FirstPassageLinearTransport.timeoutHighTolerance_lt_a0
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:15.779391+00:00
 -- url     : https://prove2.me/theorems/c04bc48e-2abc-404a-9ece-ed97e7cc724c

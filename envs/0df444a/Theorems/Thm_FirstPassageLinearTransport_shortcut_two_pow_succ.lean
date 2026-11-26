@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shortcut_two_pow_succ
 -- name    : FirstPassageLinearTransport.shortcut_two_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:38:46.804221+00:00
 -- url     : https://prove2.me/theorems/9dff3fe8-2bda-5bcf-b2b2-f2eec48844ed

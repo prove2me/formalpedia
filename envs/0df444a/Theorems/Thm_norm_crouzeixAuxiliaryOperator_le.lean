@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_crouzeixAuxiliaryOperator_le
 -- name    : norm_crouzeixAuxiliaryOperator_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:39.024892+00:00
 -- url     : https://prove2.me/theorems/8530f9d9-ccb2-5170-8299-8cc9e5971de9

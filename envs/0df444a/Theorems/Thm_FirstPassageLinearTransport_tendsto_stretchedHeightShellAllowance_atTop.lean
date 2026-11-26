@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tendsto_stretchedHeightShellAllowance_atTop
 -- name    : FirstPassageLinearTransport.tendsto_stretchedHeightShellAllowance_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:34:26.3561+00:00
 -- url     : https://prove2.me/theorems/00d126c5-5b48-52fb-b8aa-d9d94a1fcc90

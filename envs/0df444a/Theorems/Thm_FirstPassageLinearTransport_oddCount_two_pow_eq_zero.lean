@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_oddCount_two_pow_eq_zero
 -- name    : FirstPassageLinearTransport.oddCount_two_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:30:12.485884+00:00
 -- url     : https://prove2.me/theorems/a5365f28-41bf-4a42-9fb2-c0decc0381d2

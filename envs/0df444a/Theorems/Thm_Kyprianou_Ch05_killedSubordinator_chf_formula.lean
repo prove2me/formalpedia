@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedSubordinator_chf_formula
 -- name    : Kyprianou.Ch05.killedSubordinator_chf_formula
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T04:10:32.944728+00:00
 -- url     : https://prove2.me/theorems/7edcfc5d-c94a-5bcf-9403-b4f9063a13f7

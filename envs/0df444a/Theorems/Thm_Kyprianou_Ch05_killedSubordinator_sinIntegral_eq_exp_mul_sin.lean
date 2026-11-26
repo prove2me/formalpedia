@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedSubordinator_sinIntegral_eq_exp_mul_sin
 -- name    : Kyprianou.Ch05.killedSubordinator_sinIntegral_eq_exp_mul_sin
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T09:26:07.190672+00:00
 -- url     : https://prove2.me/theorems/75adbef4-f5cb-4fcf-941f-a7c5a02b7a9b

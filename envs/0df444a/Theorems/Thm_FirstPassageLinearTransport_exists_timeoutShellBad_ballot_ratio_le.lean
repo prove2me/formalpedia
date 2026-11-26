@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_timeoutShellBad_ballot_ratio_le
 -- name    : FirstPassageLinearTransport.exists_timeoutShellBad_ballot_ratio_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:00.863593+00:00
 -- url     : https://prove2.me/theorems/b6dc1ef3-d008-50e0-a05f-548650eee0f6

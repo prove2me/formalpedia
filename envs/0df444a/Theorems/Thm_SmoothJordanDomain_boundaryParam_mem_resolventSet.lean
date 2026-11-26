@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothJordanDomain_boundaryParam_mem_resolventSet
 -- name    : SmoothJordanDomain.boundaryParam_mem_resolventSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:33:57.112124+00:00
 -- url     : https://prove2.me/theorems/781a23fc-ee76-4682-a4bc-aef38f3682e5

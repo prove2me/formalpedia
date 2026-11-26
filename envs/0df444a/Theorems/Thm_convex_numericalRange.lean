@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_convex_numericalRange
 -- name    : convex_numericalRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:49:07.415197+00:00
 -- url     : https://prove2.me/theorems/59c2c2b5-a591-5e9d-a396-32d21b011707

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_binaryBarrierRate_endpoint_lipschitz
 -- name    : FirstPassageLinearTransport.exists_binaryBarrierRate_endpoint_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:59.017103+00:00
 -- url     : https://prove2.me/theorems/00a73296-b05a-561e-8c23-5c5438e1b48b

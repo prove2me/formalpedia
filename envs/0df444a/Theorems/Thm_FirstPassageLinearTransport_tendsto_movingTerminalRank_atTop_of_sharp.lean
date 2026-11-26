@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tendsto_movingTerminalRank_atTop_of_sharp
 -- name    : FirstPassageLinearTransport.tendsto_movingTerminalRank_atTop_of_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:16:41.230981+00:00
 -- url     : https://prove2.me/theorems/0ea7007c-c4e0-4716-8dec-d4afe74d6116

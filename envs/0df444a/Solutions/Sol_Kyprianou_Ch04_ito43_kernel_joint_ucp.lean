@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.ito43_kernel_joint_ucp
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T12:42:38.313025+00:00
 -- url     : https://prove2.me/submissions/fe8bc228-48de-4e8f-93dc-6c6526890752
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

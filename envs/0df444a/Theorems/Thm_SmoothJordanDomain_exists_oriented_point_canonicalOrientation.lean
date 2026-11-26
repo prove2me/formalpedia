@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothJordanDomain_exists_oriented_point_canonicalOrientation
 -- name    : SmoothJordanDomain.exists_oriented_point_canonicalOrientation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:54.958578+00:00
 -- url     : https://prove2.me/theorems/d99b578e-1c54-4ad4-8564-466751db044b

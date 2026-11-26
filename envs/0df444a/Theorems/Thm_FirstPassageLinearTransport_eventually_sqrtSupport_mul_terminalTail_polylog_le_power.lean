@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_sqrtSupport_mul_terminalTail_polylog_le_power
 -- name    : FirstPassageLinearTransport.eventually_sqrtSupport_mul_terminalTail_polylog_le_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:44:24.567788+00:00
 -- url     : https://prove2.me/theorems/8afa53fe-c819-474b-a9a3-87a7e9fa749a

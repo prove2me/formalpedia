@@ -99657,8 +99657,8 @@
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0151", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0983", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0983", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.exercise56_stableLevyDensity", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise56_stableLevyDensity", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise56_stableLevyDensity", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise56_stableLevyDensity", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.BK15.Threshold.bk15HInputError_lt_epsilonStar_of_FStar_lt", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.BK15.Threshold.bk15HInputError_lt_epsilonStar_of_FStar_lt", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.smallSupport11_16", "child": "OAIQ259US007", "via": ["solution", "statement"]}

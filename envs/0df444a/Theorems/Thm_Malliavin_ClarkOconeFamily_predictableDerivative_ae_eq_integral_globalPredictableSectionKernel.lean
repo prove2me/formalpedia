@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ClarkOconeFamily_predictableDerivative_ae_eq_integral_globalPredictableSectionKernel
 -- name    : Malliavin.ClarkOconeFamily.predictableDerivative_ae_eq_integral_globalPredictableSectionKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:30.964659+00:00
 -- url     : https://prove2.me/theorems/a6c11268-c3dd-505a-b0ed-82a6dd24644e

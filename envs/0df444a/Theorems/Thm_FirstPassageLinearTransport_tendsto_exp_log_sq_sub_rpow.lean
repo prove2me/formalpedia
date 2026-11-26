@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tendsto_exp_log_sq_sub_rpow
 -- name    : FirstPassageLinearTransport.tendsto_exp_log_sq_sub_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:42.125105+00:00
 -- url     : https://prove2.me/theorems/9ab83b3f-e38c-475d-857e-aa357dc2a512

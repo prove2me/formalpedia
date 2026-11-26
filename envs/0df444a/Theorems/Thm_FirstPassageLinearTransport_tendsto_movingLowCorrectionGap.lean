@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tendsto_movingLowCorrectionGap
 -- name    : FirstPassageLinearTransport.tendsto_movingLowCorrectionGap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:38:20.256222+00:00
 -- url     : https://prove2.me/theorems/4262f048-dd55-4aa2-a38b-22551042f6a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_lastCompleteDyadicShell_succ
 -- name    : FirstPassageLinearTransport.lastCompleteDyadicShell_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:34:23.574096+00:00
 -- url     : https://prove2.me/theorems/6afd342e-c6c7-4f96-a385-ed3bb458a34f

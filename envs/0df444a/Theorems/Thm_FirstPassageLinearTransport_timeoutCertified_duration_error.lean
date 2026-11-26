@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutCertified_duration_error
 -- name    : FirstPassageLinearTransport.timeoutCertified_duration_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:07.145114+00:00
 -- url     : https://prove2.me/theorems/84d4b507-5711-4f78-9e72-34895f5a4ee2

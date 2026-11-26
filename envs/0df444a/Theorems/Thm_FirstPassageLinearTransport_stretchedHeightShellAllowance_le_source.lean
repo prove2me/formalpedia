@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stretchedHeightShellAllowance_le_source
 -- name    : FirstPassageLinearTransport.stretchedHeightShellAllowance_le_source
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:34:30.069242+00:00
 -- url     : https://prove2.me/theorems/a7410d9a-a63d-570a-bbbd-9f8e7fcedfa1

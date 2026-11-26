@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiffContOnCl_dslope_of_mem_isOpen
 -- name    : DiffContOnCl.dslope_of_mem_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:54.678692+00:00
 -- url     : https://prove2.me/theorems/f0ceb748-0aaa-4763-b469-7ce43076bd05

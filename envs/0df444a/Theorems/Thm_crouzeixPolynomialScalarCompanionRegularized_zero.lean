@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionRegularized_zero
 -- name    : crouzeixPolynomialScalarCompanionRegularized_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:12.498491+00:00
 -- url     : https://prove2.me/theorems/649151f4-23bb-4218-98e7-0a079af92a5f

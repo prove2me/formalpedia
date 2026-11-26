@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tendsto_endpointEntropyRate
 -- name    : FirstPassageLinearTransport.tendsto_endpointEntropyRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:36:40.680805+00:00
 -- url     : https://prove2.me/theorems/9843f537-c699-42ed-8a5c-7e581ffb80b9

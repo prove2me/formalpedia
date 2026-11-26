@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedSubordinator_cosIntegral_eq_exp_mul_cos
 -- name    : Kyprianou.Ch05.killedSubordinator_cosIntegral_eq_exp_mul_cos
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T09:25:55.228884+00:00
 -- url     : https://prove2.me/theorems/9f49a235-a149-513d-87f5-4ba78a4daf65

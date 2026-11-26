@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_weightedSurvivalWordMass_half_eq_card
 -- name    : FirstPassageLinearTransport.weightedSurvivalWordMass_half_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:27.353801+00:00
 -- url     : https://prove2.me/theorems/456dd42f-f872-56d9-872d-cd4d494cd08a

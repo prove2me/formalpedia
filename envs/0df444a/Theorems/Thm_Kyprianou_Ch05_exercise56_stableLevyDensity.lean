@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_exercise56_stableLevyDensity
 -- name    : Kyprianou.Ch05.exercise56_stableLevyDensity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T12:41:23.022737+00:00
 -- url     : https://prove2.me/theorems/9f45b4df-ac7f-4550-89d7-ff1af8cce6a3

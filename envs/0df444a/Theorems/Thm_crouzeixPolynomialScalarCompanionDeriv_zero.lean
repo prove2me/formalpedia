@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionDeriv_zero
 -- name    : crouzeixPolynomialScalarCompanionDeriv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:05.761044+00:00
 -- url     : https://prove2.me/theorems/801cd391-e7c3-4374-b752-25ff8e89bb5e

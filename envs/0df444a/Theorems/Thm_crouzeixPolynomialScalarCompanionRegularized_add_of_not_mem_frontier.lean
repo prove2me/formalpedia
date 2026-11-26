@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionRegularized_add_of_not_mem_frontier
 -- name    : crouzeixPolynomialScalarCompanionRegularized_add_of_not_mem_frontier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:20.9703+00:00
 -- url     : https://prove2.me/theorems/5f39e649-8a17-4518-a5f0-6a45591bb7f6

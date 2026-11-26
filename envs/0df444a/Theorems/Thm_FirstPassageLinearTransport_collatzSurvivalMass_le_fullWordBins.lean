@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzSurvivalMass_le_fullWordBins
 -- name    : FirstPassageLinearTransport.collatzSurvivalMass_le_fullWordBins
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:50.659053+00:00
 -- url     : https://prove2.me/theorems/f210d410-0bdf-5064-a79b-e4ba3176b24f

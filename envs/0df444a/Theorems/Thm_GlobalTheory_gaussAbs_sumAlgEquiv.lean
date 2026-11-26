@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussAbs_sumAlgEquiv
 -- name    : GlobalTheory.gaussAbs_sumAlgEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:46:19.943994+00:00
 -- url     : https://prove2.me/theorems/dcebf638-8860-49b3-9c8b-a2c7731c13ad

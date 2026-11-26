@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_kernel_full_L1
 -- name    : Kyprianou.Ch04.ito43_kernel_full_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:38:11.248909+00:00
 -- url     : https://prove2.me/theorems/89bed7a6-6f5c-55d0-b686-8f4995dcd475

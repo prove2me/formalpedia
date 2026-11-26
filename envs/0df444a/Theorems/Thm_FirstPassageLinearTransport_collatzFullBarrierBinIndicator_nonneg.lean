@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzFullBarrierBinIndicator_nonneg
 -- name    : FirstPassageLinearTransport.collatzFullBarrierBinIndicator_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:44.35792+00:00
 -- url     : https://prove2.me/theorems/463ae843-e756-5e74-be8f-46e875f941fc

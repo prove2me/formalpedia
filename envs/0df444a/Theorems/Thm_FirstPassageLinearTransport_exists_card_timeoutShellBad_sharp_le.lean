@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_card_timeoutShellBad_sharp_le
 -- name    : FirstPassageLinearTransport.exists_card_timeoutShellBad_sharp_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:49.151419+00:00
 -- url     : https://prove2.me/theorems/258fdaa2-c813-5424-aac8-0a973998c433

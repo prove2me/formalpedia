@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_endpointTolerance_lt_driftGap
 -- name    : FirstPassageLinearTransport.endpointTolerance_lt_driftGap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:36:53.594871+00:00
 -- url     : https://prove2.me/theorems/39f3dc6d-20f9-41d2-ab0a-915147af7aca

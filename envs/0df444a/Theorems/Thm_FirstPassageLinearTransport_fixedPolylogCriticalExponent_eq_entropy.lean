@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_fixedPolylogCriticalExponent_eq_entropy
 -- name    : FirstPassageLinearTransport.fixedPolylogCriticalExponent_eq_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:36:12.197865+00:00
 -- url     : https://prove2.me/theorems/eb01dd31-02a6-4af6-9f74-fa29e8f808a4

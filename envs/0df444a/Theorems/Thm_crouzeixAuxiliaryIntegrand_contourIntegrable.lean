@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixAuxiliaryIntegrand_contourIntegrable
 -- name    : crouzeixAuxiliaryIntegrand_contourIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:31.40196+00:00
 -- url     : https://prove2.me/theorems/d8f23688-237b-5caa-8ef5-c839039e3949

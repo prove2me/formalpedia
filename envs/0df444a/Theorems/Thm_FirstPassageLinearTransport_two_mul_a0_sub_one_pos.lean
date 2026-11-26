@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_two_mul_a0_sub_one_pos
 -- name    : FirstPassageLinearTransport.two_mul_a0_sub_one_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:38:18.767248+00:00
 -- url     : https://prove2.me/theorems/cabc9cb0-afea-5c2c-93ab-d54b9d2444e4

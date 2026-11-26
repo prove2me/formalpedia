@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutShellBad_subset_collatzSurvivalShell
 -- name    : FirstPassageLinearTransport.timeoutShellBad_subset_collatzSurvivalShell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:02.25001+00:00
 -- url     : https://prove2.me/theorems/e90fe82d-9f6b-49c0-865e-c0b648c2db56

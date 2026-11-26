@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_sharpMovingRankBuffer_const_ge
 -- name    : FirstPassageLinearTransport.sharpMovingRankBuffer_const_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:33:25.496301+00:00
 -- url     : https://prove2.me/theorems/40504dff-f91d-4964-8718-87be1c980d1e

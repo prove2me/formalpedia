@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_timeoutShellBad_le_binomialUpperTail
 -- name    : FirstPassageLinearTransport.card_timeoutShellBad_le_binomialUpperTail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:04.085048+00:00
 -- url     : https://prove2.me/theorems/34526bc6-ff00-517e-b4ec-6821418e4ad4

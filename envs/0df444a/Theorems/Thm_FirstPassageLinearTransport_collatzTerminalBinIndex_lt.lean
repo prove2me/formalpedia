@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzTerminalBinIndex_lt
 -- name    : FirstPassageLinearTransport.collatzTerminalBinIndex_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:47.589116+00:00
 -- url     : https://prove2.me/theorems/fb93d2e6-290d-51eb-b0dd-29264d573c6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegrable_crouzeixPolynomialScalarCompanionRegularized_self
 -- name    : contourIntegrable_crouzeixPolynomialScalarCompanionRegularized_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:58.489425+00:00
 -- url     : https://prove2.me/theorems/2a99a8c3-73bb-5d64-8981-e52f7c9142dd

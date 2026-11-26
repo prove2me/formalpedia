@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_lowTimeoutPassage_of_not_timeout
 -- name    : FirstPassageLinearTransport.exists_lowTimeoutPassage_of_not_timeout
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:55.398341+00:00
 -- url     : https://prove2.me/theorems/c1c357cc-daed-50d3-870f-8a5142c1abae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_bestNaturalItoIntegrand_firstChaos_eq_predictableProjection
 -- name    : Malliavin.bestNaturalItoIntegrand_firstChaos_eq_predictableProjection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:11.059898+00:00
 -- url     : https://prove2.me/theorems/9e251a77-1551-4803-87f6-bb09d3310334

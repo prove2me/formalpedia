@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_wordSurvivesFrom_mono_lower
 -- name    : FirstPassageLinearTransport.wordSurvivesFrom_mono_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:16.768887+00:00
 -- url     : https://prove2.me/theorems/a17cd2d2-3621-5583-8941-0fe86c7de800

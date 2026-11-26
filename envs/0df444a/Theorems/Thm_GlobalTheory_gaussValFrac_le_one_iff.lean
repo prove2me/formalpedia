@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussValFrac_le_one_iff
 -- name    : GlobalTheory.gaussValFrac_le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:46:56.516676+00:00
 -- url     : https://prove2.me/theorems/13cd7c60-ea98-497b-8242-c587c69265d2

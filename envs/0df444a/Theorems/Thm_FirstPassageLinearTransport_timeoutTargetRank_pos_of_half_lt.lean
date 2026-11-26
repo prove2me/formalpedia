@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutTargetRank_pos_of_half_lt
 -- name    : FirstPassageLinearTransport.timeoutTargetRank_pos_of_half_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:38:29.999697+00:00
 -- url     : https://prove2.me/theorems/bd9c1c88-90d2-46d2-8e54-911633218a85

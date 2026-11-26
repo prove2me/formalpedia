@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_smoothJordanDomain_for_numericalRange
 -- name    : exists_smoothJordanDomain_for_numericalRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:26.227902+00:00
 -- url     : https://prove2.me/theorems/eee6ed56-34a6-58c5-8ebc-f360eda1bba3

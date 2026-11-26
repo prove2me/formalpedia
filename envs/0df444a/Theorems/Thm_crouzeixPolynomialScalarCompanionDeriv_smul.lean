@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionDeriv_smul
 -- name    : crouzeixPolynomialScalarCompanionDeriv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:54.574798+00:00
 -- url     : https://prove2.me/theorems/85b5aea0-070f-5f2a-8f1b-ad96210e4a74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_TimeoutRecertificationRun_currentRank_le_initialRank
 -- name    : FirstPassageLinearTransport.TimeoutRecertificationRun.currentRank_le_initialRank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:00.762883+00:00
 -- url     : https://prove2.me/theorems/a56cf180-1600-56fb-87c5-8fc1c09c26c2

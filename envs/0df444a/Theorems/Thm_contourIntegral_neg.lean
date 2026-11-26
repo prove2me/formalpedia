@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_neg
 -- name    : contourIntegral_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:30:13.145378+00:00
 -- url     : https://prove2.me/theorems/d9988200-a324-4b7f-89a5-f218e9bd6794

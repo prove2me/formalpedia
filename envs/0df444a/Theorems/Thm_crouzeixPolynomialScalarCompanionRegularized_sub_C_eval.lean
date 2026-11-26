@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixPolynomialScalarCompanionRegularized_sub_C_eval
 -- name    : crouzeixPolynomialScalarCompanionRegularized_sub_C_eval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:45.131387+00:00
 -- url     : https://prove2.me/theorems/a425eee5-de25-4b0a-b6b9-1c9361cbf22d

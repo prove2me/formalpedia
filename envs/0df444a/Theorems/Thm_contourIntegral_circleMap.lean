@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_circleMap
 -- name    : contourIntegral_circleMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:29:48.971412+00:00
 -- url     : https://prove2.me/theorems/d625f18b-aaff-4065-96f7-db63e6833fbd

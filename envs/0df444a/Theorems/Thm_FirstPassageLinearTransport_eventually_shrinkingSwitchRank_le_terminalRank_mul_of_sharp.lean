@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_shrinkingSwitchRank_le_terminalRank_mul_of_sharp
 -- name    : FirstPassageLinearTransport.eventually_shrinkingSwitchRank_le_terminalRank_mul_of_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:44.09875+00:00
 -- url     : https://prove2.me/theorems/75726324-3ce7-4e1f-8c17-301e82a8a120

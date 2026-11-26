@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_smul_add_smul_mem_numericalRange_of_mem_normalized
 -- name    : smul_add_smul_mem_numericalRange_of_mem_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:57.491923+00:00
 -- url     : https://prove2.me/theorems/a54ee643-4332-45f1-b163-8e408fa8b607

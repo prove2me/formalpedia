@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_bound_crouzeixPolynomialAuxiliaryIntegrand
 -- name    : exists_bound_crouzeixPolynomialAuxiliaryIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:35.274221+00:00
 -- url     : https://prove2.me/theorems/d9189e06-36ff-57f5-928f-10508bcb7ee7

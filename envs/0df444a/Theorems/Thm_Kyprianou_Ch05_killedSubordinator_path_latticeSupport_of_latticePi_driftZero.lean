@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedSubordinator_path_latticeSupport_of_latticePi_driftZero
 -- name    : Kyprianou.Ch05.killedSubordinator_path_latticeSupport_of_latticePi_driftZero
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T03:21:10.979491+00:00
 -- url     : https://prove2.me/theorems/f9896370-f672-540b-bd61-3f6048c6ed76

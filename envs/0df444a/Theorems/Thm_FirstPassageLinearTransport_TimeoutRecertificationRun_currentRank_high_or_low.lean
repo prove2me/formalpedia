@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_TimeoutRecertificationRun_currentRank_high_or_low
 -- name    : FirstPassageLinearTransport.TimeoutRecertificationRun.currentRank_high_or_low
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:05.443723+00:00
 -- url     : https://prove2.me/theorems/8e4284d0-2b42-4335-871b-c5f69c9cf391

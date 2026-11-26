@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.exercise56_stablePotentialDensity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T12:45:20.00559+00:00
 -- url     : https://prove2.me/submissions/1daca94e-d4fc-4677-b5ba-19eba2872af6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch05_KilledSubordinatorPotential

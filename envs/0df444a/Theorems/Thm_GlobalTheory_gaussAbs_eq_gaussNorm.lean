@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussAbs_eq_gaussNorm
 -- name    : GlobalTheory.gaussAbs_eq_gaussNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:46:20.028709+00:00
 -- url     : https://prove2.me/theorems/bb0885ec-538d-46ca-b217-1459080d0062

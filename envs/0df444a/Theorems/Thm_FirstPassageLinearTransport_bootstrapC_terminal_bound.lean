@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_bootstrapC_terminal_bound
 -- name    : FirstPassageLinearTransport.bootstrapC_terminal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:07.964117+00:00
 -- url     : https://prove2.me/theorems/09242fbc-dd7b-51a6-8dc5-b3d5832d0b25

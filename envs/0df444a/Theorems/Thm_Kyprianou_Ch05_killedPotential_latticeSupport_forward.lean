@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotential_latticeSupport_forward
 -- name    : Kyprianou.Ch05.killedPotential_latticeSupport_forward
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T03:19:39.015885+00:00
 -- url     : https://prove2.me/theorems/41de1bae-bc77-43df-9528-e3645c370d21

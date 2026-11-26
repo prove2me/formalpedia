@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_collatzSurvivalShell
 -- name    : FirstPassageLinearTransport.card_collatzSurvivalShell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:30.906501+00:00
 -- url     : https://prove2.me/theorems/46e21aa0-c3a4-5c1d-a84e-0ecd244f4327

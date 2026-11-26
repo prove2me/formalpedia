@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_two_pow_lt_three_pow_timeoutOddThreshold_succ
 -- name    : FirstPassageLinearTransport.two_pow_lt_three_pow_timeoutOddThreshold_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:32.256334+00:00
 -- url     : https://prove2.me/theorems/a4cbe428-e69d-44fb-83eb-d8d21a43884a

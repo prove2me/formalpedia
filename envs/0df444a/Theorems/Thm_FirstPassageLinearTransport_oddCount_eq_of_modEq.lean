@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_oddCount_eq_of_modEq
 -- name    : FirstPassageLinearTransport.oddCount_eq_of_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:34.87326+00:00
 -- url     : https://prove2.me/theorems/126cd038-a806-53c3-933d-a4b6e2b9fc07

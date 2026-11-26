@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_firstPassageEntropyGap_pos
 -- name    : FirstPassageLinearTransport.firstPassageEntropyGap_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:16:12.07069+00:00
 -- url     : https://prove2.me/theorems/a5b6faa1-7686-51cc-b7cc-55461a6957b7

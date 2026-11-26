@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_four_le_stretchedHeightShellAllowance
 -- name    : FirstPassageLinearTransport.eventually_four_le_stretchedHeightShellAllowance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:34:35.324589+00:00
 -- url     : https://prove2.me/theorems/62de27a6-97f6-5489-b5ac-81fe7e85f6c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzFairTiltRate_eq_firstPassageEndpointRate
 -- name    : FirstPassageLinearTransport.collatzFairTiltRate_eq_firstPassageEndpointRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:41:01.661922+00:00
 -- url     : https://prove2.me/theorems/45a2261d-9614-4845-8a8e-aea4db5f76a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_norm_compPi_sub_expectationL2_le
 -- name    : Malliavin.norm_compPi_sub_expectationL2_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:40:02.606732+00:00
 -- url     : https://prove2.me/theorems/805937bd-7563-5115-acff-67ea83c366f4

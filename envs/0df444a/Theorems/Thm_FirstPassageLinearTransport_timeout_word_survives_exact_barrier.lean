@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeout_word_survives_exact_barrier
 -- name    : FirstPassageLinearTransport.timeout_word_survives_exact_barrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:48.216527+00:00
 -- url     : https://prove2.me/theorems/192f576f-b641-4504-aa8f-b2653765bc7a

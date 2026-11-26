@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_gaussVal_ne_one
 -- name    : GlobalTheory.finite_gaussVal_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:46:06.840706+00:00
 -- url     : https://prove2.me/theorems/6d5edb02-0cb1-43a0-aae4-65a6fcdf2470

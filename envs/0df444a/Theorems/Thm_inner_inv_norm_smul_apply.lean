@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_inner_inv_norm_smul_apply
 -- name    : inner_inv_norm_smul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:34:49.359703+00:00
 -- url     : https://prove2.me/theorems/9c69ec6e-29c5-482b-b31f-f4a52d29a317

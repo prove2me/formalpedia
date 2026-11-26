@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_timeoutTargetRank_admissible
 -- name    : FirstPassageLinearTransport.eventually_timeoutTargetRank_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:19:07.288867+00:00
 -- url     : https://prove2.me/theorems/5be2e622-7500-5c30-a4fb-1376666671f0

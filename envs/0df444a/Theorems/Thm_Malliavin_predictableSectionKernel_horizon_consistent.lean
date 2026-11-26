@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_predictableSectionKernel_horizon_consistent
 -- name    : Malliavin.predictableSectionKernel_horizon_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:43:19.228794+00:00
 -- url     : https://prove2.me/theorems/0175969c-66b1-4cb9-95e4-5747dff405b7

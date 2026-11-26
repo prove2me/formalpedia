@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_inner_apply_self_eq_of_not_linearIndependent
 -- name    : inner_apply_self_eq_of_not_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:47:54.923578+00:00
 -- url     : https://prove2.me/theorems/8447286b-11ea-5b13-ba17-d942c41fa2d4

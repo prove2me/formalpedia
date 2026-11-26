@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeout_prefix_word_sum_lower
 -- name    : FirstPassageLinearTransport.timeout_prefix_word_sum_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:39:19.324656+00:00
 -- url     : https://prove2.me/theorems/2f463c28-d108-4637-ae3c-612f6b339326

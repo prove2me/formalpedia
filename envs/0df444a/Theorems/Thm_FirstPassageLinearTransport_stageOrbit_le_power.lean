@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stageOrbit_le_power
 -- name    : FirstPassageLinearTransport.stageOrbit_le_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:35:35.835884+00:00
 -- url     : https://prove2.me/theorems/d4ef7791-17f6-4c68-a19e-06698d5cb64f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_endpointTolerance_pos
 -- name    : FirstPassageLinearTransport.endpointTolerance_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:36:46.258176+00:00
 -- url     : https://prove2.me/theorems/14dcd9ad-972b-49ef-a810-dbb8e4bcc20f

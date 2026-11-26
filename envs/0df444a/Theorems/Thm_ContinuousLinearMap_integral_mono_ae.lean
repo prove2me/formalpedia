@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuousLinearMap_integral_mono_ae
 -- name    : ContinuousLinearMap.integral_mono_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:37:10.787839+00:00
 -- url     : https://prove2.me/theorems/07c167f7-d8f8-544f-8a22-37bf4ef2ab4d

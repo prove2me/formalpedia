@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_continuousOn_crouzeixPolynomialScalarCompanionClosedExtension_of_tendsto
 -- name    : continuousOn_crouzeixPolynomialScalarCompanionClosedExtension_of_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:36:04.47856+00:00
 -- url     : https://prove2.me/theorems/9f4bd851-5002-5134-ab8c-4a9e56395183

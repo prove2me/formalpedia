@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_time_grid_ucp
 -- name    : Kyprianou.Ch04.ito43_time_grid_ucp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T10:49:37.626321+00:00
 -- url     : https://prove2.me/theorems/817e3d27-8b78-4961-84b0-576d0974226a

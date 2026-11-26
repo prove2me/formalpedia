@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_const_mul_resolvent_sq_eq_zero
 -- name    : contourIntegral_const_mul_resolvent_sq_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:42:14.568257+00:00
 -- url     : https://prove2.me/theorems/dde6e88e-1416-42ef-835a-0606ad229b05
