@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Valuations_cartanIndices_even
 -- name    : FourierJacobi.Valuations.cartanIndices_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:20:32.143675+00:00
 -- url     : https://prove2.me/theorems/5f5bef5d-312c-49f4-a420-1852e109b232

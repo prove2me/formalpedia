@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_reverseProduct_bounds
 -- name    : FirstPassageLinearTransport.reverseProduct_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:39.03156+00:00
 -- url     : https://prove2.me/theorems/558431e8-5c26-5944-965d-b32e3e5f6e7b

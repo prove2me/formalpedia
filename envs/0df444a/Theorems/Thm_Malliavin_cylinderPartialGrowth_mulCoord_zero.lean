@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_cylinderPartialGrowth_mulCoord_zero
 -- name    : Malliavin.cylinderPartialGrowth_mulCoord_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:27:40.243483+00:00
 -- url     : https://prove2.me/theorems/1854c7be-3fb1-4db5-990f-a3c56aff1503

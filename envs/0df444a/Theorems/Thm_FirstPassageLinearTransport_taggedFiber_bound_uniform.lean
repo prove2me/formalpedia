@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_taggedFiber_bound_uniform
 -- name    : FirstPassageLinearTransport.taggedFiber_bound_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:16.347173+00:00
 -- url     : https://prove2.me/theorems/92f9c928-ce64-55ba-8c55-e576cbbe4462

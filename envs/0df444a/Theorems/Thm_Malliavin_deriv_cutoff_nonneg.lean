@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_deriv_cutoff_nonneg
 -- name    : Malliavin.deriv_cutoff_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:21.318797+00:00
 -- url     : https://prove2.me/theorems/371d182f-638a-58f8-94f0-716422a83c76

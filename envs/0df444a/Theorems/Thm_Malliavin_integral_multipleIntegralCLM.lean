@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_integral_multipleIntegralCLM
 -- name    : Malliavin.integral_multipleIntegralCLM
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:00.077379+00:00
 -- url     : https://prove2.me/theorems/9b3a2351-9931-547c-b97a-0763cb5ce376

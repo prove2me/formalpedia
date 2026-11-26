@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_norm_sub_expectationL2_le_mderivD12
 -- name    : Malliavin.norm_sub_expectationL2_le_mderivD12
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:17:13.614126+00:00
 -- url     : https://prove2.me/theorems/864b0017-aacd-521d-a152-152ce2821895

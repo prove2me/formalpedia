@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_pullbackShellConstant_pos
 -- name    : FirstPassageLinearTransport.pullbackShellConstant_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:05:01.699306+00:00
 -- url     : https://prove2.me/theorems/6b35c7e4-c9b7-53c9-9b73-ff5ee96e5062

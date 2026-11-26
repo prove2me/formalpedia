@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Valuations_extendedNegLog_nonnegative
 -- name    : FourierJacobi.Valuations.extendedNegLog_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:32.146239+00:00
 -- url     : https://prove2.me/theorems/7c176fd7-e826-5e78-b881-172f784fd1e2

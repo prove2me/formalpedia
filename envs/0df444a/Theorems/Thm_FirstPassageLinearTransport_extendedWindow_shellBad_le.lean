@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_extendedWindow_shellBad_le
 -- name    : FirstPassageLinearTransport.extendedWindow_shellBad_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:09:41.302922+00:00
 -- url     : https://prove2.me/theorems/9cdcc8eb-ad56-44f4-8549-9b7963fac7bd

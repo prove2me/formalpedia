@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_finite_sum_special_positive_formula
 -- name    : FourierJacobi.Algebra.finite_sum_special_positive_formula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:55.72955+00:00
 -- url     : https://prove2.me/theorems/b5c78e16-3cc1-49f0-bb0d-cbf649dca8ee

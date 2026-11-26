@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shifted_linear_exp_Icc_le
 -- name    : FirstPassageLinearTransport.shifted_linear_exp_Icc_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:55.171903+00:00
 -- url     : https://prove2.me/theorems/08afa1a9-a9ef-4e3f-9962-b8a2926f196f

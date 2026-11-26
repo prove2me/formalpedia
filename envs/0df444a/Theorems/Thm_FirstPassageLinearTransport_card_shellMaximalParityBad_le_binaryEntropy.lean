@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_shellMaximalParityBad_le_binaryEntropy
 -- name    : FirstPassageLinearTransport.card_shellMaximalParityBad_le_binaryEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:13:02.480678+00:00
 -- url     : https://prove2.me/theorems/df3400ec-800c-42b7-9519-84106bab4e5a

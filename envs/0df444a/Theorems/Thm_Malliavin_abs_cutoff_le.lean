@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_abs_cutoff_le
 -- name    : Malliavin.abs_cutoff_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:29.794798+00:00
 -- url     : https://prove2.me/theorems/c58e1a7e-a98b-4e92-ad5e-12991a14e8bb

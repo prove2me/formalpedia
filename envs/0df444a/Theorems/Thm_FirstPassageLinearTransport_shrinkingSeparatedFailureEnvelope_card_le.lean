@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shrinkingSeparatedFailureEnvelope_card_le
 -- name    : FirstPassageLinearTransport.shrinkingSeparatedFailureEnvelope_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:10.524951+00:00
 -- url     : https://prove2.me/theorems/71874633-81a4-57be-a89f-32e918a8e181

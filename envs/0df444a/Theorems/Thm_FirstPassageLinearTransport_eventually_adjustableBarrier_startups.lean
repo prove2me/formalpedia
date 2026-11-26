@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_adjustableBarrier_startups
 -- name    : FirstPassageLinearTransport.eventually_adjustableBarrier_startups
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:14:28.971307+00:00
 -- url     : https://prove2.me/theorems/2efd40b6-f8f3-491f-a410-6cfbf4a3148f

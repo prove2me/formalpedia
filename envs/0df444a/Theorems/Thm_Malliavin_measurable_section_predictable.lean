@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_measurable_section_predictable
 -- name    : Malliavin.measurable_section_predictable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:26:50.950417+00:00
 -- url     : https://prove2.me/theorems/260a35f3-7700-5427-b790-da94ad8cd061

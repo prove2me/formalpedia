@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_two_pow_halfNatLog_le_polylog
 -- name    : FirstPassageLinearTransport.eventually_two_pow_halfNatLog_le_polylog
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:54.692902+00:00
 -- url     : https://prove2.me/theorems/351de685-a9b2-5af4-aa76-a505794eb6bd

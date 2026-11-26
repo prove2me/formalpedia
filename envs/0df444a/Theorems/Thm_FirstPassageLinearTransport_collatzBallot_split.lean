@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzBallot_split
 -- name    : FirstPassageLinearTransport.collatzBallot_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:29:52.189813+00:00
 -- url     : https://prove2.me/theorems/8024271f-b2ac-4038-810a-46b26e7534c5

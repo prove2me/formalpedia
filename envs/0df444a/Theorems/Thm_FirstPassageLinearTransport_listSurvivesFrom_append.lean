@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_listSurvivesFrom_append
 -- name    : FirstPassageLinearTransport.listSurvivesFrom_append
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:29:33.277733+00:00
 -- url     : https://prove2.me/theorems/39aaf992-3896-41d6-9d7b-1784cbfbd339

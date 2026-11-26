@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_card_shellInitialWindowBad_adjustable_le
 -- name    : FirstPassageLinearTransport.eventually_card_shellInitialWindowBad_adjustable_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:14:42.376069+00:00
 -- url     : https://prove2.me/theorems/e2367397-f6a3-470d-93f7-e5bf4eab8e5d

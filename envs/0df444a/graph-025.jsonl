@@ -43039,7 +43039,7 @@
 {"parent": "OAI.CubicEisenstein.exists_key_orbit_minimum", "child": "OAI.CubicEisenstein.hyperbolicFrobenius_continuous", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_mixed13_original_finite_activity_uniform_count_L2", "child": "AvramDividend.Classical.avram_p4_s3_original_marked_negative_subband_explicit_quadratic_budget", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_mixed13_original_finite_activity_uniform_count_L2", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "BipHamCount.Deterministic.theorem_1_1", "child": "BipHamCount_Deterministic_Programs", "via": ["statement"]}
+{"parent": "BipHamCount.Deterministic.theorem_1_1", "child": "BipHamCount_Deterministic_Programs", "via": ["solution", "statement"]}
 {"parent": "ProportionalTSP.Exact.lemma_2_5", "child": "ProportionalTSP_Exact_Symbolic", "via": ["statement"]}
 {"parent": "OnlineThreeColorBounds.LowerBound.fold_simulation", "child": "OnlineThreeColorBounds_LowerBound_Construction", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm24_0_0_7.contains_g", "child": "OAIQ098G1044", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_cylinderPartialExp_oneCoord
 -- name    : Malliavin.cylinderPartialExp_oneCoord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:26:05.570352+00:00
 -- url     : https://prove2.me/theorems/5dcaff0f-4d07-47a5-a614-25b9a4d19c4e

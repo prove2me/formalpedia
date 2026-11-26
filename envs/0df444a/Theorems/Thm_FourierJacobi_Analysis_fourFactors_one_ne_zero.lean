@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_fourFactors_one_ne_zero
 -- name    : FourierJacobi.Analysis.fourFactors_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:24.226676+00:00
 -- url     : https://prove2.me/theorems/3934f383-7aea-5fd1-bc4b-a17007796fe3

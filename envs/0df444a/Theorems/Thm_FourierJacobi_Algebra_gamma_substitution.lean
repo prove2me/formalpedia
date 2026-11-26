@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_gamma_substitution
 -- name    : FourierJacobi.Algebra.gamma_substitution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:47.273733+00:00
 -- url     : https://prove2.me/theorems/f9002de6-0846-5bd6-9c57-4af9f5795c16

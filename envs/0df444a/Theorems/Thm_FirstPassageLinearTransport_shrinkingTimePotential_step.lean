@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shrinkingTimePotential_step
 -- name    : FirstPassageLinearTransport.shrinkingTimePotential_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:33.539802+00:00
 -- url     : https://prove2.me/theorems/76ddec62-2f63-567a-a355-30b32ae04809

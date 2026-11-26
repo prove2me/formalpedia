@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_normalized_binomialLogWeight_eq_binaryBarrierRate
 -- name    : FirstPassageLinearTransport.normalized_binomialLogWeight_eq_binaryBarrierRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:20:49.200794+00:00
 -- url     : https://prove2.me/theorems/4d2fd6b1-0674-49ef-a273-1113abeb1fd4

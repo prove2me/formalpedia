@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_localField_coordinates_determinant_ae
 -- name    : FourierJacobi.Measure.localField_coordinates_determinant_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:59:35.747257+00:00
 -- url     : https://prove2.me/theorems/196df854-fab3-49ff-bbb3-22a59e739c3a

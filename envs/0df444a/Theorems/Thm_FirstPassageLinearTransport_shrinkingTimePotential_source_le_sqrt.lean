@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shrinkingTimePotential_source_le_sqrt
 -- name    : FirstPassageLinearTransport.shrinkingTimePotential_source_le_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:01.362915+00:00
 -- url     : https://prove2.me/theorems/c446a81f-dcfe-4900-a35b-d60ce4a95f3e

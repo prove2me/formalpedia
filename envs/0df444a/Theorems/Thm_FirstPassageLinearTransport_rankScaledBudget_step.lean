@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rankScaledBudget_step
 -- name    : FirstPassageLinearTransport.rankScaledBudget_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:15:42.112347+00:00
 -- url     : https://prove2.me/theorems/2f7d15d7-56b7-5ac6-b090-f04ff97e7408

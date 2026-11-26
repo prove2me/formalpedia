@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_determinant_zero_null
 -- name    : FourierJacobi.Measure.determinant_zero_null
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:44.602246+00:00
 -- url     : https://prove2.me/theorems/45b5c469-5a61-442d-8de5-12da8420f1b3

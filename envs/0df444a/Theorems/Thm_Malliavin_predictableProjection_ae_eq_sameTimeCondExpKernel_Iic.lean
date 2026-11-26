@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_predictableProjection_ae_eq_sameTimeCondExpKernel_Iic
 -- name    : Malliavin.predictableProjection_ae_eq_sameTimeCondExpKernel_Iic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:25:01.430721+00:00
 -- url     : https://prove2.me/theorems/cb3d56b1-ba19-41e5-a9f4-348e7540e250

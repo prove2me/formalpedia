@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_transportedBad_le_paid
 -- name    : FirstPassageLinearTransport.transportedBad_le_paid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:09:30.308707+00:00
 -- url     : https://prove2.me/theorems/a6bd9c42-7d21-56c5-a913-ca2bcb655544

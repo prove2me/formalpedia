@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_summable_norm_i2_case6bb
 -- name    : FourierJacobi.Analysis.summable_norm_i2_case6bb
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:13:47.054686+00:00
 -- url     : https://prove2.me/theorems/72ff2df3-eabd-55e1-babb-9b9e44b83351

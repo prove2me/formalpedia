@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_intertwiner_entry_derivative
 -- name    : FourierJacobi.Analysis.intertwiner_entry_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:00.745082+00:00
 -- url     : https://prove2.me/theorems/3c56ea83-b09b-4c63-961a-011eff25cd1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_three_rpow_adjustableBarrierHeight_sq
 -- name    : FirstPassageLinearTransport.three_rpow_adjustableBarrierHeight_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:13:00.69894+00:00
 -- url     : https://prove2.me/theorems/c58dddf3-af6c-46c9-8f96-fc61bc072ec7

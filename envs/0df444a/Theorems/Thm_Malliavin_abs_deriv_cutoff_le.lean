@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_abs_deriv_cutoff_le
 -- name    : Malliavin.abs_deriv_cutoff_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:15:38.205374+00:00
 -- url     : https://prove2.me/theorems/039e74cd-10b4-4711-ad7d-63a4e11733ae

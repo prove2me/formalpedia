@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rankWeight_div
 -- name    : FirstPassageLinearTransport.rankWeight_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:16:00.640348+00:00
 -- url     : https://prove2.me/theorems/81f5f133-4ce8-4eba-8fad-beaacfd99d81

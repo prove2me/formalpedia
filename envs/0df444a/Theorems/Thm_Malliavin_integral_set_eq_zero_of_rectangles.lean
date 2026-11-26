@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_integral_set_eq_zero_of_rectangles
 -- name    : Malliavin.integral_set_eq_zero_of_rectangles
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:17:43.229668+00:00
 -- url     : https://prove2.me/theorems/ff304be0-4ead-5750-8bd9-4c08edfc2a95

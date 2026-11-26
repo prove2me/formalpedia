@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_paperD1_ne_zero_of_norm_le_one
 -- name    : FourierJacobi.Analysis.paperD1_ne_zero_of_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:26:39.825915+00:00
 -- url     : https://prove2.me/theorems/8341ad3f-f57f-463a-a963-68e340296e0a

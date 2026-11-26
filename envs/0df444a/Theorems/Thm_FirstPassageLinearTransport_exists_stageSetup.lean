@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exists_stageSetup
 -- name    : FirstPassageLinearTransport.exists_stageSetup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:14:57.585801+00:00
 -- url     : https://prove2.me/theorems/08d67d87-0418-4075-9ce0-0a719fcefde0

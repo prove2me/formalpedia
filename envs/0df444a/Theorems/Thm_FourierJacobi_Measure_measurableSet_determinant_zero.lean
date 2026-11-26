@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_measurableSet_determinant_zero
 -- name    : FourierJacobi.Measure.measurableSet_determinant_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:41.119455+00:00
 -- url     : https://prove2.me/theorems/af889682-9591-5fa9-831c-f8ee75d05cef

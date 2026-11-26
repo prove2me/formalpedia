@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_summable_norm_i2_spatial
 -- name    : FourierJacobi.Analysis.summable_norm_i2_spatial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:17:13.75737+00:00
 -- url     : https://prove2.me/theorems/d356c2ed-7c29-43a1-8962-4624cfb5db8f

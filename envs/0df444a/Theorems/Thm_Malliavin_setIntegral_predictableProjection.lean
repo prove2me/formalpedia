@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_setIntegral_predictableProjection
 -- name    : Malliavin.setIntegral_predictableProjection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:26:25.760903+00:00
 -- url     : https://prove2.me/theorems/fdc22e84-32c0-5047-bd53-c5c22ddbf155

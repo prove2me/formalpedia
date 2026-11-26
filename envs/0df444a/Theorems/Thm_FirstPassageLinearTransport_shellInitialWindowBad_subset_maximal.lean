@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shellInitialWindowBad_subset_maximal
 -- name    : FirstPassageLinearTransport.shellInitialWindowBad_subset_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:06:52.825987+00:00
 -- url     : https://prove2.me/theorems/d97327c9-6c10-4b75-8551-daf0fc27fcdb

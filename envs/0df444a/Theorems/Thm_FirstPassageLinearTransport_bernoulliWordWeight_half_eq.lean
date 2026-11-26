@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_bernoulliWordWeight_half_eq
 -- name    : FirstPassageLinearTransport.bernoulliWordWeight_half_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:30:04.010217+00:00
 -- url     : https://prove2.me/theorems/f3f9e3a8-5e66-463e-b874-932fd052cdef

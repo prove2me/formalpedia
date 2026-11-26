@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shrinkingTimeSupportConstant_pos
 -- name    : FirstPassageLinearTransport.shrinkingTimeSupportConstant_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:43.058506+00:00
 -- url     : https://prove2.me/theorems/76273150-5655-5e51-a49c-0060828767ba

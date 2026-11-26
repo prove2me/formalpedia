@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_badCount_assembleDyadic_le_polylog_profile
 -- name    : FirstPassageLinearTransport.badCount_assembleDyadic_le_polylog_profile
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:45.239858+00:00
 -- url     : https://prove2.me/theorems/e0c5a020-f687-4849-b957-0eb133047105

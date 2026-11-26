@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_comp_brownian_mem_domD12
 -- name    : Malliavin.comp_brownian_mem_domD12
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:14:56.107631+00:00
 -- url     : https://prove2.me/theorems/5149cbdc-9fb6-5ecd-a722-f6722a65447d

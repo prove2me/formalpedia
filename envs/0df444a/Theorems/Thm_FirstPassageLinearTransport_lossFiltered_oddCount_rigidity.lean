@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_lossFiltered_oddCount_rigidity
 -- name    : FirstPassageLinearTransport.lossFiltered_oddCount_rigidity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:10:46.8416+00:00
 -- url     : https://prove2.me/theorems/0dd4b9ab-81bb-4c15-b6c7-3596e4a729aa

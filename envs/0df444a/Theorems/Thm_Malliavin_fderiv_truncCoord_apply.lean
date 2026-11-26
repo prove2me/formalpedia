@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_fderiv_truncCoord_apply
 -- name    : Malliavin.fderiv_truncCoord_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:26:40.329167+00:00
 -- url     : https://prove2.me/theorems/ee720ccf-c449-48fa-89ac-b7f495f6aed1

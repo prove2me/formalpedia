@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_dense_elementaryPredictableSpan
 -- name    : Malliavin.dense_elementaryPredictableSpan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:13:51.98705+00:00
 -- url     : https://prove2.me/theorems/2a9fb431-9277-52c4-a983-936388ec4f23

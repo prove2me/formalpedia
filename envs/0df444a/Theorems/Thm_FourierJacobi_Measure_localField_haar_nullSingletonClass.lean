@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_localField_haar_nullSingletonClass
 -- name    : FourierJacobi.Measure.localField_haar_nullSingletonClass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:49:23.053651+00:00
 -- url     : https://prove2.me/theorems/b562bb29-4f95-5784-811c-7cb4f26a2ae3

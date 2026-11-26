@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_inner_partitionElementaryBrownianValue
 -- name    : Malliavin.inner_partitionElementaryBrownianValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:22:00.637067+00:00
 -- url     : https://prove2.me/theorems/3086e4d2-5ceb-58e3-9670-e14369e99285

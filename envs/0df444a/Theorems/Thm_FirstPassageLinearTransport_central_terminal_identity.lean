@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_central_terminal_identity
 -- name    : FirstPassageLinearTransport.central_terminal_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:09:44.100184+00:00
 -- url     : https://prove2.me/theorems/d6c4f07b-62cd-4877-a68c-fa64691d8dda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_abs_deriv_sin_le_exp_abs
 -- name    : Malliavin.abs_deriv_sin_le_exp_abs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:25:46.44391+00:00
 -- url     : https://prove2.me/theorems/6c2f9eea-0c7b-4b54-a554-61781dbc2454

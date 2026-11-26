@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_continuousAt_dampedRational
 -- name    : FourierJacobi.Analysis.continuousAt_dampedRational
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:17.875797+00:00
 -- url     : https://prove2.me/theorems/0479f709-2391-4ed5-b73b-56198c910634

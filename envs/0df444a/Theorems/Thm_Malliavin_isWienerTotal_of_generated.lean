@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_isWienerTotal_of_generated
 -- name    : Malliavin.isWienerTotal_of_generated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:59.872838+00:00
 -- url     : https://prove2.me/theorems/2bf0bee9-50ee-4061-8704-df9dfc0dcaed

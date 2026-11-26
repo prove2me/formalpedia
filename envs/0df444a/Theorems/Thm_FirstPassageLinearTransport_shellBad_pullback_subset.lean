@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shellBad_pullback_subset
 -- name    : FirstPassageLinearTransport.shellBad_pullback_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:09:00.241911+00:00
 -- url     : https://prove2.me/theorems/a485ac36-26f6-52c3-a5ae-79d4cc579d66

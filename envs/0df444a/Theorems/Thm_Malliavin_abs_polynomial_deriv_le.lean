@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_abs_polynomial_deriv_le
 -- name    : Malliavin.abs_polynomial_deriv_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:25:23.855732+00:00
 -- url     : https://prove2.me/theorems/3ac51e34-4c45-4103-82ae-e8cfa0e07a34

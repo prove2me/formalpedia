@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzTiltLambda_pos
 -- name    : FirstPassageLinearTransport.collatzTiltLambda_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:30:05.511146+00:00
 -- url     : https://prove2.me/theorems/eeb1af38-fea3-4620-8749-69472cdd662a

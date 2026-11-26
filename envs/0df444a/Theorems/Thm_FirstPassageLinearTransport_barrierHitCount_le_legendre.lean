@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_barrierHitCount_le_legendre
 -- name    : FirstPassageLinearTransport.barrierHitCount_le_legendre
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:11:52.76727+00:00
 -- url     : https://prove2.me/theorems/5230a20f-8825-530b-b48a-1267c34bf2f6

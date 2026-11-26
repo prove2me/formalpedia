@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_isWienerTotal_of_processLpEmbedding
 -- name    : Malliavin.isWienerTotal_of_processLpEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:09:18.268795+00:00
 -- url     : https://prove2.me/theorems/41d4669f-a85c-4dd4-9556-63b555bcd48f

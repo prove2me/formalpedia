@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_centralOrbitScale_eq_rho_pow
 -- name    : FirstPassageLinearTransport.centralOrbitScale_eq_rho_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:23:00.679881+00:00
 -- url     : https://prove2.me/theorems/566ef2d0-9fe1-405c-a295-3811a03a5a5f

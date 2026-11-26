@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_lossFilteredTaggedFiber_bound
 -- name    : FirstPassageLinearTransport.lossFilteredTaggedFiber_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:01:55.929679+00:00
 -- url     : https://prove2.me/theorems/20d1472a-78dc-5d1c-91ca-66ad73f0db9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_paperD2_ne_zero_interior
 -- name    : FourierJacobi.Analysis.paperD2_ne_zero_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:23.741018+00:00
 -- url     : https://prove2.me/theorems/e58c7681-28e4-4ef9-a049-b9d3f2bcf200

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_horizon_small
 -- name    : FirstPassageLinearTransport.eventually_horizon_small
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:10:44.121217+00:00
 -- url     : https://prove2.me/theorems/131c0258-8f81-45ba-86b1-721fb4412d30

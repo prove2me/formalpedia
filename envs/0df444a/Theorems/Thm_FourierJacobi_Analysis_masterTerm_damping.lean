@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_masterTerm_damping
 -- name    : FourierJacobi.Analysis.masterTerm_damping
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:59:21.536107+00:00
 -- url     : https://prove2.me/theorems/954bf31c-f117-4324-92c0-26a935ac3ee8

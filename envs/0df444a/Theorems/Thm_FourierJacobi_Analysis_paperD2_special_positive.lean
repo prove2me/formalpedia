@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_paperD2_special_positive
 -- name    : FourierJacobi.Analysis.paperD2_special_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:28.674188+00:00
 -- url     : https://prove2.me/theorems/129469cc-2e9a-40c3-a771-3389f3c20674

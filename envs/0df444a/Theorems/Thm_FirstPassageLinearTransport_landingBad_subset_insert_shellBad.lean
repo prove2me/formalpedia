@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_landingBad_subset_insert_shellBad
 -- name    : FirstPassageLinearTransport.landingBad_subset_insert_shellBad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:15:50.331153+00:00
 -- url     : https://prove2.me/theorems/0a66e06c-e281-4cd0-8feb-1dc59ba53beb

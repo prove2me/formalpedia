@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_binomialUpperTail_eq_choose_add
 -- name    : FirstPassageLinearTransport.binomialUpperTail_eq_choose_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:20:34.878513+00:00
 -- url     : https://prove2.me/theorems/7a9c8272-3b9a-4165-9ec8-bd340061bc26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_oddCount_add
 -- name    : FirstPassageLinearTransport.oddCount_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:25:56.591792+00:00
 -- url     : https://prove2.me/theorems/886b8dd4-0b0a-5115-b0b7-4f6289915414

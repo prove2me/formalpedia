@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_certified_landing_mem_lower_shell
 -- name    : FirstPassageLinearTransport.certified_landing_mem_lower_shell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:11:42.355851+00:00
 -- url     : https://prove2.me/theorems/7512c028-9e14-55c4-bdcf-7bc02394644a

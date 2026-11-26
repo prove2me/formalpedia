@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_shellMaximalParityBad_le_concrete
 -- name    : FirstPassageLinearTransport.card_shellMaximalParityBad_le_concrete
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:06:32.414409+00:00
 -- url     : https://prove2.me/theorems/ad70b843-f78a-4e5e-bc7c-c6bce0f08e10

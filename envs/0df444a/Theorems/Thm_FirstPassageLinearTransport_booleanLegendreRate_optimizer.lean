@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_booleanLegendreRate_optimizer
 -- name    : FirstPassageLinearTransport.booleanLegendreRate_optimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:12:37.482797+00:00
 -- url     : https://prove2.me/theorems/2253282b-0c6f-4630-b085-5bc0280e1e9c

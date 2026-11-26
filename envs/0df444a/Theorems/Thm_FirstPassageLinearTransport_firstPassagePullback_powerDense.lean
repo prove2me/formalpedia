@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_firstPassagePullback_powerDense
 -- name    : FirstPassageLinearTransport.firstPassagePullback_powerDense
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:09:40.533831+00:00
 -- url     : https://prove2.me/theorems/2189bdea-b91b-435b-ba0c-fdc519631ead

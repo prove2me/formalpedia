@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_lossFiltered_arbitraryTarget_transport_atTimes
 -- name    : FirstPassageLinearTransport.lossFiltered_arbitraryTarget_transport_atTimes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:10:58.527157+00:00
 -- url     : https://prove2.me/theorems/10c9e6ee-a3c3-5e6d-a1ee-92549cfe43d2

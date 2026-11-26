@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_expGrowth_truncCoord_le
 -- name    : Malliavin.expGrowth_truncCoord_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:16:29.864734+00:00
 -- url     : https://prove2.me/theorems/772cb9a0-7b48-5888-bcc7-7bb9888d9cbd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_shellInitialWindowBad_le_quadratic
 -- name    : FirstPassageLinearTransport.card_shellInitialWindowBad_le_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:09.810684+00:00
 -- url     : https://prove2.me/theorems/6a4908e4-2d3e-572b-9611-552106d61340

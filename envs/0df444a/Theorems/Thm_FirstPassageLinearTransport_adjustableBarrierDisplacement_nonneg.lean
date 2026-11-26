@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_adjustableBarrierDisplacement_nonneg
 -- name    : FirstPassageLinearTransport.adjustableBarrierDisplacement_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:13:50.180852+00:00
 -- url     : https://prove2.me/theorems/10ac9043-28ce-4b48-80ba-b4cdc807e225

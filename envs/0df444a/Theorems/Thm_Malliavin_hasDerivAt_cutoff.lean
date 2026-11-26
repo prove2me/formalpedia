@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_hasDerivAt_cutoff
 -- name    : Malliavin.hasDerivAt_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:24:45.314378+00:00
 -- url     : https://prove2.me/theorems/631930f2-21bb-4206-880c-610359c3d9d9

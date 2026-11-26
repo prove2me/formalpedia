@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_adjustableBarrier_phase_two
 -- name    : FirstPassageLinearTransport.adjustableBarrier_phase_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:13:20.897539+00:00
 -- url     : https://prove2.me/theorems/d4e6a683-365d-4c48-9bf0-26fbee7ea12d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_durationError_shrinkingHigh_le
 -- name    : FirstPassageLinearTransport.durationError_shrinkingHigh_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:18.827037+00:00
 -- url     : https://prove2.me/theorems/4a16fa75-2d2e-4e4e-b6fc-59f90f200854

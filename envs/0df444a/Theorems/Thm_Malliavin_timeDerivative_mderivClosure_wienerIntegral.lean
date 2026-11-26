@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_timeDerivative_mderivClosure_wienerIntegral
 -- name    : Malliavin.timeDerivative_mderivClosure_wienerIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:13:44.33092+00:00
 -- url     : https://prove2.me/theorems/77eb90d1-4382-4512-b49b-94a6b8415fc8

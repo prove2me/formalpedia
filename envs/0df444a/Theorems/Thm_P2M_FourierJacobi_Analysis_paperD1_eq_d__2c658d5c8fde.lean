@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FourierJacobi_Analysis_paperD1_eq_d__2c658d5c8fde
 -- name    : P2M_FourierJacobi_Analysis_paperD1_eq_d__2c658d5c8fde
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:16.380517+00:00
 -- url     : https://prove2.me/theorems/34a30a52-112a-4477-a41d-f59c28bb42ee

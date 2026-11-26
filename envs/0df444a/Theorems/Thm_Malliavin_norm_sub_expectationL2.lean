@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_norm_sub_expectationL2
 -- name    : Malliavin.norm_sub_expectationL2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:46.9256+00:00
 -- url     : https://prove2.me/theorems/c46f3454-b8e7-4aa1-b8f8-f792766ffba7

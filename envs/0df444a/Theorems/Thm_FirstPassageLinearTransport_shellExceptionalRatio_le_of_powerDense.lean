@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shellExceptionalRatio_le_of_powerDense
 -- name    : FirstPassageLinearTransport.shellExceptionalRatio_le_of_powerDense
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:22:43.161117+00:00
 -- url     : https://prove2.me/theorems/16601b50-c528-557b-87bb-7ba94031114b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_geometricRange_damped
 -- name    : FourierJacobi.Analysis.geometricRange_damped
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:23:33.314344+00:00
 -- url     : https://prove2.me/theorems/391d073d-8107-4175-931b-0bfdeedd83f4

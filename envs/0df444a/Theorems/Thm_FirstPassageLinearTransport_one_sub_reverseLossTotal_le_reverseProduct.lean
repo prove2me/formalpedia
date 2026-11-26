@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_one_sub_reverseLossTotal_le_reverseProduct
 -- name    : FirstPassageLinearTransport.one_sub_reverseLossTotal_le_reverseProduct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:10:40.340066+00:00
 -- url     : https://prove2.me/theorems/b3da0696-ba2f-5d87-9cf0-06f0557c64ef

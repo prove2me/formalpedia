@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_cylinder_expGrowth_brownian_mem_domD12
 -- name    : Malliavin.cylinder_expGrowth_brownian_mem_domD12
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:25:47.677845+00:00
 -- url     : https://prove2.me/theorems/123747c4-effe-4fd0-8d42-cc9978f24c7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_setIntegral_timeSection_sub_eq_zero
 -- name    : Malliavin.setIntegral_timeSection_sub_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:26:37.346052+00:00
 -- url     : https://prove2.me/theorems/792fd1a7-7061-4cec-ab4a-a1ff50a0784c

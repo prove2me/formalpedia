@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasDerivAt_inducingPower
 -- name    : FourierJacobi.Analysis.hasDerivAt_inducingPower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:52.678884+00:00
 -- url     : https://prove2.me/theorems/c23d7946-9f87-52ce-a892-07869e7a59cb

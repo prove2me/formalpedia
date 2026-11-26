@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i2_case8b_regionTerm
 -- name    : FourierJacobi.Analysis.hasSum_i2_case8b_regionTerm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:15:44.75323+00:00
 -- url     : https://prove2.me/theorems/d4aa62ad-1064-476c-bc33-c9ee36bad4c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_localField_punctured_nhds
 -- name    : FourierJacobi.Measure.localField_punctured_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:41.523792+00:00
 -- url     : https://prove2.me/theorems/37c33204-0050-4eec-a017-c392f5136e2d

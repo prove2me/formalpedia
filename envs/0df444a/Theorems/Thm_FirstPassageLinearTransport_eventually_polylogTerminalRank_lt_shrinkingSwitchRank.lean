@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_polylogTerminalRank_lt_shrinkingSwitchRank
 -- name    : FirstPassageLinearTransport.eventually_polylogTerminalRank_lt_shrinkingSwitchRank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:23.61188+00:00
 -- url     : https://prove2.me/theorems/cc08c7ca-2a2c-4dc5-9f5b-36f98f31d8eb

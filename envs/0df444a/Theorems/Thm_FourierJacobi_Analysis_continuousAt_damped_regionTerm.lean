@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_continuousAt_damped_regionTerm
 -- name    : FourierJacobi.Analysis.continuousAt_damped_regionTerm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:14.399573+00:00
 -- url     : https://prove2.me/theorems/67e37474-b5cd-462f-8e09-0d75e405bbe0

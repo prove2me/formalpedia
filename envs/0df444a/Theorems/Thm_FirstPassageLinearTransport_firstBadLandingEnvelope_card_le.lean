@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_firstBadLandingEnvelope_card_le
 -- name    : FirstPassageLinearTransport.firstBadLandingEnvelope_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:15:51.999605+00:00
 -- url     : https://prove2.me/theorems/3c00561f-1f7c-500c-ac15-c35541ffafea

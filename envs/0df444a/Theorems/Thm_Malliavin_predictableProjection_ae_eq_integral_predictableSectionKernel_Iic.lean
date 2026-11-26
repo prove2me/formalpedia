@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_predictableProjection_ae_eq_integral_predictableSectionKernel_Iic
 -- name    : Malliavin.predictableProjection_ae_eq_integral_predictableSectionKernel_Iic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:23:45.870837+00:00
 -- url     : https://prove2.me/theorems/ff1f2dd8-4341-4019-9da4-13ca26488164

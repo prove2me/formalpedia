@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Valuations_localFieldValuation_surjective
 -- name    : FourierJacobi.Valuations.localFieldValuation_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:36.721257+00:00
 -- url     : https://prove2.me/theorems/4453b5ac-933e-49f5-bb1a-1440341821f8

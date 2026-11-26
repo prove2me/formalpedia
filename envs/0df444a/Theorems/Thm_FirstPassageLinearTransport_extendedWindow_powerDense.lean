@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_extendedWindow_powerDense
 -- name    : FirstPassageLinearTransport.extendedWindow_powerDense
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:04:28.810187+00:00
 -- url     : https://prove2.me/theorems/d658f68a-7bca-4b6a-a8ab-37006ad869b4

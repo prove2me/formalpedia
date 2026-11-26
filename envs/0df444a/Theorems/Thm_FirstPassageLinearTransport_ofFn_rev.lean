@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_ofFn_rev
 -- name    : FirstPassageLinearTransport.ofFn_rev
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:29:29.577806+00:00
 -- url     : https://prove2.me/theorems/af0b49c9-f372-4526-86af-b51d46153757

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i2RowFamily_eq
 -- name    : FourierJacobi.Analysis.i2RowFamily_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:59:15.542495+00:00
 -- url     : https://prove2.me/theorems/85fc4b79-6685-5caa-9c00-537ad31316f5

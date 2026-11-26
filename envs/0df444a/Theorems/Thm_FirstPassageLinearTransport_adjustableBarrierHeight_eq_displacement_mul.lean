@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_adjustableBarrierHeight_eq_displacement_mul
 -- name    : FirstPassageLinearTransport.adjustableBarrierHeight_eq_displacement_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:13:47.611737+00:00
 -- url     : https://prove2.me/theorems/ce349b66-6b9e-44ef-9119-e020fd2871c5

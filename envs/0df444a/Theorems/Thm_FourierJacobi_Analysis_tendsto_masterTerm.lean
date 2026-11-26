@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_tendsto_masterTerm
 -- name    : FourierJacobi.Analysis.tendsto_masterTerm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:08.199808+00:00
 -- url     : https://prove2.me/theorems/60fa4b4c-7536-591c-8a11-09898bedc6c1

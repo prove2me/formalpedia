@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_offset_exp_Icc_le
 -- name    : FirstPassageLinearTransport.offset_exp_Icc_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:21:26.675841+00:00
 -- url     : https://prove2.me/theorems/3f6b9775-2198-4d3f-8a43-56e93717c58d

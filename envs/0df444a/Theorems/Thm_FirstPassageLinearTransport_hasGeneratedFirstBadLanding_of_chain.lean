@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_hasGeneratedFirstBadLanding_of_chain
 -- name    : FirstPassageLinearTransport.hasGeneratedFirstBadLanding_of_chain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:16:34.190583+00:00
 -- url     : https://prove2.me/theorems/7e17d935-97b3-48e6-b7f3-c975928de6e0

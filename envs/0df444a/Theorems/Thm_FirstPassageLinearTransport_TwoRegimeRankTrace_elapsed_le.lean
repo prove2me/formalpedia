@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_TwoRegimeRankTrace_elapsed_le
 -- name    : FirstPassageLinearTransport.TwoRegimeRankTrace.elapsed_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:17:18.183935+00:00
 -- url     : https://prove2.me/theorems/6aecb74c-8fe9-4d41-bcce-7fe802e47bc7

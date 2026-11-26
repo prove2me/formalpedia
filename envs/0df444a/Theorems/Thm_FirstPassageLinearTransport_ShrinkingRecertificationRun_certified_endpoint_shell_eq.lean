@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_ShrinkingRecertificationRun_certified_endpoint_shell_eq
 -- name    : FirstPassageLinearTransport.ShrinkingRecertificationRun.certified_endpoint_shell_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:11:32.095116+00:00
 -- url     : https://prove2.me/theorems/d968381d-3e9d-5866-984d-0995f2bc4df8

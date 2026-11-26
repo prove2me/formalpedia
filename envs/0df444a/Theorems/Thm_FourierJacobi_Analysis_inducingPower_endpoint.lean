@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_inducingPower_endpoint
 -- name    : FourierJacobi.Analysis.inducingPower_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:53.555102+00:00
 -- url     : https://prove2.me/theorems/be1963f8-1276-4f10-aeeb-7c2ae20219e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_CertifiedRankChain_scaledReverseLoss_le
 -- name    : FirstPassageLinearTransport.CertifiedRankChain.scaledReverseLoss_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:12:19.165075+00:00
 -- url     : https://prove2.me/theorems/ac1fc324-2cf0-520a-9075-efbad347afee

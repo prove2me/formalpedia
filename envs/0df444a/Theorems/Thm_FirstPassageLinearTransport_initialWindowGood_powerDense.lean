@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_initialWindowGood_powerDense
 -- name    : FirstPassageLinearTransport.initialWindowGood_powerDense
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:13.169798+00:00
 -- url     : https://prove2.me/theorems/970ab26a-73ee-5c8a-9131-28ac58a1a8e3

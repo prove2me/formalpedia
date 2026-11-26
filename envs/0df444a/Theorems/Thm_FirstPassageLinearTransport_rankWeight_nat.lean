@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rankWeight_nat
 -- name    : FirstPassageLinearTransport.rankWeight_nat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:15:44.268656+00:00
 -- url     : https://prove2.me/theorems/9e5a0d8f-a991-421d-a3f2-63c29bf2cc2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_twoRegimeClockPotential_nonneg
 -- name    : FirstPassageLinearTransport.twoRegimeClockPotential_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:17:07.84768+00:00
 -- url     : https://prove2.me/theorems/41c46165-429b-4c56-a8cb-6402efe5f37e

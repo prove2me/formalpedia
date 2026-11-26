@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i2DepthMass_ne
 -- name    : FourierJacobi.Analysis.i2DepthMass_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:17:20.938795+00:00
 -- url     : https://prove2.me/theorems/26ef4947-ab58-47d3-be4f-719bf9258589

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_shellHeight_eq
 -- name    : FourierJacobi.Analysis.shellHeight_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:06.099947+00:00
 -- url     : https://prove2.me/theorems/8534ece9-701e-450b-9c09-d81f3027b0b4

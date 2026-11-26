@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_orbit_envelope_of_regularBarrier
 -- name    : FirstPassageLinearTransport.orbit_envelope_of_regularBarrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:12:55.572832+00:00
 -- url     : https://prove2.me/theorems/65ebbded-0e61-5c7f-b144-d9209e447ac4

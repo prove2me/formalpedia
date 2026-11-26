@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shellInitialWindowBad_subset_adjustable
 -- name    : FirstPassageLinearTransport.shellInitialWindowBad_subset_adjustable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:14:22.638507+00:00
 -- url     : https://prove2.me/theorems/fd99da75-efcb-4a7b-a679-de0835434631

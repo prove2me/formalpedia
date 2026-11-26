@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_inner_elementaryBrownianValue_eq_inner_elementaryPredictable_of_le
 -- name    : Malliavin.inner_elementaryBrownianValue_eq_inner_elementaryPredictable_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:23.426913+00:00
 -- url     : https://prove2.me/theorems/ee03dd91-ee82-44a2-bbaf-976140520f64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shrinkingSwitchRank_pos
 -- name    : FirstPassageLinearTransport.shrinkingSwitchRank_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:41.763475+00:00
 -- url     : https://prove2.me/theorems/ab07fd8d-f810-5989-9950-10dec276ee62

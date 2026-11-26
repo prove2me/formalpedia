@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exp_booleanOptimizer
 -- name    : FirstPassageLinearTransport.exp_booleanOptimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:12:04.375337+00:00
 -- url     : https://prove2.me/theorems/a68abbac-d7be-54ad-a386-6a11291f353d

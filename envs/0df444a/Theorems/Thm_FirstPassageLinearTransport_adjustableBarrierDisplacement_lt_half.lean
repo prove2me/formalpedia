@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_adjustableBarrierDisplacement_lt_half
 -- name    : FirstPassageLinearTransport.adjustableBarrierDisplacement_lt_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:14:20.899885+00:00
 -- url     : https://prove2.me/theorems/dfbd749d-6e2b-45f9-a6ae-1513e636aea5

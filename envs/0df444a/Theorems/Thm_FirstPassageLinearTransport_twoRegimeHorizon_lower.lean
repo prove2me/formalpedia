@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_twoRegimeHorizon_lower
 -- name    : FirstPassageLinearTransport.twoRegimeHorizon_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:17:21.246846+00:00
 -- url     : https://prove2.me/theorems/04802470-3baa-5e3b-9487-c93b866f1d8a

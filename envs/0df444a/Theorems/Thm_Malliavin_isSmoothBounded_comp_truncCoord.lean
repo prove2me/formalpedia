@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_isSmoothBounded_comp_truncCoord
 -- name    : Malliavin.isSmoothBounded_comp_truncCoord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:24:59.065837+00:00
 -- url     : https://prove2.me/theorems/c4ea54ec-4697-5b4a-9029-5e6de14610b4

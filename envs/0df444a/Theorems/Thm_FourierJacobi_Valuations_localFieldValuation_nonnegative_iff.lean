@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Valuations_localFieldValuation_nonnegative_iff
 -- name    : FourierJacobi.Valuations.localFieldValuation_nonnegative_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:49:09.976641+00:00
 -- url     : https://prove2.me/theorems/c9b7a6a5-2866-4848-b800-4d4cce6e9b39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_paper_denominator_special_positive_ne_zero
 -- name    : FourierJacobi.Analysis.paper_denominator_special_positive_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:33.475799+00:00
 -- url     : https://prove2.me/theorems/9b08de1e-9dad-5beb-a158-6aab3975ba6b

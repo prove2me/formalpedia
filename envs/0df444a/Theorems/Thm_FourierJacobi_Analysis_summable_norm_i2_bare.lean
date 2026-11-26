@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_summable_norm_i2_bare
 -- name    : FourierJacobi.Analysis.summable_norm_i2_bare
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:17:59.531591+00:00
 -- url     : https://prove2.me/theorems/5df76eea-8711-5331-b788-5206c8558bb1

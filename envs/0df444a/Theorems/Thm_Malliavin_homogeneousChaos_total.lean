@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_homogeneousChaos_total
 -- name    : Malliavin.homogeneousChaos_total
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:10:07.927258+00:00
 -- url     : https://prove2.me/theorems/16f9f9b5-d660-4cbb-941c-bee8798294af

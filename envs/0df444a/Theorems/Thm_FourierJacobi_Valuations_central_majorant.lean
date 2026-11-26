@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Valuations_central_majorant
 -- name    : FourierJacobi.Valuations.central_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:20:32.227585+00:00
 -- url     : https://prove2.me/theorems/16b11491-eb59-4308-9018-b010d97ef7a0

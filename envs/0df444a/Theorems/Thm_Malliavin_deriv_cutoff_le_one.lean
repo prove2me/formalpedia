@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_deriv_cutoff_le_one
 -- name    : Malliavin.deriv_cutoff_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:23.847934+00:00
 -- url     : https://prove2.me/theorems/cfb5dde8-afb4-511e-b57a-a4afb21f2654

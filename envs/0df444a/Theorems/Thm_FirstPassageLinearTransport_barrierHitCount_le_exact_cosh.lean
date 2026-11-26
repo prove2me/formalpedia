@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_barrierHitCount_le_exact_cosh
 -- name    : FirstPassageLinearTransport.barrierHitCount_le_exact_cosh
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:11:44.540168+00:00
 -- url     : https://prove2.me/theorems/e562b367-ed7a-5a17-b519-70d95224cb5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_tendsto_deriv_cutoff
 -- name    : Malliavin.tendsto_deriv_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:40.090324+00:00
 -- url     : https://prove2.me/theorems/24d926d5-6691-5b90-9549-1b381b781a33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_barrierHitCount_le_binaryEntropy
 -- name    : FirstPassageLinearTransport.barrierHitCount_le_binaryEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:12:42.681802+00:00
 -- url     : https://prove2.me/theorems/f28bf744-5cae-5a30-b5d2-390b96a0b722

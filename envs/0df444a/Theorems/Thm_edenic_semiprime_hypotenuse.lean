@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_edenic_semiprime_hypotenuse
 -- name    : edenic_semiprime_hypotenuse
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-26T11:30:03.234653+00:00
 -- url     : https://prove2.me/theorems/3e14c885-763a-4fd9-beb3-9b5d28fd322f

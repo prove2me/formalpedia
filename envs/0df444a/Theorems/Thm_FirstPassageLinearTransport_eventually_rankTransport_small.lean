@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_rankTransport_small
 -- name    : FirstPassageLinearTransport.eventually_rankTransport_small
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:24:54.158126+00:00
 -- url     : https://prove2.me/theorems/803da4ea-c12f-5bb5-96cd-74bd44e7de9c

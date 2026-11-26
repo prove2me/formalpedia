@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_orbit_two_pow
 -- name    : FirstPassageLinearTransport.orbit_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:11:02.922294+00:00
 -- url     : https://prove2.me/theorems/63360467-8174-5309-be82-92b8a0c7ce89

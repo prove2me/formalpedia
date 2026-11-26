@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i2_cartan_depth_constant
 -- name    : FourierJacobi.Analysis.i2_cartan_depth_constant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:16:55.670277+00:00
 -- url     : https://prove2.me/theorems/dab625f9-a0d5-401d-ab12-fa0f091006ae

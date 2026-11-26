@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stirlingCore_eq_sqrt_mul_exp
 -- name    : FirstPassageLinearTransport.stirlingCore_eq_sqrt_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:20:30.929186+00:00
 -- url     : https://prove2.me/theorems/616ce082-93d7-4188-8177-6e7429544840

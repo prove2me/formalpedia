@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_twoRegimeClockPotential_step
 -- name    : FirstPassageLinearTransport.twoRegimeClockPotential_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:17:39.406459+00:00
 -- url     : https://prove2.me/theorems/7e917ad7-5b17-4f99-9cf6-15e975036b55

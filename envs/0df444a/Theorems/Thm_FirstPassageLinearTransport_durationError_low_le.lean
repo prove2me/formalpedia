@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_durationError_low_le
 -- name    : FirstPassageLinearTransport.durationError_low_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:35.129339+00:00
 -- url     : https://prove2.me/theorems/f6a9fe17-d2f3-4e4c-b326-c4ec32abbbd1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_constOfDual_eq_smulLp
 -- name    : Malliavin.constOfDual_eq_smulLp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:24:27.170847+00:00
 -- url     : https://prove2.me/theorems/33f33252-051a-481f-87c7-965bc8d600ce

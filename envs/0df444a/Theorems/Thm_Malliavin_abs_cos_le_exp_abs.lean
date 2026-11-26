@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_abs_cos_le_exp_abs
 -- name    : Malliavin.abs_cos_le_exp_abs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:25:29.224815+00:00
 -- url     : https://prove2.me/theorems/babc368a-e977-5502-91ff-ec0db7d304f6

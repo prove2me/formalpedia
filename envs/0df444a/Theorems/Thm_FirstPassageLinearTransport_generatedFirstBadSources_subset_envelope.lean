@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_generatedFirstBadSources_subset_envelope
 -- name    : FirstPassageLinearTransport.generatedFirstBadSources_subset_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:15:56.940525+00:00
 -- url     : https://prove2.me/theorems/b4062e61-680c-519b-b0b5-e0f3f0ad4745

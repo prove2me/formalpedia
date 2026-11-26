@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_QuantitativeDensity_stretchedDyadicRate_pos
 -- name    : FirstPassageLinearTransport.QuantitativeDensity.stretchedDyadicRate_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:30:00.795145+00:00
 -- url     : https://prove2.me/theorems/6f6c4b4a-4b13-4d6b-a0ed-580242eab2ac

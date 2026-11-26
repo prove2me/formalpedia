@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_one_sub_div_le_reverseProduct_of_scaledLoss
 -- name    : FirstPassageLinearTransport.one_sub_div_le_reverseProduct_of_scaledLoss
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:01:50.957158+00:00
 -- url     : https://prove2.me/theorems/387bc8a9-543e-5645-b0b4-c1144111b598

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_sub_expectationL2_eq_clarkOconeIntegral
 -- name    : Malliavin.sub_expectationL2_eq_clarkOconeIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:21:10.140399+00:00
 -- url     : https://prove2.me/theorems/c9c66b1a-839c-4533-8cfd-27f125503af9

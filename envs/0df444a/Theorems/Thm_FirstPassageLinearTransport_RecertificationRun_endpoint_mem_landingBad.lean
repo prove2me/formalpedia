@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_RecertificationRun_endpoint_mem_landingBad
 -- name    : FirstPassageLinearTransport.RecertificationRun.endpoint_mem_landingBad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:16:17.64542+00:00
 -- url     : https://prove2.me/theorems/c601c44a-de03-54c6-a66d-4dc0d879a86b

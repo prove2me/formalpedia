@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_masterTerm_norm_le_undamped
 -- name    : FourierJacobi.Analysis.masterTerm_norm_le_undamped
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:08.482124+00:00
 -- url     : https://prove2.me/theorems/5c346de7-0645-595f-8058-1ee832e4bf6f

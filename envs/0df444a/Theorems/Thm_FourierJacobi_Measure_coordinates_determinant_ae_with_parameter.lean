@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Measure_coordinates_determinant_ae_with_parameter
 -- name    : FourierJacobi.Measure.coordinates_determinant_ae_with_parameter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:54.386825+00:00
 -- url     : https://prove2.me/theorems/71a718bf-c308-4ab5-90db-ea0682c7cae8

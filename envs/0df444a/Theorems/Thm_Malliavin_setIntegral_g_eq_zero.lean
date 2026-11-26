@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_setIntegral_g_eq_zero
 -- name    : Malliavin.setIntegral_g_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:26:25.513443+00:00
 -- url     : https://prove2.me/theorems/0ae9f7ab-188f-5bc7-9c0e-de020f3cdede

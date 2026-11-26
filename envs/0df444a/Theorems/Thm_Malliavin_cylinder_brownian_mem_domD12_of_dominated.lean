@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_cylinder_brownian_mem_domD12_of_dominated
 -- name    : Malliavin.cylinder_brownian_mem_domD12_of_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:17:05.038809+00:00
 -- url     : https://prove2.me/theorems/82225fec-0d43-4fde-bc77-429ff355f4d3

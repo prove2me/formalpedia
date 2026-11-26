@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ae_eq_zero_of_orthogonal_elementaryPredictable
 -- name    : Malliavin.ae_eq_zero_of_orthogonal_elementaryPredictable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:24:16.99006+00:00
 -- url     : https://prove2.me/theorems/3dabdb1c-afe5-44be-83ad-85ae97a5e27f

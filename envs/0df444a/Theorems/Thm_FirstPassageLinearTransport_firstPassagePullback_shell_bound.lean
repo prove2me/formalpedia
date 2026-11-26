@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_firstPassagePullback_shell_bound
 -- name    : FirstPassageLinearTransport.firstPassagePullback_shell_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:09:34.264376+00:00
 -- url     : https://prove2.me/theorems/e2a45e3b-0931-5ac8-8e6c-db8871186a56

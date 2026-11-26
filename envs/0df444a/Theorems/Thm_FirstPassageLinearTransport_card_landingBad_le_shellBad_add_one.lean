@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_landingBad_le_shellBad_add_one
 -- name    : FirstPassageLinearTransport.card_landingBad_le_shellBad_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:13:58.785214+00:00
 -- url     : https://prove2.me/theorems/fb84dba6-88d8-5f21-bb59-6ec4ce8a17a1

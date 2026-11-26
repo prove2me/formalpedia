@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_constLp_eq_smulLp
 -- name    : Malliavin.constLp_eq_smulLp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:24:32.724379+00:00
 -- url     : https://prove2.me/theorems/e957e8bf-54b4-40ff-a915-94135458f2de

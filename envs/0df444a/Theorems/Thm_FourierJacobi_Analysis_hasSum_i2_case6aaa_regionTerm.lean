@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i2_case6aaa_regionTerm
 -- name    : FourierJacobi.Analysis.hasSum_i2_case6aaa_regionTerm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:13:26.36942+00:00
 -- url     : https://prove2.me/theorems/d76dcc05-f1ab-5aea-aeb2-b259a4517dba

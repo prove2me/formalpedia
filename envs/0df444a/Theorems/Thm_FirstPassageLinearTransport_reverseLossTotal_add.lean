@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_reverseLossTotal_add
 -- name    : FirstPassageLinearTransport.reverseLossTotal_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:15:20.499391+00:00
 -- url     : https://prove2.me/theorems/bc9abfb0-dd12-5c1b-8dcb-a20a615a9091

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_scaledReverseLoss_rank_step
 -- name    : FirstPassageLinearTransport.scaledReverseLoss_rank_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:15:48.668909+00:00
 -- url     : https://prove2.me/theorems/5abbaeef-468f-431c-b7cb-643534788822

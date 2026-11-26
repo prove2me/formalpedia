@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_norm_mderiv_comp_truncCoord_le
 -- name    : Malliavin.norm_mderiv_comp_truncCoord_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:25:14.074893+00:00
 -- url     : https://prove2.me/theorems/de4a49f2-4ab6-51d5-b79a-b3dee230c6c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_collatzLogIncrement_centered
 -- name    : FirstPassageLinearTransport.collatzLogIncrement_centered
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:29:28.39952+00:00
 -- url     : https://prove2.me/theorems/3360349d-82ff-4306-b7b5-56fb724ed2bd

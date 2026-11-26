@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_RecertificationRun_toCertifiedRankChain
 -- name    : FirstPassageLinearTransport.RecertificationRun.toCertifiedRankChain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:44.552169+00:00
 -- url     : https://prove2.me/theorems/800f35cb-288d-4d8b-a390-294915ac907d

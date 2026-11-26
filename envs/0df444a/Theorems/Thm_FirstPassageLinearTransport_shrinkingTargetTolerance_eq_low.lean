@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shrinkingTargetTolerance_eq_low
 -- name    : FirstPassageLinearTransport.shrinkingTargetTolerance_eq_low
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:49.030295+00:00
 -- url     : https://prove2.me/theorems/1f57e85d-d7eb-4997-8279-8d8617aed708

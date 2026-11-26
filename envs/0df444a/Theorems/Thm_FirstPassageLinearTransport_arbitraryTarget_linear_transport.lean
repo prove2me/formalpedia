@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_arbitraryTarget_linear_transport
 -- name    : FirstPassageLinearTransport.arbitraryTarget_linear_transport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:20.686078+00:00
 -- url     : https://prove2.me/theorems/1d303991-cac4-4fa2-83df-0a139f524eb5

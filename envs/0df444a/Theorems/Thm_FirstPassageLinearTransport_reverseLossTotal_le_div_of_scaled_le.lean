@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_reverseLossTotal_le_div_of_scaled_le
 -- name    : FirstPassageLinearTransport.reverseLossTotal_le_div_of_scaled_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:10:41.347703+00:00
 -- url     : https://prove2.me/theorems/e68dc5b4-3300-4585-a984-b405aa273c48

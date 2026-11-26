@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_shellMonomial_damping
 -- name    : FourierJacobi.Analysis.shellMonomial_damping
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:04.302297+00:00
 -- url     : https://prove2.me/theorems/43637306-b42b-5fb9-ba84-e7a19bf4a467

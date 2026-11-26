@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_log_cosh_booleanOptimizer
 -- name    : FirstPassageLinearTransport.log_cosh_booleanOptimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:12:13.215812+00:00
 -- url     : https://prove2.me/theorems/76849a30-f9b5-5755-a5da-6fd3376409d3

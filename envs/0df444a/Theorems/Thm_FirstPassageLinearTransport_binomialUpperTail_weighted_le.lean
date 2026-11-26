@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_binomialUpperTail_weighted_le
 -- name    : FirstPassageLinearTransport.binomialUpperTail_weighted_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:20:27.212352+00:00
 -- url     : https://prove2.me/theorems/c7e7efdf-bef1-4976-8bad-ae6c1773a12f

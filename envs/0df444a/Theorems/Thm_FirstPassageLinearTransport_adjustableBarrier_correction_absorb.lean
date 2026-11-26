@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_adjustableBarrier_correction_absorb
 -- name    : FirstPassageLinearTransport.adjustableBarrier_correction_absorb
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:13:11.57271+00:00
 -- url     : https://prove2.me/theorems/54961e58-a4c0-5db4-8cb1-15d3fb891678

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_centralScale_mul_twoPow_eq
 -- name    : FirstPassageLinearTransport.centralScale_mul_twoPow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:11:10.368465+00:00
 -- url     : https://prove2.me/theorems/7d8b0904-19a5-469f-989c-d56ca9392f48

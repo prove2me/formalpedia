@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Valuations_discreteValuation_surjective
 -- name    : FourierJacobi.Valuations.discreteValuation_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:18:40.32249+00:00
 -- url     : https://prove2.me/theorems/bceaefce-889a-4201-84cc-9cd4d746b24b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_timeDerivative_mderivClosure_cylinder_of_dominated
 -- name    : Malliavin.timeDerivative_mderivClosure_cylinder_of_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:19:22.190924+00:00
 -- url     : https://prove2.me/theorems/9f8b4cc0-a374-501c-8f57-ae2e4c643428

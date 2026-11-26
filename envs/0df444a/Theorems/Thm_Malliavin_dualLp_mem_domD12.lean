@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_dualLp_mem_domD12
 -- name    : Malliavin.dualLp_mem_domD12
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:17:01.936878+00:00
 -- url     : https://prove2.me/theorems/16b5d1fc-62b4-46a4-8251-d8a744eddd66

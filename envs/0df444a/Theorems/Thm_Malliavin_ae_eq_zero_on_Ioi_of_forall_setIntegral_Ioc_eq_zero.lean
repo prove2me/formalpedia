@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_ae_eq_zero_on_Ioi_of_forall_setIntegral_Ioc_eq_zero
 -- name    : Malliavin.ae_eq_zero_on_Ioi_of_forall_setIntegral_Ioc_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:27:01.066909+00:00
 -- url     : https://prove2.me/theorems/b667d0b7-f16f-5589-bd8f-83a11e8171fe

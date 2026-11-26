@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_reciprocalMaximumEpsilon_pos
 -- name    : FirstPassageLinearTransport.reciprocalMaximumEpsilon_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:29:56.975089+00:00
 -- url     : https://prove2.me/theorems/fdf6b1de-712c-4805-be13-52393ab4e236

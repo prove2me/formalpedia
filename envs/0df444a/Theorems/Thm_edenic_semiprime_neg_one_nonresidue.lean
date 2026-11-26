@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_edenic_semiprime_neg_one_nonresidue
 -- name    : edenic_semiprime_neg_one_nonresidue
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-26T11:29:54.991003+00:00
 -- url     : https://prove2.me/theorems/24386284-4032-4d8d-9a05-456c6922f649

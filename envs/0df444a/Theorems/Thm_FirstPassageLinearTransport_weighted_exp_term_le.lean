@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_weighted_exp_term_le
 -- name    : FirstPassageLinearTransport.weighted_exp_term_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:16:31.177912+00:00
 -- url     : https://prove2.me/theorems/86e0404b-18bb-4f33-bd21-1553d1b75187

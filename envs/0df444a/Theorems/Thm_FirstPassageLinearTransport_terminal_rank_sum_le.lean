@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_terminal_rank_sum_le
 -- name    : FirstPassageLinearTransport.terminal_rank_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:14:00.922141+00:00
 -- url     : https://prove2.me/theorems/4fd70b84-78df-49c1-b674-ed6e20af4d1a

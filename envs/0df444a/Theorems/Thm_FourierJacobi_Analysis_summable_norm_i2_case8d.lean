@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_summable_norm_i2_case8d
 -- name    : FourierJacobi.Analysis.summable_norm_i2_case8d
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:16:20.485305+00:00
 -- url     : https://prove2.me/theorems/c907f670-47d3-5ea6-ad18-7f59b6e683a1

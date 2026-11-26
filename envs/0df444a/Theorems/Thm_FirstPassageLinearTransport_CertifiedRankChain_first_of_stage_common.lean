@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_CertifiedRankChain_first_of_stage_common
 -- name    : FirstPassageLinearTransport.CertifiedRankChain.first_of_stage_common
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:16:47.029253+00:00
 -- url     : https://prove2.me/theorems/35567236-881b-5cdb-99cf-f074636aa8d5
