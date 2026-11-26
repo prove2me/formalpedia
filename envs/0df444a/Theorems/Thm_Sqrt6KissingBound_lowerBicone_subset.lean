@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_lowerBicone_subset
 -- name    : Sqrt6KissingBound.lowerBicone_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:04:40.878953+00:00
 -- url     : https://prove2.me/theorems/108ee0a7-a58a-4024-9980-403b583e8c39

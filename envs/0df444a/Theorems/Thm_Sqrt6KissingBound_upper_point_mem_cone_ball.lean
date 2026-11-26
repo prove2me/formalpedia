@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_upper_point_mem_cone_ball
 -- name    : Sqrt6KissingBound.upper_point_mem_cone_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:05:30.912836+00:00
 -- url     : https://prove2.me/theorems/82054e77-7776-5750-8441-421aeedb29fd

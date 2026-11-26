@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_card_mul_volumeReal_le_unitBall
 -- name    : Sqrt6KissingBound.card_mul_volumeReal_le_unitBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:04:13.38813+00:00
 -- url     : https://prove2.me/theorems/0b280c41-a3cb-4387-9e42-a52e068a2443

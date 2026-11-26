@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_unitBallVolumeReal_four
 -- name    : Sqrt6KissingBound.unitBallVolumeReal_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:05:57.320614+00:00
 -- url     : https://prove2.me/theorems/36ffd45b-504e-5951-8c72-13b50cb11927

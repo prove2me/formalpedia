@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellWilliams2001_ThresholdPolicy_threshold_queue_second_moment
 -- name    : BellWilliams2001.ThresholdPolicy.threshold_queue_second_moment
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T05:34:29.931956+00:00
 -- url     : https://prove2.me/theorems/cb0920af-c57c-4854-9742-1e11019e8b9c

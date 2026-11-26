@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_volume_ball_eq_pow_mul_unit
 -- name    : Sqrt6KissingBound.volume_ball_eq_pow_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:04:56.944481+00:00
 -- url     : https://prove2.me/theorems/c91b4e31-5e8c-439c-a198-43e529ee5d7d

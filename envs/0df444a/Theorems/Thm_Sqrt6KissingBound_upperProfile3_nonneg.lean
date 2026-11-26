@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_upperProfile3_nonneg
 -- name    : Sqrt6KissingBound.upperProfile3_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:09:31.743899+00:00
 -- url     : https://prove2.me/theorems/7607eb46-8f7a-49d5-b683-1fa93f12ea10

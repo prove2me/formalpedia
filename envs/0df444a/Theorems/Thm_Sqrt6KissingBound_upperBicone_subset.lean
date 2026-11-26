@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_upperBicone_subset
 -- name    : Sqrt6KissingBound.upperBicone_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:04:38.006285+00:00
 -- url     : https://prove2.me/theorems/98d3e50d-a024-4b4a-bad4-67765158fc7d

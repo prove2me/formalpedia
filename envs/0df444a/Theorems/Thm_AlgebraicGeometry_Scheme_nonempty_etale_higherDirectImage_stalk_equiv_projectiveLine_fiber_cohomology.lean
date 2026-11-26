@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_nonempty_etale_higherDirectImage_stalk_equiv_projectiveLine_fiber_cohomology
 -- name    : AlgebraicGeometry.Scheme.nonempty_etale_higherDirectImage_stalk_equiv_projectiveLine_fiber_cohomology
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-25T16:02:22.183347+00:00
 -- url     : https://prove2.me/theorems/deb7ba8e-ce9c-4977-ba08-3eb5e1ec16eb

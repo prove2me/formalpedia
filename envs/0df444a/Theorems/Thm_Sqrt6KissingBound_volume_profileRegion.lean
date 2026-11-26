@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_volume_profileRegion
 -- name    : Sqrt6KissingBound.volume_profileRegion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:04:22.067049+00:00
 -- url     : https://prove2.me/theorems/a7a93558-a4fa-527f-b99c-2a8212949de3

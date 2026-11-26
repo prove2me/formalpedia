@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_measurableSet_centeredBody
 -- name    : Sqrt6KissingBound.measurableSet_centeredBody
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:08:09.087502+00:00
 -- url     : https://prove2.me/theorems/52faef62-a3a0-5294-9fdb-44c97a1d96eb

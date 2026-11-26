@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_volume_rotationalProfile
 -- name    : Sqrt6KissingBound.volume_rotationalProfile
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:04:23.243357+00:00
 -- url     : https://prove2.me/theorems/23c17b07-a9fa-5170-9992-83cc3ef7a8c8

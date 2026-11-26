@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_strictCone_disjoint
 -- name    : Sqrt6KissingBound.strictCone_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:02:55.804805+00:00
 -- url     : https://prove2.me/theorems/aea92df4-5532-55cf-8ad0-396244ba7719

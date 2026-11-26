@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_centeredBicone_subset_cone_ball
 -- name    : Sqrt6KissingBound.centeredBicone_subset_cone_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:08:29.473775+00:00
 -- url     : https://prove2.me/theorems/f06ca592-0174-419d-9001-f403662c1237

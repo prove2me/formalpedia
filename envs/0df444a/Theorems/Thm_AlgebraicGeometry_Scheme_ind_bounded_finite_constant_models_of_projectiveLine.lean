@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_ind_bounded_finite_constant_models_of_projectiveLine
 -- name    : AlgebraicGeometry.Scheme.ind_bounded_finite_constant_models_of_projectiveLine
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-26T06:03:11.659711+00:00
 -- url     : https://prove2.me/theorems/18a50393-e49a-49e8-86d6-4d640d8e0435

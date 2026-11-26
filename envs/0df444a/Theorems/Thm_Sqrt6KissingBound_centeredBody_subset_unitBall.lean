@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_centeredBody_subset_unitBall
 -- name    : Sqrt6KissingBound.centeredBody_subset_unitBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:08:52.481976+00:00
 -- url     : https://prove2.me/theorems/0645f5fc-e98a-5832-b5ae-3c790e60db7f

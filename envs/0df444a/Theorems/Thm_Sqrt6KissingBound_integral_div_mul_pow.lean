@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_integral_div_mul_pow
 -- name    : Sqrt6KissingBound.integral_div_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:02:58.955596+00:00
 -- url     : https://prove2.me/theorems/53455125-641e-558a-9132-a4b598f8e15d

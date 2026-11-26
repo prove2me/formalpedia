@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_bicone_packing_inequality
 -- name    : Sqrt6KissingBound.bicone_packing_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:07:29.230737+00:00
 -- url     : https://prove2.me/theorems/727c92c7-2299-572d-97b0-a82ad10b6321

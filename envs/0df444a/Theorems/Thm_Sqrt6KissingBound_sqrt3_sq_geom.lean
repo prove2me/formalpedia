@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_sqrt3_sq_geom
 -- name    : Sqrt6KissingBound.sqrt3_sq_geom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:02:54.57232+00:00
 -- url     : https://prove2.me/theorems/be042204-5187-528b-9fce-c2af058afa63

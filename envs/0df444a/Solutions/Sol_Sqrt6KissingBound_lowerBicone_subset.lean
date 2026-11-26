@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for Sqrt6KissingBound.lowerBicone_subset
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-26T06:20:44.284568+00:00
+-- url     : https://prove2.me/submissions/7fecf3eb-08ec-44fb-90a4-2882af1797f9
+
+import Definitions.Def_Sqrt6KissingBound_StandardGeometry
+import Definitions.Def_Sqrt6KissingBound_ProfileVolume
+import Definitions.Def_Sqrt6KissingBound_BiconeGeometry
+import Theorems.Thm_Sqrt6KissingBound_lower_point_mem_cone_ball
+import Theorems.Thm_Sqrt6KissingBound_inner_standardAxis_standardCoordinates
+import Theorems.Thm_Sqrt6KissingBound_mem_tailBall
+import Theorems.Thm_Sqrt6KissingBound_norm_standardAxis
+attribute [local simp] Sqrt6KissingBound.inner_standardAxis_standardCoordinates
+attribute [local simp] Sqrt6KissingBound.mem_tailBall
+attribute [local simp] Sqrt6KissingBound.norm_standardAxis
+
+
+
+set_option autoImplicit true
+open Sqrt6KissingBound
+noncomputable section
+open Set Metric MeasureTheory
+namespace Sqrt6KissingBound
+theorem _root_.solution (k : ℕ) :
+    lowerBicone k ⊆ strictCone (standardAxis (k + 1)) ∩ ball 0 1 := by
+  intro y hy
+  change (standardCoordinates (k + 1)).symm y ∈
+    profileRegion (k + 1) (Set.Ioo 0 a_bg) (fun t => t / s3_bg) at hy
+  let p := (standardCoordinates (k + 1)).symm y
+  change p ∈ profileRegion (k + 1) (Set.Ioo 0 a_bg) (fun t => t / s3_bg) at hy
+  rcases hy with ⟨ht, hv⟩
+  have hpoint := lower_point_mem_cone_ball k ht.1 ht.2 hv
+  simpa [p] using hpoint
+end Sqrt6KissingBound

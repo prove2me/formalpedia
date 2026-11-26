@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellWilliams2001_ThresholdPolicy_fluid_allocation_limit
 -- name    : BellWilliams2001.ThresholdPolicy.fluid_allocation_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:31:55.920193+00:00
 -- url     : https://prove2.me/theorems/ed389fed-9641-411a-9b70-79d0b9926169

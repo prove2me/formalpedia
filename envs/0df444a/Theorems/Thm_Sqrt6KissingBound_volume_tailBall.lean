@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_volume_tailBall
 -- name    : Sqrt6KissingBound.volume_tailBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:04:12.05738+00:00
 -- url     : https://prove2.me/theorems/7762094d-2ea4-5455-87b6-697e2007d225

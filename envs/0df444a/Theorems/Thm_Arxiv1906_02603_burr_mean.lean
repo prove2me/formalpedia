@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1906_02603_burr_mean
 -- name    : Arxiv1906_02603.burr_mean
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T06:44:00.373465+00:00
 -- url     : https://prove2.me/theorems/68e0f2ff-9009-583e-a2a8-7c4444fc5d7e

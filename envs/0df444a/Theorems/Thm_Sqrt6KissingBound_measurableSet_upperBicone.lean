@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_measurableSet_upperBicone
 -- name    : Sqrt6KissingBound.measurableSet_upperBicone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:08:09.340898+00:00
 -- url     : https://prove2.me/theorems/0485f97f-3e86-4050-9ccf-36cca1d617f0

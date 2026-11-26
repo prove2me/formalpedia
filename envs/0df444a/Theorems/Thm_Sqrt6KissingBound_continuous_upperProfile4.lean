@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_continuous_upperProfile4
 -- name    : Sqrt6KissingBound.continuous_upperProfile4
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:09:59.857342+00:00
 -- url     : https://prove2.me/theorems/6cdae105-02bd-5e4f-8adc-0917f361e8a4

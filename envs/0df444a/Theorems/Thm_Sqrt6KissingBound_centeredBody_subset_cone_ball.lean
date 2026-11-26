@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_centeredBody_subset_cone_ball
 -- name    : Sqrt6KissingBound.centeredBody_subset_cone_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:09:16.812841+00:00
 -- url     : https://prove2.me/theorems/59dc1d45-47ff-46c8-a783-ae3415214f06

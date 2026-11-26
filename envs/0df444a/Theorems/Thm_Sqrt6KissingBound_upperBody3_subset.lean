@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_upperBody3_subset
 -- name    : Sqrt6KissingBound.upperBody3_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:09:37.286919+00:00
 -- url     : https://prove2.me/theorems/b8ab50d4-6b7e-5191-913e-ee21ec1893fe

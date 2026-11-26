@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_lower_point_mem_cone_ball
 -- name    : Sqrt6KissingBound.lower_point_mem_cone_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:05:51.199541+00:00
 -- url     : https://prove2.me/theorems/9f136019-905e-4f4c-a802-6aa9c9613dc7

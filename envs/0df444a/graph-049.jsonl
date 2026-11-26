@@ -20296,20 +20296,20 @@
 {"parent": "Scott1972.ContinuousLattice.lemma_3_9_incl_inf", "child": "Scott1972.ContinuousLattice.scottSubspaceExtendInf_mono_incl", "via": ["solution"]}
 {"parent": "NisanRonen.Rounding.unitMakespan_polytime", "child": "NisanRonen_Rounding_encodeInstanceAlloc", "via": ["solution", "statement"]}
 {"parent": "NisanRonen.Rounding.unitMakespan_polytime", "child": "NisanRonen_Rounding_unitMakespan", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.integral_const_mul_sub_pow", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.integral_const_mul_sub_pow", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.of_one", "child": "NagataFactoriality_Localization_Localization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.of_one", "child": "NagataFactoriality_Localization_MultSet", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.elementarySubgroup_index_eq_pow_of_finrank", "child": "SharpIntermediateSubgroupBounds_PrimePower", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.elementarySubgroup_index_eq_pow_of_finrank", "child": "SharpIntermediateSubgroupBounds_QBinomial", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.lowerBicone_subset", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.lowerBicone_subset", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.lowerBicone_subset", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_subset", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_subset", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_subset", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_irreducible_of_dvd_mem_primeGenerated", "child": "NagataFactoriality_Localization_IsLocalization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_irreducible_of_dvd_mem_primeGenerated", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_irreducible_of_dvd_mem_primeGenerated", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_irreducible_of_dvd_mem_primeGenerated", "child": "NagataFactoriality_Basic_UFD", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.unitBallVolumeReal_formula", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.unitBallVolumeReal_formula", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_formula", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_formula", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.qBinom_cast_eq_qFactorial_div", "child": "SharpIntermediateSubgroupBounds_QBinomial", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.qBinom_cast_eq_qFactorial_div", "child": "SharpIntermediateSubgroupBounds_Basic", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.localization_irreducible_of_irreducible", "child": "NagataFactoriality_Localization_IsLocalization", "via": ["solution", "statement"]}
@@ -20332,8 +20332,8 @@
 {"parent": "Sqrt6KissingBound.code_card_le_six_dim_two", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound.code_card_le_six_dim_two", "child": "Sqrt6KissingBound_BiconeBounds", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound.code_card_le_six_dim_two", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.measurableSet_centeredBody", "child": "Sqrt6KissingBound_CenteredBody", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.measurableSet_centeredBody", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_centeredBody", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_centeredBody", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.isUnit_of_isUnit", "child": "NagataFactoriality_Localization_Localization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.isUnit_of_isUnit", "child": "NagataFactoriality_Localization_MultSet", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.multiset_prod_mem_of_factors", "child": "NagataFactoriality_Localization_IsLocalization", "via": ["solution", "statement"]}
@@ -20344,13 +20344,13 @@
 {"parent": "NagataFactoriality.split_prime_factors_of_mul_eq", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.split_prime_factors_of_mul_eq", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.split_prime_factors_of_mul_eq", "child": "NagataFactoriality_Basic_UFD", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.integral_div_mul_pow", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.integral_div_mul_pow", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.nagata_theorem", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.nagata_theorem", "child": "NagataFactoriality_Nagata_Theorem", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.isUnit_mk_of_isUnit", "child": "NagataFactoriality_Localization_Localization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.isUnit_mk_of_isUnit", "child": "NagataFactoriality_Localization_MultSet", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.volume_rotationalProfile", "child": "Sqrt6KissingBound_CoordinateVolume", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.volume_rotationalProfile", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.volume_rotationalProfile", "child": "Sqrt6KissingBound_CoordinateVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volume_rotationalProfile", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.polynomial_uniqueFactorizationMonoid_of_laurent", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.polynomial_uniqueFactorizationMonoid_of_laurent", "child": "NagataFactoriality_Nagata_Theorem", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.polynomial_uniqueFactorizationMonoid_of_laurent", "child": "NagataFactoriality_Applications_Laurent", "via": ["solution", "statement"]}
@@ -20368,11 +20368,11 @@
 {"parent": "SharpIntermediateSubgroupBounds.blockMem_card_eq_interval_card", "child": "SharpIntermediateSubgroupBounds_Blocks", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.of_mul", "child": "NagataFactoriality_Localization_Localization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.of_mul", "child": "NagataFactoriality_Localization_MultSet", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.measurableSet_upperBicone", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.measurableSet_upperBicone", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.measurableSet_upperBicone", "child": "Sqrt6KissingBound_BodyVolumeAdditivity", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.measurableSet_upperBicone", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.measurableSet_upperBicone", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBicone", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBicone", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBicone", "child": "Sqrt6KissingBound_BodyVolumeAdditivity", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBicone", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBicone", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.nagata_theorem_of_prime_or_unit_isLocalization", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.nagata_theorem_of_prime_or_unit_isLocalization", "child": "NagataFactoriality_Nagata_Theorem", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.oddGaussianConstant_lt_sharpConstant", "child": "SharpIntermediateSubgroupBounds_Theta", "via": ["solution", "statement"]}
@@ -20404,14 +20404,14 @@
 {"parent": "SharpIntermediateSubgroupBounds.product_elementaryAbelian_even_interval_card_eq", "child": "SharpIntermediateSubgroupBounds_PrimePower", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.product_elementaryAbelian_even_interval_card_eq", "child": "SharpIntermediateSubgroupBounds_QBinomial", "via": ["solution", "statement"]}
 {"parent": "Sqrt6KissingBound_BallVolumes", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.centeredBody_subset_unitBall", "child": "Sqrt6KissingBound_CenteredBody", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.centeredBody_subset_unitBall", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.centeredBody_subset_unitBall", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.centeredBody_subset_unitBall", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
 {"parent": "Sqrt6KissingBound_ProfileIntegral", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upper_profile_integral", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upper_profile_integral", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upper_profile_integral", "child": "Sqrt6KissingBound_BodyVolumeAdditivity", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upper_profile_integral", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upper_profile_integral", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.upper_profile_integral", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upper_profile_integral", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upper_profile_integral", "child": "Sqrt6KissingBound_BodyVolumeAdditivity", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upper_profile_integral", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upper_profile_integral", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["solution", "statement"]}
 {"parent": "Sqrt6KissingBound_DimensionFour", "child": "Sqrt6KissingBound_CenteredBody", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound_DimensionFour", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound.standardCoordinates_mem_ball_iff", "child": "Sqrt6KissingBound_CoordinateVolume", "via": ["solution", "statement"]}
@@ -20424,10 +20424,10 @@
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_normal_elementaryAbelian_quotient_interval_card_eq", "child": "SharpIntermediateSubgroupBounds_Manuscript", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.primePower_layer_bound_optimal", "child": "SharpIntermediateSubgroupBounds_PrimePower", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.primePower_layer_bound_optimal", "child": "SharpIntermediateSubgroupBounds_QBinomial", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.volumeReal_rotationalProfile_Ioo", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.volumeReal_rotationalProfile_Ioo", "child": "Sqrt6KissingBound_ProfileIntegral", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.unitBallVolumeReal_four", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.unitBallVolumeReal_four", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_rotationalProfile_Ioo", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_rotationalProfile_Ioo", "child": "Sqrt6KissingBound_ProfileIntegral", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_four", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_four", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.mk_one", "child": "NagataFactoriality_Localization_Localization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.mk_one", "child": "NagataFactoriality_Localization_MultSet", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality_Nagata_Theorem", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["statement"]}
@@ -20457,7 +20457,7 @@
 {"parent": "NagataFactoriality_Applications_Laurent", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["statement"]}
 {"parent": "NagataFactoriality_Applications_Laurent", "child": "NagataFactoriality_Nagata_Theorem", "via": ["statement"]}
 {"parent": "AlgebraicGeometry.Scheme.ind_bounded_finite_constant_models_of_projectiveLine", "child": "AlgebraicGeometry_FreeEtaleChartSheaves", "via": ["statement"]}
-{"parent": "AlgebraicGeometry.Scheme.ind_bounded_finite_constant_models_of_projectiveLine", "child": "AlgebraicGeometry_ProjSpace", "via": ["statement"]}
+{"parent": "AlgebraicGeometry.Scheme.ind_bounded_finite_constant_models_of_projectiveLine", "child": "AlgebraicGeometry_ProjSpace", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.dvd_of_localization_dvd_primeGenerated_isLocalization", "child": "NagataFactoriality_Localization_IsLocalization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.dvd_of_localization_dvd_primeGenerated_isLocalization", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.dvd_of_localization_dvd_primeGenerated_isLocalization", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
@@ -20478,12 +20478,12 @@
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_no_subquarter_elementaryAbelian_rpow_bound", "child": "SharpIntermediateSubgroupBounds_Gaussian", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_no_subquarter_elementaryAbelian_rpow_bound", "child": "SharpIntermediateSubgroupBounds_GroupMain", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_no_subquarter_elementaryAbelian_rpow_bound", "child": "SharpIntermediateSubgroupBounds_Manuscript", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.centeredBody_subset_cone_ball", "child": "Sqrt6KissingBound_CenteredBody", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.centeredBody_subset_cone_ball", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.volumeReal_centeredBody", "child": "Sqrt6KissingBound_CenteredBody", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.volumeReal_centeredBody", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.card_mul_volumeReal_le_unitBall", "child": "Sqrt6KissingBound_VolumePacking", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.card_mul_volumeReal_le_unitBall", "child": "Sqrt6KissingBound_Geometry", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.centeredBody_subset_cone_ball", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.centeredBody_subset_cone_ball", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_centeredBody", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_centeredBody", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.card_mul_volumeReal_le_unitBall", "child": "Sqrt6KissingBound_VolumePacking", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.card_mul_volumeReal_le_unitBall", "child": "Sqrt6KissingBound_Geometry", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.dvd_of_iff", "child": "NagataFactoriality_Localization_Localization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.dvd_of_iff", "child": "NagataFactoriality_Localization_MultSet", "via": ["solution", "statement"]}
 {"parent": "Sqrt6KissingBound.measurableSet_lowerBicone", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
@@ -20533,8 +20533,8 @@
 {"parent": "SharpIntermediateSubgroupBounds.normalizedGaussianCentered_eq", "child": "SharpIntermediateSubgroupBounds_Theta", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.normalizedGaussianCentered_eq", "child": "SharpIntermediateSubgroupBounds_QBinomial", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.normalizedGaussianCentered_eq", "child": "SharpIntermediateSubgroupBounds_Gaussian", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.unitBallVolumeReal_six", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.unitBallVolumeReal_six", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_six", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_six", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.intermediate_unique_band", "child": "SharpIntermediateSubgroupBounds_Escape", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.intermediate_unique_band", "child": "SharpIntermediateSubgroupBounds_Packing", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.laurentPolynomial_uniqueFactorizationMonoid", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
@@ -20542,8 +20542,8 @@
 {"parent": "NagataFactoriality.laurentPolynomial_uniqueFactorizationMonoid", "child": "NagataFactoriality_Applications_Laurent", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.shiftedTheta_eq_iff", "child": "SharpIntermediateSubgroupBounds_Theta", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.shiftedTheta_eq_iff", "child": "SharpIntermediateSubgroupBounds_Basic", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.unitBallVolumeReal_five", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.unitBallVolumeReal_five", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_five", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_five", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.of_zero", "child": "NagataFactoriality_Localization_Localization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.of_zero", "child": "NagataFactoriality_Localization_MultSet", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_primePowerU_eq_ratCast_finiteUQ", "child": "SharpIntermediateSubgroupBounds_PrimePower", "via": ["solution", "statement"]}
@@ -20561,9 +20561,9 @@
 {"parent": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "child": "Sqrt6KissingBound_CoordinateVolume", "via": ["solution", "statement"]}
 {"parent": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
 {"parent": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "child": "Sqrt6KissingBound_Geometry", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.continuous_upperProfile3", "child": "Sqrt6KissingBound_CenteredBody", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.continuous_upperProfile3", "child": "Sqrt6KissingBound_DimensionThree", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.continuous_upperProfile3", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.continuous_upperProfile3", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.continuous_upperProfile3", "child": "Sqrt6KissingBound_DimensionThree", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.continuous_upperProfile3", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
 {"parent": "Sqrt6KissingBound_DimensionOne", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
 {"parent": "NagataFactoriality.polynomial_uniqueFactorizationMonoid_via_nagata", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.polynomial_uniqueFactorizationMonoid_via_nagata", "child": "NagataFactoriality_Nagata_Theorem", "via": ["solution", "statement"]}
@@ -20572,8 +20572,8 @@
 {"parent": "NagataFactoriality.palomar_nagata_factoriality", "child": "NagataFactoriality_Solution", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.nagata_theorem_of_finite_prime_generators_isLocalization", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.nagata_theorem_of_finite_prime_generators_isLocalization", "child": "NagataFactoriality_Nagata_Theorem", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.volume_rotationalProfile_Ioo", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.volume_rotationalProfile_Ioo", "child": "Sqrt6KissingBound_ProfileIntegral", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.volume_rotationalProfile_Ioo", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volume_rotationalProfile_Ioo", "child": "Sqrt6KissingBound_ProfileIntegral", "via": ["solution", "statement"]}
 {"parent": "NisanRonen.Rounding.encodedAllocation_output_polytime", "child": "NisanRonen_Rounding_checkedColumns", "via": ["solution", "statement"]}
 {"parent": "syracuse_descent_residual_fifteen_after_escape_density_and_period_sieve", "child": "syrFifteenStep15Chunk14", "via": ["statement"]}
 {"parent": "syracuse_descent_residual_fifteen_after_escape_density_and_period_sieve", "child": "syrFifteenStep16Chunk21", "via": ["statement"]}
@@ -20639,9 +20639,9 @@
 {"parent": "Sqrt6KissingBound_KissingBound", "child": "Sqrt6KissingBound_DimensionOne", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound_KissingBound", "child": "Sqrt6KissingBound_DimensionFour", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound_KissingBound", "child": "Sqrt6KissingBound_BiconeBounds", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.axisTo_standardAxis", "child": "Sqrt6KissingBound_VolumePacking", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.axisTo_standardAxis", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.axisTo_standardAxis", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.axisTo_standardAxis", "child": "Sqrt6KissingBound_VolumePacking", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.axisTo_standardAxis", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.axisTo_standardAxis", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["solution", "statement"]}
 {"parent": "Sqrt6KissingBound.regularHexagon_card", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound.regularHexagon_card", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound.regularHexagon_card", "child": "Sqrt6KissingBound_KissingBound", "via": ["statement"]}
@@ -20649,9 +20649,9 @@
 {"parent": "NagataFactoriality.nagata_key_lemma_primeGenerated_isLocalization", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.nagata_key_lemma_primeGenerated_isLocalization", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.nagata_key_lemma_primeGenerated_isLocalization", "child": "NagataFactoriality_Basic_UFD", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.bicone_packing_inequality", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.bicone_packing_inequality", "child": "Sqrt6KissingBound_BiconeBounds", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.bicone_packing_inequality", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.bicone_packing_inequality", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.bicone_packing_inequality", "child": "Sqrt6KissingBound_BiconeBounds", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.bicone_packing_inequality", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.localization_irreducible_of_irreducible_isLocalization", "child": "NagataFactoriality_Localization_IsLocalization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.localization_irreducible_of_irreducible_isLocalization", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.localization_irreducible_of_irreducible_isLocalization", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
@@ -20664,9 +20664,9 @@
 {"parent": "NagataFactoriality.primeGenerated_closure_of_primes", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.primeGenerated_closure_of_primes", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.primeGenerated_closure_of_primes", "child": "NagataFactoriality_Basic_UFD", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.upper_point_mem_cone_ball", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upper_point_mem_cone_ball", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upper_point_mem_cone_ball", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.upper_point_mem_cone_ball", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upper_point_mem_cone_ball", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upper_point_mem_cone_ball", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.primeGenerated_closure_finset_of_primes", "child": "NagataFactoriality_Localization_IsLocalization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.primeGenerated_closure_finset_of_primes", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.primeGenerated_closure_finset_of_primes", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
@@ -20701,22 +20701,22 @@
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_elementaryAbelian_interval_div_primePowerU_tendsto_one", "child": "SharpIntermediateSubgroupBounds_Manuscript", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.palomar_polynomial_ufd", "child": "NagataFactoriality_Applications_Laurent", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.palomar_polynomial_ufd", "child": "NagataFactoriality_Solution", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.measurableSet_upperBody3", "child": "Sqrt6KissingBound_CenteredBody", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.measurableSet_upperBody3", "child": "Sqrt6KissingBound_DimensionThree", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.measurableSet_upperBody3", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBody3", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBody3", "child": "Sqrt6KissingBound_DimensionThree", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBody3", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.threshold_residual_event", "child": "BellWilliams2001_ThresholdPolicy_Threshold", "via": ["statement"]}
 {"parent": "NagataFactoriality.Localization.den_mul_mk", "child": "NagataFactoriality_Localization_Localization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.den_mul_mk", "child": "NagataFactoriality_Localization_MultSet", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.upperProfile3_nonneg", "child": "Sqrt6KissingBound_CenteredBody", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upperProfile3_nonneg", "child": "Sqrt6KissingBound_DimensionThree", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upperProfile3_nonneg", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile3_nonneg", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile3_nonneg", "child": "Sqrt6KissingBound_DimensionThree", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile3_nonneg", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
 {"parent": "Sqrt6KissingBound_BiconeVolume", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound_BiconeVolume", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound_BiconeVolume", "child": "Sqrt6KissingBound_BodyVolumeAdditivity", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound_BiconeVolume", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.renewal_increments_from_epoch_blocks", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.volume_tailBall", "child": "Sqrt6KissingBound_CoordinateVolume", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.volume_tailBall", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.volume_tailBall", "child": "Sqrt6KissingBound_CoordinateVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volume_tailBall", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["solution", "statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.renewal_increment_concentration", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
 {"parent": "NagataFactoriality.Localization.of_eq_zero_iff", "child": "NagataFactoriality_Localization_Localization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.of_eq_zero_iff", "child": "NagataFactoriality_Localization_MultSet", "via": ["solution", "statement"]}
@@ -20725,8 +20725,8 @@
 {"parent": "SharpIntermediateSubgroupBounds.normalizedGaussianCentered_le_eulerC", "child": "SharpIntermediateSubgroupBounds_Gaussian", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.isUnit_of_mem", "child": "NagataFactoriality_Localization_Localization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.isUnit_of_mem", "child": "NagataFactoriality_Localization_MultSet", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.unitBallVolumeReal_add_two", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.unitBallVolumeReal_add_two", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_add_two", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_add_two", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.iterated_polynomial_uniqueFactorizationMonoid_via_nagata", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.iterated_polynomial_uniqueFactorizationMonoid_via_nagata", "child": "NagataFactoriality_Nagata_Theorem", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.iterated_polynomial_uniqueFactorizationMonoid_via_nagata", "child": "NagataFactoriality_Applications_Laurent", "via": ["solution", "statement"]}
@@ -20736,8 +20736,8 @@
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_elementaryAbelian_fixed_layer_eq", "child": "SharpIntermediateSubgroupBounds_Gaussian", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_elementaryAbelian_fixed_layer_eq", "child": "SharpIntermediateSubgroupBounds_GroupMain", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_elementaryAbelian_fixed_layer_eq", "child": "SharpIntermediateSubgroupBounds_Manuscript", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.volume_profileRegion", "child": "Sqrt6KissingBound_CoordinateVolume", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.volume_profileRegion", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.volume_profileRegion", "child": "Sqrt6KissingBound_CoordinateVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volume_profileRegion", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_sharpConstant_le_of_elementaryAbelian_bound", "child": "SharpIntermediateSubgroupBounds_PrimePower", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_sharpConstant_le_of_elementaryAbelian_bound", "child": "SharpIntermediateSubgroupBounds_Escape", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_sharpConstant_le_of_elementaryAbelian_bound", "child": "SharpIntermediateSubgroupBounds_Gaussian", "via": ["solution", "statement"]}
@@ -20764,19 +20764,19 @@
 {"parent": "SharpIntermediateSubgroupBounds.gaussian_odd_rank_rpow_asymptotic", "child": "SharpIntermediateSubgroupBounds_Theta", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.gaussian_odd_rank_rpow_asymptotic", "child": "SharpIntermediateSubgroupBounds_QBinomial", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.gaussian_odd_rank_rpow_asymptotic", "child": "SharpIntermediateSubgroupBounds_Gaussian", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.sum_volumeReal_le_unitBall", "child": "Sqrt6KissingBound_VolumePacking", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.sum_volumeReal_le_unitBall", "child": "Sqrt6KissingBound_Geometry", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upperBicone_subset", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upperBicone_subset", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upperBicone_subset", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.sum_volumeReal_le_unitBall", "child": "Sqrt6KissingBound_VolumePacking", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.sum_volumeReal_le_unitBall", "child": "Sqrt6KissingBound_Geometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperBicone_subset", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperBicone_subset", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperBicone_subset", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.localization_irreducible_of_irreducible_primeGenerated_isLocalization", "child": "NagataFactoriality_Localization_IsLocalization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.localization_irreducible_of_irreducible_primeGenerated_isLocalization", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.localization_irreducible_of_irreducible_primeGenerated_isLocalization", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.localization_irreducible_of_irreducible_primeGenerated_isLocalization", "child": "NagataFactoriality_Basic_UFD", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.sqrt3_pos_geom", "child": "Sqrt6KissingBound_Geometry", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upperBody3_subset", "child": "Sqrt6KissingBound_CenteredBody", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upperBody3_subset", "child": "Sqrt6KissingBound_DimensionThree", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.upperBody3_subset", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.sqrt3_pos_geom", "child": "Sqrt6KissingBound_Geometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperBody3_subset", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperBody3_subset", "child": "Sqrt6KissingBound_DimensionThree", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperBody3_subset", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.mk_mul_of", "child": "NagataFactoriality_Localization_Localization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.mk_mul_of", "child": "NagataFactoriality_Localization_MultSet", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_localization_prime", "child": "NagataFactoriality_Localization_IsLocalization", "via": ["solution", "statement"]}
@@ -20786,9 +20786,9 @@
 {"parent": "Sqrt6KissingBound_ProfileVolume", "child": "Sqrt6KissingBound_CoordinateVolume", "via": ["statement"]}
 {"parent": "NagataFactoriality.Localization.of_neg", "child": "NagataFactoriality_Localization_Localization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.Localization.of_neg", "child": "NagataFactoriality_Localization_MultSet", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.continuous_upperProfile4", "child": "Sqrt6KissingBound_CenteredBody", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.continuous_upperProfile4", "child": "Sqrt6KissingBound_DimensionFour", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.continuous_upperProfile4", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.continuous_upperProfile4", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.continuous_upperProfile4", "child": "Sqrt6KissingBound_DimensionFour", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.continuous_upperProfile4", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_irreducible_of_dvd_mem", "child": "NagataFactoriality_Localization_IsLocalization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_irreducible_of_dvd_mem", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_irreducible_of_dvd_mem", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
@@ -20812,11 +20812,11 @@
 {"parent": "NagataFactoriality.dvd_of_localization_dvd_primeGenerated", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.dvd_of_localization_dvd_primeGenerated", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.dvd_of_localization_dvd_primeGenerated", "child": "NagataFactoriality_Basic_UFD", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.lower_profile_integral", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.lower_profile_integral", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.lower_profile_integral", "child": "Sqrt6KissingBound_BodyVolumeAdditivity", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.lower_profile_integral", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.lower_profile_integral", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.lower_profile_integral", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lower_profile_integral", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lower_profile_integral", "child": "Sqrt6KissingBound_BodyVolumeAdditivity", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lower_profile_integral", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lower_profile_integral", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_elementaryAbelian_indexLog_rpow_eq", "child": "SharpIntermediateSubgroupBounds_PrimePower", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_elementaryAbelian_indexLog_rpow_eq", "child": "SharpIntermediateSubgroupBounds_Escape", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.manuscript_elementaryAbelian_indexLog_rpow_eq", "child": "SharpIntermediateSubgroupBounds_Gaussian", "via": ["solution", "statement"]}
@@ -20837,7 +20837,7 @@
 {"parent": "NagataFactoriality.dvd_of_localization_dvd_isLocalization", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.dvd_of_localization_dvd_isLocalization", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.dvd_of_localization_dvd_isLocalization", "child": "NagataFactoriality_Basic_UFD", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.standardCoordinates_measurePreserving", "child": "Sqrt6KissingBound_CoordinateVolume", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.standardCoordinates_measurePreserving", "child": "Sqrt6KissingBound_CoordinateVolume", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_localization_prime_primeGenerated_isLocalization", "child": "NagataFactoriality_Localization_IsLocalization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_localization_prime_primeGenerated_isLocalization", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_localization_prime_primeGenerated_isLocalization", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
@@ -20846,8 +20846,8 @@
 {"parent": "NagataFactoriality.ufd_of_factorization_and_prime_irreducibles", "child": "NagataFactoriality_Nagata_Theorem", "via": ["solution", "statement"]}
 {"parent": "Sqrt6KissingBound_StandardGeometry", "child": "Sqrt6KissingBound_CoordinateVolume", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound_StandardGeometry", "child": "Sqrt6KissingBound_Geometry", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.strictCone_disjoint", "child": "Sqrt6KissingBound_Geometry", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.sqrt3_sq_geom", "child": "Sqrt6KissingBound_Geometry", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.strictCone_disjoint", "child": "Sqrt6KissingBound_Geometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.sqrt3_sq_geom", "child": "Sqrt6KissingBound_Geometry", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality_Nagata", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["statement"]}
 {"parent": "NagataFactoriality_Nagata", "child": "NagataFactoriality_Nagata_Theorem", "via": ["statement"]}
 {"parent": "NisanRonen.Rounding.checkedColumns_input_polytime", "child": "NisanRonen_Rounding_encodeInstance", "via": ["solution", "statement"]}
@@ -20856,9 +20856,9 @@
 {"parent": "NagataFactoriality.prime_of_localization_prime_isLocalization", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_localization_prime_isLocalization", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_localization_prime_isLocalization", "child": "NagataFactoriality_Basic_UFD", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.lower_point_mem_cone_ball", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.lower_point_mem_cone_ball", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.lower_point_mem_cone_ball", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.lower_point_mem_cone_ball", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lower_point_mem_cone_ball", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lower_point_mem_cone_ball", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.polynomial_toLaurent_prime_of_not_dvd_X", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.polynomial_toLaurent_prime_of_not_dvd_X", "child": "NagataFactoriality_Nagata_Theorem", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.polynomial_toLaurent_prime_of_not_dvd_X", "child": "NagataFactoriality_Applications_Laurent", "via": ["solution", "statement"]}
@@ -20870,9 +20870,9 @@
 {"parent": "SharpIntermediateSubgroupBounds.blockMem_card_lt_universal", "child": "SharpIntermediateSubgroupBounds_Blocks", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality_Applications_FractionField", "child": "NagataFactoriality_Nagata_Theorem", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound_BodyVolumeAdditivity", "child": "Sqrt6KissingBound_VolumePacking", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.centeredBicone_subset_cone_ball", "child": "Sqrt6KissingBound_VolumePacking", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.centeredBicone_subset_cone_ball", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.centeredBicone_subset_cone_ball", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_subset_cone_ball", "child": "Sqrt6KissingBound_VolumePacking", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_subset_cone_ball", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_subset_cone_ball", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.band_card_bound_nat", "child": "SharpIntermediateSubgroupBounds_Escape", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.band_card_bound_nat", "child": "SharpIntermediateSubgroupBounds_Packing", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.palomar_nagata_factoriality_of_prime_generators", "child": "NagataFactoriality_Applications_Laurent", "via": ["solution", "statement"]}
@@ -20895,13 +20895,13 @@
 {"parent": "SharpIntermediateSubgroupBounds.interval_card_lt_universal_decimal", "child": "SharpIntermediateSubgroupBounds_Decimal", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality_Solution", "child": "NagataFactoriality_Applications_Laurent", "via": ["statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.workload_balance", "child": "BellWilliams2001_ThresholdPolicy_Workload", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.unitBallVolumeReal_pos", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.unitBallVolumeReal_pos", "child": "Sqrt6KissingBound_ProfileIntegral", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_pos", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_pos", "child": "Sqrt6KissingBound_ProfileIntegral", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.nagata_theorem_of_prime_or_unit", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.nagata_theorem_of_prime_or_unit", "child": "NagataFactoriality_Nagata_Theorem", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.nagata_theorem_of_prime_or_unit", "child": "NagataFactoriality.Submonoid.zero_notMem_of_prime_or_unit", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.volume_ball_eq_pow_mul_unit", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.volume_ball_eq_pow_mul_unit", "child": "Sqrt6KissingBound_ProfileIntegral", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.volume_ball_eq_pow_mul_unit", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volume_ball_eq_pow_mul_unit", "child": "Sqrt6KissingBound_ProfileIntegral", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.normalizedGaussianCentered_tendsto", "child": "SharpIntermediateSubgroupBounds_Theta", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.normalizedGaussianCentered_tendsto", "child": "SharpIntermediateSubgroupBounds_QBinomial", "via": ["solution", "statement"]}
 {"parent": "SharpIntermediateSubgroupBounds.normalizedGaussianCentered_tendsto", "child": "SharpIntermediateSubgroupBounds_Gaussian", "via": ["solution", "statement"]}
@@ -20938,9 +20938,9 @@
 {"parent": "SharpIntermediateSubgroupBounds.product_elementaryAbelian_even_family", "child": "SharpIntermediateSubgroupBounds_QBinomial", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality_Localization_Properties", "child": "NagataFactoriality_Localization_IsLocalization", "via": ["statement"]}
 {"parent": "NagataFactoriality_Localization_Properties", "child": "NagataFactoriality_Localization_Localization", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.measurableSet_standardBicone", "child": "Sqrt6KissingBound_VolumePacking", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.measurableSet_standardBicone", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.measurableSet_standardBicone", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBicone", "child": "Sqrt6KissingBound_VolumePacking", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBicone", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBicone", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.dvd_of_localization_dvd", "child": "NagataFactoriality_Localization_IsLocalization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.dvd_of_localization_dvd", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.dvd_of_localization_dvd", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
@@ -20957,19 +20957,19 @@
 {"parent": "Sqrt6KissingBound_BiconeGeometry", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound_BiconeGeometry", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound_CenteredBody", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound_BodyVolumeAdditivity", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound_BodyVolumeAdditivity", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["solution", "statement"]}
 {"parent": "Sqrt6KissingBound_CenteredBicone", "child": "Sqrt6KissingBound_VolumePacking", "via": ["statement"]}
 {"parent": "Sqrt6KissingBound_CenteredBicone", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["statement"]}
 {"parent": "NagataFactoriality.prime_of_localization_prime_primeGenerated", "child": "NagataFactoriality_Localization_IsLocalization", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_localization_prime_primeGenerated", "child": "NagataFactoriality_Nagata_Lemmas", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_localization_prime_primeGenerated", "child": "NagataFactoriality_Localization_Properties", "via": ["solution", "statement"]}
 {"parent": "NagataFactoriality.prime_of_localization_prime_primeGenerated", "child": "NagataFactoriality_Basic_UFD", "via": ["solution", "statement"]}
-{"parent": "Sqrt6KissingBound.centeredBody_disjoint", "child": "Sqrt6KissingBound_CenteredBody", "via": ["statement"]}
-{"parent": "Sqrt6KissingBound.centeredBody_disjoint", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.centeredBody_disjoint", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.centeredBody_disjoint", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.residual_process_bounds", "child": "BellWilliams2001.ThresholdPolicy.threshold_residual_event", "via": ["solution"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.state_space_collapse", "child": "BellWilliams2001.ThresholdPolicy.threshold_state_coupling_from_limits", "via": ["solution"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.state_space_collapse", "child": "BellWilliams2001.ThresholdPolicy.fluid_allocation_limit", "via": ["solution"]}
@@ -22144,3 +22144,576 @@
 {"parent": "NagataFactoriality.prime_of_localization_prime_primeGenerated", "child": "NagataFactoriality.listProd_cons", "via": ["solution"]}
 {"parent": "NagataFactoriality.prime_of_localization_prime_primeGenerated", "child": "P2M_NagataFactoriality_IsLocalization_mk__mul_map_9c61a4ca4225", "via": ["solution"]}
 {"parent": "NagataFactoriality.prime_of_localization_prime_primeGenerated", "child": "NagataFactoriality.Localization.mk_mul_mk", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_fourth", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_fourth", "child": "Sqrt6KissingBound_CenteredBody", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_fourth", "child": "Sqrt6KissingBound_DimensionFour", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_centeredBicone", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_centeredBicone", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_centeredBicone", "child": "Sqrt6KissingBound_VolumePacking", "via": ["solution", "statement"]}
+{"parent": "NisanRonen_Rounding_CertificateCriterion", "child": "NisanRonen_Rounding_IsExactRoundedSolver", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_five_gt_six", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_five_gt_six", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.bicone_profile_integral", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.bicone_profile_integral", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.bicone_profile_integral", "child": "Sqrt6KissingBound_BodyVolumeAdditivity", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.bicone_profile_integral", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.bicone_profile_integral", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.realizableKissingCard_zero", "child": "Sqrt6KissingBound_KissingNumber", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.realizableKissingCard_zero", "child": "Sqrt6KissingBound_Optimality", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_root_le_sqrt6", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_root_le_sqrt6", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_root_le_sqrt6", "child": "Sqrt6KissingBound_KissingBound", "via": ["statement"]}
+{"parent": "NisanRonen.Rounding.allocation_certificates_with_spare_machine_or_trivial_instance", "child": "NisanRonen_Rounding_CertificateCriterion", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.sqrt6_le_of_isUniversalKissingBase", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.sqrt6_le_of_isUniversalKissingBase", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.sqrt6_le_of_isUniversalKissingBase", "child": "Sqrt6KissingBound_KissingBound", "via": ["statement"]}
+{"parent": "syracuse_cycle_period_bounds_at_seven_floors", "child": "syracuseStep", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_eightyfive_dim_five", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_eightyfive_dim_five", "child": "Sqrt6KissingBound_BiconeBounds", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_eightyfive_dim_five", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.Palomar.planar_kissingNumber", "child": "Sqrt6KissingBound", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.Palomar.planar_kissingNumber", "child": "Sqrt6KissingBound_Solution", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.standardBicone_subset", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.standardBicone_subset", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.standardBicone_subset", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody3", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody3", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody3", "child": "Sqrt6KissingBound_DimensionThree", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile3_sq", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile3_sq", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile3_sq", "child": "Sqrt6KissingBound_DimensionThree", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_two_dim_one", "child": "Sqrt6KissingBound_DimensionOne", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_two_dim_one", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.standardBody4_subset", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.standardBody4_subset", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.standardBody4_subset", "child": "Sqrt6KissingBound_DimensionFour", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.hexPoint_injective", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.hexPoint_injective", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.hexPoint_injective", "child": "Sqrt6KissingBound_KissingBound", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.upperBody4_subset", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperBody4_subset", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperBody4_subset", "child": "Sqrt6KissingBound_DimensionFour", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_card_le_floor_sqrt6_pow", "child": "Sqrt6KissingBound_DimensionOne", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_card_le_floor_sqrt6_pow", "child": "Sqrt6KissingBound_BiconeBounds", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_card_le_floor_sqrt6_pow", "child": "Sqrt6KissingBound_KissingBound", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_card_le_floor_sqrt6_pow", "child": "Sqrt6KissingBound_DimensionFour", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_card_le_floor_sqrt6_pow", "child": "Sqrt6KissingBound_DimensionThree", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_disjoint_upperBicone", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_disjoint_upperBicone", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_disjoint_upperBicone", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.kissingNumber_realized", "child": "Sqrt6KissingBound_KissingNumber", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.kissingNumber_realized", "child": "Sqrt6KissingBound_Optimality", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_seven", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_seven", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "syracuse_valuation_deficit_small_times_zero_log_density", "child": "syracuseStep", "via": ["statement"]}
+{"parent": "NisanRonen.Rounding.exists_polytime_solver_with_report_certificates", "child": "NisanRonen_Rounding_encodeInstance", "via": ["statement"]}
+{"parent": "NisanRonen.Rounding.exists_polytime_solver_with_report_certificates", "child": "NisanRonen_Rounding_CertificateCriterion", "via": ["statement"]}
+{"parent": "NisanRonen.Rounding.allocation_certificates_of_no_overreport_on_comparator", "child": "NisanRonen_Rounding_CertificateCriterion", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_fifth", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_fifth", "child": "Sqrt6KissingBound_BiconeBounds", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_fifth", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBody3", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBody3", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBody3", "child": "Sqrt6KissingBound_DimensionThree", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.sqrt6_isUniversalKissingBase", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.sqrt6_isUniversalKissingBase", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.sqrt6_isUniversalKissingBase", "child": "Sqrt6KissingBound_KissingBound", "via": ["statement"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.fluid_queue_vanishes_from_bounded_cost", "child": "BellWilliams2001_ThresholdPolicy_Model", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.dimension_mul_two_pow_le_sqrt6_pow", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.dimension_mul_two_pow_le_sqrt6_pow", "child": "Sqrt6KissingBound_BiconeBounds", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.dimension_mul_two_pow_le_sqrt6_pow", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_sq_le", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_sq_le", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_sq_le", "child": "Sqrt6KissingBound_DimensionFour", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound_BodyVolumeAdditivity", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_centeredBicone", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_centeredBicone", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_centeredBicone", "child": "Sqrt6KissingBound_VolumePacking", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_card_le_sqrt6_pow", "child": "Sqrt6KissingBound_DimensionOne", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_card_le_sqrt6_pow", "child": "Sqrt6KissingBound_BiconeBounds", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_card_le_sqrt6_pow", "child": "Sqrt6KissingBound_KissingBound", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_card_le_sqrt6_pow", "child": "Sqrt6KissingBound_DimensionFour", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_card_le_sqrt6_pow", "child": "Sqrt6KissingBound_DimensionThree", "via": ["statement"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.workload_cost_lower_bound_path", "child": "BellWilliams2001_ThresholdPolicy_Workload", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.Palomar.kissingNumber_roots", "child": "Sqrt6KissingBound", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.Palomar.kissingNumber_roots", "child": "Sqrt6KissingBound_Solution", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.sqrt3_lt_1351_div_780", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.sqrt3_lt_1351_div_780", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.sqrt3_lt_1351_div_780", "child": "Sqrt6KissingBound_DimensionFour", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_card_le_kissingNumber", "child": "Sqrt6KissingBound_KissingNumber", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingConfiguration_card_le_kissingNumber", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.planePoint_norm_eq_one", "child": "Sqrt6KissingBound_Optimality", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.planePoint_norm_eq_one", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.planePoint_norm_eq_one", "child": "Sqrt6KissingBound_KissingBound", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.hexPoint_separated", "child": "Sqrt6KissingBound_Optimality", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.hexPoint_separated", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.hexPoint_separated", "child": "Sqrt6KissingBound_KissingBound", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.supremum_kissing_roots_eq_sqrt6", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.supremum_kissing_roots_eq_sqrt6", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.supremum_kissing_roots_eq_sqrt6", "child": "Sqrt6KissingBound_KissingBound", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.standardBody3_subset", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.standardBody3_subset", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.standardBody3_subset", "child": "Sqrt6KissingBound_DimensionThree", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.standardBody4_profile_gt", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.standardBody4_profile_gt", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.standardBody4_profile_gt", "child": "Sqrt6KissingBound_DimensionFour", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_tailBall", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_tailBall", "child": "Sqrt6KissingBound_CoordinateVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_nonneg", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_nonneg", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_nonneg", "child": "Sqrt6KissingBound_DimensionFour", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBody4", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBody4", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBody4", "child": "Sqrt6KissingBound_DimensionFour", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.Palomar.kissingNumber_universal_base", "child": "Sqrt6KissingBound", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.Palomar.kissingNumber_universal_base", "child": "Sqrt6KissingBound_Solution", "via": ["statement"]}
+{"parent": "syracuse_floor_uniform_product_budget", "child": "syracuseStep", "via": ["statement"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.fluid_allocation_balance_bound", "child": "BellWilliams2001_ThresholdPolicy_Model", "via": ["solution", "statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk1", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep17Chunk6", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk8", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk3", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syracuseStep", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk27", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk11", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep17Chunk7", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk6", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk10", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk4", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk14", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep17Chunk2", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk31", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk22", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep17Chunk5", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk13", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk5", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk2", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk16", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk12", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep17Chunk3", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk20", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk8", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk30", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk7", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk9", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk29", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk32", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk4", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk25", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk10", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep17Chunk4", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk15", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk6", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep17Chunk1", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk3", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk7", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep17Chunk9", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk23", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk11", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk5", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk2", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep17Chunk10", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk21", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk14", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk18", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk9", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk12", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk28", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk13", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk17", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk15", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk24", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk1", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep15Chunk16", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syracuseBudgetDescent", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk26", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep16Chunk19", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_after_scaled_return_sieve", "child": "syrFifteenStep17Chunk8", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.isUniversalKissingBase_iff_kissingNumber", "child": "Sqrt6KissingBound_KissingNumber", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.isUniversalKissingBase_iff_kissingNumber", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.admissible_discounted_cost_aemeasurable", "child": "BellWilliams2001_ThresholdPolicy_Model", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.planePoint_norm_sq", "child": "Sqrt6KissingBound_Optimality", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.planePoint_norm_sq", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.planePoint_norm_sq", "child": "Sqrt6KissingBound_KissingBound", "via": ["solution", "statement"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.threshold_idle_one_second_moment", "child": "BellWilliams2001_ThresholdPolicy_Threshold", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound_DimensionThree", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile3_integral", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile3_integral", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile3_integral", "child": "Sqrt6KissingBound_DimensionThree", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.kissingNumber_root_le_sqrt6", "child": "Sqrt6KissingBound_KissingNumber", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingNumber_root_le_sqrt6", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody4", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody4", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody4", "child": "Sqrt6KissingBound_DimensionFour", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.hexPoint_norm", "child": "Sqrt6KissingBound_Optimality", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.hexPoint_norm", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.hexPoint_norm", "child": "Sqrt6KissingBound_KissingBound", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lower_profile_nonneg", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lower_profile_nonneg", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lower_profile_nonneg", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_dim_one", "child": "Sqrt6KissingBound_DimensionOne", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_dim_one", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_one", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_one", "child": "Sqrt6KissingBound_BiconeBounds", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_one", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_subset_unitBall", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_subset_unitBall", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_subset_unitBall", "child": "Sqrt6KissingBound_VolumePacking", "via": ["solution", "statement"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.fluid_allocations_from_vanishing_queues", "child": "BellWilliams2001_ThresholdPolicy_Model", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_one_disjoint_upperBody3", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_one_disjoint_upperBody3", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_one_disjoint_upperBody3", "child": "Sqrt6KissingBound_DimensionThree", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_antitone_from_six", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_antitone_from_six", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_high", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_high", "child": "Sqrt6KissingBound_BiconeBounds", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_high", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_cube", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_cube", "child": "Sqrt6KissingBound_CenteredBody", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_cube", "child": "Sqrt6KissingBound_DimensionThree", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_six_gt_seven", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_six_gt_seven", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound_DimensionFour", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound", "child": "Sqrt6KissingBound_KissingNumber", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBody4", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBody4", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBody4", "child": "Sqrt6KissingBound_DimensionFour", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody4", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody4", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody4", "child": "Sqrt6KissingBound_DimensionFour", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_two_disjoint_upperBody4", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_two_disjoint_upperBody4", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_two_disjoint_upperBody4", "child": "Sqrt6KissingBound_DimensionFour", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.realizableKissingCard_le_kissingNumber", "child": "Sqrt6KissingBound_KissingNumber", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.realizableKissingCard_le_kissingNumber", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_disjoint", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_disjoint", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_disjoint", "child": "Sqrt6KissingBound_VolumePacking", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unit_vector_dim_one_eq_axis_or_neg", "child": "Sqrt6KissingBound_DimensionOne", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.unit_vector_dim_one_eq_axis_or_neg", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.regularHexagon_isKissingConfiguration", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.regularHexagon_isKissingConfiguration", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.regularHexagon_isKissingConfiguration", "child": "Sqrt6KissingBound_KissingBound", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.Palomar.kissingNumber_exists", "child": "Sqrt6KissingBound", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.Palomar.kissingNumber_exists", "child": "Sqrt6KissingBound_Solution", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBicone", "child": "Sqrt6KissingBound_ProfileIntegralReal", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBicone", "child": "Sqrt6KissingBound_BiconeVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBicone", "child": "Sqrt6KissingBound_BodyVolumeAdditivity", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBicone", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBicone", "child": "Sqrt6KissingBound_LinearProfileIntegral", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.isUniversalKissingBase_iff", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.isUniversalKissingBase_iff", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.isUniversalKissingBase_iff", "child": "Sqrt6KissingBound_KissingBound", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.supremum_kissingNumber_roots_eq_sqrt6", "child": "Sqrt6KissingBound_KissingNumber", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.supremum_kissingNumber_roots_eq_sqrt6", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingNumber_universal_base_iff", "child": "Sqrt6KissingBound_KissingNumber", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingNumber_universal_base_iff", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody3", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody3", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody3", "child": "Sqrt6KissingBound_DimensionThree", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.kissingNumber_isGreatest", "child": "Sqrt6KissingBound_KissingNumber", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingNumber_isGreatest", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.primitive_diffusion_second_moment_majorants", "child": "BellWilliams2001_ThresholdPolicy_Workload", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.kissingNumber_le_sqrt6_pow", "child": "Sqrt6KissingBound_KissingNumber", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingNumber_le_sqrt6_pow", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.planePoint_inner", "child": "Sqrt6KissingBound_Optimality", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.planePoint_inner", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.planePoint_inner", "child": "Sqrt6KissingBound_KissingBound", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound_Solution", "child": "Sqrt6KissingBound", "via": ["statement"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.primitive_fluid_limits_in_prob", "child": "BellWilliams2001_ThresholdPolicy_Model", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.upper_profile_nonneg", "child": "Sqrt6KissingBound_BiconeGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upper_profile_nonneg", "child": "Sqrt6KissingBound_ProfileVolume", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upper_profile_nonneg", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.sqrt6_isLeast_universalKissingBase", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.sqrt6_isLeast_universalKissingBase", "child": "Sqrt6KissingBound_StandardGeometry", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.sqrt6_isLeast_universalKissingBase", "child": "Sqrt6KissingBound_KissingBound", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingNumber_two_eq_six", "child": "Sqrt6KissingBound_KissingNumber", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.kissingNumber_two_eq_six", "child": "Sqrt6KissingBound_Optimality", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_sq", "child": "Sqrt6KissingBound_BallVolumes", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_sq", "child": "Sqrt6KissingBound_BiconeBounds", "via": ["statement"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_sq", "child": "Sqrt6KissingBound_CenteredBicone", "via": ["statement"]}
+{"parent": "NisanRonen.Rounding.approximation_iff_report_certificates", "child": "NisanRonen_Rounding_IsDominant", "via": ["statement"]}
+{"parent": "NisanRonen.Rounding.approximation_iff_report_certificates", "child": "NisanRonen_Rounding_CertificateCriterion", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_integral", "child": "Sqrt6KissingBound_BallVolumes", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_integral", "child": "Sqrt6KissingBound_CenteredBody", "via": ["solution", "statement"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_integral", "child": "Sqrt6KissingBound_DimensionFour", "via": ["solution", "statement"]}
+{"parent": "NisanRonen.Rounding.theorem_5_9_rounding_mechanism", "child": "NisanRonen.Rounding.exists_polytime_solver_with_report_certificates", "via": ["solution"]}
+{"parent": "NisanRonen.Rounding.theorem_5_9_rounding_mechanism", "child": "NisanRonen.Rounding.unitMakespan_polytime", "via": ["solution"]}
+{"parent": "NisanRonen.Rounding.theorem_5_9_rounding_mechanism", "child": "NisanRonen.Rounding.approximation_iff_report_certificates", "via": ["solution"]}
+{"parent": "NisanRonen.Rounding.theorem_5_9_rounding_mechanism", "child": "NisanRonen.Rounding.rounding_mechanism_truthful", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_wave7_08_ubv_positive_n_positive_horizon_source_ito_budget", "child": "AvramDividend.Classical.avram_original_gaussian_only_topcap_true_stopped_single_centered_source", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_wave7_08_ubv_positive_n_positive_horizon_source_ito_budget", "child": "AvramDividend.Classical.avram_ubv_hor3_original_single_centered_source_nat_horizon_cash_budget", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_wave7_08_ubv_positive_n_positive_horizon_source_ito_budget", "child": "AvramDividend.Classical.avram_original_gaussian_only_finitecap_true_stopped_single_centered_source", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_wave7_08_ubv_positive_n_positive_horizon_source_ito_budget", "child": "AvramDividend.Classical.avram_p4_f4_original_five_witness_gaussian_plus_jump", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_wave7_08_ubv_positive_n_positive_horizon_source_ito_budget", "child": "AvramDividend.Classical.avram_p4_f4_purejump_original_expected_reward_budget", "via": ["solution"]}
+{"parent": "AlgebraicGeometry.Scheme.nonempty_etale_higherDirectImage_stalk_equiv_projectiveLine_fiber_cohomology", "child": "RPLib_FX_EtPBC_223", "via": ["solution"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.threshold_queue_second_moment", "child": "BellWilliams2001.ThresholdPolicy.primitive_diffusion_second_moment_majorants", "via": ["solution"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.threshold_queue_second_moment", "child": "BellWilliams2001.ThresholdPolicy.threshold_workload_reflection", "via": ["solution"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.threshold_queue_second_moment", "child": "BellWilliams2001.ThresholdPolicy.threshold_idle_one_second_moment", "via": ["solution"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.threshold_queue_second_moment", "child": "BellWilliams2001.ThresholdPolicy.workload_balance", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_subset", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_subset", "child": "Sqrt6KissingBound.lower_point_mem_cone_ball", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_subset", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.lowerBicone_subset", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_formula", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volume_rotationalProfile", "child": "Sqrt6KissingBound.standardCoordinates_measurePreserving", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volume_rotationalProfile", "child": "Sqrt6KissingBound.measurableSet_profileRegion", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volume_rotationalProfile", "child": "Sqrt6KissingBound.volume_profileRegion", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBicone", "child": "Sqrt6KissingBound.measurableSet_rotationalProfile", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBody_subset_unitBall", "child": "Sqrt6KissingBound.centeredBody_subset_cone_ball", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upper_profile_integral", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upper_profile_integral", "child": "Sqrt6KissingBound.integral_const_mul_sub_pow", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upper_profile_integral", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upper_profile_integral", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_rotationalProfile_Ioo", "child": "Sqrt6KissingBound.volume_rotationalProfile_Ioo", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_four", "child": "Sqrt6KissingBound.unitBallVolumeReal_two", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_four", "child": "Sqrt6KissingBound.unitBallVolumeReal_add_two", "via": ["solution"]}
+{"parent": "AlgebraicGeometry.Scheme.ind_bounded_finite_constant_models_of_projectiveLine", "child": "AlgebraicGeometry_EtaleNoetherianBoundedConstantModels", "via": ["solution"]}
+{"parent": "AlgebraicGeometry.Scheme.ind_bounded_finite_constant_models_of_projectiveLine", "child": "AlgebraicGeometry.ProjSpace.isPullback_map", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBody_subset_cone_ball", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBody_subset_cone_ball", "child": "Sqrt6KissingBound.preimage_strictCone_linearIsometryEquiv", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBody_subset_cone_ball", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBody_subset_cone_ball", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBody_subset_cone_ball", "child": "Sqrt6KissingBound.axisTo_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.card_mul_volumeReal_le_unitBall", "child": "Sqrt6KissingBound.sum_volumeReal_le_unitBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_six", "child": "Sqrt6KissingBound.unitBallVolumeReal_four", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_six", "child": "Sqrt6KissingBound.unitBallVolumeReal_add_two", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_five", "child": "Sqrt6KissingBound.unitBallVolumeReal_add_two", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_five", "child": "Sqrt6KissingBound.unitBallVolumeReal_three", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volume_rotationalProfile_Ioo", "child": "Sqrt6KissingBound.volume_rotationalProfile", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volume_rotationalProfile_Ioo", "child": "Sqrt6KissingBound.volume_ball_eq_pow_mul_unit", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.axisTo_standardAxis", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.bicone_packing_inequality", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.bicone_packing_inequality", "child": "Sqrt6KissingBound.volumeReal_centeredBicone", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.bicone_packing_inequality", "child": "Sqrt6KissingBound.centeredBicone_disjoint", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.bicone_packing_inequality", "child": "Sqrt6KissingBound.measurableSet_centeredBicone", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.bicone_packing_inequality", "child": "Sqrt6KissingBound.centeredBicone_subset_unitBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.bicone_packing_inequality", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.bicone_packing_inequality", "child": "Sqrt6KissingBound.card_mul_volumeReal_le_unitBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.bicone_packing_inequality", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upper_point_mem_cone_ball", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upper_point_mem_cone_ball", "child": "Sqrt6KissingBound.standardCoordinates_mem_ball_iff", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upper_point_mem_cone_ball", "child": "Sqrt6KissingBound.standardCoordinates_mem_strictCone_iff", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upper_point_mem_cone_ball", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upper_point_mem_cone_ball", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBody3", "child": "Sqrt6KissingBound.measurableSet_rotationalProfile", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBody3", "child": "Sqrt6KissingBound.continuous_upperProfile3", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_add_two", "child": "Sqrt6KissingBound.unitBallVolumeReal_formula", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volume_profileRegion", "child": "Sqrt6KissingBound.volume_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volume_profileRegion", "child": "Sqrt6KissingBound.measurableSet_profileRegion", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volume_profileRegion", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBicone_subset", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBicone_subset", "child": "Sqrt6KissingBound.upper_point_mem_cone_ball", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBicone_subset", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBicone_subset", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBody3_subset", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBody3_subset", "child": "Sqrt6KissingBound.upperProfile3_nonneg", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBody3_subset", "child": "Sqrt6KissingBound.standardCoordinates_mem_ball_iff", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBody3_subset", "child": "Sqrt6KissingBound.upperProfile3_sq", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBody3_subset", "child": "Sqrt6KissingBound.standardCoordinates_mem_strictCone_iff", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBody3_subset", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBody3_subset", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.lower_profile_integral", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.lower_profile_integral", "child": "Sqrt6KissingBound.integral_div_mul_pow", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.lower_profile_integral", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.lower_profile_integral", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.strictCone_disjoint", "child": "Sqrt6KissingBound.sqrt3_sq_geom", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.lower_point_mem_cone_ball", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.lower_point_mem_cone_ball", "child": "Sqrt6KissingBound.standardCoordinates_mem_ball_iff", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.lower_point_mem_cone_ball", "child": "Sqrt6KissingBound.standardCoordinates_mem_strictCone_iff", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.lower_point_mem_cone_ball", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.lower_point_mem_cone_ball", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_subset_cone_ball", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_subset_cone_ball", "child": "Sqrt6KissingBound.preimage_strictCone_linearIsometryEquiv", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_subset_cone_ball", "child": "Sqrt6KissingBound.standardBicone_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_subset_cone_ball", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_subset_cone_ball", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_subset_cone_ball", "child": "Sqrt6KissingBound.axisTo_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volume_ball_eq_pow_mul_unit", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBicone", "child": "Sqrt6KissingBound.measurableSet_upperBicone", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBicone", "child": "Sqrt6KissingBound.measurableSet_lowerBicone", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound.volumeReal_rotationalProfile_Ioo", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound.lower_profile_integral", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_lowerBicone", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBody_disjoint", "child": "Sqrt6KissingBound.centeredBody_subset_cone_ball", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBody_disjoint", "child": "Sqrt6KissingBound.strictCone_disjoint", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.measurableSet_centeredBicone", "child": "Sqrt6KissingBound.measurableSet_standardBicone", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_five_gt_six", "child": "Sqrt6KissingBound.pi_lt_22_div_7", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_five_gt_six", "child": "Sqrt6KissingBound.unitBallVolumeReal_five", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_five_gt_six", "child": "Sqrt6KissingBound.unitBallVolumeReal_six", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.bicone_profile_integral", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.bicone_profile_integral", "child": "Sqrt6KissingBound.upper_profile_integral", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.bicone_profile_integral", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.bicone_profile_integral", "child": "Sqrt6KissingBound.lower_profile_integral", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.bicone_profile_integral", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.realizableKissingCard_zero", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.realizableKissingCard_zero", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.realizableKissingCard_zero", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "NisanRonen.Rounding.allocation_certificates_with_spare_machine_or_trivial_instance", "child": "NisanRonen.Rounding.rounding_error_bound", "via": ["solution"]}
+{"parent": "syracuse_cycle_period_bounds_at_seven_floors", "child": "syracuse_cycle_pow_two_gt_pow_three", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.standardBicone_subset", "child": "Sqrt6KissingBound.lowerBicone_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.standardBicone_subset", "child": "Sqrt6KissingBound.upperBicone_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody3", "child": "Sqrt6KissingBound.upperBody3_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody3", "child": "Sqrt6KissingBound.lowerBicone_one_disjoint_upperBody3", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody3", "child": "Sqrt6KissingBound.measurableSet_upperBody3", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody3", "child": "Sqrt6KissingBound.lowerBicone_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody3", "child": "Sqrt6KissingBound.volumeReal_lowerBicone", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody3", "child": "Sqrt6KissingBound.volumeReal_upperBody3", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody3", "child": "Sqrt6KissingBound.volumeReal_union_of_subsets_ball", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_two_dim_one", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_two_dim_one", "child": "Sqrt6KissingBound.unit_vector_dim_one_eq_axis_or_neg", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_two_dim_one", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.standardBody4_subset", "child": "Sqrt6KissingBound.upperBody4_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.standardBody4_subset", "child": "Sqrt6KissingBound.lowerBicone_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBody4_subset", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBody4_subset", "child": "Sqrt6KissingBound.standardCoordinates_mem_ball_iff", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBody4_subset", "child": "Sqrt6KissingBound.standardCoordinates_mem_strictCone_iff", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBody4_subset", "child": "Sqrt6KissingBound.upperProfile4_sq_le", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBody4_subset", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBody4_subset", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperBody4_subset", "child": "Sqrt6KissingBound.upperProfile4_nonneg", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.kissingNumber_realized", "child": "Sqrt6KissingBound.realizableKissingCard_zero", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_seven", "child": "Sqrt6KissingBound.unitBallVolumeReal_five", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_seven", "child": "Sqrt6KissingBound.unitBallVolumeReal_add_two", "via": ["solution"]}
+{"parent": "syracuse_valuation_deficit_small_times_zero_log_density", "child": "syracuse_uniform_logarithmic_tail_bound_ge_three", "via": ["solution"]}
+{"parent": "NisanRonen.Rounding.allocation_certificates_of_no_overreport_on_comparator", "child": "NisanRonen.Rounding.rounding_error_bound", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBody3", "child": "Sqrt6KissingBound.measurableSet_upperBody3", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBody3", "child": "Sqrt6KissingBound.measurableSet_lowerBicone", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.dimension_mul_two_pow_le_sqrt6_pow", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.dimension_mul_two_pow_le_sqrt6_pow", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.dimension_mul_two_pow_le_sqrt6_pow", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_sq_le", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_sq_le", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_sq_le", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound.measurableSet_upperBicone", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound.volumeReal_upperBicone", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound.upperBicone_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound.lowerBicone_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound.volumeReal_lowerBicone", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound.lowerBicone_disjoint_upperBicone", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound.volumeReal_union_of_subsets_ball", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBicone", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_centeredBicone", "child": "Sqrt6KissingBound.volumeReal_standardBicone", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_centeredBicone", "child": "Sqrt6KissingBound.measurableSet_standardBicone", "via": ["solution"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.workload_cost_lower_bound_path", "child": "BellWilliams2001.ThresholdPolicy.workload_balance", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.planePoint_norm_eq_one", "child": "Sqrt6KissingBound.planePoint_norm_sq", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.hexPoint_separated", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.hexPoint_separated", "child": "Sqrt6KissingBound.planePoint_inner", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.hexPoint_separated", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.hexPoint_separated", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.standardBody3_subset", "child": "Sqrt6KissingBound.upperBody3_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.standardBody3_subset", "child": "Sqrt6KissingBound.lowerBicone_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.standardBody4_profile_gt", "child": "Sqrt6KissingBound.sqrt3_lt_1351_div_780", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_nonneg", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_nonneg", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_nonneg", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBody4", "child": "Sqrt6KissingBound.measurableSet_upperBody4", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.measurableSet_standardBody4", "child": "Sqrt6KissingBound.measurableSet_lowerBicone", "via": ["solution"]}
+{"parent": "syracuse_floor_uniform_product_budget", "child": "syracuse_uniform_logarithmic_tail_bound_ge_three", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.planePoint_norm_sq", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.planePoint_norm_sq", "child": "Sqrt6KissingBound.norm_sq_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.planePoint_norm_sq", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.planePoint_norm_sq", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.threshold_idle_one_second_moment", "child": "BellWilliams2001.ThresholdPolicy.threshold_residual_event", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound.centeredBody_subset_unitBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound.measurableSet_centeredBody", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound.volumeReal_standardBody3", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound.standardBody3_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound.measurableSet_standardBody3", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound.centeredBody_disjoint", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound.volumeReal_centeredBody", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound.unitBallVolumeReal_two", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound.card_mul_volumeReal_le_unitBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_fourteen_dim_three", "child": "Sqrt6KissingBound.unitBallVolumeReal_three", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperProfile3_integral", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperProfile3_integral", "child": "Sqrt6KissingBound.upperProfile3_sq", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperProfile3_integral", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperProfile3_integral", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody4", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody4", "child": "Sqrt6KissingBound.volumeReal_rotationalProfile_Ioo", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody4", "child": "Sqrt6KissingBound.continuous_upperProfile4", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody4", "child": "Sqrt6KissingBound.upperProfile4_nonneg", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody4", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody4", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody4", "child": "Sqrt6KissingBound.upperProfile4_integral", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.hexPoint_norm", "child": "Sqrt6KissingBound.planePoint_norm_eq_one", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_sqrt6_dim_one", "child": "Sqrt6KissingBound.code_card_le_two_dim_one", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_one", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_one", "child": "Sqrt6KissingBound.unitBallVolumeReal_formula", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_one", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_one", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_subset_unitBall", "child": "Sqrt6KissingBound.centeredBicone_subset_cone_ball", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_antitone_from_six", "child": "Sqrt6KissingBound.unitBallVolumeReal_six_gt_seven", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_antitone_from_six", "child": "Sqrt6KissingBound.unitBallVolumeReal_five_gt_six", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_antitone_from_six", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_antitone_from_six", "child": "Sqrt6KissingBound.unitBallVolumeReal_add_two", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_six_gt_seven", "child": "Sqrt6KissingBound.unitBallVolumeReal_seven", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unitBallVolumeReal_six_gt_seven", "child": "Sqrt6KissingBound.unitBallVolumeReal_six", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.centeredBody_subset_unitBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.pi_lt_22_div_7", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.standardBody4_profile_gt", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.unitBallVolumeReal_four", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.measurableSet_centeredBody", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.centeredBody_disjoint", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.volumeReal_centeredBody", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.measurableSet_standardBody4", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.standardBody4_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.volumeReal_standardBody4", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.card_mul_volumeReal_le_unitBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.code_card_le_thirtysix_dim_four", "child": "Sqrt6KissingBound.unitBallVolumeReal_three", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBody4", "child": "Sqrt6KissingBound.measurableSet_rotationalProfile", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.measurableSet_upperBody4", "child": "Sqrt6KissingBound.continuous_upperProfile4", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody4", "child": "Sqrt6KissingBound.lowerBicone_two_disjoint_upperBody4", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody4", "child": "Sqrt6KissingBound.measurableSet_upperBody4", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody4", "child": "Sqrt6KissingBound.upperBody4_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody4", "child": "Sqrt6KissingBound.lowerBicone_subset", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody4", "child": "Sqrt6KissingBound.volumeReal_lowerBicone", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody4", "child": "Sqrt6KissingBound.volumeReal_upperBody4", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_standardBody4", "child": "Sqrt6KissingBound.volumeReal_union_of_subsets_ball", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_disjoint", "child": "Sqrt6KissingBound.strictCone_disjoint", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.centeredBicone_disjoint", "child": "Sqrt6KissingBound.centeredBicone_subset_cone_ball", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unit_vector_dim_one_eq_axis_or_neg", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.unit_vector_dim_one_eq_axis_or_neg", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Erdos287.large_prime_product_divides_reciprocal_denominator", "child": "Erdos287.exact_prime_power_in_reduced_denominator", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBicone", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBicone", "child": "Sqrt6KissingBound.upper_profile_integral", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBicone", "child": "Sqrt6KissingBound.volumeReal_rotationalProfile_Ioo", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBicone", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBicone", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody3", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody3", "child": "Sqrt6KissingBound.upperProfile3_integral", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody3", "child": "Sqrt6KissingBound.upperProfile3_nonneg", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody3", "child": "Sqrt6KissingBound.volumeReal_rotationalProfile_Ioo", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody3", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody3", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.volumeReal_upperBody3", "child": "Sqrt6KissingBound.continuous_upperProfile3", "via": ["solution"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.primitive_diffusion_second_moment_majorants", "child": "BellWilliams2001.ThresholdPolicy.renewal_inverse_moment", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.planePoint_inner", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.planePoint_inner", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.planePoint_inner", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.primitive_fluid_limits_in_prob", "child": "AvramDividend.Classical.dyadic_ceiling_time_ge_nnreal", "via": ["solution"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.primitive_fluid_limits_in_prob", "child": "BellWilliams2001.ThresholdPolicy.primitive_fluid_limits_ae", "via": ["solution"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.primitive_fluid_limits_in_prob", "child": "AvramDividend.Classical.dyadic_ceiling_nnreal_tendsto", "via": ["solution"]}
+{"parent": "NisanRonen.Rounding.approximation_iff_report_certificates", "child": "NisanRonen.Rounding.dominant_iff_rounded_optimal", "via": ["solution"]}
+{"parent": "NisanRonen.Rounding.approximation_iff_report_certificates", "child": "NisanRonen.Rounding.rounding_error_bound", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_integral", "child": "Sqrt6KissingBound.norm_standardAxis", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_integral", "child": "Sqrt6KissingBound.inner_standardAxis_standardCoordinates", "via": ["solution"]}
+{"parent": "Sqrt6KissingBound.upperProfile4_integral", "child": "Sqrt6KissingBound.mem_tailBall", "via": ["solution"]}

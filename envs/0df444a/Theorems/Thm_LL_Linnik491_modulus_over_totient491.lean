@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Linnik491_modulus_over_totient491
 -- name    : LL_Linnik491.modulus_over_totient491
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-25T04:00:59.421804+00:00
 -- url     : https://prove2.me/theorems/43cf733c-fb6d-587b-b33a-c6c9c247d772

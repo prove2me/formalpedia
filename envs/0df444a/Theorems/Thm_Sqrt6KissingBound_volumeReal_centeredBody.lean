@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_volumeReal_centeredBody
 -- name    : Sqrt6KissingBound.volumeReal_centeredBody
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:08:33.551804+00:00
 -- url     : https://prove2.me/theorems/4b108f28-4c89-5a82-9b51-e9b5e0f41893

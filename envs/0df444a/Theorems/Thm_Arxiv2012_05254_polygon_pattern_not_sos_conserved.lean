@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2012_05254_polygon_pattern_not_sos_conserved
 -- name    : Arxiv2012_05254.polygon_pattern_not_sos_conserved
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T04:49:56.397158+00:00
 -- url     : https://prove2.me/theorems/8f3858a0-a049-436c-8105-0e7f34d878e2

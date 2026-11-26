@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_centeredBody_disjoint
 -- name    : Sqrt6KissingBound.centeredBody_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:09:11.248007+00:00
 -- url     : https://prove2.me/theorems/efa731b9-9f2a-4f1a-a9a1-f45add979243

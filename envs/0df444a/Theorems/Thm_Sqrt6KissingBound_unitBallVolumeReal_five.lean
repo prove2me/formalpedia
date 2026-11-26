@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_unitBallVolumeReal_five
 -- name    : Sqrt6KissingBound.unitBallVolumeReal_five
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:06:18.55441+00:00
 -- url     : https://prove2.me/theorems/1f2332ba-f264-4a86-905e-1bf06d199507

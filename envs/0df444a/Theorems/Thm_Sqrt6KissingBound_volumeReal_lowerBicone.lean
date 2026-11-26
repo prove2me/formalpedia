@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_volumeReal_lowerBicone
 -- name    : Sqrt6KissingBound.volumeReal_lowerBicone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:06:29.74593+00:00
 -- url     : https://prove2.me/theorems/ed95c3d0-df76-5276-ba71-76a001ee5748

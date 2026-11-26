@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_standardCoordinates_measurePreserving
 -- name    : Sqrt6KissingBound.standardCoordinates_measurePreserving
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:02:56.933539+00:00
 -- url     : https://prove2.me/theorems/9df2e1c6-c1d4-422c-b979-a1ef4f4f190e

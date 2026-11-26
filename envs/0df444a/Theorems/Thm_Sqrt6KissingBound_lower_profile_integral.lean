@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sqrt6KissingBound_lower_profile_integral
 -- name    : Sqrt6KissingBound.lower_profile_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T06:07:33.003881+00:00
 -- url     : https://prove2.me/theorems/8d1983b4-cfc7-4fa6-b933-3c0a71976d6c
