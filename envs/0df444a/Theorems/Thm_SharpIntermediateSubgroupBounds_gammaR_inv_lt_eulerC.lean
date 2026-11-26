@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_gammaR_inv_lt_eulerC
 -- name    : SharpIntermediateSubgroupBounds.gammaR_inv_lt_eulerC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:41:02.824803+00:00
 -- url     : https://prove2.me/theorems/8b59dc97-198c-51ff-b6e6-f070c70cecb3

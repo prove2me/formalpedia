@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_normalizedGaussianRight_le_eulerC
 -- name    : SharpIntermediateSubgroupBounds.normalizedGaussianRight_le_eulerC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:47:38.306399+00:00
 -- url     : https://prove2.me/theorems/2130d934-e1e2-4f12-af0f-e992314c677b

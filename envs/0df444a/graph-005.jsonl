@@ -5828,7 +5828,7 @@
 {"parent": "IntMul.HvdH.prop_4_7_fp", "child": "IntMul_HvdH_FPApprox", "via": ["solution", "statement"]}
 {"parent": "NoHair_KerrNewmanEinstein_Ricci2", "child": "NoHair_KerrNewmanEinstein_Base", "via": ["statement"]}
 {"parent": "QAlgorithms_Nannicini_Ch05a_Model", "child": "QAlgorithms_Defs_GradientMethods", "via": ["statement"]}
-{"parent": "SingularCardinals.scott", "child": "SingularCardinals_largeCardinals", "via": ["statement"]}
+{"parent": "SingularCardinals.scott", "child": "SingularCardinals_largeCardinals", "via": ["solution", "statement"]}
 {"parent": "PlatformFinance.EndogRate.G1_sign_change_high_cost", "child": "PlatformFinance_EndogRate_Model", "via": ["statement"]}
 {"parent": "actuarial_d_arrears_last_identity", "child": "actuarial_d_arrearsLast", "via": ["solution", "statement"]}
 {"parent": "actuarial_d_arrears_last_identity", "child": "actuarial_d_arrearsX", "via": ["solution", "statement"]}

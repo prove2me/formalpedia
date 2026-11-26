@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_qBinom_cast_real_eq_gammaR
 -- name    : SharpIntermediateSubgroupBounds.qBinom_cast_real_eq_gammaR
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:43:22.612796+00:00
 -- url     : https://prove2.me/theorems/4309233e-9aa3-4efe-8b0c-0e87b249a8c5

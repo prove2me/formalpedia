@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_band_raw_sum_bound
 -- name    : SharpIntermediateSubgroupBounds.band_raw_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:45:24.61413+00:00
 -- url     : https://prove2.me/theorems/0ab2132f-1b31-457d-bda3-255b2ab74809

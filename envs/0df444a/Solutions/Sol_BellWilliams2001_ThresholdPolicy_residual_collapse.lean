@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BellWilliams2001.ThresholdPolicy.residual_collapse
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Jie Luo
 -- created : 2026-11-26T05:29:17.783469+00:00
 -- url     : https://prove2.me/submissions/fdf40c1f-28d4-4649-9600-37e4ae3e2c78
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_BellWilliams2001_ThresholdPolicy_residual_process_bounds
 

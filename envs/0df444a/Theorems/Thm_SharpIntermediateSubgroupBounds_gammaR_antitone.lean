@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_gammaR_antitone
 -- name    : SharpIntermediateSubgroupBounds.gammaR_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:47:22.557144+00:00
 -- url     : https://prove2.me/theorems/0b2e947a-aaa4-4f2e-8c01-4400916270f2

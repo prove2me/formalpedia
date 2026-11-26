@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_layer_raw_sum_bound
 -- name    : SharpIntermediateSubgroupBounds.layer_raw_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:45:53.849085+00:00
 -- url     : https://prove2.me/theorems/cc892152-572c-452d-80ec-58ae84050fb1

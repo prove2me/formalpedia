@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_oddGaussianSummand_tendsto
 -- name    : SharpIntermediateSubgroupBounds.oddGaussianSummand_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:05.127572+00:00
 -- url     : https://prove2.me/theorems/f4ebb3e6-3faa-4624-956a-66e16e041125

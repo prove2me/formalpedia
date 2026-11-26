@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_shiftedTheta_half_eq_quarterShiftScale_mul_tsum
 -- name    : SharpIntermediateSubgroupBounds.shiftedTheta_half_eq_quarterShiftScale_mul_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:13.016296+00:00
 -- url     : https://prove2.me/theorems/8f17522f-736d-4bc8-9ecd-15c7a47e4eab

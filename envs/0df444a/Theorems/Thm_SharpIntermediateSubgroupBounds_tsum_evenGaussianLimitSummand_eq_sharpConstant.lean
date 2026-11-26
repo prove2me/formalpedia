@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_tsum_evenGaussianLimitSummand_eq_sharpConstant
 -- name    : SharpIntermediateSubgroupBounds.tsum_evenGaussianLimitSummand_eq_sharpConstant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:43:34.71413+00:00
 -- url     : https://prove2.me/theorems/637695bb-55a5-5214-b201-fe44b077616d

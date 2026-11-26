@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_elementary_interval_bound_all
 -- name    : SharpIntermediateSubgroupBounds.elementary_interval_bound_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:26.971804+00:00
 -- url     : https://prove2.me/theorems/c7b7c568-a503-5a2d-8d21-dfccb0ce3ab6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_interval_card_lt_universal_rpow
 -- name    : SharpIntermediateSubgroupBounds.interval_card_lt_universal_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:44:47.178814+00:00
 -- url     : https://prove2.me/theorems/6a6e4d5e-55b7-44ab-b081-552628363aa4

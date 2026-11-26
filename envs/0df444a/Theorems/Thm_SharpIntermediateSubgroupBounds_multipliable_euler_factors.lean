@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_multipliable_euler_factors
 -- name    : SharpIntermediateSubgroupBounds.multipliable_euler_factors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:34.092038+00:00
 -- url     : https://prove2.me/theorems/f90b562b-e56b-57de-8f5c-81fd330ecde0

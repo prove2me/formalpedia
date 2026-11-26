@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_evenGaussianSummand_tendsto
 -- name    : SharpIntermediateSubgroupBounds.evenGaussianSummand_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:47:53.393695+00:00
 -- url     : https://prove2.me/theorems/6621165d-57c9-45cb-ae56-4b0d4de3058a

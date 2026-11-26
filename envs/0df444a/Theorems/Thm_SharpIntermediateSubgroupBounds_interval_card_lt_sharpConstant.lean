@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_interval_card_lt_sharpConstant
 -- name    : SharpIntermediateSubgroupBounds.interval_card_lt_sharpConstant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:44:31.794901+00:00
 -- url     : https://prove2.me/theorems/bd9c6ba2-d522-5610-b3bc-91cda7d42cbc

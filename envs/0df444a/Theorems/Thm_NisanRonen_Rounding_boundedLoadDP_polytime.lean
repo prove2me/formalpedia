@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NisanRonen_Rounding_boundedLoadDP_polytime
 -- name    : NisanRonen.Rounding.boundedLoadDP_polytime
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T05:34:47.918153+00:00
 -- url     : https://prove2.me/theorems/a42cef74-8156-5704-91f8-067316a60c99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_relative_escape_raw
 -- name    : SharpIntermediateSubgroupBounds.relative_escape_raw
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:42:25.879975+00:00
 -- url     : https://prove2.me/theorems/576990af-20f5-5ec7-9e19-50285c1e0947

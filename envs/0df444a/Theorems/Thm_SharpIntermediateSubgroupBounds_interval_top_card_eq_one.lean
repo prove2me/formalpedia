@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_interval_top_card_eq_one
 -- name    : SharpIntermediateSubgroupBounds.interval_top_card_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:23.484838+00:00
 -- url     : https://prove2.me/theorems/116933c3-97e0-4064-b10c-487bda18b042

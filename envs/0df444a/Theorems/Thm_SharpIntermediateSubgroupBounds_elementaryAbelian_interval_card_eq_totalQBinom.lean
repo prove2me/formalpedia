@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_elementaryAbelian_interval_card_eq_totalQBinom
 -- name    : SharpIntermediateSubgroupBounds.elementaryAbelian_interval_card_eq_totalQBinom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:43:48.294068+00:00
 -- url     : https://prove2.me/theorems/32937140-2c0a-539b-af6c-7a0f7ed49282

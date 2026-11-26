@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_card_finrankSubspaces_mul_frameProd
 -- name    : SharpIntermediateSubgroupBounds.card_finrankSubspaces_mul_frameProd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:47:06.493028+00:00
 -- url     : https://prove2.me/theorems/f0acd9a9-f65d-4a84-a746-e58fa24872d3

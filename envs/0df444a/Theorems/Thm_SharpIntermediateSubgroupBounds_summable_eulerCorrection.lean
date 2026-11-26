@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_summable_eulerCorrection
 -- name    : SharpIntermediateSubgroupBounds.summable_eulerCorrection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:30.997965+00:00
 -- url     : https://prove2.me/theorems/9bbebdc0-f55e-5c5e-bdf5-7b20c2bb4e8f

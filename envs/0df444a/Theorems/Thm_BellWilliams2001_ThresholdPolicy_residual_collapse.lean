@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellWilliams2001_ThresholdPolicy_residual_collapse
 -- name    : BellWilliams2001.ThresholdPolicy.residual_collapse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:31:48.007192+00:00
 -- url     : https://prove2.me/theorems/5f89e065-cc12-4bb9-839a-0059bfda77b7

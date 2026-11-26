@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_intermediate_interval_card_le_totalQBinom
 -- name    : SharpIntermediateSubgroupBounds.intermediate_interval_card_le_totalQBinom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:49:58.081436+00:00
 -- url     : https://prove2.me/theorems/5203298a-749a-5c55-87c8-4a4cad04cf6d

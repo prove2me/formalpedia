@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_subgroupOf_injective_of_pretransitive
 -- name    : SharpIntermediateSubgroupBounds.subgroupOf_injective_of_pretransitive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:49:53.038804+00:00
 -- url     : https://prove2.me/theorems/68905c9a-7907-5c8c-8d47-88d39253b9d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_totalQBinom_even_split
 -- name    : SharpIntermediateSubgroupBounds.totalQBinom_even_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:47:09.241221+00:00
 -- url     : https://prove2.me/theorems/16290647-1c4d-56d1-a830-b5931f763bae

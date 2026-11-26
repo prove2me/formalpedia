@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_pretransitive_quotient_of_le
 -- name    : SharpIntermediateSubgroupBounds.pretransitive_quotient_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:49:49.883638+00:00
 -- url     : https://prove2.me/theorems/88befde1-d68e-58ed-b087-1550384032f7

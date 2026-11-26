@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_card_orderedBases_fin_zmod_cast_eq_gammaR
 -- name    : SharpIntermediateSubgroupBounds.card_orderedBases_fin_zmod_cast_eq_gammaR
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:47:30.573872+00:00
 -- url     : https://prove2.me/theorems/86d5fc56-093d-4188-87a8-e8859931cf14

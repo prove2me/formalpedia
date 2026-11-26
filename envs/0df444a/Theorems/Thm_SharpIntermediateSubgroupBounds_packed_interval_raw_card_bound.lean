@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_packed_interval_raw_card_bound
 -- name    : SharpIntermediateSubgroupBounds.packed_interval_raw_card_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:14.496484+00:00
 -- url     : https://prove2.me/theorems/c9625f56-bd82-5d9d-ba83-8ca3ab939714

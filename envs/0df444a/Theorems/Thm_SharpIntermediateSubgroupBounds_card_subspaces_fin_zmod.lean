@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_card_subspaces_fin_zmod
 -- name    : SharpIntermediateSubgroupBounds.card_subspaces_fin_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:43:01.613806+00:00
 -- url     : https://prove2.me/theorems/46a9304f-ac98-4b40-b58d-e3960cdfe759

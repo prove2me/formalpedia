@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagataFactoriality_IsLocalization_map_eq_iff
 -- name    : NagataFactoriality.IsLocalization.map_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:49:32.502419+00:00
 -- url     : https://prove2.me/theorems/3955866b-7067-5f6b-969a-6a08e75fb7ed

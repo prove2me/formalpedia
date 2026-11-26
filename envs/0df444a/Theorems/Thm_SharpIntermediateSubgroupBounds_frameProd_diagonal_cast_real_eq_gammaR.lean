@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_frameProd_diagonal_cast_real_eq_gammaR
 -- name    : SharpIntermediateSubgroupBounds.frameProd_diagonal_cast_real_eq_gammaR
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:47:22.700541+00:00
 -- url     : https://prove2.me/theorems/fbb975e2-da50-4e25-9d4b-5d84bd386cd0

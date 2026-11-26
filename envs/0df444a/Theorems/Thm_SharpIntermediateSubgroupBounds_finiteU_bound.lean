@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_finiteU_bound
 -- name    : SharpIntermediateSubgroupBounds.finiteU_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:44:07.230056+00:00
 -- url     : https://prove2.me/theorems/09a32851-ac77-457d-8430-4c9a4c186165

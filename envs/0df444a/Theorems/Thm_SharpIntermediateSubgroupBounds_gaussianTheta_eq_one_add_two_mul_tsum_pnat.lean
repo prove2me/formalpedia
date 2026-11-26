@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_gaussianTheta_eq_one_add_two_mul_tsum_pnat
 -- name    : SharpIntermediateSubgroupBounds.gaussianTheta_eq_one_add_two_mul_tsum_pnat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:40.398077+00:00
 -- url     : https://prove2.me/theorems/e3321700-931a-5670-bc45-f96bc4f9678b

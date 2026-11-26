@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagataFactoriality_IsLocalization_dvd_map_iff
 -- name    : NagataFactoriality.IsLocalization.dvd_map_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:18.856709+00:00
 -- url     : https://prove2.me/theorems/b68674f0-699e-4061-8a48-2d7f3c1442a7

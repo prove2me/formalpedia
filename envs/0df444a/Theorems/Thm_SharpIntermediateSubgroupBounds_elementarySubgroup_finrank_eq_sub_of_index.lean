@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_elementarySubgroup_finrank_eq_sub_of_index
 -- name    : SharpIntermediateSubgroupBounds.elementarySubgroup_finrank_eq_sub_of_index
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:50:10.528536+00:00
 -- url     : https://prove2.me/theorems/ec2e2211-1890-4dbf-9735-98637374af7a

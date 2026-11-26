@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_escape_path_branchProduct_bound
 -- name    : SharpIntermediateSubgroupBounds.escape_path_branchProduct_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:45:05.934954+00:00
 -- url     : https://prove2.me/theorems/593f2ea6-faf3-446e-b082-2471e6a1ad35

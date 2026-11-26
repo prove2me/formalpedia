@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_quarterShiftScale_mul_centered_power
 -- name    : SharpIntermediateSubgroupBounds.quarterShiftScale_mul_centered_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:24.529629+00:00
 -- url     : https://prove2.me/theorems/38ee448b-0983-452e-83ef-f427beb2b397

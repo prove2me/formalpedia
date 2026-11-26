@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_relative_escape_coset
 -- name    : SharpIntermediateSubgroupBounds.relative_escape_coset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:42:52.259606+00:00
 -- url     : https://prove2.me/theorems/72da69e6-918d-41cd-b02b-53dd4ab440d4

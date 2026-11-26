@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_manuscript_elementaryAbelian_displayed_ratio_tendsto_sharpConstant
 -- name    : SharpIntermediateSubgroupBounds.manuscript_elementaryAbelian_displayed_ratio_tendsto_sharpConstant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:11.311971+00:00
 -- url     : https://prove2.me/theorems/fb070c70-c772-574a-9f59-cffdf4540865

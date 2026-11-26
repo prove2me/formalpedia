@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_primePowerU_even_rank_asymptotic
 -- name    : SharpIntermediateSubgroupBounds.primePowerU_even_rank_asymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:40.934458+00:00
 -- url     : https://prove2.me/theorems/4aa1e6b1-0c0d-4a35-a4e9-5c83acd62260

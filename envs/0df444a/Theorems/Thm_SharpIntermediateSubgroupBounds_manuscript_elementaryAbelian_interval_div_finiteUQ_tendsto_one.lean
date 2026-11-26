@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_manuscript_elementaryAbelian_interval_div_finiteUQ_tendsto_one
 -- name    : SharpIntermediateSubgroupBounds.manuscript_elementaryAbelian_interval_div_finiteUQ_tendsto_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:12.701335+00:00
 -- url     : https://prove2.me/theorems/9102b2a5-2202-5ce5-b8bc-bbf2bcacc4e5

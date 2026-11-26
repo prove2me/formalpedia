@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_exists_sylow_pretransitive_of_index_primePower
 -- name    : SharpIntermediateSubgroupBounds.exists_sylow_pretransitive_of_index_primePower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:49:47.731313+00:00
 -- url     : https://prove2.me/theorems/77819ef7-fd4d-53d1-8f7f-90164883f031

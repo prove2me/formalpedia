@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellWilliams2001_ThresholdPolicy_residual_process_bounds
 -- name    : BellWilliams2001.ThresholdPolicy.residual_process_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:31:27.080984+00:00
 -- url     : https://prove2.me/theorems/a614bdd4-7d40-41b0-95c3-7e9b8ca348ff

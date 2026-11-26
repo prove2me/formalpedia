@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_no_vanishing_normalized_bound
 -- name    : SharpIntermediateSubgroupBounds.no_vanishing_normalized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:36.205547+00:00
 -- url     : https://prove2.me/theorems/2d737a6f-f922-53b5-98b5-74dffd5ae24e

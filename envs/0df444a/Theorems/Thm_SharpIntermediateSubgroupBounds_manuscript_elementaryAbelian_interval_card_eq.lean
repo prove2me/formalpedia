@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_manuscript_elementaryAbelian_interval_card_eq
 -- name    : SharpIntermediateSubgroupBounds.manuscript_elementaryAbelian_interval_card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:21.62923+00:00
 -- url     : https://prove2.me/theorems/37ccd0bd-93c3-4653-8b9f-746a914cd290

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NisanRonen_Rounding_rounded_problem_exact_polytime
 -- name    : NisanRonen.Rounding.rounded_problem_exact_polytime
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:24:10.216994+00:00
 -- url     : https://prove2.me/theorems/2f9abde2-fce7-4de4-b400-cdc6b4c2d686

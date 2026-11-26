@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_intermediateSubgroups_card_eq_Ici
 -- name    : SharpIntermediateSubgroupBounds.intermediateSubgroups_card_eq_Ici
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:49:50.490798+00:00
 -- url     : https://prove2.me/theorems/a4b67d86-6b44-4506-a6f6-fc3a6dfebf1c

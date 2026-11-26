@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_qBinom_mul_frameProd
 -- name    : SharpIntermediateSubgroupBounds.qBinom_mul_frameProd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:56.267322+00:00
 -- url     : https://prove2.me/theorems/07a04b64-0bfe-4b7c-aed7-b53ef2d1bdd6

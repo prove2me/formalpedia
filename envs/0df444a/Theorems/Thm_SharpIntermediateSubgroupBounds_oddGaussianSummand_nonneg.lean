@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_oddGaussianSummand_nonneg
 -- name    : SharpIntermediateSubgroupBounds.oddGaussianSummand_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:13.683548+00:00
 -- url     : https://prove2.me/theorems/e88f640a-f19d-4580-88ea-736a5a6b4fb9

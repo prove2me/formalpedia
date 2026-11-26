@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_gammaQ_succ_le
 -- name    : SharpIntermediateSubgroupBounds.gammaQ_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:44:54.53432+00:00
 -- url     : https://prove2.me/theorems/ff40c7cd-a00b-4a24-b0db-8d07f218ce73

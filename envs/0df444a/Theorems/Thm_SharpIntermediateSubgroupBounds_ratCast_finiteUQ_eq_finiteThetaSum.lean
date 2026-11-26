@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_ratCast_finiteUQ_eq_finiteThetaSum
 -- name    : SharpIntermediateSubgroupBounds.ratCast_finiteUQ_eq_finiteThetaSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:44:28.043524+00:00
 -- url     : https://prove2.me/theorems/7d1c8b33-0871-590f-9cab-06a3cd9a08b0

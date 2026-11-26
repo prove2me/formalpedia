@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_card_finrankSubspaces_eq_qBinom
 -- name    : SharpIntermediateSubgroupBounds.card_finrankSubspaces_eq_qBinom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:47:04.980528+00:00
 -- url     : https://prove2.me/theorems/913cd1d0-7940-4c5b-ac8d-fcf838be84a2

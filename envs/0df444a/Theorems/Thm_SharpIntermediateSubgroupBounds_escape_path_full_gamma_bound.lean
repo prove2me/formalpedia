@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_escape_path_full_gamma_bound
 -- name    : SharpIntermediateSubgroupBounds.escape_path_full_gamma_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:44:55.846258+00:00
 -- url     : https://prove2.me/theorems/78d984b1-9bc6-5912-8f59-a75d8584c500

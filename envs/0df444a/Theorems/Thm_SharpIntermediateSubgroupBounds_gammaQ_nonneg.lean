@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_gammaQ_nonneg
 -- name    : SharpIntermediateSubgroupBounds.gammaQ_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:42:39.23824+00:00
 -- url     : https://prove2.me/theorems/3cccb321-de25-50bc-a984-4661e7685001

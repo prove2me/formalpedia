@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_normal_elementaryAbelian_quotient_interval_card_eq
 -- name    : SharpIntermediateSubgroupBounds.normal_elementaryAbelian_quotient_interval_card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:44:04.420538+00:00
 -- url     : https://prove2.me/theorems/ad687b46-5063-5c99-9859-37c1c6dfccab

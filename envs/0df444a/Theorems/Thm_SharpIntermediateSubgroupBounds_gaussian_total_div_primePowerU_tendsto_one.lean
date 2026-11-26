@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_gaussian_total_div_primePowerU_tendsto_one
 -- name    : SharpIntermediateSubgroupBounds.gaussian_total_div_primePowerU_tendsto_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:39.124235+00:00
 -- url     : https://prove2.me/theorems/c12423ba-9170-4765-98c2-57250992f1d8

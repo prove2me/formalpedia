@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_eulerC_pos
 -- name    : SharpIntermediateSubgroupBounds.eulerC_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:40:59.812017+00:00
 -- url     : https://prove2.me/theorems/93318a1f-5984-40e9-8290-a8115ca71221

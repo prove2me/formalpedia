@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_sharpConstant_le_of_even_rank_bound
 -- name    : SharpIntermediateSubgroupBounds.sharpConstant_le_of_even_rank_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:42.716317+00:00
 -- url     : https://prove2.me/theorems/756b73f0-acb7-4622-ba39-fd012e4721f7

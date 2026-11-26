@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_gammaQ_mono_base
 -- name    : SharpIntermediateSubgroupBounds.gammaQ_mono_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:42:42.084845+00:00
 -- url     : https://prove2.me/theorems/e28bc340-50e5-5b6d-b221-19c21dd8cddf

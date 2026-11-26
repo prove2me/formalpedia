@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_summable_nat_odd_gaussian_inv_pow
 -- name    : SharpIntermediateSubgroupBounds.summable_nat_odd_gaussian_inv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:47:58.514375+00:00
 -- url     : https://prove2.me/theorems/ec19aa0b-911f-4def-baee-64508942d50f

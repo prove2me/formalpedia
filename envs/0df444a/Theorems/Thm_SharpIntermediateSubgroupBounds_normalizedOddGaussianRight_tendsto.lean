@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_normalizedOddGaussianRight_tendsto
 -- name    : SharpIntermediateSubgroupBounds.normalizedOddGaussianRight_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:47:46.55321+00:00
 -- url     : https://prove2.me/theorems/abafea88-10d7-5dbe-9a4c-5c8feccd0dd9

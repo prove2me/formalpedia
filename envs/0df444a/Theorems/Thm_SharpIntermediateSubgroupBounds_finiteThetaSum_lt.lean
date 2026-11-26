@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_finiteThetaSum_lt
 -- name    : SharpIntermediateSubgroupBounds.finiteThetaSum_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:52.113631+00:00
 -- url     : https://prove2.me/theorems/f6141459-d6aa-43e6-b0a4-f7575d479171

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_no_subquarter_rpow_bound
 -- name    : SharpIntermediateSubgroupBounds.no_subquarter_rpow_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:39.321836+00:00
 -- url     : https://prove2.me/theorems/d170689e-dbb3-515d-a340-254a3e09c8ce

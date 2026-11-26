@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_no_subquarter_normalized_exponential_bound
 -- name    : SharpIntermediateSubgroupBounds.no_subquarter_normalized_exponential_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:36.795742+00:00
 -- url     : https://prove2.me/theorems/3d7f0a44-2a64-5f6a-9976-8bfb4fc9999a

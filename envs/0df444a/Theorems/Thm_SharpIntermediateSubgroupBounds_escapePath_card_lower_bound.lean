@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_escapePath_card_lower_bound
 -- name    : SharpIntermediateSubgroupBounds.escapePath_card_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:44:58.506462+00:00
 -- url     : https://prove2.me/theorems/ee74c8db-93a0-517e-b02d-0d9c5249aa49

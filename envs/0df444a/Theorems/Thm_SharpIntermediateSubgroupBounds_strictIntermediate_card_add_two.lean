@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_strictIntermediate_card_add_two
 -- name    : SharpIntermediateSubgroupBounds.strictIntermediate_card_add_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:39.259943+00:00
 -- url     : https://prove2.me/theorems/a421a435-b8ca-44e3-a3bd-de52ec959bfd

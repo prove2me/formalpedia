@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_qWeight_split
 -- name    : SharpIntermediateSubgroupBounds.qWeight_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:47:21.367794+00:00
 -- url     : https://prove2.me/theorems/97052e6e-b8c9-4702-8087-44dccccb4552

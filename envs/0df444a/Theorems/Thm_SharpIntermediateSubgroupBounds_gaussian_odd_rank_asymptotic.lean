@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_gaussian_odd_rank_asymptotic
 -- name    : SharpIntermediateSubgroupBounds.gaussian_odd_rank_asymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:15.008897+00:00
 -- url     : https://prove2.me/theorems/add675f8-88cc-4616-a72c-0afc920a47dc

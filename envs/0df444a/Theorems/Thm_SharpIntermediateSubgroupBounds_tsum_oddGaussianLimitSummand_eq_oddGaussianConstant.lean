@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_tsum_oddGaussianLimitSummand_eq_oddGaussianConstant
 -- name    : SharpIntermediateSubgroupBounds.tsum_oddGaussianLimitSummand_eq_oddGaussianConstant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:22.387007+00:00
 -- url     : https://prove2.me/theorems/2647926e-b552-4e28-ac1b-a77f4ec1c467

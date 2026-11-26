@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_card_orderedBases_fin_zmod
 -- name    : SharpIntermediateSubgroupBounds.card_orderedBases_fin_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:58.877217+00:00
 -- url     : https://prove2.me/theorems/1928fc20-bcd7-5944-a837-1902d34272e8

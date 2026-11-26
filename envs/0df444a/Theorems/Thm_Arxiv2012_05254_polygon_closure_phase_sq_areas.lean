@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2012_05254_polygon_closure_phase_sq_areas
 -- name    : Arxiv2012_05254.polygon_closure_phase_sq_areas
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T04:53:39.091536+00:00
 -- url     : https://prove2.me/theorems/3814a84d-3d90-5a94-8bab-5e4963343e4e

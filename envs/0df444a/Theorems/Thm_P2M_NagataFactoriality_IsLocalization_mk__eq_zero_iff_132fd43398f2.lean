@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_NagataFactoriality_IsLocalization_mk__eq_zero_iff_132fd43398f2
 -- name    : P2M_NagataFactoriality_IsLocalization_mk__eq_zero_iff_132fd43398f2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:49:35.355133+00:00
 -- url     : https://prove2.me/theorems/ba90163d-1e61-5307-83ac-808dfe798488

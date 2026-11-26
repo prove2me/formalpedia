@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_evenUSummand_nonneg
 -- name    : SharpIntermediateSubgroupBounds.evenUSummand_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:33.455376+00:00
 -- url     : https://prove2.me/theorems/b2b6eb19-cc5f-4605-9499-4eb1af60725f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_primePower_interval_bound_optimal
 -- name    : SharpIntermediateSubgroupBounds.primePower_interval_bound_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:44:16.032802+00:00
 -- url     : https://prove2.me/theorems/c6751a7b-5ed2-4400-b5f5-fe1aba3b2702

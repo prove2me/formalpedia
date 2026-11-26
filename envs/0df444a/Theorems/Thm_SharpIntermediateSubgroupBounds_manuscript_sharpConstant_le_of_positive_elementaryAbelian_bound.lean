@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_manuscript_sharpConstant_le_of_positive_elementaryAbelian_bound
 -- name    : SharpIntermediateSubgroupBounds.manuscript_sharpConstant_le_of_positive_elementaryAbelian_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:32.348066+00:00
 -- url     : https://prove2.me/theorems/7c10a187-5db4-4493-ab34-aabeac521d01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_shiftedTheta_eq_of_integer
 -- name    : SharpIntermediateSubgroupBounds.shiftedTheta_eq_of_integer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:44.983481+00:00
 -- url     : https://prove2.me/theorems/2b2b9607-165a-4ffa-938c-afa7f899f62f

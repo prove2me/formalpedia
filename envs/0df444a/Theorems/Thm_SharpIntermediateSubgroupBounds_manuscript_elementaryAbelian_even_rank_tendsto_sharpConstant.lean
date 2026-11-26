@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_manuscript_elementaryAbelian_even_rank_tendsto_sharpConstant
 -- name    : SharpIntermediateSubgroupBounds.manuscript_elementaryAbelian_even_rank_tendsto_sharpConstant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:21.491443+00:00
 -- url     : https://prove2.me/theorems/4d60ebcb-ea1d-4a79-a5f9-c86e3613420c

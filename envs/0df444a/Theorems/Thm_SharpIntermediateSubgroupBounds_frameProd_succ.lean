@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_frameProd_succ
 -- name    : SharpIntermediateSubgroupBounds.frameProd_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:49.316307+00:00
 -- url     : https://prove2.me/theorems/bd1c83ef-871c-4132-91f2-12076e6e78d4

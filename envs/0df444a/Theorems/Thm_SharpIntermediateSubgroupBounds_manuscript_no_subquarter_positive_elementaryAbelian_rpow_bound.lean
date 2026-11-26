@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_manuscript_no_subquarter_positive_elementaryAbelian_rpow_bound
 -- name    : SharpIntermediateSubgroupBounds.manuscript_no_subquarter_positive_elementaryAbelian_rpow_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:13.604694+00:00
 -- url     : https://prove2.me/theorems/fa53d78d-9e59-591b-8110-c89e7ad89a4a

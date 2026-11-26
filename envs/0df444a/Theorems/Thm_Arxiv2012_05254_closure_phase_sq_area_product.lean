@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2012_05254_closure_phase_sq_area_product
 -- name    : Arxiv2012_05254.closure_phase_sq_area_product
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T04:16:43.827908+00:00
 -- url     : https://prove2.me/theorems/57bc59f1-bb2f-5342-a054-4bc98f99b1bb

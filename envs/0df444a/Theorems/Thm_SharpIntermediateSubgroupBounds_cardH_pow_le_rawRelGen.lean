@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_cardH_pow_le_rawRelGen
 -- name    : SharpIntermediateSubgroupBounds.cardH_pow_le_rawRelGen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:45:45.660545+00:00
 -- url     : https://prove2.me/theorems/000414b2-610a-59ea-a902-e7ad8dde98da

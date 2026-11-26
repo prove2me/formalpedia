@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_evenUSummand_tendsto
 -- name    : SharpIntermediateSubgroupBounds.evenUSummand_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:24.312388+00:00
 -- url     : https://prove2.me/theorems/cefbe363-21a6-5d8b-8379-699bcb33a6f2

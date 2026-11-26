@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_isCoatom_of_prime_index
 -- name    : SharpIntermediateSubgroupBounds.isCoatom_of_prime_index
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:42.324364+00:00
 -- url     : https://prove2.me/theorems/f18268bf-db41-5e8d-9d41-62f8f6bb1ce2

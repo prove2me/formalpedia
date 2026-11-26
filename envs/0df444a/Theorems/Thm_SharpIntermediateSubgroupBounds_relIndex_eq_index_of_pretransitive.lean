@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_relIndex_eq_index_of_pretransitive
 -- name    : SharpIntermediateSubgroupBounds.relIndex_eq_index_of_pretransitive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:49:49.836498+00:00
 -- url     : https://prove2.me/theorems/7c051634-c0dd-5096-b4f0-fc23cfc0d420

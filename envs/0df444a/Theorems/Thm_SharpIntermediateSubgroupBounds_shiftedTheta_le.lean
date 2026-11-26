@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_shiftedTheta_le
 -- name    : SharpIntermediateSubgroupBounds.shiftedTheta_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:46:41.80817+00:00
 -- url     : https://prove2.me/theorems/37cd1b12-c7b9-446f-9b61-a879877ae990

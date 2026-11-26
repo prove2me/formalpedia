@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_normal_of_index_eq_prime_of_isPGroup
 -- name    : SharpIntermediateSubgroupBounds.normal_of_index_eq_prime_of_isPGroup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:49:43.823844+00:00
 -- url     : https://prove2.me/theorems/151990e8-b271-5977-9e3f-799a5206538f

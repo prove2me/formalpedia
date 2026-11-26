@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_normalizedOddGaussianRight_eq
 -- name    : SharpIntermediateSubgroupBounds.normalizedOddGaussianRight_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:43:42.259151+00:00
 -- url     : https://prove2.me/theorems/35c3f330-56f2-4315-bdcd-d6f9dfa686a4

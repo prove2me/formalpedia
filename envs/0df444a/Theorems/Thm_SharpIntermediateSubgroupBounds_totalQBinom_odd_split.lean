@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_totalQBinom_odd_split
 -- name    : SharpIntermediateSubgroupBounds.totalQBinom_odd_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:47:59.504226+00:00
 -- url     : https://prove2.me/theorems/440e731f-5e36-4a81-bae0-c2d01b5accfb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_product_elementaryAbelian_index_eq
 -- name    : SharpIntermediateSubgroupBounds.product_elementaryAbelian_index_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:50:10.383869+00:00
 -- url     : https://prove2.me/theorems/633072ad-3dcd-55c3-86dd-ce81d0ba738d

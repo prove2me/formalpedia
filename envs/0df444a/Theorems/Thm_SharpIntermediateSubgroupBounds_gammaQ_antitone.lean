@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_gammaQ_antitone
 -- name    : SharpIntermediateSubgroupBounds.gammaQ_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:45:01.110976+00:00
 -- url     : https://prove2.me/theorems/9ac5025b-30ec-4535-bb58-305e11cbafcb

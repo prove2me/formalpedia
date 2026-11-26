@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_band_card_bound
 -- name    : SharpIntermediateSubgroupBounds.band_card_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:45:35.936487+00:00
 -- url     : https://prove2.me/theorems/bdbfc4d7-7d96-4ac9-9a83-ac04b0f63026

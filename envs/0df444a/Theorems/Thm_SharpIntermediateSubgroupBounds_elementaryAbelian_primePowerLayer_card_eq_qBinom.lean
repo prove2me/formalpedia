@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_elementaryAbelian_primePowerLayer_card_eq_qBinom
 -- name    : SharpIntermediateSubgroupBounds.elementaryAbelian_primePowerLayer_card_eq_qBinom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:43:48.297946+00:00
 -- url     : https://prove2.me/theorems/94bf201f-4a5e-59db-b329-3651d166e8d2

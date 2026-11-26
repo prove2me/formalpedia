@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_card_generatingFrames_fin_zmod_cast_eq_gammaR
 -- name    : SharpIntermediateSubgroupBounds.card_generatingFrames_fin_zmod_cast_eq_gammaR
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:47:32.154919+00:00
 -- url     : https://prove2.me/theorems/2d0b0003-9a72-489c-b953-be83513fb505

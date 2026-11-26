@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_tsum_oddGaussianSummand_eq_normalized_total
 -- name    : SharpIntermediateSubgroupBounds.tsum_oddGaussianSummand_eq_normalized_total
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:48:07.551975+00:00
 -- url     : https://prove2.me/theorems/51d05be3-05e1-43a0-92b8-60420104a1bb

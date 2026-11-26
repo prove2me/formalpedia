@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_primePowerLayer_card_subgroup
 -- name    : SharpIntermediateSubgroupBounds.primePowerLayer_card_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:49:46.778234+00:00
 -- url     : https://prove2.me/theorems/da4fe701-779c-57d4-b6e0-711c1fb4c821

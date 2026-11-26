@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_frameProd_mul_qFactorial
 -- name    : SharpIntermediateSubgroupBounds.frameProd_mul_qFactorial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:43:01.966677+00:00
 -- url     : https://prove2.me/theorems/8cb93e4a-2ff4-49b8-a4b2-87215d4ffe20

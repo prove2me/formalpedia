@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_bandwise_moment
 -- name    : SharpIntermediateSubgroupBounds.bandwise_moment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:43:58.144394+00:00
 -- url     : https://prove2.me/theorems/31e6b0fc-29a9-4cd7-985a-c3e3fcca7098

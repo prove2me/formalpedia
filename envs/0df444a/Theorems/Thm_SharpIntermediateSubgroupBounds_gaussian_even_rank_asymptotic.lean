@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_gaussian_even_rank_asymptotic
 -- name    : SharpIntermediateSubgroupBounds.gaussian_even_rank_asymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:41:34.732698+00:00
 -- url     : https://prove2.me/theorems/33c87887-d6fc-4043-ae93-ed0e175857c1

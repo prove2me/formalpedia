@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_normalizedGaussianRight_le
 -- name    : SharpIntermediateSubgroupBounds.normalizedGaussianRight_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:47:39.989827+00:00
 -- url     : https://prove2.me/theorems/c873fbf5-e515-4374-b044-f6a5b4712a7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_sharpConstant_pos
 -- name    : SharpIntermediateSubgroupBounds.sharpConstant_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:42:11.829614+00:00
 -- url     : https://prove2.me/theorems/1c6344f1-1c2b-57bf-bfec-38ef636e5e5d

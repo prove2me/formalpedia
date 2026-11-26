@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpIntermediateSubgroupBounds_gammaR_inv_tendsto
 -- name    : SharpIntermediateSubgroupBounds.gammaR_inv_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T05:41:27.265236+00:00
 -- url     : https://prove2.me/theorems/cd2fe20e-5626-5590-9032-3ee2a32128bb
