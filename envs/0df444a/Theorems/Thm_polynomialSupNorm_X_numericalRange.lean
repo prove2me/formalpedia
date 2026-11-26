@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_polynomialSupNorm_X_numericalRange
 -- name    : polynomialSupNorm_X_numericalRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:46:47.980062+00:00
 -- url     : https://prove2.me/theorems/e62db447-cb12-4581-a8e1-bc22fab5624c

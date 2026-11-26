@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotential_oneJump_unkilled_lower
 -- name    : Kyprianou.Ch05.killedPotential_oneJump_unkilled_lower
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T12:14:00.905315+00:00
 -- url     : https://prove2.me/theorems/95d8c1c2-1559-5417-be6a-958a6ef1efcb

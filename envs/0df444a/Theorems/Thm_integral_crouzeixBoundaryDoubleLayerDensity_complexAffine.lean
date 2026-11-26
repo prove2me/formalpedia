@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_integral_crouzeixBoundaryDoubleLayerDensity_complexAffine
 -- name    : integral_crouzeixBoundaryDoubleLayerDensity_complexAffine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:46:33.184059+00:00
 -- url     : https://prove2.me/theorems/178bfde7-d3c3-4046-9ce6-04078af88b72

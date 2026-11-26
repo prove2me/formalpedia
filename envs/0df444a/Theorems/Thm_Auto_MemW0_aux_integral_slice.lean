@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_MemW0_aux_integral_slice
 -- name    : Auto.MemW0.aux_integral_slice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:44:35.757962+00:00
 -- url     : https://prove2.me/theorems/d4717a0a-b356-5700-aace-f894cbfc044c

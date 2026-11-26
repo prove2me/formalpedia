@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isPolynomialSpectralSet_closedBall_centered_numericalRadius_of_isStarNormal
 -- name    : isPolynomialSpectralSet_closedBall_centered_numericalRadius_of_isStarNormal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:45:45.569052+00:00
 -- url     : https://prove2.me/theorems/7c0da125-823c-5826-bd20-39334ac7c9f2

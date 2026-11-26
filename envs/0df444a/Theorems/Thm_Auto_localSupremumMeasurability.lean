@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_localSupremumMeasurability
 -- name    : Auto.localSupremumMeasurability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:54.465781+00:00
 -- url     : https://prove2.me/theorems/6c6b2d96-706a-5250-beae-72e9f1fa5777

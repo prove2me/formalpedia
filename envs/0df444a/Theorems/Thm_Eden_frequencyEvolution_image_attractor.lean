@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyEvolution_image_attractor
 -- name    : Eden.frequencyEvolution_image_attractor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:15:40.391974+00:00
 -- url     : https://prove2.me/theorems/00cd29c6-d3e6-4338-a499-3caf3776fb52

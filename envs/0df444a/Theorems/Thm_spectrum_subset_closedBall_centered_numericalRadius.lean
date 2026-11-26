@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_spectrum_subset_closedBall_centered_numericalRadius
 -- name    : spectrum_subset_closedBall_centered_numericalRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:22:33.706129+00:00
 -- url     : https://prove2.me/theorems/ada4fd34-5737-4e26-9a59-8f96ac218f52

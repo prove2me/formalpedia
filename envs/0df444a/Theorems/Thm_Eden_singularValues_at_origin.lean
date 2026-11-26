@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_singularValues_at_origin
 -- name    : Eden.singularValues_at_origin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:02:44.759796+00:00
 -- url     : https://prove2.me/theorems/01dc34b6-d57a-4d7c-8fde-c63c6bf73c14

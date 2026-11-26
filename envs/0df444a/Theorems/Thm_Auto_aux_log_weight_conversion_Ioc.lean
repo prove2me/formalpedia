@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_log_weight_conversion_Ioc
 -- name    : Auto.aux_log_weight_conversion_Ioc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:32.325548+00:00
 -- url     : https://prove2.me/theorems/5d5836a3-5a72-4189-bb4d-59cf59df472a

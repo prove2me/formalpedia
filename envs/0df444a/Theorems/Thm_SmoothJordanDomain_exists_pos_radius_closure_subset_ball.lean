@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothJordanDomain_exists_pos_radius_closure_subset_ball
 -- name    : SmoothJordanDomain.exists_pos_radius_closure_subset_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:57:47.313064+00:00
 -- url     : https://prove2.me/theorems/b3038747-beff-5462-827b-6e762b9cc857

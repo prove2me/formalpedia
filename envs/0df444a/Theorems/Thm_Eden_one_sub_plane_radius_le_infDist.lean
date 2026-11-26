@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_one_sub_plane_radius_le_infDist
 -- name    : Eden.one_sub_plane_radius_le_infDist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:27:14.294591+00:00
 -- url     : https://prove2.me/theorems/a3ef5420-bd61-51ec-a2d1-0a5d305a61e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_tendsto_tangentialRate_average
 -- name    : Eden.tendsto_tangentialRate_average
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:02:17.299304+00:00
 -- url     : https://prove2.me/theorems/aa357cb2-5f61-4d2f-9e79-dfdbf5306f92

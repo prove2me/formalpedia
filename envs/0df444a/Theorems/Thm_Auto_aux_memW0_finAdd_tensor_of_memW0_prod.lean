@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_memW0_finAdd_tensor_of_memW0_prod
 -- name    : Auto.aux_memW0_finAdd_tensor_of_memW0_prod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:28.190804+00:00
 -- url     : https://prove2.me/theorems/db634696-baeb-5821-9056-3ce1444c6433

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_half_mul_half_sq
 -- name    : Auto.aux_half_mul_half_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:49.006258+00:00
 -- url     : https://prove2.me/theorems/0ffb9802-2930-4988-9c8d-e2925ab10ac7

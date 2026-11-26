@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyUniformlyAttractsBounded_nonempty
 -- name    : Eden.frequencyUniformlyAttractsBounded_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:16:48.458732+00:00
 -- url     : https://prove2.me/theorems/0ae65bca-506e-466f-abba-d763733737e1

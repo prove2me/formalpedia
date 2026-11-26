@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothJordanDomain_isCompact_closure
 -- name    : SmoothJordanDomain.isCompact_closure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:25:22.251852+00:00
 -- url     : https://prove2.me/theorems/14a47b7d-79a2-424e-a003-714feff2f53e

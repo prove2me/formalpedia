@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothJordanDomain_frontier_complexAffine
 -- name    : SmoothJordanDomain.frontier_complexAffine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:46:28.722898+00:00
 -- url     : https://prove2.me/theorems/a562ef46-8a90-4abd-8946-1af58211d5e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_singularValueFunction_five
 -- name    : Eden.singularValueFunction_five
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:49:56.765352+00:00
 -- url     : https://prove2.me/theorems/d8015cfb-46a2-5d10-8162-3ee604b8a76d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_singularValueFunction_integer_evolution_bounds
 -- name    : Eden.singularValueFunction_integer_evolution_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:38:03.399841+00:00
 -- url     : https://prove2.me/theorems/08ecf394-de3b-4201-a445-681bf3234cb9

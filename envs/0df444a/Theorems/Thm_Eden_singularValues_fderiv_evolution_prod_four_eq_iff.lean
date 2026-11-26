@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_singularValues_fderiv_evolution_prod_four_eq_iff
 -- name    : Eden.singularValues_fderiv_evolution_prod_four_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:31:09.506497+00:00
 -- url     : https://prove2.me/theorems/ef219433-f7b5-552d-a1d6-f5047faec942

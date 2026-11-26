@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_targetLiftSign_mem
 -- name    : TunnellMap.targetLiftSign_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:46:47.768341+00:00
 -- url     : https://prove2.me/theorems/5de6b603-3808-46a3-a4c8-9674093ba664

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_derivmul_aemeasurable_local
 -- name    : Auto.aux_derivmul_aemeasurable_local
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:47.265085+00:00
 -- url     : https://prove2.me/theorems/2a84ef01-7f31-54a6-952a-19b53d48c852

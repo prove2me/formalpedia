@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_dyadicPair_le_variation_rpow
 -- name    : Auto.aux_dyadicPair_le_variation_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:38:55.732627+00:00
 -- url     : https://prove2.me/theorems/f20f7e57-23f2-52b8-84f5-5bea473dcbb9

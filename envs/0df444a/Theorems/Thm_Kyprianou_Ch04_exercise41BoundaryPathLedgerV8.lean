@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41BoundaryPathLedgerV8
 -- name    : Kyprianou.Ch04.exercise41BoundaryPathLedgerV8
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:22:27.541798+00:00
 -- url     : https://prove2.me/theorems/98b53eaa-7db2-5594-b6d2-d4a546e62483

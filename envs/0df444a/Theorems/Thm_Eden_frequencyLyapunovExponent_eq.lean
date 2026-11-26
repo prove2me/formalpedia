@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyLyapunovExponent_eq
 -- name    : Eden.frequencyLyapunovExponent_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:21:55.927871+00:00
 -- url     : https://prove2.me/theorems/ae6969e3-1f9a-47e5-8003-af80b3ce9557

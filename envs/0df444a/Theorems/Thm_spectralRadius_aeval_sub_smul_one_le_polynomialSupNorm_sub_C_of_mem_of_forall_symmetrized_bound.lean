@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_spectralRadius_aeval_sub_smul_one_le_polynomialSupNorm_sub_C_of_mem_of_forall_symmetrized_bound
 -- name    : spectralRadius_aeval_sub_smul_one_le_polynomialSupNorm_sub_C_of_mem_of_forall_symmetrized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:48:41.706372+00:00
 -- url     : https://prove2.me/theorems/39ed63ab-4d1e-54a7-bcb8-704aac76d545

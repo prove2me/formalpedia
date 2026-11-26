@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalGrowthRate_four
 -- name    : Eden.globalGrowthRate_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:31.700126+00:00
 -- url     : https://prove2.me/theorems/027eb91d-fa30-54d5-a8af-89f3053458f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_centeredNumericalRadiusMinimizers_smul
 -- name    : centeredNumericalRadiusMinimizers_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:25:39.299384+00:00
 -- url     : https://prove2.me/theorems/61a930af-3567-5d2a-a077-0cf69431c713

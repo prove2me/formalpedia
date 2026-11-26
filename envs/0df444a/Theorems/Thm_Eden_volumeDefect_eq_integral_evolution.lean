@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_volumeDefect_eq_integral_evolution
 -- name    : Eden.volumeDefect_eq_integral_evolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:30:43.018692+00:00
 -- url     : https://prove2.me/theorems/78a4cd1c-bca5-5b6e-8596-ecd8d958545d

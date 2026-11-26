@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_smul_one
 -- name    : numericalRadius_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:25:21.182982+00:00
 -- url     : https://prove2.me/theorems/ec1f9b14-d7cb-4c8a-895a-36f564e6c3df

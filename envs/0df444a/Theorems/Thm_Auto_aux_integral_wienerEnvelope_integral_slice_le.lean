@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_integral_wienerEnvelope_integral_slice_le
 -- name    : Auto.aux_integral_wienerEnvelope_integral_slice_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:45:41.260282+00:00
 -- url     : https://prove2.me/theorems/193d37b1-8e63-5587-ad25-9208b88a1d40

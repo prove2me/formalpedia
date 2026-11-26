@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_plane_radius_sub_le_dist
 -- name    : Eden.plane_radius_sub_le_dist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:25:37.770769+00:00
 -- url     : https://prove2.me/theorems/ce9dc99f-9731-5f17-ba3e-50424e918155

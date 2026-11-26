@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_integerGrowthValues_bddAbove
 -- name    : Eden.integerGrowthValues_bddAbove
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:38:51.05953+00:00
 -- url     : https://prove2.me/theorems/32ccaeef-b2c5-45e2-b192-7037eb76e3ef

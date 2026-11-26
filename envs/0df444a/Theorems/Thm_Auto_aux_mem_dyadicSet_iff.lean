@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_mem_dyadicSet_iff
 -- name    : Auto.aux_mem_dyadicSet_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:21.320394+00:00
 -- url     : https://prove2.me/theorems/6974c6ff-7b5c-492d-b422-4a959790a8c5

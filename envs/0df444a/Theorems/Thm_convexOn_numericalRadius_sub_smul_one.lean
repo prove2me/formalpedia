@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_convexOn_numericalRadius_sub_smul_one
 -- name    : convexOn_numericalRadius_sub_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:27:05.241981+00:00
 -- url     : https://prove2.me/theorems/bfb65c8e-af06-444f-93ea-f2e781879a2a

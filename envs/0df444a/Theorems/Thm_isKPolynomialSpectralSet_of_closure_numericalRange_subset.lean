@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isKPolynomialSpectralSet_of_closure_numericalRange_subset
 -- name    : isKPolynomialSpectralSet_of_closure_numericalRange_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:45:16.748012+00:00
 -- url     : https://prove2.me/theorems/477ba090-96e7-5a30-836f-e27a9bcf8496

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_withinSequenceDistance_symm
 -- name    : Auto.aux_withinSequenceDistance_symm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:44.030407+00:00
 -- url     : https://prove2.me/theorems/c519626c-6d8d-5b5a-989b-62fbf53cc4fc

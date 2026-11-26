@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_chain_first_ftc
 -- name    : Auto.aux_chain_first_ftc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:12.775236+00:00
 -- url     : https://prove2.me/theorems/2f9df2f5-d365-4707-94db-afff9585d1b3

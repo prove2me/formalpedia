@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsKPolynomialSpectralSet_closure_of_isBounded
 -- name    : IsKPolynomialSpectralSet.closure_of_isBounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:26:21.434498+00:00
 -- url     : https://prove2.me/theorems/9758312a-5b54-5878-9771-21e3df8687bd

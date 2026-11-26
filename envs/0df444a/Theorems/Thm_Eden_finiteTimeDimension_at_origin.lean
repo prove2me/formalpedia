@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_finiteTimeDimension_at_origin
 -- name    : Eden.finiteTimeDimension_at_origin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:22:50.522388+00:00
 -- url     : https://prove2.me/theorems/ed839daa-f544-47cc-a227-299b54d9f44b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_exists_wienerEnvelope_eq_and_ge
 -- name    : Auto.aux_exists_wienerEnvelope_eq_and_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:50:00.712518+00:00
 -- url     : https://prove2.me/theorems/9bab4344-a443-49e9-a5ae-12e50f0230d4

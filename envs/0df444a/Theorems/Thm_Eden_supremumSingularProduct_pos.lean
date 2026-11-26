@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_supremumSingularProduct_pos
 -- name    : Eden.supremumSingularProduct_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:02.628415+00:00
 -- url     : https://prove2.me/theorems/e2ab0eaa-9086-4c0e-b82b-83c0970e139c

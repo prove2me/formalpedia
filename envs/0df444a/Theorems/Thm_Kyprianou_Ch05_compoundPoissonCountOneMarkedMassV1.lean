@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_compoundPoissonCountOneMarkedMassV1
 -- name    : Kyprianou.Ch05.compoundPoissonCountOneMarkedMassV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T13:07:58.492553+00:00
 -- url     : https://prove2.me/theorems/79f0bfce-8a98-53b5-9982-5d37ea6ceb9f

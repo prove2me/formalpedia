@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequency_solution_unique_on_Icc
 -- name    : Eden.frequency_solution_unique_on_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:27:40.350363+00:00
 -- url     : https://prove2.me/theorems/0bc36065-f2d7-5673-93ee-3fbb98eeff59

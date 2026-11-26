@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_spectrumInterpolation_mono_spectrum
 -- name    : Eden.spectrumInterpolation_mono_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:40.556943+00:00
 -- url     : https://prove2.me/theorems/8a2c03e7-c8fe-4b6a-80fa-4236a2efd68c

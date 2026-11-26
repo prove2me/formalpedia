@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalGrowthRate_zero
 -- name    : Eden.globalGrowthRate_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:41:14.021865+00:00
 -- url     : https://prove2.me/theorems/0583b8d3-3895-53e7-b882-8df0a130d8ad

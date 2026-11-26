@@ -1,0 +1,24 @@
+-- Prove2me | Theorems.Thm_TunnellMap_signActB_one
+-- name    : TunnellMap.signActB_one
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-26T15:03:42.233607+00:00
+-- url     : https://prove2.me/theorems/1691e45a-9e55-5490-9cb1-18efe4357752
+-- title:
+--   Tunnell Map: sign Act B one
+-- statement:
+--   The Tunnell Map construction uses the sign Act B one property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/GrgAakash/tunnell-two-to-one-map/blob/d888a7c73c0ef1695dab8c48ccde629fbebb2d46/TunnellMap/CanonicalSignLift.lean#L168-L169
+-- source:
+--   https://github.com/GrgAakash/tunnell-two-to-one-map/blob/d888a7c73c0ef1695dab8c48ccde629fbebb2d46/TunnellMap/CanonicalSignLift.lean#L168-L169
+
+import Definitions.Def_TunnellMap_OrbitLift
+import Definitions.Def_TunnellMap_ResidualTargetTest
+import Definitions.Def_TunnellMap_ComputableDirection
+import Definitions.Def_TunnellMap_CanonicalSignLift
+set_option autoImplicit true
+open TunnellMap
+variable {n : ℤ}
+
+theorem TunnellMap.signActB_one (x : BResidual n) : signActB 1 x = x := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_tendstoUniformlyOn_log_singularValueFunction
 -- name    : Eden.tendstoUniformlyOn_log_singularValueFunction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:09:46.415736+00:00
 -- url     : https://prove2.me/theorems/befd44fb-09b4-53dc-bc0a-802d1a467b47

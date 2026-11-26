@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_spectrum_subset_of_isCompact_nonempty_convex_of_forall_symmetrized_bound
 -- name    : spectrum_subset_of_isCompact_nonempty_convex_of_forall_symmetrized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:13.811+00:00
 -- url     : https://prove2.me/theorems/4a9d04dd-85c1-4027-9a45-edeca8767802

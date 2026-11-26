@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_torus_subset_frequencyPeriodicSet
 -- name    : Eden.torus_subset_frequencyPeriodicSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:24:18.142596+00:00
 -- url     : https://prove2.me/theorems/2799fc01-33e8-522a-97f4-3619fa774bd4

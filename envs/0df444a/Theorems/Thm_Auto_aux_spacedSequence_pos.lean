@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_spacedSequence_pos
 -- name    : Auto.aux_spacedSequence_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:47.763415+00:00
 -- url     : https://prove2.me/theorems/ba4c9bad-ca2f-44ec-bfda-0b943403dd50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_exists_wienerEnvelope_fiber_and_integral_comp_injective_continuousLinearMap_bound
 -- name    : Auto.exists_wienerEnvelope_fiber_and_integral_comp_injective_continuousLinearMap_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:18.597933+00:00
 -- url     : https://prove2.me/theorems/2e270116-4c52-4831-87fd-9600a54189fb

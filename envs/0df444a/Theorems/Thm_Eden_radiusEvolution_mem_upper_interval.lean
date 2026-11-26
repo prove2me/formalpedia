@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_radiusEvolution_mem_upper_interval
 -- name    : Eden.radiusEvolution_mem_upper_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:40:34.490806+00:00
 -- url     : https://prove2.me/theorems/c96aa8ae-73a7-517b-afa2-4d7577b005f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_integral_crouzeixBoundaryDoubleLayerDensity_ball
 -- name    : integral_crouzeixBoundaryDoubleLayerDensity_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:24:35.287811+00:00
 -- url     : https://prove2.me/theorems/99ba28f7-c1de-5579-8949-d5a6442bc229

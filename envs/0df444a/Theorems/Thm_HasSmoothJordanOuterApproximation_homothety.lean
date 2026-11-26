@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HasSmoothJordanOuterApproximation_homothety
 -- name    : HasSmoothJordanOuterApproximation.homothety
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:58:37.391523+00:00
 -- url     : https://prove2.me/theorems/f89be689-5c3d-48f9-a020-8198487ddf53

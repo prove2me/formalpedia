@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_MemW0_aux_mem_wienerEnvelope_prod
 -- name    : Auto.MemW0.aux_mem_wienerEnvelope_prod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:43:32.510657+00:00
 -- url     : https://prove2.me/theorems/7934feed-a280-5b82-a9c6-b081db5bda5d

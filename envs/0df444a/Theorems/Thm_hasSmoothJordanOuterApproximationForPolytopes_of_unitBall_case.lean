@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hasSmoothJordanOuterApproximationForPolytopes_of_unitBall_case
 -- name    : hasSmoothJordanOuterApproximationForPolytopes_of_unitBall_case
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:58:33.04166+00:00
 -- url     : https://prove2.me/theorems/787dc613-8ca8-5406-9cad-adeb886038b0

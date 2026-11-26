@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_exists_complete_solution_in_attractor
 -- name    : Eden.exists_complete_solution_in_attractor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:40:29.523605+00:00
 -- url     : https://prove2.me/theorems/d716ba7a-5917-5779-9e88-978e51b4c602

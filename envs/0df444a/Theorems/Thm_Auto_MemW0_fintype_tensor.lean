@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_MemW0_fintype_tensor
 -- name    : Auto.MemW0.fintype_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:43:49.086468+00:00
 -- url     : https://prove2.me/theorems/82c7b46a-568d-4354-a4d2-3b0b398aa533

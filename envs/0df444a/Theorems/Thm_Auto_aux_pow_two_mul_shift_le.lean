@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_pow_two_mul_shift_le
 -- name    : Auto.aux_pow_two_mul_shift_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:50.588384+00:00
 -- url     : https://prove2.me/theorems/bdb657d6-5148-4309-983c-a22a3a24f8f2

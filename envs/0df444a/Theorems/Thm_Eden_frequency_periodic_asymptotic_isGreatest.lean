@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequency_periodic_asymptotic_isGreatest
 -- name    : Eden.frequency_periodic_asymptotic_isGreatest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:25:00.234629+00:00
 -- url     : https://prove2.me/theorems/b681d2b4-2bfe-5dee-baed-f3325c66c63f

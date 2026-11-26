@@ -1,0 +1,27 @@
+-- Prove2me | Theorems.Thm_TunnellMap_FreeInvolution_signAct_signOf_canonicalPoint
+-- name    : TunnellMap.FreeInvolution.signAct_signOf_canonicalPoint
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-26T15:05:55.90157+00:00
+-- url     : https://prove2.me/theorems/c5cdd430-ee42-5a22-9012-68d8b5938972
+-- title:
+--   Free Involution: sign Act sign Of canonical Point
+-- statement:
+--   The Free Involution construction uses the sign Act sign Of canonical Point property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/GrgAakash/tunnell-two-to-one-map/blob/d888a7c73c0ef1695dab8c48ccde629fbebb2d46/TunnellMap/CanonicalSignLift.lean#L89-L94
+-- source:
+--   https://github.com/GrgAakash/tunnell-two-to-one-map/blob/d888a7c73c0ef1695dab8c48ccde629fbebb2d46/TunnellMap/CanonicalSignLift.lean#L89-L94
+
+import Definitions.Def_TunnellMap_OrbitLift
+import Definitions.Def_TunnellMap_ResidualTargetTest
+import Definitions.Def_TunnellMap_ComputableDirection
+import Definitions.Def_TunnellMap_CanonicalSignLift
+set_option autoImplicit true
+open TunnellMap
+open TunnellMap.FreeInvolution
+variable {X : Type*} (I : FreeInvolution X)
+variable {K : Type*} [LinearOrder K]
+
+theorem TunnellMap.FreeInvolution.signAct_signOf_canonicalPoint (key : X → K) (x : X) :
+    I.signAct (I.signOf key x) (I.canonicalPoint key x) = x := by sorry

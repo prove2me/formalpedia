@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_spectralRadius_aeval_sub_smul_one_le_polynomialSupNorm_sub_C_closure_numericalRange_of_forall_symmetrized_bound
 -- name    : spectralRadius_aeval_sub_smul_one_le_polynomialSupNorm_sub_C_closure_numericalRange_of_forall_symmetrized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:21.369821+00:00
 -- url     : https://prove2.me/theorems/897d8408-1bf4-4cf6-b883-ad669b56381a

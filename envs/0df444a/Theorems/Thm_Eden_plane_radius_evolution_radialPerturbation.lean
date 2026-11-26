@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_plane_radius_evolution_radialPerturbation
 -- name    : Eden.plane_radius_evolution_radialPerturbation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:27:30.244102+00:00
 -- url     : https://prove2.me/theorems/f8dc9243-a020-4968-8cc9-6474597a97da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isKPolynomialSpectralSet_closedBall_centered_numericalRadius
 -- name    : isKPolynomialSpectralSet_closedBall_centered_numericalRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:45:29.755956+00:00
 -- url     : https://prove2.me/theorems/1805e836-3431-52f7-aa54-9ba14aaeecf9

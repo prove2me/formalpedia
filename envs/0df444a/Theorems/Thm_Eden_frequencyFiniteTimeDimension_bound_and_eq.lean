@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyFiniteTimeDimension_bound_and_eq
 -- name    : Eden.frequencyFiniteTimeDimension_bound_and_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:23:07.02248+00:00
 -- url     : https://prove2.me/theorems/e5c7ba61-6a13-5f76-a3ca-141593829820

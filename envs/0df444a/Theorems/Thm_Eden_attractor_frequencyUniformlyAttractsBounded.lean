@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_attractor_frequencyUniformlyAttractsBounded
 -- name    : Eden.attractor_frequencyUniformlyAttractsBounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:15:53.957348+00:00
 -- url     : https://prove2.me/theorems/8c2d08d1-dd46-53cf-83ea-f2c2ba13b44a

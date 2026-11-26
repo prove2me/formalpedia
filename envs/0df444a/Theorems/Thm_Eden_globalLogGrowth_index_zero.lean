@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalLogGrowth_index_zero
 -- name    : Eden.globalLogGrowth_index_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:41:09.434892+00:00
 -- url     : https://prove2.me/theorems/03907f7e-f6e0-58ac-bafd-398157fd6c4f

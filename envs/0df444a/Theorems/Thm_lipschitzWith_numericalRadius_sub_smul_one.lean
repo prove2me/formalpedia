@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_lipschitzWith_numericalRadius_sub_smul_one
 -- name    : lipschitzWith_numericalRadius_sub_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:26:46.331799+00:00
 -- url     : https://prove2.me/theorems/c63084b9-e0e8-5897-b74e-02973c7f5115

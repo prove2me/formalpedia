@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_pair_sq_le
 -- name    : Auto.aux_pair_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:01.187685+00:00
 -- url     : https://prove2.me/theorems/a7eeacd9-abff-4ee2-9c5e-6a7ccd6bc2ec

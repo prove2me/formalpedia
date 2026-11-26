@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_abs_globalLogGrowth_le
 -- name    : Eden.abs_globalLogGrowth_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:05.843817+00:00
 -- url     : https://prove2.me/theorems/b6275541-6cf5-54a1-aae4-2ff7bba26925

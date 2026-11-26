@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_eLpNorm_le_of_l1_linf_bounds
 -- name    : Auto.aux_eLpNorm_le_of_l1_linf_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:48:09.056257+00:00
 -- url     : https://prove2.me/theorems/5a3fee72-775c-4162-8b58-a59c47701c82

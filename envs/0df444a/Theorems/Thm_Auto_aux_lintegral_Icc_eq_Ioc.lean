@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_lintegral_Icc_eq_Ioc
 -- name    : Auto.aux_lintegral_Icc_eq_Ioc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:16.256431+00:00
 -- url     : https://prove2.me/theorems/360dbd84-b0fd-43de-89ff-9c93d0cb66b6

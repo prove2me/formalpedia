@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_eventually_dimension_zero_of_limiting_radii
 -- name    : Eden.eventually_dimension_zero_of_limiting_radii
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:12:20.072133+00:00
 -- url     : https://prove2.me/theorems/db4122c4-c951-43f1-8396-463d42c6ac40

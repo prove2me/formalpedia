@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_norm_planeProjection_le
 -- name    : Eden.norm_planeProjection_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:25:44.642918+00:00
 -- url     : https://prove2.me/theorems/00384de0-ef33-4b07-8265-53a6a65a3a46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequency_torus_not_equilibrium
 -- name    : Eden.frequency_torus_not_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:24:55.860796+00:00
 -- url     : https://prove2.me/theorems/dbdc63e5-fe6e-57d1-bcd5-247e8da3f303

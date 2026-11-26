@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_boundary_support_of_convexThickening_numericalRange_support
 -- name    : boundary_support_of_convexThickening_numericalRange_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:23:17.064073+00:00
 -- url     : https://prove2.me/theorems/338ce4a5-e3c9-58f6-873e-16f6b7c71242

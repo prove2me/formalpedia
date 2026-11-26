@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41BoundarySeriesAlgebraV20
 -- name    : Kyprianou.Ch04.exercise41BoundarySeriesAlgebraV20
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T13:20:45.618927+00:00
 -- url     : https://prove2.me/theorems/8ddd169e-b7dc-5a06-b1a9-22a519ac0343

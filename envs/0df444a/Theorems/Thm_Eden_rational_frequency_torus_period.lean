@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_rational_frequency_torus_period
 -- name    : Eden.rational_frequency_torus_period
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:25:10.296126+00:00
 -- url     : https://prove2.me/theorems/3116fc1d-1840-48c6-b6f6-1e677c596a30

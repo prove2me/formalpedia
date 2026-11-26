@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_toMatrix_fderiv_planarVectorField
 -- name    : Eden.toMatrix_fderiv_planarVectorField
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:26:21.547807+00:00
 -- url     : https://prove2.me/theorems/cd96e6a2-5e5e-4de7-be73-b73f1b373de1

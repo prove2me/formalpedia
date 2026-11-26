@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_log_measure_le
 -- name    : Auto.aux_log_measure_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:37.568737+00:00
 -- url     : https://prove2.me/theorems/5f974f15-7f83-5dee-ad83-ed54392a03fd

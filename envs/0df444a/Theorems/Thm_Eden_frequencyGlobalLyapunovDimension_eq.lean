@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyGlobalLyapunovDimension_eq
 -- name    : Eden.frequencyGlobalLyapunovDimension_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:21:59.914167+00:00
 -- url     : https://prove2.me/theorems/0e7d5a2b-83ee-46a4-8a53-2dd053a311e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_second_ftcCsR
 -- name    : Auto.aux_second_ftcCsR
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:30.823823+00:00
 -- url     : https://prove2.me/theorems/b14fb5ce-f327-519b-ab57-f10ee277340f

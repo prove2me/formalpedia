@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_centeredNumericalRadiusMinimizers_eq_setOf_le_of_minimizer
 -- name    : centeredNumericalRadiusMinimizers_eq_setOf_le_of_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:25:53.331942+00:00
 -- url     : https://prove2.me/theorems/4fbae71d-c0fe-425b-a3f7-881389fe0a53

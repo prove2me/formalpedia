@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_limiting_rates_of_lt_one
 -- name    : Eden.limiting_rates_of_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:03:08.782709+00:00
 -- url     : https://prove2.me/theorems/6174f4fb-a1d7-558e-b215-27f4b08746dd

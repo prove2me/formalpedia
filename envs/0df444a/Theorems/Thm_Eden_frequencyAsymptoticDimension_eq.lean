@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyAsymptoticDimension_eq
 -- name    : Eden.frequencyAsymptoticDimension_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:20:53.852134+00:00
 -- url     : https://prove2.me/theorems/0a781c57-06a1-52d3-8e3a-1b17eef8dcee

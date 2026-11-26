@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_exists_wienerEnvelope_comp_injective_continuousLinearMap_bound
 -- name    : Auto.aux_exists_wienerEnvelope_comp_injective_continuousLinearMap_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:48:45.94344+00:00
 -- url     : https://prove2.me/theorems/a549df06-5573-5464-b5c1-53fee2c8ef8c

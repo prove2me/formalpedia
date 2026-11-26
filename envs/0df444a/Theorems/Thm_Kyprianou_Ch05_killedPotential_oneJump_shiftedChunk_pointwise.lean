@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotential_oneJump_shiftedChunk_pointwise
 -- name    : Kyprianou.Ch05.killedPotential_oneJump_shiftedChunk_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T11:26:00.303996+00:00
 -- url     : https://prove2.me/theorems/07ce02b1-421d-4974-8fb7-65b4393c5cd1

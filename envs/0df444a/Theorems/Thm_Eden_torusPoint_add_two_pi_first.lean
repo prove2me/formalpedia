@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_torusPoint_add_two_pi_first
 -- name    : Eden.torusPoint_add_two_pi_first
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:23:29.902149+00:00
 -- url     : https://prove2.me/theorems/fdffcb62-c7d4-5f34-aea7-c935cc4e090e

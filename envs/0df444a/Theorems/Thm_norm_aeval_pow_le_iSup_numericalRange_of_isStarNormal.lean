@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_pow_le_iSup_numericalRange_of_isStarNormal
 -- name    : norm_aeval_pow_le_iSup_numericalRange_of_isStarNormal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:48:08.642614+00:00
 -- url     : https://prove2.me/theorems/a52d5ee7-4a58-4a86-8af8-e83aff8a72a5

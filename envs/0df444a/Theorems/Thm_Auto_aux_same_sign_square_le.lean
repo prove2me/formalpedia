@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_same_sign_square_le
 -- name    : Auto.aux_same_sign_square_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:10.138876+00:00
 -- url     : https://prove2.me/theorems/40e5acf7-14b1-4fae-bde8-42449470c6e3

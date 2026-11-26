@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_norm_finAdd_snd_le
 -- name    : Auto.aux_norm_finAdd_snd_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:28.397146+00:00
 -- url     : https://prove2.me/theorems/21675fd2-7f5f-4e3b-a754-fb6930fe26f7

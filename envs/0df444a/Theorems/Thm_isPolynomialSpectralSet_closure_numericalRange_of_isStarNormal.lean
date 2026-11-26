@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isPolynomialSpectralSet_closure_numericalRange_of_isStarNormal
 -- name    : isPolynomialSpectralSet_closure_numericalRange_of_isStarNormal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:47:22.215467+00:00
 -- url     : https://prove2.me/theorems/27a3b1bb-59b1-5b94-9bb4-b7408d3a9731

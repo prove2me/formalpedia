@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_restrict_logarithmicMeasure_Ioc
 -- name    : Auto.aux_restrict_logarithmicMeasure_Ioc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:23.735147+00:00
 -- url     : https://prove2.me/theorems/dc92420c-c093-497c-aa98-36a02dd3cdbb

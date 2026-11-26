@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_tangentialRate_along_nonneg
 -- name    : Eden.tangentialRate_along_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:13:22.43083+00:00
 -- url     : https://prove2.me/theorems/6350da4d-b595-4639-aa0b-554fe7912edc

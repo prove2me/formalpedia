@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_isBounded_evolution_image_interval
 -- name    : Eden.isBounded_evolution_image_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:29:20.1292+00:00
 -- url     : https://prove2.me/theorems/bf0b91b1-2fc4-5902-8867-bd83c73ca508

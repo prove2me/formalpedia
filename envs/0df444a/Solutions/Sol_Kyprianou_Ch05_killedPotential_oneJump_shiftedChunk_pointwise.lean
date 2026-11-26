@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.killedPotential_oneJump_shiftedChunk_pointwise
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-26T12:18:06.664703+00:00
 -- url     : https://prove2.me/submissions/0f747722-98eb-4c14-a62c-bb168b51ff51
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.MeasureTheory.Group.Convolution

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_radialField_eq_zero_iff
 -- name    : Eden.radialField_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:29:05.63486+00:00
 -- url     : https://prove2.me/theorems/e43e6fdc-2057-4a5f-92fc-2177b644c979

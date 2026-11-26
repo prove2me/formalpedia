@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_contDiff_frequencyVectorField
 -- name    : Eden.contDiff_frequencyVectorField
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:27:34.592874+00:00
 -- url     : https://prove2.me/theorems/415fb58e-9aeb-5aa7-bf32-a3e2e8a90827

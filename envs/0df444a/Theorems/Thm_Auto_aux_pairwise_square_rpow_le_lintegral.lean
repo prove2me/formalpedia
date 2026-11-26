@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_pairwise_square_rpow_le_lintegral
 -- name    : Auto.aux_pairwise_square_rpow_le_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:28.779673+00:00
 -- url     : https://prove2.me/theorems/8e52ebc8-4f64-4c50-bebe-29a2e859a1dd

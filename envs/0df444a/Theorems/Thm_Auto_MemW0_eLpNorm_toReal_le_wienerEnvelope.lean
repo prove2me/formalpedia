@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_MemW0_eLpNorm_toReal_le_wienerEnvelope
 -- name    : Auto.MemW0.eLpNorm_toReal_le_wienerEnvelope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:48:34.182884+00:00
 -- url     : https://prove2.me/theorems/fdc3f740-d369-54a6-b0c2-80ffa1e70214

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_log_local_integral_eq
 -- name    : Auto.aux_log_local_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:45.657363+00:00
 -- url     : https://prove2.me/theorems/4d72dda1-9d11-5c72-8983-482f20d56daf

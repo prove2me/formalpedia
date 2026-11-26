@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_pow_aeval_sub_eval_smul_one_le_two_mul_pow_polynomialSupNorm_sub_C_of_forall_symmetrized_bound
 -- name    : norm_pow_aeval_sub_eval_smul_one_le_two_mul_pow_polynomialSupNorm_sub_C_of_forall_symmetrized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:47:59.163969+00:00
 -- url     : https://prove2.me/theorems/515b457e-64ee-5a29-95b7-daef6a1708ca

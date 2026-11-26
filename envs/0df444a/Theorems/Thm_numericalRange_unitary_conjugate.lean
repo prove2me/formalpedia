@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRange_unitary_conjugate
 -- name    : numericalRange_unitary_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:21:23.831855+00:00
 -- url     : https://prove2.me/theorems/ab844dde-112c-4071-9e7a-bbe973dbaafc

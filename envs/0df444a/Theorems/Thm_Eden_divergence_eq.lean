@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_divergence_eq
 -- name    : Eden.divergence_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:26:10.225566+00:00
 -- url     : https://prove2.me/theorems/23b618f6-a69b-4d67-a78a-93bb69ef0ee5

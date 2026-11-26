@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_sub_numericalRadius_le_numericalRadius_sub_smul_one
 -- name    : norm_sub_numericalRadius_le_numericalRadius_sub_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:25:46.122862+00:00
 -- url     : https://prove2.me/theorems/e55d8d86-95f4-44f2-bccd-d2f5c68fccbc

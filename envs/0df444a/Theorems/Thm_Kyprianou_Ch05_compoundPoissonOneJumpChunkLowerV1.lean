@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_compoundPoissonOneJumpChunkLowerV1
 -- name    : Kyprianou.Ch05.compoundPoissonOneJumpChunkLowerV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T13:02:45.287796+00:00
 -- url     : https://prove2.me/theorems/5d4e6407-0e9f-5da4-82c7-654afad9ab72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_wienerEnvelope_eq_sSup
 -- name    : Auto.aux_wienerEnvelope_eq_sSup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:57.809647+00:00
 -- url     : https://prove2.me/theorems/ac87b8d2-e075-4ada-8d5d-8be1e7f7101e

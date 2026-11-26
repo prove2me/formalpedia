@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_singularValues_frequencyEvolution_eq
 -- name    : Eden.singularValues_frequencyEvolution_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:20:05.35598+00:00
 -- url     : https://prove2.me/theorems/bc7ce0a0-2f9b-5f99-a719-f1d1067a3b4d

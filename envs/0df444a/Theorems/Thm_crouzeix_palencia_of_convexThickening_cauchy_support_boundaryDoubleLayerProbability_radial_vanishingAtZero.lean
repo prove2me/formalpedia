@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeix_palencia_of_convexThickening_cauchy_support_boundaryDoubleLayerProbability_radial_vanishingAtZero
 -- name    : crouzeix_palencia_of_convexThickening_cauchy_support_boundaryDoubleLayerProbability_radial_vanishingAtZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:23:38.723571+00:00
 -- url     : https://prove2.me/theorems/5e21a0f4-3f29-43f0-ae9a-9bd2a77b0e05

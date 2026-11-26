@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_exists_global_forward_solution
 -- name    : Eden.exists_global_forward_solution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:06:35.708629+00:00
 -- url     : https://prove2.me/theorems/6b75de25-e1de-4fff-aa4a-fcf5fe342a49

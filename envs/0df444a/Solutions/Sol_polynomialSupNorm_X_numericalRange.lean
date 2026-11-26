@@ -1,0 +1,64 @@
+-- Prove2me | solution 1 for polynomialSupNorm_X_numericalRange
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-26T14:53:34.245973+00:00
+-- url     : https://prove2.me/submissions/9053da7a-92f2-4524-b386-58dd20e7ac61
+
+import Mathlib.Analysis.SpecificLimits.Normed
+import Definitions.Def_Operator_Crouzeix_BoundaryMaximum
+import Definitions.Def_Operator_Crouzeix_SmoothSupportDomain
+import Definitions.Def_Operator_Crouzeix_PolynomialBound
+import Theorems.Thm_SmoothJordanDomain_canonicalOrientation_carrier
+import Theorems.Thm_SmoothJordanDomain_canonicalOrientation_hasMergelyanPolynomialApproximation_iff
+import Theorems.Thm_SmoothJordanDomain_reverseOrientation_boundaryParam
+import Theorems.Thm_SmoothJordanDomain_reverseOrientation_carrier
+import Theorems.Thm_SmoothJordanDomain_reverseOrientation_hasMergelyanPolynomialApproximation_iff
+import Theorems.Thm_StrictNestedSmoothJordanExhaustion_closedBall_domain_boundaryParam
+import Theorems.Thm_StrictNestedSmoothJordanExhaustion_closedBall_domain_boundaryParam_deriv
+import Theorems.Thm_StrictNestedSmoothJordanExhaustion_closedBall_domain_boundaryParam_outwardNormal
+import Theorems.Thm_StrictNestedSmoothJordanExhaustion_closedBall_domain_carrier
+import Theorems.Thm_StrictNestedSmoothJordanExhaustion_closedBall_domain_closure_carrier
+import Theorems.Thm_StrictNestedSmoothJordanExhaustion_closedBall_domain_frontier_carrier
+import Theorems.Thm_crouzeixPolynomialBoundaryPhaseTransform_zero
+import Theorems.Thm_crouzeixPolynomialScalarCompanionBoundaryValue_zero
+import Theorems.Thm_crouzeixPolynomialScalarCompanionDeriv_zero
+import Theorems.Thm_crouzeixPolynomialScalarCompanionRegularized_zero
+import Theorems.Thm_crouzeixPolynomialScalarCompanion_zero
+import Theorems.Thm_mem_numericalRange
+import Theorems.Thm_polytopeRoundedSupportDomainOfRange_carrier
+import Theorems.Thm_polytopeRoundedSupportDomain_boundaryParam
+import Theorems.Thm_polytopeRoundedSupportDomain_carrier
+import Theorems.Thm_smoothSupportDirectionalLinearMap_apply
+attribute [local simp] SmoothJordanDomain.canonicalOrientation_carrier
+attribute [local simp] SmoothJordanDomain.canonicalOrientation_hasMergelyanPolynomialApproximation_iff
+attribute [local simp] SmoothJordanDomain.reverseOrientation_boundaryParam
+attribute [local simp] SmoothJordanDomain.reverseOrientation_carrier
+attribute [local simp] SmoothJordanDomain.reverseOrientation_hasMergelyanPolynomialApproximation_iff
+attribute [local simp] StrictNestedSmoothJordanExhaustion.closedBall_domain_boundaryParam
+attribute [local simp] StrictNestedSmoothJordanExhaustion.closedBall_domain_boundaryParam_deriv
+attribute [local simp] StrictNestedSmoothJordanExhaustion.closedBall_domain_boundaryParam_outwardNormal
+attribute [local simp] StrictNestedSmoothJordanExhaustion.closedBall_domain_carrier
+attribute [local simp] StrictNestedSmoothJordanExhaustion.closedBall_domain_closure_carrier
+attribute [local simp] StrictNestedSmoothJordanExhaustion.closedBall_domain_frontier_carrier
+attribute [local simp] crouzeixPolynomialBoundaryPhaseTransform_zero
+attribute [local simp] crouzeixPolynomialScalarCompanionBoundaryValue_zero
+attribute [local simp] crouzeixPolynomialScalarCompanionDeriv_zero
+attribute [local simp] crouzeixPolynomialScalarCompanionRegularized_zero
+attribute [local simp] crouzeixPolynomialScalarCompanion_zero
+attribute [local simp] mem_numericalRange
+attribute [local simp] polytopeRoundedSupportDomainOfRange_carrier
+attribute [local simp] polytopeRoundedSupportDomain_boundaryParam
+attribute [local simp] polytopeRoundedSupportDomain_carrier
+attribute [local simp] smoothSupportDirectionalLinearMap_apply
+
+
+
+set_option autoImplicit false
+open Complex Set
+open scoped InnerProductSpace Polynomial
+universe u
+variable {E : Type u} [NormedAddCommGroup E] [InnerProductSpace ℂ E]
+theorem _root_.solution (A : E →L[ℂ] E) :
+    polynomialSupNorm Polynomial.X (numericalRange A) =
+      numericalRadius A := by
+  simp only [polynomialSupNorm, Polynomial.eval_X, numericalRadius]

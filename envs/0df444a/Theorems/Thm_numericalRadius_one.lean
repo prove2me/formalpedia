@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_one
 -- name    : numericalRadius_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:25:07.781699+00:00
 -- url     : https://prove2.me/theorems/0007ee92-c904-404b-81e6-c77393269a55

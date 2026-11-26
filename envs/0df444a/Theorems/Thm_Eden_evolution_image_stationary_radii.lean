@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_evolution_image_stationary_radii
 -- name    : Eden.evolution_image_stationary_radii
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:28:27.405511+00:00
 -- url     : https://prove2.me/theorems/5027bf00-cfc0-4936-bbd3-26d10c2aeb33

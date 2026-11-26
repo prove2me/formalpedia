@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyEvolution_add_on_torus
 -- name    : Eden.frequencyEvolution_add_on_torus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:24:22.143409+00:00
 -- url     : https://prove2.me/theorems/48db88a2-a210-59e3-a412-41469e43cb70

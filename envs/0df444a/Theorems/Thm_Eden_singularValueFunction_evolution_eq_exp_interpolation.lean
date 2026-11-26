@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_singularValueFunction_evolution_eq_exp_interpolation
 -- name    : Eden.singularValueFunction_evolution_eq_exp_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:43.692794+00:00
 -- url     : https://prove2.me/theorems/56a8ff9e-cdee-496e-848e-78e18a9fbfb3

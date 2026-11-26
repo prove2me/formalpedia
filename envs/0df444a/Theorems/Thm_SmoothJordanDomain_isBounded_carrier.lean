@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothJordanDomain_isBounded_carrier
 -- name    : SmoothJordanDomain.isBounded_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:25:02.794812+00:00
 -- url     : https://prove2.me/theorems/a6df296c-60a9-51e5-91b4-c0b4c0cb182f

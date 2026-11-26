@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_numericalRange_unitary_conjugate__eb4e389bbb52
 -- name    : P2M_numericalRange_unitary_conjugate__eb4e389bbb52
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:26:41.133006+00:00
 -- url     : https://prove2.me/theorems/f11b4602-55fd-49dc-af26-e96548d69913

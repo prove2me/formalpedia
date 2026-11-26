@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_enorm_mul_inv_cancel
 -- name    : Auto.aux_enorm_mul_inv_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:12.550415+00:00
 -- url     : https://prove2.me/theorems/a1d3292c-dc35-5c25-9712-cd087d9e94ca

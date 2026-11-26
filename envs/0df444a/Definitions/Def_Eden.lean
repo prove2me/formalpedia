@@ -1,0 +1,112 @@
+-- Prove2me | Definitions.Def_Eden
+-- name    : Eden
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-26T15:05:06.001161+00:00
+-- url     : https://prove2.me/theorems/dcd61d1d-50d7-4f10-9db7-04712ff7e522
+-- title:
+--   Eden
+-- statement:
+--   Definitions and structural lemmas for Eden, from Matthew J. Colbrook (MColbrook/Eden_conjecture; see pinned Apache-2.0 LICENSE, NOTICE.md, and formalization.yaml)'s pinned Counterexample to the unrestricted form of Eden's conjecture development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/MColbrook/Eden_conjecture/blob/9e803e9885d23064a24b138b0068a249f97d13ed/Eden.lean
+
+import Definitions.Def_Eden_Algebra
+import Definitions.Def_Eden_ScalarFlow
+import Definitions.Def_Eden_ScalarCalculus
+import Definitions.Def_Eden_PlanarFlow
+import Definitions.Def_Eden_Evolution
+import Definitions.Def_Eden_Uniqueness
+import Definitions.Def_Eden_InitialDerivative
+import Definitions.Def_Eden_CartesianDerivative
+import Definitions.Def_Eden_GrowthRates
+import Definitions.Def_Eden_OrthogonalFrames
+import Definitions.Def_Eden_DerivativeFrames
+import Definitions.Def_Eden_DerivativeDecomposition
+import Definitions.Def_Eden_SingularValues
+import Definitions.Def_Eden_StationaryFactors
+import Definitions.Def_Eden_RadialDynamics
+import Definitions.Def_Eden_InvariantSets
+import Definitions.Def_Eden_StrictInvariance
+import Definitions.Def_Eden_FactorBounds
+import Definitions.Def_Eden_VolumeGrowth
+import Definitions.Def_Eden_PhysicalRadius
+import Definitions.Def_Eden_AttractorDistance
+import Definitions.Def_Eden_UniformAttraction
+import Definitions.Def_Eden_CompleteTrajectories
+import Definitions.Def_Eden_SingularValueFunction
+import Definitions.Def_Eden_FiniteTimeDimension
+import Definitions.Def_Eden_OrderedStationarySpectrum
+import Definitions.Def_Eden_RealTimeAverages
+import Definitions.Def_Eden_FactorLimits
+import Definitions.Def_Eden_Sorting
+import Definitions.Def_Eden_LyapunovExponents
+import Definitions.Def_Eden_KaplanYorke
+import Definitions.Def_Eden_SpectrumTable
+import Definitions.Def_Eden_DimensionTable
+import Definitions.Def_Eden_LogarithmicInterpolation
+import Definitions.Def_Eden_InterpolationSign
+import Definitions.Def_Eden_FiniteTimeKaplanYorke
+import Definitions.Def_Eden_DimensionConvergenceCriteria
+import Definitions.Def_Eden_NeutralDimensionBounds
+import Definitions.Def_Eden_LimitingInterpolation
+import Definitions.Def_Eden_DimensionConvergence
+import Definitions.Def_Eden_EventualDimensionFormulas
+import Definitions.Def_Eden_RadialReturns
+import Definitions.Def_Eden_RotationReturns
+import Definitions.Def_Eden_PeriodicSets
+import Definitions.Def_Eden_CircleOrbits
+import Definitions.Def_Eden_PeriodicOrbits
+import Definitions.Def_Eden_PeriodicDimensions
+import Definitions.Def_Eden_PeriodicGap
+import Definitions.Def_Eden_TorusAngles
+import Definitions.Def_Eden_VectorFieldDerivative
+import Definitions.Def_Eden_Divergence
+import Definitions.Def_Eden_PlanarVectorField
+import Definitions.Def_Eden_PolynomialVectorField
+import Definitions.Def_Eden_JointSmoothness
+import Definitions.Def_Eden_RadialQualitative
+import Definitions.Def_Eden_AngularLifts
+import Definitions.Def_Eden_VolumeConsequences
+import Definitions.Def_Eden_PlanarDerivative
+import Definitions.Def_Eden_PlanarSingularValues
+import Definitions.Def_Eden_PlanarMovingFrame
+import Definitions.Def_Eden_ExteriorGeometry
+import Definitions.Def_Eden_LogarithmicSums
+import Definitions.Def_Eden_ExteriorLimits
+import Definitions.Def_Eden_SelectedSums
+import Definitions.Def_Eden_ExteriorMaximalGrowth
+import Definitions.Def_Eden_ExponentSums
+import Definitions.Def_Eden_CommonIndex
+import Definitions.Def_Eden_CommonIndexPeriodic
+import Definitions.Def_Eden_Nontransitivity
+import Definitions.Def_Eden_SelectedProducts
+import Definitions.Def_Eden_ExteriorOperatorNorm
+import Definitions.Def_Eden_ExteriorGram
+import Definitions.Def_Eden_ExteriorSingularValues
+import Definitions.Def_Eden_ExteriorCocycle
+import Definitions.Def_Eden_IntegerGrowthBounds
+import Definitions.Def_Eden_GlobalGrowth
+import Definitions.Def_Eden_RealSubadditive
+import Definitions.Def_Eden_GlobalGrowthLimits
+import Definitions.Def_Eden_ExactGlobalGrowth
+import Definitions.Def_Eden_GlobalGrowthDimension
+import Definitions.Def_Eden_HausdorffGeometry
+import Definitions.Def_Eden_HausdorffDimensions
+import Definitions.Def_Eden_TorusDirections
+import Definitions.Def_Eden_TorusRecurrence
+import Definitions.Def_Eden_FrequencyEvolution
+import Definitions.Def_Eden_FrequencyUniqueness
+import Definitions.Def_Eden_FrequencyRotation
+import Definitions.Def_Eden_FrequencyAttractor
+import Definitions.Def_Eden_FrequencySingularValues
+import Definitions.Def_Eden_FrequencyDimensions
+import Definitions.Def_Eden_RationalFrequency
+import Definitions.Def_Eden_InstabilityGeometry
+import Definitions.Def_Eden_NonlinearInstability
+import Definitions.Def_Eden_PeriodicGlobalGrowth
+import Definitions.Def_Eden_PeriodicGlobalDimension
+import Definitions.Def_Eden_InterpolationConcavity
+set_option autoImplicit true
+
+

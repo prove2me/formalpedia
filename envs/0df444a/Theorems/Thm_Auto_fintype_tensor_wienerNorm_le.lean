@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_fintype_tensor_wienerNorm_le
 -- name    : Auto.fintype_tensor_wienerNorm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:46:08.282885+00:00
 -- url     : https://prove2.me/theorems/f075b1ad-a6a6-5318-86f5-e9926551a4c7

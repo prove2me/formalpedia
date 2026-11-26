@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_MemW0_aux_comp_injective_continuousLinearMap_prod
 -- name    : Auto.MemW0.aux_comp_injective_continuousLinearMap_prod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:45:56.237049+00:00
 -- url     : https://prove2.me/theorems/b896103b-73ce-5ec0-865e-a049535c02e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_geometricPeriodicOrbits_encard
 -- name    : Eden.geometricPeriodicOrbits_encard
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:19:59.815537+00:00
 -- url     : https://prove2.me/theorems/5f31d10f-d96e-4706-81d8-92e039f8eb11

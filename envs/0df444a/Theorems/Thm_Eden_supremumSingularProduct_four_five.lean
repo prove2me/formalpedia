@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_supremumSingularProduct_four_five
 -- name    : Eden.supremumSingularProduct_four_five
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:52.353796+00:00
 -- url     : https://prove2.me/theorems/9afaf1c8-9663-4f02-8b51-e500c39fd816

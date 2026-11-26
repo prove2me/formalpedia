@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_exists_globalLogGrowth_linear_bound
 -- name    : Eden.exists_globalLogGrowth_linear_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:12.577247+00:00
 -- url     : https://prove2.me/theorems/571cae0f-e749-5d3f-afa0-3a472a677a8f

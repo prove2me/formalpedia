@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_finiteTimeDimension_of_limiting_unit_radii
 -- name    : Eden.finiteTimeDimension_of_limiting_unit_radii
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:12:48.5452+00:00
 -- url     : https://prove2.me/theorems/27738da9-4eb7-5588-b035-114f43c03f35

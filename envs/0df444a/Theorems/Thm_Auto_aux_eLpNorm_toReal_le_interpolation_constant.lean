@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_eLpNorm_toReal_le_interpolation_constant
 -- name    : Auto.aux_eLpNorm_toReal_le_interpolation_constant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:48:10.609109+00:00
 -- url     : https://prove2.me/theorems/2514007c-0360-5fbd-930a-3870d79ad7ce

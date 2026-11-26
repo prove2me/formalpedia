@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_le_one_add_sqrt_two_mul_polynomialSupNorm_numericalRange
 -- name    : norm_aeval_le_one_add_sqrt_two_mul_polynomialSupNorm_numericalRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:43:32.013433+00:00
 -- url     : https://prove2.me/theorems/c4ed89d7-3a60-4ed7-a733-7e362203778c

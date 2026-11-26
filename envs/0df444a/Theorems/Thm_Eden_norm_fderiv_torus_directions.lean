@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_norm_fderiv_torus_directions
 -- name    : Eden.norm_fderiv_torus_directions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:12:31.337315+00:00
 -- url     : https://prove2.me/theorems/3d6e6e17-3ff9-4537-8d01-0f221f3503c1

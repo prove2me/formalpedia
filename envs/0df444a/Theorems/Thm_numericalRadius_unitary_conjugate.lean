@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_numericalRadius_unitary_conjugate
 -- name    : numericalRadius_unitary_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:26:35.015472+00:00
 -- url     : https://prove2.me/theorems/9d18009a-b3d7-4748-95fa-03fbe86c7a75

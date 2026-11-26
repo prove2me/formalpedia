@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_canonicalTargetLift_spec
 -- name    : TunnellMap.canonicalTargetLift_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:45:51.926588+00:00
 -- url     : https://prove2.me/theorems/0846014f-b4b3-5436-b9e4-a49c252cd620

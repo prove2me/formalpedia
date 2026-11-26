@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41VisitEndpointV19
 -- name    : Kyprianou.Ch04.exercise41VisitEndpointV19
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T13:20:03.372872+00:00
 -- url     : https://prove2.me/theorems/af407e80-2faa-5f61-b73b-4e929678814c

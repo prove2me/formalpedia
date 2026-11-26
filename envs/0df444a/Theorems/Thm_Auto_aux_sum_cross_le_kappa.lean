@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_sum_cross_le_kappa
 -- name    : Auto.aux_sum_cross_le_kappa
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:31.290742+00:00
 -- url     : https://prove2.me/theorems/3abd565f-c67f-48a6-966b-7622e7d046ef

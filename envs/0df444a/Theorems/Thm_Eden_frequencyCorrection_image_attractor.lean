@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequencyCorrection_image_attractor
 -- name    : Eden.frequencyCorrection_image_attractor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:14:55.004352+00:00
 -- url     : https://prove2.me/theorems/f59c3afb-b8e4-405b-bc69-1f452c1ba0b5

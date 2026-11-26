@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_continuousOn_frequencyEvolution
 -- name    : Eden.continuousOn_frequencyEvolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:27:40.788896+00:00
 -- url     : https://prove2.me/theorems/fb3b461c-6366-503e-b152-895278aa6d1a

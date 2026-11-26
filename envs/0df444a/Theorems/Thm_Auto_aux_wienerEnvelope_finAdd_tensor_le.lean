@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_wienerEnvelope_finAdd_tensor_le
 -- name    : Auto.aux_wienerEnvelope_finAdd_tensor_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:45:57.097088+00:00
 -- url     : https://prove2.me/theorems/8e606751-eebb-5235-b302-e5f8f56100d0

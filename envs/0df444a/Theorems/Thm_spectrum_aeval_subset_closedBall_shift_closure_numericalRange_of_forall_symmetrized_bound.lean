@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_spectrum_aeval_subset_closedBall_shift_closure_numericalRange_of_forall_symmetrized_bound
 -- name    : spectrum_aeval_subset_closedBall_shift_closure_numericalRange_of_forall_symmetrized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:48:47.18608+00:00
 -- url     : https://prove2.me/theorems/dacd258e-e958-5d30-b699-fb2a8fa3209b

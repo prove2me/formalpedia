@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_MemW0_aux_mul_prod
 -- name    : Auto.MemW0.aux_mul_prod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:01.988864+00:00
 -- url     : https://prove2.me/theorems/fc9e709c-908f-5c49-a56e-3914528a6f86

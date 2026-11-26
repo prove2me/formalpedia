@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalLogGrowth_nonneg
 -- name    : Eden.globalLogGrowth_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:41:36.300801+00:00
 -- url     : https://prove2.me/theorems/d4f80ff1-817f-4dda-9c23-67cf92602f38

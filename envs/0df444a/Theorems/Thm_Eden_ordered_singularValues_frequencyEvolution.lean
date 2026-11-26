@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_ordered_singularValues_frequencyEvolution
 -- name    : Eden.ordered_singularValues_frequencyEvolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:17:41.929374+00:00
 -- url     : https://prove2.me/theorems/684c07bb-b4c6-5cdf-a0e1-557b55ee796f

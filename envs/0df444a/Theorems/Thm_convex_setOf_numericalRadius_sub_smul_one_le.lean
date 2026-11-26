@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_convex_setOf_numericalRadius_sub_smul_one_le
 -- name    : convex_setOf_numericalRadius_sub_smul_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:26:57.849366+00:00
 -- url     : https://prove2.me/theorems/dfb34c24-22ad-5ef5-b759-e2e337101489

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_radialField_neg_above
 -- name    : Eden.radialField_neg_above
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:29:13.330256+00:00
 -- url     : https://prove2.me/theorems/c63396ab-7deb-46ce-b524-344845be22d0

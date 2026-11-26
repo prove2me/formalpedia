@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_evolution_mem_torus
 -- name    : Eden.evolution_mem_torus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:12:34.729293+00:00
 -- url     : https://prove2.me/theorems/060bbb3d-7935-53f3-8f33-5999a15572f4

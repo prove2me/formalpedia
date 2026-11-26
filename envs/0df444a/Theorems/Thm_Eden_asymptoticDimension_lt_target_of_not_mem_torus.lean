@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_asymptoticDimension_lt_target_of_not_mem_torus
 -- name    : Eden.asymptoticDimension_lt_target_of_not_mem_torus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:03:40.986862+00:00
 -- url     : https://prove2.me/theorems/b9d79744-1895-5371-8367-f22b1cd0c0cb

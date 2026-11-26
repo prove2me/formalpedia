@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_circle_center_eq_scalar_of_forall_crouzeix_symmetrized_bound
 -- name    : circle_center_eq_scalar_of_forall_crouzeix_symmetrized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:24:42.48164+00:00
 -- url     : https://prove2.me/theorems/5962991b-6a7e-4df7-8b43-da0861f5e4db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_aeval_le_three_mul_polynomialSupNorm_closedBall_of_closure_numericalRange_subset_ball
 -- name    : norm_aeval_le_three_mul_polynomialSupNorm_closedBall_of_closure_numericalRange_subset_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:11:27.971554+00:00
 -- url     : https://prove2.me/theorems/9da8f76f-5aa0-4cae-8075-a73e31e1a7be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_singularValueFunction_evolution_add_le
 -- name    : Eden.singularValueFunction_evolution_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:37:13.664914+00:00
 -- url     : https://prove2.me/theorems/2bca862b-271e-5e87-9578-6d52ae30c504

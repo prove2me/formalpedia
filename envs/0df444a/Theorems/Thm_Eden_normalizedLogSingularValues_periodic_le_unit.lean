@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_normalizedLogSingularValues_periodic_le_unit
 -- name    : Eden.normalizedLogSingularValues_periodic_le_unit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:09.288396+00:00
 -- url     : https://prove2.me/theorems/7d1e11e0-68ad-460d-876f-cb1d287c9401

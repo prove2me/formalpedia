@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_exists_positive_rational_frequency
 -- name    : Eden.exists_positive_rational_frequency
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:25:38.439838+00:00
 -- url     : https://prove2.me/theorems/52e6e6cb-d653-5b40-97ba-90c80e591746

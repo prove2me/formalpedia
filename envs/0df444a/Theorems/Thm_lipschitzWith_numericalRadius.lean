@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_lipschitzWith_numericalRadius
 -- name    : lipschitzWith_numericalRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:22:23.613172+00:00
 -- url     : https://prove2.me/theorems/ad69a24e-a5c2-4d4f-8b46-78b63782e7ea

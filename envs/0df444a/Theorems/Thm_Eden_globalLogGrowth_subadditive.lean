@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalLogGrowth_subadditive
 -- name    : Eden.globalLogGrowth_subadditive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:30.820432+00:00
 -- url     : https://prove2.me/theorems/fbb9e337-3214-424f-9500-8f30510ca620

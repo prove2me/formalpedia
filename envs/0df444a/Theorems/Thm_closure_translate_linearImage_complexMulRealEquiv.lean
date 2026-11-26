@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_closure_translate_linearImage_complexMulRealEquiv
 -- name    : closure_translate_linearImage_complexMulRealEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:58:42.846792+00:00
 -- url     : https://prove2.me/theorems/4f93b813-8713-4d09-9a33-dd21a09aaa27

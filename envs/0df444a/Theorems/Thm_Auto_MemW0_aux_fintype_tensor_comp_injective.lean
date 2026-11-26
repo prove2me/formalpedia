@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_MemW0_aux_fintype_tensor_comp_injective
 -- name    : Auto.MemW0.aux_fintype_tensor_comp_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:35.670536+00:00
 -- url     : https://prove2.me/theorems/49be3a7e-98d5-4791-8923-c60e3bede3fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_eventually_dimension_formula_two_two
 -- name    : Eden.eventually_dimension_formula_two_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:13:57.749809+00:00
 -- url     : https://prove2.me/theorems/d28ef263-754a-5725-b5ff-bdc9dd9758cc

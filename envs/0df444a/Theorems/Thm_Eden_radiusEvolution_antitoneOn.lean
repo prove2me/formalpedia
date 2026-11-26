@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_radiusEvolution_antitoneOn
 -- name    : Eden.radiusEvolution_antitoneOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:31:33.845415+00:00
 -- url     : https://prove2.me/theorems/1c79d3e2-3511-4922-b1b5-5a10948800e3

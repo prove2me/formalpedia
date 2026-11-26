@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_homothety_apply_eq_const_add_mul
 -- name    : homothety_apply_eq_const_add_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:58:18.242558+00:00
 -- url     : https://prove2.me/theorems/7c81bf44-56bf-53fd-921c-d4498c76bda7

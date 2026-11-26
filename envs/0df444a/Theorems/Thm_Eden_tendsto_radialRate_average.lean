@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_tendsto_radialRate_average
 -- name    : Eden.tendsto_radialRate_average
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:02:12.811465+00:00
 -- url     : https://prove2.me/theorems/eee677a5-da4d-44f4-9caf-423e55e433e7

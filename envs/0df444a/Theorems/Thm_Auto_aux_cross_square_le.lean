@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_cross_square_le
 -- name    : Auto.aux_cross_square_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:06.300115+00:00
 -- url     : https://prove2.me/theorems/df8175d4-f657-56e9-927f-8ca7edcb0196

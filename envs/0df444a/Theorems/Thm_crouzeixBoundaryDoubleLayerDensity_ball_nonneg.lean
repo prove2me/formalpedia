@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixBoundaryDoubleLayerDensity_ball_nonneg
 -- name    : crouzeixBoundaryDoubleLayerDensity_ball_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:24:38.689807+00:00
 -- url     : https://prove2.me/theorems/a4bd58ce-7f52-5b42-8459-5c758f976ad6

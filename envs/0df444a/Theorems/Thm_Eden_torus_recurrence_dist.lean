@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_torus_recurrence_dist
 -- name    : Eden.torus_recurrence_dist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:26:44.592803+00:00
 -- url     : https://prove2.me/theorems/d339e726-c0e2-435e-a70d-ae4b1d16ace8

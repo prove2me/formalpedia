@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_equilibriumSet_eq_singleton
 -- name    : Eden.equilibriumSet_eq_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:14:17.992944+00:00
 -- url     : https://prove2.me/theorems/6632656b-0ac1-5362-abc1-b273b09c0771

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TunnellMap_negTriple_residualTargetLift
 -- name    : TunnellMap.negTriple_residualTargetLift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:47:59.535694+00:00
 -- url     : https://prove2.me/theorems/aec71971-fb88-4322-8886-db3c1649f699

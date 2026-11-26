@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crouzeixAuxiliaryOperator_scalarCompanionClosedExtension_ball_center_eq
 -- name    : crouzeixAuxiliaryOperator_scalarCompanionClosedExtension_ball_center_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:22:04.00743+00:00
 -- url     : https://prove2.me/theorems/9a0f1a5b-5bb6-5d55-a183-9b9483773828

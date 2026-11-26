@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_chain_second_energy_le
 -- name    : Auto.aux_chain_second_energy_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:36.089968+00:00
 -- url     : https://prove2.me/theorems/133c640c-feb1-4fdf-bf5e-267539919f15

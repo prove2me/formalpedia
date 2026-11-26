@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_radiusEvolution_mem_lower_interval
 -- name    : Eden.radiusEvolution_mem_lower_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:40:31.802793+00:00
 -- url     : https://prove2.me/theorems/e127e2fc-81a3-5280-96e5-d449c8d51563

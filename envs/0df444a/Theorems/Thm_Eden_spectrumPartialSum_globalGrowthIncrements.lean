@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_spectrumPartialSum_globalGrowthIncrements
 -- name    : Eden.spectrumPartialSum_globalGrowthIncrements
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:50.77621+00:00
 -- url     : https://prove2.me/theorems/902812a9-bb29-5eb9-93ce-b1a906c5f00a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequency_periodic_finiteTime_isGreatest
 -- name    : Eden.frequency_periodic_finiteTime_isGreatest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:25:32.957494+00:00
 -- url     : https://prove2.me/theorems/16d83ca8-7246-583b-8983-7e12c9465bc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HasSmoothJordanOuterApproximation_similarity
 -- name    : HasSmoothJordanOuterApproximation.similarity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:58:25.574653+00:00
 -- url     : https://prove2.me/theorems/adbb6ac2-31a6-516f-bd7a-1179e0225e2b

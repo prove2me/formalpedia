@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_unstableRelativeTo_mono
 -- name    : Eden.unstableRelativeTo_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:28:14.980729+00:00
 -- url     : https://prove2.me/theorems/dfab3190-a154-54bf-9e85-26356a09e338

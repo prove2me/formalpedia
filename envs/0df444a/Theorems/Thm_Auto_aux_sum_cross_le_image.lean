@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_sum_cross_le_image
 -- name    : Auto.aux_sum_cross_le_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:21.14573+00:00
 -- url     : https://prove2.me/theorems/d5629b3c-434f-5fae-908b-dc6070bf9cc6

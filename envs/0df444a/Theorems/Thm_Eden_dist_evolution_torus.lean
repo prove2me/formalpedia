@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_dist_evolution_torus
 -- name    : Eden.dist_evolution_torus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:26:38.907181+00:00
 -- url     : https://prove2.me/theorems/2e3425f4-0007-5833-b31b-9f47e6d5ccd3

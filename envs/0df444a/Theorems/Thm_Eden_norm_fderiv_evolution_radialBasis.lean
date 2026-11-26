@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_norm_fderiv_evolution_radialBasis
 -- name    : Eden.norm_fderiv_evolution_radialBasis
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:12:01.33006+00:00
 -- url     : https://prove2.me/theorems/ccc8cebb-1680-5704-88e3-42646b14ebbb

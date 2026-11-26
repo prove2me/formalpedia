@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalLogGrowth_five
 -- name    : Eden.globalLogGrowth_five
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:41:30.865532+00:00
 -- url     : https://prove2.me/theorems/5eba37a4-7967-4a01-a73c-2c10040f8c96

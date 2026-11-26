@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_singularValueFunction_le_supremum
 -- name    : Eden.singularValueFunction_le_supremum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:38:45.340189+00:00
 -- url     : https://prove2.me/theorems/38ef5b5e-899a-43e3-bd01-d21028847821

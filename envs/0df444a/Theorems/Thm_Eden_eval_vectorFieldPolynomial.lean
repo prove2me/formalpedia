@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_eval_vectorFieldPolynomial
 -- name    : Eden.eval_vectorFieldPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:28:47.490801+00:00
 -- url     : https://prove2.me/theorems/c7903211-ed76-4a62-9651-ed61d51293b3

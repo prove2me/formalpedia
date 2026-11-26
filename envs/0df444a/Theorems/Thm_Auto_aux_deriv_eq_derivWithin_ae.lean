@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_deriv_eq_derivWithin_ae
 -- name    : Auto.aux_deriv_eq_derivWithin_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:38.096804+00:00
 -- url     : https://prove2.me/theorems/a126b224-870d-596e-9782-3a7e8764d4ee

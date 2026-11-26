@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothJordanDomain_hasSmoothJordanOuterApproximation_closure
 -- name    : SmoothJordanDomain.hasSmoothJordanOuterApproximation_closure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:58:19.844031+00:00
 -- url     : https://prove2.me/theorems/3a7b26fc-56fb-5784-9f9b-b7e6e324f472

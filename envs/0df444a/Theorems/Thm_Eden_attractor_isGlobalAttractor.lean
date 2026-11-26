@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_attractor_isGlobalAttractor
 -- name    : Eden.attractor_isGlobalAttractor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:39:22.623214+00:00
 -- url     : https://prove2.me/theorems/03dfc3d1-9790-5c6b-b35e-50d2c6326261

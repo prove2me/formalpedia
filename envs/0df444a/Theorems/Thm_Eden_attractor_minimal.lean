@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_attractor_minimal
 -- name    : Eden.attractor_minimal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:39:24.023524+00:00
 -- url     : https://prove2.me/theorems/8780167f-ea34-5fc1-ad2b-4ee770ed7e19

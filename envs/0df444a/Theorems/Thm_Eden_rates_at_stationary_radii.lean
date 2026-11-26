@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_rates_at_stationary_radii
 -- name    : Eden.rates_at_stationary_radii
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:05:27.317922+00:00
 -- url     : https://prove2.me/theorems/daa0b4f5-aa3d-57ed-9482-b87b4cbf8706

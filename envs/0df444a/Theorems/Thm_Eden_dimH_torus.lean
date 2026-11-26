@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_dimH_torus
 -- name    : Eden.dimH_torus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:11:10.186996+00:00
 -- url     : https://prove2.me/theorems/0fcf9071-efca-59a7-af05-c3bbf5f7d62c

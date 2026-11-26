@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_continuous_fintype_tensor
 -- name    : Auto.aux_continuous_fintype_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:29.509225+00:00
 -- url     : https://prove2.me/theorems/d7f64af2-89d1-526d-b7f8-2221dd91e218

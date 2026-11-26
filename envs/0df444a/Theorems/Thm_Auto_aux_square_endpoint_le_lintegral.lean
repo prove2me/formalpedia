@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_square_endpoint_le_lintegral
 -- name    : Auto.aux_square_endpoint_le_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:01.84782+00:00
 -- url     : https://prove2.me/theorems/5d37664a-78de-5e8e-b8a9-bfdfbf0334f3

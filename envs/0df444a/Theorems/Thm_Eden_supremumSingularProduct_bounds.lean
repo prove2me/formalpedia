@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_supremumSingularProduct_bounds
 -- name    : Eden.supremumSingularProduct_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:38:21.355774+00:00
 -- url     : https://prove2.me/theorems/97e2f54d-14e9-467b-bd49-c2f07d68b20d

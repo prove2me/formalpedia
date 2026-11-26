@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_tendsto_pow_atTop_nhds_zero_of_numericalRadius_lt_one
 -- name    : tendsto_pow_atTop_nhds_zero_of_numericalRadius_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:47:39.956508+00:00
 -- url     : https://prove2.me/theorems/b105d287-8935-4f96-921a-273b3941e16e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_supremumSingularProduct_zero
 -- name    : Eden.supremumSingularProduct_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:31.432063+00:00
 -- url     : https://prove2.me/theorems/3e8bd23a-d7f2-495c-b7df-41e1cf6b303d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_chain_sq_energy_le
 -- name    : Auto.aux_chain_sq_energy_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:54.359032+00:00
 -- url     : https://prove2.me/theorems/deb09c8b-0f70-585e-980d-b2a5aaff2846

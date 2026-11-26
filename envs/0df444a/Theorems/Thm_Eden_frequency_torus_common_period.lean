@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_frequency_torus_common_period
 -- name    : Eden.frequency_torus_common_period
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:24:48.560971+00:00
 -- url     : https://prove2.me/theorems/ca6b190d-b0f0-4b02-8ad4-f68f322aff43

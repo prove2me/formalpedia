@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_cauchy_lintegral_two
 -- name    : Auto.aux_cauchy_lintegral_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:53.309148+00:00
 -- url     : https://prove2.me/theorems/b8445787-5df0-5229-b41c-6fdaf9cf70b8

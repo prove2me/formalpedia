@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_tendsto_frequencyLogSingularValue
 -- name    : Eden.tendsto_frequencyLogSingularValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:21:30.847547+00:00
 -- url     : https://prove2.me/theorems/0fe6502d-0269-4120-aca8-a4dd6d4acd9c

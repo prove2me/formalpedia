@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotential_oneJump_shiftedChunk_charge
 -- name    : Kyprianou.Ch05.killedPotential_oneJump_shiftedChunk_charge
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T09:24:06.91819+00:00
 -- url     : https://prove2.me/theorems/bf362962-c6e1-584f-aff1-40c7e409fbd3

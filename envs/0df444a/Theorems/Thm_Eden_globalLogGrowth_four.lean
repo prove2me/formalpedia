@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalLogGrowth_four
 -- name    : Eden.globalLogGrowth_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:40.830507+00:00
 -- url     : https://prove2.me/theorems/8e9358ed-e299-57cf-9f24-156a74b4cefd

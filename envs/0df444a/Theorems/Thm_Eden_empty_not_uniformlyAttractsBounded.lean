@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_empty_not_uniformlyAttractsBounded
 -- name    : Eden.empty_not_uniformlyAttractsBounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:39:48.214006+00:00
 -- url     : https://prove2.me/theorems/7cb91cb4-c700-4440-9fa9-f7b37524229f

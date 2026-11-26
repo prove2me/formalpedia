@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_realContinuousLinearMapCoefficient_ne_zero
 -- name    : realContinuousLinearMapCoefficient_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:12:43.721128+00:00
 -- url     : https://prove2.me/theorems/91bce5e0-c14e-4fe4-b7aa-431bb993b05d

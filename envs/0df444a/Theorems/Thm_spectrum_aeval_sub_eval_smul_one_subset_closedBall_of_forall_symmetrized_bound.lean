@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_spectrum_aeval_sub_eval_smul_one_subset_closedBall_of_forall_symmetrized_bound
 -- name    : spectrum_aeval_sub_eval_smul_one_subset_closedBall_of_forall_symmetrized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:49:04.270545+00:00
 -- url     : https://prove2.me/theorems/4d96dd64-4020-4f83-b0f3-d789835719a8

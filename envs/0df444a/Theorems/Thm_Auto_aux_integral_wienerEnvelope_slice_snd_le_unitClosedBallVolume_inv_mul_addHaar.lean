@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_integral_wienerEnvelope_slice_snd_le_unitClosedBallVolume_inv_mul_addHaar
 -- name    : Auto.aux_integral_wienerEnvelope_slice_snd_le_unitClosedBallVolume_inv_mul_addHaar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:48:54.448224+00:00
 -- url     : https://prove2.me/theorems/188def2f-d3d9-44de-a1a8-ac3b1f37d673

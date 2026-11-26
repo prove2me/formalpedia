@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_norm_le_numericalRadius_of_mem_closure_numericalRange
 -- name    : norm_le_numericalRadius_of_mem_closure_numericalRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T13:22:14.146665+00:00
 -- url     : https://prove2.me/theorems/24ab21ab-238c-5776-8729-a32e1c065ec1

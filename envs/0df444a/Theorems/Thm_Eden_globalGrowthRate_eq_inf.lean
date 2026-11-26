@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_globalGrowthRate_eq_inf
 -- name    : Eden.globalGrowthRate_eq_inf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:39:38.78291+00:00
 -- url     : https://prove2.me/theorems/d1f63aa3-3278-5ac5-a833-ac7667a6cc78

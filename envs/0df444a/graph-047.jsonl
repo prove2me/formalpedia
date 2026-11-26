@@ -68000,7 +68000,7 @@
 {"parent": "P2M_GlobalTheory_GradedShortExact_exact_map___9923350c87f1", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_CubeComplexExactAtOfIsLocalizedModuleRes", "via": ["statement"]}
 {"parent": "P2M_GlobalTheory_GradedShortExact_exact_map___9923350c87f1", "child": "Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_IsIsoTermComparisonRestrictScalars", "via": ["statement"]}
 {"parent": "P2M_GlobalTheory_GradedShortExact_exact_map___9923350c87f1", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_CubeComplexAcyclicIffQuasiIsoCechAug", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.Laurent.lowIndex_cmul", "child": "GroundTheory_PAdicHodge_RobbaSeries", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.Laurent.lowIndex_cmul", "child": "GroundTheory_PAdicHodge_RobbaSeries", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SncAtOfStalkIdEqSpanProd", "child": "ReciprocityTheory_AnalyticForms_RegularLocalRings_WMultA", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SncAtOfStalkIdEqSpanProd", "child": "ReciprocityTheory_AnalyticForms_RegularLocalRings_ExistsMulMemOfAlgebraMapLocRingEqZero", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SncAtOfStalkIdEqSpanProd", "child": "ReciprocityTheory_AnalyticForms_RegularLocalRings_FinalTheorems", "via": ["statement"]}
@@ -68538,7 +68538,7 @@
 {"parent": "GroundTheory.Automorphic.HarishChandra.mem_support_of_mem_expand", "child": "GroundTheory_AutomorphicForms_HarishChandraCentre_MemOfMemSupportToFinsupp", "via": ["statement"]}
 {"parent": "GroundTheory.Global.localFactor_eq", "child": "GroundTheory_GlobalFields_Artin_MemInvariantsCompSubtypeIff", "via": ["statement"]}
 {"parent": "GroundTheory.Global.localFactor_eq", "child": "GroundTheory_GlobalFields_Artin_LogCharpoly", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.Laurent.cmul_assoc", "child": "GroundTheory_PAdicHodge_RobbaSeries", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.Laurent.cmul_assoc", "child": "GroundTheory_PAdicHodge_RobbaSeries", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.IdeleGroup.isOpen_ker_of_continuous", "child": "GroundTheory_GlobalFields_TateThesis_LocalConductor", "via": ["statement"]}
 {"parent": "GroundTheory.Global.IdeleGroup.isOpen_ker_of_continuous", "child": "GroundTheory_GlobalFields_IdeleGroups_InfiniteProjInfiniteEmbeddingOfNe", "via": ["statement"]}
 {"parent": "GroundTheory.Global.IdeleGroup.isOpen_ker_of_continuous", "child": "GroundTheory_GlobalFields_IdeleGroups_Restricted", "via": ["statement"]}
@@ -70911,7 +70911,7 @@
 {"parent": "GroundTheory.Automorphic.Measures.relIndex_conj_eq", "child": "GroundTheory_AutomorphicForms_MeasuresGL", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.Measures.relIndex_conj_eq", "child": "GroundTheory_AutomorphicForms_Cartan", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.Measures.relIndex_conj_eq", "child": "GroundTheory_AutomorphicForms_RealGroupsHaar", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.Laurent.highIndex_cmul", "child": "GroundTheory_PAdicHodge_RobbaSeries", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.Laurent.highIndex_cmul", "child": "GroundTheory_PAdicHodge_RobbaSeries", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Arith.SchemeCoh.mem_towerLimit", "child": "GroundTheory_ArithmeticGeometry_SchemeCohomology_ProperCohomology_FormalLimit", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_IndefiniteRowSideFullHecke_HostConjugateIdeal_Host_w__add_conj_0cbd56f4b1a6", "child": "Development_AbelianVarietyTheory_BlockTheory_CMModuli_HostConjugateIdeal", "via": ["statement"]}
 {"parent": "GroundTheory.LocalField.principalFiltration_antitone", "child": "GroundTheory_LocalFields_PadicExp", "via": ["statement"]}

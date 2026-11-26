@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_MemW0_aux_memLp_top
 -- name    : Auto.MemW0.aux_memLp_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:47:35.25436+00:00
 -- url     : https://prove2.me/theorems/cf1b275a-30d4-51be-ab86-e0d4e3ee7ea6

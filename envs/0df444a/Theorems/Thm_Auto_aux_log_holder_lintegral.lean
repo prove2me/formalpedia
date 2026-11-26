@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_log_holder_lintegral
 -- name    : Auto.aux_log_holder_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:40:20.599894+00:00
 -- url     : https://prove2.me/theorems/deb09011-8533-57dc-a19a-010f57f772cf

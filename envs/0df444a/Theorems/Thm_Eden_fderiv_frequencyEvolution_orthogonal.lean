@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_fderiv_frequencyEvolution_orthogonal
 -- name    : Eden.fderiv_frequencyEvolution_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:16:56.312826+00:00
 -- url     : https://prove2.me/theorems/02947536-e244-48af-aa02-a13df9bce259

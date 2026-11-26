@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eden_planeProjection_sub
 -- name    : Eden.planeProjection_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T14:25:39.420163+00:00
 -- url     : https://prove2.me/theorems/efab4d27-b1d7-544e-8fd4-af3b2cedc967
