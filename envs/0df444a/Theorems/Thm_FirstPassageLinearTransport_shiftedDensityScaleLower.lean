@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shiftedDensityScaleLower
 -- name    : FirstPassageLinearTransport.shiftedDensityScaleLower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:28:42.256812+00:00
 -- url     : https://prove2.me/theorems/9b59d853-5a87-567e-b66f-820587ed2461

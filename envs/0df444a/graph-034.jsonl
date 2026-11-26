@@ -1563,8 +1563,8 @@
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_D8_0056", "child": "RealPinwheel_FiveSixths_CodeFunctionD8", "via": ["statement"]}
 {"parent": "DeletionCode.AlignmentTrace.Trace.matchedAnchor_le", "child": "DeletionCode_EditAlignment", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.AlignmentTrace.Trace.matchedAnchor_le", "child": "DeletionCode_AlignmentTrace", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.exercise56_stablePotentialDensity", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.exercise56_stablePotentialDensity", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.exercise56_stablePotentialDensity", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.exercise56_stablePotentialDensity", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1193", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1193", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.DescriptionCount.description_bound", "child": "DeletionCode_DescriptionCount", "via": ["solution", "statement"]}

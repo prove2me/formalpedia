@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45PhysicalFiniteCutoffItoV1
 -- name    : Kyprianou.Ch04.exercise45PhysicalFiniteCutoffItoV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:22:54.219805+00:00
 -- url     : https://prove2.me/theorems/0d548c74-0b35-4ba4-840a-c2554949fa2b

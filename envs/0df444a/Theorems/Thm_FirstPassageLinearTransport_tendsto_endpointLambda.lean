@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tendsto_endpointLambda
 -- name    : FirstPassageLinearTransport.tendsto_endpointLambda
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:23:34.439644+00:00
 -- url     : https://prove2.me/theorems/aaa4e73f-0a52-5803-8a63-62d096391a84

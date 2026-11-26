@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_bootstrapD_le_Dc
 -- name    : FirstPassageLinearTransport.bootstrapD_le_Dc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:22:30.613858+00:00
 -- url     : https://prove2.me/theorems/b1e48784-5f84-53db-84df-77e30b571495

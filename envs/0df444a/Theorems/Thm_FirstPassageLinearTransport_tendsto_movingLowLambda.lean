@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tendsto_movingLowLambda
 -- name    : FirstPassageLinearTransport.tendsto_movingLowLambda
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:24:33.78394+00:00
 -- url     : https://prove2.me/theorems/cc556099-ddde-4c65-ab22-d1b60b1339f6

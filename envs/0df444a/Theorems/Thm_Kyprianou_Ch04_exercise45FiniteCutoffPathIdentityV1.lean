@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45FiniteCutoffPathIdentityV1
 -- name    : Kyprianou.Ch04.exercise45FiniteCutoffPathIdentityV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T09:11:25.514285+00:00
 -- url     : https://prove2.me/theorems/73bcfb87-cb44-59f9-b8e7-2cdd388cf8e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasConstSecondDiff_quadraticMap_add
 -- name    : GlobalTheory.hasConstSecondDiff_quadraticMap_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:46:59.196167+00:00
 -- url     : https://prove2.me/theorems/b28cd112-f1e1-4167-b019-b1c990488f4d

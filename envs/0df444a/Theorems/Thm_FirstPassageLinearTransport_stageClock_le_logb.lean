@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stageClock_le_logb
 -- name    : FirstPassageLinearTransport.stageClock_le_logb
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:22:57.106343+00:00
 -- url     : https://prove2.me/theorems/78adf2e2-6b94-561f-9a79-0fd9b8977e91

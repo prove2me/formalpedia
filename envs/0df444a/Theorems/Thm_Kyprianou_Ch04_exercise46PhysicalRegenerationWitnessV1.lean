@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46PhysicalRegenerationWitnessV1
 -- name    : Kyprianou.Ch04.exercise46PhysicalRegenerationWitnessV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T09:09:55.021699+00:00
 -- url     : https://prove2.me/theorems/4489998e-c91a-4ceb-ac2b-b72099be2379

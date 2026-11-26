@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FixedMachinePrec.lemma_5_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kj
 -- created : 2026-11-26T12:24:12.708566+00:00
 -- url     : https://prove2.me/submissions/08a29996-f6a7-4ac1-9987-ed9af428e218
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_FixedMachinePrec_generateFamily_extensional
 import Theorems.Thm_FixedMachinePrec_bounded_layer_union_witness

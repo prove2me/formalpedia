@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_eq_sub_of_hasDerivAt
 -- name    : contourIntegral_eq_sub_of_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:29:45.646277+00:00
 -- url     : https://prove2.me/theorems/19984aee-0db1-44c4-97c0-3485d0d65029

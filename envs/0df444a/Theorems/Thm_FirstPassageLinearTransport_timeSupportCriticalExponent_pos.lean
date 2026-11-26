@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeSupportCriticalExponent_pos
 -- name    : FirstPassageLinearTransport.timeSupportCriticalExponent_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:15:32.154218+00:00
 -- url     : https://prove2.me/theorems/31f921e4-cf89-5cde-88c4-3827842f601f

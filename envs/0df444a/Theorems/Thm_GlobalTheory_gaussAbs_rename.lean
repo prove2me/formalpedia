@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussAbs_rename
 -- name    : GlobalTheory.gaussAbs_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:46:09.547466+00:00
 -- url     : https://prove2.me/theorems/8b6e8e10-57a4-49dd-843e-30e5207c43a7

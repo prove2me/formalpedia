@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isNonarchimedean_gaussAbsFrac
 -- name    : GlobalTheory.isNonarchimedean_gaussAbsFrac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:47:36.394447+00:00
 -- url     : https://prove2.me/theorems/df780f9b-e9d6-4299-a981-bdb006a8ac67

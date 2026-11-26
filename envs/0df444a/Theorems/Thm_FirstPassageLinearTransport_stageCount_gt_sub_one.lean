@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stageCount_gt_sub_one
 -- name    : FirstPassageLinearTransport.stageCount_gt_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:23:13.0228+00:00
 -- url     : https://prove2.me/theorems/09431bd4-c552-5462-b7a8-d382ff03cb99

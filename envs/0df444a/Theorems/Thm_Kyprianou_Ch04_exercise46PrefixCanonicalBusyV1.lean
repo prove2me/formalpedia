@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46PrefixCanonicalBusyV1
 -- name    : Kyprianou.Ch04.exercise46PrefixCanonicalBusyV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:28:42.620304+00:00
 -- url     : https://prove2.me/theorems/fef08078-bf43-5889-ac22-8aae0053299c

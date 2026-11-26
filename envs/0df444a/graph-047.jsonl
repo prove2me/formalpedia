@@ -49885,7 +49885,7 @@
 {"parent": "GroundTheory.Automorphic.Spherical.Bdd.mono", "child": "GroundTheory_AutomorphicForms_SphericalSatake", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SA.TransvG.gram_det_statement", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_DetFromBlocksSingle", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SA.TransvG.gram_det_statement", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_SymmetricFlagBasisVectorsApplyCentre", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.hasConstSecondDiff_quadraticMap_add", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_ExistsBimultiplicativeOfSecondQuotConst", "via": ["statement"]}
+{"parent": "GlobalTheory.hasConstSecondDiff_quadraticMap_add", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_ExistsBimultiplicativeOfSecondQuotConst", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.NCL.levG_mem", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_ToMatrixLin", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.NCL.levG_mem", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_LeviInfUnipotentEqOne", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.NCL.levG_mem", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_LevLSubPerp", "via": ["solution", "statement"]}
@@ -50749,7 +50749,7 @@
 {"parent": "GlobalTheory.ProjSpace.formOn_add", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_IsAffineHomOfIsPullbackSpecMap", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RootEx.Model.exists_isPos", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SimpleSumRowCol", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RootEx.Model.exists_isPos", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SimpleSum", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.exists_gaussAddVal_eq", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_TensorContentEqPolyContentScalarCoeffs", "via": ["statement"]}
+{"parent": "GlobalTheory.exists_gaussAddVal_eq", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_TensorContentEqPolyContentScalarCoeffs", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.lattice_form_ideal_generates_dual_vector", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LatticeFormIdealGeneratesDualVectorStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.lattice_form_ideal_generates_dual_vector", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LatticeFormIdealGeneratesDualVector", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.NCH.continuous_pWpR", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_UnipotentRadicalActionFormula", "via": ["solution", "statement"]}
@@ -52504,7 +52504,7 @@
 {"parent": "GlobalTheory.RootEx.ChainLattice.isLattice_chainLat_and_comap", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IsLatticeChainLatAndComap", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RootEx.ChainLattice.isLattice_chainLat_and_comap", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_Imports", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RootEx.ChainLattice.isLattice_chainLat_and_comap", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_ImportsAlt", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.gaussAbs_rename", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_TensorContentEqPolyContentScalarCoeffs", "via": ["statement"]}
+{"parent": "GlobalTheory.gaussAbs_rename", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_TensorContentEqPolyContentScalarCoeffs", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.ThKR.Mp.J_mul_transpose_inl", "child": "Development_WeilBound_ThetaLifts_Reductions_MetaplecticDerivatives_MetaplecticUnipotentBlockSecondDiag", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.ThKR.Mp.J_mul_transpose_inl", "child": "Development_WeilBound_ThetaLifts_Reductions_MetaplecticDerivatives_ContinuousPair", "via": ["solution", "statement"]}
 {"parent": "PI.LevelKSplit.W.NCH.H_conj_sHG", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_UnipotentRadicalActionFormula", "via": ["solution", "statement"]}
@@ -54250,7 +54250,7 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_FourB_rowPoly_eval_c3b96230d097", "child": "GroundTheory_HeightsAndTheta_Heights_LocalDensities_FlagPsDeriv", "via": ["statement"]}
 {"parent": "GlobalTheory.T.sq_scalar_character_of_double_cover_unitary", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SqScalarCharacterOfDoubleCoverUnitaryStatement", "via": ["statement"]}
 {"parent": "GlobalTheory.T.sq_scalar_character_of_double_cover_unitary", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SqScalarCharacterOfDoubleCoverUnitary", "via": ["statement"]}
-{"parent": "GlobalTheory.gaussAbs_le_iff", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_TensorContentEqPolyContentScalarCoeffs", "via": ["statement"]}
+{"parent": "GlobalTheory.gaussAbs_le_iff", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_TensorContentEqPolyContentScalarCoeffs", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WeierstrassCurve.pullbackIso_hom_toSpec", "child": "Development_AbelianVarietyTheory_Definitions_ShimuraVarieties_OpensRangeChartYSupOpensRangeChartZ", "via": ["statement"]}
 {"parent": "GlobalTheory.WeierstrassCurve.pullbackIso_hom_toSpec", "child": "Development_AbelianVarietyTheory_Definitions_ShimuraVarieties_AwayLiftCompFromZeroRingHom", "via": ["statement"]}
 {"parent": "GlobalTheory.T.exists_vectorField_affineOpen_transport", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Divisors__DenseInterior_23def473f6482931", "via": ["solution", "statement"]}
@@ -54363,7 +54363,7 @@
 {"parent": "P2M_PositivityTheory_KReal_combV__7292f298bc33", "child": "Development_WeilBound_CoreStatements_GaussianSeminormBounds_RealSeminormFiltration_CoreCasW", "via": ["statement"]}
 {"parent": "P2M_PositivityTheory_KReal_combV__7292f298bc33", "child": "Development_WeilBound_CoreStatements_GaussianSeminormBounds_RealSeminormFiltration_CoreComb", "via": ["statement"]}
 {"parent": "P2M_PositivityTheory_KReal_combV__7292f298bc33", "child": "Development_WeilBound_CoreStatements_GaussianSeminormBounds_RealSeminormFiltration_CoreShape", "via": ["statement"]}
-{"parent": "GlobalTheory.exists_bimultiplicative_of_secondQuot_const", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_ExistsBimultiplicativeOfSecondQuotConst", "via": ["statement"]}
+{"parent": "GlobalTheory.exists_bimultiplicative_of_secondQuot_const", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_ExistsBimultiplicativeOfSecondQuotConst", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.natCast_mul_coeff_charpolyRev", "child": "GroundTheory_GlobalFields_Artin_LogCharpoly", "via": ["statement"]}
 {"parent": "GlobalTheory.natCast_mul_coeff_charpolyRev", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_NatCastMulCoeffCharpolyRev", "via": ["statement"]}
 {"parent": "GlobalTheory.exists_padicAlgCl_ringEquiv_complex_comp_eq", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsRingEquivOfIsTranscendenceBasis", "via": ["statement"]}
@@ -55628,7 +55628,7 @@
 {"parent": "GlobalTheory.LogResInt.isClosed_of_isAnalyticSubset", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_IsClosedOfIsAnalyticSubset", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Mem.Chr.Model.diagUnits_eq_localIdele", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_ValuedAlgebraMapEqOne", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Mem.Chr.Model.diagUnits_eq_localIdele", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_DiagUnitsEqLocalIdele", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.gaussAddVal_le", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_TensorContentEqPolyContentScalarCoeffs", "via": ["statement"]}
+{"parent": "GlobalTheory.gaussAddVal_le", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_TensorContentEqPolyContentScalarCoeffs", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WeilM.det_mem_normOne", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_HilbertNinetyQuotientHomEqIff", "via": ["statement"]}
 {"parent": "GlobalTheory.WeilM.det_mem_normOne", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_MatrixMeasurableSpace", "via": ["statement"]}
 {"parent": "GlobalTheory.kummer_twist_relation_and_fixed_field", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_KummerTwistRelationAndFixedField", "via": ["statement"]}
@@ -57323,7 +57323,7 @@
 {"parent": "GlobalTheory.SmallRankCoinv.exists_fullRank_sub_mem", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsNonzeroMinorOfRank", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.induced_generated_by_K_finite", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_InducedGeneratedByKFinite", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.induced_generated_by_K_finite", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_InducedGeneratedByKFiniteStatement", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.isNonarchimedean_gaussAbsFrac", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_TensorContentEqPolyContentScalarCoeffs", "via": ["statement"]}
+{"parent": "GlobalTheory.isNonarchimedean_gaussAbsFrac", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_TensorContentEqPolyContentScalarCoeffs", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.existsUnique_glue_dualNumber", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_ExistsUniqueGlueDual", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.existsUnique_glue_dualNumber", "child": "Development_AbelianVarietyTheory_Definitions_ExistenceOfLattices_UnivFrame", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.existsUnique_glue_dualNumber", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["solution", "statement"]}

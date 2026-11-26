@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussAbs_le_iff
 -- name    : GlobalTheory.gaussAbs_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:46:01.169582+00:00
 -- url     : https://prove2.me/theorems/f0b4a2c8-73f9-47f0-82aa-bb636b96620a

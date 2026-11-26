@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch04.exercise46BusyStartCountV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T16:04:20.895311+00:00
 -- url     : https://prove2.me/submissions/a1e1e226-df1b-4dbc-a8ee-4d0c54473d6c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

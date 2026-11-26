@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41HorizonAtomicV9
 -- name    : Kyprianou.Ch04.exercise41HorizonAtomicV9
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:30:08.973582+00:00
 -- url     : https://prove2.me/theorems/4a64b00d-9307-54c5-8d85-eb754c11fa60

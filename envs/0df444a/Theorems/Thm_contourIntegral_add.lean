@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_add
 -- name    : contourIntegral_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:30:07.795034+00:00
 -- url     : https://prove2.me/theorems/b0dd5da3-cc3d-5fbf-8e2e-5414b9b81e1b

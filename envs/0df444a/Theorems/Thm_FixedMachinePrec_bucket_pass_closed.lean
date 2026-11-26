@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedMachinePrec_bucket_pass_closed
 -- name    : FixedMachinePrec.bucket_pass_closed
--- status  : Open
+-- status  : Proved
 -- author  : @kj
 -- created : 2026-11-26T12:23:55.301221+00:00
 -- url     : https://prove2.me/theorems/68468450-9113-41ac-9c3e-cc80a31804ec

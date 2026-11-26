@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_clockGeom_le_nat
 -- name    : FirstPassageLinearTransport.clockGeom_le_nat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:22:56.522801+00:00
 -- url     : https://prove2.me/theorems/26a089e4-9472-4861-bfb9-3375b0cf20c0

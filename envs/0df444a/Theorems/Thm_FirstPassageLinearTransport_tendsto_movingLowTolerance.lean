@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_tendsto_movingLowTolerance
 -- name    : FirstPassageLinearTransport.tendsto_movingLowTolerance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:24:23.222733+00:00
 -- url     : https://prove2.me/theorems/63a55394-9b6f-5d0b-97de-1c1a159a5f84

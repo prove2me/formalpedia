@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_firstPassageEndpointRate_lt_logTwo
 -- name    : FirstPassageLinearTransport.firstPassageEndpointRate_lt_logTwo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:23:26.866433+00:00
 -- url     : https://prove2.me/theorems/58ae0dbf-f030-4529-b7c5-6c03c265533b

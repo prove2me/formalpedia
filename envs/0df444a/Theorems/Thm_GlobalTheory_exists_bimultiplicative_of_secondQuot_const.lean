@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_bimultiplicative_of_secondQuot_const
 -- name    : GlobalTheory.exists_bimultiplicative_of_secondQuot_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:44:17.223621+00:00
 -- url     : https://prove2.me/theorems/f13933ea-9234-5de5-b0f1-682d91d07496

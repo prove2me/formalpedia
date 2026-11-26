@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_scheduleDensityLower
 -- name    : FirstPassageLinearTransport.scheduleDensityLower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:28:37.824122+00:00
 -- url     : https://prove2.me/theorems/d21cd2c2-117c-484b-a9b8-f638ff5c9b54

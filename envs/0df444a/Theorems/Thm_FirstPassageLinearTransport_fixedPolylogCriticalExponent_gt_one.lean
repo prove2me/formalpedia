@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_fixedPolylogCriticalExponent_gt_one
 -- name    : FirstPassageLinearTransport.fixedPolylogCriticalExponent_gt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:23:30.898787+00:00
 -- url     : https://prove2.me/theorems/7fd14ed4-e49a-5979-b9b7-66b4b585f31f

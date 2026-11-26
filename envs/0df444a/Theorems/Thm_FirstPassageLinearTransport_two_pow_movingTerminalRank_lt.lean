@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_two_pow_movingTerminalRank_lt
 -- name    : FirstPassageLinearTransport.two_pow_movingTerminalRank_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:24:10.836384+00:00
 -- url     : https://prove2.me/theorems/d6984577-1dab-575a-96ce-95d9ca177afa

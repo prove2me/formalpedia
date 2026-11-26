@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41ContinuousPathLedgerV8
 -- name    : Kyprianou.Ch04.exercise41ContinuousPathLedgerV8
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:22:19.876578+00:00
 -- url     : https://prove2.me/theorems/11d17bcf-3391-508e-8f85-dc39b1548774

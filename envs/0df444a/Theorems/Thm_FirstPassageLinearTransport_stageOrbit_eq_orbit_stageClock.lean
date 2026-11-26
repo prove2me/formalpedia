@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stageOrbit_eq_orbit_stageClock
 -- name    : FirstPassageLinearTransport.stageOrbit_eq_orbit_stageClock
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:14:24.81728+00:00
 -- url     : https://prove2.me/theorems/aa194e97-bb8f-45a8-b79b-b8b0f9c60551

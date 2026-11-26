@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46ShiftStrictPathKernelV1
 -- name    : Kyprianou.Ch04.exercise46ShiftStrictPathKernelV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:26:23.792681+00:00
 -- url     : https://prove2.me/theorems/bbbeaf71-95c7-5072-adad-0a8c437bdf38

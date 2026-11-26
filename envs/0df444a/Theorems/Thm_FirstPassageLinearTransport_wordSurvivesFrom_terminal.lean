@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_wordSurvivesFrom_terminal
 -- name    : FirstPassageLinearTransport.wordSurvivesFrom_terminal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:25:18.542818+00:00
 -- url     : https://prove2.me/theorems/8f2df404-a149-4b27-9101-f999653e6ad1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeSupportCriticalExponent_gt_half
 -- name    : FirstPassageLinearTransport.timeSupportCriticalExponent_gt_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:20:33.465499+00:00
 -- url     : https://prove2.me/theorems/446bdac4-0a96-5c8c-a383-c196693d6e61

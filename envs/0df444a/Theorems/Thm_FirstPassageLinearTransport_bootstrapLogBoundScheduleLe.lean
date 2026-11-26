@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_bootstrapLogBoundScheduleLe
 -- name    : FirstPassageLinearTransport.bootstrapLogBoundScheduleLe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:28:40.04375+00:00
 -- url     : https://prove2.me/theorems/199963e4-e24b-4902-a506-f50e7489a81e

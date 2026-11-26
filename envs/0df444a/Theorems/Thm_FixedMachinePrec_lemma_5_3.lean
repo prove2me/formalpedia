@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedMachinePrec_lemma_5_3
 -- name    : FixedMachinePrec.lemma_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T03:07:38.970553+00:00
 -- url     : https://prove2.me/theorems/5c51ab7b-9466-4089-9b02-1964db418846

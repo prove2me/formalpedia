@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_contourIntegral_sub
 -- name    : contourIntegral_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:30:11.363204+00:00
 -- url     : https://prove2.me/theorems/397df93e-0379-59d5-858b-83a16faa8596

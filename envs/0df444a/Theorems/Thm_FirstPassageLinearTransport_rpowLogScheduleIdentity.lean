@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rpowLogScheduleIdentity
 -- name    : FirstPassageLinearTransport.rpowLogScheduleIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:28:21.788631+00:00
 -- url     : https://prove2.me/theorems/6d92c70d-8ef7-5b6a-b496-0a9ff99fb63d

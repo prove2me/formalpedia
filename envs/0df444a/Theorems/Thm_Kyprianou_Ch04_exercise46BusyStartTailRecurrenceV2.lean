@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46BusyStartTailRecurrenceV2
 -- name    : Kyprianou.Ch04.exercise46BusyStartTailRecurrenceV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T14:53:35.291744+00:00
 -- url     : https://prove2.me/theorems/ebf17d0d-e987-560e-9ccc-f588b55e628b

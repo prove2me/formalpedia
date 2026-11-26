@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_shellMultiplicativeHit
 -- name    : FirstPassageLinearTransport.card_shellMultiplicativeHit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:29:41.225829+00:00
 -- url     : https://prove2.me/theorems/9398424e-0b40-4652-a69b-4ad3eb17dc2a

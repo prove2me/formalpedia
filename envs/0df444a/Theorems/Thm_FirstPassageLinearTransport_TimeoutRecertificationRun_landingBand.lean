@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_TimeoutRecertificationRun_landingBand
 -- name    : FirstPassageLinearTransport.TimeoutRecertificationRun.landingBand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:21:18.849797+00:00
 -- url     : https://prove2.me/theorems/5113ef0c-a8ca-4954-96f1-a115b8dfd130

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_affineCorrection_lt_two_pow_mul_three_pow
 -- name    : FirstPassageLinearTransport.affineCorrection_lt_two_pow_mul_three_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:25:10.53864+00:00
 -- url     : https://prove2.me/theorems/3e86c87c-5e03-4fad-917b-053def1c1a5c

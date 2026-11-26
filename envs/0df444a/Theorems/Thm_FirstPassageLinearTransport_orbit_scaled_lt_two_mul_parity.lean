@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_orbit_scaled_lt_two_mul_parity
 -- name    : FirstPassageLinearTransport.orbit_scaled_lt_two_mul_parity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:25:39.815641+00:00
 -- url     : https://prove2.me/theorems/f4b3fd22-13d1-4958-8bb5-02c8c682f5e5

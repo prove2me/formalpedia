@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussAddVal_le
 -- name    : GlobalTheory.gaussAddVal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:45:48.129043+00:00
 -- url     : https://prove2.me/theorems/e8893090-6b10-5909-a6dd-c03d0568c28b

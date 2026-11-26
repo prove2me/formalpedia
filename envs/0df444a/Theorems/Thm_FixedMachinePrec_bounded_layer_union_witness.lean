@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedMachinePrec_bounded_layer_union_witness
 -- name    : FixedMachinePrec.bounded_layer_union_witness
--- status  : Open
+-- status  : Proved
 -- author  : @kj
 -- created : 2026-11-26T12:23:49.696094+00:00
 -- url     : https://prove2.me/theorems/33b2167e-ec12-44b2-8dc8-03d2931ac379

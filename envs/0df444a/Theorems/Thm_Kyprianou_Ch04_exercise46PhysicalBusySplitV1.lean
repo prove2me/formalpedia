@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46PhysicalBusySplitV1
 -- name    : Kyprianou.Ch04.exercise46PhysicalBusySplitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:22:42.093285+00:00
 -- url     : https://prove2.me/theorems/d2e73a1d-6b1c-46c9-87a8-8737b3dd1873

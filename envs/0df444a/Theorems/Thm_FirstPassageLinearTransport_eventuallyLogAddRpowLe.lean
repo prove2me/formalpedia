@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventuallyLogAddRpowLe
 -- name    : FirstPassageLinearTransport.eventuallyLogAddRpowLe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:28:47.63773+00:00
 -- url     : https://prove2.me/theorems/d940a8e0-79ea-5850-9706-b64862ea4cde

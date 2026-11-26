@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46BusyStartCountV1
 -- name    : Kyprianou.Ch04.exercise46BusyStartCountV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T11:39:19.235863+00:00
 -- url     : https://prove2.me/theorems/881f8276-a75b-51cf-aa54-39bf83aca5f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_clockGeomLeInvOneSub
 -- name    : FirstPassageLinearTransport.clockGeomLeInvOneSub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:28:24.527392+00:00
 -- url     : https://prove2.me/theorems/05688039-f455-4009-a0f1-876279f45f5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedMachinePrec_generateFamily_extensional
 -- name    : FixedMachinePrec.generateFamily_extensional
--- status  : Open
+-- status  : Proved
 -- author  : @kj
 -- created : 2026-11-26T12:23:45.646213+00:00
 -- url     : https://prove2.me/theorems/01767872-fa62-4992-935a-5246228e049a

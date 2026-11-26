@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305DebianApi_verifyOk_donna_verify
 -- name    : Poly1305DebianApi.verifyOk_donna_verify
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-26T11:24:33.523203+00:00
 -- url     : https://prove2.me/theorems/a7b2dfc7-9b6e-4453-b1d2-1392a8b25fb0

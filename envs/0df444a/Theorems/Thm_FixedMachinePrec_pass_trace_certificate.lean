@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedMachinePrec_pass_trace_certificate
 -- name    : FixedMachinePrec.pass_trace_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @kj
 -- created : 2026-11-26T12:23:49.192461+00:00
 -- url     : https://prove2.me/theorems/2eeda5ef-8ca8-50f3-9d73-313e36578b83

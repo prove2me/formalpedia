@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45PhysicalLargeJumpGridV1
 -- name    : Kyprianou.Ch04.exercise45PhysicalLargeJumpGridV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:22:38.892919+00:00
 -- url     : https://prove2.me/theorems/6858b0df-4622-5f1d-975f-649f68e3be76

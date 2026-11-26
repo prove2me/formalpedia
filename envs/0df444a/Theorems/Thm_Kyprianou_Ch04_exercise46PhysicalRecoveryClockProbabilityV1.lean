@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46PhysicalRecoveryClockProbabilityV1
 -- name    : Kyprianou.Ch04.exercise46PhysicalRecoveryClockProbabilityV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:22:36.681115+00:00
 -- url     : https://prove2.me/theorems/58a79545-50ab-532e-88ad-1dcccf4af9d1

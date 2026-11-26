@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise41ContinuousLedgerV7
 -- name    : Kyprianou.Ch04.exercise41ContinuousLedgerV7
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:15:35.540744+00:00
 -- url     : https://prove2.me/theorems/6ca9e404-a14c-4759-965f-71b56f3d065c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stageOrbit_succ
 -- name    : FirstPassageLinearTransport.stageOrbit_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:22:47.97802+00:00
 -- url     : https://prove2.me/theorems/250e0614-2825-5205-8729-e70121a03fde

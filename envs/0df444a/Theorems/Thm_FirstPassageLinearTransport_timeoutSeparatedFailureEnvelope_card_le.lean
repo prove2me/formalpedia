@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_timeoutSeparatedFailureEnvelope_card_le
 -- name    : FirstPassageLinearTransport.timeoutSeparatedFailureEnvelope_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:26:29.114165+00:00
 -- url     : https://prove2.me/theorems/0c2fefe6-0432-5f3a-9802-2a3b4380434c

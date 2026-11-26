@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Malliavin_cylinder_growth_mem_domD12
 -- name    : Malliavin.cylinder_growth_mem_domD12
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:36:13.825096+00:00
 -- url     : https://prove2.me/theorems/18ca33f4-7b23-5f22-8fa1-de8a7af6b8c0

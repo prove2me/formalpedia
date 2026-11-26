@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46BusyRegenerativeTailV1
 -- name    : Kyprianou.Ch04.exercise46BusyRegenerativeTailV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T22:56:11.730799+00:00
 -- url     : https://prove2.me/theorems/8a182aac-751c-563b-b23e-5a593455310c

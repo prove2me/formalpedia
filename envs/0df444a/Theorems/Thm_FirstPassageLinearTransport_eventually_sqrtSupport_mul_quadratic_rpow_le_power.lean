@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_eventually_sqrtSupport_mul_quadratic_rpow_le_power
 -- name    : FirstPassageLinearTransport.eventually_sqrtSupport_mul_quadratic_rpow_le_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T12:21:39.693553+00:00
 -- url     : https://prove2.me/theorems/18ecf7ad-c28b-552d-a267-a85b725c4830
