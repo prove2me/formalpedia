@@ -1,0 +1,26 @@
+-- Prove2me | solution 1 for BKAR.Forest.ActiveBranchData.growth_derivativeOrder
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-26T08:41:57.38486+00:00
+-- url     : https://prove2.me/submissions/8dcd30c7-ceb4-404a-95d2-e587b3f559c8
+
+import Definitions.Def_BKAR_OrderedRecursion
+import Definitions.Def_BKAR_OrderedRemainder
+import Theorems.Thm_BKAR_EdgePath_IsSimplePath_reverse
+import Theorems.Thm_BKAR_Forest_OrderedGrowth_derivativeOrder_cons
+import Theorems.Thm_BKAR_OrderedSimplexParams_tail
+
+
+set_option autoImplicit false
+noncomputable section
+open BKAR
+open BKAR.Forest
+variable {V : Type*} [Fintype V] [DecidableEq V]
+open BKAR.Forest.ActiveBranchData
+variable {F : Forest V}
+namespace BKAR.Forest.ActiveBranchData
+theorem _root_.solution (data : ActiveBranchData F)
+    (e : {e // e ∈ F.activeEdges}) :
+    (data.growth e).derivativeOrder = (data.order e).reverse ++ [e.val] :=
+  OrderedGrowth.derivativeOrder_cons (data.extension e).extension (data.tail e)
+end BKAR.Forest.ActiveBranchData

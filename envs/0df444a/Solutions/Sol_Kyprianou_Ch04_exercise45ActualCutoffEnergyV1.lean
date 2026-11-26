@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.exercise45ActualCutoffEnergyV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T00:39:36.448323+00:00
 -- url     : https://prove2.me/submissions/9659bd2d-30d4-451b-bc15-403b1e632f81
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch04_exercise45ActualCutoffRawEnergyV1
 import Theorems.Thm_Kyprianou_Ch04_actualCutoffMaximalBoundV1

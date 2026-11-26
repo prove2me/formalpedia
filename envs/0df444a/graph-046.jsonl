@@ -65965,7 +65965,7 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_LatticeLemmas_norm_sub_starProjection_le_3aef9f9941fc", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_Extension", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_LatticeLemmas_norm_sub_starProjection_le_3aef9f9941fc", "child": "GroundTheory_HeightsAndTheta_Heights_LatticeLemmas_PHadamardMean", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_LatticeLemmas_norm_sub_starProjection_le_3aef9f9941fc", "child": "GroundTheory_HeightsAndTheta_Heights_LatticeLemmas_Statements", "via": ["solution", "statement"]}
-{"parent": "Arxiv2105_07250.random_windowing_lln", "child": "Arxiv2105_07250_Basic", "via": ["statement"]}
+{"parent": "Arxiv2105_07250.random_windowing_lln", "child": "Arxiv2105_07250_Basic", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.R.segreMap_aeval_update", "child": "ReciprocityTheory_AnalyticForms_RegularLocalRings_SegreIdealIsHomogeneous", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.R.segreMap_aeval_update", "child": "ReciprocityTheory_AnalyticForms_RegularLocalRings_ProjDehomA", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.capEntry_two", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_LaplaceOperators_CapelliIdentity_BasicCycleRangeLastCastSucc", "via": ["solution", "statement"]}
@@ -68074,7 +68074,7 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.opPow_eqOn", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_PsiExistsOfFormula", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.opPow_eqOn", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_PhiCas", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.opPow_eqOn", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_IsClosedKset", "via": ["solution", "statement"]}
-{"parent": "Arxiv2105_07250.random_phase_kernel_sinc", "child": "Arxiv2105_07250_Basic", "via": ["statement"]}
+{"parent": "Arxiv2105_07250.random_phase_kernel_sinc", "child": "Arxiv2105_07250_Basic", "via": ["solution", "statement"]}
 {"parent": "F6ConvexWindow.Ak_zero", "child": "StableMarriageF6_F6ConvexWindow", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.IdB.quad_scale", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_IdThmB", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.HW.hwmf_hasDerivAt_A", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_HighestWeights_ModelFun", "via": ["solution", "statement"]}
@@ -97235,7 +97235,7 @@
 {"parent": "ReciprocityTheory.Cheb.pa_rpow_lt_one", "child": "ReciprocityTheory_Chebotarev_CasimirPowerSurjectiveSymmetric", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.Cheb.pa_rpow_lt_one", "child": "ReciprocityTheory_Chebotarev_EulerLim", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.Cheb.pa_rpow_lt_one", "child": "ReciprocityTheory_Chebotarev_EulerSum", "via": ["solution", "statement"]}
-{"parent": "Arxiv2111_09089.ppw_green_pole_locations", "child": "Arxiv2111_09089_Basic", "via": ["statement"]}
+{"parent": "Arxiv2111_09089.ppw_green_pole_locations", "child": "Arxiv2111_09089_Basic", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.TB.Canon.formalSeriesValueAtThreePoints_eq_ev", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_CalcExp", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.TB.Canon.formalSeriesValueAtThreePoints_eq_ev", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_DofComm", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.TB.Canon.formalSeriesValueAtThreePoints_eq_ev", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_CanonB", "via": ["solution", "statement"]}

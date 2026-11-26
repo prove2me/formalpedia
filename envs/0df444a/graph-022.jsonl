@@ -79270,7 +79270,7 @@
 {"parent": "OWFLocalDesc_condProb", "child": "OWFLocalDesc_PACSampler", "via": ["statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.SphericalHecke.permutationCoweight_mem_maximalCompact", "child": "QEC_Coding_HighDimensionalExpander_Hecke_SphericalHecke", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.SphericalHecke.permutationCoweight_mem_maximalCompact", "child": "QEC_Coding_HighDimensionalExpander_Hecke_CartanDecomposition", "via": ["solution", "statement"]}
-{"parent": "SymCircMM.lemma_2_12_entry_invariant", "child": "SymCircMM_MMVar", "via": ["statement"]}
+{"parent": "SymCircMM.lemma_2_12_entry_invariant", "child": "SymCircMM_MMVar", "via": ["solution", "statement"]}
 {"parent": "OnlineCAP.lemma_4_5", "child": "OnlineCAP_VirtualPt", "via": ["statement"]}
 {"parent": "OnlineCAP.lemma_4_5", "child": "OnlineCAP_activeOn", "via": ["statement"]}
 {"parent": "OnlineCAP.lemma_4_5", "child": "OnlineCAP_acount", "via": ["statement"]}

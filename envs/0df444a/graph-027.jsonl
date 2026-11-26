@@ -57867,7 +57867,7 @@
 {"parent": "QEC.Coding.BDL26UniformHistoryObstruction.lowerSyndrome_nonzero", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_HistoryWitness", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26UniformHistoryObstruction.lowerSyndrome_nonzero", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_UniformWitness", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26UniformHistoryObstruction.lowerSyndrome_nonzero", "child": "QEC_Coding_FiniteAlternatingConstruction_BoundedValenceSuccessors", "via": ["solution", "statement"]}
-{"parent": "PriceCapacities.LowerBound.proposition_B_2", "child": "PriceCapacities_LowerBound_Fourier", "via": ["statement"]}
+{"parent": "PriceCapacities.LowerBound.proposition_B_2", "child": "PriceCapacities_LowerBound_Fourier", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementMaterialization.totalMaterializationCost_le", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_FiniteExperimentCost", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementMaterialization.totalMaterializationCost_le", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_CountableExperimentGeometry", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementMaterialization.totalMaterializationCost_le", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_ReplacementMaterialization", "via": ["solution", "statement"]}

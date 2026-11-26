@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymCircMM_lemma_2_12_entry_invariant
 -- name    : SymCircMM.lemma_2_12_entry_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T17:30:35.848936+00:00
 -- url     : https://prove2.me/theorems/700846e2-7e52-40ea-8408-f7561af87f52

@@ -88108,7 +88108,7 @@
 {"parent": "GlobalTheory.powerSeries_eq_C_of_subst_eq_self", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_PowerSeriesEqCOfSubstFixedNotRootOfUnity", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_BasicNotions_Examples__Tame_val_eq_210212283d05", "child": "Formalism_SharpRestriction_LevelLetterCocycles_DataN", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_BasicNotions_Examples__Tame_val_eq_210212283d05", "child": "Formalism_LocalRingCardinality_SpanPowerMembership_ExistsTameGen", "via": ["solution", "statement"]}
-{"parent": "Arxiv2610_39302.merging_within_states_lowers_mixing", "child": "Arxiv2610_39302_Basic", "via": ["statement"]}
+{"parent": "Arxiv2610_39302.merging_within_states_lowers_mixing", "child": "Arxiv2610_39302_Basic", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_WittExtensionTotallyDefiniteHermitian", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ChartGen", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_WittExtensionTotallyDefiniteHermitian", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_DiscreteSeriesUnitary__MaxMass_96db7412d6455637", "via": ["statement"]}
 {"parent": "GlobalTheory.T.matrixGaussSum_mul_dual_eq_card_pow_sq", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_MatrixGaussSumMulDualEqCardPowSq", "via": ["solution", "statement"]}

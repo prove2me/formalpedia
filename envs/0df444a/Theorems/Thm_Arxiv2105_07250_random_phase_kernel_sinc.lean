@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2105_07250_random_phase_kernel_sinc
 -- name    : Arxiv2105_07250.random_phase_kernel_sinc
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:31:58.178805+00:00
 -- url     : https://prove2.me/theorems/aa261d15-bcb4-4691-b14b-d40efddf13cd

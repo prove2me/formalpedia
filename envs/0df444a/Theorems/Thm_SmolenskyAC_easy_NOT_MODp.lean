@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmolenskyAC_easy_NOT_MODp
 -- name    : SmolenskyAC.easy_NOT_MODp
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:49:56.810375+00:00
 -- url     : https://prove2.me/theorems/f1805cb2-5057-4dc5-8709-9919707f3dc6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NisanRonen_Rounding_exists_polytime_solver_with_report_certificates
 -- name    : NisanRonen.Rounding.exists_polytime_solver_with_report_certificates
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T06:12:01.916802+00:00
 -- url     : https://prove2.me/theorems/2b5fdbc1-dc90-45ff-938a-20ebcf278b7e

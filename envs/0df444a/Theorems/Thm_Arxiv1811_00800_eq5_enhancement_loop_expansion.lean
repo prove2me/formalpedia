@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1811_00800_eq5_enhancement_loop_expansion
 -- name    : Arxiv1811_00800.eq5_enhancement_loop_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T20:45:06.013816+00:00
 -- url     : https://prove2.me/theorems/4770dd7a-afbc-5f32-b03e-b0285cf699a5

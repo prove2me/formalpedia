@@ -48998,8 +48998,8 @@
 {"parent": "GlobalTheory.UU.BoxSec.rep_rig", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FirstCohomology_SectionArithmetic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UU.BoxSec.rep_rig", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_PhiGenPf", "via": ["solution", "statement"]}
 {"parent": "OAILP_FieldTransfer_ProxyPackingPrimitives", "child": "OAILP_RAM_Array", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.downwardPassageFiniteProbabilityBV", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.downwardPassageFiniteProbabilityBV", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.downwardPassageFiniteProbabilityBV", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.downwardPassageFiniteProbabilityBV", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "SourceProof_1a62c55b8d71b214cbc871c3", "child": "SourceProof_96b55b0bbab7c4daf4fac947", "via": ["statement"]}
 {"parent": "DetDLP.s8m_ec_pair_layout_semantics", "child": "DetDLP_S8C_TagSpec", "via": ["statement"]}
 {"parent": "DetDLP.s8m_ec_pair_layout_semantics", "child": "DetDLP_S8M_ECPairPacket", "via": ["statement"]}

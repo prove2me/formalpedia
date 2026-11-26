@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2610_39302_merging_within_states_lowers_mixing
 -- name    : Arxiv2610_39302.merging_within_states_lowers_mixing
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T03:05:56.967368+00:00
 -- url     : https://prove2.me/theorems/90a45d1b-e82c-5ada-bc1a-97189004d24d

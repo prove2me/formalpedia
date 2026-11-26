@@ -1,0 +1,29 @@
+-- Prove2me | solution 1 for BKAR.Forest.OrderedGrowth.branchIntegrand_cons_cons
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-26T08:38:58.825537+00:00
+-- url     : https://prove2.me/submissions/6f30ad6c-3ec5-48ae-bf14-05909019ac55
+
+import Definitions.Def_BKAR_OrderedParams
+import Definitions.Def_BKAR_OrderedBranch
+import Theorems.Thm_BKAR_EdgePath_IsSimplePath_reverse
+import Theorems.Thm_BKAR_OrderedSimplexParams_tail
+
+
+set_option autoImplicit false
+noncomputable section
+open BKAR
+open BKAR.Forest
+variable {V : Type*} [Fintype V] [DecidableEq V]
+open BKAR.Forest.OrderedGrowth
+variable {F G : Forest V} {e : Edge V} {order : List (Edge V)}
+namespace BKAR.Forest.OrderedGrowth
+theorem _root_.solution {F F' G : Forest V} {e : Edge V}
+    {order : List (Edge V)} (step : EdgeExtension F F' e)
+    (tail : OrderedGrowth F' order G) (u : F.EdgeParam → ℝ)
+    (ρ : (Edge V → ℝ) → ℝ) (t : ℝ) (ts : List ℝ) :
+    (OrderedGrowth.cons step tail).branchIntegrand u ρ (t :: ts) =
+      mixedPartialList (e :: order).reverse ρ
+        (G.standardInterp (tail.params (step.extendParam u t) ts)) :=
+  rfl
+end BKAR.Forest.OrderedGrowth

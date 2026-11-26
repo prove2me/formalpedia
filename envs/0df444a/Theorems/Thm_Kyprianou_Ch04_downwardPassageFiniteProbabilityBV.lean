@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_downwardPassageFiniteProbabilityBV
 -- name    : Kyprianou.Ch04.downwardPassageFiniteProbabilityBV
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T18:02:03.190106+00:00
 -- url     : https://prove2.me/theorems/7411f209-7dba-4242-a357-5c44726cffca

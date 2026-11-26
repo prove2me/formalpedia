@@ -476,7 +476,7 @@
 {"parent": "QEC.Coding.QuantumTanner.LeftRightCayleySquareComplex.unionCayleyGraph_incoming_regular", "child": "QEC_Coding_QuantumTanner_CayleyLink", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.QuantumTanner.LeftRightCayleySquareComplex.unionCayleyGraph_incoming_regular", "child": "QEC_Coding_QuantumTanner_NormalViews", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.QuantumTanner.LeftRightCayleySquareComplex.unionCayleyGraph_incoming_regular", "child": "QEC_Coding_QuantumTanner_ViewAssembly", "via": ["solution", "statement"]}
-{"parent": "SmolenskyAC.easy_NOT_MODp", "child": "SmolenskyAC_Easy", "via": ["statement"]}
+{"parent": "SmolenskyAC.easy_NOT_MODp", "child": "SmolenskyAC_Easy", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HypergraphProduct.swapWord_boundary2_transposeData", "child": "QEC_Coding_HypergraphProduct_Distance_Duality", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HypergraphProduct.swapWord_boundary2_transposeData", "child": "QEC_Coding_HypergraphProduct_Distance_Embedding", "via": ["solution", "statement"]}
 {"parent": "HodgeComputer.NormalChart.certificate_of_residue_at_pole", "child": "HodgeComputerNormalChart", "via": ["solution", "statement"]}

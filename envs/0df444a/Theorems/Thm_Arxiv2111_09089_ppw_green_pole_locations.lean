@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2111_09089_ppw_green_pole_locations
 -- name    : Arxiv2111_09089.ppw_green_pole_locations
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T10:41:58.891434+00:00
 -- url     : https://prove2.me/theorems/c29cafe1-0258-53c5-b4e0-cfa833db76c0

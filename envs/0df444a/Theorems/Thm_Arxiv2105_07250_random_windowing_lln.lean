@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2105_07250_random_windowing_lln
 -- name    : Arxiv2105_07250.random_windowing_lln
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:33:04.656571+00:00
 -- url     : https://prove2.me/theorems/4c71fded-85db-55ba-a0ab-0ed09a1740be

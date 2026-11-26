@@ -92414,7 +92414,7 @@
 {"parent": "DiazModulus.diaz_modulus_conjecture", "child": "DiazModulus.diaz_of_exp_not_real", "via": ["solution"]}
 {"parent": "DiazModulus.diaz_modulus_conjecture", "child": "DiazModulus.diaz_of_exp_real", "via": ["solution"]}
 {"parent": "DiazModulus.diaz_number_forces_transcendence", "child": "DiazModulus.geometric_triple_not_logs", "via": ["solution"]}
-{"parent": "DiazModulus.diaz_of_exp_eq_one", "child": "DiazModulus", "via": ["statement"]}
+{"parent": "DiazModulus.diaz_of_exp_eq_one", "child": "DiazModulus", "via": ["solution", "statement"]}
 {"parent": "DiazModulus.diaz_of_exp_eq_one", "child": "DiazModulus.pi_transcendental", "via": ["solution"]}
 {"parent": "DiazModulus.diaz_of_exp_ne_one", "child": "DiazModulus", "via": ["statement"]}
 {"parent": "DiazModulus.diaz_of_exp_ne_one", "child": "DiazModulus.candidate_exp_angularTriple_transcendental", "via": ["solution"]}

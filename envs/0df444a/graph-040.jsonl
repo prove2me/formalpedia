@@ -69809,7 +69809,7 @@
 {"parent": "ULHC.strip_even_gen", "child": "ULHC_Reroute", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PNormalDoublePointsGeneric", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StNormalDoublePointsGeneric", "via": ["statement"]}
 {"parent": "AlgebraicGeometry.Scheme.nonempty_etale_cohomology_iso_projectiveLine_field_extension_of_isAlgClosed", "child": "AlgebraicGeometry_EtalePullbackAcyclicResolution", "via": ["statement"]}
-{"parent": "AlgebraicGeometry.Scheme.nonempty_etale_cohomology_iso_projectiveLine_field_extension_of_isAlgClosed", "child": "AlgebraicGeometry_ProjSpace", "via": ["statement"]}
+{"parent": "AlgebraicGeometry.Scheme.nonempty_etale_cohomology_iso_projectiveLine_field_extension_of_isAlgClosed", "child": "AlgebraicGeometry_ProjSpace", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.spherical_ordV_mul", "child": "Formalism_SatakeDualWeyl_StatementE", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.spherical_ordV_mul", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_SphericalA", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_JointBlockShapes_JointShape", "child": "Formalism_PeriodIntegrals_JointBlockShapes_MinusPart", "via": ["statement"]}

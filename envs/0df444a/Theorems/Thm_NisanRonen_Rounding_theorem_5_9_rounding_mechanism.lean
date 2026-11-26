@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NisanRonen_Rounding_theorem_5_9_rounding_mechanism
 -- name    : NisanRonen.Rounding.theorem_5_9_rounding_mechanism
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:30:09.782798+00:00
 -- url     : https://prove2.me/theorems/ab14b34b-df5a-4f87-b508-f4c84367315c

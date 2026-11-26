@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45ActualCutoffEnergyV1
 -- name    : Kyprianou.Ch04.exercise45ActualCutoffEnergyV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T23:37:26.643461+00:00
 -- url     : https://prove2.me/theorems/f088aadc-5131-52f2-b656-83c0ce0d4ec9

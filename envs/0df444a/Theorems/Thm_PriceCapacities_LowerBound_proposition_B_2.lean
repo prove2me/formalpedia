@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceCapacities_LowerBound_proposition_B_2
 -- name    : PriceCapacities.LowerBound.proposition_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T00:22:27.869387+00:00
 -- url     : https://prove2.me/theorems/0e356c9a-0c1f-4a94-9e20-6c107f226bb6

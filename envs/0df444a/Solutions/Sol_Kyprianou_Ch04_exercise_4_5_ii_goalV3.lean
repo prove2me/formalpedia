@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.exercise_4_5_ii_goalV3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T23:38:19.42386+00:00
 -- url     : https://prove2.me/submissions/d600349c-0a4d-4ddc-9237-bc304905bede
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch04_Exercise4_5CertificationV3
 import Theorems.Thm_Kyprianou_Ch04_cutoffCauchyFromTerminalEnergyV1

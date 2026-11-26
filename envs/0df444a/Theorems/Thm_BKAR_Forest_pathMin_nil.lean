@@ -1,0 +1,28 @@
+-- Prove2me | Theorems.Thm_BKAR_Forest_pathMin_nil
+-- name    : BKAR.Forest.pathMin_nil
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-26T08:15:18.873443+00:00
+-- url     : https://prove2.me/theorems/4fc1e53f-e830-4912-b0b4-65efaa99e606
+-- title:
+--   Forest: path Min nil
+-- statement:
+--   The Forest construction uses the path Min nil property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/scottnarmstrong/BKARForestFormula/blob/a07f44a534240fe6339558951dd78a19e4ef7c51/BKAR/Interpolation.lean#L81-L83
+-- source:
+--   https://github.com/scottnarmstrong/BKARForestFormula/blob/a07f44a534240fe6339558951dd78a19e4ef7c51/BKAR/Interpolation.lean#L81-L83
+
+import Mathlib.Data.Real.Basic
+import Definitions.Def_BKAR_Forest
+import Definitions.Def_BKAR_Interpolation
+set_option autoImplicit false
+open BKAR
+variable {V : Type*} [DecidableEq V]
+open BKAR.Forest
+variable {V : Type*} [Fintype V] [DecidableEq V]
+
+theorem BKAR.Forest.pathMin_nil (F : Forest V) (u : F.EdgeParam → ℝ) :
+    F.pathMin u [] = 1 := by sorry
+
+attribute [defeq] BKAR.Forest.pathMin_nil

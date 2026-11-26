@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1811_00800_eq4_vortex_phase_topological
 -- name    : Arxiv1811_00800.eq4_vortex_phase_topological
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T20:44:43.194845+00:00
 -- url     : https://prove2.me/theorems/89783d5d-4cc9-51da-9f71-3c8d8fe2f330
