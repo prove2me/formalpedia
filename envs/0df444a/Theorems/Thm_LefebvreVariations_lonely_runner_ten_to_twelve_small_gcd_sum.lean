@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:01:08.831069+00:00
 -- url     : https://prove2.me/theorems/04cd8126-6844-400f-9bbb-6c28c7c00dfb
 -- title:
---   Lefebvre's variations: the lonely runner with eleven to thirteen runners, coprime speeds of small gcd-sum
+--   Lefebvre's variations, No. 126 — on a theme by Rosenfeld: the lonely runner with eleven to thirteen runners, coprime speeds of small gcd-sum
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

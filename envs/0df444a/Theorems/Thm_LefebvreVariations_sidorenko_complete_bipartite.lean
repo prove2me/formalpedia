@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:10:36.850265+00:00
 -- url     : https://prove2.me/theorems/a631e61d-2807-46ab-841f-36208f35d357
 -- title:
---   Lefebvre's variations, No. 26 — on a theme by Sidorenko: Sidorenko's conjecture for every complete bipartite graph
+--   Lefebvre's variations, No. 40 — on a theme by Sidorenko: Sidorenko's conjecture for every complete bipartite graph
 -- statement:
 --   This is Sidorenko's conjecture for every complete bipartite graph.
 --

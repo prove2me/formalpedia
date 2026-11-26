@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:48:16.837819+00:00
 -- url     : https://prove2.me/theorems/c6b9f029-5958-5868-ab64-e83bee123740
 -- title:
---   Lefebvre's variations, No. 86 — on a theme by Caccetta and Häggkvist: the Caccetta-Haggkvist conjecture with out-degree 3 holds for digraphs on at most 9 vertices
+--   Lefebvre's variations, No. 102 — on a theme by Caccetta and Häggkvist: the Caccetta-Haggkvist conjecture with out-degree 3 holds for digraphs on at most 9 vertices
 -- statement:
 --   Let $G$ be a loopless digraph on $n$ vertices with $1\le n\le 9$ in which every vertex has out-degree at least $3$. Then $G$ contains a directed cycle of length $\ell$ with $3\ell< n+3$, that is, of length at most $\lceil n/3\rceil$.
 --

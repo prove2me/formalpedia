@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:05:17.45616+00:00
 -- url     : https://prove2.me/theorems/75395819-8320-5cb8-8475-128129e7a5ee
 -- title:
---   Lefebvre's variations, No. 49 — on a theme by Waring: every integer from 455 to 20000 is a sum of at most seven cubes
+--   Lefebvre's variations, No. 79 — on a theme by Waring: every integer from 455 to 20000 is a sum of at most seven cubes
 -- statement:
 --   Every integer $n$ with $455\le n\le 20000$ is a sum of at most $7$ cubes of non-negative integers: there are $s\le 7$ and $a_1,\dots,a_s\in\mathbb{N}$ with $n=a_1^3+\dots+a_s^3$.
 --

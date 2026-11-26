@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:53:29.16131+00:00
 -- url     : https://prove2.me/theorems/86c899fd-3f8b-5e09-b9de-76c09f34e0cc
 -- title:
---   Lefebvre's variations, No. 75 — on a theme by Erdős: six points of the plane determine three distances
+--   Lefebvre's variations, No. 115 — on a theme by Erdős: six points of the plane determine three distances
 -- statement:
 --   Any set of $6$ points in $\mathbb{R}^2$ determines at least $3$ distinct distances.
 --

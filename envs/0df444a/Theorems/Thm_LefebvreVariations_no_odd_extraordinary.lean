@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:26:46.391476+00:00
 -- url     : https://prove2.me/theorems/621800b0-77a0-4a7d-87f7-932f43e5513e
 -- title:
---   Lefebvre's variations, No. 14 — on a theme by Caveney, Nicolas and Sondow: no odd number is extraordinary
+--   Lefebvre's variations, No. 22 — on a theme by Caveney, Nicolas and Sondow: no odd number is extraordinary
 -- statement:
 --   This is the statement that no odd integer is extraordinary.
 --

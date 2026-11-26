@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:49:55.412449+00:00
 -- url     : https://prove2.me/theorems/3cd0bf0f-1bf2-51db-a3f0-2738d953462a
 -- title:
---   Lefebvre's variations, No. 67 — on a theme by Kneser and Poulsen: the Kneser–Poulsen conjecture on the line
+--   Lefebvre's variations, No. 104 — on a theme by Kneser and Poulsen: the Kneser–Poulsen conjecture on the line
 -- statement:
 --   For all $n$, centres $p_1,\dots,p_n$ and $q_1,\dots,q_n$ in $\mathbb{R}$ and radii $\rho_1,\dots,\rho_n>0$ with $|q_i-q_j|\le|p_i-p_j|$ for all $i,j$,
 --   $$

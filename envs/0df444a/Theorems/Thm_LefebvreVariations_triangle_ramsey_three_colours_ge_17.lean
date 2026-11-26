@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:46:23.276863+00:00
 -- url     : https://prove2.me/theorems/6ca7628a-d622-59a2-b47a-09a95875805e
 -- title:
---   Lefebvre's variations, No. 65 — on a theme by Erdős: the 3-colour triangle Ramsey number is at least 17
+--   Lefebvre's variations, No. 101 — on a theme by Erdős: the 3-colour triangle Ramsey number is at least 17
 -- statement:
 --   $$R_3\ \ge\ 17,$$
 --   where $R_k$ is the least $n$ such that every $k$-colouring of the edges of $K_n$ contains a monochromatic triangle.

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:34:33.22444+00:00
 -- url     : https://prove2.me/theorems/ba5a6468-7ab1-56ce-a2e6-c61c2dd49b0a
 -- title:
---   Lefebvre's variations, No. 60 — on a theme by Erdős: the Ramsey number R(3,7) is at least 23
+--   Lefebvre's variations, No. 95 — on a theme by Erdős: the Ramsey number R(3,7) is at least 23
 -- statement:
 --   $$R(3,7)\ \ge\ 23.$$
 --

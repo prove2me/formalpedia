@@ -8185,10 +8185,10 @@
 {"parent": "RPLib_FX_EtPBC_030", "child": "RPLib_FX_EtPBC_025", "via": ["statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Lattice.Bit.Driver.Probe.values_atom", "child": "OAILP_Lattice_BitProbeWidthEncoding", "via": ["solution", "statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Recovery.DualOutput.program_run", "child": "OAILP_Recovery_FinalDual", "via": ["solution", "statement"]}
-{"parent": "ManyServerQED.Scheduling.queue_hjb_finite_horizon_balance", "child": "ManyServerQED_Scheduling_Model", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.queue_hjb_finite_horizon_balance", "child": "ManyServerQED_Scheduling_Policy", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.queue_hjb_finite_horizon_balance", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.queue_hjb_finite_horizon_balance", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_finite_horizon_balance", "child": "ManyServerQED_Scheduling_Model", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_finite_horizon_balance", "child": "ManyServerQED_Scheduling_Policy", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_finite_horizon_balance", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_finite_horizon_balance", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["solution", "statement"]}
 {"parent": "SourceProof_3d7237f9edbb29513436330d", "child": "SourceProof_6d758566b1ff249a1db9f23e", "via": ["statement"]}
 {"parent": "SourceProof_3d7237f9edbb29513436330d", "child": "SourceProof_8a35bc058ee4d5d276653047", "via": ["statement"]}
 {"parent": "SourceProof_3d7237f9edbb29513436330d", "child": "SourceProof_99888e5ea4c2153e420fc686", "via": ["statement"]}
@@ -13767,10 +13767,10 @@
 {"parent": "LefebvreVariations.lonely_runner_eight_nine_small_gcd_sum", "child": "LonelyRunnerConjecture_Defs", "via": ["statement"]}
 {"parent": "RPLib_FX_EtPBC_173", "child": "RPLib_FX_EtPBC_052", "via": ["statement"]}
 {"parent": "RPLib_FX_EtPBC_173", "child": "RPLib_FX_EtPBC_166", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.centered_scaled_poisson_finite_dimensional_convergence", "child": "ManyServerQED_Scheduling_Model", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.centered_scaled_poisson_finite_dimensional_convergence", "child": "DurrettProbability.donsker", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.centered_scaled_poisson_finite_dimensional_convergence", "child": "AvramDividend.Classical.poisson_count_expected_rate_ws01b", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.centered_scaled_poisson_finite_dimensional_convergence", "child": "AvramDividend.Classical.avram_wave4_p1_poisson_centered_count_variance_hasSum", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.centered_scaled_poisson_finite_dimensional_convergence", "child": "ManyServerQED_Scheduling_Model", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.centered_scaled_poisson_finite_dimensional_convergence", "child": "DurrettProbability.donsker", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.centered_scaled_poisson_finite_dimensional_convergence", "child": "AvramDividend.Classical.poisson_count_expected_rate_ws01b", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.centered_scaled_poisson_finite_dimensional_convergence", "child": "AvramDividend.Classical.avram_wave4_p1_poisson_centered_count_variance_hasSum", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.kw48_M_adapted_integrable", "child": "Kyprianou.Ch04.kw48_M_norm_bound", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.kw48_M_adapted_integrable", "child": "Kyprianou.Ch04.kw48_Z_adapted", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.kw48_M_adapted_integrable", "child": "Kyprianou.Ch04.kw47_runningSup_raw_eq", "via": ["solution", "statement"]}
@@ -13799,14 +13799,14 @@
 {"parent": "Kyprianou.Ch04.exercise41PositiveSlopeWindowV1", "child": "Kyprianou.Ch04.smallTimeDriftLimit", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise41PositiveSlopeWindowV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "LefebvreVariations.sidon_exact_small_values", "child": "Erdos30Basic", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "EthierKurtz_IsStandardBrownian", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "EthierKurtz_HasBrownianItoIntegral", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "EthierKurtz_SDEDiffusion", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "EthierKurtz_completedBrownianPast", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "EthierKurtz_SolvesBrownianSDE", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "EthierKurtz_itoStepValue", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "EthierKurtz_itoStepSum", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "StochKolmogorov_Persist_Model", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "EthierKurtz_IsStandardBrownian", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "EthierKurtz_HasBrownianItoIntegral", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "EthierKurtz_SDEDiffusion", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "EthierKurtz_completedBrownianPast", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "EthierKurtz_SolvesBrownianSDE", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "EthierKurtz_itoStepValue", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "EthierKurtz_itoStepSum", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_given_filtration", "child": "StochKolmogorov_Persist_Model", "via": ["solution", "statement"]}
 {"parent": "LefebvreVariations.ramsey_three_seven_ge_23", "child": "Erdos77_asymmetric_ramsey", "via": ["statement"]}
 {"parent": "StableMSR_SeparatorOrdinals", "child": "StableMSR_EligibleSeparatorRows", "via": ["statement"]}
 {"parent": "StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.CutTraversal.decode_one_boundary_digit", "child": "StableMSR_SeparatorOrdinals", "via": ["solution", "statement"]}
@@ -13933,3 +13933,53 @@
 {"parent": "Kyprianou.Ch04.spatialQuadraticJumpRemainderV1", "child": "Kyprianou.Ch04.boundedSecondDerivativeLipschitzV1", "via": ["solution"]}
 {"parent": "Kyprianou.Ch04.spatialQuadraticJumpRemainderV1", "child": "Kyprianou.Ch04.spatialRemainderFromDerivativeBudgetV1", "via": ["solution"]}
 {"parent": "Kyprianou.Ch04.spatialQuadraticJumpRemainderV1", "child": "Kyprianou.Ch04.subtractLinearHasDerivV1", "via": ["solution"]}
+{"parent": "RPLib_FX_EtPBC_202", "child": "RPLib_FX_EtPBC_182", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_202", "child": "RPLib_FX_EtPBC_198", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_205", "child": "RPLib_FX_EtPBC_201", "via": ["statement"]}
+{"parent": "RPLib_FX_GOSC_09", "child": "RPLib_FX_GOSC_08", "via": ["statement"]}
+{"parent": "RPLib_FX_GOSC_09", "child": "RPLib_F2_068", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.discounted_hjb_limit_expected_balance", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.discounted_hjb_limit_expected_balance", "child": "ManyServerQED_Scheduling_Model", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.discounted_hjb_limit_expected_balance", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.discounted_hjb_limit_expected_balance", "child": "ManyServerQED_Scheduling_Policy", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.discounted_hjb_limit_expected_balance", "child": "ManyServerQED_Scheduling_HJBCostLimit", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.discounted_hjb_localized_ito_balance", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.discounted_hjb_localized_ito_balance", "child": "ManyServerQED_Scheduling_Model", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.discounted_hjb_localized_ito_balance", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.discounted_hjb_localized_ito_balance", "child": "ManyServerQED_Scheduling_Policy", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.discounted_hjb_localized_ito_balance", "child": "ManyServerQED_Scheduling_HJBCostLimit", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_198", "child": "RPLib_FX_EtPBC_186", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_198", "child": "RPLib_FX_EtPBC_191", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.discounted_polynomial_terminal_expectation_vanishes", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED_Scheduling_Model", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED_Scheduling_Policy", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "child": "ManyServerQED_Scheduling_HJBCostLimit", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_157", "child": "RPLib_FX_EtPBC_147", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_finite_horizon_cost_uniform_moment", "child": "ManyServerQED.Scheduling.queue_state_sup_polynomial_moment", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBCB_001", "child": "RPLib_FX_EtPBC_195", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.adapted_coefficient_brownian_increment_moments", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_210", "child": "RPLib_FX_EtPBC_199", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_210", "child": "RPLib_FX_EtPBC_205", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_locally_bounded_drift", "child": "StochKolmogorov_Persist_Model", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_locally_bounded_drift", "child": "EthierKurtz_SDEDiffusion", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_locally_bounded_drift", "child": "EthierKurtz_IsStandardBrownian", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_locally_bounded_drift", "child": "EthierKurtz_itoStepValue", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_locally_bounded_drift", "child": "EthierKurtz_itoStepSum", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_locally_bounded_drift", "child": "EthierKurtz_SolvesBrownianSDE", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_locally_bounded_drift", "child": "EthierKurtz_completedBrownianPast", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.brownian_ito_formula_for_locally_bounded_drift", "child": "EthierKurtz_HasBrownianItoIntegral", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_207", "child": "RPLib_FX_EtPBC_202", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_207", "child": "RPLib_FX_ArtinApprox_04", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.poisson_path_laws_with_matched_time_scales", "child": "ManyServerQED_Scheduling_Model", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.poisson_path_laws_with_matched_time_scales", "child": "AvramDividend.Classical.finiteTimeSet_monotoneZeroBasedGrid", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_147", "child": "RPLib_FX_EtPBC_140", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_147", "child": "RPLib_FX_EtPBC_085", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.finite_family_independent_continuous_brownian", "child": "KLSModular_BrownianMotion_Gaussian_BrownianMotion", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED_Scheduling_HJBCostLimit", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["statement"]}
+{"parent": "AlgebraicGeometry_ProjectiveLineFiniteOverlap", "child": "AlgebraicGeometry_ProjSpace", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_finite_horizon_balance", "child": "ManyServerQED.Scheduling.queue_hjb_subsequence_limit_paths", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_finite_horizon_balance", "child": "ManyServerQED.Scheduling.discounted_polynomial_terminal_expectation_vanishes", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_finite_horizon_balance", "child": "ManyServerQED.Scheduling.discounted_hjb_limit_expected_balance", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.discounted_hjb_limit_expected_balance", "child": "ManyServerQED.Scheduling.discounted_hjb_localized_ito_balance", "via": ["solution"]}

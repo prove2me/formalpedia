@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:20:21.648073+00:00
 -- url     : https://prove2.me/theorems/e00381a9-e7ce-4327-a3b2-b61db7481808
 -- title:
---   Lefebvre's variations, No. 38 — on a theme by Conway and Sloane: the kissing number in dimension 7 is at least 126
+--   Lefebvre's variations, No. 53 — on a theme by Conway and Sloane: the kissing number in dimension 7 is at least 126
 -- statement:
 --   Let $\tau(7)$ be the kissing number in dimension $7$: the largest number of non-overlapping unit balls in $\mathbb{R}^{7}$ that can touch a common unit ball, equivalently the largest size of a finite set of unit vectors in $\mathbb{R}^{7}$ with pairwise inner products at most $\tfrac12$. Then
 --   $$

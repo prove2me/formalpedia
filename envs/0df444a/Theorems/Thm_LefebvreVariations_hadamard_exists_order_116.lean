@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:08:58.403265+00:00
 -- url     : https://prove2.me/theorems/1c1e420a-f214-59a5-a9f7-537cdfc89329
 -- title:
---   Lefebvre's variations, No. 50 — on a theme by Hadamard: a Hadamard matrix of order 116 exists
+--   Lefebvre's variations, No. 80 — on a theme by Hadamard: a Hadamard matrix of order 116 exists
 -- statement:
 --   There is a $116\times116$ matrix $M$ with all entries $\pm1$ attaining Hadamard's determinant bound:
 --   $$

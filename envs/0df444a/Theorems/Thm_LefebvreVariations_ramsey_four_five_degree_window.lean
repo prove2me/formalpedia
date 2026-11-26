@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:02:56.000735+00:00
 -- url     : https://prove2.me/theorems/46cff6dc-dc09-42b8-bc25-1bc69ad06bd8
 -- title:
---   Lefebvre's variations, No. 4 — on a theme by Ramsey: $R(4,5)\le 25$ for graphs with all degrees in $[7,13]$
+--   Lefebvre's variations, No. 7 — on a theme by Ramsey: $R(4,5)\le 25$ for graphs with all degrees in $[7,13]$
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

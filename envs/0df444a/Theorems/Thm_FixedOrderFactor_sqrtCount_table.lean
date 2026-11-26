@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedOrderFactor_sqrtCount_table
 -- name    : FixedOrderFactor.sqrtCount_table
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T01:07:51.964023+00:00
 -- url     : https://prove2.me/theorems/7ce775f1-1e93-52be-afa0-f2b54b7dc77e

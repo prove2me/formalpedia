@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:05:24.784554+00:00
 -- url     : https://prove2.me/theorems/69ab0519-bed2-49a1-b8eb-f716cbab6252
 -- title:
---   Lefebvre's variations: exact values of the Sidon-set function h(N) at N = 25, 26, 34, 35, 44, 45
+--   Lefebvre's variations, No. 143 — on a theme by Erdős: exact values of the Sidon-set function h(N) at N = 25, 26, 34, 35, 44, 45
 -- statement:
 --   Let $h(N)$ be the largest size of a Sidon set in $\{1,\dots,N\}$. Then
 --   $$h(25)=6,\quad h(26)=7,\quad h(34)=7,\quad h(35)=8,\quad h(44)=8,\quad h(45)=9 .$$

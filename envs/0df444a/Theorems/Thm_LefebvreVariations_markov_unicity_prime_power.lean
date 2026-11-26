@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:37:19.020637+00:00
 -- url     : https://prove2.me/theorems/c49a7f45-fbfb-40d7-bba2-55982e362465
 -- title:
---   Lefebvre's variations, No. 61 — on a theme by Frobenius: the Markov unicity conjecture for prime powers
+--   Lefebvre's variations, No. 97 — on a theme by Frobenius: the Markov unicity conjecture for prime powers
 -- statement:
 --   Let $m$ be a prime power. If $x^2+y^2+m^2=3xym$ has a solution in natural numbers $x,y$, then there is exactly one pair $(p_1,p_2)$ with
 --   $$

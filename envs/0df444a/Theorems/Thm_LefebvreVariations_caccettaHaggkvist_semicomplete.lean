@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:43:09.697877+00:00
 -- url     : https://prove2.me/theorems/7affcb12-49b0-42f9-91b0-7961b26d65db
 -- title:
---   Lefebvre's variations, No. 27 — on a theme by Caccetta and Häggkvist: the Caccetta–Häggkvist bound for semicomplete digraphs
+--   Lefebvre's variations, No. 32 — on a theme by Caccetta and Häggkvist: the Caccetta–Häggkvist bound for semicomplete digraphs
 -- statement:
 --   This is the Caccetta–Häggkvist conjecture for semicomplete digraphs, in particular for tournaments.
 --

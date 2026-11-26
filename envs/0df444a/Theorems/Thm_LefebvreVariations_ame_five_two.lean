@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:46:33.134791+00:00
 -- url     : https://prove2.me/theorems/b8915190-e71e-4c17-8088-852c1dabbb2f
 -- title:
---   Lefebvre's variations, No. 54 — on a theme by Open Quantum Problem 35: an absolutely maximally entangled state of five qubits exists
+--   Lefebvre's variations, No. 64 — on a theme by Open Quantum Problem 35: an absolutely maximally entangled state of five qubits exists
 -- statement:
 --   There is a unit vector $\psi\in(\mathbb{C}^2)^{\otimes 5}$ that is **absolutely maximally entangled**: for every permutation $\pi$ of the five tensor factors, the reduced density matrix of $\pi\psi$ on its first two factors is maximally mixed,
 --   $$

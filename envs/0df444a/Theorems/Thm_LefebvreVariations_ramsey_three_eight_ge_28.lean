@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:42:22.988802+00:00
 -- url     : https://prove2.me/theorems/107d2a9c-6fe0-4e25-9c37-e978a2d4e543
 -- title:
---   Lefebvre's variations, No. 64 — on a theme by Erdős: the Ramsey number R(3,8) is at least 28
+--   Lefebvre's variations, No. 100 — on a theme by Erdős: the Ramsey number R(3,8) is at least 28
 -- statement:
 --   $$R(3,8)\ \ge\ 28.$$
 --

@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:45:30.673583+00:00
 -- url     : https://prove2.me/theorems/1e2c42bf-84f3-4b76-9b15-c56f6e216a5b
 -- title:
---   Lefebvre's variations, No. 53 — on a theme by Wootters and Fields: a complete set of nine mutually unbiased bases of C^8 exists
+--   Lefebvre's variations, No. 62 — on a theme by Wootters and Fields: a complete set of nine mutually unbiased bases of C^8 exists
 -- statement:
 --   There exist nine orthonormal bases $B_0,\dots,B_8$ of $\mathbb{C}^8$, each $B_r=(b^r_0,\dots,b^r_7)$, that are pairwise mutually unbiased:
 --   $$

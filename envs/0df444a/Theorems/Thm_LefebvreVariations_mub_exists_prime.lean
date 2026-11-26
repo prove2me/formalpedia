@@ -5,7 +5,7 @@
 -- created : 2026-11-24T22:23:12.636008+00:00
 -- url     : https://prove2.me/theorems/03cd303a-3017-4668-9e33-1a868b87f3a5
 -- title:
---   Lefebvre's variations, No. 18 — on a theme by Wootters and Fields: complete sets of mutually unbiased bases in prime dimension
+--   Lefebvre's variations, No. 20 — on a theme by Wootters and Fields: complete sets of mutually unbiased bases in prime dimension
 -- statement:
 --   This is the prime case of the existence of complete sets of mutually unbiased bases.
 --

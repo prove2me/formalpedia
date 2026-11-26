@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:00:32.801875+00:00
 -- url     : https://prove2.me/theorems/2487df6e-d179-446d-953d-82dd6cc2a77b
 -- title:
---   Lefebvre's variations: finite simple groups whose order has at most four prime factors are cyclic of prime order or A5
+--   Lefebvre's variations, No. 123 — on a theme by Gorenstein, Lyons and Solomon: finite simple groups whose order has at most four prime factors are cyclic of prime order or A5
 -- statement:
 --   Let $G$ be a finite simple group (non-trivial, with no normal subgroups other than $1$ and $G$), and suppose the order $|G|$ has at most four prime factors, counted with multiplicity. Then $G$ is cyclic of prime order or isomorphic to the alternating group $A_5$:
 --   $$

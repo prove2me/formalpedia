@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:03:36.999651+00:00
 -- url     : https://prove2.me/theorems/d83b4c1d-f4e0-4897-a1e8-655b0137ba7e
 -- title:
---   Lefebvre's variations, No. 45 — on a theme by Lehmer: Lehmer's totient conjecture holds for n <= 20000
+--   Lefebvre's variations, No. 73 — on a theme by Lehmer: Lehmer's totient conjecture holds for n <= 20000
 -- statement:
 --   Let $n$ be an integer with $2\le n\le 20000$. If $\varphi(n)\mid n-1$, then $n$ is prime.
 --

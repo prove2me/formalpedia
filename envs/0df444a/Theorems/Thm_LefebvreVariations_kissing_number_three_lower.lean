@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:18:00.856205+00:00
 -- url     : https://prove2.me/theorems/a8561071-c368-4e91-9431-c6cd2bb3ff54
 -- title:
---   Lefebvre's variations, No. 32 — on a theme by Newton and Gregory: the kissing number in dimension 3 is at least 12
+--   Lefebvre's variations, No. 46 — on a theme by Newton and Gregory: the kissing number in dimension 3 is at least 12
 -- statement:
 --   This is the lower bound $12\le\tau_3$ for the kissing number in dimension $3$.
 --

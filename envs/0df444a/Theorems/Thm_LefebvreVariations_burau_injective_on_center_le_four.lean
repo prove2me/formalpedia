@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:01:13.731845+00:00
 -- url     : https://prove2.me/theorems/7f266857-4cb5-45f6-a4cb-7b014b6cc74f
 -- title:
---   Lefebvre's variations: the Burau representation is injective on the centre of the braid group B_n for n at most 4
+--   Lefebvre's variations, No. 127 — on a theme by Burau: the Burau representation is injective on the centre of the braid group B_n for n at most 4
 -- statement:
 --   Let $n\le 4$ be a natural number, $B_n$ the Artin braid group on $n$ strands, and $\rho_n : B_n \to \mathrm{GL}_n(\mathbb Z[t,t^{-1}])$ the unreduced Burau representation. If $z$ lies in the centre of $B_n$ and $\rho_n(z)=1$, then $z=1$:
 --   $$

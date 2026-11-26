@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:55:52.003826+00:00
 -- url     : https://prove2.me/theorems/412863e5-fd14-4230-b2c0-f9e8c44317a6
 -- title:
---   Lefebvre's variations, No. 100 — on a theme by k-taxi problem: the oriented discrepancy of a competitive memoryless 2-taxi policy is at most $\rho\,|x-y|$
+--   Lefebvre's variations, No. 116 — on a theme by Coester, Huang and Poon: the oriented discrepancy of a competitive memoryless 2-taxi policy is at most $\rho\,|x-y|$
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

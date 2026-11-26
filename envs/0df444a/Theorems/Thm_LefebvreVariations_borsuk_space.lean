@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:52:32.81532+00:00
 -- url     : https://prove2.me/theorems/cce0f654-327e-5228-965e-8971b4884ad3
 -- title:
---   Lefebvre's variations, No. 72 — on a theme by Borsuk: Borsuk's conjecture in dimension three
+--   Lefebvre's variations, No. 112 — on a theme by Borsuk: Borsuk's conjecture in dimension three
 -- statement:
 --   Let $S\subset\mathbb{R}^3$ be a bounded set with $\operatorname{diam}S>0$. Then $S=A\cup B\cup C\cup D$ for four sets each of diameter strictly smaller than $\operatorname{diam}S$.
 --

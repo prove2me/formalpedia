@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:51:56.559861+00:00
 -- url     : https://prove2.me/theorems/54df198c-8f7d-53fc-a1cb-bb9854e4a2b5
 -- title:
---   Lefebvre's variations, No. 70 — on a theme by Hadwiger: covering a planar convex body by four smaller copies
+--   Lefebvre's variations, No. 110 — on a theme by Hadwiger: covering a planar convex body by four smaller copies
 -- statement:
 --   Let $K\subset\mathbb{R}^2$ be a compact convex set with non-empty interior. Then there exist four points $c_1,\dots,c_4$ and ratios $0<r_1,\dots,r_4<1$ with
 --   $$

@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:59:05.119743+00:00
 -- url     : https://prove2.me/theorems/4fb2829a-2c36-4ae4-8aec-e802491aaa4f
 -- title:
---   Lefebvre's variations, No. 74 — on a theme by Gorenstein, Lyons and Solomon: a finite simple group of odd order is cyclic of prime order (Feit and Thompson)
+--   Lefebvre's variations, No. 117 — on a theme by Gorenstein, Lyons and Solomon: a finite simple group of odd order is cyclic of prime order (Feit and Thompson)
 -- statement:
 --   Let $G$ be a finite simple group (non-trivial, with no normal subgroups other than $1$ and $G$), and suppose $|G|$ is odd. Then $G$ is cyclic of prime order:
 --   $$

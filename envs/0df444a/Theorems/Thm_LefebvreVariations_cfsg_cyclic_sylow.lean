@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:59:44.110578+00:00
 -- url     : https://prove2.me/theorems/1d8eec1d-0d8a-4059-b922-eab2f51d13c6
 -- title:
---   Lefebvre's variations: a finite simple group whose Sylow subgroups are all cyclic is cyclic of prime order
+--   Lefebvre's variations, No. 121 — on a theme by Gorenstein, Lyons and Solomon: a finite simple group whose Sylow subgroups are all cyclic is cyclic of prime order
 -- statement:
 --   Let $G$ be a finite simple group (non-trivial, with no normal subgroups other than $1$ and $G$), and suppose every Sylow subgroup of $G$ is cyclic. Then $G$ is cyclic of prime order:
 --   $$

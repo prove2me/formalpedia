@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:12:46.479394+00:00
 -- url     : https://prove2.me/theorems/9bec0e10-e94f-50d1-a73d-3b96393465d3
 -- title:
---   Lefebvre's variations, No. 55 — on a theme by Smale: Smale's mean value conjecture holds in degree four
+--   Lefebvre's variations, No. 88 — on a theme by Smale: Smale's mean value conjecture holds in degree four
 -- statement:
 --   Let $P\in\mathbb{C}[X]$ have degree exactly $4$ and let $z\in\mathbb{C}$ satisfy $P'(z)\ne0$. Then there is a critical point $c$ of $P$ (that is, $P'(c)=0$) such that
 --   $$

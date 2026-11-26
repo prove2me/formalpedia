@@ -5,7 +5,7 @@
 -- created : 2026-11-24T21:53:59.071397+00:00
 -- url     : https://prove2.me/theorems/da6d8c66-3b61-4e0b-97c4-5424e64fd02c
 -- title:
---   Lefebvre's variations, No. 3 — on a theme by Schoenberg: Gegenbauer polynomials are positive definite on the sphere (Schoenberg)
+--   Lefebvre's variations, No. 4 — on a theme by Schoenberg: Gegenbauer polynomials are positive definite on the sphere (Schoenberg)
 -- statement:
 --   *Lefebvre's variations — posed by Erwan Lefebvre.*
 --

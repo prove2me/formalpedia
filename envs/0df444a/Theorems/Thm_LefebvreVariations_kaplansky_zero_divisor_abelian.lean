@@ -5,7 +5,7 @@
 -- created : 2026-11-25T23:37:51.358798+00:00
 -- url     : https://prove2.me/theorems/6d9b0d2d-8089-5970-8bc6-00719a1c2fc8
 -- title:
---   Lefebvre's variations, No. 40 — on a theme by Kaplansky: zero-divisor conjecture for torsion-free abelian groups
+--   Lefebvre's variations, No. 55 — on a theme by Kaplansky: zero-divisor conjecture for torsion-free abelian groups
 -- statement:
 --   Let $K$ be a field and $G$ a commutative group that is torsion-free, i.e. every element $g\in G$ of finite order equals $1$. Then the group algebra $K[G]$ has no zero divisors:
 --   $$

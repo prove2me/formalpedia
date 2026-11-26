@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:00:04.808117+00:00
 -- url     : https://prove2.me/theorems/1e1c6d2f-2ea1-4de4-a00b-d637622922bf
 -- title:
---   Lefebvre's variations: finite simple groups of order below 168 are cyclic of prime order or the alternating group A5
+--   Lefebvre's variations, No. 122 — on a theme by Gorenstein, Lyons and Solomon: finite simple groups of order below 168 are cyclic of prime order or the alternating group A5
 -- statement:
 --   Let $G$ be a finite simple group (non-trivial, with no normal subgroups other than $1$ and $G$), and suppose $|G|<168$. Then $G$ is cyclic of prime order or isomorphic to the alternating group $A_5$ on five letters:
 --   $$

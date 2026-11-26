@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:25:13.224536+00:00
 -- url     : https://prove2.me/theorems/093407c8-1f61-4ebd-aa51-0893c162f6e8
 -- title:
---   Lefebvre's variations, No. 35 — on a theme by Conway and Sloane: the kissing number in dimension 8 is at least 240
+--   Lefebvre's variations, No. 50 — on a theme by Conway and Sloane: the kissing number in dimension 8 is at least 240
 -- statement:
 --   This is the lower bound $240\le\tau_8$ for the kissing number in dimension $8$.
 --

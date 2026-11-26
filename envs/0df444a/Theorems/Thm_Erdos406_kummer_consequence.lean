@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos406_kummer_consequence
 -- name    : Erdos406.kummer_consequence
--- status  : Open
+-- status  : Proved
 -- author  : @loader3229
 -- created : 2026-11-25T11:42:50.507137+00:00
 -- url     : https://prove2.me/theorems/7cfad7d9-b6db-4741-82e4-3dadffea0af2

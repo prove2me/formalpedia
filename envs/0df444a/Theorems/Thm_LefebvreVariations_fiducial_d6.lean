@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:12:26.735944+00:00
 -- url     : https://prove2.me/theorems/b6b81a50-775c-43d1-bc86-639c2528b564
 -- title:
---   Lefebvre's variations, No. 54 — on a theme by Zauner: a Weyl-Heisenberg fiducial vector exists in dimension 6
+--   Lefebvre's variations, No. 87 — on a theme by Zauner: a Weyl-Heisenberg fiducial vector exists in dimension 6
 -- statement:
 --   There is a unit vector $\psi\in\mathbb{C}^{6}$, indexed by $\mathbb{Z}/6$, such that for every pair $(a,b)\ne(0,0)$ in $(\mathbb{Z}/6)^2$
 --   $$

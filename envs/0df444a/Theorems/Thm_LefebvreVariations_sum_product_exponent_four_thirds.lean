@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:04:09.241637+00:00
 -- url     : https://prove2.me/theorems/0e12c877-4d2e-4971-b8c5-0b37aac9e792
 -- title:
---   Lefebvre's variations: the sum-product exponent four thirds for integers
+--   Lefebvre's variations, No. 139 — on a theme by Paul Erdős and Endre Szemerédi: the sum-product exponent four thirds for integers
 -- statement:
 --   There is a constant $C>0$ such that for every finite nonempty set $A\subset\mathbb{Z}$,
 --   $$

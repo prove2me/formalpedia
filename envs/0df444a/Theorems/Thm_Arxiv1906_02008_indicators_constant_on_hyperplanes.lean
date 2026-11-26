@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1906_02008_indicators_constant_on_hyperplanes
 -- name    : Arxiv1906_02008.indicators_constant_on_hyperplanes
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T15:20:31.503291+00:00
 -- url     : https://prove2.me/theorems/c426b00c-f5b2-4546-9f16-3b534a822580

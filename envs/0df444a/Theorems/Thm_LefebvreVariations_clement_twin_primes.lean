@@ -5,7 +5,7 @@
 -- created : 2026-11-24T23:28:24.731841+00:00
 -- url     : https://prove2.me/theorems/a6483ef6-24dd-4abe-bd30-252aba9f6c28
 -- title:
---   Lefebvre's variations, No. 36 — on a theme by Twin primes: Clement's Wilson-type criterion for twin primes
+--   Lefebvre's variations, No. 51 — on a theme by Twin primes: Clement's Wilson-type criterion for twin primes
 -- statement:
 --   This is Clement's Wilson-type criterion for twin primes.
 --

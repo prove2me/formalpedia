@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:10:51.8377+00:00
 -- url     : https://prove2.me/theorems/6c201a2b-f294-5015-a4e7-e7ead0aea644
 -- title:
---   Lefebvre's variations, No. 51 — on a theme by Douady and Hubbard: the main cardioid is contained in the Mandelbrot set
+--   Lefebvre's variations, No. 83 — on a theme by Douady and Hubbard: the main cardioid is contained in the Mandelbrot set
 -- statement:
 --   Every parameter $c=\mu/2-\mu^2/4$ with $|\mu|<1$ lies in the Mandelbrot set:
 --   $$

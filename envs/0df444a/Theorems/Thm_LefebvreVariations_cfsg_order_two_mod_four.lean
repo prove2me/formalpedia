@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:00:51.020834+00:00
 -- url     : https://prove2.me/theorems/3199e42a-5403-4788-8751-54bff6e70e37
 -- title:
---   Lefebvre's variations: a finite simple group of order congruent to 2 modulo 4 is cyclic of order 2
+--   Lefebvre's variations, No. 124 — on a theme by Gorenstein, Lyons and Solomon: a finite simple group of order congruent to 2 modulo 4 is cyclic of order 2
 -- statement:
 --   Let $G$ be a finite simple group (non-trivial, with no normal subgroups other than $1$ and $G$), and suppose $|G|\equiv 2 \pmod 4$. Then $G$ is cyclic of prime order (necessarily of order $2$):
 --   $$

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_centered_scaled_poisson_finite_dimensional_convergence
 -- name    : ManyServerQED.Scheduling.centered_scaled_poisson_finite_dimensional_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-26T01:08:51.694253+00:00
 -- url     : https://prove2.me/theorems/939bac75-5f7a-4436-849e-16f7c48fd415

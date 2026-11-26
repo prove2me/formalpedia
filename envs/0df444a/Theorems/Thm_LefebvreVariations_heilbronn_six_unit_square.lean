@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:51:38.217268+00:00
 -- url     : https://prove2.me/theorems/08ecb3e6-38a1-5eca-893d-1418f5f6a46d
 -- title:
---   Lefebvre's variations, No. 69 — on a theme by Heilbronn: the Heilbronn number of six points in the unit square
+--   Lefebvre's variations, No. 109 — on a theme by Heilbronn: the Heilbronn number of six points in the unit square
 -- statement:
 --   Let $H_6$ be the largest $\alpha$ such that some six points of the unit square $[0,1]^2$ span only triangles of area at least $\alpha$. Then
 --   $$

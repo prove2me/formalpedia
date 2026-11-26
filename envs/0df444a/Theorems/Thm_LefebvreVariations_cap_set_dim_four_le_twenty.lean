@@ -5,7 +5,7 @@
 -- created : 2026-11-26T01:01:49.978305+00:00
 -- url     : https://prove2.me/theorems/0bd7907f-5bcf-4045-9305-ea272049ef56
 -- title:
---   Lefebvre's variations: cap sets in F_3^4 have at most twenty points
+--   Lefebvre's variations, No. 129 — on a theme by Jordan Ellenberg and Dion Gijswijt: cap sets in F_3^4 have at most twenty points
 -- statement:
 --   Let $A\subseteq\mathbb{F}_3^{4}$ contain no three distinct points $x,y,z$ with $x+y+z=0$ (a cap set, equivalently a set with no three-term arithmetic progression). Then
 --   $$

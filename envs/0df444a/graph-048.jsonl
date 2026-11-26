@@ -61281,7 +61281,7 @@
 {"parent": "P2M_GlobalTheory_T_exists_sum__Multi_of_exteriorSquare_map_eq_zero_14320df09dfd", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_AxesVanishingStructureSheafDegOne", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_T_exists_sum__Multi_of_exteriorSquare_map_eq_zero_14320df09dfd", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExteriorSquareKerOfSurjective", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_T_exists_sum__Multi_of_exteriorSquare_map_eq_zero_14320df09dfd", "child": "Development_AbelianVarietyTheory_Definitions_AbelianSchemeLaws_IsScalarTowerOfAlgebraMapEq", "via": ["solution", "statement"]}
-{"parent": "Arxiv1906_02008.indicators_constant_on_hyperplanes", "child": "Arxiv1906_02008_Basic", "via": ["statement"]}
+{"parent": "Arxiv1906_02008.indicators_constant_on_hyperplanes", "child": "Arxiv1906_02008_Basic", "via": ["solution", "statement"]}
 {"parent": "DetDLP.ec_stage1_raw_tm_realization", "child": "DetDLP_FactorBase", "via": ["solution", "statement"]}
 {"parent": "DetDLP.ec_stage1_raw_tm_realization", "child": "DetDLP_BTN", "via": ["solution", "statement"]}
 {"parent": "SourceProof_c7bae6a0333a76e8d26a8a2d", "child": "SourceProof_701dc80750765cbd3c7f5808", "via": ["statement"]}

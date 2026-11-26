@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:59:26.545446+00:00
 -- url     : https://prove2.me/theorems/0d0938da-548d-4e89-adec-5075d527c315
 -- title:
---   Lefebvre's variations, No. 75 — on a theme by Gorenstein, Lyons and Solomon: a finite simple group of order p^a q^b is cyclic of prime order (Burnside)
+--   Lefebvre's variations, No. 118 — on a theme by Gorenstein, Lyons and Solomon: a finite simple group of order p^a q^b is cyclic of prime order (Burnside)
 -- statement:
 --   Let $G$ be a finite simple group (non-trivial, with no normal subgroups other than $1$ and $G$), and suppose $|G|=p^a q^b$ for primes $p,q$ (not necessarily distinct) and integers $a,b\ge 0$. Then $G$ is cyclic of prime order:
 --   $$

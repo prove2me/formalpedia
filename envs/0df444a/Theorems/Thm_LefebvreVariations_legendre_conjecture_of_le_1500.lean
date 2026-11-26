@@ -5,7 +5,7 @@
 -- created : 2026-11-26T00:03:52.42984+00:00
 -- url     : https://prove2.me/theorems/07498122-5d6d-441d-8556-98e80f4aad84
 -- title:
---   Lefebvre's variations, No. 46 — on a theme by Legendre: Legendre's conjecture holds for n <= 1500
+--   Lefebvre's variations, No. 74 — on a theme by Legendre: Legendre's conjecture holds for n <= 1500
 -- statement:
 --   For every integer $n$ with $1\le n\le 1500$ there is a prime $p$ with $n^2<p<(n+1)^2$.
 --
