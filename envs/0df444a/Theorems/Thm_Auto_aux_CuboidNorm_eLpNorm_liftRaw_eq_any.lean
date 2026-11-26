@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_CuboidNorm_eLpNorm_liftRaw_eq_any
 -- name    : Auto.aux_CuboidNorm.eLpNorm_liftRaw_eq_any
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:47:59.470234+00:00
 -- url     : https://prove2.me/theorems/dde83cc1-4e74-42ee-ba1c-ca39e3bc54a4

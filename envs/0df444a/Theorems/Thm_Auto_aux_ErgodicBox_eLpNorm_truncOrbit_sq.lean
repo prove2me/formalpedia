@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_eLpNorm_truncOrbit_sq
 -- name    : Auto.aux_ErgodicBox.eLpNorm_truncOrbit_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:38:35.92183+00:00
 -- url     : https://prove2.me/theorems/8b44b254-1aa7-570a-84a0-bd374e26e646

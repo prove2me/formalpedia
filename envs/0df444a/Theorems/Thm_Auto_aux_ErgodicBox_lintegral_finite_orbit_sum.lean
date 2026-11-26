@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_lintegral_finite_orbit_sum
 -- name    : Auto.aux_ErgodicBox.lintegral_finite_orbit_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:44:41.993169+00:00
 -- url     : https://prove2.me/theorems/bb21001c-2418-45ce-b166-95faf4f2abc2

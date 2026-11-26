@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_realErgodicJumpEnergy_of_finite_sum
 -- name    : Auto.aux_ErgodicBox.realErgodicJumpEnergy_of_finite_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:45:05.457873+00:00
 -- url     : https://prove2.me/theorems/53fece7c-ca6b-59fe-95e2-01ec660b6251

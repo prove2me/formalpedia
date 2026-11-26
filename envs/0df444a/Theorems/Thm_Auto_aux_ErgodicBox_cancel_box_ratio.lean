@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_cancel_box_ratio
 -- name    : Auto.aux_ErgodicBox.cancel_box_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:43:57.518977+00:00
 -- url     : https://prove2.me/theorems/912882a4-5581-4906-9913-9e5e9022f69d

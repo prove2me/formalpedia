@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_finite_box_ergodic_to_discrete
 -- name    : Auto.aux_ErgodicBox.finite_box_ergodic_to_discrete
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:44:38.823998+00:00
 -- url     : https://prove2.me/theorems/615c54a6-7d92-4e8a-866e-9ed21bde7e36

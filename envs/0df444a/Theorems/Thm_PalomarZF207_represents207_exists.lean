@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalomarZF207_represents207_exists
 -- name    : PalomarZF207.represents207_exists
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-21T17:14:21.207481+00:00
 -- url     : https://prove2.me/theorems/9324284c-55a1-499e-b53e-2f7e196671c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_CuboidNorm_eLpNorm_liftedCuboidEmbed_eq_count_mul
 -- name    : Auto.aux_CuboidNorm.eLpNorm_liftedCuboidEmbed_eq_count_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:41:25.846732+00:00
 -- url     : https://prove2.me/theorems/1e5510ba-8571-599c-a5ab-679961f74199

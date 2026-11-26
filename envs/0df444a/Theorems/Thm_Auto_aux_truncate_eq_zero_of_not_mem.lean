@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_Auto_aux_truncate_eq_zero_of_not_mem
+-- name    : Auto.aux_truncate_eq_zero_of_not_mem
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-26T17:50:21.038796+00:00
+-- url     : https://prove2.me/theorems/1395ff7c-13ce-4584-8e99-cb05299da891
+-- title:
+--   Auto: aux truncate eq zero of not mem
+-- statement:
+--   The Auto construction uses the aux truncate eq zero of not mem property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/roos-j/lean-nct/blob/3e09aa52c478ec69abb02eb250c5e5ed06653c3a/LeanNct/Auto/CalderonTransference.lean#L2162-L2166
+-- source:
+--   https://github.com/roos-j/lean-nct/blob/3e09aa52c478ec69abb02eb250c5e5ed06653c3a/LeanNct/Auto/CalderonTransference.lean#L2162-L2166
+
+module
+public import Mathlib
+public import Definitions.Def_LeanNct_Auto_CalderonTransference
+set_option autoImplicit true
+@[expose] public section
+public section
+open Auto
+universe u
+open MeasureTheory Set
+open scoped BigOperators ENNReal
+noncomputable section
+
+theorem Auto.aux_truncate_eq_zero_of_not_mem {n : ℕ}
+    (A : Finset (Fin n → ℕ)) (F : (Fin n → ℕ) → ℝ)
+    {k : Fin n → ℕ} (hk : k ∉ A) :
+    aux_truncate A F k = 0 := by sorry

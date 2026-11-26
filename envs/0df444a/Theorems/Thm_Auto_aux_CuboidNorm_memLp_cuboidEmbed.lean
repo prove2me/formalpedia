@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_CuboidNorm_memLp_cuboidEmbed
 -- name    : Auto.aux_CuboidNorm.memLp_cuboidEmbed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:41:24.796486+00:00
 -- url     : https://prove2.me/theorems/9106b09a-ba4b-540a-926c-86532771f52f

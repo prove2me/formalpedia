@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_CuboidNorm_finite_jump_energy_lower_on_of_overlap_formula
 -- name    : Auto.aux_CuboidNorm.finite_jump_energy_lower_on_of_overlap_formula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:42:34.411693+00:00
 -- url     : https://prove2.me/theorems/d8b2c88c-5629-5390-a3c4-daa9969d65f0

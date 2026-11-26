@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_orbit_add_coordinate
 -- name    : Auto.aux_orbit_add_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:45:25.9148+00:00
 -- url     : https://prove2.me/theorems/4de5e79d-bb2c-4a6b-8bed-b5708893883f

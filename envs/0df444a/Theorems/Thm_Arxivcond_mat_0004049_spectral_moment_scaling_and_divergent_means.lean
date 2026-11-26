@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxivcond_mat_0004049_spectral_moment_scaling_and_divergent_means
 -- name    : Arxivcond_mat_0004049.spectral_moment_scaling_and_divergent_means
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T20:11:27.903358+00:00
 -- url     : https://prove2.me/theorems/d7de92b2-b3bd-4adb-a634-29a98358d6d2

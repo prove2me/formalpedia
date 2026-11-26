@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_aCoord_neg_and_boundary_pos_of_isDiskCurve
 -- name    : FiniteEnergyPlane.aCoord_neg_and_boundary_pos_of_isDiskCurve
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-25T20:35:53.391739+00:00
 -- url     : https://prove2.me/theorems/57a98e7b-19b4-57ca-afb1-da414aac6776

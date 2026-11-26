@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_memLp_orbit_comp
 -- name    : Auto.aux_memLp_orbit_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:47:41.781513+00:00
 -- url     : https://prove2.me/theorems/63852389-2367-4356-8d90-e1537132a2c3

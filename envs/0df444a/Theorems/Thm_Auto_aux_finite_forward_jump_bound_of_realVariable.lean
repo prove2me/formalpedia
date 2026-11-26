@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_finite_forward_jump_bound_of_realVariable
 -- name    : Auto.aux_finite_forward_jump_bound_of_realVariable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:43:44.951825+00:00
 -- url     : https://prove2.me/theorems/28deab7d-a7a8-4030-ac7e-dadcffc7f119

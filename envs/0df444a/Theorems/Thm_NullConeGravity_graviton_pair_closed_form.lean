@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NullConeGravity_graviton_pair_closed_form
 -- name    : NullConeGravity.graviton_pair_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-26T14:12:39.382593+00:00
 -- url     : https://prove2.me/theorems/c1b9d971-782b-5980-85f6-5121843c87ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_prod_rpow_eq_rpow_sum_of_nonneg
 -- name    : Auto.aux_ErgodicBox.prod_rpow_eq_rpow_sum_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:44:17.446864+00:00
 -- url     : https://prove2.me/theorems/1235a602-e8c5-426b-9f2c-e63aa877ee71

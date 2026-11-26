@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_CuboidNorm_count_energy_mul_le_eLpNorm_two_sq_of_cube_dom
 -- name    : Auto.aux_CuboidNorm.count_energy_mul_le_eLpNorm_two_sq_of_cube_dom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:42:30.423775+00:00
 -- url     : https://prove2.me/theorems/3514b50f-e057-4ebc-98f0-09774ee62508

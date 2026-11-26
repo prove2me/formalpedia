@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ofReal_two_pow_mul
 -- name    : Auto.aux_ofReal_two_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:45:09.837388+00:00
 -- url     : https://prove2.me/theorems/0242c9e5-3675-528b-b6fe-1531f624423e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_discreteAverage_truncate_eq_of_mem
 -- name    : Auto.aux_discreteAverage_truncate_eq_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:43:08.551948+00:00
 -- url     : https://prove2.me/theorems/5bef7301-a573-4f23-a75c-45ac9c3bd90b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_discreteAverage_truncated_orbit_eq
 -- name    : Auto.aux_ErgodicBox.discreteAverage_truncated_orbit_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:45:00.132811+00:00
 -- url     : https://prove2.me/theorems/95d74564-daf3-5183-a9dd-efd1a10a46fe

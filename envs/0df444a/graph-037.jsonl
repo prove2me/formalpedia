@@ -11737,9 +11737,9 @@
 {"parent": "IsPolychrom.neg", "child": "Polychromatic_ForMathlib_Misc", "via": ["solution", "statement"]}
 {"parent": "IsPolychrom.neg", "child": "Polychromatic_Colouring", "via": ["solution", "statement"]}
 {"parent": "RH1E6S10_D011_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "PalomarZF207.sigma1_sound_consistent", "child": "palomar_zf207_history", "via": ["statement"]}
-{"parent": "PalomarZF207.sigma1_sound_consistent", "child": "palomar_zf207_zf", "via": ["statement"]}
-{"parent": "PalomarZF207.sigma1_sound_consistent", "child": "palomar_zf207_statement", "via": ["statement"]}
+{"parent": "PalomarZF207.sigma1_sound_consistent", "child": "palomar_zf207_history", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.sigma1_sound_consistent", "child": "palomar_zf207_zf", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.sigma1_sound_consistent", "child": "palomar_zf207_statement", "via": ["solution", "statement"]}
 {"parent": "RH1E6S10.group_073", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S10.group_073", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
 {"parent": "RH1E6S10.group_073", "child": "ArdaRH65K_XiLineZeros", "via": ["statement"]}

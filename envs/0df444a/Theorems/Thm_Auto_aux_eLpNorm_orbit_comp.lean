@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_eLpNorm_orbit_comp
 -- name    : Auto.aux_eLpNorm_orbit_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:47:29.543528+00:00
 -- url     : https://prove2.me/theorems/803ddebc-6bc6-4362-9e73-c8f9cf3167d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedHamiltonicity_Main_proposition4
 -- name    : DirectedHamiltonicity.Main.proposition4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:25:43.953896+00:00
 -- url     : https://prove2.me/theorems/aa04b14a-8225-48c8-904c-8725ebdcac66

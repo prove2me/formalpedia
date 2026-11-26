@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_CuboidNorm_count_energy_mul_le_lintegral_of_cube_dom
 -- name    : Auto.aux_CuboidNorm.count_energy_mul_le_lintegral_of_cube_dom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:42:26.3821+00:00
 -- url     : https://prove2.me/theorems/6521b157-2e4b-4fba-8a6a-9a29ea199f92

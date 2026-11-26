@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_realErgodicJumpBound_of_realVariable
 -- name    : Auto.aux_realErgodicJumpBound_of_realVariable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:45:15.294959+00:00
 -- url     : https://prove2.me/theorems/1ba51ba3-d5c3-4b54-bdeb-fce3ccd4d12d

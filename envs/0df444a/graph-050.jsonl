@@ -9270,3 +9270,1704 @@
 {"parent": "TunnellChallenge.tunnellMap_quarterTurn_three", "child": "TunnellChallenge.tunnellMap_val", "via": ["solution"]}
 {"parent": "GRH.dirichlet_abel_bound_of_prefix_envelope", "child": "GlobalTheory.DirichletTail.norm_cpow_sub_le", "via": ["solution"]}
 {"parent": "GRH.dirichlet_abel_bound_of_prefix_envelope", "child": "GRH.dirichlet_abel_disk_from_centered_prefixes", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticAt_weightedCoefficientSeries_sum", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_weightedCoefficientSeries_sum", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.B12_13.A_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B12_13.A_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B12_13.A_hi", "child": "Sendov_FiniteRange_Degree12_13", "via": ["statement"]}
+{"parent": "Sendov.M_twenty", "child": "Sendov_FiniteRange_Reduce", "via": ["solution", "statement"]}
+{"parent": "Sendov.M_twenty", "child": "Sendov_FiniteRange_Degree20", "via": ["solution", "statement"]}
+{"parent": "Sendov.unpackN_npev", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov_FiniteRange_Degree8", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "Sendov.B12_13.integral_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B12_13.integral_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B12_13.integral_lo", "child": "Sendov_FiniteRange_Degree12_13", "via": ["statement"]}
+{"parent": "Sendov.mom_two", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov.mom_two", "child": "Sendov_FiniteRange_OddBound", "via": ["statement"]}
+{"parent": "Sendov.mom_two", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "Sendov.integral_cube_mul_rpow", "child": "Sendov_Common_Chord", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_cube_mul_rpow", "child": "Sendov_Common_Quadratic", "via": ["solution", "statement"]}
+{"parent": "Sendov.B20_22.M_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B20_22.M_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B20_22.M_lo", "child": "Sendov_FiniteRange_Degree20_22", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analytic_germ_isUnit", "child": "ClassicalComplexWPT_Basic", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analytic_germ_isUnit", "child": "ClassicalComplexWPT_Germs", "via": ["statement"]}
+{"parent": "Sendov.unpackZ_pevZ_le", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.unpackZ_pevZ_le", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.unpackZ_pevZ_le", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.c_pos_of_le_half_M", "child": "Sendov_Defs", "via": ["statement"]}
+{"parent": "Sendov.c_pos_of_le_half_M", "child": "Sendov_Common_Basic", "via": ["statement"]}
+{"parent": "Sendov.pev_cons", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_cons", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.alpha_le_half_M", "child": "Sendov_Defs", "via": ["solution", "statement"]}
+{"parent": "Sendov.alpha_le_half_M", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.padd_length", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.padd_length", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.padd_length", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.eventually_normalizedPreparation_factorization", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.eventually_normalizedPreparation_factorization", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.eventually_normalizedPreparation_factorization", "child": "ClassicalComplexWPT_PreparationSequences", "via": ["statement"]}
+{"parent": "Sendov.B10_11.P_pos", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B10_11.P_pos", "child": "Sendov_FiniteRange_Degree10_11", "via": ["statement"]}
+{"parent": "Sendov.B10_11.P_pos", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.norm_lastCoefficientSeries_le", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_lastCoefficientSeries_le", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.B24_26.M_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B24_26.M_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B24_26.M_lo", "child": "Sendov_FiniteRange_Degree24_26", "via": ["statement"]}
+{"parent": "Sendov.M_five", "child": "Sendov_FiniteRange_Moments", "via": ["solution", "statement"]}
+{"parent": "Sendov.M_five", "child": "Sendov_FiniteRange_OddBound", "via": ["solution", "statement"]}
+{"parent": "Sendov.M_five", "child": "Sendov_FiniteRange_Degree5", "via": ["solution", "statement"]}
+{"parent": "Sendov.B18_20.c_lo_nonneg", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B18_20.c_lo_nonneg", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B18_20.c_lo_nonneg", "child": "Sendov_FiniteRange_Degree18_20", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_WeightedEvaluation", "child": "ClassicalComplexWPT_L1PowerSeries", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_WeightedEvaluation", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["statement"]}
+{"parent": "Sendov.pevZ_nil", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.B14_15.M_lo", "child": "Sendov_FiniteRange_Degree14_15", "via": ["statement"]}
+{"parent": "Sendov.B14_15.M_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B14_15.M_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B18_20.M_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B18_20.M_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B18_20.M_lo", "child": "Sendov_FiniteRange_Degree18_20", "via": ["statement"]}
+{"parent": "Sendov.pev_nil", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_nil", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov_FiniteRange_Degree20", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_PreparationSequences", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_PreparationSequences", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "Sendov.R_le_of_integral_le", "child": "Sendov_Defs", "via": ["solution", "statement"]}
+{"parent": "Sendov.R_le_of_integral_le", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.QQ_le_one", "child": "Sendov_Common_Rpow", "via": ["statement"]}
+{"parent": "Sendov.QQ_le_one", "child": "Sendov_Common_Quadratic", "via": ["statement"]}
+{"parent": "Sendov.integral_six", "child": "Sendov_FiniteRange_Degree6", "via": ["statement"]}
+{"parent": "Sendov.integral_six", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov.integral_six", "child": "Sendov_Common_Basic", "via": ["statement"]}
+{"parent": "Sendov.B12_13.M_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B12_13.M_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B12_13.M_lo", "child": "Sendov_FiniteRange_Degree12_13", "via": ["statement"]}
+{"parent": "Sendov.sqrtB_le", "child": "Sendov_LargeDegree_Tail", "via": ["statement"]}
+{"parent": "Sendov.sqrtB_le", "child": "Sendov_LargeDegree_Monotone", "via": ["statement"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.pmul_length_le", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.pmul_length_le", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.pmul_length_le", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.tail2_poly", "child": "Sendov_LargeDegree_Tail", "via": ["statement"]}
+{"parent": "Sendov.tail2_poly", "child": "Sendov_LargeDegree_Monotone", "via": ["statement"]}
+{"parent": "Sendov.B18_20.c_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B18_20.c_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B18_20.c_lo", "child": "Sendov_FiniteRange_Degree18_20", "via": ["statement"]}
+{"parent": "Sendov.B14_15.c_lo", "child": "Sendov_FiniteRange_Degree14_15", "via": ["statement"]}
+{"parent": "Sendov.B14_15.c_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B14_15.c_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.le_radius_weightedCoefficientSeries", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.le_radius_weightedCoefficientSeries", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.B22_24.integral_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B22_24.integral_lo", "child": "Sendov_FiniteRange_Degree22_24", "via": ["statement"]}
+{"parent": "Sendov.B22_24.integral_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_EdgeCases", "child": "ClassicalComplexWPT_ExactOrder", "via": ["statement"]}
+{"parent": "Sendov.R_seven_le", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov.R_seven_le", "child": "Sendov_FiniteRange_OddBound", "via": ["statement"]}
+{"parent": "Sendov.R_seven_le", "child": "Sendov_FiniteRange_Degree7", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.nnnorm_weightedCoordinateSeries_le", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.nnnorm_weightedCoordinateSeries_le", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.B10_11.M_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B10_11.M_hi", "child": "Sendov_FiniteRange_Degree10_11", "via": ["statement"]}
+{"parent": "Sendov.B10_11.M_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.M_seven", "child": "Sendov_FiniteRange_Moments", "via": ["solution", "statement"]}
+{"parent": "Sendov.M_seven", "child": "Sendov_FiniteRange_OddBound", "via": ["solution", "statement"]}
+{"parent": "Sendov.M_seven", "child": "Sendov_FiniteRange_Degree7", "via": ["solution", "statement"]}
+{"parent": "Sendov_FiniteRange_Degree20_22", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree20_22", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "GRH_WeightedEnergy", "child": "GRH_CharacterMoment", "via": ["statement"]}
+{"parent": "Sendov.Nmom20_eq", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "Sendov.Nmom20_eq", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.Nmom20_eq", "child": "Sendov_FiniteRange_Degree20Packed", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree22_24", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree22_24", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.seqDivision_existsUnique", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.seqDivision_existsUnique", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "Sendov.integral_le_tail_lin", "child": "Sendov_Common_Chord", "via": ["statement"]}
+{"parent": "Sendov.integral_le_tail_lin", "child": "Sendov_Common_Quadratic", "via": ["statement"]}
+{"parent": "Sendov.pevZ_map_mul", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.pevZ_map_mul", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.pevZ_map_mul", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree14_15", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree14_15", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.A_six", "child": "Sendov_FiniteRange_Degree6", "via": ["statement"]}
+{"parent": "Sendov.A_six", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov.A_six", "child": "Sendov_Common_Basic", "via": ["statement"]}
+{"parent": "Sendov.wsum_eq_of_packed", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.wsum_eq_of_packed", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.wsum_eq_of_packed", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.seqHighShift_divisionRemainderGlobal", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqHighShift_divisionRemainderGlobal", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.rowZ_qrow_eq", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.rowZ_qrow_eq", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.rowZ_qrow_eq", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree6_6", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree6_6", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.beta_prod", "child": "Sendov_LargeDegree_Tail", "via": ["statement"]}
+{"parent": "Sendov.beta_prod", "child": "Sendov_LargeDegree_Monotone", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.exists_lastSlice_eq_pow_mul", "child": "ClassicalComplexWPT_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_lastSlice_eq_pow_mul", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "Sendov_FiniteRange_Batch", "child": "Sendov_Common_Rpow", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_apply", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_apply", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_apply", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_apply", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_apply", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_divisionQuotientFormula", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_divisionQuotientFormula", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "P2M_Sendov_c_eight__400c24907c3c", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "P2M_Sendov_c_eight__400c24907c3c", "child": "Sendov_FiniteRange_Degree8", "via": ["statement"]}
+{"parent": "Sendov.pevZ_padd", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.pevZ_padd", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.pevZ_padd", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionInverse_right", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionInverse_right", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_chord_pow", "child": "Sendov_Common_Chord", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_chord_pow", "child": "Sendov_Common_Quadratic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.lastSlice_zero", "child": "ClassicalComplexWPT_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.B20_22.pev_Nmomc", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B20_22.pev_Nmomc", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B20_22.pev_Nmomc", "child": "Sendov_FiniteRange_Degree20_22", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_zero", "child": "ClassicalComplexWPT_PublicExistence", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_zero", "child": "ClassicalComplexWPT_WeightedGermEvaluation", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_zero", "child": "ClassicalComplexWPT_L1PolynomialEvaluation", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_zero", "child": "ClassicalComplexWPT_PreparationSequences", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_zero", "child": "ClassicalComplexWPT_WeightedEvaluation", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree18_20", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree18_20", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_ExactOrder", "child": "ClassicalComplexWPT_Basic", "via": ["statement"]}
+{"parent": "Sendov.QQ_eq", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "Sendov.QQ_eq", "child": "Sendov_Common_Quadratic", "via": ["solution", "statement"]}
+{"parent": "Sendov_Common_Rpow", "child": "Sendov_Common_Basic", "via": ["statement"]}
+{"parent": "Sendov.T1_le", "child": "Sendov_LargeDegree_Tail", "via": ["statement"]}
+{"parent": "Sendov.T1_le", "child": "Sendov_LargeDegree_Monotone", "via": ["statement"]}
+{"parent": "Sendov.rowZ_nil", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.rowZ_nil", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.rowZ_nil", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.gg0_length", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.gg0_length", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.pevZ_inj", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.pevZ_inj", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.pevZ_inj", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.B18_20.A_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B18_20.A_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B18_20.A_hi", "child": "Sendov_FiniteRange_Degree18_20", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree12_13", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree12_13", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.R_five_le", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov.R_five_le", "child": "Sendov_FiniteRange_OddBound", "via": ["statement"]}
+{"parent": "Sendov.R_five_le", "child": "Sendov_FiniteRange_Degree5", "via": ["statement"]}
+{"parent": "Sendov.l1row_qrow", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.l1row_qrow", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.l1row_qrow", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.B20_22.M_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B20_22.M_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B20_22.M_hi", "child": "Sendov_FiniteRange_Degree20_22", "via": ["statement"]}
+{"parent": "Sendov.integral_eq_mom", "child": "Sendov_FiniteRange_Moments", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_eq_mom", "child": "Sendov_FiniteRange_OddBound", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_eq_mom", "child": "Sendov_FiniteRange_Reduce", "via": ["solution", "statement"]}
+{"parent": "Sendov.wsumZ_cons", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.wsumZ_cons", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.wsumZ_cons", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov_FiniteRange_Degree16_18", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree16_18", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov_Common_Quadratic", "child": "Sendov_Common_Rpow", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.summable_nnnorm_changeOriginSeries_mul_pow", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.summable_nnnorm_changeOriginSeries_mul_pow", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.scaleSeq_originWeightedCoeffs", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.scaleSeq_originWeightedCoeffs", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.scaleSeq_originWeightedCoeffs", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.scaleSeq_originWeightedCoeffs", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.scaleSeq_originWeightedCoeffs", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "Sendov.QQ_zero", "child": "Sendov_Common_Rpow", "via": ["statement"]}
+{"parent": "Sendov.QQ_zero", "child": "Sendov_Common_Quadratic", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_normalizedPreparationQuotient", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_normalizedPreparationQuotient", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_normalizedPreparationQuotient", "child": "ClassicalComplexWPT_PreparationSequences", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.normalizedScale_sub_monomial_apply_lt", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.normalizedScale_sub_monomial_apply_lt", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.normalizedScale_sub_monomial_apply_lt", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.normalizedScale_sub_monomial_apply_lt", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.normalizedScale_sub_monomial_apply_lt", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_wsum_le", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.l1_wsum_le", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.l1_wsum_le", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.l1_cons", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_cons", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_cons", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_weightedCoordinateSeries_le", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_weightedCoordinateSeries_le", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.U_eq", "child": "Sendov_LargeDegree_Tail", "via": ["statement"]}
+{"parent": "Sendov.U_eq", "child": "Sendov_LargeDegree_Monotone", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.AnalyticAt.exists_powerSeries_with_analytic_lastCoefficients", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.AnalyticAt.exists_powerSeries_with_analytic_lastCoefficients", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "Sendov_LargeDegree_Tail", "child": "Sendov_Common_Chord", "via": ["statement"]}
+{"parent": "Sendov.B8_9.c_lo_nonneg", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B8_9.c_lo_nonneg", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B8_9.c_lo_nonneg", "child": "Sendov_FiniteRange_Degree8_9", "via": ["statement"]}
+{"parent": "Sendov.B18_20.M_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B18_20.M_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B18_20.M_hi", "child": "Sendov_FiniteRange_Degree18_20", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.norm_monomial_le_one", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.pevZ_cons", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.B16_18.c_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B16_18.c_lo", "child": "Sendov_FiniteRange_Degree16_18", "via": ["statement"]}
+{"parent": "Sendov.B16_18.c_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.integral_irow", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.integral_irow", "child": "Sendov_Common_Basic", "via": ["statement"]}
+{"parent": "Sendov.unpackN_succ", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.c_six", "child": "Sendov_FiniteRange_Degree6", "via": ["solution", "statement"]}
+{"parent": "Sendov.c_six", "child": "Sendov_FiniteRange_Moments", "via": ["solution", "statement"]}
+{"parent": "Sendov.c_six", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.T2_le", "child": "Sendov_LargeDegree_Tail", "via": ["statement"]}
+{"parent": "Sendov.T2_le", "child": "Sendov_LargeDegree_Monotone", "via": ["statement"]}
+{"parent": "Sendov.B24_26.pev_Nmomc", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B24_26.pev_Nmomc", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B24_26.pev_Nmomc", "child": "Sendov_FiniteRange_Degree24_26", "via": ["statement"]}
+{"parent": "Sendov.rev_nil", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.rev_nil", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_highShiftCLM_le", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov_Common_Chord", "child": "Sendov_Common_Quadratic", "via": ["statement"]}
+{"parent": "GRH.weighted_energy_first_and_covered_grids", "child": "GRH_DirichletGrid", "via": ["statement"]}
+{"parent": "GRH.weighted_energy_first_and_covered_grids", "child": "GRH_WeightedEnergy", "via": ["statement"]}
+{"parent": "Sendov.B16_18.M_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B16_18.M_lo", "child": "Sendov_FiniteRange_Degree16_18", "via": ["statement"]}
+{"parent": "Sendov.B16_18.M_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.QQ_le_at_one", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "Sendov.QQ_le_at_one", "child": "Sendov_Common_Quadratic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionInverse_left", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionInverse_left", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionOperatorInput_apply", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionOperatorInput_apply", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_scale_normalized_close_half", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_scale_normalized_close_half", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_scale_normalized_close_half", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_scale_normalized_close_half", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_scale_normalized_close_half", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.monomial_add", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.divisionInverse_left", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.divisionInverse_left", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_evalL1_le", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.convolution_apply_eq_zero_of_right", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.convolution_apply_eq_zero_of_right", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.convolution_apply_eq_zero_of_right", "child": "ClassicalComplexWPT_PreparationSequences", "via": ["solution", "statement"]}
+{"parent": "Sendov.quad_pow", "child": "Sendov_FiniteRange_Moments", "via": ["solution", "statement"]}
+{"parent": "Sendov.quad_pow", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.M_pos", "child": "Sendov_Defs", "via": ["solution", "statement"]}
+{"parent": "Sendov.M_pos", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.B10_11.integral_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B10_11.integral_lo", "child": "Sendov_FiniteRange_Degree10_11", "via": ["statement"]}
+{"parent": "Sendov.B10_11.integral_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Reduce", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Reduce", "child": "Sendov_FiniteRange_OddBound", "via": ["statement"]}
+{"parent": "Sendov.QQ_nonneg", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "Sendov.QQ_nonneg", "child": "Sendov_Common_Quadratic", "via": ["solution", "statement"]}
+{"parent": "Sendov.B12_13.M_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B12_13.M_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B12_13.M_hi", "child": "Sendov_FiniteRange_Degree12_13", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.seqLowShift_highShift_add_lowCut", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqLowShift_highShift_add_lowCut", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.A_seven", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov.A_seven", "child": "Sendov_FiniteRange_OddBound", "via": ["statement"]}
+{"parent": "Sendov.A_seven", "child": "Sendov_FiniteRange_Degree7", "via": ["statement"]}
+{"parent": "Sendov.B14_15.M_hi", "child": "Sendov_FiniteRange_Degree14_15", "via": ["statement"]}
+{"parent": "Sendov.B14_15.M_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B14_15.M_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.integral_seven", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov.integral_seven", "child": "Sendov_FiniteRange_OddBound", "via": ["statement"]}
+{"parent": "Sendov.integral_seven", "child": "Sendov_FiniteRange_Degree7", "via": ["statement"]}
+{"parent": "Sendov.B16_18.integral_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B16_18.integral_lo", "child": "Sendov_FiniteRange_Degree16_18", "via": ["statement"]}
+{"parent": "Sendov.B16_18.integral_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "P2M_Sendov_rpow_le_rpow_exponent_ge__9a7132cbe0b0", "child": "Sendov_FiniteRange_Batch", "via": ["solution", "statement"]}
+{"parent": "P2M_Sendov_rpow_le_rpow_exponent_ge__9a7132cbe0b0", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "Sendov.unpackN_pow", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.l1row_cons", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1row_cons", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1row_cons", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.B8_9.c_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B8_9.c_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B8_9.c_lo", "child": "Sendov_FiniteRange_Degree8_9", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.summable_changeOrigin_weighted_majorant", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.summable_changeOrigin_weighted_majorant", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_lowCutCLM_le", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.QQ_le_chord", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "Sendov.QQ_le_chord", "child": "Sendov_Common_Quadratic", "via": ["solution", "statement"]}
+{"parent": "Sendov_FiniteRange_Moments", "child": "Sendov_Common_Basic", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_L1Division", "child": "ClassicalComplexWPT.monomial_zero", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_L1Division", "child": "ClassicalComplexWPT.norm_highShiftCLM_le", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_L1Division", "child": "ClassicalComplexWPT.norm_convolutionRight_le", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_L1Division", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_top_ne_zero", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_top_ne_zero", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_top_ne_zero", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_top_ne_zero", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_top_ne_zero", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "Sendov.sqrt_mul_sub_le", "child": "Sendov_Common_Sinh", "via": ["statement"]}
+{"parent": "Sendov.integral_lin_mul_rpow", "child": "Sendov_Common_Chord", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_lin_mul_rpow", "child": "Sendov_Common_Quadratic", "via": ["solution", "statement"]}
+{"parent": "Sendov.B22_24.c_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B22_24.c_lo", "child": "Sendov_FiniteRange_Degree22_24", "via": ["statement"]}
+{"parent": "Sendov.B22_24.c_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.germ_isUnit_of_eventually_ne", "child": "ClassicalComplexWPT_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.germ_isUnit_of_eventually_ne", "child": "ClassicalComplexWPT_Germs", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "Sendov.continuous_integrand", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.continuous_integrand", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.monomialWeight_add", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "P2M_Sendov_c_seven__121702827f8d", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "P2M_Sendov_c_seven__121702827f8d", "child": "Sendov_FiniteRange_OddBound", "via": ["statement"]}
+{"parent": "P2M_Sendov_c_seven__121702827f8d", "child": "Sendov_FiniteRange_Degree7", "via": ["statement"]}
+{"parent": "Sendov.B24_26.M_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B24_26.M_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B24_26.M_hi", "child": "Sendov_FiniteRange_Degree24_26", "via": ["statement"]}
+{"parent": "Sendov.integral_twenty_packed", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "Sendov.integral_twenty_packed", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.integral_twenty_packed", "child": "Sendov_FiniteRange_Degree20Packed", "via": ["statement"]}
+{"parent": "Sendov_Common_Basic", "child": "Sendov_Defs", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.exactOrder_monomial", "child": "ClassicalComplexWPT_Examples", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exactOrder_monomial", "child": "ClassicalComplexWPT_EdgeCases", "via": ["solution", "statement"]}
+{"parent": "GRH.dirichlet_nonzero_of_weighted_character_energy", "child": "GRH_WeightedEnergy", "via": ["solution", "statement"]}
+{"parent": "Sendov.B8_9.M_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B8_9.M_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B8_9.M_hi", "child": "Sendov_FiniteRange_Degree8_9", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_Germs", "child": "ClassicalComplexWPT_Basic", "via": ["statement"]}
+{"parent": "Sendov.Q_eq_QQ", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "Sendov.Q_eq_QQ", "child": "Sendov_Common_Quadratic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.normalizedOriginCoeffs_apply", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.normalizedOriginCoeffs_apply", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.normalizedOriginCoeffs_apply", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.normalizedOriginCoeffs_apply", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.normalizedOriginCoeffs_apply", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "Sendov_FiniteRange_Degree7", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree7", "child": "Sendov_FiniteRange_OddBound", "via": ["statement"]}
+{"parent": "Sendov.QQ_one", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "Sendov.QQ_one", "child": "Sendov_Common_Quadratic", "via": ["solution", "statement"]}
+{"parent": "Sendov.npev_ppowN", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.c_twenty", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "Sendov.c_twenty", "child": "Sendov_FiniteRange_Degree20", "via": ["statement"]}
+{"parent": "Sendov.integral_anti", "child": "Sendov_FiniteRange_Batch", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_anti", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.summable_l1_mul_pow", "child": "ClassicalComplexWPT_L1PowerSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.summable_l1_mul_pow", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.beta_le_six_div_pow", "child": "Sendov_Common_Chord", "via": ["statement"]}
+{"parent": "Sendov.beta_le_six_div_pow", "child": "Sendov_Common_Quadratic", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree20Packed", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree20Packed", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.qrow_length", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.qrow_length", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.qrow_length", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.rev_radd", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.rev_radd", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.unpackN_zero", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.rpow_add_nat_pos", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.rpow_add_nat_pos", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionPerturbationMap_apply", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionPerturbationMap_apply", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.Q_nonneg", "child": "Sendov_Defs", "via": ["solution", "statement"]}
+{"parent": "Sendov.Q_nonneg", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1row_qstep", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.l1row_qstep", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.l1row_qstep", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.B8_9.A_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B8_9.A_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B8_9.A_hi", "child": "Sendov_FiniteRange_Degree8_9", "via": ["statement"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqLowShift_apply_of_lt", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqLowShift_apply_of_lt", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "PvsNP.PublicGame.lower_labels_coin_depth_bound", "child": "RoundedPublicCoinLowerLabels", "via": ["solution", "statement"]}
+{"parent": "Sendov.t3_mul_Q_pow", "child": "Sendov_FiniteRange_Moments", "via": ["solution", "statement"]}
+{"parent": "Sendov.t3_mul_Q_pow", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionGlobal_factorization", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionGlobal_factorization", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.B10_11.M_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B10_11.M_lo", "child": "Sendov_FiniteRange_Degree10_11", "via": ["statement"]}
+{"parent": "Sendov.B10_11.M_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.continuous_rpow_const", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.continuous_rpow_const", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.isWeierstrassPreparation_pow_add_first", "child": "ClassicalComplexWPT_Examples", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.isWeierstrassPreparation_pow_add_first", "child": "ClassicalComplexWPT_EdgeCases", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_map_mul", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_map_mul", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_padd", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_padd", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.sqrt_le_tangent", "child": "Sendov_FiniteRange_OddBound", "via": ["solution", "statement"]}
+{"parent": "Sendov.sqrt_le_tangent", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "Sendov.rev_qrow", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.rev_qrow", "child": "Sendov_Common_Basic", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_seqDivisionQuotientGlobal", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_seqDivisionQuotientGlobal", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_lastTaylorCoefficient", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_lastTaylorCoefficient", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "Sendov_FiniteRange_Degree53Packed", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B22_24.M_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B22_24.M_hi", "child": "Sendov_FiniteRange_Degree22_24", "via": ["statement"]}
+{"parent": "Sendov.B22_24.M_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree5", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree5", "child": "Sendov_FiniteRange_OddBound", "via": ["statement"]}
+{"parent": "Sendov.unpackZ_zero", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.R_le_batch", "child": "Sendov_FiniteRange_Batch", "via": ["solution", "statement"]}
+{"parent": "Sendov.R_le_batch", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "Sendov_FiniteRange_OddBound", "child": "Sendov_Common_Rpow", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.divisionQuotient_equation", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.divisionQuotient_equation", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.B6_6.M_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B6_6.M_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B6_6.M_lo", "child": "Sendov_FiniteRange_Degree6_6", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.exactOrderInLastVariable_iff_lastTaylorCoefficients", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exactOrderInLastVariable_iff_lastTaylorCoefficients", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1row_radd", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.l1row_radd", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.l1row_radd", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.weightedLastCoeffs_apply", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.weightedLastCoeffs_apply", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.ambient_zero_eq", "child": "ClassicalComplexWPT_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_weightedLastCoeffs_on_baseBall", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_weightedLastCoeffs_on_baseBall", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT_L1PolynomialEvaluation", "child": "ClassicalComplexWPT_L1PowerSeries", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_L1PolynomialEvaluation", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_L1PolynomialEvaluation", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "Sendov.M_six", "child": "Sendov_FiniteRange_Degree6", "via": ["solution", "statement"]}
+{"parent": "Sendov.M_six", "child": "Sendov_FiniteRange_Moments", "via": ["solution", "statement"]}
+{"parent": "Sendov.M_six", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_lastSlice", "child": "ClassicalComplexWPT_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_lastSlice", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.summable_nnnorm_weightedCoordinateSeries", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.summable_nnnorm_weightedCoordinateSeries", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.npev_paddN", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_evalLast_le", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_evalLast_le", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.wsum_length_le", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.wsum_length_le", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.wsum_length_le", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.B20_22.A_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B20_22.A_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B20_22.A_hi", "child": "Sendov_FiniteRange_Degree20_22", "via": ["statement"]}
+{"parent": "GRH.primitive_dirichlet_grids_outside_weighted_energy", "child": "GRH_DirichletPeriod", "via": ["statement"]}
+{"parent": "GRH.primitive_dirichlet_grids_outside_weighted_energy", "child": "GRH_DirichletGrid", "via": ["statement"]}
+{"parent": "GRH.primitive_dirichlet_grids_outside_weighted_energy", "child": "GRH_WeightedEnergy", "via": ["statement"]}
+{"parent": "Sendov.T2_step", "child": "Sendov_LargeDegree_Tail", "via": ["statement"]}
+{"parent": "Sendov.T2_step", "child": "Sendov_LargeDegree_Monotone", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.classicalComplexWeierstrassPreparation_zero", "child": "ClassicalComplexWPT_EdgeCases", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.classicalComplexWeierstrassPreparation_zero", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "Sendov_FiniteRange_Degree26_27", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree26_27", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_seriesTsum_le", "child": "ClassicalComplexWPT_NormalSum", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.classicalComplexWeierstrassPreparation_noBase", "child": "ClassicalComplexWPT_EdgeCases", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.classicalComplexWeierstrassPreparation_noBase", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionQuotientGlobal_eq", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionQuotientGlobal_eq", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1row_rscale", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.l1row_rscale", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.l1row_rscale", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionRhsInput_apply", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionRhsInput_apply", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.eventually_eval_weightedCoefficientSeries_eq_of_hasFPowerSeriesAt", "child": "ClassicalComplexWPT_WeightedEvaluation", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.eventually_eval_weightedCoefficientSeries_eq_of_hasFPowerSeriesAt", "child": "ClassicalComplexWPT_WeightedGermEvaluation", "via": ["statement"]}
+{"parent": "Sendov.B16_18.P_pos", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B16_18.P_pos", "child": "Sendov_FiniteRange_Degree16_18", "via": ["statement"]}
+{"parent": "Sendov.B16_18.P_pos", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.seqDivision_factorization", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivision_factorization", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_baseInclusion_le", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_baseInclusion_le", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_le_l1row", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.l1_le_l1row", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.l1_le_l1row", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.B10_11.c_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B10_11.c_lo", "child": "Sendov_FiniteRange_Degree10_11", "via": ["statement"]}
+{"parent": "Sendov.B10_11.c_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.npev_map_mul", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.radius_weightedLastCoeffs", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.radius_weightedLastCoeffs", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.B16_18.c_lo_nonneg", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B16_18.c_lo_nonneg", "child": "Sendov_FiniteRange_Degree16_18", "via": ["statement"]}
+{"parent": "Sendov.B16_18.c_lo_nonneg", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.three_add_pos", "child": "Sendov_Defs", "via": ["solution", "statement"]}
+{"parent": "Sendov.three_add_pos", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.Q_one", "child": "Sendov_Defs", "via": ["solution", "statement"]}
+{"parent": "Sendov.Q_one", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_normalizedAnalyticCoefficientMap", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.exists_normalizedAnalyticCoefficientMap", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.exists_normalizedAnalyticCoefficientMap", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.exists_normalizedAnalyticCoefficientMap", "child": "ClassicalComplexWPT_ExactOrder", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.exists_normalizedAnalyticCoefficientMap", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["statement"]}
+{"parent": "Sendov.integral_le_tail_cube", "child": "Sendov_Common_Chord", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_le_tail_cube", "child": "Sendov_Common_Quadratic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.division_existsUnique", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.division_existsUnique", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "Sendov.B20_22.c_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B20_22.c_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B20_22.c_lo", "child": "Sendov_FiniteRange_Degree20_22", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.eventually_norm_normalizedCoefficientMap_sub_monomial_lt_one", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.eventually_norm_normalizedCoefficientMap_sub_monomial_lt_one", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.eventually_norm_normalizedCoefficientMap_sub_monomial_lt_one", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.eventually_norm_normalizedCoefficientMap_sub_monomial_lt_one", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.eventually_norm_normalizedCoefficientMap_sub_monomial_lt_one", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_analyticNormalizedCoefficientMap", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_analyticNormalizedCoefficientMap", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_analyticNormalizedCoefficientMap", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_analyticNormalizedCoefficientMap", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_analyticNormalizedCoefficientMap", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.radius_weightedCoefficientSeries_pos", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.radius_weightedCoefficientSeries_pos", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.R_eight_le", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "Sendov.R_eight_le", "child": "Sendov_FiniteRange_Degree8", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree8_9", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree8_9", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_Examples", "child": "ClassicalComplexWPT_EdgeCases", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.nnnorm_weightedCoefficientSeries_le", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.nnnorm_weightedCoefficientSeries_le", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.B20_22.P_pos", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B20_22.P_pos", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B20_22.P_pos", "child": "Sendov_FiniteRange_Degree20_22", "via": ["statement"]}
+{"parent": "Sendov.B22_24.A_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B22_24.A_hi", "child": "Sendov_FiniteRange_Degree22_24", "via": ["statement"]}
+{"parent": "Sendov.B22_24.A_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.lastTaylorCoefficient_zero_iff_iteratedDeriv_zero", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.lastTaylorCoefficient_zero_iff_iteratedDeriv_zero", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.divisionQuotient_unique", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.divisionQuotient_unique", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exactOrderInLastVariable_iff_analyticOrderAt", "child": "ClassicalComplexWPT_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exactOrderInLastVariable_iff_analyticOrderAt", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "Sendov.mem_le_npev_one", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.B6_6.P_pos", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B6_6.P_pos", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B6_6.P_pos", "child": "Sendov_FiniteRange_Degree6_6", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_convolution", "child": "ClassicalComplexWPT_L1PowerSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_convolution", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.B6_6.c_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B6_6.c_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B6_6.c_lo", "child": "Sendov_FiniteRange_Degree6_6", "via": ["statement"]}
+{"parent": "Sendov.unpackZ_pevZ", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.M_eight", "child": "Sendov_FiniteRange_Reduce", "via": ["solution", "statement"]}
+{"parent": "Sendov.M_eight", "child": "Sendov_FiniteRange_Degree8", "via": ["solution", "statement"]}
+{"parent": "Sendov.rev_cons", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.rev_cons", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.Q_le_one", "child": "Sendov_Defs", "via": ["solution", "statement"]}
+{"parent": "Sendov.Q_le_one", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.weightedCoefficientSeries_sum_apply", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.weightedCoefficientSeries_sum_apply", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "P2M_Sendov_c_twenty__12ee6a925b10", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "P2M_Sendov_c_twenty__12ee6a925b10", "child": "Sendov_FiniteRange_Degree20", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.weightedCoefficientSeries_sum_apply_lastTaylorCoefficient", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.weightedCoefficientSeries_sum_apply_lastTaylorCoefficient", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.lowShift_apply_of_le", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.lowShift_apply_of_le", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.npev_pmulN", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.Q_anti", "child": "Sendov_FiniteRange_Batch", "via": ["solution", "statement"]}
+{"parent": "Sendov.Q_anti", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT_L1PowerSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT_L1PolynomialEvaluation", "via": ["solution", "statement"]}
+{"parent": "Sendov.c_eight", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "Sendov.c_eight", "child": "Sendov_FiniteRange_Degree8", "via": ["statement"]}
+{"parent": "Sendov.gg2_length", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.gg2_length", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_weightedLastCoeffs_le", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_weightedLastCoeffs_le", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exists_normalizedPreparationSequences", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.exists_normalizedPreparationSequences", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.exists_normalizedPreparationSequences", "child": "ClassicalComplexWPT_PreparationSequences", "via": ["statement"]}
+{"parent": "Sendov.integral_five", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov.integral_five", "child": "Sendov_FiniteRange_OddBound", "via": ["statement"]}
+{"parent": "Sendov.integral_five", "child": "Sendov_FiniteRange_Degree5", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.normalizedPreparationTail_zero_of_le", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.normalizedPreparationTail_zero_of_le", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.normalizedPreparationTail_zero_of_le", "child": "ClassicalComplexWPT_PreparationSequences", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov_FiniteRange_Degree6", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree6", "child": "Sendov_Common_Basic", "via": ["statement"]}
+{"parent": "Sendov.integral_le_tail_gen", "child": "Sendov_Common_Chord", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_le_tail_gen", "child": "Sendov_Common_Quadratic", "via": ["solution", "statement"]}
+{"parent": "Sendov.tail1_poly", "child": "Sendov_LargeDegree_Tail", "via": ["statement"]}
+{"parent": "Sendov.tail1_poly", "child": "Sendov_LargeDegree_Monotone", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.exactOrderInLastVariable_zero_iff", "child": "ClassicalComplexWPT_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exactOrderInLastVariable_zero_iff", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "Sendov.B14_15.P_pos", "child": "Sendov_FiniteRange_Degree14_15", "via": ["statement"]}
+{"parent": "Sendov.B14_15.P_pos", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B14_15.P_pos", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B24_26.integral_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B24_26.integral_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B24_26.integral_lo", "child": "Sendov_FiniteRange_Degree24_26", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.AnalyticAt.exists_analytic_weightedCoefficientMap", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.AnalyticAt.exists_analytic_weightedCoefficientMap", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["statement"]}
+{"parent": "Sendov.Q_succ_sub", "child": "Sendov_FiniteRange_Batch", "via": ["solution", "statement"]}
+{"parent": "Sendov.Q_succ_sub", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exactOrder_nonconstantUnit", "child": "ClassicalComplexWPT_Examples", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exactOrder_nonconstantUnit", "child": "ClassicalComplexWPT_EdgeCases", "via": ["solution", "statement"]}
+{"parent": "Sendov.B10_11.A_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B10_11.A_hi", "child": "Sendov_FiniteRange_Degree10_11", "via": ["statement"]}
+{"parent": "Sendov.B10_11.A_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.bdig_add_mul", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.B14_15.A_hi", "child": "Sendov_FiniteRange_Degree14_15", "via": ["statement"]}
+{"parent": "Sendov.B14_15.A_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B14_15.A_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B8_9.integral_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B8_9.integral_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B8_9.integral_lo", "child": "Sendov_FiniteRange_Degree8_9", "via": ["statement"]}
+{"parent": "Sendov.abs_pevZ_le", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.abs_pevZ_le", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.abs_pevZ_le", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_tsum", "child": "ClassicalComplexWPT_L1PowerSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_tsum", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqLowShift_apply_of_le", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqLowShift_apply_of_le", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.B12_13.P_pos", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B12_13.P_pos", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B12_13.P_pos", "child": "Sendov_FiniteRange_Degree12_13", "via": ["statement"]}
+{"parent": "Sendov.c_mono", "child": "Sendov_LargeDegree_Tail", "via": ["statement"]}
+{"parent": "Sendov.c_mono", "child": "Sendov_LargeDegree_Monotone", "via": ["statement"]}
+{"parent": "Sendov.M_mono", "child": "Sendov_FiniteRange_Batch", "via": ["solution", "statement"]}
+{"parent": "Sendov.M_mono", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "Sendov.B24_26.A_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B24_26.A_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B24_26.A_hi", "child": "Sendov_FiniteRange_Degree24_26", "via": ["statement"]}
+{"parent": "Sendov.B6_6.integral_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B6_6.integral_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B6_6.integral_lo", "child": "Sendov_FiniteRange_Degree6_6", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_normalizedPreparationRemainder", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_normalizedPreparationRemainder", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_normalizedPreparationRemainder", "child": "ClassicalComplexWPT_PreparationSequences", "via": ["statement"]}
+{"parent": "Sendov.B14_15.integral_lo", "child": "Sendov_FiniteRange_Degree14_15", "via": ["statement"]}
+{"parent": "Sendov.B14_15.integral_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B14_15.integral_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.rev_rscale", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.rev_rscale", "child": "Sendov_Common_Basic", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree10_11", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree10_11", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.isWeierstrassPreparation_monomial", "child": "ClassicalComplexWPT_Examples", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.isWeierstrassPreparation_monomial", "child": "ClassicalComplexWPT_EdgeCases", "via": ["solution", "statement"]}
+{"parent": "Sendov.A_five", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov.A_five", "child": "Sendov_FiniteRange_OddBound", "via": ["statement"]}
+{"parent": "Sendov.A_five", "child": "Sendov_FiniteRange_Degree5", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.exactOrder_pow_add_first", "child": "ClassicalComplexWPT_Examples", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.exactOrder_pow_add_first", "child": "ClassicalComplexWPT_EdgeCases", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_inverseOneAdd_apply", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_inverseOneAdd_apply", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_poly7", "child": "Sendov_FiniteRange_Moments", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_poly7", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.normalizedPreparationQuotient_zero_apply_zero", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.normalizedPreparationQuotient_zero_apply_zero", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.normalizedPreparationQuotient_zero_apply_zero", "child": "ClassicalComplexWPT_PreparationSequences", "via": ["statement"]}
+{"parent": "Sendov.npev_append", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_AnalyticSeries", "child": "ClassicalComplexWPT_ExactOrder", "via": ["statement"]}
+{"parent": "Sendov.B18_20.integral_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B18_20.integral_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B18_20.integral_lo", "child": "Sendov_FiniteRange_Degree18_20", "via": ["statement"]}
+{"parent": "Sendov.npev_cons", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.factorial_smul_lastTaylorCoefficient_zero", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.factorial_smul_lastTaylorCoefficient_zero", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "Sendov.sinh_sq_le", "child": "Sendov_Common_Sinh", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.summable_norm_evalL1_terms", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.divisionInverse_right", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.divisionInverse_right", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.eval_weightedCoefficientSeries_eq", "child": "ClassicalComplexWPT_L1PowerSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.eval_weightedCoefficientSeries_eq", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.eval_weightedCoefficientSeries_eq", "child": "ClassicalComplexWPT_WeightedEvaluation", "via": ["solution", "statement"]}
+{"parent": "Sendov.Q_eq", "child": "Sendov_Defs", "via": ["solution", "statement"]}
+{"parent": "Sendov.Q_eq", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.B22_24.pev_Nmomc", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B22_24.pev_Nmomc", "child": "Sendov_FiniteRange_Degree22_24", "via": ["statement"]}
+{"parent": "Sendov.B22_24.pev_Nmomc", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B14_15.pev_Nmomc", "child": "Sendov_FiniteRange_Degree14_15", "via": ["statement"]}
+{"parent": "Sendov.B14_15.pev_Nmomc", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B14_15.pev_Nmomc", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "GRH.weighted_energy_rectangle_at_one_hundred_fourteen", "child": "GRH_WeightedEnergy", "via": ["solution", "statement"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.B22_24.M_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B22_24.M_lo", "child": "Sendov_FiniteRange_Degree22_24", "via": ["statement"]}
+{"parent": "Sendov.B22_24.M_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.c_le_one", "child": "Sendov_LargeDegree_Tail", "via": ["statement"]}
+{"parent": "Sendov.c_le_one", "child": "Sendov_Common_Chord", "via": ["statement"]}
+{"parent": "Sendov.continuous_pow_mul_QQ", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "Sendov.continuous_pow_mul_QQ", "child": "Sendov_Common_Quadratic", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_moment_rec", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.integral_moment_rec", "child": "Sendov_Common_Basic", "via": ["statement"]}
+{"parent": "Sendov_LargeDegree_Monotone", "child": "Sendov_LargeDegree_Tail", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.norm_convolutionRight_le", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.monomial_zero", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.lastTaylorCoefficient_zero", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.lastTaylorCoefficient_zero", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "RoundedPublicCoinLowerLabels", "child": "RoundedPublicCoinGame", "via": ["statement"]}
+{"parent": "Sendov.B20_22.integral_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B20_22.integral_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B20_22.integral_lo", "child": "Sendov_FiniteRange_Degree20_22", "via": ["statement"]}
+{"parent": "Sendov.B12_13.c_lo_nonneg", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B12_13.c_lo_nonneg", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B12_13.c_lo_nonneg", "child": "Sendov_FiniteRange_Degree12_13", "via": ["statement"]}
+{"parent": "Sendov.wsum_bound", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.wsum_bound", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.wsum_bound", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "GRH.weighted_energy_rectangle_at_one_hundred_two", "child": "GRH_WeightedEnergy", "via": ["solution", "statement"]}
+{"parent": "Sendov.B12_13.pev_Nmomc", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B12_13.pev_Nmomc", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B12_13.pev_Nmomc", "child": "Sendov_FiniteRange_Degree12_13", "via": ["statement"]}
+{"parent": "Sendov.A_nonneg", "child": "Sendov_Defs", "via": ["solution", "statement"]}
+{"parent": "Sendov.A_nonneg", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.B24_26.c_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B24_26.c_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B24_26.c_lo", "child": "Sendov_FiniteRange_Degree24_26", "via": ["statement"]}
+{"parent": "Sendov.rowZ_bound", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.rowZ_bound", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.rowZ_bound", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.lowShift_highShift_add_lowCut", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.lowShift_highShift_add_lowCut", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.wsum_nil", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.wsum_nil", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.wsum_nil", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_moment_of", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.integral_moment_of", "child": "Sendov_Common_Basic", "via": ["statement"]}
+{"parent": "Sendov.pev_pmul", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_pmul", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqHighShift_divisionRemainder", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqHighShift_divisionRemainder", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.wsum_cons", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.wsum_cons", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.wsum_cons", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.rpow_add_half_le", "child": "Sendov_FiniteRange_OddBound", "via": ["solution", "statement"]}
+{"parent": "Sendov.rpow_add_half_le", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "Sendov.A_eight", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "Sendov.A_eight", "child": "Sendov_FiniteRange_Degree8", "via": ["statement"]}
+{"parent": "Sendov.pev_Nmom97_47", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.pev_Nmom97_47", "child": "Sendov_FiniteRange_Degree97Packed", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_normalizedCoefficientMap", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_normalizedCoefficientMap", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_normalizedCoefficientMap", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_normalizedCoefficientMap", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_normalizedCoefficientMap", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.lastAxis_apply", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.lastAxis_apply", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionRemainder_apply_of_le", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionRemainder_apply_of_le", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.weightedCoefficientSeries_apply", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.weightedCoefficientSeries_apply", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.lowShift_apply_of_lt", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.lowShift_apply_of_lt", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.B24_26.P_pos", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B24_26.P_pos", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B24_26.P_pos", "child": "Sendov_FiniteRange_Degree24_26", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.divisionQuotientGlobal_eq", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.divisionQuotientGlobal_eq", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "Sendov.one_sub_R_six", "child": "Sendov_FiniteRange_Degree6", "via": ["statement"]}
+{"parent": "Sendov.one_sub_R_six", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov.one_sub_R_six", "child": "Sendov_Common_Basic", "via": ["statement"]}
+{"parent": "Sendov.rev_shift", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.rev_shift", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_eval_weightedCoefficientSeries", "child": "ClassicalComplexWPT_L1PowerSeries", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_eval_weightedCoefficientSeries", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_eval_weightedCoefficientSeries", "child": "ClassicalComplexWPT_WeightedEvaluation", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionRemainderGlobal_eq", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionRemainderGlobal_eq", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_smul", "child": "ClassicalComplexWPT_L1PowerSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_smul", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_smul", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_smul", "child": "ClassicalComplexWPT_L1PolynomialEvaluation", "via": ["solution", "statement"]}
+{"parent": "Sendov.gg1_length", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.gg1_length", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.log_sinh_div_le", "child": "Sendov_Common_Sinh", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree97Packed", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.continuous_rev", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.continuous_rev", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_le_tail", "child": "Sendov_LargeDegree_Tail", "via": ["statement"]}
+{"parent": "Sendov.integral_le_tail", "child": "Sendov_Common_Chord", "via": ["statement"]}
+{"parent": "Sendov.B20_22.c_lo_nonneg", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B20_22.c_lo_nonneg", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B20_22.c_lo_nonneg", "child": "Sendov_FiniteRange_Degree20_22", "via": ["statement"]}
+{"parent": "P2M_Sendov_c_five__664be7217b50", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "P2M_Sendov_c_five__664be7217b50", "child": "Sendov_FiniteRange_OddBound", "via": ["statement"]}
+{"parent": "P2M_Sendov_c_five__664be7217b50", "child": "Sendov_FiniteRange_Degree5", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_seqDivisionRemainderGlobal", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_seqDivisionRemainderGlobal", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT_L1PowerSeries", "child": "ClassicalComplexWPT.monomial_zero", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_L1PowerSeries", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "Sendov.mem_rscale_length_le", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.mem_rscale_length_le", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.mem_rscale_length_le", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_WeightedGermEvaluation", "child": "ClassicalComplexWPT_WeightedEvaluation", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.preparedPolynomial_zero", "child": "ClassicalComplexWPT_EdgeCases", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.preparedPolynomial_zero", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionQuotient_equation", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionQuotient_equation", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT_PreparationSequences", "via": ["solution", "statement"]}
+{"parent": "Sendov.A_mono", "child": "Sendov_FiniteRange_Batch", "via": ["solution", "statement"]}
+{"parent": "Sendov.A_mono", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.normalizedPreparationRemainder_zero", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.normalizedPreparationRemainder_zero", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.normalizedPreparationRemainder_zero", "child": "ClassicalComplexWPT_PreparationSequences", "via": ["statement"]}
+{"parent": "Sendov.pevZ_wsum", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.pevZ_wsum", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.pevZ_wsum", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.divisionRemainder_apply_of_le", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.divisionRemainder_apply_of_le", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "Sendov.B16_18.M_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B16_18.M_hi", "child": "Sendov_FiniteRange_Degree16_18", "via": ["statement"]}
+{"parent": "Sendov.B16_18.M_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_normalizedPreparationTail", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_normalizedPreparationTail", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticAt_normalizedPreparationTail", "child": "ClassicalComplexWPT_PreparationSequences", "via": ["statement"]}
+{"parent": "Sendov.B6_6.pev_Nmomc", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B6_6.pev_Nmomc", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B6_6.pev_Nmomc", "child": "Sendov_FiniteRange_Degree6_6", "via": ["statement"]}
+{"parent": "Sendov.rpow_le_rpow_of_le_one", "child": "Sendov_Common_Basic", "via": ["statement"]}
+{"parent": "Sendov.rpow_le_rpow_of_le_one", "child": "Sendov_Common_Rpow", "via": ["statement"]}
+{"parent": "Sendov.integral_rpow_zero_one", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_rpow_zero_one", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "Sendov.c_ge_of_large", "child": "Sendov_LargeDegree_Tail", "via": ["solution", "statement"]}
+{"parent": "Sendov.c_ge_of_large", "child": "Sendov_Common_Chord", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_normalizedScale_sub_monomial_le", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_normalizedScale_sub_monomial_le", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_normalizedScale_sub_monomial_le", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_normalizedScale_sub_monomial_le", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_normalizedScale_sub_monomial_le", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "Sendov.B8_9.pev_Nmomc", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B8_9.pev_Nmomc", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B8_9.pev_Nmomc", "child": "Sendov_FiniteRange_Degree8_9", "via": ["statement"]}
+{"parent": "Sendov.integral_rpow_le", "child": "Sendov_FiniteRange_OddBound", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_rpow_le", "child": "Sendov_Common_Rpow", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionQuotient_unique", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.seqDivisionQuotient_unique", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.c_seven", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov.c_seven", "child": "Sendov_FiniteRange_OddBound", "via": ["statement"]}
+{"parent": "Sendov.c_seven", "child": "Sendov_FiniteRange_Degree7", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.L1Coeff.embed_apply_of_not_mem", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.L1Coeff.embed_apply_of_not_mem", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_wsum_eq_of_packed", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.pev_wsum_eq_of_packed", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.pev_wsum_eq_of_packed", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.hasFPowerSeriesOnBall_sumTsum", "child": "ClassicalComplexWPT_NormalSum", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_PackBridge", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_PackBridge", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.B8_9.P_pos", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B8_9.P_pos", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B8_9.P_pos", "child": "Sendov_FiniteRange_Degree8_9", "via": ["statement"]}
+{"parent": "Sendov.integral_moment_packed", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.integral_moment_packed", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.integral_moment_packed", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.preparationQuotientEval_zero", "child": "ClassicalComplexWPT_PublicExistence", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.preparationQuotientEval_zero", "child": "ClassicalComplexWPT_WeightedGermEvaluation", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.preparationQuotientEval_zero", "child": "ClassicalComplexWPT_L1PolynomialEvaluation", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.preparationQuotientEval_zero", "child": "ClassicalComplexWPT_PreparationSequences", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.preparationQuotientEval_zero", "child": "ClassicalComplexWPT_WeightedEvaluation", "via": ["statement"]}
+{"parent": "Sendov.B14_15.c_lo_nonneg", "child": "Sendov_FiniteRange_Degree14_15", "via": ["statement"]}
+{"parent": "Sendov.B14_15.c_lo_nonneg", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B14_15.c_lo_nonneg", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B10_11.pev_Nmomc", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B10_11.pev_Nmomc", "child": "Sendov_FiniteRange_Degree10_11", "via": ["statement"]}
+{"parent": "Sendov.B10_11.pev_Nmomc", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_PublicExistence", "child": "ClassicalComplexWPT_L1PolynomialEvaluation", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_PublicExistence", "child": "ClassicalComplexWPT_PreparationSequences", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_PublicExistence", "child": "ClassicalComplexWPT_WeightedEvaluation", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_PublicExistence", "child": "ClassicalComplexWPT_WeightedGermEvaluation", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_low_eq_zero", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_low_eq_zero", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_low_eq_zero", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_low_eq_zero", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_low_eq_zero", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "Sendov.unpackZ_succ", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.B12_13.c_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B12_13.c_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B12_13.c_lo", "child": "Sendov_FiniteRange_Degree12_13", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.summable_norm_l1_mul_pow", "child": "ClassicalComplexWPT_L1PowerSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.summable_norm_l1_mul_pow", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT_L1PowerSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT_L1PolynomialEvaluation", "via": ["solution", "statement"]}
+{"parent": "Sendov.npev_nil", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1row_nil", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1row_nil", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1row_nil", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_append_zeros", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.pev_append_zeros", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.pev_append_zeros", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.radd_length", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.radd_length", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.radd_length", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Recurrence", "child": "Sendov_Common_Basic", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "child": "ClassicalComplexWPT_NormalizedCoefficients", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "child": "ClassicalComplexWPT_ExactOrder", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "Sendov.B18_20.P_pos", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B18_20.P_pos", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B18_20.P_pos", "child": "Sendov_FiniteRange_Degree18_20", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_NormalizedCoefficients", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_NormalizedCoefficients", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_NormalizedCoefficients", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_NormalizedCoefficients", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_NormalizedCoefficients", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_NormalizedCoefficients", "child": "ClassicalComplexWPT.lastTaylorCoefficient_zero", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_NormalizedCoefficients", "child": "ClassicalComplexWPT.monomial_zero", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_NormalizedCoefficients", "child": "ClassicalComplexWPT_ExactOrder", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_NormalizedCoefficients", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["statement"]}
+{"parent": "Sendov.B8_9.M_lo", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B8_9.M_lo", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B8_9.M_lo", "child": "Sendov_FiniteRange_Degree8_9", "via": ["statement"]}
+{"parent": "Sendov.B6_6.c_lo_nonneg", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B6_6.c_lo_nonneg", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B6_6.c_lo_nonneg", "child": "Sendov_FiniteRange_Degree6_6", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.division_factorization", "child": "ClassicalComplexWPT_L1Division", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.division_factorization", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov_FiniteRange_Degree24_26", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov_FiniteRange_Degree24_26", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.wsumZ_nil", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.wsumZ_nil", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.wsumZ_nil", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.B16_18.pev_Nmomc", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B16_18.pev_Nmomc", "child": "Sendov_FiniteRange_Degree16_18", "via": ["statement"]}
+{"parent": "Sendov.B16_18.pev_Nmomc", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.rpow_B_eq", "child": "Sendov_LargeDegree_Tail", "via": ["statement"]}
+{"parent": "Sendov.rpow_B_eq", "child": "Sendov_LargeDegree_Monotone", "via": ["statement"]}
+{"parent": "Sendov.integral_moment", "child": "Sendov_FiniteRange_Moments", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_moment", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.eval_weightedCoefficientSeries_eq_of_hasFPowerSeriesOnBall", "child": "ClassicalComplexWPT_L1PowerSeries", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.eval_weightedCoefficientSeries_eq_of_hasFPowerSeriesOnBall", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.eval_weightedCoefficientSeries_eq_of_hasFPowerSeriesOnBall", "child": "ClassicalComplexWPT_WeightedEvaluation", "via": ["statement"]}
+{"parent": "Sendov.DQ_eq", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.DQ_eq", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "Sendov.P_twenty_pos", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "Sendov.P_twenty_pos", "child": "Sendov_FiniteRange_Degree20", "via": ["statement"]}
+{"parent": "Sendov.B22_24.c_lo_nonneg", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B22_24.c_lo_nonneg", "child": "Sendov_FiniteRange_Degree22_24", "via": ["statement"]}
+{"parent": "Sendov.B22_24.c_lo_nonneg", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.qrow_entry_length_le", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.qrow_entry_length_le", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.qrow_entry_length_le", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.intervalIntegrable_const_mul_pow", "child": "Sendov_FiniteRange_Moments", "via": ["solution", "statement"]}
+{"parent": "Sendov.intervalIntegrable_const_mul_pow", "child": "Sendov_Common_Basic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.isWeierstrassPreparation_nonconstantUnit", "child": "ClassicalComplexWPT_Examples", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.isWeierstrassPreparation_nonconstantUnit", "child": "ClassicalComplexWPT_EdgeCases", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_nil", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_nil", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.l1_nil", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.c_five", "child": "Sendov_FiniteRange_Moments", "via": ["statement"]}
+{"parent": "Sendov.c_five", "child": "Sendov_FiniteRange_OddBound", "via": ["statement"]}
+{"parent": "Sendov.c_five", "child": "Sendov_FiniteRange_Degree5", "via": ["statement"]}
+{"parent": "Sendov.integral_QQ_anti", "child": "Sendov_Common_Chord", "via": ["statement"]}
+{"parent": "Sendov.integral_QQ_anti", "child": "Sendov_Common_Quadratic", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.divisionQuotientFormula_eq_global", "child": "ClassicalComplexWPT_L1Division", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.divisionQuotientFormula_eq_global", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "Sendov.B18_20.pev_Nmomc", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B18_20.pev_Nmomc", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B18_20.pev_Nmomc", "child": "Sendov_FiniteRange_Degree18_20", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_WeightedCoefficientMap", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_WeightedCoefficientMap", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT_WeightedCoefficientMap", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["statement"]}
+{"parent": "Sendov.A_twenty", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "Sendov.A_twenty", "child": "Sendov_FiniteRange_Degree20", "via": ["statement"]}
+{"parent": "Sendov.B22_24.P_pos", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B22_24.P_pos", "child": "Sendov_FiniteRange_Degree22_24", "via": ["statement"]}
+{"parent": "Sendov.B22_24.P_pos", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.integral_chord_lin", "child": "Sendov_Common_Chord", "via": ["solution", "statement"]}
+{"parent": "Sendov.integral_chord_lin", "child": "Sendov_Common_Quadratic", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.summable_evalL1_terms", "child": "ClassicalComplexWPT_WeightedSeries", "via": ["statement"]}
+{"parent": "Sendov.pev_Nmom97_46", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.pev_Nmom97_46", "child": "Sendov_FiniteRange_Degree97Packed", "via": ["statement"]}
+{"parent": "Sendov.B16_18.A_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B16_18.A_hi", "child": "Sendov_FiniteRange_Degree16_18", "via": ["statement"]}
+{"parent": "Sendov.B16_18.A_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "ClassicalComplexWPT.norm_weightedSingleCLM_le", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.norm_weightedSingleCLM_le", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.summable_weightedCoordinateSeries", "child": "ClassicalComplexWPT_WeightedCoefficientMap", "via": ["solution", "statement"]}
+{"parent": "ClassicalComplexWPT.summable_weightedCoordinateSeries", "child": "ClassicalComplexWPT_AnalyticSeries", "via": ["solution", "statement"]}
+{"parent": "Sendov.pev_Nmom53", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.pev_Nmom53", "child": "Sendov_FiniteRange_Degree53Packed", "via": ["statement"]}
+{"parent": "Sendov.rowZ_cons", "child": "Sendov_FiniteRange_Recurrence", "via": ["solution", "statement"]}
+{"parent": "Sendov.rowZ_cons", "child": "Sendov_FiniteRange_PackBridge", "via": ["solution", "statement"]}
+{"parent": "Sendov.rowZ_cons", "child": "Sendov_FiniteRange_Pack", "via": ["solution", "statement"]}
+{"parent": "Sendov.mem_radd_length_le", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.mem_radd_length_le", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.mem_radd_length_le", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.B10_11.c_lo_nonneg", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B10_11.c_lo_nonneg", "child": "Sendov_FiniteRange_Degree10_11", "via": ["statement"]}
+{"parent": "Sendov.B10_11.c_lo_nonneg", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B24_26.c_lo_nonneg", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B24_26.c_lo_nonneg", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B24_26.c_lo_nonneg", "child": "Sendov_FiniteRange_Degree24_26", "via": ["statement"]}
+{"parent": "Sendov.R_twenty_le", "child": "Sendov_FiniteRange_Reduce", "via": ["statement"]}
+{"parent": "Sendov.R_twenty_le", "child": "Sendov_FiniteRange_Degree20", "via": ["statement"]}
+{"parent": "Sendov.pevZ_rowZ_qrow", "child": "Sendov_FiniteRange_Recurrence", "via": ["statement"]}
+{"parent": "Sendov.pevZ_rowZ_qrow", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.pevZ_rowZ_qrow", "child": "Sendov_FiniteRange_Pack", "via": ["statement"]}
+{"parent": "Sendov.B6_6.A_hi", "child": "Sendov_FiniteRange_Batch", "via": ["statement"]}
+{"parent": "Sendov.B6_6.A_hi", "child": "Sendov_FiniteRange_PackBridge", "via": ["statement"]}
+{"parent": "Sendov.B6_6.A_hi", "child": "Sendov_FiniteRange_Degree6_6", "via": ["statement"]}
+{"parent": "PalomarZF207.exact207Claim", "child": "PalomarZF207.sigma1_sound_consistent", "via": ["solution"]}
+{"parent": "PalomarZF207.exact207Claim", "child": "PalomarZF207.represents207_exists", "via": ["solution"]}
+{"parent": "PalomarZF207.exact207Claim", "child": "PalomarZF207.neg_unprovable_of_represents207", "via": ["solution"]}
+{"parent": "PalomarZF207.exact207Claim", "child": "PalomarZF207.halt_unprovable_of_sigma1_sound", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.aCoord_neg_and_boundary_pos_of_isDiskCurve", "child": "FiniteEnergyPlane.eq_of_isMaxOn_of_laplacian_nonneg", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.aCoord_neg_and_boundary_pos_of_isDiskCurve", "child": "FiniteEnergyPlane_Asymptotics", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.aCoord_neg_and_boundary_pos_of_isDiskCurve", "child": "FiniteEnergyPlane.hopf_lemma_disk", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.aCoord_neg_and_boundary_pos_of_isDiskCurve", "child": "FiniteEnergyPlane.laplacian_aCoord_eq_dlambdaDensity", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.aCoord_neg_and_boundary_pos_of_isDiskCurve", "child": "FiniteEnergyPlane.energyDensity_nonneg_of_isJHolomorphicOn", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.aCoord_neg_and_boundary_pos_of_isDiskCurve", "child": "FiniteEnergyPlane.fderiv_eq_zero_of_dlambdaDensity_eq_zero", "via": ["solution"]}
+{"parent": "FiniteEnergyPlane.aCoord_neg_and_boundary_pos_of_isDiskCurve", "child": "FiniteEnergyPlane.hasLoopWind_unique", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticAt_weightedCoefficientSeries_sum", "child": "ClassicalComplexWPT.radius_weightedCoefficientSeries_pos", "via": ["solution"]}
+{"parent": "Sendov.unpackN_npev", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.unpackN_npev", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.unpackN_npev", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.unpackN_npev", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.integral_cube_mul_rpow", "child": "Sendov.rpow_add_nat_pos", "via": ["solution"]}
+{"parent": "Sendov.integral_cube_mul_rpow", "child": "Sendov.integral_rpow_zero_one", "via": ["solution"]}
+{"parent": "Sendov.alpha_le_half_M", "child": "Sendov.M_pos", "via": ["solution"]}
+{"parent": "Sendov.alpha_le_half_M", "child": "Sendov.A_nonneg", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.l1_cons", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.l1row_cons", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.l1_nil", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.l1row_nil", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.wsum_cons", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.wsum_nil", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.padd_length", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.pev_intCast", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_lastCoefficientSeries_le", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_lastCoefficientSeries_le", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_lastCoefficientSeries_le", "child": "ClassicalComplexWPT.norm_evalLast_le", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_lastCoefficientSeries_le", "child": "ClassicalComplexWPT.norm_baseInclusion_le", "via": ["solution"]}
+{"parent": "Sendov.R_le_of_integral_le", "child": "Sendov.M_pos", "via": ["solution"]}
+{"parent": "Sendov.R_le_of_integral_le", "child": "Sendov.three_add_pos", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.l1_cons", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.l1_nonneg", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.l1row_cons", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.l1_nil", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.l1row_nil", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.wsum_cons", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.wsum_nil", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.l1row_nonneg", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.le_radius_weightedCoefficientSeries", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.le_radius_weightedCoefficientSeries", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.le_radius_weightedCoefficientSeries", "child": "ClassicalComplexWPT.nnnorm_weightedCoefficientSeries_le", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.le_radius_weightedCoefficientSeries", "child": "ClassicalComplexWPT.summable_changeOrigin_weighted_majorant", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.nnnorm_weightedCoordinateSeries_le", "child": "ClassicalComplexWPT.norm_weightedCoordinateSeries_le", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.nnnorm_weightedCoordinateSeries_le", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.nnnorm_weightedCoordinateSeries_le", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqHighShift_divisionRemainderGlobal", "child": "ClassicalComplexWPT.seqDivisionRemainderGlobal_eq", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqHighShift_divisionRemainderGlobal", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqHighShift_divisionRemainderGlobal", "child": "ClassicalComplexWPT.seqHighShift_divisionRemainder", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_lastSlice_eq_pow_mul", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_lastSlice_eq_pow_mul", "child": "ClassicalComplexWPT.exactOrderInLastVariable_iff_analyticOrderAt", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_lastSlice_eq_pow_mul", "child": "ClassicalComplexWPT.analyticAt_lastSlice", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivisionInverse_right", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivisionInverse_right", "child": "ClassicalComplexWPT.seqDivisionPerturbationMap_apply", "via": ["solution"]}
+{"parent": "Sendov.integral_chord_pow", "child": "Sendov.integral_cube_mul_rpow", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.lastSlice_zero", "child": "ClassicalComplexWPT.ambient_zero_eq", "via": ["solution"]}
+{"parent": "Sendov.integral_eq_mom", "child": "Sendov.integral_moment", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.summable_nnnorm_changeOriginSeries_mul_pow", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.summable_nnnorm_changeOriginSeries_mul_pow", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.scaleSeq_originWeightedCoeffs", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.scaleSeq_originWeightedCoeffs", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.scaleSeq_originWeightedCoeffs", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.scaleSeq_originWeightedCoeffs", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.scaleSeq_originWeightedCoeffs", "child": "ClassicalComplexWPT.originWeightedCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.normalizedScale_sub_monomial_apply_lt", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.normalizedScale_sub_monomial_apply_lt", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.normalizedScale_sub_monomial_apply_lt", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.normalizedScale_sub_monomial_apply_lt", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_weightedCoordinateSeries_le", "child": "ClassicalComplexWPT.norm_weightedSingleCLM_le", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_weightedCoordinateSeries_le", "child": "ClassicalComplexWPT.norm_lastCoefficientSeries_le", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.AnalyticAt.exists_powerSeries_with_analytic_lastCoefficients", "child": "ClassicalComplexWPT.analyticAt_lastTaylorCoefficient", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_monomial_le_one", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivisionInverse_left", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivisionInverse_left", "child": "ClassicalComplexWPT.seqDivisionPerturbationMap_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_scale_normalized_close_half", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_scale_normalized_close_half", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_scale_normalized_close_half", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_scale_normalized_close_half", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_scale_normalized_close_half", "child": "ClassicalComplexWPT.norm_normalizedScale_sub_monomial_le", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.divisionInverse_left", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "Sendov.QQ_nonneg", "child": "Sendov.QQ_eq", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqLowShift_highShift_add_lowCut", "child": "ClassicalComplexWPT.seqLowShift_apply_of_le", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqLowShift_highShift_add_lowCut", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqLowShift_highShift_add_lowCut", "child": "ClassicalComplexWPT.seqLowShift_apply_of_lt", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.summable_changeOrigin_weighted_majorant", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.summable_changeOrigin_weighted_majorant", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.summable_changeOrigin_weighted_majorant", "child": "ClassicalComplexWPT.summable_nnnorm_changeOriginSeries_mul_pow", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_top_ne_zero", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_top_ne_zero", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_top_ne_zero", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_top_ne_zero", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_top_ne_zero", "child": "ClassicalComplexWPT.exactOrderInLastVariable_iff_lastTaylorCoefficients", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_top_ne_zero", "child": "ClassicalComplexWPT.originWeightedCoeffs_apply", "via": ["solution"]}
+{"parent": "Sendov.integral_lin_mul_rpow", "child": "Sendov.rpow_add_nat_pos", "via": ["solution"]}
+{"parent": "Sendov.integral_lin_mul_rpow", "child": "Sendov.integral_rpow_zero_one", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT.originWeightedCoeffs_low_eq_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT.originWeightedCoeffs_top_ne_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT.normalizedOriginCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT.scaleSeq_originWeightedCoeffs", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT.originWeightedCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_radius_normalizedOrigin_close_half", "child": "ClassicalComplexWPT.exists_scale_normalized_close_half", "via": ["solution"]}
+{"parent": "Sendov.continuous_integrand", "child": "Sendov.continuous_rpow_const", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exactOrder_monomial", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exactOrder_monomial", "child": "ClassicalComplexWPT.preparedPolynomial_zero", "via": ["solution"]}
+{"parent": "GRH.dirichlet_nonzero_of_weighted_character_energy", "child": "GRH.centered_prefix_character_unit_rows", "via": ["solution"]}
+{"parent": "GRH.dirichlet_nonzero_of_weighted_character_energy", "child": "GRH.character_weighted_autocorrelation_identity", "via": ["solution"]}
+{"parent": "GRH.dirichlet_nonzero_of_weighted_character_energy", "child": "GRH.character_weighted_moment_abel_inequality", "via": ["solution"]}
+{"parent": "GRH.dirichlet_nonzero_of_weighted_character_energy", "child": "GRH.dirichlet_prefix_unit_count_bound", "via": ["solution"]}
+{"parent": "GRH.dirichlet_nonzero_of_weighted_character_energy", "child": "GRH.dirichlet_abel_bound_of_prefix_envelope", "via": ["solution"]}
+{"parent": "Sendov.integral_anti", "child": "P2M_Sendov_rpow_le_rpow_exponent_ge__9a7132cbe0b0", "via": ["solution"]}
+{"parent": "Sendov.integral_anti", "child": "Sendov.Q_le_one", "via": ["solution"]}
+{"parent": "Sendov.integral_anti", "child": "Sendov.Q_nonneg", "via": ["solution"]}
+{"parent": "Sendov.integral_anti", "child": "Sendov.Q_anti", "via": ["solution"]}
+{"parent": "Sendov.integral_anti", "child": "Sendov.continuous_integrand", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.summable_l1_mul_pow", "child": "ClassicalComplexWPT.summable_norm_l1_mul_pow", "via": ["solution"]}
+{"parent": "Sendov.rev_radd", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.rev_radd", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.rev_radd", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.rev_radd", "child": "Sendov.pev_padd", "via": ["solution"]}
+{"parent": "Sendov.rev_radd", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.Q_nonneg", "child": "Sendov.Q_eq", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.wsum_cons", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.pev_map_mul", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.wsum_nil", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.pev_padd", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.pev_wsum", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqLowShift_apply_of_lt", "child": "ClassicalComplexWPT.L1Coeff.embed_apply_of_not_mem", "via": ["solution"]}
+{"parent": "Sendov.t3_mul_Q_pow", "child": "Sendov.quad_pow", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivisionGlobal_factorization", "child": "ClassicalComplexWPT.seqDivisionRemainderGlobal_eq", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivisionGlobal_factorization", "child": "ClassicalComplexWPT.seqDivisionQuotientGlobal_eq", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivisionGlobal_factorization", "child": "ClassicalComplexWPT.seqDivision_factorization", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.isWeierstrassPreparation_pow_add_first", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.isWeierstrassPreparation_pow_add_first", "child": "ClassicalComplexWPT.preparedPolynomial_zero", "via": ["solution"]}
+{"parent": "Sendov.pev_map_mul", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.pev_map_mul", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.pev_padd", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.pev_padd", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticAt_seqDivisionQuotientGlobal", "child": "ClassicalComplexWPT.analyticAt_inverseOneAdd_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticAt_lastTaylorCoefficient", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticAt_lastTaylorCoefficient", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "Sendov.R_le_batch", "child": "Sendov.M_pos", "via": ["solution"]}
+{"parent": "Sendov.R_le_batch", "child": "Sendov.Q_nonneg", "via": ["solution"]}
+{"parent": "Sendov.R_le_batch", "child": "Sendov.integral_anti", "via": ["solution"]}
+{"parent": "Sendov.R_le_batch", "child": "Sendov.three_add_pos", "via": ["solution"]}
+{"parent": "Sendov.R_le_batch", "child": "Sendov.M_mono", "via": ["solution"]}
+{"parent": "Sendov.R_le_batch", "child": "Sendov.A_nonneg", "via": ["solution"]}
+{"parent": "Sendov.R_le_batch", "child": "Sendov.A_mono", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.divisionQuotient_equation", "child": "ClassicalComplexWPT.divisionInverse_right", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exactOrderInLastVariable_iff_lastTaylorCoefficients", "child": "ClassicalComplexWPT.lastTaylorCoefficient_zero_iff_iteratedDeriv_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_weightedLastCoeffs_on_baseBall", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_weightedLastCoeffs_on_baseBall", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_weightedLastCoeffs_on_baseBall", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_weightedLastCoeffs_on_baseBall", "child": "ClassicalComplexWPT.radius_weightedLastCoeffs", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exists_weightedLastCoeffs_on_baseBall", "child": "ClassicalComplexWPT.norm_weightedLastCoeffs_le", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticAt_lastSlice", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.summable_nnnorm_weightedCoordinateSeries", "child": "ClassicalComplexWPT.nnnorm_weightedCoordinateSeries_le", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.summable_nnnorm_weightedCoordinateSeries", "child": "ClassicalComplexWPT.summable_nnnorm_changeOriginSeries_mul_pow", "via": ["solution"]}
+{"parent": "Sendov.npev_paddN", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.npev_paddN", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.npev_paddN", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.npev_paddN", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_evalLast_le", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_evalLast_le", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.classicalComplexWeierstrassPreparation_zero", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.classicalComplexWeierstrassPreparation_zero", "child": "ClassicalComplexWPT.exactOrderInLastVariable_zero_iff", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.classicalComplexWeierstrassPreparation_zero", "child": "ClassicalComplexWPT.preparedPolynomial_zero", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.l1_cons", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.l1_nonneg", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.l1_nil", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.wsum_cons", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.wsum_nil", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.abs_le_l1", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.classicalComplexWeierstrassPreparation_noBase", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.classicalComplexWeierstrassPreparation_noBase", "child": "ClassicalComplexWPT.preparedPolynomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.classicalComplexWeierstrassPreparation_noBase", "child": "ClassicalComplexWPT.exists_lastSlice_eq_pow_mul", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivision_factorization", "child": "ClassicalComplexWPT.seqLowShift_highShift_add_lowCut", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivision_factorization", "child": "ClassicalComplexWPT.seqDivisionQuotient_equation", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_baseInclusion_le", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_baseInclusion_le", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "Sendov.npev_map_mul", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.npev_map_mul", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.npev_map_mul", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.npev_map_mul", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.l1_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.l1_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.wsum_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.wsum_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.l1_map_mul", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "Sendov.Q_one", "child": "Sendov.M_pos", "via": ["solution"]}
+{"parent": "Sendov.Q_one", "child": "Sendov.three_add_pos", "via": ["solution"]}
+{"parent": "Sendov.integral_le_tail_cube", "child": "Sendov.integral_le_tail_gen", "via": ["solution"]}
+{"parent": "Sendov.integral_le_tail_cube", "child": "Sendov.integral_chord_pow", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.eventually_norm_normalizedCoefficientMap_sub_monomial_lt_one", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.eventually_norm_normalizedCoefficientMap_sub_monomial_lt_one", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.eventually_norm_normalizedCoefficientMap_sub_monomial_lt_one", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.eventually_norm_normalizedCoefficientMap_sub_monomial_lt_one", "child": "ClassicalComplexWPT.analyticAt_normalizedCoefficientMap", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.eventually_norm_normalizedCoefficientMap_sub_monomial_lt_one", "child": "ClassicalComplexWPT.normalizedOriginCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.eventually_norm_normalizedCoefficientMap_sub_monomial_lt_one", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.eventually_norm_normalizedCoefficientMap_sub_monomial_lt_one", "child": "ClassicalComplexWPT.originWeightedCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticAt_analyticNormalizedCoefficientMap", "child": "ClassicalComplexWPT.analyticAt_normalizedCoefficientMap", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticAt_analyticNormalizedCoefficientMap", "child": "ClassicalComplexWPT.analyticAt_weightedCoefficientSeries_sum", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.radius_weightedCoefficientSeries_pos", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.radius_weightedCoefficientSeries_pos", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.radius_weightedCoefficientSeries_pos", "child": "ClassicalComplexWPT.le_radius_weightedCoefficientSeries", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.nnnorm_weightedCoefficientSeries_le", "child": "ClassicalComplexWPT.nnnorm_weightedCoordinateSeries_le", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.nnnorm_weightedCoefficientSeries_le", "child": "ClassicalComplexWPT.summable_nnnorm_weightedCoordinateSeries", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.nnnorm_weightedCoefficientSeries_le", "child": "ClassicalComplexWPT.summable_nnnorm_changeOriginSeries_mul_pow", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.lastTaylorCoefficient_zero_iff_iteratedDeriv_zero", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.lastTaylorCoefficient_zero_iff_iteratedDeriv_zero", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.lastTaylorCoefficient_zero_iff_iteratedDeriv_zero", "child": "ClassicalComplexWPT.factorial_smul_lastTaylorCoefficient_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.divisionQuotient_unique", "child": "ClassicalComplexWPT.divisionInverse_left", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exactOrderInLastVariable_iff_analyticOrderAt", "child": "ClassicalComplexWPT.analyticAt_lastSlice", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exactOrderInLastVariable_iff_analyticOrderAt", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "Sendov.mem_le_npev_one", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.mem_le_npev_one", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.mem_le_npev_one", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.mem_le_npev_one", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_convolution", "child": "ClassicalComplexWPT.evalL1PowerSeries_eq_tsum", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_convolution", "child": "ClassicalComplexWPT.summable_norm_l1_mul_pow", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_convolution", "child": "ClassicalComplexWPT.summable_l1_mul_pow", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_convolution", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "Sendov.unpackZ_pevZ", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.unpackZ_pevZ", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.unpackZ_pevZ", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.unpackZ_pevZ", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.unpackZ_pevZ", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.unpackZ_pevZ", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.unpackZ_pevZ", "child": "Sendov.bdig_add_mul", "via": ["solution"]}
+{"parent": "Sendov.unpackZ_pevZ", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.unpackZ_pevZ", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.Q_le_one", "child": "Sendov.three_add_pos", "via": ["solution"]}
+{"parent": "Sendov.Q_le_one", "child": "Sendov.Q_one", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.weightedCoefficientSeries_sum_apply", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.weightedCoefficientSeries_sum_apply", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.weightedCoefficientSeries_sum_apply", "child": "ClassicalComplexWPT.weightedCoefficientSeries_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.weightedCoefficientSeries_sum_apply_lastTaylorCoefficient", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.weightedCoefficientSeries_sum_apply_lastTaylorCoefficient", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.weightedCoefficientSeries_sum_apply_lastTaylorCoefficient", "child": "ClassicalComplexWPT.weightedCoefficientSeries_sum_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.lowShift_apply_of_le", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "Sendov.npev_pmulN", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.npev_pmulN", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.npev_pmulN", "child": "Sendov.npev_paddN", "via": ["solution"]}
+{"parent": "Sendov.npev_pmulN", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.npev_pmulN", "child": "Sendov.npev_map_mul", "via": ["solution"]}
+{"parent": "Sendov.npev_pmulN", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.Q_anti", "child": "Sendov.M_pos", "via": ["solution"]}
+{"parent": "Sendov.Q_anti", "child": "Sendov.Q_succ_sub", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT.evalL1PowerSeries_eq_tsum", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT.seqHighShift_divisionRemainderGlobal", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT.normalizedOriginCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT.seqDivisionOperatorInput_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT.seqDivisionRhsInput_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT.originWeightedCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT.seqHighShift_divisionRemainder", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_sum_fin_of_highShift_eq_zero", "child": "ClassicalComplexWPT.seqDivisionPerturbationMap_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_weightedLastCoeffs_le", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_weightedLastCoeffs_le", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_weightedLastCoeffs_le", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.normalizedPreparationTail_zero_of_le", "child": "ClassicalComplexWPT.normalizedOriginCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.normalizedPreparationTail_zero_of_le", "child": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.normalizedPreparationTail_zero_of_le", "child": "ClassicalComplexWPT.exactOrderInLastVariable_iff_lastTaylorCoefficients", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.l1_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.l1_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.wsum_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.wsum_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.l1_padd", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "Sendov.integral_le_tail_gen", "child": "Sendov.QQ_nonneg", "via": ["solution"]}
+{"parent": "Sendov.integral_le_tail_gen", "child": "Sendov.continuous_rpow_const", "via": ["solution"]}
+{"parent": "Sendov.integral_le_tail_gen", "child": "Sendov.continuous_pow_mul_QQ", "via": ["solution"]}
+{"parent": "Sendov.integral_le_tail_gen", "child": "Sendov.QQ_le_at_one", "via": ["solution"]}
+{"parent": "Sendov.integral_le_tail_gen", "child": "Sendov.QQ_le_chord", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exactOrderInLastVariable_zero_iff", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "Sendov.Q_succ_sub", "child": "Sendov.M_pos", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exactOrder_nonconstantUnit", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exactOrder_nonconstantUnit", "child": "ClassicalComplexWPT.preparedPolynomial_zero", "via": ["solution"]}
+{"parent": "Sendov.bdig_add_mul", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.bdig_add_mul", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.bdig_add_mul", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.bdig_add_mul", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.bdig_add_mul", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.bdig_add_mul", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.bdig_add_mul", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.bdig_add_mul", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_eq_tsum", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqLowShift_apply_of_le", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.isWeierstrassPreparation_monomial", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.isWeierstrassPreparation_monomial", "child": "ClassicalComplexWPT.preparedPolynomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exactOrder_pow_add_first", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.exactOrder_pow_add_first", "child": "ClassicalComplexWPT.preparedPolynomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticAt_inverseOneAdd_apply", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "Sendov.integral_poly7", "child": "Sendov.intervalIntegrable_const_mul_pow", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.factorial_smul_lastTaylorCoefficient_zero", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.factorial_smul_lastTaylorCoefficient_zero", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.factorial_smul_lastTaylorCoefficient_zero", "child": "ClassicalComplexWPT.lastTaylorCoefficient_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.summable_norm_evalL1_terms", "child": "ClassicalComplexWPT.norm_monomial_le_one", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.divisionInverse_right", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.eval_weightedCoefficientSeries_eq", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.eval_weightedCoefficientSeries_eq", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.eval_weightedCoefficientSeries_eq", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.eval_weightedCoefficientSeries_eq", "child": "ClassicalComplexWPT.evalL1PowerSeries_eq_tsum", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.eval_weightedCoefficientSeries_eq", "child": "ClassicalComplexWPT.weightedCoefficientSeries_sum_apply_lastTaylorCoefficient", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.eval_weightedCoefficientSeries_eq", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.pev_intCast", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.rev_intCast", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "Sendov.continuous_pow_mul_QQ", "child": "Sendov.continuous_rpow_const", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.lastTaylorCoefficient_zero", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.lastTaylorCoefficient_zero", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.lowShift_highShift_add_lowCut", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.lowShift_highShift_add_lowCut", "child": "ClassicalComplexWPT.lowShift_apply_of_le", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.lowShift_highShift_add_lowCut", "child": "ClassicalComplexWPT.lowShift_apply_of_lt", "via": ["solution"]}
+{"parent": "Sendov.pev_pmul", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.pev_pmul", "child": "Sendov.pev_map_mul", "via": ["solution"]}
+{"parent": "Sendov.pev_pmul", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.pev_pmul", "child": "Sendov.pev_padd", "via": ["solution"]}
+{"parent": "Sendov.rpow_add_half_le", "child": "Sendov.sqrt_le_tangent", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.l1_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.l1_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.wsum_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.wsum_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.l1_nonneg", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.weightedCoefficientSeries_apply", "child": "ClassicalComplexWPT.summable_weightedCoordinateSeries", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.lowShift_apply_of_lt", "child": "ClassicalComplexWPT.L1Coeff.embed_apply_of_not_mem", "via": ["solution"]}
+{"parent": "Sendov.rev_shift", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.rev_shift", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.rev_shift", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.rev_shift", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivisionRemainderGlobal_eq", "child": "ClassicalComplexWPT.seqDivisionOperatorInput_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivisionRemainderGlobal_eq", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivisionRemainderGlobal_eq", "child": "ClassicalComplexWPT.seqDivisionRhsInput_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivisionRemainderGlobal_eq", "child": "ClassicalComplexWPT.seqDivisionQuotientGlobal_eq", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivisionRemainderGlobal_eq", "child": "ClassicalComplexWPT.seqDivisionPerturbationMap_apply", "via": ["solution"]}
+{"parent": "Sendov.continuous_rev", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.continuous_rev", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.continuous_rev", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.continuous_rev", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.l1_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.l1_nonneg", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.l1_map_mul", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.l1_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.wsum_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.wsum_nil", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.l1_padd", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.l1_pmul", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticAt_seqDivisionRemainderGlobal", "child": "ClassicalComplexWPT.analyticAt_seqDivisionQuotientGlobal", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticAt_seqDivisionRemainderGlobal", "child": "ClassicalComplexWPT.seqDivisionOperatorInput_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticAt_seqDivisionRemainderGlobal", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticAt_seqDivisionRemainderGlobal", "child": "ClassicalComplexWPT.seqDivisionRhsInput_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticAt_seqDivisionRemainderGlobal", "child": "ClassicalComplexWPT.seqDivisionPerturbationMap_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.preparedPolynomial_zero", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivisionQuotient_equation", "child": "ClassicalComplexWPT.seqDivisionInverse_right", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT.seqHighShift_divisionRemainderGlobal", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT.seqLowShift_apply_of_le", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT.normalizedOriginCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT.seqDivisionOperatorInput_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT.seqDivisionRhsInput_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT.originWeightedCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT.seqLowShift_apply_of_lt", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT.seqHighShift_divisionRemainder", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.convolution_monomialSeq", "child": "ClassicalComplexWPT.seqDivisionPerturbationMap_apply", "via": ["solution"]}
+{"parent": "Sendov.A_mono", "child": "Sendov.M_pos", "via": ["solution"]}
+{"parent": "Sendov.A_mono", "child": "Sendov.M_mono", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.l1_cons", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.l1row_cons", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.l1_nil", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.l1row_nil", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.wsum_cons", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.wsum_nil", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.rscale_length", "child": "Sendov.rowZ_length", "via": ["solution"]}
+{"parent": "Sendov.c_ge_of_large", "child": "Sendov.three_add_pos", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.norm_normalizedScale_sub_monomial_le", "child": "ClassicalComplexWPT.normalizedScale_sub_monomial_apply_lt", "via": ["solution"]}
+{"parent": "Sendov.integral_rpow_le", "child": "Sendov.rpow_add_half_le", "via": ["solution"]}
+{"parent": "Sendov.integral_rpow_le", "child": "Sendov.Q_nonneg", "via": ["solution"]}
+{"parent": "Sendov.integral_rpow_le", "child": "Sendov.continuous_integrand", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.seqDivisionQuotient_unique", "child": "ClassicalComplexWPT.seqDivisionInverse_left", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.npev_cons", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.unpackN_succ", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.rowZ_nil", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.rowZ_cons", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.unpackZ_zero", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.unpackN_zero", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.pevZ_nil", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.pevZ_cons", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.unpackZ_succ", "via": ["solution"]}
+{"parent": "Sendov.rowZ_length", "child": "Sendov.npev_nil", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_low_eq_zero", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_low_eq_zero", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_low_eq_zero", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_low_eq_zero", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_low_eq_zero", "child": "ClassicalComplexWPT.exactOrderInLastVariable_iff_lastTaylorCoefficients", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.originWeightedCoeffs_low_eq_zero", "child": "ClassicalComplexWPT.originWeightedCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT.evalL1PowerSeries_eq_tsum", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT.seqHighShift_divisionRemainderGlobal", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT.normalizedOriginCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT.seqDivisionOperatorInput_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT.seqDivisionRhsInput_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT.originWeightedCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT.seqHighShift_divisionRemainder", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.evalL1PowerSeries_monomialSeq", "child": "ClassicalComplexWPT.seqDivisionPerturbationMap_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "child": "ClassicalComplexWPT.lastAxis_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "child": "ClassicalComplexWPT.weightedLastCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "child": "ClassicalComplexWPT.normalizedOriginCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "child": "ClassicalComplexWPT.weightedCoefficientSeries_sum_apply_lastTaylorCoefficient", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "child": "ClassicalComplexWPT.radius_weightedCoefficientSeries_pos", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "child": "ClassicalComplexWPT.monomial_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "child": "ClassicalComplexWPT.originWeightedCoeffs_apply", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.analyticNormalizedCoefficientMap_zero", "child": "ClassicalComplexWPT.ambient_zero_eq", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.division_factorization", "child": "ClassicalComplexWPT.lowShift_highShift_add_lowCut", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.division_factorization", "child": "ClassicalComplexWPT.divisionQuotient_equation", "via": ["solution"]}
+{"parent": "Sendov.integral_moment", "child": "Sendov.t3_mul_Q_pow", "via": ["solution"]}
+{"parent": "Sendov.integral_moment", "child": "Sendov.intervalIntegrable_const_mul_pow", "via": ["solution"]}
+{"parent": "Sendov.DQ_eq", "child": "Sendov.pev_cons", "via": ["solution"]}
+{"parent": "Sendov.DQ_eq", "child": "Sendov.gg1_length", "via": ["solution"]}
+{"parent": "Sendov.DQ_eq", "child": "Sendov.rev_cons", "via": ["solution"]}
+{"parent": "Sendov.DQ_eq", "child": "Sendov.gg0_length", "via": ["solution"]}
+{"parent": "Sendov.DQ_eq", "child": "Sendov.M_pos", "via": ["solution"]}
+{"parent": "Sendov.DQ_eq", "child": "Sendov.pev_nil", "via": ["solution"]}
+{"parent": "Sendov.DQ_eq", "child": "Sendov.three_add_pos", "via": ["solution"]}
+{"parent": "Sendov.DQ_eq", "child": "Sendov.rev_nil", "via": ["solution"]}
+{"parent": "Sendov.DQ_eq", "child": "Sendov.gg2_length", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.isWeierstrassPreparation_nonconstantUnit", "child": "ClassicalComplexWPT.lastSlice_zero", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.isWeierstrassPreparation_nonconstantUnit", "child": "ClassicalComplexWPT.preparedPolynomial_zero", "via": ["solution"]}
+{"parent": "Sendov.integral_chord_lin", "child": "Sendov.integral_lin_mul_rpow", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.summable_weightedCoordinateSeries", "child": "ClassicalComplexWPT.nnnorm_weightedCoordinateSeries_le", "via": ["solution"]}
+{"parent": "ClassicalComplexWPT.summable_weightedCoordinateSeries", "child": "ClassicalComplexWPT.summable_nnnorm_changeOriginSeries_mul_pow", "via": ["solution"]}

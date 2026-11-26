@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_prod_mul_rpow_eq_mul_prod_rpow
 -- name    : Auto.aux_ErgodicBox.prod_mul_rpow_eq_mul_prod_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:44:17.874682+00:00
 -- url     : https://prove2.me/theorems/ebec964f-9009-5009-bdcd-79cd5b5e8ff7

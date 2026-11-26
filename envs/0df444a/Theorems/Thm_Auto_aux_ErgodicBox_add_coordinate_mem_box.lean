@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_add_coordinate_mem_box
 -- name    : Auto.aux_ErgodicBox.add_coordinate_mem_box
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:44:49.056869+00:00
 -- url     : https://prove2.me/theorems/3401d888-3a11-594a-a587-f6c470ca0032

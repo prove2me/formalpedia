@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_lintegral_orbit_comp
 -- name    : Auto.aux_lintegral_orbit_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:47:16.349771+00:00
 -- url     : https://prove2.me/theorems/4333f138-6429-4671-9ada-650fe7b0ebca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_CuboidNorm_eLpNorm_natToInt_eq_count
 -- name    : Auto.aux_CuboidNorm.eLpNorm_natToInt_eq_count
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:43:07.023128+00:00
 -- url     : https://prove2.me/theorems/3cda32e5-b24b-4f44-957c-9b3e0fb3ce4f

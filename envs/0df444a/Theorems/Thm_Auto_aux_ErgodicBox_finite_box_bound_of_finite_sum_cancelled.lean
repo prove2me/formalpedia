@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_finite_box_bound_of_finite_sum_cancelled
 -- name    : Auto.aux_ErgodicBox.finite_box_bound_of_finite_sum_cancelled
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:44:51.655802+00:00
 -- url     : https://prove2.me/theorems/91a42b12-807b-415e-9756-d5d915c0e5cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_scale_le_last
 -- name    : Auto.aux_ErgodicBox.scale_le_last
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:44:41.512799+00:00
 -- url     : https://prove2.me/theorems/bf30fccb-dfb1-51eb-a273-954c4dd0a58b

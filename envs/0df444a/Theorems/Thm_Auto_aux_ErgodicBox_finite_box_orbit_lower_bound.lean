@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_finite_box_orbit_lower_bound
 -- name    : Auto.aux_ErgodicBox.finite_box_orbit_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:44:37.582693+00:00
 -- url     : https://prove2.me/theorems/c5f8d61d-7c46-5823-a5ce-1ea5fa7137d9

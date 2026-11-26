@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_aemeasurable_truncOrbit_normProduct
 -- name    : Auto.aux_ErgodicBox.aemeasurable_truncOrbit_normProduct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:44:41.164796+00:00
 -- url     : https://prove2.me/theorems/a2d48282-22d4-5bb0-ad01-d58a14b5984e

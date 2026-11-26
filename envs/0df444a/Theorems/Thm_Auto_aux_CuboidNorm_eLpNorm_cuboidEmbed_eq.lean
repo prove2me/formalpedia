@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_CuboidNorm_eLpNorm_cuboidEmbed_eq
 -- name    : Auto.aux_CuboidNorm.eLpNorm_cuboidEmbed_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:41:03.048173+00:00
 -- url     : https://prove2.me/theorems/72463636-74d8-5d80-9a6a-9b25664dda0e

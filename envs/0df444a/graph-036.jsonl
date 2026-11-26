@@ -91358,9 +91358,9 @@
 {"parent": "RH1E6S10_D077_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S09_D008_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Monotonicity_Theorem.min_preimage_exists", "child": "Monotonicity_Theorem_Framework", "via": ["solution", "statement"]}
-{"parent": "PalomarZF207.represents207_exists", "child": "palomar_zf207_history", "via": ["statement"]}
-{"parent": "PalomarZF207.represents207_exists", "child": "palomar_zf207_zf", "via": ["statement"]}
-{"parent": "PalomarZF207.represents207_exists", "child": "palomar_zf207_statement", "via": ["statement"]}
+{"parent": "PalomarZF207.represents207_exists", "child": "palomar_zf207_history", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.represents207_exists", "child": "palomar_zf207_zf", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.represents207_exists", "child": "palomar_zf207_statement", "via": ["solution", "statement"]}
 {"parent": "prob_bad_event", "child": "Polychromatic_Colouring", "via": ["solution", "statement"]}
 {"parent": "prob_bad_event", "child": "Polychromatic_LocalLemma", "via": ["solution", "statement"]}
 {"parent": "prob_bad_event", "child": "Polychromatic_Compactness", "via": ["solution", "statement"]}
@@ -94716,9 +94716,9 @@
 {"parent": "RH1E6S11.part_056_0", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S11.part_056_0", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "RH1E6S10_D052_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "PalomarZF207.exact207Claim", "child": "palomar_zf207_history", "via": ["statement"]}
-{"parent": "PalomarZF207.exact207Claim", "child": "palomar_zf207_zf", "via": ["statement"]}
-{"parent": "PalomarZF207.exact207Claim", "child": "palomar_zf207_statement", "via": ["statement"]}
+{"parent": "PalomarZF207.exact207Claim", "child": "palomar_zf207_history", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.exact207Claim", "child": "palomar_zf207_zf", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.exact207Claim", "child": "palomar_zf207_statement", "via": ["solution", "statement"]}
 {"parent": "ShiShallow.subset_coneStep", "child": "ShiShallow_Circuit", "via": ["solution", "statement"]}
 {"parent": "ShiShallow.subset_coneStep", "child": "ShiShallow_Cone", "via": ["solution", "statement"]}
 {"parent": "RH1E6S09_D073_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}

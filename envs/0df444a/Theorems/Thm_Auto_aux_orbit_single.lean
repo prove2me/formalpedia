@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_orbit_single
 -- name    : Auto.aux_orbit_single
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:45:28.95309+00:00
 -- url     : https://prove2.me/theorems/69e3d1c7-8fac-4b93-bb2c-7e462673d970

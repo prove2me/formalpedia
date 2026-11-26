@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_holder_truncOrbit_norms
 -- name    : Auto.aux_ErgodicBox.holder_truncOrbit_norms
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:44:27.129402+00:00
 -- url     : https://prove2.me/theorems/c723c81f-6e86-4706-b2df-c2e99899c01d

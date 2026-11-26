@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_ErgodicBox_realErgodicAverage_aestronglyMeasurable
 -- name    : Auto.aux_ErgodicBox.realErgodicAverage_aestronglyMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:45:00.904678+00:00
 -- url     : https://prove2.me/theorems/6698822a-b752-5c1f-9467-4a3d82939008

@@ -1,0 +1,26 @@
+-- Prove2me | Theorems.Thm_Sendov_B10_11_c_lo_nonneg
+-- name    : Sendov.B10_11.c_lo_nonneg
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-11-26T18:06:30.092896+00:00
+-- url     : https://prove2.me/theorems/de808f29-7d63-540b-acb8-60c68486c9a4
+-- title:
+--   B10 11: c lo nonneg
+-- statement:
+--   `c` is nonnegative at `n₀` on the batch's `α`-range.  This replaces feasibility at `n₀`,
+--   which for `n₀ < 36` does not follow from `α ≤ 17`.
+--
+--   Source: https://github.com/teorth/sendov/blob/1ddea92d89f951a0a7cbbffa6c267cf7e6640b1d/Sendov/FiniteRange/Degree10_11.lean#L47-L51
+-- source:
+--   https://github.com/teorth/sendov/blob/1ddea92d89f951a0a7cbbffa6c267cf7e6640b1d/Sendov/FiniteRange/Degree10_11.lean#L47-L51
+
+import Definitions.Def_Sendov_FiniteRange_Batch
+import Definitions.Def_Sendov_FiniteRange_PackBridge
+import Definitions.Def_Sendov_FiniteRange_Degree10_11
+set_option autoImplicit false
+set_option linter.style.longLine false
+set_option maxRecDepth 4000000
+open Sendov
+open Sendov.B10_11
+
+theorem Sendov.B10_11.c_lo_nonneg {α : ℝ} (hα : 0 ≤ α) (hU : α ≤ 5) : 0 ≤ c 10 α := by sorry

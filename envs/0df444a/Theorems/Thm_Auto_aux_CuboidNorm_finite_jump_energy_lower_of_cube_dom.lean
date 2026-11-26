@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_CuboidNorm_finite_jump_energy_lower_of_cube_dom
 -- name    : Auto.aux_CuboidNorm.finite_jump_energy_lower_of_cube_dom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:42:33.306255+00:00
 -- url     : https://prove2.me/theorems/5613b49e-1a8d-5afa-b31b-d8235f54fc23

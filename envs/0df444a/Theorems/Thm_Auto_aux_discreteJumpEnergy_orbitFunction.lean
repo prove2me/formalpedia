@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_aux_discreteJumpEnergy_orbitFunction
 -- name    : Auto.aux_discreteJumpEnergy_orbitFunction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T17:47:04.385333+00:00
 -- url     : https://prove2.me/theorems/dc39a7d7-8534-483c-acb3-3ec19e2741ca

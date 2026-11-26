@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalomarZF207_sigma1_sound_consistent
 -- name    : PalomarZF207.sigma1_sound_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-21T17:14:53.073453+00:00
 -- url     : https://prove2.me/theorems/e99a3610-1b5c-4b57-a2fd-e62f12c233b8

@@ -7504,7 +7504,7 @@
 {"parent": "OAILP_PriceGame_ControlCampaignWirePolynomial", "child": "OAILP_PriceGame_ControlWireFormula", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlCampaignWirePolynomial", "child": "OAILP_OracleSpec_DialogueProof", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlCampaignWirePolynomial", "child": "OAILP_PriceGame_CampaignRounds", "via": ["statement"]}
-{"parent": "FiniteEnergyPlane.aCoord_neg_and_boundary_pos_of_isDiskCurve", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.aCoord_neg_and_boundary_pos_of_isDiskCurve", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["solution", "statement"]}
 {"parent": "OAILP_PriceGame_ControlWireCampaign", "child": "OAILP_PriceGame_ControlCampaign", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlWireCampaign", "child": "OAILP_PriceGame_ControlWire", "via": ["statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.PrimalDual.Bridge.unpackFirst_correct", "child": "OAILP_PrimalDual_UnpackFirst", "via": ["solution", "statement"]}
@@ -9649,7 +9649,7 @@
 {"parent": "SourceProof_1d0048e633cc05b9ad20d527", "child": "SourceProof_92ecc823f6e85260a04d51c7", "via": ["statement"]}
 {"parent": "SourceProof_1d0048e633cc05b9ad20d527", "child": "SourceProof_d0a4533c9dc122ef1fd7f577", "via": ["statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.PrimalDual.OutputPass.cell_correct", "child": "OAILP_PrimalDual_ScanRAM", "via": ["solution", "statement"]}
-{"parent": "Arxivcond_mat_0004049.spectral_moment_scaling_and_divergent_means", "child": "Arxivcond_mat_0004049_Basic", "via": ["statement"]}
+{"parent": "Arxivcond_mat_0004049.spectral_moment_scaling_and_divergent_means", "child": "Arxivcond_mat_0004049_Basic", "via": ["solution", "statement"]}
 {"parent": "OAILP_PrimalDual_UnpackFirst", "child": "OAILP_PrimalDual_Gather", "via": ["statement"]}
 {"parent": "OAILP_PrimalDual_UnpackFirst", "child": "OAILP_PrimalDual_PassesRAM", "via": ["statement"]}
 {"parent": "OAILP_PrimalDual_UnpackFirst", "child": "OAILP_PrimalDual_Layout", "via": ["statement"]}
@@ -70962,8 +70962,8 @@
 {"parent": "FourierJacobi.Valuations.elementary_right_reduction", "child": "FourierJacobi_Algebra_Matrices", "via": ["solution", "statement"]}
 {"parent": "polytopeSoftSupport_add_deriv_deriv_nonneg", "child": "Operator_Crouzeix_PolytopeSoftSupportCurvature", "via": ["solution", "statement"]}
 {"parent": "polytopeSoftSupport_add_deriv_deriv_nonneg", "child": "Operator_Crouzeix_PolytopeSoftSupport", "via": ["solution", "statement"]}
-{"parent": "NullConeGravity.graviton_pair_closed_form", "child": "NullConeGravity_dilog", "via": ["statement"]}
-{"parent": "NullConeGravity.graviton_pair_closed_form", "child": "NullConeGravity_pairRadialData", "via": ["statement"]}
+{"parent": "NullConeGravity.graviton_pair_closed_form", "child": "NullConeGravity_dilog", "via": ["solution", "statement"]}
+{"parent": "NullConeGravity.graviton_pair_closed_form", "child": "NullConeGravity_pairRadialData", "via": ["solution", "statement"]}
 {"parent": "O3.aboveLevelRatio_eq", "child": "O3_Foundation", "via": ["solution", "statement"]}
 {"parent": "O3.aboveLevelRatio_eq", "child": "O3_AboveTwo", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.tripleContent_primitivePartTriple", "child": "TunnellMap_PrimitiveDirection", "via": ["solution", "statement"]}
