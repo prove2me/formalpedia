@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i0_lower_reindexed
 -- name    : FourierJacobi.Analysis.i0_lower_reindexed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:51:56.180361+00:00
 -- url     : https://prove2.me/theorems/f9b0f9aa-4e16-420e-9a20-545525bc013c

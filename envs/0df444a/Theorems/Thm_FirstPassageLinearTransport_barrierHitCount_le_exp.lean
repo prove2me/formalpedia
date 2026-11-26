@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_barrierHitCount_le_exp
 -- name    : FirstPassageLinearTransport.barrierHitCount_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:02:55.243392+00:00
 -- url     : https://prove2.me/theorems/6655574f-f603-4d59-beca-04fbbce13b98

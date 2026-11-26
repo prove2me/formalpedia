@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_one_le_quadratic_startup_factor
 -- name    : FirstPassageLinearTransport.one_le_quadratic_startup_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:12.049192+00:00
 -- url     : https://prove2.me/theorems/8454b449-ea83-4d68-8b83-00c523c877ba

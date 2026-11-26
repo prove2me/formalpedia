@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_weyl_common_euler_factorization
 -- name    : FourierJacobi.Algebra.weyl_common_euler_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:13:49.153824+00:00
 -- url     : https://prove2.me/theorems/ae7627ff-507b-5a85-8ee6-e388831c3bd2

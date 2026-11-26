@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_summable_depthMajorant
 -- name    : FourierJacobi.Analysis.summable_depthMajorant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:24:30.462187+00:00
 -- url     : https://prove2.me/theorems/5994ef97-8786-40ce-9dcb-b2b27a9a4a52

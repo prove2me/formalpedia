@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stageLength_le_shell
 -- name    : FirstPassageLinearTransport.stageLength_le_shell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:05:57.23142+00:00
 -- url     : https://prove2.me/theorems/f077ed51-8dec-4d5b-a7a6-eaa690e79e0e

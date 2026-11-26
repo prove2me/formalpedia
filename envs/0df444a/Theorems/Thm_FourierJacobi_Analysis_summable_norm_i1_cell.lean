@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_summable_norm_i1_cell
 -- name    : FourierJacobi.Analysis.summable_norm_i1_cell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:09:26.976631+00:00
 -- url     : https://prove2.me/theorems/4938307c-0936-46be-beed-aacd389f9a42

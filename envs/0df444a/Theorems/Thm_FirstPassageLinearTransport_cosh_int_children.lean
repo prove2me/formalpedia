@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_cosh_int_children
 -- name    : FirstPassageLinearTransport.cosh_int_children
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:02:40.119371+00:00
 -- url     : https://prove2.me/theorems/4d67e076-fcd6-4cb2-9017-842294b2b37a

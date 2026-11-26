@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shellMaximalParityBad_subset_hit
 -- name    : FirstPassageLinearTransport.shellMaximalParityBad_subset_hit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:00:58.486656+00:00
 -- url     : https://prove2.me/theorems/5132abf8-58e7-4dce-88ca-dbe0549977cc

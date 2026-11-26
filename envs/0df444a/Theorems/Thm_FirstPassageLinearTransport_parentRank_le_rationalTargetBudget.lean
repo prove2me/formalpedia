@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_parentRank_le_rationalTargetBudget
 -- name    : FirstPassageLinearTransport.parentRank_le_rationalTargetBudget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:06:33.675214+00:00
 -- url     : https://prove2.me/theorems/b7104c5b-003d-46da-bd2d-82bf20dca44c

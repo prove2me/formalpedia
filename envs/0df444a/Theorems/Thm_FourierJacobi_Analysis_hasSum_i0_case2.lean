@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i0_case2
 -- name    : FourierJacobi.Analysis.hasSum_i0_case2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:57:41.027366+00:00
 -- url     : https://prove2.me/theorems/b14463fc-610f-421e-8362-69d8c124c656

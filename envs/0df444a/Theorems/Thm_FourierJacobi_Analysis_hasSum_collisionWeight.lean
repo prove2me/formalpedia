@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_collisionWeight
 -- name    : FourierJacobi.Analysis.hasSum_collisionWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:20:26.707117+00:00
 -- url     : https://prove2.me/theorems/711bb9ac-bc06-51ea-a24b-dcd852ecf18e

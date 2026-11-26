@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_boolParityWord_congr
 -- name    : FirstPassageLinearTransport.boolParityWord_congr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:02:59.392825+00:00
 -- url     : https://prove2.me/theorems/302c4013-1e13-5b84-934d-71b13ceca72c

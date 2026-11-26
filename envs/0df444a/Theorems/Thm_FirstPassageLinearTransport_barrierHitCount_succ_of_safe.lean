@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_barrierHitCount_succ_of_safe
 -- name    : FirstPassageLinearTransport.barrierHitCount_succ_of_safe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:02:29.875037+00:00
 -- url     : https://prove2.me/theorems/01e631fb-3e92-5e9b-ac34-8749d5ecc1a6

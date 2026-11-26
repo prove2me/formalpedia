@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_collisionWeight_norm_le
 -- name    : FourierJacobi.Analysis.collisionWeight_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:59:39.944639+00:00
 -- url     : https://prove2.me/theorems/8e2b5c0d-0683-5f59-a014-60e78d552223

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_residue_inverse_norm_lt_one
 -- name    : FourierJacobi.Analysis.residue_inverse_norm_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:00:04.975736+00:00
 -- url     : https://prove2.me/theorems/db27592c-8e8c-5400-ba25-0d127e3c8721

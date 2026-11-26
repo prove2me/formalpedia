@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shortcut_modEq
 -- name    : FirstPassageLinearTransport.shortcut_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:59:26.54848+00:00
 -- url     : https://prove2.me/theorems/73661d7e-98c2-4954-908c-ce44441767d4

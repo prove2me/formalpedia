@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_collisionProbability
 -- name    : FourierJacobi.Analysis.hasSum_collisionProbability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:20:35.552857+00:00
 -- url     : https://prove2.me/theorems/b8a53e4e-3fe7-4c09-9c86-68eb889049fa

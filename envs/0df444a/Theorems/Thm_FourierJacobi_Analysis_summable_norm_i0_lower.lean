@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_summable_norm_i0_lower
 -- name    : FourierJacobi.Analysis.summable_norm_i0_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:00:08.332412+00:00
 -- url     : https://prove2.me/theorems/b568ff58-cb7f-549f-b017-0ecfc364f98f

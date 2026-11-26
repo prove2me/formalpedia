@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exact_affine_iterate_scaled
 -- name    : FirstPassageLinearTransport.exact_affine_iterate_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:59:20.344134+00:00
 -- url     : https://prove2.me/theorems/67af9acb-b9eb-5ed8-ae3b-1e272d0a31b4

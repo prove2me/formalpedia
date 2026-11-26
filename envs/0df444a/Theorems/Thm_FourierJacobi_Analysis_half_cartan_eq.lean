@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_half_cartan_eq
 -- name    : FourierJacobi.Analysis.half_cartan_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:23:41.365777+00:00
 -- url     : https://prove2.me/theorems/107df3ec-7751-4d23-9007-9268a8be5aa5

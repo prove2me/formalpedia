@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i0_region
 -- name    : FourierJacobi.Analysis.hasSum_i0_region
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:00:48.576032+00:00
 -- url     : https://prove2.me/theorems/fe3a63c0-80df-5ff9-b113-5ccc37ada447

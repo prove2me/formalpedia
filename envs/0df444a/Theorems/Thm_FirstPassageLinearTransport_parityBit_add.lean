@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_parityBit_add
 -- name    : FirstPassageLinearTransport.parityBit_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:03:47.51824+00:00
 -- url     : https://prove2.me/theorems/0d32d1d2-18ce-5f06-8bf9-49d0597adfa8

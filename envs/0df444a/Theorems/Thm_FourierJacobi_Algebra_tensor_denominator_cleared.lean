@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_tensor_denominator_cleared
 -- name    : FourierJacobi.Algebra.tensor_denominator_cleared
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:14:43.29687+00:00
 -- url     : https://prove2.me/theorems/bb49a8b8-0563-50d2-9ac3-fdbc007354c7

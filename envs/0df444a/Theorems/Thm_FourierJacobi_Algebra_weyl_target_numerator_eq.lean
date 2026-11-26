@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_weyl_target_numerator_eq
 -- name    : FourierJacobi.Algebra.weyl_target_numerator_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:15:05.523585+00:00
 -- url     : https://prove2.me/theorems/a3770c35-b13b-4ef6-8631-b804f7315f02

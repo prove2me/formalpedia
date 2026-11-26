@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_bounded_passage_exists
 -- name    : FirstPassageLinearTransport.bounded_passage_exists
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:04:49.819501+00:00
 -- url     : https://prove2.me/theorems/7fa10286-9813-44c0-947d-1a950fccdb7e

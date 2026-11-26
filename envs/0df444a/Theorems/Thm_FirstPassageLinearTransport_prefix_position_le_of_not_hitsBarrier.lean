@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_prefix_position_le_of_not_hitsBarrier
 -- name    : FirstPassageLinearTransport.prefix_position_le_of_not_hitsBarrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:03:20.173191+00:00
 -- url     : https://prove2.me/theorems/4016ccf3-af1b-4324-b15f-864db1346fb2

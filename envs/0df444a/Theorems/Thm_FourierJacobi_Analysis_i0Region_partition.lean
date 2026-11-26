@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i0Region_partition
 -- name    : FourierJacobi.Analysis.i0Region_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:54:14.623399+00:00
 -- url     : https://prove2.me/theorems/f9ca035a-b0c3-4e17-aae0-2a5d668e9a0c

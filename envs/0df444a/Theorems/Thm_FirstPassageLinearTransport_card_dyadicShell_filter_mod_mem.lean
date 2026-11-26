@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_dyadicShell_filter_mod_mem
 -- name    : FirstPassageLinearTransport.card_dyadicShell_filter_mod_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:03:26.037819+00:00
 -- url     : https://prove2.me/theorems/77e64786-245d-4d9d-aa44-8c58f5e6b9d0

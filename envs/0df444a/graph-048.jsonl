@@ -34163,7 +34163,6 @@
 {"parent": "GlobalTheory.ArcTransport.IsTransport.equiv", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsMonHomOfMul", "via": ["statement"]}
 {"parent": "GlobalTheory.ArcTransport.IsTransport.equiv", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_GlobalFnsHolds", "via": ["statement"]}
 {"parent": "GlobalTheory.ArcTransport.IsTransport.equiv", "child": "Development_AbelianVarietyTheory_Proofs_ThetaShiftProofs_ExistsCommonField", "via": ["statement"]}
-{"parent": "Poly1305Debian.internalOk_poly1305_blocks", "child": "Poly1305Debian_Spec", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TensorLat.nsmul_apply_mem_of_mem_tensorLat", "child": "Development_AbelianVarietyTheory_Proofs_CuspFormEvaluations_NsmulApplyMemOfMemTensorLat", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TensorLat.nsmul_apply_mem_of_mem_tensorLat", "child": "Development_AbelianVarietyTheory_Proofs_CuspFormEvaluations_IsLocalizedModuleSubtype", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TensorLat.nsmul_apply_mem_of_mem_tensorLat", "child": "Development_AbelianVarietyTheory_Definitions_ThetaValues_FlatMemLatIffStdLat", "via": ["solution", "statement"]}
@@ -39773,7 +39772,6 @@
 {"parent": "GlobalTheory.EpsIso.ker_fst_eq_span", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.EpsIso.ker_fst_eq_span", "child": "Development_AbelianVarietyTheory_Definitions_ModuliSpaces_IsInvDer", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.EpsIso.ker_fst_eq_span", "child": "Development_AbelianVarietyTheory_Proofs_UniformizationProofs_KerAppEqMapAppLEOfIsPullback", "via": ["solution", "statement"]}
-{"parent": "Poly1305Debian.internalOk_poly1305_finish", "child": "Poly1305Debian_Spec", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TorsionIntegral.exists_restricts", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt", "via": ["statement"]}
 {"parent": "GlobalTheory.TorsionIntegral.exists_restricts", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ExistsZeroGt", "via": ["statement"]}
 {"parent": "GlobalTheory.TorsionIntegral.exists_restricts", "child": "Development_AbelianVarietyTheory_Definitions_Uniformization_ExistsUniqueSamePt", "via": ["statement"]}
@@ -44319,7 +44317,6 @@
 {"parent": "GlobalTheory.NormGlue.exists_coord", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_BCTools", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.pt_lower", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_CSandwichStD", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.pt_lower", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_CSandwichStE", "via": ["statement"]}
-{"parent": "Poly1305Debian.internalOk_poly1305_update", "child": "Poly1305Debian_Spec", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CechCmp.cap_single", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_RestrictCapFBijective", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CechCmp.cap_single", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_ComparisonMemCechHodgeFiltration", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CechCmp.cap_single", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CechPullOneBijectiveLatticeCover", "via": ["solution", "statement"]}
@@ -55261,7 +55258,6 @@
 {"parent": "GlobalTheory.UU.KerPair.exists_pow_gen", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_IsNsmul", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UU.KerPair.exists_pow_gen", "child": "Development_AbelianVarietyTheory_Proofs_UniformizationProofs_CubWeilOfGen", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UU.KerPair.exists_pow_gen", "child": "Development_AbelianVarietyTheory_Definitions_Uniformization_PointEqOfSubsingleton", "via": ["solution", "statement"]}
-{"parent": "Poly1305Debian.internalOk_donna_init_update_final_oneshot", "child": "Poly1305Debian_Spec", "via": ["statement"]}
 {"parent": "ReciprocityTheory.DiscreteGroups.LocalClassField.ker_resMap_eq_span", "child": "ReciprocityTheory_NeutralLocalFields_LocalFieldComparison_LocalFieldAutomorphisms_ModelF", "via": ["statement"]}
 {"parent": "ReciprocityTheory.DiscreteGroups.LocalClassField.ker_resMap_eq_span", "child": "ReciprocityTheory_ClassFieldTheory_LocalClassField_ValUnitsC", "via": ["statement"]}
 {"parent": "ReciprocityTheory.DiscreteGroups.LocalClassField.ker_resMap_eq_span", "child": "ReciprocityTheory_ClassFieldTheory_LocalClassField_ValUnitsD", "via": ["statement"]}
@@ -65314,10 +65310,6 @@
 {"parent": "OAILP_Compression_BinaryRestoreFrame", "child": "OAILP_RAM_Array", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.secFun_map_intQ", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_CSandwichStB", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.secFun_map_intQ", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_CSandwichStA", "via": ["solution", "statement"]}
-{"parent": "Poly1305Debian_Spec", "child": "Link_LinkOk", "via": ["statement"]}
-{"parent": "Poly1305Debian_Spec", "child": "Poly1305Debian_PlacedObj", "via": ["statement"]}
-{"parent": "Poly1305Debian_Spec", "child": "Arm64_Spec_Placed", "via": ["statement"]}
-{"parent": "Poly1305Debian_Spec", "child": "Poly1305Libsodium_Spec", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_Mono0OfLpDimEqOne", "child": "Development_AbelianVarietyTheory_Definitions_AutomorphicMembership_MonodromyZeroOfWeilDeligneRepClassIff", "via": ["statement"]}
 {"parent": "Formalism.L2.Indef.Tree.on_built", "child": "Formalism_LocalToGlobal_IndefiniteForms_IndefiniteTree_ExampleSatisfiesConditionsAtFive", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Indef.Tree.on_built", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_AbsorbLocalConditionsOfExact", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i1r6b_master
 -- name    : FourierJacobi.Analysis.hasSum_i1r6b_master
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:55:35.518931+00:00
 -- url     : https://prove2.me/theorems/a98599f5-15bb-4f6a-80f8-a8e331d8d6a2

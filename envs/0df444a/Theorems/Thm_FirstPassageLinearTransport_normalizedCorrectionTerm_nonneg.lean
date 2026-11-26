@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_normalizedCorrectionTerm_nonneg
 -- name    : FirstPassageLinearTransport.normalizedCorrectionTerm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:04:07.083796+00:00
 -- url     : https://prove2.me/theorems/8e1153cf-b3ba-5ae4-b8ff-b6605970e258

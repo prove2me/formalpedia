@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_scaledReverseLoss_le_half_time
 -- name    : FirstPassageLinearTransport.scaledReverseLoss_le_half_time
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:05:25.236257+00:00
 -- url     : https://prove2.me/theorems/432f8e36-030c-47f7-b648-6f663ef0aa25

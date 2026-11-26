@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_maximalParityRegular_of_not_hitsBarrier
 -- name    : FirstPassageLinearTransport.maximalParityRegular_of_not_hitsBarrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:03:39.656259+00:00
 -- url     : https://prove2.me/theorems/54a0b4c4-8166-4054-997a-ffa08b87bd43

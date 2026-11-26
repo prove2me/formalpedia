@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_maximalBarrierHeight_nonneg
 -- name    : FirstPassageLinearTransport.maximalBarrierHeight_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:05:35.826811+00:00
 -- url     : https://prove2.me/theorems/ec1b33df-746b-4320-9365-3064f3c050e7

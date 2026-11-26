@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_two_mul_shortcut
 -- name    : FirstPassageLinearTransport.two_mul_shortcut
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:59:24.292207+00:00
 -- url     : https://prove2.me/theorems/8a8300fc-141a-41d6-86c0-2264c18c3842

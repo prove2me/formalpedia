@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i2_case4_reindexed
 -- name    : FourierJacobi.Analysis.i2_case4_reindexed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:58:24.854418+00:00
 -- url     : https://prove2.me/theorems/d43576e3-bf95-5a71-a9a9-bb66e64d6c9e

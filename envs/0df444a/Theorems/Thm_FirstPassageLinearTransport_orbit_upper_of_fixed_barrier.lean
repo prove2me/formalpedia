@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_orbit_upper_of_fixed_barrier
 -- name    : FirstPassageLinearTransport.orbit_upper_of_fixed_barrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:01:46.424102+00:00
 -- url     : https://prove2.me/theorems/60621516-6c27-521c-b612-2682f636a50d

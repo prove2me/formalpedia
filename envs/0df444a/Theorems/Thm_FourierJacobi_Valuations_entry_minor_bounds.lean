@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Valuations_entry_minor_bounds
 -- name    : FourierJacobi.Valuations.entry_minor_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:57:20.570903+00:00
 -- url     : https://prove2.me/theorems/b5b0fe08-b492-49b3-93a8-1e161e6eb09a

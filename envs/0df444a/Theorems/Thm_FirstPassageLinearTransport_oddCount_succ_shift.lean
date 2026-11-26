@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_oddCount_succ_shift
 -- name    : FirstPassageLinearTransport.oddCount_succ_shift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:03:20.214283+00:00
 -- url     : https://prove2.me/theorems/83f370e3-241a-4c98-8ed8-b452cfdb9171

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_powerDense_of_shell_bound
 -- name    : FirstPassageLinearTransport.powerDense_of_shell_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:57:32.722373+00:00
 -- url     : https://prove2.me/theorems/54987a02-164d-4b81-b4bd-2aace2d5692f

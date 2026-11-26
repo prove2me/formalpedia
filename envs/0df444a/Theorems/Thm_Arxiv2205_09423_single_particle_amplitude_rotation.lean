@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2205_09423_single_particle_amplitude_rotation
 -- name    : Arxiv2205_09423.single_particle_amplitude_rotation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T11:59:54.952043+00:00
 -- url     : https://prove2.me/theorems/dcff7779-c94d-4ed9-b1c0-e8d840630db0

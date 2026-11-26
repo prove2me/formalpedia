@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_badCount_le_shell_sum
 -- name    : FirstPassageLinearTransport.badCount_le_shell_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:56:41.202326+00:00
 -- url     : https://prove2.me/theorems/dab2d9cb-2ec3-4402-9b27-e6e597d51044

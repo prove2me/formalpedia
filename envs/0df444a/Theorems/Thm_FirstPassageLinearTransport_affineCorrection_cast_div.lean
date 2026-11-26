@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_affineCorrection_cast_div
 -- name    : FirstPassageLinearTransport.affineCorrection_cast_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:02:05.05152+00:00
 -- url     : https://prove2.me/theorems/8e1b06aa-a201-5c89-af3f-a75a0bbe06b5

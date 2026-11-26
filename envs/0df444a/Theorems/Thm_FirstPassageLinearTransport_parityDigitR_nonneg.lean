@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_parityDigitR_nonneg
 -- name    : FirstPassageLinearTransport.parityDigitR_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:03:56.892719+00:00
 -- url     : https://prove2.me/theorems/25e9df97-d354-55a4-b2d9-521cd6127b76

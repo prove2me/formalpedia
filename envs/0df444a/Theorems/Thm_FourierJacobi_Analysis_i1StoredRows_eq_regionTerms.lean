@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i1StoredRows_eq_regionTerms
 -- name    : FourierJacobi.Analysis.i1StoredRows_eq_regionTerms
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:05.308688+00:00
 -- url     : https://prove2.me/theorems/c27b7585-2bc6-449b-8eb8-14d77b24173a

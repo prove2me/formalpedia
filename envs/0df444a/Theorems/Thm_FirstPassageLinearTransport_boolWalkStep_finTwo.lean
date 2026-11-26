@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_boolWalkStep_finTwo
 -- name    : FirstPassageLinearTransport.boolWalkStep_finTwo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:03:10.091932+00:00
 -- url     : https://prove2.me/theorems/3b9e6983-007b-4b30-bed2-465b92ba5f0f

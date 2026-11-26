@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i0RegionIndex_mem
 -- name    : FourierJacobi.Analysis.i0RegionIndex_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:00:41.98436+00:00
 -- url     : https://prove2.me/theorems/ee61cb51-6ee4-4bbc-b81d-95176e4a6601

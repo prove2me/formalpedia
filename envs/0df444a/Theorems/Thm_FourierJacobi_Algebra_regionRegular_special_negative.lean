@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_regionRegular_special_negative
 -- name    : FourierJacobi.Algebra.regionRegular_special_negative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:24:40.679738+00:00
 -- url     : https://prove2.me/theorems/7b4c28ed-42a0-4dc6-9f1c-de798d7f92e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i0_four_rows_absolutelySummable
 -- name    : FourierJacobi.Analysis.i0_four_rows_absolutelySummable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:59:26.349092+00:00
 -- url     : https://prove2.me/theorems/a909738b-e7e0-4a88-a574-af5490b6e860

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_shell_exponents_nonnegative
 -- name    : FourierJacobi.Analysis.shell_exponents_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:24:21.999136+00:00
 -- url     : https://prove2.me/theorems/d4f58f31-e242-5b08-a428-6d60c638908d

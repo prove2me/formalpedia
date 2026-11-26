@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_barrierHitCount_le_chernoff
 -- name    : FirstPassageLinearTransport.barrierHitCount_le_chernoff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:02:49.857899+00:00
 -- url     : https://prove2.me/theorems/7f35354b-5d22-5118-b4e6-257dc544556c

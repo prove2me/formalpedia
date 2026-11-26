@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_firstPassage_odd_following_gt
 -- name    : FirstPassageLinearTransport.firstPassage_odd_following_gt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:38.227373+00:00
 -- url     : https://prove2.me/theorems/28b56701-3c83-43ad-93bb-2eedeb3910bd

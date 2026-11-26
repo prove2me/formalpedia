@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_RecertificationRun_elapsed_pos
 -- name    : FirstPassageLinearTransport.RecertificationRun.elapsed_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:19.016312+00:00
 -- url     : https://prove2.me/theorems/ce5d297c-788a-5cc1-a0b5-a76c7b85e54e

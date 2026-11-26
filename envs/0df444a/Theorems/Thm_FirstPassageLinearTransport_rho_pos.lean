@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rho_pos
 -- name    : FirstPassageLinearTransport.rho_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:03:51.372124+00:00
 -- url     : https://prove2.me/theorems/6565bdfc-fcd8-5092-b90d-83136ebb0b3f

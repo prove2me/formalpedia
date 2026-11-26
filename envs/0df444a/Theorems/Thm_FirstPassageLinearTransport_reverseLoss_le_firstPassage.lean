@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_reverseLoss_le_firstPassage
 -- name    : FirstPassageLinearTransport.reverseLoss_le_firstPassage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:03:48.621395+00:00
 -- url     : https://prove2.me/theorems/44150c60-cec2-4d6a-8510-cdb69f06cd81

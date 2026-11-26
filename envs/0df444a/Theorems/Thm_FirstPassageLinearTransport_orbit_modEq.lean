@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_orbit_modEq
 -- name    : FirstPassageLinearTransport.orbit_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:59:26.37328+00:00
 -- url     : https://prove2.me/theorems/dc855943-7291-436c-b537-c2982a512135

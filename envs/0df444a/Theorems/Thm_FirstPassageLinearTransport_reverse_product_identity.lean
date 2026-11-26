@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_reverse_product_identity
 -- name    : FirstPassageLinearTransport.reverse_product_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:59:43.564686+00:00
 -- url     : https://prove2.me/theorems/0853c027-12a7-51dc-bbf4-19113a86ad53

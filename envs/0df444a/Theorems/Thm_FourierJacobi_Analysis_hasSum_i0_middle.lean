@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i0_middle
 -- name    : FourierJacobi.Analysis.hasSum_i0_middle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:51:59.267339+00:00
 -- url     : https://prove2.me/theorems/ddae9699-83f8-58df-ad37-da31e17175c5

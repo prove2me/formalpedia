@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_orbit_eq_normalizedCorrection
 -- name    : FirstPassageLinearTransport.orbit_eq_normalizedCorrection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:01:03.647012+00:00
 -- url     : https://prove2.me/theorems/3742b94f-f73b-5440-b991-e4649eefa706

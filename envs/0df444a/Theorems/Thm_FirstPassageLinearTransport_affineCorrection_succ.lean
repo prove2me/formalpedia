@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_affineCorrection_succ
 -- name    : FirstPassageLinearTransport.affineCorrection_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:02:08.378152+00:00
 -- url     : https://prove2.me/theorems/dfbc2718-3a92-4688-97f7-e23390c94374

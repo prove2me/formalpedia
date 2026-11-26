@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_reverseProduct_eq_prod_loss
 -- name    : FirstPassageLinearTransport.reverseProduct_eq_prod_loss
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:59:51.982798+00:00
 -- url     : https://prove2.me/theorems/ef44cf98-5cca-4b1a-bc4d-af5bb6e5bfb4

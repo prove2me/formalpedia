@@ -41471,7 +41471,7 @@
 {"parent": "KnownFidelity.Rank.lemma_3_1", "child": "KnownFidelity_Rank_mse", "via": ["statement"]}
 {"parent": "RevRedSAT_encCNF", "child": "RSListDecodingCapacity_AllRates_Encoding", "via": ["statement"]}
 {"parent": "RevRedSAT_encCNF", "child": "MainResults", "via": ["statement"]}
-{"parent": "ChengCapClustering.Soft.lemma_3_4", "child": "ChengCapClustering_Soft_Clustering", "via": ["statement"]}
+{"parent": "ChengCapClustering.Soft.lemma_3_4", "child": "ChengCapClustering_Soft_Clustering", "via": ["solution", "statement"]}
 {"parent": "RandLatEnum_treeSize", "child": "RandLatEnum_levelCount", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.piece_kernel_bounds_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
 {"parent": "BookProof.PermSector.good_liftTail", "child": "ChapterPermutationSectorEsa", "via": ["statement"]}
@@ -43069,7 +43069,7 @@
 {"parent": "StackingStars.Main.lemma_8", "child": "StackingStars_Main_ReferenceData", "via": ["statement"]}
 {"parent": "StackingStars.Main.lemma_8", "child": "StackingStars_Main_Packing", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U67.entry4_1_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
-{"parent": "CharonChurn.Main.lemma_8", "child": "CharonChurn_Main_Network", "via": ["statement"]}
+{"parent": "CharonChurn.Main.lemma_8", "child": "CharonChurn_Main_Network", "via": ["solution", "statement"]}
 {"parent": "ThinShellSampling.eq_1_3", "child": "ThinShellSampling_renyi", "via": ["solution", "statement"]}
 {"parent": "HiddenHardCoreColoring.Mixing.lemma_2", "child": "HiddenHardCoreColoring_Mixing_Chain", "via": ["statement"]}
 {"parent": "BipDijoin.claim_5_7", "child": "BipDijoin_BipGraph", "via": ["statement"]}

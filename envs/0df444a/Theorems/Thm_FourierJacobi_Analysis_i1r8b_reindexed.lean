@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i1r8b_reindexed
 -- name    : FourierJacobi.Analysis.i1r8b_reindexed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:51:22.274593+00:00
 -- url     : https://prove2.me/theorems/dd9c48b7-a139-5dc0-a06b-eafcc251eb97

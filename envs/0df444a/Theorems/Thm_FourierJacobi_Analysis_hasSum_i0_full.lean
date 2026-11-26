@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i0_full
 -- name    : FourierJacobi.Analysis.hasSum_i0_full
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:02:25.478038+00:00
 -- url     : https://prove2.me/theorems/a9cc1f4f-6e6d-41d4-94a6-6fa291132484

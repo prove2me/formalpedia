@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i1r3b_cartan
 -- name    : FourierJacobi.Analysis.i1r3b_cartan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:00:56.4154+00:00
 -- url     : https://prove2.me/theorems/5b0952bb-2ffc-4f5b-973b-665feb868c98

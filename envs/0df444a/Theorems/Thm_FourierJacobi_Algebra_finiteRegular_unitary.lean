@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_finiteRegular_unitary
 -- name    : FourierJacobi.Algebra.finiteRegular_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:19:18.212348+00:00
 -- url     : https://prove2.me/theorems/8da223fa-4c83-5a50-9eb7-fccce505e324

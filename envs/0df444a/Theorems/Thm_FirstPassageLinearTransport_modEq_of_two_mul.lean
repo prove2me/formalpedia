@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_modEq_of_two_mul
 -- name    : FirstPassageLinearTransport.modEq_of_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:59:26.804029+00:00
 -- url     : https://prove2.me/theorems/988f9240-b2ca-440d-89b0-3e7b39f2b69e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_orbit_envelope_of_maximalBarrier
 -- name    : FirstPassageLinearTransport.orbit_envelope_of_maximalBarrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:06:17.080797+00:00
 -- url     : https://prove2.me/theorems/2c8fa751-4fa2-52de-a397-746cd59eeb44

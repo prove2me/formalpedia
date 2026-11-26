@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_rawCollatz_of_even
 -- name    : FirstPassageLinearTransport.rawCollatz_of_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:03:26.197598+00:00
 -- url     : https://prove2.me/theorems/0054452b-1a9c-48c2-bb04-385dfe604245

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_badTarget
 -- name    : FirstPassageLinearTransport.card_badTarget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:56.930403+00:00
 -- url     : https://prove2.me/theorems/71184377-544f-5757-84b2-d34add0eb5c4

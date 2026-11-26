@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_firstPassage_final_even
 -- name    : FirstPassageLinearTransport.firstPassage_final_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:21.11011+00:00
 -- url     : https://prove2.me/theorems/3b976956-c245-52f8-9463-e2bd6f746b8d

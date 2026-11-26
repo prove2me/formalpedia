@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_reverseStepFactor_eq_one_sub_reverseLoss
 -- name    : FirstPassageLinearTransport.reverseStepFactor_eq_one_sub_reverseLoss
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:34.45211+00:00
 -- url     : https://prove2.me/theorems/3ee1c840-2aaa-552d-a9ca-c42bca54ee26

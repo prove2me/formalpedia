@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i1_cell
 -- name    : FourierJacobi.Analysis.hasSum_i1_cell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:47.123983+00:00
 -- url     : https://prove2.me/theorems/0f5cbdc7-b48b-54b5-9b8d-88452ed50cce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_weylClosed_div_poincare
 -- name    : FourierJacobi.Algebra.weylClosed_div_poincare
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:14:57.012019+00:00
 -- url     : https://prove2.me/theorems/daa4898f-addf-5bf1-bc95-91a8bfc1fc08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_normalizedCorrection_scaled_le_maximal
 -- name    : FirstPassageLinearTransport.normalizedCorrection_scaled_le_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:01:36.012024+00:00
 -- url     : https://prove2.me/theorems/52b04c3f-d13c-5428-9963-b99e39ef03ce

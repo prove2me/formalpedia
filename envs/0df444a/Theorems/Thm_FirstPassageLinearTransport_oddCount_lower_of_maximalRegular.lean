@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_oddCount_lower_of_maximalRegular
 -- name    : FirstPassageLinearTransport.oddCount_lower_of_maximalRegular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:05:24.725591+00:00
 -- url     : https://prove2.me/theorems/21cc3f78-32c7-54a6-91f6-293ac4d3fad8

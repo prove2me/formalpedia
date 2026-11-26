@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_card_shellBarrierHit
 -- name    : FirstPassageLinearTransport.card_shellBarrierHit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:00:47.294488+00:00
 -- url     : https://prove2.me/theorems/dc439017-d34e-522b-a641-b35957b3508a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_depthMajorant_nonneg
 -- name    : FourierJacobi.Analysis.depthMajorant_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:23:32.075678+00:00
 -- url     : https://prove2.me/theorems/424883e4-3154-49a2-a6ab-92d66a2cc1a6

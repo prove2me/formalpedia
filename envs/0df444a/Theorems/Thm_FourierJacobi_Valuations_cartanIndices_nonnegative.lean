@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Valuations_cartanIndices_nonnegative
 -- name    : FourierJacobi.Valuations.cartanIndices_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:05:10.916819+00:00
 -- url     : https://prove2.me/theorems/25b4bec1-dc6a-4d8a-b5b5-35c67e93422b

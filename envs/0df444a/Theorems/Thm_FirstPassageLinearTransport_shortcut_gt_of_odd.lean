@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_shortcut_gt_of_odd
 -- name    : FirstPassageLinearTransport.shortcut_gt_of_odd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:34.190019+00:00
 -- url     : https://prove2.me/theorems/f9c1b2cd-1a49-5e5b-a005-396f7007075b

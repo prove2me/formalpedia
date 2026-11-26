@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_reverse_step_scaled
 -- name    : FirstPassageLinearTransport.reverse_step_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:07:29.761827+00:00
 -- url     : https://prove2.me/theorems/39bc1313-7427-4d1e-bb0f-4a49f3825576

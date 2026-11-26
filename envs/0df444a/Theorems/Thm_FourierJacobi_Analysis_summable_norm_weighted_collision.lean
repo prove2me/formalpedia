@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_summable_norm_weighted_collision
 -- name    : FourierJacobi.Analysis.summable_norm_weighted_collision
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:23:01.257668+00:00
 -- url     : https://prove2.me/theorems/22bd8ae5-df43-5617-be73-04156a27e708

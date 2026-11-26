@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_geometricRange_undamped
 -- name    : FourierJacobi.Analysis.geometricRange_undamped
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:59:59.434207+00:00
 -- url     : https://prove2.me/theorems/754f6443-6064-5f54-a91a-373afbce6bc4

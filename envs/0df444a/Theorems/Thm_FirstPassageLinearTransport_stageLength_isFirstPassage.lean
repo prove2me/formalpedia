@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_stageLength_isFirstPassage
 -- name    : FirstPassageLinearTransport.stageLength_isFirstPassage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:04:54.33311+00:00
 -- url     : https://prove2.me/theorems/d78d98f4-781e-4ebb-bdd0-dab04e8bebcd

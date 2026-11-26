@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_summable_norm_i1r3b_raw
 -- name    : FourierJacobi.Analysis.summable_norm_i1r3b_raw
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:28:09.028471+00:00
 -- url     : https://prove2.me/theorems/9fee5010-8692-4aaa-9b90-e39033b9c9cb

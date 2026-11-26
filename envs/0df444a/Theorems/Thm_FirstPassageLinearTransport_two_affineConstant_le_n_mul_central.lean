@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_two_affineConstant_le_n_mul_central
 -- name    : FirstPassageLinearTransport.two_affineConstant_le_n_mul_central
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:06:39.953587+00:00
 -- url     : https://prove2.me/theorems/a76bf8cb-3b87-43cd-8d47-e4dbd4f102a8

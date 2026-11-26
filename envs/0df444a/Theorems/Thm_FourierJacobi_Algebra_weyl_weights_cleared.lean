@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_weyl_weights_cleared
 -- name    : FourierJacobi.Algebra.weyl_weights_cleared
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:14:15.591311+00:00
 -- url     : https://prove2.me/theorems/a24fe020-b1a5-5d23-a8fd-e50893c67ca9

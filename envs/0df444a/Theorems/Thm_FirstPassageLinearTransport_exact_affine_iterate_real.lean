@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_exact_affine_iterate_real
 -- name    : FirstPassageLinearTransport.exact_affine_iterate_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:02:16.027964+00:00
 -- url     : https://prove2.me/theorems/be5690b3-0f48-59a3-b88c-3448588f8ed8

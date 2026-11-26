@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i0_upper
 -- name    : FourierJacobi.Analysis.hasSum_i0_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:52:45.290397+00:00
 -- url     : https://prove2.me/theorems/92e0c2a4-2b65-487a-926c-8a8cd248475a

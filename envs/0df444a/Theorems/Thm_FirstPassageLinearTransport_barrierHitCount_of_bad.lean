@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_barrierHitCount_of_bad
 -- name    : FirstPassageLinearTransport.barrierHitCount_of_bad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:02:31.708837+00:00
 -- url     : https://prove2.me/theorems/516b584c-2e11-4b09-996e-c5265e50188e

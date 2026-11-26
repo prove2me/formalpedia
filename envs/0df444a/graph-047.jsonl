@@ -38929,7 +38929,7 @@
 {"parent": "GlobalTheory.HL.ContModel.primCnt_zero", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_HermLat", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HL.ContModel.primCnt_zero", "child": "Formalism_SharpRestriction_CuspSpanNormBounds_FractionFieldToGenericStalkAlgebraMapEq", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HL.ContModel.primCnt_zero", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_NcardImageOfLe", "via": ["solution", "statement"]}
-{"parent": "Arxiv2205_09423.single_particle_amplitude_rotation", "child": "Arxiv2205_09423_Basic", "via": ["statement"]}
+{"parent": "Arxiv2205_09423.single_particle_amplitude_rotation", "child": "Arxiv2205_09423_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ClassSumCompare.approx", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_FiniteAdeleStrongApproximationModNat", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ClassSumCompare.approx", "child": "Development_AbelianVarietyTheory_BlockTheory_ExistenceTori_AdelicNormWeight", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ClassSumCompare.approx", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_AdelicCompletionFractionalIdealProperties", "via": ["solution", "statement"]}

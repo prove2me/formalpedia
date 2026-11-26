@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_maximalBarrierC0_lt_log_two
 -- name    : FirstPassageLinearTransport.maximalBarrierC0_lt_log_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:06:34.875935+00:00
 -- url     : https://prove2.me/theorems/2610eb9d-e709-43bc-a653-5da5c33af06c

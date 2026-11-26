@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_firstPassage_band
 -- name    : FirstPassageLinearTransport.firstPassage_band
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:06:57.873596+00:00
 -- url     : https://prove2.me/theorems/358eb15d-614b-4245-b51d-0796d192a6ae

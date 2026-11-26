@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_one_add_inv_ne_zero
 -- name    : FourierJacobi.Algebra.one_add_inv_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:19:33.686482+00:00
 -- url     : https://prove2.me/theorems/bcae5b65-0784-57fd-85fd-c598c63d77bc

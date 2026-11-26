@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_barrierHitCount_mul_cosh_le
 -- name    : FirstPassageLinearTransport.barrierHitCount_mul_cosh_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:00:47.133485+00:00
 -- url     : https://prove2.me/theorems/df9fe7d4-6b34-4696-8c0e-6ac2415620ac

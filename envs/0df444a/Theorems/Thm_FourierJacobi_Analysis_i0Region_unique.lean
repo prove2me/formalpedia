@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i0Region_unique
 -- name    : FourierJacobi.Analysis.i0Region_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:02:24.533918+00:00
 -- url     : https://prove2.me/theorems/70675e29-8bbb-43c6-8603-1e520e16d09c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_initialWindowGood_subset_extendedWindow
 -- name    : FirstPassageLinearTransport.initialWindowGood_subset_extendedWindow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:42.590501+00:00
 -- url     : https://prove2.me/theorems/27fee341-6103-4123-9fda-baceb07c1fcf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_square_root_satake
 -- name    : FourierJacobi.Algebra.square_root_satake
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:18:56.925662+00:00
 -- url     : https://prove2.me/theorems/ab687d68-c1c1-53ae-b59d-79f5d8444d2a

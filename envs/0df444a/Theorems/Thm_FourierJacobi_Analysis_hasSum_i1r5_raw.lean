@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i1r5_raw
 -- name    : FourierJacobi.Analysis.hasSum_i1r5_raw
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:01:20.728806+00:00
 -- url     : https://prove2.me/theorems/c74559f2-a9ad-4557-90a0-5e48516856b5

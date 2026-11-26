@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_summable_norm_i1_master
 -- name    : FourierJacobi.Analysis.summable_norm_i1_master
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:57:02.719945+00:00
 -- url     : https://prove2.me/theorems/e6777935-ffb3-5987-87a2-03def5098fc1

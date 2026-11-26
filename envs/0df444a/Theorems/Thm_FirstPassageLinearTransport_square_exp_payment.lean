@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_square_exp_payment
 -- name    : FirstPassageLinearTransport.square_exp_payment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:09:14.209236+00:00
 -- url     : https://prove2.me/theorems/5eb59e8b-d5fb-5a38-ba41-abd83cfc3f5f

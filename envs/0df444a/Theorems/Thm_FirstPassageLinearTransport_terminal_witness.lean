@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_terminal_witness
 -- name    : FirstPassageLinearTransport.terminal_witness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:56.489915+00:00
 -- url     : https://prove2.me/theorems/fa39a48c-0006-4e3c-9056-1c5365ecef9d

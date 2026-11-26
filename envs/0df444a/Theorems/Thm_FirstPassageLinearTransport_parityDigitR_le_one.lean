@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_parityDigitR_le_one
 -- name    : FirstPassageLinearTransport.parityDigitR_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:04:03.0478+00:00
 -- url     : https://prove2.me/theorems/f307ca36-6976-5e89-a2ef-4ad04c8d8e5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_weyl_denominator_factorization
 -- name    : FourierJacobi.Algebra.weyl_denominator_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:14:21.323217+00:00
 -- url     : https://prove2.me/theorems/d187495e-9f48-5b57-8e53-afb1c27fadb0

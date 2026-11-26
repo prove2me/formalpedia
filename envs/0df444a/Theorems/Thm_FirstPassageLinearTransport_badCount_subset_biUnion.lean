@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_badCount_subset_biUnion
 -- name    : FirstPassageLinearTransport.badCount_subset_biUnion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:56:40.799986+00:00
 -- url     : https://prove2.me/theorems/ae7d8ba1-3c5a-466d-a51b-344e70464203

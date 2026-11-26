@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_maximalBarrier_phase_two
 -- name    : FirstPassageLinearTransport.maximalBarrier_phase_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:06:00.932837+00:00
 -- url     : https://prove2.me/theorems/918e1536-8089-4f27-9992-65714ebe0e49

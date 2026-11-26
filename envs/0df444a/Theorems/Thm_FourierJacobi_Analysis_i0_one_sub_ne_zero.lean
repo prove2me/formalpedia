@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i0_one_sub_ne_zero
 -- name    : FourierJacobi.Analysis.i0_one_sub_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:59:51.470406+00:00
 -- url     : https://prove2.me/theorems/baa72e19-d2b2-511f-ac25-aff4741519fb

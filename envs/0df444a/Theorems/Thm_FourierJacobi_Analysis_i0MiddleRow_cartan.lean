@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i0MiddleRow_cartan
 -- name    : FourierJacobi.Analysis.i0MiddleRow_cartan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:59:25.326797+00:00
 -- url     : https://prove2.me/theorems/d47c5b7f-4046-5e89-9e2e-70fb4bc06aeb

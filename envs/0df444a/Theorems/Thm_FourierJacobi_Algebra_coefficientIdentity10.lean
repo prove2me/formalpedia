@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_coefficientIdentity10
 -- name    : FourierJacobi.Algebra.coefficientIdentity10
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:15:28.693843+00:00
 -- url     : https://prove2.me/theorems/a1b4a46f-7246-4560-b752-e587a8653554

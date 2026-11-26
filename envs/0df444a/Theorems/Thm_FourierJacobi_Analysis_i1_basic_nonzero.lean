@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_i1_basic_nonzero
 -- name    : FourierJacobi.Analysis.i1_basic_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:28.297009+00:00
 -- url     : https://prove2.me/theorems/91bba93e-fae8-4951-a608-48cb6077c43d

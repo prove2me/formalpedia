@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Analysis_hasSum_i0_lower
 -- name    : FourierJacobi.Analysis.hasSum_i0_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T09:53:43.932816+00:00
 -- url     : https://prove2.me/theorems/bdaccd03-e069-4e6b-8440-490df6b97d6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_boundedFirstPassage_spec
 -- name    : FirstPassageLinearTransport.boundedFirstPassage_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:08:38.566334+00:00
 -- url     : https://prove2.me/theorems/eaf3d76e-cd91-4473-a5cf-30203a945bbd

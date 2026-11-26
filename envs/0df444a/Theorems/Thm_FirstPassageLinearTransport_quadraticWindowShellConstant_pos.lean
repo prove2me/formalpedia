@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_quadraticWindowShellConstant_pos
 -- name    : FirstPassageLinearTransport.quadraticWindowShellConstant_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:06:38.178256+00:00
 -- url     : https://prove2.me/theorems/8e0ac92d-631d-493d-968a-c4d23ebf5f74

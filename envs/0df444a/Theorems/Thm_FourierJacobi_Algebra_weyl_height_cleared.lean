@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_weyl_height_cleared
 -- name    : FourierJacobi.Algebra.weyl_height_cleared
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:14:18.200685+00:00
 -- url     : https://prove2.me/theorems/f634450d-27e0-5468-a46a-9cac65fc4afa

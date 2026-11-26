@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPassageLinearTransport_normalizedCorrectionTerm_mul_pow
 -- name    : FirstPassageLinearTransport.normalizedCorrectionTerm_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T11:04:10.375795+00:00
 -- url     : https://prove2.me/theorems/9d4a894e-334d-5d3e-a145-2d0897237c96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierJacobi_Algebra_coefficientIdentity7
 -- name    : FourierJacobi.Algebra.coefficientIdentity7
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T10:12:29.893188+00:00
 -- url     : https://prove2.me/theorems/a90aad19-2ea2-4dd5-ab2d-c0a8832e7ebf
