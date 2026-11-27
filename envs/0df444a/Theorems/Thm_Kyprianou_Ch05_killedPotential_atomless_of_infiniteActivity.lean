@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedPotential_atomless_of_infiniteActivity
 -- name    : Kyprianou.Ch05.killedPotential_atomless_of_infiniteActivity
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T03:10:19.416335+00:00
 -- url     : https://prove2.me/theorems/d6a7f06b-ba5a-5dcd-bcaa-9f24492065e1

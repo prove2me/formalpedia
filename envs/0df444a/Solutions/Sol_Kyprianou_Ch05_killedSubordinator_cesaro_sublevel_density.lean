@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.killedSubordinator_cesaro_sublevel_density
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-26T09:27:23.67438+00:00
 -- url     : https://prove2.me/submissions/382bbcf1-8ebd-4d44-842d-44205bbf1d10
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.MeasureTheory.Group.Convolution

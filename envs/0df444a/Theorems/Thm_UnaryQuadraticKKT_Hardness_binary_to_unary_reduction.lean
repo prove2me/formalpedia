@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnaryQuadraticKKT_Hardness_binary_to_unary_reduction
 -- name    : UnaryQuadraticKKT.Hardness.binary_to_unary_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-27T02:56:11.513638+00:00
 -- url     : https://prove2.me/theorems/aec15191-dd0f-5f41-87d3-c652bcb14f6d

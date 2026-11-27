@@ -45599,10 +45599,10 @@
 {"parent": "XOSMax.Supplement.theorem_5", "child": "XOSMax_Supplement_RandomizedProg", "via": ["statement"]}
 {"parent": "XOSMax.Supplement.theorem_5", "child": "XOSMax_IsMaximizerApprox", "via": ["statement"]}
 {"parent": "XOSMax.Supplement.theorem_5", "child": "XOSMax_IsKXOS", "via": ["statement"]}
-{"parent": "PalomarZF207.internal_startup_and_linkedHalts", "child": "palomar_zf207_zf", "via": ["statement"]}
-{"parent": "PalomarZF207.internal_startup_and_linkedHalts", "child": "palomar_zf207_internal_tm", "via": ["statement"]}
-{"parent": "PalomarZF207.internal_startup_and_linkedHalts", "child": "palomar_zf207_internal_prov", "via": ["statement"]}
-{"parent": "PalomarZF207.internal_startup_and_linkedHalts", "child": "palomar_zf207_history", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_startup_and_linkedHalts", "child": "palomar_zf207_zf", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.internal_startup_and_linkedHalts", "child": "palomar_zf207_internal_tm", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.internal_startup_and_linkedHalts", "child": "palomar_zf207_internal_prov", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.internal_startup_and_linkedHalts", "child": "palomar_zf207_history", "via": ["solution", "statement"]}
 {"parent": "RockafellianRelax_Supplement_IsDivergenceFn", "child": "WassersteinDRO_ConvexLossP1_IsConvexExt", "via": ["statement"]}
 {"parent": "LearningBasedRO.Supplement.theorem_2", "child": "LearningBasedRO_Model", "via": ["statement"]}
 {"parent": "SubmodMFG.Supplement.theorem_7_7", "child": "SubmodMFG_Supplement_SubProb", "via": ["statement"]}
@@ -45797,7 +45797,7 @@
 {"parent": "ProcessingNetworks.EntropyIneq.Supplement.theorem_D_18", "child": "ProcessingNetworks_Stability_StabilityConditions", "via": ["statement"]}
 {"parent": "ProcessingNetworks.EntropyIneq.Supplement.theorem_D_18", "child": "ProcessingNetworks_EntropyIneq_Supplement_RegularCTMC", "via": ["statement"]}
 {"parent": "NativeOnePass.copy_replay_exact", "child": "NativeOnePassCompiler", "via": ["solution", "statement"]}
-{"parent": "UnaryQuadraticKKT.Hardness.unary_membership", "child": "UnaryQuadraticKKT_Hardness_Output", "via": ["statement"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_membership", "child": "UnaryQuadraticKKT_Hardness_Output", "via": ["solution", "statement"]}
 {"parent": "ProcNetStab_Supplement_WeightedPairwiseStable", "child": "ProcNetStab_Supplement_WeightedNet", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.exercise52CorrectedYPassagePositivityV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.exercise52CorrectedYPassagePositivityV1", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
@@ -46005,7 +46005,7 @@
 {"parent": "Kyprianou.Ch05.passageWindowConvergenceApproximation", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.passageWindowConvergenceApproximation", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.passageWindowConvergenceApproximation", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
-{"parent": "TargetedSamplers.Structured.bounded_bit_subroutine", "child": "LogCostRAM_StructuredExecution", "via": ["statement"]}
+{"parent": "TargetedSamplers.Structured.bounded_bit_subroutine", "child": "LogCostRAM_StructuredExecution", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.passageWindowLipschitzApproximation", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.passageWindowLipschitzApproximation", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.passageWindowLipschitzApproximation", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["solution", "statement"]}
@@ -46602,3 +46602,267 @@
 {"parent": "GRH.cofinal_lower_bound_for_completely_split_primes_at_squares", "child": "GRH.cofinal_summability_of_positive_split_prime_deficits", "via": ["solution"]}
 {"parent": "GRH.cofinal_lower_bound_for_completely_split_primes_at_squares", "child": "GRH.centered_moebius_iff_summable_one_class_prime_deficits_at_factorial_levels", "via": ["solution"]}
 {"parent": "Kyprianou.Ch05.vanishingUpperTailBound", "child": "Kyprianou.Ch05.jumpIntegralTailVanishes", "via": ["solution"]}
+{"parent": "RankRobustAssort.Supplement.lemma_5", "child": "RankRobustAssort_SHat", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.lemma_5", "child": "RankRobustAssort_Supplement_revPast", "via": ["statement"]}
+{"parent": "MasulloRH.window_energy_sandwiched_by_endpoint_mellin_errors", "child": "MasulloRH_VerticalThetaApproximation", "via": ["solution", "statement"]}
+{"parent": "ComplementarySourcing_Supplement_RecourseS_game", "child": "ComplementarySourcing_demand", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_RecourseS_game", "child": "ComplementarySourcing_StackelbergGame", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_RecourseS_game", "child": "ComplementarySourcing_Supplement_recourseRevenue", "via": ["statement"]}
+{"parent": "ParityDegreeDepth.Core.quadratic_spectral_norm_sq", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["solution", "statement"]}
+{"parent": "LogCostRAM_Interpreter", "child": "LogCostRAM_WorkExecution", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.CycleHost.readSeed_exec", "child": "DirectedHamiltonicity_CycleSearchHost", "via": ["solution", "statement"]}
+{"parent": "RankRobustAssort.Supplement.proposition_EC_4", "child": "RankRobustAssort_Ical", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.proposition_EC_4", "child": "RankRobustAssort_InL", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.proposition_EC_4", "child": "RankRobustAssort_Supplement_xi", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_NoRiskS_game", "child": "ComplementarySourcing_StackelbergGame", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_NoRiskS_game", "child": "ComplementarySourcing_Supplement_uncappedDemand", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.theorem_ec_1", "child": "StochasticOrders_Multivariate_MultivariateOrder_v2", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.theorem_ec_1", "child": "HedgePSNV_Supplement_PayoffAssumptions", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.theorem_ec_1", "child": "HedgePSNV_Supplement_GenHedging", "via": ["statement"]}
+{"parent": "RankRobustAssort_Supplement_systemEC14", "child": "RankRobustAssort_InL", "via": ["statement"]}
+{"parent": "OnlineScratchWindow", "child": "SingleTapeWorkBoundary", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.lemma_ec_13", "child": "HedgePSNV_Supplement_PayoffAssumptions", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.lemma_ec_13", "child": "HedgePSNV_Supplement_GenHedging", "via": ["statement"]}
+{"parent": "RankRobustAssort_Supplement_bestCase", "child": "RankRobustAssort_revenue", "via": ["statement"]}
+{"parent": "RankRobustAssort_Supplement_bestCase", "child": "RankRobustAssort_consistentSet", "via": ["statement"]}
+{"parent": "RankRobustAssort_Supplement_vEC15", "child": "RankRobustAssort_Supplement_revPast", "via": ["statement"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_kkt_checkable", "child": "UnaryQuadraticKKT_Hardness_Output", "via": ["statement"]}
+{"parent": "RankRobustAssort_Supplement_SHatOO", "child": "RankRobustAssort_Mset", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_3", "child": "ComplementarySourcing_Supplement_expectedSupplierProfit", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_3", "child": "ComplementarySourcing_Supplement_FixedPriceM_game", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_3", "child": "ComplementarySourcing_Supplement_expectedManufacturerProfit", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_3", "child": "ComplementarySourcing_StackelbergGame_IsEquilibrium", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_3", "child": "ComplementarySourcing_Supplement_FixedPriceS_game", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_PersistentM_game", "child": "ComplementarySourcing_demand", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_PersistentM_game", "child": "ComplementarySourcing_StackelbergGame", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_PersistentS_game", "child": "ComplementarySourcing_demand", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_PersistentS_game", "child": "ComplementarySourcing_StackelbergGame", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.lemma_10", "child": "RankRobustAssort_Supplement_Bset", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.lemma_10", "child": "RankRobustAssort_InL", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity_CycleSearchHost", "child": "DirectedHamiltonicity_CycleSearch", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity_CycleSearchHost", "child": "LogCostRAM_Interpreter", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_expectedManufacturerProfit", "child": "ComplementarySourcing_manufacturerStageProfit", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.claim_EC_15", "child": "RankRobustAssort_Ical", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.claim_EC_15", "child": "RankRobustAssort_InL", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.claim_EC_15", "child": "RankRobustAssort_Supplement_xi", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.claim_EC_15", "child": "RankRobustAssort_Reach", "via": ["statement"]}
+{"parent": "HedgePSNV_Supplement_GenModel", "child": "HedgePSNV_IsMarkovWrt", "via": ["statement"]}
+{"parent": "HedgePSNV_Supplement_GenModel", "child": "HedgePSNV_IsAugmentedNaturalFiltration", "via": ["statement"]}
+{"parent": "HedgePSNV_Supplement_GenModel", "child": "EthierKurtz_HasBrownianItoIntegral", "via": ["statement"]}
+{"parent": "HedgePSNV_Supplement_GenModel", "child": "HedgePSNV_IsMartingaleOn", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_classicalRegion", "child": "QAlgorithms_Papers_Independent_Claimed50_P20", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_quantumRegion", "child": "QAlgorithms_Papers_Independent_Claimed50_P20", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.proposition_EC_3", "child": "RankRobustAssort_Supplement_bestCase", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.proposition_EC_3", "child": "RankRobustAssort_Supplement_lpMaxValue", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_QFeedbackCode_errorProb", "child": "WildeQIT_Compression_Supplement_QFeedbackCode_afterChannel", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_QFeedbackCode_errorProb", "child": "WildeQIT_partialTrace", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_QFeedbackCode", "child": "WildeQIT_QMemory_IsPOVM", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_QFeedbackCode", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_QFeedbackCode", "child": "WildeQIT_QChannel", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.CycleHost.readGraph_exec", "child": "DirectedHamiltonicity_CycleSearchHost", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Core.quadratic_vanishing_codim", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Core.top_form_vanishing_codim", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Core.generic_radical_strong_vanishing", "child": "ParityDegreeDepth_Core_tensorEval", "via": ["solution", "statement"]}
+{"parent": "ComplementarySourcing_Supplement_DiscreteS_game", "child": "ComplementarySourcing_manufacturerStageProfit", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_DiscreteS_game", "child": "ComplementarySourcing_StackelbergGame", "via": ["statement"]}
+{"parent": "HedgePSNV_Supplement_SectionMax", "child": "HedgePSNV_Model", "via": ["statement"]}
+{"parent": "MasulloRH.rational_frequency_modulations_span_a_nonvanishing_L2_weight", "child": "MasulloRH_VerticalThetaApproximation", "via": ["solution", "statement"]}
+{"parent": "RankRobustAssort.Supplement.theorem_EC_1", "child": "RankRobustAssort_Supplement_SHatOO", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.theorem_EC_1", "child": "RankRobustAssort_Supplement_IsOptimalOO", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_privateCapacity", "child": "WildeQIT_Compression_Supplement_IsAchievablePrivateRate", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.theorem_ec_3", "child": "StochasticOrders_Multivariate_MultivariateOrder_v2", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.theorem_ec_3", "child": "HedgePSNV_Supplement_PayoffAssumptions", "via": ["statement"]}
+{"parent": "PvsNP.OnlineWindowShift.slide_both_exact", "child": "OnlineScratchWindow", "via": ["solution", "statement"]}
+{"parent": "WildeQIT_Compression_Supplement_oneShotClassicalRegion", "child": "QAlgorithms_Papers_Independent_Claimed50_P20", "via": ["statement"]}
+{"parent": "RankRobustAssort_Supplement_IsOptimalOO", "child": "RankRobustAssort_Supplement_bestCase", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.lemma_EC_5", "child": "RankRobustAssort_Supplement_lamEC16", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.lemma_EC_5", "child": "RankRobustAssort_Supplement_systemEC14", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.lemma_EC_5", "child": "RankRobustAssort_SHat", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.lemma_EC_5", "child": "RankRobustAssort_Supplement_revPast", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.lemma_EC_5", "child": "RankRobustAssort_Supplement_vEC15", "via": ["statement"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_short_kkt", "child": "UnaryQuadraticKKT_Hardness_Output", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.CycleHost.certify_exec", "child": "DirectedHamiltonicity_CycleSearchHost", "via": ["solution", "statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_a1", "child": "ComplementarySourcing_StackelbergGame_IsEquilibrium", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_a1", "child": "ComplementarySourcing_Supplement_DiscreteS_game", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_a1", "child": "ComplementarySourcing_Supplement_DiscreteM_game", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_a1", "child": "ComplementarySourcing_Supplement_expectedManufacturerProfit", "via": ["statement"]}
+{"parent": "KunenZF.nontrivial_moves_ordinal_nonempty", "child": "CH_SetTheoryLanguage", "via": ["solution", "statement"]}
+{"parent": "KunenZF.nontrivial_moves_ordinal_nonempty", "child": "KunenZF_language", "via": ["solution", "statement"]}
+{"parent": "KunenZF.nontrivial_moves_ordinal_nonempty", "child": "KunenZF_theory", "via": ["solution", "statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_a2", "child": "ComplementarySourcing_ModelM_supplierProfit", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_a2", "child": "ComplementarySourcing_ModelS_manufacturerProfit", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_a2", "child": "ComplementarySourcing_ModelS_game", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_a2", "child": "ComplementarySourcing_ModelM_game", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_a2", "child": "ComplementarySourcing_StackelbergGame_IsEquilibrium", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_oneShotQuantumRegion", "child": "QAlgorithms_Papers_Independent_Claimed50_P20", "via": ["statement"]}
+{"parent": "PrivPCP.lemma_4_13_gamma_upper", "child": "PrivPCP_Supplement_gammaF", "via": ["solution", "statement"]}
+{"parent": "ComplementarySourcing_Supplement_expectedSupplierProfit", "child": "ComplementarySourcing_supplierStageProfit", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.proposition_6", "child": "HedgePSNV_Model", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.proposition_6", "child": "StochasticOrders_Usual_UsualOrder", "via": ["statement"]}
+{"parent": "HMBinPacking.two_types_large_singleton_or_chain_quadratic_time", "child": "HMBinPacking_OutputsWithin", "via": ["statement"]}
+{"parent": "HMBinPacking.two_types_large_singleton_or_chain_quadratic_time", "child": "HMBinPacking_Encoding", "via": ["statement"]}
+{"parent": "HMBinPacking.two_types_large_singleton_or_chain_quadratic_time", "child": "HMBinPacking_Instance", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_IsAchievableQFeedbackRate", "child": "WildeQIT_Compression_Supplement_QFeedbackCode_errorProb", "via": ["statement"]}
+{"parent": "PrivPCP.lemma_4_13_zero_count", "child": "PrivPCP_Supplement_gammaF", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_cqRegion", "child": "QAlgorithms_Papers_Independent_Claimed50_P20", "via": ["statement"]}
+{"parent": "PvsNP.MovingWorkBoundary.summed_moving_diagonal_lower", "child": "MovingCutCapacity", "via": ["solution", "statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_4", "child": "ComplementarySourcing_Supplement_PersistentS_game", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_4", "child": "ComplementarySourcing_StackelbergGame_IsEquilibrium", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_4", "child": "ComplementarySourcing_Supplement_PersistentM_game", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.compile_cycle_search_controller", "child": "DirectedHamiltonicity_CycleController", "via": ["solution", "statement"]}
+{"parent": "ComplementarySourcing_Supplement_RecourseM_game", "child": "ComplementarySourcing_demand", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_RecourseM_game", "child": "ComplementarySourcing_StackelbergGame", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_RecourseM_game", "child": "ComplementarySourcing_Supplement_recourseRevenue", "via": ["statement"]}
+{"parent": "StengelZeroSum.Supplement.theorem_10", "child": "MatousekLP_Duality_MinimallyInfeasible", "via": ["statement"]}
+{"parent": "StengelZeroSum.Supplement.theorem_10", "child": "StengelZeroSum_Supplement_IsMinimallyInfeasibleEq", "via": ["statement"]}
+{"parent": "RankRobustAssort_Supplement_xi", "child": "RankRobustAssort_IsTop", "via": ["statement"]}
+{"parent": "RankRobustAssort_Supplement_xi", "child": "RankRobustAssort_Problem", "via": ["statement"]}
+{"parent": "RankRobustAssort_Supplement_lpMaxValue", "child": "RankRobustAssort_errNorm", "via": ["statement"]}
+{"parent": "RankRobustAssort_Supplement_lpMaxValue", "child": "RankRobustAssort_InL", "via": ["statement"]}
+{"parent": "RankRobustAssort_Supplement_lpMaxValue", "child": "RankRobustAssort_Supplement_xi", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_eaQuantumRegion", "child": "QAlgorithms_Papers_Independent_Claimed50_P20", "via": ["statement"]}
+{"parent": "ParityDegreeDepth.Core.anf_degree_differences", "child": "ParityCubes_anfCoeff", "via": ["solution", "statement"]}
+{"parent": "ComplementarySourcing_Supplement_FixedPriceS_game", "child": "ComplementarySourcing_manufacturerStageProfit", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_FixedPriceS_game", "child": "ComplementarySourcing_StackelbergGame", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_DiscreteM_game", "child": "ComplementarySourcing_supplierStageProfit", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_DiscreteM_game", "child": "ComplementarySourcing_StackelbergGame", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_depolarizingChannel", "child": "WildeQIT_QChannel", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.CycleHost.buildX_exec", "child": "DirectedHamiltonicity_CycleSearchHost", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_IsAchievablePrivateRate", "child": "WildeQIT_ErasureClassical_errorProb", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_IsAchievablePrivateRate", "child": "WildeQIT_traceNorm", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_IsAchievablePrivateRate", "child": "WildeQIT_Degradable_complementaryApply", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.lemma_ec_12", "child": "StochasticOrders_Multivariate_MultivariateOrder_v2", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.lemma_ec_12", "child": "HedgePSNV_Supplement_PayoffAssumptions", "via": ["statement"]}
+{"parent": "LogCostRAM_WorkExecution", "child": "LogCostRAM_StructuredExecution", "via": ["statement"]}
+{"parent": "RankRobustAssort_Supplement_Bset", "child": "RankRobustAssort_Problem", "via": ["statement"]}
+{"parent": "TargetedSamplers.Structured.Interp.call_exec", "child": "LogCostRAM_Interpreter", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_FixedPriceM_game", "child": "ComplementarySourcing_supplierStageProfit", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_FixedPriceM_game", "child": "ComplementarySourcing_StackelbergGame", "via": ["statement"]}
+{"parent": "ParityDegreeDepth.Core.binary_descent", "child": "ParityDegreeDepth_Core_tensorEval", "via": ["solution", "statement"]}
+{"parent": "MasulloRH.arbitrary_precision_gaussian_approximation_at_each_single_slope", "child": "MasulloRH_VerticalThetaApproximation", "via": ["solution", "statement"]}
+{"parent": "DirectedHamiltonicity.Main.CycleHost.decodeDraw_exec", "child": "DirectedHamiltonicity_CycleSearchHost", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.theorem_1_iii", "child": "HedgePSNV_Hedging", "via": ["statement"]}
+{"parent": "MasulloRH.coherent_endpoint_mellin_approximations_for_expanding_windows", "child": "MasulloRH_VerticalThetaApproximation", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.lemma_ec_8", "child": "HedgePSNV_Supplement_SectionMax", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.lemma_ec_8", "child": "StochasticOrders_Usual_UsualOrder", "via": ["statement"]}
+{"parent": "ParityDegreeDepth.Core.sign_spectral_bounds", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["solution", "statement"]}
+{"parent": "HedgePSNV.Supplement.theorem_ec_2", "child": "HedgePSNV_Supplement_GenHedging", "via": ["statement"]}
+{"parent": "HedgePSNV_Supplement_GenHedging", "child": "HedgePSNV_Supplement_GenModel", "via": ["statement"]}
+{"parent": "ParityDegreeDepth.Core.contraction_rank_bound", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["solution", "statement"]}
+{"parent": "HMBinPacking.fixed_dimension_divisibility_chain_quadratic_time", "child": "HMBinPacking_OutputsWithin", "via": ["statement"]}
+{"parent": "HMBinPacking.fixed_dimension_divisibility_chain_quadratic_time", "child": "HMBinPacking_Encoding", "via": ["statement"]}
+{"parent": "HMBinPacking.fixed_dimension_divisibility_chain_quadratic_time", "child": "HMBinPacking_Instance", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_IsHadamard", "child": "WildeQIT_EntBreaking_IsEntanglementBreaking", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_IsHadamard", "child": "WildeQIT_Degradable_complementaryApply", "via": ["statement"]}
+{"parent": "PvsNP.weighted_opposite_outputs_le_distinct_work_reads", "child": "Complexitylib_0ebd467_Computability_Machines_Turing_MultiTape_Run", "via": ["solution", "statement"]}
+{"parent": "WildeQIT_Compression_Supplement_QFeedbackCode_afterChannel", "child": "WildeQIT_EADamping_idTensorApply", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_QFeedbackCode_afterChannel", "child": "WildeQIT_EADamping_leftApply", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_QFeedbackCode_afterChannel", "child": "WildeQIT_Compression_Supplement_QFeedbackCode", "via": ["statement"]}
+{"parent": "MasulloRH_VerticalThetaApproximation", "child": "MasulloRH_RationalThetaGrid", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.theorem_2", "child": "RankRobustAssort_IsOptimalRO", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.theorem_2", "child": "RankRobustAssort_Supplement_revPast", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.theorem_2", "child": "RankRobustAssort_SHat", "via": ["statement"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_cls_reduction_eventually", "child": "UnaryQuadraticKKT_Hardness_Output", "via": ["solution", "statement"]}
+{"parent": "HedgePSNV.Supplement.lemma_ec_10", "child": "HedgePSNV_Supplement_SectionMax", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.lemma_ec_10", "child": "StochasticOrders_Usual_UsualOrder", "via": ["statement"]}
+{"parent": "PrivPCP.lemma_4_13_dependent", "child": "PrivPCP_Supplement_gammaF", "via": ["statement"]}
+{"parent": "RankRobustAssort_Supplement_lamEC16", "child": "RankRobustAssort_Supplement_tupleHigh", "via": ["statement"]}
+{"parent": "RankRobustAssort_Supplement_lamEC16", "child": "RankRobustAssort_Supplement_tupleLow", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.theorem_3", "child": "HedgePSNV_Supplement_SectionMax", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.theorem_3", "child": "StochasticOrders_Usual_UsualOrder", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.theorem_3", "child": "HedgePSNV_Hedging", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_a3", "child": "ComplementarySourcing_Supplement_expectedSupplierProfit", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_a3", "child": "ComplementarySourcing_Supplement_FixedPriceM_game", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_a3", "child": "ComplementarySourcing_Supplement_expectedManufacturerProfit", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_a3", "child": "ComplementarySourcing_StackelbergGame_IsEquilibrium", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_a3", "child": "ComplementarySourcing_Supplement_FixedPriceS_game", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.CycleHost.params_exec", "child": "DirectedHamiltonicity_CycleSearchHost", "via": ["statement"]}
+{"parent": "ParityDegreeDepth.Core.spectral_norm_affine_restriction", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["solution", "statement"]}
+{"parent": "ComplementarySourcing_Supplement_NoRiskM_game", "child": "ComplementarySourcing_StackelbergGame", "via": ["statement"]}
+{"parent": "ComplementarySourcing_Supplement_NoRiskM_game", "child": "ComplementarySourcing_Supplement_uncappedDemand", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.proposition_7", "child": "HedgePSNV_Hedging", "via": ["statement"]}
+{"parent": "TargetedSamplers.Structured.Work.framework", "child": "LogCostRAM_WorkExecution", "via": ["solution", "statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_5", "child": "ComplementarySourcing_StackelbergGame_IsEquilibrium", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_5", "child": "ComplementarySourcing_Supplement_RecourseS_game", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_5", "child": "ComplementarySourcing_Supplement_RecourseM_game", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.lemma_ec_9", "child": "HedgePSNV_Supplement_SectionMax", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.lemma_ec_9", "child": "StochasticOrders_Usual_UsualOrder", "via": ["statement"]}
+{"parent": "HedgePSNV.Supplement.lemma_ec_9", "child": "HedgePSNV_Hedging", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_1", "child": "ComplementarySourcing_StackelbergGame_IsEquilibrium", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_1", "child": "ComplementarySourcing_Supplement_NoRiskS_game", "via": ["statement"]}
+{"parent": "ComplementarySourcing.Supplement.theorem_1", "child": "ComplementarySourcing_Supplement_NoRiskM_game", "via": ["statement"]}
+{"parent": "MovingCutCapacity", "child": "MovingWorkTapePartition", "via": ["statement"]}
+{"parent": "MetricTSPSublinear.lemma_5_2", "child": "DoublingMST_IsMSTOf", "via": ["solution", "statement"]}
+{"parent": "MetricTSPSublinear.lemma_5_2", "child": "MetricTSPSublinear_IsDominatedShortening", "via": ["solution", "statement"]}
+{"parent": "MetricTSPSublinear.lemma_5_2", "child": "MetricTSPSublinear_hull", "via": ["solution", "statement"]}
+{"parent": "MetricTSPSublinear.lemma_5_2", "child": "DoublingMST_IsMetric", "via": ["solution", "statement"]}
+{"parent": "MetricTSPSublinear.lemma_5_2", "child": "MetricTSPSublinear_cutLP", "via": ["solution", "statement"]}
+{"parent": "MetricTSPSublinear.lemma_5_2", "child": "DoublingMST_mstWeight", "via": ["solution", "statement"]}
+{"parent": "RankRobustAssort.Supplement.proposition_EC_5", "child": "RankRobustAssort_Mset", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.proposition_EC_5", "child": "RankRobustAssort_InL", "via": ["statement"]}
+{"parent": "RankRobustAssort.Supplement.proposition_EC_5", "child": "RankRobustAssort_Supplement_xi", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.bounded_adaptive_cycle_controller", "child": "DirectedHamiltonicity_CycleController", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_ceRegion", "child": "QAlgorithms_Papers_Independent_Claimed50_P20", "via": ["statement"]}
+{"parent": "AlgebraicGeometry_EtaleArtinSchreierNaturality", "child": "AlgebraicGeometry_EtaleArtinSchreierCohomology", "via": ["statement"]}
+{"parent": "AlgebraicGeometry_EtaleArtinSchreierNaturality", "child": "AlgebraicGeometry_EtaleAdditiveArtinSchreierSequence", "via": ["statement"]}
+{"parent": "AlgebraicGeometry_EtaleArtinSchreierNaturality", "child": "AlgebraicGeometry_EtaleAdditiveStructureSheaf", "via": ["statement"]}
+{"parent": "AlgebraicGeometry_EtaleArtinSchreierNaturality", "child": "AlgebraicGeometry_EtaleCohomologyRestriction", "via": ["statement"]}
+{"parent": "AlgebraicGeometry_EtaleArtinSchreierNaturality", "child": "AlgebraicGeometry_EtaleOpenCoefficientComparison", "via": ["statement"]}
+{"parent": "TFIMPhaseDiagram.Classical.prop_8", "child": "TFIMPhaseDiagram.Classical.prop_7", "via": ["solution"]}
+{"parent": "TFIMPhaseDiagram.Classical.prop_7", "child": "TFIMPhaseDiagram_Classical_cycles", "via": ["solution"]}
+{"parent": "MultiNashRepair.lemma_2_1", "child": "CFLOutliers_OutputsWithin", "via": ["solution"]}
+{"parent": "MultiNashRepair.lemma_2_1", "child": "NashAmplification_Filtering_Encoding", "via": ["solution"]}
+{"parent": "MultiNashRepair.lemma_2_1", "child": "DGPNash_WellSupported_Equilibria", "via": ["solution"]}
+{"parent": "MultiNashRepair.lemma_2_1", "child": "QuantumMaxCutFiniteNumericRuntime", "via": ["solution"]}
+{"parent": "MasulloRH.fixed_gaussian_approximation_beyond_first_fifteen", "child": "MasulloRH.arbitrary_precision_gaussian_approximation_at_each_single_slope", "via": ["solution"]}
+{"parent": "MasulloRH.fixed_gaussian_approximation_beyond_first_fifteen", "child": "MasulloRH_VerticalThetaApproximation", "via": ["solution"]}
+{"parent": "MasulloRH.fixed_gaussian_approximation_beyond_first_fifteen", "child": "MasulloRH.window_energy_sandwiched_by_endpoint_mellin_errors", "via": ["solution"]}
+{"parent": "MasulloRH.fixed_gaussian_approximation_beyond_first_fifteen", "child": "MasulloRH.coherent_endpoint_mellin_approximations_for_expanding_windows", "via": ["solution"]}
+{"parent": "PalomarZF207.internal_startup_and_linkedHalts", "child": "palomar_zf207_physical", "via": ["solution"]}
+{"parent": "PalomarZF207.internal_startup_and_linkedHalts", "child": "palomar_zf207_calc", "via": ["solution"]}
+{"parent": "PalomarZF207.internal_startup_and_linkedHalts", "child": "palomar_zf207_tm_check", "via": ["solution"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_membership", "child": "UnaryQuadraticKKT.Hardness.unary_cls_reduction_eventually", "via": ["solution"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_membership", "child": "UnaryQuadraticKKT.Hardness.unary_short_kkt", "via": ["solution"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_membership", "child": "UnaryQuadraticKKT.Hardness.unary_kkt_checkable", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "DirectedHamiltonicity.Main.bounded_adaptive_cycle_controller", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "DirectedHamiltonicity.Main.compile_cycle_search_controller", "via": ["solution"]}
+{"parent": "TargetedSamplers.Structured.bounded_bit_subroutine", "child": "DirectedHamiltonicity_CycleSearch", "via": ["solution"]}
+{"parent": "PrivPCP.lemma_4_13_mixed", "child": "PrivPCP.lemma_4_13_mixed_closure", "via": ["solution"]}
+{"parent": "PrivPCP.lemma_4_13_mixed", "child": "PrivPCP_gridQ", "via": ["solution"]}
+{"parent": "MasulloRH.window_energy_sandwiched_by_endpoint_mellin_errors", "child": "MasulloRH.finite_theta_residual_tail_bound", "via": ["solution"]}
+{"parent": "MasulloRH.window_energy_sandwiched_by_endpoint_mellin_errors", "child": "MasulloRH.exact_laplace_transform_of_gaussian_theta_residual", "via": ["solution"]}
+{"parent": "MasulloRH.window_energy_sandwiched_by_endpoint_mellin_errors", "child": "MellinParseval.integrableOn_and_setIntegral_Ioi_norm_sq_lineIntegral_eq_two_pi_mul_integral_of_memLp_two", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.quadratic_spectral_norm_sq", "child": "ParityDegreeDepth_Core_tensorEval", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.CycleHost.readSeed_exec", "child": "LogCostRAM_StructuredExecution", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.CycleHost.readGraph_exec", "child": "LogCostRAM_StructuredExecution", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.quadratic_vanishing_codim", "child": "ParityDegreeDepth_Core_tensorEval", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.top_form_vanishing_codim", "child": "ParityDegreeDepth.Core.generic_radical_strong_vanishing", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.top_form_vanishing_codim", "child": "ParityDegreeDepth.Core.sign_spectral_bounds", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.top_form_vanishing_codim", "child": "ParityDegreeDepth.Core.contraction_rank_bound", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.top_form_vanishing_codim", "child": "ParityDegreeDepth.Core.generic_rank_le_binary", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.top_form_vanishing_codim", "child": "ParityDegreeDepth.Core.binary_descent", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.top_form_vanishing_codim", "child": "ParityDegreeDepth_Core_tensorEval", "via": ["solution"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_short_kkt", "child": "UnaryQuadraticKKT_Hardness_Input", "via": ["solution"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_short_kkt", "child": "NetworkEquilibriumCLS_LinearNash_Complexity", "via": ["solution"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_short_kkt", "child": "MIQPInNP.SmallSol.theorem_3", "via": ["solution"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_short_kkt", "child": "LinearChoresCLS_EpsKKT", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.CycleHost.certify_exec", "child": "LogCostRAM_StructuredExecution", "via": ["solution"]}
+{"parent": "KunenZF.nontrivial_moves_ordinal_nonempty", "child": "CH_ZFC", "via": ["solution"]}
+{"parent": "PrivPCP.lemma_4_13_gamma_upper", "child": "PrivPCP.lemma_4_13_dx_ne_zero", "via": ["solution"]}
+{"parent": "PrivPCP.lemma_4_13_gamma_upper", "child": "PrivPCP.lemma_4_13_dependent", "via": ["solution"]}
+{"parent": "PrivPCP.lemma_4_13_gamma_upper", "child": "PrivPCP.Supplement.theorem_4_12", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.compile_cycle_search_controller", "child": "LogCostRAM_StructuredExecution", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.compile_cycle_search_controller", "child": "TargetedSamplers.Structured.bounded_bit_subroutine", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.anf_degree_differences", "child": "ParityDegreeDepth_Core_tensorEval", "via": ["solution"]}
+{"parent": "PrivPCP.lemma_4_13_mixed_closure", "child": "PrivPCP.lemma_4_13_zero_count", "via": ["solution"]}
+{"parent": "PrivPCP.lemma_4_13_mixed_closure", "child": "PrivPCP.lemma_4_13_gamma_upper", "via": ["solution"]}
+{"parent": "PrivPCP.lemma_4_13_mixed_closure", "child": "PrivPCP_Supplement_gammaF", "via": ["solution"]}
+{"parent": "MasulloRH.arbitrary_precision_gaussian_approximation_at_each_single_slope", "child": "MasulloRH.rational_frequency_modulations_span_a_nonvanishing_L2_weight", "via": ["solution"]}
+{"parent": "MasulloRH.arbitrary_precision_gaussian_approximation_at_each_single_slope", "child": "MasulloRH.entire_theta_mellin_multiplier", "via": ["solution"]}
+{"parent": "MasulloRH.arbitrary_precision_gaussian_approximation_at_each_single_slope", "child": "MasulloRH.window_energy_sandwiched_by_endpoint_mellin_errors", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.contraction_rank_bound", "child": "ParityDegreeDepth_Core_tensorEval", "via": ["solution"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_cls_reduction_eventually", "child": "LinearChoresCLS.epsQKKT_cls_reduction_eventually", "via": ["solution"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_cls_reduction_eventually", "child": "ConstrSOSP.searchReduces_trans", "via": ["solution"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_cls_reduction_eventually", "child": "LinearChoresCLS.unary_to_epsQKKT_reduction", "via": ["solution"]}
+{"parent": "UnaryQuadraticKKT.Hardness.unary_cls_reduction_eventually", "child": "LinearChoresCLS_EpsKKT", "via": ["solution"]}
+{"parent": "MetricTSPSublinear.lemma_5_2", "child": "MetricTSPSublinear.lemma_4_4", "via": ["solution"]}

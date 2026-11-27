@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.killedPotential_atomless_of_infiniteActivity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-26T03:21:36.207728+00:00
 -- url     : https://prove2.me/submissions/3610c2d5-61f0-4fe9-ac12-d5fcf99a49f4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.MeasureTheory.Group.Convolution

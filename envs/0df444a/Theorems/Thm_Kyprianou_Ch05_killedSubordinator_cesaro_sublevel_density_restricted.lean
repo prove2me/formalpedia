@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedSubordinator_cesaro_sublevel_density_restricted
 -- name    : Kyprianou.Ch05.killedSubordinator_cesaro_sublevel_density_restricted
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T09:23:52.071888+00:00
 -- url     : https://prove2.me/theorems/b2fb9ff2-b1c6-51d4-947c-e02229a8cbec

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.killedSubordinator_fixedTime_noAtoms_of_infiniteActivity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-26T03:57:25.980174+00:00
 -- url     : https://prove2.me/submissions/93c60806-8a3f-4660-affa-5f461a6ee7ca
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.MeasureTheory.Group.Convolution

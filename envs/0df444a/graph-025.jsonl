@@ -36023,7 +36023,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.mpower0_3_eq_g", "child": "OAIQ098G432", "via": ["solution", "statement"]}
 {"parent": "BulowKlemperer429.Bundling.regular_rev_le_bspa_two_le_two_brev", "child": "BulowKlemperer429_Bundling_Revenue", "via": ["statement"]}
 {"parent": "BulowKlemperer429.Bundling.regular_rev_le_bspa_two_le_two_brev", "child": "MultiItemRev_BundlingOpt_Model", "via": ["statement"]}
-{"parent": "MultiNashRepair.lemma_2_1", "child": "MultiNashRepair_PolyANE", "via": ["statement"]}
+{"parent": "MultiNashRepair.lemma_2_1", "child": "MultiNashRepair_PolyANE", "via": ["solution", "statement"]}
 {"parent": "CommutativeRankNC.Approximation.claim_3_4", "child": "CommutativeRankNC_Approximation_Scaling", "via": ["statement"]}
 {"parent": "RSCapacity.ListDecoding.capacity", "child": "RSCapacity_ListDecoding_Evaluation", "via": ["statement"]}
 {"parent": "CubeSampling_IsRadial", "child": "CubeSampling_coordSum", "via": ["statement"]}

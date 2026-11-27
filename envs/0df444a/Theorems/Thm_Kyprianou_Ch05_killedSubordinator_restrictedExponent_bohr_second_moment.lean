@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedSubordinator_restrictedExponent_bohr_second_moment
 -- name    : Kyprianou.Ch05.killedSubordinator_restrictedExponent_bohr_second_moment
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T11:29:25.249607+00:00
 -- url     : https://prove2.me/theorems/cc0c56f0-a9a0-5eba-8965-15cfbde52cd2

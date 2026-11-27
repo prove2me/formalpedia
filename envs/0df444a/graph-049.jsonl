@@ -45285,10 +45285,10 @@
 {"parent": "FirstPassageLinearTransport.eventually_polylogTerminalRank_lt_shrinkingSwitchRank", "child": "FirstPassageLinearTransport_PolylogTerminalSchedule", "via": ["solution", "statement"]}
 {"parent": "FirstPassageLinearTransport.eventually_polylogTerminalRank_lt_shrinkingSwitchRank", "child": "FirstPassageLinearTransport_ShrinkingSchedules", "via": ["solution", "statement"]}
 {"parent": "FirstPassageLinearTransport.eventually_polylogTerminalRank_lt_shrinkingSwitchRank", "child": "FirstPassageLinearTransport_TwoRegimeClock", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.killedSubordinator_restrictedExponent_bohr_second_moment", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.killedSubordinator_restrictedExponent_bohr_second_moment", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.killedSubordinator_restrictedExponent_bohr_second_moment", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.killedSubordinator_restrictedExponent_bohr_second_moment", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinator_restrictedExponent_bohr_second_moment", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinator_restrictedExponent_bohr_second_moment", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinator_restrictedExponent_bohr_second_moment", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.killedSubordinator_restrictedExponent_bohr_second_moment", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "Malliavin.norm_truncCoord_le_norm", "child": "Malliavin_DualDerivative", "via": ["solution", "statement"]}
 {"parent": "Malliavin.norm_truncCoord_le_norm", "child": "Malliavin_CylindricalGrowth", "via": ["solution", "statement"]}
 {"parent": "FirstPassageLinearTransport.two_pow_not_mem_initialWindowGood", "child": "FirstPassageLinearTransport_ShrinkingBarrierCore", "via": ["solution", "statement"]}

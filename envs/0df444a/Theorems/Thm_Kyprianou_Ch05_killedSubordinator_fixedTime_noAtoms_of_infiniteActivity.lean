@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedSubordinator_fixedTime_noAtoms_of_infiniteActivity
 -- name    : Kyprianou.Ch05.killedSubordinator_fixedTime_noAtoms_of_infiniteActivity
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T03:19:39.594487+00:00
 -- url     : https://prove2.me/theorems/6cd6b07c-d1ca-5338-839c-5d0d3acd4ef3

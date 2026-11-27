@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalomarZF207_internal_startup_and_linkedHalts
 -- name    : PalomarZF207.internal_startup_and_linkedHalts
--- status  : Open
+-- status  : Proved
 -- author  : @fl-39
 -- created : 2026-11-27T03:20:08.863377+00:00
 -- url     : https://prove2.me/theorems/73a3839f-b63b-4065-8720-a3a366d737f7

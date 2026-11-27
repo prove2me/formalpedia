@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedSubordinator_cesaro_chf_tendsto_zero
 -- name    : Kyprianou.Ch05.killedSubordinator_cesaro_chf_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-26T03:51:42.874994+00:00
 -- url     : https://prove2.me/theorems/84725646-d8a7-448b-9a65-f2b14745954f

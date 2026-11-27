@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TargetedSamplers_Structured_bounded_bit_subroutine
 -- name    : TargetedSamplers.Structured.bounded_bit_subroutine
--- status  : Open
+-- status  : Proved
 -- author  : @Soh Kumabe
 -- created : 2026-11-27T03:00:04.579334+00:00
 -- url     : https://prove2.me/theorems/e1a5212b-80e4-5f6d-a41e-835a0e3d2e11
