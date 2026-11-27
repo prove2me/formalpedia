@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxBundle_GPB_Supplement_theorem_5_3
 -- name    : ProxBundle.GPB.Supplement.theorem_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T03:36:12.08281+00:00
 -- url     : https://prove2.me/theorems/351d34d0-bab8-4d97-867e-63bb42754637

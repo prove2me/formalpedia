@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedTailLaplaceTransform
 -- name    : Kyprianou.Ch05.killedTailLaplaceTransform
--- status  : Open
+-- status  : Proved
 -- author  : @daga2
 -- created : 2026-11-27T01:25:25.537538+00:00
 -- url     : https://prove2.me/theorems/ef7a1762-bd50-4c00-8efb-34ab0be76d37

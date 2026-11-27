@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyLossNetworks_RevisedDual_Supplement_theorem_4_40
 -- name    : KellyLossNetworks.RevisedDual.Supplement.theorem_4_40
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T03:02:04.702655+00:00
 -- url     : https://prove2.me/theorems/b4f373f0-a808-4988-a636-0a871525f9e3

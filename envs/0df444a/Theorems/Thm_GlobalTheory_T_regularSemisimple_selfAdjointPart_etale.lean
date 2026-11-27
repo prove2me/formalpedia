@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_regularSemisimple_selfAdjointPart_etale
 -- name    : GlobalTheory.T.regularSemisimple_selfAdjointPart_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-27T06:24:33.701647+00:00
 -- url     : https://prove2.me/theorems/6cbd1930-73e4-4319-911e-9c3b4c588992

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflinePolicyLearning_Trees_Supplement_theorem1_printed_equality_false
 -- name    : OfflinePolicyLearning.Trees.Supplement.theorem1_printed_equality_false
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T08:12:49.207957+00:00
 -- url     : https://prove2.me/theorems/a07ce605-846b-48d1-896d-cab4a5df25fd

@@ -30189,7 +30189,7 @@
 {"parent": "ScalablePassiveQRAM.Device.conservation_of_onsite_energy", "child": "ScalablePassiveQRAM_Device_Energy", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm19_1_0_2.s2_eq_g", "child": "OAIQ098G916", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm19_1_0_2.s2_eq_g", "child": "OAIQ098G910", "via": ["solution", "statement"]}
-{"parent": "CompressedOracleDuality.LabelSymmetric.equation_54", "child": "CompressedOracleDuality_LabelSymmetric_Progress", "via": ["statement"]}
+{"parent": "CompressedOracleDuality.LabelSymmetric.equation_54", "child": "CompressedOracleDuality_LabelSymmetric_Progress", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm24_0_0_11.realContains_g", "child": "OAIQ098G1044", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm24_0_0_11.realContains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm24_0_0_11.realContains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
@@ -30634,7 +30634,7 @@
 {"parent": "WeightedSpectralSketch.LowerBound.routing", "child": "WeightedSpectralSketch_LowerBound_Graph", "via": ["statement"]}
 {"parent": "WeightedSpectralSketch.LowerBound.routing", "child": "WeightedSpectralSketch_LowerBound_Reserve", "via": ["statement"]}
 {"parent": "SignFreeOracle.Separation.proposition_3_4", "child": "SignFreeOracle_Separation_GPE", "via": ["statement"]}
-{"parent": "CompressedOracleDuality.LabelSymmetric.equation_27", "child": "CompressedOracleDuality_LabelSymmetric_Database", "via": ["statement"]}
+{"parent": "CompressedOracleDuality.LabelSymmetric.equation_27", "child": "CompressedOracleDuality_LabelSymmetric_Database", "via": ["solution", "statement"]}
 {"parent": "PerturbedWF.theorem_3_4", "child": "PolylogKServer_HST_Tree", "via": ["statement"]}
 {"parent": "MatchingGFT_TightE_Mechanism", "child": "MatchingGFT_TightE_Market", "via": ["statement"]}
 {"parent": "MatchingGFT_TightE_Mechanism", "child": "MatchingGFT_TightE_Quantile", "via": ["statement"]}
@@ -34753,8 +34753,8 @@
 {"parent": "OAI.SharpPlanar.IntegerGrid.row1_8_contains_g", "child": "OAIQ098G091", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm1_0_1_30.s1_eq_g", "child": "OAIQ098G960", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm1_0_1_30.s1_eq_g", "child": "OAIQ098G965", "via": ["solution", "statement"]}
-{"parent": "PrivateContinualCounting.Kraft.lti_divergence", "child": "PrivateContinualCounting_Kraft_LTIFactors", "via": ["statement"]}
-{"parent": "PrivateContinualCounting.Kraft.lti_divergence", "child": "PrivateContinualCounting_Kraft_PeriodicCounter", "via": ["statement"]}
+{"parent": "PrivateContinualCounting.Kraft.lti_divergence", "child": "PrivateContinualCounting_Kraft_LTIFactors", "via": ["solution", "statement"]}
+{"parent": "PrivateContinualCounting.Kraft.lti_divergence", "child": "PrivateContinualCounting_Kraft_PeriodicCounter", "via": ["solution", "statement"]}
 {"parent": "MulticalibrationGGM_Reduction_Algorithm", "child": "OnlineLearningOCO_FoReL_regret", "via": ["statement"]}
 {"parent": "MulticalibrationGGM_Reduction_Algorithm", "child": "MulticalibrationGGM_Reduction_Model", "via": ["statement"]}
 {"parent": "CubeSampling.lemma_5_1", "child": "CubeSampling_IsHarmonic", "via": ["statement"]}
@@ -41862,7 +41862,7 @@
 {"parent": "IntADSat.lemma_S3_3", "child": "IntADSat_maxResidue", "via": ["statement"]}
 {"parent": "SwitchingRegret.Dyadic.lemma_A_2", "child": "SwitchingRegret_Dyadic_Continuation", "via": ["statement"]}
 {"parent": "BipartiteVRM.Competitive.optimal_path_component", "child": "BipartiteVRM_Competitive_Specifications", "via": ["statement"]}
-{"parent": "PrivateContinualCounting.Kraft.fixed_period", "child": "PrivateContinualCounting_Kraft_PeriodicCounter", "via": ["statement"]}
+{"parent": "PrivateContinualCounting.Kraft.fixed_period", "child": "PrivateContinualCounting_Kraft_PeriodicCounter", "via": ["solution", "statement"]}
 {"parent": "L22EigEst.lemma_4_11", "child": "L22EigEst_bernW", "via": ["statement"]}
 {"parent": "L22EigEst.lemma_4_11", "child": "L22EigEst_highPart", "via": ["statement"]}
 {"parent": "L22EigEst.lemma_4_11", "child": "L22EigEst_zeroed", "via": ["statement"]}
@@ -42715,9 +42715,9 @@
 {"parent": "OAI.SharpPlanar.IntegerCompact.roots27_contains_g", "child": "OAIQ098G064", "via": ["statement"]}
 {"parent": "OAI.CubicEisenstein.unitary_row_normSq", "child": "OAI_NumberTheory_DirichletL_Eisenstein_FundamentalDomain", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.unitary_row_normSq", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_GlobalBinLoss", "via": ["solution", "statement"]}
-{"parent": "PrivateContinualCounting.Kraft.kraft_law", "child": "PrivateContinualCounting_Kraft_LTIFactors", "via": ["statement"]}
-{"parent": "PrivateContinualCounting.Kraft.kraft_law", "child": "PrivateContinualCounting_Kraft_PeriodicCounter", "via": ["statement"]}
-{"parent": "PrivateContinualCounting.Kraft.kraft_law", "child": "PrivateContinualCounting_Kraft_Envelopes", "via": ["statement"]}
+{"parent": "PrivateContinualCounting.Kraft.kraft_law", "child": "PrivateContinualCounting_Kraft_LTIFactors", "via": ["solution", "statement"]}
+{"parent": "PrivateContinualCounting.Kraft.kraft_law", "child": "PrivateContinualCounting_Kraft_PeriodicCounter", "via": ["solution", "statement"]}
+{"parent": "PrivateContinualCounting.Kraft.kraft_law", "child": "PrivateContinualCounting_Kraft_Envelopes", "via": ["solution", "statement"]}
 {"parent": "NearLinearRSP_TwoResources_Inner", "child": "actuarial_poissonCountMass", "via": ["statement"]}
 {"parent": "NearLinearRSP_TwoResources_Inner", "child": "NearLinearRSP_TwoResources_Instance", "via": ["statement"]}
 {"parent": "RSSubspaceDesign.lemma_7_3", "child": "RSListDecodingCapacity_AllRates_Encoding", "via": ["statement"]}

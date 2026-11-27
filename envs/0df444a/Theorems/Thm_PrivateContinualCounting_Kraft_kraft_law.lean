@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateContinualCounting_Kraft_kraft_law
 -- name    : PrivateContinualCounting.Kraft.kraft_law
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:02:34.84687+00:00
 -- url     : https://prove2.me/theorems/f404c8da-6670-40d5-b505-4961ca53acd7

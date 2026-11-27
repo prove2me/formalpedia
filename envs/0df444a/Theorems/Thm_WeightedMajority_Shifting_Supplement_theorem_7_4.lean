@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedMajority_Shifting_Supplement_theorem_7_4
 -- name    : WeightedMajority.Shifting.Supplement.theorem_7_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T12:59:21.658573+00:00
 -- url     : https://prove2.me/theorems/744f9664-2ba2-448b-8a66-b2f457cd6c92

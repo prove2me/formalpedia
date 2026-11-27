@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompressedOracleDuality_LabelSymmetric_label_symmetry_transfer
 -- name    : CompressedOracleDuality.LabelSymmetric.label_symmetry_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:01:40.954348+00:00
 -- url     : https://prove2.me/theorems/f767099f-ae0c-43fd-8176-8bd02c6b2ae5

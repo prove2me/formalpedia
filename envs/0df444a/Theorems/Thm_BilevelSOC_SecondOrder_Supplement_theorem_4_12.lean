@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilevelSOC_SecondOrder_Supplement_theorem_4_12
 -- name    : BilevelSOC.SecondOrder.Supplement.theorem_4_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T07:49:55.484369+00:00
 -- url     : https://prove2.me/theorems/41b0e7a5-731f-4cd2-92ab-9a94ce166ad4

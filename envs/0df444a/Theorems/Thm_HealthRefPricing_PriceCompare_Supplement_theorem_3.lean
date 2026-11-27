@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HealthRefPricing_PriceCompare_Supplement_theorem_3
 -- name    : HealthRefPricing.PriceCompare.Supplement.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T04:39:53.73537+00:00
 -- url     : https://prove2.me/theorems/c9c98e74-cfec-4ff3-8f18-743d574b33c9

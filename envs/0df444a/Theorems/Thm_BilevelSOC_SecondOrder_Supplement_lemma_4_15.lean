@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilevelSOC_SecondOrder_Supplement_lemma_4_15
 -- name    : BilevelSOC.SecondOrder.Supplement.lemma_4_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T07:51:37.174684+00:00
 -- url     : https://prove2.me/theorems/c1499d86-73aa-45b6-a28f-7dffd6e08a7f

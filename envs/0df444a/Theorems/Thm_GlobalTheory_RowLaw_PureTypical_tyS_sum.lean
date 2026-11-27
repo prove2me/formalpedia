@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_PureTypical_tyS_sum
 -- name    : GlobalTheory.RowLaw.PureTypical.tyS_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-27T06:25:37.279883+00:00
 -- url     : https://prove2.me/theorems/2e56fa99-79c7-457c-9fe3-e46f95f2c46b

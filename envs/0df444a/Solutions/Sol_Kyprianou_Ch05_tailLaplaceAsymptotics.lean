@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch05.tailLaplaceAsymptotics
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @daga2
 -- created : 2026-11-27T04:52:45.811029+00:00
 -- url     : https://prove2.me/submissions/2c8abee4-ef77-452a-9a80-aed32a041424
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch05_RegularVariation

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VBSDP_Duality_Supplement_theorem_5_3
 -- name    : VBSDP.Duality.Supplement.theorem_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:11:01.113773+00:00
 -- url     : https://prove2.me/theorems/ee2a3e84-33e1-4669-ae92-001a8dc70dc9

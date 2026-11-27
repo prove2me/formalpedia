@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BicliqueSDP_Chain_Supplement_lemma_2_6
 -- name    : BicliqueSDP.Chain.Supplement.lemma_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T03:17:40.340798+00:00
 -- url     : https://prove2.me/theorems/748138e3-1c42-43cc-b278-dc68372b1868

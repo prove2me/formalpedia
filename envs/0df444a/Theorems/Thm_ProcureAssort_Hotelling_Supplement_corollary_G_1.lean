@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcureAssort_Hotelling_Supplement_corollary_G_1
 -- name    : ProcureAssort.Hotelling.Supplement.corollary_G_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T12:34:33.57171+00:00
 -- url     : https://prove2.me/theorems/202b591a-0ddb-4dad-8c0f-3b1b61b412be

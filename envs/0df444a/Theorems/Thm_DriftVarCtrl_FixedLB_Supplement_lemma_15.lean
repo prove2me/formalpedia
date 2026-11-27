@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DriftVarCtrl_FixedLB_Supplement_lemma_15
 -- name    : DriftVarCtrl.FixedLB.Supplement.lemma_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:42:41.906442+00:00
 -- url     : https://prove2.me/theorems/1993ccda-b14f-4184-a584-f5ad9e67218d

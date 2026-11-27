@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Regularity_Supplement_theorem_2_i
 -- name    : SelfDualLP.Regularity.Supplement.theorem_2_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T07:17:55.806957+00:00
 -- url     : https://prove2.me/theorems/93eaeba4-d146-4376-b35c-2a3b4818ecd7

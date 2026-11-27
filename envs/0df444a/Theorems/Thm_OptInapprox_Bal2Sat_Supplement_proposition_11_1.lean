@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptInapprox_Bal2Sat_Supplement_proposition_11_1
 -- name    : OptInapprox.Bal2Sat.Supplement.proposition_11_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T12:02:13.032088+00:00
 -- url     : https://prove2.me/theorems/95ec03ce-b005-4100-84e1-9d14e1a0925f

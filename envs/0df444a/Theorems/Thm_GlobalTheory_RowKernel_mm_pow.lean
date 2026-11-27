@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowKernel_mm_pow
 -- name    : GlobalTheory.RowKernel.mm_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-27T06:08:56.807518+00:00
 -- url     : https://prove2.me/theorems/880b0460-f947-5efa-b11b-edcb5e900572

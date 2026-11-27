@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeylPolyhedra_Polyhedron_Supplement_vertex_facet
 -- name    : WeylPolyhedra.Polyhedron.Supplement.vertex_facet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T06:38:41.508239+00:00
 -- url     : https://prove2.me/theorems/b3397c1d-03d2-4eb0-82df-7422f85573c2

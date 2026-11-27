@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitTimePricing_Existence_Supplement_lemma_4
 -- name    : WaitTimePricing.Existence.Supplement.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T03:40:38.563903+00:00
 -- url     : https://prove2.me/theorems/fe6685af-bf9d-4d66-bf28-e813b65ecbb4

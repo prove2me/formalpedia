@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseLpLq_SmallP_Supplement_theorem_3_1
 -- name    : SparseLpLq.SmallP.Supplement.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T07:14:01.901864+00:00
 -- url     : https://prove2.me/theorems/5336b6a5-a8f1-4e08-b7ae-f07fd94d6b16

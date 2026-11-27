@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_PureTypical_tyS_rescale
 -- name    : GlobalTheory.RowLaw.PureTypical.tyS_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-27T06:26:11.375098+00:00
 -- url     : https://prove2.me/theorems/a9a194e6-0934-4c1e-8d1d-5759558422e9

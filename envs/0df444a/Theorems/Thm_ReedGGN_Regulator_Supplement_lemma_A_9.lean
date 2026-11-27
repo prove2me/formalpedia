@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_Regulator_Supplement_lemma_A_9
 -- name    : ReedGGN.Regulator.Supplement.lemma_A_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T05:13:23.721941+00:00
 -- url     : https://prove2.me/theorems/f89e567f-a9f9-4cc7-85a8-6b07b8cb8315

@@ -94960,10 +94960,10 @@
 {"parent": "Disjunctive.CutCorrespondence.cglpk_basicness", "child": "Disjunctive_CutCorrespondence_Cglp", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.CutCorrespondence.lp_cut_eq_simple_disj_cut", "child": "Disjunctive_CutCorrespondence_Cglp", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.CutCorrespondence.lp_cut_eq_simple_disj_cut", "child": "Disjunctive_CutCorrespondence_Tableau", "via": ["solution", "statement"]}
-{"parent": "Disjunctive.CutCorrespondence.rank_bound_four_cut_families_v2", "child": "Disjunctive_CutCorrespondence_Basic", "via": ["statement"]}
-{"parent": "Disjunctive.CutCorrespondence.rank_bound_four_cut_families_v2", "child": "Disjunctive_CutCorrespondence_Cglp_v2", "via": ["statement"]}
-{"parent": "Disjunctive.CutCorrespondence.rank_bound_four_cut_families_v2", "child": "Disjunctive_CutCorrespondence_Rank_v2", "via": ["statement"]}
-{"parent": "Disjunctive.CutCorrespondence.rank_bound_four_cut_families_v2", "child": "Disjunctive_CutCorrespondence_Tableau_v2", "via": ["statement"]}
+{"parent": "Disjunctive.CutCorrespondence.rank_bound_four_cut_families_v2", "child": "Disjunctive_CutCorrespondence_Basic", "via": ["solution", "statement"]}
+{"parent": "Disjunctive.CutCorrespondence.rank_bound_four_cut_families_v2", "child": "Disjunctive_CutCorrespondence_Cglp_v2", "via": ["solution", "statement"]}
+{"parent": "Disjunctive.CutCorrespondence.rank_bound_four_cut_families_v2", "child": "Disjunctive_CutCorrespondence_Rank_v2", "via": ["solution", "statement"]}
+{"parent": "Disjunctive.CutCorrespondence.rank_bound_four_cut_families_v2", "child": "Disjunctive_CutCorrespondence_Tableau_v2", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.CutCorrespondence.simple_disj_cut_eq_lp_cut", "child": "Disjunctive_CutCorrespondence_Cglp", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.CutCorrespondence.simple_disj_cut_eq_lp_cut", "child": "Disjunctive_CutCorrespondence_Tableau", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.CutCorrespondence.strengthened_cut_correspondence_v2", "child": "Disjunctive_CutCorrespondence_Cglp_v2", "via": ["solution", "statement"]}

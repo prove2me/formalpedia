@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_RenewalCost_Supplement_theorem3_guaranteed_demand
 -- name    : VeinottWagnerSS.RenewalCost.Supplement.theorem3_guaranteed_demand
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:26:58.990913+00:00
 -- url     : https://prove2.me/theorems/9e18b7e2-6ca4-428e-995f-fd2e8099066d

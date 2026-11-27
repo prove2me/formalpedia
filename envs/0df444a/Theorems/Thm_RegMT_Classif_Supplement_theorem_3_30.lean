@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegMT_Classif_Supplement_theorem_3_30
 -- name    : RegMT.Classif.Supplement.theorem_3_30
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T05:36:18.860007+00:00
 -- url     : https://prove2.me/theorems/c759be8b-46f5-440f-b5a0-846179c7f675

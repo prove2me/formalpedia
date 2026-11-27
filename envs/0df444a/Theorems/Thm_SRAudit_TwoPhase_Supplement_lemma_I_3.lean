@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SRAudit_TwoPhase_Supplement_lemma_I_3
 -- name    : SRAudit.TwoPhase.Supplement.lemma_I_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T07:29:13.754809+00:00
 -- url     : https://prove2.me/theorems/fc09994b-2667-461c-ad6d-2dbd2ce55754

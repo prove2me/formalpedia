@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BwSC_LowerBound_Supplement_theorem_7
 -- name    : BwSC.LowerBound.Supplement.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T09:45:35.611337+00:00
 -- url     : https://prove2.me/theorems/33ac8c1d-93c9-45cf-aa11-08663f9c4a02

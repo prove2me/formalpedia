@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedComplexity_Partition_Supplement_theorem_1j
 -- name    : SchedComplexity.Partition.Supplement.theorem_1j
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T12:42:17.940491+00:00
 -- url     : https://prove2.me/theorems/c0df1d2a-3321-4c8d-aa84-b9da02f486ba

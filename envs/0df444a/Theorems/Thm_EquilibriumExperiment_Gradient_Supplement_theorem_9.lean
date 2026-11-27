@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquilibriumExperiment_Gradient_Supplement_theorem_9
 -- name    : EquilibriumExperiment.Gradient.Supplement.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T06:19:15.6523+00:00
 -- url     : https://prove2.me/theorems/274f55d3-cbe5-4ea2-8918-6d71742219c7

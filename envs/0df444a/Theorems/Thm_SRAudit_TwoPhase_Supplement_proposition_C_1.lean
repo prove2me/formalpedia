@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SRAudit_TwoPhase_Supplement_proposition_C_1
 -- name    : SRAudit.TwoPhase.Supplement.proposition_C_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T07:26:53.341417+00:00
 -- url     : https://prove2.me/theorems/ed64c723-8ba9-4577-9640-432da350248f

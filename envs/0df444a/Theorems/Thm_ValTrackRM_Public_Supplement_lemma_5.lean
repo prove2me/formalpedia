@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValTrackRM_Public_Supplement_lemma_5
 -- name    : ValTrackRM.Public.Supplement.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T04:02:37.607672+00:00
 -- url     : https://prove2.me/theorems/42da8c2f-88fa-41a1-80fd-750f6b12fa79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeylPolyhedra_Polyhedron_Supplement_satz11
 -- name    : WeylPolyhedra.Polyhedron.Supplement.satz11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T06:37:07.334417+00:00
 -- url     : https://prove2.me/theorems/1be779b9-8937-48b7-8825-dbe1ae12742a

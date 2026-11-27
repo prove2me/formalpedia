@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SethiChengSS_Finite_Supplement_theorem_5_3
 -- name    : SethiChengSS.Finite.Supplement.theorem_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T09:31:41.953368+00:00
 -- url     : https://prove2.me/theorems/60fbef77-8b92-4d9f-aedc-12d919c1007e

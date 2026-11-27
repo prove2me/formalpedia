@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_SectionScalarValuation_trF_fst
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.SectionScalarValuation.trF_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-27T06:26:15.950482+00:00
 -- url     : https://prove2.me/theorems/f141a296-14de-5d84-a514-58912713732e

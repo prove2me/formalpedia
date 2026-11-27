@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcureAssort_Hotelling_Supplement_proposition_L_2
 -- name    : ProcureAssort.Hotelling.Supplement.proposition_L_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T12:38:22.187462+00:00
 -- url     : https://prove2.me/theorems/a52172a5-12b4-46c5-af13-7aeb7ab8963d

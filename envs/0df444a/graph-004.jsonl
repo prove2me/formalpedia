@@ -54792,7 +54792,7 @@
 {"parent": "ShorNonsmooth.RAlgorithm.converges_to_isolated_local_min", "child": "ShorNonsmooth_RAlgorithm_RAlgorithm", "via": ["statement"]}
 {"parent": "ShorNonsmooth.RAlgorithm.exists_dependent_point_at_limit_level", "child": "ShorNonsmooth_RAlgorithm_RAlgorithm", "via": ["statement"]}
 {"parent": "ShorNonsmooth.RAlgorithm.pRatio_frequently_ge", "child": "ShorNonsmooth_RAlgorithm_RAlgorithm", "via": ["statement"]}
-{"parent": "ShorNonsmooth.RAlgorithm.width_dilation_lower_bound", "child": "ShorNonsmooth_RAlgorithm_Widths", "via": ["statement"]}
+{"parent": "ShorNonsmooth.RAlgorithm.width_dilation_lower_bound", "child": "ShorNonsmooth_RAlgorithm_Widths", "via": ["solution", "statement"]}
 {"parent": "ShorNonsmooth.RAlgorithm.width_image_bounds", "child": "ShorNonsmooth_RAlgorithm_Widths", "via": ["statement"]}
 {"parent": "ShorNonsmooth.SpaceDilation.dilated_distance_invariant", "child": "ShorNonsmooth.SpaceDilation.dilation_compose_inv", "via": ["solution"]}
 {"parent": "ShorNonsmooth.SpaceDilation.dilated_distance_invariant", "child": "ShorNonsmooth.SpaceDilation.dilation_inv_norm_le", "via": ["solution"]}

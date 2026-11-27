@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDSmooth_Framework_Supplement_lemma_G_2
 -- name    : PDSmooth.Framework.Supplement.lemma_G_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T07:53:42.537605+00:00
 -- url     : https://prove2.me/theorems/abd8dbb3-820d-4021-b8a1-44a9895ae43c

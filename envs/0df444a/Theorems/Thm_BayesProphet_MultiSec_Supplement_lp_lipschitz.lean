@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesProphet_MultiSec_Supplement_lp_lipschitz
 -- name    : BayesProphet.MultiSec.Supplement.lp_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T06:08:21.104815+00:00
 -- url     : https://prove2.me/theorems/04eb3f9f-f977-468f-80ee-8a0c4aba54cd

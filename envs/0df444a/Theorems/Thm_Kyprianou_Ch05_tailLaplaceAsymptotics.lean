@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_tailLaplaceAsymptotics
 -- name    : Kyprianou.Ch05.tailLaplaceAsymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @daga2
 -- created : 2026-11-26T03:14:37.438091+00:00
 -- url     : https://prove2.me/theorems/74e702c3-7665-526d-878c-86af7ad2c07b

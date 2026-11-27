@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdgeDomSets_NPC_Supplement_theorem_5
 -- name    : EdgeDomSets.NPC.Supplement.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T11:14:26.577102+00:00
 -- url     : https://prove2.me/theorems/89224b05-599e-4b2a-9cb5-ab514ac4b82c

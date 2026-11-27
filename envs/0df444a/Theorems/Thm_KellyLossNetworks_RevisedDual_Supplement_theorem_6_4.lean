@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyLossNetworks_RevisedDual_Supplement_theorem_6_4
 -- name    : KellyLossNetworks.RevisedDual.Supplement.theorem_6_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T03:04:07.647871+00:00
 -- url     : https://prove2.me/theorems/f94aa5dc-47df-4a2c-b095-ef00f9275424

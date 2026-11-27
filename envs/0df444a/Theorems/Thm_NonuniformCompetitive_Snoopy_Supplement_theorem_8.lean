@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformCompetitive_Snoopy_Supplement_theorem_8
 -- name    : NonuniformCompetitive.Snoopy.Supplement.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T12:07:00.902211+00:00
 -- url     : https://prove2.me/theorems/9b5e663c-b045-4ad2-9e71-2ad5e9d8b859

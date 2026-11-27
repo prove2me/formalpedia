@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VBSDP_Duality_Supplement_theorem_4_1
 -- name    : VBSDP.Duality.Supplement.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:07:50.852607+00:00
 -- url     : https://prove2.me/theorems/60d4c8f3-cac2-4ec1-85ee-d844b4c4073e

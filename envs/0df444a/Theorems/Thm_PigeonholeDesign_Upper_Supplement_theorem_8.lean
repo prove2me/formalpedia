@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PigeonholeDesign_Upper_Supplement_theorem_8
 -- name    : PigeonholeDesign.Upper.Supplement.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T08:05:22.215649+00:00
 -- url     : https://prove2.me/theorems/48a81f78-4869-4603-8df2-5e8b18872159

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_PureTypical_ge_of_pow_eq_one
 -- name    : GlobalTheory.RowLaw.PureTypical.ge_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-27T06:26:20.977539+00:00
 -- url     : https://prove2.me/theorems/be11fb2e-5483-4692-bf61-0fdf6b080fd4

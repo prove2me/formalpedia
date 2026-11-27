@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesProphet_MultiSec_Supplement_allocation_regret_counterexample
 -- name    : BayesProphet.MultiSec.Supplement.allocation_regret_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T06:12:21.992568+00:00
 -- url     : https://prove2.me/theorems/afd7e5c6-a800-49f5-a721-052ba79d4161

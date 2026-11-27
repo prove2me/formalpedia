@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SocialManip_Beliefs_Supplement_lemma_2
 -- name    : SocialManip.Beliefs.Supplement.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T04:19:57.813254+00:00
 -- url     : https://prove2.me/theorems/9d945fdb-91a4-4158-81b3-726c6fe6abf7

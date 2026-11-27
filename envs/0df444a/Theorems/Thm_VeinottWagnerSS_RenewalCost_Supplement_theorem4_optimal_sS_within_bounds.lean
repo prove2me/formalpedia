@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_RenewalCost_Supplement_theorem4_optimal_sS_within_bounds
 -- name    : VeinottWagnerSS.RenewalCost.Supplement.theorem4_optimal_sS_within_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:27:25.408987+00:00
 -- url     : https://prove2.me/theorems/fff827f9-bcb2-476e-9764-ecfb215fd313

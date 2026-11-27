@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilevelSOC_SecondOrder_Supplement_corollary_2_9
 -- name    : BilevelSOC.SecondOrder.Supplement.corollary_2_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T07:40:44.474347+00:00
 -- url     : https://prove2.me/theorems/dae9e35d-c7a7-465f-b970-53d17133c4b0

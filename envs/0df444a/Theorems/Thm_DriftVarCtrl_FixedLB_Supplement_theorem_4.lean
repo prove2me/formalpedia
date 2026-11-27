@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DriftVarCtrl_FixedLB_Supplement_theorem_4
 -- name    : DriftVarCtrl.FixedLB.Supplement.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:47:28.315188+00:00
 -- url     : https://prove2.me/theorems/97745588-70d2-4032-9133-ff7e93ba1bfc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InnovAlloc_Optimal_Supplement_proposition_5
 -- name    : InnovAlloc.Optimal.Supplement.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T09:49:55.965484+00:00
 -- url     : https://prove2.me/theorems/518d78bc-bd74-44d0-9c43-f4e584a8b714

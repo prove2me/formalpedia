@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_RAlgorithm_width_dilation_lower_bound
 -- name    : ShorNonsmooth.RAlgorithm.width_dilation_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:14:00.001014+00:00
 -- url     : https://prove2.me/theorems/7775ae23-da2f-4e49-bd15-6bd06ed48711

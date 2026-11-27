@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateContinualCounting_Kraft_lti_divergence
 -- name    : PrivateContinualCounting.Kraft.lti_divergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:01:12.337645+00:00
 -- url     : https://prove2.me/theorems/91e8f47d-6f6f-4af7-821f-329578ff0a65

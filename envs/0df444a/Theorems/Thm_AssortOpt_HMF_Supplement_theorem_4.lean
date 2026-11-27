@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortOpt_HMF_Supplement_theorem_4
 -- name    : AssortOpt.HMF.Supplement.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T07:21:59.022611+00:00
 -- url     : https://prove2.me/theorems/8c53e433-8a57-4a09-8428-077cd4235c0b

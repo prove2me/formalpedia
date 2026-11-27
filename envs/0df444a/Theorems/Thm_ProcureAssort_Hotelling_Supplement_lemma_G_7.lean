@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcureAssort_Hotelling_Supplement_lemma_G_7
 -- name    : ProcureAssort.Hotelling.Supplement.lemma_G_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T12:36:09.950985+00:00
 -- url     : https://prove2.me/theorems/4924cb5f-8365-4a12-8e84-66c9ddd2b3f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRJointCC_Individual_Supplement_theorem_3_4
 -- name    : DRJointCC.Individual.Supplement.theorem_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T11:33:49.75283+00:00
 -- url     : https://prove2.me/theorems/34e07438-c1ca-40a6-9b13-1ef608dee2ae

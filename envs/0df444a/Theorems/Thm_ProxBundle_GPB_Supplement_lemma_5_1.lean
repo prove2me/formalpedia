@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxBundle_GPB_Supplement_lemma_5_1
 -- name    : ProxBundle.GPB.Supplement.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T03:35:31.569824+00:00
 -- url     : https://prove2.me/theorems/4babf6c2-56d8-407e-8ccd-e2d758d46f54

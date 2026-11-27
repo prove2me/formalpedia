@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_Regulator_Supplement_proposition_4_1
 -- name    : ReedGGN.Regulator.Supplement.proposition_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T05:06:47.524897+00:00
 -- url     : https://prove2.me/theorems/9b778b13-f3a2-4fbb-b62a-3449430fa17a

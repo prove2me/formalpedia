@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PLCMarkets_ExactCover_Supplement_lemma_6_3_total_demand_bound
 -- name    : PLCMarkets.ExactCover.Supplement.lemma_6_3_total_demand_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:20:32.590707+00:00
 -- url     : https://prove2.me/theorems/94ef4c3c-f334-4989-85f3-c62c0c9684a9

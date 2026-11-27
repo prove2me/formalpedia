@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROOptimal_Predictor_Supplement_theorem_11
 -- name    : DROOptimal.Predictor.Supplement.theorem_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T08:34:17.366815+00:00
 -- url     : https://prove2.me/theorems/c1ce769b-f24a-4283-8810-07543920ee83

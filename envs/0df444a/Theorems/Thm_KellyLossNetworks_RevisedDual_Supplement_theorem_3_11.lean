@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyLossNetworks_RevisedDual_Supplement_theorem_3_11
 -- name    : KellyLossNetworks.RevisedDual.Supplement.theorem_3_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T02:59:01.263687+00:00
 -- url     : https://prove2.me/theorems/3af1f6db-2899-4ead-a26c-61ca62cafa27

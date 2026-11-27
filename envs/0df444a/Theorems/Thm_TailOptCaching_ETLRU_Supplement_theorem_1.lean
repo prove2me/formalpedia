@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailOptCaching_ETLRU_Supplement_theorem_1
 -- name    : TailOptCaching.ETLRU.Supplement.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T07:50:04.522682+00:00
 -- url     : https://prove2.me/theorems/5d0cd40c-6703-4209-a2d9-0d873bf807b0

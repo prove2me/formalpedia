@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoAIndep_Topology_Supplement_lemma_4_8
 -- name    : PoAIndep.Topology.Supplement.lemma_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T09:11:42.862999+00:00
 -- url     : https://prove2.me/theorems/2751f512-e51b-4006-8795-5edb23ba494c

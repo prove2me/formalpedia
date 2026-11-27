@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CubicNewton_Nonconvex_Supplement_lemma_9
 -- name    : CubicNewton.Nonconvex.Supplement.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T08:13:17.482847+00:00
 -- url     : https://prove2.me/theorems/51dee5c3-5799-4711-818a-ed489d716e85

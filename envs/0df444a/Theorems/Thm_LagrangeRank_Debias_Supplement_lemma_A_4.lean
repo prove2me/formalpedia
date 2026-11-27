@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LagrangeRank_Debias_Supplement_lemma_A_4
 -- name    : LagrangeRank.Debias.Supplement.lemma_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T03:50:18.325643+00:00
 -- url     : https://prove2.me/theorems/9b5c3dc7-09a5-4250-b4ff-9a80a2801b1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateContinualCounting_Kraft_fixed_period
 -- name    : PrivateContinualCounting.Kraft.fixed_period
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:01:28.273494+00:00
 -- url     : https://prove2.me/theorems/d21e0c75-764b-4e9e-89a9-6fc02eb32f97

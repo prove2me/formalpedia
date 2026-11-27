@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseLpLq_SmallP_Supplement_lemma_c_3
 -- name    : SparseLpLq.SmallP.Supplement.lemma_c_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T07:14:41.73181+00:00
 -- url     : https://prove2.me/theorems/04adf65d-3c51-447b-b126-2ebe42046fe1

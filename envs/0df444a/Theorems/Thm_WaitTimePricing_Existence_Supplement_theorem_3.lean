@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitTimePricing_Existence_Supplement_theorem_3
 -- name    : WaitTimePricing.Existence.Supplement.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T03:42:12.960658+00:00
 -- url     : https://prove2.me/theorems/328d01d6-1545-4d38-81e8-1d9fa488fce9
