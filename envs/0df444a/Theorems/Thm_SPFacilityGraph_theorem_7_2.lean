@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPFacilityGraph_theorem_7_2
 -- name    : SPFacilityGraph.theorem_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:07:40.80992+00:00
 -- url     : https://prove2.me/theorems/73b331d7-6670-4cb8-8f08-d48f6371f0d2

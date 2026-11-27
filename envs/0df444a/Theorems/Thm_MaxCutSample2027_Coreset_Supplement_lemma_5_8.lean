@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxCutSample2027_Coreset_Supplement_lemma_5_8
 -- name    : MaxCutSample2027.Coreset.Supplement.lemma_5_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T10:10:22.897209+00:00
 -- url     : https://prove2.me/theorems/1e84e643-7fda-472c-822b-981f6b8e54b0

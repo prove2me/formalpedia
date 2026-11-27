@@ -37390,9 +37390,9 @@
 {"parent": "QEC.Coding.BDL26GraphQuantitativeBounds.rxZeroCell_card_le", "child": "QEC_Coding_FiniteAlternatingConstruction_GraphQuantitativeBounds", "via": ["solution", "statement"]}
 {"parent": "MaxIsoVertexCuts_Shredders_GraphData", "child": "CongruencyTU_Machine", "via": ["statement"]}
 {"parent": "MaxIsoVertexCuts_Shredders_GraphData", "child": "MaxIsoVertexCuts_Shredders_Representations", "via": ["statement"]}
-{"parent": "RobersonCx.lemma_20", "child": "HadwigerConj_Defs", "via": ["statement"]}
-{"parent": "RobersonCx.lemma_20", "child": "RobersonCx_circulantD", "via": ["statement"]}
-{"parent": "RobersonCx.lemma_20", "child": "RobersonCx_aInv", "via": ["statement"]}
+{"parent": "RobersonCx.lemma_20", "child": "HadwigerConj_Defs", "via": ["solution", "statement"]}
+{"parent": "RobersonCx.lemma_20", "child": "RobersonCx_circulantD", "via": ["solution", "statement"]}
+{"parent": "RobersonCx.lemma_20", "child": "RobersonCx_aInv", "via": ["solution", "statement"]}
 {"parent": "ChaChaTree.DynOpt.lemma_7", "child": "ChaChaTree_DynOpt_Instance", "via": ["statement"]}
 {"parent": "ChaChaTree.DynOpt.lemma_7", "child": "ChaChaTree_DynOpt_Split", "via": ["statement"]}
 {"parent": "ChaChaTree.DynOpt.lemma_7", "child": "ChaChaTree_DynOpt_Rectangles", "via": ["statement"]}
@@ -39889,7 +39889,7 @@
 {"parent": "OAI.SharpPlanar.Numerical.U55.entry1_0_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
 {"parent": "ProbabilityTheory.leanlevy_chat26b_smearedMeasure_finite_public", "child": "LeanLevy_Levy_LevyKhintchineUniqueness", "via": ["solution", "statement"]}
 {"parent": "LoadBalMatch_Main_FracMatching", "child": "LoadBalMatch_Main_Matching", "via": ["statement"]}
-{"parent": "RobersonCx.circulantD_connected_regular", "child": "RobersonCx_circulantD", "via": ["statement"]}
+{"parent": "RobersonCx.circulantD_connected_regular", "child": "RobersonCx_circulantD", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.lentry9_5_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.lentry9_5_contains_g", "child": "OAIQ098G154", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm33_1_0_13.s4_eq_g", "child": "OAIQ098G1154", "via": ["solution", "statement"]}
@@ -41155,8 +41155,8 @@
 {"parent": "MinSumRadiiPTAS.Main.theorem_1_1", "child": "MinSumFPT_Machine", "via": ["statement"]}
 {"parent": "MinSumRadiiPTAS.Main.theorem_1_1", "child": "MinSumClust_IsMetric", "via": ["statement"]}
 {"parent": "MultiInterm.Compete.lemma_C_1", "child": "MultiInterm_Compete_ValueDistribution", "via": ["solution", "statement"]}
-{"parent": "RobersonCx.lemma_13", "child": "RobersonCx_circulantD", "via": ["statement"]}
-{"parent": "RobersonCx.lemma_13", "child": "RobersonCx_TwLE", "via": ["statement"]}
+{"parent": "RobersonCx.lemma_13", "child": "RobersonCx_circulantD", "via": ["solution", "statement"]}
+{"parent": "RobersonCx.lemma_13", "child": "RobersonCx_TwLE", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXDecoderAdapter.rxXLift_boundary_other_x", "child": "QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Flow", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXDecoderAdapter.rxXLift_boundary_other_x", "child": "QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Lifts", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXDecoderAdapter.rxXLift_boundary_other_x", "child": "QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Representative", "via": ["solution", "statement"]}
@@ -42140,8 +42140,8 @@
 {"parent": "QEC.Coding.BDL26FiniteCohomology.finite_left_inverse", "child": "QEC_Coding_FiniteAlternatingConstruction_RZCohomology", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26FiniteCohomology.finite_left_inverse", "child": "QEC_Coding_FiniteAlternatingConstruction_SeedCohomology", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26FiniteCohomology.finite_left_inverse", "child": "QEC.Locality.NoEdgeBetween.symm", "via": ["solution", "statement"]}
-{"parent": "RobersonCx.theorem_2", "child": "RobersonCx_ForbMinor", "via": ["statement"]}
-{"parent": "RobersonCx.theorem_2", "child": "RobersonCx_InCl", "via": ["statement"]}
+{"parent": "RobersonCx.theorem_2", "child": "RobersonCx_ForbMinor", "via": ["solution", "statement"]}
+{"parent": "RobersonCx.theorem_2", "child": "RobersonCx_InCl", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm31_1_0_12.s4_eq_g", "child": "OAIQ098G1138", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm31_1_0_12.s4_eq_g", "child": "OAIQ098G1133", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.power41_eq_g", "child": "OAIQ098G259", "via": ["solution", "statement"]}
@@ -43718,8 +43718,8 @@
 {"parent": "QEC.Coding.BDL26GraphQuantitativeBounds.rxParentFiber_card_le", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementSupport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26GraphQuantitativeBounds.rxParentFiber_card_le", "child": "QEC_Coding_FiniteAlternatingConstruction_BoundedValenceSuccessors", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26GraphQuantitativeBounds.rxParentFiber_card_le", "child": "QEC_Coding_FiniteAlternatingConstruction_GraphQuantitativeBounds", "via": ["solution", "statement"]}
-{"parent": "RobersonCx.lemma_4", "child": "RobersonCx_IsImmersion", "via": ["statement"]}
-{"parent": "RobersonCx.lemma_4", "child": "RobersonCx_IsTopMinor", "via": ["statement"]}
+{"parent": "RobersonCx.lemma_4", "child": "RobersonCx_IsImmersion", "via": ["solution", "statement"]}
+{"parent": "RobersonCx.lemma_4", "child": "RobersonCx_IsTopMinor", "via": ["solution", "statement"]}
 {"parent": "LoadBalMatch.Main.lemma_7_4", "child": "LoadBalMatch_Main_GallaiEdmonds", "via": ["statement"]}
 {"parent": "LoadBalMatch.Main.lemma_7_4", "child": "LoadBalMatch_Main_Matching", "via": ["statement"]}
 {"parent": "LoadBalMatch.Main.lemma_7_4", "child": "LoadBalMatch_Main_Violation", "via": ["statement"]}
@@ -45512,8 +45512,8 @@
 {"parent": "QEC.Distillation.KT19PrimeQuditCSS.CubicRowFamily.encodingLinearMap_apply_logical_basis", "child": "QEC_Distillation_PrimeQuditProtocol_CubicCSS", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.KT19PrimeQuditCSS.CubicRowFamily.encodingLinearMap_apply_logical_basis", "child": "QEC_Distillation_Core_TransversalGate", "via": ["solution", "statement"]}
 {"parent": "GEPPGrowth_Main_ThinQR", "child": "GEPPGrowth_Main_Gaussian", "via": ["statement"]}
-{"parent": "RobersonCx.lemma_17", "child": "RobersonCx_circulantD", "via": ["statement"]}
-{"parent": "RobersonCx.lemma_17", "child": "RobersonCx_TwLE", "via": ["statement"]}
+{"parent": "RobersonCx.lemma_17", "child": "RobersonCx_circulantD", "via": ["solution", "statement"]}
+{"parent": "RobersonCx.lemma_17", "child": "RobersonCx_TwLE", "via": ["solution", "statement"]}
 {"parent": "CrashLocal.ConsNbhd.lemma_19", "child": "CrashLocal_ConsNbhd_Algorithms", "via": ["statement"]}
 {"parent": "CrashLocal.ConsNbhd.lemma_19", "child": "CrashLocal_ConsNbhd_Problem", "via": ["statement"]}
 {"parent": "SliceLinearity.Tests.lemma_6_12", "child": "SliceLinearity_Tests_BiasedAnalysis", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobersonCx_lemma_4
 -- name    : RobersonCx.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T23:13:27.281998+00:00
 -- url     : https://prove2.me/theorems/4ec87019-bde8-478c-abd9-96ad6320ffe4

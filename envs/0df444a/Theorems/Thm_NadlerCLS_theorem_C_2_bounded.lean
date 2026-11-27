@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NadlerCLS_theorem_C_2_bounded
 -- name    : NadlerCLS.theorem_C_2_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-26T23:28:40.834954+00:00
 -- url     : https://prove2.me/theorems/8adeab64-f977-500a-87cd-b19ed8614dc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_BdRPlus_log_one
 -- name    : Reformulated.AutPerF.BdRPlus.log_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:58:19.213797+00:00
 -- url     : https://prove2.me/theorems/550c4743-f10f-4e7a-9a06-32d2b7326f9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankingQueryCost_Joint_proposition_3_1
 -- name    : RankingQueryCost.Joint.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:24:50.005196+00:00
 -- url     : https://prove2.me/theorems/ba8cb9d3-12f2-4ebe-8d0d-6af575c96415

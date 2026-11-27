@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivPCP_corollary_4_4
 -- name    : PrivPCP.corollary_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:46:51.754865+00:00
 -- url     : https://prove2.me/theorems/e361d6d1-515b-4417-a4f8-5568f3eb558b

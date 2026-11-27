@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPFacilityGraph_lemma_Q_4
 -- name    : SPFacilityGraph.lemma_Q_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:04:34.420009+00:00
 -- url     : https://prove2.me/theorems/e622a07f-2407-49ac-bdff-d6c35ab1acca

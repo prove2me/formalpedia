@@ -15224,8 +15224,8 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.Dv.neg", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsNormRepresentation", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.Dv.neg", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_AddMulInvMem", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.Dv.neg", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomFrame", "via": ["solution", "statement"]}
-{"parent": "LinearChoresCLS.chores_cls_reduction", "child": "LinearChoresCLS_ChoresSearch", "via": ["statement"]}
-{"parent": "LinearChoresCLS.chores_cls_reduction", "child": "NetworkEquilibriumCLS_LinearNash_Complexity", "via": ["statement"]}
+{"parent": "LinearChoresCLS.chores_cls_reduction", "child": "LinearChoresCLS_ChoresSearch", "via": ["solution", "statement"]}
+{"parent": "LinearChoresCLS.chores_cls_reduction", "child": "NetworkEquilibriumCLS_LinearNash_Complexity", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.LocF.star_gram_det", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityRatio", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.LocF.star_gram_det", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_GmapLocEqOfFrame", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.LocF.star_gram_det", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LinearIndependentOfGramDetNeZero", "via": ["solution", "statement"]}
@@ -18054,8 +18054,8 @@
 {"parent": "Formalism.InvariantFactorPaths.BranchingDimensions.branchingDimensionFormula", "child": "Formalism_ThetaLogCoordinates_ResidueClassEstimates_StatementT", "via": ["solution", "statement"]}
 {"parent": "LinearChoresCLS.unary_to_epsQKKT_reduction", "child": "LinearChoresCLS_EpsKKT", "via": ["statement"]}
 {"parent": "LinearChoresCLS.unary_to_epsQKKT_reduction", "child": "UnaryQuadraticKKT_Hardness_Input", "via": ["statement"]}
-{"parent": "LinearChoresCLS.epsQKKT_cls_membership", "child": "NetworkEquilibriumCLS_LinearNash_Complexity", "via": ["statement"]}
-{"parent": "LinearChoresCLS.epsQKKT_cls_membership", "child": "LinearChoresCLS_EpsKKT", "via": ["statement"]}
+{"parent": "LinearChoresCLS.epsQKKT_cls_membership", "child": "NetworkEquilibriumCLS_LinearNash_Complexity", "via": ["solution", "statement"]}
+{"parent": "LinearChoresCLS.epsQKKT_cls_membership", "child": "LinearChoresCLS_EpsKKT", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.R.JacobianCriterionAlt.le_ptIdeal_of_nontrivial", "child": "ReciprocityTheory_AnalyticForms_RegularLocalRings_JacChartA", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.R.JacobianCriterionAlt.le_ptIdeal_of_nontrivial", "child": "Lemmata_GeneralBFactLeftMore_Imports", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TwistTranslate.gen_congr", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_TwistedPowTranslate", "via": ["solution", "statement"]}

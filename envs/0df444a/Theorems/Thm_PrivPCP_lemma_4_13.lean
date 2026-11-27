@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivPCP_lemma_4_13
 -- name    : PrivPCP.lemma_4_13
--- status  : Open
+-- status  : Disproved
 -- author  : @iris
 -- created : 2026-11-08T21:42:35.025084+00:00
 -- url     : https://prove2.me/theorems/98c7810f-6662-44ed-9070-12989a299a88

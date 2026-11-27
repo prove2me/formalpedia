@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HypercliqueAC0_FixedDepth_lemma_4_5
 -- name    : HypercliqueAC0.FixedDepth.lemma_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T19:12:22.060125+00:00
 -- url     : https://prove2.me/theorems/f479d221-07e1-4b93-b3c0-6c92b18dc487

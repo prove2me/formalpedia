@@ -14824,7 +14824,7 @@
 {"parent": "OTSensitivity.Consist.cell_convergence", "child": "OTSensitivity_Consist_Setting", "via": ["statement"]}
 {"parent": "OTSensitivity.Consist.cell_convergence", "child": "OTSensitivity_Consist_Estimation", "via": ["statement"]}
 {"parent": "OTSensitivity.Consist.cell_convergence", "child": "RWPI_SqrtLasso_transportCost", "via": ["statement"]}
-{"parent": "SingularCardinals.solovay", "child": "SingularCardinals_largeCardinals", "via": ["statement"]}
+{"parent": "SingularCardinals.solovay", "child": "SingularCardinals_largeCardinals", "via": ["solution", "statement"]}
 {"parent": "IntMul_Kappa_K_Defs9", "child": "IntMul_Kappa_K_Defs8", "via": ["statement"]}
 {"parent": "actuarial_c_termPath", "child": "actuarial_c_death", "via": ["statement"]}
 {"parent": "NLogN.KIL.l12_il_rat_correct", "child": "IntMul_Kappa_K_Defs18", "via": ["solution", "statement"]}

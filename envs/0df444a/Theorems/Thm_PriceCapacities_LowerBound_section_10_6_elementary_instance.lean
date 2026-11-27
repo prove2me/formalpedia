@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceCapacities_LowerBound_section_10_6_elementary_instance
 -- name    : PriceCapacities.LowerBound.section_10_6_elementary_instance
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T00:24:13.931187+00:00
 -- url     : https://prove2.me/theorems/669ad0b9-75a3-4f80-ab40-097bf2341e97

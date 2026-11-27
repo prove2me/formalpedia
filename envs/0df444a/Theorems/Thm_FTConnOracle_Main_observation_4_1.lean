@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FTConnOracle_Main_observation_4_1
 -- name    : FTConnOracle.Main.observation_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T19:32:51.043684+00:00
 -- url     : https://prove2.me/theorems/79886e25-e791-4a44-99b4-fff98c881751

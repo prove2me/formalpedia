@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AbelianCayleyHDX_Supplement_theorem_1_3
 -- name    : AbelianCayleyHDX.Supplement.theorem_1_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T10:06:10.684736+00:00
 -- url     : https://prove2.me/theorems/1824bca2-8ddb-4a8e-9642-389dafa1fd41

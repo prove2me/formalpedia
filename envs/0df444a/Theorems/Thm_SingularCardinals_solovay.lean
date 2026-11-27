@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingularCardinals_solovay
 -- name    : SingularCardinals.solovay
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-10-11T14:50:34.757508+00:00
 -- url     : https://prove2.me/theorems/e37da9a8-e919-45d4-8959-8cf68306e30e

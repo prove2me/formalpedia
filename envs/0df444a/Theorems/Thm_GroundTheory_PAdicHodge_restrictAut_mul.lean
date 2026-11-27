@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_restrictAut_mul
 -- name    : GroundTheory.PAdicHodge.restrictAut_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:47:22.336855+00:00
 -- url     : https://prove2.me/theorems/c065abce-94f1-40b5-a8c6-b5fe5aa9e056

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustCorrClust_Main_lemma_6_2
 -- name    : RobustCorrClust.Main.lemma_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T05:39:37.36122+00:00
 -- url     : https://prove2.me/theorems/76549ea6-d5fa-412e-8da2-07786369fe3f

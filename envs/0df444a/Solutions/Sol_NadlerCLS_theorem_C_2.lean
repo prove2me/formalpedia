@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NadlerCLS.theorem_C_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-26T23:30:51.758389+00:00
 -- url     : https://prove2.me/submissions/6dfb2dac-4942-43da-8075-274a3583cfa7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_NetworkEquilibriumCLS_LinearNash_Complexity

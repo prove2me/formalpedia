@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_karamataExpTiltSupport
 -- name    : Kyprianou.Ch05.karamataExpTiltSupport
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T21:48:28.610659+00:00
 -- url     : https://prove2.me/theorems/f6133d3c-bd90-5033-b638-d1a4524fd507

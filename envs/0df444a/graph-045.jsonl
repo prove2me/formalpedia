@@ -40886,7 +40886,7 @@
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CutLam", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CutMP2", "via": ["statement"]}
 {"parent": "P2M_ReciprocityTheory_PGsh_DualPair_fr_comp___e46f679c4983", "child": "ReciprocityTheory_DualLattices_ModuliPointsState", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_PGsh_DualPair_fr_comp___e46f679c4983", "child": "ReciprocityTheory_DualLattices_NilSurjOfSqZero", "via": ["solution", "statement"]}
-{"parent": "Arxiv1810_02867.scalar_wave_equation", "child": "Arxiv1810_02867_Basic", "via": ["statement"]}
+{"parent": "Arxiv1810_02867.scalar_wave_equation", "child": "Arxiv1810_02867_Basic", "via": ["solution", "statement"]}
 {"parent": "PI.Dv.GLatHermW.isCM_cf", "child": "Formalism_PeriodIntegrals_DivisionRowsRationalLattice", "via": ["solution", "statement"]}
 {"parent": "PI.Dv.GLatHermW.isCM_cf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HermitianGroupLattices_AsAlgebraHomEG", "via": ["solution", "statement"]}
 {"parent": "PI.Dv.GLatHermW.isCM_cf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HermitianGroupLattices_IsCMFormEOf", "via": ["solution", "statement"]}
@@ -76439,7 +76439,7 @@
 {"parent": "GlobalTheory.ModIdent.isAdm_symm", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_DiscreteSeriesUnitary__MaxMass_96db7412d6455637", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_RestTerms_CombCellOfWordMem_proof_2452618bd9a8", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_StatementsComb", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_RestTerms_CombCellOfWordMem_proof_2452618bd9a8", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_PCombCellOfWordMem", "via": ["solution", "statement"]}
-{"parent": "RoughSurfaceScattering.point_source_data_bound", "child": "RoughSurfaceScattering_Basic", "via": ["statement"]}
+{"parent": "RoughSurfaceScattering.point_source_data_bound", "child": "RoughSurfaceScattering_Basic", "via": ["solution", "statement"]}
 {"parent": "Arxiv1909_04681.kappa_approx_limits", "child": "Arxiv1909_04681_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_RestTerms_CombPcntAppend_proof_9bef55802bfa", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_PCombPcntAppend", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_RestTerms_CombPcntAppend_proof_9bef55802bfa", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_StatementsComb", "via": ["solution", "statement"]}

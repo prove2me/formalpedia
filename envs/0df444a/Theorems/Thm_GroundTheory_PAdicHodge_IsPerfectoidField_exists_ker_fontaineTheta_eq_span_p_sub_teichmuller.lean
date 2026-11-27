@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_exists_ker_fontaineTheta_eq_span_p_sub_teichmuller
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.exists_ker_fontaineTheta_eq_span_p_sub_teichmuller
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:01:03.931849+00:00
 -- url     : https://prove2.me/theorems/db786115-25d3-4e8d-8605-55cfe73ebad4

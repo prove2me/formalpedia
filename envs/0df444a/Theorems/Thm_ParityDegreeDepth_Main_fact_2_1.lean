@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParityDegreeDepth_Main_fact_2_1
 -- name    : ParityDegreeDepth.Main.fact_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:23:53.389473+00:00
 -- url     : https://prove2.me/theorems/d32dfffa-9c3c-4e49-b64c-41122f2c95ed

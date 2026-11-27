@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AbelianCayleyHDX_explicit_relation_complexes
 -- name    : AbelianCayleyHDX.explicit_relation_complexes
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-26T23:23:06.731891+00:00
 -- url     : https://prove2.me/theorems/45b40e30-429f-5822-a99a-99e0a0804ecc

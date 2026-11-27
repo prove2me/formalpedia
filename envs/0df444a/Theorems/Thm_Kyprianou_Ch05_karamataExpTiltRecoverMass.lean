@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_karamataExpTiltRecoverMass
 -- name    : Kyprianou.Ch05.karamataExpTiltRecoverMass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T21:48:31.142553+00:00
 -- url     : https://prove2.me/theorems/f760aa28-0b73-4808-ac8c-acce9a80fb0e

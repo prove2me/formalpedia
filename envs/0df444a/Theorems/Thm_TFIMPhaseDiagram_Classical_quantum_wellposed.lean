@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TFIMPhaseDiagram_Classical_quantum_wellposed
 -- name    : TFIMPhaseDiagram.Classical.quantum_wellposed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:03:46.063435+00:00
 -- url     : https://prove2.me/theorems/42b6fd88-207c-4879-94ec-5ff4eca24c7a

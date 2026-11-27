@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TFIMPhaseDiagram_Classical_lemma_18
 -- name    : TFIMPhaseDiagram.Classical.lemma_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:04:24.604001+00:00
 -- url     : https://prove2.me/theorems/d8725698-f88e-4da3-a8d4-e7578c89a9fd

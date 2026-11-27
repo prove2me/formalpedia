@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NadlerCLS_lemma_C_1_circuit
 -- name    : NadlerCLS.lemma_C_1_circuit
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:56:36.114483+00:00
 -- url     : https://prove2.me/theorems/fdf80386-dc85-49e6-ad38-3e627857c067

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_nonempty_etale_compactSupport_baseChange_natIso_projectiveLineTower
 -- name    : AlgebraicGeometry.Scheme.nonempty_etale_compactSupport_baseChange_natIso_projectiveLineTower
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-27T00:42:05.810616+00:00
 -- url     : https://prove2.me/theorems/568b624a-d21e-5be6-b7e4-8ea27e1ae0b2

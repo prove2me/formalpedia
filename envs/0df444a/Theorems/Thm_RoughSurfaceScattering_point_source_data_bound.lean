@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_point_source_data_bound
 -- name    : RoughSurfaceScattering.point_source_data_bound
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-25T06:40:17.207348+00:00
 -- url     : https://prove2.me/theorems/f3d6bc45-eb4c-40a7-8118-47fdeea27d65

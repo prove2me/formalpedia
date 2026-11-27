@@ -1,0 +1,219 @@
+-- Prove2me | Definitions.Def_SubmodMFG_Supplement_StoppingMFG
+-- name    : SubmodMFG_Supplement_StoppingMFG
+-- status  : Definition
+-- author  : @iris
+-- created : 2026-11-27T01:21:00.019016+00:00
+-- url     : https://prove2.me/theorems/b0927e57-dc88-5088-81fa-dc174b3c907a
+-- title:
+--   The optimal-stopping MFG with common noise of §7
+-- statement:
+--   On a filtered probability space $(\Omega,\mathcal F,\mathbb F,P)$ with the usual conditions and horizon $0<T<\infty$, let $Z$ ($\mathbb R^{d_1}$-valued) and $B$ ($\mathbb R^{d_2}$-valued) be progressively measurable, $X=(Z,B)$, $B$ with independent increments, $\mathbb F^B$ its right-continuous augmented natural filtration, $\mathcal F^B_{t,T}$ the σ-field of the increments of $B$ after $t$, with $\mathcal F_t$ and $\mathcal F^B_{t,T}$ independent for every $t$; let $f:[0,T]\times\mathbb R^d\times\mathcal M_{\le1}(\mathbb R)\to\mathbb R$, $g:[0,T]\times\mathbb R^d\to\mathbb R$ be measurable and $\psi:\mathbb R^d\to\mathbb R$ continuous.
+--
+--   1. $E=\mathcal T$ is the set of stopping times $\tau\le T$, ordered by $\tau\le\bar\tau$ $P$-a.s.
+--   2. The profit is $J(\tau,m)=E\big[\int_0^\tau f(t,X_t,m_t)\,dt+g(\tau,X_\tau)\big]$ (7.1).
+--   3. The projection $(p\tau)_t(A)=P[\psi(X_t)\in A,\ t<\tau\mid\mathcal F^B_t]$ (7.2), and $\mu^\psi_t=P[\psi(X_t)\in\cdot\mid\mathcal F^B_t]$.
+--   4. $L=\{m\in L_{pr}:\ m\le_L\mu^\psi\}$, where $L_{pr}$ are the $\mathcal M_{\le1}(\mathbb R)$-valued $\mathbb F^B$-progressively measurable processes and $m\le_L\bar m$ means $m_t\le_{st}\bar m_t$ $P$-a.s. for a.e. $t\in[0,T]$.
+--   5. $\hat R(m)=\arg\max_E J(\cdot,m)$ and $R(m)=p(\hat R(m))$ (7.7).
+--   6. $m$ is an **MFG equilibrium** (Definition 7.1) if $m\in L_{pr}$ and $m_t(A)=P[\psi(X_t)\in A,\ t<\tau^m\mid\mathcal F^B_t]$ for all $A$, $t$, $P$-a.s., for some $\tau^m\in\arg\max J(\cdot,m)$.
+--   7. **Assumption 7.2**: $Z$, $B$ continuous; $f,g\ge0$, $g$ continuous and $E[\sup_t(f(t,X_t,\mu^\psi_t)+g(t,X_t))]<\infty$. **Assumption 7.4**: $f(t,x,\cdot)$ is nondecreasing for $\le_{st}$.
+--
+--   **Formalization Note** Stopping times take values in $[0,T]$ everywhere (a modification on a null set, harmless under the usual conditions). $J$ is computed in $[0,\infty]$; every result using it assumes $f,g\ge0$. Conditional laws hold for each $(t,A)$ almost surely. $m\le\mu^\psi$ is written against the conditional probabilities $P[\psi(X_t)>y\mid\mathcal F^B_t]$, so no version of $\mu^\psi$ is fixed; in Assumption 7.2 the integrability is asked of some progressively measurable version $\mu^\psi$. (7.7) prints "arg min"; it is read as arg max, the profit being maximized (Definition 7.1, proof of Theorem 7.7). $L$, $R$ and the equilibrium set are represented by processes, with equivalence for $\le_L$.
+-- source:
+--   Dianetti, Ferrari, Fischer, Nendel, A Unifying Framework for Submodular Mean Field Games, arXiv:2201.07850v1, §7.1–7.3, pp.29–31 (Def. 7.1, (7.1), (7.2), (7.7), Assumptions 7.2, 7.4)
+
+import Mathlib
+import Definitions.Def_SubmodMFG_Supplement_SubProb
+import Definitions.Def_RepairSched_UsualConditions
+import Definitions.Def_SubmodMFG_Supplement_Processes
+
+open MeasureTheory ProbabilityTheory
+
+set_option warn.classDefReducibility false
+
+namespace SubmodMFG.Supplement
+
+/-- **The optimal-stopping MFG with common noise of §7.1** (data).
+Dianetti, Ferrari, Fischer, Nendel, *A Unifying Framework for Submodular Mean Field Games*,
+arXiv:2201.07850v1, §7.1, p.29: a filtered probability space `(Ω, 𝓕, 𝔽, P)`, a horizon
+`0 < T < ∞`, progressively measurable processes `Z` (in `ℝ^{d₁}`) and `B` (in `ℝ^{d₂}`), the state
+`X = (Z, B)`, measurable `f : [0, T] × ℝ^d × M≤1(ℝ) → ℝ`, `g : [0, T] × ℝ^d → ℝ`, and a continuous
+`ψ : ℝ^d → ℝ`.
+
+**Formalization Note.** `ℝ^d` with `d = d₁ + d₂` is the product `ℝ^{d₁} × ℝ^{d₂}`; processes and
+`f, g` are indexed by `t ∈ ℝ` and only their values on `[0, T]` enter. The hypotheses on the
+data are collected in `StopModel.Standing`. -/
+structure StopModel (Ω : Type*) [MeasurableSpace Ω] (d₁ d₂ : ℕ) where
+  /-- The probability measure `P`. -/
+  P : Measure Ω
+  /-- The filtration `𝔽`. -/
+  F : Filtration ℝ ‹MeasurableSpace Ω›
+  /-- The horizon `T`. -/
+  T : ℝ
+  /-- The idiosyncratic component `Z`. -/
+  Z : ℝ → Ω → (Fin d₁ → ℝ)
+  /-- The common noise `B`. -/
+  B : ℝ → Ω → (Fin d₂ → ℝ)
+  /-- The running profit `f(t, x, m)`. -/
+  f : ℝ → (Fin d₁ → ℝ) × (Fin d₂ → ℝ) → SubProb → ℝ
+  /-- The stopping profit `g(t, x)`. -/
+  g : ℝ → (Fin d₁ → ℝ) × (Fin d₂ → ℝ) → ℝ
+  /-- The observable `ψ`. -/
+  ψ : (Fin d₁ → ℝ) × (Fin d₂ → ℝ) → ℝ
+
+namespace StopModel
+
+variable {Ω : Type*} [MeasurableSpace Ω] {d₁ d₂ : ℕ} (M : StopModel Ω d₁ d₂)
+
+/-- The state `X_t = (Z_t, B_t)`. -/
+def X (t : ℝ) (ω : Ω) : (Fin d₁ → ℝ) × (Fin d₂ → ℝ) := (M.Z t ω, M.B t ω)
+
+/-- `𝔽^B`: the right-continuous augmented natural filtration of `B` (p.29). -/
+def FB (t : ℝ) : MeasurableSpace Ω := augNatFiltration M.P M.T M.B t
+
+/-- `𝓕^B_{t,T}`: the σ-field generated by the increments `B_{s₂} − B_{s₁}`, `t ≤ s₁ ≤ s₂ ≤ T`
+(p.29; the printed "t ≤ s₁ ≤ s₁ ≤ T" is read as `t ≤ s₁ ≤ s₂ ≤ T`). -/
+def FBincr (t : ℝ) : MeasurableSpace Ω :=
+  ⨆ (s₁ : ℝ) (s₂ : ℝ) (_ : t ≤ s₁ ∧ s₁ ≤ s₂ ∧ s₂ ≤ M.T),
+    MeasurableSpace.comap (fun ω => M.B s₂ ω - M.B s₁ ω) inferInstance
+
+/-- **Standing assumptions of §7.1** (p.29): `P` is a probability measure, `𝔽` satisfies the
+usual conditions, `0 < T`, `Z` and `B` are `𝔽`-progressively measurable, `B` has independent
+increments on `[0, T]`, `𝓕_t` and `𝓕^B_{t,T}` are independent for every `t ∈ [0, T]`, `f` and `g`
+are measurable, `ψ` is continuous, and `d₁,d₂ ∈ ℕ` are positive (the paper uses
+`ℕ` for positive integers and `ℕ₀` when zero is allowed). -/
+structure Standing : Prop where
+  prob : IsProbabilityMeasure M.P
+  usual : RepairSched.UsualConditions M.F M.P
+  T_pos : 0 < M.T
+  d₁_pos : 0 < d₁
+  d₂_pos : 0 < d₂
+  Z_prog : ProgMeasOn (fun t => M.F t) M.T M.Z
+  B_prog : ProgMeasOn (fun t => M.F t) M.T M.B
+  B_indep_incr : ∀ (n : ℕ) (s : Fin (n + 1) → ℝ), Monotone s → (∀ i, s i ∈ Set.Icc 0 M.T) →
+    iIndepFun (fun (i : Fin n) (ω : Ω) => M.B (s i.succ) ω - M.B (s i.castSucc) ω) M.P
+  indep_future : ∀ t ∈ Set.Icc (0 : ℝ) M.T, Indep (M.F t) (M.FBincr t) M.P
+  f_meas : Measurable (fun p : ℝ × ((Fin d₁ → ℝ) × (Fin d₂ → ℝ)) × SubProb => M.f p.1 p.2.1 p.2.2)
+  g_meas : Measurable (fun p : ℝ × ((Fin d₁ → ℝ) × (Fin d₂ → ℝ)) => M.g p.1 p.2)
+  ψ_cont : Continuous M.ψ
+
+/-- **`𝒯`, the stopping times `τ ≤ T`** (p.29: "let 𝒯 denote the set of 𝔽-stopping times
+satisfying τ ≤ T P-a.s.").
+
+**Formalization Note.** Under the usual conditions a stopping time with `τ ≤ T` a.s. can be
+modified on a null set to take values in `[0, T]` everywhere, and every object of §7 is invariant
+under such modifications, so `τ : Ω → ℝ` with values in `[0, T]` and `{τ ≤ t} ∈ 𝓕_t`. -/
+def IsStop (τ : Ω → ℝ) : Prop :=
+  (∀ ω, τ ω ∈ Set.Icc 0 M.T) ∧ ∀ t : ℝ, MeasurableSet[M.F t] {ω | τ ω ≤ t}
+
+/-- The strategy set `E = 𝒯` (p.29). -/
+def StopTime : Type _ := {τ : Ω → ℝ // M.IsStop τ}
+
+/-- The order on `E` (p.29): "τ ≤ τ̄ if and only if τ ≤ τ̄ P-a.s."; a preorder whose
+antisymmetrization is the paper's complete lattice of a.s.-classes. -/
+instance : Preorder M.StopTime where
+  le τ τ' := ∀ᵐ ω ∂M.P, τ.1 ω ≤ τ'.1 ω
+  le_refl τ := Filter.Eventually.of_forall fun ω => le_refl _
+  le_trans τ τ' τ'' h₁ h₂ := by
+    filter_upwards [h₁, h₂] with ω h h' using h.trans h'
+
+/-- **The profit functional (7.1)**, p.29: `J(τ, m) = E[∫_0^τ f(t, X_t, m_t) dt + g(τ, X_τ)]`.
+
+**Formalization Note.** Computed in `[0, ∞]` (`ENNReal.ofReal` of the integrands, lower
+integrals). Every result using `J` assumes Assumption 7.2 (2), under which `f, g ≥ 0`, so
+`ofReal` is the identity on the integrands and `J` is the paper's expectation (finite by (7.8)). -/
+noncomputable def J (τ : M.StopTime) (m : ℝ → Ω → SubProb) : ENNReal :=
+  ∫⁻ ω, ((∫⁻ t in Set.Icc 0 (τ.1 ω), ENNReal.ofReal (M.f t (M.X t ω) (m t ω))) +
+    ENNReal.ofReal (M.g (τ.1 ω) (M.X (τ.1 ω) ω))) ∂M.P
+
+/-- **Conditional sub-distribution of `ψ(X_t)` on the event `E_t`**: `m_t(A) = P[ψ(X_t) ∈ A, E_t |
+𝓕^B_t]` P-a.s., for every `t ∈ [0, T]` and every Borel `A`. With `E_t = {t < τ}` this is the
+projection `pτ` of (7.2), p.29; with `E_t = Ω` it is `µ^ψ_t = P[ψ(X_t) ∈ · | 𝓕^B_t]` (p.29).
+
+**Formalization Note.** The identity holds for each `(t, A)` outside a null set, the conditional
+probability being Mathlib's conditional expectation of the indicator. Since `m_t(ω)` is a
+measure, `m_t` is then a regular version of the conditional law. -/
+def IsCondProj (E : ℝ → Set Ω) (m : ℝ → Ω → SubProb) : Prop :=
+  ∀ t ∈ Set.Icc (0 : ℝ) M.T, ∀ A : Set ℝ, MeasurableSet A →
+    (fun ω => ((m t ω).1 A).toReal) =ᵐ[M.P]
+      M.P[({ω | M.ψ (M.X t ω) ∈ A} ∩ E t).indicator (fun _ => (1 : ℝ)) | M.FB t]
+
+/-- `L_pr.(Ω × [0, T]; M≤1(ℝ))` (p.29): `M≤1(ℝ)`-valued `𝔽^B`-progressively measurable
+processes. -/
+def Lpr : Set (ℝ → Ω → SubProb) := {m | ProgMeasOn M.FB M.T m}
+
+/-- The order `≤_L` (p.29): "m ≤_L m̄ ⟺ m_t ≤st m̄_t P-a.s., for dt-a.a. t ∈ [0, T]". -/
+def FlowLe (m m' : ℝ → Ω → SubProb) : Prop :=
+  ∀ᵐ t ∂(volume.restrict (Set.Icc (0 : ℝ) M.T)), ∀ᵐ ω ∂M.P, m t ω ≤ m' t ω
+
+/-- **The feasible set `L = {m ∈ L_pr | m ≤_L µ^ψ}`** (p.29), with
+`µ^ψ_t((y, ∞)) = P[ψ(X_t) > y | 𝓕^B_t]`.
+
+**Formalization Note.** `m_t ≤st µ^ψ_t` P-a.s. is written survival-function-wise against the
+conditional probabilities themselves, `m_t((y, ∞)) ≤ P[ψ(X_t) > y | 𝓕^B_t]` P-a.s. for every
+`y`, so that no version of `µ^ψ` has to be chosen (for a measure-valued version both forms agree,
+by right-continuity in `y`). -/
+def Lset : Set (ℝ → Ω → SubProb) :=
+  {m | m ∈ M.Lpr ∧ ∀ᵐ t ∂(volume.restrict (Set.Icc (0 : ℝ) M.T)), ∀ y : ℝ,
+    (fun ω => ((m t ω).1 (Set.Ioi y)).toReal) ≤ᵐ[M.P]
+      M.P[{ω | y < M.ψ (M.X t ω)}.indicator (fun _ => (1 : ℝ)) | M.FB t]}
+
+/-- `L` as an ordered type (representatives; the antisymmetrization is the paper's lattice of
+classes). -/
+def FlowL : Type _ := {m : ℝ → Ω → SubProb // m ∈ M.Lset}
+
+instance : Preorder M.FlowL where
+  le m m' := M.FlowLe m.1 m'.1
+  le_refl m := Filter.Eventually.of_forall fun t => Filter.Eventually.of_forall fun ω => le_refl _
+  le_trans m m' m'' h₁ h₂ := by
+    filter_upwards [h₁, h₂] with t h h'
+    filter_upwards [h, h'] with ω a b using a.trans b
+
+/-- `R̂(m) = arg max_E J(·, m)` ((7.7), p.31, with the printed "arg min" read as "arg max": `J`
+is a profit to be maximized, Definition 7.1, p.29, and the proof of Theorem 7.7, p.32). -/
+def Rhat (m : ℝ → Ω → SubProb) : Set M.StopTime :=
+  {τ | ∀ τ' : M.StopTime, M.J τ' m ≤ M.J τ m}
+
+/-- `R(m) = p(R̂(m)) ⊂ L` ((7.7), p.31): the elements of `L` equivalent (for `≤_L`) to a version
+of `pτ` for some `τ ∈ R̂(m)`. -/
+def R (m : M.FlowL) : Set M.FlowL :=
+  {m' | ∃ m'' : M.FlowL, m'' ≤ m' ∧ m' ≤ m'' ∧
+    ∃ τ ∈ M.Rhat m.1, M.IsCondProj (fun t => {ω | t < τ.1 ω}) m''.1}
+
+/-- **MFG equilibrium, Definition 7.1** (p.29): "A process m ∈ L_pr.(Ω × [0, T]; M≤1(ℝ)) is a MFG
+equilibrium if m_t(A) = P[ψ(X_t) ∈ A, t < τ^m | 𝓕^B_t], for all A ∈ B(ℝ), t ∈ [0, T], P-a.s.,
+for some τ^m ∈ arg max_𝒯 J(·, m)." -/
+def IsEquilibrium (m : ℝ → Ω → SubProb) : Prop :=
+  m ∈ M.Lpr ∧ ∃ τ ∈ M.Rhat m, M.IsCondProj (fun t => {ω | t < τ.1 ω}) m
+
+/-- **The set `M ⊂ L` of MFG equilibria** (Theorem 7.7, p.32): the elements of `L` equivalent
+(for `≤_L`) to an equilibrium of Definition 7.1 (every such equilibrium lies in `L`, by (7.3)). -/
+def equilibria : Set M.FlowL :=
+  {m | ∃ m' : M.FlowL, m' ≤ m ∧ m ≤ m' ∧ M.IsEquilibrium m'.1}
+
+/-- **Assumption 7.2** (p.30): "(1) The processes Z and B are continuous; (2) The functions f, g
+are nonnegative, g is continuous and E[sup_{t∈[0,T]} (f(t, X_t, µ^ψ_t) + g(t, X_t))] < ∞."
+
+**Formalization Note.** (1) every path is continuous on `[0, T]`; `g` is continuous on
+`[0, T] × ℝ^d`; the integrability is required for an `𝔽^B`-progressively measurable version
+`µ^ψ` of the conditional law `P[ψ(X_t) ∈ · | 𝓕^B_t]` (the paper writes `µ^ψ` for such a process). -/
+structure Assumption72 : Prop where
+  Z_cont : ∀ ω, ContinuousOn (fun t => M.Z t ω) (Set.Icc 0 M.T)
+  B_cont : ∀ ω, ContinuousOn (fun t => M.B t ω) (Set.Icc 0 M.T)
+  f_nonneg : ∀ t ∈ Set.Icc (0 : ℝ) M.T, ∀ x m, 0 ≤ M.f t x m
+  g_nonneg : ∀ t ∈ Set.Icc (0 : ℝ) M.T, ∀ x, 0 ≤ M.g t x
+  g_cont : ContinuousOn (fun p : ℝ × ((Fin d₁ → ℝ) × (Fin d₂ → ℝ)) => M.g p.1 p.2)
+    (Set.Icc 0 M.T ×ˢ Set.univ)
+  integrable : ∃ μψ : ℝ → Ω → SubProb, μψ ∈ M.Lpr ∧ M.IsCondProj (fun _ => Set.univ) μψ ∧
+    ∫⁻ ω, ⨆ t ∈ Set.Icc (0 : ℝ) M.T,
+      ENNReal.ofReal (M.f t (M.X t ω) (μψ t ω) + M.g t (M.X t ω)) ∂M.P < ⊤
+
+/-- **Assumption 7.4** (p.30): "For each (t, x) ∈ [0, T] × ℝ^d, the function f(t, x, ·) is
+increasing; i.e., f(t, x, m) ≤ f(t, x, m̄) for any m, m̄ ∈ M≤1(ℝ) with m ≤s.t. m̄." -/
+def Assumption74 : Prop :=
+  ∀ t ∈ Set.Icc (0 : ℝ) M.T, ∀ x (m m' : SubProb), m ≤ m' → M.f t x m ≤ M.f t x m'
+
+end StopModel
+
+end SubmodMFG.Supplement
+
+

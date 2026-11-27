@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_isUnit_teichmuller_of_untilt_eq_one
 -- name    : GroundTheory.PAdicHodge.AInf.isUnit_teichmuller_of_untilt_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:47.770563+00:00
 -- url     : https://prove2.me/theorems/11a08e54-29a0-59ca-bd0f-148064829516

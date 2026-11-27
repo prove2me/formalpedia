@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearChoresCLS_chores_cls_reduction
 -- name    : LinearChoresCLS.chores_cls_reduction
--- status  : Open
+-- status  : Disproved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:20:17.033278+00:00
 -- url     : https://prove2.me/theorems/7a527381-9cfe-44d5-8e77-18fa8456d2b0

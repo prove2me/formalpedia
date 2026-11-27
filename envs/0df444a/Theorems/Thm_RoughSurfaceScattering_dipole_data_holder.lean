@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_dipole_data_holder
 -- name    : RoughSurfaceScattering.dipole_data_holder
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-26T15:13:25.868876+00:00
 -- url     : https://prove2.me/theorems/43dea653-38c3-5bdf-94d3-3bb15c48f24d

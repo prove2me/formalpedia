@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_ker_fontaineTheta_comp_frobeniusEquiv_symm_eq_span
 -- name    : GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_comp_frobeniusEquiv_symm_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:50.231908+00:00
 -- url     : https://prove2.me/theorems/bb0c3d0b-38c4-5925-b077-67992360c975

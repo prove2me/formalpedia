@@ -67537,7 +67537,7 @@
 {"parent": "ULHC.creach_mono", "child": "ULHC_Comp", "via": ["solution", "statement"]}
 {"parent": "ULHC.TF.deg_insert_end", "child": "ULHC_TwoFactor", "via": ["solution", "statement"]}
 {"parent": "ULHC.TF.deg_insert_end", "child": "ULHC_StripCount", "via": ["solution", "statement"]}
-{"parent": "RoughSurfaceScattering.lower_wavenumber_itp_bound", "child": "RoughSurfaceScattering_Basic", "via": ["statement"]}
+{"parent": "RoughSurfaceScattering.lower_wavenumber_itp_bound", "child": "RoughSurfaceScattering_Basic", "via": ["solution", "statement"]}
 {"parent": "HodgeComputer.Formal.QuadraticCovers.infinityCoefficient_mapRatFunc", "child": "HodgeComputerFormal_CoverResidues", "via": ["solution", "statement"]}
 {"parent": "GreedyRS.Greedy.Supplement.theorem3_full", "child": "GreedyRS_Greedy_Setting", "via": ["statement"]}
 {"parent": "GreedyRS.Greedy.Supplement.theorem3_full", "child": "GreedyRS.EFG.theorem3_efg_sample_optimality", "via": ["statement"]}
@@ -70067,7 +70067,7 @@
 {"parent": "GlobalTheory.RowTriangular.dpoly_monomial", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RowTriangular.dpoly_monomial", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermCut", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RowTriangular.dpoly_monomial", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_CIndBC", "via": ["solution", "statement"]}
-{"parent": "RoughSurfaceScattering.interface_itp_bound_dipole", "child": "RoughSurfaceScattering_Basic", "via": ["statement"]}
+{"parent": "RoughSurfaceScattering.interface_itp_bound_dipole", "child": "RoughSurfaceScattering_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_LowerBound_CuspWeightBound_full_bc3315d391dc", "child": "GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PMeanCuspWeight", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_LowerBound_CuspWeightBound_full_bc3315d391dc", "child": "GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PPackingCount", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_LowerBound_CuspWeightBound_full_bc3315d391dc", "child": "GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PMeanCountBound", "via": ["solution", "statement"]}
@@ -70303,7 +70303,7 @@
 {"parent": "ULHC.deg_back1", "child": "ULHC_Enum", "via": ["solution", "statement"]}
 {"parent": "ULHC.deg_back1", "child": "ULHC_Created", "via": ["solution", "statement"]}
 {"parent": "Development_WeilBound_RepresentationTheoryGL_FormalDegree_FormalDegreeHilbert_MomentRecursion_MomStep", "child": "Development_WeilBound_RepresentationTheoryGL_FormalDegree_FormalDegreeHilbert_MomB", "via": ["statement"]}
-{"parent": "RoughSurfaceScattering.mu_itp_bound", "child": "RoughSurfaceScattering_Basic", "via": ["statement"]}
+{"parent": "RoughSurfaceScattering.mu_itp_bound", "child": "RoughSurfaceScattering_Basic", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PLengthCutGlobal", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StLengthCutGlobal", "via": ["statement"]}
 {"parent": "LagrangeRank.Debias.Supplement.theorem_4_1", "child": "LagrangeRank_Debias_Supplement_Witnesses", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SmoothAlongCurveProductsStable", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LocallyIntegrableRep", "via": ["statement"]}
@@ -70882,7 +70882,7 @@
 {"parent": "PositivityTheory.Rg.Cz.kD_apply", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_KugaCoordinates_KugaAbsoluteValues_KSumApply", "via": ["solution", "statement"]}
 {"parent": "ULHC.stk_lat1_dn", "child": "ULHC_Near", "via": ["solution", "statement"]}
 {"parent": "ULHC.stk_lat1_dn", "child": "ULHC_Stacked", "via": ["solution", "statement"]}
-{"parent": "RoughSurfaceScattering.interface_itp_bound_point", "child": "RoughSurfaceScattering_Basic", "via": ["statement"]}
+{"parent": "RoughSurfaceScattering.interface_itp_bound_point", "child": "RoughSurfaceScattering_Basic", "via": ["solution", "statement"]}
 {"parent": "ULHC.rev_pat", "child": "ULHC_Reverse", "via": ["solution", "statement"]}
 {"parent": "ULHC.rev_pat", "child": "ULHC_NearLemma", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TorusSplitting_CoeffEqZeroOfOrthonormal", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_FourierProjections_HfNegRight", "via": ["statement"]}

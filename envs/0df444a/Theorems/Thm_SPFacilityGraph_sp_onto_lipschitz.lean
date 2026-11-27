@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPFacilityGraph_sp_onto_lipschitz
 -- name    : SPFacilityGraph.sp_onto_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-27T00:01:03.467335+00:00
 -- url     : https://prove2.me/theorems/2dc59077-42d0-5487-a5ac-7490efb73bbf

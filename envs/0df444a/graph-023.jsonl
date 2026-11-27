@@ -9315,7 +9315,7 @@
 {"parent": "MMSDelta2.lemma_A_1", "child": "MMSDelta2_LexMaxSAT", "via": ["statement"]}
 {"parent": "OAI.FirstPassCubeLabels.cubePairLocal_eq_character", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_FiniteOperator", "via": ["solution", "statement"]}
 {"parent": "OAI.FirstPassCubeLabels.cubePairLocal_eq_character", "child": "OAI_NumberTheory_DirichletL_Arithmetic_SquarefreeDivisors", "via": ["solution", "statement"]}
-{"parent": "EffRobustLearn.lemma_3_5", "child": "EffRobustLearn_feasibleSet", "via": ["statement"]}
+{"parent": "EffRobustLearn.lemma_3_5", "child": "EffRobustLearn_feasibleSet", "via": ["solution", "statement"]}
 {"parent": "BorderD4.lemma_6_11", "child": "BorderD4_evalAt", "via": ["statement"]}
 {"parent": "BorderD4.lemma_6_11", "child": "BorderD4_toK", "via": ["statement"]}
 {"parent": "BorderD4.lemma_6_11", "child": "BorderD4_resIn", "via": ["statement"]}

@@ -10053,9 +10053,9 @@
 {"parent": "SourceProof_70e19260acc6d4f0931811a5", "child": "SourceProof_7d8f5302e992422527b644b2", "via": ["statement"]}
 {"parent": "GroundTheory.PAdicHodge.maxMinor_mul_left", "child": "GroundTheory_PAdicHodge_SlopeCauchyBinet", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.PAdicHodge.maxMinor_mul_left", "child": "GroundTheory_PowerSubgroups_CountableNeighbourhoods_ExistsMaxMinorNeZeroOfLinearIndependentAlt", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_comp_frobeniusEquiv_symm_pow", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_comp_frobeniusEquiv_symm_pow", "child": "GroundTheory_PAdicHodge_TiltValuation", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_comp_frobeniusEquiv_symm_pow", "child": "GroundTheory_PAdicHodge_KerTheta", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_comp_frobeniusEquiv_symm_pow", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_comp_frobeniusEquiv_symm_pow", "child": "GroundTheory_PAdicHodge_TiltValuation", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_comp_frobeniusEquiv_symm_pow", "child": "GroundTheory_PAdicHodge_KerTheta", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.cycSub_normHom", "child": "GroundTheory_TateCohomology_HerbrandAbstract", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.cycSub_normHom", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_CyclicSubtraction", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.cycSub_normHom", "child": "GroundTheory_GlobalFields_HerbrandQuotients_Cyclic", "via": ["solution", "statement"]}
@@ -11448,7 +11448,7 @@
 {"parent": "GroundTheory.Automorphic.HarishChandra.toFinsupp_map_swap_cons", "child": "GroundTheory_AutomorphicForms_HarishChandraCentre_RhoOneEqZeroOfRhoZeroEqZero", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.HarishChandra.toFinsupp_map_swap_cons", "child": "GroundTheory_AutomorphicForms_HarishChandraCentre_MemCenterOfCommuteE", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.HarishChandra.toFinsupp_map_swap_cons", "child": "GroundTheory_AutomorphicForms_HarishChandraCentre_RepBase", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.PAdicHodge.restrictAut_mul", "child": "GroundTheory_PAdicHodge_FWGlue", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.restrictAut_mul", "child": "GroundTheory_PAdicHodge_FWGlue", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.Elliptic.analyticAt_weierstrassP_laurent", "child": "GroundTheory_GlobalFields_ComplexMultiplication_EllipticRational", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.Elliptic.analyticAt_weierstrassP_laurent", "child": "GroundTheory_GlobalFields_ComplexMultiplication_EllipticFunctions", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.Elliptic.analyticAt_weierstrassP_laurent", "child": "GroundTheory_GlobalFields_ComplexMultiplication_EllipticConstant", "via": ["solution", "statement"]}

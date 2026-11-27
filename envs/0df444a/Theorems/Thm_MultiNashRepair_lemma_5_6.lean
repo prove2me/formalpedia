@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiNashRepair_lemma_5_6
 -- name    : MultiNashRepair.lemma_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:35:28.580142+00:00
 -- url     : https://prove2.me/theorems/950aa355-3182-4775-b0d0-4ee0c67e4012

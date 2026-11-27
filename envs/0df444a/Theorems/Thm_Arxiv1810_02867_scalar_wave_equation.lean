@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1810_02867_scalar_wave_equation
 -- name    : Arxiv1810_02867.scalar_wave_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T05:21:00.854665+00:00
 -- url     : https://prove2.me/theorems/37f5cc12-2233-47b8-bad5-d576a8108669

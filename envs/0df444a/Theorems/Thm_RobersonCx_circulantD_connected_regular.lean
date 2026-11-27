@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobersonCx_circulantD_connected_regular
 -- name    : RobersonCx.circulantD_connected_regular
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T23:14:14.588908+00:00
 -- url     : https://prove2.me/theorems/47095842-b92f-4f5f-8311-34c81578a7c9

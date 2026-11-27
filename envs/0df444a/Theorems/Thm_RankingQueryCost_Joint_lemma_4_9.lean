@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankingQueryCost_Joint_lemma_4_9
 -- name    : RankingQueryCost.Joint.lemma_4_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:25:42.2972+00:00
 -- url     : https://prove2.me/theorems/3d145f9d-d163-49d3-bfa3-68b103c6b3b7

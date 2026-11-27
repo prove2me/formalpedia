@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobersonCx_theorem_2
 -- name    : RobersonCx.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T23:14:45.012396+00:00
 -- url     : https://prove2.me/theorems/5da3677b-d680-447e-bc0c-8d1dd1403e82

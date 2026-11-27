@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LpSubspaceCoreset_SmallP_lemma_3_2
 -- name    : LpSubspaceCoreset.SmallP.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T01:48:03.138204+00:00
 -- url     : https://prove2.me/theorems/63088585-e49d-4cc1-b04b-c8c066b5f48e

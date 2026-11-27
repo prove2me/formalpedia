@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindbladStructLearn_lemma_2_10
 -- name    : LindbladStructLearn.lemma_2_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:05:39.142715+00:00
 -- url     : https://prove2.me/theorems/59c0482f-35f6-44b0-84f7-ef26e733ba75

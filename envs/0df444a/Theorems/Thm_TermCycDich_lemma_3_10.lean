@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TermCycDich_lemma_3_10
 -- name    : TermCycDich.lemma_3_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:45:34.002921+00:00
 -- url     : https://prove2.me/theorems/6443d711-084f-4a99-8f2d-af59309e59e0

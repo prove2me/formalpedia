@@ -48884,7 +48884,7 @@
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankBlock0SlotsA", "child": "IntMul_Kappa_R8_Data_BitOppbankBlock0SlotsData", "via": ["statement"]}
 {"parent": "QuantumStateIdentity321.Schur.Supplement.lemma_2_3", "child": "QuantumStateIdentity321_Schur_Supplement_SchurSampling", "via": ["statement"]}
 {"parent": "RealAPSP.Supplement.theorem_7_6", "child": "RealAPSP_Supplement_BSG", "via": ["statement"]}
-{"parent": "MaxCutSample2027.Coreset.Supplement.lemma_5_4", "child": "MaxCutSample2027_Coreset_Supplement_rFractional", "via": ["statement"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.lemma_5_4", "child": "MaxCutSample2027_Coreset_Supplement_rFractional", "via": ["solution", "statement"]}
 {"parent": "MinDilationTree.Sublinear.Supplement.lemma_27", "child": "MinDilationTree_Sublinear_Supplement_Encoding", "via": ["statement"]}
 {"parent": "QTolTest1673.Unified.Supplement.theorem_1_2", "child": "QTolTest1673_Unified_Supplement_Model", "via": ["statement"]}
 {"parent": "DirKECC1549.Asm.big_K", "child": "DirKECC1549_Impl_DMath", "via": ["solution", "statement"]}
@@ -50983,7 +50983,7 @@
 {"parent": "DetCCHard.Supplement.theorem_6_17", "child": "DetCCHard_DeletionBounds", "via": ["statement"]}
 {"parent": "DetCCHard.Supplement.theorem_6_17", "child": "DetCCHard_interlaceOn", "via": ["statement"]}
 {"parent": "DetCCHard.Supplement.theorem_6_17", "child": "DetCCHard_Supplement_RawList", "via": ["statement"]}
-{"parent": "MaxCutSample2027.Coreset.Supplement.lemma_5_8", "child": "MaxCutSample2027_Coreset_Supplement_rSigned", "via": ["statement"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.lemma_5_8", "child": "MaxCutSample2027_Coreset_Supplement_rSigned", "via": ["solution", "statement"]}
 {"parent": "DSDensity1246_Main_Supplement_learning", "child": "DSDensity1246_Main_Supplement_probability", "via": ["statement"]}
 {"parent": "StableVotingDistortion.Supplement.theorem_7", "child": "StableVotingDistortion_Supplement_gDistortion", "via": ["statement"]}
 {"parent": "CanadaCTP.Supplement.theorem_8", "child": "CanadaCTP_Supplement_Offline", "via": ["statement"]}
@@ -56615,7 +56615,7 @@
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankSegsRMidALowsP10", "child": "IntMul_Kappa_R8_Data_BitOppbankBlock0LowsData", "via": ["statement"]}
 {"parent": "RefWPHP_Supplement_OntoWPHPHypothesis", "child": "RefWPHP_Supplement_ontoPhpCNF", "via": ["statement"]}
 {"parent": "RefWPHP_Supplement_OntoWPHPHypothesis", "child": "RefWPHP_Supplement_IsPKkDerivation", "via": ["statement"]}
-{"parent": "MaxCutSample2027.Coreset.Supplement.lemma_A_4", "child": "MaxCutSample2027_Coreset_Supplement_sampling", "via": ["statement"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.lemma_A_4", "child": "MaxCutSample2027_Coreset_Supplement_sampling", "via": ["solution", "statement"]}
 {"parent": "DerandSq_Supplement_sEval", "child": "DerandSq_NCPoly", "via": ["statement"]}
 {"parent": "DerandSq_Supplement_sEval", "child": "DerandSq_wordOp", "via": ["statement"]}
 {"parent": "MeanCertificates1424.Hardness.Supplement.proposition_B_1", "child": "MeanCertificates1424_Hardness_Supplement_Detection", "via": ["statement"]}

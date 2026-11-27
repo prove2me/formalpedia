@@ -55758,7 +55758,7 @@
 {"parent": "QEC.Coding.BDL26ReplacementMaterialization.PointCode.run_value", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_FiniteExperimentCost", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalRowCompletion.idealRowHom_lambda_mod_thirty_six", "child": "OAI_NumberTheory_DirichletL_Hecke_MobiusEulerCorrection", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalRowCompletion.idealRowHom_lambda_mod_thirty_six", "child": "OAI_NumberTheory_DirichletL_RowCompletion_ThetaNonvanishing", "via": ["solution", "statement"]}
-{"parent": "LpSubspaceCoreset.SmallP.lemma_2_11", "child": "LpSubspaceCoreset_SmallP_Lewis", "via": ["statement"]}
+{"parent": "LpSubspaceCoreset.SmallP.lemma_2_11", "child": "LpSubspaceCoreset_SmallP_Lewis", "via": ["solution", "statement"]}
 {"parent": "OAIQ254M011", "child": "OAIQ254M003", "via": ["statement"]}
 {"parent": "OAIQ254M011", "child": "OAIQ254M002", "via": ["statement"]}
 {"parent": "OAIQ254M011", "child": "OAIQ254M004", "via": ["statement"]}
@@ -61534,8 +61534,8 @@
 {"parent": "QEC.Coding.BDL26RandomPerturbation.measurable_stateTrianglePointsQuery_map", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_ActualExecutionCost", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.measurable_stateTrianglePointsQuery_map", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_CountedCostMeasurability", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.measurable_stateTrianglePointsQuery_map", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_JointExecution", "via": ["solution", "statement"]}
-{"parent": "LpSubspaceCoreset.SmallP.lemma_3_2", "child": "LpSubspaceCoreset_SmallP_Lewis", "via": ["statement"]}
-{"parent": "LpSubspaceCoreset.SmallP.lemma_3_2", "child": "LpSubspaceCoreset_SmallP_Cost", "via": ["statement"]}
+{"parent": "LpSubspaceCoreset.SmallP.lemma_3_2", "child": "LpSubspaceCoreset_SmallP_Lewis", "via": ["solution", "statement"]}
+{"parent": "LpSubspaceCoreset.SmallP.lemma_3_2", "child": "LpSubspaceCoreset_SmallP_Cost", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_8_9_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_8_9_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "BalancedFairAlloc.Existence.lemma_6", "child": "BalancedFairAlloc_Existence_Model", "via": ["statement"]}
@@ -65546,10 +65546,10 @@
 {"parent": "QEC.Coding.BDL26RandomPerturbation.continuous_oldAnchor", "child": "QEC_Coding_ProbabilisticConstruction_SphericalCap_JointTriangleHit", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.continuous_oldAnchor", "child": "QEC_Coding_ProbabilisticConstruction_Resampling_ParameterizedExecution", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.continuous_oldAnchor", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_JointExecution", "via": ["solution", "statement"]}
-{"parent": "PriceCapacities.LowerBound.section_10_6_elementary_instance", "child": "PriceCapacities_LowerBound_CapacitatedCoreset", "via": ["statement"]}
-{"parent": "PriceCapacities.LowerBound.section_10_6_elementary_instance", "child": "PriceCapacities_LowerBound_WeightedSets", "via": ["statement"]}
-{"parent": "PriceCapacities.LowerBound.section_10_6_elementary_instance", "child": "PriceCapacities_LowerBound_CapacitatedCost", "via": ["statement"]}
-{"parent": "PriceCapacities.LowerBound.section_10_6_elementary_instance", "child": "PriceCapacities_LowerBound_ElementaryInstance", "via": ["statement"]}
+{"parent": "PriceCapacities.LowerBound.section_10_6_elementary_instance", "child": "PriceCapacities_LowerBound_CapacitatedCoreset", "via": ["solution", "statement"]}
+{"parent": "PriceCapacities.LowerBound.section_10_6_elementary_instance", "child": "PriceCapacities_LowerBound_WeightedSets", "via": ["solution", "statement"]}
+{"parent": "PriceCapacities.LowerBound.section_10_6_elementary_instance", "child": "PriceCapacities_LowerBound_CapacitatedCost", "via": ["solution", "statement"]}
+{"parent": "PriceCapacities.LowerBound.section_10_6_elementary_instance", "child": "PriceCapacities_LowerBound_ElementaryInstance", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26BottomLocalFirstMinWeightComparison.comparison_local_or_weight", "child": "QEC_Coding_FiniteAlternatingConstruction_LevelTwoDecoderZero", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26BottomLocalFirstMinWeightComparison.comparison_local_or_weight", "child": "QEC_Coding_FiniteAlternatingConstruction_RXCohomology_Equivalence", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26BottomLocalFirstMinWeightComparison.comparison_local_or_weight", "child": "QEC_Coding_FiniteAlternatingConstruction_BottomLocalFirstMinWeightComparison", "via": ["solution", "statement"]}
@@ -65752,7 +65752,7 @@
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeStateRows", "child": "QEC.Coding.BDL26ReplacementEmbedding.foldedSquare_top", "via": ["statement"]}
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeStateRows", "child": "QEC.Coding.ProbabilisticConstruction.SphericalCap.barycenterMap_apply", "via": ["statement"]}
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeStateRows", "child": "QEC.Coding.BDL26TannerLocalRegularity.baseQ0DoubleCylinderEdge_card", "via": ["statement"]}
-{"parent": "RobustCorrClust.Main.lemma_6_2", "child": "RobustCorrClust_Main_SignedGraph", "via": ["statement"]}
+{"parent": "RobustCorrClust.Main.lemma_6_2", "child": "RobustCorrClust_Main_SignedGraph", "via": ["solution", "statement"]}
 {"parent": "GL2QFT.theorem_6_34", "child": "GL2QFT_Uniform", "via": ["solution", "statement"]}
 {"parent": "GL2QFT.theorem_6_34", "child": "GL2QFT_AGamma", "via": ["solution", "statement"]}
 {"parent": "PSPACEOracleSynth.Main.lemma_2_7", "child": "KTUnitary_Synth_IsExtension", "via": ["statement"]}
@@ -68573,7 +68573,7 @@
 {"parent": "IPEComm1531_Main_Extractor", "child": "IPEComm1531_Main_Basic", "via": ["statement"]}
 {"parent": "IPEComm1531_Main_Extractor", "child": "PPSLattice_PolyTimeOn", "via": ["statement"]}
 {"parent": "ShamirLLR_insec", "child": "IsingLTL_BeliefProp_TVDist", "via": ["statement"]}
-{"parent": "FTConnOracle.Main.observation_4_1", "child": "FTConnOracle_Main_Expander", "via": ["statement"]}
+{"parent": "FTConnOracle.Main.observation_4_1", "child": "FTConnOracle_Main_Expander", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_1_7_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_1_7_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "DynColorWC_Main_Model", "child": "DynBrooks_Machine", "via": ["statement"]}
@@ -70735,8 +70735,8 @@
 {"parent": "DenseMatching.IPM.theorem_1_1", "child": "DenseMatching_IPM_PointerMachine", "via": ["statement"]}
 {"parent": "LindbladShallow.lemma_5_8", "child": "LindbladShallow_routing", "via": ["statement"]}
 {"parent": "SatisfiableOrderingCSP_Optimal_Transformations", "child": "SatisfiableOrderingCSP_Optimal_Ordering", "via": ["statement"]}
-{"parent": "LpSubspaceCoreset.SmallP.lemma_2_12", "child": "LpSubspaceCoreset_SmallP_Lewis", "via": ["statement"]}
-{"parent": "LpSubspaceCoreset.SmallP.lemma_2_12", "child": "LpSubspaceCoreset_SmallP_Cost", "via": ["statement"]}
+{"parent": "LpSubspaceCoreset.SmallP.lemma_2_12", "child": "LpSubspaceCoreset_SmallP_Lewis", "via": ["solution", "statement"]}
+{"parent": "LpSubspaceCoreset.SmallP.lemma_2_12", "child": "LpSubspaceCoreset_SmallP_Cost", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXXStarTransport.gradient_shift_oneX", "child": "QEC_Coding_FiniteAlternatingConstruction_RXXStarTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXXStarTransport.gradient_shift_oneX", "child": "QEC_Coding_FiniteAlternatingConstruction_RXXStarTransport_Geometry", "via": ["solution", "statement"]}
 {"parent": "SparseLowFactors.BoundedDeg.corollary_2_31", "child": "SparseLowFactors_BoundedDeg_Machine", "via": ["statement"]}

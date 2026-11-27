@@ -65409,8 +65409,8 @@
 {"parent": "GroundTheory.Automorphic.IsExpLieAlgebra.toLie_ofLie", "child": "GroundTheory_AutomorphicForms_GKModules_ZKFinite", "via": ["statement"]}
 {"parent": "GroundTheory.LocalField.WeilGroup.degree_eq_iff_unramifiedDegree", "child": "GroundTheory_LocalFields_WeilGroupDefs", "via": ["statement"]}
 {"parent": "GroundTheory.LocalField.WeilGroup.degree_eq_iff_unramifiedDegree", "child": "GroundTheory_LocalFields_MaximalUnramified", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.isUnit_teichmuller_of_untilt_eq_one", "child": "GroundTheory_PAdicHodge_AInfXi", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.isUnit_teichmuller_of_untilt_eq_one", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.isUnit_teichmuller_of_untilt_eq_one", "child": "GroundTheory_PAdicHodge_AInfXi", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.isUnit_teichmuller_of_untilt_eq_one", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.Elliptic.exists_rational_weierstrassP", "child": "GroundTheory_GlobalFields_ComplexMultiplication_EllipticConstant", "via": ["statement"]}
 {"parent": "GroundTheory.Global.Elliptic.exists_rational_weierstrassP", "child": "GroundTheory_GlobalFields_ComplexMultiplication_EllipticFunctions", "via": ["statement"]}
 {"parent": "GroundTheory.Global.Elliptic.exists_rational_weierstrassP", "child": "GroundTheory_GlobalFields_ComplexMultiplication_EllipticRational", "via": ["statement"]}
@@ -66173,7 +66173,7 @@
 {"parent": "GlobalTheory.essFiniteType_stalkMap_SpecMap", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_IsDomainAndIsIntegrallyClosedAtPrimeOfSmoothOfCo", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.essFiniteType_stalkMap_SpecMap", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_SubalgebraEqBotOfIsIntegralOfIsIntegrallyClosed", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.essFiniteType_stalkMap_SpecMap", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_FiniteIntegralClosureOfEssFiniteTypeField", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.PAdicHodge.galCp_symm_apply", "child": "GroundTheory_PAdicHodge_GaloisOnCp", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.galCp_symm_apply", "child": "GroundTheory_PAdicHodge_GaloisOnCp", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.exists_field_discr_neg_seven", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsBasisEmbedding", "via": ["statement"]}
 {"parent": "GlobalTheory.exists_field_discr_neg_seven", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_TendstoRealEisensteinSubPole", "via": ["statement"]}
 {"parent": "GlobalTheory.exists_field_discr_neg_seven", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_DedekindZetaEqSumRealEisenstein", "via": ["statement"]}
@@ -67324,8 +67324,8 @@
 {"parent": "PositivityTheory.KReal.CasGl.adad_apply", "child": "Development_WeilBound_CoreStatements_GaussianSeminormBounds_RealSeminormFiltration_CoreCyc", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ArithVariety_chartPoint_mem_ca013b7a7355", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_FiniteSupportHeight", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ArithVariety_chartPoint_mem_ca013b7a7355", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_DenseChart", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.nrm_def", "child": "GroundTheory_PAdicHodge_FieldOfNormsTower", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.nrm_def", "child": "GroundTheory_LocalFields_SeparableClosure", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.nrm_def", "child": "GroundTheory_PAdicHodge_FieldOfNormsTower", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.nrm_def", "child": "GroundTheory_LocalFields_SeparableClosure", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Arith.SchemeCoh.kaehlerCoeff_trans", "child": "GroundTheory_ArithmeticGeometry_SchemeCohomology_KaehlerPlace", "via": ["statement"]}
 {"parent": "GroundTheory.Arith.SchemeCoh.kaehlerCoeff_trans", "child": "GroundTheory_FunctionField_PlaceBridge", "via": ["statement"]}
 {"parent": "GroundTheory.ProfCoh.exists_isProSylow", "child": "GroundTheory_ProfiniteCohomology_OfNatRelIndexSupAntitone", "via": ["statement"]}
@@ -67578,8 +67578,8 @@
 {"parent": "GroundTheory.Automorphic.fixedVectors_eq_invariants", "child": "GroundTheory_AutomorphicForms_SmoothRep", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.fixedVectors_eq_invariants", "child": "GroundTheory_AutomorphicForms_LocallyProfinite", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.fixedVectors_eq_invariants", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_StabilizerOf", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_eq_span_xi_ofCompatible", "child": "GroundTheory_PAdicHodge_AInfXi", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_eq_span_xi_ofCompatible", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_eq_span_xi_ofCompatible", "child": "GroundTheory_PAdicHodge_AInfXi", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_eq_span_xi_ofCompatible", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.PAdicHodge.mem_maxUnramified", "child": "GroundTheory_PAdicHodge_UnramifiedClosure", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.PAdicHodge.mem_maxUnramified", "child": "GroundTheory_PAdicHodge_GaloisOnCp", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.PAdicHodge.mem_maxUnramified", "child": "GroundTheory_PowerSubgroups_CountableNeighbourhoods_UnramifiedClosureCountableNeighbourhoods", "via": ["solution", "statement"]}
@@ -68643,9 +68643,9 @@
 {"parent": "P2M_GlobalTheory_T_exists_complex_point_norm_lt_of_not_isUnit__38ea7e46a2be", "child": "Development_AbelianVarietyTheory_Proofs_CubicalLineBundles_SpecialisationNumberFieldAndCountableValues", "via": ["statement"]}
 {"parent": "P2M_GlobalTheory_T_exists_complex_point_norm_lt_of_not_isUnit__38ea7e46a2be", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsComplexPointNormLtOfNotIsUnit", "via": ["statement"]}
 {"parent": "P2M_GlobalTheory_T_exists_complex_point_norm_lt_of_not_isUnit__38ea7e46a2be", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_ExistsFormDegreeLeHilbertDegreeEvalNeZero", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.fontaineTheta_frobeniusEquiv_symm_pow_teichmuller_pow", "child": "GroundTheory_PAdicHodge_TiltValuation", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.fontaineTheta_frobeniusEquiv_symm_pow_teichmuller_pow", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.fontaineTheta_frobeniusEquiv_symm_pow_teichmuller_pow", "child": "GroundTheory_PAdicHodge_KerTheta", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.fontaineTheta_frobeniusEquiv_symm_pow_teichmuller_pow", "child": "GroundTheory_PAdicHodge_TiltValuation", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.fontaineTheta_frobeniusEquiv_symm_pow_teichmuller_pow", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.fontaineTheta_frobeniusEquiv_symm_pow_teichmuller_pow", "child": "GroundTheory_PAdicHodge_KerTheta", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.LocalField.maximalAbelianExtension_eq_iSup", "child": "GroundTheory_LocalFields_MaximalAbelianExtension", "via": ["statement"]}
 {"parent": "GroundTheory.Global.gaussResidue_gaussX", "child": "GroundTheory_GlobalFields_ComplexMultiplication_ReductionGauss", "via": ["statement"]}
 {"parent": "GroundTheory.Global.gaussResidue_gaussX", "child": "GroundTheory_ArithmeticGeometry_AbelianVarieties_FunctionFieldPoint", "via": ["statement"]}
@@ -69066,8 +69066,8 @@
 {"parent": "GlobalTheory.poincare_sqIntegrable_fundSet", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_OntoStatementPfE", "via": ["statement"]}
 {"parent": "GlobalTheory.poincare_sqIntegrable_fundSet", "child": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_OfRealTsumSqLeTsumDivMulTsum", "via": ["statement"]}
 {"parent": "GroundTheory.PAdicHodge.Laurent.ConvergesAt.smul", "child": "GroundTheory_PAdicHodge_RobbaSeries", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_comp_frobeniusEquiv_symm_eq_span", "child": "GroundTheory_PAdicHodge_AInfXi", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_comp_frobeniusEquiv_symm_eq_span", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_comp_frobeniusEquiv_symm_eq_span", "child": "GroundTheory_PAdicHodge_AInfXi", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_comp_frobeniusEquiv_symm_eq_span", "child": "GroundTheory_PAdicHodge_KerFontaineThetaCompFrobeniusEquivSymmPow", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.idealsPrimeTo_top", "child": "GroundTheory_GlobalFields_TateThesis_HeckeChar", "via": ["statement"]}
 {"parent": "GroundTheory.Global.idealsPrimeTo_top", "child": "GroundTheory_GlobalFields_IdeleGroups_ClassGroup", "via": ["statement"]}
 {"parent": "GroundTheory.Global.idealsPrimeTo_top", "child": "GroundTheory_GlobalFields_TateThesis_ConductorIdeal", "via": ["statement"]}
@@ -69908,9 +69908,9 @@
 {"parent": "GroundTheory.GroupCoh.tateIndIso_naturality", "child": "GroundTheory_TateCohomology_DiagonalSuccIsoFreeInvSingle", "via": ["statement"]}
 {"parent": "P2M_GlobalTheory_T_exists_basis_of_blockLowerTriangular_inv__8636a8504ebe", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsBasisOfBlockLowerTriangularInv", "via": ["statement"]}
 {"parent": "P2M_GlobalTheory_T_exists_basis_of_blockLowerTriangular_inv__8636a8504ebe", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsBasisOfBlockLowerTriangularInvStatement", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.ker_fontaineTheta_eq_span_p_sub_teichmuller_ofCompatible", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_LeSpanSingletonOfForallMemEq", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.ker_fontaineTheta_eq_span_p_sub_teichmuller_ofCompatible", "child": "GroundTheory_PAdicHodge_PerfectoidField", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.ker_fontaineTheta_eq_span_p_sub_teichmuller_ofCompatible", "child": "GroundTheory_PAdicHodge_KerTheta", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.ker_fontaineTheta_eq_span_p_sub_teichmuller_ofCompatible", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_LeSpanSingletonOfForallMemEq", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.ker_fontaineTheta_eq_span_p_sub_teichmuller_ofCompatible", "child": "GroundTheory_PAdicHodge_PerfectoidField", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.ker_fontaineTheta_eq_span_p_sub_teichmuller_ofCompatible", "child": "GroundTheory_PAdicHodge_KerTheta", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.PAdicHodge.image_norm_tilt", "child": "GroundTheory_PAdicHodge_PerfectoidField", "via": ["statement"]}
 {"parent": "GroundTheory.PAdicHodge.image_norm_tilt", "child": "GroundTheory_PowerSubgroups_CountableNeighbourhoods_TiltCountableNeighbourhoods", "via": ["statement"]}
 {"parent": "GroundTheory.PAdicHodge.image_norm_tilt", "child": "GroundTheory_PAdicHodge_TiltField", "via": ["statement"]}
@@ -70835,9 +70835,9 @@
 {"parent": "GroundTheory.PAdicHodge.compound_map", "child": "GroundTheory_PAdicHodge_SlopeCauchyBinet", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.Parabolic.apply_eq_zero_of_quotSum_normSq", "child": "GroundTheory_AutomorphicForms_CuspidalSplittingPositivity", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.Parabolic.apply_eq_zero_of_quotSum_normSq", "child": "GroundTheory_AutomorphicForms_CuspidalSplittingCoeff", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.exists_ker_fontaineTheta_eq_span_p_sub_teichmuller", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_LeSpanSingletonOfForallMemEq", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.exists_ker_fontaineTheta_eq_span_p_sub_teichmuller", "child": "GroundTheory_PAdicHodge_PerfectoidField", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.exists_ker_fontaineTheta_eq_span_p_sub_teichmuller", "child": "GroundTheory_PAdicHodge_KerTheta", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.exists_ker_fontaineTheta_eq_span_p_sub_teichmuller", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_LeSpanSingletonOfForallMemEq", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.exists_ker_fontaineTheta_eq_span_p_sub_teichmuller", "child": "GroundTheory_PAdicHodge_PerfectoidField", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.exists_ker_fontaineTheta_eq_span_p_sub_teichmuller", "child": "GroundTheory_PAdicHodge_KerTheta", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.ProfCoh.coprime_card_coprimeRelPreimage_lowerRamificationGroup", "child": "GroundTheory_LocalFields_RamificationStructure", "via": ["statement"]}
 {"parent": "GroundTheory.ProfCoh.coprime_card_coprimeRelPreimage_lowerRamificationGroup", "child": "GroundTheory_ProfiniteCohomology_LocalEulerCharacteristic_GroupStructureDefs", "via": ["statement"]}
 {"parent": "GroundTheory.ProfCoh.coprime_card_coprimeRelPreimage_lowerRamificationGroup", "child": "GroundTheory_LocalFields_UnramifiedRootsOfUnity", "via": ["statement"]}

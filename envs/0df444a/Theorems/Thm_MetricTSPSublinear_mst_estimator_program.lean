@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricTSPSublinear_mst_estimator_program
 -- name    : MetricTSPSublinear.mst_estimator_program
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-27T00:05:04.273819+00:00
 -- url     : https://prove2.me/theorems/eec2dc44-7a3c-5a11-a134-0f28d4eedc60

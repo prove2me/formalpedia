@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_truncLog_zero
 -- name    : Reformulated.AutPerF.truncLog_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:56:35.396116+00:00
 -- url     : https://prove2.me/theorems/d6d4ca11-159f-5d41-8c49-c805753eafe4

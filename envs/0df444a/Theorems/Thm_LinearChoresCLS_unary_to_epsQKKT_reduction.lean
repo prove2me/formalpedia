@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearChoresCLS_unary_to_epsQKKT_reduction
 -- name    : LinearChoresCLS.unary_to_epsQKKT_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:46:01.719236+00:00
 -- url     : https://prove2.me/theorems/8ace0d6d-6d9b-4890-88f6-10f24493a127

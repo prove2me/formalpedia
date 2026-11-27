@@ -89737,7 +89737,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P40.multipartition_partition_bijection", "child": "QAlgorithms_Papers_Independent_Intake100_P40", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P15.sandwiched_channel_additivity", "child": "QAlgorithms_Papers_Independent_Intakenext100_P15", "via": ["statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.row_partition_111", "child": "OAIQ019N049", "via": ["solution", "statement"]}
-{"parent": "LiqPremiaEq.eq_7_17_7_19", "child": "LiqPremiaEq_Gam", "via": ["statement"]}
+{"parent": "LiqPremiaEq.eq_7_17_7_19", "child": "LiqPremiaEq_Gam", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.bucket_l1_62", "child": "OAIQ019N049", "via": ["solution", "statement"]}
 {"parent": "FDivToolkit.lemma_4", "child": "FDivToolkit_IsRefModel", "via": ["statement"]}
 {"parent": "FDivToolkit.lemma_4", "child": "FDivToolkit_weibullH", "via": ["statement"]}

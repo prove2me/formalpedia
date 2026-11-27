@@ -44007,7 +44007,7 @@
 {"parent": "PI.VolStabS.FiniteFieldCounting.ratio_bound", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerVolume_LocDensFFT", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.OrbR.gram_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicUnitaryOrbits_HformEntry", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.OrbR.gram_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_OrbRing", "via": ["solution", "statement"]}
-{"parent": "RoughSurfaceScattering.phi_dprc_representation", "child": "RoughSurfaceScattering_Basic", "via": ["statement"]}
+{"parent": "RoughSurfaceScattering.phi_dprc_representation", "child": "RoughSurfaceScattering_Basic", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabS.sum_sgl", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerVolume_LocDensChLift", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabS.sum_sgl", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerVolume_LocDensSAChar", "via": ["solution", "statement"]}
 {"parent": "PI.WeylForKWork.dominant_restriction_holds", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeylFormulaCompact_FormulaStep", "via": ["solution", "statement"]}
@@ -75417,9 +75417,9 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.AI.T.two_llDeg", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArithmeticIntersection_DiagonalDivisors_InhabitBaseStatement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AI.T.two_llDeg", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_IsIntersectionFamily", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AI.T.two_llDeg", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArithmeticIntersection_DiagonalDivisors_ModelsSt", "via": ["solution", "statement"]}
-{"parent": "Reformulated.AutPerF.BdRPlus.log_one", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_DeRhamMap", "via": ["statement"]}
-{"parent": "Reformulated.AutPerF.BdRPlus.log_one", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_DeRhamLog", "via": ["statement"]}
-{"parent": "Reformulated.AutPerF.BdRPlus.log_one", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_ExistsFactorialMulEqPow", "via": ["statement"]}
+{"parent": "Reformulated.AutPerF.BdRPlus.log_one", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_DeRhamMap", "via": ["solution", "statement"]}
+{"parent": "Reformulated.AutPerF.BdRPlus.log_one", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_DeRhamLog", "via": ["solution", "statement"]}
+{"parent": "Reformulated.AutPerF.BdRPlus.log_one", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_ExistsFactorialMulEqPow", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AI.arch0", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArithmeticIntersection_LintegralIoiOfRealMul", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AI.arch0", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArithmeticIntersection_KappaA", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.rsM_neg", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_DefsRep", "via": ["solution", "statement"]}
@@ -79850,9 +79850,9 @@
 {"parent": "GroundTheory.PAdicHodge.gal_smul_mem_maximalIdeal_pow_iff", "child": "GroundTheory_PAdicHodge_BdRGalois", "via": ["statement"]}
 {"parent": "GroundTheory.PAdicHodge.gal_smul_mem_maximalIdeal_pow_iff", "child": "GroundTheory_PAdicHodge_ThetaPlus", "via": ["statement"]}
 {"parent": "GroundTheory.PAdicHodge.gal_smul_mem_maximalIdeal_pow_iff", "child": "GroundTheory_PAdicHodge_AInfGalois", "via": ["statement"]}
-{"parent": "Reformulated.AutPerF.truncLog_zero", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_DeRhamMap", "via": ["statement"]}
-{"parent": "Reformulated.AutPerF.truncLog_zero", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_DeRhamLog", "via": ["statement"]}
-{"parent": "Reformulated.AutPerF.truncLog_zero", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_ExistsFactorialMulEqPow", "via": ["statement"]}
+{"parent": "Reformulated.AutPerF.truncLog_zero", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_DeRhamMap", "via": ["solution", "statement"]}
+{"parent": "Reformulated.AutPerF.truncLog_zero", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_DeRhamLog", "via": ["solution", "statement"]}
+{"parent": "Reformulated.AutPerF.truncLog_zero", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_ExistsFactorialMulEqPow", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.MI.volume_BC_compl", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_MeasInvStatementPfC", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.MI.volume_BC_compl", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_MeasInvStatementPfB", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_SpecFirstMemIncIdeal_hypotheses_inhabited_aae9bf088e2e", "child": "P2M_GroundTheory_Heights__Heights_ChowFormSectionVertical_hypotheses_inhabited_25f0794614ab", "via": ["statement"]}

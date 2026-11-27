@@ -96532,7 +96532,7 @@
 {"parent": "TunnellMap.FreeInvolution.signOf_neg", "child": "TunnellMap_ResidualTargetTest", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.D03_radii_and_rate", "child": "Eden", "via": ["solution", "statement"]}
 {"parent": "EdenVerified.D03_radii_and_rate", "child": "Eden_Solution", "via": ["solution", "statement"]}
-{"parent": "RoughSurfaceScattering.dipole_data_holder", "child": "RoughSurfaceScattering_Basic", "via": ["statement"]}
+{"parent": "RoughSurfaceScattering.dipole_data_holder", "child": "RoughSurfaceScattering_Basic", "via": ["solution", "statement"]}
 {"parent": "TunnellMap_KernelGenerator", "child": "TunnellMap_BlockGeneratorCorrect", "via": ["statement"]}
 {"parent": "TunnellMap_KernelGenerator", "child": "TunnellMap_KernelArith", "via": ["statement"]}
 {"parent": "TunnellMap_KernelGenerator", "child": "TunnellMap_LagrangeGauss", "via": ["statement"]}

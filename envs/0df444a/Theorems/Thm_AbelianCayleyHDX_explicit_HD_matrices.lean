@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AbelianCayleyHDX_explicit_HD_matrices
 -- name    : AbelianCayleyHDX.explicit_HD_matrices
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-26T23:38:15.40241+00:00
 -- url     : https://prove2.me/theorems/f07c00bf-f733-41df-8e8a-93164beddb89
