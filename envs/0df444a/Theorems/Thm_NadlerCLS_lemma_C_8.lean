@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NadlerCLS_lemma_C_8
 -- name    : NadlerCLS.lemma_C_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:06:41.236792+00:00
 -- url     : https://prove2.me/theorems/9a9ce651-cee9-4bba-80f5-f22a2c83f44a

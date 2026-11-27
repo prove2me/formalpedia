@@ -46029,7 +46029,7 @@
 {"parent": "NondualOpt.Supplement.theorem_8", "child": "NondualOpt_sfat", "via": ["statement"]}
 {"parent": "NondualOpt.Supplement.theorem_8", "child": "NondualOpt_crossDuality", "via": ["statement"]}
 {"parent": "QMomentMatch.FirstBound.Supplement.lemma_4_2", "child": "QMomentMatch_FirstBound_Basic", "via": ["statement"]}
-{"parent": "MaxCutSample2027.Coreset.Supplement.theorem_3_1", "child": "MaxCutSample2027_Coreset_Supplement_recovery", "via": ["statement"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.theorem_3_1", "child": "MaxCutSample2027_Coreset_Supplement_recovery", "via": ["solution", "statement"]}
 {"parent": "TwoMasterRoommates_Capped_Supplement_Hardness", "child": "CookPvsNP_defs", "via": ["statement"]}
 {"parent": "TwoMasterRoommates_Capped_Supplement_Hardness", "child": "TwoMasterRoommates_Capped_Supplement_Common", "via": ["statement"]}
 {"parent": "TwoMasterRoommates_Capped_Supplement_Hardness", "child": "TwoMasterRoommates_Capped_Instance", "via": ["statement"]}
@@ -47300,7 +47300,7 @@
 {"parent": "ExplicitTensorBarrier694.Explicit.Supplement.theorem_5_2", "child": "ExplicitTensorBarrier694_Explicit_Koszul", "via": ["statement"]}
 {"parent": "ExplicitTensorBarrier694.Explicit.Supplement.theorem_5_2", "child": "ExplicitTensorBarrier694_Explicit_Supplement_OddWitness", "via": ["statement"]}
 {"parent": "APSCounting893.Main.Supplement.nonaps_equivalent_integrality", "child": "APSCounting893_Main_Supplement_DecisionProblems", "via": ["statement"]}
-{"parent": "MaxCutSample2027.Coreset.Supplement.lemma_5_3", "child": "MaxCutSample2027_Coreset_Supplement_rFractional", "via": ["statement"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.lemma_5_3", "child": "MaxCutSample2027_Coreset_Supplement_rFractional", "via": ["solution", "statement"]}
 {"parent": "QPVEntanglement_Supplement_CoalitionD", "child": "QPVEntanglement_Supplement_GeometryD", "via": ["statement"]}
 {"parent": "QPVEntanglement_Supplement_CoalitionD", "child": "QPVEntanglement_Coalition", "via": ["statement"]}
 {"parent": "WeakGraphOracles.OneSided.Supplement.theorem_9", "child": "WeakGraphOracles_OneSided_Supplement_models", "via": ["statement"]}
@@ -49682,7 +49682,7 @@
 {"parent": "InflMaxAdapt.Supplement.theorem_3", "child": "InflMaxAdapt_Static", "via": ["statement"]}
 {"parent": "InflMaxAdapt.Supplement.theorem_3", "child": "InflMaxAdapt_Adaptive", "via": ["statement"]}
 {"parent": "InflMaxAdapt.Supplement.theorem_3", "child": "InflMaxAdapt_Supplement_IsBidirForest", "via": ["statement"]}
-{"parent": "MaxCutSample2027.Coreset.Supplement.theorem_1_1", "child": "MaxCutSample2027_Coreset_Supplement_sampling", "via": ["statement"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.theorem_1_1", "child": "MaxCutSample2027_Coreset_Supplement_sampling", "via": ["solution", "statement"]}
 {"parent": "CatalyticTreeEval.Main.Supplement.corollary_4_8", "child": "CatalyticTreeEval_Main_Resources", "via": ["statement"]}
 {"parent": "ParityBarrier563_Trilinear_Supplement_HashedEvaluation", "child": "ParityBarrier563_Trilinear_Supplement_FiniteAverages", "via": ["statement"]}
 {"parent": "BourgainUnion.Euclidean.Supplement.lemma_7_1", "child": "BourgainUnion_Euclidean_GraphModel", "via": ["statement"]}
@@ -53198,7 +53198,7 @@
 {"parent": "ManipPotential.Supplement.theorem_4_6", "child": "ManipPotential_Supplement_upperBoundU", "via": ["statement"]}
 {"parent": "ManipPotential.Supplement.theorem_4_6", "child": "ManipPotential_Supplement_scoringRule", "via": ["statement"]}
 {"parent": "ManipPotential.Supplement.theorem_4_6", "child": "ManipPotential_Supplement_IsScoringVector", "via": ["statement"]}
-{"parent": "MaxCutSample2027.Coreset.Supplement.theorem_1_2", "child": "MaxCutSample2027_Coreset_Supplement_sampling", "via": ["statement"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.theorem_1_2", "child": "MaxCutSample2027_Coreset_Supplement_sampling", "via": ["solution", "statement"]}
 {"parent": "NCFactorClosure607_Circuits_Supplement_CoeffAlgorithm", "child": "NCFactorClosure607_Circuits_Supplement_FormulaExtraction", "via": ["statement"]}
 {"parent": "NCFactorClosure607_Circuits_Supplement_CoeffAlgorithm", "child": "NCFactorClosure607_Circuits_Circuit", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg19290", "child": "OAIQ259US007", "via": ["solution", "statement"]}
@@ -54263,7 +54263,7 @@
 {"parent": "APFPaper5.K1.CheapBook.cheap_floor", "child": "APFPaper5.K1.atomTable_row_eq_of_same_marks", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.CheapBook.cheap_floor", "child": "APFPaper5.K1.card_mul_le_sum_of_private", "via": ["solution", "statement"]}
 {"parent": "BatchMaxService_Metric_Supplement_LowerBounds", "child": "BatchMaxService_Metric_Supplement_Interaction", "via": ["statement"]}
-{"parent": "MaxCutSample2027.Coreset.Supplement.lemma_5_6", "child": "MaxCutSample2027_Coreset_Supplement_rFractional", "via": ["statement"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.lemma_5_6", "child": "MaxCutSample2027_Coreset_Supplement_rFractional", "via": ["solution", "statement"]}
 {"parent": "Kyprianou_Ch01_Exercise110FullCertificates", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
 {"parent": "Kyprianou_Ch01_Exercise110FullCertificates", "child": "Kyprianou_Ch01_McKeanBrownianStopping", "via": ["statement"]}
 {"parent": "Kyprianou_Ch01_Exercise110FullCertificates", "child": "Kyprianou_Ch01_ExplicitLevyExamples", "via": ["statement"]}
@@ -56597,7 +56597,7 @@
 {"parent": "SingleSampleCombPI.XOS.Supplement.theorem_A_2", "child": "SingleSampleCombPI_XOS_Supplement_Transfer", "via": ["statement"]}
 {"parent": "MatMulDS_Supplement_deltaStar", "child": "MatMulDS_outPos", "via": ["statement"]}
 {"parent": "AutoregLTF_Supplement_logisticGen", "child": "QAlgorithms_Defs_PACSampleComplexity", "via": ["statement"]}
-{"parent": "MaxCutSample2027.Coreset.Supplement.lemma_5_5", "child": "MaxCutSample2027_Coreset_Supplement_rFractional", "via": ["statement"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.lemma_5_5", "child": "MaxCutSample2027_Coreset_Supplement_rFractional", "via": ["solution", "statement"]}
 {"parent": "SpaceReset_Hardness_Supplement_Online", "child": "SpaceReset_Hardness_Native", "via": ["statement"]}
 {"parent": "OnlineShadow_LogRate_Supplement_expectedRegret", "child": "ShadowTomography_UpperBound_tensorPow", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankLandMonoA3", "child": "IntMul_Kappa_R8_Data_BitOppbankPnd", "via": ["statement"]}

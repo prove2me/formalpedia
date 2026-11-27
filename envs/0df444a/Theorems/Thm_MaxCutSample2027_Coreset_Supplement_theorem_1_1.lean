@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxCutSample2027_Coreset_Supplement_theorem_1_1
 -- name    : MaxCutSample2027.Coreset.Supplement.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T10:01:23.522961+00:00
 -- url     : https://prove2.me/theorems/4cc1f6d8-0ecf-45dd-93a1-cfb7edc090b6

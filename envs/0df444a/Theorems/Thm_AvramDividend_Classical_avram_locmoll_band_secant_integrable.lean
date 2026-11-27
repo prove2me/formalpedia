@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_locmoll_band_secant_integrable
 -- name    : AvramDividend.Classical.avram_locmoll_band_secant_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-27T00:19:12.163926+00:00
 -- url     : https://prove2.me/theorems/e51817e1-8296-4f73-bf64-0d6a3d691529

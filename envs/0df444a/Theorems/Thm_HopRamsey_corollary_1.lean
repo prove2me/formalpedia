@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HopRamsey_corollary_1
 -- name    : HopRamsey.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:48:53.710321+00:00
 -- url     : https://prove2.me/theorems/84aa64df-5945-4453-bbfd-b2f9746388c8

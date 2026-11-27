@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_locmoll_band_zero_drop_measurable
 -- name    : AvramDividend.Classical.avram_locmoll_band_zero_drop_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-27T00:19:10.0264+00:00
 -- url     : https://prove2.me/theorems/b5d9282a-f456-46df-ac7f-a9c84732bd8c

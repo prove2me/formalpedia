@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HopRamsey_finite_case
 -- name    : HopRamsey.finite_case
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:49:39.542488+00:00
 -- url     : https://prove2.me/theorems/325a91c7-381b-416d-8048-6bf8a37531a7

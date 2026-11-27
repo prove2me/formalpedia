@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HopRamsey_claim_2
 -- name    : HopRamsey.claim_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:49:16.115292+00:00
 -- url     : https://prove2.me/theorems/45955579-bcb3-43e1-852b-7f117a51d01c

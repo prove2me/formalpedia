@@ -35508,11 +35508,11 @@
 {"parent": "TreeStack", "child": "TreeStack_PebblingMove", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_locmoll_band_exact_ito_identity", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_locmoll_band_exact_ito_identity", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.creepingProbabilityLowerBoundEventually", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.creepingProbabilityLowerBoundEventually", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.creepingProbabilityLowerBoundEventually", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.creepingProbabilityLowerBoundEventually", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.creepingProbabilityLowerBoundEventually", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityLowerBoundEventually", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityLowerBoundEventually", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityLowerBoundEventually", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityLowerBoundEventually", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityLowerBoundEventually", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["solution", "statement"]}
 {"parent": "BauerleRiederMDP_LQ_Supplement_TWMarket_IsPolicy", "child": "BauerleRiederMDP_LQ_Supplement_TWMarket_D", "via": ["statement"]}
 {"parent": "BauerleRiederMDP_LQ_Supplement_TWMarket_IsPolicy", "child": "BauerleRiederMDP_LQ_Supplement_TWMarket", "via": ["statement"]}
 {"parent": "TreeStack.F_sub_three_le", "child": "TreeStack_Transfer", "via": ["solution", "statement"]}
@@ -35595,7 +35595,7 @@
 {"parent": "TreeStack.OrientedBranch.defectiveSupportEdge_reverse_iff", "child": "TreeStack_Defect", "via": ["solution", "statement"]}
 {"parent": "TreeStack.OrientedBranch.defectiveSupportEdge_reverse_iff", "child": "TreeStack_Support", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise45LocalisedPhysicalDataV1", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.exercise45ActualSmallBandFullLimitV1", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise45ActualSmallBandFullLimitV1", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.clippedAffineGridWeightErrorV1", "child": "Kyprianou.Ch04.kw47_positive_monotone_grid_variation", "via": ["statement"]}
 {"parent": "MasulloRH.quarter_shift_gaussian_exterior_energy", "child": "MasulloRH_ThetaDerivativeCertificates", "via": ["solution", "statement"]}
 {"parent": "BauerleRiederMDP_LQ_Supplement_BayesStopping_cThr", "child": "BauerleRiederMDP_LQ_Supplement_BayesStopping_J", "via": ["statement"]}
@@ -36175,11 +36175,11 @@
 {"parent": "TreeStack.OrientedBranch.mem_childBranch_vertices_not_mem_sibling_carrier", "child": "TreeStack_Message", "via": ["solution", "statement"]}
 {"parent": "BauerleRiederMDP_LQ_Supplement_TWMarket_bellmanQ", "child": "BauerleRiederMDP_RegimeSwitching_eint", "via": ["statement"]}
 {"parent": "BauerleRiederMDP_LQ_Supplement_TWMarket_bellmanQ", "child": "BauerleRiederMDP_LQ_Supplement_TWMarket", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.creepingProbabilityUpperBoundEventually", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.creepingProbabilityUpperBoundEventually", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.creepingProbabilityUpperBoundEventually", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.creepingProbabilityUpperBoundEventually", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.creepingProbabilityUpperBoundEventually", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityUpperBoundEventually", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityUpperBoundEventually", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityUpperBoundEventually", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityUpperBoundEventually", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityUpperBoundEventually", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["solution", "statement"]}
 {"parent": "MultiStageAlloc.Supplement.lemma_3", "child": "MultiStageAlloc_Supplement_StageProgramMCA", "via": ["statement"]}
 {"parent": "MasulloRH.quarter_shift_theta_derivative_table_second_quarter", "child": "MasulloRH_ThetaDerivativeCertificates", "via": ["solution", "statement"]}
 {"parent": "BauerleRiederMDP.LQ.Supplement.theorem_9_3_7", "child": "MDPFinance_Contracting_LsSet", "via": ["statement"]}
@@ -36463,7 +36463,7 @@
 {"parent": "TreeStack.taskScheduleSafe_of_all_pos", "child": "TreeStack_Boundary", "via": ["solution", "statement"]}
 {"parent": "TreeStack.taskScheduleSafe_of_all_pos", "child": "TreeStack_PebblingMove", "via": ["solution", "statement"]}
 {"parent": "TreeStack.taskScheduleSafe_of_all_pos", "child": "TreeStack_Message", "via": ["solution", "statement"]}
-{"parent": "SPFacilityGraph.sp_onto_finite_values", "child": "SPFacilityGraph_IsSP", "via": ["statement"]}
+{"parent": "SPFacilityGraph.sp_onto_finite_values", "child": "SPFacilityGraph_IsSP", "via": ["solution", "statement"]}
 {"parent": "TreeStack.OrientedBranch.occupiedChildTasks_nodup", "child": "TreeStack_Boundary", "via": ["solution", "statement"]}
 {"parent": "TreeStack.OrientedBranch.occupiedChildTasks_nodup", "child": "TreeStack_PebblingMove", "via": ["solution", "statement"]}
 {"parent": "TreeStack.OrientedBranch.occupiedChildTasks_nodup", "child": "TreeStack_Message", "via": ["solution", "statement"]}
@@ -36628,8 +36628,8 @@
 {"parent": "BauerleRiederMDP_LQ_Supplement_SeqSuffStat_infoLaw", "child": "BauerleRiederMDP_LQ_Supplement_SeqSuffStat_QhatZ", "via": ["statement"]}
 {"parent": "BauerleRiederMDP_LQ_Supplement_SeqSuffStat_infoLaw", "child": "BauerleRiederMDP_LQ_Supplement_SeqSuffStat_infoState", "via": ["statement"]}
 {"parent": "BauerleRiederMDP_LQ_Supplement_SeqSuffStat_infoLaw", "child": "BauerleRiederMDP_LQ_Supplement_BayesModel_posterior", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_locmoll_band_zero_drop_measurable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_locmoll_band_zero_drop_measurable", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_zero_drop_measurable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_zero_drop_measurable", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "BauerleRiederMDP_LQ_Supplement_JumpMarket_IMcv", "child": "BauerleRiederMDP_LQ_Supplement_JumpMarket_Eset", "via": ["statement"]}
 {"parent": "BauerleRiederMDP_LQ_Supplement_JumpMarket_IMcv", "child": "BauerleRiederMDP_LQ_Supplement_JumpMarket_normb", "via": ["statement"]}
 {"parent": "BauerleRiederMDP_LQ_Supplement_JumpMarket_IMcv", "child": "BauerleRiederMDP_LQ_Supplement_JumpMarket_bfun", "via": ["statement"]}
@@ -37328,8 +37328,8 @@
 {"parent": "TreeStack.OrientedBranch.exists_root_auxCompactPotential_le_rootEstimate_sub_one", "child": "TreeStack_Consolidation", "via": ["solution", "statement"]}
 {"parent": "TreeStack.OrientedBranch.leafWeightSlackTerm_le_configurationSlackTerm", "child": "TreeStack_GlobalCharge", "via": ["solution", "statement"]}
 {"parent": "TreeStack.OrientedBranch.leafWeightSlackTerm_le_configurationSlackTerm", "child": "TreeStack_LeafSlack", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_locmoll_band_secant_integrable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_locmoll_band_secant_integrable", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_secant_integrable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_secant_integrable", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise45CutoffLeftVersionV1", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_locmoll_band_clock_le_ruin", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_locmoll_band_clock_le_ruin", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -37556,7 +37556,7 @@
 {"parent": "LefebvreVariations.chebyshev_extremal_degree_two", "child": "RobustFcstAgg_chebHat", "via": ["statement"]}
 {"parent": "LefebvreVariations.chebyshev_extremal_degree_two", "child": "RobustFcstAgg_IsIvlMinimizer", "via": ["statement"]}
 {"parent": "LefebvreVariations.chebyshev_extremal_degree_two", "child": "RobustFcstAgg_ivlSet", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise45ActualPureJumpReconstructionV1", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise45ActualPureJumpReconstructionV1", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["solution", "statement"]}
 {"parent": "BauerleRiederMDP_LQ_Supplement_TradeExec_IMcx", "child": "BauerleRiederMDP_LQ_Supplement_TradeExec", "via": ["statement"]}
 {"parent": "TwoStageMatch.Supplement.theorem_4", "child": "TwoStageMatch_Supplement_Algorithm3", "via": ["statement"]}
 {"parent": "TreeStack.taskGainSum_eq_list_sum", "child": "TreeStack_Boundary", "via": ["solution", "statement"]}
@@ -44689,3 +44689,288 @@
 {"parent": "TreeStack.OrientedBranch.obstruction_scores_zero_on_vertices", "child": "TreeStack.OrientedBranch.exists_childBranch_mem_of_mem_vertices_ne_root", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_locmoll_band_left_limit_cap", "child": "AvramDividend.Classical.postPaymentReserve_cadlag_adapted", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_locmoll_band_left_limit_cap", "child": "AvramDividend.Classical.dividendStrategy_le_rightLimit", "via": ["solution"]}
+{"parent": "NashStackelberg.Supplement.lemma_2", "child": "NashStackelberg_Supplement_HasStackelbergExtForm", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.unkilledPassageAlmostSureV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.unkilledPassageAlmostSureV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityTendstoZeroOfZeroDrift", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityTendstoZeroOfZeroDrift", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityTendstoZeroOfZeroDrift", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityTendstoZeroOfZeroDrift", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityTendstoZeroOfZeroDrift", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.lemma_21", "child": "SurrogateOps_FunAccAt", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.lemma_21", "child": "SurrogateOps_FunAccNear", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_marginalDistZ", "child": "markov_entanglement_multi", "via": ["statement"]}
+{"parent": "NashStackelberg_Supplement_HasStackelbergExtForm", "child": "NashStackelberg_FollowerGame_SOL", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_10", "child": "SurrogateOps_FunAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_10", "child": "SurrogateOps_GradAccNear", "via": ["statement"]}
+{"parent": "GRH.principal_moebius_upper_excludes_zeta_zeros_at_any_modulus", "child": "GRH_FactorialMoebius", "via": ["statement"]}
+{"parent": "GRH.centered_moebius_at_modulus_iff_dirichlet_zero_free", "child": "GRH_FactorialMoebius", "via": ["solution", "statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_32", "child": "SurrogateOps_Supplement_VecFunAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_32", "child": "SurrogateOps_GradAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_32", "child": "SurrogateOps_Supplement_VecGradAccNear", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointLawVanishingTestLimit", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointLawVanishingTestLimit", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointLawVanishingTestLimit", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointLawVanishingTestLimit", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointLawVanishingTestLimit", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingUpperPositiveDrift", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingUpperPositiveDrift", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingUpperPositiveDrift", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingUpperPositiveDrift", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingUpperPositiveDrift", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "GRH.dirichlet_nonvanishing_of_one_sided_moebius_class_bounds", "child": "GRH_FactorialMoebius", "via": ["solution", "statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_muInducedNorm", "child": "markov_entanglement_multi", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.tailScalingFilter", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.tailScalingFilter", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.tailScalingFilter", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_muEntanglementN", "child": "markov_entanglement_multi", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_muEntanglementN", "child": "MarkovEntanglementExact_Supplement_muATVDistN", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.finiteNonnegativeSumMomentV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.finiteNonnegativeSumMomentV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "NashStackelberg_Supplement_TrivialNASP", "child": "NashStackelberg_NASP_Var", "via": ["statement"]}
+{"parent": "OnlineMatchFrameworks.Supplement.theorem_10", "child": "OnlineMatchFrameworks_PatienceModels", "via": ["statement"]}
+{"parent": "OnlineMatchFrameworks.Supplement.theorem_10", "child": "OnlineMatchFrameworks_Supplement_ClairvoyantStar", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_30", "child": "SurrogateOps_FunAccAt", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_30", "child": "SurrogateOps_FunAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_30", "child": "SurrogateOps_Supplement_VecFunAccAt", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_30", "child": "SurrogateOps_Supplement_VecFunAccNear", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointLawFromVanishingAndCreeping", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointLawFromVanishingAndCreeping", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointLawFromVanishingAndCreeping", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointLawFromVanishingAndCreeping", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointLawFromVanishingAndCreeping", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.vanishingTestLowerBound", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.vanishingTestLowerBound", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.vanishingTestLowerBound", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.vanishingTestLowerBound", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.vanishingTestLowerBound", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "GRH.cofinal_factorial_one_sided_moebius_squares", "child": "GRH_FactorialMoebius", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_tvEntanglement", "child": "markov_entanglement", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_18", "child": "SurrogateOps_FunAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_18", "child": "SurrogateOps_GradAccNear", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise45StrictBandRightV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise45StrictBandRightV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_muATVDistN", "child": "markov_entanglement_multi", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_muATVDistA", "child": "markov_entanglement_multi", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_muATVDistA", "child": "markov_entanglement", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise45PhysicalLargeRightV1", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["solution", "statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_muEntanglementA", "child": "markov_entanglement_multi", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_muEntanglementA", "child": "markov_entanglement", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_muEntanglementA", "child": "MarkovEntanglementExact_Supplement_muATVDistA", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointAssemblyLowerBound", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointAssemblyLowerBound", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointAssemblyLowerBound", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointAssemblyLowerBound", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointAssemblyLowerBound", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "NashStackelberg.Supplement.lemma_1", "child": "NashStackelberg_Supplement_HasStackelbergExtForm", "via": ["statement"]}
+{"parent": "GRH_FactorialMoebius", "child": "GRH_OneSidedMoebius", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_muEntanglementB", "child": "markov_entanglement_multi", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_muEntanglementB", "child": "MarkovEntanglementExact_Supplement_muATVDistB", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_muEntanglementB", "child": "markov_entanglement", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_26", "child": "SurrogateOps_FunAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_26", "child": "SurrogateOps_GradAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_26", "child": "SurrogateOps_HessAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_33", "child": "SurrogateOps_GradAccAt", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_33", "child": "SurrogateOps_Supplement_VecGradAccAt", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_33", "child": "SurrogateOps_HessAccAt", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_33", "child": "SurrogateOps_Supplement_VecHessAccAt", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_shiftedChunk_atom_classification", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_shiftedChunk_atom_classification", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_shiftedChunk_atom_classification", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.killedPotential_shiftedChunk_atom_classification", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingLowerPositiveDrift", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingLowerPositiveDrift", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingLowerPositiveDrift", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingLowerPositiveDrift", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingLowerPositiveDrift", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_20", "child": "SurrogateOps_FunAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_20", "child": "SurrogateOps_GradAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_20", "child": "SurrogateOps_HessAccNear", "via": ["statement"]}
+{"parent": "AbelianCayleyHDX.tower_generic_data", "child": "HMBinPacking_OutputsWithin", "via": ["statement"]}
+{"parent": "AbelianCayleyHDX.tower_generic_data", "child": "AbelianCayleyHDX_encFVec", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_24", "child": "SurrogateOps_FunAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_24", "child": "SurrogateOps_GradAccNear", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise45UniformCauchyTailProbabilityV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise45UniformCauchyTailProbabilityV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_22", "child": "SurrogateOps_FunAccAt", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_22", "child": "SurrogateOps_FunAccNear", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingPotentialRatioLimit", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingPotentialRatioLimit", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingPotentialRatioLimit", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingPotentialRatioLimit", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingPotentialRatioLimit", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointAssemblyUpperBound", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointAssemblyUpperBound", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointAssemblyUpperBound", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointAssemblyUpperBound", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.jointAssemblyUpperBound", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "NashStackelberg.Supplement.theorem_1", "child": "BudgetCoreExchange_Sigma2P", "via": ["statement"]}
+{"parent": "NashStackelberg.Supplement.theorem_1", "child": "NashStackelberg_Supplement_Languages", "via": ["statement"]}
+{"parent": "GRH.centered_moebius_iff_cofinal_factorial_square_tests", "child": "GRH_FactorialMoebius", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.vanishingTestUpperBound", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.vanishingTestUpperBound", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.vanishingTestUpperBound", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.vanishingTestUpperBound", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.vanishingTestUpperBound", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise45ActualSmallBandUniformCauchyV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise45ActualSmallBandUniformCauchyV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_IsOccupancyZ", "child": "markov_entanglement_multi", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_IsOccupancyZ", "child": "MarkovEntanglementExact_Supplement_marginalDistZ", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingLowerZeroDrift", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingLowerZeroDrift", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingLowerZeroDrift", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingLowerZeroDrift", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingLowerZeroDrift", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_13", "child": "SurrogateOps_FunAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_13", "child": "SurrogateOps_GradAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_13", "child": "SurrogateOps_HessAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_25", "child": "SurrogateOps_GradAccAt", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_25", "child": "SurrogateOps_HessAccAt", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_IsOccupancyN", "child": "markov_entanglement_multi", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_34", "child": "SurrogateOps_Supplement_VecFunAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_34", "child": "SurrogateOps_Supplement_VecGradAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_34", "child": "SurrogateOps_HessAccNear", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_34", "child": "SurrogateOps_Supplement_VecHessAccNear", "via": ["statement"]}
+{"parent": "GRH.centered_moebius_iff_primitive_dirichlet_critical_line", "child": "GRH_FactorialMoebius", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_23", "child": "SurrogateOps_GradAccAt", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_IsLocalTransitionZ", "child": "markov_entanglement_multi", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_IsLocalTransitionZ", "child": "MarkovEntanglementExact_Supplement_marginalDistZ", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingUpperZeroDrift", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingUpperZeroDrift", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingUpperZeroDrift", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingUpperZeroDrift", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingUpperZeroDrift", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "NashStackelberg_Supplement_Languages", "child": "NashStackelberg_IsPNE", "via": ["statement"]}
+{"parent": "NashStackelberg_Supplement_Languages", "child": "NashStackelberg_NASP_F", "via": ["statement"]}
+{"parent": "NashStackelberg_Supplement_Languages", "child": "NashStackelberg_Supplement_TrivialNASP", "via": ["statement"]}
+{"parent": "NashStackelberg_Supplement_Languages", "child": "NewtonLCP_Supplement_Complexity", "via": ["statement"]}
+{"parent": "NashStackelberg_Supplement_Languages", "child": "NashStackelberg_IsMNE", "via": ["statement"]}
+{"parent": "NashStackelberg_Supplement_Languages", "child": "NashStackelberg_NASP_cost", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_31", "child": "SurrogateOps_GradAccAt", "via": ["statement"]}
+{"parent": "SurrogateOps.Supplement.theorem_31", "child": "SurrogateOps_Supplement_VecGradAccAt", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.positiveMeanLaplaceStrictV1", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.positiveMeanLaplaceStrictV1", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "NashStackelberg.Supplement.theorem_2", "child": "BudgetCoreExchange_Sigma2P", "via": ["statement"]}
+{"parent": "NashStackelberg.Supplement.theorem_2", "child": "NashStackelberg_Supplement_Languages", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_muATVDistB", "child": "markov_entanglement_multi", "via": ["statement"]}
+{"parent": "MarkovEntanglementExact_Supplement_muATVDistB", "child": "markov_entanglement", "via": ["statement"]}
+{"parent": "MaxCutSample2027.Coreset.lemma_2_7", "child": "MaxCutSample2027.Coreset.equation_2_6", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.lemma_2_7", "child": "MaxCutSample2027.Coreset.lemma_A_1", "via": ["solution"]}
+{"parent": "HopRamsey.claim_2", "child": "HopRamsey_IsStochRamseyEmbedding", "via": ["solution"]}
+{"parent": "HopRamsey.claim_2", "child": "ARTreeCover_HST", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.theorem_2_9", "child": "MaxCutSample2027.Coreset.equation_2_14", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.theorem_2_9", "child": "MaxCutSample2027.Coreset.lemma_2_5", "via": ["solution"]}
+{"parent": "HopRamsey.remove_finite_diameter", "child": "HopRamsey_truncGeom", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.theorem_2_1", "child": "MaxCutSample2027.Coreset.lemma_2_4", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.theorem_2_1", "child": "MaxCutSample2027.Coreset.theorem_2_9", "via": ["solution"]}
+{"parent": "HopRamsey.theorem_1", "child": "HopRamsey.remove_finite_diameter", "via": ["solution"]}
+{"parent": "HopRamsey.theorem_1", "child": "HopRamsey_Fig2Params", "via": ["solution"]}
+{"parent": "HopRamsey.theorem_1", "child": "HopRamsey.finite_case_parameters", "via": ["solution"]}
+{"parent": "HopRamsey.theorem_1", "child": "HopRamsey.finite_case", "via": ["solution"]}
+{"parent": "HopRamsey.theorem_1", "child": "HopRamsey_hopStochEmbedding", "via": ["solution"]}
+{"parent": "HopRamsey.theorem_1", "child": "HopRamsey_truncGeom", "via": ["solution"]}
+{"parent": "HopRamsey.theorem_1", "child": "HopRamsey_augmentComplete", "via": ["solution"]}
+{"parent": "HopRamsey.lemma_2", "child": "HopRamsey_IsStochRamseyEmbedding", "via": ["solution"]}
+{"parent": "HopRamsey.lemma_2", "child": "ARTreeCover_HST", "via": ["solution"]}
+{"parent": "HopRamsey.corollary_1", "child": "HopRamsey_IsStochRamseyEmbedding", "via": ["solution"]}
+{"parent": "HopRamsey.claim_1", "child": "HopRamsey_IsStochRamseyEmbedding", "via": ["solution"]}
+{"parent": "HopRamsey.claim_1", "child": "HopRamsey_hopStochEmbedding", "via": ["solution"]}
+{"parent": "HopRamsey.claim_1", "child": "ARTreeCover_HST", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.equation_2_14", "child": "MaxCutSample2027.Coreset.lemma_2_8", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.equation_2_14", "child": "MaxCutSample2027_Coreset_signed", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.equation_2_14", "child": "MaxCutSample2027.Coreset.lemma_2_7", "via": ["solution"]}
+{"parent": "HopRamsey.lemma_1", "child": "HopRamsey_IsStochRamseyEmbedding", "via": ["solution"]}
+{"parent": "HopRamsey.lemma_1", "child": "ARTreeCover_HST", "via": ["solution"]}
+{"parent": "MultiNashRepair.lemma_5_4", "child": "MultiNashRepair_DescentLP", "via": ["solution"]}
+{"parent": "TriFormQ.theorem_1", "child": "QAlgorithms_Defs_Query", "via": ["solution"]}
+{"parent": "TriFormQ.theorem_1", "child": "TriFormQ_sliceU", "via": ["solution"]}
+{"parent": "TriFormQ.theorem_1", "child": "TriFormQ_TriForm", "via": ["solution"]}
+{"parent": "TriFormQ.theorem_1", "child": "TriFormQ_fiber", "via": ["solution"]}
+{"parent": "TriFormQ.theorem_1", "child": "TriFormQ_AR", "via": ["solution"]}
+{"parent": "TriFormQ.theorem_1", "child": "TriFormQ_TriForm_eval", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.theorem_3_1", "child": "MaxCutSample2027.Coreset.Supplement.lemma_3_4", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.theorem_3_1", "child": "MaxCutSample2027.Coreset.equation_2_14", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.theorem_3_1", "child": "MaxCutSample2027.Coreset.lemma_2_4", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.theorem_1_1", "child": "MaxCutSample2027.Coreset.theorem_2_1", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.theorem_1_1", "child": "MaxCutSample2027.Coreset.Supplement.lemma_2_10", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.theorem_1_2", "child": "MaxCutSample2027.Coreset.theorem_2_1", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.theorem_1_2", "child": "MaxCutSample2027.Coreset.Supplement.lemma_2_10", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.potentialLaplaceAsymptoticsV2", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.tailLaplaceAsymptotics", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.karamataTauberianInfinity", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.karamataMonotoneDensityInfinity", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.potentialScalingLimitsV2", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.tailScalingLimits", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.karamataTauberianZero", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.regularVariationPotentialAndTailLimits", "child": "Kyprianou.Ch05.potentialSupportNonnegative", "via": ["solution"]}
+{"parent": "MaxCutSample2027.Coreset.Supplement.lemma_5_5", "child": "MaxCutSample2027.Coreset.Supplement.lemma_5_6", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_progression_bilinear_power_bound", "child": "GRH.centered_moebius_iff_cofinal_factorial_square_tests", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_progression_bilinear_power_bound", "child": "GRH.cofinal_factorial_one_sided_moebius_squares", "via": ["solution"]}
+{"parent": "LinearChoresCLS.chores_short_rational_ce", "child": "MIQPInNP.SmallSol.theorem_3", "via": ["solution"]}
+{"parent": "LinearChoresCLS.chores_short_rational_ce", "child": "LinearChoresCLS_RightDeriv", "via": ["solution"]}
+{"parent": "LinearChoresCLS.chores_short_rational_ce", "child": "LinearChoresCLS_Psi", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.finiteMeanPassageJointLawLimit", "child": "Kyprianou.Ch05.jointLawVanishingTestLimit", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.finiteMeanPassageJointLawLimit", "child": "Kyprianou.Ch05.finiteMeanCreepingProbabilityLimit", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.finiteMeanPassageJointLawLimit", "child": "Kyprianou.Ch05.jointLawFromVanishingAndCreeping", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.tailScalingLimits", "child": "Kyprianou.Ch05.tailScalingFilter", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityLowerBoundEventually", "child": "Kyprianou.Ch05.creepingLowerZeroDrift", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityLowerBoundEventually", "child": "Kyprianou.Ch05.creepingLowerPositiveDrift", "via": ["solution"]}
+{"parent": "AbelianCayleyHDX.tower_polynomial_data", "child": "AbelianCayleyHDX.tower_generic_data", "via": ["solution"]}
+{"parent": "AbelianCayleyHDX.tower_polynomial_data", "child": "AbelianCayleyHDX.maximal_minors_linearIndependent_of_oneGeneric", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45ActualSmallBandFullLimitV1", "child": "Kyprianou.Ch04.exercise45ActualSmallBandUniformCauchyV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45ActualSmallBandFullLimitV1", "child": "Kyprianou.Ch04.exercise45CompactUniformLimitRightV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45ActualSmallBandFullLimitV1", "child": "Kyprianou.Ch04.exercise45StrictBandRightV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45ActualSmallBandFullLimitV1", "child": "Kyprianou.Ch04.exercise45UniformCutoffCauchyLimitV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityUpperBoundEventually", "child": "Kyprianou.Ch05.creepingUpperZeroDrift", "via": ["solution"]}
+{"parent": "Kyprianou.Ch05.creepingProbabilityUpperBoundEventually", "child": "Kyprianou.Ch05.creepingUpperPositiveDrift", "via": ["solution"]}
+{"parent": "SPFacilityGraph.sp_onto_finite_values", "child": "SPFacilityGraph.MetricGraph.dist_le_walk", "via": ["solution"]}
+{"parent": "SPFacilityGraph.sp_onto_finite_values", "child": "SPFacilityGraph.MetricGraph.exists_walk_eq_dist", "via": ["solution"]}
+{"parent": "SPFacilityGraph.sp_onto_finite_values", "child": "SPFacilityGraph.MetricGraph.dist_comm", "via": ["solution"]}
+{"parent": "SPFacilityGraph.sp_onto_finite_values", "child": "SPFacilityGraph.MetricGraph.dist_triangle", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_zero_drop_measurable", "child": "AvramDividend.Classical.dividendStrategy_realTime_measurable", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_zero_drop_measurable", "child": "AvramDividend.Classical.avram_wave3_03_dividendStrategy_rightLimit_monotone", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_secant_integrable", "child": "AvramDividend.Classical.dividendStrategy_le_rightLimit", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_secant_integrable", "child": "AvramDividend.Classical.avram_locmoll_band_eligible_measure_finite", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_secant_integrable", "child": "AvramDividend.Classical.avram_gbB269_original_postpayment_reserve_joint_time_sample_measurable", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_secant_integrable", "child": "AvramDividend.Classical.avram_locmoll_band_secant_mean_value", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_secant_integrable", "child": "AvramDividend.Classical.avram_p3_g2_original_prepayment_riskProcess_joint_measurable", "via": ["solution"]}
+{"parent": "AvramDividend.Classical.avram_locmoll_band_secant_integrable", "child": "AvramDividend.Classical.avram_p4_d_dividend_original_paymentTimes_measurableSet", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45ActualPureJumpReconstructionV1", "child": "Kyprianou.Ch04.exercise45ActualPureJumpFixedTimeSubsequenceV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45ActualPureJumpReconstructionV1", "child": "Kyprianou.Ch04.pathJumpMeasureZeroTimeV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45ActualPureJumpReconstructionV1", "child": "Kyprianou.Ch04.exercise45PhysicalLargeRightV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45ActualPureJumpReconstructionV1", "child": "Kyprianou.Ch04.exercise45ActualSmallBandFullLimitV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45ActualPureJumpReconstructionV1", "child": "Kyprianou.Ch04.exercise45RightContinuousDenseEqV1", "via": ["solution"]}
+{"parent": "Erdos287.few_exceptional_primes_with_cofactor_split_constraints", "child": "Erdos287.cofactor_split_pattern_count", "via": ["solution"]}
+{"parent": "Erdos287.few_exceptional_primes_with_cofactor_split_constraints", "child": "Erdos287.few_exceptional_primes_for_cofactor_subsets", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_at_modulus_iff_dirichlet_zero_free", "child": "GRH.nonprincipal_moebius_uniform_power_bound_of_zero_free_halfplane", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_at_modulus_iff_dirichlet_zero_free", "child": "GRH.principal_moebius_upper_excludes_zeta_zeros_at_any_modulus", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_at_modulus_iff_dirichlet_zero_free", "child": "GRH.centered_moebius_bound_iff_square_mertens_residual", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_at_modulus_iff_dirichlet_zero_free", "child": "GRH.centered_moebius_bound_iff_square_residue_bias_of_riemannHypothesis", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_at_modulus_iff_dirichlet_zero_free", "child": "GRH.reduced_residue_bias_iff_nonprincipal_character_bounds_at_cutoffs", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_at_modulus_iff_dirichlet_zero_free", "child": "riemannHypothesis_iff_zeros_in_strip_on_line", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_at_modulus_iff_dirichlet_zero_free", "child": "GRH.dirichlet_nonvanishing_of_one_sided_moebius_class_bounds", "via": ["solution"]}
+{"parent": "GRH.dirichlet_nonvanishing_of_one_sided_moebius_class_bounds", "child": "GRH.reduced_moebius_principal_bounds_of_dirichlet_prefixes", "via": ["solution"]}
+{"parent": "GRH.dirichlet_nonvanishing_of_one_sided_moebius_class_bounds", "child": "moebius_summatory_rpow_bound_of_riemannHypothesis", "via": ["solution"]}
+{"parent": "GRH.dirichlet_nonvanishing_of_one_sided_moebius_class_bounds", "child": "dirichlet_mellin_analytic_limit_of_partial_sum_bound", "via": ["solution"]}
+{"parent": "GRH.dirichlet_nonvanishing_of_one_sided_moebius_class_bounds", "child": "moebius_dirichlet_partialSum_tendsto_of_moebius_bound", "via": ["solution"]}
+{"parent": "GRH.dirichlet_nonvanishing_of_one_sided_moebius_class_bounds", "child": "GRH.one_sided_moebius_square_cutoffs_iff_all_cutoffs", "via": ["solution"]}
+{"parent": "GRH.dirichlet_nonvanishing_of_one_sided_moebius_class_bounds", "child": "riemannHypothesis_iff_zeros_in_strip_on_line", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45StrictBandRightV1", "child": "Kyprianou.Ch02.smallJumpBandMeasureFiniteV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45StrictBandRightV1", "child": "Kyprianou.Ch02.prmCompensatedFiniteRegionCadlagAEV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.doubleFiniteMartingaleMaximalV1", "child": "AvramDividend.Classical.avram_ga_a432_discrete_Banach_martingale_Doob_Lp_maximal", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.doubleFiniteMartingaleMaximalV1", "child": "MeasureTheory.maximal_ineq_Lp_readable", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.doubleFiniteMartingaleMaximalV1", "child": "Kyprianou.Ch04.finiteMartingaleAbsSupSubmartingaleV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.finiteMartingaleAbsSupSubmartingaleV1", "child": "Kyprianou.Ch04.rangeSupSuccRealV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45PhysicalLargeRightV1", "child": "Kyprianou.Ch04.actualCutoffAffineStepsV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45PhysicalLargeRightV1", "child": "Kyprianou.Ch02.finiteRegionStepSumCadlagNNRealV1", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_iff_cofinal_factorial_square_tests", "child": "GRH.principal_moebius_upper_excludes_zeta_zeros_at_any_modulus", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_iff_cofinal_factorial_square_tests", "child": "GRH.centered_moebius_at_modulus_iff_dirichlet_zero_free", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_iff_cofinal_factorial_square_tests", "child": "GRH.dirichlet_nonvanishing_of_one_sided_moebius_class_bounds", "via": ["solution"]}
+{"parent": "Erdos287.endpoint_extremal_cover_excludes_six_times_power_of_419", "child": "Erdos287.cofactor_cut_congruence", "via": ["solution"]}
+{"parent": "Erdos287.endpoint_extremal_cover_excludes_six_times_power_of_419", "child": "Erdos287.endpoint_extremal_cover_split_divisor_mass", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise45ActualSmallBandUniformCauchyV1", "child": "Kyprianou.Ch04.exercise45UniformCauchyTailProbabilityV1", "via": ["solution"]}
+{"parent": "Erdos287.endpoint_extremal_cofactor_layer_hits_splits", "child": "Erdos287.cofactor_cut_congruence", "via": ["solution"]}
+{"parent": "Erdos287.endpoint_extremal_cofactor_layer_hits_splits", "child": "Erdos287.endpoint_extremal_cover_trimmed_mass_obstruction", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_iff_primitive_dirichlet_critical_line", "child": "GRH.centered_moebius_at_modulus_iff_dirichlet_zero_free", "via": ["solution"]}
+{"parent": "GRH.centered_moebius_iff_primitive_dirichlet_critical_line", "child": "GRH.grh_critical_line_iff", "via": ["solution"]}

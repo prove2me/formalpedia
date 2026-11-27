@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearChoresCLS_chores_short_rational_ce
 -- name    : LinearChoresCLS.chores_short_rational_ce
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:15:32.363804+00:00
 -- url     : https://prove2.me/theorems/44d48e41-a819-4676-aa7a-37c5fb72ced7

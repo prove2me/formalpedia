@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobersonCx_splitB_cubic_bipartite_connected
 -- name    : RobersonCx.splitB_cubic_bipartite_connected
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T23:14:24.54581+00:00
 -- url     : https://prove2.me/theorems/e2b3ddb3-2711-4339-b476-9e026774581c

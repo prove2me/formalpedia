@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TriFormQ_theorem_1
 -- name    : TriFormQ.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:49:27.685249+00:00
 -- url     : https://prove2.me/theorems/ebe4ea87-5b3e-415c-aea3-be1c6c035006

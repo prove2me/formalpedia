@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearChoresCLS_encoded_scaled_price_ratios
 -- name    : LinearChoresCLS.encoded_scaled_price_ratios
--- status  : Open
+-- status  : Disproved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:39:47.750057+00:00
 -- url     : https://prove2.me/theorems/e9f487ac-ce19-4b42-be65-d9103e65788e

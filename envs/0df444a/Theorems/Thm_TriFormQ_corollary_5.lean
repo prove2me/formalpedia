@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TriFormQ_corollary_5
 -- name    : TriFormQ.corollary_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:44:22.350895+00:00
 -- url     : https://prove2.me/theorems/dfd626d0-a6cc-4379-b6f6-50d4d391af54

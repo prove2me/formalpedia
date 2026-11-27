@@ -13947,11 +13947,11 @@
 {"parent": "ManyServerQED.Scheduling.queue_arrival_finite_observation_limit", "child": "ManyServerQED_Scheduling_Model", "via": ["solution", "statement"]}
 {"parent": "ManyServerQED.Scheduling.queue_arrival_finite_observation_limit", "child": "DurrettProbability_Donsker", "via": ["solution", "statement"]}
 {"parent": "ManyServerQED.Scheduling.weak_continuous_path_laws_control_norm_and_modulus", "child": "DurrettProbability_Donsker", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.finiteMeanPassageJointLawLimit", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.finiteMeanPassageJointLawLimit", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.finiteMeanPassageJointLawLimit", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.finiteMeanPassageJointLawLimit", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.finiteMeanPassageJointLawLimit", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.finiteMeanPassageJointLawLimit", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.finiteMeanPassageJointLawLimit", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.finiteMeanPassageJointLawLimit", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.finiteMeanPassageJointLawLimit", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.finiteMeanPassageJointLawLimit", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
 {"parent": "AlgebraicGeometry_EtaleOverlapBoundary", "child": "AlgebraicGeometry_EtaleOpenCoefficientComparison", "via": ["statement"]}
 {"parent": "ManyServerQED.Scheduling.queue_primitives_joint_finite_observation_limit", "child": "DurrettProbability_Donsker", "via": ["solution", "statement"]}
 {"parent": "ManyServerQED.Scheduling.queue_primitives_joint_finite_observation_limit", "child": "DurrettProbability.donsker", "via": ["solution", "statement"]}
@@ -14130,8 +14130,8 @@
 {"parent": "Kyprianou.Ch05.killedLaplaceExponent_nonneg", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedLaplaceExponent_nonneg", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedLaplaceExponent_nonneg", "child": "Kyprianou_Ch03_IsSubordinator", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.tailScalingLimits", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.tailScalingLimits", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.tailScalingLimits", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.tailScalingLimits", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_iff", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_iff", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.killedPotential_latticeSupport_iff", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}

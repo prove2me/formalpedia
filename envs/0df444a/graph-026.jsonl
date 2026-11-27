@@ -51840,8 +51840,8 @@
 {"parent": "OAI.SharpPlanar.Numerical.lentry4_1_contains_g", "child": "OAIQ098G154", "via": ["solution", "statement"]}
 {"parent": "LocalOccupancyIS_Glauber_Execution", "child": "LocalOccupancyIS_Glauber_Parameters", "via": ["statement"]}
 {"parent": "IsingVectorBalancing.Subgaussian.theorem_5", "child": "IsingVectorBalancing_Subgaussian_Lorentz", "via": ["solution", "statement"]}
-{"parent": "RobersonCx.splitB_cubic_bipartite_connected", "child": "RobersonCx_circulantD", "via": ["statement"]}
-{"parent": "RobersonCx.splitB_cubic_bipartite_connected", "child": "RobersonCx_IsCyclicInterval", "via": ["statement"]}
+{"parent": "RobersonCx.splitB_cubic_bipartite_connected", "child": "RobersonCx_circulantD", "via": ["solution", "statement"]}
+{"parent": "RobersonCx.splitB_cubic_bipartite_connected", "child": "RobersonCx_IsCyclicInterval", "via": ["solution", "statement"]}
 {"parent": "OAI.FirstPassCubeLabels.threeGaussRowFactor_common_unit", "child": "OAI_NumberTheory_DirichletL_MeanSquare_ReflectedDyadicSeries", "via": ["solution", "statement"]}
 {"parent": "OAI.FirstPassCubeLabels.threeGaussRowFactor_common_unit", "child": "OAI_NumberTheory_DirichletL_GaussSum_BranchScaling", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r4_7_eq_g", "child": "OAIQ098G406", "via": ["solution", "statement"]}

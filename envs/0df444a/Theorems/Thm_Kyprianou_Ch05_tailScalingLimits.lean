@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_tailScalingLimits
 -- name    : Kyprianou.Ch05.tailScalingLimits
--- status  : Open
+-- status  : Proved
 -- author  : @daga2
 -- created : 2026-11-26T03:14:30.869688+00:00
 -- url     : https://prove2.me/theorems/5608d87a-95f6-5b7c-b4ea-2f334c6baca5

@@ -81324,7 +81324,7 @@
 {"parent": "DynBrooks.lemma_6_1", "child": "DynBrooks_MatchingWalk", "via": ["statement"]}
 {"parent": "QEC.Coding.PuncturedReedMuller.exists_systematicKeptLift_add_shortened", "child": "QEC_Coding_ReedMuller_Punctured", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PuncturedReedMuller.exists_systematicKeptLift_add_shortened", "child": "QEC_Coding_ReedMuller_Base", "via": ["solution", "statement"]}
-{"parent": "MatSemiBurnside.rank_stable_iff", "child": "MatSemiBurnside_IsStableSet", "via": ["statement"]}
+{"parent": "MatSemiBurnside.rank_stable_iff", "child": "MatSemiBurnside_IsStableSet", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.card_integerSquareRoots_sq", "child": "QEC_Coding_ExpanderCodes_LPSQuaternionCount", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.card_integerSquareRoots_sq", "child": "QEC_Coding_ExpanderCodes_FourSquareTheta", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.coeff_lpsTraceCoordinateThetaSeries_prod_eq_card", "child": "QEC_Coding_ExpanderCodes_LPSTraceQuadraticForm", "via": ["solution", "statement"]}

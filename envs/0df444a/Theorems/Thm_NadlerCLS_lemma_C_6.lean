@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NadlerCLS_lemma_C_6
 -- name    : NadlerCLS.lemma_C_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:06:23.691209+00:00
 -- url     : https://prove2.me/theorems/1f285598-2a63-43f4-9fa0-27b94973e7d0

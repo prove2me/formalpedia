@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HopRamsey_lemma_2
 -- name    : HopRamsey.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:49:30.184466+00:00
 -- url     : https://prove2.me/theorems/7284beb3-54fb-40dc-bbbc-63514a901b54

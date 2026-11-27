@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatSemiBurnside_rank_stable_iff
 -- name    : MatSemiBurnside.rank_stable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:39:22.534193+00:00
 -- url     : https://prove2.me/theorems/824d668f-4957-4e8d-8035-afb7d7a3e4ef

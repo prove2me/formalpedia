@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HopRamsey_remove_finite_diameter
 -- name    : HopRamsey.remove_finite_diameter
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:47:02.987837+00:00
 -- url     : https://prove2.me/theorems/59c6b323-1e76-46a5-9356-35deff0d92a4

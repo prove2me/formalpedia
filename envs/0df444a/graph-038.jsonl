@@ -14224,8 +14224,8 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_SUnitsPlacesOverAndQuadraticConj", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_HeightOneSpectrumPlacesOverFiniteSet", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_SUnitsPlacesOverAndQuadraticConj", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_WithZeroEqOfLeExpIff", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_SUnitsPlacesOverAndQuadraticConj", "child": "Development_AbelianVarietyTheory_Definitions_AdelicHermitianForms_SqSubLeNormSub", "via": ["statement"]}
-{"parent": "LinearChoresCLS.chores_short_rational_ce", "child": "LinearChoresCLS_ChoresSearch", "via": ["statement"]}
-{"parent": "LinearChoresCLS.chores_short_rational_ce", "child": "NetworkEquilibriumCLS_LinearNash_Complexity", "via": ["statement"]}
+{"parent": "LinearChoresCLS.chores_short_rational_ce", "child": "LinearChoresCLS_ChoresSearch", "via": ["solution", "statement"]}
+{"parent": "LinearChoresCLS.chores_short_rational_ce", "child": "NetworkEquilibriumCLS_LinearNash_Complexity", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.hermitianFormColumns.fm_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityEighth", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.hermitianFormColumns.fm_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsNotMemOfSol", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_ExistsIsQuadraticSqrtExtensionOfNotSquareStatement", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_ExistsIsQuadraticSqrtExtensionOfNotSquare", "via": ["statement"]}
@@ -18805,8 +18805,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.IsGrpPullback.cancel", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_OneArcSt", "via": ["solution", "statement"]}
 {"parent": "ITPIRPreproc.MatchVec.lemma_4_2_operational_core", "child": "ITPIRPreproc_MatchVec_CompilerRoundModels", "via": ["statement"]}
 {"parent": "ITPIRPreproc.MatchVec.lemma_4_2_operational_core", "child": "ITPIRPreproc_MatchVec_Efficiency", "via": ["statement"]}
-{"parent": "LinearChoresCLS.encoded_scaled_price_ratios", "child": "LinearChoresCLS_ChoresSearch", "via": ["statement"]}
-{"parent": "LinearChoresCLS.encoded_scaled_price_ratios", "child": "LinearChoresCLS_PriceFamily", "via": ["statement"]}
+{"parent": "LinearChoresCLS.encoded_scaled_price_ratios", "child": "LinearChoresCLS_ChoresSearch", "via": ["solution", "statement"]}
+{"parent": "LinearChoresCLS.encoded_scaled_price_ratios", "child": "LinearChoresCLS_PriceFamily", "via": ["solution", "statement"]}
 {"parent": "KhintchineTwoRegime.sixProfile_eq_of_interior_equality", "child": "KhintchineTwoRegime_sixProfile", "via": ["statement"]}
 {"parent": "KhintchineTwoRegime.sixProfile_eq_of_interior_equality", "child": "KhintchineTwoRegime_Cn", "via": ["statement"]}
 {"parent": "KhintchineTwoRegime.sixProfile_eq_of_interior_equality", "child": "KhintchineTwoRegime_pad", "via": ["statement"]}
