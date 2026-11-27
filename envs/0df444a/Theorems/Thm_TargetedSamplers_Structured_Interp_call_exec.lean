@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TargetedSamplers_Structured_Interp_call_exec
 -- name    : TargetedSamplers.Structured.Interp.call_exec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-27T04:01:18.035198+00:00
 -- url     : https://prove2.me/theorems/ad4273af-9f5a-4e10-80cf-16f29fcbc6f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedHamiltonicity_Main_bounded_adaptive_cycle_controller
 -- name    : DirectedHamiltonicity.Main.bounded_adaptive_cycle_controller
--- status  : Open
+-- status  : Proved
 -- author  : @Soh Kumabe
 -- created : 2026-11-27T03:41:46.430567+00:00
 -- url     : https://prove2.me/theorems/fc84ce80-768c-45f7-84ae-57f4542d662c

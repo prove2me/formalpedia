@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObjectCentric_slot_identifiability
 -- name    : ObjectCentric.slot_identifiability
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T19:41:52.432828+00:00
 -- url     : https://prove2.me/theorems/80ae129c-7a7e-432b-87ed-6f131b17fc16

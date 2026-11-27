@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalomarZF207_internal_provC1_implies_reg_halts
 -- name    : PalomarZF207.internal_provC1_implies_reg_halts
--- status  : Open
+-- status  : Proved
 -- author  : @fl-39
 -- created : 2026-11-27T03:20:05.94081+00:00
 -- url     : https://prove2.me/theorems/3655a075-1c01-5e1f-8506-29c74d77229f

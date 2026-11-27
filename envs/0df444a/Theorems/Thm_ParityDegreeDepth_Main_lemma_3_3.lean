@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParityDegreeDepth_Main_lemma_3_3
 -- name    : ParityDegreeDepth.Main.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:23:50.701202+00:00
 -- url     : https://prove2.me/theorems/8104b196-0eb2-4637-aee0-a65b7abcba88

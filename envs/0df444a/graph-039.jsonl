@@ -80153,7 +80153,7 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_PartialOperatorFderivFormulaStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ClmSupBound", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.II.cE_zero", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_InfInvA", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.II.cE_zero", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_IILeft", "via": ["solution", "statement"]}
-{"parent": "ObjectCentric.slot_identifiability", "child": "ObjectCentric_Basic", "via": ["statement"]}
+{"parent": "ObjectCentric.slot_identifiability", "child": "ObjectCentric_Basic", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.UnitaryRep.integrated_apply_eq_integral", "child": "GroundTheory_AutomorphicForms_UnitaryRepresentations_Integrated", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.UnitaryRep.integrated_apply_eq_integral", "child": "GroundTheory_AutomorphicForms_UnitaryRepresentations_IsInvariantIffCommuteStarProjection", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.contr_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_GaussianMomentRecurrence", "via": ["solution", "statement"]}

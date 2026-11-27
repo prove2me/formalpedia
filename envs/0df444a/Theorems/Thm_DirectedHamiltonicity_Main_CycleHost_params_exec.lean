@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedHamiltonicity_Main_CycleHost_params_exec
 -- name    : DirectedHamiltonicity.Main.CycleHost.params_exec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-27T04:01:50.388667+00:00
 -- url     : https://prove2.me/theorems/f6297b0d-62ec-4336-b174-ff6cd4454a5f

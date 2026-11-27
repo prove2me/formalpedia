@@ -32205,10 +32205,10 @@
 {"parent": "OddPermSum.Evaluation.crossed_sum_computation", "child": "OddPermSum_Evaluation_crossedSum", "via": ["statement"]}
 {"parent": "OddPermSum.Evaluation.crossed_sum_computation", "child": "OddPermSum_Evaluation_achievedExponent", "via": ["statement"]}
 {"parent": "HindsightGain_Uniform_optima", "child": "HindsightGain_Uniform_model", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_2_5", "child": "KakeyaPolynomialMethods", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_2_5", "child": "ParityCubes_anfCoeff", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_2_5", "child": "DetCCHard_Protocol", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_2_5", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_2_5", "child": "KakeyaPolynomialMethods", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_2_5", "child": "ParityCubes_anfCoeff", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_2_5", "child": "DetCCHard_Protocol", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_2_5", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["solution", "statement"]}
 {"parent": "ChenCapacityTerminals.Exact.conditioned_batching", "child": "ChenCapacityTerminals_Exact_Specifications", "via": ["statement"]}
 {"parent": "HindsightGain.Uniform.theorem_7", "child": "HindsightGain_Uniform_rademacher", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm1_60_1.sums_eq_g", "child": "OAIQ098G1578", "via": ["solution", "statement"]}
@@ -34081,10 +34081,10 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm15_0_1_7.s5_eq_g", "child": "OAIQ098G848", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm27_0_0_2.s3_eq_g", "child": "OAIQ098G1076", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm27_0_0_2.s3_eq_g", "child": "OAIQ098G1071", "via": ["solution", "statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_3_3", "child": "KakeyaPolynomialMethods", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_3_3", "child": "ParityCubes_anfCoeff", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_3_3", "child": "DetCCHard_Protocol", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_3_3", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_3_3", "child": "KakeyaPolynomialMethods", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_3_3", "child": "ParityCubes_anfCoeff", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_3_3", "child": "DetCCHard_Protocol", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_3_3", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["solution", "statement"]}
 {"parent": "MetricMatchingDistortion.lemma_3_2", "child": "MetricMatchingDistortion_IsBalanced", "via": ["statement"]}
 {"parent": "MetricMatchingDistortion.lemma_3_2", "child": "MetricMatchingDistortion_randRepPartition", "via": ["statement"]}
 {"parent": "MetricMatchingDistortion.lemma_3_2", "child": "MetricMatchingDistortion_IsConsistentPseudometric", "via": ["statement"]}
@@ -34425,10 +34425,10 @@
 {"parent": "Grunbaum2003.ray_oracle_phased_program_execution_trace", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.ray_oracle_phased_program_execution_trace", "child": "Grunbaum2003_rayMachineRun", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.ray_oracle_phased_program_execution_trace", "child": "Grunbaum2003_RayConfiguration", "via": ["solution", "statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_B_3", "child": "KakeyaPolynomialMethods", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_B_3", "child": "ParityCubes_anfCoeff", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_B_3", "child": "DetCCHard_Protocol", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_B_3", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_B_3", "child": "KakeyaPolynomialMethods", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_B_3", "child": "ParityCubes_anfCoeff", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_B_3", "child": "DetCCHard_Protocol", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_B_3", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["solution", "statement"]}
 {"parent": "TriFormQ_queriesWhere", "child": "QAlgorithms_Defs_Classical", "via": ["statement"]}
 {"parent": "SignFreeOracle.Separation.lemma_3_5", "child": "SignFreeOracle_Separation_Encoding", "via": ["statement"]}
 {"parent": "SignFreeOracle.Separation.lemma_3_5", "child": "SignFreeOracle_Separation_Family", "via": ["statement"]}
@@ -34612,10 +34612,10 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm16_0_0_2.s2_eq_g", "child": "OAIQ098G873", "via": ["solution", "statement"]}
 {"parent": "WeightedSpectralSketch.LowerBound.leave_one_out_leverage", "child": "WeightedSpectralSketch_LowerBound_Leverage", "via": ["statement"]}
 {"parent": "ScalablePassiveQRAM_Device_Hamiltonian", "child": "ScalablePassiveQRAM_Device_Registers", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_3_2", "child": "KakeyaPolynomialMethods", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_3_2", "child": "ParityCubes_anfCoeff", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_3_2", "child": "DetCCHard_Protocol", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.lemma_3_2", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_3_2", "child": "KakeyaPolynomialMethods", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_3_2", "child": "ParityCubes_anfCoeff", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_3_2", "child": "DetCCHard_Protocol", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.lemma_3_2", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm16_1_0_13.sums_eq_g", "child": "OAIQ098G883", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm16_1_0_13.sums_eq_g", "child": "OAIQ098G877", "via": ["solution", "statement"]}
 {"parent": "AgnosticTNS_encMat", "child": "AgnosticTNS_encC", "via": ["statement"]}
@@ -40668,10 +40668,10 @@
 {"parent": "HierADA.lemma_3_6", "child": "PrivLearn_Generic_Privacy", "via": ["statement"]}
 {"parent": "CollectiveTreeExploration.Async.lemma_3_11", "child": "CollectiveTreeExploration_Async_PowerRegularizer", "via": ["statement"]}
 {"parent": "DoublyEffIP_Accepts", "child": "DoublyEffIP_HaltsAt", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "KakeyaPolynomialMethods", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "ParityCubes_anfCoeff", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "DetCCHard_Protocol", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["statement"]}
+{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "KakeyaPolynomialMethods", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "ParityCubes_anfCoeff", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "DetCCHard_Protocol", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["solution", "statement"]}
 {"parent": "TarskiQuasiFPT.UpperBound.lemma_11", "child": "TarskiQuasiFPT_UpperBound_Grid", "via": ["statement"]}
 {"parent": "TarskiQuasiFPT.UpperBound.lemma_11", "child": "TarskiQuasiFPT_UpperBound_QueryAnswerSets", "via": ["statement"]}
 {"parent": "WeightedThreeSetPacking.Main.lemma_4_10", "child": "WeightedThreeSetPacking_Main_Repairs", "via": ["statement"]}

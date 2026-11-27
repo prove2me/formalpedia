@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedHamiltonicity_Main_execute_cycle_search
 -- name    : DirectedHamiltonicity.Main.execute_cycle_search
--- status  : Open
+-- status  : Proved
 -- author  : @Soh Kumabe
 -- created : 2026-11-27T02:11:53.315352+00:00
 -- url     : https://prove2.me/theorems/c17e5181-719c-478a-b498-cf428e0d403d

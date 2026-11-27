@@ -45160,10 +45160,10 @@
 {"parent": "SubmodMFG_Supplement_ReflectedMFG", "child": "RepairSched_UsualConditions", "via": ["statement"]}
 {"parent": "SubmodMFG_Supplement_ReflectedMFG", "child": "SubmodMFG_Supplement_Processes", "via": ["statement"]}
 {"parent": "SubmodMFG_Supplement_ReflectedMFG", "child": "SubmodMFG_Supplement_SingularCommon", "via": ["statement"]}
-{"parent": "PalomarZF207.internal_provC1_implies_reg_halts", "child": "palomar_zf207_zf", "via": ["statement"]}
-{"parent": "PalomarZF207.internal_provC1_implies_reg_halts", "child": "palomar_zf207_internal_tm", "via": ["statement"]}
-{"parent": "PalomarZF207.internal_provC1_implies_reg_halts", "child": "palomar_zf207_internal_prov", "via": ["statement"]}
-{"parent": "PalomarZF207.internal_provC1_implies_reg_halts", "child": "palomar_zf207_history", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_provC1_implies_reg_halts", "child": "palomar_zf207_zf", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.internal_provC1_implies_reg_halts", "child": "palomar_zf207_internal_tm", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.internal_provC1_implies_reg_halts", "child": "palomar_zf207_internal_prov", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.internal_provC1_implies_reg_halts", "child": "palomar_zf207_history", "via": ["solution", "statement"]}
 {"parent": "RiskBalancingMNL_Supplement_AsymParams", "child": "FlagshipMEA_Monopoly_LogitChoice", "via": ["statement"]}
 {"parent": "Chi2QEC.Supplement.rotation_hamming_bound", "child": "Chi2QEC_SatisfiesKL", "via": ["statement"]}
 {"parent": "Chi2QEC.Supplement.rotation_hamming_bound", "child": "Chi2QEC_Supplement_rotationError", "via": ["statement"]}
@@ -45347,10 +45347,10 @@
 {"parent": "Kyprianou.Ch05.killedLaplaceExponentDivTendstoAtZero", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.killedLaplaceExponentDivTendstoAtZero", "child": "Kyprianou_Ch05_MonotoneDensity", "via": ["statement"]}
 {"parent": "Kyprianou.Ch05.killedLaplaceExponentDivTendstoAtZero", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "PalomarZF207.internal_tm_loop_step", "child": "palomar_zf207_zf", "via": ["statement"]}
-{"parent": "PalomarZF207.internal_tm_loop_step", "child": "palomar_zf207_internal_tm", "via": ["statement"]}
-{"parent": "PalomarZF207.internal_tm_loop_step", "child": "palomar_zf207_internal_prov", "via": ["statement"]}
-{"parent": "PalomarZF207.internal_tm_loop_step", "child": "palomar_zf207_history", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_tm_loop_step", "child": "palomar_zf207_zf", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.internal_tm_loop_step", "child": "palomar_zf207_internal_tm", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.internal_tm_loop_step", "child": "palomar_zf207_internal_prov", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.internal_tm_loop_step", "child": "palomar_zf207_history", "via": ["solution", "statement"]}
 {"parent": "PrideGuilt.Supplement.theorem_1", "child": "PrideGuilt_InOmega4", "via": ["statement"]}
 {"parent": "PrideGuilt.Supplement.theorem_1", "child": "PrideGuilt_Standing", "via": ["statement"]}
 {"parent": "PrideGuilt.Supplement.theorem_1", "child": "PrideGuilt_tauMStar", "via": ["statement"]}
@@ -45949,7 +45949,7 @@
 {"parent": "SinkhornHall.Supplement.lemma_1_2", "child": "SinkhornHall_Supplement_KL", "via": ["statement"]}
 {"parent": "SinkhornHall.Supplement.lemma_1_2", "child": "SinkhornHall_Analysis", "via": ["statement"]}
 {"parent": "SinkhornHall.Supplement.lemma_1_2", "child": "SinkhornHall_Model", "via": ["statement"]}
-{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "DirectedHamiltonicity_CycleSearch", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "DirectedHamiltonicity_CycleSearch", "via": ["solution", "statement"]}
 {"parent": "ProcNetStab_Supplement_WeightedKAnonymous", "child": "ProcNetStab_KIso", "via": ["statement"]}
 {"parent": "ProcNetStab_Supplement_WeightedKAnonymous", "child": "ProcNetStab_Supplement_WeightedNet", "via": ["statement"]}
 {"parent": "LindbladStructLearn.Mach.A1.outerLoop_reach", "child": "LindbladStructLearn_Admissible", "via": ["solution", "statement"]}
@@ -46735,12 +46735,12 @@
 {"parent": "HedgePSNV.Supplement.lemma_ec_12", "child": "HedgePSNV_Supplement_PayoffAssumptions", "via": ["statement"]}
 {"parent": "LogCostRAM_WorkExecution", "child": "LogCostRAM_StructuredExecution", "via": ["statement"]}
 {"parent": "RankRobustAssort_Supplement_Bset", "child": "RankRobustAssort_Problem", "via": ["statement"]}
-{"parent": "TargetedSamplers.Structured.Interp.call_exec", "child": "LogCostRAM_Interpreter", "via": ["statement"]}
+{"parent": "TargetedSamplers.Structured.Interp.call_exec", "child": "LogCostRAM_Interpreter", "via": ["solution", "statement"]}
 {"parent": "ComplementarySourcing_Supplement_FixedPriceM_game", "child": "ComplementarySourcing_supplierStageProfit", "via": ["statement"]}
 {"parent": "ComplementarySourcing_Supplement_FixedPriceM_game", "child": "ComplementarySourcing_StackelbergGame", "via": ["statement"]}
 {"parent": "ParityDegreeDepth.Core.binary_descent", "child": "ParityDegreeDepth_Core_tensorEval", "via": ["solution", "statement"]}
 {"parent": "MasulloRH.arbitrary_precision_gaussian_approximation_at_each_single_slope", "child": "MasulloRH_VerticalThetaApproximation", "via": ["solution", "statement"]}
-{"parent": "DirectedHamiltonicity.Main.CycleHost.decodeDraw_exec", "child": "DirectedHamiltonicity_CycleSearchHost", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.CycleHost.decodeDraw_exec", "child": "DirectedHamiltonicity_CycleSearchHost", "via": ["solution", "statement"]}
 {"parent": "HedgePSNV.Supplement.theorem_1_iii", "child": "HedgePSNV_Hedging", "via": ["statement"]}
 {"parent": "MasulloRH.coherent_endpoint_mellin_approximations_for_expanding_windows", "child": "MasulloRH_VerticalThetaApproximation", "via": ["statement"]}
 {"parent": "HedgePSNV.Supplement.lemma_ec_8", "child": "HedgePSNV_Supplement_SectionMax", "via": ["statement"]}
@@ -46765,7 +46765,7 @@
 {"parent": "UnaryQuadraticKKT.Hardness.unary_cls_reduction_eventually", "child": "UnaryQuadraticKKT_Hardness_Output", "via": ["solution", "statement"]}
 {"parent": "HedgePSNV.Supplement.lemma_ec_10", "child": "HedgePSNV_Supplement_SectionMax", "via": ["statement"]}
 {"parent": "HedgePSNV.Supplement.lemma_ec_10", "child": "StochasticOrders_Usual_UsualOrder", "via": ["statement"]}
-{"parent": "PrivPCP.lemma_4_13_dependent", "child": "PrivPCP_Supplement_gammaF", "via": ["statement"]}
+{"parent": "PrivPCP.lemma_4_13_dependent", "child": "PrivPCP_Supplement_gammaF", "via": ["solution", "statement"]}
 {"parent": "RankRobustAssort_Supplement_lamEC16", "child": "RankRobustAssort_Supplement_tupleHigh", "via": ["statement"]}
 {"parent": "RankRobustAssort_Supplement_lamEC16", "child": "RankRobustAssort_Supplement_tupleLow", "via": ["statement"]}
 {"parent": "HedgePSNV.Supplement.theorem_3", "child": "HedgePSNV_Supplement_SectionMax", "via": ["statement"]}
@@ -46776,7 +46776,7 @@
 {"parent": "ComplementarySourcing.Supplement.theorem_a3", "child": "ComplementarySourcing_Supplement_expectedManufacturerProfit", "via": ["statement"]}
 {"parent": "ComplementarySourcing.Supplement.theorem_a3", "child": "ComplementarySourcing_StackelbergGame_IsEquilibrium", "via": ["statement"]}
 {"parent": "ComplementarySourcing.Supplement.theorem_a3", "child": "ComplementarySourcing_Supplement_FixedPriceS_game", "via": ["statement"]}
-{"parent": "DirectedHamiltonicity.Main.CycleHost.params_exec", "child": "DirectedHamiltonicity_CycleSearchHost", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.CycleHost.params_exec", "child": "DirectedHamiltonicity_CycleSearchHost", "via": ["solution", "statement"]}
 {"parent": "ParityDegreeDepth.Core.spectral_norm_affine_restriction", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["solution", "statement"]}
 {"parent": "ComplementarySourcing_Supplement_NoRiskM_game", "child": "ComplementarySourcing_StackelbergGame", "via": ["statement"]}
 {"parent": "ComplementarySourcing_Supplement_NoRiskM_game", "child": "ComplementarySourcing_Supplement_uncappedDemand", "via": ["statement"]}
@@ -46801,7 +46801,7 @@
 {"parent": "RankRobustAssort.Supplement.proposition_EC_5", "child": "RankRobustAssort_Mset", "via": ["statement"]}
 {"parent": "RankRobustAssort.Supplement.proposition_EC_5", "child": "RankRobustAssort_InL", "via": ["statement"]}
 {"parent": "RankRobustAssort.Supplement.proposition_EC_5", "child": "RankRobustAssort_Supplement_xi", "via": ["statement"]}
-{"parent": "DirectedHamiltonicity.Main.bounded_adaptive_cycle_controller", "child": "DirectedHamiltonicity_CycleController", "via": ["statement"]}
+{"parent": "DirectedHamiltonicity.Main.bounded_adaptive_cycle_controller", "child": "DirectedHamiltonicity_CycleController", "via": ["solution", "statement"]}
 {"parent": "WildeQIT_Compression_Supplement_ceRegion", "child": "QAlgorithms_Papers_Independent_Claimed50_P20", "via": ["statement"]}
 {"parent": "AlgebraicGeometry_EtaleArtinSchreierNaturality", "child": "AlgebraicGeometry_EtaleArtinSchreierCohomology", "via": ["statement"]}
 {"parent": "AlgebraicGeometry_EtaleArtinSchreierNaturality", "child": "AlgebraicGeometry_EtaleAdditiveArtinSchreierSequence", "via": ["statement"]}
@@ -46866,3 +46866,190 @@
 {"parent": "UnaryQuadraticKKT.Hardness.unary_cls_reduction_eventually", "child": "LinearChoresCLS.unary_to_epsQKKT_reduction", "via": ["solution"]}
 {"parent": "UnaryQuadraticKKT.Hardness.unary_cls_reduction_eventually", "child": "LinearChoresCLS_EpsKKT", "via": ["solution"]}
 {"parent": "MetricTSPSublinear.lemma_5_2", "child": "MetricTSPSublinear.lemma_4_4", "via": ["solution"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_24_3_1", "child": "WildeQIT_Degradable_tensorPower", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_24_3_1", "child": "WildeQIT_QErasure_quantumCapacity", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_24_3_1", "child": "WildeQIT_Degradable_coherentInfoChannel", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_25_2_6", "child": "WildeQIT_Compression_Supplement_oneShotCERegion", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_25_2_6", "child": "WildeQIT_Compression_Supplement_ceRegion", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_13_5_2", "child": "WildeQIT_FinDist", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_13_5_2", "child": "WildeQIT_Degradable_IsDegradable", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_13_5_2", "child": "QAlgorithms_Defs_Ensemble", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_13_5_2", "child": "WildeQIT_Degradable_complementaryApply", "via": ["statement"]}
+{"parent": "MetricTSPSublinear_IsRootedMSF", "child": "DoublingMST_completeGraph", "via": ["statement"]}
+{"parent": "MetricTSPSublinear_IsRootedMSF", "child": "DoublingMST_treeWeight", "via": ["statement"]}
+{"parent": "MetricTSPSublinear_IsRootedMSF", "child": "CombOpt_SpanningTree_Graph_IsForest", "via": ["statement"]}
+{"parent": "PvsNP.OnlineRegionRead.JointTrace.replays_hybrid", "child": "OnlineRegionalTrace", "via": ["solution", "statement"]}
+{"parent": "ALAVI_Supplement_Psi", "child": "CalamaiMore_Convergence_proj", "via": ["statement"]}
+{"parent": "ALAVI_Supplement_Psi", "child": "GoldenRatioVI_Fixed_solutionSet", "via": ["statement"]}
+{"parent": "OnlineRegionalTrace", "child": "SingleTapeWorkBoundary", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_9_2_2", "child": "WildeQIT_fidelity", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_9_2_2", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_9_2_2", "child": "WildeQIT_QMemory_IsPOVM", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_23_2_1", "child": "WildeQIT_Compression_Supplement_privateCapacity", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_23_2_1", "child": "WildeQIT_Degradable_privateInfoChannel", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_23_2_1", "child": "WildeQIT_Degradable_tensorPower", "via": ["statement"]}
+{"parent": "ParityDegreeDepth.Core.theorem_1_3_public", "child": "DetCCHard_Protocol", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Core.theorem_1_3_public", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Core.theorem_1_3_public", "child": "ParityCubes_anfCoeff", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Core.theorem_1_3_public", "child": "ParityDegreeDepth_Core_Setting", "via": ["solution", "statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_9_2", "child": "WildeQIT_FinDist", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_9_2", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_9_2", "child": "WildeQIT_AFW_qCondMutualInfo", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_9_2", "child": "WildeQIT_QMemory_qRelEntropy", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_9_2", "child": "WildeQIT_QMemory_qCondEntropy", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_9_2", "child": "WildeQIT_QChannel", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_9_2", "child": "WildeQIT_partialTrace", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_9_4", "child": "WildeQIT_AFW_qMutualInfo", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_9_4", "child": "WildeQIT_Degradable_tensorChannel", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_9_4", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "MasulloRH.bounded_total_error_of_simultaneous_finite_band_fits", "child": "MasulloRH_FiniteMellinBands", "via": ["statement"]}
+{"parent": "MetricTSPSublinear.sample_distance_sum", "child": "DoublingMST_IsMetric", "via": ["solution", "statement"]}
+{"parent": "MetricTSPSublinear.sample_distance_sum", "child": "MetricTSP_model", "via": ["solution", "statement"]}
+{"parent": "PvsNP.OnlineWindowIO.Native.exact_online_run", "child": "NativeOnlineSingleTape", "via": ["solution", "statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_13_6_1", "child": "WildeQIT_Degradable_privateInfoChannel", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_13_6_1", "child": "WildeQIT_Degradable_coherentInfoChannel", "via": ["statement"]}
+{"parent": "ALAVI.Supplement.theorem_3", "child": "ALAVI_Standing", "via": ["statement"]}
+{"parent": "ALAVI.Supplement.theorem_3", "child": "CalamaiMore_Convergence_proj", "via": ["statement"]}
+{"parent": "ALAVI.Supplement.theorem_3", "child": "ALAVI_IsALAVIRun", "via": ["statement"]}
+{"parent": "ALAVI.Supplement.theorem_3", "child": "GoldenRatioVI_Fixed_solutionSet", "via": ["statement"]}
+{"parent": "ALAVI.Supplement.theorem_3", "child": "ALAVI_Supplement_Psi", "via": ["statement"]}
+{"parent": "ALAVI.Supplement.theorem_3", "child": "ALAVI_Params", "via": ["statement"]}
+{"parent": "AlgebraicGeometry_EtaleAdditiveCohomologyBaseChangeMap", "child": "AlgebraicGeometry_EtaleArtinSchreierNaturality", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_oneShotCERegion", "child": "QAlgorithms_Papers_Independent_Claimed50_P20", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_8_1", "child": "WildeQIT_QMemory_qRelEntropy", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_8_1", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_8_1", "child": "WildeQIT_QChannel", "via": ["statement"]}
+{"parent": "ParityDegreeDepth_Core_Setting", "child": "DetCCHard_Protocol", "via": ["statement"]}
+{"parent": "ParityDegreeDepth_Core_Setting", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["statement"]}
+{"parent": "ParityDegreeDepth_Core_Setting", "child": "ParityCubes_anfCoeff", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_tm_decode_sound", "child": "palomar_zf207_internal_prov", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_tm_decode_sound", "child": "palomar_zf207_internal_tm", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_tm_decode_sound", "child": "palomar_zf207_history", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_tm_decode_sound", "child": "palomar_zf207_zf", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_tm_decode_sound", "child": "palomar_zf207_tm_check", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_tm_decode_sound", "child": "palomar_zf207_internal_rm", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_tm_macros_to_loop", "child": "palomar_zf207_internal_prov", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_tm_macros_to_loop", "child": "palomar_zf207_internal_tm", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_tm_macros_to_loop", "child": "palomar_zf207_history", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_tm_macros_to_loop", "child": "palomar_zf207_zf", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_tm_macros_to_loop", "child": "palomar_zf207_tm_check", "via": ["statement"]}
+{"parent": "PalomarZF207.internal_tm_macros_to_loop", "child": "palomar_zf207_internal_rm", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_oneShotCQRegion", "child": "QAlgorithms_Papers_Independent_Claimed50_P20", "via": ["statement"]}
+{"parent": "MetricTSPSublinear.net_size_bound", "child": "DoublingMST_mstWeight", "via": ["solution", "statement"]}
+{"parent": "MetricTSPSublinear.net_size_bound", "child": "DoublingMST_IsMetric", "via": ["solution", "statement"]}
+{"parent": "MetricTSPSublinear.rootedMSF_candidate", "child": "MetricTSPSublinear_treeDist", "via": ["statement"]}
+{"parent": "MetricTSPSublinear.rootedMSF_candidate", "child": "DoublingMST_IsMetric", "via": ["statement"]}
+{"parent": "MetricTSPSublinear.rootedMSF_candidate", "child": "MetricTSPSublinear_IsRootedMSF", "via": ["statement"]}
+{"parent": "MetricTSPSublinear.rootedMSF_candidate", "child": "DoublingMST_edgeCost", "via": ["statement"]}
+{"parent": "NativeOnlineSingleTape", "child": "SingleTapeWorkBoundary", "via": ["statement"]}
+{"parent": "NativeOnlineSingleTape", "child": "Complexitylib_0ebd467_Computability_Machines_Turing_MultiTape_Universal_Correct", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_25_2_5", "child": "WildeQIT_Compression_Supplement_cqRegion", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_25_2_5", "child": "WildeQIT_Compression_Supplement_oneShotCQRegion", "via": ["statement"]}
+{"parent": "AlgebraicGeometry.Scheme.bijective_etale_cyclic_cohomology_prime_to_characteristic_on_finite_projectiveLine_cover", "child": "AlgebraicGeometry_EtaleCohomologyRestriction", "via": ["statement"]}
+{"parent": "AlgebraicGeometry.Scheme.bijective_etale_cyclic_cohomology_prime_to_characteristic_on_finite_projectiveLine_cover", "child": "AlgebraicGeometry_ProjSpace", "via": ["statement"]}
+{"parent": "MetricTSPSublinear.rootedMSF_path_bound", "child": "MetricTSPSublinear_treeDist", "via": ["statement"]}
+{"parent": "MetricTSPSublinear.rootedMSF_path_bound", "child": "DoublingMST_IsMetric", "via": ["statement"]}
+{"parent": "MetricTSPSublinear.rootedMSF_path_bound", "child": "MetricTSPSublinear_IsRootedMSF", "via": ["statement"]}
+{"parent": "MetricTSPSublinear.rootedMSF_path_bound", "child": "DoublingMST_edgeCost", "via": ["statement"]}
+{"parent": "DeepSets.Supplement.lemma_6_powerSum_continuous_inverse", "child": "DeepSets_Supplement_powerSumMap", "via": ["statement"]}
+{"parent": "DeepSets.Supplement.lemma_6_powerSum_continuous_inverse", "child": "DeepSets_Supplement_sortedUnitCube", "via": ["statement"]}
+{"parent": "ALAVI_Supplement_KKTMap", "child": "NonsmoothNewton_Shared_clarkeJac", "via": ["statement"]}
+{"parent": "ALAVI_Supplement_KKTMap", "child": "GoldenRatioVI_Fixed_solutionSet", "via": ["statement"]}
+{"parent": "MasulloRH.bounded_finite_band_fits_iff_global_window_approximation", "child": "MasulloRH_FiniteMellinBands", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_21_3_1", "child": "WildeQIT_EADamping_channelMutualInfo", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_21_3_1", "child": "WildeQIT_EADamping_IsAchievableEARate", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_9_3_1", "child": "WildeQIT_fidelity", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_9_3_1", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_2_1", "child": "WildeQIT_QMemory_vonNeumann", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_2_1", "child": "QAlgorithms_Defs_Ensemble", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_11_2_1", "child": "WildeQIT_partialTrace", "via": ["statement"]}
+{"parent": "DeepSets.Supplement.lemma_4_powerSum_injOn", "child": "DeepSets_Supplement_powerSumMap", "via": ["statement"]}
+{"parent": "DeepSets.Supplement.lemma_4_powerSum_injOn", "child": "DeepSets_Supplement_sortedUnitCube", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_25_2_2", "child": "WildeQIT_Compression_Supplement_oneShotClassicalRegion", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_25_2_2", "child": "WildeQIT_Compression_Supplement_classicalRegion", "via": ["statement"]}
+{"parent": "MasulloRH.common_rational_gaussian_fit_on_every_finite_frequency_band", "child": "MasulloRH_FiniteMellinBands", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_25_2_4", "child": "WildeQIT_Compression_Supplement_eaQuantumRegion", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_25_2_4", "child": "WildeQIT_Compression_Supplement_oneShotEAQuantumRegion", "via": ["statement"]}
+{"parent": "WildeQIT_Compression_Supplement_oneShotEAQuantumRegion", "child": "QAlgorithms_Papers_Independent_Claimed50_P20", "via": ["statement"]}
+{"parent": "MasulloRH_FiniteMellinBands", "child": "MasulloRH_VerticalThetaApproximation", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_25_5_3", "child": "WildeQIT_ErasureClassical_erasureChannel", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_25_5_3", "child": "QAlgorithms_Papers_Independent_Claimed50_P20", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_21_5_2", "child": "WildeQIT_EADamping_channelMutualInfo", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_21_5_2", "child": "WildeQIT_Compression_Supplement_IsAchievableQFeedbackRate", "via": ["statement"]}
+{"parent": "palomar_zf207_internal_rm", "child": "palomar_zf207_tm_check", "via": ["statement"]}
+{"parent": "palomar_zf207_internal_rm", "child": "palomar_zf207_internal_tm", "via": ["statement"]}
+{"parent": "DeepSets.Supplement.theorem_7_continuous_sum_decomposition", "child": "DeepSets_Supplement_IsPermInvariantOn", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_20_4_1", "child": "WildeQIT_Compression_Supplement_IsHadamard", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_20_4_1", "child": "WildeQIT_Degradable_holevoInfoChannel", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_20_4_1", "child": "WildeQIT_Degradable_tensorChannel", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_25_2_3", "child": "WildeQIT_Compression_Supplement_quantumRegion", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_25_2_3", "child": "WildeQIT_Compression_Supplement_oneShotQuantumRegion", "via": ["statement"]}
+{"parent": "GraphMatching.fracVC_eq", "child": "GraphMatching_basic", "via": ["solution", "statement"]}
+{"parent": "PvsNP.OnlineMailbox.replay_halt", "child": "OnlineBooleanMailbox", "via": ["solution", "statement"]}
+{"parent": "DeepSets.Supplement.theorem_9_universal_approximation", "child": "DeepSets_Supplement_IsPermInvariantOn", "via": ["statement"]}
+{"parent": "GraphMatching.maximal_matching_half", "child": "GraphMatching_basic", "via": ["solution", "statement"]}
+{"parent": "MasulloRH.simultaneous_rational_theta_polynomials_on_two_finite_segments", "child": "MasulloRH_FiniteMellinBands", "via": ["solution", "statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_20_4_3", "child": "WildeQIT_ErasureClassical_classicalCapacity", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_20_4_3", "child": "WildeQIT_Degradable_holevoInfoChannel", "via": ["statement"]}
+{"parent": "WildeQIT.Compression.Supplement.theorem_20_4_3", "child": "WildeQIT_Compression_Supplement_depolarizingChannel", "via": ["statement"]}
+{"parent": "ALAVI.Supplement.theorem_2", "child": "ALAVI_Standing", "via": ["statement"]}
+{"parent": "ALAVI.Supplement.theorem_2", "child": "CalamaiMore_Convergence_proj", "via": ["statement"]}
+{"parent": "ALAVI.Supplement.theorem_2", "child": "ALAVI_IsALAVIRun", "via": ["statement"]}
+{"parent": "ALAVI.Supplement.theorem_2", "child": "ALAVI_Supplement_KKTMap", "via": ["statement"]}
+{"parent": "ALAVI.Supplement.theorem_2", "child": "NonsmoothNewton_Shared_clarkeJac", "via": ["statement"]}
+{"parent": "ALAVI.Supplement.theorem_2", "child": "GoldenRatioVI_Fixed_solutionSet", "via": ["statement"]}
+{"parent": "ALAVI.Supplement.theorem_2", "child": "ALAVI_Params", "via": ["statement"]}
+{"parent": "ALAVI.Supplement.theorem_2", "child": "ALAVI_IsMVIS", "via": ["statement"]}
+{"parent": "PrivPCP.places_rational", "child": "AlgebraicCurve_DivisorClassGroup", "via": ["solution", "statement"]}
+{"parent": "GraphMatching.konig", "child": "GraphMatching_basic", "via": ["solution", "statement"]}
+{"parent": "RandomGreedyMIS.total_calls_le", "child": "RandomGreedyMIS_basic", "via": ["statement"]}
+{"parent": "TFIMPhaseDiagram.Classical.prop_9", "child": "TFIMPhaseDiagram.Classical.prop_8", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Main.lemma_3_3", "child": "ParityDegreeDepth.Core.generic_rank_le_binary", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Main.lemma_3_2", "child": "ParityDegreeDepth.Core.contraction_rank_bound", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Main.lemma_3_2", "child": "ParityDegreeDepth.Core.anf_degree_differences", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "ParityDegreeDepth.Main.lemma_3_2", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "ParityDegreeDepth.Core.generic_radical_strong_vanishing", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "ParityDegreeDepth.Core.binary_descent", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "ParityDegreeDepth.Core.sign_spectral_bounds", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "ParityDegreeDepth.Core.generic_rank_le_binary", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "ParityDegreeDepth.Core.contraction_rank_bound", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "ParityDegreeDepth_Core_tensorEval", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Main.corollary_3_4", "child": "ParityDegreeDepth.Core.anf_degree_differences", "via": ["solution"]}
+{"parent": "ObjectCentric.slot_identifiability", "child": "ObjectCentric.jacobian_rank_equality", "via": ["solution"]}
+{"parent": "ObjectCentric.slot_identifiability", "child": "ObjectCentric.submechanisms_distinct_mechanisms_independent", "via": ["solution"]}
+{"parent": "ObjectCentric.slot_identifiability", "child": "ObjectCentric.inferred_slot_depends_on_some_slot", "via": ["solution"]}
+{"parent": "ObjectCentric.slot_identifiability", "child": "ObjectCentric.mechanism_rank_eq_slot_dim", "via": ["solution"]}
+{"parent": "PalomarZF207.internal_provC1_implies_reg_halts", "child": "PalomarZF207.internal_startup_and_linkedHalts", "via": ["solution"]}
+{"parent": "PalomarZF207.internal_tm_loop_step", "child": "PalomarZF207.internal_tm_macros_to_loop", "via": ["solution"]}
+{"parent": "PalomarZF207.internal_tm_loop_step", "child": "PalomarZF207.internal_tm_decode_sound", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "DirectedHamiltonicity_CycleSearchHost", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "DirectedHamiltonicity.Main.CycleHost.params_exec", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "TargetedSamplers.Structured.Work.framework", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "DirectedHamiltonicity.Main.CycleHost.decodeDraw_exec", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "TargetedSamplers.Structured.Interp.call_exec", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "LogCostRAM_Interpreter", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "DirectedHamiltonicity.Main.CycleHost.certify_exec", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "DirectedHamiltonicity.Main.CycleHost.readSeed_exec", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "DirectedHamiltonicity.Main.CycleHost.readGraph_exec", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "LogCostRAM_StructuredExecution", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.execute_cycle_search", "child": "DirectedHamiltonicity.Main.CycleHost.buildX_exec", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.CycleHost.decodeDraw_exec", "child": "LogCostRAM_StructuredExecution", "via": ["solution"]}
+{"parent": "PrivPCP.lemma_4_13_dependent", "child": "AlgebraicCurve_DivisorClassGroup", "via": ["solution"]}
+{"parent": "PrivPCP.lemma_4_13_dependent", "child": "PrivPCP.places_rational", "via": ["solution"]}
+{"parent": "PrivPCP.lemma_4_13_dependent", "child": "PrivPCP.lemma_4_13_binomial_param", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.CycleHost.params_exec", "child": "LogCostRAM_StructuredExecution", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.bounded_adaptive_cycle_controller", "child": "DirectedHamiltonicity_CycleSearch", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.bounded_adaptive_cycle_controller", "child": "DirectedHamiltonicity.Main.prepare_cycle_parity_query_ram", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.bounded_adaptive_cycle_controller", "child": "LogCostRAM_StructuredExecution", "via": ["solution"]}
+{"parent": "DirectedHamiltonicity.Main.bounded_adaptive_cycle_controller", "child": "DirectedHamiltonicity.Main.read_cycle_graph_ram", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.theorem_1_3_public", "child": "KakeyaPolynomialMethods", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.theorem_1_3_public", "child": "ParityDegreeDepth.Core.top_form_vanishing_codim", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.theorem_1_3_public", "child": "ParityDegreeDepth.Core.quadratic_vanishing_codim", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.theorem_1_3_public", "child": "ParityDegreeDepth.Core.sign_spectral_bounds", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.theorem_1_3_public", "child": "ParityDegreeDepth_Core_tensorEval", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.theorem_1_3_public", "child": "ParityDegreeDepth.Core.spectral_norm_affine_restriction", "via": ["solution"]}
+{"parent": "ParityDegreeDepth.Core.theorem_1_3_public", "child": "ParityDegreeDepth.Core.anf_degree_differences", "via": ["solution"]}
+{"parent": "MetricTSPSublinear.net_size_bound", "child": "MetricTSPSublinear.claim_3_2", "via": ["solution"]}
+{"parent": "MetricTSPSublinear.net_size_bound", "child": "MetricTSPSublinear.claim_3_3", "via": ["solution"]}
+{"parent": "MetricTSPSublinear.net_size_bound", "child": "MetricTSP_model", "via": ["solution"]}
+{"parent": "PrivPCP.lemma_4_13_binomial_param", "child": "PrivPCP_gridQ", "via": ["solution"]}

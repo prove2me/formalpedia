@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedHamiltonicity_Main_CycleHost_decodeDraw_exec
 -- name    : DirectedHamiltonicity.Main.CycleHost.decodeDraw_exec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-27T04:01:33.287875+00:00
 -- url     : https://prove2.me/theorems/8e8f3613-8ce3-53bf-ab1e-a58dbd54e9ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivPCP_lemma_4_13_dependent
 -- name    : PrivPCP.lemma_4_13_dependent
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-27T03:52:38.614286+00:00
 -- url     : https://prove2.me/theorems/f379db65-b35c-5816-8e9a-4c7154ccd9c8
