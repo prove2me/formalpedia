@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManipPotential_proposition_6_12_rational_transfer_approximation
 -- name    : ManipPotential.proposition_6_12_rational_transfer_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:29:49.786363+00:00
 -- url     : https://prove2.me/theorems/6f29c13d-fda5-40e6-b572-65b96da813f8

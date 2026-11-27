@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_good_C
 -- name    : MohP3.good_C
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:56:03.880325+00:00
 -- url     : https://prove2.me/theorems/4151db31-8b92-40cc-ada2-7e9cde5224f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Wt_dd_self
 -- name    : MohP3.Wt.dd_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:51:28.976241+00:00
 -- url     : https://prove2.me/theorems/db14607d-44aa-4dc5-87fb-4314d325ae50

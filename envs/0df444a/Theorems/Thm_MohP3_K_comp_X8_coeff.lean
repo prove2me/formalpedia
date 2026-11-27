@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_K_comp_X8_coeff
 -- name    : MohP3.K.comp_X8_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:01:20.220324+00:00
 -- url     : https://prove2.me/theorems/572eb6f1-b590-5d4c-96e5-b26c4cc88767

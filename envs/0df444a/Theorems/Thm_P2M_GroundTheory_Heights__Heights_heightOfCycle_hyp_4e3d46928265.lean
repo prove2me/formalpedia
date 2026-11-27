@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_heightOfCycle_hyp_4e3d46928265
 -- name    : P2M_GroundTheory_Heights__Heights_heightOfCycle_hyp_4e3d46928265
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:40:30.849292+00:00
 -- url     : https://prove2.me/theorems/ded1712b-61ea-5839-bfc1-76fac8382ffd

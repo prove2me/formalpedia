@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_C6BipartiteDomination_finite_graph_density_le_eight_fifteenths
 -- name    : C6BipartiteDomination.finite_graph_density_le_eight_fifteenths
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:03:48.573828+00:00
 -- url     : https://prove2.me/theorems/eb0a7248-8adb-40a9-b83e-11903b6505fe

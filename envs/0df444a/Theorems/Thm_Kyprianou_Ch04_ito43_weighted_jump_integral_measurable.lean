@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_weighted_jump_integral_measurable
 -- name    : Kyprianou.Ch04.ito43_weighted_jump_integral_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T21:53:44.588037+00:00
 -- url     : https://prove2.me/theorems/1f870505-ebd6-5c1f-b444-e9bed0e3732c

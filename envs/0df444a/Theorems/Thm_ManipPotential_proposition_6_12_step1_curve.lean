@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManipPotential_proposition_6_12_step1_curve
 -- name    : ManipPotential.proposition_6_12_step1_curve
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-22T23:23:31.530428+00:00
 -- url     : https://prove2.me/theorems/c675778a-f666-48fa-85ba-1b8426ee0693

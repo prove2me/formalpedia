@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_genTo_eq_baseChangeMap_b84b9ed632a9
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_genTo_eq_baseChangeMap_b84b9ed632a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:26:29.095786+00:00
 -- url     : https://prove2.me/theorems/d32b0dd7-9e39-5076-964a-1d4c325b8d9e

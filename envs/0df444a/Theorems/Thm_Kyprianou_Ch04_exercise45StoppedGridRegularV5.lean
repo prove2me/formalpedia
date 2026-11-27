@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45StoppedGridRegularV5
 -- name    : Kyprianou.Ch04.exercise45StoppedGridRegularV5
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T21:42:21.404924+00:00
 -- url     : https://prove2.me/theorems/e4eb895d-f3f1-5790-920f-888199ad4fb0

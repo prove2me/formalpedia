@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_FormalLocal_radical_Qk_eq_ker_of_generation
 -- name    : MohP3.FormalLocal.radical_Qk_eq_ker_of_generation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:59:33.88506+00:00
 -- url     : https://prove2.me/theorems/e88d1fdf-aeb7-5e82-bcca-7c6fc5e224a2

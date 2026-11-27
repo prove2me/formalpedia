@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivPCP_fact_3_3
 -- name    : PrivPCP.fact_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:44:04.601583+00:00
 -- url     : https://prove2.me/theorems/997974bf-7b09-48e5-b75a-c16c037d6b17

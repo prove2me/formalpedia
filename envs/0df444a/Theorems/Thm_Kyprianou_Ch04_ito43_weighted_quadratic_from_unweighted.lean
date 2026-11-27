@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_weighted_quadratic_from_unweighted
 -- name    : Kyprianou.Ch04.ito43_weighted_quadratic_from_unweighted
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:29:11.927455+00:00
 -- url     : https://prove2.me/theorems/8ee6e621-9145-5ad2-b2af-270c1367dc84

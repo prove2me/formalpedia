@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogDetGramDeriv_hypotheses_met_aa36e8267b1e
 -- name    : P2M_GroundTheory_Heights__Heights_LogDetGramDeriv_hypotheses_met_aa36e8267b1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:29:48.235505+00:00
 -- url     : https://prove2.me/theorems/b6b784b5-48d1-45fe-ba62-46ec3fc7e043

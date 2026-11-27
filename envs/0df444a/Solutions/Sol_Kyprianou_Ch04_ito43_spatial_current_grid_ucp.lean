@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.ito43_spatial_current_grid_ucp
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T15:49:28.631825+00:00
 -- url     : https://prove2.me/submissions/8be5ce84-081f-411f-a9d5-9cefe829919f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch02_LargeJumpProcess

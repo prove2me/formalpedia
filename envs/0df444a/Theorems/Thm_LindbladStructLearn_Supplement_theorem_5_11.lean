@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindbladStructLearn_Supplement_theorem_5_11
 -- name    : LindbladStructLearn.Supplement.theorem_5_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T08:44:12.401585+00:00
 -- url     : https://prove2.me/theorems/af4cffc0-7f2a-4060-8051-d8322b26e94f

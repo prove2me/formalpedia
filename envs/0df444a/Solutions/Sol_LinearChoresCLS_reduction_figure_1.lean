@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LinearChoresCLS.reduction_figure_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Weiqiang
 -- created : 2026-11-13T20:22:30.38925+00:00
 -- url     : https://prove2.me/submissions/d2d188c4-4eda-41c2-b16a-22738903b6dd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_LinearChoresCLS_lemma_7_1
 import Theorems.Thm_LinearChoresCLS_lemma_7_5

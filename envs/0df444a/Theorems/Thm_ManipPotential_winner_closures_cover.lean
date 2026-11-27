@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManipPotential_winner_closures_cover
 -- name    : ManipPotential.winner_closures_cover
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:55:11.175482+00:00
 -- url     : https://prove2.me/theorems/67e84059-73fc-41e3-a98c-daa8de6e2f93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_FormalLocal_order_vvS
 -- name    : MohP3.FormalLocal.order_vvS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:54:29.858301+00:00
 -- url     : https://prove2.me/theorems/8e2288c9-e3fe-4766-81f2-7a78d0dc233a

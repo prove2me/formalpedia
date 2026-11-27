@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_FormalLocal_Pk_le_ker
 -- name    : MohP3.FormalLocal.Pk_le_ker
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:53:50.538846+00:00
 -- url     : https://prove2.me/theorems/31120917-2404-48ec-a8ef-59b85720ea67

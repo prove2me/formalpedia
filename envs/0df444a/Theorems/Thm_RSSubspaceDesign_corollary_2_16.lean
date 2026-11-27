@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RSSubspaceDesign_corollary_2_16
 -- name    : RSSubspaceDesign.corollary_2_16
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:25:39.53191+00:00
 -- url     : https://prove2.me/theorems/410b8161-69b4-43d2-827c-6a5f3491dc21

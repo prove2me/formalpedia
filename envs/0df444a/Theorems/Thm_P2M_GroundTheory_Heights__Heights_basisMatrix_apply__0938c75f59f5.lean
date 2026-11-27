@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_basisMatrix_apply__0938c75f59f5
 -- name    : P2M_GroundTheory_Heights__Heights_basisMatrix_apply__0938c75f59f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:41.398964+00:00
 -- url     : https://prove2.me/theorems/640a2cad-5460-4475-a25d-6bfc141471bb

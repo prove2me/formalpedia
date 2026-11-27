@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_O_X_0_1fbf3cff2e1c
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_O_X_0_1fbf3cff2e1c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:48:49.534057+00:00
 -- url     : https://prove2.me/theorems/e40cc74d-7191-5c89-8e46-86bfef37c052

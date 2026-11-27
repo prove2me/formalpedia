@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_hochschildD__trivialCoaction_a79258a1bcaa
 -- name    : P2M_GlobalTheory_hochschildD__trivialCoaction_a79258a1bcaa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:07:14.304978+00:00
 -- url     : https://prove2.me/theorems/933c77a1-3632-5c19-a1e0-ad906b22d261

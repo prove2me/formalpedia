@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NadlerCLS_dp_complete_ultrametric
 -- name    : NadlerCLS.dp_complete_ultrametric
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:55:51.376334+00:00
 -- url     : https://prove2.me/theorems/ddecf9d8-b964-434c-a832-b3e878c04f5f

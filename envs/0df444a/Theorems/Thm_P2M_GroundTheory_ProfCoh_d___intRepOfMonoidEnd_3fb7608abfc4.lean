@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_d___intRepOfMonoidEnd_3fb7608abfc4
 -- name    : P2M_GroundTheory_ProfCoh_d___intRepOfMonoidEnd_3fb7608abfc4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:45.714887+00:00
 -- url     : https://prove2.me/theorems/b80e37fd-39a1-572e-91d9-73c4e50a1786

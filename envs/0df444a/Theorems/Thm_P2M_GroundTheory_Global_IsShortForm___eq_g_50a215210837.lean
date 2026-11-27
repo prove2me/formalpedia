@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Global_IsShortForm___eq_g_50a215210837
 -- name    : P2M_GroundTheory_Global_IsShortForm___eq_g_50a215210837
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:08:04.985859+00:00
 -- url     : https://prove2.me/theorems/7f2e79f7-7b7d-4f61-a29b-5ffa950f3ff2

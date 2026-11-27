@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45PhysicalGridUCPV5
 -- name    : Kyprianou.Ch04.exercise45PhysicalGridUCPV5
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T21:42:24.363136+00:00
 -- url     : https://prove2.me/theorems/403915af-db38-48f4-8518-f18b521338cd

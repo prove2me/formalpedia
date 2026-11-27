@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.ito43_spatial_remainder_ucpV2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T15:36:45.761694+00:00
 -- url     : https://prove2.me/submissions/6fb6003f-f7f6-4dc0-b6b3-7ea500aed261
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch02_LargeJumpProcess

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearChoresCLS_figure_1_encoded_construction
 -- name    : LinearChoresCLS.figure_1_encoded_construction
--- status  : Open
+-- status  : Proved
 -- author  : @Weiqiang
 -- created : 2026-11-13T20:22:13.535825+00:00
 -- url     : https://prove2.me/theorems/c927bc11-e2aa-4e79-a853-02381264834e

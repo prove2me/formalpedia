@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_locmoll_grid_band_nested_cover
 -- name    : AvramDividend.Classical.avram_locmoll_grid_band_nested_cover
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T22:04:34.530658+00:00
 -- url     : https://prove2.me/theorems/d91b812f-306a-5d1a-b89a-dba59215abb6

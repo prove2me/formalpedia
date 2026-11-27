@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_locmoll_band_cash_coverage
 -- name    : AvramDividend.Classical.avram_locmoll_band_cash_coverage
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T22:02:08.680893+00:00
 -- url     : https://prove2.me/theorems/7b08f067-0b33-40c4-b915-c8a0beeebb77

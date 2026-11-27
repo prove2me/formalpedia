@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellVsPPU_Duopoly_a21_profits_closed_form
 -- name    : SellVsPPU.Duopoly.a21_profits_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:45:20.281843+00:00
 -- url     : https://prove2.me/theorems/9257967f-6a07-40df-aed5-fbbf47b3b7c9

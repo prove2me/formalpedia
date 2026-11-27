@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ManipPotential.proposition_6_12_step1_curve
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:49:19.710802+00:00
 -- url     : https://prove2.me/submissions/be8b26b6-9e97-4919-a8ac-72d68e47124e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ManipPotential_GAxioms

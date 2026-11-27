@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_generalLevyItoFormulaV3
 -- name    : Kyprianou.Ch04.generalLevyItoFormulaV3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:14:08.610691+00:00
 -- url     : https://prove2.me/theorems/78195916-e2a2-59d7-9a5b-b3c8e2819b23

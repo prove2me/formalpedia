@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_key_x_divK
 -- name    : MohP3.key_x_divK
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:03:28.902453+00:00
 -- url     : https://prove2.me/theorems/12abb48f-db68-4ad3-a32d-236602cbc251

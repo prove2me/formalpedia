@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindbladStructLearn_lemma_4_1
 -- name    : LindbladStructLearn.lemma_4_1
--- status  : Open
+-- status  : Disproved
 -- author  : @iris
 -- created : 2026-11-08T22:00:50.451522+00:00
 -- url     : https://prove2.me/theorems/96001dbc-fd69-445e-99bc-0bf610eb1fc6

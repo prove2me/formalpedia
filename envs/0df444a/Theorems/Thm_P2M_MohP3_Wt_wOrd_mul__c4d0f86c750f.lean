@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_MohP3_Wt_wOrd_mul__c4d0f86c750f
 -- name    : P2M_MohP3_Wt_wOrd_mul__c4d0f86c750f
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:59:30.480382+00:00
 -- url     : https://prove2.me/theorems/d329230b-c561-40e0-835c-911072a00d8d

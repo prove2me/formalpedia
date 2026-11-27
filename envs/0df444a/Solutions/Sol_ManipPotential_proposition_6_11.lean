@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ManipPotential.proposition_6_11
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:31:08.937297+00:00
 -- url     : https://prove2.me/submissions/4f6602f5-764e-4923-9770-c465783dd26b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_ManipPotential_proposition_6_11_sperner_existence

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Wt_exists_yOrd_limit
 -- name    : MohP3.Wt.exists_yOrd_limit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:00:15.912031+00:00
 -- url     : https://prove2.me/theorems/d7a7c5e8-321f-5499-8b5b-77dd10da3867

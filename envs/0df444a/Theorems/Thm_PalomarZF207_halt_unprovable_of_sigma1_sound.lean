@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalomarZF207_halt_unprovable_of_sigma1_sound
 -- name    : PalomarZF207.halt_unprovable_of_sigma1_sound
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-21T17:14:44.52292+00:00
 -- url     : https://prove2.me/theorems/55990749-2379-4199-b25a-f6426240c123

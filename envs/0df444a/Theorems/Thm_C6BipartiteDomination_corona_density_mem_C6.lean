@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_C6BipartiteDomination_corona_density_mem_C6
 -- name    : C6BipartiteDomination.corona_density_mem_C6
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:03:28.033671+00:00
 -- url     : https://prove2.me/theorems/63f0e768-9b15-5d67-ada0-895fa29a7407

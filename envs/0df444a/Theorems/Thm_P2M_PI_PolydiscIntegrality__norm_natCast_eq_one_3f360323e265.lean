@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_PolydiscIntegrality__norm_natCast_eq_one_3f360323e265
 -- name    : P2M_PI_PolydiscIntegrality__norm_natCast_eq_one_3f360323e265
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:43:21.018965+00:00
 -- url     : https://prove2.me/theorems/6143c8b4-d579-45ae-8478-da7f4304fc76

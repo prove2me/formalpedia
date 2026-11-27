@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShallowSym_prelim_cnf_dnf
 -- name    : ShallowSym.prelim_cnf_dnf
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T17:00:09.06748+00:00
 -- url     : https://prove2.me/theorems/f964c5c7-c9cb-475b-aa00-b9dc2b13246d

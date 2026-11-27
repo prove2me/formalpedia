@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Wt_dd_injective
 -- name    : MohP3.Wt.dd_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:51:36.016732+00:00
 -- url     : https://prove2.me/theorems/0dc87e57-c812-433b-bf0c-c45e907370a3

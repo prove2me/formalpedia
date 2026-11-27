@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_K_dvd8_ntd
 -- name    : MohP3.K.dvd8_ntd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:01:34.20601+00:00
 -- url     : https://prove2.me/theorems/87cb34ed-ecf2-5d56-a816-81dd2a89e039

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_f4_notMem_Psurf
 -- name    : MohP3.f4_notMem_Psurf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:05:14.904618+00:00
 -- url     : https://prove2.me/theorems/a70414a7-7569-451a-af9a-8074548ce6a7

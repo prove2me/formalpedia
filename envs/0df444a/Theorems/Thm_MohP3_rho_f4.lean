@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_rho_f4
 -- name    : MohP3.rho_f4
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:57:02.402988+00:00
 -- url     : https://prove2.me/theorems/8086ec29-dd55-4e42-8249-9ab387eaa558

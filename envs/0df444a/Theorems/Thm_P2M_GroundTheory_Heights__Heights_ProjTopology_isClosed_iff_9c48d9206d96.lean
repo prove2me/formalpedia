@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjTopology_isClosed_iff_9c48d9206d96
 -- name    : P2M_GroundTheory_Heights__Heights_ProjTopology_isClosed_iff_9c48d9206d96
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:34:12.223676+00:00
 -- url     : https://prove2.me/theorems/1f0b7986-b3d8-5225-b390-78427ca86310

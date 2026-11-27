@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TinyCoreset_DimRed_lemma15_residual_sandwich
 -- name    : TinyCoreset.DimRed.lemma15_residual_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:57:28.331057+00:00
 -- url     : https://prove2.me/theorems/be5d4aeb-c347-4799-bc59-d8524e64eae3

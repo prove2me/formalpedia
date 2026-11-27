@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_BGNCommit_witness_indistinguishability
 -- name    : GOSNIZK.BGNCommit.witness_indistinguishability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:25:30.037992+00:00
 -- url     : https://prove2.me/theorems/62b2653e-4d2a-410f-84db-b92c619edfeb

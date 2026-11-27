@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TinyCoreset_DimRed_corollary20_projected_truncation_error
 -- name    : TinyCoreset.DimRed.corollary20_projected_truncation_error
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:57:26.947801+00:00
 -- url     : https://prove2.me/theorems/3dd4db44-b4ed-4858-bf59-00009b0e5ab1

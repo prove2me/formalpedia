@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_iotaK_qxPoly
 -- name    : MohP3.iotaK_qxPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:03:29.705803+00:00
 -- url     : https://prove2.me/theorems/241381c5-c56f-4194-bb19-db9de317d7a9

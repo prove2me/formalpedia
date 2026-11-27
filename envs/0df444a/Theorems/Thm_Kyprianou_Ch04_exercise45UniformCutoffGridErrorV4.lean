@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45UniformCutoffGridErrorV4
 -- name    : Kyprianou.Ch04.exercise45UniformCutoffGridErrorV4
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:28:48.380982+00:00
 -- url     : https://prove2.me/theorems/5c61f840-2ea9-5060-b187-6b8670364f07

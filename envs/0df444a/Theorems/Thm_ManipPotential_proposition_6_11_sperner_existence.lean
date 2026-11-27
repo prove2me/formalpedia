@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManipPotential_proposition_6_11_sperner_existence
 -- name    : ManipPotential.proposition_6_11_sperner_existence
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:23:33.723929+00:00
 -- url     : https://prove2.me/theorems/6b930650-9cf3-4c95-a834-cc6c52d854ea

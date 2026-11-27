@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_two_le_height_Ppoly
 -- name    : MohP3.two_le_height_Ppoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:07:34.35468+00:00
 -- url     : https://prove2.me/theorems/30f56ea8-98d2-4fb6-a9f2-fe092e327170

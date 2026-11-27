@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_locmoll_grid_band_clock_family
 -- name    : AvramDividend.Classical.avram_locmoll_grid_band_clock_family
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T22:02:05.417909+00:00
 -- url     : https://prove2.me/theorems/4ea65782-b369-53ec-b8f2-333535678261

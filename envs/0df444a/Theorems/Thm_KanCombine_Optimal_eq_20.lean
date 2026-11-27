@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KanCombine_Optimal_eq_20
 -- name    : KanCombine.Optimal.eq_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:17:59.736669+00:00
 -- url     : https://prove2.me/theorems/cf7337a5-49b7-4c52-8452-883ea8b6115d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_FormalLocal_vvS_ne_zero
 -- name    : MohP3.FormalLocal.vvS_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:57:56.104429+00:00
 -- url     : https://prove2.me/theorems/798f7afa-4406-543d-a431-9cc7b16cfc56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_Abelian_galTorsionZ___apply_b182462e0072
 -- name    : P2M_GroundTheory_Arith_Abelian_galTorsionZ___apply_b182462e0072
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:08:45.049353+00:00
 -- url     : https://prove2.me/theorems/ca14b2c5-bf72-47f9-9f15-6258722111bd

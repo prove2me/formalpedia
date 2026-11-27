@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_global_kernel_k
 -- name    : MohP3.global_kernel_k
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:03:59.678078+00:00
 -- url     : https://prove2.me/theorems/4389d192-9801-589f-b908-3eb477a5bdd9

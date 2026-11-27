@@ -14561,11 +14561,11 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.OrbitRepresentatives.integral_of_mem_genus", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardStabilizerAutSub", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.QNorm.IsQuad.coord_indep", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_IsQuadraticSqrtExtensionBasicFacts", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.QNorm.IsQuad.coord_indep", "child": "Development_AbelianVarietyTheory_Definitions_AdelicHermitianForms_SqSubLeNormSub", "via": ["solution", "statement"]}
-{"parent": "ManipPotential.proposition_6_11_uniqueness_lipschitz", "child": "ManipPotential_GAxioms", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_11_uniqueness_lipschitz", "child": "ManipPotential_kappa", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_11_uniqueness_lipschitz", "child": "ManipPotential_ExtRanking", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_11_uniqueness_lipschitz", "child": "ManipPotential_cycTotal", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_11_uniqueness_lipschitz", "child": "ManipPotential_IsCommonJunction", "via": ["statement"]}
+{"parent": "ManipPotential.proposition_6_11_uniqueness_lipschitz", "child": "ManipPotential_GAxioms", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_11_uniqueness_lipschitz", "child": "ManipPotential_kappa", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_11_uniqueness_lipschitz", "child": "ManipPotential_ExtRanking", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_11_uniqueness_lipschitz", "child": "ManipPotential_cycTotal", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_11_uniqueness_lipschitz", "child": "ManipPotential_IsCommonJunction", "via": ["solution", "statement"]}
 {"parent": "RH1E6S14.part_014_3", "child": "ArdaRH65K_RS_Fold", "via": ["statement"]}
 {"parent": "RH1E6S14.part_014_3", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
 {"parent": "RH1E6S14.part_014_3", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
@@ -15265,10 +15265,10 @@
 {"parent": "StableMSR.Recovery.SingleCodes.regional_circuit_language_correct", "child": "StableMSR_DenseGlobalAssembly", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.BallB.IsStep.mem_of_smul_mem", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ConjOMemConjIdeal", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.BallB.IsStep.mem_of_smul_mem", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AlgebraMapConjO", "via": ["solution", "statement"]}
-{"parent": "ManipPotential.proposition_6_11_sperner_existence", "child": "ManipPotential_IsCommonJunction", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_11_sperner_existence", "child": "ManipPotential_ExtRanking", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_11_sperner_existence", "child": "ManipPotential_cycTotal", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_11_sperner_existence", "child": "ManipPotential_GAxioms", "via": ["statement"]}
+{"parent": "ManipPotential.proposition_6_11_sperner_existence", "child": "ManipPotential_IsCommonJunction", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_11_sperner_existence", "child": "ManipPotential_ExtRanking", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_11_sperner_existence", "child": "ManipPotential_cycTotal", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_11_sperner_existence", "child": "ManipPotential_GAxioms", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_SUnitsPlacesOverAndQuadraticConjStatement", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_SUnitsPlacesOverAndQuadraticConj", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_SUnitsPlacesOverAndQuadraticConjStatement", "child": "Development_AbelianVarietyTheory_Definitions_AdelicHermitianForms_SqSubLeNormSub", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.GL2PrimeSums.gl2a5_outPart_primePow", "child": "Formalism_GL3MeanSquares_SmoothedRemainderRealIntegralFormula", "via": ["solution", "statement"]}
@@ -15428,10 +15428,10 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.RankOne.mem_mapE", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsClassRepsMap", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.separated_sum_le_prod_integrals", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_BlockMinorSumCounterexample", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.separated_sum_le_prod_integrals", "child": "Formalism_FlagUnipotentLattices_UnipotentStabiliserCharacterisation", "via": ["solution", "statement"]}
-{"parent": "ManipPotential.proposition_6_12_rational_transfer_approximation", "child": "ManipPotential_ell", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_12_rational_transfer_approximation", "child": "ManipPotential_ExtRanking", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_12_rational_transfer_approximation", "child": "ManipPotential_TransferVectors", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_12_rational_transfer_approximation", "child": "ManipPotential_unitVec", "via": ["statement"]}
+{"parent": "ManipPotential.proposition_6_12_rational_transfer_approximation", "child": "ManipPotential_ell", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_12_rational_transfer_approximation", "child": "ManipPotential_ExtRanking", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_12_rational_transfer_approximation", "child": "ManipPotential_TransferVectors", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_12_rational_transfer_approximation", "child": "ManipPotential_unitVec", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_CoveringRadiusStatement", "child": "ReciprocityTheory_SemistableReduction_TorsionNonvanishStatement", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.QuadraticExtensionConjugation.star_algebraMap", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CovolumeIntegerLatticeEq", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.QuadraticExtensionConjugation.star_algebraMap", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_DifferentIdealEqTop", "via": ["solution", "statement"]}
@@ -18011,9 +18011,9 @@
 {"parent": "Formalism.IndefR.LatticeTransfer.NormTraceLemmas.trace_formula", "child": "Formalism_LocalToGlobal_IndefiniteReal_ExistsStrictHenselianAbsolutelyClosedLocalRing", "via": ["solution", "statement"]}
 {"parent": "Formalism.IndefR.LatticeTransfer.liftChar", "child": "Formalism_LocalToGlobal_IndefiniteReal_AllPartsTransfer", "via": ["solution", "statement"]}
 {"parent": "Formalism.IndefR.LatticeTransfer.liftChar", "child": "Formalism_LocalToGlobal_IndefiniteReal_TraceOfDiag", "via": ["solution", "statement"]}
-{"parent": "ManipPotential.lemma_6_10_uniform_threshold", "child": "ManipPotential_IsCommonJunction", "via": ["statement"]}
-{"parent": "ManipPotential.lemma_6_10_uniform_threshold", "child": "ManipPotential_GAxioms", "via": ["statement"]}
-{"parent": "ManipPotential.lemma_6_10_uniform_threshold", "child": "ManipPotential_cycL", "via": ["statement"]}
+{"parent": "ManipPotential.lemma_6_10_uniform_threshold", "child": "ManipPotential_IsCommonJunction", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.lemma_6_10_uniform_threshold", "child": "ManipPotential_GAxioms", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.lemma_6_10_uniform_threshold", "child": "ManipPotential_cycL", "via": ["solution", "statement"]}
 {"parent": "NOFSeparation750.CodedGIP.theorem_3_2_generator_multitape", "child": "NOFSeparation750_CodedGIP_EffectiveCodes", "via": ["statement"]}
 {"parent": "NOFSeparation750.CodedGIP.theorem_3_2_generator_multitape", "child": "Cslib_254e30e_Computability_Machines_Turing_MultiTape_Deterministic", "via": ["statement"]}
 {"parent": "NOFSeparation750.CodedGIP.theorem_3_2_generator_multitape", "child": "Complexitylib_0ebd467_Computability_Machines_Turing_MultiTape_Encodings_List", "via": ["statement"]}
@@ -18068,9 +18068,9 @@
 {"parent": "Formalism.InvariantFactorPaths.ColumnFamilies.qa_exp_inj", "child": "Formalism_GradedWeylDivisibility_StatementD", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.ColumnFamilies.qa_exp_inj", "child": "Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_QaRowStrictMono", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ProperFunctions.isIso_appTop_of_section", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_IsIsoAppTopOfIsPullbackOfSurjective", "via": ["solution", "statement"]}
-{"parent": "ManipPotential.proposition_6_12_transfer_path_assembly", "child": "ManipPotential_TransferVectors", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_12_transfer_path_assembly", "child": "ManipPotential_TransferStep", "via": ["statement"]}
-{"parent": "ManipPotential.proposition_6_12_transfer_path_assembly", "child": "ManipPotential_referenceCurve", "via": ["statement"]}
+{"parent": "ManipPotential.proposition_6_12_transfer_path_assembly", "child": "ManipPotential_TransferVectors", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_12_transfer_path_assembly", "child": "ManipPotential_TransferStep", "via": ["solution", "statement"]}
+{"parent": "ManipPotential.proposition_6_12_transfer_path_assembly", "child": "ManipPotential_referenceCurve", "via": ["solution", "statement"]}
 {"parent": "RH1E6S14.part_022_3", "child": "ArdaRS_Evaluator", "via": ["statement"]}
 {"parent": "RH1E6S14.part_022_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S14.part_022_3", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}

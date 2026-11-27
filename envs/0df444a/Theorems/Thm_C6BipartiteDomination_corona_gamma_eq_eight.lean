@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_C6BipartiteDomination_corona_gamma_eq_eight
 -- name    : C6BipartiteDomination.corona_gamma_eq_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:03:24.166572+00:00
 -- url     : https://prove2.me/theorems/e01f0865-2f81-5250-a99a-749e6b7e8d13

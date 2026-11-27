@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LpSubspaceCoreset_SmallP_lemma_2_6_xi_le_one
 -- name    : LpSubspaceCoreset.SmallP.lemma_2_6_xi_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:18:16.49092+00:00
 -- url     : https://prove2.me/theorems/e9c036de-e07d-469c-b471-1db7a8530447

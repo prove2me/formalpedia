@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Psurf_le_P
 -- name    : MohP3.Psurf_le_P
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:04:33.970663+00:00
 -- url     : https://prove2.me/theorems/713069dc-6a12-501c-b15c-ddb31f8d84a3

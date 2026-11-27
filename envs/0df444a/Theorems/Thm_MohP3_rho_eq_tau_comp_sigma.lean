@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_rho_eq_tau_comp_sigma
 -- name    : MohP3.rho_eq_tau_comp_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:04:38.083441+00:00
 -- url     : https://prove2.me/theorems/599a3878-12a9-5e1d-a9c9-e31a132c92e7

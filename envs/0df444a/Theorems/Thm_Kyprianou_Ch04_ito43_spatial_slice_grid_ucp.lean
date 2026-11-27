@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_spatial_slice_grid_ucp
 -- name    : Kyprianou.Ch04.ito43_spatial_slice_grid_ucp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:47:30.53954+00:00
 -- url     : https://prove2.me/theorems/f158251c-a76f-5988-884c-c27a271eecac

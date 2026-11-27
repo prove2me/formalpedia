@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManipPotential_proposition_6_11_uniqueness_lipschitz
 -- name    : ManipPotential.proposition_6_11_uniqueness_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:24:21.062352+00:00
 -- url     : https://prove2.me/theorems/1d5392e5-ffea-472e-9b93-ecb5df9ec1a4

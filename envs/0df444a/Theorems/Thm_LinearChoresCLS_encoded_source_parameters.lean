@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearChoresCLS_encoded_source_parameters
 -- name    : LinearChoresCLS.encoded_source_parameters
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:37:23.239812+00:00
 -- url     : https://prove2.me/theorems/1cd62545-1ffa-4362-8df4-e0a180ceb9dc

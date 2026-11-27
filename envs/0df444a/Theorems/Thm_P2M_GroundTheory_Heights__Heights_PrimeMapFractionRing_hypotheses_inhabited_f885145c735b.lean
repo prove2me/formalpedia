@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PrimeMapFractionRing_hypotheses_inhabited_f885145c735b
 -- name    : P2M_GroundTheory_Heights__Heights_PrimeMapFractionRing_hypotheses_inhabited_f885145c735b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:34:14.330803+00:00
 -- url     : https://prove2.me/theorems/8be6047e-af08-4d53-92c7-cdce544384d7

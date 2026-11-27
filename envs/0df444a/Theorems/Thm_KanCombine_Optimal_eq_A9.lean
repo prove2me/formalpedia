@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KanCombine_Optimal_eq_A9
 -- name    : KanCombine.Optimal.eq_A9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:17:51.025068+00:00
 -- url     : https://prove2.me/theorems/5013bb36-1bfa-4509-8e69-4750fc6fde05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricTSPSublinear_lemma_4_3
 -- name    : MetricTSPSublinear.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:29:50.195201+00:00
 -- url     : https://prove2.me/theorems/514ab91b-2675-436d-a600-5d191bce1760

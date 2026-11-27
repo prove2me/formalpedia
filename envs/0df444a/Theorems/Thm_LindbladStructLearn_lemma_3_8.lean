@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindbladStructLearn_lemma_3_8
 -- name    : LindbladStructLearn.lemma_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:00:18.932381+00:00
 -- url     : https://prove2.me/theorems/a9b947f5-ae14-4217-98f2-8289a0260701

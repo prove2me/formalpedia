@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Gen_key_xA_6
 -- name    : MohP3.Gen.key_xA_6
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:59:25.285396+00:00
 -- url     : https://prove2.me/theorems/f0d2a1fe-1c5e-4ef3-a0ee-e226beed8852

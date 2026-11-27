@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceCapacities_LowerBound_section_10_7_cost_eq_min_capacitated
 -- name    : PriceCapacities.LowerBound.section_10_7_cost_eq_min_capacitated
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T00:24:17.621575+00:00
 -- url     : https://prove2.me/theorems/2d93ea02-8eb7-434a-b013-5dc027e30089

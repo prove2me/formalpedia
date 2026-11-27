@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KanCombine_Optimal_eq_A11
 -- name    : KanCombine.Optimal.eq_A11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:17:56.574981+00:00
 -- url     : https://prove2.me/theorems/77435ecd-b3a9-4449-a7f9-5fc39e477886

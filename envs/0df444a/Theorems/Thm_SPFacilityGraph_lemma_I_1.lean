@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPFacilityGraph_lemma_I_1
 -- name    : SPFacilityGraph.lemma_I_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:47:04.348476+00:00
 -- url     : https://prove2.me/theorems/89b1a5e2-8081-41fe-9720-94c4aeb1999b

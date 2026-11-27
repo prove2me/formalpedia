@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AbelianCayleyHDX_triangle_orbits
 -- name    : AbelianCayleyHDX.triangle_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:36:09.165892+00:00
 -- url     : https://prove2.me/theorems/2a2bd950-f1e0-4a70-8b72-fa6dcbc5fb40

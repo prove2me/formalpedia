@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_isHermitianFor_gramIso_9bf32f5a6198
 -- name    : P2M_GroundTheory_Heights__Theta_isHermitianFor_gramIso_9bf32f5a6198
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:42:42.579324+00:00
 -- url     : https://prove2.me/theorems/98478254-ab56-45f7-b532-4f45e921417a

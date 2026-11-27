@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Ppoly_isPrime
 -- name    : MohP3.Ppoly_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:04:31.485311+00:00
 -- url     : https://prove2.me/theorems/aae0872d-28fb-45f9-9e87-1211762b1cf0

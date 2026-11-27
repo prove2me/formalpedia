@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ManipPotential.proposition_6_12_step1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:09:25.29337+00:00
 -- url     : https://prove2.me/submissions/e3ea84c2-7d6e-4d3f-a66f-5e741205632b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_ManipPotential_proposition_6_11

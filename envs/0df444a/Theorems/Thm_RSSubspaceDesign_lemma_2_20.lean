@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RSSubspaceDesign_lemma_2_20
 -- name    : RSSubspaceDesign.lemma_2_20
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:28:26.408414+00:00
 -- url     : https://prove2.me/theorems/7cf1fee3-1613-4373-9cd0-ee692ba333c6

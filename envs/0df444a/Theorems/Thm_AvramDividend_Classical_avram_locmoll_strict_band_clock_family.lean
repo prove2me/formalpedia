@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_locmoll_strict_band_clock_family
 -- name    : AvramDividend.Classical.avram_locmoll_strict_band_clock_family
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T21:51:35.559713+00:00
 -- url     : https://prove2.me/theorems/070de052-93da-4594-8ad8-f73a0aa99538

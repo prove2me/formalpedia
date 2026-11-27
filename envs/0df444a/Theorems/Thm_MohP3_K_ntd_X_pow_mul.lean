@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_K_ntd_X_pow_mul
 -- name    : MohP3.K.ntd_X_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:01:41.684402+00:00
 -- url     : https://prove2.me/theorems/33d4b05d-6ff8-55a3-a73d-f78ec7e25266

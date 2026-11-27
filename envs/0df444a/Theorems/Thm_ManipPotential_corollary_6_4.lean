@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManipPotential_corollary_6_4
 -- name    : ManipPotential.corollary_6_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:52:57.043188+00:00
 -- url     : https://prove2.me/theorems/03b0c931-9eaa-430d-aa71-d5a9006f63a2

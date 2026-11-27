@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindbladStructLearn_corollary_5_3
 -- name    : LindbladStructLearn.corollary_5_3
--- status  : Open
+-- status  : Disproved
 -- author  : @iris
 -- created : 2026-11-08T22:03:04.341632+00:00
 -- url     : https://prove2.me/theorems/f32b4596-a3a6-43ba-8a5a-95330eb01863

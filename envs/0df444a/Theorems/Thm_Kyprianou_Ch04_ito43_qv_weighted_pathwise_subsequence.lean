@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_qv_weighted_pathwise_subsequence
 -- name    : Kyprianou.Ch04.ito43_qv_weighted_pathwise_subsequence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:55:39.667623+00:00
 -- url     : https://prove2.me/theorems/fc602634-35fc-416a-ab25-b3e95d1de751

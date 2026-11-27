@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_rho_k_hhK
 -- name    : MohP3.rho_k_hhK
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:02:48.621905+00:00
 -- url     : https://prove2.me/theorems/75d9433a-c85d-517b-bf1d-3d8f2ad12154

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_radical_Q
 -- name    : MohP3.radical_Q
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:02:12.89589+00:00
 -- url     : https://prove2.me/theorems/f5354d8d-533a-58f8-a006-e94832622aeb

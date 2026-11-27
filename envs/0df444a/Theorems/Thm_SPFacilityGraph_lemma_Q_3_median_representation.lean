@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPFacilityGraph_lemma_Q_3_median_representation
 -- name    : SPFacilityGraph.lemma_Q_3_median_representation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:59:18.78197+00:00
 -- url     : https://prove2.me/theorems/baf87151-13d8-4687-b5d6-c359427b77a5

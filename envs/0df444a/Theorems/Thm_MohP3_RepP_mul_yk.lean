@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_RepP_mul_yk
 -- name    : MohP3.RepP_mul_yk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:04:01.954409+00:00
 -- url     : https://prove2.me/theorems/2f160e2c-8050-4c3e-a15d-11cd0630f202

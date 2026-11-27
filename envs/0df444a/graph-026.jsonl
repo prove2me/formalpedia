@@ -34513,7 +34513,7 @@
 {"parent": "OAI.SharpPlanar.transformEnvelope_le_rat_g", "child": "OAIQ098G1689", "via": ["solution", "statement"]}
 {"parent": "RemovingTrees.Main.warmup_removal", "child": "RemovingTrees_Main_GraphModel", "via": ["statement"]}
 {"parent": "AESIndependence.Main.reference_gap", "child": "AESIndependence_Main_ReferenceChain", "via": ["statement"]}
-{"parent": "GEPPGrowth.Main.lemma_4_13", "child": "GEPPGrowth_Main_Process", "via": ["statement"]}
+{"parent": "GEPPGrowth.Main.lemma_4_13", "child": "GEPPGrowth_Main_Process", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gclose16_original_countable_stopping_strict_postpayment_preruin", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gclose16_original_countable_stopping_strict_postpayment_preruin", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gclose16_original_countable_stopping_strict_postpayment_preruin", "child": "AvramDividend.Classical.avram_gclose16_original_rightcont_stopping_strict_postpayment_preruin", "via": ["solution", "statement"]}
@@ -40159,7 +40159,7 @@
 {"parent": "OAI.CubicEisenstein.kernelGradientToL2_inner", "child": "RellichKondrachov_Analysis_FunctionalSpaces_Sobolev_Euclidean_Rellich", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelGradientToL2_inner", "child": "OAI_NumberTheory_DirichletL_CubicSieve_RadialWindows", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelGradientToL2_inner", "child": "OAI_NumberTheory_DirichletL_MeanSquare_PoissonSource", "via": ["solution", "statement"]}
-{"parent": "GEPPGrowth.Main.proposition_4_14", "child": "GEPPGrowth_Main_Process", "via": ["statement"]}
+{"parent": "GEPPGrowth.Main.proposition_4_14", "child": "GEPPGrowth_Main_Process", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelEuclideanProjection_integral_le", "child": "OAI_NumberTheory_DirichletL_Eisenstein_LocalCutoffs", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelEuclideanProjection_integral_le", "child": "OAI_NumberTheory_DirichletL_GaussSum_BranchScaling", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.column37_1_contains_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
@@ -41448,7 +41448,7 @@
 {"parent": "OAI.CubicEisenstein.kernelEnergyGradient_core", "child": "OAI_NumberTheory_DirichletL_MeanSquare_HarmonicAggregation", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelEnergyGradient_core", "child": "OAI_NumberTheory_DirichletL_Eisenstein_LocalCutoffs", "via": ["solution", "statement"]}
 {"parent": "CSSNearGV.Amplification.threshold_positive", "child": "CSSNearGV_Amplification_Estimates", "via": ["statement"]}
-{"parent": "GEPPGrowth.Main.proposition_4_15", "child": "GEPPGrowth_Main_Process", "via": ["statement"]}
+{"parent": "GEPPGrowth.Main.proposition_4_15", "child": "GEPPGrowth_Main_Process", "via": ["solution", "statement"]}
 {"parent": "PPSLattice_Garb_Efficient", "child": "PPSLattice_Garb", "via": ["statement"]}
 {"parent": "PPSLattice_Garb_Efficient", "child": "PPSLattice_PPTSampler", "via": ["statement"]}
 {"parent": "PPSLattice_Garb_Efficient", "child": "PPSLattice_PolyTimeOn", "via": ["statement"]}
@@ -41897,7 +41897,7 @@
 {"parent": "OAI.SecondPassArithmetic.globalChildBudget_integral", "child": "OAI_NumberTheory_DirichletL_CubicSieve_PooledRows", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalChildBudget_integral", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_LogarithmicLoss", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalChildBudget_integral", "child": "OAI_NumberTheory_DirichletL_MeanSquare_TransformedColumns", "via": ["solution", "statement"]}
-{"parent": "GEPPGrowth.Main.proposition_5_2", "child": "GEPPGrowth_Main_Process", "via": ["statement"]}
+{"parent": "GEPPGrowth.Main.proposition_5_2", "child": "GEPPGrowth_Main_Process", "via": ["solution", "statement"]}
 {"parent": "OptRobustCD.lemma_4_4", "child": "OptRobustCD_BP", "via": ["statement"]}
 {"parent": "OptRobustCD.lemma_4_4", "child": "OptRobustCD_Whp", "via": ["statement"]}
 {"parent": "OptRobustCD.lemma_4_4", "child": "OptRobustCD_treeOPT", "via": ["statement"]}
@@ -43954,7 +43954,7 @@
 {"parent": "PPSLattice_SEPRF_Efficient", "child": "PPSLattice_SEPRF", "via": ["statement"]}
 {"parent": "PPSLattice_SEPRF_Efficient", "child": "PPSLattice_PPTSampler", "via": ["statement"]}
 {"parent": "PPSLattice_SEPRF_Efficient", "child": "PPSLattice_PolyTimeOn", "via": ["statement"]}
-{"parent": "GEPPGrowth.Main.proposition_5_1", "child": "GEPPGrowth_Main_Process", "via": ["statement"]}
+{"parent": "GEPPGrowth.Main.proposition_5_1", "child": "GEPPGrowth_Main_Process", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.euclideanC1cToH1_norm", "child": "RellichKondrachov_Analysis_FunctionalSpaces_Sobolev_Euclidean_Rellich", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.euclideanC1cToH1_norm", "child": "OAI_NumberTheory_DirichletL_CubicSieve_RadialWindows", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.euclideanC1cToH1_norm", "child": "OAI_NumberTheory_DirichletL_MeanSquare_PoissonSource", "via": ["solution", "statement"]}
@@ -46907,7 +46907,7 @@
 {"parent": "AvramDividend.Classical.avram_gclose16_original_stopping_right_neighbourhood_strict_postpayment_preruin", "child": "AvramDividend.Classical.avram_p4_e_localise_original_postrightpayment_reserve_pathwise_rightcontinuous", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gclose16_original_stopping_right_neighbourhood_strict_postpayment_preruin", "child": "AvramDividend.Classical.avram_gclose16_original_rightcont_stopping_strict_postpayment_preruin", "via": ["solution", "statement"]}
 {"parent": "HighPrecSAC1.Main.theorem_7_2", "child": "HighPrecSAC1_Main_Refinement", "via": ["statement"]}
-{"parent": "GEPPGrowth.Main.proposition_5_3", "child": "GEPPGrowth_Main_Process", "via": ["statement"]}
+{"parent": "GEPPGrowth.Main.proposition_5_3", "child": "GEPPGrowth_Main_Process", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.coarse_21_14_g", "child": "OAIQ098G1690", "via": ["solution", "statement"]}
 {"parent": "SuperlatSVP.lemma_3_1", "child": "SuperlatSVP_indexExt", "via": ["statement"]}
 {"parent": "SuperlatSVP.lemma_3_1", "child": "RegevLWE_GaussConv_Lattice", "via": ["statement"]}
@@ -53175,7 +53175,7 @@
 {"parent": "OAI.CompletedGauss.rowSimplePart_squarefree", "child": "OAI_NumberTheory_DirichletL_CubicSieve_SquarefreeTransfer", "via": ["solution", "statement"]}
 {"parent": "OAI.InitialMeanSquare.initialLogLabel_cap", "child": "OAI_NumberTheory_DirichletL_MeanSquare_RetainedDensity", "via": ["solution", "statement"]}
 {"parent": "OAI.InitialMeanSquare.initialLogLabel_cap", "child": "OAI_NumberTheory_DirichletL_MeanSquare_CanonicalDensity", "via": ["solution", "statement"]}
-{"parent": "GEPPGrowth.Main.proposition_5_4", "child": "GEPPGrowth_Main_Process", "via": ["statement"]}
+{"parent": "GEPPGrowth.Main.proposition_5_4", "child": "GEPPGrowth_Main_Process", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density0_r5_9_eq_g", "child": "OAIQ098G393", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density0_r5_9_eq_g", "child": "OAIQ098G397", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.eventScanKey_injective", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_Events", "via": ["solution", "statement"]}
@@ -56082,7 +56082,7 @@
 {"parent": "NashOrTriangle_BRAdversary", "child": "NashOrTriangle_upper", "via": ["statement"]}
 {"parent": "NashOrTriangle_BRAdversary", "child": "NashOrTriangle_lower", "via": ["statement"]}
 {"parent": "MinColorPath_MinorFree_Diagram", "child": "MinColorPath_MinorFree_ColoredGraph", "via": ["statement"]}
-{"parent": "GEPPGrowth.Main.large_growth_probability", "child": "GEPPGrowth_Main_Process", "via": ["statement"]}
+{"parent": "GEPPGrowth.Main.large_growth_probability", "child": "GEPPGrowth_Main_Process", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r3_eq_g", "child": "OAIQ098G405", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r3_eq_g", "child": "OAIQ098G397", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementSupport.fiberPart_eq_extend_restrict", "child": "QEC_Coding_FiniteAlternatingConstruction_QLocalWeight", "via": ["solution", "statement"]}

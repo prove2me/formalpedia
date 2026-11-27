@@ -76850,10 +76850,10 @@
 {"parent": "RH1E6S10.part_001_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S10.part_001_2", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S10.part_001_2", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
-{"parent": "SquarePeg.vaughan_inscribed_rectangle", "child": "SquarePeg_classes", "via": ["statement"]}
-{"parent": "SquarePeg.vaughan_inscribed_rectangle", "child": "SquarePeg_similarity", "via": ["statement"]}
-{"parent": "SquarePeg.vaughan_inscribed_rectangle", "child": "SquarePeg_shapes", "via": ["statement"]}
-{"parent": "SquarePeg.vaughan_inscribed_rectangle", "child": "SchoenfliesCurveCore", "via": ["statement"]}
+{"parent": "SquarePeg.vaughan_inscribed_rectangle", "child": "SquarePeg_classes", "via": ["solution", "statement"]}
+{"parent": "SquarePeg.vaughan_inscribed_rectangle", "child": "SquarePeg_similarity", "via": ["solution", "statement"]}
+{"parent": "SquarePeg.vaughan_inscribed_rectangle", "child": "SquarePeg_shapes", "via": ["solution", "statement"]}
+{"parent": "SquarePeg.vaughan_inscribed_rectangle", "child": "SchoenfliesCurveCore", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RHLowSlabNineteenthCell07", "child": "row23_rh_supp_RHLowSlabNineteenthPilot", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156EdgeAllPieces", "child": "row23_rh_supp_RH67156EdgePiece02", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156EdgeAllPieces", "child": "row23_rh_supp_RH67156EdgePiece16", "via": ["statement"]}
@@ -85754,9 +85754,9 @@
 {"parent": "RH1E6S11.group_028", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S11.group_028", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156Slab16Fast09Block09", "child": "row23_rh_supp_RH67156Slab16Fast09Data", "via": ["statement"]}
-{"parent": "PalomarZF207.neg_unprovable_of_represents207", "child": "palomar_zf207_history", "via": ["statement"]}
-{"parent": "PalomarZF207.neg_unprovable_of_represents207", "child": "palomar_zf207_zf", "via": ["statement"]}
-{"parent": "PalomarZF207.neg_unprovable_of_represents207", "child": "palomar_zf207_statement", "via": ["statement"]}
+{"parent": "PalomarZF207.neg_unprovable_of_represents207", "child": "palomar_zf207_history", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.neg_unprovable_of_represents207", "child": "palomar_zf207_zf", "via": ["solution", "statement"]}
+{"parent": "PalomarZF207.neg_unprovable_of_represents207", "child": "palomar_zf207_statement", "via": ["solution", "statement"]}
 {"parent": "Polychromatic418967fa_Branch222_Segment000", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
 {"parent": "RH1E6S10_D021_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "SamplingLLL.Supplement.theorem_2_13", "child": "SamplingLLL_Supplement_itData", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricTSPSublinear_claim_3_2
 -- name    : MetricTSPSublinear.claim_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:28:47.884141+00:00
 -- url     : https://prove2.me/theorems/d285eb1c-d0ad-4cf4-8d0f-d62a5f5690e0

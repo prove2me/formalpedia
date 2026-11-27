@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TinyCoreset_Affine_theorem19_affine_subspace_coreset
 -- name    : TinyCoreset.Affine.theorem19_affine_subspace_coreset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:45:12.659267+00:00
 -- url     : https://prove2.me/theorems/d498f3fe-b6b3-4438-b32b-d1d6e593c201

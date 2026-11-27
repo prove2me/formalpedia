@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManipPotential_proposition_6_12_transfer_path_assembly
 -- name    : ManipPotential.proposition_6_12_transfer_path_assembly
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:35:59.371147+00:00
 -- url     : https://prove2.me/theorems/6bc04773-9e70-4844-aeee-2b6871a111a6

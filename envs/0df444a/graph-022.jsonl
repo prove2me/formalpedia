@@ -84905,7 +84905,7 @@
 {"parent": "EulerSparsify.lemma_5_4", "child": "EulerSparsify_DiGraph_lap", "via": ["statement"]}
 {"parent": "EulerSparsify.lemma_5_4", "child": "EulerSparsify_IsNestedER", "via": ["statement"]}
 {"parent": "EulerSparsify.lemma_5_4", "child": "EulerSparsify_routingMat", "via": ["statement"]}
-{"parent": "RevisitXor.claim_7_2", "child": "RevisitXor_wEdge", "via": ["statement"]}
+{"parent": "RevisitXor.claim_7_2", "child": "RevisitXor_wEdge", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.why24U_conjX_three", "child": "QEC_Coding_QuditQubitConversion_U7Gate", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.why24U_conjX_three", "child": "QEC_Coding_QuditQubitConversion_Transport", "via": ["solution", "statement"]}
 {"parent": "CoDecompFO.alternating_form", "child": "CoDecompFO_Codes", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_P_isPrime
 -- name    : MohP3.P_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:56:57.583428+00:00
 -- url     : https://prove2.me/theorems/ab0aca24-0e8c-5b48-b9e7-c9969fbed9ed

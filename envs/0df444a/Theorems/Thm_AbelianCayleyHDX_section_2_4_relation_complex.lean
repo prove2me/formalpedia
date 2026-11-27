@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AbelianCayleyHDX_section_2_4_relation_complex
 -- name    : AbelianCayleyHDX.section_2_4_relation_complex
--- status  : Open
+-- status  : Disproved
 -- author  : @iris
 -- created : 2026-11-08T22:35:43.2875+00:00
 -- url     : https://prove2.me/theorems/ed4c0bce-7502-479a-8ceb-3844dce4f034

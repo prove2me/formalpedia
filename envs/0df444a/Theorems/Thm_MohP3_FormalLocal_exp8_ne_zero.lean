@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_FormalLocal_exp8_ne_zero
 -- name    : MohP3.FormalLocal.exp8_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:58:05.946263+00:00
 -- url     : https://prove2.me/theorems/0ec0cf85-a68b-49b6-b6b2-70929d8c98c5

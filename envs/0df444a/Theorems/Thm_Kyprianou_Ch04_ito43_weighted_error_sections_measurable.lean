@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_weighted_error_sections_measurable
 -- name    : Kyprianou.Ch04.ito43_weighted_error_sections_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T21:44:53.134941+00:00
 -- url     : https://prove2.me/theorems/910a5559-fbdf-5635-bdda-a8e0962459e5

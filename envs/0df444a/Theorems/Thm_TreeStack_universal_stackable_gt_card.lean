@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreeStack_universal_stackable_gt_card
 -- name    : TreeStack.universal_stackable_gt_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:06:40.246811+00:00
 -- url     : https://prove2.me/theorems/4be0a515-cc55-54ed-b86c-93ecc25e325f

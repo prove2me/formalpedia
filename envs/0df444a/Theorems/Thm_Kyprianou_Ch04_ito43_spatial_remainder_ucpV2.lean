@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_spatial_remainder_ucpV2
 -- name    : Kyprianou.Ch04.ito43_spatial_remainder_ucpV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:11:10.806746+00:00
 -- url     : https://prove2.me/theorems/ea90cb09-ebe2-56d6-b4b6-2c17e0befa58

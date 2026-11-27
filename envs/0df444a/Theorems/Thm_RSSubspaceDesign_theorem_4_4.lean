@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RSSubspaceDesign_theorem_4_4
 -- name    : RSSubspaceDesign.theorem_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:23:37.955266+00:00
 -- url     : https://prove2.me/theorems/1dbfc2fb-d6e6-4dd6-b3a8-9b16b50bd089

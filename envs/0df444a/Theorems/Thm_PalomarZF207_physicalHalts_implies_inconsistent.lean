@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalomarZF207_physicalHalts_implies_inconsistent
 -- name    : PalomarZF207.physicalHalts_implies_inconsistent
--- status  : Open
+-- status  : Proved
 -- author  : @fl-39
 -- created : 2026-11-26T18:34:28.691607+00:00
 -- url     : https://prove2.me/theorems/31bbcef9-b238-542d-bd9b-3431df7ef280

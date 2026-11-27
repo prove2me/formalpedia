@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricTSPSublinear_corollary_5_4
 -- name    : MetricTSPSublinear.corollary_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:28:15.367464+00:00
 -- url     : https://prove2.me/theorems/fe6214fb-ccd8-4011-90a9-7e887abda558

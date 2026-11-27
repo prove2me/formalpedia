@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NadlerCLS_residual_decrease
 -- name    : NadlerCLS.residual_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:01:19.104955+00:00
 -- url     : https://prove2.me/theorems/26bce3b8-a00d-4077-97b4-fabff81ae9bb

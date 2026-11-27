@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_twistPow_metric_b6d4d757a33f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_twistPow_metric_b6d4d757a33f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:16:35.811708+00:00
 -- url     : https://prove2.me/theorems/9940874c-7e5d-54fd-ad3b-8430be8d8c06

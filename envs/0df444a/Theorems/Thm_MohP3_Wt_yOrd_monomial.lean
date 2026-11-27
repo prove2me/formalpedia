@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Wt_yOrd_monomial
 -- name    : MohP3.Wt.yOrd_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:00:14.841025+00:00
 -- url     : https://prove2.me/theorems/4cfb25b6-f48e-4c08-bce9-8b05bdf37ae6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_PsurfK_le_Ppoly
 -- name    : MohP3.PsurfK_le_Ppoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:06:44.779269+00:00
 -- url     : https://prove2.me/theorems/81ff32e2-9966-586d-ab37-6f8150e3e1bb

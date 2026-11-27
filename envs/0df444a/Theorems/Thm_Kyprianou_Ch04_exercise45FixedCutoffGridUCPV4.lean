@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45FixedCutoffGridUCPV4
 -- name    : Kyprianou.Ch04.exercise45FixedCutoffGridUCPV4
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:28:51.827579+00:00
 -- url     : https://prove2.me/theorems/1c891b32-0555-5059-ac65-da1a7bba5bfb

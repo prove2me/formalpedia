@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_C6BipartiteDomination_corona_max_degree_exactly_six
 -- name    : C6BipartiteDomination.corona_max_degree_exactly_six
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:09:23.92614+00:00
 -- url     : https://prove2.me/theorems/6e6e1b80-feb2-5b3c-a7bd-ac477eef170a

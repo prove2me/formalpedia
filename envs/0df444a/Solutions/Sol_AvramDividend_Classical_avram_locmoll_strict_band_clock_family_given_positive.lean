@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_locmoll_strict_band_clock_family_given_positive
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T22:03:04.94471+00:00
 -- url     : https://prove2.me/submissions/0deb9c23-067e-4d1c-b6da-082f5b845aab
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_locmoll_band_sequence

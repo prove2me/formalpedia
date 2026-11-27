@@ -97815,8 +97815,8 @@
 {"parent": "MIPStarRE.LDT.ev_leftTensor_total_eq_sum_outcome", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms_Defs_StabilizerLearning", "child": "QAlgorithms_Defs_IQAE", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group150_part08", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "KanCombine.Optimal.eq_A11", "child": "KanCombine_Optimal_Model", "via": ["statement"]}
-{"parent": "KanCombine.Optimal.eq_A11", "child": "RiskEU_OOSUVar_Setting", "via": ["statement"]}
+{"parent": "KanCombine.Optimal.eq_A11", "child": "KanCombine_Optimal_Model", "via": ["solution", "statement"]}
+{"parent": "KanCombine.Optimal.eq_A11", "child": "RiskEU_OOSUVar_Setting", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Introspection.Honest.hideRegister_entry_nonzero", "child": "MIPRE_Foundations_Introspection_BlockTwirl", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Introspection.Honest.hideRegister_entry_nonzero", "child": "MIPRE_Foundations_WeylEPR", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Introspection.Honest.hideRegister_entry_nonzero", "child": "MIPRE_Foundations_Introspection_HonestRead", "via": ["solution", "statement"]}

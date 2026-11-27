@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_qv_weighted_sup_envelope
 -- name    : Kyprianou.Ch04.ito43_qv_weighted_sup_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:55:20.88072+00:00
 -- url     : https://prove2.me/theorems/6e8629b2-2e58-5eaa-9b6e-b0ef289a2bbc

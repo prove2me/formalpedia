@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiNashRepair_controls_5_7
 -- name    : MultiNashRepair.controls_5_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:30:40.552452+00:00
 -- url     : https://prove2.me/theorems/405d6f3b-cdfb-4042-885a-9093e38ffcdc

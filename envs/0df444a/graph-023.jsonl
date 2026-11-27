@@ -7065,7 +7065,7 @@
 {"parent": "ReplParity.lemma_3_3", "child": "ReplParity_massOutside", "via": ["statement"]}
 {"parent": "ReplParity.lemma_3_3", "child": "ReplParity_prIID", "via": ["statement"]}
 {"parent": "ReplParity.lemma_3_3", "child": "ReplParity_gate", "via": ["statement"]}
-{"parent": "ShallowSym.prelim_cnf_dnf", "child": "ShallowSym_Layer", "via": ["statement"]}
+{"parent": "ShallowSym.prelim_cnf_dnf", "child": "ShallowSym_Layer", "via": ["solution", "statement"]}
 {"parent": "TIEMaximin.lemma_3_10", "child": "TIEMaximin_Basic", "via": ["statement"]}
 {"parent": "TIEMaximin.lemma_3_10", "child": "TIEMaximin_Deficient", "via": ["statement"]}
 {"parent": "AaronsonAmbainis.Level.variance_cube_le", "child": "AaronsonAmbainis_Level_Basic", "via": ["solution", "statement"]}

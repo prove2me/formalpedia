@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_K_vvK_ne_zero
 -- name    : MohP3.K.vvK_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:01:48.889223+00:00
 -- url     : https://prove2.me/theorems/f56b9540-5511-50c3-8076-92cfeb8f2cf1

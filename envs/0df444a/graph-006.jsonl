@@ -22533,8 +22533,8 @@
 {"parent": "OAI.SpinAngle.CompactMixture.convexHull_compact", "child": "OAI_RepresentationTheory_SpinAngle_Core", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P34.twoPhotonStatistics", "child": "QAlgorithms_Papers_Independent_Dependency50_P34", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Information100.P22.minimumEntanglementGraphBranch", "child": "QAlgorithms_Papers_Independent_Information100_P22", "via": ["statement"]}
-{"parent": "KanCombine.Optimal.eq_A9", "child": "KanCombine_Optimal_Model", "via": ["statement"]}
-{"parent": "KanCombine.Optimal.eq_A9", "child": "RiskEU_OOSUVar_Setting", "via": ["statement"]}
+{"parent": "KanCombine.Optimal.eq_A9", "child": "KanCombine_Optimal_Model", "via": ["solution", "statement"]}
+{"parent": "KanCombine.Optimal.eq_A9", "child": "RiskEU_OOSUVar_Setting", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group617_part05", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "PPDifferentiation.ShortRun.asymmetric_positions", "child": "PPDifferentiation_ShortRun_Setting", "via": ["solution", "statement"]}
 {"parent": "MazurTransfer_Order13PellInfinityLocalOrders", "child": "MazurTransfer.Order13InfinityDiscreteValuationRing.localRing_isDiscreteValuationRing", "via": ["statement"]}
@@ -68142,8 +68142,8 @@
 {"parent": "QAlgorithms.Papers.Independent.Independent1.P02.separable_decomposition_length", "child": "QAlgorithms_Defs_HolevoMatrixMaps", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Independent1.P02.separable_decomposition_length", "child": "QAlgorithms_Defs_FiniteRegisters", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group645_part01", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "KanCombine.Optimal.eq_A13", "child": "KanCombine_Optimal_Model", "via": ["statement"]}
-{"parent": "KanCombine.Optimal.eq_A13", "child": "RiskEU_OOSUVar_Setting", "via": ["statement"]}
+{"parent": "KanCombine.Optimal.eq_A13", "child": "KanCombine_Optimal_Model", "via": ["solution", "statement"]}
+{"parent": "KanCombine.Optimal.eq_A13", "child": "RiskEU_OOSUVar_Setting", "via": ["solution", "statement"]}
 {"parent": "MazurTransfer_Order13FieldFunctionFieldGeneratorsData", "child": "MazurTransfer_Order13FieldOrdinaryPolynomialTranscendenceData", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group362_part02", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_supported_affine_ambient_surrogate_s2", "child": "ErdosReciprocal", "via": ["solution", "statement"]}

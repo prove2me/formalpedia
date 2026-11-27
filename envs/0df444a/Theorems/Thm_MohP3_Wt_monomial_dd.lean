@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Wt_monomial_dd
 -- name    : MohP3.Wt.monomial_dd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:00:22.609033+00:00
 -- url     : https://prove2.me/theorems/008dae15-6b2f-4513-b618-0401f9814780

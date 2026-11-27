@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_good_mul_z
 -- name    : MohP3.good_mul_z
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:56:17.834634+00:00
 -- url     : https://prove2.me/theorems/559cb444-4dea-5c36-94ff-a050a91ce479

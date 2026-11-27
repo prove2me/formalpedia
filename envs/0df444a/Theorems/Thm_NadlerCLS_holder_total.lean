@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NadlerCLS_holder_total
 -- name    : NadlerCLS.holder_total
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:02:31.309612+00:00
 -- url     : https://prove2.me/theorems/d54e34c1-d14e-4295-a868-3a73cf54ed0f

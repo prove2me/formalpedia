@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellVsPPU_Duopoly_a24_threshold_gluing
 -- name    : SellVsPPU.Duopoly.a24_threshold_gluing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:45:30.674876+00:00
 -- url     : https://prove2.me/theorems/c2d04192-577e-46d1-adfb-4f7ed53696ff

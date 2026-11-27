@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivPCP_lemma_6_2
 -- name    : PrivPCP.lemma_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:46:45.153401+00:00
 -- url     : https://prove2.me/theorems/1781b6c1-10a9-4231-bef8-ad5486e291f3

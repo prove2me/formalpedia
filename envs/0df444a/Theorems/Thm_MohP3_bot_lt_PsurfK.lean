@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_bot_lt_PsurfK
 -- name    : MohP3.bot_lt_PsurfK
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:07:24.686204+00:00
 -- url     : https://prove2.me/theorems/e98eaf8d-67f3-476d-98be-c99410d86b89

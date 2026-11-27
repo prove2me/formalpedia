@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_isotropic_gramIso_7ab060123dc5
 -- name    : P2M_GroundTheory_Heights__Theta_isotropic_gramIso_7ab060123dc5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:42:34.842987+00:00
 -- url     : https://prove2.me/theorems/bb42d72c-d557-4c61-8e08-ebdd245f41a9

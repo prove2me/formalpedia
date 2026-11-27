@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_FormalLocal_ker_le_Pk_of_generation
 -- name    : MohP3.FormalLocal.ker_le_Pk_of_generation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:58:12.070461+00:00
 -- url     : https://prove2.me/theorems/3f88e016-692f-43b7-ac6a-cd13d9b02a2f

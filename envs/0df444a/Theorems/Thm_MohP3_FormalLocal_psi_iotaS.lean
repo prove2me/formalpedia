@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_FormalLocal_psi_iotaS
 -- name    : MohP3.FormalLocal.psi_iotaS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:57:17.712419+00:00
 -- url     : https://prove2.me/theorems/21c03462-3191-4214-9d9e-b75558d3ba1d

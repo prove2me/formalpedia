@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_locmoll_random_closed_cash_measurable
 -- name    : AvramDividend.Classical.avram_locmoll_random_closed_cash_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T22:02:07.773819+00:00
 -- url     : https://prove2.me/theorems/e22326ad-c30f-4958-a260-eacd6796ce48

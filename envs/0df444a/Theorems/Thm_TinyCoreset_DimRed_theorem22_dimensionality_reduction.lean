@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TinyCoreset_DimRed_theorem22_dimensionality_reduction
 -- name    : TinyCoreset.DimRed.theorem22_dimensionality_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:57:32.545307+00:00
 -- url     : https://prove2.me/theorems/c8962cd9-6caf-4034-8e26-a32ffd85b95f

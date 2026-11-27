@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_FormalLocal_ooS_mod_inj
 -- name    : MohP3.FormalLocal.ooS_mod_inj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:57:58.597349+00:00
 -- url     : https://prove2.me/theorems/140a6412-efc9-4e97-be76-f93ce3ee1681

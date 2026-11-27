@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_kernel_rho
 -- name    : MohP3.kernel_rho
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:57:12.870088+00:00
 -- url     : https://prove2.me/theorems/2a57c598-ce78-4740-9637-1eb759ee1981

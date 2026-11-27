@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.ito43_spatial_slice_grid_ucp
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T15:53:23.054899+00:00
 -- url     : https://prove2.me/submissions/5a4ff2c7-026f-4f46-8e2d-4ee3fb0d3d82
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch02_LargeJumpProcess

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NadlerCLS_theorem_C_2_transfer
 -- name    : NadlerCLS.theorem_C_2_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:56:15.607955+00:00
 -- url     : https://prove2.me/theorems/a23124d3-ebbb-457d-a075-3bc141897b32

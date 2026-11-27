@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_FormalLocal_indepS
 -- name    : MohP3.FormalLocal.indepS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:57:59.825129+00:00
 -- url     : https://prove2.me/theorems/acf81599-8b23-4ec0-8ab7-e04305509739

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Wt_yOrd_sum
 -- name    : MohP3.Wt.yOrd_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:59:58.158814+00:00
 -- url     : https://prove2.me/theorems/43c57037-c1b5-5d93-ab31-02b6a9ed123e

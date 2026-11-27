@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManipPotential_lemma_6_10_uniform_threshold
 -- name    : ManipPotential.lemma_6_10_uniform_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:35:29.215091+00:00
 -- url     : https://prove2.me/theorems/a8e483e5-34de-4828-9604-dbdc604bacff

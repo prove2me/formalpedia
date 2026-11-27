@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreeStack_card_add_one_le_rootEstimate
 -- name    : TreeStack.card_add_one_le_rootEstimate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:06:27.870361+00:00
 -- url     : https://prove2.me/theorems/6bab8ea7-6d1c-42ab-bbe1-025213fc5b31

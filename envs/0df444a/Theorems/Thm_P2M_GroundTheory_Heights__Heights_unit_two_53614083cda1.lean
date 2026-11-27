@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_unit_two_53614083cda1
 -- name    : P2M_GroundTheory_Heights__Heights_unit_two_53614083cda1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:42:03.904403+00:00
 -- url     : https://prove2.me/theorems/e12b45b5-daf9-4968-8b9e-f92f494ea17a

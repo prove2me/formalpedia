@@ -7513,8 +7513,8 @@
 {"parent": "dusart_mesh_upper_group626_part01", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "NLogN.KFU.length_shK", "child": "IntMul_Kappa_K_Defs33", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group395_part00", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "KanCombine.Optimal.eq_A12", "child": "KanCombine_Optimal_Model", "via": ["statement"]}
-{"parent": "KanCombine.Optimal.eq_A12", "child": "RiskEU_OOSUVar_Setting", "via": ["statement"]}
+{"parent": "KanCombine.Optimal.eq_A12", "child": "KanCombine_Optimal_Model", "via": ["solution", "statement"]}
+{"parent": "KanCombine.Optimal.eq_A12", "child": "RiskEU_OOSUVar_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.EntropyRateDimension.RandomGrid.circle_norm_le_of_floor_ne", "child": "OAI_MeasureTheory_SelfSimilar_Basic", "via": ["solution", "statement"]}
 {"parent": "OAI.EntropyRateDimension.RandomGrid.circle_norm_le_of_floor_ne", "child": "OAI_MeasureTheory_SelfSimilar_RandomGrid", "via": ["solution", "statement"]}
 {"parent": "OAI.EntropyRateDimension.RandomGrid.circle_norm_le_of_floor_ne", "child": "SelfSimilar", "via": ["solution", "statement"]}
@@ -29286,8 +29286,8 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff21.certified_nonneg21_chunk06", "child": "HlawkaSchatten_DiagonalConstruction_BoxHessian", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group654_part00", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "NLogN.zsz_mono", "child": "IntMul_Kappa_K_Defs33", "via": ["solution", "statement"]}
-{"parent": "KanCombine.Optimal.eq_A10", "child": "KanCombine_Optimal_Model", "via": ["statement"]}
-{"parent": "KanCombine.Optimal.eq_A10", "child": "RiskEU_OOSUVar_Setting", "via": ["statement"]}
+{"parent": "KanCombine.Optimal.eq_A10", "child": "KanCombine_Optimal_Model", "via": ["solution", "statement"]}
+{"parent": "KanCombine.Optimal.eq_A10", "child": "RiskEU_OOSUVar_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI_Geometry_Arnold_Field", "child": "OAI_Geometry_Arnold_Exterior", "via": ["statement"]}
 {"parent": "OAI_Geometry_Arnold_Field", "child": "OAI_Geometry_Arnold_Tangent", "via": ["statement"]}
 {"parent": "OAI_Geometry_Arnold_Field", "child": "OAI_Geometry_Arnold_Orbit", "via": ["statement"]}

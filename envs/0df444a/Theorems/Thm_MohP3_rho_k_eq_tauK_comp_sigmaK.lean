@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_rho_k_eq_tauK_comp_sigmaK
 -- name    : MohP3.rho_k_eq_tauK_comp_sigmaK
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:06:38.690703+00:00
 -- url     : https://prove2.me/theorems/86a488b9-190f-5101-9a85-223038c43d81

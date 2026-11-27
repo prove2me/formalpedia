@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_isVectorBundle_iff_model_7c6200fe56e7
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_isVectorBundle_iff_model_7c6200fe56e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:25:21.860968+00:00
 -- url     : https://prove2.me/theorems/3437fe88-6174-4371-9c32-53830ccd8001

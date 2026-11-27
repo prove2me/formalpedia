@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TinyCoreset_Affine_eq7_symmetrized_coreset
 -- name    : TinyCoreset.Affine.eq7_symmetrized_coreset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:45:03.815596+00:00
 -- url     : https://prove2.me/theorems/1a78d709-e2cd-4f8c-adb4-93ea6601f9f3

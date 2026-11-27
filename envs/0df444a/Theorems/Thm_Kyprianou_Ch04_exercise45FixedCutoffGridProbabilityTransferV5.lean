@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45FixedCutoffGridProbabilityTransferV5
 -- name    : Kyprianou.Ch04.exercise45FixedCutoffGridProbabilityTransferV5
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:49:24.591811+00:00
 -- url     : https://prove2.me/theorems/cdd9b2a3-c112-5837-9693-95edde57a89e

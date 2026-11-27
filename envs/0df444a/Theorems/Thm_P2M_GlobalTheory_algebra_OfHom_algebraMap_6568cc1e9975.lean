@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_algebra_OfHom_algebraMap_6568cc1e9975
 -- name    : P2M_GlobalTheory_algebra_OfHom_algebraMap_6568cc1e9975
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:06:44.585905+00:00
 -- url     : https://prove2.me/theorems/8b49e7aa-c1ec-4bca-a26f-6d01116e08c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_mem_coboundaries__intRepOfMonoidEnd_iff_8d7a2be120d0
 -- name    : P2M_GroundTheory_ProfCoh_mem_coboundaries__intRepOfMonoidEnd_iff_8d7a2be120d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:43:12.87855+00:00
 -- url     : https://prove2.me/theorems/367830e2-b16f-4d74-9ab3-70ca4038c061

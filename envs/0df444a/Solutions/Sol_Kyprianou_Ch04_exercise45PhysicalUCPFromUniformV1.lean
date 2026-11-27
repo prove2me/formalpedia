@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.exercise45PhysicalUCPFromUniformV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-26T18:29:34.92329+00:00
 -- url     : https://prove2.me/submissions/67568e3c-0a4e-41bd-87f0-47ba2150179f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch04_exercise45FixedCutoffGridUCPV4

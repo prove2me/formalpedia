@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Psurf_isPrime
 -- name    : MohP3.Psurf_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:04:45.173538+00:00
 -- url     : https://prove2.me/theorems/f0c220f8-8f26-52cf-81d9-7550f5e01db7

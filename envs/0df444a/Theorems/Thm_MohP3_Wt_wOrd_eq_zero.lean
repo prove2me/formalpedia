@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Wt_wOrd_eq_zero
 -- name    : MohP3.Wt.wOrd_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:59:48.04927+00:00
 -- url     : https://prove2.me/theorems/51b2592a-5eab-51b8-8c7f-feea57d76769

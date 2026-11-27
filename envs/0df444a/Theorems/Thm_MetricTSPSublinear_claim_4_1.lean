@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricTSPSublinear_claim_4_1
 -- name    : MetricTSPSublinear.claim_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:29:06.737206+00:00
 -- url     : https://prove2.me/theorems/9f7ba7fc-ddbf-4258-aa82-28a33d1916d2

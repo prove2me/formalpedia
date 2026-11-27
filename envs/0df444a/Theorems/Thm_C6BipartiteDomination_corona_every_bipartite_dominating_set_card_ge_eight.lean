@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_C6BipartiteDomination_corona_every_bipartite_dominating_set_card_ge_eight
 -- name    : C6BipartiteDomination.corona_every_bipartite_dominating_set_card_ge_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:03:15.573065+00:00
 -- url     : https://prove2.me/theorems/b619457b-8e49-50a0-a3d2-b623754767b9

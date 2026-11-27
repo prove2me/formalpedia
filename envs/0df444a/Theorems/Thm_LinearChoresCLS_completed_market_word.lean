@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearChoresCLS_completed_market_word
 -- name    : LinearChoresCLS.completed_market_word
--- status  : Open
+-- status  : Proved
 -- author  : @Weiqiang
 -- created : 2026-11-13T20:43:47.085994+00:00
 -- url     : https://prove2.me/theorems/96f2333b-356a-4c11-9e2f-ffd048a3f88b

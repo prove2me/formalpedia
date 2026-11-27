@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TinyCoreset_DimRed_corollary16_subspace_coreset_bound
 -- name    : TinyCoreset.DimRed.corollary16_subspace_coreset_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:57:58.672697+00:00
 -- url     : https://prove2.me/theorems/6895ec32-78cb-4008-b0b4-2e5bf555bf80

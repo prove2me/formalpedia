@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_locmoll_grid_band_bound_prefix
 -- name    : AvramDividend.Classical.avram_locmoll_grid_band_bound_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T22:04:21.19188+00:00
 -- url     : https://prove2.me/theorems/c82d22cc-0163-4842-951d-d454bed363ed

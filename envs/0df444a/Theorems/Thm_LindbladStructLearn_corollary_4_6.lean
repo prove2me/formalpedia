@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindbladStructLearn_corollary_4_6
 -- name    : LindbladStructLearn.corollary_4_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:53:16.510987+00:00
 -- url     : https://prove2.me/theorems/528d36d7-a59b-4c6a-af06-1ed28425b6a1

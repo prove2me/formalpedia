@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_cosine_prefix_centered_tail
 -- name    : Kyprianou.Ch04.ito43_cosine_prefix_centered_tail
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T21:44:56.076822+00:00
 -- url     : https://prove2.me/theorems/93841bdd-a155-4707-b1b1-e41416846967

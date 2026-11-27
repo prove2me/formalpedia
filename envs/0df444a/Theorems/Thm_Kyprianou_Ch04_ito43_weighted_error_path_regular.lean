@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_weighted_error_path_regular
 -- name    : Kyprianou.Ch04.ito43_weighted_error_path_regular
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T21:44:57.366937+00:00
 -- url     : https://prove2.me/theorems/334a8ec6-64ea-5a53-a8c6-906bc50f3796

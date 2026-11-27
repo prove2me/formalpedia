@@ -9875,7 +9875,7 @@
 {"parent": "OAILP_PriceGame_ControlEndpoint", "child": "OAILP_PriceGame_ControlCampaignWirePolynomial", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlEndpoint", "child": "OAILP_PriceGame_TrialExecutionCharge", "via": ["statement"]}
 {"parent": "Arxiv2608_05214.glm_equation", "child": "Arxiv2608_05214_Basic", "via": ["statement"]}
-{"parent": "FiniteEnergyPlane.proj_notMem_range_of_tendsto_disk", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.proj_notMem_range_of_tendsto_disk", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["solution", "statement"]}
 {"parent": "OAILP_Compression_RequestProbeDialogue", "child": "OAILP_Compression_RequestGraphProbe", "via": ["statement"]}
 {"parent": "OAILP_Compression_RequestProbeDialogue", "child": "OAILP_Lattice_BitRoundControl", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_MarketAugmentMachineStep", "child": "OAILP_PriceGame_MarketAugmentMachineTerminal", "via": ["statement"]}
@@ -70928,11 +70928,11 @@
 {"parent": "Eden.radiusEvolution_pos", "child": "Eden_GrowthRates", "via": ["solution", "statement"]}
 {"parent": "O3.aboveLevel_restartCount_le", "child": "O3_Foundation", "via": ["solution", "statement"]}
 {"parent": "O3.aboveLevel_restartCount_le", "child": "O3_AboveTwo", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch05.creepingLimitFromPotentialLimits", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.creepingLimitFromPotentialLimits", "child": "Kyprianou_Ch05_RegularVariation", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.creepingLimitFromPotentialLimits", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.creepingLimitFromPotentialLimits", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
-{"parent": "Kyprianou.Ch05.creepingLimitFromPotentialLimits", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch05.creepingLimitFromPotentialLimits", "child": "Kyprianou_Ch05_KilledSubordinatorPotential", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingLimitFromPotentialLimits", "child": "Kyprianou_Ch05_RegularVariation", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingLimitFromPotentialLimits", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingLimitFromPotentialLimits", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch05.creepingLimitFromPotentialLimits", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "Eden.tendsto_lyapunovExponent", "child": "Eden_FactorLimits", "via": ["solution", "statement"]}
 {"parent": "Eden.tendsto_lyapunovExponent", "child": "Eden_Sorting", "via": ["solution", "statement"]}
 {"parent": "Eden.tendsto_lyapunovExponent", "child": "Eden_LyapunovExponents", "via": ["solution", "statement"]}
@@ -93406,7 +93406,7 @@
 {"parent": "TunnellMap.BlockGen.remainingTrace_initial", "child": "TunnellMap_OrderedGenerator", "via": ["solution", "statement"]}
 {"parent": "TunnellMap.BlockGen.remainingTrace_initial", "child": "TunnellMap_BlockGenerator", "via": ["solution", "statement"]}
 {"parent": "Rank2Sha.curve389a1_sha_no_p_torsion_almost_all", "child": "Rank2Sha_Curves", "via": ["statement"]}
-{"parent": "Rank2Sha.curve389a1_sha_no_p_torsion_almost_all", "child": "Rank2Sha_TateShafarevich", "via": ["statement"]}
+{"parent": "Rank2Sha.curve389a1_sha_no_p_torsion_almost_all", "child": "Rank2Sha_TateShafarevich", "via": ["solution", "statement"]}
 {"parent": "crouzeix_palencia_of_convexThickening_support_boundaryDoubleLayer_automaticMass_automaticWinding_radial_vanishingAtZero", "child": "Operator_Crouzeix_ScalarCompanionBoundaryMeasureAssembly", "via": ["solution", "statement"]}
 {"parent": "crouzeix_palencia_of_convexThickening_support_boundaryDoubleLayer_automaticMass_automaticWinding_radial_vanishingAtZero", "child": "Operator_Crouzeix_ResolventContourHomotopy", "via": ["solution", "statement"]}
 {"parent": "crouzeix_palencia_of_convexThickening_support_boundaryDoubleLayer_automaticMass_automaticWinding_radial_vanishingAtZero", "child": "Operator_Crouzeix_PolynomialCauchyFromResolventMass", "via": ["solution", "statement"]}

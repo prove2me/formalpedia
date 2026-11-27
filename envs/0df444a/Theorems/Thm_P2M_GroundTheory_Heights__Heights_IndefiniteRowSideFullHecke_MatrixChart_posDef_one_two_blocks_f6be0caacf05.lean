@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_MatrixChart_posDef_one_two_blocks_f6be0caacf05
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_MatrixChart_posDef_one_two_blocks_f6be0caacf05
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:24:21.454811+00:00
 -- url     : https://prove2.me/theorems/f4135dc5-1945-44f0-af39-fc833bfad180

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManipPotential_proposition_6_12_reference_curve_path
 -- name    : ManipPotential.proposition_6_12_reference_curve_path
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:47:33.377224+00:00
 -- url     : https://prove2.me/theorems/67a0e837-310f-4b2b-bd4c-5e78a4693812

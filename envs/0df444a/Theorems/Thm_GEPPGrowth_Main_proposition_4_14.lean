@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GEPPGrowth_Main_proposition_4_14
 -- name    : GEPPGrowth.Main.proposition_4_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T23:38:06.595979+00:00
 -- url     : https://prove2.me/theorems/0b88dcb7-b136-42e3-9172-fccca7c91644

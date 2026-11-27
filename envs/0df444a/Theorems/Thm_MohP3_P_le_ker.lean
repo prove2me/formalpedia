@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_P_le_ker
 -- name    : MohP3.P_le_ker
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:56:42.114434+00:00
 -- url     : https://prove2.me/theorems/1fb6877b-7775-5855-8a7d-a63164641c3c

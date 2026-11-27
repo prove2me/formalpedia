@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_Abelian_galPointsZ___apply_44b91bf63eb5
 -- name    : P2M_GroundTheory_Arith_Abelian_galPointsZ___apply_44b91bf63eb5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:07:32.707558+00:00
 -- url     : https://prove2.me/theorems/d581536d-3482-5ee7-be91-25bbddb65d78

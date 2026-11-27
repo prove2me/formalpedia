@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_schurComplement___eq_swap_83d3d265164e
 -- name    : P2M_GlobalTheory_schurComplement___eq_swap_83d3d265164e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:07:38.768155+00:00
 -- url     : https://prove2.me/theorems/1c9c6a74-b7d1-4ead-a067-d0db58a76f3c

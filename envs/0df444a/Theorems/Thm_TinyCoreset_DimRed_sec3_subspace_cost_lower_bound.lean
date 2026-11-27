@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TinyCoreset_DimRed_sec3_subspace_cost_lower_bound
 -- name    : TinyCoreset.DimRed.sec3_subspace_cost_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:57:28.737695+00:00
 -- url     : https://prove2.me/theorems/d997e12f-6a0d-4c1e-af63-34ed0e7ebc44

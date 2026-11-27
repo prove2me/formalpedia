@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_key_x_5
 -- name    : MohP3.key_x_5
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:54:43.697807+00:00
 -- url     : https://prove2.me/theorems/2429f77f-7d95-5c71-85ae-5a0d92d6a6d1

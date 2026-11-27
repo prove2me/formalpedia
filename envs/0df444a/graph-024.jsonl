@@ -18061,7 +18061,7 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.cayleyGeneratorSum_mul_lpsReducedWordElement_add_two", "child": "QEC_Coding_ExpanderCodes_LPSReducedWords", "via": ["solution", "statement"]}
 {"parent": "AFIsingKS.cm_contiguity", "child": "AFIsingKS_toGraph", "via": ["statement"]}
 {"parent": "AFIsingKS.cm_contiguity", "child": "PottsRapidMixing_Ensemble", "via": ["statement"]}
-{"parent": "ErrAmpOV.fact_2_7", "child": "ErrAmpOV_OV", "via": ["statement"]}
+{"parent": "ErrAmpOV.fact_2_7", "child": "ErrAmpOV_OV", "via": ["solution", "statement"]}
 {"parent": "BipColorHard.theorem_1", "child": "BipColorHard_Hardness", "via": ["statement"]}
 {"parent": "QEC.Coding.MultiscaleDecoder.RZCoarseGraining.xiSignal_apply", "child": "QEC_Coding_FourDimensionalToricCode_Decoder_RZCoarseGraining", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.MultiscaleDecoder.RZCoarseGraining.xiSignal_apply", "child": "QEC_Coding_FourDimensionalToricCode_Decoder_Multiscale", "via": ["solution", "statement"]}

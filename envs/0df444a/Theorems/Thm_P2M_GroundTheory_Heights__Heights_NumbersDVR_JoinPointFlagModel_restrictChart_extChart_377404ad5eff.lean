@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointFlagModel_restrictChart_extChart_377404ad5eff
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointFlagModel_restrictChart_extChart_377404ad5eff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:36:06.273352+00:00
 -- url     : https://prove2.me/theorems/03563004-9774-5b48-85b6-890ed9dc6426

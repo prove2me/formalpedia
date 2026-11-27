@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_key_z_divK
 -- name    : MohP3.key_z_divK
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:03:14.278125+00:00
 -- url     : https://prove2.me/theorems/1e0a6607-b36c-525a-bb93-0cbca121ec5c

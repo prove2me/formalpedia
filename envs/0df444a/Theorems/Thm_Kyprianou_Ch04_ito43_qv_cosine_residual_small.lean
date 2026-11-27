@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_qv_cosine_residual_small
 -- name    : Kyprianou.Ch04.ito43_qv_cosine_residual_small
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T18:53:26.045673+00:00
 -- url     : https://prove2.me/theorems/345e4dd1-9b66-4f0e-8c58-7ce9b6ec139d

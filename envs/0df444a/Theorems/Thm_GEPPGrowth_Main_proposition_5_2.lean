@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GEPPGrowth_Main_proposition_5_2
 -- name    : GEPPGrowth.Main.proposition_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T23:38:02.643235+00:00
 -- url     : https://prove2.me/theorems/0e4a36d9-2275-41e8-951e-3c761690c4a6

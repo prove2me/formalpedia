@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Gen_key_zA_1
 -- name    : MohP3.Gen.key_zA_1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:58:37.620429+00:00
 -- url     : https://prove2.me/theorems/4041293f-354a-5928-896c-9eeec67d1579

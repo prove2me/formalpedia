@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GEPPGrowth_Main_large_growth_probability
 -- name    : GEPPGrowth.Main.large_growth_probability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T23:39:18.954+00:00
 -- url     : https://prove2.me/theorems/fcf9994d-cfc1-4169-88cc-1ee3be326b52

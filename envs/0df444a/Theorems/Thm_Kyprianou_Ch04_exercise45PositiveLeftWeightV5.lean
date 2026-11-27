@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45PositiveLeftWeightV5
 -- name    : Kyprianou.Ch04.exercise45PositiveLeftWeightV5
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T21:41:50.950689+00:00
 -- url     : https://prove2.me/theorems/98dfcd4e-6416-4368-b435-54f685c89135

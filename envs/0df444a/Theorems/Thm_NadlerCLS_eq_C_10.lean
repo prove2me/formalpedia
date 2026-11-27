@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NadlerCLS_eq_C_10
 -- name    : NadlerCLS.eq_C_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:55:34.8884+00:00
 -- url     : https://prove2.me/theorems/78bcb3a1-d8a6-45d5-9824-15151ec44712

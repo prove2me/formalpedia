@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_qv_weighted_deterministic_transfer
 -- name    : Kyprianou.Ch04.ito43_qv_weighted_deterministic_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T21:44:56.845514+00:00
 -- url     : https://prove2.me/theorems/670c0c88-2851-5a27-8002-7c716a9f5fad

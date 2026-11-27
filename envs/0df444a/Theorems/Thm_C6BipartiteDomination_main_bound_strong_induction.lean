@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_C6BipartiteDomination_main_bound_strong_induction
 -- name    : C6BipartiteDomination.main_bound_strong_induction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:02:22.892419+00:00
 -- url     : https://prove2.me/theorems/7943160c-94e6-510c-b99d-d249b7657dd0

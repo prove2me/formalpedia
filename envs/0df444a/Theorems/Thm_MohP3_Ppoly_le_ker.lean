@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Ppoly_le_ker
 -- name    : MohP3.Ppoly_le_ker
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:04:13.880986+00:00
 -- url     : https://prove2.me/theorems/b87653b2-4676-40b3-b10e-37677170d337

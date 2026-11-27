@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KanCombine_Optimal_lemma_1
 -- name    : KanCombine.Optimal.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:18:08.979538+00:00
 -- url     : https://prove2.me/theorems/d3d53857-c0b0-4cda-afff-4d5317d4fd5a

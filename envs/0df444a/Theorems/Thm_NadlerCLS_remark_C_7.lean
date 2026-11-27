@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NadlerCLS_remark_C_7
 -- name    : NadlerCLS.remark_C_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:06:19.015115+00:00
 -- url     : https://prove2.me/theorems/742042c6-0edc-42c1-8df4-49a10a4cc552

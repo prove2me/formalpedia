@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_P_mem_minimalPrimes_Q
 -- name    : MohP3.P_mem_minimalPrimes_Q
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:04:48.879741+00:00
 -- url     : https://prove2.me/theorems/d36a3df7-327f-4ff3-ab8c-8cfd33e9a11d

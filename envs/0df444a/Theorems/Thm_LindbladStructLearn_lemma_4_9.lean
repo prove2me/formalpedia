@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindbladStructLearn_lemma_4_9
 -- name    : LindbladStructLearn.lemma_4_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:09:09.649566+00:00
 -- url     : https://prove2.me/theorems/98aa7007-a96b-4d9c-ac9f-c17009b373a2

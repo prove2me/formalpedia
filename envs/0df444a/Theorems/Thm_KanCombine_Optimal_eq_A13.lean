@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KanCombine_Optimal_eq_A13
 -- name    : KanCombine.Optimal.eq_A13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:18:01.117044+00:00
 -- url     : https://prove2.me/theorems/15d9033b-a4be-4cb6-8f3b-4c22ba439c5a

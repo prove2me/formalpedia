@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_K_ooK_mod_inj
 -- name    : MohP3.K.ooK_mod_inj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:01:58.966129+00:00
 -- url     : https://prove2.me/theorems/6e7b9a6c-c516-422f-88d6-a97d45d7177d

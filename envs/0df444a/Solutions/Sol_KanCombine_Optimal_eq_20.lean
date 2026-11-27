@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for KanCombine.Optimal.eq_20
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-21T14:00:15.518402+00:00
 -- url     : https://prove2.me/submissions/0a72eccb-b009-49c0-9b79-a24f230ad847
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RiskEU_OOSUVar_Setting

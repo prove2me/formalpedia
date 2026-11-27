@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AbelianCayleyHDX_lemma_4_5
 -- name    : AbelianCayleyHDX.lemma_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:35:57.210955+00:00
 -- url     : https://prove2.me/theorems/a8c5d3a5-4f80-4df2-ae3c-f70f8d7031d3

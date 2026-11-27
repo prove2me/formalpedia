@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_isUnit_det_gramIso_652907ea8cf9
 -- name    : P2M_GroundTheory_Heights__Theta_isUnit_det_gramIso_652907ea8cf9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:42:27.006808+00:00
 -- url     : https://prove2.me/theorems/90cfa692-ce4e-47d6-88c4-0b0e801e267f

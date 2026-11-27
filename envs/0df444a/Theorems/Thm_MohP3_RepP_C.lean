@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_RepP_C
 -- name    : MohP3.RepP_C
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:03:35.93616+00:00
 -- url     : https://prove2.me/theorems/31839c7b-ebef-5369-81b8-e95ff092d6f1

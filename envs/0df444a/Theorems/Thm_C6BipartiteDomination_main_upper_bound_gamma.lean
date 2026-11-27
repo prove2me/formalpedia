@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_C6BipartiteDomination_main_upper_bound_gamma
 -- name    : C6BipartiteDomination.main_upper_bound_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:03:20.051063+00:00
 -- url     : https://prove2.me/theorems/403f8c8b-9871-5ef4-a446-88d7505829fd

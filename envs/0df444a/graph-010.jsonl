@@ -20011,7 +20011,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Claimed50.P33.lemma2", "child": "QAlgorithms_Papers_Independent_Claimed50_P33", "via": ["solution", "statement"]}
 {"parent": "InterimTesting.NotProficient.eq_A211", "child": "InterimTesting_NotProficient_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Claimed50.P41.symplectic_block_conditions", "child": "QAlgorithms_Papers_Independent_Claimed50_P41", "via": ["solution", "statement"]}
-{"parent": "SellVsPPU.Duopoly.a24_regime_two_comparison", "child": "SellVsPPU_Duopoly_Model", "via": ["statement"]}
+{"parent": "SellVsPPU.Duopoly.a24_regime_two_comparison", "child": "SellVsPPU_Duopoly_Model", "via": ["solution", "statement"]}
 {"parent": "IntMul.Kappa.R6.Cx.NetF2.memB_sound", "child": "IntMul_Kappa_R6_Defs24", "via": ["solution", "statement"]}
 {"parent": "IntMul.OpenAI.R129.P.NLogN.KFW.lowQ", "child": "IntMul_OpenAI_R129_P_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernConvex.Spectral.singular_function_sdr", "child": "ModernConvex_Spectral_SDR", "via": ["solution", "statement"]}
@@ -22799,7 +22799,7 @@
 {"parent": "CyberShare.Sharing.proposition_2", "child": "CyberShare_Sharing_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Support21.P14.admissibility_without_regularity", "child": "QAlgorithms_Papers_Independent_Support21_P14", "via": ["statement"]}
 {"parent": "EpiControl.SinglePeak.proposition_2_i", "child": "EpiControl_SinglePeak_Model", "via": ["solution", "statement"]}
-{"parent": "SellVsPPU.Duopoly.a21_profits_closed_form", "child": "SellVsPPU_Duopoly_Model", "via": ["statement"]}
+{"parent": "SellVsPPU.Duopoly.a21_profits_closed_form", "child": "SellVsPPU_Duopoly_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Claimed50_P12", "child": "QAlgorithms_Papers_Independent_Information100_P32", "via": ["statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Claimed50_P12", "child": "QAlgorithms_Defs_MatrixMapPositivity", "via": ["statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Claimed50_P12", "child": "QAlgorithms_Papers_Independent_Information100_P80", "via": ["statement"]}
@@ -26559,7 +26559,7 @@
 {"parent": "RiemannRoch_WeierstrassGenus", "child": "RiemannRoch_WeierstrassInfinity", "via": ["statement"]}
 {"parent": "ProConChoice.Rational.theorem_1", "child": "ProConChoice_Rational_Model", "via": ["statement"]}
 {"parent": "NLogN.KFUU.R6Fine.fineE_runs", "child": "IntMul_Kappa_R6_Defs70", "via": ["solution", "statement"]}
-{"parent": "SellVsPPU.Duopoly.a24_threshold_gluing", "child": "SellVsPPU_Duopoly_Model", "via": ["statement"]}
+{"parent": "SellVsPPU.Duopoly.a24_threshold_gluing", "child": "SellVsPPU_Duopoly_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FinitePeriodCollision.rowTest_periodFunction_coeff", "child": "OAI_PiExponent_FinitePeriodAnalytic", "via": ["solution", "statement"]}
 {"parent": "DataTrackComp.Surplus.lemma_2", "child": "DataTrackComp_Surplus_ReducedGame", "via": ["solution", "statement"]}
 {"parent": "DataTrackComp.Surplus.lemma_2", "child": "DataTrackComp_Surplus_Game", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_FormalLocal_radical_Qk_eq_radical_Pk
 -- name    : MohP3.FormalLocal.radical_Qk_eq_radical_Pk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:53:40.056304+00:00
 -- url     : https://prove2.me/theorems/ae814522-8586-4e9a-afdb-9e14e5c20506

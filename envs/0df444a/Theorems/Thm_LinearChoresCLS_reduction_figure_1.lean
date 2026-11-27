@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearChoresCLS_reduction_figure_1
 -- name    : LinearChoresCLS.reduction_figure_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:48:00.125724+00:00
 -- url     : https://prove2.me/theorems/c55c1d7e-d790-4d06-8e76-820492d2d8cb

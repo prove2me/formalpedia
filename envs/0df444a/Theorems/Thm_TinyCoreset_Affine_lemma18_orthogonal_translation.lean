@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TinyCoreset_Affine_lemma18_orthogonal_translation
 -- name    : TinyCoreset.Affine.lemma18_orthogonal_translation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:45:16.936928+00:00
 -- url     : https://prove2.me/theorems/5509fc56-13a3-4867-be3f-a8992dbd98c6

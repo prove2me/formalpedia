@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NadlerCLS_co_equiv_clsSearch
 -- name    : NadlerCLS.co_equiv_clsSearch
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:03:26.72626+00:00
 -- url     : https://prove2.me/theorems/a6be6983-3c56-4110-87c1-64d5b5c87dd9

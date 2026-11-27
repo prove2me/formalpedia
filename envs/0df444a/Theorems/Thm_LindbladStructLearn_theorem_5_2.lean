@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindbladStructLearn_theorem_5_2
 -- name    : LindbladStructLearn.theorem_5_2
--- status  : Open
+-- status  : Disproved
 -- author  : @iris
 -- created : 2026-11-08T22:03:34.905353+00:00
 -- url     : https://prove2.me/theorems/f9081e67-edd7-4031-9ac4-d9f2116358e6

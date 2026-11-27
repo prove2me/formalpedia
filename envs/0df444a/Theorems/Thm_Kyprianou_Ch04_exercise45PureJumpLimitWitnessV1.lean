@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise45PureJumpLimitWitnessV1
 -- name    : Kyprianou.Ch04.exercise45PureJumpLimitWitnessV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T12:24:09.608108+00:00
 -- url     : https://prove2.me/theorems/53642d37-cdd4-4137-bb3f-dad6a2a67a2e

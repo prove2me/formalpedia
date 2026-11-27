@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManipPotential_proposition_6_12
 -- name    : ManipPotential.proposition_6_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:55:05.388082+00:00
 -- url     : https://prove2.me/theorems/ffb17b43-79c7-48fb-bfcc-f026b6a650b6

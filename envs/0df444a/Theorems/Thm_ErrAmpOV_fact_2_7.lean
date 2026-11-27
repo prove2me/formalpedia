@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErrAmpOV_fact_2_7
 -- name    : ErrAmpOV.fact_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T06:38:31.391197+00:00
 -- url     : https://prove2.me/theorems/08796ca0-9f0f-4da9-b9cc-25d1e65d634a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_ffK_mem
 -- name    : MohP3.ffK_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:03:05.021685+00:00
 -- url     : https://prove2.me/theorems/94aa6f67-be12-400e-acdd-f0b0a91c7e9d

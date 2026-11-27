@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_spatial_current_grid_ucp
 -- name    : Kyprianou.Ch04.ito43_spatial_current_grid_ucp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:20:51.483365+00:00
 -- url     : https://prove2.me/theorems/0ea89898-0a16-4e91-a658-b3c52bd7c9eb

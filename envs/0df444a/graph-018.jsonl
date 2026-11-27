@@ -68127,7 +68127,7 @@
 {"parent": "Groundwork.Sparsify.mem_litsOf", "child": "StepMachines_Math_SparsifyProg", "via": ["solution", "statement"]}
 {"parent": "CircuitLowerBound.Tab.stay_of_halted", "child": "CircuitLowerBound_Tab_Frame", "via": ["solution", "statement"]}
 {"parent": "CircuitLowerBound.Tab.stay_of_halted", "child": "CircuitLowerBound_Tab_Spec", "via": ["solution", "statement"]}
-{"parent": "SelfAdaptingFNR.proposition_1", "child": "SelfAdaptingFNR_slackNetwork", "via": ["statement"]}
+{"parent": "SelfAdaptingFNR.proposition_1", "child": "SelfAdaptingFNR_slackNetwork", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaPrefixInputs.ready", "child": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaSeedScoreReady.ready", "via": ["statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaPrefixInputs.ready", "child": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedCountFrontend.rows", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaPrefixInputs.ready", "child": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedQueryPlan.ready", "via": ["statement"]}

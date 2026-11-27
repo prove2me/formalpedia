@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LinearChoresCLS.figure_1_encoded_construction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Weiqiang
 -- created : 2026-11-13T20:49:14.713797+00:00
 -- url     : https://prove2.me/submissions/d61e2b62-e479-4385-a094-a19f0ddcc863
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_LinearChoresCLS_completed_market_word
 import Theorems.Thm_LinearChoresCLS_encoded_basic_price_ratios

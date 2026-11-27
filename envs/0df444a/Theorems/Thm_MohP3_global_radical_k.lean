@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_global_radical_k
 -- name    : MohP3.global_radical_k
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:05:17.745985+00:00
 -- url     : https://prove2.me/theorems/a6524d4c-df8c-425f-a655-13d300a44414

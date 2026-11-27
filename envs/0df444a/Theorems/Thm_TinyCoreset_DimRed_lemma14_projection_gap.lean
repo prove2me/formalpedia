@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TinyCoreset_DimRed_lemma14_projection_gap
 -- name    : TinyCoreset.DimRed.lemma14_projection_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:57:22.103786+00:00
 -- url     : https://prove2.me/theorems/171d2c75-8983-4b14-91d3-5b3a2f7426da

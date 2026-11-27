@@ -65322,32 +65322,32 @@
 {"parent": "Timetabling85.TwoPeriod.closure_subset_of_stable", "child": "Timetabling85_TwoPeriod_Backtracking", "via": ["solution", "statement"]}
 {"parent": "Timetabling85.TwoPeriod.timetable_iff_stable", "child": "Timetabling85_TwoPeriod_CT4", "via": ["solution", "statement"]}
 {"parent": "Timetabling85_CourseColoring_Figure4", "child": "Timetabling85_CourseColoring_CSUP", "via": ["statement"]}
-{"parent": "TinyCoreset.Affine.eq7_symmetrized_coreset", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["statement"]}
-{"parent": "TinyCoreset.Affine.eq7_symmetrized_coreset", "child": "TinyCoreset_Affine_Setting", "via": ["statement"]}
+{"parent": "TinyCoreset.Affine.eq7_symmetrized_coreset", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.Affine.eq7_symmetrized_coreset", "child": "TinyCoreset_Affine_Setting", "via": ["solution", "statement"]}
 {"parent": "TinyCoreset.Affine.lemma18_orthogonal_translation", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["statement"]}
-{"parent": "TinyCoreset.Affine.lemma18_orthogonal_translation", "child": "TinyCoreset_Affine_Setting", "via": ["statement"]}
-{"parent": "TinyCoreset.Affine.theorem17_subspace_coreset", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["statement"]}
-{"parent": "TinyCoreset.Affine.theorem17_subspace_coreset", "child": "TinyCoreset_Affine_Setting", "via": ["statement"]}
-{"parent": "TinyCoreset.Affine.theorem19_affine_subspace_coreset", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["statement"]}
-{"parent": "TinyCoreset.Affine.theorem19_affine_subspace_coreset", "child": "TinyCoreset_Affine_Setting", "via": ["statement"]}
+{"parent": "TinyCoreset.Affine.lemma18_orthogonal_translation", "child": "TinyCoreset_Affine_Setting", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.Affine.theorem17_subspace_coreset", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.Affine.theorem17_subspace_coreset", "child": "TinyCoreset_Affine_Setting", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.Affine.theorem19_affine_subspace_coreset", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.Affine.theorem19_affine_subspace_coreset", "child": "TinyCoreset_Affine_Setting", "via": ["solution", "statement"]}
 {"parent": "TinyCoreset.DimRed.claim3_pythagoras", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["solution", "statement"]}
 {"parent": "TinyCoreset.DimRed.claim3_pythagoras", "child": "TinyCoreset_DimRed_Setting", "via": ["solution", "statement"]}
-{"parent": "TinyCoreset.DimRed.corollary16_subspace_coreset_bound", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["statement"]}
-{"parent": "TinyCoreset.DimRed.corollary16_subspace_coreset_bound", "child": "TinyCoreset_DimRed_Setting", "via": ["statement"]}
-{"parent": "TinyCoreset.DimRed.corollary20_projected_truncation_error", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["statement"]}
-{"parent": "TinyCoreset.DimRed.corollary20_projected_truncation_error", "child": "TinyCoreset_DimRed_Setting", "via": ["statement"]}
+{"parent": "TinyCoreset.DimRed.corollary16_subspace_coreset_bound", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.DimRed.corollary16_subspace_coreset_bound", "child": "TinyCoreset_DimRed_Setting", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.DimRed.corollary20_projected_truncation_error", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.DimRed.corollary20_projected_truncation_error", "child": "TinyCoreset_DimRed_Setting", "via": ["solution", "statement"]}
 {"parent": "TinyCoreset.DimRed.corollary21_weak_triangle", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["solution", "statement"]}
 {"parent": "TinyCoreset.DimRed.corollary21_weak_triangle", "child": "TinyCoreset_DimRed_Setting", "via": ["solution", "statement"]}
 {"parent": "TinyCoreset.DimRed.eq9_pythagoras_for_shapes", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["solution", "statement"]}
 {"parent": "TinyCoreset.DimRed.eq9_pythagoras_for_shapes", "child": "TinyCoreset_DimRed_Setting", "via": ["solution", "statement"]}
-{"parent": "TinyCoreset.DimRed.lemma14_projection_gap", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["statement"]}
-{"parent": "TinyCoreset.DimRed.lemma14_projection_gap", "child": "TinyCoreset_DimRed_Setting", "via": ["statement"]}
-{"parent": "TinyCoreset.DimRed.lemma15_residual_sandwich", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["statement"]}
-{"parent": "TinyCoreset.DimRed.lemma15_residual_sandwich", "child": "TinyCoreset_DimRed_Setting", "via": ["statement"]}
-{"parent": "TinyCoreset.DimRed.sec3_subspace_cost_lower_bound", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["statement"]}
-{"parent": "TinyCoreset.DimRed.sec3_subspace_cost_lower_bound", "child": "TinyCoreset_DimRed_Setting", "via": ["statement"]}
-{"parent": "TinyCoreset.DimRed.theorem22_dimensionality_reduction", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["statement"]}
-{"parent": "TinyCoreset.DimRed.theorem22_dimensionality_reduction", "child": "TinyCoreset_DimRed_Setting", "via": ["statement"]}
+{"parent": "TinyCoreset.DimRed.lemma14_projection_gap", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.DimRed.lemma14_projection_gap", "child": "TinyCoreset_DimRed_Setting", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.DimRed.lemma15_residual_sandwich", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.DimRed.lemma15_residual_sandwich", "child": "TinyCoreset_DimRed_Setting", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.DimRed.sec3_subspace_cost_lower_bound", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.DimRed.sec3_subspace_cost_lower_bound", "child": "TinyCoreset_DimRed_Setting", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.DimRed.theorem22_dimensionality_reduction", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["solution", "statement"]}
+{"parent": "TinyCoreset.DimRed.theorem22_dimensionality_reduction", "child": "TinyCoreset_DimRed_Setting", "via": ["solution", "statement"]}
 {"parent": "TinyCoreset_Affine_Setting", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["statement"]}
 {"parent": "TinyCoreset_Affine_Setting", "child": "TinyCoreset_DimRed_Setting", "via": ["statement"]}
 {"parent": "TinyCoreset_DimRed_Setting", "child": "ProjLikeRetr_FixedRank_SVD", "via": ["statement"]}

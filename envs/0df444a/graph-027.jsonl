@@ -44291,10 +44291,10 @@
 {"parent": "FOMCMonDep_DecidesWithin", "child": "TrulySubcubicAPSP_WordRAM", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_25_0_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_25_0_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
-{"parent": "PriceCapacities.LowerBound.lemma_10_5", "child": "PriceCapacities_LowerBound_CapacitatedCoreset", "via": ["statement"]}
-{"parent": "PriceCapacities.LowerBound.lemma_10_5", "child": "PriceCapacities_LowerBound_DualCost", "via": ["statement"]}
-{"parent": "PriceCapacities.LowerBound.lemma_10_5", "child": "PriceCapacities_LowerBound_WeightedSets", "via": ["statement"]}
-{"parent": "PriceCapacities.LowerBound.lemma_10_5", "child": "PriceCapacities_LowerBound_CapacitatedCost", "via": ["statement"]}
+{"parent": "PriceCapacities.LowerBound.lemma_10_5", "child": "PriceCapacities_LowerBound_CapacitatedCoreset", "via": ["solution", "statement"]}
+{"parent": "PriceCapacities.LowerBound.lemma_10_5", "child": "PriceCapacities_LowerBound_DualCost", "via": ["solution", "statement"]}
+{"parent": "PriceCapacities.LowerBound.lemma_10_5", "child": "PriceCapacities_LowerBound_WeightedSets", "via": ["solution", "statement"]}
+{"parent": "PriceCapacities.LowerBound.lemma_10_5", "child": "PriceCapacities_LowerBound_CapacitatedCost", "via": ["solution", "statement"]}
 {"parent": "ChowFormsCH.lemma_3_1", "child": "ChowFormsCH_IsChowForm", "via": ["statement"]}
 {"parent": "ChowFormsCH.lemma_3_1", "child": "ChowFormsCH_comps", "via": ["statement"]}
 {"parent": "BetterKMedian.LMPGreedy.lemma_B_9", "child": "BetterKMedian_LMPGreedy_FRPrimalDual", "via": ["statement"]}
@@ -56295,10 +56295,10 @@
 {"parent": "OAI.SharpPlanar.Bernstein39.N1_left.t7_contains_g", "child": "OAIQ098G382", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_j18_original_bounded_band_rightcont_optional_sampling", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_j18_original_bounded_band_rightcont_optional_sampling", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_small_band_compensated", "via": ["solution", "statement"]}
-{"parent": "PriceCapacities.LowerBound.section_10_7_cost_eq_min_capacitated", "child": "PriceCapacities_LowerBound_CapacitatedCoreset", "via": ["statement"]}
-{"parent": "PriceCapacities.LowerBound.section_10_7_cost_eq_min_capacitated", "child": "PriceCapacities_LowerBound_DualCost", "via": ["statement"]}
-{"parent": "PriceCapacities.LowerBound.section_10_7_cost_eq_min_capacitated", "child": "PriceCapacities_LowerBound_WeightedSets", "via": ["statement"]}
-{"parent": "PriceCapacities.LowerBound.section_10_7_cost_eq_min_capacitated", "child": "PriceCapacities_LowerBound_CapacitatedCost", "via": ["statement"]}
+{"parent": "PriceCapacities.LowerBound.section_10_7_cost_eq_min_capacitated", "child": "PriceCapacities_LowerBound_CapacitatedCoreset", "via": ["solution", "statement"]}
+{"parent": "PriceCapacities.LowerBound.section_10_7_cost_eq_min_capacitated", "child": "PriceCapacities_LowerBound_DualCost", "via": ["solution", "statement"]}
+{"parent": "PriceCapacities.LowerBound.section_10_7_cost_eq_min_capacitated", "child": "PriceCapacities_LowerBound_WeightedSets", "via": ["solution", "statement"]}
+{"parent": "PriceCapacities.LowerBound.section_10_7_cost_eq_min_capacitated", "child": "PriceCapacities_LowerBound_CapacitatedCost", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26OwnerIncidenceMasks.witnessTopMarks_nonempty", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_HistoryWitness", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26OwnerIncidenceMasks.witnessTopMarks_nonempty", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_History", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26OwnerIncidenceMasks.witnessTopMarks_nonempty", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerParentObstruction", "via": ["solution", "statement"]}
@@ -79749,7 +79749,7 @@
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeTriangleKeys", "child": "QEC.Coding.BDL26ReplacementEmbedding.foldedSquare_top", "via": ["statement"]}
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeTriangleKeys", "child": "QEC.Coding.ProbabilisticConstruction.SphericalCap.barycenterMap_apply", "via": ["statement"]}
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeTriangleKeys", "child": "QEC.Coding.BDL26TannerLocalRegularity.baseQ0DoubleCylinderEdge_card", "via": ["statement"]}
-{"parent": "LpSubspaceCoreset.SmallP.lemma_2_6", "child": "LpSubspaceCoreset_SmallP_Cost", "via": ["statement"]}
+{"parent": "LpSubspaceCoreset.SmallP.lemma_2_6", "child": "LpSubspaceCoreset_SmallP_Cost", "via": ["solution", "statement"]}
 {"parent": "DistLTLSynth.Char.theorem_6_12", "child": "DistLTLSynth_Char_CounterMachine", "via": ["solution", "statement"]}
 {"parent": "DistLTLSynth.Char.theorem_6_12", "child": "DistLTLSynth_Char_Model", "via": ["solution", "statement"]}
 {"parent": "DistLTLSynth.Char.theorem_6_12", "child": "DistLTLSynth_Char_LTL", "via": ["solution", "statement"]}
@@ -82876,7 +82876,7 @@
 {"parent": "QEC.Coding.BDL26RXPhysicalStarTransport.vertical_unparented", "child": "QEC_Coding_FiniteAlternatingConstruction_RXFiniteBlockTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXPhysicalStarTransport.vertical_unparented", "child": "QEC_Coding_FiniteAlternatingConstruction_RXPhysicalStarTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXPhysicalStarTransport.vertical_unparented", "child": "QEC_Coding_FiniteAlternatingConstruction_GraphQuantitativeBounds", "via": ["solution", "statement"]}
-{"parent": "LpSubspaceCoreset.SmallP.lemma_2_6_xi_le_one", "child": "LpSubspaceCoreset_SmallP_Cost", "via": ["statement"]}
+{"parent": "LpSubspaceCoreset.SmallP.lemma_2_6_xi_le_one", "child": "LpSubspaceCoreset_SmallP_Cost", "via": ["solution", "statement"]}
 {"parent": "UnitaryQIPPSPACE.theorem_1_3", "child": "UnitaryQIPPSPACE_unitaryPSPACE", "via": ["statement"]}
 {"parent": "UnitaryQIPPSPACE.theorem_1_3", "child": "UnitaryQIPPSPACE_unitaryQIP", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Bernstein39.N1_right.t6_contains_g", "child": "OAIQ098G083", "via": ["statement"]}

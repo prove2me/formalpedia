@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellVsPPU_Duopoly_a24_regime_two_comparison
 -- name    : SellVsPPU.Duopoly.a24_regime_two_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:45:44.342836+00:00
 -- url     : https://prove2.me/theorems/4736e39a-e3ec-40a0-9cfe-371c8d99d970

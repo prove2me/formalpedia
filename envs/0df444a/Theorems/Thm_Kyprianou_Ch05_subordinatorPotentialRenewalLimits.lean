@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_subordinatorPotentialRenewalLimits
 -- name    : Kyprianou.Ch05.subordinatorPotentialRenewalLimits
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:48:55.281732+00:00
 -- url     : https://prove2.me/theorems/fcb23456-1e1f-487b-828b-a95cacc96d37

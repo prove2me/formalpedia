@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_C6BipartiteDomination_main_upper_bound_minimum
 -- name    : C6BipartiteDomination.main_upper_bound_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:02:28.576297+00:00
 -- url     : https://prove2.me/theorems/f526c6ba-02e2-44d1-9b86-dfa1d46dc57c

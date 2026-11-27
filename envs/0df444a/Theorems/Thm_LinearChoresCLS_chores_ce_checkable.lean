@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearChoresCLS_chores_ce_checkable
 -- name    : LinearChoresCLS.chores_ce_checkable
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:17:35.146099+00:00
 -- url     : https://prove2.me/theorems/8f96ae56-0bae-4610-a8a3-da715bb5a37c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_ito43_weighted_quadratic_grid_ucp
 -- name    : Kyprianou.Ch04.ito43_weighted_quadratic_grid_ucp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-26T15:51:04.540523+00:00
 -- url     : https://prove2.me/theorems/268d1577-2fdb-4a63-ba50-58d1d1ed6194

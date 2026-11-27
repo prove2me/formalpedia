@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Wt_mem_En_of
 -- name    : MohP3.Wt.mem_En_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:51:43.815005+00:00
 -- url     : https://prove2.me/theorems/55f84dff-a30f-539d-b484-9dd9e8e166f7

@@ -1,0 +1,27 @@
+-- Prove2me | Theorems.Thm_TreeStack_OrientedBranch_carrier_erase_parent
+-- name    : TreeStack.OrientedBranch.carrier_erase_parent
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-26T22:26:21.740246+00:00
+-- url     : https://prove2.me/theorems/aa2d2fac-6386-424d-a4f0-16ef3e495996
+-- title:
+--   Oriented Branch: carrier erase parent
+-- statement:
+--   The Oriented Branch construction uses the carrier erase parent property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/jfairfaxball-348/TreeStack-Structural-Certificates-for-Stacking-on-Trees/blob/457b88b785e50a749710108a935a661a9d992348/TreeStack/Boundary.lean#L405-L420
+-- source:
+--   https://github.com/jfairfaxball-348/TreeStack-Structural-Certificates-for-Stacking-on-Trees/blob/457b88b785e50a749710108a935a661a9d992348/TreeStack/Boundary.lean#L405-L420
+
+import Mathlib
+import Definitions.Def_TreeStack_PebblingMove
+import Definitions.Def_TreeStack_Message
+import Definitions.Def_TreeStack_Boundary
+set_option autoImplicit false
+open TreeStack
+open scoped BigOperators Classical
+open TreeStack.OrientedBranch
+variable {V : Type*} [Fintype V] {T : FiniteTree V}
+
+theorem TreeStack.OrientedBranch.carrier_erase_parent [DecidableEq V] (B : OrientedBranch T) :
+    B.carrier.erase B.parent = B.vertices := by sorry

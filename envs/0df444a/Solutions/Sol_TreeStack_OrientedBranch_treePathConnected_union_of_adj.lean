@@ -1,0 +1,139 @@
+-- Prove2me | solution 1 for TreeStack.OrientedBranch.treePathConnected_union_of_adj
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-26T23:31:22.364952+00:00
+-- url     : https://prove2.me/submissions/728ff174-dda0-45a5-bf9f-e260b750e5f0
+
+import Mathlib
+import Definitions.Def_TreeStack_HeightSource
+import Definitions.Def_TreeStack_Consolidation
+import Theorems.Thm_TreeStack_OrientedBranch_mem_auxSourceFiber
+import Theorems.Thm_TreeStack_F_three
+import Theorems.Thm_TreeStack_F_two
+import Theorems.Thm_TreeStack_MoveSignature_extend_count_same
+import Theorems.Thm_TreeStack_MoveSignature_incoming_zero
+import Theorems.Thm_TreeStack_MoveSignature_outgoing_zero
+import Theorems.Thm_TreeStack_MoveSignature_zero_count
+import Theorems.Thm_TreeStack_OrientedBranch_OccupiedChild_child_vertex
+import Theorems.Thm_TreeStack_OrientedBranch_auxEdgeContribution_reverse
+import Theorems.Thm_TreeStack_OrientedBranch_boundaryParityWeight_parent
+import Theorems.Thm_TreeStack_OrientedBranch_carrier_erase_parent
+import Theorems.Thm_TreeStack_OrientedBranch_childBranch_parent
+import Theorems.Thm_TreeStack_OrientedBranch_childBranch_root
+import Theorems.Thm_TreeStack_OrientedBranch_defectiveSupportEdge_reverse_iff
+import Theorems.Thm_TreeStack_OrientedBranch_mem_occupiedChildTasks
+import Theorems.Thm_TreeStack_OrientedBranch_messageContribution_empty
+import Theorems.Thm_TreeStack_OrientedBranch_messageContribution_some
+import Theorems.Thm_TreeStack_OrientedBranch_parent_mem_carrier
+import Theorems.Thm_TreeStack_OrientedBranch_root_mem_carrier
+import Theorems.Thm_TreeStack_OrientedBranch_root_mem_vertices
+import Theorems.Thm_TreeStack_OrientedBranch_root_ne_parent
+import Theorems.Thm_TreeStack_OrientedBranch_supportEdge_reverse_iff
+import Theorems.Thm_TreeStack_OrientedBranch_withBoundary_of_mem_vertices
+import Theorems.Thm_TreeStack_OrientedBranch_withBoundary_parent
+import Theorems.Thm_TreeStack_OrientedBranch_withBoundary_self
+import Theorems.Thm_TreeStack_RootTask_branch_parent
+import Theorems.Thm_TreeStack_RootTask_branch_root
+import Theorems.Thm_TreeStack_empty_ne_integer_zero
+import Theorems.Thm_TreeStack_incidentBranch_parent
+import Theorems.Thm_TreeStack_incidentBranch_root
+import Theorems.Thm_TreeStack_mass_oneOn
+import Theorems.Thm_TreeStack_mem_rootTasks
+import Theorems.Thm_TreeStack_mem_support_iff
+import Theorems.Thm_TreeStack_oneOn_apply
+import Theorems.Thm_TreeStack_scoreDefect_nonneg_iff
+attribute [local simp] TreeStack.F_three
+attribute [local simp] TreeStack.F_two
+attribute [local simp] TreeStack.MoveSignature.extend_count_same
+attribute [local simp] TreeStack.MoveSignature.incoming_zero
+attribute [local simp] TreeStack.MoveSignature.outgoing_zero
+attribute [local simp] TreeStack.MoveSignature.zero_count
+attribute [local simp] TreeStack.OrientedBranch.OccupiedChild.child_vertex
+attribute [local simp] TreeStack.OrientedBranch.auxEdgeContribution_reverse
+attribute [local simp] TreeStack.OrientedBranch.boundaryParityWeight_parent
+attribute [local simp] TreeStack.OrientedBranch.carrier_erase_parent
+attribute [local simp] TreeStack.OrientedBranch.childBranch_parent
+attribute [local simp] TreeStack.OrientedBranch.childBranch_root
+attribute [local simp] TreeStack.OrientedBranch.defectiveSupportEdge_reverse_iff
+attribute [local simp] TreeStack.OrientedBranch.mem_occupiedChildTasks
+attribute [local simp] TreeStack.OrientedBranch.messageContribution_empty
+attribute [local simp] TreeStack.OrientedBranch.messageContribution_some
+attribute [local simp] TreeStack.OrientedBranch.parent_mem_carrier
+attribute [local simp] TreeStack.OrientedBranch.root_mem_carrier
+attribute [local simp] TreeStack.OrientedBranch.root_mem_vertices
+attribute [local simp] TreeStack.OrientedBranch.root_ne_parent
+attribute [local simp] TreeStack.OrientedBranch.supportEdge_reverse_iff
+attribute [local simp] TreeStack.OrientedBranch.withBoundary_of_mem_vertices
+attribute [local simp] TreeStack.OrientedBranch.withBoundary_parent
+attribute [local simp] TreeStack.OrientedBranch.withBoundary_self
+attribute [local simp] TreeStack.RootTask.branch_parent
+attribute [local simp] TreeStack.RootTask.branch_root
+attribute [local simp] TreeStack.empty_ne_integer_zero
+attribute [local simp] TreeStack.incidentBranch_parent
+attribute [local simp] TreeStack.incidentBranch_root
+attribute [local simp] TreeStack.mass_oneOn
+attribute [local simp] TreeStack.mem_rootTasks
+attribute [local simp] TreeStack.mem_support_iff
+attribute [local simp] TreeStack.oneOn_apply
+attribute [local simp] TreeStack.scoreDefect_nonneg_iff
+
+
+attribute [local simp] TreeStack.OrientedBranch.mem_auxSourceFiber
+
+set_option autoImplicit false
+open TreeStack
+open scoped BigOperators Classical
+open TreeStack.OrientedBranch
+variable {V : Type*} [Fintype V] {T : FiniteTree V}
+namespace TreeStack.OrientedBranch
+theorem _root_.solution
+    {A B : Finset V}
+    (hA : TreePathConnected (T := T) A)
+    (hB : TreePathConnected (T := T) B)
+    {a b : V} (ha : a ∈ A) (hb : b ∈ B)
+    (hadj : T.graph.Adj a b) :
+    TreePathConnected (T := T) (A ∪ B) := by
+  intro x y hx hy
+  rw [Finset.mem_union] at hx hy
+  rcases hx with hxA | hxB
+  · rcases hy with hyA | hyB
+    · rcases hA hxA hyA with ⟨p, hpPath, hpSupp⟩
+      refine ⟨p, hpPath, ?_⟩
+      intro z hz
+      exact Finset.mem_union_left _ (hpSupp z hz)
+    · rcases hA hxA ha with ⟨p, hpPath, hpSupp⟩
+      rcases hB hb hyB with ⟨q, hqPath, hqSupp⟩
+      let w : T.graph.Walk x y := (p.concat hadj).append q
+      refine ⟨w.toPath, w.toPath.2, ?_⟩
+      intro z hz
+      have hzw : z ∈ w.support :=
+        w.support_toPath_subset_support hz
+      have hzCases :
+          (z ∈ p.support ∨ z = b) ∨ z ∈ q.support := by
+        simpa [w] using hzw
+      rcases hzCases with (hzp | hzb) | hzq
+      · exact Finset.mem_union_left _ (hpSupp z hzp)
+      · subst z
+        exact Finset.mem_union_right _ hb
+      · exact Finset.mem_union_right _ (hqSupp z hzq)
+  · rcases hy with hyA | hyB
+    · rcases hB hxB hb with ⟨p, hpPath, hpSupp⟩
+      rcases hA ha hyA with ⟨q, hqPath, hqSupp⟩
+      let w : T.graph.Walk x y := (p.concat hadj.symm).append q
+      refine ⟨w.toPath, w.toPath.2, ?_⟩
+      intro z hz
+      have hzw : z ∈ w.support :=
+        w.support_toPath_subset_support hz
+      have hzCases :
+          (z ∈ p.support ∨ z = a) ∨ z ∈ q.support := by
+        simpa [w] using hzw
+      rcases hzCases with (hzp | hza) | hzq
+      · exact Finset.mem_union_right _ (hpSupp z hzp)
+      · subst z
+        exact Finset.mem_union_left _ ha
+      · exact Finset.mem_union_left _ (hqSupp z hzq)
+    · rcases hB hxB hyB with ⟨p, hpPath, hpSupp⟩
+      refine ⟨p, hpPath, ?_⟩
+      intro z hz
+      exact Finset.mem_union_right _ (hpSupp z hz)
+end TreeStack.OrientedBranch

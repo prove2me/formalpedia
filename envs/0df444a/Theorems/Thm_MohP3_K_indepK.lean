@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_K_indepK
 -- name    : MohP3.K.indepK
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:02:44.174099+00:00
 -- url     : https://prove2.me/theorems/47e86128-83d0-50da-aace-129427479ad2

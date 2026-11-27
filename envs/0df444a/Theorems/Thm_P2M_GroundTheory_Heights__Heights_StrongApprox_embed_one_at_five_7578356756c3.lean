@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_embed_one_at_five_7578356756c3
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_embed_one_at_five_7578356756c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:39:04.220692+00:00
 -- url     : https://prove2.me/theorems/5f6d8aeb-689a-5326-b101-7b8c000fcc23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Wt_wOrd_sub_top_part
 -- name    : MohP3.Wt.wOrd_sub_top_part
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:00:33.255037+00:00
 -- url     : https://prove2.me/theorems/9f908914-6685-5729-92de-59808bb0eabe

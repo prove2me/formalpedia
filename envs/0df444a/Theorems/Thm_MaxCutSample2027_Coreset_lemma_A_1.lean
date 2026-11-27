@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxCutSample2027_Coreset_lemma_A_1
 -- name    : MaxCutSample2027.Coreset.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:51:14.477361+00:00
 -- url     : https://prove2.me/theorems/804dcb2f-79db-4ed2-97a4-8336010298b3

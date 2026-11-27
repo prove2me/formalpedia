@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearChoresCLS_encoded_basic_price_ratios
 -- name    : LinearChoresCLS.encoded_basic_price_ratios
--- status  : Open
+-- status  : Proved
 -- author  : @Weiqiang
 -- created : 2026-11-13T20:43:39.526961+00:00
 -- url     : https://prove2.me/theorems/9b4cad1f-c649-4e89-9781-62bf6300f70a

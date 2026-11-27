@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohP3_Wt_wt_add
 -- name    : MohP3.Wt.wt_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T21:50:22.603715+00:00
 -- url     : https://prove2.me/theorems/5ddbdb9e-f060-434b-88e8-824c30e28c55

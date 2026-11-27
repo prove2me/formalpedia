@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfAdaptingFNR_proposition_1
 -- name    : SelfAdaptingFNR.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:39:40.849755+00:00
 -- url     : https://prove2.me/theorems/cb21a12b-a187-4396-8ecd-7058b384948f

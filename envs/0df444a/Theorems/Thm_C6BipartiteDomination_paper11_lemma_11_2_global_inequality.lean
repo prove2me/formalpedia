@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_C6BipartiteDomination_paper11_lemma_11_2_global_inequality
 -- name    : C6BipartiteDomination.paper11_lemma_11_2_global_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-26T22:01:35.645067+00:00
 -- url     : https://prove2.me/theorems/aad1173c-dd97-57a9-a864-5d993da65202
